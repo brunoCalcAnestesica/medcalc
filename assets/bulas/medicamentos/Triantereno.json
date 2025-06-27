@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Triantereno",
+      "suspension": "Suspender 48 horas antes de procedimentos com risco de desidratação ou instabilidade eletrolítica",
+      "risk": "Risco de hipercalemia, acidose metabólica, arritmias, especialmente em uso combinado com IECA ou ARA-II",
+      "reintroduction": "Reintroduzir após avaliação da função renal e estabilidade hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Triantereno",
+      "nomeComercial": "Dyazide, Maxzide (com hidroclorotiazida)",
+      "mecanismoAcao": "Inibe canais de sódio nos túbulos coletores renais, poupando potássio e promovendo diurese leve",
+      "farmacocinetica": "Início de ação 2–4h; T1/2 ~1–2h; metabolização hepática; excreção renal",
+      "farmacodinamica": "Aumenta a excreção de sódio e água com mínima perda de potássio",
+      "indicacoes": "Hipertensão arterial, edema em ICC, hepatopatias ou síndromes nefróticas (geralmente em combinação)",
+      "reacoesAdversas": "Hipercalemia, náusea, cefaleia, câimbras, disfunção renal, rash cutâneo",
+      "riscoGravidez": "Categoria C – evitar, exceto se necessário",
+      "riscoLactacao": "Desconhecido; evitar ou monitorar",
+      "administracao": "Via oral, geralmente em dose única diária",
+      "doseMaxima": "300 mg/dia (isolado); 75 mg/dia (associado a tiazídico)",
+      "doseMinima": "50 mg/dia",
+      "classificacao": "Diurético poupador de potássio",
+      "apresentacao": "Cápsulas ou comprimidos de 50 mg; associações com tiazídicos",
+      "interacaoMedicamento": "Risco aumentado de hipercalemia com IECA, ARA-II, AINEs; pode aumentar toxicidade de lítio",
+      "posologia": "50–100 mg/dia, isolado ou combinado com tiazídico",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Anúria, insuficiência renal grave, hipercalemia, uso concomitante com outros poupadores de potássio",
+      "cuidadosMedicos": "Monitorar potássio, creatinina, pressão arterial",
+      "cuidadosFarmaceuticos": "Atenção à dose em idosos e ao risco de retenção de potássio",
+      "cuidadosEnfermagem": "Observar sinais de hipercalemia: fraqueza, parestesia, arritmias",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Lexicomp"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Triamterene",
+      "suspension": "Discontinue 48h before procedures with risk of fluid/electrolyte imbalance",
+      "risk": "Risk of hyperkalemia, metabolic acidosis, arrhythmias especially with ACEi or ARBs",
+      "reintroduction": "Restart after renal and hemodynamic stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Triamterene",
+      "nomeComercial": "Dyazide, Maxzide",
+      "mecanismoAcao": "Blocks epithelial sodium channels in renal distal tubules, sparing potassium",
+      "farmacocinetica": "Onset 2–4h; half-life ~1–2h; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Promotes natriuresis while reducing potassium loss",
+      "indicacoes": "Hypertension, edema in CHF, liver cirrhosis, nephrotic syndrome (often with thiazides)",
+      "reacoesAdversas": "Hyperkalemia, dizziness, nausea, rash, renal impairment",
+      "riscoGravidez": "Category C – avoid unless essential",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "Oral, usually once daily",
+      "doseMaxima": "300 mg/day (solo); 75 mg/day in combo",
+      "doseMinima": "50 mg/day",
+      "classificacao": "Potassium-sparing diuretic",
+      "apresentacao": "Capsules or tablets 50 mg; combo with HCTZ",
+      "interacaoMedicamento": "Risk of hyperkalemia with ACEi, ARBs, NSAIDs; lithium toxicity may increase",
+      "posologia": "50–100 mg/day alone or in fixed combination",
+      "armazenamento": "Store at room temperature, dry place",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Anuria, severe renal failure, hyperkalemia, use with other K-sparing agents",
+      "cuidadosMedicos": "Monitor serum K+, creatinine, BP",
+      "cuidadosFarmaceuticos": "Dose adjust in elderly; warn about K+ retention",
+      "cuidadosEnfermagem": "Watch for hyperkalemia signs: muscle weakness, arrhythmias",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Triamtereno",
+      "suspension": "Suspender 48h antes de procedimientos con riesgo hidroelectrolítico",
+      "risk": "Hipercalemia, acidosis, arritmias; mayor riesgo con IECA/ARA-II",
+      "reintroduction": "Reiniciar tras control hemodinámico y renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Triamtereno",
+      "nomeComercial": "Dyazide, Maxzide",
+      "mecanismoAcao": "Bloquea canales epiteliales de sodio en túbulos distales, evitando pérdida de potasio",
+      "farmacocinetica": "Inicio 2–4h; T1/2 ~1–2h; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Incrementa natriuresis sin perder potasio",
+      "indicacoes": "HTA, edemas por ICC, cirrosis, síndrome nefrótico (combinado con tiazidas)",
+      "reacoesAdversas": "Hipercalemia, mareo, náusea, erupción, daño renal",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Precaución",
+      "administracao": "Oral, 1 vez/día",
+      "doseMaxima": "300 mg/día solo; 75 mg/día combinado",
+      "doseMinima": "50 mg/día",
+      "classificacao": "Diurético ahorrador de potasio",
+      "apresentacao": "Tabletas 50 mg; combinaciones",
+      "interacaoMedicamento": "Riesgo de hipercalemia con IECA, AINEs; aumenta toxicidad del litio",
+      "posologia": "50–100 mg/día",
+      "armazenamento": "Lugar seco a temperatura ambiente",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Anuria, IRC grave, hipercalemia, uso de otros ahorradores de K",
+      "cuidadosMedicos": "Control de potasio, función renal, PA",
+      "cuidadosFarmaceuticos": "Advertir sobre riesgo hipercalémico",
+      "cuidadosEnfermagem": "Observar debilidad muscular, ECG, signos de hipercalemia",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "三氨蝶啶",
+      "suspension": "术前48小时停用（有水电解质紊乱风险）",
+      "risk": "高钾血症、代谢性酸中毒、心律不齐；与ACEI/ARB联用风险更高",
+      "reintroduction": "术后肾功能及血流稳定后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "三氨蝶啶",
+      "nomeComercial": "Dyazide, Maxzide",
+      "mecanismoAcao": "抑制远曲小管钠通道，减少钾丢失",
+      "farmacocinetica": "起效2–4小时；半衰期1–2小时；肝代谢；肾排泄",
+      "farmacodinamica": "促进排钠利尿，保钾作用",
+      "indicacoes": "高血压、水肿（心衰、肝硬化、肾病综合征）",
+      "reacoesAdversas": "高钾、恶心、头晕、皮疹、肾功能损伤",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "口服，每日一次",
+      "doseMaxima": "单用每日不超300 mg，联合用药≤75 mg",
+      "doseMinima": "50 mg/天",
+      "classificacao": "保钾利尿药",
+      "apresentacao": "片剂50 mg，常与噻嗪类联用",
+      "interacaoMedicamento": "与ACEI、ARB、NSAIDs合用加重高钾风险；增加锂毒性",
+      "posologia": "每日50–100 mg",
+      "armazenamento": "常温干燥保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "无尿、重度肾衰、高钾血症、合用其他保钾药",
+      "cuidadosMedicos": "监测血钾、肌酐、血压",
+      "cuidadosFarmaceuticos": "警惕老年人用药剂量与钾潴留",
+      "cuidadosEnfermagem": "观察肌无力、心电异常",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

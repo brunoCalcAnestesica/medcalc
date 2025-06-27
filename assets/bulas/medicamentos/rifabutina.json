@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Rifabutina",
+      "suspension": "Suspender 5 dias antes de cirurgia eletiva com risco hepático ou imunossupressivo",
+      "risk": "Risco de hepatotoxicidade, leucopenia, uveíte e interação com anestésicos metabolizados por CYP3A",
+      "reintroduction": "Reintroduzir com monitoramento hepático e hematológico após cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rifabutina",
+      "nomeComercial": "Mycobutin",
+      "mecanismoAcao": "Inibe a RNA-polimerase DNA-dependente nas micobactérias, bloqueando a transcrição",
+      "farmacocinetica": "Biodisponibilidade oral 20%; meia-vida ~45h; metabolização hepática (CYP3A)",
+      "farmacodinamica": "Bactericida contra Mycobacterium avium complex (MAC) e M. tuberculosis",
+      "indicacoes": "Tratamento e profilaxia de infecção por MAC em pacientes com HIV; tuberculose resistente (em combinação)",
+      "reacoesAdversas": "Febre, leucopenia, trombocitopenia, uveíte, mialgia, elevação de transaminases",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Evitar",
+      "administracao": "Via oral",
+      "doseMaxima": "600mg/dia",
+      "doseMinima": "150mg/dia",
+      "classificacao": "Antimicobacteriano rifamicina",
+      "apresentacao": "Cápsulas 150mg",
+      "interacaoMedicamento": "Indutor enzimático leve; interage com PI, NNRTIs, claritromicina, ciclosporina, varfarina",
+      "posologia": "300mg/dia VO para profilaxia; 300–600mg/dia VO em combinação",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Uso direto por via oral",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade às rifamicinas, hepatopatia ativa",
+      "cuidadosMedicos": "Monitorar TGO/TGP, hemograma, interações com antirretrovirais",
+      "cuidadosFarmaceuticos": "Orientar uso regular e evitar interrupções abruptas",
+      "cuidadosEnfermagem": "Observar sinais de uveíte, febre, sintomas hepáticos",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Rifabutin",
+      "suspension": "Discontinue 5 days prior to hepatic-risk or immunosuppressive surgery",
+      "risk": "Hepatotoxicity, leukopenia, uveitis, CYP3A interactions with anesthesia",
+      "reintroduction": "Restart after liver and hematologic recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rifabutin",
+      "nomeComercial": "Mycobutin",
+      "mecanismoAcao": "Inhibits bacterial DNA-dependent RNA polymerase, suppressing transcription",
+      "farmacocinetica": "Oral bioavailability ~20%; t½ ~45h; hepatic metabolism (CYP3A)",
+      "farmacodinamica": "Active against MAC and tuberculosis",
+      "indicacoes": "MAC prophylaxis and treatment in HIV; MDR-TB (combo)",
+      "reacoesAdversas": "Fever, neutropenia, thrombocytopenia, uveitis, transaminase elevation",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Avoid",
+      "administracao": "Oral",
+      "doseMaxima": "600mg/day",
+      "doseMinima": "150mg/day",
+      "classificacao": "Rifamycin antimycobacterial",
+      "apresentacao": "Capsules 150mg",
+      "interacaoMedicamento": "Induces CYP3A; interacts with PIs, NNRTIs, macrolides, cyclosporine, warfarin",
+      "posologia": "300mg/day for MAC prophylaxis; 300–600mg/day for TB",
+      "armazenamento": "Room temp (15–30°C)",
+      "preparo": "Oral administration",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Rifamycin allergy, active liver disease",
+      "cuidadosMedicos": "Monitor LFTs, CBC, ARV interactions",
+      "cuidadosFarmaceuticos": "Do not abruptly discontinue; check adherence",
+      "cuidadosEnfermagem": "Observe for eye pain, fever, GI or liver symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Rifabutina",
+      "suspension": "Suspender 5 días antes de cirugía con riesgo hepático/inmunológico",
+      "risk": "Hepatotoxicidad, uveítis, leucopenia, interacción anestésica (CYP3A)",
+      "reintroduction": "Reiniciar tras recuperación hepática y hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rifabutina",
+      "nomeComercial": "Mycobutin",
+      "mecanismoAcao": "Inhibe la ARN polimerasa bacteriana dependiente de ADN",
+      "farmacocinetica": "VO ~20%; vida media ~45h; metabolismo hepático",
+      "farmacodinamica": "Activo frente a MAC y M. tuberculosis",
+      "indicacoes": "Prevención/tratamiento MAC en VIH; TB resistente",
+      "reacoesAdversas": "Fiebre, leucopenia, uveítis, alteración hepática",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral",
+      "doseMaxima": "600mg/día",
+      "doseMinima": "150mg/día",
+      "classificacao": "Rifamicina antimicobacteriana",
+      "apresentacao": "Cápsulas 150mg",
+      "interacaoMedicamento": "Inductor CYP3A; interacciones con IP, NNRTI, macrólidos, warfarina",
+      "posologia": "300mg/día para MAC; 300–600mg/día en TB",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Administración oral directa",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad a rifamicinas, hepatopatía activa",
+      "cuidadosMedicos": "Control hepático y hemograma",
+      "cuidadosFarmaceuticos": "Evitar interrupciones bruscas",
+      "cuidadosEnfermagem": "Observar síntomas oculares, fiebre, rash",
+      "fontesBibliograficas": "Micromedex, OMS, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利福布丁",
+      "suspension": "术前5天停药，尤其肝病或免疫抑制相关手术",
+      "risk": "肝毒性、白细胞减少、葡萄膜炎、CYP3A代谢相关相互作用",
+      "reintroduction": "术后肝功能与血象恢复后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "利福布丁",
+      "nomeComercial": "Mycobutin",
+      "mecanismoAcao": "抑制细菌DNA依赖性RNA聚合酶，阻断转录",
+      "farmacocinetica": "口服吸收率约20%；半衰期约45小时；肝代谢",
+      "farmacodinamica": "活性针对MAC、M. tuberculosis",
+      "indicacoes": "HIV患者MAC感染预防/治疗；耐药结核联合用药",
+      "reacoesAdversas": "发热、白细胞减少、葡萄膜炎、肝酶升高、肌痛",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "不推荐",
+      "administracao": "口服",
+      "doseMaxima": "每日600毫克",
+      "doseMinima": "每日150毫克",
+      "classificacao": "利福霉素类抗分枝杆菌药",
+      "apresentacao": "150mg胶囊",
+      "interacaoMedicamento": "诱导CYP3A，与ARV、红霉素、环孢素等药物有相互作用",
+      "posologia": "MAC：300mg/d；结核：300–600mg/d",
+      "armazenamento": "15–30°C保存",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肝病、对利福霉素类过敏",
+      "cuidadosMedicos": "监测肝功能、血象，评估与ARV相互作用",
+      "cuidadosFarmaceuticos": "不宜突然停药，注意联合用药相容性",
+      "cuidadosEnfermagem": "关注眼部不适、皮疹、发热、白细胞异常",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

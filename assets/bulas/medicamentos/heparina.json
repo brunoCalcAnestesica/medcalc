@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Heparina",
+      "suspension": "Suspender 4–6 horas antes da cirurgia (EV); 12 horas (SC profilática); 24 horas (SC terapêutica)",
+      "risk": "Risco alto de sangramento perioperatório; potencial para trombocitopenia induzida por heparina (HIT)",
+      "reintroduction": "Reintroduzir 12–24h após cirurgia, conforme controle de hemostasia e sangramento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Heparina sódica",
+      "nomeComercial": "Liquemine, Hepamax-S, Heparina Blausiegel",
+      "mecanismoAcao": "Potencializa a ação da antitrombina III, inibindo trombina (fator IIa) e fator Xa",
+      "farmacocinetica": "Administração EV ou SC; meia-vida de 1–2 horas; metabolismo hepático e excreção renal",
+      "farmacodinamica": "Anticoagulante de ação rápida com efeito imediato na via intrínseca da coagulação",
+      "indicacoes": "Profilaxia e tratamento de trombose venosa profunda, embolia pulmonar, trombose arterial, uso em cirurgias cardíacas",
+      "reacoesAdversas": "Sangramento, trombocitopenia, aumento de transaminases, osteoporose com uso prolongado",
+      "riscoGravidez": "Categoria C (uso permitido se necessário, não atravessa placenta)",
+      "riscoLactacao": "Segura durante a amamentação",
+      "administracao": "Via intravenosa (EV) ou subcutânea (SC)",
+      "doseMaxima": "35.000 UI/dia",
+      "doseMinima": "5.000 UI SC 12/12h (profilaxia)",
+      "classificacao": "Anticoagulante inibidor da trombina e fator Xa",
+      "apresentacao": "Ampolas e frascos de 5.000 UI/mL a 25.000 UI/mL",
+      "interacaoMedicamento": "Potencializa ação de anticoagulantes orais, AINEs, antiagregantes plaquetários",
+      "posologia": "EV: bolo seguido de infusão contínua ou SC 2–3 vezes ao dia; ajustar conforme TTPa",
+      "armazenamento": "Refrigerar entre 2–8°C ou conforme fabricante",
+      "preparo": "Diluir em SF 0,9% para infusão EV contínua",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Sangramento ativo, história de HIT, hemofilia, trauma recente de SNC",
+      "cuidadosMedicos": "Monitorar TTPa, plaquetas e sinais de sangramento",
+      "cuidadosFarmaceuticos": "Verificar validade, interações medicamentosas e compatibilidade",
+      "cuidadosEnfermagem": "Observar sangramentos, hematomas e sinais de HIT",
+      "fontesBibliograficas": "ANVISA, FDA, SBH, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Heparin",
+      "suspension": "Discontinue 4–6h pre-op (IV); 12h (SC prophylactic); 24h (SC therapeutic)",
+      "risk": "High perioperative bleeding risk; potential for heparin-induced thrombocytopenia (HIT)",
+      "reintroduction": "Restart 12–24h post-op depending on hemostasis control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Heparin sodium",
+      "nomeComercial": "Heparin Lock Flush, Hep-Lock",
+      "mecanismoAcao": "Enhances antithrombin III activity, inhibiting thrombin and factor Xa",
+      "farmacocinetica": "IV or SC administration; half-life 1–2h; hepatic metabolism, renal excretion",
+      "farmacodinamica": "Rapid-acting anticoagulant with immediate effect via intrinsic pathway",
+      "indicacoes": "Prophylaxis and treatment of DVT, PE, arterial thrombosis, during cardiac surgery",
+      "reacoesAdversas": "Bleeding, thrombocytopenia, elevated liver enzymes, osteoporosis (long-term)",
+      "riscoGravidez": "Category C (does not cross placenta; safe if indicated)",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "IV or SC",
+      "doseMaxima": "35,000 IU/day",
+      "doseMinima": "5,000 IU SC q12h (prophylaxis)",
+      "classificacao": "Anticoagulant (thrombin and Xa inhibitor)",
+      "apresentacao": "Vials from 5,000 IU/mL to 25,000 IU/mL",
+      "interacaoMedicamento": "Potentiated by oral anticoagulants, NSAIDs, antiplatelets",
+      "posologia": "IV bolus then continuous infusion or SC 2–3 times daily; adjust by aPTT",
+      "armazenamento": "Store at 2–8°C or per manufacturer instructions",
+      "preparo": "Dilute in NS for continuous IV infusion",
+      "solucoesCompatíveis": "Normal saline (0.9%)",
+      "contraindicacoes": "Active bleeding, HIT history, hemophilia, recent CNS trauma",
+      "cuidadosMedicos": "Monitor aPTT, platelets, signs of bleeding",
+      "cuidadosFarmaceuticos": "Verify expiration, interactions, compatibility",
+      "cuidadosEnfermagem": "Observe for bleeding, bruising, signs of HIT",
+      "fontesBibliograficas": "FDA, Micromedex, ACCP, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Heparina",
+      "suspension": "Suspender 4–6h antes (EV); 12h (SC profiláctica); 24h (SC terapéutica)",
+      "risk": "Alto riesgo de sangrado perioperatorio; posible trombocitopenia inducida por heparina (HIT)",
+      "reintroduction": "Reintroducir 12–24h después según control hemostático"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Heparina sódica",
+      "nomeComercial": "Liquemine, Hepamax, Heparina Normon",
+      "mecanismoAcao": "Potencia la antitrombina III, inhibiendo trombina y factor Xa",
+      "farmacocinetica": "Vía IV o SC; vida media 1–2h; metabolismo hepático, excreción renal",
+      "farmacodinamica": "Anticoagulante de acción rápida, efecto inmediato en vía intrínseca",
+      "indicacoes": "Profilaxis y tratamiento de TVP, TEP, trombosis arterial, cirugía cardíaca",
+      "reacoesAdversas": "Sangrado, trombocitopenia, aumento de transaminasas, osteoporosis prolongada",
+      "riscoGravidez": "Categoría C (no cruza placenta)",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "Vía IV o SC",
+      "doseMaxima": "35.000 UI/día",
+      "doseMinima": "5.000 UI SC cada 12h (profilaxis)",
+      "classificacao": "Anticoagulante (inhibidor de trombina y Xa)",
+      "apresentacao": "Ampollas de 5.000 a 25.000 UI/mL",
+      "interacaoMedicamento": "Aumenta efecto con anticoagulantes, AINEs, antiagregantes",
+      "posologia": "IV bolo + infusión o SC 2–3 veces al día; ajustar según TTPa",
+      "armazenamento": "Refrigerar 2–8°C o según fabricante",
+      "preparo": "Diluir en SSF para infusión IV",
+      "solucoesCompatíveis": "SSF 0,9%",
+      "contraindicacoes": "Sangrado activo, HIT previa, hemofilia, trauma reciente SNC",
+      "cuidadosMedicos": "Monitorear TTPa, plaquetas, sangrados",
+      "cuidadosFarmaceuticos": "Verificar interacciones y vencimiento",
+      "cuidadosEnfermagem": "Observar hematomas, sangrados, signos de HIT",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "肝素",
+      "suspension": "术前停止：静脉用药前4–6小时，皮下注射预防性12小时，治疗性24小时",
+      "risk": "高出血风险；可引发肝素诱导的血小板减少症（HIT）",
+      "reintroduction": "术后12–24小时内，根据止血情况重新启动"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "肝素钠",
+      "nomeComercial": "Liquemine, Hepalean",
+      "mecanismoAcao": "增强抗凝血酶III活性，抑制凝血酶和Xa因子",
+      "farmacocinetica": "静脉或皮下注射；半衰期1–2小时；肝代谢，肾排泄",
+      "farmacodinamica": "快速抗凝，通过内源性凝血途径发挥即时作用",
+      "indicacoes": "静脉血栓、肺栓塞、动脉血栓、心外科手术中抗凝",
+      "reacoesAdversas": "出血、血小板减少、肝酶升高、长期使用引起骨质疏松",
+      "riscoGravidez": "C类（不通过胎盘，必要时可用）",
+      "riscoLactacao": "哺乳期可用",
+      "administracao": "静脉或皮下注射",
+      "doseMaxima": "每日35,000单位",
+      "doseMinima": "每日皮下注射5,000单位（预防）",
+      "classificacao": "抗凝血药（凝血酶与Xa因子抑制剂）",
+      "apresentacao": "注射液：5,000–25,000单位/毫升",
+      "interacaoMedicamento": "与口服抗凝药、NSAIDs、抗血小板药联用增强作用",
+      "posologia": "静脉注射推注后持续输注，或皮下注射每日2–3次；按aPTT调整剂量",
+      "armazenamento": "2–8°C冷藏保存",
+      "preparo": "稀释于生理盐水进行静滴",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "活动性出血、HIT病史、血友病、近期中枢神经系统外伤",
+      "cuidadosMedicos": "监测aPTT、血小板计数和出血征象",
+      "cuidadosFarmaceuticos": "检查有效期、配伍与药物相互作用",
+      "cuidadosEnfermagem": "观察出血、皮下出血和HIT症状",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

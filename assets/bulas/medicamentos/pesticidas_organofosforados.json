@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pesticidas organofosforados",
+      "suspension": "Evitar exposição ou manuseio em ambiente hospitalar perioperatório",
+      "risk": "Inibem irreversivelmente a acetilcolinesterase, levando à síndrome colinérgica; risco elevado de bradicardia, broncorreia, hipotensão, paralisia e parada respiratória",
+      "reintroduction": "Não aplicável; exposição acidental ou ocupacional deve ser tratada como emergência tóxica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diversos compostos organofosforados (ex: parationa, malationa, clorpirifós)",
+      "nomeComercial": "Diversos: Folidol, Malatol, Lorsban, entre outros",
+      "mecanismoAcao": "Inibição irreversível da acetilcolinesterase, resultando em acúmulo de acetilcolina nas sinapses",
+      "farmacocinetica": "Absorção dérmica, respiratória e digestiva; metabolização hepática; excreção renal",
+      "farmacodinamica": "Estimulação excessiva dos receptores muscarínicos e nicotínicos, causando hiperatividade parassimpática",
+      "indicacoes": "Uso agrícola como inseticida (NÃO USO MÉDICO)",
+      "reacoesAdversas": "Sialorreia, miose, diarreia, bradicardia, fasciculações, convulsões, coma, parada respiratória",
+      "riscoGravidez": "Categoria X (tóxico, evitar exposição)",
+      "riscoLactacao": "Contraindicado; risco de contaminação secundária",
+      "administracao": "Exposição ambiental (inalação, pele, ingestão)",
+      "doseMaxima": "Extremamente tóxicos em pequenas doses",
+      "doseMinima": "Não se aplica",
+      "classificacao": "Agente tóxico organofosforado (inseticida)",
+      "apresentacao": "Líquidos, pós ou aerossóis",
+      "interacaoMedicamento": "Potencializa ação de bloqueadores neuromusculares e depressores do SNC",
+      "posologia": "Não aplicável; intoxicação exige atropina e reativadores de colinesterase (pralidoxima)",
+      "armazenamento": "Seguir normas ambientais específicas; uso proibido em ambientes clínicos",
+      "preparo": "Uso industrial ou agrícola; não medicinal",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Contato com humanos sem EPI; uso em ambiente hospitalar",
+      "cuidadosMedicos": "Avaliar sinais de intoxicação aguda; iniciar atropina e pralidoxima imediatamente",
+      "cuidadosFarmaceuticos": "Evitar contato cruzado; segurança no descarte",
+      "cuidadosEnfermagem": "Isolamento da vítima, monitorização intensiva, suporte respiratório",
+      "fontesBibliograficas": "Micromedex, UpToDate, WHO, Ministério da Saúde - Manual de Toxicologia"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Organophosphate pesticides",
+      "suspension": "Avoid handling or exposure in perioperative hospital settings",
+      "risk": "Irreversibly inhibit acetylcholinesterase, causing cholinergic syndrome; high risk of bradycardia, bronchorrhea, hypotension, paralysis, respiratory arrest",
+      "reintroduction": "Not applicable; accidental or occupational exposure is a medical emergency"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Organophosphates (e.g., parathion, malathion, chlorpyrifos)",
+      "nomeComercial": "Various: Folidol, Malatol, Lorsban, etc.",
+      "mecanismoAcao": "Irreversible inhibition of acetylcholinesterase, leading to acetylcholine buildup",
+      "farmacocinetica": "Absorbed via skin, lungs, GI tract; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Overstimulates muscarinic and nicotinic receptors, leading to parasympathetic excess",
+      "indicacoes": "Agricultural insecticides (NOT FOR MEDICAL USE)",
+      "reacoesAdversas": "Salivation, miosis, diarrhea, bradycardia, fasciculations, seizures, coma, respiratory arrest",
+      "riscoGravidez": "Category X (teratogenic/toxic)",
+      "riscoLactacao": "Contraindicated; high contamination risk",
+      "administracao": "Environmental exposure (inhalation, dermal, ingestion)",
+      "doseMaxima": "Highly toxic at very low doses",
+      "doseMinima": "Not applicable",
+      "classificacao": "Toxic organophosphate agent (pesticide)",
+      "apresentacao": "Liquids, powders, aerosols",
+      "interacaoMedicamento": "Potentiates neuromuscular blockers, CNS depressants",
+      "posologia": "Not applicable; atropine and pralidoxime required in poisoning",
+      "armazenamento": "Follow environmental safety protocols; banned in hospitals",
+      "preparo": "Industrial/agricultural only; not for clinical use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Human exposure without PPE; any clinical use",
+      "cuidadosMedicos": "Recognize poisoning signs; administer atropine + pralidoxime urgently",
+      "cuidadosFarmaceuticos": "Avoid cross-contamination; secure disposal",
+      "cuidadosEnfermagem": "Isolate patient, intensive monitoring, respiratory support",
+      "fontesBibliograficas": "Micromedex, UpToDate, WHO, CDC ToxGuide"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Plaguicidas organofosforados",
+      "suspension": "Evitar manipulación o exposición en entorno quirúrgico hospitalario",
+      "risk": "Inhiben irreversiblemente la acetilcolinesterasa, provocando síndrome colinérgico; alto riesgo de bradicardia, broncorrea, hipotensión, parálisis, paro respiratorio",
+      "reintroduction": "No aplicable; la exposición requiere atención médica urgente"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Compuestos organofosforados (ej. paratión, malatión, clorpirifós)",
+      "nomeComercial": "Folidol, Malatol, Lorsban, entre otros",
+      "mecanismoAcao": "Inhibición irreversible de la acetilcolinesterasa, con acumulación de acetilcolina",
+      "farmacocinetica": "Absorción dérmica, pulmonar y digestiva; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Estimulación excesiva de receptores muscarínicos y nicotínicos",
+      "indicacoes": "Insecticidas agrícolas (NO USO MÉDICO)",
+      "reacoesAdversas": "Salivación, miosis, diarrea, bradicardia, fasciculaciones, convulsiones, coma, paro respiratorio",
+      "riscoGravidez": "Categoría X (tóxico)",
+      "riscoLactacao": "Contraindicado; riesgo de contaminación secundaria",
+      "administracao": "Exposición ambiental (inhalación, piel, ingestión)",
+      "doseMaxima": "Altamente tóxicos en pequeñas dosis",
+      "doseMinima": "No aplica",
+      "classificacao": "Agente tóxico organofosforado (plaguicida)",
+      "apresentacao": "Líquidos, polvos, aerosoles",
+      "interacaoMedicamento": "Potencia bloqueadores neuromusculares y depresores del SNC",
+      "posologia": "No aplicable; atropina y pralidoxima son el tratamiento",
+      "armazenamento": "Según normas ambientales; prohibido en hospitales",
+      "preparo": "Uso industrial/agropecuario; no clínico",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Contacto sin EPP; uso hospitalario",
+      "cuidadosMedicos": "Evaluar signos de intoxicación; iniciar atropina y pralidoxima de inmediato",
+      "cuidadosFarmaceuticos": "Evitar contaminación; desechar de forma segura",
+      "cuidadosEnfermagem": "Aislar paciente, soporte intensivo, monitoreo respiratorio",
+      "fontesBibliograficas": "Micromedex, UpToDate, OMS, Manual de Toxicología Clínica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "有机磷农药",
+      "suspension": "术前避免接触或医院环境暴露",
+      "risk": "不可逆抑制胆碱酯酶，导致胆碱能危象；高度风险包括心动过缓、支气管分泌增加、低血压、瘫痪、呼吸衰竭",
+      "reintroduction": "不适用，任何接触均视为急性中毒"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多种有机磷化合物（如对硫磷、马拉硫磷、毒死蜱）",
+      "nomeComercial": "Folidol、Malatol、Lorsban 等",
+      "mecanismoAcao": "不可逆抑制乙酰胆碱酯酶，导致乙酰胆碱堆积，刺激M/N胆碱能受体",
+      "farmacocinetica": "皮肤、呼吸道、消化道吸收；肝代谢；肾排泄",
+      "farmacodinamica": "激活副交感神经系统，引发急性胆碱中毒",
+      "indicacoes": "农业用杀虫剂（禁止医疗用途）",
+      "reacoesAdversas": "流涎、缩瞳、腹泻、缓脉、肌肉抽搐、癫痫、昏迷、呼吸衰竭",
+      "riscoGravidez": "X类（强致畸毒性）",
+      "riscoLactacao": "禁用，具高污染风险",
+      "administracao": "环境接触：吸入、皮肤、口服",
+      "doseMaxima": "微量即可致命",
+      "doseMinima": "不适用",
+      "classificacao": "毒性有机磷类（农药）",
+      "apresentacao": "液体、粉末、喷雾形式",
+      "interacaoMedicamento": "增强肌松药、中枢抑制剂毒性",
+      "posologia": "不适用；中毒时应立即给予阿托品+碘解磷定",
+      "armazenamento": "环境监管严格，医疗机构禁用",
+      "preparo": "仅用于农业，不适合医疗",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "无防护接触；临床使用禁忌",
+      "cuidadosMedicos": "识别中毒症状，立即使用阿托品和解毒剂",
+      "cuidadosFarmaceuticos": "防止交叉污染，规范销毁",
+      "cuidadosEnfermagem": "患者隔离，生命体征严密监测，机械通气支持",
+      "fontesBibliograficas": "中国毒理学会、Micromedex、UpToDate、WHO"
+    }
+  }
+}

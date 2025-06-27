@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tacrolimo",
+      "suspension": "Suspender 5 dias antes de procedimentos eletivos em pacientes com risco elevado de infecção ou instabilidade hemodinâmica.",
+      "risk": "Alto risco de infecções oportunistas, nefrotoxicidade, alterações glicêmicas e interações medicamentosas perioperatórias.",
+      "reintroduction": "Reintroduzir após controle de infecção, estabilização clínica e retomada de imunossupressão sob níveis terapêuticos monitorados."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tacrolimo",
+      "nomeComercial": "Prograf, Advagraf, Protopic (uso tópico)",
+      "mecanismoAcao": "Inibidor da calcineurina; bloqueia a transcrição de IL-2 e outras citocinas pró-inflamatórias, suprimindo a ativação de linfócitos T",
+      "farmacocinetica": "Biodisponibilidade oral 20–25%; metabolismo hepático via CYP3A4; excreção biliar; meia-vida 12–19 h",
+      "farmacodinamica": "Potente imunossupressor com ação seletiva em linfócitos T; reduz rejeição de transplantes e resposta inflamatória cutânea (tópico)",
+      "indicacoes": "Prevenção de rejeição em transplantes renais, hepáticos e cardíacos; dermatite atópica grave (uso tópico); síndrome nefrótica resistente",
+      "reacoesAdversas": "Nefrotoxicidade, tremores, hipertensão, hiperglicemia, infecções oportunistas, alopecia, prurido (uso tópico)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excreta-se no leite; evitar ou suspender amamentação",
+      "administracao": "Oral, intravenosa (uso hospitalar), tópica",
+      "doseMaxima": "0,2 mg/kg/dia (oral); 0,03 mg/kg/dia (IV); 0,1% BID (tópico)",
+      "doseMinima": "0,05 mg/kg/dia (oral)",
+      "classificacao": "Imunossupressor inibidor da calcineurina",
+      "apresentacao": "Cápsulas 0,5 mg, 1 mg, 5 mg; pomada 0,03% e 0,1%; ampola 5 mg/mL",
+      "interacaoMedicamento": "Substrato do CYP3A4 e P-gp; interação com cetoconazol, macrolídeos, anticonvulsivantes, suco de toranja",
+      "posologia": "0,1–0,2 mg/kg/dia VO em 2 doses; pomada 2x/dia até remissão",
+      "armazenamento": "Cápsulas e pomada em temperatura ambiente (15–30°C), proteger da umidade; solução EV refrigerada",
+      "preparo": "Solução IV diluir em SF 0,9% e SG 5%, usar filtro 0,22 µm",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade, infecção ativa grave não controlada",
+      "cuidadosMedicos": "Monitorar níveis plasmáticos (5–20 ng/mL), função renal, PA, glicemia",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão, evitar alimentos com toranja, risco de interação medicamentosa",
+      "cuidadosEnfermagem": "Avaliar sinais de toxicidade (tremores, PA, função renal), aplicar pomada com técnica asséptica",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Bula Prograf"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tacrolimus",
+      "suspension": "Suspend 5 days prior to elective procedures in patients at high risk of infection or with hemodynamic instability.",
+      "risk": "High risk of opportunistic infections, nephrotoxicity, glycemic alterations, and perioperative drug interactions.",
+      "reintroduction": "Reintroduce after infection control, clinical stabilization, and resumption of immunosuppression with monitored therapeutic levels."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tacrolimus",
+      "nomeComercial": "Prograf, Advagraf, Protopic (topical use)",
+      "mecanismoAcao": "Calcineurin inhibitor; blocks transcription of IL-2 and other pro-inflammatory cytokines, suppressing T-lymphocyte activation",
+      "farmacocinetica": "Oral bioavailability 20–25%; hepatic metabolism via CYP3A4; biliary excretion; half-life 12–19 h",
+      "farmacodinamica": "Potent immunosuppressant with selective action on T-lymphocytes; reduces transplant rejection and cutaneous inflammatory response (topical)",
+      "indicacoes": "Prevention of rejection in renal, hepatic, and cardiac transplantation; severe atopic dermatitis (topical use); resistant nephrotic syndrome",
+      "reacoesAdversas": "Nephrotoxicity, tremors, hypertension, hyperglycemia, opportunistic infections, alopecia, pruritus (topical use)",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; avoid or discontinue breastfeeding",
+      "administracao": "Oral, intravenous (hospital use), topical",
+      "doseMaxima": "0.2 mg/kg/day (oral); 0.03 mg/kg/day (IV); 0.1% BID (topical)",
+      "doseMinima": "0.05 mg/kg/day (oral)",
+      "classificacao": "Calcineurin inhibitor immunosuppressant",
+      "apresentacao": "Capsules 0.5 mg, 1 mg, 5 mg; ointment 0.03% and 0.1%; vial 5 mg/mL",
+      "interacaoMedicamento": "Substrate of CYP3A4 and P-gp; interaction with ketoconazole, macrolides, anticonvulsants, grapefruit juice",
+      "posologia": "0.1–0.2 mg/kg/day PO in 2 doses; ointment twice daily until remission",
+      "armazenamento": "Capsules and ointment at room temperature (15–30°C), protect from moisture; IV solution refrigerated",
+      "preparo": "IV solution dilute in 0.9% NaCl and 5% dextrose, use 0.22 µm filter",
+      "solucoesCompatíveis": "0.9% NaCl, 5% dextrose",
+      "contraindicacoes": "Hypersensitivity, uncontrolled severe active infection",
+      "cuidadosMedicos": "Monitor plasma levels (5–20 ng/mL), renal function, blood pressure, glycemia",
+      "cuidadosFarmaceuticos": "Advise on adherence, avoid grapefruit-containing foods, risk of drug interaction",
+      "cuidadosEnfermagem": "Assess for toxicity signs (tremors, BP, renal function), apply ointment using aseptic technique",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Prograf Package Insert"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tacrolimus",
+      "suspension": "Suspender 5 días antes de procedimientos electivos en pacientes con alto riesgo de infección o inestabilidad hemodinámica.",
+      "risk": "Alto riesgo de infecciones oportunistas, nefrotoxicidad, alteraciones glucémicas e interacciones medicamentosas perioperatorias.",
+      "reintroduction": "Reintroducir tras el control de la infección, estabilización clínica y reanudación de la inmunosupresión con niveles terapéuticos monitorizados."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tacrolimus",
+      "nomeComercial": "Prograf, Advagraf, Protopic (uso tópico)",
+      "mecanismoAcao": "Inhibidor de la calcineurina; bloquea la transcripción de IL-2 y otras citoquinas proinflamatorias, suprimiendo la activación de linfocitos T",
+      "farmacocinetica": "Biodisponibilidad oral 20–25%; metabolismo hepático vía CYP3A4; excreción biliar; vida media 12–19 h",
+      "farmacodinamica": "Potente inmunosupresor con acción selectiva sobre linfocitos T; reduce el rechazo de trasplantes y la respuesta inflamatoria cutánea (tópico)",
+      "indicacoes": "Prevención del rechazo en trasplantes renales, hepáticos y cardíacos; dermatitis atópica grave (uso tópico); síndrome nefrótico resistente",
+      "reacoesAdversas": "Nefrotoxicidad, temblores, hipertensión, hiperglucemia, infecciones oportunistas, alopecia, prurito (uso tópico)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en la leche; evitar o suspender la lactancia",
+      "administracao": "Oral, intravenosa (uso hospitalario), tópica",
+      "doseMaxima": "0,2 mg/kg/día (oral); 0,03 mg/kg/día (IV); 0,1% BID (tópico)",
+      "doseMinima": "0,05 mg/kg/día (oral)",
+      "classificacao": "Inmunosupresor inhibidor de la calcineurina",
+      "apresentacao": "Cápsulas 0,5 mg, 1 mg, 5 mg; pomada 0,03% y 0,1%; ampolla 5 mg/mL",
+      "interacaoMedicamento": "Sustrato de CYP3A4 y P-gp; interacción con ketoconazol, macrólidos, anticonvulsivantes, jugo de pomelo",
+      "posologia": "0,1–0,2 mg/kg/día VO en 2 dosis; pomada 2 veces/día hasta la remisión",
+      "armazenamento": "Cápsulas y pomada a temperatura ambiente (15–30°C), proteger de la humedad; solución IV refrigerada",
+      "preparo": "Solución IV diluir en SF 0,9% y SG 5%, usar filtro de 0,22 µm",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidad, infección activa grave no controlada",
+      "cuidadosMedicos": "Monitorizar niveles plasmáticos (5–20 ng/mL), función renal, presión arterial, glucemia",
+      "cuidadosFarmaceuticos": "Orientar sobre la adherencia, evitar alimentos con pomelo, riesgo de interacción medicamentosa",
+      "cuidadosEnfermagem": "Evaluar signos de toxicidad (temblores, PA, función renal), aplicar la pomada con técnica aséptica",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Ficha técnica de Prograf"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "他克莫司",
+      "suspension": "在高感染风险或血流动力学不稳定的患者中，择期手术前5天停用。",
+      "risk": "机会性感染、肾毒性、血糖异常及围手术期药物相互作用风险高。",
+      "reintroduction": "感染控制、临床稳定后，在监测治疗水平下恢复免疫抑制治疗。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "他克莫司",
+      "nomeComercial": "普乐可复（Prograf）、安达可（Advagraf）、普特彼（Protopic，外用）",
+      "mecanismoAcao": "钙调神经磷酸酶抑制剂；阻断IL-2及其他促炎细胞因子的转录，抑制T淋巴细胞激活",
+      "farmacocinetica": "口服生物利用度20–25%；经CYP3A4肝代谢；胆汁排泄；半衰期12–19小时",
+      "farmacodinamica": "强效免疫抑制剂，对T淋巴细胞有选择性作用；减少移植排斥反应及皮肤炎症反应（外用）",
+      "indicacoes": "预防肾、肝、心脏移植排斥反应；重度特应性皮炎（外用）；难治性肾病综合征",
+      "reacoesAdversas": "肾毒性、震颤、高血压、高血糖、机会性感染、脱发、瘙痒（外用）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可通过乳汁分泌；应避免或暂停哺乳",
+      "administracao": "口服、静脉（住院）、外用",
+      "doseMaxima": "0.2 mg/kg/天（口服）；0.03 mg/kg/天（IV）；0.1% 每日两次（外用）",
+      "doseMinima": "0.05 mg/kg/天（口服）",
+      "classificacao": "钙调神经磷酸酶抑制剂免疫抑制剂",
+      "apresentacao": "胶囊0.5mg、1mg、5mg；软膏0.03%、0.1%；安瓿5mg/mL",
+      "interacaoMedicamento": "CYP3A4及P-gp底物；与酮康唑、大环内酯类、抗癫痫药、西柚汁等相互作用",
+      "posologia": "口服0.1–0.2 mg/kg/天分2次服用；软膏每日2次至缓解",
+      "armazenamento": "胶囊和软膏室温（15–30°C）保存，防潮；静脉注射液冷藏",
+      "preparo": "静脉注射液用0.9%氯化钠或5%葡萄糖稀释，使用0.22微米过滤器",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对本品过敏，严重活动性感染未控制者禁用",
+      "cuidadosMedicos": "监测血药浓度（5–20 ng/mL）、肾功能、血压、血糖",
+      "cuidadosFarmaceuticos": "指导依从性，避免食用西柚，注意药物相互作用风险",
+      "cuidadosEnfermagem": "观察毒性反应（震颤、血压、肾功能），无菌操作外用软膏",
+      "fontesBibliograficas": "Micromedex、UpToDate、FDA、ANVISA、普乐可复说明书"
+    }
+  }
+}

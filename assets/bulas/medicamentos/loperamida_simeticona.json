@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Loperamida + Simeticona",
+      "suspension": "Suspender 24 horas antes de cirurgias gastrointestinais eletivas ou colonoscopia",
+      "risk": "Pode mascarar sinais de obstrução intestinal, íleo ou colite infecciosa grave. Evitar uso prolongado. Risco de constipação ou distensão excessiva.",
+      "reintroduction": "Reintroduzir apenas após retorno do trânsito intestinal e ausência de sinais infecciosos, especialmente em casos de diarreia funcional com flatulência."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Loperamida cloridrato + Simeticona",
+      "nomeComercial": "Imosec M®, Lopigrel®, Lopedium Plus®",
+      "mecanismoAcao": "Loperamida reduz a motilidade intestinal via receptores opioides periféricos; simeticona atua como antiespumante que rompe bolhas de gás",
+      "farmacocinetica": "Loperamida: absorção intestinal, metabolismo hepático (CYP3A4); simeticona: não absorvida, ação local",
+      "farmacodinamica": "Reduz frequência e urgência da diarreia, melhora cólicas e distensão gasosa",
+      "indicacoes": "Tratamento sintomático de diarreia aguda associada a gases e cólicas",
+      "reacoesAdversas": "Constipação, náusea, distensão abdominal, sonolência, boca seca, tontura",
+      "riscoGravidez": "Categoria C (usar com cautela, evitar no 1º trimestre)",
+      "riscoLactacao": "Evitar uso prolongado; sem estudos conclusivos",
+      "administracao": "Via oral (cápsula, comprimido mastigável ou gotas)",
+      "doseMaxima": "8 mg de loperamida/dia (adulto); 4 mg (criança ≥6 anos)",
+      "doseMinima": "2 mg de loperamida/dose + 125 mg de simeticona",
+      "classificacao": "Antidiarreico + Antiflatulento",
+      "apresentacao": "Comprimidos mastigáveis, cápsulas ou suspensão oral",
+      "interacaoMedicamento": "Potencial interação com inibidores de CYP3A4 (ritonavir, cetoconazol); pode reduzir absorção de fármacos entéricos",
+      "posologia": "Dose inicial de 2 mg (loperamida) + 125 mg (simeticona), seguida de 1 cápsula após cada evacuação líquida, até 8 mg/dia",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo; mastigar comprimidos se essa for a forma apresentada",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Colite pseudomembranosa, disenteria, febre, sangue nas fezes, crianças <6 anos",
+      "cuidadosMedicos": "Evitar em infecções bacterianas invasivas; avaliar necessidade de hidratação oral",
+      "cuidadosFarmaceuticos": "Orientar limite de uso e sinais de alarme (febre, sangue nas fezes)",
+      "cuidadosEnfermagem": "Observar padrão de evacuação e sinais de distensão abdominal",
+      "fontesBibliograficas": "ANVISA, Bula oficial, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Loperamide + Simethicone",
+      "suspension": "Hold 24h prior to GI surgery or colonoscopy",
+      "risk": "May mask symptoms of ileus, colitis or obstruction. Risk of constipation and abdominal bloating. Avoid chronic use.",
+      "reintroduction": "Resume only after bowel function returns and infection ruled out"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Loperamide hydrochloride + Simethicone",
+      "nomeComercial": "Imodium Multi-Symptom Relief",
+      "mecanismoAcao": "Loperamide slows gut motility via peripheral μ-opioid receptors; simethicone reduces gas bubbles",
+      "farmacocinetica": "Loperamide: hepatic metabolism via CYP3A4; simethicone: non-absorbed, local effect",
+      "farmacodinamica": "Reduces diarrhea and relieves bloating/gas discomfort",
+      "indicacoes": "Acute nonspecific diarrhea with bloating",
+      "reacoesAdversas": "Constipation, dizziness, nausea, dry mouth, drowsiness",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Caution advised",
+      "administracao": "Oral (chewable tablets or capsules)",
+      "doseMaxima": "8 mg/day (loperamide)",
+      "doseMinima": "2 mg loperamide + 125 mg simethicone",
+      "classificacao": "Antidiarrheal + Antigas",
+      "apresentacao": "Chewable tablets, gelcaps, oral liquid",
+      "interacaoMedicamento": "CYP3A4 inhibitors may increase loperamide levels",
+      "posologia": "2 mg + 125 mg initially, then 2 mg after each loose stool, up to 8 mg/day",
+      "armazenamento": "Room temperature, dry",
+      "preparo": "No prep required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Bloody diarrhea, fever, <6 years, pseudomembranous colitis",
+      "cuidadosMedicos": "Avoid in infectious colitis; assess hydration",
+      "cuidadosFarmaceuticos": "Educate on duration limits and red flags",
+      "cuidadosEnfermagem": "Monitor bowel patterns and abdominal discomfort",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Loperamida + Simeticona",
+      "suspension": "Suspender 24 horas antes de cirugía gastrointestinal o colonoscopia",
+      "risk": "Riesgo de enmascarar síntomas de infección o íleo. Posible distensión o estreñimiento.",
+      "reintroduction": "Reanudar solo si hay recuperación del tránsito intestinal y no hay fiebre o disentería"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de loperamida + simeticona",
+      "nomeComercial": "Imosec M®, Lopedium Plus®, Lopigrel®",
+      "mecanismoAcao": "Loperamida reduce motilidad intestinal (agonista μ); simeticona rompe burbujas de gas",
+      "farmacocinetica": "Loperamida absorbida parcialmente, metabolismo hepático (CYP3A4); simeticona sin absorción",
+      "farmacodinamica": "Reduce diarrea, flatulencia y cólicos",
+      "indicacoes": "Diarrea aguda no infecciosa con gases",
+      "reacoesAdversas": "Estreñimiento, náuseas, somnolencia, sequedad de boca",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar uso prolongado",
+      "administracao": "Oral (tabletas, cápsulas, suspensión)",
+      "doseMaxima": "8 mg loperamida/día en adultos",
+      "doseMinima": "2 mg loperamida + 125 mg simeticona",
+      "classificacao": "Antidiarreico + antiflatulento",
+      "apresentacao": "Tabletas masticables, cápsulas, suspensión oral",
+      "interacaoMedicamento": "Evitar alcohol; interacción con antidepresivos y CYP3A4",
+      "posologia": "2 mg inicial + 1 cápsula tras cada deposición líquida, máx. 8 mg/día",
+      "armazenamento": "Ambiente seco",
+      "preparo": "Masticar tabletas o disolver suspensión",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Colitis bacteriana, disentería, niños <6 años",
+      "cuidadosMedicos": "Evitar si hay fiebre o sangre en heces",
+      "cuidadosFarmaceuticos": "Limitar duración y observar efectos secundarios",
+      "cuidadosEnfermagem": "Monitorizar frecuencia y forma de heces",
+      "fontesBibliograficas": "AEMPS, EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "洛哌丁胺 + 西甲硅油",
+      "suspension": "术前24小时停用，尤其是消化道手术或肠镜",
+      "risk": "可能掩盖感染或肠梗阻症状；有便秘和腹胀风险",
+      "reintroduction": "术后恢复肠功能后再使用；应无发热或便血"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸洛哌丁胺 + 西甲硅油",
+      "nomeComercial": "Imosec M®, Lopedium Plus®",
+      "mecanismoAcao": "洛哌丁胺激动μ阿片受体减慢蠕动；西甲硅油消泡除胀",
+      "farmacocinetica": "洛哌丁胺肝代谢（CYP3A4）；西甲硅油不吸收",
+      "farmacodinamica": "缓解腹泻、肠胀气和痉挛",
+      "indicacoes": "急性非感染性腹泻合并腹胀",
+      "reacoesAdversas": "便秘、嗜睡、恶心、口干",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免长期使用",
+      "administracao": "口服（咀嚼片、胶囊、口服液）",
+      "doseMaxima": "成人每日不超过8毫克",
+      "doseMinima": "每次2毫克洛哌丁胺 + 125毫克西甲硅油",
+      "classificacao": "抗腹泻 + 祛胀药",
+      "apresentacao": "片剂、胶囊、口服混悬液",
+      "interacaoMedicamento": "避免与酒精、MAOI、CYP3A4抑制剂同用",
+      "posologia": "首次2毫克，之后每次腹泻后1粒，最大8毫克/天",
+      "armazenamento": "干燥阴凉处保存",
+      "preparo": "口服即用，液体需摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "感染性腹泻、发热、6岁以下儿童",
+      "cuidadosMedicos": "如有发热或便血禁用；关注脱水风险",
+      "cuidadosFarmaceuticos": "避免长期使用或超量",
+      "cuidadosEnfermagem": "观察便形及频率变化",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate"
+    }
+  }
+}

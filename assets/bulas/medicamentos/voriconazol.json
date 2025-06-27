@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Voriconazol",
+      "suspension": "Suspender 48 horas antes de cirurgia eletiva com risco cardíaco ou hepático",
+      "risk": "Risco de hepatotoxicidade, prolongamento do QT, interação com anestésicos e imunossupressores",
+      "reintroduction": "Reintroduzir com monitoramento de ECG, eletrólitos e função hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Voriconazol",
+      "nomeComercial": "Vfend",
+      "mecanismoAcao": "Inibe a enzima 14α-desmetilase dependente de citocromo P450, bloqueando a síntese de ergosterol",
+      "farmacocinetica": "Biodisponibilidade >90%; meia-vida 6h; metabolismo hepático (CYP2C19, CYP2C9, CYP3A4)",
+      "farmacodinamica": "Fungicida contra Aspergillus spp., Cândida spp. e outros fungos",
+      "indicacoes": "Aspergilose invasiva, candidemia, fusariose, infecções fúngicas refratárias",
+      "reacoesAdversas": "Alteração visual transitória, hepatotoxicidade, rash, alucinações, prolongamento de QT",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "6mg/kg IV 12/12h (ataque); 4mg/kg 12/12h (manutenção)",
+      "doseMinima": "200mg VO 12/12h",
+      "classificacao": "Antifúngico triazólico de segunda geração",
+      "apresentacao": "Comprimidos 50mg, 200mg; pó para solução oral; pó liofilizado IV 200mg",
+      "interacaoMedicamento": "Inibe CYP3A4, 2C9 e 2C19; interage com ciclosporina, tacrolimo, estatinas, benzodiazepínicos, amiodarona",
+      "posologia": "VO: 200–300mg 12/12h; IV: 6mg/kg ataque → 4mg/kg 12/12h",
+      "armazenamento": "Pó: 2–8°C; comprimido: ambiente; solução reconstituída: usar em até 24h refrigerado",
+      "preparo": "IV: reconstituir em água estéril e diluir em SG 5%",
+      "solucoesCompatíveis": "SG 5%",
+      "contraindicacoes": "QT longo, insuficiência hepática grave, uso concomitante com rifampicina, carbamazepina, barbitúricos",
+      "cuidadosMedicos": "Monitorar TGO/TGP, eletrólitos (K+, Mg2+), ECG",
+      "cuidadosFarmaceuticos": "Ajustar dose em disfunção hepática; manter via exclusiva IV",
+      "cuidadosEnfermagem": "Observar visões turvas, arritmias, alterações mentais",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Voriconazole",
+      "suspension": "Hold 48h before elective surgery if QT/cardiac/hepatic risk",
+      "risk": "QT prolongation, liver toxicity, anesthetic and immunosuppressant interaction",
+      "reintroduction": "Restart after ECG and hepatic/renal stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Voriconazole",
+      "nomeComercial": "Vfend",
+      "mecanismoAcao": "Inhibits fungal CYP450 enzyme 14α-demethylase, impairing ergosterol synthesis",
+      "farmacocinetica": "Bioavailability >90%; t½ 6h; hepatic metabolism (CYP2C19, 2C9, 3A4)",
+      "farmacodinamica": "Active against Aspergillus, Candida, Fusarium spp.",
+      "indicacoes": "Invasive aspergillosis, candidemia, refractory fungal infections",
+      "reacoesAdversas": "Visual disturbance, liver toxicity, hallucinations, rash, QT prolongation",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral or IV",
+      "doseMaxima": "6mg/kg IV q12h (LD); 4mg/kg q12h (MD)",
+      "doseMinima": "200mg PO q12h",
+      "classificacao": "Second-generation triazole antifungal",
+      "apresentacao": "Tablets 50mg, 200mg; oral powder; IV 200mg vials",
+      "interacaoMedicamento": "Inhibits CYP3A4, 2C9, 2C19; interacts with tacrolimus, cyclosporine, statins, benzos, amiodarone",
+      "posologia": "PO: 200–300mg q12h; IV: LD 6mg/kg → 4mg/kg q12h",
+      "armazenamento": "Powder: 2–8°C; tablets: room temp; IV sol: use in 24h refrigerated",
+      "preparo": "Reconstitute with SWFI, dilute in D5W",
+      "solucoesCompatíveis": "D5W",
+      "contraindicacoes": "QT prolongation, severe liver disease, contraindicated drugs (rifampin, CBZ)",
+      "cuidadosMedicos": "Monitor ECG, LFTs, K+, Mg2+",
+      "cuidadosFarmaceuticos": "Adjust in liver impairment; exclusive IV line",
+      "cuidadosEnfermagem": "Watch for hallucinations, blurry vision, arrhythmias",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Voriconazol",
+      "suspension": "Suspender 48h antes si hay riesgo cardíaco o hepático",
+      "risk": "QT prolongado, hepatotoxicidad, interacciones anestésicas e inmunosupresores",
+      "reintroduction": "Reiniciar tras estabilización de ECG y hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Voriconazol",
+      "nomeComercial": "Vfend",
+      "mecanismoAcao": "Inhibe 14α-desmetilasa (CYP450), bloquea síntesis de ergosterol",
+      "farmacocinetica": "Biodisponibilidad >90%; vida media 6h; metabolismo hepático",
+      "farmacodinamica": "Antifúngico de amplio espectro, efectivo contra Aspergillus, Candida",
+      "indicacoes": "Aspergilosis invasiva, candidemia, fusariosis",
+      "reacoesAdversas": "Trastornos visuales, hepatotoxicidad, alucinaciones, rash, QT largo",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral o IV",
+      "doseMaxima": "6mg/kg IV c/12h (carga); 4mg/kg c/12h (mantenimiento)",
+      "doseMinima": "200mg VO c/12h",
+      "classificacao": "Antifúngico triazólico",
+      "apresentacao": "Comprimidos 50mg, 200mg; IV 200mg",
+      "interacaoMedicamento": "Inhibe CYP3A4/2C9/2C19; interacción con tacrolimus, ciclosporina, estatinas",
+      "posologia": "VO: 200–300mg c/12h; IV: carga 6mg/kg → 4mg/kg c/12h",
+      "armazenamento": "IV en frío; VO temperatura ambiente",
+      "preparo": "Diluir IV en SG5%, administrar en 1h",
+      "solucoesCompatíveis": "SG5%",
+      "contraindicacoes": "Prolongación QT, insuficiencia hepática severa, rifampicina, carbamazepina",
+      "cuidadosMedicos": "ECG, función hepática, electrolitos",
+      "cuidadosFarmaceuticos": "Vía exclusiva; evitar coadministración con inductores",
+      "cuidadosEnfermagem": "Control visión, arritmias, síntomas neuropsiquiátricos",
+      "fontesBibliograficas": "Micromedex, guías clínicas, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伏立康唑",
+      "suspension": "术前48小时停药，尤其心脏或肝病患者",
+      "risk": "QT延长、肝毒性、与麻醉药/免疫抑制剂相互作用",
+      "reintroduction": "术后电解质及肝功能稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伏立康唑",
+      "nomeComercial": "Vfend",
+      "mecanismoAcao": "抑制真菌14α-脱甲基酶，阻断麦角固醇合成",
+      "farmacocinetica": "口服生物利用度>90%；半衰期6h；肝代谢",
+      "farmacodinamica": "广谱杀真菌药，活性针对曲霉、念珠菌属",
+      "indicacoes": "侵袭性曲霉病、念珠菌血症、难治性真菌感染",
+      "reacoesAdversas": "视力模糊、肝酶升高、QT延长、幻觉、水肿",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "6mg/kg q12h（负荷）；4mg/kg q12h（维持）",
+      "doseMinima": "口服200mg q12h",
+      "classificacao": "二代三唑类抗真菌药",
+      "apresentacao": "50mg、200mg片剂；200mg注射剂",
+      "interacaoMedicamento": "抑制CYP3A4/2C9/2C19；与他克莫司、环孢素、抗心律失常药相互作用显著",
+      "posologia": "口服200–300mg q12h；IV按体重",
+      "armazenamento": "片剂常温，注射液需冷藏",
+      "preparo": "IV用5%葡萄糖稀释，1小时静滴",
+      "solucoesCompatíveis": "5%葡萄糖",
+      "contraindicacoes": "QT延长、严重肝病、与利福平/卡马西平等同用",
+      "cuidadosMedicos": "监测心电图、肝酶、电解质",
+      "cuidadosFarmaceuticos": "避光、冷藏、配制专线使用",
+      "cuidadosEnfermagem": "警惕视力改变、神志异常、电解质紊乱",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

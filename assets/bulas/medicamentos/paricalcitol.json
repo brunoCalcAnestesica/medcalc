@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Paricalcitol",
+      "suspension": "Suspender 3 dias antes de cirurgias maiores em pacientes com doença renal avançada",
+      "risk": "Risco de hipercalcemia, arritmias e distúrbios do metabolismo cálcio-fósforo no perioperatório. Deve ser suspenso em pacientes com DRC estágio 4-5 ou em uso de calcimiméticos.",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica, normalização do cálcio e fósforo, e reinício do suporte dialítico, se aplicável."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paricalcitol",
+      "nomeComercial": "Zemplar",
+      "mecanismoAcao": "Análogo sintético da vitamina D que atua como agonista parcial do receptor de vitamina D, suprimindo a secreção de PTH",
+      "farmacocinetica": "Administração IV ou oral; ligação a proteínas plasmáticas >99%; metabolismo hepático (CYP3A4); excreção predominantemente biliar",
+      "farmacodinamica": "Reduz PTH com menor risco de hipercalcemia e hipofosfatemia do que calcitriol; mantém homeostase mineral",
+      "indicacoes": "Hiperparatireoidismo secundário em pacientes com DRC em hemodiálise ou estágios 3 a 5",
+      "reacoesAdversas": "Hipercalcemia, hipofosfatemia, prurido, náuseas, edema periférico, arritmias em caso de toxicidade",
+      "riscoGravidez": "Categoria C (usar apenas se necessário)",
+      "riscoLactacao": "Desconhecido; uso cauteloso",
+      "administracao": "Intravenosa ou oral; EV preferencial durante diálise",
+      "doseMaxima": "0,24 mcg/kg (IV); 2 mcg/dia (oral), ajustável",
+      "doseMinima": "1 mcg três vezes por semana (IV); 1 mcg/dia (oral)",
+      "classificacao": "Análogo de vitamina D ativo – modulador de PTH",
+      "apresentacao": "Cápsulas de 1 mcg e 2 mcg; ampolas de 5 mcg/mL e 2 mcg/mL",
+      "interacaoMedicamento": "Potencializa toxicidade de digitálicos; interage com cetoconazol, agentes quelantes de fosfato e calcimiméticos",
+      "posologia": "Individualizada conforme níveis de PTH, cálcio e fósforo; geralmente 2–4 mcg 3x/semana",
+      "armazenamento": "Temperatura ambiente (15–30 °C), protegido da luz",
+      "preparo": "Não requer preparo especial para uso IV; uso imediato após abertura",
+      "solucoesCompatíveis": "SF 0,9% para diluição IV, se necessário",
+      "contraindicacoes": "Hipercalcemia, intoxicação por vitamina D, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar PTH, cálcio, fósforo e função hepática durante uso",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão ao horário e dose, evitar suplementos de cálcio não prescritos",
+      "cuidadosEnfermagem": "Observar sinais de hipercalcemia (náusea, fraqueza, confusão, arritmia)",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex, KDIGO"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Paricalcitol",
+      "suspension": "Discontinue 3 days prior to major surgery in patients with advanced CKD",
+      "risk": "Risk of hypercalcemia, arrhythmias, and calcium-phosphate imbalance. Should be withheld perioperatively in CKD stage 4–5 or dialysis.",
+      "reintroduction": "Restart after hemodynamic stability, calcium/phosphate normalization, and resumption of dialysis support if needed."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paricalcitol",
+      "nomeComercial": "Zemplar",
+      "mecanismoAcao": "Synthetic vitamin D analog that selectively activates the vitamin D receptor, reducing PTH secretion",
+      "farmacocinetica": "IV or oral; >99% protein bound; hepatic metabolism via CYP3A4; biliary excretion",
+      "farmacodinamica": "Lowers PTH with lower risk of hypercalcemia/hyperphosphatemia than calcitriol",
+      "indicacoes": "Secondary hyperparathyroidism in CKD patients (stages 3–5), including dialysis",
+      "reacoesAdversas": "Hypercalcemia, hypophosphatemia, nausea, pruritus, edema, arrhythmia",
+      "riscoGravidez": "Category C (use only if clearly needed)",
+      "riscoLactacao": "Unknown; use cautiously",
+      "administracao": "IV during dialysis or oral dosing",
+      "doseMaxima": "0.24 mcg/kg IV; 2 mcg/day oral",
+      "doseMinima": "1 mcg 3x/week IV or 1 mcg/day oral",
+      "classificacao": "Vitamin D analog – PTH modulator",
+      "apresentacao": "Capsules (1 mcg, 2 mcg); ampoules (5 mcg/mL, 2 mcg/mL)",
+      "interacaoMedicamento": "Potentiates digoxin toxicity; interacts with ketoconazole, phosphate binders, calcimimetics",
+      "posologia": "Adjusted per PTH, calcium, phosphate levels",
+      "armazenamento": "Store at 15–30°C, protect from light",
+      "preparo": "Ready to use; IV ampoules used immediately after opening",
+      "solucoesCompatíveis": "0.9% NaCl if dilution needed",
+      "contraindicacoes": "Hypercalcemia, vitamin D toxicity, hypersensitivity",
+      "cuidadosMedicos": "Monitor calcium, phosphorus, liver function, PTH",
+      "cuidadosFarmaceuticos": "Avoid unmonitored calcium supplements; educate on compliance",
+      "cuidadosEnfermagem": "Monitor for hypercalcemia signs (fatigue, nausea, arrhythmia)",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, KDIGO, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Paricalcitol",
+      "suspension": "Suspender 3 días antes de cirugía mayor en pacientes con ERC avanzada",
+      "risk": "Riesgo de hipercalcemia y arritmias; desequilibrio calcio-fósforo. En diálisis debe suspenderse perioperatoriamente.",
+      "reintroduction": "Reiniciar tras estabilización clínica, normalización del calcio y reinicio del soporte renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paricalcitol",
+      "nomeComercial": "Zemplar",
+      "mecanismoAcao": "Análogo sintético de la vitamina D que reduce la secreción de PTH activando su receptor",
+      "farmacocinetica": "Oral o IV; >99% unido a proteínas; metabolismo hepático (CYP3A4); excreción biliar",
+      "farmacodinamica": "Reduce PTH con menor riesgo de hipercalcemia que calcitriol",
+      "indicacoes": "Hiperparatiroidismo secundario en pacientes con ERC estadio 3–5",
+      "reacoesAdversas": "Hipercalcemia, hipofosfatemia, náuseas, prurito, edemas, arritmias",
+      "riscoGravidez": "Categoría C (precaución)",
+      "riscoLactacao": "Desconocido; usar con cuidado",
+      "administracao": "IV en diálisis o vía oral",
+      "doseMaxima": "0,24 mcg/kg (IV); 2 mcg/día (oral)",
+      "doseMinima": "1 mcg 3x/sem (IV); 1 mcg/día (oral)",
+      "classificacao": "Análogo de vitamina D – modulador de PTH",
+      "apresentacao": "Cápsulas 1–2 mcg; ampollas 2–5 mcg/mL",
+      "interacaoMedicamento": "Interacción con digoxina, cetoconazol, fijadores de fosfato",
+      "posologia": "Individualizada según PTH, calcio y fósforo",
+      "armazenamento": "15–30 °C, proteger de la luz",
+      "preparo": "Uso inmediato tras apertura",
+      "solucoesCompatíveis": "ClNa 0,9%",
+      "contraindicacoes": "Hipercalcemia, intoxicación por vitamina D",
+      "cuidadosMedicos": "Monitorear PTH, calcemia y función hepática",
+      "cuidadosFarmaceuticos": "Evitar suplementos de calcio no prescritos",
+      "cuidadosEnfermagem": "Observar síntomas de hipercalcemia",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, KDIGO, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "帕立骨化醇",
+      "suspension": "慢性肾病患者术前3天停药",
+      "risk": "术中存在高钙血症和心律失常风险，CKD晚期或透析者应停药",
+      "reintroduction": "术后恢复血钙、血磷、透析后可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "帕立骨化醇",
+      "nomeComercial": "Zemplar",
+      "mecanismoAcao": "合成维生素D类似物，通过激活维生素D受体抑制PTH分泌",
+      "farmacocinetica": "口服或静脉，蛋白结合>99%，CYP3A4代谢，经胆汁排泄",
+      "farmacodinamica": "降低PTH，较钙三醇更少引起高钙血症",
+      "indicacoes": "慢性肾病3–5期继发性甲状旁腺功能亢进",
+      "reacoesAdversas": "高钙血症、低磷血症、瘙痒、水肿、恶心、心律失常",
+      "riscoGravidez": "C类（慎用）",
+      "riscoLactacao": "未知；慎用",
+      "administracao": "透析期多用静脉；也可口服",
+      "doseMaxima": "IV：0.24微克/kg；口服：每日2微克",
+      "doseMinima": "1微克 每日或隔日",
+      "classificacao": "维生素D类似物 – PTH调节剂",
+      "apresentacao": "胶囊1或2微克；安瓿2–5微克/mL",
+      "interacaoMedicamento": "与洋地黄、酮康唑、钙剂有交互作用",
+      "posologia": "根据PTH、钙磷水平调整剂量",
+      "armazenamento": "15–30°C避光保存",
+      "preparo": "使用前无需稀释；安瓿开封后立即使用",
+      "solucoesCompatíveis": "0.9%氯化钠注射液",
+      "contraindicacoes": "高钙血症、维生素D中毒、过敏史",
+      "cuidadosMedicos": "术前后监测PTH、血钙、肝功能",
+      "cuidadosFarmaceuticos": "指导患者避免额外摄入钙剂",
+      "cuidadosEnfermagem": "监测高钙症状（恶心、乏力、心律异常）",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、KDIGO、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Isocarboxazida",
+      "suspension": "Suspender 14 dias antes da cirurgia eletiva",
+      "risk": "Risco grave de crise hipertensiva, hipertermia e arritmias com anestésicos, opioides e alimentos ricos em tiramina; interage com ISRS, IRSN e simpaticomiméticos",
+      "reintroduction": "Reintroduzir no mínimo 7 dias após cirurgia, com paciente hemodinamicamente estável e sem serotonérgicos em uso"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Isocarboxazida",
+      "nomeComercial": "Marplan",
+      "mecanismoAcao": "Inibidor irreversível e não seletivo da monoamina oxidase (MAO-A e MAO-B); aumenta dopamina, serotonina e noradrenalina",
+      "farmacocinetica": "Absorção oral eficiente, metabolismo hepático, meia-vida curta (~2h), mas efeito prolongado pela inibição irreversível da MAO",
+      "farmacodinamica": "Antidepressivo potente utilizado em depressão refratária e atípica; exige dieta especial e vigilância rigorosa de interações",
+      "indicacoes": "Transtorno depressivo maior resistente, depressão atípica, ansiedade social (off-label)",
+      "reacoesAdversas": "Hipotensão ortostática, insônia, agitação, boca seca, ganho de peso, hepatotoxicidade, crise hipertensiva",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; evitar durante a lactação",
+      "administracao": "Via oral",
+      "doseMaxima": "60mg/dia",
+      "doseMinima": "10mg/dia",
+      "classificacao": "Inibidor irreversível da MAO-A e MAO-B (IMAO não seletivo)",
+      "apresentacao": "Comprimidos de 10mg",
+      "interacaoMedicamento": "Interage com ISRS, IRSN, TCA, tramadol, meperidina, simpaticomiméticos e alimentos ricos em tiramina",
+      "posologia": "Iniciar com 10mg 2x/dia, aumentar gradualmente até 30–60mg/dia conforme tolerância",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Requer dieta pobre em tiramina durante e por 14 dias após a descontinuação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso com ISRS/IRSN/TCA, AVC recente, feocromocitoma, anestésicos halogenados",
+      "cuidadosMedicos": "Monitorar PA, função hepática, status mental e sinais autonômicos",
+      "cuidadosFarmaceuticos": "Educar sobre riscos alimentares e interações medicamentosas graves; reforçar intervalo de washout",
+      "cuidadosEnfermagem": "Observar sinais de hipertensão, hipertermia, confusão e efeitos colaterais autonômicos",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, NICE"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Isocarboxazid",
+      "suspension": "Discontinue 14 days prior to elective surgery",
+      "risk": "High risk of hypertensive crisis, serotonin syndrome, and interaction with anesthetics, opioids and tyramine-rich foods",
+      "reintroduction": "Restart 7 days after surgery if patient is stable and not on serotonergic agents"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Isocarboxazid",
+      "nomeComercial": "Marplan",
+      "mecanismoAcao": "Irreversible, non-selective monoamine oxidase inhibitor (MAO-A and MAO-B); increases serotonin, dopamine, norepinephrine",
+      "farmacocinetica": "Well absorbed orally, hepatic metabolism, short half-life (~2h), prolonged effect via enzyme inhibition",
+      "farmacodinamica": "Potent antidepressant for refractory and atypical depression; requires strict dietary and medication precautions",
+      "indicacoes": "Treatment-resistant depression, atypical depression, social anxiety (off-label)",
+      "reacoesAdversas": "Orthostatic hypotension, weight gain, insomnia, agitation, hepatotoxicity, hypertensive episodes",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; avoid during breastfeeding",
+      "administracao": "Oral route",
+      "doseMaxima": "60mg/day",
+      "doseMinima": "10mg/day",
+      "classificacao": "Non-selective irreversible MAOI",
+      "apresentacao": "Tablets: 10mg",
+      "interacaoMedicamento": "Interacts with SSRIs, SNRIs, TCAs, tramadol, meperidine, sympathomimetics, tyramine foods",
+      "posologia": "Start 10mg BID; titrate to 30–60mg/day",
+      "armazenamento": "Store at 15–30°C, protect from light/moisture",
+      "preparo": "Low-tyramine diet required during and for 14 days after use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Recent stroke, pheochromocytoma, use with serotonergic drugs or anesthetics",
+      "cuidadosMedicos": "Monitor BP, mental status, hepatic function, and dietary compliance",
+      "cuidadosFarmaceuticos": "Educate on dietary and drug interaction risks, reinforce washout rules",
+      "cuidadosEnfermagem": "Observe for hypertensive crises, neurologic signs, food noncompliance",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, APA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Isocarboxazida",
+      "suspension": "Suspender 14 días antes de cirugía electiva",
+      "risk": "Riesgo grave de crisis hipertensiva, síndrome serotoninérgico y arritmias con anestesia, opioides y alimentos con tiramina",
+      "reintroduction": "Reintroducir al menos 7 días después de cirugía con paciente estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Isocarboxazida",
+      "nomeComercial": "Marplan",
+      "mecanismoAcao": "Inhibidor irreversible y no selectivo de la MAO-A y MAO-B; aumenta dopamina, noradrenalina y serotonina",
+      "farmacocinetica": "Buena absorción oral, metabolismo hepático, vida media corta (~2h), efecto prolongado",
+      "farmacodinamica": "Antidepresivo potente para depresión resistente y atípica; requiere vigilancia dietética y farmacológica",
+      "indicacoes": "Depresión resistente, depresión atípica, ansiedad social (uso no aprobado)",
+      "reacoesAdversas": "Hipotensión ortostática, ganancia de peso, insomnio, agitación, hepatotoxicidad, crisis hipertensiva",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; evitar durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "60mg/día",
+      "doseMinima": "10mg/día",
+      "classificacao": "IMAO clásico no selectivo e irreversible",
+      "apresentacao": "Comprimidos: 10mg",
+      "interacaoMedicamento": "ISRS, IRSN, TCA, tramadol, meperidina, simpaticomiméticos, alimentos ricos en tiramina",
+      "posologia": "Comenzar con 10mg 2x/día, aumentar hasta 30–60mg/día",
+      "armazenamento": "15–30°C, protegido de la luz y humedad",
+      "preparo": "Dieta baja en tiramina durante y 14 días post suspensión",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "ACV reciente, feocromocitoma, uso con ISRS/IRSN/anestésicos",
+      "cuidadosMedicos": "Monitorear PA, estado mental, función hepática e interacciones",
+      "cuidadosFarmaceuticos": "Advertir sobre alimentos e interacciones medicamentosas graves",
+      "cuidadosEnfermagem": "Observar crisis hipertensiva, signos autonómicos, adherencia alimentaria",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "异羧肼",
+      "suspension": "术前14天停药",
+      "risk": "与麻醉剂、阿片类、含酪胺食物合用可引起高血压危象、QT延长与中枢反应",
+      "reintroduction": "术后7天可重新开始，前提是患者稳定、无使用5-HT药物"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "异羧肼",
+      "nomeComercial": "Marplan",
+      "mecanismoAcao": "不可逆、非选择性单胺氧化酶抑制剂（抑制MAO-A和MAO-B）",
+      "farmacocinetica": "口服吸收良好，肝脏代谢，半衰期短但作用持续",
+      "farmacodinamica": "用于难治性和非典型抑郁症的强效抗抑郁药；需饮食控制",
+      "indicacoes": "难治性抑郁症、非典型抑郁症、社交焦虑（超适应症）",
+      "reacoesAdversas": "体位性低血压、体重增加、激动、失眠、肝毒性、高血压危象",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否分泌未知，建议哺乳期避免",
+      "administracao": "口服",
+      "doseMaxima": "每日60毫克",
+      "doseMinima": "每日10毫克",
+      "classificacao": "不可逆非选择性MAOI",
+      "apresentacao": "片剂：10mg",
+      "interacaoMedicamento": "与SSRIs、SNRIs、TCA、曲马多、哌替啶、去充血剂、高酪胺食物有相互作用",
+      "posologia": "起始10mg/日两次，逐渐增加至每日30–60mg",
+      "armazenamento": "15–30°C，避光干燥保存",
+      "preparo": "要求严格遵守低酪胺饮食，停药后继续14天",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "卒中史、嗜铬细胞瘤、使用血清素药、吸入麻醉剂",
+      "cuidadosMedicos": "监测血压、肝功能、精神状态、饮食依从性",
+      "cuidadosFarmaceuticos": "强调药物-食物相互作用及洗脱期管理",
+      "cuidadosEnfermagem": "注意高血压征象、中枢激动反应与行为变化",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

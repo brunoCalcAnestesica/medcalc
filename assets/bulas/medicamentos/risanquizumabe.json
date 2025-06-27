@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Risanquizumabe",
+      "suspension": "Suspender antes de cirurgias maiores; risco de infecção e atraso na cicatrização",
+      "risk": "Aumenta risco de infecções respiratórias, fúngicas e herpes-zóster; possível reativação de TB",
+      "reintroduction": "Reintroduzir após recuperação cirúrgica completa e rastreio negativo para infecções ativas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Risanquizumabe",
+      "nomeComercial": "Skyrizi",
+      "mecanismoAcao": "Anticorpo monoclonal humano que se liga seletivamente à subunidade p19 da interleucina-23 (IL-23), bloqueando sua via inflamatória",
+      "farmacocinetica": "Via SC/IV; pico plasmático em 3–14 dias (SC); meia-vida ~28 dias; metabolismo proteico",
+      "farmacodinamica": "Inibe a diferenciação e ativação de células Th17; reduz inflamação crônica na psoríase e DII",
+      "indicacoes": "Psoríase em placas moderada a grave, artrite psoriásica, colite ulcerativa, doença de Crohn",
+      "reacoesAdversas": "Nasofaringite, candidíase, dor de cabeça, fadiga, reação no local da injeção",
+      "riscoGravidez": "Categoria não atribuída; evitar uso salvo indicação vital",
+      "riscoLactacao": "Desconhecido; não recomendado durante amamentação",
+      "administracao": "Subcutânea ou intravenosa (colite ulcerativa)",
+      "doseMaxima": "150 mg por dose SC ou IV, conforme protocolo",
+      "doseMinima": "75 mg SC (estudos iniciais)",
+      "classificacao": "Anticorpo monoclonal anti-IL-23 (subunidade p19)",
+      "apresentacao": "Caneta ou seringa 75 mg/0,83 mL; solução IV 600 mg/10 mL",
+      "interacaoMedicamento": "Evitar com vacinas vivas; pode aumentar risco com imunossupressores",
+      "posologia": "Psoríase: 150 mg SC semanas 0 e 4; manutenção: 150 mg SC a cada 12 semanas",
+      "armazenamento": "Refrigerado (2–8°C); proteger da luz; não congelar",
+      "preparo": "Retirar da geladeira 15–30 min antes do uso; não agitar",
+      "solucoesCompatíveis": "SF 0,9% para formulação IV",
+      "contraindicacoes": "Infecção ativa grave; hipersensibilidade ao risanquizumabe",
+      "cuidadosMedicos": "Rastrear tuberculose latente, avaliar status vacinal",
+      "cuidadosFarmaceuticos": "Verificar validade, integridade e via correta (SC ou IV)",
+      "cuidadosEnfermagem": "Orientar sobre sinais de infecção; monitorar reação ao local de aplicação",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Risankizumab",
+      "suspension": "Hold before major surgery due to infection and healing risks",
+      "risk": "Increased risk of URTIs, fungal infections, zoster, and latent TB reactivation",
+      "reintroduction": "Restart after wound healing and screening for active infections"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Risankizumab",
+      "nomeComercial": "Skyrizi",
+      "mecanismoAcao": "Human monoclonal antibody targeting IL-23 p19 subunit",
+      "farmacocinetica": "SC/IV; Tmax 3–14 days (SC); half-life ~28 days",
+      "farmacodinamica": "Blocks IL-23-mediated Th17 activation; reduces chronic inflammation",
+      "indicacoes": "Moderate-to-severe plaque psoriasis, psoriatic arthritis, Crohn’s disease, ulcerative colitis",
+      "reacoesAdversas": "URTI, candidiasis, fatigue, injection site reactions, headache",
+      "riscoGravidez": "Not assigned; use only if clearly needed",
+      "riscoLactacao": "Unknown; not recommended during lactation",
+      "administracao": "Subcutaneous or intravenous (UC)",
+      "doseMaxima": "150 mg per dose (SC or IV)",
+      "doseMinima": "75 mg (early trials)",
+      "classificacao": "IL-23 inhibitor monoclonal antibody",
+      "apresentacao": "75 mg/0.83 mL pen/syringe; 600 mg/10 mL vial (IV)",
+      "interacaoMedicamento": "Avoid live vaccines; monitor with other immunosuppressants",
+      "posologia": "Psoriasis: 150 mg SC at weeks 0, 4; then q12 weeks",
+      "armazenamento": "Store at 36–46°F; protect from light; do not freeze",
+      "preparo": "Bring to room temperature for 15–30 min before use; do not shake",
+      "solucoesCompatíveis": "0.9% NaCl (IV form)",
+      "contraindicacoes": "Severe infection; hypersensitivity",
+      "cuidadosMedicos": "TB screening, vaccination review before start",
+      "cuidadosFarmaceuticos": "Ensure correct storage, dose form, expiry",
+      "cuidadosEnfermagem": "Teach injection technique; watch for infection signs",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Risankizumab",
+      "suspension": "Suspender antes de cirugía mayor; riesgo de infección y mala cicatrización",
+      "risk": "Mayor riesgo de infecciones respiratorias, fúngicas y reactivación de TB",
+      "reintroduction": "Reanudar tras recuperación completa y descartar infecciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Risankizumab",
+      "nomeComercial": "Skyrizi",
+      "mecanismoAcao": "Anticuerpo monoclonal dirigido a la subunidad p19 de IL-23",
+      "farmacocinetica": "SC/IV; pico 3–14 días; semivida ~28 días",
+      "farmacodinamica": "Bloquea IL-23, reduciendo inflamación crónica mediada por Th17",
+      "indicacoes": "Psoriasis en placas, artritis psoriásica, enfermedad de Crohn, colitis ulcerosa",
+      "reacoesAdversas": "IRVA, candidiasis, fatiga, cefalea, reacciones en sitio de inyección",
+      "riscoGravidez": "Evitar salvo necesidad vital; sin categoría asignada",
+      "riscoLactacao": "Evitar durante la lactancia",
+      "administracao": "Subcutánea o intravenosa",
+      "doseMaxima": "150 mg por dosis",
+      "doseMinima": "75 mg",
+      "classificacao": "Anticuerpo monoclonal anti-IL-23 (p19)",
+      "apresentacao": "75 mg/0,83 mL SC; 600 mg/10 mL IV",
+      "interacaoMedicamento": "Evitar vacunas vivas; cuidado con otros inmunosupresores",
+      "posologia": "150 mg SC semanas 0 y 4; luego cada 12 semanas",
+      "armazenamento": "2–8°C; proteger de la luz",
+      "preparo": "Esperar 30 min antes de uso; no agitar",
+      "solucoesCompatíveis": "SF 0,9% para formulación IV",
+      "contraindicacoes": "Infección activa grave, hipersensibilidad",
+      "cuidadosMedicos": "Cribado de TB; revisar vacunación",
+      "cuidadosFarmaceuticos": "Verificar presentación y temperatura",
+      "cuidadosEnfermagem": "Monitorear signos de infección, técnica de aplicación",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利桑单抗",
+      "suspension": "术前建议停药；避免感染与术后愈合延迟",
+      "risk": "增加感染风险，如呼吸道感染、真菌、带状疱疹、结核复发",
+      "reintroduction": "术后完全恢复、排除活动性感染后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "利桑单抗",
+      "nomeComercial": "Skyrizi",
+      "mecanismoAcao": "靶向IL-23 p19亚基的人源化单克隆抗体",
+      "farmacocinetica": "皮下/静脉给药；达峰3–14天；半衰期28天",
+      "farmacodinamica": "抑制Th17细胞活化，控制慢性炎症",
+      "indicacoes": "斑块型银屑病、银屑病关节炎、克罗恩病、溃疡性结肠炎",
+      "reacoesAdversas": "上呼吸道感染、念珠菌、头痛、乏力、注射部位红肿",
+      "riscoGravidez": "妊娠期不推荐使用",
+      "riscoLactacao": "哺乳期不建议使用",
+      "administracao": "皮下注射或静脉输注",
+      "doseMaxima": "每次150 mg（SC/IV）",
+      "doseMinima": "75 mg（早期研究）",
+      "classificacao": "抗IL-23（p19）单克隆抗体",
+      "apresentacao": "SC: 75 mg/0.83 mL；IV: 600 mg/10 mL",
+      "interacaoMedicamento": "禁用活疫苗；慎与免疫抑制剂合用",
+      "posologia": "第0、4周各注射150 mg；之后每12周一次",
+      "armazenamento": "2–8°C冷藏；避光；不可冷冻",
+      "preparo": "皮下注射前放置至室温15–30分钟",
+      "solucoesCompatíveis": "IV用药可与0.9%氯化钠配伍",
+      "contraindicacoes": "严重感染、过敏史",
+      "cuidadosMedicos": "评估结核与疫苗状态",
+      "cuidadosFarmaceuticos": "核查药品种类（SC/IV）、贮存和有效期",
+      "cuidadosEnfermagem": "观察感染迹象；教授注射技巧",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，UpToDate"
+    }
+  }
+}

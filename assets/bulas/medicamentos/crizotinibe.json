@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Crizotinibe",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de prolongamento de QT, toxicidade hepática, eventos GI e hematológicos",
+      "reintroduction": "Reintroduzir após estabilização hepática, eletrolítica e cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Crizotinibe",
+      "nomeComercial": "Xalkori",
+      "mecanismoAcao": "Inibidor de tirosina quinase de ALK, ROS1 e MET, bloqueando proliferação tumoral em cânceres ALK+",
+      "farmacocinetica": "Biodisponibilidade oral ~43%; meia-vida ~42h; metabolização hepática (CYP3A4/5)",
+      "farmacodinamica": "Inibe vias de crescimento e sobrevivência celular em cânceres com fusões genéticas",
+      "indicacoes": "Câncer de pulmão de não pequenas células ALK+ ou ROS1+",
+      "reacoesAdversas": "Náuseas, vômitos, diarreia, edema, fadiga, hepatotoxicidade, neutropenia, prolongamento de QT",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via oral",
+      "doseMaxima": "500 mg/dia (250 mg 2x/dia)",
+      "doseMinima": "200 mg/dia (ajustada por toxicidade)",
+      "classificacao": "Antineoplásico – inibidor de ALK/ROS1/MET",
+      "apresentacao": "Cápsulas de 200 mg e 250 mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores do CYP3A4, medicamentos que prolongam QT, anticoagulantes",
+      "posologia": "250 mg 2x/dia, com ou sem alimentos",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo; cápsulas devem ser ingeridas inteiras",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, arritmias, insuficiência hepática grave, hipocalemia não corrigida",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, função hepática, hemograma",
+      "cuidadosFarmaceuticos": "Orientar adesão, interações medicamentosas e sinais de toxicidade cardíaca",
+      "cuidadosEnfermagem": "Observar edema, sintomas gastrointestinais e arritmias",
+      "fontesBibliograficas": "INCA, FDA, EMA, ANVISA, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Crizotinib",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of QT prolongation, liver toxicity, GI and hematologic side effects",
+      "reintroduction": "Restart after hepatic and electrolyte normalization and surgical recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Crizotinib",
+      "nomeComercial": "Xalkori",
+      "mecanismoAcao": "Tyrosine kinase inhibitor of ALK, ROS1, MET; blocks proliferation in ALK+ tumors",
+      "farmacocinetica": "Oral bioavailability ~43%; half-life ~42h; metabolized by CYP3A4/5",
+      "farmacodinamica": "Inhibits tumor growth and survival in genetic fusion-driven cancers",
+      "indicacoes": "ALK+ or ROS1+ non-small cell lung cancer",
+      "reacoesAdversas": "Nausea, vomiting, diarrhea, edema, fatigue, hepatotoxicity, neutropenia, QT prolongation",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "500 mg/day (250 mg twice daily)",
+      "doseMinima": "200 mg/day (adjusted for toxicity)",
+      "classificacao": "Antineoplastic – ALK/ROS1/MET tyrosine kinase inhibitor",
+      "apresentacao": "Capsules: 200 mg, 250 mg",
+      "interacaoMedicamento": "CYP3A4 interactions, QT-prolonging drugs, anticoagulants",
+      "posologia": "250 mg twice daily with or without food",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "No preparation needed; swallow capsules whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, arrhythmia, severe liver impairment, uncorrected hypokalemia",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, LFTs, CBC",
+      "cuidadosFarmaceuticos": "Counsel adherence, drug interactions, QT toxicity signs",
+      "cuidadosEnfermagem": "Observe for edema, GI symptoms, arrhythmias",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Crizotinib",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de prolongación de QT, hepatotoxicidad, efectos GI y hematológicos",
+      "reintroduction": "Reintroducir tras normalización hepática y recuperación quirúrgica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Crizotinib",
+      "nomeComercial": "Xalkori",
+      "mecanismoAcao": "Inhibidor de tirosina quinasa ALK, ROS1 y MET",
+      "farmacocinetica": "Biodisponibilidad ~43%; vida media ~42h; metabolizado por CYP3A4/5",
+      "farmacodinamica": "Inhibe crecimiento tumoral en cánceres con fusiones genéticas",
+      "indicacoes": "Cáncer de pulmón no microcítico ALK+ o ROS1+",
+      "reacoesAdversas": "Náuseas, vómitos, diarrea, edema, fatiga, hepatotoxicidad, neutropenia, QT prolongado",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "500 mg/día (250 mg 2 veces al día)",
+      "doseMinima": "200 mg/día (ajustable)",
+      "classificacao": "Antineoplásico – inhibidor de ALK/ROS1/MET",
+      "apresentacao": "Cápsulas de 200 mg y 250 mg",
+      "interacaoMedicamento": "Interacciones con CYP3A4, fármacos que prolongan QT, anticoagulantes",
+      "posologia": "250 mg 2 veces al día, con o sin alimentos",
+      "armazenamento": "15–30°C, protegido de humedad",
+      "preparo": "No requiere preparación; ingerir entero",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, arritmia, insuficiencia hepática grave, hipocalemia no corregida",
+      "cuidadosMedicos": "Monitorizar ECG, electrolitos, función hepática, hemograma",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia, interacciones y toxicidad cardíaca",
+      "cuidadosEnfermagem": "Vigilar edema, síntomas GI, arritmias",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "克唑替尼",
+      "suspension": "术前7天停药",
+      "risk": "QT延长、肝毒性、胃肠及血液学不良反应风险",
+      "reintroduction": "术后肝功能、电解质稳定及切口愈合后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "克唑替尼",
+      "nomeComercial": "赛可瑞（Xalkori）",
+      "mecanismoAcao": "ALK/ROS1/MET酪氨酸激酶抑制剂，阻断融合突变驱动的肿瘤生长",
+      "farmacocinetica": "口服生物利用度43%；半衰期42小时；CYP3A4/5代谢",
+      "farmacodinamica": "抑制细胞增殖和肿瘤生长信号",
+      "indicacoes": "ALK+或ROS1+的非小细胞肺癌",
+      "reacoesAdversas": "恶心、呕吐、腹泻、水肿、乏力、肝毒性、中性粒细胞减少、QT间期延长",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日500毫克（250 mg 早晚各一次）",
+      "doseMinima": "每日200毫克（根据耐受性调整）",
+      "classificacao": "抗肿瘤药 – ALK/ROS1/MET抑制剂",
+      "apresentacao": "胶囊200 mg、250 mg",
+      "interacaoMedicamento": "与CYP3A4药物、延长QT药物、抗凝剂相互作用",
+      "posologia": "每日两次，每次250 mg，可随餐或空腹服用",
+      "armazenamento": "15–30°C避湿保存",
+      "preparo": "无需配制，整粒吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、心律失常、严重肝损伤、低钾血症未纠正",
+      "cuidadosMedicos": "监测ECG、电解质、肝功能、血常规",
+      "cuidadosFarmaceuticos": "指导用药依从性、药物相互作用及QT毒性",
+      "cuidadosEnfermagem": "关注水肿、胃肠反应、心律失常",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

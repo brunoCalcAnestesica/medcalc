@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lidocaína (tópica)",
+      "suspension": "Suspender apenas se usada diretamente em campo cirúrgico antes de anestesia geral",
+      "risk": "Risco de absorção sistêmica em áreas extensas, intoxicação por anestésico local (metahemoglobinemia rara), retardo cicatricial se uso excessivo",
+      "reintroduction": "Reintroduzir após cicatrização e com avaliação da indicação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lidocaína",
+      "nomeComercial": "Xylocaína, Emla (com prilocaína), Dermomax",
+      "mecanismoAcao": "Bloqueia canais de sódio voltagem-dependentes, inibindo condução nervosa",
+      "farmacocinetica": "Absorção cutânea variável; metabolização hepática; meia-vida ~1,5 a 2 h (tópica)",
+      "farmacodinamica": "Anestesia local por bloqueio reversível da condução nervosa periférica",
+      "indicacoes": "Alívio sintomático de dor e prurido, anestesia tópica pré-procedimento, queimaduras, herpes, fissuras, infiltrações subcutâneas",
+      "reacoesAdversas": "Irritação local, sensação de queimação, eritema, raramente toxicidade sistêmica (confusão, convulsões, arritmias)",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Segura em uso tópico restrito",
+      "administracao": "Tópica (creme, gel, spray ou adesivo)",
+      "doseMaxima": "Até 5 mg/kg/dia; evitar uso em áreas extensas sem controle",
+      "doseMinima": "Aplicar camada fina conforme necessidade ou protocolo",
+      "classificacao": "Anestésico local – amida tópica",
+      "apresentacao": "5% creme, 10% spray, adesivo 5%, pomada 4% ou em combinação",
+      "interacaoMedicamento": "Potencial aditivo com outros anestésicos locais e antiarrítmicos classe IB",
+      "posologia": "Aplicar 15–60 min antes do procedimento; repetir até 3x/dia em uso sintomático",
+      "armazenamento": "Temperatura ambiente (<25°C), proteger da luz e calor",
+      "preparo": "Pronto para uso; em Emla, aplicar com oclusão",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia a anestésicos do tipo amida, pele infectada ou ulcerada",
+      "cuidadosMedicos": "Evitar em grandes áreas, especialmente em pediatria e mucosas sem prescrição",
+      "cuidadosFarmaceuticos": "Orientar sobre tempo de ação e evitar reaplicações frequentes sem controle",
+      "cuidadosEnfermagem": "Monitorar sinais de toxicidade (palidez, confusão, convulsões), tempo de exposição",
+      "fontesBibliograficas": "ANVISA, FDA, Medscape, Micromedex, bula Xylocaína/Emla"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lidocaine (topical)",
+      "suspension": "Suspend only if applied to surgical field pre-anesthesia",
+      "risk": "Systemic absorption with large area use; risk of CNS or cardiac toxicity",
+      "reintroduction": "Resume after healing and if clinically required"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lidocaine",
+      "nomeComercial": "Xylocaine, Emla, LMX, Lidoderm",
+      "mecanismoAcao": "Blocks voltage-gated sodium channels to inhibit nerve conduction",
+      "farmacocinetica": "Variable absorption; hepatic metabolism; t½ ~1.5–2 h",
+      "farmacodinamica": "Reversible local anesthesia",
+      "indicacoes": "Pain relief, topical anesthesia, pre-procedure analgesia, postherpetic neuralgia",
+      "reacoesAdversas": "Burning, redness, rare systemic toxicity (CNS, cardiac)",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe if limited use",
+      "administracao": "Topical (cream, gel, spray, patch)",
+      "doseMaxima": "Do not exceed 5 mg/kg/day",
+      "doseMinima": "As needed, thin layer",
+      "classificacao": "Topical local anesthetic – amide type",
+      "apresentacao": "5% cream, 10% spray, 4–5% patch or ointment",
+      "interacaoMedicamento": "Additive with other local anesthetics or antiarrhythmics",
+      "posologia": "Apply 15–60 min pre-procedure; up to 3x/day as symptomatic relief",
+      "armazenamento": "Store below 25°C",
+      "preparo": "Ready to use; occlusion for Emla",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Allergy to amides, broken/infected skin",
+      "cuidadosMedicos": "Avoid large-area use, especially in pediatrics",
+      "cuidadosFarmaceuticos": "Instruct on safe usage time and risk of overdose",
+      "cuidadosEnfermagem": "Watch for toxicity signs; assist timing before procedures",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lidocaína (tópica)",
+      "suspension": "Suspender solo si se usa sobre campo quirúrgico antes de anestesia general",
+      "risk": "Irritación local, toxicidad sistémica si se usa en zonas amplias o piel dañada",
+      "reintroduction": "Reiniciar tras cierre cutáneo y evaluación médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lidocaína",
+      "nomeComercial": "Xylocaína, Emla, Lidoderm",
+      "mecanismoAcao": "Bloquea canales de sodio; inhibe conducción nerviosa",
+      "farmacocinetica": "Absorción variable; metabolismo hepático; t½ 1,5–2 h",
+      "farmacodinamica": "Anestesia local reversible",
+      "indicacoes": "Dolor, anestesia previa, neuralgia, prurito intenso",
+      "reacoesAdversas": "Irritación, ardor, eritema, toxicidad rara (CNS, arritmias)",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Segura si es localizada",
+      "administracao": "Tópica",
+      "doseMaxima": "Hasta 5 mg/kg/día",
+      "doseMinima": "Según necesidad local",
+      "classificacao": "Anestésico local tipo amida",
+      "apresentacao": "Crema 5%, parche 5%, spray 10%",
+      "interacaoMedicamento": "Efecto aditivo con otros anestésicos o antiarrítmicos",
+      "posologia": "15–60 min antes del procedimiento o 3x/día máx",
+      "armazenamento": "<25°C",
+      "preparo": "Listo para usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia, piel ulcerada o infectada",
+      "cuidadosMedicos": "Evitar áreas extensas o prolongación",
+      "cuidadosFarmaceuticos": "Educar sobre toxicidad y uso adecuado",
+      "cuidadosEnfermagem": "Vigilar signos de intoxicación y tiempo de aplicación",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利多卡因（外用）",
+      "suspension": "术前仅在用于麻醉区时需停用",
+      "risk": "过量使用可导致系统毒性、延迟愈合",
+      "reintroduction": "术后皮肤恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "利多卡因",
+      "nomeComercial": "Xylocaine、Emla、Lidoderm",
+      "mecanismoAcao": "阻断钠通道，抑制神经信号传导",
+      "farmacocinetica": "吸收依部位与面积；肝脏代谢；半衰期1.5–2小时",
+      "farmacodinamica": "局部麻醉与镇痛作用",
+      "indicacoes": "术前麻醉、神经性疼痛、烧伤、痒疹",
+      "reacoesAdversas": "刺痛、皮炎、稀有CNS毒性",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "局部使用安全",
+      "administracao": "外用",
+      "doseMaxima": "不超过5 mg/kg/天",
+      "doseMinima": "根据需要薄涂",
+      "classificacao": "酰胺类局麻药",
+      "apresentacao": "乳膏5%、喷雾10%、贴剂5%",
+      "interacaoMedicamento": "避免与其他局麻药合用",
+      "posologia": "术前15–60分钟涂抹；日用不超3次",
+      "armazenamento": "<25°C",
+      "preparo": "直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "过敏、感染或破损皮肤",
+      "cuidadosMedicos": "注意总剂量、面积及时间",
+      "cuidadosFarmaceuticos": "强调毒性预防，教育合理用药",
+      "cuidadosEnfermagem": "观察用药反应与系统中毒征象",
+      "fontesBibliograficas": "FDA、Micromedex、Medscape、中国药典"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Mefloquina",
+      "suspension": "Suspender 7 dias antes da cirurgia",
+      "risk": "Risco de efeitos neuropsiquiátricos e interações com anestésicos; possível prolongamento de QT",
+      "reintroduction": "Reintroduzir após recuperação completa e ECG normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mefloquina",
+      "nomeComercial": "Lariam",
+      "mecanismoAcao": "Interfere com a degradação da hemoglobina pelo parasita, levando à sua morte",
+      "farmacocinetica": "Via oral, meia-vida longa (~2–4 semanas), excreção biliar",
+      "farmacodinamica": "Antimalárico esquizonticida contra formas sanguíneas de Plasmodium",
+      "indicacoes": "Profilaxia e tratamento da malária por P. falciparum e P. vivax",
+      "reacoesAdversas": "Ansiedade, insônia, tontura, alucinações, prolongamento de QT",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Pode ser usada com cautela",
+      "administracao": "Oral",
+      "doseMaxima": "1.250 mg (tratamento)",
+      "doseMinima": "250 mg/semana (profilaxia)",
+      "classificacao": "Antimalárico (quinolina)",
+      "apresentacao": "Comprimidos de 250 mg",
+      "interacaoMedicamento": "Interage com anticonvulsivantes, QT-prolongadores e anestésicos",
+      "posologia": "Profilaxia: 250 mg/semana; Tratamento: dose única de 1.250 mg",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Distúrbios psiquiátricos, epilepsia, arritmias, hipersensibilidade",
+      "cuidadosMedicos": "ECG e avaliação neurológica pré-operatória se em uso contínuo",
+      "cuidadosFarmaceuticos": "Orientar sobre sinais neuropsiquiátricos e interações",
+      "cuidadosEnfermagem": "Observar distúrbios do sono, agitação, alterações cardíacas",
+      "fontesBibliograficas": "ANVISA, WHO, Micromedex, BNF, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mefloquine",
+      "suspension": "Discontinue 7 days before surgery",
+      "risk": "Neuropsychiatric effects and QT prolongation; anesthetic interactions",
+      "reintroduction": "Restart post-op with full recovery and normal ECG"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mefloquine",
+      "nomeComercial": "Lariam",
+      "mecanismoAcao": "Disrupts hemoglobin digestion in Plasmodium, leading to parasite death",
+      "farmacocinetica": "Oral, long half-life (~2–4 weeks), biliary excretion",
+      "farmacodinamica": "Schizonticidal antimalarial for blood-stage Plasmodium",
+      "indicacoes": "Prophylaxis and treatment of P. falciparum and P. vivax malaria",
+      "reacoesAdversas": "Anxiety, dizziness, hallucinations, insomnia, QT prolongation",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Can be used with caution",
+      "administracao": "Oral",
+      "doseMaxima": "1,250 mg (treatment)",
+      "doseMinima": "250 mg/week (prophylaxis)",
+      "classificacao": "Antimalarial (quinoline)",
+      "apresentacao": "250 mg tablets",
+      "interacaoMedicamento": "Interacts with anticonvulsants, QT-prolonging drugs, anesthetics",
+      "posologia": "Prophylaxis: 250 mg/week; Treatment: 1,250 mg single dose",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Direct oral use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Psychiatric disorders, epilepsy, arrhythmia, hypersensitivity",
+      "cuidadosMedicos": "Baseline ECG and neurologic assessment if on long-term use",
+      "cuidadosFarmaceuticos": "Counsel on neuropsych and cardiac risks",
+      "cuidadosEnfermagem": "Watch for agitation, sleep disturbance, cardiac signs",
+      "fontesBibliograficas": "FDA, WHO, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Mefloquina",
+      "suspension": "Suspender 7 días antes de cirugía",
+      "risk": "Efectos neuropsiquiátricos y prolongación de QT; interacciones anestésicas",
+      "reintroduction": "Reintroducir tras recuperación completa y ECG normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mefloquina",
+      "nomeComercial": "Lariam",
+      "mecanismoAcao": "Interfiere con la digestión de hemoglobina en Plasmodium",
+      "farmacocinetica": "Oral, vida media larga (~2–4 semanas), excreción biliar",
+      "farmacodinamica": "Antipalúdico esquizonticida en fase sanguínea",
+      "indicacoes": "Profilaxis y tratamiento de malaria por P. falciparum y P. vivax",
+      "reacoesAdversas": "Ansiedad, alucinaciones, insomnio, mareos, QT prolongado",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Usar con precaución",
+      "administracao": "Oral",
+      "doseMaxima": "1.250 mg (tratamiento)",
+      "doseMinima": "250 mg/semana (profilaxis)",
+      "classificacao": "Antipalúdico (quinolina)",
+      "apresentacao": "Comprimidos de 250 mg",
+      "interacaoMedicamento": "Interacciones con antiepilépticos, QT-prolongadores, anestésicos",
+      "posologia": "Profilaxis: 250 mg/semana; Tratamiento: dosis única 1.250 mg",
+      "armazenamento": "Ambiente, protegido de luz",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Trastornos psiquiátricos, epilepsia, arritmias",
+      "cuidadosMedicos": "ECG y evaluación neurológica previa si en uso prolongado",
+      "cuidadosFarmaceuticos": "Advertir sobre efectos neurológicos y cardíacos",
+      "cuidadosEnfermagem": "Observar insomnio, ansiedad, signos cardíacos",
+      "fontesBibliograficas": "AEMPS, WHO, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甲氟喹",
+      "suspension": "术前7天停药",
+      "risk": "可能引发神经精神副作用及QT延长，与麻醉药有相互作用",
+      "reintroduction": "术后完全恢复并心电图正常后方可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甲氟喹",
+      "nomeComercial": "Lariam",
+      "mecanismoAcao": "干扰疟原虫对血红蛋白的代谢，导致其死亡",
+      "farmacocinetica": "口服，半衰期长（2–4周），胆汁排泄",
+      "farmacodinamica": "杀灭疟原虫血液期裂殖体的抗疟药",
+      "indicacoes": "预防和治疗恶性疟和间日疟",
+      "reacoesAdversas": "焦虑、幻觉、失眠、头晕、QT延长",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可慎用",
+      "administracao": "口服",
+      "doseMaxima": "1250毫克（治疗）",
+      "doseMinima": "每周250毫克（预防）",
+      "classificacao": "抗疟药（喹啉类）",
+      "apresentacao": "250毫克片剂",
+      "interacaoMedicamento": "与抗癫痫药、QT延长药、麻醉药相互作用",
+      "posologia": "预防：每周250毫克；治疗：一次1250毫克",
+      "armazenamento": "室温避光",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "精神病史、癫痫、心律失常",
+      "cuidadosMedicos": "长程使用需做心电图和神经评估",
+      "cuidadosFarmaceuticos": "警惕神经系统和心脏毒性",
+      "cuidadosEnfermagem": "观察焦虑、睡眠障碍、心律异常",
+      "fontesBibliograficas": "中国药典、WHO、Micromedex、UpToDate"
+    }
+  }
+}

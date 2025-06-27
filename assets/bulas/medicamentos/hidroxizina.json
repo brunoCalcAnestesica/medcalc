@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Hidroxizina",
+      "suspension": "Suspender 24 horas antes de cirurgias eletivas com anestesia geral.",
+      "risk": "Potencial sedativo significativo, risco de depressão respiratória se combinada a opioides ou anestésicos. Prolongamento do QT em altas doses.",
+      "reintroduction": "Pode ser reintroduzida no pós-operatório se necessário, com monitoramento de sedação e ECG."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidroxizina dicloridrato",
+      "nomeComercial": "Hixizine, Pergo, Atarax",
+      "mecanismoAcao": "Antagonista dos receptores H1 de histamina, com ação ansiolítica, sedativa, antiemética e anticolinérgica moderada.",
+      "farmacocinetica": "Início: 15–30 min; pico: 2 h; meia-vida: 20–25 h; metabolização hepática; excreção renal.",
+      "farmacodinamica": "Reduz prurido, ansiedade e náuseas. Efeito sedativo proeminente, sem dependência.",
+      "indicacoes": "Prurido, urticária, ansiedade leve, náuseas, pré-medicação anestésica.",
+      "reacoesAdversas": "Sonolência, boca seca, tontura, cefaleia, fadiga, visão turva, prolongamento do intervalo QT (raro).",
+      "riscoGravidez": "Categoria C – evitar no primeiro trimestre.",
+      "riscoLactacao": "Contraindicada – excreção no leite materno com risco de sedação neonatal.",
+      "administracao": "Oral, intramuscular (IM).",
+      "doseMaxima": "100 mg/dia (adultos); 2 mg/kg/dia (crianças).",
+      "doseMinima": "10–25 mg/dia.",
+      "classificacao": "Antihistamínico H1 de 1ª geração com ação ansiolítica.",
+      "apresentacao": "Comprimidos (10, 25 mg), solução oral (10 mg/5 mL), ampola IM (50 mg/mL).",
+      "interacaoMedicamento": "Depressores do SNC, álcool, opioides, anticolinérgicos, macrolídeos, antifúngicos azólicos.",
+      "posologia": "25 mg VO à noite ou 3x/dia; IM: 25–50 mg.",
+      "armazenamento": "Temperatura ambiente, protegido da luz.",
+      "preparo": "IM: administrar lentamente em músculo profundo.",
+      "solucoesCompatíveis": "SF 0,9% para diluição IM (opcional).",
+      "contraindicacoes": "Prolongamento do QT, gravidez 1º trimestre, amamentação, hipersensibilidade.",
+      "cuidadosMedicos": "Avaliar ECG em idosos, monitorar sedação e efeitos anticolinérgicos.",
+      "cuidadosFarmaceuticos": "Evitar uso com outros depressores do SNC; monitorar dose.",
+      "cuidadosEnfermagem": "Observar sedação, frequência respiratória, boca seca, visão e sinais de toxicidade.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hydroxyzine",
+      "suspension": "Discontinue 24 hours before general anesthesia due to sedative effects.",
+      "risk": "Significant sedation, risk of respiratory depression when combined with opioids or anesthetics. QT prolongation at high doses.",
+      "reintroduction": "Can be restarted post-op with monitoring of sedation and ECG."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hydroxyzine hydrochloride",
+      "nomeComercial": "Vistaril, Atarax, Hydroxyzine Pamoate",
+      "mecanismoAcao": "First-generation H1 receptor antagonist with sedative, anxiolytic, antiemetic, and anticholinergic properties.",
+      "farmacocinetica": "Onset: 15–30 min; peak: 2 h; t½: 20–25 h; hepatic metabolism; renal excretion.",
+      "farmacodinamica": "Reduces anxiety, itching, nausea; significant sedative effect without dependence.",
+      "indicacoes": "Anxiety, pruritus, urticaria, premedication before surgery, nausea.",
+      "reacoesAdversas": "Drowsiness, dry mouth, dizziness, blurred vision, QT prolongation (rare).",
+      "riscoGravidez": "Category C – avoid in first trimester.",
+      "riscoLactacao": "Contraindicated – passes into milk and may sedate the infant.",
+      "administracao": "Oral, intramuscular (IM).",
+      "doseMaxima": "100 mg/day (adults); 2 mg/kg/day (children).",
+      "doseMinima": "10–25 mg/day.",
+      "classificacao": "First-generation antihistamine with anxiolytic action.",
+      "apresentacao": "Tablets (10, 25 mg), syrup (10 mg/5 mL), IM ampoule (50 mg/mL).",
+      "interacaoMedicamento": "CNS depressants, alcohol, opioids, macrolides, azoles, anticholinergics.",
+      "posologia": "25 mg PO at bedtime or TID; IM: 25–50 mg.",
+      "armazenamento": "Room temperature, protect from light.",
+      "preparo": "IM: inject slowly into a deep muscle.",
+      "solucoesCompatíveis": "0.9% saline (optional for IM).",
+      "contraindicacoes": "QT prolongation, 1st trimester pregnancy, breastfeeding, hypersensitivity.",
+      "cuidadosMedicos": "ECG in elderly, monitor sedation and anticholinergic effects.",
+      "cuidadosFarmaceuticos": "Avoid combination with CNS depressants.",
+      "cuidadosEnfermagem": "Observe sedation, RR, dry mouth, vision changes.",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hidroxizina",
+      "suspension": "Suspender 24 h antes de anestesia general por su efecto sedante.",
+      "risk": "Sedación significativa, riesgo de depresión respiratoria y QT prolongado. Úsese con precaución.",
+      "reintroduction": "Puede reiniciarse en el postoperatorio con control clínico."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidroxizina clorhidrato",
+      "nomeComercial": "Atarax, Hixizine",
+      "mecanismoAcao": "Antihistamínico H1 de 1ª generación con acción sedante, ansiolítica y antiemética.",
+      "farmacocinetica": "Inicio: 15–30 min; pico: 2 h; t½: 20–25 h; metabolismo hepático.",
+      "farmacodinamica": "Reduce prurito, ansiedad, náuseas. Sedación potente, no adictiva.",
+      "indicacoes": "Ansiedad leve, prurito, urticaria, náuseas, premedicación quirúrgica.",
+      "reacoesAdversas": "Somnolencia, boca seca, mareo, visión borrosa, QT prolongado (raro).",
+      "riscoGravidez": "Categoría C – evitar en el primer trimestre.",
+      "riscoLactacao": "Contraindicado por sedación neonatal.",
+      "administracao": "Oral, intramuscular.",
+      "doseMaxima": "100 mg/día (adultos); 2 mg/kg/día (niños).",
+      "doseMinima": "10–25 mg/día.",
+      "classificacao": "Antihistamínico H1 sedante de 1ª generación.",
+      "apresentacao": "Comprimidos (10, 25 mg), solución (10 mg/5 mL), ampolla IM (50 mg/mL).",
+      "interacaoMedicamento": "Depresores SNC, alcohol, opioides, antifúngicos, macrólidos.",
+      "posologia": "25 mg VO 1–3 veces/día; IM: 25–50 mg.",
+      "armazenamento": "Ambiente seco, protegido de luz.",
+      "preparo": "IM: inyectar lento en músculo profundo.",
+      "solucoesCompatíveis": "ClNa 0,9%.",
+      "contraindicacoes": "Embarazo 1T, lactancia, hipersensibilidad.",
+      "cuidadosMedicos": "Monitorear ECG y efectos anticolinérgicos.",
+      "cuidadosFarmaceuticos": "Evitar combinaciones sedantes.",
+      "cuidadosEnfermagem": "Observar somnolencia, PA, FC, visión.",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "羟嗪（Hydroxyzine）",
+      "suspension": "术前24小时停用以避免镇静干扰麻醉。",
+      "risk": "嗜睡、口干、QT延长、与麻醉药物协同抑制呼吸。",
+      "reintroduction": "术后可恢复使用，监测镇静与ECG。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "羟嗪",
+      "nomeComercial": "Atarax、Hixizine",
+      "mecanismoAcao": "第一代H1受体拮抗剂，具抗焦虑、镇静、抗组胺作用。",
+      "farmacocinetica": "起效15–30分钟，达峰2小时，半衰期20–25小时，经肝代谢，肾排泄。",
+      "farmacodinamica": "缓解瘙痒、焦虑、恶心，显著镇静无依赖性。",
+      "indicacoes": "焦虑、过敏性皮肤病、荨麻疹、术前用药、恶心呕吐。",
+      "reacoesAdversas": "困倦、口干、头晕、视力模糊、QT延长（罕见）。",
+      "riscoGravidez": "C类，孕早期禁用。",
+      "riscoLactacao": "哺乳期禁用，可镇静婴儿。",
+      "administracao": "口服、肌注。",
+      "doseMaxima": "成人每日不超100毫克；儿童2 mg/kg/日。",
+      "doseMinima": "10–25 mg/天。",
+      "classificacao": "一代H1抗组胺药。",
+      "apresentacao": "片剂（10、25 mg）、口服液（10 mg/5 mL）、注射液（50 mg/mL）。",
+      "interacaoMedicamento": "酒精、中枢抑制药、抗胆碱药、抗真菌药、红霉素。",
+      "posologia": "口服25 mg，每日1–3次；肌注25–50 mg。",
+      "armazenamento": "避光常温储存。",
+      "preparo": "肌注时可稀释，缓慢注射。",
+      "solucoesCompatíveis": "0.9%氯化钠。",
+      "contraindicacoes": "QT延长、孕早期、哺乳期、过敏者。",
+      "cuidadosMedicos": "老年人或QT风险者监测ECG及镇静反应。",
+      "cuidadosFarmaceuticos": "警惕与中枢抑制药同用。",
+      "cuidadosEnfermagem": "观察镇静、呼吸、心电变化。",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

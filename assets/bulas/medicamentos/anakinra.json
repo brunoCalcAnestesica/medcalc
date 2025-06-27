@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Anakinra",
+      "suspension": "Suspender 1 a 2 semanas antes de cirurgias eletivas",
+      "risk": "Imunossupressor anti-IL-1; aumenta risco de infecção, atrasos na cicatrização e supressão de resposta inflamatória aguda",
+      "reintroduction": "Reintroduzir após cicatrização adequada e exclusão de infecção"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anakinra",
+      "nomeComercial": "Kineret",
+      "mecanismoAcao": "Antagonista recombinante do receptor de interleucina-1 (IL-1), bloqueia sinalização inflamatória",
+      "farmacocinetica": "Meia-vida ~4–6 h, administração subcutânea, excreção renal",
+      "farmacodinamica": "Inibe a ação da IL-1, reduzindo inflamação e febre associadas a doenças autoimunes",
+      "indicacoes": "Artrite reumatoide, doenças auto-inflamatórias raras (CAPS, NOMID), gota refratária, COVID-19 grave (uso compassivo)",
+      "reacoesAdversas": "Reações no local da injeção, infecções, neutropenia, cefaleia",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Uso permitido com cautela; monitorar lactente",
+      "administracao": "Subcutânea",
+      "doseMaxima": "100 mg/dia (adultos); 2 mg/kg/dia (pediatria)",
+      "doseMinima": "1–2 mg/kg/dia",
+      "classificacao": "Imunobiológico anti-IL-1",
+      "apresentacao": "Solução injetável 100 mg/0,67 mL em seringa preenchida",
+      "interacaoMedicamento": "Evitar uso concomitante com outros imunobiológicos (anti-TNF)",
+      "posologia": "100 mg SC 1x/dia; ajustar em função renal",
+      "armazenamento": "Refrigerado entre 2–8°C, proteger da luz; não congelar",
+      "preparo": "Pronto para uso; deixar à temperatura ambiente por 30 min antes da administração",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao anakinra ou derivados de E. coli, infecção ativa grave",
+      "cuidadosMedicos": "Monitorar hemograma, função renal e sinais de infecção",
+      "cuidadosFarmaceuticos": "Utilizar técnica asséptica; orientar descarte seguro da seringa",
+      "cuidadosEnfermagem": "Observar reações locais e sistêmicas pós-aplicação",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Anakinra",
+      "suspension": "Hold 1–2 weeks before elective surgery",
+      "risk": "Anti-IL-1 biologic; may impair wound healing and increase infection risk",
+      "reintroduction": "Restart post-op after wound healing and infection exclusion"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anakinra",
+      "nomeComercial": "Kineret",
+      "mecanismoAcao": "Recombinant IL-1 receptor antagonist; inhibits IL-1 mediated inflammatory pathways",
+      "farmacocinetica": "Half-life 4–6 h; SC injection; renal elimination",
+      "farmacodinamica": "Reduces inflammation and systemic symptoms in auto-inflammatory diseases",
+      "indicacoes": "Rheumatoid arthritis, CAPS, NOMID, refractory gout, COVID-19 (investigational)",
+      "reacoesAdversas": "Injection site reactions, infections, neutropenia, headache",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Use with caution; monitor infant",
+      "administracao": "Subcutaneous",
+      "doseMaxima": "100 mg/day (adults); 2 mg/kg/day (children)",
+      "doseMinima": "1–2 mg/kg/day",
+      "classificacao": "Anti-IL-1 biologic",
+      "apresentacao": "Prefilled syringe 100 mg/0.67 mL",
+      "interacaoMedicamento": "Avoid concomitant biologics (e.g. TNF inhibitors)",
+      "posologia": "100 mg SC daily; adjust for renal impairment",
+      "armazenamento": "Refrigerate 36–46°F; protect from light; do not freeze",
+      "preparo": "Ready to use; allow to warm to room temperature for 30 min before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity to anakinra or E. coli-derived proteins; active severe infection",
+      "cuidadosMedicos": "Monitor CBC, renal function, infection signs",
+      "cuidadosFarmaceuticos": "Ensure cold chain; aseptic preparation and disposal",
+      "cuidadosEnfermagem": "Monitor for local/systemic reactions after injection",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Anakinra",
+      "suspension": "Suspender 1–2 semanas antes de cirugía programada",
+      "risk": "Biológico anti-IL-1; riesgo de infección y mala cicatrización",
+      "reintroduction": "Reiniciar tras cicatrización y sin signos de infección"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anakinra",
+      "nomeComercial": "Kineret",
+      "mecanismoAcao": "Antagonista recombinante del receptor IL-1; bloquea la vía inflamatoria IL-1",
+      "farmacocinetica": "Vida media 4–6 h; vía SC; eliminación renal",
+      "farmacodinamica": "Reduce inflamación y síntomas en enfermedades autoinflamatorias",
+      "indicacoes": "AR, CAPS, NOMID, gota refractaria, COVID-19 grave (uso compasivo)",
+      "reacoesAdversas": "Reacciones locales, infecciones, neutropenia, cefalea",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Uso con precaución; monitorizar lactante",
+      "administracao": "Subcutánea",
+      "doseMaxima": "100 mg/día adultos; 2 mg/kg/día niños",
+      "doseMinima": "1–2 mg/kg/día",
+      "classificacao": "Biológico anti-IL-1",
+      "apresentacao": "Jeringa precargada 100 mg/0.67 mL",
+      "interacaoMedicamento": "Evitar con otros biológicos (anti-TNF)",
+      "posologia": "100 mg SC/día; ajustar según función renal",
+      "armazenamento": "Refrigerar 2–8 °C; no congelar; proteger de luz",
+      "preparo": "Uso directo; dejar 30 min a temperatura ambiente",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, infección activa grave",
+      "cuidadosMedicos": "Control hematológico, renal e infecciones",
+      "cuidadosFarmaceuticos": "Cadena de frío y descarte adecuado",
+      "cuidadosEnfermagem": "Observar reacciones locales y sistémicas",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿那白滞素",
+      "suspension": "择期手术前1–2周停药",
+      "risk": "IL-1拮抗剂；可能增加感染与术后愈合延迟风险",
+      "reintroduction": "术后伤口愈合良好且无感染后重新给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿那白滞素",
+      "nomeComercial": "Kineret",
+      "mecanismoAcao": "重组IL-1受体拮抗剂，阻断炎症因子IL-1介导反应",
+      "farmacocinetica": "半衰期4–6小时，SC吸收，经肾排泄",
+      "farmacodinamica": "抑制IL-1引起的发热和炎症，缓解自身炎症病症状",
+      "indicacoes": "类风湿关节炎、CAPS、NOMID、难治性痛风、重症COVID-19（试验性）",
+      "reacoesAdversas": "注射部位反应、感染、中性粒细胞减少、头痛",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可用，需监测婴儿",
+      "administracao": "皮下注射",
+      "doseMaxima": "成人100 mg/d；儿童2 mg/kg/d",
+      "doseMinima": "1–2 mg/kg/d",
+      "classificacao": "抗IL-1生物制剂",
+      "apresentacao": "100 mg/0.67 mL预充注射器",
+      "interacaoMedicamento": "禁与其他生物制剂（如抗TNF）合用",
+      "posologia": "每日100 mg SC；肾功能减退者需调整剂量",
+      "armazenamento": "冷藏（2–8°C），避光，不可冷冻",
+      "preparo": "皮下注射前静置30分钟",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对本品或大肠杆菌来源蛋白过敏，活动性感染",
+      "cuidadosMedicos": "监测血常规、肾功能及感染迹象",
+      "cuidadosFarmaceuticos": "保持冷链运输；使用无菌技术",
+      "cuidadosEnfermagem": "观察注射反应及感染征象",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

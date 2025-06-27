@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Piroxicam",
+      "suspension": "Suspender 72 horas antes de procedimentos cirúrgicos eletivos.",
+      "risk": "Risco elevado de sangramento, lesão gástrica, nefrotoxicidade e interação com anestésicos e anticoagulantes. Meia-vida longa aumenta risco perioperatório.",
+      "reintroduction": "Reintroduzir após recuperação gastrintestinal e estabilidade hemodinâmica, preferencialmente após 72h da cirurgia."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piroxicam",
+      "nomeComercial": "Feldene, Brexin, Pirox, Cycladol",
+      "mecanismoAcao": "Inibição não seletiva das enzimas COX-1 e COX-2, reduzindo a síntese de prostaglandinas inflamatórias.",
+      "farmacocinetica": "Absorção oral lenta, pico plasmático em 3–5h; alta ligação proteica (>99%); meia-vida longa (~50h); excreção renal e biliar.",
+      "farmacodinamica": "Potente ação anti-inflamatória e analgésica com efeito prolongado. Ação antipirética e inibição da agregação plaquetária reversível.",
+      "indicacoes": "Artrite reumatoide, osteoartrite, espondilite anquilosante, dor musculoesquelética crônica.",
+      "reacoesAdversas": "Gastrite, úlcera péptica, dispepsia, tontura, cefaleia, edema, hipertensão, insuficiência renal, reações cutâneas graves (ex: Síndrome de Stevens-Johnson).",
+      "riscoGravidez": "Categoria C (1º e 2º trimestres), D (3º trimestre).",
+      "riscoLactacao": "Evitar uso prolongado durante a lactação.",
+      "administracao": "Via oral ou intramuscular.",
+      "doseMaxima": "20 mg/dia.",
+      "doseMinima": "10 mg/dia.",
+      "classificacao": "Anti-inflamatório não esteroidal (AINE) não seletivo.",
+      "apresentacao": "Comprimidos 10 mg e 20 mg, cápsulas, supositórios, injetável IM 20 mg/mL.",
+      "interacaoMedicamento": "Interage com anticoagulantes, AAS, lítio, metotrexato, AINEs, corticoides, anti-hipertensivos.",
+      "posologia": "10 a 20 mg/dia, dose única diária.",
+      "armazenamento": "Temperatura ambiente (15–30°C).",
+      "preparo": "Forma injetável deve ser aplicada profundamente no músculo glúteo.",
+      "solucoesCompatíveis": "Não se aplica (injeção IM).",
+      "contraindicacoes": "Úlcera ativa, insuficiência renal ou hepática grave, insuficiência cardíaca descompensada, gravidez no 3º trimestre.",
+      "cuidadosMedicos": "Monitorar função renal e gastrointestinal, PA e sinais de toxicidade cutânea.",
+      "cuidadosFarmaceuticos": "Evitar associações com outros AINEs ou anticoagulantes; avaliar gastroproteção.",
+      "cuidadosEnfermagem": "Orientar administração com alimentos; observar sinais de desconforto GI e reações adversas cutâneas.",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate, EULAR, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Piroxicam",
+      "suspension": "Discontinue 72 hours before elective surgery.",
+      "risk": "High risk of GI bleeding, renal injury, prolonged platelet inhibition, and interaction with anesthetics and anticoagulants. Long half-life increases perioperative risk.",
+      "reintroduction": "Restart only after full GI recovery and hemodynamic stabilization, ideally ≥72h post-op."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piroxicam",
+      "nomeComercial": "Feldene, Pirocam, Brexidol",
+      "mecanismoAcao": "Non-selective COX-1 and COX-2 inhibitor, reducing prostaglandin synthesis involved in pain, fever, and inflammation.",
+      "farmacocinetica": "Slow oral absorption; peak 3–5h; >99% protein bound; long half-life ~50h; renal and biliary excretion.",
+      "farmacodinamica": "Potent anti-inflammatory and analgesic with long duration. Reversible platelet inhibition and antipyretic action.",
+      "indicacoes": "Rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, chronic MSK pain.",
+      "reacoesAdversas": "GI irritation, ulceration, dyspepsia, headache, dizziness, edema, hypertension, renal dysfunction, severe skin reactions (SJS, TEN).",
+      "riscoGravidez": "Category C (1st/2nd trimesters), D (3rd trimester).",
+      "riscoLactacao": "Avoid prolonged use during breastfeeding.",
+      "administracao": "Oral or intramuscular.",
+      "doseMaxima": "20 mg/day.",
+      "doseMinima": "10 mg/day.",
+      "classificacao": "Non-selective NSAID.",
+      "apresentacao": "Tablets 10 mg, 20 mg; capsules; suppositories; IM injection (20 mg/mL).",
+      "interacaoMedicamento": "Interacts with warfarin, aspirin, lithium, methotrexate, other NSAIDs, corticosteroids, antihypertensives.",
+      "posologia": "10–20 mg once daily.",
+      "armazenamento": "Room temp (15–30°C).",
+      "preparo": "IM form should be injected deep into gluteal muscle.",
+      "solucoesCompatíveis": "Not applicable (IM only).",
+      "contraindicacoes": "Active GI ulcer, severe hepatic/renal impairment, decompensated heart failure, 3rd trimester pregnancy.",
+      "cuidadosMedicos": "Monitor renal/GI status, BP, skin reactions.",
+      "cuidadosFarmaceuticos": "Avoid NSAID combinations; consider gastroprotection.",
+      "cuidadosEnfermagem": "Administer with food; monitor for GI symptoms and cutaneous toxicity.",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Piroxicam",
+      "suspension": "Suspender 72 horas antes de cirugía electiva.",
+      "risk": "Mayor riesgo de sangrado digestivo, toxicidad renal, inhibición plaquetaria prolongada y reacciones cutáneas. Vida media larga.",
+      "reintroduction": "Reintroducir tras recuperación GI completa y estabilidad hemodinámica (≥72h postoperatorias)."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piroxicam",
+      "nomeComercial": "Feldene, Brexin, Pirocam",
+      "mecanismoAcao": "Inhibidor no selectivo de COX-1 y COX-2, reduce prostaglandinas.",
+      "farmacocinetica": "Absorción lenta, pico 3–5h, vida media ~50h, >99% unión a proteínas, excreción renal y biliar.",
+      "farmacodinamica": "Anti-inflamatorio, analgésico y antipirético potente, inhibe plaquetas de forma reversible.",
+      "indicacoes": "Artritis reumatoide, osteoartritis, espondilitis, dolor crónico.",
+      "reacoesAdversas": "Dispepsia, úlceras, vértigo, cefalea, edema, HTA, IRA, reacciones cutáneas graves (SJS/TEN).",
+      "riscoGravidez": "Categoría C (1º/2º), D (3º trimestre).",
+      "riscoLactacao": "Evitar uso prolongado.",
+      "administracao": "Oral o IM.",
+      "doseMaxima": "20 mg/día.",
+      "doseMinima": "10 mg/día.",
+      "classificacao": "AINE no selectivo.",
+      "apresentacao": "Comprimidos 10/20 mg, cápsulas, supositorios, ampolla IM.",
+      "interacaoMedicamento": "Interacción con AAS, warfarina, litio, metotrexato, corticoides.",
+      "posologia": "10–20 mg 1 vez al día.",
+      "armazenamento": "15–30°C.",
+      "preparo": "Aplicar IM profundo (glúteo).",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Úlcera activa, IRC/insuf. hepática grave, IC descompensada, embarazo 3º trimestre.",
+      "cuidadosMedicos": "Monitorizar renal, PA, síntomas GI y piel.",
+      "cuidadosFarmaceuticos": "Evitar combinaciones AINE; valorar gastroprotección.",
+      "cuidadosEnfermagem": "Tomar con alimentos; observar síntomas digestivos o cutáneos.",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "吡罗昔康（Piroxicam）",
+      "suspension": "择期手术前72小时停药。",
+      "risk": "高出血与肾毒性风险，抑制血小板、半衰期长；术中与麻醉药有相互作用。",
+      "reintroduction": "术后≥72小时、肠胃恢复与血流动力学稳定后再使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "吡罗昔康",
+      "nomeComercial": "Feldene、Pirocam、Brexidol",
+      "mecanismoAcao": "非选择性COX抑制剂，减少炎性前列腺素生成。",
+      "farmacocinetica": "口服吸收慢，3–5小时达峰，蛋白结合>99%，半衰期~50小时，经肾/胆排泄。",
+      "farmacodinamica": "强效抗炎镇痛退热，血小板抑制可逆，作用持久。",
+      "indicacoes": "类风湿、骨关节炎、强直性脊柱炎、慢性肌骨疼痛。",
+      "reacoesAdversas": "胃炎、溃疡、消化不良、头晕、头痛、水肿、高血压、急性肾损伤、重度皮疹（SJS）。",
+      "riscoGravidez": "C类（前2期）、D类（妊娠晚期）。",
+      "riscoLactacao": "哺乳期避免长期使用。",
+      "administracao": "口服或肌注。",
+      "doseMaxima": "每日20毫克。",
+      "doseMinima": "每日10毫克。",
+      "classificacao": "非选择性NSAID。",
+      "apresentacao": "10/20毫克片剂、胶囊、栓剂、IM注射液。",
+      "interacaoMedicamento": "与阿司匹林、华法林、锂、甲氨蝶呤、激素等有相互作用。",
+      "posologia": "每日一次10–20毫克。",
+      "armazenamento": "15–30°C。",
+      "preparo": "IM注射需深部臀肌注射。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "活动性溃疡、严重肝肾病、心衰、妊娠晚期。",
+      "cuidadosMedicos": "监测肾功能、血压、胃肠反应与皮肤表现。",
+      "cuidadosFarmaceuticos": "避免与其他NSAID合用，考虑保护胃。",
+      "cuidadosEnfermagem": "饭后服用；观察胃痛、皮疹或不良反应。",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

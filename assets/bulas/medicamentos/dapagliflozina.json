@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Dapagliflozina",
+      "suspension": "Suspender 24 horas antes da cirurgia",
+      "risk": "Risco de euglicemia com cetoacidose e desidratação perioperatória",
+      "reintroduction": "Reintroduzir após estabilização clínica e função renal adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dapagliflozina",
+      "nomeComercial": "Forxiga, Dapa, Xigduo (com metformina)",
+      "mecanismoAcao": "Inibe o cotransportador SGLT2 no túbulo renal, promovendo glicosúria",
+      "farmacocinetica": "Boa absorção oral, metabolizada no fígado via UGT1A9",
+      "farmacodinamica": "Reduz a glicemia por excreção urinária de glicose",
+      "indicacoes": "Diabetes tipo 2, IC com fração de ejeção reduzida, DRC",
+      "reacoesAdversas": "Infecções urinárias, hipotensão, cetoacidose euglicêmica",
+      "riscoGravidez": "Categoria C (evitar uso)",
+      "riscoLactacao": "Desconhecido, evitar durante amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "10 mg/dia",
+      "doseMinima": "5 mg/dia",
+      "classificacao": "Inibidor de SGLT2",
+      "apresentacao": "Comprimidos de 5 mg e 10 mg",
+      "interacaoMedicamento": "Risco aumentado com diuréticos e insulina",
+      "posologia": "Dose única diária, preferencialmente de manhã",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Doença renal crônica avançada, gravidez, cetoacidose",
+      "cuidadosMedicos": "Monitorar função renal, volemia e sinais de cetoacidose",
+      "cuidadosFarmaceuticos": "Atenção à hidratação do paciente e risco de infecção urinária",
+      "cuidadosEnfermagem": "Observar pressão arterial e sinais de infecção",
+      "fontesBibliograficas": "SBEM, ANVISA, Micromedex, FDA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Dapagliflozin",
+      "suspension": "Suspend 24 hours before surgery",
+      "risk": "Risk of euglycemic ketoacidosis and perioperative dehydration",
+      "reintroduction": "Reintroduce after clinical stabilization and adequate renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dapagliflozin",
+      "nomeComercial": "Farxiga, Xigduo XR",
+      "mecanismoAcao": "Inhibits SGLT2 in renal proximal tubule, increasing urinary glucose excretion",
+      "farmacocinetica": "Well absorbed orally, metabolized by UGT1A9",
+      "farmacodinamica": "Lowers blood glucose by promoting glucosuria",
+      "indicacoes": "Type 2 diabetes, HFrEF, chronic kidney disease",
+      "reacoesAdversas": "UTIs, hypotension, euglycemic ketoacidosis",
+      "riscoGravidez": "Category C (avoid use)",
+      "riscoLactacao": "Unknown; avoid during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "10 mg/day",
+      "doseMinima": "5 mg/day",
+      "classificacao": "SGLT2 inhibitor",
+      "apresentacao": "5 mg and 10 mg tablets",
+      "interacaoMedicamento": "Increased risk with diuretics and insulin",
+      "posologia": "Single daily dose, preferably in the morning",
+      "armazenamento": "Store at room temperature, avoid moisture",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Advanced CKD, pregnancy, ketoacidosis",
+      "cuidadosMedicos": "Monitor renal function, hydration, and signs of ketoacidosis",
+      "cuidadosFarmaceuticos": "Ensure patient hydration; monitor for urinary infections",
+      "cuidadosEnfermagem": "Check BP and signs of infection",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, SBEM, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Dapagliflozina",
+      "suspension": "Suspender 24 horas antes de la cirugía",
+      "risk": "Riesgo de cetoacidosis euglucémica y deshidratación perioperatoria",
+      "reintroduction": "Reintroducir tras estabilización clínica y función renal adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dapagliflozina",
+      "nomeComercial": "Forxiga, Xigduo (con metformina)",
+      "mecanismoAcao": "Inhibe SGLT2 en el túbulo renal, aumentando la excreción urinaria de glucosa",
+      "farmacocinetica": "Buena absorción oral, metabolizada por UGT1A9",
+      "farmacodinamica": "Reduce la glucosa promoviendo glucosuria",
+      "indicacoes": "Diabetes tipo 2, IC-FEr, ERC",
+      "reacoesAdversas": "ITU, hipotensión, cetoacidosis euglucémica",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante la lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "10 mg/día",
+      "doseMinima": "5 mg/día",
+      "classificacao": "Inhibidor de SGLT2",
+      "apresentacao": "Tabletas de 5 mg y 10 mg",
+      "interacaoMedicamento": "Mayor riesgo con diuréticos e insulina",
+      "posologia": "Dosis única diaria por la mañana",
+      "armazenamento": "Temperatura ambiente, proteger de la humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "ERC avanzada, embarazo, cetoacidosis",
+      "cuidadosMedicos": "Control de función renal, hidratación y signos de cetoacidosis",
+      "cuidadosFarmaceuticos": "Asegurar hidratación adecuada y control de ITU",
+      "cuidadosEnfermagem": "Observar TA e infecciones",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, SBEM, ANVISA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "达格列净",
+      "suspension": "术前24小时停药",
+      "risk": "术中发生正常血糖性酮症和脱水的风险",
+      "reintroduction": "术后临床稳定且肾功能恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "达格列净",
+      "nomeComercial": "安达唐, Farxiga, Xigduo XR",
+      "mecanismoAcao": "抑制肾近曲小管SGLT2，促进尿糖排出",
+      "farmacocinetica": "口服吸收好，经UGT1A9代谢",
+      "farmacodinamica": "通过增加尿糖排泄降低血糖",
+      "indicacoes": "2型糖尿病，射血分数减少型心衰，慢性肾病",
+      "reacoesAdversas": "尿路感染、低血压、正常血糖性酮症",
+      "riscoGravidez": "C类（避免使用）",
+      "riscoLactacao": "未知，避免哺乳期使用",
+      "administracao": "口服",
+      "doseMaxima": "每日10毫克",
+      "doseMinima": "每日5毫克",
+      "classificacao": "SGLT2抑制剂",
+      "apresentacao": "5毫克和10毫克片剂",
+      "interacaoMedicamento": "与利尿剂和胰岛素合用风险增加",
+      "posologia": "每天早上服用一次",
+      "armazenamento": "常温保存，防潮",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "晚期慢性肾病、妊娠、酮症酸中毒",
+      "cuidadosMedicos": "监测肾功能、体液状态及酮症风险",
+      "cuidadosFarmaceuticos": "确保患者水化，警惕尿路感染",
+      "cuidadosEnfermagem": "监测血压及感染迹象",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、SBEM"
+    }
+  }
+}

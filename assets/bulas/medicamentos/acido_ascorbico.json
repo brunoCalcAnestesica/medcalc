@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido Ascórbico (Vitamina C)",
+      "suspension": "Não é necessário suspender antes da cirurgia",
+      "risk": "Risco muito baixo. Doses elevadas podem interferir em testes laboratoriais (glicemia, creatinina), causar distúrbios gastrointestinais ou formação de cálculos renais.",
+      "reintroduction": "Pode ser mantido ou reiniciado a qualquer momento no pós-operatório, especialmente se houver má nutrição ou cicatrização comprometida."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Ascórbico",
+      "nomeComercial": "Redoxon, Cewin, Energil C, Cebion",
+      "mecanismoAcao": "Antioxidante hidrossolúvel que atua na síntese de colágeno, catecolaminas e carnitina; facilita a absorção de ferro",
+      "farmacocinetica": "Absorção intestinal por transporte ativo; saturável; meia-vida de 10 a 20 dias; excreção urinária",
+      "farmacodinamica": "Previne escorbuto, melhora cicatrização, modula resposta imune e protege contra estresse oxidativo",
+      "indicacoes": "Deficiência de vitamina C, escorbuto, suporte imunológico, cicatrização, estresse oxidativo, anemia ferropriva",
+      "reacoesAdversas": "Diarreia, náusea, dor abdominal, litíase renal em altas doses (>2g/dia)",
+      "riscoGravidez": "Categoria C (doses elevadas devem ser evitadas)",
+      "riscoLactacao": "Compatível com a amamentação em doses fisiológicas",
+      "administracao": "Oral ou endovenosa em casos selecionados (nutrição parenteral ou deficiência grave)",
+      "doseMaxima": "2000 mg/dia (limite superior tolerável)",
+      "doseMinima": "60–90 mg/dia (necessidade diária)",
+      "classificacao": "Vitamina hidrossolúvel – antioxidante",
+      "apresentacao": "Comprimidos efervescentes, gotas, cápsulas, injetável (500 mg/5 mL)",
+      "interacaoMedicamento": "Pode interferir com testes laboratoriais (glicemia, oculto nas fezes); melhora absorção de ferro; interage com anticoagulantes e anticoncepcionais orais",
+      "posologia": "100 a 500 mg/dia; até 2 g/dia em situações especiais",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Dissolver comprimidos efervescentes em água; injetável pronto para uso",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%, glicose 5% (uso EV)",
+      "contraindicacoes": "Litíase renal recorrente, hemocromatose, deficiência de G6PD (altas doses)",
+      "cuidadosMedicos": "Monitorar função renal em uso prolongado ou doses elevadas",
+      "cuidadosFarmaceuticos": "Orientar para evitar doses suprafisiológicas sem indicação",
+      "cuidadosEnfermagem": "Observar intolerância GI e adesão terapêutica",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ascorbic Acid (Vitamin C)",
+      "suspension": "No need to discontinue before surgery",
+      "risk": "Very low risk. High doses may interfere with lab tests (glucose, creatinine), cause GI upset, or kidney stones.",
+      "reintroduction": "May be continued or restarted immediately post-op, especially in malnourished or healing-impaired patients."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ascorbic Acid",
+      "nomeComercial": "Vitamin C, Cecon, Redoxon, Emergen-C",
+      "mecanismoAcao": "Water-soluble antioxidant; cofactor in collagen synthesis, neurotransmitter production, iron absorption",
+      "farmacocinetica": "Saturable intestinal absorption; renal excretion; half-life ~10–20 days",
+      "farmacodinamica": "Prevents scurvy, aids wound healing, supports immune and antioxidant function",
+      "indicacoes": "Vitamin C deficiency, scurvy, wound healing, iron-deficiency anemia, oxidative stress",
+      "reacoesAdversas": "Diarrhea, nausea, abdominal cramps, kidney stones at >2 g/day",
+      "riscoGravidez": "Category C (avoid high doses)",
+      "riscoLactacao": "Compatible in physiological doses",
+      "administracao": "Oral or IV in special cases (e.g., TPN, severe deficiency)",
+      "doseMaxima": "2000 mg/day",
+      "doseMinima": "75–90 mg/day",
+      "classificacao": "Water-soluble vitamin – antioxidant",
+      "apresentacao": "Tablets, capsules, effervescent, injection (500 mg/5 mL)",
+      "interacaoMedicamento": "May alter glucose testing; enhances iron absorption; interacts with anticoagulants and oral contraceptives",
+      "posologia": "100–500 mg/day; up to 2 g/day if needed",
+      "armazenamento": "Room temp, protect from light/moisture",
+      "preparo": "Effervescent dissolved in water; injection ready to use",
+      "solucoesCompatíveis": "0.9% NaCl, D5W (IV use)",
+      "contraindicacoes": "Recurrent nephrolithiasis, hemochromatosis, G6PD deficiency (high dose)",
+      "cuidadosMedicos": "Monitor kidney function if used long-term/high dose",
+      "cuidadosFarmaceuticos": "Avoid unindicated megadoses",
+      "cuidadosEnfermagem": "Monitor GI tolerance and adherence",
+      "fontesBibliograficas": "FDA, NIH, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido Ascórbico (Vitamina C)",
+      "suspension": "No es necesario suspender antes de cirugía",
+      "risk": "Riesgo mínimo. Dosis altas pueden interferir en pruebas de laboratorio y causar molestias gastrointestinales o litiasis renal.",
+      "reintroduction": "Puede mantenerse o reiniciar postoperatoriamente si hay desnutrición o mala cicatrización"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Ascórbico",
+      "nomeComercial": "Redoxon, Cevit, Vitamina C Genfar",
+      "mecanismoAcao": "Cofactor antioxidante hidrosoluble, participa en colágeno, catecolaminas, absorción de hierro",
+      "farmacocinetica": "Absorción intestinal saturable, excreción renal, vida media 10–20 días",
+      "farmacodinamica": "Previene escorbuto, mejora inmunidad y cicatrización",
+      "indicacoes": "Déficit de vitamina C, anemia ferropénica, estrés oxidativo, cicatrización lenta",
+      "reacoesAdversas": "Diarrea, náuseas, litiasis renal en dosis >2 g/día",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Compatible en dosis fisiológicas",
+      "administracao": "Vía oral o parenteral según necesidad",
+      "doseMaxima": "2000 mg/día",
+      "doseMinima": "60–90 mg/día",
+      "classificacao": "Vitamina hidrosoluble – antioxidante",
+      "apresentacao": "Comprimidos, cápsulas, efervescentes, ampollas inyectables",
+      "interacaoMedicamento": "Aumenta absorción de hierro, altera pruebas (glucosa); interacción con anticoagulantes y anticonceptivos orales",
+      "posologia": "100–500 mg/día; hasta 2 g/día en casos especiales",
+      "armazenamento": "15–30°C, protegido de luz y humedad",
+      "preparo": "Disolver efervescente en agua o administrar ampolla",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%",
+      "contraindicacoes": "Litiasis renal, hemocromatosis, déficit de G6PD",
+      "cuidadosMedicos": "Vigilar función renal en uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar megadosis sin indicación",
+      "cuidadosEnfermagem": "Monitorizar tolerancia digestiva",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "抗坏血酸（维生素C）",
+      "suspension": "术前无需停药",
+      "risk": "术中风险极低；大剂量可干扰实验室检测、致泌尿结石或胃肠反应",
+      "reintroduction": "术后可随时恢复，尤其用于营养不良或伤口愈合障碍者"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "抗坏血酸",
+      "nomeComercial": "维生素C注射液、Redoxon、C-vimin",
+      "mecanismoAcao": "水溶性抗氧化剂，参与胶原合成、免疫调节、铁吸收",
+      "farmacocinetica": "小肠吸收，肾排泄，半衰期10–20天",
+      "farmacodinamica": "预防坏血病、促进创面愈合、增强免疫",
+      "indicacoes": "维生素C缺乏、铁缺乏性贫血、创伤恢复、氧化应激",
+      "reacoesAdversas": "腹泻、胃部不适、泌尿结石（>2g）",
+      "riscoGravidez": "C类（慎用高剂量）",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日2000毫克",
+      "doseMinima": "每日60–90毫克",
+      "classificacao": "水溶性维生素 – 抗氧化剂",
+      "apresentacao": "片剂、泡腾片、注射液（500 mg/5 mL）",
+      "interacaoMedicamento": "增强铁吸收，干扰血糖等检测，影响抗凝药",
+      "posologia": "每日100–500毫克，特需时达2克",
+      "armazenamento": "15–30°C避光避湿",
+      "preparo": "泡腾片溶于水；注射液直接使用",
+      "solucoesCompatíveis": "0.9%氯化钠或5%葡萄糖",
+      "contraindicacoes": "泌尿结石、高铁血症、G6PD缺乏",
+      "cuidadosMedicos": "长期使用需监测肾功能",
+      "cuidadosFarmaceuticos": "避免超量使用",
+      "cuidadosEnfermagem": "监测胃肠道反应与依从性",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、FDA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Alvocidibe",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva",
+      "risk": "Risco elevado de toxicidade hematológica, síndrome de lise tumoral, hipotensão, interações com anestésicos e imunossupressão perioperatória",
+      "reintroduction": "Reintroduzir após estabilização clínica e resolução de eventos adversos hematológicos e metabólicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alvocidibe",
+      "nomeComercial": "Flavopiridol (investigacional)",
+      "mecanismoAcao": "Inibidor seletivo de CDKs (quinases dependentes de ciclina), induz parada do ciclo celular e apoptose em células tumorais",
+      "farmacocinetica": "Administração IV; alta ligação a proteínas plasmáticas; metabolização hepática; excreção biliar e renal",
+      "farmacodinamica": "Antineoplásico com potente efeito citotóxico em leucemias e neoplasias hematológicas",
+      "indicacoes": "LLC refratária, leucemias agudas (uso off-label e em ensaios clínicos)",
+      "reacoesAdversas": "Diarreia, neutropenia, febre, síndrome de lise tumoral, mucosite, fadiga, hipotensão",
+      "riscoGravidez": "Categoria D — risco fetal conhecido; evitar gravidez",
+      "riscoLactacao": "Contraindicado durante a lactação",
+      "administracao": "Intravenosa, geralmente em infusão contínua ou dividida",
+      "doseMaxima": "50 mg/m²/dose (esquemas variáveis por protocolo)",
+      "doseMinima": "30 mg/m²/dose",
+      "classificacao": "Inibidor de CDK / quimioterápico experimental",
+      "apresentacao": "Frasco-ampola liofilizado investigacional",
+      "interacaoMedicamento": "Potencial interação com inibidores de CYP3A4, anticoagulantes e agentes imunossupressores",
+      "posologia": "Conforme protocolo clínico; tipicamente 3 dias por ciclo",
+      "armazenamento": "Refrigerado (2–8°C); protegido da luz após reconstituição",
+      "preparo": "Diluir em solução de glicose 5% ou soro fisiológico; infusão lenta",
+      "solucoesCompatíveis": "Glicose 5%, Cloreto de sódio 0,9%",
+      "contraindicacoes": "Gravidez, lactação, infecção ativa grave, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar hemograma, eletrólitos, PA, função renal e hepática",
+      "cuidadosFarmaceuticos": "Assegurar preparo asséptico e descarte seguro de citotóxicos",
+      "cuidadosEnfermagem": "Monitorar reações infusionais, sinais de lise tumoral e toxicidade hematológica",
+      "fontesBibliograficas": "ClinicalTrials.gov, FDA, EMA, NCI, PubMed"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Alvocidib",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "High risk of hematologic toxicity, tumor lysis syndrome, hypotension, anesthetic interactions, and perioperative immunosuppression",
+      "reintroduction": "Restart after clinical stabilization and resolution of hematologic and metabolic adverse effects"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alvocidib",
+      "nomeComercial": "Flavopiridol (investigational)",
+      "mecanismoAcao": "Selective cyclin-dependent kinase (CDK) inhibitor; induces cell cycle arrest and apoptosis in malignant cells",
+      "farmacocinetica": "IV administration; highly protein-bound; metabolized hepatically; biliary and renal excretion",
+      "farmacodinamica": "Cytotoxic agent with potent antileukemic activity in hematologic malignancies",
+      "indicacoes": "Refractory CLL, acute leukemias (investigational and off-label use)",
+      "reacoesAdversas": "Diarrhea, neutropenia, fever, tumor lysis syndrome, mucositis, fatigue, hypotension",
+      "riscoGravidez": "Category D — fetal risk; contraception required",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Intravenous, continuous or divided infusion",
+      "doseMaxima": "50 mg/m²/dose (protocol-specific)",
+      "doseMinima": "30 mg/m²/dose",
+      "classificacao": "CDK inhibitor / experimental chemotherapy",
+      "apresentacao": "Investigational lyophilized vial",
+      "interacaoMedicamento": "May interact with CYP3A4 inhibitors, anticoagulants, immunosuppressants",
+      "posologia": "Protocol-dependent; typically 3-day cycles",
+      "armazenamento": "Refrigerate (2–8°C); protect from light after reconstitution",
+      "preparo": "Reconstitute in D5W or normal saline; infuse slowly",
+      "solucoesCompatíveis": "Dextrose 5%, Sodium chloride 0.9%",
+      "contraindicacoes": "Pregnancy, breastfeeding, severe infection, severe hepatic impairment",
+      "cuidadosMedicos": "Monitor CBC, electrolytes, BP, renal and hepatic function",
+      "cuidadosFarmaceuticos": "Ensure aseptic preparation and safe cytotoxic disposal",
+      "cuidadosEnfermagem": "Monitor infusion reactions, tumor lysis, and blood counts",
+      "fontesBibliograficas": "FDA, EMA, NCI, ClinicalTrials.gov, PubMed"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Alvocidib",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Alto riesgo de toxicidad hematológica, síndrome de lisis tumoral, hipotensión, interacciones con anestesia e inmunosupresión perioperatoria",
+      "reintroduction": "Reintroducir tras estabilización clínica y resolución de toxicidad hematológica/metabólica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alvocidib",
+      "nomeComercial": "Flavopiridol (en investigación)",
+      "mecanismoAcao": "Inhibidor selectivo de CDK que bloquea el ciclo celular e induce apoptosis en células malignas",
+      "farmacocinetica": "Vía IV; alta unión a proteínas plasmáticas; metabolismo hepático; excreción biliar y renal",
+      "farmacodinamica": "Agente citotóxico con actividad antileucémica potente",
+      "indicacoes": "LLC refractaria, leucemias agudas (uso en investigación u off-label)",
+      "reacoesAdversas": "Diarrea, neutropenia, fiebre, lisis tumoral, mucositis, fatiga, hipotensión",
+      "riscoGravidez": "Categoría D — riesgo fetal conocido; se requiere anticoncepción",
+      "riscoLactacao": "Contraindicado durante la lactancia",
+      "administracao": "Infusión intravenosa continua o dividida",
+      "doseMaxima": "50 mg/m²/dosis (según protocolo)",
+      "doseMinima": "30 mg/m²/dosis",
+      "classificacao": "Inhibidor de CDK / quimioterapia experimental",
+      "apresentacao": "Vial liofilizado investigacional",
+      "interacaoMedicamento": "Interacción potencial con inhibidores de CYP3A4, anticoagulantes e inmunosupresores",
+      "posologia": "Según protocolo clínico; comúnmente en ciclos de 3 días",
+      "armazenamento": "Refrigerar 2–8°C, proteger de la luz tras reconstitución",
+      "preparo": "Diluir en glucosa al 5% o solución salina; infusión lenta",
+      "solucoesCompatíveis": "Glucosa 5%, cloruro de sodio 0.9%",
+      "contraindicacoes": "Embarazo, lactancia, infección grave, insuficiencia hepática severa",
+      "cuidadosMedicos": "Monitorear hemograma, electrolitos, presión arterial, función renal y hepática",
+      "cuidadosFarmaceuticos": "Preparación aséptica, manejo y descarte seguro de citotóxicos",
+      "cuidadosEnfermagem": "Vigilar reacciones a la infusión, signos de lisis tumoral y toxicidad hematológica",
+      "fontesBibliograficas": "FDA, EMA, NCI, ClinicalTrials.gov, PubMed"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "Alvocidib（阿尔伏西地）",
+      "suspension": "择期手术前7天停药",
+      "risk": "高风险：血液毒性、肿瘤溶解综合征、低血压、麻醉相互作用和围手术期免疫抑制",
+      "reintroduction": "待临床稳定并解决血液和代谢毒性后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿尔伏西地",
+      "nomeComercial": "Flavopiridol（研究药物）",
+      "mecanismoAcao": "选择性CDK抑制剂，诱导肿瘤细胞周期阻滞和凋亡",
+      "farmacocinetica": "静脉给药；高蛋白结合率；肝脏代谢；胆汁及肾脏排泄",
+      "farmacodinamica": "对血液系统恶性肿瘤具强大细胞毒性作用",
+      "indicacoes": "难治性CLL、急性白血病（试验性/扩展性适应症）",
+      "reacoesAdversas": "腹泻、中性粒细胞减少、发热、肿瘤溶解、口腔炎、乏力、低血压",
+      "riscoGravidez": "D类 — 孕期禁用，需有效避孕",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉输注，连续或间断方案",
+      "doseMaxima": "50 mg/m²（依临床方案）",
+      "doseMinima": "30 mg/m²",
+      "classificacao": "CDK抑制剂 / 实验性化疗药",
+      "apresentacao": "冻干粉针（研究用）",
+      "interacaoMedicamento": "可能与CYP3A4抑制剂、抗凝药、免疫抑制剂相互作用",
+      "posologia": "按方案使用，常见3天为一个周期",
+      "armazenamento": "2–8°C冷藏保存，重构后避光",
+      "preparo": "用5%葡萄糖或生理盐水稀释，缓慢输注",
+      "solucoesCompatíveis": "5%葡萄糖、0.9%氯化钠",
+      "contraindicacoes": "妊娠、哺乳、严重感染、严重肝功能不全",
+      "cuidadosMedicos": "监测CBC、电解质、血压、肝肾功能",
+      "cuidadosFarmaceuticos": "无菌配药，妥善处理细胞毒药物",
+      "cuidadosEnfermagem": "观察输注反应、肿瘤溶解及血液毒性迹象",
+      "fontesBibliograficas": "FDA、EMA、NCI、ClinicalTrials.gov、PubMed"
+    }
+  }
+}

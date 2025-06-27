@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Apixabana",
+      "suspension": "Suspender 48 a 72 horas antes de cirurgia de risco moderado a alto; 24h se risco de sangramento for baixo",
+      "risk": "Risco elevado de sangramento intraoperatório; interage com anestesia regional; pode causar hematomas neuraxiais",
+      "reintroduction": "Reintroduzir 24 a 48 horas após cirurgia, conforme hemostasia adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Apixabana",
+      "nomeComercial": "Eliquis",
+      "mecanismoAcao": "Inibidor direto e seletivo do fator Xa da cascata de coagulação",
+      "farmacocinetica": "Absorção oral com biodisponibilidade ~50%, meia-vida de 12h, metabolismo hepático (CYP3A4) e eliminação renal e fecal",
+      "farmacodinamica": "Reduz formação de trombina e coágulos; efeito anticoagulante previsível sem necessidade de monitorização de rotina",
+      "indicacoes": "Prevenção de AVC em fibrilação atrial não valvar, trombose venosa profunda (TVP), embolia pulmonar (TEP), profilaxia pós-cirurgia ortopédica",
+      "reacoesAdversas": "Epistaxe, equimoses, hematúria, sangramento gastrointestinal, anemia",
+      "riscoGravidez": "Categoria B (usar se necessário)",
+      "riscoLactacao": "Desconhecido; evitar uso ou suspender amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "10mg 2x/dia (fase aguda TEP/TVP); 5mg 2x/dia (fibrilação atrial)",
+      "doseMinima": "2,5mg 2x/dia (profilaxia)",
+      "classificacao": "Anticoagulante oral direto (DOAC)",
+      "apresentacao": "Comprimidos de 2,5mg e 5mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores de CYP3A4 e P-gp; cuidado com outros anticoagulantes ou AINEs",
+      "posologia": "Fibrilação atrial: 5mg 2x/dia; TEP/TVP: 10mg 2x/dia por 7 dias, depois 5mg 2x/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Sangramento ativo, insuficiência hepática grave, uso com anticoagulantes concomitantes",
+      "cuidadosMedicos": "Avaliar função renal e risco hemorrágico antes de procedimentos",
+      "cuidadosFarmaceuticos": "Verificar interações e orientar suspensão conforme procedimento",
+      "cuidadosEnfermagem": "Observar sinais de sangramento e hemorragias ocultas",
+      "fontesBibliograficas": "SBH, ANVISA, FDA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Apixaban",
+      "suspension": "Hold 48–72h before moderate/high-risk procedures; 24h for low bleeding risk",
+      "risk": "High risk of surgical bleeding; interacts with regional anesthesia; may cause neuraxial hematomas",
+      "reintroduction": "Restart 24–48h post-op if hemostasis is secure"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Apixaban",
+      "nomeComercial": "Eliquis",
+      "mecanismoAcao": "Direct selective inhibitor of factor Xa in coagulation cascade",
+      "farmacocinetica": "Oral absorption ~50%, 12h half-life, hepatic metabolism (CYP3A4), renal and fecal excretion",
+      "farmacodinamica": "Reduces thrombin generation and clot formation; predictable anticoagulant effect",
+      "indicacoes": "Prevention of stroke in nonvalvular AF, DVT, PE, post-orthopedic surgery prophylaxis",
+      "reacoesAdversas": "Nosebleeds, bruising, hematuria, GI bleeding, anemia",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Unknown; not recommended",
+      "administracao": "Oral",
+      "doseMaxima": "10mg BID (acute DVT/PE); 5mg BID (AF)",
+      "doseMinima": "2.5mg BID (prophylaxis)",
+      "classificacao": "Direct oral anticoagulant (DOAC)",
+      "apresentacao": "Tablets: 2.5mg, 5mg",
+      "interacaoMedicamento": "CYP3A4 and P-gp modulators; caution with other anticoagulants or NSAIDs",
+      "posologia": "AF: 5mg BID; DVT/PE: 10mg BID for 7d then 5mg BID",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active bleeding, severe hepatic impairment, concurrent anticoagulants",
+      "cuidadosMedicos": "Evaluate renal function and bleeding risk before surgery",
+      "cuidadosFarmaceuticos": "Check interactions; ensure proper periop hold",
+      "cuidadosEnfermagem": "Monitor for bleeding signs and occult hemorrhage",
+      "fontesBibliograficas": "FDA, AHA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Apixabán",
+      "suspension": "Suspender 48–72h antes de cirugía con riesgo moderado/alto de sangrado; 24h si bajo riesgo",
+      "risk": "Alto riesgo de sangrado quirúrgico; interacción con anestesia regional; riesgo de hematoma neuraxial",
+      "reintroduction": "Reintroducir 24–48h postoperatorio si hemostasia es adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Apixabán",
+      "nomeComercial": "Eliquis",
+      "mecanismoAcao": "Inhibidor directo del factor Xa en la cascada de coagulación",
+      "farmacocinetica": "Absorción oral ~50%, semivida 12h, metabolismo hepático (CYP3A4), excreción renal y fecal",
+      "farmacodinamica": "Reduce la generación de trombina y formación de coágulos",
+      "indicacoes": "Prevención de ACV en fibrilación auricular no valvular, TVP, TEP, profilaxis postoperatoria ortopédica",
+      "reacoesAdversas": "Epistaxis, hematomas, hematuria, sangrado digestivo, anemia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Desconocido; se desaconseja",
+      "administracao": "Vía oral",
+      "doseMaxima": "10mg 2x/día (fase aguda); 5mg 2x/día",
+      "doseMinima": "2,5mg 2x/día (profilaxis)",
+      "classificacao": "Anticoagulante oral directo (DOAC)",
+      "apresentacao": "Comprimidos: 2,5mg y 5mg",
+      "interacaoMedicamento": "Interacción con CYP3A4 y P-gp; precaución con AINEs y otros anticoagulantes",
+      "posologia": "FA: 5mg 2x/día; TVP/TEP: 10mg 2x/día por 7 días, luego 5mg 2x/día",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Sangrado activo, disfunción hepática grave, uso concomitante con anticoagulantes",
+      "cuidadosMedicos": "Evaluar función renal y riesgo hemorrágico preoperatorio",
+      "cuidadosFarmaceuticos": "Controlar interacciones; suspender según cirugía",
+      "cuidadosEnfermagem": "Vigilar signos de sangrado visibles y ocultos",
+      "fontesBibliograficas": "FDA, Micromedex, protocolos clínicos"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿哌沙班",
+      "suspension": "中高风险手术前48–72小时停药；低出血风险前24小时停药",
+      "risk": "术中出血风险高；与区域麻醉联用时可致脊髓血肿",
+      "reintroduction": "术后24–48小时，根据止血情况恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿哌沙班",
+      "nomeComercial": "Eliquis",
+      "mecanismoAcao": "选择性直接抑制凝血因子Xa，阻断凝血级联反应",
+      "farmacocinetica": "口服吸收率约50%，半衰期12小时，经肝代谢（CYP3A4）和肾/粪排泄",
+      "farmacodinamica": "减少凝血酶生成，抑制血栓形成，抗凝效果稳定",
+      "indicacoes": "非瓣膜性房颤中风预防、深静脉血栓、肺栓塞、术后血栓预防",
+      "reacoesAdversas": "鼻出血、瘀斑、血尿、胃肠道出血、贫血",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "尚不明确；不建议使用",
+      "administracao": "口服",
+      "doseMaxima": "每日20mg（急性期10mg BID）",
+      "doseMinima": "每日5mg（2.5mg BID）",
+      "classificacao": "直接口服抗凝剂（DOAC）",
+      "apresentacao": "片剂：2.5mg、5mg",
+      "interacaoMedicamento": "与CYP3A4和P-gp药物相互作用；慎与NSAIDs及抗凝剂合用",
+      "posologia": "房颤：5mg BID；VTE：10mg BID x 7天，随后5mg BID",
+      "armazenamento": "室温避光防潮",
+      "preparo": "无需特别处理",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性出血、严重肝功能障碍、合用其他抗凝剂",
+      "cuidadosMedicos": "术前评估肾功能与出血风险",
+      "cuidadosFarmaceuticos": "明确相互作用，按程序停药",
+      "cuidadosEnfermagem": "监测出血迹象（明显与隐匿）",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、循证指南"
+    }
+  }
+}

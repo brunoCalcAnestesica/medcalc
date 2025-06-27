@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Casirivimabe",
+      "suspension": "Suspender 10 dias antes de cirurgias eletivas",
+      "risk": "Pode interferir na resposta inflamatória e cicatricial; risco de interação imunológica com infecções ou vacinas",
+      "reintroduction": "Reintroduzir após completa cicatrização e avaliação da função imune"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Casirivimabe",
+      "nomeComercial": "REGEN-COV (associado ao Imdevimabe)",
+      "mecanismoAcao": "Anticorpo monoclonal que se liga à proteína spike do SARS-CoV-2, bloqueando sua entrada nas células",
+      "farmacocinetica": "Meia-vida longa (21–28 dias); metabolismo via catabolismo proteico; eliminação lenta",
+      "farmacodinamica": "Neutraliza o vírus SARS-CoV-2 e previne a replicação viral em células humanas",
+      "indicacoes": "Tratamento e profilaxia da COVID-19 em fases precoces ou como profilaxia pós-exposição",
+      "reacoesAdversas": "Reações infusionais, rash, febre, dor de cabeça, náuseas, anafilaxia (raro)",
+      "riscoGravidez": "Categoria C (ausência de dados em humanos)",
+      "riscoLactacao": "Desconhece-se se é excretado no leite humano; usar com cautela",
+      "administracao": "Infusão intravenosa ou injeção subcutânea",
+      "doseMaxima": "1200 mg (600 mg Casirivimabe + 600 mg Imdevimabe)",
+      "doseMinima": "600 mg (monodose experimental)",
+      "classificacao": "Anticorpo monoclonal neutralizante",
+      "apresentacao": "Frascos multidoses para infusão IV ou administração SC",
+      "interacaoMedicamento": "Evitar vacinação em até 90 dias após uso; pode interferir em resposta vacinal",
+      "posologia": "600 mg IV/SC com Imdevimabe em dose única, conforme protocolo COVID",
+      "armazenamento": "Refrigerado entre 2–8°C; não congelar; estabilidade após preparo: 24 h (refrigeração) ou 4 h (temperatura ambiente)",
+      "preparo": "Requer diluição em solução compatível (NaCl 0,9%) sob condições assépticas",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9% (não usar com dextrose)",
+      "contraindicacoes": "Hipersensibilidade a anticorpos monoclonais ou componentes da fórmula",
+      "cuidadosMedicos": "Monitorar por reações infusionais e status imune; contraindicar uso simultâneo com vacina viral atenuada",
+      "cuidadosFarmaceuticos": "Observar estabilidade, tempo de infusão e compatibilidade",
+      "cuidadosEnfermagem": "Monitorar sinais vitais durante e após infusão; observar reações adversas",
+      "fontesBibliograficas": "FDA, Regeneron EUA, EMA, Medscape, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Casirivimab",
+      "suspension": "Suspend 10 days before elective surgery",
+      "risk": "May interfere with immune response, wound healing, and interact with vaccines",
+      "reintroduction": "Restart only after full recovery and immune stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Casirivimab",
+      "nomeComercial": "REGEN-COV (combined with Imdevimab)",
+      "mecanismoAcao": "Monoclonal antibody targeting SARS-CoV-2 spike protein to prevent viral entry",
+      "farmacocinetica": "Half-life 21–28 days; metabolized by protein catabolism; slow elimination",
+      "farmacodinamica": "Neutralizes SARS-CoV-2, preventing infection and replication",
+      "indicacoes": "COVID-19 early treatment and post-exposure prophylaxis",
+      "reacoesAdversas": "Infusion reactions, fever, rash, nausea, anaphylaxis (rare)",
+      "riscoGravidez": "Category C (insufficient human data)",
+      "riscoLactacao": "Unknown excretion in breast milk; use caution",
+      "administracao": "IV infusion or SC injection",
+      "doseMaxima": "1200 mg (600 mg Casirivimab + 600 mg Imdevimab)",
+      "doseMinima": "600 mg (experimental)",
+      "classificacao": "Neutralizing monoclonal antibody",
+      "apresentacao": "Vials for IV or SC use",
+      "interacaoMedicamento": "Avoid vaccines for 90 days post-administration",
+      "posologia": "600 mg IV/SC once, with Imdevimab, per COVID protocol",
+      "armazenamento": "2–8°C; do not freeze; stable 24 h refrigerated or 4 h at room temp after preparation",
+      "preparo": "Dilute in 0.9% NaCl; use aseptic technique",
+      "solucoesCompatíveis": "0.9% NaCl only (avoid dextrose solutions)",
+      "contraindicacoes": "Hypersensitivity to monoclonal antibodies or formulation components",
+      "cuidadosMedicos": "Monitor for immune suppression and infusion reactions",
+      "cuidadosFarmaceuticos": "Check compatibility and expiration; manage cold chain",
+      "cuidadosEnfermagem": "Monitor vitals; observe for adverse reactions during/after infusion",
+      "fontesBibliograficas": "FDA, Regeneron, Medscape, EMA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Casirivimab",
+      "suspension": "Suspender 10 días antes de cirugía electiva",
+      "risk": "Puede interferir con la respuesta inmunitaria y cicatrización; evitar vacunación cercana",
+      "reintroduction": "Reintroducir solo tras cicatrización y estabilidad inmunológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Casirivimab",
+      "nomeComercial": "REGEN-COV (con Imdevimab)",
+      "mecanismoAcao": "Anticuerpo monoclonal que bloquea la proteína spike del SARS-CoV-2",
+      "farmacocinetica": "Semivida 21–28 días; eliminación lenta por metabolismo proteico",
+      "farmacodinamica": "Neutraliza el virus SARS-CoV-2, previniendo su entrada celular",
+      "indicacoes": "COVID-19 precoz y profilaxis postexposición",
+      "reacoesAdversas": "Reacciones a la infusión, fiebre, náuseas, rash, anafilaxia (raro)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce si se excreta en leche materna",
+      "administracao": "Infusión IV o inyección SC",
+      "doseMaxima": "1200 mg (600+600 mg)",
+      "doseMinima": "600 mg (experimental)",
+      "classificacao": "Anticuerpo monoclonal neutralizante",
+      "apresentacao": "Frascos multidosis para IV o SC",
+      "interacaoMedicamento": "Evitar vacunación en 90 días posteriores",
+      "posologia": "600 mg con Imdevimab en una sola dosis",
+      "armazenamento": "2–8°C, no congelar, uso en 24 h refrigerado o 4 h temperatura ambiente",
+      "preparo": "Diluir con solución salina estéril (NaCl 0,9%)",
+      "solucoesCompatíveis": "Solo NaCl 0,9%",
+      "contraindicacoes": "Hipersensibilidad a anticuerpos monoclonales",
+      "cuidadosMedicos": "Monitorear reacciones y estado inmune",
+      "cuidadosFarmaceuticos": "Conservar refrigerado, verificar caducidad",
+      "cuidadosEnfermagem": "Monitorear signos vitales durante/tras administración",
+      "fontesBibliograficas": "FDA, EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "卡西利单抗",
+      "suspension": "择期手术前10天停药",
+      "risk": "可能影响免疫反应、伤口愈合及疫苗效应",
+      "reintroduction": "术后完全恢复并评估免疫状态后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "卡西利单抗",
+      "nomeComercial": "REGEN-COV（与伊德单抗联合）",
+      "mecanismoAcao": "靶向SARS-CoV-2刺突蛋白的中和抗体，阻止病毒进入细胞",
+      "farmacocinetica": "半衰期约21–28天，经蛋白质分解代谢",
+      "farmacodinamica": "中和新冠病毒，阻断感染",
+      "indicacoes": "新冠早期治疗与暴露后预防",
+      "reacoesAdversas": "输液反应、发热、皮疹、恶心、罕见过敏反应",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "未知是否进入乳汁，慎用",
+      "administracao": "静脉输注或皮下注射",
+      "doseMaxima": "1200毫克（600+600毫克）",
+      "doseMinima": "600毫克（实验）",
+      "classificacao": "中和性单克隆抗体",
+      "apresentacao": "用于IV或SC的多剂量瓶",
+      "interacaoMedicamento": "用药后90天内避免疫苗接种",
+      "posologia": "与伊德单抗联合，一次性注射",
+      "armazenamento": "2–8°C冷藏保存，勿冷冻；稀释后24小时内使用",
+      "preparo": "使用无菌技术稀释于0.9%氯化钠中",
+      "solucoesCompatíveis": "仅限0.9%氯化钠",
+      "contraindicacoes": "对单抗过敏者禁用",
+      "cuidadosMedicos": "监测输液反应与免疫反应",
+      "cuidadosFarmaceuticos": "维持冷链，核查稳定性",
+      "cuidadosEnfermagem": "输注期间观察生命体征和反应",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，Medscape"
+    }
+  }
+}

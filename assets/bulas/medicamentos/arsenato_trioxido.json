@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Arsenato de Trióxido",
+      "suspension": "Suspender 3 dias antes de cirurgia eletiva",
+      "risk": "Prolonga QT, risco de arritmias graves e interação com anestésicos que afetam repolarização cardíaca",
+      "reintroduction": "Reintroduzir somente após correção de eletrólitos e ECG normalizado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Arsenato de Trióxido",
+      "nomeComercial": "Trisenox",
+      "mecanismoAcao": "Induz apoptose celular por estresse oxidativo, fragmentação do DNA e modulação de vias mitocondriais",
+      "farmacocinetica": "Administração intravenosa, distribuição rápida, metabolismo hepático e renal, excreção urinária",
+      "farmacodinamica": "Causa diferenciação e morte de células leucêmicas; ativa mecanismos pró-apoptóticos",
+      "indicacoes": "Leucemia promielocítica aguda (LPA) recorrente ou refratária, t(15;17)",
+      "reacoesAdversas": "Prolongamento do QT, náuseas, cefaleia, edema, hepatotoxicidade, neuropatia periférica",
+      "riscoGravidez": "Categoria D – risco fetal conhecido",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0,15 mg/kg/dia",
+      "doseMinima": "0,10 mg/kg/dia",
+      "classificacao": "Antineoplásico – agente de diferenciação",
+      "apresentacao": "Solução injetável 1 mg/mL em frascos de 10 mL",
+      "interacaoMedicamento": "Interage com drogas que prolongam QT (haloperidol, amiodarona, fluoroquinolonas, macrolídeos)",
+      "posologia": "0,15 mg/kg IV por 5 dias/semana por até 5 semanas",
+      "armazenamento": "Refrigerado entre 2–8°C, protegido da luz",
+      "preparo": "Diluir em solução de glicose 5% ou NaCl 0,9%",
+      "solucoesCompatíveis": "Glicose 5%, Cloreto de sódio 0,9%",
+      "contraindicacoes": "Gravidez, lactação, hipocalemia ou hipomagnesemia não corrigidas",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos e função hepática durante tratamento",
+      "cuidadosFarmaceuticos": "Manuseio com EPI, descartar resíduos como substância perigosa",
+      "cuidadosEnfermagem": "Administrar com bomba de infusão, monitorar sinais vitais e ECG",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, UpToDate, NCCN Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Arsenic Trioxide",
+      "suspension": "Discontinue 3 days prior to elective surgery",
+      "risk": "QT prolongation, arrhythmia risk, interaction with QT-prolonging anesthetics",
+      "reintroduction": "Restart only after electrolyte correction and ECG normalization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Arsenic Trioxide",
+      "nomeComercial": "Trisenox",
+      "mecanismoAcao": "Induces apoptosis via oxidative stress, DNA fragmentation, and mitochondrial pathway activation",
+      "farmacocinetica": "IV administration, rapid distribution, hepatic/renal metabolism, urinary excretion",
+      "farmacodinamica": "Induces leukemic cell differentiation and death via pro-apoptotic mechanisms",
+      "indicacoes": "Relapsed/refractory acute promyelocytic leukemia (APL) with t(15;17)",
+      "reacoesAdversas": "QT prolongation, nausea, headache, edema, hepatotoxicity, peripheral neuropathy",
+      "riscoGravidez": "Category D – known fetal risk",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Intravenous",
+      "doseMaxima": "0.15 mg/kg/day",
+      "doseMinima": "0.10 mg/kg/day",
+      "classificacao": "Antineoplastic – differentiation agent",
+      "apresentacao": "1 mg/mL injectable solution in 10 mL vials",
+      "interacaoMedicamento": "Interacts with QT-prolonging drugs (haloperidol, amiodarone, fluoroquinolones, macrolides)",
+      "posologia": "0.15 mg/kg IV daily for 5 days/week for up to 5 weeks",
+      "armazenamento": "Refrigerate at 2–8°C, protect from light",
+      "preparo": "Dilute in 5% dextrose or 0.9% NaCl",
+      "solucoesCompatíveis": "5% Dextrose, 0.9% Sodium chloride",
+      "contraindicacoes": "Pregnancy, breastfeeding, uncorrected hypokalemia or hypomagnesemia",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, and liver function during therapy",
+      "cuidadosFarmaceuticos": "Use PPE for handling; treat waste as hazardous",
+      "cuidadosEnfermagem": "Use infusion pump; monitor vitals and ECG",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Trióxido de Arsénico",
+      "suspension": "Suspender 3 días antes de cirugía electiva",
+      "risk": "Prolongación del QT, riesgo de arritmias, interacción con anestésicos que afectan repolarización",
+      "reintroduction": "Reanudar solo tras corrección electrolítica y ECG normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trióxido de Arsénico",
+      "nomeComercial": "Trisenox",
+      "mecanismoAcao": "Induce apoptosis por estrés oxidativo, fragmentación del ADN y vías mitocondriales",
+      "farmacocinetica": "IV, distribución rápida, metabolismo hepático/renal, excreción urinaria",
+      "farmacodinamica": "Induce diferenciación y muerte celular leucémica",
+      "indicacoes": "Leucemia promielocítica aguda t(15;17) refractaria o recurrente",
+      "reacoesAdversas": "Prolongación del QT, náuseas, cefalea, edema, hepatotoxicidad, neuropatía",
+      "riscoGravidez": "Categoría D – riesgo fetal conocido",
+      "riscoLactacao": "Contraindicado durante la lactancia",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0,15 mg/kg/día",
+      "doseMinima": "0,10 mg/kg/día",
+      "classificacao": "Antineoplásico – agente diferenciador",
+      "apresentacao": "Solución inyectable 1 mg/mL (frasco de 10 mL)",
+      "interacaoMedicamento": "Interacciones con fármacos que prolongan QT (haloperidol, amiodarona, fluoroquinolonas)",
+      "posologia": "0,15 mg/kg IV, 5 días/semana, hasta 5 semanas",
+      "armazenamento": "Refrigerado (2–8°C), protegido de la luz",
+      "preparo": "Diluir en glucosa 5% o NaCl 0,9%",
+      "solucoesCompatíveis": "Glucosa 5%, ClNa 0,9%",
+      "contraindicacoes": "Embarazo, lactancia, hipocalemia o hipomagnesemia no corregida",
+      "cuidadosMedicos": "Monitorear ECG, electrolitos, función hepática",
+      "cuidadosFarmaceuticos": "Manejo con EPP; residuos como material peligroso",
+      "cuidadosEnfermagem": "Bomba de infusión, monitorizar ECG y signos vitales",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "三氧化二砷",
+      "suspension": "择期手术前3天停药",
+      "risk": "延长QT间期，增加心律失常风险；与麻醉药相互作用",
+      "reintroduction": "纠正电解质异常并恢复正常心电图后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "三氧化二砷",
+      "nomeComercial": "Trisenox",
+      "mecanismoAcao": "通过氧化应激、DNA断裂和线粒体凋亡通路诱导细胞凋亡",
+      "farmacocinetica": "静脉注射，快速分布，经肝肾代谢，尿液排泄",
+      "farmacodinamica": "诱导白血病细胞分化与死亡",
+      "indicacoes": "复发或难治性急性早幼粒细胞白血病 t(15;17)",
+      "reacoesAdversas": "QT延长、恶心、头痛、水肿、肝毒性、周围神经病变",
+      "riscoGravidez": "D类 – 已知胎儿风险",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉注射",
+      "doseMaxima": "0.15 mg/kg/天",
+      "doseMinima": "0.10 mg/kg/天",
+      "classificacao": "抗肿瘤药 – 分化诱导剂",
+      "apresentacao": "1 mg/mL 注射液，10 mL 小瓶",
+      "interacaoMedicamento": "与延长QT药物相互作用（如氟喹诺酮、氨氯地平、红霉素等）",
+      "posologia": "每日0.15 mg/kg，连续5天/周，最多5周",
+      "armazenamento": "2–8°C冷藏，避光保存",
+      "preparo": "用5%葡萄糖或0.9%氯化钠稀释",
+      "solucoesCompatíveis": "5%葡萄糖，0.9%氯化钠",
+      "contraindicacoes": "妊娠、哺乳、电解质紊乱（低钾/低镁）未纠正",
+      "cuidadosMedicos": "治疗期间监测心电图、电解质和肝功能",
+      "cuidadosFarmaceuticos": "使用防护设备处理；废物视为危险品",
+      "cuidadosEnfermagem": "使用输液泵，监测生命体征和心电图",
+      "fontesBibliograficas": "中国药典, FDA, UpToDate, NCCN"
+    }
+  }
+}

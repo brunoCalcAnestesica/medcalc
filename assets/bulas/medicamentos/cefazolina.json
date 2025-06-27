@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cefazolina",
+      "suspension": "Não suspender; pode ser mantida em profilaxia perioperatória",
+      "risk": "Baixo risco; pode causar reações alérgicas, nefrotoxicidade e alterações hematológicas em uso prolongado",
+      "reintroduction": "Uso intraoperatório ou logo após a indução anestésica; reavaliar em caso de alergia a beta-lactâmicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefazolina sódica",
+      "nomeComercial": "Kefazol, Ancef, Cefazil",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana por ligação às PBPs",
+      "farmacocinetica": "Meia-vida de 1,8h, excreção renal inalterada; excelente penetração em tecidos cirúrgicos",
+      "farmacodinamica": "Bactericida de amplo espectro contra cocos Gram-positivos e algumas Gram-negativas",
+      "indicacoes": "Profilaxia cirúrgica, infecções de pele, ossos, trato respiratório e urinário por germes sensíveis",
+      "reacoesAdversas": "Rash, diarreia, náusea, eosinofilia, alterações hematológicas, nefrite intersticial",
+      "riscoGravidez": "Categoria B; considerado seguro",
+      "riscoLactacao": "Excretado em pequena quantidade no leite; geralmente seguro",
+      "administracao": "Intravenosa ou intramuscular",
+      "doseMaxima": "6 g/dia (em casos graves)",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Cefalosporina de primeira geração",
+      "apresentacao": "Pó liofilizado para solução injetável 500 mg, 1 g, 2 g",
+      "interacaoMedicamento": "Potencializa nefrotoxicidade de aminoglicosídeos; reduz eficácia de contraceptivos orais",
+      "posologia": "Profilaxia: 1-2 g IV 30-60 min antes da incisão; pode repetir em 4h",
+      "armazenamento": "Frascos secos: temperatura ambiente; solução reconstituída: refrigerar e usar em até 24h",
+      "preparo": "Reconstituir com água para injeção ou solução salina",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade a cefalosporinas ou penicilinas (com precaução)",
+      "cuidadosMedicos": "Avaliar função renal em uso prolongado; investigar história de alergias",
+      "cuidadosFarmaceuticos": "Verificar compatibilidade e estabilidade após reconstituição",
+      "cuidadosEnfermagem": "Observar reações alérgicas, flebite e administração correta",
+      "fontesBibliograficas": "FDA, ANVISA, SBAC, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cefazolin",
+      "suspension": "Do not suspend; routinely used for perioperative prophylaxis",
+      "risk": "Low risk; may cause allergic reactions, nephrotoxicity, or hematologic effects with long-term use",
+      "reintroduction": "Used intraoperatively or immediately before induction; evaluate in beta-lactam allergy"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefazolin sodium",
+      "nomeComercial": "Ancef, Kefzol",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis by binding to PBPs",
+      "farmacocinetica": "Half-life ~1.8h, renally excreted unchanged, good tissue penetration",
+      "farmacodinamica": "Bactericidal against Gram-positive cocci and some Gram-negative rods",
+      "indicacoes": "Surgical prophylaxis, skin, bone, urinary, and respiratory infections",
+      "reacoesAdversas": "Rash, nausea, diarrhea, eosinophilia, neutropenia, interstitial nephritis",
+      "riscoGravidez": "Category B; considered safe",
+      "riscoLactacao": "Low excretion in breast milk; generally safe",
+      "administracao": "IV or IM",
+      "doseMaxima": "6 g/day (severe infections)",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "First-generation cephalosporin",
+      "apresentacao": "Lyophilized powder 500 mg, 1 g, 2 g for injection",
+      "interacaoMedicamento": "Increased nephrotoxicity with aminoglycosides; reduces oral contraceptive efficacy",
+      "posologia": "1-2 g IV 30–60 min before incision; may repeat every 4h",
+      "armazenamento": "Dry vials: room temp; reconstituted: refrigerate and use within 24h",
+      "preparo": "Reconstitute with sterile water or saline",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hypersensitivity to cephalosporins or penicillins (with caution)",
+      "cuidadosMedicos": "Monitor renal function if prolonged use; assess allergy history",
+      "cuidadosFarmaceuticos": "Check reconstitution compatibility and stability",
+      "cuidadosEnfermagem": "Monitor for allergic reaction, phlebitis, and proper administration",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, CDC"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cefazolina",
+      "suspension": "No suspender; se utiliza como profilaxis quirúrgica",
+      "risk": "Riesgo bajo; puede causar alergias, nefrotoxicidad y alteraciones hematológicas si se usa prolongadamente",
+      "reintroduction": "Usar intraoperatoriamente o antes de la inducción anestésica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefazolina sódica",
+      "nomeComercial": "Kefazol, Ancef",
+      "mecanismoAcao": "Inhibe la síntesis de la pared celular bacteriana",
+      "farmacocinetica": "Vida media ~1,8h, excreción renal sin cambios, buena penetración tisular",
+      "farmacodinamica": "Bactericida frente a Gram positivos y algunas Gram negativas",
+      "indicacoes": "Profilaxis quirúrgica, infecciones de piel, huesos, respiratorias y urinarias",
+      "reacoesAdversas": "Exantema, náuseas, diarrea, eosinofilia, neutropenia, nefritis intersticial",
+      "riscoGravidez": "Categoría B; considerado seguro",
+      "riscoLactacao": "Excreción baja; seguro generalmente",
+      "administracao": "IV o IM",
+      "doseMaxima": "6 g/día",
+      "doseMinima": "250 mg/dosis",
+      "classificacao": "Cefalosporina de primera generación",
+      "apresentacao": "Polvo liofilizado 500 mg, 1 g, 2 g",
+      "interacaoMedicamento": "Potencia nefrotoxicidad con aminoglucósidos; reduce eficacia anticonceptiva oral",
+      "posologia": "1–2 g IV antes de incisión; repetir cada 4h si necesario",
+      "armazenamento": "Viales secos: temperatura ambiente; reconstituido: refrigerar y usar en 24h",
+      "preparo": "Reconstituir con agua estéril o solución salina",
+      "solucoesCompatíveis": "ClNa 0.9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidad a cefalosporinas o penicilinas",
+      "cuidadosMedicos": "Control renal en uso prolongado; investigar alergias",
+      "cuidadosFarmaceuticos": "Verificar compatibilidad y estabilidad",
+      "cuidadosEnfermagem": "Vigilar reacciones alérgicas y sitio de inyección",
+      "fontesBibliograficas": "FDA, AEMPS, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "头孢唑啉",
+      "suspension": "无需停药，常用于术前预防感染",
+      "risk": "低风险；可能引起过敏、肾毒性、血液异常（长期使用）",
+      "reintroduction": "术中或麻醉诱导前使用；青霉素过敏者需评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "头孢唑啉钠",
+      "nomeComercial": "Kefzol, Ancef",
+      "mecanismoAcao": "通过与PBP结合抑制细菌细胞壁合成",
+      "farmacocinetica": "半衰期约1.8小时，肾脏原型排泄，组织穿透好",
+      "farmacodinamica": "对革兰阳性菌和部分阴性杆菌有杀菌作用",
+      "indicacoes": "术前预防、皮肤、骨骼、泌尿、呼吸道感染",
+      "reacoesAdversas": "皮疹、恶心、腹泻、嗜酸性粒细胞增多、中性粒细胞减少、肾小管间质炎",
+      "riscoGravidez": "B类，安全",
+      "riscoLactacao": "少量排泄至乳汁，通常安全",
+      "administracao": "静脉或肌注",
+      "doseMaxima": "每日6克",
+      "doseMinima": "每次250毫克",
+      "classificacao": "第一代头孢菌素",
+      "apresentacao": "冻干粉针剂 500mg, 1g, 2g",
+      "interacaoMedicamento": "与氨基糖苷类合用增加肾毒性；降低口服避孕药效果",
+      "posologia": "术前30–60分钟静注1–2克，可每4小时重复",
+      "armazenamento": "干粉常温保存；复溶液冷藏24小时内用完",
+      "preparo": "用注射用水或生理盐水溶解",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对头孢类或青霉素过敏者禁用",
+      "cuidadosMedicos": "长期使用需监测肾功能及过敏史",
+      "cuidadosFarmaceuticos": "核对配伍与稳定性",
+      "cuidadosEnfermagem": "观察过敏反应与静脉刺激",
+      "fontesBibliograficas": "FDA, 中国药典, UpToDate, Micromedex"
+    }
+  }
+}

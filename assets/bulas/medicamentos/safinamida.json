@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Safinamida",
+      "suspension": "Suspender 14 dias antes de cirurgias com anestesia geral ou uso de opioides/ISRS",
+      "risk": "Síndrome serotoninérgica, insônia, discinesias, hipertensão, alucinações, cefaleia, hipertensão",
+      "reintroduction": "Reintroduzir após 48–72h se o paciente estiver estável e sem interações medicamentosas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Safinamida",
+      "nomeComercial": "Xadago",
+      "mecanismoAcao": "Inibidor reversível e seletivo da MAO-B; modula liberação de glutamato e inibe canais de sódio e cálcio",
+      "farmacocinetica": "VO; biodisponibilidade >95%; T½ ~20–26h; metabolizado hepaticamente (oxidativo e amídico); excreção renal",
+      "farmacodinamica": "Aumenta níveis de dopamina no SNC e reduz excitotoxicidade glutamatérgica",
+      "indicacoes": "Doença de Parkinson com flutuações motoras, como adjuvante à levodopa",
+      "reacoesAdversas": "Discinesias, náuseas, insônia, hipertensão, alucinações, sonolência, confusão",
+      "riscoGravidez": "Categoria C – usar apenas se benefício superar risco",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "VO 50–100mg/dia 1x/dia pela manhã",
+      "doseMaxima": "100mg/dia",
+      "doseMinima": "50mg/dia",
+      "classificacao": "Inibidor seletivo reversível de MAO-B com ação glutamatérgica",
+      "apresentacao": "Comprimidos 50mg e 100mg",
+      "interacaoMedicamento": "Evitar com ISRS, IMAOs, opioides (ex: tramadol, petidina), dextrometorfano, tiramina em excesso",
+      "posologia": "50mg/dia inicialmente, podendo aumentar para 100mg/dia após 2 semanas",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência hepática grave, uso concomitante de outros IMAO, gravidez",
+      "cuidadosMedicos": "Monitorar PA, função hepática, sintomas serotoninérgicos e neuropsiquiátricos",
+      "cuidadosFarmaceuticos": "Orientar sobre risco de interação, não iniciar com ISRS ou opioides sem washout",
+      "cuidadosEnfermagem": "Observar discinesias, agitação, confusão, hipertensão",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Safinamide",
+      "suspension": "Hold 14 days before surgery with general anesthesia or serotonergic drugs",
+      "risk": "Serotonin syndrome, dyskinesia, insomnia, hallucination, hypertension",
+      "reintroduction": "Restart 2–3 days postop if clinically stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Safinamide",
+      "nomeComercial": "Xadago",
+      "mecanismoAcao": "Reversible selective MAO-B inhibitor; modulates glutamate release, blocks sodium/calcium channels",
+      "farmacocinetica": "Oral; T½ 20–26h; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Enhances dopamine and reduces excitotoxicity",
+      "indicacoes": "Parkinson’s disease adjunct to levodopa for motor fluctuations",
+      "reacoesAdversas": "Dyskinesia, nausea, insomnia, confusion, hallucination, increased BP",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not advised",
+      "administracao": "50–100mg PO daily in the morning",
+      "doseMaxima": "100mg/day",
+      "doseMinima": "50mg/day",
+      "classificacao": "Reversible MAO-B inhibitor with glutamatergic action",
+      "apresentacao": "Tablets 50mg and 100mg",
+      "interacaoMedicamento": "Avoid MAOIs, SSRIs, opioids (meperidine, tramadol), tyramine-rich food",
+      "posologia": "Start at 50mg/day; increase to 100mg/day after 2 weeks",
+      "armazenamento": "Room temp; protect from light",
+      "preparo": "Oral tablet",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe hepatic impairment, MAOI use, pregnancy",
+      "cuidadosMedicos": "Monitor BP, CNS status, hepatic function",
+      "cuidadosFarmaceuticos": "Counsel on food/drug interactions, serotonin syndrome signs",
+      "cuidadosEnfermagem": "Observe agitation, sleep changes, BP, confusion",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Safinamida",
+      "suspension": "Suspender 14 días antes de cirugía con anestesia general o fármacos serotoninérgicos",
+      "risk": "Síndrome serotoninérgico, discinesia, alucinaciones, insomnio, hipertensión",
+      "reintroduction": "Reiniciar 48–72h postoperatorio si el paciente está estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Safinamida",
+      "nomeComercial": "Xadago",
+      "mecanismoAcao": "Inhibidor reversible de MAO-B; modula glutamato, sodio y calcio",
+      "farmacocinetica": "VO; T½ 20–26h; metabolismo hepático; eliminación renal",
+      "farmacodinamica": "Aumenta dopamina y reduce hiperexcitabilidad glutamatérgica",
+      "indicacoes": "EP con fluctuaciones motoras, adyuvante a levodopa",
+      "reacoesAdversas": "Discinesia, cefalea, confusión, HTA, insomnio",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "VO una vez al día por la mañana",
+      "doseMaxima": "100mg/día",
+      "doseMinima": "50mg/día",
+      "classificacao": "Inhibidor reversible de MAO-B",
+      "apresentacao": "Comprimidos 50mg, 100mg",
+      "interacaoMedicamento": "ISRS, IMAO, tramadol, alimentos con tiramina",
+      "posologia": "Inicio 50mg/día; escalar a 100mg tras 2 semanas",
+      "armazenamento": "Ambiente seco, protegido de luz",
+      "preparo": "Oral",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía severa, uso simultáneo de IMAO, embarazo",
+      "cuidadosMedicos": "Control PA, hepático, signos serotoninérgicos",
+      "cuidadosFarmaceuticos": "Informar sobre interacción con alimentos/medicamentos",
+      "cuidadosEnfermagem": "Observar HTA, rigidez, alucinaciones, insomnio",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "沙芬酰胺",
+      "suspension": "术前14天停药，避免与麻醉药或5-HT类药物联用",
+      "risk": "血清素综合征、失眠、运动障碍、高血压、幻觉",
+      "reintroduction": "术后48–72小时临床稳定后可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "沙芬酰胺",
+      "nomeComercial": "Xadago",
+      "mecanismoAcao": "可逆MAO-B抑制剂；调节谷氨酸释放及钠钙通道",
+      "farmacocinetica": "口服；T½约20–26小时；肝代谢；肾排泄",
+      "farmacodinamica": "增强多巴胺功能，降低兴奋毒性",
+      "indicacoes": "帕金森波动期患者，与左旋多巴联用",
+      "reacoesAdversas": "运动障碍、头痛、失眠、高血压、焦虑、幻觉",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "禁用",
+      "administracao": "每日一次口服，建议早晨服用",
+      "doseMaxima": "100mg/天",
+      "doseMinima": "50mg/天",
+      "classificacao": "MAO-B抑制剂+谷氨酸调节剂",
+      "apresentacao": "片剂50mg、100mg",
+      "interacaoMedicamento": "5-HT类药、MAOI、止痛药、酪胺食物",
+      "posologia": "起始50mg，2周后可增至100mg/天",
+      "armazenamento": "常温避光储存",
+      "preparo": "口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "中重度肝病、IMAO共用、妊娠期",
+      "cuidadosMedicos": "监测血压、情绪、警惕血清素综合征",
+      "cuidadosFarmaceuticos": "宣教避免与特定药食同用，停药后再启注意间隔",
+      "cuidadosEnfermagem": "观察焦躁、波动、睡眠障碍、幻觉",
+      "fontesBibliograficas": "中国药典、EMA、FDA、Micromedex、UpToDate"
+    }
+  }
+}

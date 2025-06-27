@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "DMAE (Dimetilaminoetanol)",
+      "suspension": "Suspender 2 dias antes de procedimentos invasivos ou com risco de sangramento",
+      "risk": "Risco de irritação cutânea e edema transitório; uso oral pode interferir em neurotransmissores",
+      "reintroduction": "Reintroduzir após 48–72h, com reavaliação da pele e ausência de reação inflamatória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dimetilaminoetanol",
+      "nomeComercial": "DMAE Lift, Adatina Dmae, Dermage DMAE, Skinceuticals Firming Concentrate",
+      "mecanismoAcao": "Atua como precursor da acetilcolina, promovendo tônus muscular dérmico e efeito tensor imediato",
+      "farmacocinetica": "Absorção tópica variável; quando oral, rápida distribuição com metabolismo hepático e excreção renal",
+      "farmacodinamica": "Estimula a contração muscular superficial e melhora firmeza da pele por vasodilatação e influxo de água celular",
+      "indicacoes": "Flacidez facial leve, rugas finas, melhora do contorno facial e como coadjuvante no fotoenvelhecimento",
+      "reacoesAdversas": "Ardência, eritema, edema, sensação de repuxamento, urticária tópica",
+      "riscoGravidez": "Categoria C – evitar o uso durante a gestação sem acompanhamento médico",
+      "riscoLactacao": "Desconhecido; evitar uso oral durante lactação",
+      "administracao": "Uso tópico ou oral (nutracêutico)",
+      "doseMaxima": "150 mg/dia via oral; até 3% em formulações tópicas",
+      "doseMinima": "0,5% em cosméticos tensores leves",
+      "classificacao": "Aminoálcool com efeito tensor e neuromodulador",
+      "apresentacao": "Séruns, géis, cremes, cápsulas (0,5%–3% tópico; 50–150 mg oral)",
+      "interacaoMedicamento": "Potencial interação com anticolinérgicos e inibidores da colinesterase",
+      "posologia": "Aplicar 1–2 vezes ao dia na pele limpa; via oral sob orientação médica",
+      "armazenamento": "Conservar em local fresco e seco, protegido da luz",
+      "preparo": "pH ideal entre 6,0–7,5; instável em pH ácido",
+      "solucoesCompatíveis": "Veículos aquosos ou hidroalcoólicos, preferencialmente estabilizados",
+      "contraindicacoes": "Gravidez, epilepsia, hipersensibilidade ao composto, lesões cutâneas ativas",
+      "cuidadosMedicos": "Evitar uso em pele sensibilizada, monitorar resposta e sinais de edema",
+      "cuidadosFarmaceuticos": "Orientar sobre o tempo de ação e possibilidade de irritação inicial",
+      "cuidadosEnfermagem": "Observar reações cutâneas adversas e reforçar uso de fotoprotetores",
+      "fontesBibliograficas": "ANVISA, UpToDate, Medscape, PubChem, DermNet"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "DMAE (Dimethylaminoethanol)",
+      "suspension": "Suspend 2 days before invasive procedures or surgeries with bleeding risk",
+      "risk": "Risk of skin irritation and transient edema; oral use may affect neurotransmitters",
+      "reintroduction": "Reintroduce after 48–72h, once inflammation subsides and skin integrity is restored"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dimethylaminoethanol",
+      "nomeComercial": "Skinceuticals Firming, DMAE Lift, Adatina Dmae, Dermage DMAE",
+      "mecanismoAcao": "Choline precursor that enhances acetylcholine levels, improving muscle tone and skin firmness",
+      "farmacocinetica": "Variable topical absorption; orally, rapidly distributed, metabolized in liver, excreted in urine",
+      "farmacodinamica": "Increases superficial muscle tone and water retention, causing immediate skin tightening effect",
+      "indicacoes": "Mild skin laxity, fine wrinkles, facial contour enhancement, photoaging adjunct",
+      "reacoesAdversas": "Burning, redness, swelling, tightness sensation, topical urticaria",
+      "riscoGravidez": "Category C – avoid during pregnancy unless clinically necessary",
+      "riscoLactacao": "Unknown; oral use not recommended during lactation",
+      "administracao": "Topical or oral (nutraceutical)",
+      "doseMaxima": "150 mg/day orally; up to 3% in topical formulations",
+      "doseMinima": "0.5% in cosmetic use",
+      "classificacao": "Amino alcohol with neuromodulatory and firming properties",
+      "apresentacao": "Serums, gels, creams, capsules (0.5%–3% topical; 50–150 mg oral)",
+      "interacaoMedicamento": "Potential interaction with anticholinergics and cholinesterase inhibitors",
+      "posologia": "Apply once or twice daily on clean skin; oral use requires medical supervision",
+      "armazenamento": "Store in a cool, dry place, away from direct light",
+      "preparo": "Ideal pH: 6.0–7.5; unstable at acidic pH",
+      "solucoesCompatíveis": "Aqueous or hydroalcoholic stabilized vehicles",
+      "contraindicacoes": "Pregnancy, epilepsy, hypersensitivity, active skin lesions",
+      "cuidadosMedicos": "Avoid use on irritated skin, monitor for edema or allergic reactions",
+      "cuidadosFarmaceuticos": "Advise regarding onset time and potential initial irritation",
+      "cuidadosEnfermagem": "Watch for skin reactions and promote sunscreen adherence",
+      "fontesBibliograficas": "FDA, Medscape, UpToDate, DermNet, PubChem"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "DMAE (Dimetilaminoetanol)",
+      "suspension": "Suspender 2 días antes de procedimientos invasivos",
+      "risk": "Riesgo de irritación dérmica y edema transitorio; uso oral puede afectar neurotransmisores",
+      "reintroduction": "Reintroducir a las 48–72h si no hay inflamación o irritación activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dimetilaminoetanol",
+      "nomeComercial": "DMAE Lift, Dermage DMAE, Adatina Dmae, Skinceuticals Firming",
+      "mecanismoAcao": "Precursor de la colina que incrementa acetilcolina, mejorando firmeza y turgencia dérmica",
+      "farmacocinetica": "Absorción tópica variable; oral: distribución rápida, metabolismo hepático, excreción urinaria",
+      "farmacodinamica": "Estimula tono muscular superficial y atracción hídrica, generando efecto tensor inmediato",
+      "indicacoes": "Flacidez leve, arrugas finas, contorno facial y envejecimiento fotoinducido",
+      "reacoesAdversas": "Ardor, enrojecimiento, edema leve, urticaria tópica",
+      "riscoGravidez": "Categoría C; evitar durante embarazo salvo indicación médica",
+      "riscoLactacao": "No recomendado por vía oral en lactancia",
+      "administracao": "Tópico u oral",
+      "doseMaxima": "150 mg/día por vía oral; hasta 3% en fórmulas tópicas",
+      "doseMinima": "0,5%",
+      "classificacao": "Aminoalcohol con efecto tensor y neuromodulador",
+      "apresentacao": "Sueros, cremas, cápsulas (0,5%–3% tópico; 50–150 mg oral)",
+      "interacaoMedicamento": "Interacción con anticolinérgicos e inhibidores de colinesterasa",
+      "posologia": "Aplicar 1–2 veces/día; vía oral bajo control médico",
+      "armazenamento": "Lugar seco y fresco, alejado de la luz",
+      "preparo": "pH ideal entre 6,0–7,5",
+      "solucoesCompatíveis": "Bases estabilizadas acuosas o hidroalcohólicas",
+      "contraindicacoes": "Embarazo, epilepsia, hipersensibilidad, lesiones dérmicas activas",
+      "cuidadosMedicos": "Monitorear signos de edema, evitar en piel irritada",
+      "cuidadosFarmaceuticos": "Informar sobre el inicio de acción y posibilidad de irritación inicial",
+      "cuidadosEnfermagem": "Observar reacciones dérmicas y reforzar uso de fotoprotector",
+      "fontesBibliograficas": "PubChem, Medscape, FDA, DermNet, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "二甲氨基乙醇（DMAE）",
+      "suspension": "术前2天停用，尤其是有出血风险的操作",
+      "risk": "可能引起局部刺激和暂时性水肿；口服可能影响神经递质",
+      "reintroduction": "术后48–72小时，在无红肿或皮肤反应时重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "二甲氨基乙醇",
+      "nomeComercial": "Skinceuticals紧致精华, Dermage DMAE, Adatina DMAE, DMAE Lift",
+      "mecanismoAcao": "作为胆碱前体，提高乙酰胆碱水平，提升肌肤张力和紧致感",
+      "farmacocinetica": "外用吸收率变化较大；口服后迅速分布，肝代谢，经尿排出",
+      "farmacodinamica": "增强表层肌肉收缩，增加细胞含水量，实现即刻紧致效果",
+      "indicacoes": "轻度松弛、细纹、面部轮廓改善、光老化辅助治疗",
+      "reacoesAdversas": "轻微灼热、红斑、水肿、紧绷感、局部荨麻疹",
+      "riscoGravidez": "C类 – 怀孕期间应避免使用",
+      "riscoLactacao": "哺乳期避免口服使用",
+      "administracao": "外用或口服",
+      "doseMaxima": "口服每日不超过150毫克；外用浓度不超过3%",
+      "doseMinima": "0.5%",
+      "classificacao": "氨基醇类，具有神经调节和紧肤作用",
+      "apresentacao": "精华液、凝胶、乳霜、胶囊（0.5%–3%外用；50–150毫克口服）",
+      "interacaoMedicamento": "可能与抗胆碱药或胆碱酯酶抑制剂产生相互作用",
+      "posologia": "每日使用1–2次；口服需医生监督",
+      "armazenamento": "避光、干燥、阴凉处储存",
+      "preparo": "最佳配方pH值为6.0–7.5，低pH易分解",
+      "solucoesCompatíveis": "稳定的水性或酒精水溶液",
+      "contraindicacoes": "妊娠、癫痫、过敏史、活跃皮肤病变",
+      "cuidadosMedicos": "避免用于敏感或破损皮肤，监测过敏反应",
+      "cuidadosFarmaceuticos": "提醒患者初期可能出现刺激，应持续使用观察效果",
+      "cuidadosEnfermagem": "观察红斑、水肿等反应，强调防晒",
+      "fontesBibliograficas": "中国药典、FDA、PubChem、Medscape、DermNet"
+    }
+  }
+}

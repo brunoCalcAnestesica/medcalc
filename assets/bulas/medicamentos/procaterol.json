@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Procaterol",
+      "suspension": "Suspender 6 a 12 horas antes da cirurgia",
+      "risk": "Agonista β2 de curta ação; pode causar taquicardia, arritmias, tremores e hipocalemia",
+      "reintroduction": "Reintroduzir em contexto de broncoespasmo com monitoramento cardíaco"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Procaterol cloridrato",
+      "nomeComercial": "Meptin",
+      "mecanismoAcao": "Agonista seletivo dos receptores β2-adrenérgicos com ação broncodilatadora",
+      "farmacocinetica": "Início em 5–15 min; pico em 30 min; duração ~4–6 h; metabolismo hepático; excreção renal",
+      "farmacodinamica": "Relaxamento do músculo liso brônquico e melhora da função respiratória em obstruções reversíveis",
+      "indicacoes": "Asma brônquica, bronquite crônica, DPOC, sibilância reativa em pediatria",
+      "reacoesAdversas": "Tremores, taquicardia, palpitações, hipocalemia, cefaleia, insônia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; evitar uso se possível",
+      "administracao": "Oral (xarope ou comprimido) ou inalatório",
+      "doseMaxima": "50 mcg por dose, até 3x/dia (adultos); crianças conforme peso",
+      "doseMinima": "12,5 mcg/dose (pediátrico)",
+      "classificacao": "β2-agonista de curta duração (SABA)",
+      "apresentacao": "Comprimidos 25 mcg, xarope 25 mcg/5 mL, aerossol (fora do Brasil)",
+      "interacaoMedicamento": "Interage com teofilinas, diuréticos, anestésicos halogenados e digitálicos",
+      "posologia": "Adultos: 25–50 mcg 2–3x/dia; crianças: 12,5–25 mcg 2–3x/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Xarope pronto para uso; comprimido sem necessidade de preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Taquiarritmias, hipertireoidismo, hipersensibilidade, uso simultâneo de β-bloqueadores",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos e padrão ventilatório em uso frequente",
+      "cuidadosFarmaceuticos": "Orientar sobre sinais de superdosagem e intervalo mínimo entre as doses",
+      "cuidadosEnfermagem": "Avaliar frequência cardíaca, PA, tremores e padrão respiratório",
+      "fontesBibliograficas": "Micromedex, UpToDate, AEMPS, Meptin bula Japão"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Procaterol",
+      "suspension": "Discontinue 6–12 hours before surgery",
+      "risk": "Short-acting β2 agonist; may cause tachycardia, hypokalemia, arrhythmia",
+      "reintroduction": "Restart in bronchospasm with monitoring of heart rhythm"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Procaterol hydrochloride",
+      "nomeComercial": "Meptin (not FDA approved)",
+      "mecanismoAcao": "Selective β2-adrenergic receptor agonist; bronchodilator",
+      "farmacocinetica": "Onset 5–15 min, peak 30 min, duration 4–6 h, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Relaxes bronchial smooth muscle; improves airflow in reactive airway diseases",
+      "indicacoes": "Asthma, COPD, reactive airway disease",
+      "reacoesAdversas": "Tremor, tachycardia, palpitations, headache, insomnia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; avoid if possible",
+      "administracao": "Oral or inhalation (not FDA approved in US)",
+      "doseMaxima": "50 mcg 3 times/day",
+      "doseMinima": "12.5 mcg/day (children)",
+      "classificacao": "Short-acting β2 agonist (SABA)",
+      "apresentacao": "Tablets 25 mcg, syrup 25 mcg/5 mL, inhaler (Japan)",
+      "interacaoMedicamento": "Caution with diuretics, digoxin, anesthetics, beta-blockers",
+      "posologia": "Adults: 25–50 mcg BID/TID; children: 12.5–25 mcg",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "Shake syrup before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Tachyarrhythmias, thyrotoxicosis, β-blocker use",
+      "cuidadosMedicos": "Monitor ECG, K+, blood pressure if frequent use",
+      "cuidadosFarmaceuticos": "Warn about side effects and dosing intervals",
+      "cuidadosEnfermagem": "Check HR, BP, respiratory status",
+      "fontesBibliograficas": "UpToDate, Micromedex, Meptin PI (Japan)"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Procaterol",
+      "suspension": "Suspender 6–12 horas antes de cirugía",
+      "risk": "Agonista β2 de corta duración; riesgo de arritmias y desequilibrio electrolítico",
+      "reintroduction": "Reiniciar si hay broncoespasmo con monitoreo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de procaterol",
+      "nomeComercial": "Meptin",
+      "mecanismoAcao": "Agonista selectivo de receptores β2 adrenérgicos",
+      "farmacocinetica": "Inicio 5–15 min, pico 30 min, duración 4–6 h, metabolismo hepático, eliminación renal",
+      "farmacodinamica": "Relaja musculatura bronquial, mejora la ventilación",
+      "indicacoes": "Asma, EPOC, hiperreactividad bronquial",
+      "reacoesAdversas": "Temblor, taquicardia, cefalea, hipocalemia, insomnio",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Precaución; sin datos",
+      "administracao": "Oral o inhalatoria",
+      "doseMaxima": "50 mcg/dosis, hasta 3 veces al día",
+      "doseMinima": "12,5 mcg (pediatría)",
+      "classificacao": "Agonista β2 de acción corta",
+      "apresentacao": "Comprimidos 25 mcg, jarabe, aerosol (en Asia)",
+      "interacaoMedicamento": "Precaución con diuréticos, digitálicos, anestésicos, betabloqueantes",
+      "posologia": "25–50 mcg 2–3 veces/día",
+      "armazenamento": "15–30°C",
+      "preparo": "Agitar jarabe antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Arritmias, tirotoxicosis, hipersensibilidad",
+      "cuidadosMedicos": "Controlar ECG y electrolitos",
+      "cuidadosFarmaceuticos": "Educar sobre uso correcto y efectos adversos",
+      "cuidadosEnfermagem": "Observar TA, FC, síntomas respiratorios",
+      "fontesBibliograficas": "Micromedex, Meptin prospecto Japón"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "普鲁卡特罗（Procaterol）",
+      "suspension": "术前建议提前6–12小时停药",
+      "risk": "β2激动剂可能引起心悸、心律失常、电解质紊乱",
+      "reintroduction": "术后如需，监测心电与呼吸后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "普鲁卡特罗",
+      "nomeComercial": "Meptin",
+      "mecanismoAcao": "选择性β2受体激动剂，支气管扩张剂",
+      "farmacocinetica": "起效5–15分钟，达峰30分钟，作用4–6小时，经肝代谢，肾排泄",
+      "farmacodinamica": "支气管平滑肌松弛，改善通气",
+      "indicacoes": "哮喘、COPD、支气管高反应性",
+      "reacoesAdversas": "心悸、震颤、低钾、失眠、头痛",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "无资料，慎用",
+      "administracao": "口服或吸入",
+      "doseMaxima": "每日3次，每次50微克",
+      "doseMinima": "儿童12.5微克起",
+      "classificacao": "短效β2受体激动剂",
+      "apresentacao": "25微克片剂、25 mcg/5 mL糖浆、定量喷雾",
+      "interacaoMedicamento": "与利尿剂、茶碱类、麻醉药有协同作用",
+      "posologia": "成人每日2–3次，每次25–50微克",
+      "armazenamento": "15–30°C",
+      "preparo": "糖浆使用前摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "心律失常、甲状腺亢进、β受体阻滞剂共用",
+      "cuidadosMedicos": "监测心电图、电解质、血压",
+      "cuidadosFarmaceuticos": "强调间隔用药、警惕过量",
+      "cuidadosEnfermagem": "观察心率、手震、呼吸改善情况",
+      "fontesBibliograficas": "Micromedex, UpToDate, 日本Meptin说明书"
+    }
+  }
+}

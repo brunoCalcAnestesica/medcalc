@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clopidogrel",
+      "suspension": "Suspender 5 a 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de sangramento perioperatório significativo; manter se stent recente ou alto risco trombótico",
+      "reintroduction": "Reintroduzir 24h após cirurgia com hemostasia segura, preferencialmente via oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clopidogrel",
+      "nomeComercial": "Plavix, Clopidogrel, Iscover",
+      "mecanismoAcao": "Inibe irreversivelmente o receptor P2Y12 das plaquetas, impedindo agregação plaquetária",
+      "farmacocinetica": "Pró-fármaco, absorção oral, metabolização hepática (CYP2C19), início em 2h",
+      "farmacodinamica": "Efeito antiplaquetário progressivo, máximo em 3–7 dias",
+      "indicacoes": "Síndrome coronariana aguda, AVC isquêmico, prevenção de eventos aterotrombóticos",
+      "reacoesAdversas": "Sangramentos, púrpura, dispepsia, trombocitopenia",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Desconhecido; evitar se possível",
+      "administracao": "Via oral",
+      "doseMaxima": "300mg/dia (dose de ataque); 75mg/dia (manutenção)",
+      "doseMinima": "75mg/dia",
+      "classificacao": "Antiagregante plaquetário, antagonista do receptor P2Y12",
+      "apresentacao": "Comprimidos de 75mg e 300mg",
+      "interacaoMedicamento": "Aumenta risco com AAS, anticoagulantes, AINEs; inibidores da CYP2C19 reduzem eficácia",
+      "posologia": "Dose de ataque 300mg, seguida de 75mg/dia",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Sangramento ativo, úlcera péptica, AVC hemorrágico prévio",
+      "cuidadosMedicos": "Avaliar risco trombótico x hemorrágico; monitorar hemoglobina/plaquetas",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão e sinais de sangramento",
+      "cuidadosEnfermagem": "Observar equimoses, sangramento nasal/gengival",
+      "fontesBibliograficas": "SBH, Micromedex, ANVISA, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Clopidogrel",
+      "suspension": "Discontinue 5 to 7 days before elective surgery",
+      "risk": "Significant bleeding risk; continue if recent stent or high thrombotic risk",
+      "reintroduction": "Restart 24h post-op if hemostasis is secured; oral route preferred"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clopidogrel",
+      "nomeComercial": "Plavix",
+      "mecanismoAcao": "Irreversibly inhibits P2Y12 platelet receptor, blocking aggregation",
+      "farmacocinetica": "Prodrug, oral absorption, hepatic metabolism via CYP2C19, onset in 2h",
+      "farmacodinamica": "Antiplatelet effect builds gradually, peaks in 3–7 days",
+      "indicacoes": "Acute coronary syndrome, ischemic stroke, prevention of thrombotic events",
+      "reacoesAdversas": "Bleeding, purpura, dyspepsia, thrombocytopenia",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "Oral",
+      "doseMaxima": "300mg/day (loading); 75mg/day (maintenance)",
+      "doseMinima": "75mg/day",
+      "classificacao": "Antiplatelet agent, P2Y12 receptor antagonist",
+      "apresentacao": "Tablets 75mg, 300mg",
+      "interacaoMedicamento": "Increased risk with NSAIDs, aspirin, anticoagulants; CYP2C19 inhibitors reduce efficacy",
+      "posologia": "Loading dose 300mg, then 75mg/day",
+      "armazenamento": "Store at room temperature, avoid moisture",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active bleeding, peptic ulcer, history of hemorrhagic stroke",
+      "cuidadosMedicos": "Balance thrombotic vs bleeding risk; monitor hemoglobin/platelets",
+      "cuidadosFarmaceuticos": "Educate on adherence and bleeding signs",
+      "cuidadosEnfermagem": "Watch for bruising, nosebleeds, gum bleeding",
+      "fontesBibliograficas": "FDA, Micromedex, ACC guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clopidogrel",
+      "suspension": "Suspender 5 a 7 días antes de cirugía electiva",
+      "risk": "Alto riesgo de sangrado; mantener si hay stent reciente o alto riesgo trombótico",
+      "reintroduction": "Reintroducir 24h después de la cirugía con hemostasia segura"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clopidogrel",
+      "nomeComercial": "Plavix",
+      "mecanismoAcao": "Inhibe irreversiblemente el receptor plaquetario P2Y12",
+      "farmacocinetica": "Pró-fármaco, absorción oral, metabolismo hepático (CYP2C19), inicio en 2h",
+      "farmacodinamica": "Efecto antiplaquetario progresivo, máximo en 3–7 días",
+      "indicacoes": "Síndrome coronario agudo, ACV isquémico, prevención de eventos trombóticos",
+      "reacoesAdversas": "Hemorragias, púrpura, dispepsia, trombocitopenia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Desconocido; evitar si es posible",
+      "administracao": "Vía oral",
+      "doseMaxima": "300mg/día (carga); 75mg/día (mantenimiento)",
+      "doseMinima": "75mg/día",
+      "classificacao": "Antiagregante plaquetario, antagonista del P2Y12",
+      "apresentacao": "Comprimidos de 75mg y 300mg",
+      "interacaoMedicamento": "Mayor riesgo con AINEs, AAS, anticoagulantes; inhibidores CYP2C19 reducen eficacia",
+      "posologia": "300mg inicial, luego 75mg/día",
+      "armazenamento": "Ambiente seco y a temperatura ambiente",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Sangrado activo, úlcera, ACV hemorrágico previo",
+      "cuidadosMedicos": "Evaluar riesgo de sangrado vs trombosis",
+      "cuidadosFarmaceuticos": "Informar sobre signos de sangrado",
+      "cuidadosEnfermagem": "Controlar hematomas y sangrados visibles",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯吡格雷",
+      "suspension": "择期手术前停药5–7天",
+      "risk": "出血风险高；如近期支架或血栓高危患者可考虑继续",
+      "reintroduction": "术后24小时在止血稳定情况下恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯吡格雷",
+      "nomeComercial": "波立维（Plavix）",
+      "mecanismoAcao": "不可逆抑制血小板P2Y12受体，阻断血小板聚集",
+      "farmacocinetica": "前药，经口吸收，经CYP2C19肝代谢，起效2小时",
+      "farmacodinamica": "抗血小板作用逐步增强，3–7天达峰",
+      "indicacoes": "急性冠脉综合征、缺血性卒中、动脉粥样硬化事件预防",
+      "reacoesAdversas": "出血、紫癜、消化不良、血小板减少",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "是否分泌入乳尚不明确，建议避免",
+      "administracao": "口服",
+      "doseMaxima": "300mg/天（首次）；维持剂量75mg/天",
+      "doseMinima": "75mg/天",
+      "classificacao": "抗血小板药，P2Y12受体拮抗剂",
+      "apresentacao": "片剂：75mg、300mg",
+      "interacaoMedicamento": "与阿司匹林、抗凝药、NSAIDs联用增加出血风险；CYP2C19抑制剂降低疗效",
+      "posologia": "首次300mg，维持75mg/天",
+      "armazenamento": "避光避湿室温保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性出血、消化性溃疡、出血性卒中史",
+      "cuidadosMedicos": "评估出血与血栓风险，监测血象",
+      "cuidadosFarmaceuticos": "提醒患者定期用药并注意出血征象",
+      "cuidadosEnfermagem": "观察皮肤出血、鼻出血、牙龈出血",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

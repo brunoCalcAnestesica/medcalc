@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Eritropoetina alfa",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas com risco trombótico elevado",
+      "risk": "Risco de trombose venosa profunda, eventos cardiovasculares, hipertensão e aumento da viscosidade sanguínea; pode agravar retardo de cicatrização em contextos isquêmicos",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e ausência de sinais de trombose; manter monitoramento de hemoglobina e pressão arterial"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eritropoetina alfa",
+      "nomeComercial": "Eprex, Eritromax, Hemax, Epodine, Binocrit",
+      "mecanismoAcao": "Glicoproteína que estimula a proliferação e diferenciação das células eritroides da medula óssea",
+      "farmacocinetica": "Administração SC ou IV; início em 4–6 dias; meia-vida SC ~20h; IV ~4h; metabolismo hepático e renal",
+      "farmacodinamica": "Aumenta a produção de hemácias e melhora o transporte de oxigênio",
+      "indicacoes": "Anemia associada à insuficiência renal crônica, câncer (quimioterapia), HIV, cirurgias com perda sanguínea programada",
+      "reacoesAdversas": "Hipertensão, trombose, cefaleia, náusea, dor óssea, rash cutâneo, crises hipertensivas",
+      "riscoGravidez": "Categoria C – usar apenas se necessário",
+      "riscoLactacao": "Desconhecido; cautela na amamentação",
+      "administracao": "Subcutânea ou intravenosa",
+      "doseMaxima": "600 UI/kg/semana ou 300 UI/kg 3x/semana",
+      "doseMinima": "50 UI/kg 3x/semana",
+      "classificacao": "Agente estimulador da eritropoese (ESA)",
+      "apresentacao": "Seringas preenchidas de 1.000 a 40.000 UI",
+      "interacaoMedicamento": "Cautela com anticoagulantes e AINEs; pode reduzir necessidade transfusional",
+      "posologia": "50–150 UI/kg SC 3x/semana ou 40.000 UI 1x/semana",
+      "armazenamento": "Refrigerado (2–8°C), não congelar, proteger da luz",
+      "preparo": "Aguardar temperatura ambiente antes da aplicação; não agitar",
+      "solucoesCompatíveis": "SF 0,9% (somente se diluição indicada)",
+      "contraindicacoes": "Hipertensão não controlada, hipersensibilidade à albumina humana ou eritropoetina recombinante",
+      "cuidadosMedicos": "Monitorar hemoglobina, PA, ferritina, transferrina; evitar Hb >12g/dL",
+      "cuidadosFarmaceuticos": "Verificar integridade da seringa e evitar agitação",
+      "cuidadosEnfermagem": "Observar locais de aplicação, sinais de hipertensão e resposta hematológica",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, SBH, Medscape"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Epoetin alfa",
+      "suspension": "Discontinue 7 days prior to elective surgeries with high thrombotic risk",
+      "risk": "Increased risk of VTE, hypertension, cardiovascular events, blood viscosity-related complications; possible delayed healing in ischemic tissues",
+      "reintroduction": "Restart after hemodynamic stability and no signs of thrombosis; monitor Hb and BP"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Epoetin alfa",
+      "nomeComercial": "Epogen, Procrit, Retacrit, Binocrit",
+      "mecanismoAcao": "Stimulates erythroid progenitor cell proliferation and differentiation in bone marrow",
+      "farmacocinetica": "SC or IV; onset in 4–6 days; half-life SC ~20h; IV ~4h; hepatic and renal metabolism",
+      "farmacodinamica": "Increases RBC production and improves oxygen transport",
+      "indicacoes": "Anemia in CKD, chemotherapy, HIV, perioperative blood loss management",
+      "reacoesAdversas": "Hypertension, thrombosis, headache, nausea, bone pain, rash, hypertensive crisis",
+      "riscoGravidez": "Category C – use only if necessary",
+      "riscoLactacao": "Unknown; use caution",
+      "administracao": "Subcutaneous or intravenous",
+      "doseMaxima": "600 IU/kg/week or 300 IU/kg 3x/week",
+      "doseMinima": "50 IU/kg 3x/week",
+      "classificacao": "Erythropoiesis-stimulating agent (ESA)",
+      "apresentacao": "Prefilled syringes: 1,000 to 40,000 IU",
+      "interacaoMedicamento": "Caution with anticoagulants and NSAIDs; may reduce transfusion need",
+      "posologia": "50–150 IU/kg SC 3x/week or 40,000 IU weekly",
+      "armazenamento": "Refrigerate 2–8°C; do not freeze; protect from light",
+      "preparo": "Allow to reach room temp before use; do not shake",
+      "solucoesCompatíveis": "0.9% saline (if dilution needed)",
+      "contraindicacoes": "Uncontrolled hypertension, hypersensitivity to human albumin or epoetin",
+      "cuidadosMedicos": "Monitor Hb, BP, ferritin, transferrin; avoid Hb >12g/dL",
+      "cuidadosFarmaceuticos": "Inspect syringe integrity; avoid shaking",
+      "cuidadosEnfermagem": "Observe injection sites, BP, and hematologic response",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Eritropoyetina alfa",
+      "suspension": "Suspender 7 días antes de cirugías con riesgo trombótico elevado",
+      "risk": "Riesgo de TVP, hipertensión, eventos cardiovasculares, aumento de la viscosidad; posible cicatrización retardada",
+      "reintroduction": "Reiniciar tras estabilización y ausencia de trombosis; controlar Hb y PA"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eritropoyetina alfa",
+      "nomeComercial": "Eprex, Binocrit, Retacrit",
+      "mecanismoAcao": "Estimula la proliferación de precursores eritroides en médula ósea",
+      "farmacocinetica": "SC o IV; inicio 4–6 días; vida media SC ~20h; metabolismo hepático y renal",
+      "farmacodinamica": "Aumenta producción de eritrocitos y transporte de oxígeno",
+      "indicacoes": "Anemia por ERC, quimioterapia, VIH, manejo perioperatorio",
+      "reacoesAdversas": "Hipertensión, trombosis, cefalea, náuseas, dolor óseo, rash, crisis hipertensiva",
+      "riscoGravidez": "Categoría C – solo si es necesario",
+      "riscoLactacao": "Precaución en lactancia",
+      "administracao": "Subcutánea o intravenosa",
+      "doseMaxima": "600 UI/kg/semana; hasta 40.000 UI/semana",
+      "doseMinima": "50 UI/kg 3x/semana",
+      "classificacao": "Agente estimulador de eritropoyesis (ESA)",
+      "apresentacao": "Jeringas precargadas: 1.000 a 40.000 UI",
+      "interacaoMedicamento": "Precaución con anticoagulantes y AINEs",
+      "posologia": "50–150 UI/kg 3x/semana o 40.000 UI/semana",
+      "armazenamento": "2–8°C, no congelar, proteger de la luz",
+      "preparo": "Llevar a temperatura ambiente antes de aplicar; no agitar",
+      "solucoesCompatíveis": "ClNa 0,9% (si se diluye)",
+      "contraindicacoes": "HTA no controlada, alergia a eritropoyetina recombinante",
+      "cuidadosMedicos": "Monitorear Hb, PA, ferritina, saturación de transferrina",
+      "cuidadosFarmaceuticos": "Verificar integridad de jeringa y evitar agitación",
+      "cuidadosEnfermagem": "Observar signos vitales y respuesta hematológica",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "促红素α",
+      "suspension": "高血栓风险择期手术前7天停药",
+      "risk": "增加静脉血栓、心血管事件、高血压及血液黏稠度；可能延迟缺血组织愈合",
+      "reintroduction": "术后稳定且无血栓迹象时可恢复使用；需持续监测血红蛋白与血压"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "促红素α",
+      "nomeComercial": "益普赛（Eprex）、贝诺同（Binocrit）、Retacrit",
+      "mecanismoAcao": "刺激骨髓红系祖细胞增殖和分化，促进红细胞生成",
+      "farmacocinetica": "皮下或静脉注射；起效4–6天；SC半衰期约20小时",
+      "farmacodinamica": "提高红细胞数量，改善组织供氧",
+      "indicacoes": "慢性肾病贫血、化疗贫血、术前输血减少计划",
+      "reacoesAdversas": "高血压、血栓、头痛、恶心、骨痛、皮疹、危象性高血压",
+      "riscoGravidez": "C类 – 必须时使用",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "皮下注射或静脉注射",
+      "doseMaxima": "每周600 IU/kg 或每次40,000 IU",
+      "doseMinima": "每周三次，每次50 IU/kg",
+      "classificacao": "促红细胞生成刺激剂 (ESA)",
+      "apresentacao": "预填充注射器：1,000–40,000 IU",
+      "interacaoMedicamento": "与抗凝剂和NSAIDs需谨慎合用",
+      "posologia": "每周40,000 IU 或每周三次注射",
+      "armazenamento": "冷藏 2–8°C，避免冷冻和强光",
+      "preparo": "使用前静置至室温，不可摇晃",
+      "solucoesCompatíveis": "0.9%氯化钠（如需稀释）",
+      "contraindicacoes": "严重高血压、对人血清白蛋白或促红素过敏",
+      "cuidadosMedicos": "监测Hb、血压、铁参数",
+      "cuidadosFarmaceuticos": "确认药液清澈，无结晶沉淀",
+      "cuidadosEnfermagem": "注意注射部位、血压及疗效",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex"
+    }
+  }
+}

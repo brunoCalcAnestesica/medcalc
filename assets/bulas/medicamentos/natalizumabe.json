@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Natalizumabe",
+      "suspension": "Não suspender sem avaliação médica – risco de reativação de EM altamente ativa",
+      "risk": "Leucoencefalopatia multifocal progressiva (LEMP), infecções oportunistas, reações infusionais",
+      "reintroduction": "Reintroduzir somente com sorologia negativa para vírus JC ou após avaliação de risco-benefício"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Natalizumabe",
+      "nomeComercial": "Tysabri",
+      "mecanismoAcao": "Anticorpo monoclonal anti-integrina alfa-4; inibe migração de linfócitos através da barreira hematoencefálica",
+      "farmacocinetica": "Meia-vida 11 dias, eliminação proteica via sistema reticuloendotelial",
+      "farmacodinamica": "Reduz inflamação no SNC; eficaz em formas altamente ativas de EMRR",
+      "indicacoes": "Esclerose múltipla remitente-recorrente altamente ativa; doença de Crohn (off-label)",
+      "reacoesAdversas": "Cefaleia, fadiga, náuseas, urticária, infecções, LEMP",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; evitar uso durante a amamentação",
+      "administracao": "Intravenosa em infusão mensal",
+      "doseMaxima": "300 mg a cada 4 semanas",
+      "doseMinima": "300 mg IV",
+      "classificacao": "Anticorpo monoclonal anti-integrina",
+      "apresentacao": "Frasco 15 mL (20 mg/mL)",
+      "interacaoMedicamento": "Evitar uso com imunossupressores; não administrar com interferons",
+      "posologia": "300 mg IV por infusão lenta a cada 4 semanas",
+      "armazenamento": "Refrigerado (2–8°C); não congelar ou agitar",
+      "preparo": "Diluir em 100 mL de SF 0,9%; infundir em 1 hora",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "LEMP ativa, imunossupressão grave, histórico de reações anafiláticas",
+      "cuidadosMedicos": "Testar anticorpos anti-JCV; monitorar neurologicamente a cada 6 meses",
+      "cuidadosFarmaceuticos": "Preparar em ambiente controlado, uso exclusivo hospitalar",
+      "cuidadosEnfermagem": "Observar sinais neurológicos novos ou agravados; monitorar reações infusionais",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Natalizumab",
+      "suspension": "Do not discontinue abruptly – risk of relapse in highly active MS",
+      "risk": "Progressive multifocal leukoencephalopathy (PML), opportunistic infections, hypersensitivity",
+      "reintroduction": "Restart only after JCV antibody testing and neurologic risk assessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Natalizumab",
+      "nomeComercial": "Tysabri",
+      "mecanismoAcao": "Anti-α4 integrin monoclonal antibody; blocks lymphocyte migration across the BBB",
+      "farmacocinetica": "Half-life ~11 days; cleared via reticuloendothelial system",
+      "farmacodinamica": "Reduces CNS inflammation; used in highly active relapsing MS",
+      "indicacoes": "Relapsing-remitting multiple sclerosis (high activity); Crohn’s disease (off-label)",
+      "reacoesAdversas": "Headache, fatigue, nausea, rash, infections, PML",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; not recommended during breastfeeding",
+      "administracao": "Intravenous, monthly",
+      "doseMaxima": "300 mg every 4 weeks",
+      "doseMinima": "300 mg IV",
+      "classificacao": "Anti-α4 integrin monoclonal antibody",
+      "apresentacao": "15 mL vial (20 mg/mL)",
+      "interacaoMedicamento": "Avoid with immunosuppressants or interferons",
+      "posologia": "300 mg IV over 1 hour every 4 weeks",
+      "armazenamento": "Refrigerate (2–8°C), do not freeze or shake",
+      "preparo": "Dilute in 100 mL 0.9% NaCl; infuse over 1 hour",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Active PML, severe immunosuppression, previous anaphylaxis",
+      "cuidadosMedicos": "JCV antibody monitoring; neurologic evaluation every 6 months",
+      "cuidadosFarmaceuticos": "Hospital use only; prepare in sterile environment",
+      "cuidadosEnfermagem": "Monitor infusion reactions and new/worsening neurologic signs",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Natalizumab",
+      "suspension": "No suspender sin evaluación médica – riesgo de recaída",
+      "risk": "Leucoencefalopatía multifocal progresiva (LEMP), infecciones, hipersensibilidad",
+      "reintroduction": "Reintroducir solo tras prueba JCV y valoración neurológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Natalizumab",
+      "nomeComercial": "Tysabri",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-integrina alfa-4; bloquea migración linfocitaria al SNC",
+      "farmacocinetica": "Vida media ~11 días; eliminación reticuloendotelial",
+      "farmacodinamica": "Reduce inflamación cerebral; útil en EM altamente activa",
+      "indicacoes": "EM remitente-recurrente activa; enfermedad de Crohn (uso off-label)",
+      "reacoesAdversas": "Cefalea, fatiga, náuseas, erupciones, infecciones, LEMP",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante lactancia",
+      "administracao": "Intravenosa, mensual",
+      "doseMaxima": "300 mg cada 4 semanas",
+      "doseMinima": "300 mg IV",
+      "classificacao": "Anticuerpo monoclonal anti-integrina alfa-4",
+      "apresentacao": "Frasco 15 mL (20 mg/mL)",
+      "interacaoMedicamento": "Evitar con inmunosupresores o interferones",
+      "posologia": "300 mg IV en 1h cada 4 semanas",
+      "armazenamento": "Refrigerado (2–8°C), no agitar ni congelar",
+      "preparo": "Diluir en 100 mL de SF 0,9%; infundir en 1 hora",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "LEMP activa, inmunodepresión severa, anafilaxia previa",
+      "cuidadosMedicos": "Monitorizar JCV y evaluar signos neurológicos",
+      "cuidadosFarmaceuticos": "Preparación estéril hospitalaria",
+      "cuidadosEnfermagem": "Vigilar reacciones y cambios neurológicos",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "纳他珠单抗",
+      "suspension": "不可突然停药——存在病情反跳风险",
+      "risk": "进行性多灶性白质脑病（PML）、感染、输液反应",
+      "reintroduction": "仅在JCV抗体阴性或经评估后重新开始使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "纳他珠单抗",
+      "nomeComercial": "Tysabri",
+      "mecanismoAcao": "抗α4整合素单克隆抗体；阻止淋巴细胞穿过血脑屏障",
+      "farmacocinetica": "半衰期约11天，经网状内皮系统清除",
+      "farmacodinamica": "用于高活性多发性硬化症，减少炎症和疾病进展",
+      "indicacoes": "高复发型多发性硬化症；克罗恩病（非适应症）",
+      "reacoesAdversas": "头痛、乏力、恶心、皮疹、感染、PML",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期不推荐使用",
+      "administracao": "静脉注射，每4周一次",
+      "doseMaxima": "每4周300mg",
+      "doseMinima": "300mg",
+      "classificacao": "抗整合素α4单抗",
+      "apresentacao": "15mL/瓶（20mg/mL）",
+      "interacaoMedicamento": "禁与其他免疫抑制剂或干扰素同时使用",
+      "posologia": "每4周静脉注射300mg，注射时间约1小时",
+      "armazenamento": "2–8°C冷藏，避免震荡与冷冻",
+      "preparo": "用100mL 0.9%氯化钠稀释，1小时内输注",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "PML活动期、严重免疫抑制、过敏史",
+      "cuidadosMedicos": "定期监测JCV抗体、神经系统检查",
+      "cuidadosFarmaceuticos": "仅限医院使用，无菌操作",
+      "cuidadosEnfermagem": "观察输注反应与神经症状",
+      "fontesBibliograficas": "NMPA, FDA, WHO, EMA, Micromedex"
+    }
+  }
+}

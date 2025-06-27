@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ibuprofeno",
+      "suspension": "Suspender 1 a 2 dias antes da cirurgia, se possível",
+      "risk": "Risco de sangramento aumentado e interação com anestésicos",
+      "reintroduction": "Reintroduzir após 24 a 48h, com função renal estável e sem sangramentos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ibuprofeno",
+      "nomeComercial": "Alivium, Advil, Motrin, Ibupril",
+      "mecanismoAcao": "Inibe reversivelmente as enzimas COX-1 e COX-2, reduzindo a síntese de prostaglandinas",
+      "farmacocinetica": "Absorção rápida por via oral, metabolização hepática, excreção renal",
+      "farmacodinamica": "Ação analgésica, antipirética e anti-inflamatória",
+      "indicacoes": "Dor leve a moderada, febre, processos inflamatórios",
+      "reacoesAdversas": "Dispepsia, náusea, aumento do risco de sangramento, disfunção renal",
+      "riscoGravidez": "Categoria C (1º e 2º trimestre), D (3º trimestre)",
+      "riscoLactacao": "Excretado em pequenas quantidades; uso com cautela",
+      "administracao": "Oral e intravenosa",
+      "doseMaxima": "2400 mg/dia",
+      "doseMinima": "200 mg/dose",
+      "classificacao": "Anti-inflamatório não esteroidal (AINE)",
+      "apresentacao": "Comprimidos, cápsulas, solução oral, suspensão, solução injetável",
+      "interacaoMedicamento": "Potencializa efeitos de anticoagulantes, reduz ação de diuréticos e anti-hipertensivos",
+      "posologia": "200-800 mg a cada 6-8 horas, conforme necessidade",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Diluir em SF 0,9% antes do uso EV",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%",
+      "contraindicacoes": "Úlcera ativa, insuficiência renal ou hepática grave, gestação avançada",
+      "cuidadosMedicos": "Monitorar função renal, hepática e sinais de sangramento",
+      "cuidadosFarmaceuticos": "Evitar uso prolongado e associação com outros AINEs",
+      "cuidadosEnfermagem": "Observar sinais gastrointestinais e pressão arterial",
+      "fontesBibliograficas": "SBAn, FDA, Micromedex, ANVISA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ibuprofen",
+      "suspension": "Suspend 1 to 2 days before surgery if possible",
+      "risk": "Increased bleeding risk and interaction with anesthetic drugs",
+      "reintroduction": "Restart 24–48h post-op if no bleeding and stable renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ibuprofen",
+      "nomeComercial": "Advil, Motrin, Midol, Generic Ibuprofen",
+      "mecanismoAcao": "Reversibly inhibits COX-1 and COX-2 enzymes, reducing prostaglandin synthesis",
+      "farmacocinetica": "Rapid oral absorption, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Analgesic, antipyretic and anti-inflammatory effect",
+      "indicacoes": "Mild to moderate pain, fever, inflammation",
+      "reacoesAdversas": "Dyspepsia, nausea, bleeding risk, renal dysfunction",
+      "riscoGravidez": "Category C (1st and 2nd trimester), D (3rd trimester)",
+      "riscoLactacao": "Excreted in small amounts; caution advised",
+      "administracao": "Oral and intravenous",
+      "doseMaxima": "2400 mg/day",
+      "doseMinima": "200 mg/dose",
+      "classificacao": "Nonsteroidal anti-inflammatory drug (NSAID)",
+      "apresentacao": "Tablets, capsules, oral solution, suspension, IV solution",
+      "interacaoMedicamento": "Potentiates anticoagulants, reduces efficacy of diuretics and antihypertensives",
+      "posologia": "200-800 mg every 6-8 hours as needed",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Dilute in 0.9% NaCl before IV use",
+      "solucoesCompatíveis": "Normal Saline 0.9%",
+      "contraindicacoes": "Active ulcer, severe renal/hepatic impairment, late pregnancy",
+      "cuidadosMedicos": "Monitor renal and liver function and signs of bleeding",
+      "cuidadosFarmaceuticos": "Avoid prolonged use or combination with other NSAIDs",
+      "cuidadosEnfermagem": "Monitor GI symptoms and blood pressure",
+      "fontesBibliograficas": "FDA, SBAn, Micromedex, EMA, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ibuprofeno",
+      "suspension": "Suspender 1 a 2 días antes de la cirugía si es posible",
+      "risk": "Mayor riesgo de sangrado e interacción con anestésicos",
+      "reintroduction": "Reintroducir 24–48h después si no hay sangrado y función renal estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ibuprofeno",
+      "nomeComercial": "Advil, Motrin, Ibufen, Ibuprofeno Genérico",
+      "mecanismoAcao": "Inhibe de forma reversible COX-1 y COX-2, reduciendo prostaglandinas",
+      "farmacocinetica": "Absorción oral rápida, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Efecto analgésico, antipirético y antiinflamatorio",
+      "indicacoes": "Dolor leve a moderado, fiebre, inflamación",
+      "reacoesAdversas": "Dispepsia, náuseas, riesgo de sangrado, disfunción renal",
+      "riscoGravidez": "Categoría C (1° y 2° trimestre), D (3° trimestre)",
+      "riscoLactacao": "Excretado en pequeñas cantidades; usar con precaución",
+      "administracao": "Vía oral e intravenosa",
+      "doseMaxima": "2400 mg/día",
+      "doseMinima": "200 mg/dosis",
+      "classificacao": "AINE (antiinflamatorio no esteroideo)",
+      "apresentacao": "Comprimidos, cápsulas, solución oral, suspensión, solución IV",
+      "interacaoMedicamento": "Aumenta efecto de anticoagulantes, reduce eficacia de diuréticos",
+      "posologia": "200-800 mg cada 6-8h según necesidad",
+      "armazenamento": "Almacenar a temperatura ambiente, protegido de la luz",
+      "preparo": "Diluir en solución salina 0.9% para uso IV",
+      "solucoesCompatíveis": "Cloruro de sodio 0.9%",
+      "contraindicacoes": "Úlcera activa, insuficiencia renal/hepática grave, embarazo tardío",
+      "cuidadosMedicos": "Monitorear función renal y hepática, signos de sangrado",
+      "cuidadosFarmaceuticos": "Evitar uso prolongado y combinación con otros AINEs",
+      "cuidadosEnfermagem": "Observar síntomas digestivos y presión arterial",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, ANVISA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "布洛芬",
+      "suspension": "术前1至2天停药，如可行",
+      "risk": "增加出血风险，与麻醉药物有相互作用",
+      "reintroduction": "术后24–48小时可重新使用，若无出血且肾功能稳定"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "布洛芬",
+      "nomeComercial": "芬必得, 美林, 布洛芬通用制剂",
+      "mecanismoAcao": "可逆性抑制COX-1和COX-2酶，减少前列腺素合成",
+      "farmacocinetica": "口服吸收快，肝代谢，肾排泄",
+      "farmacodinamica": "镇痛、退热、抗炎作用",
+      "indicacoes": "轻至中度疼痛，发热，炎症",
+      "reacoesAdversas": "胃肠不适、恶心、出血风险、肾功能损害",
+      "riscoGravidez": "C类（前两期）、D类（孕晚期）",
+      "riscoLactacao": "少量分泌至乳汁，慎用",
+      "administracao": "口服和静脉注射",
+      "doseMaxima": "每日2400毫克",
+      "doseMinima": "每次200毫克",
+      "classificacao": "非甾体抗炎药（NSAID）",
+      "apresentacao": "片剂、胶囊、口服液、混悬液、注射液",
+      "interacaoMedicamento": "增强抗凝药效，应注意与利尿剂降压药联合使用",
+      "posologia": "每6-8小时服用200-800毫克",
+      "armazenamento": "常温保存，避光",
+      "preparo": "静脉注射前需稀释于0.9%氯化钠",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "活动性溃疡，重度肝肾功能不全，孕晚期禁用",
+      "cuidadosMedicos": "监测肝肾功能及出血表现",
+      "cuidadosFarmaceuticos": "避免长期使用或与其他NSAID合用",
+      "cuidadosEnfermagem": "观察胃肠症状及血压变化",
+      "fontesBibliograficas": "中国药典，FDA，Micromedex，EMA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Albumina humana",
+      "suspension": "Não suspender antes de cirurgias; uso é conforme necessidade clínica intra e pós-operatória",
+      "risk": "Risco de hipervolemia, hipertensão intracraniana, reações alérgicas e sobrecarga circulatória; atenção em pacientes com ICC ou hipertensão portal",
+      "reintroduction": "Pode ser mantida ou reiniciada conforme níveis séricos de albumina, volemia e pressão coloidosmótica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Albumina humana",
+      "nomeComercial": "Albumina Humana 20%, Albutein, Flexbumin, Alburex",
+      "mecanismoAcao": "Expansor plasmático natural com alta pressão oncótica, mantém pressão coloidosmótica e transporte de substâncias",
+      "farmacocinetica": "Meia-vida de 15–20 dias; distribuição intravascular predominante (60%); metabolizada no fígado",
+      "farmacodinamica": "Expande volume intravascular, restaura pressão oncótica e transporta hormônios, fármacos e eletrólitos",
+      "indicacoes": "Hipoalbuminemia grave, síndrome nefrótica, ascite refratária, grandes queimados, sepse, cirurgia hepática",
+      "reacoesAdversas": "Calafrios, febre, taquicardia, hipotensão, náuseas, reação anafilática rara",
+      "riscoGravidez": "Categoria C – usar se benefício superar risco",
+      "riscoLactacao": "Provavelmente seguro",
+      "administracao": "Intravenosa lenta (1–2 mL/min) ou contínua",
+      "doseMaxima": "100g/dia (5 frascos de 20%); depende da resposta clínica e volemia",
+      "doseMinima": "25g (1 frasco 20%) em hipoalbuminemia leve",
+      "classificacao": "Expansor coloidal natural / proteína plasmática",
+      "apresentacao": "Frascos de 50 mL (20%), 100 mL (5% ou 20%)",
+      "interacaoMedicamento": "Pode interferir na ligação de fármacos altamente ligados a proteínas; cuidado com diuréticos",
+      "posologia": "1 g/kg ou 25–100g por dia conforme quadro clínico",
+      "armazenamento": "15–30°C, não congelar, proteger da luz",
+      "preparo": "Pronto para uso IV; não diluir",
+      "solucoesCompatíveis": "SF 0,9% se necessário, mas geralmente usada pura",
+      "contraindicacoes": "Hipervolemia, ICC descompensada, alergia à albumina humana",
+      "cuidadosMedicos": "Monitorar PVC, diurese, albumina sérica, eletrólitos e sinais de sobrecarga",
+      "cuidadosFarmaceuticos": "Não utilizar se turva ou com sedimentos; verificar validade",
+      "cuidadosEnfermagem": "Infundir lentamente; monitorar sinais vitais, pressão venosa e reações adversas",
+      "fontesBibliograficas": "SBH, ANVISA, FDA, Medscape, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Human albumin",
+      "suspension": "No need to suspend before surgery; used per clinical indication",
+      "risk": "Risk of fluid overload, allergic reaction, increased ICP; caution in CHF, cirrhosis, or pulmonary edema",
+      "reintroduction": "Restart or continue as needed based on albumin levels and hemodynamics"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Human albumin",
+      "nomeComercial": "Albutein, Flexbumin, Albuked, AlbuRx",
+      "mecanismoAcao": "Maintains oncotic pressure and transports hormones, fatty acids, and drugs",
+      "farmacocinetica": "Half-life ~15–20 days; 60% intravascular; hepatic metabolism",
+      "farmacodinamica": "Increases plasma volume, stabilizes capillary membrane, transports substances",
+      "indicacoes": "Hypoalbuminemia, ascites, burns, shock, cirrhosis, nephrotic syndrome",
+      "reacoesAdversas": "Flushing, fever, hypotension, tachycardia, nausea, rare anaphylaxis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Likely safe",
+      "administracao": "Slow IV push (1–2 mL/min) or infusion",
+      "doseMaxima": "Up to 100g/day based on clinical status",
+      "doseMinima": "25g (1 vial 20%)",
+      "classificacao": "Natural colloid plasma expander",
+      "apresentacao": "50 mL (20%), 100 mL (5%, 20%) IV bottles",
+      "interacaoMedicamento": "May alter protein binding of other drugs",
+      "posologia": "25–100g/day IV; titrated per patient status",
+      "armazenamento": "15–30°C, protect from freezing and light",
+      "preparo": "Ready to use; do not dilute",
+      "solucoesCompatíveis": "Compatible with NS 0.9%",
+      "contraindicacoes": "Volume overload, CHF, known albumin allergy",
+      "cuidadosMedicos": "Monitor serum albumin, BP, CVP, electrolytes",
+      "cuidadosFarmaceuticos": "Inspect for clarity and expiration",
+      "cuidadosEnfermagem": "Infuse slowly; monitor vitals, reactions, fluid balance",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, UptoDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Albúmina humana",
+      "suspension": "No requiere suspensión antes de cirugía",
+      "risk": "Riesgo de sobrecarga de volumen, reacción alérgica, hipertensión intracraneal",
+      "reintroduction": "Reanudar si es necesario según niveles de albúmina y estado clínico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Albúmina humana",
+      "nomeComercial": "Albutein, Flexbumin, Albuked",
+      "mecanismoAcao": "Mantiene presión oncótica y transporta moléculas endógenas",
+      "farmacocinetica": "T½ 15–20 días; metabolismo hepático",
+      "farmacodinamica": "Expande volumen plasmático y mantiene equilibrio oncótico",
+      "indicacoes": "Hipoalbuminemia, ascitis, quemaduras, shock, sepsis",
+      "reacoesAdversas": "Rubor, fiebre, hipotensión, anafilaxia rara",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Probablemente seguro",
+      "administracao": "IV lenta",
+      "doseMaxima": "Hasta 100g/día",
+      "doseMinima": "25g",
+      "classificacao": "Expansor coloidal natural",
+      "apresentacao": "Frascos 50–100 mL (5–20%)",
+      "interacaoMedicamento": "Modifica fármacos unidos a proteínas",
+      "posologia": "25–100g/día según clínica",
+      "armazenamento": "15–30°C, proteger de luz",
+      "preparo": "Uso directo IV",
+      "solucoesCompatíveis": "ClNa 0,9%",
+      "contraindicacoes": "ICC, hipervolemia, hipersensibilidad",
+      "cuidadosMedicos": "Control de PVC, diuresis, albúmina sérica",
+      "cuidadosFarmaceuticos": "No usar si turbio",
+      "cuidadosEnfermagem": "Monitorizar signos vitales, reacciones, PVC",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "人血白蛋白",
+      "suspension": "术前无需停用，如有低白蛋白血症可继续使用",
+      "risk": "体积过载、过敏反应、颅内压升高；心衰患者需谨慎",
+      "reintroduction": "术后按白蛋白水平和血容量恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "人血白蛋白",
+      "nomeComercial": "白蛋白注射液（人），Albutein, Flexbumin",
+      "mecanismoAcao": "提高胶体渗透压、维持血容量和转运能力",
+      "farmacocinetica": "T½约15–20天；主要分布于血管内；肝脏代谢",
+      "farmacodinamica": "用于纠正低蛋白血症、补液及维持血流动力学",
+      "indicacoes": "低白蛋白血症、腹水、重度烧伤、败血症、肝病",
+      "reacoesAdversas": "发热、寒战、低血压、过敏反应",
+      "riscoGravidez": "C类 – 必要时可用",
+      "riscoLactacao": "小剂量短期使用安全",
+      "administracao": "静脉缓慢滴注",
+      "doseMaxima": "每日最多100g（5瓶20%）",
+      "doseMinima": "25g（1瓶）",
+      "classificacao": "天然胶体类血浆扩容剂",
+      "apresentacao": "50–100 mL瓶装（5%、20%）",
+      "interacaoMedicamento": "影响蛋白结合药物动力学",
+      "posologia": "按体重25–100g/天",
+      "armazenamento": "15–30°C，避光，不可冷冻",
+      "preparo": "可直接静脉输注",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "容量过载、心衰失代偿、白蛋白过敏",
+      "cuidadosMedicos": "监测血压、尿量、电解质、PVC",
+      "cuidadosFarmaceuticos": "确保澄清、无沉淀、有效期内",
+      "cuidadosEnfermagem": "慢速滴注，观察不良反应与容量状态",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape、FDA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Efedrina",
+      "suspension": "Suspender 3 dias antes de cirurgia com anestesia geral ou risco cardiovascular",
+      "risk": "Estimulante alfa e beta-adrenérgico; risco de hipertensão, taquiarritmia, ansiedade e interação com anestésicos voláteis",
+      "reintroduction": "Reintroduzir 24–48h após estabilização hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Efedrina",
+      "nomeComercial": "Efedrina Sulfato, Efrin, Bronquefrin, Hipofrin",
+      "mecanismoAcao": "Agonista alfa e beta-adrenérgico direto e indireto; promove liberação de noradrenalina",
+      "farmacocinetica": "Absorção oral e parenteral; início rápido; metabolização hepática parcial; excreção renal",
+      "farmacodinamica": "Aumenta PA, FC, contratilidade, dilata brônquios e reduz congestão nasal",
+      "indicacoes": "Hipotensão perioperatória, congestão nasal grave, broncoespasmo, narcolepsia (uso off-label)",
+      "reacoesAdversas": "Ansiedade, tremores, insônia, taquicardia, hipertensão, retenção urinária",
+      "riscoGravidez": "Categoria C – uso restrito a casos necessários",
+      "riscoLactacao": "Evitar uso prolongado",
+      "administracao": "Oral, IM, IV ou SC",
+      "doseMaxima": "60 mg/dia oral; 25–50 mg IV (em bolus ou contínua)",
+      "doseMinima": "15 mg/dia",
+      "classificacao": "Simpaticomimético direto e indireto",
+      "apresentacao": "Ampolas (50 mg/mL), comprimidos (15–30 mg)",
+      "interacaoMedicamento": "Interage com IMAO, anestésicos halogenados, ISRS, betabloqueadores",
+      "posologia": "Oral: 15–30 mg 2–3x/dia; IV: 5–10 mg em bolus conforme necessidade",
+      "armazenamento": "Ampolas: sob refrigeração ou protegido da luz; comprimidos: local seco",
+      "preparo": "Diluir IV em SF ou SG 5%; administrar lentamente",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Feocromocitoma, hipertensão grave, hipertireoidismo, glaucoma de ângulo fechado",
+      "cuidadosMedicos": "Monitorar PA, ECG, sinais de isquemia ou hiperestímulo",
+      "cuidadosFarmaceuticos": "Risco de doping; uso oral e injetável exige supervisão",
+      "cuidadosEnfermagem": "Observar PA, FC, sinais de ansiedade ou arritmia",
+      "fontesBibliograficas": "Anvisa, FDA, Medscape, UpToDate, SBAR"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ephedrine",
+      "suspension": "Discontinue 3 days before surgery with general anesthesia or cardiac risk",
+      "risk": "Alpha and beta agonist; risk of hypertension, arrhythmias, interactions with volatile anesthetics",
+      "reintroduction": "Resume 24–48h post-op if hemodynamically stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ephedrine",
+      "nomeComercial": "Ephedrine Sulfate, Akovaz, Bronkaid",
+      "mecanismoAcao": "Mixed-acting sympathomimetic; stimulates alpha and beta receptors and increases norepinephrine release",
+      "farmacocinetica": "Oral and IV absorption; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Increases BP, HR, cardiac output, bronchodilation and nasal decongestion",
+      "indicacoes": "Intraoperative hypotension, nasal congestion, bronchospasm",
+      "reacoesAdversas": "Palpitations, tremors, insomnia, anxiety, hypertension",
+      "riscoGravidez": "Category C – caution advised",
+      "riscoLactacao": "Avoid unless necessary",
+      "administracao": "Oral, IV, IM, SC",
+      "doseMaxima": "60 mg/day orally; up to 50 mg IV per dose",
+      "doseMinima": "15 mg/day",
+      "classificacao": "Mixed alpha/beta adrenergic agonist",
+      "apresentacao": "Ampoules (50 mg/mL), tablets (15–30 mg)",
+      "interacaoMedicamento": "Interacts with MAOIs, SSRIs, anesthetics, beta-blockers",
+      "posologia": "Oral: 15–30 mg 2–3x/day; IV: 5–10 mg bolus PRN",
+      "armazenamento": "Store ampoules refrigerated or protected from light",
+      "preparo": "Dilute in NS or D5W before IV administration",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Pheochromocytoma, severe hypertension, hyperthyroidism, glaucoma",
+      "cuidadosMedicos": "Monitor BP, ECG, CNS stimulation signs",
+      "cuidadosFarmaceuticos": "Alert for doping potential; ensure correct dilution and administration",
+      "cuidadosEnfermagem": "Observe BP, HR, and CNS signs",
+      "fontesBibliograficas": "FDA, Micromedex, NIH, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Efedrina",
+      "suspension": "Suspender 3 días antes de cirugía con anestesia general o riesgo cardiovascular",
+      "risk": "Estimula alfa y beta receptores; riesgo de hipertensión, arritmia y ansiedad",
+      "reintroduction": "Reanudar 24–48h después si paciente estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Efedrina",
+      "nomeComercial": "Efedrina Sulfato, Akovaz, Broncalene",
+      "mecanismoAcao": "Agonista alfa/beta mixto; estimula liberación de noradrenalina",
+      "farmacocinetica": "Buena absorción oral; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Aumenta PA, FC, flujo bronquial, estimula sistema nervioso",
+      "indicacoes": "Hipotensión perioperatoria, congestión nasal, broncoespasmo",
+      "reacoesAdversas": "Nerviosismo, insomnio, palpitaciones, taquicardia, náuseas",
+      "riscoGravidez": "Categoría C – usar con precaución",
+      "riscoLactacao": "Evitar uso crónico",
+      "administracao": "Oral, IV, IM, SC",
+      "doseMaxima": "60 mg/día oral; 25–50 mg IV",
+      "doseMinima": "15 mg/día",
+      "classificacao": "Simpaticomimético mixto",
+      "apresentacao": "Ampollas, tabletas (15–30 mg)",
+      "interacaoMedicamento": "Interacciones con IMAO, ISRS, anestésicos y betabloqueantes",
+      "posologia": "15–30 mg 2–3x/día oral; IV 5–10 mg según respuesta",
+      "armazenamento": "Lugar seco, fresco, ampolletas protegidas de luz",
+      "preparo": "Diluir antes de administración IV",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Feocromocitoma, hipertensión severa, tirotoxicosis, glaucoma",
+      "cuidadosMedicos": "Monitorizar PA, ECG, estado mental",
+      "cuidadosFarmaceuticos": "Advertir sobre riesgo de abuso y dopaje",
+      "cuidadosEnfermagem": "Observar PA, pulso, signos de hiperestimulación",
+      "fontesBibliograficas": "EMA, Medscape, UpToDate, PubMed"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "麻黄碱（Ephedrine）",
+      "suspension": "术前3天停用（麻醉或心血管风险手术）",
+      "risk": "激活交感神经，升压，心跳快，易焦虑；与麻醉药相互作用",
+      "reintroduction": "术后稳定24–48小时可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "麻黄碱",
+      "nomeComercial": "麻黄注射液、Akovaz、Efedrina胶囊",
+      "mecanismoAcao": "激动α/β受体，促进去甲肾上腺素释放",
+      "farmacocinetica": "口服吸收良好，肝代谢，肾排泄",
+      "farmacodinamica": "升压、心率加快、支气管扩张、中枢兴奋",
+      "indicacoes": "术中低血压、鼻塞、支气管痉挛",
+      "reacoesAdversas": "焦躁、心悸、失眠、恶心、尿潴留",
+      "riscoGravidez": "C类 – 谨慎使用",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "口服、注射（静脉、肌肉、皮下）",
+      "doseMaxima": "每日不超过60毫克（口服）；静注每次不超25毫克",
+      "doseMinima": "每日15毫克",
+      "classificacao": "交感神经兴奋剂",
+      "apresentacao": "注射液（50 mg/mL）、片剂",
+      "interacaoMedicamento": "与MAOI、麻醉药、咖啡因、β阻滞剂有交互作用",
+      "posologia": "口服每日2–3次；静注5–10毫克视反应调整",
+      "armazenamento": "避光干燥储存；注射剂冷藏或避光",
+      "preparo": "需稀释后缓慢静注",
+      "solucoesCompatíveis": "生理盐水、葡萄糖5%",
+      "contraindicacoes": "嗜铬细胞瘤、严重高血压、甲亢、闭角型青光眼",
+      "cuidadosMedicos": "监测心电、血压、精神状态",
+      "cuidadosFarmaceuticos": "警惕运动禁药、滥用与中毒风险",
+      "cuidadosEnfermagem": "观察血压、心率、情绪变化与反应",
+      "fontesBibliograficas": "中国药典、PubMed、UpToDate、Medscape、FDA"
+    }
+  }
+}

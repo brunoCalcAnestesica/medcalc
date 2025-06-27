@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tenecteplase",
+      "suspension": "Suspender pelo menos 5 dias antes da cirurgia eletiva",
+      "risk": "Altíssimo risco de sangramento devido à fibrinólise sistêmica; contraindicado no perioperatório",
+      "reintroduction": "Reintroduzir apenas após total estabilização hemostática e ausência de sangramento ativo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tenecteplase",
+      "nomeComercial": "Metalyse",
+      "mecanismoAcao": "Glicoproteína recombinante que ativa seletivamente o plasminogênio ligado à fibrina, promovendo trombólise",
+      "farmacocinetica": "Administração IV em bolus; meia-vida 20–24 min; metabolização hepática",
+      "farmacodinamica": "Trombolítico fibrinoespecífico com menor ativação sistêmica da fibrinólise",
+      "indicacoes": "Infarto agudo do miocárdio com supradesnivelamento do segmento ST (STEMI)",
+      "reacoesAdversas": "Sangramento, hipotensão, arritmias de reperfusão, reações alérgicas",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar se possível",
+      "administracao": "Via intravenosa (bolus único)",
+      "doseMaxima": "50mg IV bolus (ajustada por peso)",
+      "doseMinima": "30mg IV bolus (ajustada por peso)",
+      "classificacao": "Fibrinolítico, ativador do plasminogênio tecidual (t-PA)",
+      "apresentacao": "Frascos-ampola liofilizados de 10.000 UI (50mg)",
+      "interacaoMedicamento": "Aumenta risco de sangramento com anticoagulantes, AAS, heparina, AINEs",
+      "posologia": "Peso <60kg: 30mg; 60–70kg: 35mg; 70–80kg: 40mg; 80–90kg: 45mg; >90kg: 50mg",
+      "armazenamento": "Refrigerado (2–8 °C); proteger da luz",
+      "preparo": "Reconstituir com 10mL de água estéril; administrar imediatamente",
+      "solucoesCompatíveis": "Não diluir em outras soluções",
+      "contraindicacoes": "Sangramento ativo, AVC recente, cirurgia maior <2 semanas, HAS grave não controlada",
+      "cuidadosMedicos": "Monitorar sinais de sangramento, PA, ECG e nível de consciência",
+      "cuidadosFarmaceuticos": "Preparar no momento do uso; verificar integridade do frasco",
+      "cuidadosEnfermagem": "Observar hematúria, sangramento gengival, TCE, náuseas e alterações neurológicas",
+      "fontesBibliograficas": "Micromedex, ANVISA, ESC Guidelines, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tenecteplase",
+      "suspension": "Discontinue at least 5 days before elective surgery",
+      "risk": "Very high bleeding risk due to systemic fibrinolysis; contraindicated perioperatively",
+      "reintroduction": "Restart only after full hemostatic recovery and no active bleeding"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tenecteplase",
+      "nomeComercial": "TNKase",
+      "mecanismoAcao": "Recombinant t-PA derivative that activates fibrin-bound plasminogen",
+      "farmacocinetica": "IV bolus; half-life 20–24 min; hepatic metabolism",
+      "farmacodinamica": "Fibrin-specific thrombolytic with reduced systemic fibrinolysis",
+      "indicacoes": "ST-elevation myocardial infarction (STEMI)",
+      "reacoesAdversas": "Bleeding, hypotension, reperfusion arrhythmias, allergic reactions",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid if possible",
+      "administracao": "IV bolus",
+      "doseMaxima": "50mg (weight-based)",
+      "doseMinima": "30mg (weight-based)",
+      "classificacao": "Fibrinolytic, t-PA analog",
+      "apresentacao": "Lyophilized vials 10,000 units (50mg)",
+      "interacaoMedicamento": "Increased bleeding with anticoagulants, aspirin, heparin, NSAIDs",
+      "posologia": "<60kg: 30mg; 60–70kg: 35mg; 70–80kg: 40mg; 80–90kg: 45mg; >90kg: 50mg",
+      "armazenamento": "Refrigerate (2–8 °C); protect from light",
+      "preparo": "Reconstitute with 10mL sterile water; use immediately",
+      "solucoesCompatíveis": "Do not dilute further",
+      "contraindicacoes": "Active bleeding, recent stroke, major surgery <2 weeks, severe uncontrolled hypertension",
+      "cuidadosMedicos": "Monitor bleeding, BP, ECG, mental status",
+      "cuidadosFarmaceuticos": "Reconstitute immediately before use; inspect vial integrity",
+      "cuidadosEnfermagem": "Observe for bleeding signs, neurological changes, hypotension",
+      "fontesBibliograficas": "FDA, Micromedex, ACC/AHA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tenecteplasa",
+      "suspension": "Suspender al menos 5 días antes de cirugía",
+      "risk": "Alto riesgo de sangrado por fibrinólisis sistémica; contraindicado en perioperatorio",
+      "reintroduction": "Reintroducir tras recuperación hemostática total"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tenecteplasa",
+      "nomeComercial": "Metalyse",
+      "mecanismoAcao": "Derivado recombinante de t-PA; activa plasminógeno unido a fibrina",
+      "farmacocinetica": "Bolo IV; vida media 20–24 min; metabolismo hepático",
+      "farmacodinamica": "Trombolítico fibrinoespecífico; menor fibrinólisis sistémica",
+      "indicacoes": "IAM con elevación del ST (IAMCEST)",
+      "reacoesAdversas": "Sangrado, hipotensión, arritmias, reacciones alérgicas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar si es posible",
+      "administracao": "Bolo intravenoso",
+      "doseMaxima": "50mg (según peso)",
+      "doseMinima": "30mg (según peso)",
+      "classificacao": "Fibrinolítico, análogo t-PA",
+      "apresentacao": "Frascos liofilizados 10.000 UI (50mg)",
+      "interacaoMedicamento": "Mayor sangrado con anticoagulantes, AAS, AINEs",
+      "posologia": "<60kg: 30mg; 60–70kg: 35mg; 70–80kg: 40mg; 80–90kg: 45mg; >90kg: 50mg",
+      "armazenamento": "Refrigerado (2–8 °C); protegido de luz",
+      "preparo": "Reconstituir con 10mL de agua estéril; usar inmediatamente",
+      "solucoesCompatíveis": "No diluir en otras soluciones",
+      "contraindicacoes": "Sangrado activo, ACV reciente, cirugía mayor <2 sem, HTA grave",
+      "cuidadosMedicos": "Monitorear sangrado, TA, ECG, estado neurológico",
+      "cuidadosFarmaceuticos": "Preparar al momento; revisar integridad del vial",
+      "cuidadosEnfermagem": "Observar sangrado, TCE, estado mental",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "替奈普酶",
+      "suspension": "择期手术前至少停药5天",
+      "risk": "因系统性纤溶作用出血风险极高；术前禁用",
+      "reintroduction": "仅在完全止血后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "替奈普酶",
+      "nomeComercial": "Metalyse",
+      "mecanismoAcao": "重组t-PA衍生物，激活与纤维蛋白结合的纤溶酶原",
+      "farmacocinetica": "静注，半衰期20–24分钟，肝脏代谢",
+      "farmacodinamica": "特异性溶栓药，系统性纤溶作用较少",
+      "indicacoes": "ST段抬高型心肌梗死（STEMI）",
+      "reacoesAdversas": "出血、低血压、再灌注心律失常、过敏反应",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期应避免",
+      "administracao": "静脉注射（单次）",
+      "doseMaxima": "50毫克（按体重）",
+      "doseMinima": "30毫克（按体重）",
+      "classificacao": "纤溶药，t-PA类似物",
+      "apresentacao": "冻干粉：10,000单位（50mg）",
+      "interacaoMedicamento": "与抗凝剂、阿司匹林、NSAIDs合用出血风险上升",
+      "posologia": "<60kg: 30mg；60–70kg: 35mg；70–80kg: 40mg；80–90kg: 45mg；>90kg: 50mg",
+      "armazenamento": "2–8°C冷藏避光",
+      "preparo": "用10mL无菌注射用水溶解，立即使用",
+      "solucoesCompatíveis": "不可稀释或混合",
+      "contraindicacoes": "活动性出血、近期卒中、大手术史、重度高血压",
+      "cuidadosMedicos": "监测出血、血压、心电图、意识状态",
+      "cuidadosFarmaceuticos": "使用前立即配制，检查瓶体完整",
+      "cuidadosEnfermagem": "观察出血体征、意识变化和血压变化",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ferro sacarose",
+      "suspension": "Suspender 48 horas antes de cirurgias de grande porte apenas se houver sinais de reação alérgica recente ou instabilidade hemodinâmica",
+      "risk": "Reações anafilactoides (raro), hipotensão, náusea, cefaleia, dor no local da infusão",
+      "reintroduction": "Reintroduzir após estabilização clínica e função renal estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Complexo de hidróxido férrico sacarose",
+      "nomeComercial": "Noripurum EV, Venofer",
+      "mecanismoAcao": "Fornece ferro trivalente diretamente disponível para incorporação na ferritina e hemoglobina",
+      "farmacocinetica": "Administração IV lenta ou infusão; distribuição reticuloendotelial; meia-vida ~6 h",
+      "farmacodinamica": "Corrige rapidamente a anemia ferropriva e reabastece estoques de ferro, especialmente em pacientes com doença renal",
+      "indicacoes": "Anemia ferropriva em doença renal crônica, intolerância ou falha de ferro oral",
+      "reacoesAdversas": "Tontura, náusea, hipotensão, erupção cutânea, dor articular",
+      "riscoGravidez": "Categoria B – seguro em 2º e 3º trimestre",
+      "riscoLactacao": "Seguro",
+      "administracao": "Intravenosa em bolus lento ou infusão diluída",
+      "doseMaxima": "200 mg por administração",
+      "doseMinima": "100 mg por sessão",
+      "classificacao": "Suplemento de ferro parenteral",
+      "apresentacao": "Ampola 5 mL (20 mg/mL = 100 mg)",
+      "interacaoMedicamento": "Evitar administração concomitante com ferro oral; risco de sobrecarga",
+      "posologia": "100–200 mg IV 1–3x/semana, conforme necessidade de ferro calculada",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Diluir em SF 0,9% para infusão lenta (15–60 min)",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Anemia não ferropriva, sobrecarga de ferro, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar ferritina, saturação da transferrina, PA durante infusão",
+      "cuidadosFarmaceuticos": "Conferir dose individualizada e estabilidade da solução",
+      "cuidadosEnfermagem": "Observar reações locais, PA, sinais de hipersensibilidade",
+      "fontesBibliograficas": "ANVISA, KDIGO, UpToDate, Micromedex, WHO"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Iron sucrose",
+      "suspension": "Discontinue 48h before major surgery only if recent hypersensitivity or unstable condition",
+      "risk": "Mild hypotension, headache, nausea, rare anaphylaxis",
+      "reintroduction": "Restart post-op once stable and renal function recovered"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Iron sucrose complex",
+      "nomeComercial": "Venofer",
+      "mecanismoAcao": "Provides bioavailable ferric iron for erythropoiesis and ferritin storage",
+      "farmacocinetica": "IV; half-life ~6 h; reticuloendothelial uptake",
+      "farmacodinamica": "Replenishes iron stores in CKD and iron-deficiency anemia",
+      "indicacoes": "ID anemia in CKD or oral iron intolerance/failure",
+      "reacoesAdversas": "Nausea, dizziness, hypotension, arthralgia",
+      "riscoGravidez": "Category B – safe in 2nd and 3rd trimester",
+      "riscoLactacao": "Safe",
+      "administracao": "IV bolus or diluted infusion",
+      "doseMaxima": "200 mg/dose",
+      "doseMinima": "100 mg",
+      "classificacao": "IV iron supplement",
+      "apresentacao": "Ampoule 100 mg/5 mL (20 mg/mL)",
+      "interacaoMedicamento": "Avoid concurrent oral iron; overdose risk",
+      "posologia": "100–200 mg IV 1–3x/week per iron deficit",
+      "armazenamento": "Room temp; protect from light",
+      "preparo": "Dilute in NS for 15–60 min infusion",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Non-IDA anemia, iron overload, hypersensitivity",
+      "cuidadosMedicos": "Check ferritin, TSAT, BP during infusion",
+      "cuidadosFarmaceuticos": "Ensure individualized dose and preparation",
+      "cuidadosEnfermagem": "Monitor site, vitals, allergic signs",
+      "fontesBibliograficas": "FDA, KDIGO, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hierro sacarosa",
+      "suspension": "Suspender 48 h antes de cirugía mayor si reacción reciente o condición inestable",
+      "risk": "Hipotensión, náuseas, cefalea, reacción anafilactoide rara",
+      "reintroduction": "Reiniciar tras cirugía cuando estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Complejo de hierro sacarosa",
+      "nomeComercial": "Venofer",
+      "mecanismoAcao": "Suministra Fe3+ disponible para eritropoyesis y almacenamiento",
+      "farmacocinetica": "IV; t½ ~6 h; captación RES",
+      "farmacodinamica": "Corrige ferropenia y anemia en ERC",
+      "indicacoes": "Anemia ID por ERC o fallo oral",
+      "reacoesAdversas": "Náuseas, hipotensión, vértigo, artralgia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Seguro",
+      "administracao": "IV bolo lento o infusión",
+      "doseMaxima": "200 mg/dosis",
+      "doseMinima": "100 mg",
+      "classificacao": "Suplemento IV de hierro",
+      "apresentacao": "Ampolla 100 mg/5 mL",
+      "interacaoMedicamento": "Evitar hierro oral simultáneo",
+      "posologia": "100–200 mg IV 1–3x/semana",
+      "armazenamento": "Ambiente; proteger luz",
+      "preparo": "Diluir en SF 0,9%, infundir 15–60 min",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Sobrecarga de hierro, alergia",
+      "cuidadosMedicos": "Ferritina, TSAT, TA durante infusión",
+      "cuidadosFarmaceuticos": "Verificar dosis y técnica",
+      "cuidadosEnfermagem": "Vigilar sitio infusión y reacciones adversas",
+      "fontesBibliograficas": "EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "蔗糖铁（Iron sucrose）",
+      "suspension": "术前48小时停用，仅限近期过敏或不稳定者",
+      "risk": "轻度低血压、注射反应、罕见过敏",
+      "reintroduction": "术后稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "蔗糖铁",
+      "nomeComercial": "Venofer",
+      "mecanismoAcao": "提供三价铁供造血与储存",
+      "farmacocinetica": "静注，t½约6小时，经RES系统分布",
+      "farmacodinamica": "快速补铁，纠正贫血，常用于CKD",
+      "indicacoes": "CKD缺铁性贫血，口服铁无效或不能耐受",
+      "reacoesAdversas": "头晕、恶心、关节痛、低血压",
+      "riscoGravidez": "B类，孕中晚期可用",
+      "riscoLactacao": "安全",
+      "administracao": "静注稀释滴注或缓慢推注",
+      "doseMaxima": "每次200 mg",
+      "doseMinima": "100 mg",
+      "classificacao": "静脉铁剂",
+      "apresentacao": "100 mg/5 mL安瓿",
+      "interacaoMedicamento": "避免与口服铁同用",
+      "posologia": "每次100–200 mg，每周1–3次",
+      "armazenamento": "室温避光保存",
+      "preparo": "用0.9%氯化钠稀释，滴注15–60分钟",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "铁过载、过敏、非缺铁性贫血",
+      "cuidadosMedicos": "监测铁蛋白、TSAT、血压",
+      "cuidadosFarmaceuticos": "确保剂量和配药无菌",
+      "cuidadosEnfermagem": "观察局部不良反应与过敏征象",
+      "fontesBibliograficas": "KDIGO、WHO、UpToDate、Micromedex"
+    }
+  }
+}

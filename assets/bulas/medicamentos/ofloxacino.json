@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ofloxacino",
+      "suspension": "Suspender 1 dia antes da cirurgia se uso profilático",
+      "risk": "Pode causar prolongamento de QT, neurotoxicidade e interações com anestésicos",
+      "reintroduction": "Reintroduzir com monitoramento cardíaco e função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ofloxacino",
+      "nomeComercial": "Tarivid, Oflin, Flotac",
+      "mecanismoAcao": "Inibe a DNA girase e topoisomerase IV bacteriana, impedindo a replicação do DNA",
+      "farmacocinetica": "Boa biodisponibilidade oral (~95%), meia-vida de 4–5 h, excreção renal",
+      "farmacodinamica": "Bactericida contra Gram-negativos e Gram-positivos",
+      "indicacoes": "ITU, prostatite, infecções respiratórias, gastrointestinais e oculares",
+      "reacoesAdversas": "Tontura, náusea, insônia, fotossensibilidade, tendinite, alucinações",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar durante lactação",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "800 mg/dia",
+      "doseMinima": "200 mg/dia",
+      "classificacao": "Quinolona (fluoroquinolona de 2ª geração)",
+      "apresentacao": "Comprimidos 200 e 400 mg; solução IV 200 mg/100 mL; colírio",
+      "interacaoMedicamento": "Interage com antiácidos, varfarina, antiarrítmicos, hipoglicemiantes",
+      "posologia": "200–400 mg 1–2x/dia por 5–10 dias (ajustar por função renal)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso direto (oral ou IV); não misturar com soluções alcalinas",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade a quinolonas, epilepsia, prolongamento do QT",
+      "cuidadosMedicos": "Monitorar ECG, função renal e efeitos neurológicos",
+      "cuidadosFarmaceuticos": "Evitar luz direta e observar prazo de validade",
+      "cuidadosEnfermagem": "Observar efeitos adversos neurológicos e tendíneos",
+      "fontesBibliograficas": "ANVISA, BNF, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ofloxacin",
+      "suspension": "Discontinue 1 day before surgery if used prophylactically",
+      "risk": "Risk of QT prolongation, neurotoxicity, and anesthetic interactions",
+      "reintroduction": "Restart with cardiac and renal monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ofloxacin",
+      "nomeComercial": "Floxin, Ocuflox",
+      "mecanismoAcao": "Inhibits bacterial DNA gyrase and topoisomerase IV",
+      "farmacocinetica": "Oral bioavailability ~95%, half-life 4–5 h, renal excretion",
+      "farmacodinamica": "Bactericidal against Gram-negative and Gram-positive bacteria",
+      "indicacoes": "UTIs, prostatitis, respiratory, GI and ocular infections",
+      "reacoesAdversas": "Dizziness, nausea, insomnia, photosensitivity, tendinitis, hallucinations",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "Oral or IV",
+      "doseMaxima": "800 mg/day",
+      "doseMinima": "200 mg/day",
+      "classificacao": "Fluoroquinolone (2nd generation)",
+      "apresentacao": "Tablets 200/400 mg; IV 200 mg/100 mL; eye drops",
+      "interacaoMedicamento": "Interacts with antacids, warfarin, antiarrhythmics, hypoglycemics",
+      "posologia": "200–400 mg 1–2x/day for 5–10 days (adjust for renal function)",
+      "armazenamento": "Store at room temp, protect from light",
+      "preparo": "Administer directly (oral/IV); avoid alkaline solutions",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hypersensitivity to quinolones, epilepsy, QT prolongation",
+      "cuidadosMedicos": "Monitor ECG, renal function, and neurologic status",
+      "cuidadosFarmaceuticos": "Protect from light; observe shelf life",
+      "cuidadosEnfermagem": "Watch for neurologic and tendon side effects",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ofloxacino",
+      "suspension": "Suspender 1 día antes de la cirugía si se usa de forma profiláctica",
+      "risk": "Puede prolongar el QT, causar neurotoxicidad e interactuar con anestésicos",
+      "reintroduction": "Reintroducir con monitoreo cardíaco y renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ofloxacino",
+      "nomeComercial": "Tarivid, Oflocin",
+      "mecanismoAcao": "Inhibe la ADN girasa y topoisomerasa IV bacteriana",
+      "farmacocinetica": "Biodisponibilidad oral ~95%, vida media 4–5 h, excreción renal",
+      "farmacodinamica": "Bactericida frente a bacterias Gram-positivas y Gram-negativas",
+      "indicacoes": "ITU, prostatitis, infecciones respiratorias, gastrointestinales y oculares",
+      "reacoesAdversas": "Mareos, náuseas, insomnio, fotosensibilidad, tendinitis, alucinaciones",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante la lactancia",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "800 mg/día",
+      "doseMinima": "200 mg/día",
+      "classificacao": "Fluoroquinolona (2ª generación)",
+      "apresentacao": "Tabletas de 200/400 mg, solución IV 200 mg/100 mL, colirio",
+      "interacaoMedicamento": "Interacción con antiácidos, warfarina, antiarrítmicos, hipoglucemiantes",
+      "posologia": "200–400 mg 1–2 veces al día por 5–10 días (ajustar según función renal)",
+      "armazenamento": "Conservar a temperatura ambiente, protegido de la luz",
+      "preparo": "Administración directa; evitar soluciones alcalinas",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a quinolonas, epilepsia, prolongación del QT",
+      "cuidadosMedicos": "Monitorear ECG, función renal y síntomas neurológicos",
+      "cuidadosFarmaceuticos": "Proteger de la luz; controlar fecha de caducidad",
+      "cuidadosEnfermagem": "Observar efectos adversos neurológicos y tendinosos",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氧氟沙星",
+      "suspension": "术前1天停药（如为预防性使用）",
+      "risk": "可能引起QT延长、神经毒性，与麻醉药物相互作用",
+      "reintroduction": "术后在心电与肾功能监测下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氧氟沙星",
+      "nomeComercial": "Tarivid, 氧氟沙星片",
+      "mecanismoAcao": "抑制细菌DNA旋转酶和拓扑异构酶IV",
+      "farmacocinetica": "口服吸收率高（约95%），半衰期4–5小时，肾脏排泄",
+      "farmacodinamica": "对革兰阳性和阴性菌具杀菌作用",
+      "indicacoes": "泌尿感染、前列腺炎、呼吸道、胃肠道与眼部感染",
+      "reacoesAdversas": "头晕、恶心、失眠、光敏反应、肌腱炎、幻觉",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期不建议使用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日800毫克",
+      "doseMinima": "每日200毫克",
+      "classificacao": "第二代氟喹诺酮类抗生素",
+      "apresentacao": "片剂200/400 mg，注射液200 mg/100 mL，滴眼液",
+      "interacaoMedicamento": "与抗酸药、华法林、抗心律失常药、降糖药有相互作用",
+      "posologia": "200–400 mg，每日1–2次，疗程5–10天（视肾功能调整）",
+      "armazenamento": "室温保存，避光",
+      "preparo": "直接使用，不可与碱性溶液混合",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对喹诺酮过敏、癫痫、QT间期延长",
+      "cuidadosMedicos": "监测心电图、肾功能与神经系统症状",
+      "cuidadosFarmaceuticos": "避免光照，注意有效期",
+      "cuidadosEnfermagem": "观察神经与肌腱不良反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

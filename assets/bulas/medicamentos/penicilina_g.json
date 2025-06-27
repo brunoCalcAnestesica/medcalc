@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Penicilina G",
+      "suspension": "Manter até o momento da indução anestésica",
+      "risk": "Risco anafilático em pacientes sensibilizados; possível interferência com eletrólitos em altas doses EV",
+      "reintroduction": "Reintroduzir conforme controle infeccioso e avaliação clínica no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Penicilina G potássica ou sódica",
+      "nomeComercial": "Cristacilina, Penicilina G",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana por ligação às PBPs",
+      "farmacocinetica": "Administração EV ou IM, meia-vida curta (~30 min), excreção renal",
+      "farmacodinamica": "Bactericida contra cocos Gram-positivos, anaeróbios e Treponema",
+      "indicacoes": "Sífilis, meningite, infecções estreptocócicas, endocardite, pneumonia",
+      "reacoesAdversas": "Anafilaxia, convulsões (altas doses EV), distúrbios hidroeletrolíticos",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Intravenosa ou intramuscular",
+      "doseMaxima": "24 milhões UI/dia (EV dividida)",
+      "doseMinima": "1-2 milhões UI/dose",
+      "classificacao": "Antibiótico betalactâmico (penicilina natural)",
+      "apresentacao": "Frascos de 1, 5, 10, 20 milhões UI",
+      "interacaoMedicamento": "Reduz eficácia de contraceptivos orais; sinergia com aminoglicosídeos",
+      "posologia": "Dose habitual: 2-4 milhões UI EV a cada 4–6h",
+      "armazenamento": "Refrigerado antes da reconstituição; solução estável por 24h refrigerada",
+      "preparo": "Reconstituir com água estéril ou SF; infusão lenta EV ou bolus IM",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia à penicilina",
+      "cuidadosMedicos": "Realizar teste de sensibilidade em pacientes com histórico",
+      "cuidadosFarmaceuticos": "Garantir reconstituição correta e compatibilidade",
+      "cuidadosEnfermagem": "Observar sinais de reação alérgica, monitorar eletrólitos em altas doses",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Penicillin G",
+      "suspension": "Continue until anesthesia induction",
+      "risk": "Anaphylaxis risk in sensitized patients; electrolyte shifts in high-dose IV",
+      "reintroduction": "Reintroduce post-op based on infection status and clinical stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Penicillin G potassium or sodium",
+      "nomeComercial": "Pfizerpen, Penicillin G",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis via PBPs",
+      "farmacocinetica": "IV or IM administration, short half-life (~30 min), renal excretion",
+      "farmacodinamica": "Bactericidal against Gram-positive cocci, anaerobes, Treponema",
+      "indicacoes": "Syphilis, meningitis, streptococcal infections, endocarditis, pneumonia",
+      "reacoesAdversas": "Anaphylaxis, seizures (high IV doses), electrolyte imbalance",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "IV or IM",
+      "doseMaxima": "24 million units/day (divided IV)",
+      "doseMinima": "1–2 million units/dose",
+      "classificacao": "Beta-lactam antibiotic (natural penicillin)",
+      "apresentacao": "Vials 1, 5, 10, 20 million units",
+      "interacaoMedicamento": "May reduce efficacy of oral contraceptives; synergistic with aminoglycosides",
+      "posologia": "Usual dose: 2–4 million units IV every 4–6h",
+      "armazenamento": "Refrigerate before use; solution stable 24h refrigerated",
+      "preparo": "Reconstitute with sterile water or NS; slow IV infusion or IM bolus",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Penicillin allergy",
+      "cuidadosMedicos": "Perform sensitivity testing if allergic history",
+      "cuidadosFarmaceuticos": "Ensure proper dilution and compatibility",
+      "cuidadosEnfermagem": "Monitor for allergic reactions, electrolytes with high-dose use",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Penicilina G",
+      "suspension": "Mantener hasta la inducción anestésica",
+      "risk": "Riesgo de anafilaxia en sensibilizados; alteraciones electrolíticas en dosis altas IV",
+      "reintroduction": "Reintroducir según control infeccioso y evolución postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Penicilina G potásica o sódica",
+      "nomeComercial": "Cristacilina, Penicilina G",
+      "mecanismoAcao": "Inhibe la síntesis de la pared celular bacteriana mediante las PBPs",
+      "farmacocinetica": "IV o IM, vida media ~30 min, eliminación renal",
+      "farmacodinamica": "Bactericida frente a cocos Gram positivos, anaerobios y Treponema",
+      "indicacoes": "Sífilis, meningitis, infecciones estreptocócicas, endocarditis, neumonía",
+      "reacoesAdversas": "Anafilaxia, convulsiones (dosis altas), desequilibrio electrolítico",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "IV o IM",
+      "doseMaxima": "24 millones UI/día",
+      "doseMinima": "1–2 millones UI/dosis",
+      "classificacao": "Antibiótico betalactámico (penicilina natural)",
+      "apresentacao": "Viales de 1, 5, 10, 20 millones UI",
+      "interacaoMedicamento": "Reduce eficacia de anticonceptivos; sinergia con aminoglucósidos",
+      "posologia": "Dosis habitual: 2–4 millones UI IV cada 4–6h",
+      "armazenamento": "Refrigerado antes de uso; solución estable 24h",
+      "preparo": "Reconstituir con agua estéril o SF; infusión lenta o bolo IM",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a penicilinas",
+      "cuidadosMedicos": "Test de sensibilidad si hay antecedentes alérgicos",
+      "cuidadosFarmaceuticos": "Verificar reconstitución adecuada y compatibilidad",
+      "cuidadosEnfermagem": "Observar reacciones alérgicas y electrolitos si dosis altas",
+      "fontesBibliograficas": "AEMPS, WHO, BNF, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "青霉素G",
+      "suspension": "可持续使用至麻醉诱导前",
+      "risk": "过敏风险；大剂量可引起电解质紊乱与抽搐",
+      "reintroduction": "术后根据感染控制和临床情况决定是否继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "青霉素G钾或钠盐",
+      "nomeComercial": "青霉素G钾、青霉素钠",
+      "mecanismoAcao": "通过与PBPs结合抑制细菌细胞壁合成",
+      "farmacocinetica": "IV或IM，半衰期约30分钟，经肾排泄",
+      "farmacodinamica": "对革兰阳性球菌、厌氧菌及梅毒螺旋体有效",
+      "indicacoes": "梅毒、脑膜炎、链球菌感染、心内膜炎、肺炎",
+      "reacoesAdversas": "过敏反应、惊厥（高剂量）、电解质紊乱",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "静脉或肌肉注射",
+      "doseMaxima": "每日2400万单位（IV分次）",
+      "doseMinima": "每次100万–200万单位",
+      "classificacao": "β-内酰胺类抗生素（天然青霉素）",
+      "apresentacao": "1/5/10/20百万单位瓶装",
+      "interacaoMedicamento": "降低口服避孕药效果，与氨基糖苷类协同作用",
+      "posologia": "常规剂量2–4百万单位IV每4–6小时",
+      "armazenamento": "干粉冷藏，重配后24小时内使用",
+      "preparo": "使用无菌水或生理盐水溶解，慢速IV或IM注射",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对青霉素过敏",
+      "cuidadosMedicos": "有过敏史者需皮试",
+      "cuidadosFarmaceuticos": "确保重配方法正确并注意药液稳定性",
+      "cuidadosEnfermagem": "监测过敏反应、电解质紊乱与癫痫发作",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

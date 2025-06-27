@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fondaparinux",
+      "suspension": "Suspender 24–48 horas antes de procedimentos com risco hemorrágico elevado",
+      "risk": "Risco de sangramento, hematoma espinhal com anestesia neuraxial, não possui antídoto específico",
+      "reintroduction": "Reintroduzir após hemostasia assegurada e recuperação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fondaparinux sódico",
+      "nomeComercial": "Arixtra",
+      "mecanismoAcao": "Inibidor sintético e seletivo do fator Xa, potencializa a antitrombina III",
+      "farmacocinetica": "Administração SC, biodisponibilidade ~100%, meia-vida ~17 h, excreção renal",
+      "farmacodinamica": "Bloqueia a formação da trombina e do trombo, sem inibir diretamente a trombina",
+      "indicacoes": "Profilaxia e tratamento de trombose venosa profunda (TVP), embolia pulmonar (EP), síndrome coronariana aguda",
+      "reacoesAdversas": "Sangramento, anemia, trombocitopenia, reação no local da injeção, aumento de transaminases",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Uso permitido com cautela",
+      "administracao": "Subcutânea 1x/dia",
+      "doseMaxima": "10 mg/dia",
+      "doseMinima": "2,5 mg/dia",
+      "classificacao": "Anticoagulante parenteral (inibidor do fator Xa)",
+      "apresentacao": "Solução injetável 2,5 mg/0,5 mL, 5 mg/0,4 mL, 7,5 mg/0,6 mL, 10 mg/0,8 mL",
+      "interacaoMedicamento": "Risco aumentado com AINEs, antiplaquetários e outros anticoagulantes",
+      "posologia": "2,5 mg SC 1x/dia (profilaxia); 7,5 mg SC 1x/dia (tratamento TVP/EP, 50–100 kg)",
+      "armazenamento": "Temperatura ambiente, não congelar",
+      "preparo": "Pronto para uso, seringa pré-preenchida",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Sangramento ativo, insuficiência renal grave (ClCr <30 mL/min), endocardite bacteriana",
+      "cuidadosMedicos": "Avaliar função renal, risco de sangramento, evitar uso com bloqueio espinhal/epidural sem intervalo adequado",
+      "cuidadosFarmaceuticos": "Educar paciente sobre sinais de sangramento e técnica de aplicação SC",
+      "cuidadosEnfermagem": "Observar equimoses, sangramento oculto e efeitos locais",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fondaparinux",
+      "suspension": "Hold 24–48 hours prior to high bleeding risk procedures",
+      "risk": "Bleeding, spinal hematoma with neuraxial anesthesia, lacks specific reversal agent",
+      "reintroduction": "Restart once hemostasis is secured postoperatively"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fondaparinux sodium",
+      "nomeComercial": "Arixtra",
+      "mecanismoAcao": "Synthetic pentasaccharide inhibiting factor Xa via antithrombin III",
+      "farmacocinetica": "SC bioavailability ~100%, half-life ~17 h, renal clearance",
+      "farmacodinamica": "Selectively inhibits factor Xa without affecting thrombin",
+      "indicacoes": "DVT and PE treatment and prevention, acute coronary syndromes",
+      "reacoesAdversas": "Bleeding, anemia, thrombocytopenia, elevated liver enzymes",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Use with caution",
+      "administracao": "SC injection once daily",
+      "doseMaxima": "10 mg/day",
+      "doseMinima": "2.5 mg/day",
+      "classificacao": "Parenteral factor Xa inhibitor anticoagulant",
+      "apresentacao": "Prefilled syringes 2.5, 5, 7.5, 10 mg",
+      "interacaoMedicamento": "Increased risk with NSAIDs, antiplatelets, other anticoagulants",
+      "posologia": "2.5 mg SC daily for prophylaxis; 7.5 mg (50–100 kg) for treatment",
+      "armazenamento": "Room temperature, do not freeze",
+      "preparo": "Prefilled syringe, ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active bleeding, severe renal impairment (CrCl <30), bacterial endocarditis",
+      "cuidadosMedicos": "Monitor renal function, avoid with spinal/epidural anesthesia without interval",
+      "cuidadosFarmaceuticos": "Counsel on signs of bleeding and SC injection technique",
+      "cuidadosEnfermagem": "Monitor site reactions and bleeding events",
+      "fontesBibliograficas": "FDA, Lexicomp, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fondaparinux",
+      "suspension": "Suspender 24–48 h antes de cirugía con alto riesgo hemorrágico",
+      "risk": "Riesgo de hemorragia, hematoma espinal, no tiene antídoto",
+      "reintroduction": "Reintroducir tras lograr hemostasia postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fondaparinux sódico",
+      "nomeComercial": "Arixtra",
+      "mecanismoAcao": "Inhibidor selectivo del factor Xa vía antitrombina III",
+      "farmacocinetica": "Biodisponibilidad SC ~100%, vida media 17 h, excreción renal",
+      "farmacodinamica": "Inhibe Xa sin afectar trombina",
+      "indicacoes": "Prevención y tratamiento de TVP/EP, síndromes coronarios agudos",
+      "reacoesAdversas": "Hemorragia, anemia, trombocitopenia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Usar con precaución",
+      "administracao": "SC diaria",
+      "doseMaxima": "10 mg/día",
+      "doseMinima": "2.5 mg/día",
+      "classificacao": "Anticoagulante parenteral (inhibidor Xa)",
+      "apresentacao": "Jeringas prellenadas 2.5–10 mg",
+      "interacaoMedicamento": "AINEs, antiagregantes, anticoagulantes",
+      "posologia": "2.5 mg/día para profilaxis; 7.5 mg para TVP/EP",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Listo para usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Sangrado activo, insuficiencia renal severa, endocarditis",
+      "cuidadosMedicos": "Controlar función renal, evitar anestesia neuraxial sin intervalo",
+      "cuidadosFarmaceuticos": "Advertir sobre riesgo hemorrágico y técnica de aplicación",
+      "cuidadosEnfermagem": "Observar sangrado y reacciones locales",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "磺达肝癸钠",
+      "suspension": "术前24–48小时停药，尤其高出血风险手术",
+      "risk": "出血、硬膜外血肿风险高，无特效解毒药",
+      "reintroduction": "术后止血充分后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磺达肝癸钠",
+      "nomeComercial": "Arixtra",
+      "mecanismoAcao": "选择性Xa因子抑制剂，通过激活抗凝血酶III起效",
+      "farmacocinetica": "皮下注射，生物利用度100%，半衰期17小时，肾排泄",
+      "farmacodinamica": "抑制Xa因子生成凝血酶，防止血栓形成",
+      "indicacoes": "DVT/PE的预防和治疗，ACS辅助治疗",
+      "reacoesAdversas": "出血、贫血、血小板减少、转氨酶升高",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "慎用",
+      "administracao": "每日一次皮下注射",
+      "doseMaxima": "每日10毫克",
+      "doseMinima": "每日2.5毫克",
+      "classificacao": "注射用抗Xa抗凝剂",
+      "apresentacao": "2.5–10 mg预充式注射器",
+      "interacaoMedicamento": "NSAIDs、抗血小板药、其他抗凝剂",
+      "posologia": "预防：2.5 mg；治疗：7.5 mg（50–100 kg体重）",
+      "armazenamento": "室温保存，不可冷冻",
+      "preparo": "即用注射器",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性出血、重度肾功能损害、细菌性心内膜炎",
+      "cuidadosMedicos": "术前术后监测肾功能和出血风险",
+      "cuidadosFarmaceuticos": "指导皮下注射方法，识别不良反应",
+      "cuidadosEnfermagem": "监测局部反应和出血表现",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

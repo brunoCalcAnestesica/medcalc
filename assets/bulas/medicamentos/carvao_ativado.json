@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Carvão Ativado",
+      "suspension": "Suspender 24 horas antes de cirurgias digestivas eletivas",
+      "risk": "Risco de interferência na absorção de anestésicos orais e obstrução intestinal em grandes volumes",
+      "reintroduction": "Reintroduzir apenas após o restabelecimento completo da motilidade intestinal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carvão ativado",
+      "nomeComercial": "Carvozin, Carbomix, Norit, Ultra-Char",
+      "mecanismoAcao": "Adsorve toxinas e substâncias químicas no trato gastrointestinal, impedindo sua absorção sistêmica",
+      "farmacocinetica": "Não absorvido sistemicamente; atua localmente no trato gastrointestinal",
+      "farmacodinamica": "Reduz a biodisponibilidade de substâncias tóxicas por adsorção física",
+      "indicacoes": "Tratamento de intoxicações agudas por via oral, distúrbios gastrointestinais com produção excessiva de gases",
+      "reacoesAdversas": "Náusea, vômito, constipação, fezes escuras, raramente obstrução intestinal",
+      "riscoGravidez": "Categoria N (não classificado); seguro em situações clínicas bem indicadas",
+      "riscoLactacao": "Seguro; não absorvido, não passa para o leite materno",
+      "administracao": "Via oral ou por sonda nasogástrica",
+      "doseMaxima": "100 g por dose (em intoxicações graves)",
+      "doseMinima": "25 g por dose (adultos)",
+      "classificacao": "Adsorvente intestinal",
+      "apresentacao": "Pó para suspensão oral, cápsulas ou comprimidos",
+      "interacaoMedicamento": "Reduz absorção de diversos fármacos como paracetamol, digoxina, antidepressivos tricíclicos",
+      "posologia": "25 a 100 g em dose única; pode ser repetido a cada 4–6 h em intoxicações persistentes",
+      "armazenamento": "Manter em local seco, ao abrigo da luz e da umidade",
+      "preparo": "Misturar o pó com água antes da administração; usar imediatamente",
+      "solucoesCompatíveis": "Água potável",
+      "contraindicacoes": "Íleo paralítico, obstrução intestinal, sangramento GI ativo, ingestão de substâncias corrosivas",
+      "cuidadosMedicos": "Avaliar risco-benefício na intoxicação; contraindicado em pacientes com RNC que não estejam entubados",
+      "cuidadosFarmaceuticos": "Preparar em condições assépticas se administrado por sonda",
+      "cuidadosEnfermagem": "Observar sinais de aspiração e vômitos; monitorar evacuação",
+      "fontesBibliograficas": "Micromedex, ANVISA, WHO, UpToDate, SBATox"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Activated Charcoal",
+      "suspension": "Discontinue 24 hours prior to elective GI surgery",
+      "risk": "May interfere with oral anesthetic absorption and cause bowel obstruction in large doses",
+      "reintroduction": "Restart only after full recovery of bowel motility"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Activated charcoal",
+      "nomeComercial": "Actidose-Aqua, CharcoAid, Insta-Char, Norit",
+      "mecanismoAcao": "Adsorbs toxins and drugs in the GI tract to prevent systemic absorption",
+      "farmacocinetica": "Not absorbed systemically; acts locally in the GI tract",
+      "farmacodinamica": "Decreases systemic availability of ingested toxins via physical adsorption",
+      "indicacoes": "Acute oral poisoning, excessive GI gas",
+      "reacoesAdversas": "Nausea, vomiting, constipation, dark stools, rare bowel obstruction",
+      "riscoGravidez": "Not classified (Category N); generally safe when clinically indicated",
+      "riscoLactacao": "Safe; not systemically absorbed",
+      "administracao": "Oral or via nasogastric tube",
+      "doseMaxima": "100 g per dose (for severe intoxications)",
+      "doseMinima": "25 g per dose (adults)",
+      "classificacao": "GI adsorbent",
+      "apresentacao": "Powder for oral suspension, capsules, tablets",
+      "interacaoMedicamento": "Reduces absorption of drugs like acetaminophen, digoxin, TCAs",
+      "posologia": "25–100 g as single dose; may repeat every 4–6 h in persistent toxicity",
+      "armazenamento": "Store in dry, light-protected conditions",
+      "preparo": "Mix powder with water just before administration",
+      "solucoesCompatíveis": "Drinking water",
+      "contraindicacoes": "Paralytic ileus, GI obstruction, active GI bleeding, caustic ingestion",
+      "cuidadosMedicos": "Contraindicated in obtunded patients without intubation",
+      "cuidadosFarmaceuticos": "Prepare aseptically if administered via NG tube",
+      "cuidadosEnfermagem": "Monitor for aspiration, emesis, and stool passage",
+      "fontesBibliograficas": "Micromedex, FDA, WHO, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Carbón Activado",
+      "suspension": "Suspender 24 horas antes de cirugías digestivas",
+      "risk": "Riesgo de interferencia con anestésicos orales y obstrucción intestinal",
+      "reintroduction": "Reintroducir solo tras recuperación de la motilidad intestinal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carbón activado",
+      "nomeComercial": "CarboMedic, Norit, Charcoal-Forte",
+      "mecanismoAcao": "Adsorbe toxinas y medicamentos en el tracto gastrointestinal",
+      "farmacocinetica": "No se absorbe, actúa localmente",
+      "farmacodinamica": "Reduce la biodisponibilidad de sustancias tóxicas por adsorción",
+      "indicacoes": "Intoxicaciones agudas orales, gases gastrointestinales",
+      "reacoesAdversas": "Náuseas, vómitos, estreñimiento, heces negras, obstrucción intestinal rara",
+      "riscoGravidez": "Categoría N; seguro si está clínicamente indicado",
+      "riscoLactacao": "Seguro; no se excreta en leche",
+      "administracao": "Vía oral o por sonda nasogástrica",
+      "doseMaxima": "100 g por dosis",
+      "doseMinima": "25 g por dosis",
+      "classificacao": "Adsorbente gastrointestinal",
+      "apresentacao": "Polvo para suspensión, cápsulas, tabletas",
+      "interacaoMedicamento": "Interfiere con absorción de paracetamol, digoxina, tricíclicos",
+      "posologia": "25–100 g en dosis única; repetir cada 4–6 h si es necesario",
+      "armazenamento": "Lugar seco y protegido de la luz",
+      "preparo": "Mezclar con agua justo antes del uso",
+      "solucoesCompatíveis": "Agua potable",
+      "contraindicacoes": "Íleo paralítico, obstrucción, hemorragia GI, ingestión cáustica",
+      "cuidadosMedicos": "Evitar en pacientes no intubados con RNC",
+      "cuidadosFarmaceuticos": "Preparación aséptica si se administra por sonda",
+      "cuidadosEnfermagem": "Vigilar vómitos, aspiración y tránsito intestinal",
+      "fontesBibliograficas": "Micromedex, OMS, UpToDate, EMA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "活性炭",
+      "suspension": "择期消化道手术前24小时停药",
+      "risk": "可能干扰口服麻醉药吸收，大剂量可致肠梗阻",
+      "reintroduction": "肠道功能完全恢复后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "活性炭",
+      "nomeComercial": "Norit, 活性炭颗粒, 炭粉片",
+      "mecanismoAcao": "吸附胃肠道内的毒素和药物，防止其吸收",
+      "farmacocinetica": "不被吸收，仅在胃肠道内作用",
+      "farmacodinamica": "通过物理吸附减少毒物吸收",
+      "indicacoes": "口服中毒、胃肠胀气",
+      "reacoesAdversas": "恶心、呕吐、便秘、黑便、偶见肠梗阻",
+      "riscoGravidez": "未分类；有适应症时可安全使用",
+      "riscoLactacao": "安全，不进入乳汁",
+      "administracao": "口服或鼻胃管",
+      "doseMaxima": "每次最多100克",
+      "doseMinima": "每次25克",
+      "classificacao": "胃肠吸附剂",
+      "apresentacao": "口服混悬粉、胶囊、片剂",
+      "interacaoMedicamento": "影响对对乙酰氨基酚、地高辛、三环类抗抑郁药等药物吸收",
+      "posologia": "25–100克单次服用，必要时每4–6小时重复",
+      "armazenamento": "干燥、避光保存",
+      "preparo": "使用前与水混合，立即服用",
+      "solucoesCompatíveis": "饮用水",
+      "contraindicacoes": "肠麻痹、肠梗阻、胃肠出血、腐蚀剂中毒",
+      "cuidadosMedicos": "意识障碍未气管插管者禁用",
+      "cuidadosFarmaceuticos": "经鼻胃管给药时需无菌操作",
+      "cuidadosEnfermagem": "观察是否呕吐、误吸及排便情况",
+      "fontesBibliograficas": "Micromedex、WHO、UpToDate、中国药典"
+    }
+  }
+}

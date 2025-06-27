@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Metaxalona",
+      "suspension": "Não suspender abruptamente – uso indicado por curto prazo, sem risco de abstinência documentado",
+      "risk": "Sedação, tontura, hipotensão, risco aumentado em idosos, potencial hepatotoxicidade",
+      "reintroduction": "Reintroduzir com cautela, preferencialmente em dose única noturna"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metaxalona",
+      "nomeComercial": "Skelaxin, Metax",
+      "mecanismoAcao": "Mecanismo exato desconhecido; acredita-se atuar como depressor do SNC no nível da medula espinhal",
+      "farmacocinetica": "Início 1h, pico 3h, meia-vida ~2,5h, metabolização hepática, excreção renal",
+      "farmacodinamica": "Relaxante muscular de ação central com efeito sedativo suave e melhora de rigidez muscular",
+      "indicacoes": "Espasmos musculoesqueléticos agudos, lombalgia, entorses, contraturas musculares",
+      "reacoesAdversas": "Sonolência, tontura, cefaleia, irritação GI, rubor, hipotensão postural",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "3200 mg/dia",
+      "doseMinima": "800 mg/dia",
+      "classificacao": "Relaxante muscular de ação central",
+      "apresentacao": "Comprimidos de 400mg e 800mg",
+      "interacaoMedicamento": "Aumenta sedação com álcool, opioides e depressores do SNC; risco hepático com paracetamol",
+      "posologia": "800 mg 3–4x/dia; evitar uso contínuo >3 semanas",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência hepática, anemia hemolítica, hipersensibilidade",
+      "cuidadosMedicos": "Evitar em hepatopatas; monitorar sinais de sedação excessiva",
+      "cuidadosFarmaceuticos": "Orientar sobre risco hepático e interação com álcool",
+      "cuidadosEnfermagem": "Observar sedação, sinais de hipotensão ou desconforto GI",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Metaxalone",
+      "suspension": "Do not abruptly discontinue – short-term use only; no documented withdrawal risk",
+      "risk": "Drowsiness, dizziness, hypotension, sedation, potential hepatotoxicity",
+      "reintroduction": "Restart cautiously with evening dose; avoid use in liver impairment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metaxalone",
+      "nomeComercial": "Skelaxin, Metax",
+      "mecanismoAcao": "Exact mechanism unknown; acts as a CNS depressant at spinal level",
+      "farmacocinetica": "Onset ~1h, peak ~3h, half-life ~2.5h, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Centrally acting muscle relaxant with mild sedative effect",
+      "indicacoes": "Acute musculoskeletal pain, spasms, strains, low back pain",
+      "reacoesAdversas": "Drowsiness, headache, GI upset, flushing, orthostatic hypotension",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "Oral",
+      "doseMaxima": "3200 mg/day",
+      "doseMinima": "800 mg/day",
+      "classificacao": "Centrally acting skeletal muscle relaxant",
+      "apresentacao": "Tablets 400mg, 800mg",
+      "interacaoMedicamento": "Increased sedation with alcohol, opioids, CNS depressants; hepatotoxicity risk with acetaminophen",
+      "posologia": "800 mg orally 3–4x/day; limit to short-term use",
+      "armazenamento": "Room temperature, protect from light and moisture",
+      "preparo": "Oral direct use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Liver impairment, anemia, hypersensitivity",
+      "cuidadosMedicos": "Avoid in hepatic disease; monitor sedation",
+      "cuidadosFarmaceuticos": "Warn about alcohol interaction and short duration use",
+      "cuidadosEnfermagem": "Observe sedation, BP, GI discomfort",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Metaxalona",
+      "suspension": "No suspender abruptamente – uso limitado a corto plazo",
+      "risk": "Somnolencia, mareos, hipotensión, hepatotoxicidad potencial",
+      "reintroduction": "Reintroducir con dosis nocturna baja y evitar en hepatopatías"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metaxalona",
+      "nomeComercial": "Skelaxin",
+      "mecanismoAcao": "Mecanismo incierto; probable acción depresora central a nivel medular",
+      "farmacocinetica": "Inicio ~1h, pico ~3h, vida media ~2.5h, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Relajante muscular de acción central con leve efecto sedante",
+      "indicacoes": "Espasmos musculares, lumbalgia, contracturas",
+      "reacoesAdversas": "Somnolencia, cefalea, náuseas, rubor, hipotensión postural",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Oral",
+      "doseMaxima": "3200 mg/día",
+      "doseMinima": "800 mg/día",
+      "classificacao": "Relajante muscular central",
+      "apresentacao": "Comprimidos 400mg, 800mg",
+      "interacaoMedicamento": "Potencia sedación con alcohol, opioides; riesgo hepático con paracetamol",
+      "posologia": "800 mg 3–4 veces/día; uso no prolongado",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía, anemia, hipersensibilidad",
+      "cuidadosMedicos": "Evitar en hepatopatías; vigilar sedación",
+      "cuidadosFarmaceuticos": "Advertir sobre uso corto y evitar alcohol",
+      "cuidadosEnfermagem": "Observar sedación y síntomas digestivos",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "美他沙酮",
+      "suspension": "短期用药后不建议突然停药——虽无成瘾记录，但宜逐渐减少",
+      "risk": "嗜睡、头晕、低血压、潜在肝毒性，老年人风险增加",
+      "reintroduction": "建议从小剂量夜间开始重新使用，肝功能不全者避免使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "美他沙酮",
+      "nomeComercial": "Skelaxin",
+      "mecanismoAcao": "作用机制不明，可能通过中枢抑制作用减轻肌肉痉挛",
+      "farmacocinetica": "起效约1小时，达峰约3小时，半衰期2.5小时，经肝代谢，肾排泄",
+      "farmacodinamica": "中枢性肌松剂，适用于缓解急性肌肉疼痛和痉挛",
+      "indicacoes": "急性肌肉骨骼疼痛、腰背痛、肌肉拉伤",
+      "reacoesAdversas": "嗜睡、头痛、胃肠不适、潮红、体位性低血压",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否排入乳汁不明确，建议慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日3200毫克",
+      "doseMinima": "每日800毫克",
+      "classificacao": "中枢作用型肌松剂",
+      "apresentacao": "片剂：400mg、800mg",
+      "interacaoMedicamento": "与酒精、阿片类及中枢抑制药合用可增强镇静作用；与对乙酰氨基酚合用有肝毒性风险",
+      "posologia": "800mg口服，每日3–4次；建议短期使用",
+      "armazenamento": "室温保存，避光防潮",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "肝功能不全、溶血性贫血、对本品过敏",
+      "cuidadosMedicos": "避免在肝病患者中使用，监测镇静效应",
+      "cuidadosFarmaceuticos": "提醒患者避免饮酒，限制疗程",
+      "cuidadosEnfermagem": "观察嗜睡、消化不适和血压变化",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

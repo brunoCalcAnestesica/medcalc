@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vasopressina",
+      "suspension": "Manter em contextos de choque vasoplégico ou sepse; suspender 12h antes em cirurgias eletivas sem suporte vasopressor",
+      "risk": "Isquemia digital e esplâncnica, arritmias, interação com outros vasopressores e anestésicos",
+      "reintroduction": "Reintroduzir conforme parâmetros hemodinâmicos e lactato pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vasopressina",
+      "nomeComercial": "Pitressin, Vasostrict",
+      "mecanismoAcao": "Agonista dos receptores V1 e V2; promove vasoconstrição e retenção de água",
+      "farmacocinetica": "Início em 5–15 min (IV); meia-vida ~10–20 min; metabolização hepática e renal",
+      "farmacodinamica": "Aumenta resistência vascular sistêmica e pressão arterial sem ação inotrópica direta",
+      "indicacoes": "Choque vasodilatado refratário, parada cardíaca, diabetes insipidus central, sangramentos esofágicos",
+      "reacoesAdversas": "Isquemia periférica, arritmias, hiponatremia, hipertensão, bradicardia reflexa",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Usar com cautela; dados limitados",
+      "administracao": "Via intravenosa contínua ou em bolus (em emergências)",
+      "doseMaxima": "0,04 U/min em infusão contínua",
+      "doseMinima": "0,01 U/min",
+      "classificacao": "Hormônio antidiurético sintético – vasopressor não adrenérgico",
+      "apresentacao": "Ampolas de 20 unidades/mL (1 mL), frascos de 50 U/10 mL",
+      "interacaoMedicamento": "Potencializa efeito com noradrenalina, pode reduzir perfusão renal se mal titrada",
+      "posologia": "0,01–0,04 U/min, ajustado conforme PAM e diurese",
+      "armazenamento": "Refrigerado (2–8°C); uso em até 24h após diluição",
+      "preparo": "Diluir em soro fisiológico 0,9% para infusão contínua",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, ringer lactato",
+      "contraindicacoes": "Hiponatremia, hipersensibilidade, ICC descompensada",
+      "cuidadosMedicos": "Monitorar PAM, lactato, débito urinário, eletrólitos, perfusão periférica",
+      "cuidadosFarmaceuticos": "Verificar diluição, estabilidade e compatibilidade da bomba",
+      "cuidadosEnfermagem": "Observar sinais de isquemia e resposta hemodinâmica",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, Surviving Sepsis Campaign"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vasopressin",
+      "suspension": "Continue in vasoplegic/septic shock; hold 12h prior for elective non-vasopressor surgeries",
+      "risk": "Digital and mesenteric ischemia, arrhythmias, interactions with vasopressors/anesthetics",
+      "reintroduction": "Reintroduce based on MAP, lactate and hemodynamic status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vasopressin",
+      "nomeComercial": "Pitressin, Vasostrict",
+      "mecanismoAcao": "V1/V2 receptor agonist causing vasoconstriction and water reabsorption",
+      "farmacocinetica": "Onset 5–15 min (IV); half-life ~10–20 min; hepatic/renal metabolism",
+      "farmacodinamica": "Increases systemic vascular resistance and BP with no inotropic effect",
+      "indicacoes": "Refractory vasodilatory shock, cardiac arrest, central DI, variceal bleeding",
+      "reacoesAdversas": "Peripheral ischemia, bradycardia, hyponatremia, arrhythmias, hypertension",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Caution advised; limited data",
+      "administracao": "IV continuous infusion or bolus (emergency)",
+      "doseMaxima": "0.04 U/min",
+      "doseMinima": "0.01 U/min",
+      "classificacao": "Synthetic antidiuretic hormone – non-adrenergic vasopressor",
+      "apresentacao": "20 units/mL ampoules, 50 U/10 mL vials",
+      "interacaoMedicamento": "Potentiated with norepinephrine; may reduce renal perfusion",
+      "posologia": "0.01–0.04 U/min IV infusion",
+      "armazenamento": "Refrigerate 2–8°C; use within 24h post-dilution",
+      "preparo": "Dilute in 0.9% NaCl for continuous infusion",
+      "solucoesCompatíveis": "Normal saline, lactated Ringer",
+      "contraindicacoes": "Hyponatremia, hypersensitivity, decompensated heart failure",
+      "cuidadosMedicos": "Monitor MAP, urine output, lactate, sodium, perfusion",
+      "cuidadosFarmaceuticos": "Ensure correct dilution, compatibility, stability",
+      "cuidadosEnfermagem": "Watch for ischemia, assess hemodynamic response",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, SSC Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vasopresina",
+      "suspension": "Continuar en shock séptico/vasoplégico; suspender 12h antes si no es necesario soporte vasopresor",
+      "risk": "Isquemia periférica, arritmias, hiponatremia, interacción con anestésicos",
+      "reintroduction": "Reintroducir según PAM y lactato postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vasopresina",
+      "nomeComercial": "Pitressin, Vasostrict",
+      "mecanismoAcao": "Agonista de receptores V1/V2, vasoconstrictor y antidiurético",
+      "farmacocinetica": "Inicio 5–15 min (IV); vida media 10–20 min; metabolismo hepático/renal",
+      "farmacodinamica": "Aumenta resistencia vascular sin efecto inotrópico",
+      "indicacoes": "Shock refractario, paro cardíaco, diabetes insípida central, hemorragia varicosa",
+      "reacoesAdversas": "Isquemia, bradicardia, hiponatremia, hipertensión, arritmias",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Precaución; datos limitados",
+      "administracao": "IV continua o bolo en emergencias",
+      "doseMaxima": "0,04 U/min",
+      "doseMinima": "0,01 U/min",
+      "classificacao": "Hormona antidiurética sintética – vasopresor no adrenérgico",
+      "apresentacao": "Ampollas de 20 U/mL; viales de 50 U/10 mL",
+      "interacaoMedicamento": "Potencia con noradrenalina; puede reducir perfusión renal",
+      "posologia": "0,01–0,04 U/min IV",
+      "armazenamento": "Refrigerar 2–8°C, usar en 24h tras dilución",
+      "preparo": "Diluir en NaCl 0,9% para infusión continua",
+      "solucoesCompatíveis": "Salina 0,9%, Ringer lactato",
+      "contraindicacoes": "Hiponatremia, hipersensibilidad, IC descompensada",
+      "cuidadosMedicos": "Monitorear PAM, diuresis, lactato, sodio",
+      "cuidadosFarmaceuticos": "Verificar dilución y estabilidad",
+      "cuidadosEnfermagem": "Observar isquemia y respuesta hemodinámica",
+      "fontesBibliograficas": "EMA, FDA, SSC, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "加压素",
+      "suspension": "严重感染性休克可持续使用；择期术前12小时可暂停",
+      "risk": "外周缺血、低钠血症、心律不齐，与麻醉药物相互作用",
+      "reintroduction": "术后根据乳酸和血流动力学情况重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "加压素",
+      "nomeComercial": "Pitressin, Vasostrict",
+      "mecanismoAcao": "激动V1/V2受体，导致血管收缩与水分潴留",
+      "farmacocinetica": "起效5–15分钟，半衰期10–20分钟，肝肾代谢",
+      "farmacodinamica": "提高血管阻力和动脉压，无正性肌力作用",
+      "indicacoes": "顽固性血管扩张性休克、心脏骤停、中枢性尿崩症、食管静脉出血",
+      "reacoesAdversas": "肢体缺血、心律不齐、低钠血症、高血压",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "慎用；数据有限",
+      "administracao": "静脉持续泵入或紧急时静推",
+      "doseMaxima": "0.04 U/分钟",
+      "doseMinima": "0.01 U/分钟",
+      "classificacao": "合成抗利尿激素类药物 – 非肾上腺能血管升压剂",
+      "apresentacao": "20单位/mL安瓿，50单位/10 mL小瓶",
+      "interacaoMedicamento": "与去甲肾上腺素联用增强；过量可致肾灌注下降",
+      "posologia": "0.01–0.04 U/分钟静脉泵注",
+      "armazenamento": "冷藏2–8°C，稀释后24小时内使用",
+      "preparo": "用0.9%生理盐水稀释后静脉输注",
+      "solucoesCompatíveis": "生理盐水，乳酸林格液",
+      "contraindicacoes": "低钠血症、心衰失代偿、过敏",
+      "cuidadosMedicos": "监测PAM、尿量、乳酸、电解质和灌注",
+      "cuidadosFarmaceuticos": "确认药物稀释浓度与输注稳定性",
+      "cuidadosEnfermagem": "观察血流动力学变化及缺血体征",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、Sepsis指南"
+    }
+  }
+}

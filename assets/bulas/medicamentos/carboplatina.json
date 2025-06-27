@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Carboplatina",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva de grande porte ou com risco hematológico significativo",
+      "risk": "Mielossupressão, náuseas, toxicidade renal leve, risco de hipersensibilidade tardia, ototoxicidade",
+      "reintroduction": "Reintroduzir após recuperação hematológica e clínica, normalmente após 10 a 14 dias da cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carboplatina",
+      "nomeComercial": "Paraplatin, Carboplatina Accord",
+      "mecanismoAcao": "Alquilante de platina que forma ligações cruzadas com o DNA, inibindo síntese de DNA/RNA e mitose",
+      "farmacocinetica": "IV; eliminação renal; meia-vida terminal 3–6h; depuração proporcional ao clearance de creatinina",
+      "farmacodinamica": "Citotóxico com menor nefro e ototoxicidade comparado à cisplatina; dose ajustada pela fórmula de Calvert",
+      "indicacoes": "Câncer de ovário, pulmão, bexiga, cabeça e pescoço, mama, endométrio e outros tumores sólidos",
+      "reacoesAdversas": "Trombocitopenia, leucopenia, anemia, náuseas, vômitos, alopecia, neuropatia periférica, hipomagnesemia",
+      "riscoGravidez": "Categoria D – teratogênico, contraindicado durante a gestação",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "Infusão IV lenta (15–60 minutos), diluído em glicose 5% ou SF 0,9%",
+      "doseMaxima": "Ajustada por AUC (área sob curva), geralmente AUC 5–7 (ex: 300–600mg/m²)",
+      "doseMinima": "AUC 2–3 em pacientes frágeis ou idosos",
+      "classificacao": "Alquilante; agente de platina de segunda geração",
+      "apresentacao": "Frascos de 50mg, 150mg, 450mg, 600mg",
+      "interacaoMedicamento": "Interações com outros mielossupressores, nefrotóxicos; incompatível com alumínio",
+      "posologia": "Calvert formula: Dose (mg) = AUC x (ClCr + 25); a cada 3–4 semanas",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Diluir em SF ou SG5%; manipular em capela com EPI",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, dextrose 5%",
+      "contraindicacoes": "Supressão medular grave, insuficiência renal sem ajuste, gravidez, lactação",
+      "cuidadosMedicos": "Monitorar hemograma, função renal, eletrólitos (Mg, K), audição, reações alérgicas tardias",
+      "cuidadosFarmaceuticos": "Evitar contato com alumínio; garantir compatibilidade e fotoproteção",
+      "cuidadosEnfermagem": "Monitorar sinais de toxicidade hematológica, náuseas, reações infusionais",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Carboplatin",
+      "suspension": "Hold 7 days before major surgery if significant hematologic risk",
+      "risk": "Myelosuppression (especially thrombocytopenia), nausea, mild nephrotoxicity, hypersensitivity reactions, ototoxicity",
+      "reintroduction": "Resume 10–14 days post-op upon recovery of blood counts and renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carboplatin",
+      "nomeComercial": "Paraplatin",
+      "mecanismoAcao": "Forms platinum-DNA crosslinks, inhibiting DNA synthesis and replication",
+      "farmacocinetica": "IV only; half-life 3–6h; renally eliminated; clearance correlates with CrCl",
+      "farmacodinamica": "Less renal/ear toxicity than cisplatin; dosed by Calvert formula",
+      "indicacoes": "Ovarian, lung, head/neck, bladder, breast, endometrial cancers",
+      "reacoesAdversas": "Thrombocytopenia, neutropenia, anemia, nausea, vomiting, neuropathy, electrolyte imbalance",
+      "riscoGravidez": "Category D – avoid during pregnancy",
+      "riscoLactacao": "Not recommended",
+      "administracao": "IV over 15–60 min; dilute in D5W or NS",
+      "doseMaxima": "AUC-based: AUC 5–7; 300–600mg/m²",
+      "doseMinima": "AUC 2–3 for frail patients",
+      "classificacao": "Platinum alkylating agent, 2nd gen",
+      "apresentacao": "Vials 50mg, 150mg, 450mg, 600mg",
+      "interacaoMedicamento": "Incompatible with aluminum; caution with nephrotoxic drugs",
+      "posologia": "Dose (mg) = AUC × (CrCl + 25); q3–4w",
+      "armazenamento": "Store at 15–30°C; protect from light",
+      "preparo": "Dilute under aseptic cytotoxic conditions",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Severe myelosuppression, renal failure, pregnancy, breastfeeding",
+      "cuidadosMedicos": "Monitor CBC, creatinine, Mg/K, hearing, allergic reactions",
+      "cuidadosFarmaceuticos": "Use non-aluminum equipment; protect from light",
+      "cuidadosEnfermagem": "Watch for cytopenias, infusion reactions, nausea",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Carboplatino",
+      "suspension": "Suspender 7 días antes de cirugía mayor con riesgo hematológico",
+      "risk": "Trombocitopenia, neutropenia, náuseas, toxicidad renal leve, reacciones de hipersensibilidad, ototoxicidad",
+      "reintroduction": "Reintroducir tras recuperación hematológica y función renal, generalmente tras 10–14 días"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carboplatino",
+      "nomeComercial": "Paraplatin, Carboplatino Kabi",
+      "mecanismoAcao": "Forma enlaces cruzados ADN-platino, inhibiendo síntesis y replicación",
+      "farmacocinetica": "IV; vida media 3–6h; eliminación renal; correlación con ClCr",
+      "farmacodinamica": "Menor nefro y ototoxicidad que cisplatino; dosificación por fórmula de Calvert",
+      "indicacoes": "Cáncer de ovario, pulmón, vejiga, mama, cabeza y cuello",
+      "reacoesAdversas": "Trombocitopenia, anemia, vómitos, neuropatía leve, hipoMg/K",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "IV en 15–60 min, diluido en glucosa 5% o NaCl 0,9%",
+      "doseMaxima": "AUC 5–7 (hasta 600mg/m²)",
+      "doseMinima": "AUC 2–3",
+      "classificacao": "Agente alquilante de platino (2ª gen)",
+      "apresentacao": "Frascos 50mg, 150mg, 450mg",
+      "interacaoMedicamento": "Evitar aluminio; precaución con fármacos nefrotóxicos",
+      "posologia": "Dosis = AUC x (ClCr + 25); c/21–28 días",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "Condiciones citotóxicas, diluir en SF o glucosa",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%",
+      "contraindicacoes": "Mielosupresión grave, daño renal severo",
+      "cuidadosMedicos": "Vigilar hematología, creatinina, ototoxicidad",
+      "cuidadosFarmaceuticos": "Evitar aluminio, proteger de luz, respetar estabilidad",
+      "cuidadosEnfermagem": "Control de recuentos, náuseas, efectos auditivos",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "卡铂",
+      "suspension": "术前7天停药，术后血象稳定后可重新使用",
+      "risk": "骨髓抑制（尤其血小板减少）、轻度肾毒性、恶心、过敏、耳毒性",
+      "reintroduction": "术后10–14天，血象与肾功能稳定后重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "卡铂",
+      "nomeComercial": "Paraplatin",
+      "mecanismoAcao": "与DNA交联，阻止DNA/RNA合成及细胞分裂",
+      "farmacocinetica": "IV注射；半衰期3–6小时；经肾排泄",
+      "farmacodinamica": "较顺铂毒性低，使用Calvert公式个体化计量",
+      "indicacoes": "卵巢癌、肺癌、头颈癌、膀胱癌、乳腺癌",
+      "reacoesAdversas": "血小板减少、恶心、电解质紊乱、神经毒性",
+      "riscoGravidez": "D类 – 孕期禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "15–60分钟IV滴注；可用5%葡萄糖或0.9%氯化钠",
+      "doseMaxima": "AUC 5–7（最高约600mg/m²）",
+      "doseMinima": "AUC 2–3",
+      "classificacao": "第二代铂类烷化剂",
+      "apresentacao": "50mg、150mg、450mg瓶装",
+      "interacaoMedicamento": "禁与铝接触，避免与肾毒药共用",
+      "posologia": "剂量 = AUC × (肌酐清除率 + 25)",
+      "armazenamento": "15–30°C避光保存",
+      "preparo": "无菌环境稀释，使用EPI",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "重度骨髓抑制、肾功能不全、妊娠期",
+      "cuidadosMedicos": "监测血象、电解质、肾功能、听力",
+      "cuidadosFarmaceuticos": "注意光敏性、避免铝、处理细胞毒废物",
+      "cuidadosEnfermagem": "观察注射部位、出血、耳鸣、过敏反应",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、NCCN"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Proguanil",
+      "suspension": "Suspender 24–48h antes de cirurgias de médio/grande porte com risco cardíaco ou hepático",
+      "risk": "Risco de toxicidade hepática leve, interações com anticoagulantes e anestésicos; possível disfunção GI",
+      "reintroduction": "Reintroduzir após normalização da função hepática e tolerância oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Proguanil cloridrato",
+      "nomeComercial": "Malarone (com Atovaquona), Paludrine",
+      "mecanismoAcao": "Inibe a diidrofolato redutase do Plasmodium, impedindo síntese de DNA",
+      "farmacocinetica": "VO; biodisponibilidade ~60%; meia-vida 12–21h; metabolismo hepático (CYP2C19)",
+      "farmacodinamica": "Esquizonticida tecidual e eritrocitário contra P. falciparum e P. vivax (em combinação)",
+      "indicacoes": "Profilaxia e tratamento de malária (especialmente falciparum), usado com atovaquona",
+      "reacoesAdversas": "Náusea, diarreia, dor abdominal, úlceras orais, alopecia transitória",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral",
+      "doseMaxima": "200mg/dia",
+      "doseMinima": "100mg/dia",
+      "classificacao": "Antimalárico (biguanida)",
+      "apresentacao": "Comprimidos 100mg; Malarone: 100mg com 250mg de atovaquona",
+      "interacaoMedicamento": "Potencializa efeito de anticoagulantes orais; pode interagir com metoclopramida",
+      "posologia": "Tratamento: 3 dias (com atovaquona); profilaxia: iniciar 1–2 dias antes e manter 7 dias após exposição",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Uso direto oral",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, insuficiência renal grave (ClCr <30mL/min)",
+      "cuidadosMedicos": "Avaliar função hepática e renal antes da cirurgia e reintrodução",
+      "cuidadosFarmaceuticos": "Orientar ingestão com alimento e aderência na profilaxia",
+      "cuidadosEnfermagem": "Observar sintomas GI, estado hepático e efeitos adversos hematológicos",
+      "fontesBibliograficas": "WHO, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Proguanil",
+      "suspension": "Discontinue 24–48h before moderate/high-risk surgery",
+      "risk": "Mild hepatotoxicity, drug interactions with anesthetics and anticoagulants",
+      "reintroduction": "Restart after liver function recovery and oral tolerance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Proguanil hydrochloride",
+      "nomeComercial": "Malarone (w/ Atovaquone), Paludrine",
+      "mecanismoAcao": "Inhibits Plasmodium dihydrofolate reductase, blocking DNA synthesis",
+      "farmacocinetica": "Oral; bioavailability ~60%; t½ 12–21h; hepatic metabolism (CYP2C19)",
+      "farmacodinamica": "Tissue and erythrocytic schizonticidal activity",
+      "indicacoes": "Malaria prophylaxis and treatment (with atovaquone)",
+      "reacoesAdversas": "Nausea, vomiting, abdominal pain, mouth ulcers, reversible hair loss",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid",
+      "administracao": "Oral",
+      "doseMaxima": "200mg/day",
+      "doseMinima": "100mg/day",
+      "classificacao": "Biguanide antimalarial",
+      "apresentacao": "Tablets 100mg; Malarone: 100mg + 250mg atovaquone",
+      "interacaoMedicamento": "May potentiate warfarin; interacts with metoclopramide",
+      "posologia": "Treatment: 3 days (combo); prophylaxis: start 1–2 days before and continue 7 days post-exposure",
+      "armazenamento": "Room temperature",
+      "preparo": "Oral use only",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, severe renal impairment (CrCl <30mL/min)",
+      "cuidadosMedicos": "Assess hepatic/renal function; avoid in active liver failure",
+      "cuidadosFarmaceuticos": "Counsel adherence for prevention; take with food",
+      "cuidadosEnfermagem": "Monitor GI symptoms, liver function, hematologic effects",
+      "fontesBibliograficas": "FDA, WHO, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Proguanil",
+      "suspension": "Suspender 24–48h antes de cirugía de riesgo medio o alto",
+      "risk": "Hepatotoxicidad leve, interacciones con anestesia y anticoagulantes",
+      "reintroduction": "Reiniciar tras estabilización hepática y tolerancia digestiva"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de proguanil",
+      "nomeComercial": "Malarone (con atovacuona), Paludrine",
+      "mecanismoAcao": "Inhibe dihidrofolato reductasa del Plasmodium",
+      "farmacocinetica": "VO; biodisponibilidad 60%; vida media 12–21h; metabolismo hepático",
+      "farmacodinamica": "Activo contra estadios tisulares y eritrocíticos de malaria",
+      "indicacoes": "Profilaxis y tratamiento de malaria (P. falciparum)",
+      "reacoesAdversas": "Náuseas, diarrea, úlceras bucales, alopecia transitoria",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral",
+      "doseMaxima": "200mg/día",
+      "doseMinima": "100mg/día",
+      "classificacao": "Antipalúdico biguanida",
+      "apresentacao": "Comprimidos 100mg; Malarone 100mg + 250mg atovacuona",
+      "interacaoMedicamento": "Potencia efecto anticoagulantes; interacción con metoclopramida",
+      "posologia": "Tratamiento: 3 días; profilaxis: desde 1–2 días antes hasta 7 días después",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "Administración oral",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Insuficiencia renal grave, alergia",
+      "cuidadosMedicos": "Evaluar función hepática y renal, ajustar dosis",
+      "cuidadosFarmaceuticos": "Asegurar cumplimiento, tomar con comida",
+      "cuidadosEnfermagem": "Vigilar síntomas GI y hepáticos",
+      "fontesBibliograficas": "Micromedex, OMS, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯胍",
+      "suspension": "中高风险手术建议术前24–48小时停药",
+      "risk": "可能轻度肝毒性，与麻醉药、抗凝药存在潜在交互作用",
+      "reintroduction": "术后肝功能和口服耐受恢复后可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯胍",
+      "nomeComercial": "Paludrine，Malarone（与阿托伐醌联用）",
+      "mecanismoAcao": "抑制疟原虫二氢叶酸还原酶，阻断DNA合成",
+      "farmacocinetica": "口服吸收良好，半衰期12–21小时，经肝代谢",
+      "farmacodinamica": "对红细胞期和组织期疟原虫有效",
+      "indicacoes": "疟疾预防与治疗（与阿托伐醌合用）",
+      "reacoesAdversas": "恶心、腹泻、口腔溃疡、短暂脱发",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不推荐",
+      "administracao": "口服",
+      "doseMaxima": "每日200mg",
+      "doseMinima": "每日100mg",
+      "classificacao": "抗疟药（双胍类）",
+      "apresentacao": "100mg片剂；复方片剂（与250mg阿托伐醌联用）",
+      "interacaoMedicamento": "增强华法林作用，与甲氧氯普胺有交互作用",
+      "posologia": "预防：术前1–2天开始，持续至暴露后7天；治疗：3天疗程",
+      "armazenamento": "室温避光保存",
+      "preparo": "口服使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肾功能不全、过敏史",
+      "cuidadosMedicos": "术前评估肝肾功能，必要时调整",
+      "cuidadosFarmaceuticos": "建议随餐服用，提高吸收",
+      "cuidadosEnfermagem": "注意腹泻、肝功能异常、口腔不适",
+      "fontesBibliograficas": "WHO、中国药典、Micromedex"
+    }
+  }
+}

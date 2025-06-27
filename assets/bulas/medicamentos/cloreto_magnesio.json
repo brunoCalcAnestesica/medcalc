@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cloreto de Magnésio",
+      "suspension": "Suspender 24 horas antes de cirurgias maiores ou em pacientes com insuficiência renal",
+      "risk": "Risco de hipotensão, bradicardia, bloqueio cardíaco e depressão respiratória se em excesso",
+      "reintroduction": "Reintroduzir com monitorização eletrolítica e função renal estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloreto de magnésio",
+      "nomeComercial": "Magnésia PA, Magchlor, Magnoplex",
+      "mecanismoAcao": "Repositor eletrolítico essencial; participa da regulação neuromuscular, cardiovascular e enzimática",
+      "farmacocinetica": "Absorção variável oral; IV imediato; excreção renal proporcional à concentração plasmática",
+      "farmacodinamica": "Atua como cofator enzimático; estabiliza membranas celulares e regula excitabilidade muscular",
+      "indicacoes": "Hipomagnesemia, eclâmpsia, arritmias ventriculares, constipação (oral)",
+      "reacoesAdversas": "Rubor, sudorese, náusea, sonolência, hipotensão, depressão respiratória (EV rápida)",
+      "riscoGravidez": "Categoria A – seguro (inclusive em eclâmpsia)",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral, intravenosa ou intramuscular (com cautela)",
+      "doseMaxima": "2 g em 1 hora IV (adulto); 30 mEq/dia VO",
+      "doseMinima": "1–2 g/dia ou conforme necessidade laboratorial",
+      "classificacao": "Mineral, eletrólito, anticonvulsivante (parenteral)",
+      "apresentacao": "Ampola 10% (1 g/10 mL); cápsulas; sachês 33 g/L",
+      "interacaoMedicamento": "Pode potencializar bloqueadores neuromusculares; reduz absorção de tetraciclinas",
+      "posologia": "EV: 1–2 g diluído em 100 mL SF em 1 h; oral: 33 g diluídos em 1 L água, 60 mL/dia",
+      "armazenamento": "Temperatura ambiente, protegido da luz (ampolas)",
+      "preparo": "Diluir para infusão lenta; uso com bomba de seringa em UTI",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Bloqueio AV grau 2/3, insuficiência renal grave, hipermagnesemia",
+      "cuidadosMedicos": "Monitorar Mg sérico, função renal, ECG e reflexos profundos",
+      "cuidadosFarmaceuticos": "Controle de estabilidade e compatibilidade EV",
+      "cuidadosEnfermagem": "Verificar reflexos patelares, pressão arterial e ritmo cardíaco",
+      "fontesBibliograficas": "FDA, ANVISA, UpToDate, Micromedex, BPR"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Magnesium Chloride",
+      "suspension": "Discontinue 24 hours before major surgery or in renal impairment",
+      "risk": "Risk of hypotension, bradycardia, cardiac block, and respiratory depression in excess",
+      "reintroduction": "Restart with monitoring of electrolytes and stable renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Magnesium chloride",
+      "nomeComercial": "Mag-64, Slow-Mag, Mag-Chlor",
+      "mecanismoAcao": "Essential electrolyte supplement; neuromuscular and cardiovascular regulation",
+      "farmacocinetica": "Variable GI absorption; rapid IV effect; renal excretion",
+      "farmacodinamica": "Cofactor for enzymes; stabilizes membranes and modulates excitability",
+      "indicacoes": "Hypomagnesemia, eclampsia, torsades de pointes, constipation (oral)",
+      "reacoesAdversas": "Flushing, nausea, drowsiness, hypotension, respiratory depression (IV rapid)",
+      "riscoGravidez": "Category A – safe (used in eclampsia)",
+      "riscoLactacao": "Safe",
+      "administracao": "Oral, IV, or IM",
+      "doseMaxima": "2 g/h IV; 30 mEq/day PO",
+      "doseMinima": "1–2 g/day or based on labs",
+      "classificacao": "Electrolyte, mineral, anticonvulsant (IV)",
+      "apresentacao": "10% IV ampoule (1 g/10 mL); oral tablets/sachets",
+      "interacaoMedicamento": "Potentiates neuromuscular blockers; interferes with tetracycline absorption",
+      "posologia": "IV: 1–2 g in 100 mL NS over 1 h; PO: 60 mL of 33 g/L solution daily",
+      "armazenamento": "Store ampoules protected from light at room temperature",
+      "preparo": "Dilute for slow IV infusion",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "AV block, severe renal impairment, hypermagnesemia",
+      "cuidadosMedicos": "Monitor serum Mg, renal function, ECG, DTRs",
+      "cuidadosFarmaceuticos": "Check stability and IV compatibility",
+      "cuidadosEnfermagem": "Monitor reflexes, BP, heart rate",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cloruro de Magnesio",
+      "suspension": "Suspender 24 h antes de cirugías mayores o IR avanzada",
+      "risk": "Hipotensión, bradicardia, bloqueo AV, depresión respiratoria si se acumula",
+      "reintroduction": "Reintroducir tras estabilizar función renal y electrolitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloruro de magnesio",
+      "nomeComercial": "Mag-Clor, Magnesio PA",
+      "mecanismoAcao": "Electrolito esencial, regula funciones neuromusculares y cardiovasculares",
+      "farmacocinetica": "Absorción oral variable, efecto IV inmediato, eliminación renal",
+      "farmacodinamica": "Cofactor enzimático; estabiliza membranas y reduce excitabilidad",
+      "indicacoes": "Hipomagnesemia, eclampsia, arritmias ventriculares, estreñimiento",
+      "reacoesAdversas": "Rubor, náusea, somnolencia, hipotensión, depresión respiratoria",
+      "riscoGravidez": "Categoría A – seguro",
+      "riscoLactacao": "Seguro",
+      "administracao": "VO, IV, IM",
+      "doseMaxima": "2 g/h IV; 30 mEq/día VO",
+      "doseMinima": "1–2 g/día",
+      "classificacao": "Electrolito, mineral, anticonvulsivo (IV)",
+      "apresentacao": "Ampollas 10%, sobres, cápsulas",
+      "interacaoMedicamento": "Aumenta acción de bloqueadores neuromusculares; interfiere con tetraciclinas",
+      "posologia": "IV: 1–2 g en 100 mL SF en 1 h; VO: 60 mL/día diluido",
+      "armazenamento": "Ambiente, luz protegida",
+      "preparo": "Diluir para infusión lenta",
+      "solucoesCompatíveis": "ClNa 0,9%, Glucosa 5%",
+      "contraindicacoes": "Bloqueo AV, insuficiencia renal severa, hipermagnesemia",
+      "cuidadosMedicos": "Control de Mg, ECG, reflejos, función renal",
+      "cuidadosFarmaceuticos": "Ver compatibilidad IV",
+      "cuidadosEnfermagem": "Observar PA, pulso, reflejos",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯化镁",
+      "suspension": "大型手术前24小时停用，或肾功能不全者慎用",
+      "risk": "可能引起低血压、心动过缓、房室传导阻滞、呼吸抑制",
+      "reintroduction": "术后根据电解质与肾功能情况恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯化镁",
+      "nomeComercial": "氯化镁注射液，口服颗粒",
+      "mecanismoAcao": "电解质补充剂，参与神经肌肉传导与酶活化",
+      "farmacocinetica": "口服吸收差异大，IV起效快，经肾排出",
+      "farmacodinamica": "稳定细胞膜，辅助ATP反应，调节心律与神经兴奋",
+      "indicacoes": "低镁血症、子痫、心律不齐、便秘（口服）",
+      "reacoesAdversas": "潮红、恶心、困倦、低血压、呼吸抑制",
+      "riscoGravidez": "A类 – 安全",
+      "riscoLactacao": "安全",
+      "administracao": "口服、肌注、静注",
+      "doseMaxima": "2克/小时；30 mEq/天口服",
+      "doseMinima": "每日1–2克",
+      "classificacao": "电解质补剂，抗惊厥（注射）",
+      "apresentacao": "10%注射液（1克/10毫升）、颗粒、胶囊",
+      "interacaoMedicamento": "增强神经肌肉阻滞药效，应与四环素分开服用",
+      "posologia": "IV：1–2克稀释100毫升，静滴1小时；PO：每日60毫升稀释液",
+      "armazenamento": "避光常温保存",
+      "preparo": "稀释后缓慢静滴",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "房室传导阻滞、严重肾功能不全、高镁血症",
+      "cuidadosMedicos": "监测血镁、电解质、肾功能、反射与ECG",
+      "cuidadosFarmaceuticos": "注意药液稳定性与兼容性",
+      "cuidadosEnfermagem": "观察生命体征与神经反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate"
+    }
+  }
+}

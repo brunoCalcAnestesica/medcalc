@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Calcitonina",
+      "suspension": "Suspender 1 dia antes da cirurgia eletiva",
+      "risk": "Baixo risco cirúrgico, mas pode interferir no metabolismo do cálcio. Monitorar risco de hipocalcemia em pacientes com osteometabolismo alterado.",
+      "reintroduction": "Reintroduzir após estabilidade clínica e normalização do cálcio sérico no pós-operatório imediato."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Calcitonina de salmão sintética",
+      "nomeComercial": "Miacalcic, Calcitar, Caltine",
+      "mecanismoAcao": "Hormônio hipocalcemiante que inibe a atividade osteoclástica e reduz a reabsorção óssea",
+      "farmacocinetica": "Administração SC, IM ou intranasal; meia-vida curta (~1 hora); metabolizada nos rins e fígado",
+      "farmacodinamica": "Reduz calcemia rapidamente, com efeito analgésico em doenças ósseas metabólicas",
+      "indicacoes": "Doença de Paget, hipercalcemia, osteoporose pós-menopausa, fratura óssea recente",
+      "reacoesAdversas": "Náuseas, rubor facial, hipocalcemia, reações locais, rinite (via nasal)",
+      "riscoGravidez": "Categoria C (usar somente se claramente necessário)",
+      "riscoLactacao": "Desconhecido; usar com cautela",
+      "administracao": "Subcutânea, intramuscular ou intranasal, conforme indicação",
+      "doseMaxima": "200 UI/dia (osteoporose), até 100 UI 4x/dia (hipercalcemia)",
+      "doseMinima": "50 UI/dia",
+      "classificacao": "Hormônio regulador do metabolismo ósseo – peptídeo",
+      "apresentacao": "Ampolas injetáveis (100 UI/mL), spray nasal (200 UI/dose)",
+      "interacaoMedicamento": "Pode potencializar efeito hipocalcemiante de bifosfonatos; interação com lítio",
+      "posologia": "100 UI SC/IM 1x/dia (osteoporose); 4x/dia em hipercalcemia",
+      "armazenamento": "Refrigerado (2–8°C); não congelar; manter protegido da luz",
+      "preparo": "Agitar suavemente a ampola; administração imediata após preparo",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Alergia à proteína do salmão, hipocalcemia não corrigida",
+      "cuidadosMedicos": "Monitorar cálcio sérico e sinais clínicos de hipocalcemia",
+      "cuidadosFarmaceuticos": "Orientar sobre forma de administração e conservação correta",
+      "cuidadosEnfermagem": "Observar sinais de reações adversas e orientar sobre sintomas de hipocalcemia",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate, SBEM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Calcitonin",
+      "suspension": "Hold 1 day before elective surgery",
+      "risk": "Low surgical risk; may affect calcium metabolism. Monitor for hypocalcemia in bone disease patients.",
+      "reintroduction": "Resume after clinical stabilization and serum calcium normalization post-op."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Synthetic Salmon Calcitonin",
+      "nomeComercial": "Miacalcin, Fortical, Calcimar",
+      "mecanismoAcao": "Inhibits osteoclast activity and bone resorption; reduces serum calcium levels",
+      "farmacocinetica": "SC, IM or intranasal; short half-life (~1 hour); renal and hepatic metabolism",
+      "farmacodinamica": "Rapidly lowers calcium; has analgesic effect in metabolic bone diseases",
+      "indicacoes": "Paget's disease, hypercalcemia, postmenopausal osteoporosis, acute bone pain",
+      "reacoesAdversas": "Nausea, flushing, local irritation, rhinitis (nasal form), hypocalcemia",
+      "riscoGravidez": "Category C (use if benefit outweighs risk)",
+      "riscoLactacao": "Use with caution due to limited data",
+      "administracao": "SC, IM or nasal spray depending on indication",
+      "doseMaxima": "200 IU/day (osteoporosis); up to 100 IU 4x/day (hypercalcemia)",
+      "doseMinima": "50 IU/day",
+      "classificacao": "Peptide hormone – bone metabolism regulator",
+      "apresentacao": "Injection vials (100 IU/mL), nasal spray (200 IU/dose)",
+      "interacaoMedicamento": "Enhances hypocalcemic effects with bisphosphonates; interacts with lithium",
+      "posologia": "100 IU SC/IM daily (osteoporosis); 4x/day in hypercalcemia",
+      "armazenamento": "Store at 2–8°C; do not freeze; protect from light",
+      "preparo": "Gently swirl vial before use; administer immediately after preparation",
+      "solucoesCompatíveis": "0.9% saline",
+      "contraindicacoes": "Allergy to salmon protein, uncorrected hypocalcemia",
+      "cuidadosMedicos": "Monitor calcium levels and clinical signs of hypocalcemia",
+      "cuidadosFarmaceuticos": "Educate on administration route and cold chain maintenance",
+      "cuidadosEnfermagem": "Watch for adverse reactions and hypocalcemia symptoms",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Calcitonina",
+      "suspension": "Suspender 1 día antes de cirugía programada",
+      "risk": "Riesgo bajo; puede alterar metabolismo del calcio. Vigilar hipocalcemia en pacientes con patología ósea.",
+      "reintroduction": "Reanudar cuando el calcio sérico esté normalizado y paciente estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Calcitonina sintética de salmón",
+      "nomeComercial": "Miacalcic, Calcitrat, Calcitonina Sandoz",
+      "mecanismoAcao": "Inhibe osteoclastos y reduce la resorción ósea; hipocalcemiante",
+      "farmacocinetica": "SC, IM o nasal; vida media ~1 h; metabolismo hepático y renal",
+      "farmacodinamica": "Reduce calcio sérico y alivia dolor óseo",
+      "indicacoes": "Enfermedad de Paget, hipercalcemia, osteoporosis posmenopáusica",
+      "reacoesAdversas": "Náuseas, enrojecimiento, hipocalcemia, rinorrea (vía nasal)",
+      "riscoGravidez": "Categoría C (usar solo si es necesario)",
+      "riscoLactacao": "Uso cauteloso por falta de datos",
+      "administracao": "Vía SC, IM o nasal, según el caso",
+      "doseMaxima": "200 UI/día (osteoporosis); 100 UI 4x/día (hipercalcemia)",
+      "doseMinima": "50 UI/día",
+      "classificacao": "Hormona reguladora del metabolismo óseo",
+      "apresentacao": "Ampollas 100 UI/mL, spray nasal 200 UI/dosis",
+      "interacaoMedicamento": "Aumenta efecto con bifosfonatos; interacción con litio",
+      "posologia": "100 UI SC/IM diaria o 4x/día si hipercalcemia",
+      "armazenamento": "2–8°C; evitar congelar; proteger de la luz",
+      "preparo": "Agitar suavemente; administrar inmediatamente",
+      "solucoesCompatíveis": "ClNa 0,9%",
+      "contraindicacoes": "Alergia a salmón, hipocalcemia no corregida",
+      "cuidadosMedicos": "Monitorizar calcio sérico y síntomas clínicos",
+      "cuidadosFarmaceuticos": "Orientar sobre conservación y aplicación",
+      "cuidadosEnfermagem": "Observar efectos adversos y signos de hipocalcemia",
+      "fontesBibliograficas": "AEMPS, FDA, EMA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "降钙素",
+      "suspension": "术前1天停药",
+      "risk": "手术风险低，但可能影响钙代谢；骨病患者术中应监测低钙血症",
+      "reintroduction": "术后患者稳定且血钙正常后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "鲑鱼降钙素（合成）",
+      "nomeComercial": "Miacalcic, 降钙素注射液, 鼻喷雾剂",
+      "mecanismoAcao": "抑制破骨细胞，降低骨吸收和血钙",
+      "farmacocinetica": "皮下、肌注或鼻喷；半衰期约1小时；肝肾代谢",
+      "farmacodinamica": "迅速降低血钙，有骨痛缓解作用",
+      "indicacoes": "佩吉特病、高钙血症、绝经后骨质疏松",
+      "reacoesAdversas": "恶心、潮红、鼻塞、注射部位反应、低钙血症",
+      "riscoGravidez": "C类（仅在必要时使用）",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "皮下注射、肌注或鼻用",
+      "doseMaxima": "每日200IU（骨质疏松）；高钙血症可至每日400IU",
+      "doseMinima": "每日50IU",
+      "classificacao": "调节骨代谢激素类药物",
+      "apresentacao": "注射液100IU/mL，鼻喷剂200IU/喷",
+      "interacaoMedicamento": "与双膦酸盐协同降钙；与锂相互作用",
+      "posologia": "100IU每日SC/IM，或高钙症下4次/d",
+      "armazenamento": "冷藏（2–8°C），避光，不可冷冻",
+      "preparo": "温和混匀后立即使用",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对鲑鱼蛋白过敏，未经纠正的低钙血症",
+      "cuidadosMedicos": "术前术后监测钙水平及心电图",
+      "cuidadosFarmaceuticos": "指导冷链保存与注射技术",
+      "cuidadosEnfermagem": "监测低钙症状及局部反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate、EMA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Talidomida",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Alto risco de trombose venosa profunda, sedação e neuropatia periférica",
+      "reintroduction": "Reintroduzir após estabilização clínica e mobilização plena do paciente"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Talidomida",
+      "nomeComercial": "Thalidomide, Talidex",
+      "mecanismoAcao": "Inibe TNF-α, modula interleucinas e angiogênese; efeito imunomodulador e anti-inflamatório",
+      "farmacocinetica": "Biodisponibilidade oral alta, meia-vida ~5–7h, metabolismo hepático e excreção renal mínima",
+      "farmacodinamica": "Imunossupressor e antiangiogênico, reduz inflamação e proliferação celular",
+      "indicacoes": "Mieloma múltiplo, lúpus cutâneo, hanseníase (eritema nodoso), Doença de Behçet",
+      "reacoesAdversas": "Sonolência, constipação, neuropatia periférica, trombose, teratogenicidade",
+      "riscoGravidez": "Categoria X – contraindicado, altamente teratogênico",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "400 mg/dia (ajustada por indicação)",
+      "doseMinima": "50 mg/dia",
+      "classificacao": "Imunomodulador, anti-inflamatório",
+      "apresentacao": "Cápsulas de 50 mg, 100 mg e 200 mg",
+      "interacaoMedicamento": "Potencializa efeitos de sedativos, aumenta risco trombótico com corticoides e imunomoduladores",
+      "posologia": "100 a 200 mg VO à noite, conforme patologia",
+      "armazenamento": "Temperatura ambiente, protegido de umidade e luz",
+      "preparo": "Uso oral direto, sem partir cápsulas",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, neuropatia grave, trombose ativa",
+      "cuidadosMedicos": "Avaliar função neurológica e risco trombótico; exigir contracepção eficaz",
+      "cuidadosFarmaceuticos": "Controle rigoroso do Programa de Prevenção à Gravidez",
+      "cuidadosEnfermagem": "Monitorar sedação, parestesias e sinais de TVP",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA REMS, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Thalidomide",
+      "suspension": "Discontinue 7 days prior to elective surgery",
+      "risk": "High risk of deep vein thrombosis, sedation, and peripheral neuropathy",
+      "reintroduction": "Resume after clinical stability and full patient mobilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Thalidomide",
+      "nomeComercial": "Thalomid",
+      "mecanismoAcao": "Inhibits TNF-α and angiogenesis; modulates immune response via cytokines",
+      "farmacocinetica": "High oral bioavailability, half-life ~5–7h, hepatic metabolism, minimal renal excretion",
+      "farmacodinamica": "Anti-inflammatory, immunomodulatory, anti-angiogenic",
+      "indicacoes": "Multiple myeloma, erythema nodosum leprosum, cutaneous lupus, Behçet’s disease",
+      "reacoesAdversas": "Drowsiness, constipation, neuropathy, thrombosis, teratogenicity",
+      "riscoGravidez": "Category X – contraindicated, teratogenic",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "400 mg/day",
+      "doseMinima": "50 mg/day",
+      "classificacao": "Immunomodulatory agent",
+      "apresentacao": "Capsules: 50 mg, 100 mg, 200 mg",
+      "interacaoMedicamento": "Enhances CNS depressants; increased thrombosis risk with corticosteroids",
+      "posologia": "100–200 mg PO at bedtime, adjusted per indication",
+      "armazenamento": "Store at room temperature, dry and dark",
+      "preparo": "Swallow capsules whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, lactation, active thrombosis, severe neuropathy",
+      "cuidadosMedicos": "Enroll in REMS; monitor neurologic and thrombotic risks",
+      "cuidadosFarmaceuticos": "Strict contraceptive counseling and documentation required",
+      "cuidadosEnfermagem": "Monitor for sedation, neuropathy, DVT symptoms",
+      "fontesBibliograficas": "FDA REMS, Micromedex, UpToDate, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Talidomida",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Alto riesgo de trombosis venosa profunda, sedación y neuropatía periférica",
+      "reintroduction": "Reintroducir tras estabilidad clínica y movilización del paciente"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Talidomida",
+      "nomeComercial": "Thalidomide",
+      "mecanismoAcao": "Inhibe TNF-α, modula interleucinas y angiogénesis",
+      "farmacocinetica": "Buena biodisponibilidad oral, vida media 5–7h, metabolismo hepático",
+      "farmacodinamica": "Acción inmunomoduladora, antiinflamatoria y antiangiogénica",
+      "indicacoes": "Mieloma múltiple, eritema nodoso hansénico, lupus cutáneo, enfermedad de Behçet",
+      "reacoesAdversas": "Somnolencia, estreñimiento, neuropatía, trombosis, teratogenicidad",
+      "riscoGravidez": "Categoría X – contraindicado, teratógeno",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "400 mg/día",
+      "doseMinima": "50 mg/día",
+      "classificacao": "Inmunomodulador",
+      "apresentacao": "Cápsulas de 50, 100 y 200 mg",
+      "interacaoMedicamento": "Aumenta efectos de sedantes; mayor riesgo de trombosis con corticoides",
+      "posologia": "100–200 mg por la noche, ajustado a la patología",
+      "armazenamento": "Temperatura ambiente, lugar seco y oscuro",
+      "preparo": "Administrar cápsula entera",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, trombosis activa, neuropatía severa",
+      "cuidadosMedicos": "Monitoreo neurológico y evaluación trombótica previa",
+      "cuidadosFarmaceuticos": "Requiere programa estricto de control de embarazo",
+      "cuidadosEnfermagem": "Observar signos de TVP, parestesias y somnolencia",
+      "fontesBibliograficas": "AEMPS, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "沙利度胺",
+      "suspension": "术前7天停药",
+      "risk": "高静脉血栓风险、镇静、神经毒性",
+      "reintroduction": "术后恢复活动、无感染后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "沙利度胺",
+      "nomeComercial": "Thalidomide",
+      "mecanismoAcao": "抑制TNF-α，调节白细胞因子及新生血管生成",
+      "farmacocinetica": "口服吸收良好，半衰期5–7小时，肝代谢",
+      "farmacodinamica": "抗炎、免疫调节、抗血管生成",
+      "indicacoes": "多发性骨髓瘤、麻风性结节性红斑、皮肤红斑狼疮、白塞氏病",
+      "reacoesAdversas": "嗜睡、便秘、周围神经病变、血栓、胎儿畸形",
+      "riscoGravidez": "X类 – 禁用，有致畸风险",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日400毫克",
+      "doseMinima": "每日50毫克",
+      "classificacao": "免疫调节剂",
+      "apresentacao": "胶囊：50mg、100mg、200mg",
+      "interacaoMedicamento": "与镇静药、皮质激素联合可增加不良反应风险",
+      "posologia": "每日100–200毫克睡前服用，依据适应证调整",
+      "armazenamento": "室温避光干燥保存",
+      "preparo": "整粒吞服，不得嚼碎",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、神经病变、活动性血栓",
+      "cuidadosMedicos": "需参与出生缺陷预防计划，评估血栓与神经风险",
+      "cuidadosFarmaceuticos": "必须注册管理项目并指导避孕",
+      "cuidadosEnfermagem": "观察DVT症状、嗜睡与感觉异常",
+      "fontesBibliograficas": "中国药典、FDA REMS、Micromedex、UpToDate"
+    }
+  }
+}

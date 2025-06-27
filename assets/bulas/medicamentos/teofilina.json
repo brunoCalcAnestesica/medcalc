@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Teofilina",
+      "suspension": "Suspender 24h antes de cirurgia eletiva se uso crônico; evitar interações com anestésicos halogenados",
+      "risk": "Risco de arritmias, taquicardia, irritabilidade e convulsões em níveis tóxicos; janela terapêutica estreita",
+      "reintroduction": "Reintroduzir após estabilização respiratória e avaliação da função hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Teofilina",
+      "nomeComercial": "Theo-Dur, Methylxantina, Teolong, Respicor",
+      "mecanismoAcao": "Inibe fosfodiesterase, aumenta AMPc intracelular, antagoniza receptores de adenosina",
+      "farmacocinetica": "Absorção oral variável; metabolismo hepático via CYP1A2; eliminação renal",
+      "farmacodinamica": "Broncodilatador, estimulante respiratório, anti-inflamatório leve em vias aéreas",
+      "indicacoes": "Asma, DPOC, apneia da prematuridade, bronquite crônica refratária",
+      "reacoesAdversas": "Náusea, vômito, cefaleia, taquicardia, tremores, insônia, convulsões em superdose",
+      "riscoGravidez": "Categoria C – usar com cautela",
+      "riscoLactacao": "Excretado no leite; monitorar sintomas em lactentes",
+      "administracao": "Oral ou intravenosa (hospitalar)",
+      "doseMaxima": "20 mg/kg/dia (ajustar por níveis séricos)",
+      "doseMinima": "5 mg/kg/dia",
+      "classificacao": "Broncodilatador metilxantínico",
+      "apresentacao": "Comprimidos, cápsulas de liberação prolongada, solução IV",
+      "interacaoMedicamento": "Interage com macrolídeos, fluoroquinolonas, anticonvulsivantes, betabloqueadores, cafeína",
+      "posologia": "Dose individualizada com base em peso e níveis séricos",
+      "armazenamento": "Local seco, fresco e protegido da luz",
+      "preparo": "Diluir com cuidado; evitar incompatibilidades IV",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Epilepsia não controlada, taquiarritmias, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar níveis séricos (5–15 mcg/mL), ECG e função hepática",
+      "cuidadosFarmaceuticos": "Alerta para interações e risco de toxicidade",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade (náusea, agitação, arritmia)",
+      "fontesBibliograficas": "SBPT, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Theophylline",
+      "suspension": "Hold 24h before elective surgery if on chronic use; monitor for anesthetic interaction",
+      "risk": "Narrow therapeutic index; risk of arrhythmias, seizures, and GI upset at toxic levels",
+      "reintroduction": "Restart post-op once respiratory status and hepatic function are stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Theophylline",
+      "nomeComercial": "Theo-24, Theochron, Uniphyl, Elixophyllin",
+      "mecanismoAcao": "PDE inhibition, increased intracellular cAMP, adenosine receptor blockade",
+      "farmacocinetica": "Variable oral absorption; hepatic metabolism via CYP1A2; renal elimination",
+      "farmacodinamica": "Bronchodilator, mild anti-inflammatory and respiratory stimulant",
+      "indicacoes": "Asthma, COPD, neonatal apnea",
+      "reacoesAdversas": "Nausea, vomiting, insomnia, tachycardia, arrhythmia, seizures (toxicity)",
+      "riscoGravidez": "Category C – use with caution",
+      "riscoLactacao": "Excreted in milk; monitor for side effects in infants",
+      "administracao": "Oral or IV",
+      "doseMaxima": "20 mg/kg/day",
+      "doseMinima": "5 mg/kg/day",
+      "classificacao": "Methylxanthine bronchodilator",
+      "apresentacao": "Extended-release tablets, capsules, IV solution",
+      "interacaoMedicamento": "Interacts with erythromycin, fluoroquinolones, phenytoin, beta-blockers, caffeine",
+      "posologia": "Individualized dosing by weight and serum levels",
+      "armazenamento": "Cool, dry, protected from light",
+      "preparo": "Dilute carefully; avoid IV incompatibilities",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Uncontrolled epilepsy, tachyarrhythmias, hypersensitivity",
+      "cuidadosMedicos": "Monitor levels (5–15 mcg/mL), ECG, liver function",
+      "cuidadosFarmaceuticos": "Warn for interactions and toxicity risk",
+      "cuidadosEnfermagem": "Observe for signs of toxicity (nausea, jitteriness, arrhythmia)",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, GINA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Teofilina",
+      "suspension": "Suspender 24h antes de cirugía si uso crónico; precaución con anestesia",
+      "risk": "Índice terapéutico estrecho; riesgo de toxicidad cardíaca o neurológica",
+      "reintroduction": "Reanudar postoperatorio con estabilidad respiratoria y hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Teofilina",
+      "nomeComercial": "Theo-Dur, Teolong, Theostat",
+      "mecanismoAcao": "Inhibidor de PDE, aumenta AMPc, bloquea adenosina",
+      "farmacocinetica": "Absorción variable; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Broncodilatador, antiinflamatorio leve, estimulante respiratorio",
+      "indicacoes": "Asma, EPOC, apnea neonatal",
+      "reacoesAdversas": "Náusea, vómitos, insomnio, temblor, taquicardia, convulsiones",
+      "riscoGravidez": "Categoría C – precaución",
+      "riscoLactacao": "Se excreta en leche; monitorizar efectos en lactante",
+      "administracao": "Oral o IV",
+      "doseMaxima": "20 mg/kg/día",
+      "doseMinima": "5 mg/kg/día",
+      "classificacao": "Metilxantina broncodilatadora",
+      "apresentacao": "Comprimidos, cápsulas, solución IV",
+      "interacaoMedicamento": "Interacción con eritromicina, fluoroquinolonas, fenitoína, betabloqueantes",
+      "posologia": "Individualizar según peso y niveles séricos",
+      "armazenamento": "Lugar fresco, seco, sin luz",
+      "preparo": "Diluir con precaución; evitar incompatibilidades",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Epilepsia activa, taquiarritmias",
+      "cuidadosMedicos": "Monitorizar ECG, niveles (5–15 mcg/mL), función hepática",
+      "cuidadosFarmaceuticos": "Controlar interacciones y toxicidad",
+      "cuidadosEnfermagem": "Observar toxicidad (náuseas, temblores, arritmias)",
+      "fontesBibliograficas": "EMA, UpToDate, PubMed, GINA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "茶碱（Theophylline）",
+      "suspension": "术前24小时停用（如长期使用）",
+      "risk": "药物代谢变异大；容易出现恶心、心律失常、惊厥等毒性反应",
+      "reintroduction": "术后呼吸稳定、肝功能允许时重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "茶碱（Theophylline）",
+      "nomeComercial": "Theo-24、茶碱缓释片、舒喘灵",
+      "mecanismoAcao": "抑制PDE、增加cAMP、拮抗腺苷受体",
+      "farmacocinetica": "口服吸收差异大，经肝代谢，肾排泄",
+      "farmacodinamica": "支气管扩张、轻度抗炎、刺激呼吸中枢",
+      "indicacoes": "哮喘、慢阻肺、新生儿呼吸暂停",
+      "reacoesAdversas": "恶心、失眠、心跳加快、颤抖、抽搐（中毒）",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "可进入乳汁，注意婴儿反应",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日不超过20 mg/kg",
+      "doseMinima": "每日5 mg/kg",
+      "classificacao": "支气管扩张剂（甲基黄嘌呤类）",
+      "apresentacao": "缓释片、胶囊、注射液",
+      "interacaoMedicamento": "与抗生素、抗癫痫药、咖啡因、β阻断药交互",
+      "posologia": "按体重与血药浓度个体化调整",
+      "armazenamento": "避光干燥处保存",
+      "preparo": "静脉滴注需缓慢，避免不相容溶液",
+      "solucoesCompatíveis": "生理盐水、葡萄糖5%",
+      "contraindicacoes": "活动性癫痫、心律失常、过敏史",
+      "cuidadosMedicos": "监测浓度（5–15 mcg/mL）、心电图、肝酶",
+      "cuidadosFarmaceuticos": "注意毒性与代谢交互，建议定期复查",
+      "cuidadosEnfermagem": "观察恶心、颤抖、烦躁与心律变化",
+      "fontesBibliograficas": "中国药典、PubMed、UpToDate、GINA"
+    }
+  }
+}

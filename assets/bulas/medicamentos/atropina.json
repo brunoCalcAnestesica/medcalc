@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Atropina",
+      "suspension": "Não se aplica – uso em emergência e intraoperatório",
+      "risk": "Taquicardia, delirium, retenção urinária, boca seca; interação com anestésicos e aumento da pressão intraocular",
+      "reintroduction": "Pode ser utilizada a qualquer momento conforme necessidade clínica emergencial"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atropina",
+      "nomeComercial": "Atropion, Atropion Inj, Atropen",
+      "mecanismoAcao": "Antagonista competitivo dos receptores muscarínicos da acetilcolina; inibe ação parassimpática",
+      "farmacocinetica": "Início rápido IV (1–2min), IM (10–15min); meia-vida de 2–4h; metabolização hepática e excreção urinária",
+      "farmacodinamica": "Aumenta FC, reduz secreções, dilata pupilas, relaxa musculatura lisa",
+      "indicacoes": "Bradicardia sintomática, assistolia, pré-anestesia, intoxicação por organofosforados",
+      "reacoesAdversas": "Boca seca, visão turva, constipação, retenção urinária, confusão mental",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Pode ser usado com cautela",
+      "administracao": "IV, IM, subcutânea, endotraqueal",
+      "doseMaxima": "3mg total (PCR); 1mg/dose IM/IV conforme indicação",
+      "doseMinima": "0,01mg/kg (pediatria)",
+      "classificacao": "Antimuscarínico (anticolinérgico)",
+      "apresentacao": "Ampolas 0,5mg/mL; auto-injetores; soluções 1mg/mL",
+      "interacaoMedicamento": "Potencializa efeitos de outros anticolinérgicos e anestésicos; cuidado com drogas que aumentam FC",
+      "posologia": "Bradicardia: 0,5mg IV a cada 3–5min (máx 3mg); intoxicações: doses maiores conforme protocolo",
+      "armazenamento": "Temperatura ambiente, proteger da luz",
+      "preparo": "Pronta para uso; pode ser diluída em SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Glaucoma de ângulo fechado, taquiarritmias, íleo paralítico, miastenia grave",
+      "cuidadosMedicos": "Monitorar ECG, PA, secreções e estado mental",
+      "cuidadosFarmaceuticos": "Verificar estabilidade da solução, evitar exposição à luz",
+      "cuidadosEnfermagem": "Observar sinais de superdosagem (midríase, confusão, rubor)",
+      "fontesBibliograficas": "SBV, ACLS, ANVISA, FDA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Atropine",
+      "suspension": "Not applicable – emergency and intraoperative use",
+      "risk": "Tachycardia, delirium, urinary retention, dry mouth, increased intraocular pressure",
+      "reintroduction": "Can be used anytime as clinically indicated in emergencies"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atropine",
+      "nomeComercial": "Atropen",
+      "mecanismoAcao": "Competitive antagonist of muscarinic acetylcholine receptors; inhibits parasympathetic activity",
+      "farmacocinetica": "Onset: 1–2min IV, 10–15min IM; half-life 2–4h; hepatic metabolism, renal excretion",
+      "farmacodinamica": "Increases HR, reduces secretions, pupil dilation, smooth muscle relaxation",
+      "indicacoes": "Symptomatic bradycardia, asystole, pre-anesthesia, organophosphate poisoning",
+      "reacoesAdversas": "Dry mouth, blurred vision, constipation, urinary retention, confusion",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use with caution",
+      "administracao": "IV, IM, SC, endotracheal",
+      "doseMaxima": "3mg total (ACLS); 1mg/dose IV/IM as needed",
+      "doseMinima": "0.01mg/kg (pediatric)",
+      "classificacao": "Antimuscarinic (anticholinergic)",
+      "apresentacao": "Vials 0.5mg/mL, 1mg/mL; auto-injectors",
+      "interacaoMedicamento": "Additive effects with anticholinergics and anesthetics; caution with HR-increasing drugs",
+      "posologia": "Bradycardia: 0.5mg IV q3–5min (max 3mg); higher doses in poisoning",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Ready-to-use or dilute in 0.9% NaCl",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Angle-closure glaucoma, tachyarrhythmias, paralytic ileus, myasthenia gravis",
+      "cuidadosMedicos": "Monitor ECG, BP, secretions, mental status",
+      "cuidadosFarmaceuticos": "Check solution clarity and expiry; protect from light",
+      "cuidadosEnfermagem": "Watch for overdose signs (mydriasis, delirium, flushing)",
+      "fontesBibliograficas": "ACLS, FDA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Atropina",
+      "suspension": "No aplica – uso en emergencias o intraoperatorio",
+      "risk": "Taquicardia, confusión, retención urinaria, boca seca, aumento de presión ocular",
+      "reintroduction": "Puede usarse en cualquier momento según necesidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atropina",
+      "nomeComercial": "Atropen",
+      "mecanismoAcao": "Antagonista competitivo de los receptores muscarínicos; inhibe la actividad parasimpática",
+      "farmacocinetica": "Inicio rápido IV (1–2min), IM (10–15min); semivida 2–4h; metabolismo hepático, excreción renal",
+      "farmacodinamica": "Incrementa FC, disminuye secreciones, dilata pupilas, relaja músculo liso",
+      "indicacoes": "Bradicardia sintomática, asistolia, preanestesia, intoxicación por organofosforados",
+      "reacoesAdversas": "Sequedad bucal, visión borrosa, constipación, retención urinaria, confusión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Usar con precaución",
+      "administracao": "IV, IM, SC, endotraqueal",
+      "doseMaxima": "3mg total (RCP); 1mg/dosis según indicación",
+      "doseMinima": "0.01mg/kg (uso pediátrico)",
+      "classificacao": "Antimuscarínico",
+      "apresentacao": "Ampollas de 0,5mg/mL y 1mg/mL; autoinyectores",
+      "interacaoMedicamento": "Potencia efectos con otros anticolinérgicos o anestésicos",
+      "posologia": "Bradicardia: 0.5mg IV cada 3–5min (máx 3mg); intoxicación: dosis mayores",
+      "armazenamento": "Conservar a temperatura ambiente, protegido de la luz",
+      "preparo": "Lista para usar o diluir en SSF 0,9%",
+      "solucoesCompatíveis": "SSF 0,9%",
+      "contraindicacoes": "Glaucoma de ángulo cerrado, taquiarritmias, íleo paralítico, miastenia gravis",
+      "cuidadosMedicos": "Monitorizar ECG, PA, secreciones, estado mental",
+      "cuidadosFarmaceuticos": "Revisar solución y fecha; proteger de la luz",
+      "cuidadosEnfermagem": "Vigilar signos de sobredosis: midriasis, confusión, enrojecimiento",
+      "fontesBibliograficas": "Micromedex, ACLS, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿托品",
+      "suspension": "不适用 – 急救及术中使用",
+      "risk": "心动过速、谵妄、尿潴留、口干、眼压升高",
+      "reintroduction": "如需可随时再次使用，需监护"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿托品",
+      "nomeComercial": "阿托品注射液",
+      "mecanismoAcao": "竞争性拮抗毒蕈碱型乙酰胆碱受体，抑制副交感神经活性",
+      "farmacocinetica": "IV起效1–2分钟，IM起效10–15分钟，半衰期2–4小时，肝代谢，肾排泄",
+      "farmacodinamica": "升高心率，减少分泌，扩瞳，放松平滑肌",
+      "indicacoes": "症状性心动过缓、心搏停止、麻醉前用药、有机磷中毒",
+      "reacoesAdversas": "口干、视力模糊、便秘、尿潴留、意识混乱",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可用，谨慎",
+      "administracao": "静脉、肌肉、皮下、气管内",
+      "doseMaxima": "总量3mg（RCP），每次1mg IV/IM",
+      "doseMinima": "每公斤0.01mg（儿科）",
+      "classificacao": "抗胆碱能药",
+      "apresentacao": "注射液0.5mg/mL，1mg/mL；自动注射器",
+      "interacaoMedicamento": "与其他抗胆碱药、麻醉药协同；注意加快心率药物",
+      "posologia": "缓慢心律：每3–5分钟0.5mg，最多3mg；中毒时可用更大剂量",
+      "armazenamento": "常温避光",
+      "preparo": "可直接使用或用0.9%氯化钠稀释",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "闭角型青光眼、心律失常、肠麻痹、重症肌无力",
+      "cuidadosMedicos": "监测心电图、血压、分泌与意识状态",
+      "cuidadosFarmaceuticos": "检查有效期与澄清度，避光保存",
+      "cuidadosEnfermagem": "观察中毒表现：散瞳、谵妄、潮红",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、ACLS指南"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Brodalumabe",
+      "suspension": "Suspender antes de cirurgias maiores; risco de infecção e atraso na cicatrização",
+      "risk": "Aumenta risco de infecções respiratórias, candidíase, depressão e ideação suicida",
+      "reintroduction": "Reintroduzir após cicatrização completa e avaliação psiquiátrica, se histórico positivo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Brodalumabe",
+      "nomeComercial": "Siliq, Kyntheum",
+      "mecanismoAcao": "Anticorpo monoclonal que bloqueia o receptor da interleucina-17 (IL-17RA), inibindo todos os ligantes de IL-17",
+      "farmacocinetica": "Subcutâneo; pico em 3 dias; meia-vida ~11 dias; metabolismo proteico",
+      "farmacodinamica": "Reduz inflamação mediada por IL-17A, IL-17F e IL-17E; potente efeito antipsoriático",
+      "indicacoes": "Psoríase em placas moderada a grave em adultos que falharam outras terapias sistêmicas",
+      "reacoesAdversas": "Nasofaringite, cefaleia, artralgia, fadiga, infecções, depressão, risco suicida",
+      "riscoGravidez": "Categoria C; evitar uso durante gestação salvo indicação vital",
+      "riscoLactacao": "Desconhecido; evitar amamentação durante e até 12 semanas após o uso",
+      "administracao": "Subcutânea",
+      "doseMaxima": "210 mg/semana durante indução",
+      "doseMinima": "210 mg a cada 2 semanas (manutenção)",
+      "classificacao": "Anticorpo monoclonal anti-IL-17RA",
+      "apresentacao": "Solução injetável 210 mg/1,5 mL em seringa preenchida",
+      "interacaoMedicamento": "Evitar uso com vacinas vivas e outros imunobiológicos simultaneamente",
+      "posologia": "210 mg SC semanal por 3 doses; depois 210 mg SC a cada 2 semanas",
+      "armazenamento": "Refrigerado (2–8°C); não congelar; proteger da luz",
+      "preparo": "Aguardar 30 minutos fora da geladeira antes de aplicar; não agitar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Histórico de depressão severa, ideação suicida, infecção ativa grave",
+      "cuidadosMedicos": "Avaliação psiquiátrica prévia, rastreio de infecções e vacinação adequada",
+      "cuidadosFarmaceuticos": "Verificar integridade do produto, temperatura e vencimento",
+      "cuidadosEnfermagem": "Orientar sinais de infecção e alterações de humor; técnica de aplicação",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Brodalumab",
+      "suspension": "Hold before major surgeries; infection and healing risk",
+      "risk": "URTIs, fungal infections, depression, suicidal ideation and behavior",
+      "reintroduction": "Restart after full recovery and psychiatric clearance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Brodalumab",
+      "nomeComercial": "Siliq (US), Kyntheum (EU)",
+      "mecanismoAcao": "Fully human monoclonal antibody blocking IL-17 receptor A",
+      "farmacocinetica": "SC; peak ~3 days; half-life ~11 days",
+      "farmacodinamica": "Blocks IL-17A, IL-17F, and IL-17E pathways, reducing inflammation",
+      "indicacoes": "Moderate-to-severe plaque psoriasis in adults unresponsive to systemic therapy",
+      "reacoesAdversas": "Nasopharyngitis, fatigue, joint pain, infections, suicidal ideation",
+      "riscoGravidez": "Category C; avoid unless necessary",
+      "riscoLactacao": "Unknown; avoid breastfeeding during and 12 weeks after therapy",
+      "administracao": "Subcutaneous injection",
+      "doseMaxima": "210 mg weekly for induction",
+      "doseMinima": "210 mg every 2 weeks (maintenance)",
+      "classificacao": "Anti-IL-17 receptor A monoclonal antibody",
+      "apresentacao": "210 mg/1.5 mL prefilled syringe",
+      "interacaoMedicamento": "Avoid live vaccines and concurrent biologics",
+      "posologia": "210 mg SC at weeks 0, 1, 2; then every 2 weeks",
+      "armazenamento": "Store at 36–46°F; do not freeze; protect from light",
+      "preparo": "Warm to room temperature for 30 min before use; do not shake",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe depression, suicidal ideation, active infection",
+      "cuidadosMedicos": "Pre-screen mental health and infections; update immunizations",
+      "cuidadosFarmaceuticos": "Check device integrity, storage, and expiration",
+      "cuidadosEnfermagem": "Monitor for mood changes, infection signs; teach injection",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Brodalumab",
+      "suspension": "Suspender antes de cirugía mayor; riesgo de infección y cicatrización",
+      "risk": "Infecciones respiratorias, depresión, riesgo suicida",
+      "reintroduction": "Reanudar tras recuperación y evaluación psiquiátrica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Brodalumab",
+      "nomeComercial": "Kyntheum",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-IL-17RA",
+      "farmacocinetica": "SC; pico ~3 días; t1/2 ~11 días",
+      "farmacodinamica": "Bloquea IL-17A/F/E; potente efecto antiinflamatorio",
+      "indicacoes": "Psoriasis en placas moderada a grave resistente a sistémicos",
+      "reacoesAdversas": "Nasofaringitis, fatiga, artralgias, riesgo suicida",
+      "riscoGravidez": "Categoría C; evitar en embarazo",
+      "riscoLactacao": "Evitar lactancia durante y 12 semanas tras uso",
+      "administracao": "Subcutánea",
+      "doseMaxima": "210 mg semanal",
+      "doseMinima": "210 mg cada 2 semanas",
+      "classificacao": "Anticuerpo monoclonal anti-IL-17 receptor A",
+      "apresentacao": "Jeringa precargada 210 mg/1,5 mL",
+      "interacaoMedicamento": "Evitar vacunas vivas y otros biológicos simultáneos",
+      "posologia": "Semanas 0,1,2: 210 mg; luego cada 2 semanas",
+      "armazenamento": "2–8°C; no congelar; proteger de luz",
+      "preparo": "Templar 30 min; no agitar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Depresión grave, ideación suicida, infección activa",
+      "cuidadosMedicos": "Evaluación psiquiátrica y cribado infeccioso previo",
+      "cuidadosFarmaceuticos": "Verificar conservación e integridad del producto",
+      "cuidadosEnfermagem": "Enseñar inyección SC; monitorizar ánimo e infecciones",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "布罗达尤单抗",
+      "suspension": "大手术前暂停使用；避免术后感染与愈合延迟",
+      "risk": "感染、抑郁、潜在自杀风险",
+      "reintroduction": "术后康复并评估精神状况后再恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "布罗达尤单抗",
+      "nomeComercial": "Siliq（美），Kyntheum（欧）",
+      "mecanismoAcao": "人源抗IL-17RA单克隆抗体，阻断多种IL-17通路",
+      "farmacocinetica": "皮下注射，达峰3天，t1/2约11天",
+      "farmacodinamica": "抑制炎症细胞因子IL-17A/F/E；改善银屑病病变",
+      "indicacoes": "中重度斑块型银屑病，对系统治疗无效者",
+      "reacoesAdversas": "鼻咽炎、头痛、关节痛、感染、抑郁、自杀倾向",
+      "riscoGravidez": "C类；不推荐妊娠期使用",
+      "riscoLactacao": "建议停乳至末次使用后12周",
+      "administracao": "皮下注射",
+      "doseMaxima": "每周210 mg（诱导期）",
+      "doseMinima": "每两周210 mg（维持期）",
+      "classificacao": "抗IL-17受体A单抗",
+      "apresentacao": "预充注射器210 mg/1.5 mL",
+      "interacaoMedicamento": "避免与活疫苗、生物制剂合用",
+      "posologia": "第0、1、2周注射210 mg；之后每2周一次",
+      "armazenamento": "2–8°C冷藏，避光，勿冷冻",
+      "preparo": "使用前30分钟室温放置，勿摇晃",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重抑郁、自杀史、活动性感染",
+      "cuidadosMedicos": "治疗前评估心理状态与感染风险",
+      "cuidadosFarmaceuticos": "确保冷链与药品完整性",
+      "cuidadosEnfermagem": "教会注射；警惕心理与感染症状",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，UpToDate"
+    }
+  }
+}

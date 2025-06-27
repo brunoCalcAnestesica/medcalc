@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Romidepsina",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva",
+      "risk": "Risco de mielossupressão, arritmias e interações medicamentosas",
+      "reintroduction": "Reintroduzir após recuperação hematológica e avaliação cardiológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Romidepsina",
+      "nomeComercial": "Istodax",
+      "mecanismoAcao": "Inibidor da histona desacetilase (HDAC); induz apoptose e parada do ciclo celular em células tumorais",
+      "farmacocinetica": "Administração IV; meia-vida ~3h; metabolização hepática via CYP3A4",
+      "farmacodinamica": "Induz modificação epigenética e morte celular seletiva em linfócitos malignos",
+      "indicacoes": "Linfoma cutâneo de células T (CTCL) e linfoma periférico de células T (PTCL) recidivante",
+      "reacoesAdversas": "Náuseas, fadiga, trombocitopenia, neutropenia, arritmias, alterações eletrolíticas",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Evitar uso durante a amamentação",
+      "administracao": "Intravenosa",
+      "doseMaxima": "14 mg/m² por dose",
+      "doseMinima": "10 mg/m² por dose",
+      "classificacao": "Antineoplásico – inibidor de HDAC",
+      "apresentacao": "Frasco-ampola liofilizado 10 mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores do CYP3A4 e fármacos que prolongam QT",
+      "posologia": "14 mg/m² IV em 4h nos dias 1, 8 e 15 de um ciclo de 28 dias",
+      "armazenamento": "Refrigerado (2–8 °C); proteger da luz",
+      "preparo": "Reconstituir com água estéril e diluir em SG 5%; uso imediato",
+      "solucoesCompatíveis": "SG 5%",
+      "contraindicacoes": "Gravidez, QT prolongado, hipocalemia ou hipomagnesemia não corrigidas",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, hemograma",
+      "cuidadosFarmaceuticos": "Preparar em ambiente estéril; monitorar estabilidade",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hematológica e cardíaca",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, bula Istodax"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Romidepsin",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of myelosuppression, arrhythmias, and drug interactions",
+      "reintroduction": "Restart after hematologic and cardiac recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Romidepsin",
+      "nomeComercial": "Istodax",
+      "mecanismoAcao": "Histone deacetylase inhibitor (HDACi); induces apoptosis and cell cycle arrest",
+      "farmacocinetica": "IV administration; t½ ~3h; metabolized via CYP3A4",
+      "farmacodinamica": "Epigenetic modulation and selective cytotoxicity in malignant T cells",
+      "indicacoes": "Refractory CTCL and PTCL",
+      "reacoesAdversas": "Nausea, fatigue, thrombocytopenia, neutropenia, arrhythmias, electrolyte imbalances",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "Intravenous",
+      "doseMaxima": "14 mg/m²",
+      "doseMinima": "10 mg/m²",
+      "classificacao": "Antineoplastic – HDAC inhibitor",
+      "apresentacao": "10 mg lyophilized vial",
+      "interacaoMedicamento": "CYP3A4 inhibitors/inducers, QT-prolonging drugs",
+      "posologia": "14 mg/m² IV over 4 h on days 1, 8, and 15 of a 28-day cycle",
+      "armazenamento": "Refrigerate (2–8 °C); protect from light",
+      "preparo": "Reconstitute with sterile water and dilute in D5W",
+      "solucoesCompatíveis": "D5W",
+      "contraindicacoes": "Pregnancy, QT prolongation, uncorrected hypokalemia/magnesemia",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, CBC",
+      "cuidadosFarmaceuticos": "Use sterile technique, confirm compatibility",
+      "cuidadosEnfermagem": "Watch for hematologic and cardiac toxicity",
+      "fontesBibliograficas": "FDA, Istodax PI, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Romidepsina",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de mielosupresión, arritmias e interacciones medicamentosas",
+      "reintroduction": "Reintroducir tras recuperación hematológica y cardíaca"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Romidepsina",
+      "nomeComercial": "Istodax",
+      "mecanismoAcao": "Inhibidor de histona desacetilasa; induce apoptosis y detención celular",
+      "farmacocinetica": "IV; t½ ~3 h; metabolización hepática por CYP3A4",
+      "farmacodinamica": "Modulación epigenética y citotoxicidad selectiva",
+      "indicacoes": "CTCL y PTCL refractarios",
+      "reacoesAdversas": "Fatiga, náuseas, trombocitopenia, neutropenia, arritmias",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Intravenosa",
+      "doseMaxima": "14 mg/m²",
+      "doseMinima": "10 mg/m²",
+      "classificacao": "Antineoplásico – inhibidor de HDAC",
+      "apresentacao": "Vial liofilizado 10 mg",
+      "interacaoMedicamento": "Inductores/inhibidores CYP3A4, fármacos que prolongan QT",
+      "posologia": "14 mg/m² IV días 1, 8 y 15 en ciclo de 28 días",
+      "armazenamento": "Refrigerar 2–8 °C; proteger de luz",
+      "preparo": "Reconstituir en agua estéril, diluir en glucosa 5%",
+      "solucoesCompatíveis": "Glucosa 5%",
+      "contraindicacoes": "Embarazo, QT largo, hipocalemia no corregida",
+      "cuidadosMedicos": "Monitorizar ECG, electrolitos, hemograma",
+      "cuidadosFarmaceuticos": "Preparación aséptica, verificar estabilidad",
+      "cuidadosEnfermagem": "Vigilar toxicidad hematológica y cardíaca",
+      "fontesBibliograficas": "Micromedex, ficha técnica Istodax"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "罗米地辛（Romidepsin）",
+      "suspension": "择期手术前停药7天",
+      "risk": "可能引发骨髓抑制、心律失常和药物相互作用",
+      "reintroduction": "血象恢复及心电图正常后可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "罗米地辛",
+      "nomeComercial": "Istodax",
+      "mecanismoAcao": "HDAC抑制剂，诱导肿瘤细胞凋亡与周期阻滞",
+      "farmacocinetica": "静脉注射；t½约3小时；CYP3A4代谢",
+      "farmacodinamica": "改变基因表达，选择性杀伤恶性T细胞",
+      "indicacoes": "复发/难治性T细胞淋巴瘤（CTCL、PTCL）",
+      "reacoesAdversas": "乏力、恶心、血小板减少、中性粒细胞减少、QT延长",
+      "riscoGravidez": "D类 – 禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉注射",
+      "doseMaxima": "14 mg/m²",
+      "doseMinima": "10 mg/m²",
+      "classificacao": "抗肿瘤药 – HDAC抑制剂",
+      "apresentacao": "10 mg冻干粉针",
+      "interacaoMedicamento": "与CYP3A4抑制剂、延长QT药物互作",
+      "posologia": "每28天疗程第1、8、15天IV给药，14 mg/m²",
+      "armazenamento": "2–8°C冷藏避光",
+      "preparo": "无菌水复溶，D5W稀释，立即使用",
+      "solucoesCompatíveis": "5%葡萄糖",
+      "contraindicacoes": "孕期、QT延长、电解质紊乱未纠正",
+      "cuidadosMedicos": "监测ECG、电解质、血常规",
+      "cuidadosFarmaceuticos": "无菌配药，防光",
+      "cuidadosEnfermagem": "警惕心脏及造血系统毒性",
+      "fontesBibliograficas": "Micromedex、中国药典、Istodax说明书"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fator VII recombinante",
+      "suspension": "Não suspender em cirurgias; pode ser necessário para controle hemostático",
+      "risk": "Risco trombótico, uso restrito a pacientes com coagulopatias específicas; cuidado com sobredosagem",
+      "reintroduction": "Utilizar conforme indicação hemostática; monitorar resposta"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fator VIIa recombinante (eptacog alfa)",
+      "nomeComercial": "NovoSeven RT",
+      "mecanismoAcao": "Ativa a via extrínseca da coagulação, promovendo geração local de trombina e formação do coágulo",
+      "farmacocinetica": "Administração IV, meia-vida ~2,5 h, início de ação imediato",
+      "farmacodinamica": "Corrige sangramentos em pacientes com deficiência de FVII ou com inibidores contra FVII ou FVIIa",
+      "indicacoes": "Hemofilia A ou B com inibidores, deficiência congênita de FVII, Glanzmann refratária",
+      "reacoesAdversas": "Trombose arterial ou venosa, cefaleia, pirexia, hipertensão, náusea",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Usar com cautela",
+      "administracao": "Intravenosa em bolus lento",
+      "doseMaxima": "Não definida; 90–120 mcg/kg/dose a cada 2–3 h em sangramento agudo",
+      "doseMinima": "15–30 mcg/kg (em profilaxia ou procedimentos)",
+      "classificacao": "Fator de coagulação recombinante",
+      "apresentacao": "Pó liofilizado 1 mg, 2 mg, 5 mg + diluente",
+      "interacaoMedicamento": "Evitar com concentrados de complexos protrombínicos; risco trombótico",
+      "posologia": "90 mcg/kg a cada 2–3 h até controle do sangramento",
+      "armazenamento": "Refrigerado 2–8°C, após reconstituição usar em até 3 h",
+      "preparo": "Reconstituir com diluente estéril fornecido; não agitar vigorosamente",
+      "solucoesCompatíveis": "Diluente específico do fabricante",
+      "contraindicacoes": "Trombose ativa, síndrome coronariana aguda",
+      "cuidadosMedicos": "Monitorar tempo de sangramento, sinais de trombose, função hepática",
+      "cuidadosFarmaceuticos": "Garantir reconstituição asséptica e uso em tempo adequado",
+      "cuidadosEnfermagem": "Observar local da infusão e resposta clínica",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, ANVISA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Recombinant Factor VIIa",
+      "suspension": "Do not suspend perioperatively; may be used as rescue for bleeding control",
+      "risk": "Risk of arterial and venous thrombosis, use only in indicated coagulation disorders",
+      "reintroduction": "Re-administer as clinically indicated for hemostasis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eptacog alfa (activated)",
+      "nomeComercial": "NovoSeven RT",
+      "mecanismoAcao": "Activates extrinsic pathway of coagulation, promotes thrombin generation and clot formation",
+      "farmacocinetica": "IV bolus, t½ ~2.5 h, immediate onset",
+      "farmacodinamica": "Restores hemostasis in FVII deficiency or in presence of inhibitors",
+      "indicacoes": "Hemophilia A/B with inhibitors, congenital FVII deficiency, Glanzmann’s thrombasthenia (refractory)",
+      "reacoesAdversas": "Thrombosis, headache, fever, hypertension, nausea",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use caution",
+      "administracao": "IV slow bolus",
+      "doseMaxima": "No absolute max; typical: 90–120 mcg/kg q2–3h",
+      "doseMinima": "15–30 mcg/kg (procedural prophylaxis)",
+      "classificacao": "Recombinant coagulation factor",
+      "apresentacao": "Lyophilized powder: 1 mg, 2 mg, 5 mg + diluent",
+      "interacaoMedicamento": "Avoid PCC or aPCC coadministration",
+      "posologia": "90 mcg/kg IV q2–3h until bleeding controlled",
+      "armazenamento": "2–8°C; use within 3 h after reconstitution",
+      "preparo": "Reconstitute using provided diluent; do not shake",
+      "solucoesCompatíveis": "Use manufacturer’s diluent only",
+      "contraindicacoes": "Active thrombosis, acute coronary syndrome",
+      "cuidadosMedicos": "Monitor for thrombosis, bleeding time, clinical response",
+      "cuidadosFarmaceuticos": "Ensure sterile reconstitution and timely use",
+      "cuidadosEnfermagem": "Monitor IV site and hemostatic response",
+      "fontesBibliograficas": "FDA, Lexicomp, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Factor VII recombinante",
+      "suspension": "No suspender; puede ser requerido para hemostasia perioperatoria",
+      "risk": "Riesgo de trombosis arterial o venosa, uso restringido a coagulopatías",
+      "reintroduction": "Reintroducir según indicación clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eptacog alfa (activado)",
+      "nomeComercial": "NovoSeven RT",
+      "mecanismoAcao": "Activa vía extrínseca de coagulación generando trombina y coágulo",
+      "farmacocinetica": "IV, inicio inmediato, t½ ~2.5 h",
+      "farmacodinamica": "Reconstituye la hemostasia en deficiencias de FVII o inhibidores",
+      "indicacoes": "Hemofilia A/B con inhibidores, deficiencia FVII, Glanzmann refractaria",
+      "reacoesAdversas": "Trombosis, fiebre, cefalea, náuseas, hipertensión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Precaución",
+      "administracao": "Bolo IV lento",
+      "doseMaxima": "No definida; 90–120 mcg/kg c/2–3 h",
+      "doseMinima": "15–30 mcg/kg",
+      "classificacao": "Factor de coagulación recombinante",
+      "apresentacao": "Polvo liofilizado + diluyente: 1–5 mg",
+      "interacaoMedicamento": "Evitar coadministrar complejos protrombínicos",
+      "posologia": "90 mcg/kg cada 2–3 h hasta hemostasia",
+      "armazenamento": "2–8°C; 3 h tras reconstitución",
+      "preparo": "Diluir con diluyente original, no agitar",
+      "solucoesCompatíveis": "Solo diluyente fabricante",
+      "contraindicacoes": "Trombosis activa, SCA",
+      "cuidadosMedicos": "Monitorear respuesta, tiempo de sangrado, trombosis",
+      "cuidadosFarmaceuticos": "Preparación aséptica y puntual",
+      "cuidadosEnfermagem": "Observar sangrado, respuesta local",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "重组VII因子",
+      "suspension": "术中常用止血剂，无需停药；仅限有凝血适应症",
+      "risk": "血栓风险高，仅限明确适应症使用",
+      "reintroduction": "术后视出血状况决定是否重复给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "活化重组凝血因子VIIa",
+      "nomeComercial": "NovoSeven RT",
+      "mecanismoAcao": "激活外源性凝血途径，促进局部凝血酶生成并形成血凝块",
+      "farmacocinetica": "静注给药，起效迅速，半衰期约2.5小时",
+      "farmacodinamica": "对FVII缺乏或有抑制物者有效止血",
+      "indicacoes": "A/B型血友病伴抑制物、FVII先天性缺乏、重型Glanzmann血小板无力症",
+      "reacoesAdversas": "动静脉血栓、高热、头痛、恶心、高血压",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "缓慢静脉推注",
+      "doseMaxima": "无绝对上限，常用90–120 μg/kg/次，每2–3小时重复",
+      "doseMinima": "预防性：15–30 μg/kg",
+      "classificacao": "重组凝血因子",
+      "apresentacao": "冻干粉针剂 1mg, 2mg, 5mg+专用稀释液",
+      "interacaoMedicamento": "避免与凝血复合物合用",
+      "posologia": "90 μg/kg IV 每2–3小时一次，直至止血",
+      "armazenamento": "2–8°C冷藏，复溶后3小时内使用",
+      "preparo": "用专用稀释液复溶，轻摇混匀，不可剧烈摇晃",
+      "solucoesCompatíveis": "仅限厂家提供稀释液",
+      "contraindicacoes": "急性血栓、急性冠脉综合征",
+      "cuidadosMedicos": "监测止血情况、电解质及并发血栓",
+      "cuidadosFarmaceuticos": "严格遵守无菌操作和用药时间窗",
+      "cuidadosEnfermagem": "观察静脉部位、体温、出血控制情况",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

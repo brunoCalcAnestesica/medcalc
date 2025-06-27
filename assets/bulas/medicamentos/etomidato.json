@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Etomidato",
+      "suspension": "Não se aplica (uso exclusivamente intravenoso em anestesia); suspender pré-medicações sedativas ou anticonvulsivantes se indicado",
+      "risk": "Supressão adrenocortical transitória, mioclonias, náuseas, vômitos, dor à injeção; interação com benzodiazepínicos e opioides",
+      "reintroduction": "Pode ser reintroduzido em anestesia subsequente se não houver contraindicações adrenais; usar com cautela em pacientes sépticos ou em terapia prolongada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etomidato",
+      "nomeComercial": "Hypnomidate, Amidate",
+      "mecanismoAcao": "Modulador positivo do receptor GABA-A; promove sedação e hipnose com mínima depressão cardiovascular",
+      "farmacocinetica": "Início: 30–60s; pico: 1min; duração: 3–10min; metabolizado no fígado e plasma (esterases); excreção renal",
+      "farmacodinamica": "Agente hipnótico intravenoso de curta duração; excelente estabilidade hemodinâmica, porém inibe síntese de cortisol mesmo em dose única",
+      "indicacoes": "Indução anestésica, sedação para intubação em emergência (RSI), procedimentos rápidos sob sedação",
+      "reacoesAdversas": "Mioclonias, náuseas, vômito, dor à injeção, supressão adrenal transitória, laringoespasmo (raro)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Sem dados conclusivos; uso único em anestesia considerado seguro",
+      "administracao": "Intravenosa (IV bolus)",
+      "doseMaxima": "0,6mg/kg para indução única",
+      "doseMinima": "0,2mg/kg",
+      "classificacao": "Hipnótico IV não barbitúrico",
+      "apresentacao": "Ampolas de 2mg/mL (10 ou 20mL) para injeção IV",
+      "interacaoMedicamento": "Opioides, benzodiazepínicos, anestésicos voláteis, depressores do SNC, corticosteroides",
+      "posologia": "Indução: 0,2–0,6mg/kg IV em bolus lento; repetir apenas se necessário, sob vigilância intensiva",
+      "armazenamento": "15–25°C, protegido da luz; não congelar",
+      "preparo": "Injetar lentamente em veia de grande calibre para reduzir dor e mioclonia; pode ser precedido por midazolam ou fentanila",
+      "solucoesCompatíveis": "SF 0,9%, SG 5% (não diluir previamente; administrar direto)",
+      "contraindicacoes": "Hipersensibilidade, insuficiência adrenal conhecida, uso prolongado em UTI (anestesia contínua)",
+      "cuidadosMedicos": "Monitorar sinais vitais, função adrenal (em uso repetido), FR, nível de consciência",
+      "cuidadosFarmaceuticos": "Conferir estabilidade do lote, evitar extravasamento, não usar fora do ambiente controlado",
+      "cuidadosEnfermagem": "Observar sedação, FR, padrão ventilatório, presença de mioclonia e vômitos",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate, Miller's Anesthesia"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Etomidate",
+      "suspension": "Not applicable (IV anesthetic); discontinue other sedatives if used chronically",
+      "risk": "Adrenal suppression, myoclonus, nausea, vomiting, injection pain, interaction with opioids and benzodiazepines",
+      "reintroduction": "Safe to reintroduce for anesthesia if adrenal function is preserved; avoid in prolonged sedation or septic shock"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etomidate",
+      "nomeComercial": "Amidate, Hypnomidate",
+      "mecanismoAcao": "Positive modulator of GABA-A receptor; induces hypnosis with minimal cardiovascular depression",
+      "farmacocinetica": "Onset: 30–60s; peak: 1min; duration: 3–10min; hepatic/plasma metabolism; renal excretion",
+      "farmacodinamica": "Short-acting IV hypnotic; excellent hemodynamic stability; inhibits cortisol synthesis even after single dose",
+      "indicacoes": "Anesthesia induction, rapid sequence intubation (RSI), short procedural sedation",
+      "reacoesAdversas": "Myoclonus, nausea, vomiting, adrenal suppression, injection site pain, rare laryngospasm",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "No clear data; short exposure considered safe",
+      "administracao": "Intravenous (IV bolus)",
+      "doseMaxima": "0.6mg/kg for induction",
+      "doseMinima": "0.2mg/kg",
+      "classificacao": "Non-barbiturate IV hypnotic",
+      "apresentacao": "2mg/mL ampoules (10 or 20mL)",
+      "interacaoMedicamento": "Opioids, benzodiazepines, CNS depressants, corticosteroids, volatile anesthetics",
+      "posologia": "Induction: 0.2–0.6mg/kg IV slow bolus",
+      "armazenamento": "Store at 15–25°C, protect from light; do not freeze",
+      "preparo": "Inject slowly into large vein; premedication with midazolam or fentanyl reduces myoclonus",
+      "solucoesCompatíveis": "NS, D5W (administer undiluted if possible)",
+      "contraindicacoes": "Known hypersensitivity, adrenal insufficiency, prolonged ICU use",
+      "cuidadosMedicos": "Monitor vitals, respiratory status, sedation level, adrenal function with repeated use",
+      "cuidadosFarmaceuticos": "Verify stability and batch; avoid extravasation; use in controlled settings",
+      "cuidadosEnfermagem": "Monitor for sedation, RR, myoclonus, nausea, vomiting",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, Miller's Anesthesia, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Etomidato",
+      "suspension": "No aplica (uso IV exclusivo); suspender otros sedantes crónicos si están presentes",
+      "risk": "Supresión adrenal, mioclonías, náuseas, vómitos, dolor en el sitio de inyección, interacción con benzodiacepinas y opioides",
+      "reintroduction": "Reintroducir solo en ambiente anestésico controlado; evitar en sedación prolongada o shock séptico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etomidato",
+      "nomeComercial": "Amidate, Hypnomidate",
+      "mecanismoAcao": "Modulador GABA-A; sedación e hipnosis rápida con estabilidad cardiovascular",
+      "farmacocinetica": "Inicio: 30–60s; pico: 1min; duración: 3–10min; metabolismo hepático y plasmático; excreción renal",
+      "farmacodinamica": "Hipnótico de acción corta con supresión transitoria del eje adrenal",
+      "indicacoes": "Inducción anestésica, intubación rápida (RSI), sedación breve en procedimientos",
+      "reacoesAdversas": "Mioclonías, náuseas, vómitos, dolor a la inyección, supresión adrenal, laringoespasmo (raro)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Sin datos concluyentes; uso único parece seguro",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0,6mg/kg para inducción",
+      "doseMinima": "0,2mg/kg",
+      "classificacao": "Hipnótico intravenoso no barbitúrico",
+      "apresentacao": "Ampollas 2mg/mL (10 o 20mL)",
+      "interacaoMedicamento": "Opioides, benzodiacepinas, anestésicos volátiles, corticoides",
+      "posologia": "0,2–0,6mg/kg IV en bolo lento",
+      "armazenamento": "15–25°C, protegido de la luz; no congelar",
+      "preparo": "Inyección lenta en vena gruesa; premedicar con midazolam/fentanilo para evitar mioclonía",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Insuficiencia adrenal, hipersensibilidad, uso prolongado en UCI",
+      "cuidadosMedicos": "Monitoreo constante de PA, FC, función suprarrenal en uso repetido",
+      "cuidadosFarmaceuticos": "Evitar extravasación, confirmar lote y condiciones de almacenamiento",
+      "cuidadosEnfermagem": "Observar sedación, FR, mioclonía, náuseas, reflejos protectores",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate, Miller"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "依托咪酯",
+      "suspension": "不适用（仅限静脉麻醉药）；术前如合并镇静药使用，需停药",
+      "risk": "肾上腺抑制、肌阵挛、注射部位疼痛、恶心呕吐、与镇静药及类固醇联用时需谨慎",
+      "reintroduction": "可用于后续麻醉诱导，但不适合持续使用或感染性休克患者"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依托咪酯",
+      "nomeComercial": "Hypnomidate, Amidate",
+      "mecanismoAcao": "GABA-A受体正向调节剂，诱导镇静和催眠，心血管影响较小",
+      "farmacocinetica": "起效时间：30–60秒；作用峰值：1分钟；持续时间：3–10分钟；肝/血浆代谢；肾排泄",
+      "farmacodinamica": "短效静脉注射用催眠药，用于麻醉诱导与紧急气管插管",
+      "indicacoes": "麻醉诱导、快速插管、短时镇静",
+      "reacoesAdversas": "肌阵挛、注射部位疼痛、恶心、呕吐、肾上腺抑制、喉痉挛（罕见）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "尚无数据；一次性使用认为是安全的",
+      "administracao": "静脉注射（IV推注）",
+      "doseMaxima": "单次诱导剂量0.6mg/kg",
+      "doseMinima": "0.2mg/kg",
+      "classificacao": "非巴比妥类静脉催眠药",
+      "apresentacao": "2mg/mL安瓿（10或20mL）",
+      "interacaoMedicamento": "镇静药、类固醇、挥发性麻醉剂、中枢抑制药",
+      "posologia": "0.2–0.6mg/kg静推用于诱导",
+      "armazenamento": "15–25°C，避光保存，不可冷冻",
+      "preparo": "推荐使用粗静脉缓慢注射；可联合咪达唑仑/芬太尼减少不良反应",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖（不建议稀释后储存）",
+      "contraindicacoes": "肾上腺功能不全、对药物过敏、需持续镇静者禁用",
+      "cuidadosMedicos": "连续监测呼吸、血压、意识状态；注意肾上腺抑制风险",
+      "cuidadosFarmaceuticos": "仅限手术室或ICU使用，注意药品批次与保存",
+      "cuidadosEnfermagem": "观察镇静效果、FR、恶心、呕吐、肌阵挛",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

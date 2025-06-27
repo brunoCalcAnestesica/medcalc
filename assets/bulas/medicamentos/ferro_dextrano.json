@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ferro dextrano",
+      "suspension": "Suspender 3 dias antes de cirurgia eletiva apenas em caso de reação prévia ou quadro infeccioso ativo",
+      "risk": "Risco de anafilaxia, hipotensão, dor local, sobrecarga de ferro; maior em doses altas",
+      "reintroduction": "Reintroduzir após resolução do quadro infeccioso e avaliação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Complexo de ferro dextrano",
+      "nomeComercial": "Cosmofer, Dexferrum, Ferridex",
+      "mecanismoAcao": "Fornece ferro biodisponível ligado à dextrana para reposição em casos de deficiência",
+      "farmacocinetica": "Administração IM ou IV; meia-vida de 5–20 h; armazenado em sistema retículo-endotelial e lentamente liberado",
+      "farmacodinamica": "Permite síntese de hemoglobina e reposição dos estoques de ferro",
+      "indicacoes": "Anemia ferropriva quando intolerância ou ineficácia da via oral",
+      "reacoesAdversas": "Artralgia, febre, mialgia, prurido, náusea, reações anafiláticas",
+      "riscoGravidez": "Categoria C – usar se benefício justificar risco",
+      "riscoLactacao": "Pode ser usado com cautela",
+      "administracao": "IV lenta diluída ou IM profunda em quadrante superior externo da nádega",
+      "doseMaxima": "1000 mg por semana (dividida ou total única)",
+      "doseMinima": "100 mg/dose (ajustada por peso e déficit de ferro)",
+      "classificacao": "Repositor parenteral de ferro",
+      "apresentacao": "Ampolas de 100 mg/2 mL; frascos de 500 mg/10 mL",
+      "interacaoMedicamento": "Potencial de sobrecarga com outros sais de ferro; cautela com IECAs (aumentam reações)",
+      "posologia": "Calcular dose total necessária e dividir conforme tolerância e via",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Diluir em 100 mL de SF 0,9% para infusão IV",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Alergia ao ferro dextrano, anemia não ferropriva, infecção aguda grave",
+      "cuidadosMedicos": "Teste de sensibilidade obrigatório; monitorar sinais de reação imediata",
+      "cuidadosFarmaceuticos": "Não usar se houver precipitado; não administrar em bolus IV rápido",
+      "cuidadosEnfermagem": "Observar durante e após infusão por pelo menos 30 minutos",
+      "fontesBibliograficas": "Micromedex, ANVISA, UpToDate, EMA, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Iron dextran",
+      "suspension": "Hold 3 days before surgery only in case of prior reaction or infection",
+      "risk": "Anaphylaxis, hypotension, injection site pain, iron overload",
+      "reintroduction": "Restart post-recovery from infection or hypersensitivity"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Iron dextran complex",
+      "nomeComercial": "INFeD, Dexferrum",
+      "mecanismoAcao": "Provides bioavailable iron bound to dextran for replenishing deficient stores",
+      "farmacocinetica": "IM or IV; t½ 5–20 h; stored in RES, slowly released",
+      "farmacodinamica": "Enables hemoglobin synthesis and iron repletion",
+      "indicacoes": "Iron deficiency anemia unresponsive or intolerant to oral iron",
+      "reacoesAdversas": "Joint pain, fever, nausea, pruritus, myalgia, anaphylaxis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use cautiously if needed",
+      "administracao": "Slow IV infusion or deep IM injection (gluteal muscle)",
+      "doseMaxima": "1000 mg/week (single or divided)",
+      "doseMinima": "100 mg/dose (weight-based)",
+      "classificacao": "Parenteral iron supplement",
+      "apresentacao": "100 mg/2 mL ampoule; 500 mg/10 mL vials",
+      "interacaoMedicamento": "Avoid with other iron products; increased reactions with ACEIs",
+      "posologia": "Calculate total replacement dose; divide per protocol",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Dilute in 100 mL NS for IV use",
+      "solucoesCompatíveis": "NS only",
+      "contraindicacoes": "Known hypersensitivity, non-iron deficiency anemia, severe infection",
+      "cuidadosMedicos": "Test dose mandatory; monitor closely for reactions",
+      "cuidadosFarmaceuticos": "Inspect for particulates; avoid rapid IV bolus",
+      "cuidadosEnfermagem": "Observe at least 30 min post-injection",
+      "fontesBibliograficas": "FDA, Micromedex, Lexicomp, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hierro dextrano",
+      "suspension": "Suspender 3 días antes de cirugía si hay antecedente de reacción o infección",
+      "risk": "Anafilaxia, hipotensión, dolor local, sobrecarga férrica",
+      "reintroduction": "Reintroducir tras resolución clínica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Complejo de hierro dextrano",
+      "nomeComercial": "Cosmofer, INFeD",
+      "mecanismoAcao": "Reposición intravenosa o IM de hierro ligado a dextrano",
+      "farmacocinetica": "IM o IV; t½ 5–20 h; acumulación en sistema reticuloendotelial",
+      "farmacodinamica": "Restaura niveles férricos y síntesis de Hb",
+      "indicacoes": "Anemia ferropénica con intolerancia a hierro oral",
+      "reacoesAdversas": "Dolor, fiebre, erupción, anafilaxia, náusea",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Usar con precaución",
+      "administracao": "IV lenta o IM profunda",
+      "doseMaxima": "1000 mg/semana",
+      "doseMinima": "100 mg/dosis",
+      "classificacao": "Suplemento parenteral de hierro",
+      "apresentacao": "Ampollas 100 mg/2 mL, viales 500 mg/10 mL",
+      "interacaoMedicamento": "Evitar combinaciones con otros férricos",
+      "posologia": "Según cálculo de necesidad; dividir dosis si necesario",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Diluir en 100 mL SSF si es IV",
+      "solucoesCompatíveis": "SSF",
+      "contraindicacoes": "Alergia, infecciones activas, anemia no ferropénica",
+      "cuidadosMedicos": "Prueba de sensibilidad previa obligatoria",
+      "cuidadosFarmaceuticos": "Vigilar estabilidad; evitar bolo rápido",
+      "cuidadosEnfermagem": "Observar efectos adversos y sitio de aplicación",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "右旋糖酐铁",
+      "suspension": "术前三天停药，如感染或过敏史者",
+      "risk": "过敏反应、静脉炎、铁负荷过高",
+      "reintroduction": "术后评估无感染或高铁状态后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "右旋糖酐铁复合物",
+      "nomeComercial": "Dexferrum、INFeD",
+      "mecanismoAcao": "补充铁，恢复红细胞生成",
+      "farmacocinetica": "IM/IV，半衰期5–20小时，储存在网状内皮系统",
+      "farmacodinamica": "促进血红蛋白合成",
+      "indicacoes": "口服铁剂无效或禁忌的缺铁性贫血",
+      "reacoesAdversas": "发热、关节痛、过敏、注射部位疼痛",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可谨慎使用",
+      "administracao": "IV稀释缓慢滴注或IM深部肌注",
+      "doseMaxima": "每周不超1000 mg",
+      "doseMinima": "每次100 mg",
+      "classificacao": "注射用铁剂",
+      "apresentacao": "2 mL（100 mg）、10 mL（500 mg）",
+      "interacaoMedicamento": "避免与其他补铁药合用",
+      "posologia": "按铁缺乏计算，总剂量分次给药",
+      "armazenamento": "室温避光",
+      "preparo": "IV前需稀释100 mL生理盐水中",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "过敏史、感染急性期、非缺铁性贫血",
+      "cuidadosMedicos": "注射前试敏，监测不良反应",
+      "cuidadosFarmaceuticos": "确保无菌稀释和及时使用",
+      "cuidadosEnfermagem": "注射后观察30分钟以上",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Niraparibe",
+      "suspension": "Suspender 5–7 dias antes de cirurgia eletiva",
+      "risk": "Risco de mielossupressão, trombocitopenia e potencial imunossupressão; pode aumentar risco de sangramento e infecção perioperatória",
+      "reintroduction": "Reintroduzir após recuperação hematológica e ausência de infecção ou complicações cirúrgicas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Niraparibe",
+      "nomeComercial": "Zejula",
+      "mecanismoAcao": "Inibidor seletivo da enzima poli(ADP-ribose) polimerase (PARP-1 e PARP-2), causando acúmulo de quebras de DNA e morte celular, especialmente em células com deficiência na recombinação homóloga (ex: BRCA)",
+      "farmacocinetica": "Absorção oral rápida, pico plasmático em ~3h, meia-vida ~36h, metabolização hepática mínima, excreção renal e fecal",
+      "farmacodinamica": "Promove morte seletiva de células tumorais com deficiência de reparo de DNA",
+      "indicacoes": "Manutenção do tratamento de câncer de ovário, trompa de Falópio ou peritoneal recorrente sensível à platina; tratamento de primeira linha em pacientes com resposta completa/parcial à quimioterapia baseada em platina",
+      "reacoesAdversas": "Trombocitopenia, anemia, neutropenia, fadiga, náusea, constipação, dor abdominal, hipertensão, síndrome mielodisplásica rara",
+      "riscoGravidez": "Categoria D (teratogênico em estudos pré-clínicos); contraindicado",
+      "riscoLactacao": "Contraindicado; suspender amamentação durante e por pelo menos 1 mês após o tratamento",
+      "administracao": "Via oral",
+      "doseMaxima": "300 mg/dia",
+      "doseMinima": "100 mg/dia (ajustada por peso e contagem de plaquetas)",
+      "classificacao": "Inibidor de PARP (antineoplásico oral)",
+      "apresentacao": "Cápsulas de 100 mg",
+      "interacaoMedicamento": "Evitar uso com indutores fortes de CYP3A4; cuidado com anticoagulantes e medicamentos mielossupressores",
+      "posologia": "300 mg VO 1x/dia, continuamente, até progressão da doença ou toxicidade inaceitável",
+      "armazenamento": "Temperatura ambiente (15–30°C), proteger da umidade",
+      "preparo": "Não partir ou mastigar cápsulas; administrar com ou sem alimentos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade à fórmula, trombocitopenia grave não controlada",
+      "cuidadosMedicos": "Monitorar hemograma completo semanal no primeiro mês e mensal posteriormente",
+      "cuidadosFarmaceuticos": "Orientar sobre riscos hematológicos, sinais de sangramento e evitar gravidez",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, fadiga, eventos hematológicos e sintomas GI",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, Zejula bula, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Niraparib",
+      "suspension": "Discontinue 5–7 days prior to elective surgery",
+      "risk": "Risk of myelosuppression, thrombocytopenia, and immunosuppression; increased risk of perioperative bleeding and infection",
+      "reintroduction": "Restart after hematologic recovery and absence of infection or surgical complications"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Niraparib",
+      "nomeComercial": "Zejula",
+      "mecanismoAcao": "Selective inhibitor of PARP-1 and PARP-2, inducing DNA damage accumulation and cell death, especially in homologous recombination-deficient cells (e.g., BRCA mutation)",
+      "farmacocinetica": "Rapid oral absorption, peak ~3h, half-life ~36h, minimal hepatic metabolism, renal and fecal excretion",
+      "farmacodinamica": "Promotes selective tumor cell death in DNA repair-deficient malignancies",
+      "indicacoes": "Maintenance therapy for recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer responsive to platinum-based chemotherapy; first-line maintenance post-response to platinum",
+      "reacoesAdversas": "Thrombocytopenia, anemia, neutropenia, fatigue, nausea, constipation, abdominal pain, hypertension, rare MDS",
+      "riscoGravidez": "Category D (teratogenic in preclinical studies); contraindicated",
+      "riscoLactacao": "Contraindicated; discontinue breastfeeding during and for ≥1 month after treatment",
+      "administracao": "Oral",
+      "doseMaxima": "300 mg/day",
+      "doseMinima": "100 mg/day (based on weight and platelet count)",
+      "classificacao": "PARP inhibitor (oral antineoplastic)",
+      "apresentacao": "100 mg capsules",
+      "interacaoMedicamento": "Avoid strong CYP3A4 inducers; caution with anticoagulants and myelosuppressants",
+      "posologia": "300 mg orally once daily until disease progression or unacceptable toxicity",
+      "armazenamento": "Room temperature (15–30°C), protect from moisture",
+      "preparo": "Do not crush or chew capsules; take with or without food",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, hypersensitivity, uncontrolled severe thrombocytopenia",
+      "cuidadosMedicos": "Monitor CBC weekly for 1 month, then monthly",
+      "cuidadosFarmaceuticos": "Educate on hematologic risks, bleeding signs, and pregnancy prevention",
+      "cuidadosEnfermagem": "Monitor vitals, fatigue, blood counts, and GI symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Zejula PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Niraparib",
+      "suspension": "Suspender 5–7 días antes de cirugía electiva",
+      "risk": "Riesgo de mielosupresión, trombocitopenia e inmunosupresión; puede aumentar riesgo de sangrado e infección perioperatoria",
+      "reintroduction": "Reiniciar tras recuperación hematológica y ausencia de infección o complicaciones quirúrgicas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Niraparib",
+      "nomeComercial": "Zejula",
+      "mecanismoAcao": "Inhibidor selectivo de PARP-1 y PARP-2 que induce acumulación de daño en el ADN y muerte celular, especialmente en células con reparación defectuosa (BRCA)",
+      "farmacocinetica": "Buena absorción oral, pico plasmático ~3h, vida media ~36h, escaso metabolismo hepático, excreción renal y fecal",
+      "farmacodinamica": "Induce muerte celular selectiva en tumores con deficiencia de reparación del ADN",
+      "indicacoes": "Terapia de mantenimiento del cáncer de ovario, trompas o peritoneal sensible a platino; mantenimiento tras respuesta a quimioterapia de primera línea",
+      "reacoesAdversas": "Trombocitopenia, anemia, neutropenia, fatiga, náuseas, estreñimiento, dolor abdominal, hipertensión, MDS rara",
+      "riscoGravidez": "Categoría D (teratogénico en animales); contraindicado",
+      "riscoLactacao": "Contraindicado; suspender lactancia durante y 1 mes después del tratamiento",
+      "administracao": "Vía oral",
+      "doseMaxima": "300 mg/día",
+      "doseMinima": "100 mg/día (según peso y plaquetas)",
+      "classificacao": "Inhibidor de PARP (antineoplásico oral)",
+      "apresentacao": "Cápsulas de 100 mg",
+      "interacaoMedicamento": "Evitar inductores fuertes de CYP3A4; precaución con anticoagulantes y mielosupresores",
+      "posologia": "300 mg VO una vez al día hasta progresión o toxicidad inaceptable",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de humedad",
+      "preparo": "No triturar ni masticar; tomar con o sin alimentos",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad, trombocitopenia grave no controlada",
+      "cuidadosMedicos": "Monitorizar hemograma semanal el primer mes, luego mensual",
+      "cuidadosFarmaceuticos": "Educar sobre toxicidad hematológica y evitar embarazo",
+      "cuidadosEnfermagem": "Vigilar signos vitales, cansancio, hemograma y síntomas digestivos",
+      "fontesBibliograficas": "Micromedex, EMA, UpToDate, ficha técnica Zejula"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "尼拉帕利",
+      "suspension": "择期手术前5–7天停药",
+      "risk": "有骨髓抑制、血小板减少和免疫抑制风险，术中易出血及感染",
+      "reintroduction": "术后血象恢复、无感染或并发症后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "尼拉帕利",
+      "nomeComercial": "Zejula",
+      "mecanismoAcao": "PARP-1/2选择性抑制剂，导致DNA断裂积累，BRCA缺陷肿瘤细胞更易凋亡",
+      "farmacocinetica": "口服吸收快，达峰约3小时，半衰期约36小时，肝代谢少，肾/粪便排泄",
+      "farmacodinamica": "对DNA修复缺陷肿瘤具有选择性杀伤作用",
+      "indicacoes": "适用于铂敏感的复发性卵巢癌、输卵管癌或腹膜癌的维持治疗；也用于一线治疗后维持",
+      "reacoesAdversas": "血小板减少、贫血、中性粒细胞减少、乏力、恶心、便秘、腹痛、高血压、罕见MDS",
+      "riscoGravidez": "D类（动物致畸），禁用",
+      "riscoLactacao": "禁用，治疗期间及结束后1个月内停哺",
+      "administracao": "口服",
+      "doseMaxima": "每日300毫克",
+      "doseMinima": "每日100毫克（依据体重与血小板）",
+      "classificacao": "PARP抑制剂（口服抗肿瘤药）",
+      "apresentacao": "100毫克胶囊",
+      "interacaoMedicamento": "避免CYP3A4强诱导剂；慎与抗凝药及骨髓抑制剂同用",
+      "posologia": "每日口服300 mg，持续用药直至疾病进展或不可耐受",
+      "armazenamento": "室温保存（15–30°C），防潮",
+      "preparo": "整粒吞服，不可咬碎或掰开；可空腹或餐后服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳期、严重血小板减少、对本品过敏",
+      "cuidadosMedicos": "首月每周检查血象，随后每月复查",
+      "cuidadosFarmaceuticos": "宣教骨髓抑制风险及避孕",
+      "cuidadosEnfermagem": "观察疲劳、生命体征、消化道及血液异常",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Zejula说明书"
+    }
+  }
+}

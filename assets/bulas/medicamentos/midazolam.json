@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Midazolam",
+      "suspension": "Não se aplica (uso intravenoso, oral ou intranasal hospitalar); suspender se uso crônico de benzodiazepínicos ou opioides 24–48h antes se indicado",
+      "risk": "Depressão respiratória, sedação excessiva, amnésia, hipotensão, interação grave com opioides, álcool e inibidores do CYP3A4",
+      "reintroduction": "Pode ser reintroduzido conforme indicação anestésica ou sedativa com monitoramento intensivo (ECG, FR, PA)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Midazolam",
+      "nomeComercial": "Dormonid, Dormire, Versed, Midaflex",
+      "mecanismoAcao": "Benzodiazepínico que potencializa ação do GABA-A, promovendo sedação, amnésia, ansiólise e relaxamento muscular",
+      "farmacocinetica": "Início IV: 1–5min; VO: 15–30min; duração: IV 15–30min; metabolizado por CYP3A4; excreção renal",
+      "farmacodinamica": "Ansiolítico e sedativo de ação rápida, ideal para indução anestésica, pré-medicação e controle de crises convulsivas",
+      "indicacoes": "Pré-medicação anestésica, sedação em UTI, procedimentos, indução, controle de convulsões agudas, status epiléptico",
+      "reacoesAdversas": "Depressão respiratória, hipotensão, bradicardia, amnésia anterógrada, agitação paradoxal (crianças), reações locais",
+      "riscoGravidez": "Categoria D (evitar no 1º trimestre)",
+      "riscoLactacao": "Evitar uso contínuo; uso único em anestesia é seguro",
+      "administracao": "IV, IM, oral, intranasal, retal (off-label), bucal (off-label)",
+      "doseMaxima": "Até 0,3–0,4mg/kg total IV (dose titulada por efeito); VO máx. 20mg",
+      "doseMinima": "0,025–0,05mg/kg IV para sedação leve",
+      "classificacao": "Benzodiazepínico de curta duração de ação",
+      "apresentacao": "Ampolas 1mg/mL, 5mg/mL; solução oral; spray nasal",
+      "interacaoMedicamento": "Opioides, álcool, antidepressivos, inibidores do CYP3A4 (cetoconazol, verapamil), macrolídeos, antifúngicos azólicos",
+      "posologia": "IV: 1–5mg; VO: 7,5–15mg; Nasal: 5–10mg; IM: 0,1–0,15mg/kg; titulação lenta IV",
+      "armazenamento": "Temperatura ambiente (15–30°C), proteger da luz",
+      "preparo": "Diluir em SF 0,9% para infusão lenta ou bolus IV; IM profundo ou nasal sem diluição",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade, miastenia grave, insuficiência respiratória grave sem suporte, uso recente de álcool",
+      "cuidadosMedicos": "Monitorar ECG, PA, FR, nível de consciência; ajuste em idosos, hepáticos e renais",
+      "cuidadosFarmaceuticos": "Verificar compatibilidade, estabilidade, observar ampola após abertura; manipulação asséptica",
+      "cuidadosEnfermagem": "Observar sedação, FR, nível de consciência, efeitos paradoxais, saturação e sinais vitais",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate, Miller's Anesthesia, SBAR"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Midazolam",
+      "suspension": "Not applicable (hospital IV/IM use); evaluate chronic CNS depressant use before anesthesia",
+      "risk": "Respiratory depression, hypotension, paradoxical reactions, interaction with opioids, alcohol, CYP3A4 inhibitors",
+      "reintroduction": "Can be reintroduced as needed for sedation or anesthesia under full monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Midazolam",
+      "nomeComercial": "Versed, Nayzilam, Seizalam",
+      "mecanismoAcao": "Short-acting benzodiazepine; GABA-A enhancer causing sedation, anxiolysis, amnesia, and muscle relaxation",
+      "farmacocinetica": "IV onset: 1–5min; PO: 15–30min; T1/2: 1.5–3h; hepatic metabolism (CYP3A4); renal excretion",
+      "farmacodinamica": "Rapid-onset sedative/hypnotic for premedication, procedures, seizure control, and ICU sedation",
+      "indicacoes": "Preoperative sedation, ICU sedation, procedural sedation, seizures, status epilepticus",
+      "reacoesAdversas": "Apnea, hypotension, amnesia, paradoxical agitation, respiratory depression, nausea, injection pain",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Single dose likely safe; avoid prolonged use",
+      "administracao": "IV, IM, PO, intranasal, buccal, rectal (off-label)",
+      "doseMaxima": "0.4mg/kg total IV; oral max ~20mg",
+      "doseMinima": "0.025–0.05mg/kg IV for mild sedation",
+      "classificacao": "Short-acting benzodiazepine",
+      "apresentacao": "Ampoules: 1mg/mL, 5mg/mL; oral solution; nasal spray",
+      "interacaoMedicamento": "Opioids, alcohol, antidepressants, CYP3A4 inhibitors, antifungals, macrolides",
+      "posologia": "IV: 1–5mg titrated slowly; PO: 7.5–15mg; nasal: 5–10mg; IM: 0.1–0.15mg/kg",
+      "armazenamento": "15–30°C, protect from light",
+      "preparo": "Dilute IV doses for slow infusion; IM deep; nasal undiluted",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hypersensitivity, myasthenia gravis, severe respiratory depression without support",
+      "cuidadosMedicos": "Monitor ECG, BP, RR, CNS effects; reduce dose in elderly and hepatic/renal impairment",
+      "cuidadosFarmaceuticos": "Verify dilution/compatibility; monitor opened ampoule use",
+      "cuidadosEnfermagem": "Assess sedation, RR, vitals, paradoxical reactions, CNS depression",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Midazolam",
+      "suspension": "No aplica (uso hospitalario EV/IM); considerar suspensión de depresores del SNC crónicos si indicado",
+      "risk": "Depresión respiratoria, sedación profunda, agitación paradójica, interacción con opioides y alcohol",
+      "reintroduction": "Reintroducir bajo monitorización en procedimientos anestésicos o sedación controlada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Midazolam",
+      "nomeComercial": "Dormicum, Versed, Midazolam Normon",
+      "mecanismoAcao": "Benzodiacepina de acción corta; potencia GABA-A, causa sedación, amnesia, relajación",
+      "farmacocinetica": "Inicio IV: 1–5min; VO: 15–30min; T1/2: 1.5–3h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Sedante/hipnótico de inicio rápido para procedimientos, convulsiones y anestesia",
+      "indicacoes": "Premedicación, sedación en UCI, convulsiones, anestesia, intubación",
+      "reacoesAdversas": "Amnesia, náuseas, apnea, bradicardia, depresión respiratoria, agitación, dolor inyección",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Dosis única segura; evitar uso prolongado",
+      "administracao": "IV, IM, VO, nasal, bucal, rectal",
+      "doseMaxima": "0,3–0,4mg/kg IV; VO máx. 20mg",
+      "doseMinima": "0,025–0,05mg/kg",
+      "classificacao": "Benzodiacepina de acción corta",
+      "apresentacao": "Ampollas 1mg/mL, 5mg/mL; solución oral; spray nasal",
+      "interacaoMedicamento": "Opioides, alcohol, inhibidores CYP3A4, antidepresivos, antifúngicos",
+      "posologia": "IV: 1–5mg; VO: 7,5–15mg; nasal: 5–10mg; IM: 0,1–0,15mg/kg",
+      "armazenamento": "15–30°C, protegido de luz",
+      "preparo": "IV lento, diluido; IM profundo; nasal sin diluir",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidad, miastenia grave, depresión respiratoria severa",
+      "cuidadosMedicos": "Monitoreo de ECG, FR, PA, conciencia; ajustar en ancianos o insuficiencia hepática",
+      "cuidadosFarmaceuticos": "Controlar compatibilidad, caducidad y uso seguro de ampollas",
+      "cuidadosEnfermagem": "Observar FR, nivel de conciencia, agitación, reflejos y saturación",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "咪达唑仑",
+      "suspension": "不适用（仅医院使用）；术前评估苯二氮䓬类与阿片类联合使用风险",
+      "risk": "呼吸抑制、低血压、镇静过深、遗忘、激动反应、与CYP3A4抑制剂交互作用",
+      "reintroduction": "可在术后或ICU镇静中重新使用，需严密监控"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "咪达唑仑",
+      "nomeComercial": "Dormicum, Versed",
+      "mecanismoAcao": "短效苯二氮䓬类，通过GABA-A增强发挥镇静、抗惊厥、遗忘作用",
+      "farmacocinetica": "IV起效1–5分钟；口服15–30分钟；T1/2为1.5–3小时；CYP3A4代谢；肾排泄",
+      "farmacodinamica": "用于快速镇静、麻醉诱导、癫痫发作、术前用药、ICU持续镇静",
+      "indicacoes": "术前镇静、麻醉诱导、癫痫、ICU镇静、短程操作镇静",
+      "reacoesAdversas": "呼吸抑制、遗忘、意识障碍、低血压、激越反应、注射痛",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "一次性使用较安全；不推荐长期用药者哺乳",
+      "administracao": "静脉、肌肉、口服、鼻喷、口腔（含片）",
+      "doseMaxima": "IV总量≤0.4mg/kg；口服最大20mg",
+      "doseMinima": "IV：0.025–0.05mg/kg；轻度镇静",
+      "classificacao": "短效苯二氮䓬类镇静催眠药",
+      "apresentacao": "注射液1mg/mL, 5mg/mL；口服液；鼻喷剂",
+      "interacaoMedicamento": "阿片类、中枢抑制剂、CYP3A4抑制剂、酒精、抗抑郁药",
+      "posologia": "IV缓注1–5mg；PO 7.5–15mg；鼻喷5–10mg；IM 0.1–0.15mg/kg",
+      "armazenamento": "常温避光",
+      "preparo": "静脉可稀释后慢注；肌注深层；鼻用不稀释",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "重度呼吸抑制、重症肌无力、严重肝功能障碍",
+      "cuidadosMedicos": "监测血压、呼吸、意识、氧饱和度、心电图",
+      "cuidadosFarmaceuticos": "注意用量与稀释后稳定性，避免超量使用",
+      "cuidadosEnfermagem": "观察镇静深度、FR、血压、激动或躁动反应",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex, UpToDate"
+    }
+  }
+}

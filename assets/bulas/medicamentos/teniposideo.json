@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Teniposídeo",
+      "suspension": "Suspender 7–10 dias antes de cirurgia eletiva ou procedimentos invasivos",
+      "risk": "Mielossupressão severa, mucosite, toxicidade hepática, reações de hipersensibilidade, extravasamento com necrose",
+      "reintroduction": "Reintroduzir após recuperação hematológica e resolução de toxicidades agudas (10–21 dias)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Teniposídeo",
+      "nomeComercial": "Vumon",
+      "mecanismoAcao": "Inibidor da topoisomerase II; promove quebras duplas no DNA durante a replicação celular",
+      "farmacocinetica": "Administração IV; meia-vida terminal 5–24h; alta ligação a proteínas; metabolização hepática",
+      "farmacodinamica": "Citotóxico fase S e G2 do ciclo celular; atua sobre células em proliferação ativa",
+      "indicacoes": "Leucemia linfoblástica aguda (LLA), linfomas, neuroblastoma, tumores do SNC",
+      "reacoesAdversas": "Neutropenia, trombocitopenia, alopecia, mucosite, náusea, vômito, hepatotoxicidade, hipotensão",
+      "riscoGravidez": "Categoria D – teratogênico; contraindicado durante gestação exceto em risco oncológico",
+      "riscoLactacao": "Contraindicado; potencial excreção no leite materno",
+      "administracao": "Infusão intravenosa lenta (30–60 minutos), diluído em solução compatível",
+      "doseMaxima": "165mg/m²/semana (em protocolos intensivos)",
+      "doseMinima": "35mg/m²",
+      "classificacao": "Antineoplásico; epipodofilotoxina",
+      "apresentacao": "Frasco-ampola 50mg/5ml",
+      "interacaoMedicamento": "Potencializa toxicidade com outras drogas mielossupressoras ou hepatotóxicas; interação com fenitoína e varfarina",
+      "posologia": "35–165mg/m² IV em 1–2x semana, por 4–6 semanas ou conforme protocolo",
+      "armazenamento": "Temperatura ambiente (15–25°C); solução reconstituída válida 24h sob refrigeração",
+      "preparo": "Diluir em glicose 5% ou SF 0,9%; manipular sob capela com EPI",
+      "solucoesCompatíveis": "Glicose 5%, Cloreto de sódio 0,9%",
+      "contraindicacoes": "Hipersensibilidade à teniposídeo ou Cremophor EL, leucopenia grave, função hepática gravemente comprometida",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática, sinais de extravasamento, reação anafilactoide",
+      "cuidadosFarmaceuticos": "Proteger da luz, evitar contato direto; atenção ao veículo (polissorbato)",
+      "cuidadosEnfermagem": "Observar hipotensão, toxicidade oral, infusão lenta e sinais de infiltração",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Teniposide",
+      "suspension": "Discontinue 7–10 days before elective surgery; resume after hematologic recovery",
+      "risk": "Severe bone marrow suppression, mucositis, hepatotoxicity, hypersensitivity, vesicant injury",
+      "reintroduction": "Restart 10–21 days post-op once counts and toxicities resolve"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Teniposide",
+      "nomeComercial": "Vumon",
+      "mecanismoAcao": "Topoisomerase II inhibitor; causes DNA strand breaks during replication",
+      "farmacocinetica": "IV; T½ 5–24h; highly protein-bound; hepatic metabolism",
+      "farmacodinamica": "Cytotoxic in S/G2 phase; targets actively dividing cells",
+      "indicacoes": "ALL, lymphoma, neuroblastoma, CNS tumors",
+      "reacoesAdversas": "Neutropenia, thrombocytopenia, alopecia, mucositis, hepatotoxicity, hypotension",
+      "riscoGravidez": "Category D – avoid unless life-threatening",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Slow IV infusion over 30–60 minutes",
+      "doseMaxima": "165mg/m²/week",
+      "doseMinima": "35mg/m²",
+      "classificacao": "Epipodophyllotoxin antineoplastic agent",
+      "apresentacao": "50mg/5ml vials",
+      "interacaoMedicamento": "Increased toxicity with other marrow suppressants; interacts with phenytoin, warfarin",
+      "posologia": "35–165mg/m² 1–2x/week per protocol",
+      "armazenamento": "Store at 15–25°C; protect from light; stable 24h refrigerated after dilution",
+      "preparo": "Dilute in D5W or NS; use cytotoxic precautions",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Severe hepatic impairment, hypersensitivity to teniposide or Cremophor EL",
+      "cuidadosMedicos": "Monitor CBC, liver enzymes, infusion reactions",
+      "cuidadosFarmaceuticos": "Avoid light; warn about infusion-related reactions",
+      "cuidadosEnfermagem": "Monitor for mucositis, blood counts, allergic reactions",
+      "fontesBibliograficas": "FDA label, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Teniposido",
+      "suspension": "Suspender 7–10 días antes de cirugía; reanudar tras recuperación hematológica",
+      "risk": "Mielosupresión, mucositis, toxicidad hepática, reacción alérgica, necrosis por extravasación",
+      "reintroduction": "Reintroducir 10–21 días después si hay recuperación completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Teniposido",
+      "nomeComercial": "Vumon",
+      "mecanismoAcao": "Inhibe topoisomerasa II; produce rotura del ADN durante replicación",
+      "farmacocinetica": "IV; T½ 5–24h; metabolismo hepático; excreción biliar",
+      "farmacodinamica": "Activo en fase S/G2; células en división rápida",
+      "indicacoes": "Leucemia linfoblástica aguda, linfomas, neuroblastoma",
+      "reacoesAdversas": "Leucopenia, náuseas, alopecia, mucositis, hepatotoxicidad, hipotensión",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Infusión IV 30–60 minutos",
+      "doseMaxima": "165mg/m²/semana",
+      "doseMinima": "35mg/m²",
+      "classificacao": "Epipodofilotoxina antineoplásica",
+      "apresentacao": "Frascos 50mg/5ml",
+      "interacaoMedicamento": "Interacción con otros mielotóxicos, warfarina, fenitoína",
+      "posologia": "35–165mg/m²/semana, según protocolo",
+      "armazenamento": "15–25°C; solución 24h refrigerada",
+      "preparo": "Diluir en glucosa 5% o SF; bajo campana",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%",
+      "contraindicacoes": "Hepatopatía grave, alergia a Cremophor, embarazo",
+      "cuidadosMedicos": "Monitorizar hemograma, función hepática, reacciones infusionales",
+      "cuidadosFarmaceuticos": "Evitar luz; etiqueta de alto riesgo",
+      "cuidadosEnfermagem": "Observar mucositis, presión, reacciones alérgicas",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "替尼泊苷",
+      "suspension": "术前7–10天停药，术后血象与肝功能恢复后可重新使用",
+      "risk": "骨髓抑制、口腔炎、肝毒性、过敏反应、外渗坏死",
+      "reintroduction": "术后10–21天恢复，需监测毒性和血象"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "替尼泊苷",
+      "nomeComercial": "Vumon",
+      "mecanismoAcao": "抑制拓扑异构酶II，干扰DNA复制造成断裂",
+      "farmacocinetica": "静注；T½ 5–24h；肝代谢；胆汁排泄",
+      "farmacodinamica": "对S/G2期细胞毒性强",
+      "indicacoes": "急性淋巴细胞白血病、淋巴瘤、神经母细胞瘤、中枢系统肿瘤",
+      "reacoesAdversas": "中性粒细胞减少、口腔炎、脱发、恶心、肝酶升高、低血压",
+      "riscoGravidez": "D类 – 禁用于妊娠期",
+      "riscoLactacao": "禁用",
+      "administracao": "稀释后静脉输注30–60分钟",
+      "doseMaxima": "每周165mg/m²",
+      "doseMinima": "35mg/m²",
+      "classificacao": "拓扑异构酶II抑制剂，抗肿瘤药",
+      "apresentacao": "50mg/5ml注射液",
+      "interacaoMedicamento": "与骨髓抑制剂、华法林、苯妥英相互作用",
+      "posologia": "每周35–165mg/m²，依方案调整",
+      "armazenamento": "15–25°C避光保存，稀释液冷藏24h",
+      "preparo": "在无菌环境中用5%葡萄糖或生理盐水稀释",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "严重肝病、对药物或Cremophor过敏",
+      "cuidadosMedicos": "监测血象、肝功能、反应、外渗迹象",
+      "cuidadosFarmaceuticos": "避免接触光线与铝，按细胞毒药物处理",
+      "cuidadosEnfermagem": "观察口腔、皮肤、输液部位、体温",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA"
+    }
+  }
+}

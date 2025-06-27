@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bromocriptina",
+      "suspension": "Suspender 3 dias antes de cirurgias de grande porte, neurocirurgias ou com risco cardiovascular significativo",
+      "risk": "Hipotensão ortostática, náusea, vômito, alucinações, vasoespasmo, arritmia, confusão, cefaleia",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e resolução de sintomas neurovasculares"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromocriptina",
+      "nomeComercial": "Parlodel, Brocriptin",
+      "mecanismoAcao": "Agonista dopaminérgico D2 que inibe secreção de prolactina pela hipófise e modula sistema nigroestriatal",
+      "farmacocinetica": "VO; biodisponibilidade <10%; T½ ~12–15h; metabolizado no fígado (CYP3A4); excreção fecal",
+      "farmacodinamica": "Inibição rápida e potente de prolactina; estímulo dopaminérgico central e periférico",
+      "indicacoes": "Hiperprolactinemia, Parkinson, acromegalia, síndrome pré-menstrual, infertilidade anovulatória",
+      "reacoesAdversas": "Náusea, vertigem, confusão, sonolência, hipotensão ortostática, alucinações, congestão nasal",
+      "riscoGravidez": "Categoria B – pode ser usado sob prescrição em casos específicos",
+      "riscoLactacao": "Contraindicado para inibir lactação fisiológica",
+      "administracao": "VO, iniciar com dose baixa à noite, com alimento",
+      "doseMaxima": "30mg/dia",
+      "doseMinima": "1,25mg/dia",
+      "classificacao": "Agonista dopaminérgico derivado do ergot",
+      "apresentacao": "Comprimidos 2,5mg; cápsulas 5mg",
+      "interacaoMedicamento": "Interage com vasoconstritores, triptanos, anti-hipertensivos, macrolídeos, antifúngicos azólicos",
+      "posologia": "Início: 1,25mg à noite; manutenção: 2,5–15mg/dia dividida em 2–3 doses",
+      "armazenamento": "Temperatura ambiente; proteger da luz e umidade",
+      "preparo": "Uso oral direto; tomar com alimentos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipertensão descontrolada, cardiopatia isquêmica, psicose, gravidez não monitorada",
+      "cuidadosMedicos": "Monitorar PA, função hepática, status mental, sinais de disfunção cardíaca",
+      "cuidadosFarmaceuticos": "Orientar uso com alimento, início gradual, evitar interrupção abrupta",
+      "cuidadosEnfermagem": "Observar tontura, síncope, confusão, sonolência, náusea",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bromocriptine",
+      "suspension": "Discontinue 3 days prior to major surgery, especially neuro or cardiac cases",
+      "risk": "Orthostatic hypotension, hallucination, confusion, nausea, vasospasm, arrhythmia",
+      "reintroduction": "Resume once hemodynamically stable post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromocriptine",
+      "nomeComercial": "Parlodel, Cycloset",
+      "mecanismoAcao": "D2 receptor agonist; suppresses prolactin secretion and exerts central dopaminergic effects",
+      "farmacocinetica": "Oral; T½ ~12–15h; liver metabolism (CYP3A4); fecal elimination",
+      "farmacodinamica": "Rapid prolactin suppression; affects hypothalamic-pituitary axis",
+      "indicacoes": "Hyperprolactinemia, Parkinson's disease, type 2 diabetes, acromegaly",
+      "reacoesAdversas": "Nausea, hypotension, hallucinations, dizziness, headache, nasal congestion",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Avoid use for suppressing lactation",
+      "administracao": "Oral; start low at bedtime with food",
+      "doseMaxima": "30mg/day",
+      "doseMinima": "1.25mg/day",
+      "classificacao": "Dopamine agonist (ergot-derived)",
+      "apresentacao": "2.5mg tablets; 5mg capsules",
+      "interacaoMedicamento": "CYP3A4 inhibitors, antihypertensives, macrolides, ergot derivatives",
+      "posologia": "Start 1.25mg/day, titrate to 5–15mg/day in divided doses",
+      "armazenamento": "Room temp; protect from light/moisture",
+      "preparo": "Oral; with food",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Uncontrolled HTN, ischemic heart disease, psychosis, peripartum use",
+      "cuidadosMedicos": "Monitor BP, mental status, hepatic function",
+      "cuidadosFarmaceuticos": "Warn re: dizziness, titration, food timing",
+      "cuidadosEnfermagem": "Assess for syncope, nausea, hallucinations, confusion",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bromocriptina",
+      "suspension": "Suspender 3 días antes de cirugía mayor (cardiaca/neuro)",
+      "risk": "Hipotensión, alucinaciones, náuseas, arritmia, vasoespasmo",
+      "reintroduction": "Reiniciar tras estabilización hemodinámica postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromocriptina",
+      "nomeComercial": "Parlodel",
+      "mecanismoAcao": "Agonista dopaminérgico D2; inhibe prolactina y modula eje H-H",
+      "farmacocinetica": "VO; T½ 12–15h; metabolismo hepático; excreción fecal",
+      "farmacodinamica": "Inhibe PRL, estimula dopamina central y periférica",
+      "indicacoes": "Hiperprolactinemia, Parkinson, acromegalia, infertilidad",
+      "reacoesAdversas": "Mareos, náuseas, confusión, congestión nasal, hipotensión",
+      "riscoGravidez": "Categoría B – usar solo bajo control",
+      "riscoLactacao": "Contraindicado en supresión de lactancia",
+      "administracao": "VO con comida, iniciar de noche",
+      "doseMaxima": "30mg/día",
+      "doseMinima": "1,25mg/día",
+      "classificacao": "Agonista dopaminérgico derivado del ergot",
+      "apresentacao": "2,5mg comprimidos; cápsulas 5mg",
+      "interacaoMedicamento": "CYP3A4, macrólidos, hipotensores, triptanos",
+      "posologia": "1,25–15mg/día en 2–3 dosis",
+      "armazenamento": "Ambiente seco, protegido de luz",
+      "preparo": "Oral con comida",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Psicosis, HTA mal controlada, embarazo sin indicación",
+      "cuidadosMedicos": "Control PA, función hepática, mental",
+      "cuidadosFarmaceuticos": "Inicio gradual, advertir mareos",
+      "cuidadosEnfermagem": "Observar hipotensión, alucinaciones, náuseas",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "溴隐亭",
+      "suspension": "术前3天停药，尤其神经或心血管手术",
+      "risk": "直立性低血压、幻觉、恶心、精神错乱、心律不齐",
+      "reintroduction": "术后血流动力学稳定后重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "溴隐亭（溴麦角环肽）",
+      "nomeComercial": "Parlodel",
+      "mecanismoAcao": "多巴胺D2激动剂，抑制泌乳素分泌",
+      "farmacocinetica": "口服；生物利用度<10%；T½ 12–15小时；CYP3A4代谢；粪便排泄",
+      "farmacodinamica": "强效抑制PRL，激活黑质-纹状体通路",
+      "indicacoes": "高泌乳素血症、帕金森、月经紊乱、不孕症",
+      "reacoesAdversas": "恶心、头晕、幻觉、鼻塞、嗜睡、心动过缓",
+      "riscoGravidez": "B类 – 可在特定条件使用",
+      "riscoLactacao": "禁止用于抑乳",
+      "administracao": "口服，起始夜间服用，进食同时",
+      "doseMaxima": "每日30mg",
+      "doseMinima": "每日1.25mg",
+      "classificacao": "麦角类多巴胺激动剂",
+      "apresentacao": "2.5mg片剂，5mg胶囊",
+      "interacaoMedicamento": "CYP3A4抑制剂、降压药、麦角类、抗真菌药",
+      "posologia": "起始1.25mg，维持2.5–15mg/d，分次服用",
+      "armazenamento": "避光干燥，室温保存",
+      "preparo": "直接口服，餐中服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "精神病、高血压、妊娠晚期、高敏个体",
+      "cuidadosMedicos": "监测血压、肝功能、认知状态",
+      "cuidadosFarmaceuticos": "避免突停，逐步增量，用药教育",
+      "cuidadosEnfermagem": "观察站立性低血压、呕吐、嗜睡、行为异常",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、FDA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tamsulosina",
+      "suspension": "Não é necessária suspensão rotineira em cirurgias eletivas.",
+      "risk": "Risco de hipotensão ortostática e síndrome da íris flácida intraoperatória (IFIS), especialmente em cirurgias oculares. Monitorar pressão e considerar comunicação com oftalmologista.",
+      "reintroduction": "Pode ser mantida ou reintroduzida conforme tolerância hemodinâmica. Avaliar individualmente no pós-operatório."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tamsulosina cloridrato",
+      "nomeComercial": "Secotex, Omnic, Harnal, Flomax",
+      "mecanismoAcao": "Antagonista seletivo dos receptores alfa-1A adrenérgicos localizados na próstata e uretra, promovendo relaxamento do músculo liso.",
+      "farmacocinetica": "Absorção oral com biodisponibilidade de 90%. Pico em 4-7 horas (liberação prolongada). Metabolismo hepático via CYP3A4/CYP2D6. Meia-vida de 9–15 horas.",
+      "farmacodinamica": "Melhora o fluxo urinário e reduz sintomas obstrutivos da HPB sem afetar significativamente a pressão arterial.",
+      "indicacoes": "Hiperplasia prostática benigna (HPB), dificuldade miccional associada à obstrução prostática.",
+      "reacoesAdversas": "Tontura, ejaculação anormal, rinite, astenia, hipotensão ortostática.",
+      "riscoGravidez": "Categoria B (uso não indicado em mulheres).",
+      "riscoLactacao": "Não aplicável.",
+      "administracao": "Via oral, preferencialmente após a mesma refeição diariamente.",
+      "doseMaxima": "0,8 mg/dia",
+      "doseMinima": "0,4 mg/dia",
+      "classificacao": "Antagonista alfa-1 adrenérgico seletivo",
+      "apresentacao": "Cápsulas de liberação modificada de 0,4 mg",
+      "interacaoMedicamento": "Interage com inibidores de CYP3A4 e CYP2D6 (ex: cetoconazol, paroxetina). Risco aumentado de hipotensão com outros anti-hipertensivos.",
+      "posologia": "Iniciar com 0,4 mg ao dia. Se necessário, aumentar para 0,8 mg após 2-4 semanas.",
+      "armazenamento": "Conservar em temperatura ambiente (15–30°C), protegido da umidade.",
+      "preparo": "Não esmagar nem mastigar a cápsula.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Hipersensibilidade, hipotensão ortostática grave.",
+      "cuidadosMedicos": "Avaliar risco de hipotensão em pacientes frágeis; atenção em cirurgias oftalmológicas.",
+      "cuidadosFarmaceuticos": "Orientar administração após alimentação e risco de interação com CYP3A4/2D6.",
+      "cuidadosEnfermagem": "Monitorar pressão arterial e sintomas urinários; relatar tontura ou síncope.",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tamsulosin",
+      "suspension": "Routine suspension not required for elective surgeries.",
+      "risk": "Risk of orthostatic hypotension and intraoperative floppy iris syndrome (IFIS), especially during cataract surgery. Monitor BP and inform ophthalmologist.",
+      "reintroduction": "Can be continued or reintroduced postoperatively based on hemodynamic tolerance."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tamsulosin hydrochloride",
+      "nomeComercial": "Flomax, Omnic, Harnal",
+      "mecanismoAcao": "Selective alpha-1A adrenergic receptor blocker, relaxes smooth muscle in the prostate and bladder neck.",
+      "farmacocinetica": "Oral bioavailability ~90%. Peak at 4–7 h (ER). Hepatic metabolism via CYP3A4/CYP2D6. Half-life: 9–15 h.",
+      "farmacodinamica": "Improves urine flow and relieves BPH symptoms with minimal effect on BP.",
+      "indicacoes": "Benign prostatic hyperplasia (BPH), lower urinary tract symptoms.",
+      "reacoesAdversas": "Dizziness, abnormal ejaculation, rhinitis, asthenia, orthostatic hypotension.",
+      "riscoGravidez": "Category B (not indicated for women).",
+      "riscoLactacao": "Not applicable.",
+      "administracao": "Oral, preferably after the same meal each day.",
+      "doseMaxima": "0.8 mg/day",
+      "doseMinima": "0.4 mg/day",
+      "classificacao": "Selective alpha-1 adrenergic antagonist",
+      "apresentacao": "Modified-release capsules 0.4 mg",
+      "interacaoMedicamento": "Interacts with CYP3A4/2D6 inhibitors (e.g., ketoconazole, paroxetine). Hypotension risk with antihypertensives.",
+      "posologia": "Start at 0.4 mg/day; increase to 0.8 mg/day if needed after 2–4 weeks.",
+      "armazenamento": "Store at room temperature (15–30°C), protect from moisture.",
+      "preparo": "Do not crush or chew capsule.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Hypersensitivity, severe orthostatic hypotension.",
+      "cuidadosMedicos": "Assess for hypotension risk; alert ophthalmologist for IFIS risk.",
+      "cuidadosFarmaceuticos": "Instruct administration after meals; warn about CYP interactions.",
+      "cuidadosEnfermagem": "Monitor BP and urinary symptoms; report dizziness or syncope.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tamsulosina",
+      "suspension": "No se requiere suspensión en cirugía electiva.",
+      "risk": "Riesgo de hipotensión ortostática y síndrome del iris flácido (IFIS), especialmente en cirugía ocular. Vigilar presión y avisar al oftalmólogo.",
+      "reintroduction": "Puede mantenerse o reiniciarse tras evaluación hemodinámica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de tamsulosina",
+      "nomeComercial": "Omnic, Harnal, Flomax",
+      "mecanismoAcao": "Bloqueador alfa-1A adrenérgico selectivo, relaja músculo liso en próstata y uretra.",
+      "farmacocinetica": "Biodisponibilidad oral ~90%. Pico: 4–7 h. Metabolismo hepático (CYP3A4/2D6). Vida media: 9–15 h.",
+      "farmacodinamica": "Mejora el flujo urinario y síntomas prostáticos sin afectar significativamente la PA.",
+      "indicacoes": "Hiperplasia prostática benigna (HPB), síntomas urinarios obstructivos.",
+      "reacoesAdversas": "Mareos, eyaculación anormal, rinitis, debilidad, hipotensión ortostática.",
+      "riscoGravidez": "Categoría B – No indicado para mujeres.",
+      "riscoLactacao": "No aplicable.",
+      "administracao": "Vía oral, después de la misma comida cada día.",
+      "doseMaxima": "0,8 mg/día",
+      "doseMinima": "0,4 mg/día",
+      "classificacao": "Bloqueador alfa-1 adrenérgico selectivo",
+      "apresentacao": "Cápsulas de liberación modificada de 0,4 mg",
+      "interacaoMedicamento": "Interacción con inhibidores de CYP3A4/2D6. Riesgo de hipotensión con antihipertensivos.",
+      "posologia": "Iniciar con 0,4 mg/día. Aumentar a 0,8 mg si es necesario tras 2–4 semanas.",
+      "armazenamento": "Almacenar a 15–30°C, protegido de la humedad.",
+      "preparo": "No triturar ni masticar la cápsula.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Hipersensibilidad, hipotensión ortostática severa.",
+      "cuidadosMedicos": "Evaluar riesgo de hipotensión y riesgo oftálmico (IFIS).",
+      "cuidadosFarmaceuticos": "Indicar uso tras alimentos; vigilar interacciones.",
+      "cuidadosEnfermagem": "Monitorear PA y síntomas urinarios; informar mareos o síncope.",
+      "fontesBibliograficas": "AEMPS, EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "坦索罗辛",
+      "suspension": "择期手术通常无需停药。",
+      "risk": "可能引起体位性低血压和术中虹膜松弛综合征（IFIS），尤其在眼科手术中。需告知眼科医生并监测血压。",
+      "reintroduction": "术后根据血流动力学耐受性决定是否继续使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸坦索罗辛",
+      "nomeComercial": "Omnic, Flomax, Harnal",
+      "mecanismoAcao": "选择性α1A肾上腺素能受体阻滞剂，松弛前列腺和平滑肌。",
+      "farmacocinetica": "口服生物利用度约90%；达峰时间4–7小时；肝代谢（CYP3A4/2D6）；半衰期9–15小时。",
+      "farmacodinamica": "改善排尿流量，缓解前列腺增生相关症状，对血压影响较小。",
+      "indicacoes": "良性前列腺增生（BPH），下尿路梗阻症状。",
+      "reacoesAdversas": "头晕、异常射精、鼻炎、乏力、体位性低血压。",
+      "riscoGravidez": "B类（不适用于女性）。",
+      "riscoLactacao": "不适用。",
+      "administracao": "口服，每天同一餐后服用。",
+      "doseMaxima": "每天0.8毫克",
+      "doseMinima": "每天0.4毫克",
+      "classificacao": "选择性α1肾上腺素受体阻断剂",
+      "apresentacao": "缓释胶囊0.4毫克",
+      "interacaoMedicamento": "与CYP3A4/2D6抑制剂相互作用；与降压药合用可增加低血压风险。",
+      "posologia": "初始0.4 mg/日，必要时2–4周后调整至0.8 mg/日。",
+      "armazenamento": "15–30°C，避湿保存。",
+      "preparo": "不要咀嚼或压碎胶囊。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "严重体位性低血压、过敏反应。",
+      "cuidadosMedicos": "评估低血压风险；术前告知眼科医生以预防IFIS。",
+      "cuidadosFarmaceuticos": "强调餐后服用并注意药物相互作用。",
+      "cuidadosEnfermagem": "监测血压和泌尿症状，警惕晕厥。",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

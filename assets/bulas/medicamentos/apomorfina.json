@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Apomorfina",
+      "suspension": "Suspender 24h antes de cirurgias com risco cardiovascular, neurocirurgias ou jejum prolongado",
+      "risk": "Hipotensão, náuseas, vômitos, sedação, discinesias, prolongamento de QT, reações no local da infusão SC",
+      "reintroduction": "Reintroduzir após estabilidade hemodinâmica e controle de náuseas, idealmente nas primeiras 24h"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Apomorfina",
+      "nomeComercial": "Apokinon, Apofin, Apomorfin-Teva",
+      "mecanismoAcao": "Agonista dopaminérgico D1/D2 de ação direta; estimula vias dopaminérgicas do SNC",
+      "farmacocinetica": "Administração SC/intermitente ou contínua; T½ ~40 min; metabolização hepática; excreção renal",
+      "farmacodinamica": "Rápido efeito antiparkinsoniano ('rescue') sobre episódios de 'off' motores",
+      "indicacoes": "Doença de Parkinson avançada com flutuações motoras intensas",
+      "reacoesAdversas": "Náuseas, hipotensão ortostática, discinesias, sonolência, confusão, lipodistrofia SC, prolongamento QT",
+      "riscoGravidez": "Categoria C – evitar uso",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "SC em bolus ou infusão contínua com bomba portátil",
+      "doseMaxima": "100mg/dia",
+      "doseMinima": "1mg/dose (resgate) ou 3mg/h (bomba contínua)",
+      "classificacao": "Agonista dopaminérgico injetável de ação rápida",
+      "apresentacao": "Solução injetável 10mg/ml (2ml e 5ml), caneta pré-cheia 30mg/3ml",
+      "interacaoMedicamento": "Evitar com antagonistas dopaminérgicos (metoclopramida, antipsicóticos), QT-prolongadores, domperidona (avaliar risco)",
+      "posologia": "1–6mg por dose SC PRN; infusão contínua: 1–8mg/h SC; titular individualmente",
+      "armazenamento": "Refrigerado (2–8°C); solução estável 24h após abertura",
+      "preparo": "Pronto para uso em caneta ou seringa; bombas requerem diluição conforme protocolo",
+      "solucoesCompatíveis": "Solução fisiológica 0,9% para diluição (bomba)",
+      "contraindicacoes": "Uso com ondansetrona, doença psiquiátrica grave, hipotensão severa",
+      "cuidadosMedicos": "Monitorar PA, ECG (QT), sintomas neuropsiquiátricos, local de infusão",
+      "cuidadosFarmaceuticos": "Educar técnica de infusão SC, tempo de troca de bomba, fotossensibilidade",
+      "cuidadosEnfermagem": "Observar local SC, PA, confusão, alterações comportamentais",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex, SBEM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Apomorphine",
+      "suspension": "Hold 24h before major surgery if autonomic instability or QT concern exists",
+      "risk": "Nausea, hypotension, confusion, hallucinations, QT prolongation, site reactions",
+      "reintroduction": "Resume when stable, preferably within 24h post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Apomorphine",
+      "nomeComercial": "Apokyn",
+      "mecanismoAcao": "Non-ergot D1/D2 dopamine agonist; rapidly stimulates dopamine receptors",
+      "farmacocinetica": "SC; T½ ~40 min; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Rapid reversal of 'off' episodes in Parkinson’s",
+      "indicacoes": "Advanced Parkinson’s with motor fluctuations",
+      "reacoesAdversas": "Orthostatic hypotension, nausea, yawning, hallucination, injection site pain, somnolence",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended",
+      "administracao": "SC injection or continuous SC infusion",
+      "doseMaxima": "100mg/day",
+      "doseMinima": "2mg/injection or 1mg/h infusion",
+      "classificacao": "Short-acting dopamine agonist (injectable)",
+      "apresentacao": "10mg/ml injection; prefilled pens 30mg/3ml",
+      "interacaoMedicamento": "Avoid 5HT3 antagonists (ondansetron), antipsychotics, QT drugs",
+      "posologia": "2–6mg per injection PRN or 1–8mg/h infusion",
+      "armazenamento": "Refrigerated; stable 24h at room temp after opening",
+      "preparo": "Ready-to-use; diluted for pump use if needed",
+      "solucoesCompatíveis": "NS (0.9%) for pump dilution",
+      "contraindicacoes": "5HT3 antagonist use, psychosis, severe hypotension",
+      "cuidadosMedicos": "Monitor BP, QTc, psychiatric status, SC site",
+      "cuidadosFarmaceuticos": "Pen/battery maintenance, stability, cold chain",
+      "cuidadosEnfermagem": "Monitor SC reactions, BP, alertness, hallucinations",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, Parkinson’s Foundation"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Apomorfina",
+      "suspension": "Suspender 24h antes de cirugía si hay riesgo cardiovascular o uso de anestesia prolongada",
+      "risk": "Hipotensión, náuseas, confusión, somnolencia, QT largo, irritación en el sitio SC",
+      "reintroduction": "Reiniciar tras estabilización hemodinámica y función digestiva"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Apomorfina",
+      "nomeComercial": "Apokinon",
+      "mecanismoAcao": "Agonista dopaminérgico D1/D2 de acción rápida",
+      "farmacocinetica": "SC; T½ ~40 min; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Reversión rápida de episodios 'off' en Parkinson avanzado",
+      "indicacoes": "EP avanzado con bloqueos motores",
+      "reacoesAdversas": "Hipotensión ortostática, alucinaciones, náuseas, vómitos, sedación",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "SC intermitente o perfusión continua",
+      "doseMaxima": "100mg/día",
+      "doseMinima": "1–2mg/dosis",
+      "classificacao": "Agonista dopaminérgico inyectable",
+      "apresentacao": "Ampollas 10mg/ml; plumas 30mg/3ml",
+      "interacaoMedicamento": "Evitar con ondansetrón, antipsicóticos, ISRS, QT prolongadores",
+      "posologia": "1–6mg SC por dosis o 1–8mg/h perfusión",
+      "armazenamento": "2–8°C, usar en 24h tras apertura",
+      "preparo": "Inyección directa o dilución en bomba",
+      "solucoesCompatíveis": "ClNa 0.9%",
+      "contraindicacoes": "Uso con 5HT3, hipotensión severa, psicosis",
+      "cuidadosMedicos": "Presión, estado mental, ECG QT, tolerancia SC",
+      "cuidadosFarmaceuticos": "Cadena de frío, guía técnica de bomba y bolos",
+      "cuidadosEnfermagem": "Observar SC, confusión, náuseas, hipotensión",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿扑吗啡",
+      "suspension": "术前24小时停药，尤其全麻/心血管不稳定患者",
+      "risk": "低血压、恶心、嗜睡、幻觉、QT延长、注射部位红肿",
+      "reintroduction": "术后稳定后24小时内可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿扑吗啡",
+      "nomeComercial": "Apokinon",
+      "mecanismoAcao": "D1/D2受体激动剂，迅速缓解帕金森“关”期",
+      "farmacocinetica": "皮下注射；T½约40分钟；肝代谢；肾排泄",
+      "farmacodinamica": "快速多巴胺刺激，缓解运动障碍",
+      "indicacoes": "中晚期帕金森“关”现象控制",
+      "reacoesAdversas": "恶心、低血压、幻觉、嗜睡、QT延长、局部皮肤硬结",
+      "riscoGravidez": "C类 – 妊娠慎用",
+      "riscoLactacao": "不推荐",
+      "administracao": "间断SC注射或连续SC泵输注",
+      "doseMaxima": "每日100mg",
+      "doseMinima": "1mg/次（起始）",
+      "classificacao": "注射用多巴胺激动剂",
+      "apresentacao": "10mg/ml注射液，30mg/3ml笔芯",
+      "interacaoMedicamento": "与5-HT3药（如昂丹司琼）、抗精神病药、QT延长药有交互",
+      "posologia": "SC 1–6mg/次；泵1–8mg/h，个体化调整",
+      "armazenamento": "2–8°C冷藏，避光，开瓶后24小时内用完",
+      "preparo": "即用或按泵浓度稀释后注射",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "与5-HT3类联用、有精神病史、重度低血压",
+      "cuidadosMedicos": "监测QT、电解质、血压、认知状态",
+      "cuidadosFarmaceuticos": "冷链管理、教育患者正确使用泵和注射技术",
+      "cuidadosEnfermagem": "观察注射部位、晕厥、困倦、意识混乱",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

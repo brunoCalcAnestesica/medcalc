@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Etravirina",
+      "suspension": "Manter até o dia da cirurgia; considerar ajuste em caso de insuficiência hepática grave",
+      "risk": "Risco de erupções cutâneas, interações medicamentosas via CYP3A, CYP2C9 e CYP2C19, náusea",
+      "reintroduction": "Pode ser mantida no pós-operatório, com monitoramento hepático e de interações medicamentosas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etravirina",
+      "nomeComercial": "Intelence",
+      "mecanismoAcao": "Inibidor não nucleosídeo da transcriptase reversa (NNRTI); impede a replicação do HIV-1",
+      "farmacocinetica": "Administração oral; biodisponibilidade aumentada com alimentos; metabolizada por CYP3A4, 2C9 e 2C19",
+      "farmacodinamica": "Atividade contra cepas de HIV resistentes a outros NNRTIs",
+      "indicacoes": "Infecção por HIV-1 em adultos e crianças com falha a outros NNRTIs",
+      "reacoesAdversas": "Exantema, náusea, diarreia, dor abdominal, aumento de transaminases",
+      "riscoGravidez": "Categoria B – pode ser usado com monitoramento",
+      "riscoLactacao": "Evitar; excreção no leite desconhecida",
+      "administracao": "Oral, 1–2 vezes ao dia com alimentos",
+      "doseMaxima": "400 mg/dia",
+      "doseMinima": "200 mg/dia",
+      "classificacao": "Antirretroviral NNRTI",
+      "apresentacao": "Comprimidos de 100 mg e 200 mg",
+      "interacaoMedicamento": "Induz e inibe CYP3A4, CYP2C9 e CYP2C19; interage com inibidores de protease, rifampicina, varfarina",
+      "posologia": "200 mg VO 2x/dia com alimentos",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Pode ser dispersa em água",
+      "solucoesCompatíveis": "Água filtrada",
+      "contraindicacoes": "Hipersensibilidade, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas e interações medicamentosas",
+      "cuidadosFarmaceuticos": "Orientar ingestão com alimentos e aderência",
+      "cuidadosEnfermagem": "Observar sinais de hipersensibilidade e adesão terapêutica",
+      "fontesBibliograficas": "FDA, DHHS Guidelines, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Etravirine",
+      "suspension": "Continue up to surgery unless severe hepatic dysfunction",
+      "risk": "Rash, GI symptoms, CYP-mediated interactions (3A4, 2C9, 2C19)",
+      "reintroduction": "Continue post-op with liver and drug interaction monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etravirine",
+      "nomeComercial": "Intelence",
+      "mecanismoAcao": "NNRTI; binds reverse transcriptase and inhibits HIV replication",
+      "farmacocinetica": "Oral; enhanced with food; metabolized by CYP3A4, 2C9, 2C19",
+      "farmacodinamica": "Effective against NNRTI-resistant HIV strains",
+      "indicacoes": "HIV-1 infection with prior NNRTI failure",
+      "reacoesAdversas": "Rash, nausea, diarrhea, hepatotoxicity",
+      "riscoGravidez": "Category B – acceptable with monitoring",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral with food",
+      "doseMaxima": "400 mg/day",
+      "doseMinima": "200 mg/day",
+      "classificacao": "NNRTI antiretroviral",
+      "apresentacao": "Tablets 100 mg, 200 mg",
+      "interacaoMedicamento": "CYP3A4/2C9/2C19 inducer/inhibitor; avoid with rifampin, warfarin",
+      "posologia": "200 mg BID with food",
+      "armazenamento": "15–30°C",
+      "preparo": "Can be dispersed in water",
+      "solucoesCompatíveis": "Water only",
+      "contraindicacoes": "Hepatic failure, hypersensitivity",
+      "cuidadosMedicos": "Check LFTs and drug interactions",
+      "cuidadosFarmaceuticos": "Educate on food requirement and adherence",
+      "cuidadosEnfermagem": "Monitor rash and treatment compliance",
+      "fontesBibliograficas": "FDA, DHHS, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Etravirina",
+      "suspension": "Mantener salvo hepatopatía severa",
+      "risk": "Exantema, náuseas, diarrea, interacciones por CYP3A4, 2C9, 2C19",
+      "reintroduction": "Continuar con monitoreo hepático y de interacciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etravirina",
+      "nomeComercial": "Intelence",
+      "mecanismoAcao": "Inhibidor NNRTI de la transcriptasa reversa",
+      "farmacocinetica": "Oral, mejorado con alimentos, metabolizada por CYP",
+      "farmacodinamica": "Activo contra VIH resistente a otros NNRTI",
+      "indicacoes": "VIH-1 con fracaso a NNRTI",
+      "reacoesAdversas": "Rash, malestar GI, transaminasas elevadas",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral con alimentos",
+      "doseMaxima": "400 mg/día",
+      "doseMinima": "200 mg/día",
+      "classificacao": "Antirretroviral NNRTI",
+      "apresentacao": "Tabletas 100 mg, 200 mg",
+      "interacaoMedicamento": "Evitar con rifampicina, warfarina, anticonvulsivos",
+      "posologia": "200 mg 2x/día",
+      "armazenamento": "15–30 °C",
+      "preparo": "Puede disolverse en agua",
+      "solucoesCompatíveis": "Agua",
+      "contraindicacoes": "Insuficiencia hepática, alergia",
+      "cuidadosMedicos": "Monitoreo hepático y de interacciones",
+      "cuidadosFarmaceuticos": "Educar sobre toma con alimentos",
+      "cuidadosEnfermagem": "Observar adherencia y signos cutáneos",
+      "fontesBibliograficas": "EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "依曲韦林（Etravirine）",
+      "suspension": "术前无需停药，除非存在严重肝功能障碍",
+      "risk": "皮疹、胃肠反应、CYP3A4/2C9/2C19相关相互作用",
+      "reintroduction": "术后继续使用，密切监测肝功能与药物交互"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依曲韦林",
+      "nomeComercial": "Intelence",
+      "mecanismoAcao": "非核苷类逆转录酶抑制剂（NNRTI）",
+      "farmacocinetica": "口服，随餐吸收佳，经CYP3A4/2C9/2C19代谢",
+      "farmacodinamica": "对NNRTI耐药HIV有效",
+      "indicacoes": "耐药HIV-1感染",
+      "reacoesAdversas": "皮疹、恶心、转氨酶升高",
+      "riscoGravidez": "B类，可谨慎使用",
+      "riscoLactacao": "不推荐",
+      "administracao": "口服，随餐服用",
+      "doseMaxima": "400 mg/天",
+      "doseMinima": "200 mg/天",
+      "classificacao": "抗逆转录病毒药 NNRTI",
+      "apresentacao": "100 mg、200 mg片剂",
+      "interacaoMedicamento": "与CYP底物/诱导剂/抑制剂交互显著",
+      "posologia": "每日2次，每次200 mg，随餐",
+      "armazenamento": "15–30°C保存",
+      "preparo": "可溶于水",
+      "solucoesCompatíveis": "纯水",
+      "contraindicacoes": "严重肝损伤、过敏史",
+      "cuidadosMedicos": "监测肝酶、CYP相互作用",
+      "cuidadosFarmaceuticos": "说明服药需随餐，重视药物交互",
+      "cuidadosEnfermagem": "观察皮肤、依从性和肝功能",
+      "fontesBibliograficas": "FDA、WHO、UpToDate、Micromedex"
+    }
+  }
+}

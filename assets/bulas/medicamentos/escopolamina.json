@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Escopolamina",
+      "suspension": "Suspender 24 horas antes de cirurgia oftalmológica ou em pacientes com retenção urinária ou glaucoma de ângulo fechado",
+      "risk": "Pode causar confusão, taquicardia, retenção urinária, midríase e exacerbação do glaucoma",
+      "reintroduction": "Reintroduzir após estabilização clínica e recuperação do trânsito intestinal e função urinária"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Escopolamina (bromidrato ou butilbrometo)",
+      "nomeComercial": "Buscopan, Scopoderm, Tropinal",
+      "mecanismoAcao": "Antagonista muscarínico que bloqueia a ação da acetilcolina nos receptores colinérgicos parassimpáticos",
+      "farmacocinetica": "Início de ação: VO 30–60 min, IV 10 min; meia-vida ~8 h; excreção renal",
+      "farmacodinamica": "Antiespasmódico gastrointestinal, antiemético, inibidor de secreções e vagólitico",
+      "indicacoes": "Cólica gastrointestinal ou urinária, náusea por movimento, pré-anestesia para redução de secreções",
+      "reacoesAdversas": "Boca seca, visão turva, retenção urinária, confusão, taquicardia, constipação",
+      "riscoGravidez": "Categoria B – geralmente seguro",
+      "riscoLactacao": "Pode ser usado com cautela",
+      "administracao": "Oral, intravenosa, transdérmica, subcutânea",
+      "doseMaxima": "Butil: 80 mg/dia VO; Escopolamina transdérmica: 1 patch/72 h",
+      "doseMinima": "Butil: 10 mg/dose",
+      "classificacao": "Anticolinérgico antiespasmódico",
+      "apresentacao": "Comprimido, solução injetável, adesivo transdérmico",
+      "interacaoMedicamento": "Potencializa efeitos de outros anticolinérgicos e depressores centrais",
+      "posologia": "10–20 mg VO até 4x/dia; 1 patch SCOP transdérmico a cada 72 h",
+      "armazenamento": "Temperatura ambiente; proteger da luz (solução)",
+      "preparo": "Uso direto; patch aplicar atrás da orelha",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Glaucoma de ângulo fechado, miastenia grave, obstrução intestinal ou urinária, megacólon",
+      "cuidadosMedicos": "Avaliar status cognitivo e risco de retenção urinária ou glaucoma",
+      "cuidadosFarmaceuticos": "Orientar sobre uso correto do adesivo transdérmico e dose máxima",
+      "cuidadosEnfermagem": "Monitorar efeitos anticolinérgicos e sinais vitais",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Scopolamine",
+      "suspension": "Hold 24h prior to eye surgery or in patients with urinary retention or glaucoma",
+      "risk": "Delirium, dry mouth, urinary retention, blurry vision, tachycardia, increased IOP",
+      "reintroduction": "Restart after recovery of bowel and bladder function and stable vitals"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Scopolamine (hydrobromide or butylbromide)",
+      "nomeComercial": "Scopace, Transderm Scop, Buscopan (butylbromide)",
+      "mecanismoAcao": "Muscarinic receptor antagonist; blocks parasympathetic neurotransmission",
+      "farmacocinetica": "Onset: oral 30–60 min, IV 10 min, transdermal ~6 h; half-life ~8 h",
+      "farmacodinamica": "Antispasmodic, antiemetic, antisialagogue",
+      "indicacoes": "Motion sickness, GI spasms, preoperative secretion control",
+      "reacoesAdversas": "Dry mouth, blurred vision, drowsiness, confusion, urinary retention",
+      "riscoGravidez": "Category B – generally safe",
+      "riscoLactacao": "Use with caution",
+      "administracao": "Oral, IV, transdermal, SC",
+      "doseMaxima": "80 mg/day PO (butyl); 1 patch q72h (transdermal)",
+      "doseMinima": "10 mg/dose PO (butyl)",
+      "classificacao": "Anticholinergic antispasmodic",
+      "apresentacao": "Tablet, injection, transdermal patch",
+      "interacaoMedicamento": "Additive effects with other anticholinergics or CNS depressants",
+      "posologia": "10–20 mg PO up to 4x/day; 1 patch q72h behind ear",
+      "armazenamento": "Room temp; protect injectable from light",
+      "preparo": "Apply patch behind ear; do not cut",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Closed-angle glaucoma, myasthenia gravis, urinary/GI obstruction",
+      "cuidadosMedicos": "Monitor cognition, IOP, urinary retention risk",
+      "cuidadosFarmaceuticos": "Educate on transdermal usage and anticholinergic load",
+      "cuidadosEnfermagem": "Assess vitals, dryness, urinary symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Escopolamina",
+      "suspension": "Suspender 24 h antes de cirugía ocular o si hay glaucoma o retención urinaria",
+      "risk": "Confusión, visión borrosa, taquicardia, retención urinaria",
+      "reintroduction": "Reiniciar tras recuperación clínica y control de síntomas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Escopolamina",
+      "nomeComercial": "Buscapina, Scopoderm, Tropinal",
+      "mecanismoAcao": "Antagonista muscarínico del SNP",
+      "farmacocinetica": "VO 30–60 min; IV 10 min; parche: efecto a las 6 h; t½ ~8 h",
+      "farmacodinamica": "Antiespasmódico, antiemético, anticolinérgico",
+      "indicacoes": "Espasmos GI, náuseas, secreción preop",
+      "reacoesAdversas": "Sequedad, retención urinaria, taquicardia, delirio",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Precaución",
+      "administracao": "VO, IV, parche",
+      "doseMaxima": "80 mg/día oral; 1 parche c/72 h",
+      "doseMinima": "10 mg oral",
+      "classificacao": "Anticolinérgico",
+      "apresentacao": "Comprimido, ampolla, parche",
+      "interacaoMedicamento": "Potencia otros anticolinérgicos",
+      "posologia": "10–20 mg 3–4x/día; parche cada 72 h",
+      "armazenamento": "Ambiente; luz protegida",
+      "preparo": "Uso directo",
+      "solucoesCompatíveis": "SF, SG 5%",
+      "contraindicacoes": "Glaucoma, obstrucción urinaria, MG",
+      "cuidadosMedicos": "Revisión ocular, urológica",
+      "cuidadosFarmaceuticos": "Instruir uso del parche",
+      "cuidadosEnfermagem": "Control signos anticolinérgicos",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "东莨菪碱（Scopolamine）",
+      "suspension": "眼科手术或青光眼/尿潴留者术前24小时停用",
+      "risk": "中枢抑制、尿潴留、心动过速、散瞳诱发青光眼",
+      "reintroduction": "术后消化/泌尿功能恢复后可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "东莨菪碱",
+      "nomeComercial": "Scopoderm、Buscopan",
+      "mecanismoAcao": "M胆碱受体拮抗剂，抑制副交感神经活动",
+      "farmacocinetica": "口服30–60分钟起效，IV约10分钟；贴片起效6小时",
+      "farmacodinamica": "止吐、解痉、减少腺体分泌",
+      "indicacoes": "术前分泌控制、晕动病、胃肠绞痛",
+      "reacoesAdversas": "口干、视物模糊、便秘、谵妄、心动过速",
+      "riscoGravidez": "B类，较安全",
+      "riscoLactacao": "慎用",
+      "administracao": "口服、IV、贴片、皮下注射",
+      "doseMaxima": "口服80 mg/天；贴片1片/72 h",
+      "doseMinima": "10 mg/次",
+      "classificacao": "抗胆碱药",
+      "apresentacao": "片剂、注射液、透皮贴",
+      "interacaoMedicamento": "与其他抗胆碱药协同增强",
+      "posologia": "口服10–20 mg 3–4次/天；贴片每72小时更换",
+      "armazenamento": "常温保存，避光",
+      "preparo": "贴片贴耳后，不可切割",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "闭角型青光眼、尿潴留、重症肌无力",
+      "cuidadosMedicos": "关注眼压、认知变化、尿量",
+      "cuidadosFarmaceuticos": "指导正确使用贴片及联合用药风险",
+      "cuidadosEnfermagem": "观察神志、瞳孔、干燥反应",
+      "fontesBibliograficas": "FDA、UpToDate、Micromedex、中国药典"
+    }
+  }
+}

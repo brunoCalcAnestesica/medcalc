@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fenoterol",
+      "suspension": "Suspender 24 a 48 horas antes de procedimentos eletivos apenas se em uso sistêmico contínuo.",
+      "risk": "Risco de taquicardia, arritmias, hipocalemia, tremores e interação com anestésicos halogenados. Maior cautela em cardiopatas e gestantes.",
+      "reintroduction": "Pode ser mantido ou reintroduzido precocemente no pós-operatório para controle do broncoespasmo, com monitoramento cardíaco se uso parenteral."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenoterol hidrobrometo",
+      "nomeComercial": "Berotec, Fenotil",
+      "mecanismoAcao": "Agonista seletivo dos receptores β2-adrenérgicos, promovendo broncodilatação ao relaxar musculatura lisa das vias aéreas.",
+      "farmacocinetica": "Início de ação: 5 min (inalado); pico: 15–30 min; duração: até 6h; excreção urinária e fecal.",
+      "farmacodinamica": "Broncodilatador potente e rápido com efeito simpaticomimético. Dose-dependente pode ativar receptores β1.",
+      "indicacoes": "Broncoespasmo agudo, asma, DPOC, uso obstétrico (tocolítico em emergências).",
+      "reacoesAdversas": "Tremores, taquicardia, cefaleia, palpitações, hipocalemia, náusea, arritmias, ansiedade.",
+      "riscoGravidez": "Categoria C – uso com cautela, especialmente no 1º trimestre. Pode ser usado como tocolítico sob monitoramento.",
+      "riscoLactacao": "Compatível, mas monitorar lactente.",
+      "administracao": "Inalatória (spray ou nebulização), oral (raro), IV (tocolítico hospitalar).",
+      "doseMaxima": "Nebulização: 1,5 mg (3 mL de 0,5 mg/mL) até 4x/dia.",
+      "doseMinima": "Spray: 100 mcg (1 jato).",
+      "classificacao": "Agonista β2-adrenérgico de curta duração (SABA).",
+      "apresentacao": "Solução para nebulização (0,5 mg/mL), spray (100 mcg/jato), ampola IV (0,03% tocolítico).",
+      "interacaoMedicamento": "Beta-bloqueadores, diuréticos, digitálicos, anestésicos halogenados, corticóides.",
+      "posologia": "Inalado: 100–200 mcg a cada 4–6h. Nebulizado: 0,5–1 mL (0,25–0,5 mg) diluído em 3 mL SF 0,9%, 3–4x/dia.",
+      "armazenamento": "Temperatura ambiente, protegido da luz.",
+      "preparo": "Diluir para nebulização com SF 0,9%.",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%.",
+      "contraindicacoes": "Cardiopatia grave, hipertireoidismo, hipersensibilidade, taquiarritmias.",
+      "cuidadosMedicos": "Monitorar frequência cardíaca, eletrólitos (K+), ECG se uso IV.",
+      "cuidadosFarmaceuticos": "Revisar técnica de inalação e diluição correta.",
+      "cuidadosEnfermagem": "Observar tremores, FC, resposta ventilatória e sinais de toxicidade simpática.",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, GINA, fichas técnicas Berotec"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fenoterol",
+      "suspension": "Discontinue 24–48 hours before elective surgery only if receiving systemic or IV therapy.",
+      "risk": "Tachycardia, hypokalemia, tremors, and potential interactions with anesthetics. Increased risk in patients with cardiac disease or arrhythmia.",
+      "reintroduction": "Can be continued or restarted post-op with cardiac monitoring in IV use."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenoterol hydrobromide",
+      "nomeComercial": "Berotec (not available in US; similar to albuterol)",
+      "mecanismoAcao": "Short-acting β2 agonist that relaxes bronchial smooth muscle by stimulating β2-adrenergic receptors.",
+      "farmacocinetica": "Onset: ~5 min (inhaled); peak: 15–30 min; duration: up to 6h; renal and fecal excretion.",
+      "farmacodinamica": "Bronchodilation with some β1 spillover at high doses. Also used as tocolytic (IV use).",
+      "indicacoes": "Asthma, COPD, acute bronchospasm, off-label tocolytic in preterm labor.",
+      "reacoesAdversas": "Tremor, tachycardia, palpitations, headache, hypokalemia, nervousness, arrhythmias.",
+      "riscoGravidez": "Category C – use cautiously; tocolytic in selected cases.",
+      "riscoLactacao": "Compatible, monitor infant for tremor.",
+      "administracao": "Inhaled (spray/nebulizer), oral (rare), IV (tocolysis).",
+      "doseMaxima": "Nebulized: up to 1.5 mg (3 mL) q6h.",
+      "doseMinima": "MDI: 100 mcg/inhalation.",
+      "classificacao": "Short-acting β2 agonist (SABA).",
+      "apresentacao": "Nebulizer solution (0.5 mg/mL), MDI (100 mcg/actuation), IV ampoules (tocolytic use).",
+      "interacaoMedicamento": "Interacts with beta-blockers, diuretics, corticosteroids, digoxin, halogenated anesthetics.",
+      "posologia": "Inhaled: 100–200 mcg q4–6h; nebulized: 0.25–0.5 mg in 3 mL NS q6–8h.",
+      "armazenamento": "Room temperature, protect from light.",
+      "preparo": "Dilute for nebulization in 0.9% saline.",
+      "solucoesCompatíveis": "Normal saline 0.9%.",
+      "contraindicacoes": "Severe cardiac disease, hyperthyroidism, tachyarrhythmia, hypersensitivity.",
+      "cuidadosMedicos": "Monitor HR, ECG, potassium levels.",
+      "cuidadosFarmaceuticos": "Ensure correct nebulization technique and dilution.",
+      "cuidadosEnfermagem": "Observe for tremor, HR, ventilation pattern, and signs of overstimulation.",
+      "fontesBibliograficas": "GINA, GOLD, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fenoterol",
+      "suspension": "Suspender 24–48 horas antes de cirugía si se usa vía sistémica.",
+      "risk": "Riesgo de taquicardia, hipopotasemia, arritmias y efectos simpaticomiméticos.",
+      "reintroduction": "Se puede reintroducir en el postoperatorio con monitoreo cardíaco si se usa IV."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenoterol hidrobromuro",
+      "nomeComercial": "Berotec, Fenotil",
+      "mecanismoAcao": "Agonista selectivo β2 que relaja la musculatura bronquial y produce broncodilatación.",
+      "farmacocinetica": "Inicio ~5 min; pico 15–30 min; duración hasta 6h; excreción renal/fecal.",
+      "farmacodinamica": "Broncodilatador potente de acción rápida, también útil como tocolítico.",
+      "indicacoes": "Asma, EPOC, broncoespasmo agudo, amenaza de parto prematuro.",
+      "reacoesAdversas": "Temblor, taquicardia, cefalea, nerviosismo, arritmias, hipopotasemia.",
+      "riscoGravidez": "Categoría C – uso obstétrico bajo monitoreo.",
+      "riscoLactacao": "Compatible con lactancia.",
+      "administracao": "Inhalado, oral (raro), IV hospitalario.",
+      "doseMaxima": "Nebulización: 1,5 mg (3 mL) hasta 4 veces/día.",
+      "doseMinima": "Spray: 100 mcg.",
+      "classificacao": "Agonista β2 de acción corta (SABA).",
+      "apresentacao": "Solución nebulizable, spray, ampollas IV.",
+      "interacaoMedicamento": "Beta-bloqueadores, digitálicos, diuréticos, corticoides.",
+      "posologia": "Spray: 100–200 mcg; nebulización: 0,5–1 mL en SF cada 6h.",
+      "armazenamento": "Ambiente, protegido de luz.",
+      "preparo": "Diluir en 3 mL de SF 0,9% para nebulización.",
+      "solucoesCompatíveis": "ClNa 0,9%.",
+      "contraindicacoes": "Cardiopatía severa, hipertiroidismo, taquiarritmia.",
+      "cuidadosMedicos": "Monitorizar FC, ECG, potasio sérico.",
+      "cuidadosFarmaceuticos": "Técnica correcta de inhalación y dilución.",
+      "cuidadosEnfermagem": "Observar temblores, patrón ventilatorio y taquicardia.",
+      "fontesBibliograficas": "Micromedex, GINA, fichas técnicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "非诺特罗（Fenoterol）",
+      "suspension": "术前24–48小时停用（若使用系统性给药）。",
+      "risk": "可能引起心悸、低钾、震颤和心律失常；与麻醉剂有交互作用。",
+      "reintroduction": "术后可在监测下重新使用，特别是静脉注射者。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "非诺特罗",
+      "nomeComercial": "Berotec",
+      "mecanismoAcao": "选择性β2肾上腺素能受体激动剂，放松支气管平滑肌。",
+      "farmacocinetica": "起效5分钟；作用持续6小时；经肾/粪排泄。",
+      "farmacodinamica": "强效支气管扩张剂，快速起效；大剂量可激动β1受体。",
+      "indicacoes": "哮喘、慢阻肺急性期、支气管痉挛、早产抑制。",
+      "reacoesAdversas": "震颤、心悸、头痛、焦虑、低钾、心律不齐。",
+      "riscoGravidez": "C类，可作为急救宫缩抑制药使用。",
+      "riscoLactacao": "哺乳期慎用，注意婴儿反应。",
+      "administracao": "吸入（气雾剂/雾化）、口服、静脉。",
+      "doseMaxima": "雾化：1.5 mg（3 mL）每天最多4次。",
+      "doseMinima": "喷雾：100微克/次。",
+      "classificacao": "短效β2激动剂（SABA）。",
+      "apresentacao": "雾化液（0.5 mg/mL）、吸入喷雾剂、注射液。",
+      "interacaoMedicamento": "β阻滞剂、利尿剂、强心苷、糖皮质激素、麻醉剂。",
+      "posologia": "吸入100–200 mcg；雾化0.25–0.5 mg 加SF 3 mL。",
+      "armazenamento": "室温，避光保存。",
+      "preparo": "雾化需稀释于生理盐水。",
+      "solucoesCompatíveis": "0.9%氯化钠。",
+      "contraindicacoes": "严重心脏病、甲亢、快速性心律失常。",
+      "cuidadosMedicos": "监测心率、ECG、电解质（钾）。",
+      "cuidadosFarmaceuticos": "确保吸入方法正确、浓度和稀释准确。",
+      "cuidadosEnfermagem": "观察震颤、心跳快、呼吸改善与副作用。",
+      "fontesBibliograficas": "中国药典、Micromedex、GINA"
+    }
+  }
+}

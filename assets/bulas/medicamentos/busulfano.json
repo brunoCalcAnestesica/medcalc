@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Busulfano",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas não hematológicas, exceto se parte de regime de condicionamento para transplante",
+      "risk": "Mielossupressão severa, convulsões, toxicidade hepática (VOD), toxicidade pulmonar, mucosite grave",
+      "reintroduction": "Reintroduzir somente em ambiente controlado (ex: transplante de medula), após resolução de toxicidades agudas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Busulfano",
+      "nomeComercial": "Myleran, Busilvex",
+      "mecanismoAcao": "Agente alquilante que forma ligações cruzadas entre cadeias de DNA, inibindo a replicação celular",
+      "farmacocinetica": "VO ou IV; T½ ~2,5h (VO), ~3h (IV); metabolizado no fígado (glutationa-S-transferase); excreção renal",
+      "farmacodinamica": "Citotóxico de ação bifásica, com efeito mieloablativo e imunossupressor potente",
+      "indicacoes": "Transplante de medula óssea (regime de condicionamento), leucemia mieloide crônica, síndromes mielodisplásicas",
+      "reacoesAdversas": "Pancitopenia, VOD hepática, convulsões, febre, mucosite, fibrose pulmonar, náuseas",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado; excreção no leite é desconhecida",
+      "administracao": "IV (infusão lenta em 2h) ou VO (dose fracionada 4x/dia)",
+      "doseMaxima": "3,2mg/kg/dia IV por 4 dias ou 1mg/kg VO 4x/dia por 4 dias (ajustada por protocolo)",
+      "doseMinima": "0,8mg/kg/dose",
+      "classificacao": "Agente alquilante bifuncional (mostarda de butano)",
+      "apresentacao": "Busilvex: ampolas 60mg/10ml (IV); Myleran: comprimidos 2mg (VO)",
+      "interacaoMedicamento": "Fármaco com estreita margem terapêutica; interação com antifúngicos (ex: itraconazol), metronidazol, fenitoína",
+      "posologia": "Condicionamento: 3,2mg/kg/dia IV (dividido em 2 doses) por 4 dias",
+      "armazenamento": "IV: refrigerado 2–8°C; VO: temperatura ambiente, proteger da umidade",
+      "preparo": "IV: diluir em SG 5% ou SF 0,9% em capela; proteger da luz",
+      "solucoesCompatíveis": "Glicose 5%, Cloreto de sódio 0,9%",
+      "contraindicacoes": "Hipersensibilidade, gravidez, mielossupressão pré-existente",
+      "cuidadosMedicos": "Monitorar função hepática, hemograma, eletroencefalograma (risco de convulsão)",
+      "cuidadosFarmaceuticos": "Garantir dose exata conforme superfície corporal, estabilidade da solução e controle da cadeia de frio",
+      "cuidadosEnfermagem": "Observar mucosite, sangramentos, febre, sinais de convulsão ou desconforto respiratório",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, UpToDate, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Busulfan",
+      "suspension": "Hold 7 days prior to elective surgery outside of stem cell transplant setting",
+      "risk": "Profound myelosuppression, seizures, hepatotoxicity (VOD), pulmonary toxicity, mucositis",
+      "reintroduction": "Reintroduce only under conditioning protocols after resolution of toxicity"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Busulfan",
+      "nomeComercial": "Busulfex (IV), Myleran (oral)",
+      "mecanismoAcao": "Alkylating agent that crosslinks DNA strands, inhibiting replication and leading to apoptosis",
+      "farmacocinetica": "IV or PO; T½ ~2.5–3h; hepatic metabolism via GST; renal excretion",
+      "farmacodinamica": "Potent cytotoxic and immunosuppressive alkylator used in myeloablation",
+      "indicacoes": "Stem cell transplantation conditioning, chronic myeloid leukemia",
+      "reacoesAdversas": "Pancytopenia, VOD, seizures, mucositis, alopecia, pulmonary fibrosis",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Avoid breastfeeding",
+      "administracao": "IV infusion over 2h; PO every 6h × 4 days",
+      "doseMaxima": "3.2mg/kg/day IV; 1mg/kg PO Q6h (adjusted)",
+      "doseMinima": "0.8mg/kg/dose",
+      "classificacao": "Bifunctional DNA alkylating agent",
+      "apresentacao": "60mg/10ml (IV), 2mg tablets (oral)",
+      "interacaoMedicamento": "Increased levels with azoles, metronidazole; reduced by phenytoin",
+      "posologia": "3.2mg/kg/day IV × 4 days or 1mg/kg PO Q6h × 4 days",
+      "armazenamento": "IV: refrigerate; oral: room temperature, dry",
+      "preparo": "Dilute in D5W or NS; handle under cytotoxic precautions",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Pregnancy, allergy, existing myelosuppression",
+      "cuidadosMedicos": "Monitor LFTs, CBC, seizure prophylaxis, respiratory status",
+      "cuidadosFarmaceuticos": "Ensure accurate dosing, light protection, cold chain",
+      "cuidadosEnfermagem": "Check mucosa, CNS signs, bleeding, fever",
+      "fontesBibliograficas": "FDA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Busulfano",
+      "suspension": "Suspender 7 días antes de cirugía fuera de trasplante",
+      "risk": "Supresión medular severa, convulsiones, toxicidad hepática (VOD), mucositis, toxicidad pulmonar",
+      "reintroduction": "Reintroducir sólo en trasplante, tras resolución de toxicidades"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Busulfano",
+      "nomeComercial": "Busilvex, Myleran",
+      "mecanismoAcao": "Agente alquilante que entrecruza ADN, inhibiendo su replicación",
+      "farmacocinetica": "IV/VO; T½ 2.5–3h; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Citotóxico mieloablativo potente",
+      "indicacoes": "Condicionamiento de trasplante, LMC",
+      "reacoesAdversas": "Pancitopenia, convulsiones, VOD, estomatitis, neumonitis",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "IV 2h; VO cada 6h × 4 días",
+      "doseMaxima": "3.2mg/kg/día IV o 1mg/kg VO Q6h",
+      "doseMinima": "0.8mg/kg",
+      "classificacao": "Agente alquilante bifuncional",
+      "apresentacao": "60mg/10ml, tabletas 2mg",
+      "interacaoMedicamento": "Itraconazol, metronidazol ↑ niveles; fenitoína ↓ niveles",
+      "posologia": "3.2mg/kg/día IV × 4 días",
+      "armazenamento": "IV refrigerado; VO ambiente seco",
+      "preparo": "Diluir en glucosa o SF; luz protegida",
+      "solucoesCompatíveis": "Glucosa 5%, ClNa 0,9%",
+      "contraindicacoes": "Embarazo, mielosupresión grave",
+      "cuidadosMedicos": "LFT, anticonvulsivantes, examen neurológico",
+      "cuidadosFarmaceuticos": "Cadena de frío, cálculo preciso, guía de manipulación",
+      "cuidadosEnfermagem": "Observar mucosa, fiebre, sangrado, signos neurológicos",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "白消安",
+      "suspension": "术前7天停药，除非用于造血干细胞移植预处理",
+      "risk": "骨髓抑制、癫痫、肝静脉闭塞病、肺纤维化、口腔炎",
+      "reintroduction": "术后毒性缓解后在移植方案中重新启动"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "白消安",
+      "nomeComercial": "Busilvex、Myleran",
+      "mecanismoAcao": "烷化剂，交联DNA链，阻止细胞复制",
+      "farmacocinetica": "IV/口服；半衰期2.5–3小时；肝代谢；肾排泄",
+      "farmacodinamica": "强烈细胞毒性和免疫抑制活性",
+      "indicacoes": "干细胞移植、慢性髓性白血病",
+      "reacoesAdversas": "全血细胞减少、癫痫、VOD、肺毒性、口腔黏膜炎",
+      "riscoGravidez": "D类 – 妊娠禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "IV 2小时；口服每6小时1次 ×4天",
+      "doseMaxima": "3.2mg/kg/d IV；1mg/kg PO Q6h",
+      "doseMinima": "0.8mg/kg",
+      "classificacao": "双功能烷化剂",
+      "apresentacao": "注射液60mg/10ml；片剂2mg",
+      "interacaoMedicamento": "伊曲康唑、甲硝唑↑；苯妥英↓",
+      "posologia": "IV：3.2mg/kg/d，连用4天",
+      "armazenamento": "IV冷藏；口服避光干燥",
+      "preparo": "在5%葡萄糖或0.9%氯化钠中稀释",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "妊娠、严重骨髓抑制、肝功能异常",
+      "cuidadosMedicos": "监测LFT、EEG、CBC、肺功能",
+      "cuidadosFarmaceuticos": "计算BSA、稳定性核查、细胞毒药物管理",
+      "cuidadosEnfermagem": "口腔炎、神经反应、感染、出血监控",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、NCCN"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Articaína",
+      "suspension": "Não é necessário suspender se uso local em anestesia odontológica",
+      "risk": "Potencial toxicidade neurológica e cardiovascular em doses elevadas; atenção se uso repetido ou intravenoso acidental",
+      "reintroduction": "Pode ser utilizada novamente com monitoramento padrão; evitar reinjeção em áreas com inflamação intensa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Articaína",
+      "nomeComercial": "Ubistesin, Septanest, DFL Articaína",
+      "mecanismoAcao": "Bloqueia canais de sódio na membrana neuronal, impedindo a condução do impulso nervoso",
+      "farmacocinetica": "Início de ação rápido (1–3 minutos), meia-vida de 20–30 minutos, metabolização hepática e plasmática",
+      "farmacodinamica": "Anestesia local e regional com boa difusão óssea; menos cardiotoxicidade que bupivacaína",
+      "indicacoes": "Anestesia local em procedimentos odontológicos ou pequenas cirurgias",
+      "reacoesAdversas": "Parestesia, cefaleia, dor local, taquicardia, tontura, reações alérgicas raras",
+      "riscoGravidez": "Categoria C – usar com cautela apenas se necessário",
+      "riscoLactacao": "Pouca excreção no leite; geralmente segura",
+      "administracao": "Infiltração local ou bloqueio nervoso",
+      "doseMaxima": "7 mg/kg (com epinefrina), até 500 mg/dose",
+      "doseMinima": "Dose variável conforme área e tipo de procedimento",
+      "classificacao": "Anestésico local – amida",
+      "apresentacao": "Soluções injetáveis 4% com ou sem epinefrina 1:100.000",
+      "interacaoMedicamento": "Interage com antidepressivos tricíclicos, inibidores da MAO, betabloqueadores",
+      "posologia": "Volume ajustado conforme tipo de bloqueio e duração esperada",
+      "armazenamento": "Temperatura ambiente, longe da luz",
+      "preparo": "Pronto para uso; não diluir",
+      "solucoesCompatíveis": "Não aplicar com outras soluções IV",
+      "contraindicacoes": "Alergia a anestésicos do tipo amida, hipersensibilidade a sulfitos (se com vasoconstrictor)",
+      "cuidadosMedicos": "Evitar injeção intravascular, aspirar antes de infiltrar, monitorar sinais vitais",
+      "cuidadosFarmaceuticos": "Checar validade e integridade das ampolas/cartuchos",
+      "cuidadosEnfermagem": "Observar resposta anestésica, monitorar sinais de toxicidade",
+      "fontesBibliograficas": "SBAn, FDA, EMA, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Articaine",
+      "suspension": "No suspension required for local dental use",
+      "risk": "Potential neurologic and cardiac toxicity if overdosed or injected intravascularly",
+      "reintroduction": "May be reused with standard precautions; avoid in inflamed sites"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Articaine",
+      "nomeComercial": "Septocaine, Zorcaine, Orabloc",
+      "mecanismoAcao": "Blocks sodium channels in neuronal membranes, preventing nerve impulse conduction",
+      "farmacocinetica": "Onset in 1–3 min, half-life 20–30 min, hepatic and plasma metabolism",
+      "farmacodinamica": "Produces rapid-onset local/regional anesthesia with excellent bone penetration",
+      "indicacoes": "Local anesthesia for dental and minor surgical procedures",
+      "reacoesAdversas": "Paresthesia, headache, site pain, dizziness, tachycardia, rare allergic reactions",
+      "riscoGravidez": "Category C – use only if clearly needed",
+      "riscoLactacao": "Minimal excretion in milk; generally safe",
+      "administracao": "Local infiltration or nerve block",
+      "doseMaxima": "7 mg/kg with epinephrine, up to 500 mg",
+      "doseMinima": "Procedure-specific dosing",
+      "classificacao": "Amide-type local anesthetic",
+      "apresentacao": "4% injectable solution with or without epinephrine 1:100,000",
+      "interacaoMedicamento": "Interacts with TCAs, MAOIs, beta-blockers",
+      "posologia": "Adjust volume based on procedure and duration required",
+      "armazenamento": "Store at room temperature, away from light",
+      "preparo": "Ready to use; do not dilute",
+      "solucoesCompatíveis": "Not for IV mixing",
+      "contraindicacoes": "Allergy to amide anesthetics or sulfites (in vasoconstrictor-containing forms)",
+      "cuidadosMedicos": "Avoid IV injection; aspirate before injecting, monitor vitals",
+      "cuidadosFarmaceuticos": "Check ampoule integrity and expiration",
+      "cuidadosEnfermagem": "Monitor anesthetic effect and signs of toxicity",
+      "fontesBibliograficas": "FDA, AHA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Articaína",
+      "suspension": "No requiere suspensión en uso odontológico local",
+      "risk": "Riesgo de toxicidad neurológica o cardiovascular si se usa en exceso o IV accidental",
+      "reintroduction": "Reutilizable con precauciones estándar; evitar zonas inflamadas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Articaína",
+      "nomeComercial": "Septanest, Artinibsa, Orabloc",
+      "mecanismoAcao": "Bloquea canales de sodio neuronales, impidiendo la conducción nerviosa",
+      "farmacocinetica": "Inicio 1–3 min, vida media 20–30 min, metabolismo hepático y plasmático",
+      "farmacodinamica": "Anestesia local rápida y eficaz con buena difusión ósea",
+      "indicacoes": "Anestesia local para procedimientos dentales y quirúrgicos menores",
+      "reacoesAdversas": "Parestesias, dolor local, cefalea, taquicardia, mareo, reacciones alérgicas raras",
+      "riscoGravidez": "Categoría C – usar solo si es necesario",
+      "riscoLactacao": "Segura en general; baja excreción en leche",
+      "administracao": "Infiltración local o bloqueo nervioso",
+      "doseMaxima": "7 mg/kg con epinefrina; hasta 500 mg",
+      "doseMinima": "Dependiente del procedimiento",
+      "classificacao": "Anestésico local tipo amida",
+      "apresentacao": "Solución inyectable al 4% con/sin epinefrina 1:100.000",
+      "interacaoMedicamento": "Interacciones con antidepresivos tricíclicos, IMAO, betabloqueantes",
+      "posologia": "Volumen ajustado al tipo y duración del procedimiento",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "Listo para usar",
+      "solucoesCompatíveis": "No aplicar con soluciones IV",
+      "contraindicacoes": "Alergia a anestésicos tipo amida, hipersensibilidad a sulfitos",
+      "cuidadosMedicos": "Evitar inyección IV; aspirar antes; monitorear signos vitales",
+      "cuidadosFarmaceuticos": "Verificar integridad y caducidad de los cartuchos",
+      "cuidadosEnfermagem": "Observar efecto anestésico y signos de toxicidad",
+      "fontesBibliograficas": "AEMPS, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿替卡因",
+      "suspension": "局部牙科应用无需停药",
+      "risk": "高剂量或静脉误注可致神经和心脏毒性",
+      "reintroduction": "可在常规监测下再次使用；避免用于重度炎症区域"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿替卡因",
+      "nomeComercial": "Septocaine, Orabloc",
+      "mecanismoAcao": "阻断神经钠通道，抑制神经冲动传导",
+      "farmacocinetica": "起效快（1–3分钟），半衰期20–30分钟，肝脏和血浆代谢",
+      "farmacodinamica": "局部麻醉迅速，骨渗透性好",
+      "indicacoes": "牙科及小型外科局部麻醉",
+      "reacoesAdversas": "感觉异常、局部疼痛、头痛、头晕、心动过速、罕见过敏",
+      "riscoGravidez": "C类 – 仅在必要时使用",
+      "riscoLactacao": "极少分泌至乳汁，通常安全",
+      "administracao": "局部浸润或神经阻滞注射",
+      "doseMaxima": "7 mg/kg（含肾上腺素），最大500 mg",
+      "doseMinima": "依手术类型调整",
+      "classificacao": "酰胺类局部麻醉药",
+      "apresentacao": "4%注射液，含或不含1:100,000肾上腺素",
+      "interacaoMedicamento": "与三环类抗抑郁药、MAOI、β受体阻滞剂相互作用",
+      "posologia": "根据手术和时长调整注射量",
+      "armazenamento": "室温避光保存",
+      "preparo": "即用型，无需稀释",
+      "solucoesCompatíveis": "不应用于静脉液体中",
+      "contraindicacoes": "对酰胺类麻醉药或亚硫酸盐过敏",
+      "cuidadosMedicos": "避免静脉注射，注射前先回抽，监测生命体征",
+      "cuidadosFarmaceuticos": "检查安瓿或筒状注射器是否完好",
+      "cuidadosEnfermagem": "观察麻醉效果与中毒迹象",
+      "fontesBibliograficas": "中国药典, FDA, UpToDate, Micromedex"
+    }
+  }
+}

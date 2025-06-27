@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Leucina",
+      "suspension": "Não requer suspensão pré-operatória",
+      "risk": "Baixo risco; pode alterar metabolismo nitrogenado em disfunção hepática",
+      "reintroduction": "Reintroduzir conforme dieta e tolerância metabólica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Leucina",
+      "nomeComercial": "L-Leucina, LeuPro, Anaboleu, LeuTech",
+      "mecanismoAcao": "Aminoácido essencial de cadeia ramificada (BCAA), estimula síntese proteica via ativação da mTOR; promove recuperação muscular e anabolismo.",
+      "farmacocinetica": "Absorvida no intestino delgado; metabolizada preferencialmente no músculo esquelético; excreção renal de metabólitos.",
+      "farmacodinamica": "Estimula síntese de proteínas musculares, reduz degradação proteica; influencia secreção de insulina e regeneração celular.",
+      "indicacoes": "Sarcopenia, recuperação pós-exercício, suporte nutricional em doenças crônicas, queimaduras e trauma.",
+      "reacoesAdversas": "Geralmente bem tolerada; em altas doses: hipoglicemia leve, desconforto gastrintestinal, fadiga.",
+      "riscoGravidez": "Categoria B (uso com segurança em doses dietéticas)",
+      "riscoLactacao": "Provavelmente segura; excretada em pequena quantidade no leite",
+      "administracao": "Via oral; cápsulas, tabletes ou pó",
+      "doseMaxima": "10g/dia em adultos divididos em 2 a 3 doses",
+      "doseMinima": "1g/dia para suporte basal",
+      "classificacao": "Aminoácido essencial / BCAA / nutracêutico",
+      "apresentacao": "Pó isolado, cápsulas, tabletes, blends com BCAA",
+      "interacaoMedicamento": "Potencial de alterar eficácia de antidiabéticos; cuidado com insulinoterapia",
+      "posologia": "2 a 5g por dose, antes ou após exercício ou refeições",
+      "armazenamento": "Temperatura ambiente (15–30°C), em frascos bem fechados",
+      "preparo": "Misturar em líquidos até completa dissolução se em pó",
+      "solucoesCompatíveis": "Água, bebidas esportivas, suco natural",
+      "contraindicacoes": "Erro inato do metabolismo dos BCAA (ex: doença da urina de xarope de bordo)",
+      "cuidadosMedicos": "Monitorar glicemia e função hepática em pacientes vulneráveis",
+      "cuidadosFarmaceuticos": "Orientar sobre tempo de administração e ingestão hídrica",
+      "cuidadosEnfermagem": "Observar distensão abdominal e sinais de intolerância",
+      "fontesBibliograficas": "PubChem CID: 6106, Micromedex, NIH, FDA DSLabel, EFSA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Leucine",
+      "suspension": "No need for preoperative suspension",
+      "risk": "Low risk; may affect nitrogen metabolism in hepatic dysfunction",
+      "reintroduction": "Reintroduce based on diet and metabolic tolerance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Leucine",
+      "nomeComercial": "L-Leucine, LeuPro, Anaboleu, LeuTech",
+      "mecanismoAcao": "Essential branched-chain amino acid (BCAA); activates mTOR to stimulate muscle protein synthesis; promotes recovery and anabolism.",
+      "farmacocinetica": "Absorbed in small intestine; mainly metabolized in skeletal muscle; renal excretion of metabolites.",
+      "farmacodinamica": "Stimulates protein synthesis, reduces muscle breakdown; modulates insulin secretion and cellular regeneration.",
+      "indicacoes": "Sarcopenia, post-exercise recovery, nutritional support in chronic illness, trauma, burns.",
+      "reacoesAdversas": "Well tolerated; high doses may cause mild hypoglycemia, GI upset, fatigue.",
+      "riscoGravidez": "Category B (safe in dietary doses)",
+      "riscoLactacao": "Likely safe; excreted in small amounts in breast milk",
+      "administracao": "Oral route; capsules, tablets, powder",
+      "doseMaxima": "10g/day in adults, divided doses",
+      "doseMinima": "1g/day for basal support",
+      "classificacao": "Essential amino acid / BCAA / nutraceutical",
+      "apresentacao": "Isolated powder, capsules, tablets, BCAA blends",
+      "interacaoMedicamento": "May alter effects of antidiabetics; caution with insulin",
+      "posologia": "2–5g per dose, before or after exercise or meals",
+      "armazenamento": "Store at 15–30°C in tightly closed containers",
+      "preparo": "Dissolve powder in liquids before intake",
+      "solucoesCompatíveis": "Water, sports drinks, natural juice",
+      "contraindicacoes": "Maple syrup urine disease and other BCAA metabolism disorders",
+      "cuidadosMedicos": "Monitor glucose and liver function in at-risk patients",
+      "cuidadosFarmaceuticos": "Counsel on timing and hydration",
+      "cuidadosEnfermagem": "Observe for abdominal discomfort or intolerance",
+      "fontesBibliograficas": "PubChem CID: 6106, Micromedex, NIH, FDA DSLabel, EFSA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Leucina",
+      "suspension": "No requiere suspensión preoperatoria",
+      "risk": "Riesgo bajo; puede alterar metabolismo del nitrógeno en hepatopatías",
+      "reintroduction": "Reintroducir según tolerancia y dieta"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Leucina",
+      "nomeComercial": "L-Leucina, LeuPro, Anaboleu, LeuTech",
+      "mecanismoAcao": "Aminoácido esencial de cadena ramificada (BCAA); activa mTOR para estimular síntesis proteica; promueve anabolismo y recuperación.",
+      "farmacocinetica": "Absorción intestinal; metabolizada principalmente en músculo esquelético; excreción renal.",
+      "farmacodinamica": "Estimula síntesis proteica, reduce catabolismo muscular; modula insulina y regeneración celular.",
+      "indicacoes": "Sarcopenia, recuperación post-ejercicio, soporte nutricional en enfermedades crónicas y trauma.",
+      "reacoesAdversas": "Bien tolerada; en altas dosis: hipoglucemia leve, molestias GI, fatiga.",
+      "riscoGravidez": "Categoría B (segura en dosis dietéticas)",
+      "riscoLactacao": "Probablemente segura; excreción mínima en leche",
+      "administracao": "Vía oral; cápsulas, tabletas, polvo",
+      "doseMaxima": "10g/día en adultos divididos",
+      "doseMinima": "1g/día como soporte nutricional básico",
+      "classificacao": "Aminoácido esencial / BCAA / nutracéutico",
+      "apresentacao": "Polvo, cápsulas, tabletas, combinaciones BCAA",
+      "interacaoMedicamento": "Posible interferencia con antidiabéticos; precaución con insulina",
+      "posologia": "2 a 5g antes o después del ejercicio o comidas",
+      "armazenamento": "15–30°C, en envases bien cerrados",
+      "preparo": "Disolver en líquido antes de ingerir",
+      "solucoesCompatíveis": "Agua, jugos, bebidas deportivas",
+      "contraindicacoes": "Errores del metabolismo de BCAA (ej: enfermedad de jarabe de arce)",
+      "cuidadosMedicos": "Monitorear glucemia y función hepática",
+      "cuidadosFarmaceuticos": "Asesorar sobre hidratación y momento de consumo",
+      "cuidadosEnfermagem": "Observar intolerancia gastrointestinal o distensión",
+      "fontesBibliograficas": "PubChem CID: 6106, Micromedex, NIH, FDA, EFSA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "亮氨酸",
+      "suspension": "术前无需停药",
+      "risk": "风险低；肝功能异常者可影响氮代谢",
+      "reintroduction": "术后可根据营养需求重新补充"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "亮氨酸",
+      "nomeComercial": "L-亮氨酸, LeuPro, Anaboleu, LeuTech",
+      "mecanismoAcao": "支链氨基酸（BCAA）之一；通过激活mTOR促进蛋白质合成；有助于肌肉修复和增长。",
+      "farmacocinetica": "肠道吸收；在骨骼肌中代谢；代谢物经肾排出。",
+      "farmacodinamica": "促进肌肉蛋白合成，减少蛋白降解；调节胰岛素和细胞修复。",
+      "indicacoes": "肌肉减少症、运动后恢复、慢性病或创伤的营养支持。",
+      "reacoesAdversas": "通常耐受良好；大剂量可能引起轻度低血糖、胃肠不适、疲劳。",
+      "riscoGravidez": "B类（膳食剂量下安全）",
+      "riscoLactacao": "可能安全，少量分泌于乳汁中",
+      "administracao": "口服；胶囊、片剂或粉末",
+      "doseMaxima": "每日不超过10克，分2~3次服用",
+      "doseMinima": "每日1克为基础营养支持",
+      "classificacao": "必需氨基酸 / 支链氨基酸 / 营养补充剂",
+      "apresentacao": "粉末、胶囊、片剂、BCAA组合",
+      "interacaoMedicamento": "可能影响降糖药效果；使用胰岛素者慎用",
+      "posologia": "每次2~5克，运动前后或餐后服用",
+      "armazenamento": "15–30°C，密封避光保存",
+      "preparo": "粉末需完全溶解于液体中",
+      "solucoesCompatíveis": "水、运动饮料、果汁",
+      "contraindicacoes": "支链氨基酸代谢障碍（如枫糖尿症）",
+      "cuidadosMedicos": "监测血糖与肝功能（尤其慢性患者）",
+      "cuidadosFarmaceuticos": "指导饮水量与使用时机",
+      "cuidadosEnfermagem": "观察胃肠反应与耐受性",
+      "fontesBibliograficas": "PubChem, Micromedex, NIH, FDA, EFSA"
+    }
+  }
+}

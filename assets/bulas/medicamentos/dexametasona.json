@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Dexametasona",
+      "suspension": "Manter até o dia da cirurgia em esquemas agudos ou de manutenção",
+      "risk": "Supressão adrenal, hiperglicemia, risco de infecção e alterações na resposta inflamatória",
+      "reintroduction": "Reintroduzir no pós-operatório imediato se uso crônico, com dose de estresse se necessário"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dexametasona",
+      "nomeComercial": "Decadron, Dexason, Maxidex",
+      "mecanismoAcao": "Agonista dos receptores glicocorticoides, com potente ação anti-inflamatória e imunossupressora",
+      "farmacocinetica": "Alta biodisponibilidade oral e parenteral, meia-vida biológica de 36–72h, metabolismo hepático",
+      "farmacodinamica": "Inibe citocinas inflamatórias, prostaglandinas e leucotrienos",
+      "indicacoes": "Processos inflamatórios agudos, edema cerebral, choque séptico, náuseas/vômitos induzidos por quimioterapia",
+      "reacoesAdversas": "Hiperglicemia, infecção, retenção de sódio, miopatia, alterações psiquiátricas",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite em pequenas quantidades; uso com cautela",
+      "administracao": "Oral, intravenosa, intramuscular, oftálmica",
+      "doseMaxima": "40mg/dia (uso sistêmico)",
+      "doseMinima": "0,5mg/dia",
+      "classificacao": "Glicocorticoide sintético de ação longa",
+      "apresentacao": "Comprimidos 0,5mg, 4mg; ampola 4mg/mL; colírio",
+      "interacaoMedicamento": "Interage com AINEs, antidiabéticos, anticoagulantes, anticonvulsivantes",
+      "posologia": "Dose individualizada conforme indicação clínica",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Solução IV pode ser diluída em SF 0,9% ou SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Infecções sistêmicas sem tratamento, hipersensibilidade conhecida",
+      "cuidadosMedicos": "Avaliar necessidade de dose de estresse; monitorar glicemia e sinais infecciosos",
+      "cuidadosFarmaceuticos": "Orientar para uso contínuo e não interromper abruptamente",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, edema, glicemia capilar",
+      "fontesBibliograficas": "ANVISA, FDA, SBH, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Dexamethasone",
+      "suspension": "Continue until surgery in acute or chronic regimens",
+      "risk": "Adrenal suppression, hyperglycemia, infection risk, altered inflammatory response",
+      "reintroduction": "Restart immediately post-op if on chronic use, with stress dose if needed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dexamethasone",
+      "nomeComercial": "Decadron, DexPak, Maxidex",
+      "mecanismoAcao": "Glucocorticoid receptor agonist with potent anti-inflammatory and immunosuppressive effects",
+      "farmacocinetica": "High oral/parenteral bioavailability, 36–72h half-life, hepatic metabolism",
+      "farmacodinamica": "Inhibits cytokines, prostaglandins, and leukotrienes",
+      "indicacoes": "Acute inflammation, cerebral edema, septic shock, chemotherapy-induced nausea",
+      "reacoesAdversas": "Hyperglycemia, infection, sodium retention, myopathy, mood changes",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; caution advised",
+      "administracao": "Oral, IV, IM, ophthalmic",
+      "doseMaxima": "40mg/day (systemic)",
+      "doseMinima": "0.5mg/day",
+      "classificacao": "Long-acting synthetic glucocorticoid",
+      "apresentacao": "Tablets 0.5mg, 4mg; injection 4mg/mL; eye drops",
+      "interacaoMedicamento": "Interacts with NSAIDs, antidiabetics, anticoagulants, anticonvulsants",
+      "posologia": "Individualized per indication",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "IV form diluted in NS or D5W",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Untreated systemic infections, known hypersensitivity",
+      "cuidadosMedicos": "Consider stress dosing; monitor glucose and infection signs",
+      "cuidadosFarmaceuticos": "Counsel on adherence, avoid abrupt withdrawal",
+      "cuidadosEnfermagem": "Check vitals, edema, capillary glucose",
+      "fontesBibliograficas": "FDA, Micromedex, clinical guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Dexametasona",
+      "suspension": "Mantener hasta el día de la cirugía en uso agudo o crónico",
+      "risk": "Supresión adrenal, hiperglucemia, riesgo de infección, respuesta inflamatoria atenuada",
+      "reintroduction": "Reiniciar inmediatamente en el postoperatorio si uso crónico, con dosis de estrés si necesario"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dexametasona",
+      "nomeComercial": "Decadron, Dexasona, Maxidex",
+      "mecanismoAcao": "Agonista de receptores glucocorticoides con potente efecto antiinflamatorio",
+      "farmacocinetica": "Buena biodisponibilidad oral y parenteral, vida media 36–72h, metabolismo hepático",
+      "farmacodinamica": "Inhibe citocinas, prostaglandinas y leucotrienos",
+      "indicacoes": "Inflamación aguda, edema cerebral, shock séptico, náuseas inducidas por quimioterapia",
+      "reacoesAdversas": "Hiperglucemia, infecciones, retención de sodio, miopatía, cambios de humor",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche materna; usar con precaución",
+      "administracao": "Oral, IV, IM, oftálmica",
+      "doseMaxima": "40mg/día",
+      "doseMinima": "0,5mg/día",
+      "classificacao": "Glucocorticoide sintético de acción prolongada",
+      "apresentacao": "Comprimidos 0,5mg, 4mg; inyectable 4mg/mL; colirio",
+      "interacaoMedicamento": "Interacciones con AINEs, antidiabéticos, anticoagulantes, anticonvulsivos",
+      "posologia": "Dosis individualizada según indicación",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Diluir en SF 0,9% o SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Infecciones sistémicas sin tratar, hipersensibilidad",
+      "cuidadosMedicos": "Evaluar necesidad de dosis de estrés, monitorear glucemia",
+      "cuidadosFarmaceuticos": "Evitar interrupción brusca, garantizar adherencia",
+      "cuidadosEnfermagem": "Monitorear signos vitales, edema, glucemia capilar",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "地塞米松",
+      "suspension": "术前继续使用（急性或长期方案）",
+      "risk": "肾上腺抑制、高血糖、感染风险、炎症反应减弱",
+      "reintroduction": "术后立即重新使用，慢性使用者需给予应激剂量"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "地塞米松",
+      "nomeComercial": "德沙松（Decadron）, Maxidex",
+      "mecanismoAcao": "激活糖皮质激素受体，强效抗炎与免疫抑制作用",
+      "farmacocinetica": "口服与注射吸收好，半衰期36–72小时，肝代谢",
+      "farmacodinamica": "抑制细胞因子、前列腺素与白三烯合成",
+      "indicacoes": "急性炎症、脑水肿、感染性休克、化疗恶心呕吐",
+      "reacoesAdversas": "高血糖、感染、钠潴留、肌病、精神症状",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，慎用",
+      "administracao": "口服、静脉、肌注、眼用",
+      "doseMaxima": "每日40毫克",
+      "doseMinima": "每日0.5毫克",
+      "classificacao": "长效合成糖皮质激素",
+      "apresentacao": "片剂0.5mg、4mg；注射液4mg/mL；滴眼剂",
+      "interacaoMedicamento": "与NSAIDs、抗糖尿病药、抗凝药、抗癫药相互作用",
+      "posologia": "按适应症个体化调整剂量",
+      "armazenamento": "常温避光储存",
+      "preparo": "静脉注射稀释于0.9%氯化钠或5%葡萄糖",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "未经治疗的系统性感染、已知过敏",
+      "cuidadosMedicos": "术中考虑应激剂量，监测血糖与感染征象",
+      "cuidadosFarmaceuticos": "用药需连续，避免骤停",
+      "cuidadosEnfermagem": "监测生命体征、水肿、血糖",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

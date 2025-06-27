@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Melphalan",
+      "suspension": "Suspender 7 a 10 dias antes da cirurgia eletiva",
+      "risk": "Risco de mielossupressão severa, infecção, retardo cicatricial e toxicidade GI",
+      "reintroduction": "Reintroduzir após recuperação hematológica e ausência de infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Melphalan",
+      "nomeComercial": "Alkeran",
+      "mecanismoAcao": "Agente alquilante que forma ligações cruzadas no DNA, inibindo síntese e divisão celular",
+      "farmacocinetica": "Biodisponibilidade oral baixa e variável (~25%); meia-vida de 1,5 h; metabolismo hepático e renal",
+      "farmacodinamica": "Citotóxico principalmente para células em fase S do ciclo celular",
+      "indicacoes": "Mieloma múltiplo, leucemia mieloide crônica, câncer de ovário, regime de condicionamento pré-TCTH",
+      "reacoesAdversas": "Mielossupressão, náuseas, estomatite, alopecia, infertilidade, toxicidade GI, pneumonite (raro)",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; pode ser excretado no leite materno",
+      "administracao": "Oral ou intravenosa (uso hospitalar)",
+      "doseMaxima": "140–200 mg/m² (em altas doses para TCTH); 0,25 mg/kg/dia VO",
+      "doseMinima": "2–4 mg/dia VO (em dose contínua)",
+      "classificacao": "Antineoplásico – agente alquilante (mostarda nitrogenada)",
+      "apresentacao": "Comprimidos de 2 mg; pó liofilizado para solução injetável",
+      "interacaoMedicamento": "Potencializa toxicidade com outros quimioterápicos, ciclosporina, vacinas vivas",
+      "posologia": "VO: 2–4 mg/dia; IV: individualizada conforme protocolo oncológico",
+      "armazenamento": "Comprimidos: refrigerado (2–8°C); pó EV: temperatura ambiente, proteger da luz",
+      "preparo": "Reconstituir pó EV com diluente apropriado, usar em ambiente controlado",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Gravidez, lactação, mielodepressão severa, infecção ativa não tratada",
+      "cuidadosMedicos": "Monitorar hemograma, função renal/hepática, sinais de toxicidade GI e pulmonar",
+      "cuidadosFarmaceuticos": "Refrigerar comprimidos, manipular EV com EPI, observar estabilidade da solução",
+      "cuidadosEnfermagem": "Observar sintomas GI, sinais infecciosos, toxicidade hematológica",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Melphalan",
+      "suspension": "Discontinue 7 to 10 days before elective surgery",
+      "risk": "Severe bone marrow suppression, infection, delayed healing, GI toxicity",
+      "reintroduction": "Restart after hematologic recovery and infection resolution"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Melphalan",
+      "nomeComercial": "Alkeran",
+      "mecanismoAcao": "Alkylating agent forming DNA cross-links, inhibiting DNA synthesis and cell division",
+      "farmacocinetica": "Oral bioavailability ~25%; half-life ~1.5 h; hepatic and renal metabolism",
+      "farmacodinamica": "Cytotoxic to dividing cells, mainly S-phase active",
+      "indicacoes": "Multiple myeloma, chronic myeloid leukemia, ovarian cancer, conditioning for HSCT",
+      "reacoesAdversas": "Myelosuppression, nausea, stomatitis, alopecia, infertility, GI toxicity, rare pneumonitis",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral or IV (hospital use)",
+      "doseMaxima": "140–200 mg/m² (high-dose); 0.25 mg/kg/day PO",
+      "doseMinima": "2–4 mg/day PO (continuous)",
+      "classificacao": "Antineoplastic – alkylating agent (nitrogen mustard derivative)",
+      "apresentacao": "Tablets: 2 mg; lyophilized powder for IV",
+      "interacaoMedicamento": "Enhanced toxicity with chemo, cyclosporine, live vaccines",
+      "posologia": "PO: 2–4 mg/day; IV: per oncology protocol",
+      "armazenamento": "Tablets: refrigerated (2–8°C); powder: room temp, protect from light",
+      "preparo": "Reconstitute in controlled environment; dilute in appropriate solvent",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Pregnancy, breastfeeding, severe myelosuppression, active infection",
+      "cuidadosMedicos": "Monitor CBC, renal/liver function, GI and pulmonary symptoms",
+      "cuidadosFarmaceuticos": "Refrigerate tablets, prepare IV in safety cabinet, watch solution stability",
+      "cuidadosEnfermagem": "Watch GI toxicity, infection, hematologic suppression",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Melfalán",
+      "suspension": "Suspender 7–10 días antes de cirugía electiva",
+      "risk": "Supresión medular severa, riesgo infeccioso, mala cicatrización, toxicidad gastrointestinal",
+      "reintroduction": "Reintroducir tras recuperación hematológica y resolución infecciosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Melfalán",
+      "nomeComercial": "Alkeran",
+      "mecanismoAcao": "Agente alquilante que cruza el ADN, inhibiendo replicación y división celular",
+      "farmacocinetica": "Biodisponibilidad oral ~25%; vida media 1,5 h; metabolismo hepático y renal",
+      "farmacodinamica": "Citotóxico para células en división, fase S",
+      "indicacoes": "Mieloma múltiple, leucemia mieloide crónica, cáncer de ovario, TCTH",
+      "reacoesAdversas": "Mielosupresión, náuseas, estomatitis, alopecia, infertilidad, toxicidad GI, neumonitis (rara)",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral o intravenosa",
+      "doseMaxima": "140–200 mg/m² EV; VO: 0,25 mg/kg/día",
+      "doseMinima": "VO: 2–4 mg/día",
+      "classificacao": "Antineoplásico – agente alquilante (derivado de mostaza nitrogenada)",
+      "apresentacao": "Comprimidos de 2 mg; polvo liofilizado IV",
+      "interacaoMedicamento": "Mayor toxicidad con quimioterapia, ciclosporina, vacunas vivas",
+      "posologia": "VO: 2–4 mg/día; IV según protocolo",
+      "armazenamento": "Comprimidos: refrigerar (2–8°C); polvo: temperatura ambiente",
+      "preparo": "Reconstituir bajo campana, diluir en SF 0,9% o SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Embarazo, lactancia, mielosupresión grave, infección activa",
+      "cuidadosMedicos": "Monitorear hemograma, función renal y hepática, toxicidad GI y pulmonar",
+      "cuidadosFarmaceuticos": "Conservar en frío, proteger de la luz, manipular con EPI",
+      "cuidadosEnfermagem": "Vigilar toxicidad digestiva, signos infecciosos y hematológicos",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "美法仑",
+      "suspension": "术前7–10天停药",
+      "risk": "骨髓抑制、感染、胃肠毒性、愈合延迟",
+      "reintroduction": "术后血象恢复、无感染后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "美法仑",
+      "nomeComercial": "Alkeran",
+      "mecanismoAcao": "烷化剂，通过交联DNA抑制其复制与分裂",
+      "farmacocinetica": "口服生物利用度低（~25%）；半衰期约1.5小时；肝肾代谢",
+      "farmacodinamica": "对分裂活跃细胞具强烈毒性，作用于S期",
+      "indicacoes": "多发性骨髓瘤、慢性髓性白血病、卵巢癌、造血干细胞移植前预处理",
+      "reacoesAdversas": "骨髓抑制、恶心、口腔炎、脱发、不孕、胃肠毒性、罕见肺毒性",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用于哺乳期",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "140–200 mg/m²（大剂量）；口服0.25 mg/kg/日",
+      "doseMinima": "口服2–4 mg/日",
+      "classificacao": "抗肿瘤药 – 烷化剂（氮芥类）",
+      "apresentacao": "2 mg片剂；冻干粉注射剂",
+      "interacaoMedicamento": "与其他化疗药、环孢素、活疫苗联合使用增强毒性",
+      "posologia": "口服2–4 mg/日；静注依方案",
+      "armazenamento": "片剂：2–8°C冷藏；粉剂避光常温",
+      "preparo": "需在安全柜中重构，稀释于0.9%氯化钠或5%葡萄糖",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "妊娠、哺乳、严重骨髓抑制、活动性感染",
+      "cuidadosMedicos": "监测血象、肝肾功能、胃肠与肺部毒性",
+      "cuidadosFarmaceuticos": "冷藏片剂，使用EPI操作，注意稳定性",
+      "cuidadosEnfermagem": "警惕胃肠症状、感染迹象、骨髓毒性",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

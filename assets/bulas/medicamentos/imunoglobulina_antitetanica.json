@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Imunoglobulina antitetânica",
+      "suspension": "Não aplicável – uso pontual em pós-exposição ou profilaxia passiva",
+      "risk": "Risco de reação alérgica, anafilaxia (raro), dor local; não substitui vacinação ativa",
+      "reintroduction": "Pode ser repetida em novas exposições com ferimentos de risco, caso sem vacinação ativa adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imunoglobulina humana antitetânica (IGAT)",
+      "nomeComercial": "Tetabulin, Tetagam, Imogam Tétano, Imunoglobulina Antitetânica Butantan",
+      "mecanismoAcao": "Neutraliza a toxina tetânica circulante antes de sua fixação no sistema nervoso central",
+      "farmacocinetica": "Meia-vida de 3–4 semanas; início imediato após aplicação IM",
+      "farmacodinamica": "Confere proteção passiva temporária contra o tétano",
+      "indicacoes": "Profilaxia pós-exposição em ferimentos de risco; tratamento de tétano clínico (em conjunto com antibiótico e suporte)",
+      "reacoesAdversas": "Dor local, edema, febre, anafilaxia rara, urticária",
+      "riscoGravidez": "Categoria C – permitido se benefício superar risco (especialmente pós-exposição)",
+      "riscoLactacao": "Provavelmente seguro",
+      "administracao": "Intramuscular profunda (glúteo ou vasto lateral)",
+      "doseMaxima": "5000 UI (tratamento); 250–500 UI (profilaxia)",
+      "doseMinima": "250 UI (profilaxia)",
+      "classificacao": "Imunoglobulina humana hiperimune",
+      "apresentacao": "Ampolas de 250, 500 ou 1000 UI",
+      "interacaoMedicamento": "Pode interferir com resposta vacinal; evitar aplicação simultânea com vacina antitetânica no mesmo local",
+      "posologia": "250–500 UI IM (profilaxia); 3000–6000 UI IM (tratamento)",
+      "armazenamento": "2–8°C; não congelar",
+      "preparo": "Uso direto IM; não diluir",
+      "solucoesCompatíveis": "Não aplicar com outras soluções",
+      "contraindicacoes": "Alergia grave prévia à imunoglobulina humana",
+      "cuidadosMedicos": "Avaliar status vacinal, tipo de ferimento e risco de tétano",
+      "cuidadosFarmaceuticos": "Verificar lote, aspecto, validade e manter cadeia de frio",
+      "cuidadosEnfermagem": "Aplicar IM profunda, observar reação local e sistêmica por 30 min",
+      "fontesBibliograficas": "SBIm, PNI/MS, ANVISA, CDC, EMA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tetanus immune globulin (TIG)",
+      "suspension": "Not applicable – used for post-exposure prophylaxis",
+      "risk": "Allergic reactions, anaphylaxis (rare), injection site pain",
+      "reintroduction": "Repeat if re-exposed with inadequate immunization status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Human tetanus immune globulin",
+      "nomeComercial": "HyperTET, Imogam Tetanus",
+      "mecanismoAcao": "Provides passive immunity by neutralizing circulating tetanus toxin",
+      "farmacocinetica": "Half-life ~3–4 weeks; IM onset immediate",
+      "farmacodinamica": "Temporary tetanus protection",
+      "indicacoes": "Post-exposure prophylaxis; adjunct in tetanus treatment",
+      "reacoesAdversas": "Pain, swelling, urticaria, fever, rare anaphylaxis",
+      "riscoGravidez": "Category C – use if needed post-exposure",
+      "riscoLactacao": "Likely safe",
+      "administracao": "Deep IM injection",
+      "doseMaxima": "5000 units (treatment)",
+      "doseMinima": "250–500 units (prophylaxis)",
+      "classificacao": "Hyperimmune human immunoglobulin",
+      "apresentacao": "250–1000 unit vials",
+      "interacaoMedicamento": "May blunt vaccine response; separate sites if co-administered",
+      "posologia": "250–500 U IM for exposure; 3000–6000 U for treatment",
+      "armazenamento": "2–8°C; do not freeze",
+      "preparo": "Administer undiluted IM",
+      "solucoesCompatíveis": "Do not mix with other solutions",
+      "contraindicacoes": "Known allergy to human Ig preparations",
+      "cuidadosMedicos": "Check vaccine status and tetanus risk",
+      "cuidadosFarmaceuticos": "Check cold chain, clarity, expiry",
+      "cuidadosEnfermagem": "Deep IM technique; observe 30 min post-injection",
+      "fontesBibliograficas": "CDC, FDA, WHO, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Inmunoglobulina antitetánica",
+      "suspension": "No aplica – uso postexposición",
+      "risk": "Reacciones alérgicas, dolor, anafilaxia rara",
+      "reintroduction": "Reaplicar si nueva exposición con inmunización incompleta"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Inmunoglobulina humana antitetánica",
+      "nomeComercial": "Tetagam, Imogam Tétanos",
+      "mecanismoAcao": "Neutraliza toxina tetánica, proporciona protección pasiva",
+      "farmacocinetica": "Inicio inmediato, duración 3–4 semanas",
+      "farmacodinamica": "Previene tétanos tras exposición",
+      "indicacoes": "Heridas de riesgo, tratamiento del tétanos junto a antibióticos",
+      "reacoesAdversas": "Dolor local, fiebre, urticaria",
+      "riscoGravidez": "Categoría C – usar si beneficio lo justifica",
+      "riscoLactacao": "Compatible",
+      "administracao": "IM profunda",
+      "doseMaxima": "5000 UI",
+      "doseMinima": "250–500 UI",
+      "classificacao": "Inmunoglobulina hiperinmune",
+      "apresentacao": "250–1000 UI ampollas",
+      "interacaoMedicamento": "Evitar con vacuna en el mismo sitio",
+      "posologia": "250–500 UI profilaxis; 3000–6000 UI tratamiento",
+      "armazenamento": "2–8°C, no congelar",
+      "preparo": "Administrar sin diluir",
+      "solucoesCompatíveis": "No mezclar",
+      "contraindicacoes": "Alergia previa conocida",
+      "cuidadosMedicos": "Verificar inmunización, tipo de herida",
+      "cuidadosFarmaceuticos": "Revisar frío, fecha, aspecto",
+      "cuidadosEnfermagem": "IM profunda, observar 30 minutos",
+      "fontesBibliograficas": "OMS, EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "破伤风免疫球蛋白",
+      "suspension": "非日常使用，暴露后评估给予",
+      "risk": "注射局部反应、过敏、极少严重反应",
+      "reintroduction": "再次暴露且免疫不全者可重复注射"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "人源抗破伤风免疫球蛋白",
+      "nomeComercial": "Tetabulin、破伤风免疫球蛋白（中生）",
+      "mecanismoAcao": "中和游离破伤风毒素",
+      "farmacocinetica": "IM注射后立即起效，持续3–4周",
+      "farmacodinamica": "提供短期被动免疫",
+      "indicacoes": "高风险伤口暴露、临床破伤风辅助治疗",
+      "reacoesAdversas": "局部红肿、低热、皮疹、罕见过敏",
+      "riscoGravidez": "C类 – 暴露后可用",
+      "riscoLactacao": "安全",
+      "administracao": "深部肌肉注射",
+      "doseMaxima": "治疗量最高5000 IU",
+      "doseMinima": "预防250–500 IU",
+      "classificacao": "高效免疫球蛋白",
+      "apresentacao": "250–1000 IU安瓿",
+      "interacaoMedicamento": "影响同时接种疫苗抗体产生",
+      "posologia": "按暴露情况选择250–6000 IU",
+      "armazenamento": "2–8°C冷藏",
+      "preparo": "原液直接注射",
+      "solucoesCompatíveis": "不可混用",
+      "contraindicacoes": "IgE相关过敏史",
+      "cuidadosMedicos": "评估伤口类型、疫苗史",
+      "cuidadosFarmaceuticos": "核查冷链与有效期",
+      "cuidadosEnfermagem": "肌注后留观30分钟",
+      "fontesBibliograficas": "中国药典、Micromedex、WHO、CDC"
+    }
+  }
+}

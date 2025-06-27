@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bumetanida",
+      "suspension": "Suspender no dia anterior à cirurgia, com ajuste hídrico e eletrolítico pré-operatório",
+      "risk": "Risco de hipovolemia, hipocalemia, hipotensão e alteração da resposta hemodinâmica à anestesia",
+      "reintroduction": "Reintroduzir conforme balanço hídrico e sinais vitais no pós-operatório; considerar via IV se oral indisponível"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bumetanida",
+      "nomeComercial": "Burinax, Bumex",
+      "mecanismoAcao": "Inibidor da reabsorção de sódio e cloro na alça de Henle (diurético de alça)",
+      "farmacocinetica": "Biodisponibilidade oral ~80–90%; início em 30–60 min VO e 2–5 min IV; duração de 4–6h",
+      "farmacodinamica": "Potente efeito diurético com rápida redução de volume intravascular",
+      "indicacoes": "Edema associado à ICC, cirrose hepática ou doença renal; hipertensão (off-label)",
+      "reacoesAdversas": "Desidratação, hipocalemia, hiponatremia, tontura, ototoxicidade (dose elevada)",
+      "riscoGravidez": "Categoria C – usar se necessário e com monitoramento",
+      "riscoLactacao": "Desconhecido se excretado no leite; uso com cautela durante amamentação",
+      "administracao": "Via oral ou intravenosa; dose única ou fracionada conforme necessidade",
+      "doseMaxima": "10 mg/dia",
+      "doseMinima": "0,5 mg/dia",
+      "classificacao": "Diurético de alça",
+      "apresentacao": "Comprimidos de 1 mg; ampola IV de 0,25 mg/mL",
+      "interacaoMedicamento": "Potencializa toxicidade de digitálicos; risco aumentado com aminoglicosídeos e outros diuréticos",
+      "posologia": "Individualizada com base na resposta diurética e tolerabilidade",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Diluir ampola IV se necessário; administrar lentamente",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%",
+      "contraindicacoes": "Anúria, hipovolemia severa, hipocalemia não corrigida",
+      "cuidadosMedicos": "Monitorar eletrólitos, função renal e balanço hídrico",
+      "cuidadosFarmaceuticos": "Avaliar risco de interação; garantir estabilidade da solução IV",
+      "cuidadosEnfermagem": "Controlar diurese, PA, eletrólitos e sinais de desidratação",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, ESC Guidelines, Medscape"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bumetanide",
+      "suspension": "Discontinue the day before surgery with preoperative fluid and electrolyte adjustment",
+      "risk": "Risk of hypovolemia, hypokalemia, hypotension, and altered hemodynamic response to anesthesia",
+      "reintroduction": "Reintroduce postoperatively based on fluid balance and vitals; IV route if oral not feasible"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bumetanide",
+      "nomeComercial": "Bumex",
+      "mecanismoAcao": "Inhibits sodium and chloride reabsorption in the ascending loop of Henle (loop diuretic)",
+      "farmacocinetica": "Oral bioavailability ~80–90%; onset 30–60 min PO, 2–5 min IV; duration 4–6h",
+      "farmacodinamica": "Potent diuretic effect with rapid intravascular volume reduction",
+      "indicacoes": "Edema from CHF, hepatic cirrhosis, or renal disease; hypertension (off-label)",
+      "reacoesAdversas": "Dehydration, hypokalemia, hyponatremia, dizziness, ototoxicity (high doses)",
+      "riscoGravidez": "Category C – use if clearly needed and under monitoring",
+      "riscoLactacao": "Unknown if excreted in breast milk; use with caution if breastfeeding",
+      "administracao": "Oral or IV; single or divided doses based on need",
+      "doseMaxima": "10 mg/day",
+      "doseMinima": "0.5 mg/day",
+      "classificacao": "Loop diuretic",
+      "apresentacao": "Tablets (1 mg); IV ampoule (0.25 mg/mL)",
+      "interacaoMedicamento": "Enhances digoxin toxicity; increased risk with aminoglycosides and other diuretics",
+      "posologia": "Individualized based on diuretic response and tolerability",
+      "armazenamento": "Store at 15–30°C, protect from light",
+      "preparo": "Dilute IV ampoule if needed; administer slowly",
+      "solucoesCompatíveis": "0.9% Sodium Chloride",
+      "contraindicacoes": "Anuria, severe hypovolemia, uncorrected hypokalemia",
+      "cuidadosMedicos": "Monitor electrolytes, renal function, and fluid status",
+      "cuidadosFarmaceuticos": "Check for drug interactions; ensure IV solution stability",
+      "cuidadosEnfermagem": "Monitor urine output, BP, electrolytes, and signs of dehydration",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, AHA Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bumetanida",
+      "suspension": "Suspender el día anterior a la cirugía con ajuste hidroelectrolítico preoperatorio",
+      "risk": "Riesgo de hipovolemia, hipokalemia, hipotensión y respuesta hemodinámica alterada a la anestesia",
+      "reintroduction": "Reintroducir según balance hídrico y signos vitales; usar vía IV si la oral no es posible"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bumetanida",
+      "nomeComercial": "Bumex",
+      "mecanismoAcao": "Inhibidor de la reabsorción de sodio y cloro en el asa de Henle (diurético de asa)",
+      "farmacocinetica": "Biodisponibilidad oral ~80–90%; inicio 30–60 min VO, 2–5 min IV; duración 4–6h",
+      "farmacodinamica": "Efecto diurético potente con rápida reducción del volumen intravascular",
+      "indicacoes": "Edema por insuficiencia cardíaca, cirrosis o enfermedad renal; hipertensión (uso no aprobado)",
+      "reacoesAdversas": "Deshidratación, hipokalemia, hiponatremia, mareos, ototoxicidad (altas dosis)",
+      "riscoGravidez": "Categoría C – usar sólo si es claramente necesario y bajo vigilancia",
+      "riscoLactacao": "Se desconoce si se excreta en leche materna; usar con precaución",
+      "administracao": "Vía oral o intravenosa; dosis única o fraccionada según necesidad",
+      "doseMaxima": "10 mg/día",
+      "doseMinima": "0,5 mg/día",
+      "classificacao": "Diurético de asa",
+      "apresentacao": "Comprimidos (1 mg); ampolla IV (0,25 mg/mL)",
+      "interacaoMedicamento": "Potencia toxicidad de digitálicos; riesgo aumentado con aminoglucósidos y otros diuréticos",
+      "posologia": "Individualizada según respuesta diurética y tolerancia",
+      "armazenamento": "Conservar a 15–30°C, protegido de la luz",
+      "preparo": "Diluir ampolla IV si es necesario; administrar lentamente",
+      "solucoesCompatíveis": "Cloruro de sodio al 0,9%",
+      "contraindicacoes": "Anuria, hipovolemia severa, hipokalemia no corregida",
+      "cuidadosMedicos": "Monitorear electrolitos, función renal y estado hídrico",
+      "cuidadosFarmaceuticos": "Revisar interacciones; garantizar estabilidad de la solución IV",
+      "cuidadosEnfermagem": "Controlar diuresis, TA, electrolitos y signos de deshidratación",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, Guías ESC"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "布美他尼",
+      "suspension": "术前一天停药，并调整水电解质平衡",
+      "risk": "可能引起低血容量、低钾血症、低血压和麻醉反应异常",
+      "reintroduction": "术后根据液体平衡和生命体征决定重用；无法口服时考虑静脉途径"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "布美他尼",
+      "nomeComercial": "Bumex（布美他宁）",
+      "mecanismoAcao": "抑制亨利袢上行支钠钾氯转运体（袢利尿剂）",
+      "farmacocinetica": "口服生物利用度约80–90%；起效时间：口服30–60分钟，静脉2–5分钟；作用持续4–6小时",
+      "farmacodinamica": "强效利尿，迅速减少血容量",
+      "indicacoes": "心力衰竭、肝硬化或肾病相关水肿；高血压（非适应症）",
+      "reacoesAdversas": "脱水、低钾血症、低钠血症、头晕、高剂量可致耳毒性",
+      "riscoGravidez": "C类 – 必要时使用并密切监测",
+      "riscoLactacao": "是否分泌入乳汁不明；哺乳期慎用",
+      "administracao": "口服或静脉注射；单次或分次给药",
+      "doseMaxima": "每日10毫克",
+      "doseMinima": "每日0.5毫克",
+      "classificacao": "袢利尿剂",
+      "apresentacao": "片剂1毫克；注射液0.25 mg/mL",
+      "interacaoMedicamento": "与洋地黄类联用可增强毒性；与氨基糖苷类合用耳毒性风险增高",
+      "posologia": "根据利尿反应和耐受性个体化调整",
+      "armazenamento": "15–30°C避光保存",
+      "preparo": "如需可稀释注射液，缓慢给药",
+      "solucoesCompatíveis": "0.9%氯化钠注射液",
+      "contraindicacoes": "无尿、严重低血容量、未纠正的低钾血症",
+      "cuidadosMedicos": "监测电解质、肾功能及液体平衡",
+      "cuidadosFarmaceuticos": "检查药物相互作用；确保IV溶液稳定性",
+      "cuidadosEnfermagem": "观察排尿、血压、电解质及脱水征象",
+      "fontesBibliograficas": "FDA, 中国药典, Micromedex, ESC指南"
+    }
+  }
+}

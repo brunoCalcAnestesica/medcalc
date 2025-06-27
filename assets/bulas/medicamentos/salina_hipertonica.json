@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Solução Salina Hipertônica",
+      "suspension": "Não suspender; uso com indicação precisa em contexto neurocrítico ou hiponatremia grave",
+      "risk": "Risco de hipernatremia, sobrecarga osmótica, mielinólise pontina se corrigido rapidamente. Administração central preferida para concentrações >3%.",
+      "reintroduction": "Reintroduzir com base na natremia, osmolaridade sérica e débito urinário. Monitoramento rigoroso contínuo."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloreto de Sódio hipertônico",
+      "nomeComercial": "NaCl 3%, 7,5%, 20%, 23,4%",
+      "mecanismoAcao": "Expande o volume intravascular por efeito osmótico, atrai água do interstício e das células para o espaço vascular",
+      "farmacocinetica": "Distribuição rápida no compartimento extracelular; excreção renal proporcional à função glomerular",
+      "farmacodinamica": "Elevação rápida da natremia e osmolaridade plasmática; redução de edema cerebral; melhora da perfusão cerebral",
+      "indicacoes": "Hiponatremia sintomática grave, hipertensão intracraniana, choque hipovolêmico (uso emergencial), ressuscitação neurointensiva",
+      "reacoesAdversas": "Hipernatremia, acidose hiperclorêmica, insuficiência cardíaca, necrose por extravasamento, convulsões se corrigido rapidamente",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Uso com monitoramento",
+      "administracao": "Via intravenosa lenta; concentrações >3% preferencialmente via central",
+      "doseMaxima": "NaCl 3%: 2 mL/kg em bolus; não exceder correção >10–12 mEq/L/24h",
+      "doseMinima": "10–20 mL em bolus para hiponatremia leve",
+      "classificacao": "Cristaloide hipertônico – solução salina concentrada",
+      "apresentacao": "Ampolas e bolsas de 3%, 7,5%, 20% ou 23,4%",
+      "interacaoMedicamento": "Potencial incompatibilidade com cálcio IV; cuidado com diuréticos e lítio",
+      "posologia": "3%: bolus de 2 mL/kg ou infusão contínua (0,5–2 mL/kg/h); ajustar conforme sódio sérico",
+      "armazenamento": "Temperatura ambiente; proteger da luz se possível",
+      "preparo": "Pronto para uso; administrar com bomba e monitorização",
+      "solucoesCompatíveis": "Isoladamente ou com glicose 5% em protocolos específicos",
+      "contraindicacoes": "Hipernatremia, ICC descompensada, insuficiência renal anúrica, SIADH controlado",
+      "cuidadosMedicos": "Monitorar sódio sérico a cada 4h, diurese, osmolaridade, status neurológico",
+      "cuidadosFarmaceuticos": "Evitar extravasamento; usar cateter central quando necessário",
+      "cuidadosEnfermagem": "Monitorar local de infusão, PA, PVC e nível de consciência",
+      "fontesBibliograficas": "SBRAE, FDA, UpToDate, Micromedex, Sociedade Brasileira de Terapia Intensiva"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hypertonic Saline Solution",
+      "suspension": "Not discontinued; used as indicated in neurocritical care or severe hyponatremia",
+      "risk": "High risk of central pontine myelinolysis if overcorrected. Requires ICU monitoring. Prefer central line for >3% NaCl.",
+      "reintroduction": "Resume when serum sodium drops or intracranial pressure rises. Use only under strict monitoring."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sodium Chloride hypertonic",
+      "nomeComercial": "NaCl 3%, 7.5%, 23.4%",
+      "mecanismoAcao": "Draws water from interstitial and intracellular space into vascular space, increasing serum osmolality",
+      "farmacocinetica": "ECF distribution; renal excretion",
+      "farmacodinamica": "Increases sodium concentration, reduces cerebral edema",
+      "indicacoes": "Severe symptomatic hyponatremia, intracranial hypertension, neurotrauma",
+      "reacoesAdversas": "Hypernatremia, acidosis, fluid overload, phlebitis, seizures",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use with supervision",
+      "administracao": "Slow IV infusion; >3% NaCl via central line",
+      "doseMaxima": "3% NaCl: 2 mL/kg bolus; limit correction to ≤12 mEq/L/day",
+      "doseMinima": "10–20 mL bolus (depending on indication)",
+      "classificacao": "Hypertonic crystalloid",
+      "apresentacao": "Ampoules and bags: 3%, 7.5%, 23.4%",
+      "interacaoMedicamento": "Incompatible with calcium, caution with lithium or diuretics",
+      "posologia": "Bolus 2 mL/kg or continuous 0.5–2 mL/kg/h",
+      "armazenamento": "Room temperature; protect from light",
+      "preparo": "Ready to use; use pump and monitor Na+ every 4h",
+      "solucoesCompatíveis": "D5W (specific protocols only)",
+      "contraindicacoes": "Hypernatremia, CHF, anuric renal failure",
+      "cuidadosMedicos": "Monitor Na+, osmolality, neuro status",
+      "cuidadosFarmaceuticos": "Prevent extravasation; prefer central access",
+      "cuidadosEnfermagem": "Monitor IV site, vitals, LOC",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, SCCM"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Solución Salina Hipertónica",
+      "suspension": "No se suspende; se usa bajo indicación estricta en neurocríticos",
+      "risk": "Riesgo de mielinólisis pontina si se corrige rápido; requiere monitorización intensiva",
+      "reintroduction": "Reintroducir si hay hiponatremia sintomática o hipertensión endocraneana"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloruro de Sodio hipertónico",
+      "nomeComercial": "NaCl 3%, 7,5%, 23,4%",
+      "mecanismoAcao": "Extrae agua de células hacia el plasma por gradiente osmótico",
+      "farmacocinetica": "Distribución extracelular; excreción renal",
+      "farmacodinamica": "Aumenta la natremia y reduce edema cerebral",
+      "indicacoes": "Hiponatremia grave, hipertensión intracraneal, trauma cerebral",
+      "reacoesAdversas": "Hipernatremia, acidosis, edema pulmonar, necrosis por extravasación",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Uso vigilado",
+      "administracao": "IV lenta; >3% vía central",
+      "doseMaxima": "2 mL/kg por bolo; máximo 10–12 mEq/L/día",
+      "doseMinima": "10–20 mL",
+      "classificacao": "Cristaloide hipertónico",
+      "apresentacao": "Bolsas o ampollas de 3%–23,4%",
+      "interacaoMedicamento": "Incompatible con calcio; precaución con litio, diuréticos",
+      "posologia": "Bolo 2 mL/kg o infusión 0,5–2 mL/kg/h",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Listo para uso",
+      "solucoesCompatíveis": "Glucosa 5% (según protocolo)",
+      "contraindicacoes": "Hipernatremia, ICC, anuria",
+      "cuidadosMedicos": "Control cada 4h de sodio, diuresis, estado neurológico",
+      "cuidadosFarmaceuticos": "Preferencia por vía central",
+      "cuidadosEnfermagem": "Monitorizar sitio de infusión, PA, nivel de conciencia",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex, SECIP"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "高渗盐水",
+      "suspension": "术前无需停用，有指征时严格监控使用",
+      "risk": "快速纠正可导致脑桥脱髓鞘，适用于重度低钠和颅高压",
+      "reintroduction": "术后根据血钠和颅内压评估重启；严密监测"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯化钠高渗液",
+      "nomeComercial": "NaCl 3%、7.5%、23.4%",
+      "mecanismoAcao": "通过渗透梯度将细胞内水分吸入血管，升高渗透压和血钠",
+      "farmacocinetica": "细胞外分布，肾脏排泄",
+      "farmacodinamica": "快速提升血钠，减轻脑水肿",
+      "indicacoes": "重度低钠血症、颅内高压、神经复苏",
+      "reacoesAdversas": "高钠血症、酸中毒、水肿、局部坏死",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可使用，需监测",
+      "administracao": "静脉缓慢滴注，浓度高需中心静脉",
+      "doseMaxima": "2 mL/kg（3%），避免>12 mmol/L/日",
+      "doseMinima": "10 mL",
+      "classificacao": "高渗晶体液",
+      "apresentacao": "注射用袋装：3%、7.5%、20%、23.4%",
+      "interacaoMedicamento": "禁与钙剂合用；慎用利尿剂、锂",
+      "posologia": "按血钠变化调节输注速率",
+      "armazenamento": "常温，避光保存",
+      "preparo": "直接使用，需泵控",
+      "solucoesCompatíveis": "5%葡萄糖（特定方案）",
+      "contraindicacoes": "高钠血症、心衰、无尿",
+      "cuidadosMedicos": "4小时查Na+、渗透压、神经评估",
+      "cuidadosFarmaceuticos": "浓度>3%应经中心静脉",
+      "cuidadosEnfermagem": "观察外渗、脑水肿减轻情况",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、重症医学指南"
+    }
+  }
+}

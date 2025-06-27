@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bicalutamida",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de hepatotoxicidade, ginecomastia dolorosa, distúrbios cardíacos e retardo na cicatrização",
+      "reintroduction": "Reintroduzir após normalização hepática e ausência de complicações cardiovasculares"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bicalutamida",
+      "nomeComercial": "Casodex",
+      "mecanismoAcao": "Antagonista do receptor de androgênio que inibe a ligação da testosterona nos tecidos-alvo",
+      "farmacocinetica": "Biodisponibilidade oral elevada; meia-vida ~6 dias; metabolizado via CYP3A4",
+      "farmacodinamica": "Bloqueia o efeito dos andrógenos em tumores de próstata dependentes hormonais",
+      "indicacoes": "Câncer de próstata avançado ou metastático, geralmente em combinação com análogos de LH-RH",
+      "reacoesAdversas": "Dor mamária, ginecomastia, elevação de transaminases, fadiga, ondas de calor, hepatotoxicidade",
+      "riscoGravidez": "Categoria X",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Via oral",
+      "doseMaxima": "150 mg/dia",
+      "doseMinima": "50 mg/dia (em combinação)",
+      "classificacao": "Antineoplásico – antiandrogênio não esteroidal",
+      "apresentacao": "Comprimidos de 50 mg e 150 mg",
+      "interacaoMedicamento": "Interage com varfarina, ciclosporina, e medicamentos metabolizados por CYP3A4",
+      "posologia": "50 mg/dia em combinação ou 150 mg/dia em monoterapia",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, disfunção hepática grave, hipersensibilidade ao fármaco",
+      "cuidadosMedicos": "Monitorar função hepática, ECG e interações medicamentosas",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão, uso contínuo e sinais de toxicidade hepática",
+      "cuidadosEnfermagem": "Observar ginecomastia, sintomas hepáticos, fadiga",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bicalutamide",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of hepatotoxicity, breast pain, cardiac issues, delayed healing",
+      "reintroduction": "Restart after liver function normalization and cardiac stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bicalutamide",
+      "nomeComercial": "Casodex",
+      "mecanismoAcao": "Nonsteroidal androgen receptor antagonist that blocks testosterone action",
+      "farmacocinetica": "High oral bioavailability; half-life ~6 days; metabolized by CYP3A4",
+      "farmacodinamica": "Blocks androgen effects in hormone-sensitive prostate tumors",
+      "indicacoes": "Advanced or metastatic prostate cancer, often with LH-RH analogs",
+      "reacoesAdversas": "Breast tenderness, gynecomastia, transaminase elevation, fatigue, hot flashes, hepatotoxicity",
+      "riscoGravidez": "Category X",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "150 mg/day",
+      "doseMinima": "50 mg/day",
+      "classificacao": "Antineoplastic – nonsteroidal antiandrogen",
+      "apresentacao": "Tablets: 50 mg, 150 mg",
+      "interacaoMedicamento": "Interacts with warfarin, cyclosporine, CYP3A4 substrates",
+      "posologia": "50 mg/day (combination) or 150 mg/day (monotherapy)",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, severe hepatic impairment, hypersensitivity",
+      "cuidadosMedicos": "Monitor liver enzymes, ECG, drug interactions",
+      "cuidadosFarmaceuticos": "Educate on adherence, liver risk, continuous use",
+      "cuidadosEnfermagem": "Monitor for gynecomastia, liver symptoms, fatigue",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bicalutamida",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de hepatotoxicidad, ginecomastia dolorosa, efectos cardíacos y mala cicatrización",
+      "reintroduction": "Reintroducir tras normalizar función hepática y ECG"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bicalutamida",
+      "nomeComercial": "Casodex",
+      "mecanismoAcao": "Antagonista no esteroideo del receptor de andrógenos, bloquea acción de testosterona",
+      "farmacocinetica": "Biodisponibilidad oral alta; vida media ~6 días; metabolismo hepático CYP3A4",
+      "farmacodinamica": "Inhibe efectos androgénicos en tumores prostáticos hormonosensibles",
+      "indicacoes": "Cáncer de próstata avanzado/metastásico, en monoterapia o con LH-RH",
+      "reacoesAdversas": "Dolor mamario, ginecomastia, elevación de transaminasas, fatiga, sofocos",
+      "riscoGravidez": "Categoría X",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Vía oral",
+      "doseMaxima": "150 mg/día",
+      "doseMinima": "50 mg/día",
+      "classificacao": "Antineoplásico – antiandrógeno no esteroideo",
+      "apresentacao": "Comprimidos: 50 mg, 150 mg",
+      "interacaoMedicamento": "Interacciones con warfarina, ciclosporina, CYP3A4",
+      "posologia": "50 mg/día en combinación o 150 mg/día en monoterapia",
+      "armazenamento": "15–30°C",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, disfunción hepática severa, alergia",
+      "cuidadosMedicos": "Monitorear función hepática, ECG, interacciones",
+      "cuidadosFarmaceuticos": "Educación sobre hepatotoxicidad y adherencia",
+      "cuidadosEnfermagem": "Observar ginecomastia, fatiga, ictericia",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "比卡鲁胺",
+      "suspension": "术前5天停药",
+      "risk": "肝毒性、男性乳房疼痛、心律不齐、术后愈合延迟",
+      "reintroduction": "肝功能恢复及心电图正常后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "比卡鲁胺",
+      "nomeComercial": "Casodex",
+      "mecanismoAcao": "非甾体类雄激素受体拮抗剂，抑制睾酮与受体结合",
+      "farmacocinetica": "口服生物利用度高；半衰期6天；CYP3A4代谢",
+      "farmacodinamica": "阻断雄激素信号传导，抑制前列腺癌生长",
+      "indicacoes": "晚期或转移性前列腺癌，单药或联合LH-RH类似物使用",
+      "reacoesAdversas": "乳房胀痛、肝酶升高、疲乏、潮热、QT延长",
+      "riscoGravidez": "X类",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日150毫克",
+      "doseMinima": "每日50毫克",
+      "classificacao": "抗肿瘤药 – 非甾体雄激素受体拮抗剂",
+      "apresentacao": "片剂50 mg, 150 mg",
+      "interacaoMedicamento": "与华法林、环孢素、CYP3A4底物相互作用",
+      "posologia": "单药150 mg/日，联合50 mg/日",
+      "armazenamento": "15–30°C",
+      "preparo": "无需配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、重度肝损伤、药物过敏",
+      "cuidadosMedicos": "监测肝功能、电解质、心电图",
+      "cuidadosFarmaceuticos": "强调规律服药与肝毒性风险",
+      "cuidadosEnfermagem": "关注乳房变化、乏力与黄疸",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

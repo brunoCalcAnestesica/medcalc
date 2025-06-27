@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cefepime",
+      "suspension": "Suspensão geralmente não necessária, mas ajustar dose em disfunção renal",
+      "risk": "Risco de neurotoxicidade em disfunção renal, interações com anestésicos e convulsões",
+      "reintroduction": "Pode ser mantido ou reintroduzido conforme função renal e controle da infecção"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefepime",
+      "nomeComercial": "Maxipime, Cefpiramida",
+      "mecanismoAcao": "Antibiótico betalactâmico de 4ª geração, inibe a síntese da parede celular bacteriana por ligação a PBPs",
+      "farmacocinetica": "Administração IV ou IM, ampla distribuição tecidual, baixa ligação proteica, excreção renal, meia-vida ~2h",
+      "farmacodinamica": "Bactericida, com ação tempo-dependente, eficaz contra Gram-positivos e Gram-negativos incluindo Pseudomonas",
+      "indicacoes": "Infecções graves: pneumonia, sepse, ITU complicadas, peritonite, neutropenia febril, meningite (off-label)",
+      "reacoesAdversas": "Rash, diarreia, elevação de transaminases, cefaleia, neurotoxicidade (confusão, mioclonia, convulsões)",
+      "riscoGravidez": "Categoria B – estudos em animais não mostraram risco, mas faltam dados em humanos",
+      "riscoLactacao": "Excretado em pequenas quantidades no leite; uso geralmente considerado seguro",
+      "administracao": "Via intravenosa ou intramuscular",
+      "doseMaxima": "6 g/dia",
+      "doseMinima": "1 g/dia",
+      "classificacao": "Antibiótico betalactâmico – cefalosporina de quarta geração",
+      "apresentacao": "Pó liofilizado para reconstituição (500 mg, 1 g, 2 g)",
+      "interacaoMedicamento": "Potencializa efeitos de nefrotóxicos, antagoniza aminoglicosídeos se em infusão simultânea",
+      "posologia": "1–2 g IV a cada 8 ou 12 horas, ajustar em insuficiência renal",
+      "armazenamento": "Pó seco: temperatura ambiente; solução reconstituída: refrigerada por até 24h",
+      "preparo": "Reconstituir com água estéril ou solução de cloreto de sódio 0,9%",
+      "solucoesCompatíveis": "Soro fisiológico, Ringer lactato",
+      "contraindicacoes": "Hipersensibilidade a cefalosporinas ou penicilinas",
+      "cuidadosMedicos": "Monitorar função renal, sinais de neurotoxicidade e resposta ao tratamento",
+      "cuidadosFarmaceuticos": "Verificar estabilidade da solução, compatibilidade e técnica asséptica",
+      "cuidadosEnfermagem": "Observar reações alérgicas, infundir lentamente, monitorar diurese",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, FDA, Sanford Guide"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cefepime",
+      "suspension": "Usually not required; dose adjustment needed in renal impairment",
+      "risk": "Risk of neurotoxicity in renal dysfunction, anesthetic interactions, and seizures",
+      "reintroduction": "May be maintained or restarted based on renal function and infection status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefepime",
+      "nomeComercial": "Maxipime",
+      "mecanismoAcao": "4th-generation beta-lactam cephalosporin; inhibits bacterial cell wall synthesis via PBP binding",
+      "farmacocinetica": "IV/IM route, widely distributed, low protein binding, renal excretion, half-life ~2h",
+      "farmacodinamica": "Time-dependent bactericidal activity; effective against Gram-positive and Gram-negative including Pseudomonas",
+      "indicacoes": "Severe infections: pneumonia, sepsis, complicated UTIs, peritonitis, febrile neutropenia, off-label meningitis",
+      "reacoesAdversas": "Rash, diarrhea, transaminase elevation, headache, neurotoxicity (confusion, myoclonus, seizures)",
+      "riscoGravidez": "Category B – animal studies show no risk, no controlled human data",
+      "riscoLactacao": "Excreted in small amounts in breast milk; generally considered safe",
+      "administracao": "Intravenous or intramuscular",
+      "doseMaxima": "6 g/day",
+      "doseMinima": "1 g/day",
+      "classificacao": "Beta-lactam antibiotic – fourth-generation cephalosporin",
+      "apresentacao": "Lyophilized powder (500 mg, 1 g, 2 g)",
+      "interacaoMedicamento": "Enhances nephrotoxicity of other agents, antagonistic if co-infused with aminoglycosides",
+      "posologia": "1–2 g IV every 8 or 12 hours; adjust for renal function",
+      "armazenamento": "Dry powder at room temperature; reconstituted solution refrigerated up to 24h",
+      "preparo": "Reconstitute with sterile water or 0.9% sodium chloride",
+      "solucoesCompatíveis": "Normal saline, lactated Ringer",
+      "contraindicacoes": "Allergy to cephalosporins or penicillins",
+      "cuidadosMedicos": "Monitor renal function, neurotoxicity signs, clinical response",
+      "cuidadosFarmaceuticos": "Check solution stability and aseptic technique",
+      "cuidadosEnfermagem": "Observe for allergic reactions, slow infusion, monitor urine output",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Sanford Guide"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cefepima",
+      "suspension": "Generalmente no requiere suspensión; ajustar dosis en insuficiencia renal",
+      "risk": "Riesgo de neurotoxicidad en disfunción renal, interacciones con anestesia y convulsiones",
+      "reintroduction": "Puede mantenerse o reintroducirse según función renal e infección"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefepima",
+      "nomeComercial": "Maxipime",
+      "mecanismoAcao": "Cefalosporina beta-lactámica de cuarta generación; inhibe síntesis de pared bacteriana al unirse a PBPs",
+      "farmacocinetica": "Administración IV o IM, buena distribución tisular, baja unión proteica, eliminación renal, t½ ~2h",
+      "farmacodinamica": "Bactericida dependiente del tiempo, eficaz frente a Gram positivos y negativos, incluyendo Pseudomonas",
+      "indicacoes": "Infecciones graves: neumonía, sepsis, ITUs complicadas, peritonitis, neutropenia febril, meningitis (uso fuera de etiqueta)",
+      "reacoesAdversas": "Erupción, diarrea, elevación de transaminasas, cefalea, neurotoxicidad (confusión, mioclonías, convulsiones)",
+      "riscoGravidez": "Categoría B – sin riesgo en animales, sin estudios concluyentes en humanos",
+      "riscoLactacao": "Se excreta en pequeñas cantidades en leche materna; uso generalmente seguro",
+      "administracao": "Vía intravenosa o intramuscular",
+      "doseMaxima": "6 g/día",
+      "doseMinima": "1 g/día",
+      "classificacao": "Antibiótico beta-lactámico – cefalosporina de cuarta generación",
+      "apresentacao": "Polvo liofilizado para reconstituir (500 mg, 1 g, 2 g)",
+      "interacaoMedicamento": "Potencia efectos nefrotóxicos, antagoniza aminoglucósidos si se infunden simultáneamente",
+      "posologia": "1–2 g IV cada 8 o 12 horas, ajustar en caso de insuficiencia renal",
+      "armazenamento": "Polvo: temperatura ambiente; solución reconstituida: refrigerada hasta 24h",
+      "preparo": "Reconstituir con agua estéril o cloruro de sodio al 0,9%",
+      "solucoesCompatíveis": "Solución salina, Ringer lactato",
+      "contraindicacoes": "Hipersensibilidad a cefalosporinas o penicilinas",
+      "cuidadosMedicos": "Monitorear función renal, signos de toxicidad neurológica, evolución clínica",
+      "cuidadosFarmaceuticos": "Verificar estabilidad de la solución y técnica aséptica",
+      "cuidadosEnfermagem": "Observar reacciones alérgicas, infundir lentamente, vigilar diuresis",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "头孢吡肟",
+      "suspension": "通常无需停药；肾功能不全者需调整剂量",
+      "risk": "肾功能不全时可能引发神经毒性，与麻醉药物相互作用，可致癫痫",
+      "reintroduction": "根据肾功能和感染控制情况决定是否继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "头孢吡肟",
+      "nomeComercial": "Maxipime",
+      "mecanismoAcao": "第四代头孢菌素类抗生素，通过结合PBP抑制细菌细胞壁合成",
+      "farmacocinetica": "静脉或肌肉注射，广泛分布，低蛋白结合，经肾排泄，半衰期约2小时",
+      "farmacodinamica": "时间依赖性杀菌作用，对革兰阳性和阴性菌有效，包括铜绿假单胞菌",
+      "indicacoes": "重症感染：肺炎、脓毒症、复杂性尿路感染、腹膜炎、发热性中性粒细胞减少症、脑膜炎（非适应症）",
+      "reacoesAdversas": "皮疹、腹泻、转氨酶升高、头痛、神经毒性（意识混乱、肌阵挛、癫痫）",
+      "riscoGravidez": "B类 – 动物研究未发现风险，人体研究数据不足",
+      "riscoLactacao": "微量分泌于乳汁中，一般认为安全",
+      "administracao": "静脉注射或肌肉注射",
+      "doseMaxima": "每日6克",
+      "doseMinima": "每日1克",
+      "classificacao": "β-内酰胺类抗生素 – 第四代头孢菌素",
+      "apresentacao": "冻干粉（500毫克，1克，2克）",
+      "interacaoMedicamento": "可增强其他肾毒性药物作用，与氨基糖苷类药物同用时可能产生拮抗",
+      "posologia": "每8至12小时1–2克，肾功能不全需调整剂量",
+      "armazenamento": "干粉常温保存，配制溶液可冷藏保存24小时",
+      "preparo": "使用无菌注射用水或0.9%氯化钠注射液重构",
+      "solucoesCompatíveis": "生理盐水，乳酸林格液",
+      "contraindicacoes": "对头孢菌素或青霉素过敏者禁用",
+      "cuidadosMedicos": "监测肾功能、神经毒性和治疗反应",
+      "cuidadosFarmaceuticos": "确保溶液稳定性，严格无菌操作",
+      "cuidadosEnfermagem": "观察过敏反应、缓慢注射、监测尿量",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

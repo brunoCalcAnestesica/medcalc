@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido Mefenâmico",
+      "suspension": "Suspender 48 a 72 horas antes de procedimentos cirúrgicos eletivos.",
+      "risk": "Risco de sangramento, lesão gastrintestinal, disfunção renal e interação com anticoagulantes. Efeito antiplaquetário reversível e curta meia-vida.",
+      "reintroduction": "Reintroduzir após estabilidade hemodinâmica, função renal e ausência de sangramento, idealmente 48–72h após a cirurgia."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Mefenâmico",
+      "nomeComercial": "Ponstan, Meftal, Parkem, Acemet",
+      "mecanismoAcao": "Inibe de forma não seletiva as enzimas COX-1 e COX-2, suprimindo a produção de prostaglandinas envolvidas na dor e inflamação.",
+      "farmacocinetica": "Boa absorção oral; pico plasmático em 2–4h; meia-vida de eliminação ~2h; metabolização hepática; excreção renal.",
+      "farmacodinamica": "Ação anti-inflamatória, analgésica e antipirética. Eficaz em dores menstruais e musculoesqueléticas leves a moderadas.",
+      "indicacoes": "Dismenorreia, dor leve a moderada, artralgia, cefaleia, mialgia, febre.",
+      "reacoesAdversas": "Dor epigástrica, diarreia, náusea, sonolência, erupção cutânea, hemorragia gastrintestinal, disfunção renal.",
+      "riscoGravidez": "Categoria C (1º e 2º trimestres), D no 3º (risco de fechamento do ducto arterioso fetal).",
+      "riscoLactacao": "Evitar uso prolongado durante a amamentação.",
+      "administracao": "Via oral.",
+      "doseMaxima": "1500 mg/dia.",
+      "doseMinima": "500 mg/dia.",
+      "classificacao": "Anti-inflamatório não esteroidal (AINE) não seletivo.",
+      "apresentacao": "Comprimidos de 250 mg e 500 mg.",
+      "interacaoMedicamento": "Interage com varfarina, lítio, metotrexato, diuréticos, IECA.",
+      "posologia": "500 mg a cada 8h, por curto período (até 7 dias).",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz.",
+      "preparo": "Não requer preparo especial.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Úlcera ativa, insuficiência renal/hepática grave, asma induzida por AINEs, gravidez no 3º trimestre.",
+      "cuidadosMedicos": "Monitorar função renal, sinais de sangramento GI, PA e tolerância clínica.",
+      "cuidadosFarmaceuticos": "Evitar uso concomitante com outros AINEs; considerar uso restrito a <7 dias.",
+      "cuidadosEnfermagem": "Administrar com alimentos; observar dor abdominal, diarreia ou rash.",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, BNF, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mefenamic Acid",
+      "suspension": "Discontinue 48 to 72 hours before elective surgery.",
+      "risk": "Risk of GI bleeding, renal dysfunction, and reversible platelet inhibition. Interacts with anticoagulants and has a short half-life.",
+      "reintroduction": "Restart 48–72h post-op if renal and hemodynamic status are stable and no bleeding is present."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mefenamic Acid",
+      "nomeComercial": "Ponstel, Ponstan, Mefenex",
+      "mecanismoAcao": "Non-selective COX-1 and COX-2 inhibitor, reducing prostaglandin synthesis involved in pain and inflammation.",
+      "farmacocinetica": "Well absorbed orally; peak in 2–4h; half-life ~2h; hepatic metabolism; renal excretion.",
+      "farmacodinamica": "Anti-inflammatory, analgesic, and antipyretic effects. Especially effective for menstrual and musculoskeletal pain.",
+      "indicacoes": "Primary dysmenorrhea, mild to moderate pain, arthralgia, myalgia, headache, fever.",
+      "reacoesAdversas": "Abdominal pain, diarrhea, nausea, drowsiness, skin rash, GI bleeding, renal dysfunction.",
+      "riscoGravidez": "Category C (1st/2nd trimester), D (3rd trimester – ductus risk).",
+      "riscoLactacao": "Avoid prolonged use during breastfeeding.",
+      "administracao": "Oral route.",
+      "doseMaxima": "1500 mg/day.",
+      "doseMinima": "500 mg/day.",
+      "classificacao": "Non-selective NSAID.",
+      "apresentacao": "Capsules or tablets: 250 mg and 500 mg.",
+      "interacaoMedicamento": "Interacts with warfarin, lithium, methotrexate, diuretics, ACE inhibitors.",
+      "posologia": "500 mg every 8 hours for short-term use (≤7 days).",
+      "armazenamento": "Store at 15–30°C, protected from light.",
+      "preparo": "No special preparation required.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Active peptic ulcer, severe hepatic/renal impairment, NSAID-induced asthma, 3rd trimester pregnancy.",
+      "cuidadosMedicos": "Monitor GI bleeding, renal function, BP and patient tolerance.",
+      "cuidadosFarmaceuticos": "Limit use to ≤7 days; avoid combination with other NSAIDs.",
+      "cuidadosEnfermagem": "Administer with food; monitor for GI upset, rash, or diarrhea.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido Mefenámico",
+      "suspension": "Suspender 48–72 horas antes de cirugía electiva.",
+      "risk": "Riesgo de sangrado GI, toxicidad renal, inhibición plaquetaria reversible. Vida media corta y uso limitado en el tiempo.",
+      "reintroduction": "Reintroducir tras 48–72h de cirugía si hay estabilidad clínica y sin sangrado."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Mefenámico",
+      "nomeComercial": "Ponstan, Meftal",
+      "mecanismoAcao": "Inhibidor no selectivo de COX-1/2; reduce prostaglandinas inflamatorias.",
+      "farmacocinetica": "Absorción oral buena; pico 2–4h; vida media ~2h; metabolismo hepático; excreción renal.",
+      "farmacodinamica": "Efecto antiinflamatorio, analgésico, antipirético. Útil en dismenorrea y dolor leve/moderado.",
+      "indicacoes": "Dismenorrea, dolor leve a moderado, artralgia, cefalea, fiebre.",
+      "reacoesAdversas": "Dolor abdominal, diarrea, náuseas, somnolencia, erupción, sangrado GI, daño renal.",
+      "riscoGravidez": "Categoría C (1º/2º trimestre), D (3º trimestre).",
+      "riscoLactacao": "Evitar uso prolongado durante lactancia.",
+      "administracao": "Vía oral.",
+      "doseMaxima": "1500 mg/día.",
+      "doseMinima": "500 mg/día.",
+      "classificacao": "AINE no selectivo.",
+      "apresentacao": "Comprimidos de 250 mg y 500 mg.",
+      "interacaoMedicamento": "Interacción con warfarina, litio, metotrexato, diuréticos, IECAs.",
+      "posologia": "500 mg cada 8h por corto plazo (≤7 días).",
+      "armazenamento": "15–30°C, protegido de luz.",
+      "preparo": "No requiere preparación.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Úlcera activa, hepatopatía/nefripatía severa, asma inducida por AINE, embarazo 3º trimestre.",
+      "cuidadosMedicos": "Monitorear PA, renal, signos de sangrado GI.",
+      "cuidadosFarmaceuticos": "Uso ≤7 días; evitar otros AINE.",
+      "cuidadosEnfermagem": "Administrar con comida; vigilar malestar GI o erupciones.",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甲芬那酸（Mefenamic Acid）",
+      "suspension": "择期手术前48–72小时停药。",
+      "risk": "存在胃肠道出血、肾毒性、可逆性血小板抑制风险。半衰期短，适合短期用药。",
+      "reintroduction": "术后48–72小时恢复稳定后可重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甲芬那酸",
+      "nomeComercial": "Ponstan、Meftal",
+      "mecanismoAcao": "非选择性COX抑制剂，抑制前列腺素合成。",
+      "farmacocinetica": "口服吸收良好；2–4小时达峰；半衰期约2小时；肝代谢，肾排泄。",
+      "farmacodinamica": "抗炎、镇痛、解热作用，适用于痛经与轻中度疼痛。",
+      "indicacoes": "痛经、轻中度疼痛、关节痛、头痛、发热。",
+      "reacoesAdversas": "胃痛、腹泻、嗜睡、皮疹、胃肠出血、肾损伤。",
+      "riscoGravidez": "妊娠早中期为C类，晚期为D类。",
+      "riscoLactacao": "哺乳期避免长期使用。",
+      "administracao": "口服。",
+      "doseMaxima": "每日1500毫克。",
+      "doseMinima": "每日500毫克。",
+      "classificacao": "非选择性NSAID。",
+      "apresentacao": "250mg、500mg片剂。",
+      "interacaoMedicamento": "与华法林、锂、甲氨蝶呤、利尿剂、ACEI有相互作用。",
+      "posologia": "500mg每8小时，短期使用（≤7天）。",
+      "armazenamento": "15–30°C避光保存。",
+      "preparo": "无需特殊配制。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "活动性溃疡、严重肝肾功能障碍、NSAID诱导哮喘、妊娠晚期。",
+      "cuidadosMedicos": "监测肾功能、胃肠症状、血压。",
+      "cuidadosFarmaceuticos": "建议不超过7天，避免与其他NSAID同用。",
+      "cuidadosEnfermagem": "饭后服用；注意腹痛、腹泻或皮疹等反应。",
+      "fontesBibliograficas": "FDA、中国药典、Micromedex、UpToDate"
+    }
+  }
+}

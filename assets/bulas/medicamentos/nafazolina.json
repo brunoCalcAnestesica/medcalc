@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nafazolina",
+      "suspension": "Suspender 12 horas antes da cirurgia se uso nasal ou oftálmico contínuo",
+      "risk": "Risco de hipertensão, midríase, vasoconstrição sistêmica e rinite ou conjuntivite de rebote",
+      "reintroduction": "Pode ser reintroduzida por curto prazo com controle da PA e duração <3 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nafazolina",
+      "nomeComercial": "Sorine, Vasocilin, Naphcon, Sanarine",
+      "mecanismoAcao": "Agonista α1-adrenérgico com ação vasoconstritora local intensa",
+      "farmacocinetica": "Início em 5 min; duração 4–6 h (nasal); absorção sistêmica possível se uso excessivo",
+      "farmacodinamica": "Reduz hiperemia, edema de mucosa nasal ou conjuntival",
+      "indicacoes": "Congestão nasal, conjuntivite alérgica, hiperemia ocular",
+      "reacoesAdversas": "Ardor, secura, hipertensão, cefaleia, insônia, taquicardia, rebote",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; evitar uso contínuo",
+      "administracao": "Intranasal ou oftálmica",
+      "doseMaxima": "2 aplicações/dia por no máximo 3 dias consecutivos",
+      "doseMinima": "1 aplicação/dia",
+      "classificacao": "Descongestionante α1-adrenérgico tópico",
+      "apresentacao": "Solução nasal 0,05%; colírio 0,025%",
+      "interacaoMedicamento": "Evitar com IMAO, antidepressivos tricíclicos, vasopressores",
+      "posologia": "1–2 gotas/instilação 2x/dia (ocular ou nasal); suspender após 72h",
+      "armazenamento": "15–30°C, protegido da luz",
+      "preparo": "Pronto para uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Glaucoma de ângulo fechado, hipertensão grave, IMAO",
+      "cuidadosMedicos": "Evitar uso crônico; avaliar PA e midríase em ambiente cirúrgico",
+      "cuidadosFarmaceuticos": "Orientar sobre uso pontual e riscos de rebote",
+      "cuidadosEnfermagem": "Monitorar PA, sintomas locais e duração de uso",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Naphazoline",
+      "suspension": "Discontinue 12 hours prior to surgery with chronic nasal or ocular use",
+      "risk": "Risk of systemic hypertension, pupil dilation, rebound congestion/redness",
+      "reintroduction": "May be resumed briefly post-op with BP monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Naphazoline",
+      "nomeComercial": "Naphcon, Clear Eyes, Privine",
+      "mecanismoAcao": "Alpha-adrenergic agonist; vasoconstriction of mucosal and conjunctival vessels",
+      "farmacocinetica": "Onset ~5 min; duration 4–6 h; potential systemic absorption if overused",
+      "farmacodinamica": "Reduces mucosal or conjunctival swelling and redness",
+      "indicacoes": "Nasal congestion, allergic conjunctivitis, ocular hyperemia",
+      "reacoesAdversas": "Stinging, dryness, hypertension, rebound effect",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; avoid prolonged use",
+      "administracao": "Intranasal or ophthalmic",
+      "doseMaxima": "2 uses/day; limit to 3 consecutive days",
+      "doseMinima": "1 use/day",
+      "classificacao": "Topical alpha-adrenergic decongestant",
+      "apresentacao": "Nasal spray 0.05%, eye drops 0.025%",
+      "interacaoMedicamento": "Avoid MAOIs, TCAs, vasopressors",
+      "posologia": "1–2 drops/sprays BID for up to 72 h",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Angle-closure glaucoma, severe hypertension, MAOI use",
+      "cuidadosMedicos": "Avoid long-term use; monitor BP perioperatively",
+      "cuidadosFarmaceuticos": "Limit use to 3 days; educate on rebound risks",
+      "cuidadosEnfermagem": "Check BP, symptom control, and eye/nose status",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nafazolina",
+      "suspension": "Suspender 12 horas antes de cirugía si uso prolongado",
+      "risk": "Riesgo de hipertensión, taquicardia y rinitis/conjuntivitis de rebote",
+      "reintroduction": "Reiniciar tras cirugía sólo si indicado y bajo vigilancia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nafazolina",
+      "nomeComercial": "Nafazolina Cinfa, Naphcon, Vasocid",
+      "mecanismoAcao": "Agonista alfa-adrenérgico tópico; potente vasoconstrictor",
+      "farmacocinetica": "Inicio 5 min, duración 4–6 h, absorción sistémica leve",
+      "farmacodinamica": "Reduce hiperemia, edema nasal u ocular",
+      "indicacoes": "Congestión nasal, conjuntivitis alérgica",
+      "reacoesAdversas": "Ardor, sequedad, insomnio, hipertensión, rebote",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No usar prolongadamente",
+      "administracao": "Intranasal u oftálmica",
+      "doseMaxima": "2 aplicaciones/día por fosa/ojos, máximo 3 días",
+      "doseMinima": "1 aplicación",
+      "classificacao": "Descongestionante alfa-adrenérgico tópico",
+      "apresentacao": "Solución nasal/ocular 0,05–0,025%",
+      "interacaoMedicamento": "Evitar con IMAO, ATC, simpaticomiméticos",
+      "posologia": "1–2 gotas por fosa/ojos cada 12 h (máx 72 h)",
+      "armazenamento": "15–30°C",
+      "preparo": "Listo para uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "HTA severa, glaucoma, uso de IMAO",
+      "cuidadosMedicos": "Evitar rebote; evaluar presión arterial",
+      "cuidadosFarmaceuticos": "Advertir uso limitado y técnica correcta",
+      "cuidadosEnfermagem": "Controlar TA, congestión, efectos adversos",
+      "fontesBibliograficas": "AEMPS, Vademécum, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "萘甲唑啉",
+      "suspension": "术前连续使用者应提前12小时停用",
+      "risk": "可引发高血压、反跳性鼻炎、散瞳及中枢兴奋",
+      "reintroduction": "术后短期可恢复，限时3天内"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "萘甲唑啉",
+      "nomeComercial": "Naphcon, 清爽滴鼻液, 明亮眼药水",
+      "mecanismoAcao": "激动α1受体，引起局部血管收缩",
+      "farmacocinetica": "起效5分钟，持续4–6小时，过量可全身吸收",
+      "farmacodinamica": "缓解鼻/眼黏膜充血和肿胀",
+      "indicacoes": "过敏性结膜炎、鼻塞、眼红",
+      "reacoesAdversas": "烧灼感、干燥、失眠、血压升高、反跳现象",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不宜长期使用",
+      "administracao": "鼻用或眼用",
+      "doseMaxima": "每日2次，每次1–2滴/喷，限3天",
+      "doseMinima": "每日1次",
+      "classificacao": "局部α肾上腺素激动剂去充血药",
+      "apresentacao": "滴鼻液0.05%，滴眼液0.025%",
+      "interacaoMedicamento": "慎与MAOI、TCA等合用",
+      "posologia": "每12小时1–2滴，3天内停用",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "无需稀释，直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "闭角型青光眼、高血压、MAOI使用中",
+      "cuidadosMedicos": "避免长期连续使用，防止反跳性黏膜水肿",
+      "cuidadosFarmaceuticos": "指导按需使用，不超3天",
+      "cuidadosEnfermagem": "监测血压、症状缓解及用药依从性",
+      "fontesBibliograficas": "中国药典, UpToDate, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ampicilina",
+      "suspension": "Manter até o momento da indução anestésica",
+      "risk": "Risco de reações alérgicas; pode causar desequilíbrio eletrolítico em altas doses EV",
+      "reintroduction": "Reintroduzir conforme avaliação infecciosa e clínica no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ampicilina sódica",
+      "nomeComercial": "Ampicilina, Ampicilin, Ampicilinil",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana ligando-se às PBPs",
+      "farmacocinetica": "IV ou IM, meia-vida 1–1,5h, excreção renal",
+      "farmacodinamica": "Bactericida contra Gram-positivos e Gram-negativos sensíveis",
+      "indicacoes": "Infecções respiratórias, urinárias, GI, meningite, listeriose",
+      "reacoesAdversas": "Erupções cutâneas, diarreia, náuseas, anafilaxia, alterações eletrolíticas",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível com amamentação",
+      "administracao": "IV ou IM",
+      "doseMaxima": "12 g/dia (dividido)",
+      "doseMinima": "2 g/dia",
+      "classificacao": "Antibiótico betalactâmico (aminopenicilina)",
+      "apresentacao": "Frascos de 500 mg, 1 g e 2 g",
+      "interacaoMedicamento": "Reduz eficácia de contraceptivos orais; sinergia com aminoglicosídeos",
+      "posologia": "1–2 g IV a cada 4–6h (adultos)",
+      "armazenamento": "Refrigerado após reconstituição; usar em até 24h",
+      "preparo": "Diluir em SF 0,9% ou SG 5% para infusão lenta",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a penicilinas",
+      "cuidadosMedicos": "Ajustar dose em insuficiência renal",
+      "cuidadosFarmaceuticos": "Garantir correta diluição e tempo de estabilidade",
+      "cuidadosEnfermagem": "Observar sinais de alergia, GI e eletrólitos em altas doses",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ampicillin",
+      "suspension": "Continue until anesthesia induction",
+      "risk": "Allergic reactions and possible electrolyte disturbance at high IV doses",
+      "reintroduction": "Restart based on infection control and clinical condition post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ampicillin sodium",
+      "nomeComercial": "Principen, Ampicillin",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis via PBPs",
+      "farmacocinetica": "IV or IM, half-life 1–1.5h, renal excretion",
+      "farmacodinamica": "Bactericidal against susceptible Gram-positive and Gram-negative bacteria",
+      "indicacoes": "Respiratory, urinary, GI infections, meningitis, listeriosis",
+      "reacoesAdversas": "Rash, diarrhea, nausea, anaphylaxis, electrolyte imbalance",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "IV or IM",
+      "doseMaxima": "12 g/day (divided)",
+      "doseMinima": "2 g/day",
+      "classificacao": "Beta-lactam antibiotic (aminopenicillin)",
+      "apresentacao": "Vials 500 mg, 1 g, 2 g",
+      "interacaoMedicamento": "May reduce oral contraceptive efficacy; synergistic with aminoglycosides",
+      "posologia": "1–2 g IV every 4–6h (adults)",
+      "armazenamento": "Refrigerate after reconstitution; use within 24h",
+      "preparo": "Dilute in NS or D5W for slow infusion",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Penicillin allergy",
+      "cuidadosMedicos": "Adjust dose in renal impairment",
+      "cuidadosFarmaceuticos": "Ensure proper dilution and solution stability",
+      "cuidadosEnfermagem": "Monitor for allergy, GI symptoms, and electrolytes with high doses",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ampicilina",
+      "suspension": "Mantener hasta la inducción anestésica",
+      "risk": "Riesgo de alergia y desequilibrio electrolítico con dosis altas IV",
+      "reintroduction": "Reintroducir según control infeccioso y condición postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ampicilina sódica",
+      "nomeComercial": "Ampicilina Normon",
+      "mecanismoAcao": "Inhibe la síntesis de la pared celular bacteriana",
+      "farmacocinetica": "IV o IM, vida media 1–1.5 h, excreción renal",
+      "farmacodinamica": "Bactericida frente a Gram positivos y negativos sensibles",
+      "indicacoes": "Infecciones respiratorias, urinarias, gastrointestinales, meningitis, listeria",
+      "reacoesAdversas": "Erupciones, náuseas, diarrea, anafilaxia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible",
+      "administracao": "IV o IM",
+      "doseMaxima": "12 g/día",
+      "doseMinima": "2 g/día",
+      "classificacao": "Antibiótico betalactámico (aminopenicilina)",
+      "apresentacao": "Viales 500 mg, 1 g, 2 g",
+      "interacaoMedicamento": "Disminuye eficacia de anticonceptivos orales; sinergia con aminoglucósidos",
+      "posologia": "1–2 g IV cada 4–6h",
+      "armazenamento": "Refrigerar tras reconstitución; usar en 24h",
+      "preparo": "Diluir en SF 0,9% o SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a penicilinas",
+      "cuidadosMedicos": "Ajustar dosis si hay insuficiencia renal",
+      "cuidadosFarmaceuticos": "Verificar dilución correcta y estabilidad",
+      "cuidadosEnfermagem": "Observar reacciones alérgicas y síntomas GI",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氨苄西林",
+      "suspension": "可持续至麻醉诱导时",
+      "risk": "高剂量可致电解质紊乱和过敏反应",
+      "reintroduction": "术后根据感染状况重新启用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氨苄西林钠",
+      "nomeComercial": "Ampicillin（进口）",
+      "mecanismoAcao": "结合PBP抑制细菌细胞壁合成",
+      "farmacocinetica": "IV或IM，半衰期1–1.5小时，肾排泄",
+      "farmacodinamica": "对敏感的革兰阳性和阴性菌具杀菌作用",
+      "indicacoes": "呼吸道、泌尿道、胃肠道感染、脑膜炎、李斯特菌感染",
+      "reacoesAdversas": "皮疹、恶心、腹泻、过敏反应、电解质紊乱",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "IV或IM",
+      "doseMaxima": "每日12克",
+      "doseMinima": "每日2克",
+      "classificacao": "β-内酰胺类抗生素（氨基青霉素）",
+      "apresentacao": "500毫克、1克、2克瓶装",
+      "interacaoMedicamento": "影响口服避孕药，与氨基糖苷类协同",
+      "posologia": "成人每4–6小时给予1–2克",
+      "armazenamento": "配制后冷藏24小时内使用",
+      "preparo": "用0.9%氯化钠或5%葡萄糖稀释",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "青霉素过敏",
+      "cuidadosMedicos": "肾功能不全者需调整剂量",
+      "cuidadosFarmaceuticos": "注意配制浓度和药液稳定性",
+      "cuidadosEnfermagem": "监测过敏反应、胃肠反应、电解质",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Benzoato de benzila",
+      "suspension": "Evitar uso em áreas cirúrgicas 48h antes do procedimento",
+      "risk": "Irritação cutânea intensa, risco de toxicidade em pele lesionada ou áreas extensas, especialmente em crianças",
+      "reintroduction": "Pode ser reintroduzido após cicatrização e integridade cutânea restabelecida"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Benzoato de benzila",
+      "nomeComercial": "Miticoçan, Ascabiol, Escabin (associações), Zilaben",
+      "mecanismoAcao": "Agente escabicida que atua por toxicidade direta sobre os ácaros e piolhos, interferindo na respiração celular",
+      "farmacocinetica": "Absorção cutânea variável; metabolização hepática",
+      "farmacodinamica": "Atividade antiparasitária tópica contra Sarcoptes scabiei e Pediculus humanus",
+      "indicacoes": "Escabiose (sarna) e pediculose (piolho)",
+      "reacoesAdversas": "Queimação, ardor, dermatite irritativa, sensação de calor, alergia local",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar uso em mamas; lavar antes de amamentar",
+      "administracao": "Tópica",
+      "doseMaxima": "Evitar em mais de 30% da superfície corporal; uso único ou até 3 dias conforme prescrição",
+      "doseMinima": "Aplicação única com reaplicação em 7 dias se necessário",
+      "classificacao": "Escabicida tópico",
+      "apresentacao": "Loção 25% (adultos) ou diluída para 12,5% (crianças)",
+      "interacaoMedicamento": "Evitar uso com corticosteroides tópicos que reduzam inflamação local e ação do produto",
+      "posologia": "Aplicar à noite em todo o corpo (exceto face), deixar por 8–12h, remover no dia seguinte",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Pronto para uso; pode ser diluído para crianças pequenas",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Feridas abertas, eczema extenso, hipersensibilidade, menores de 2 anos (sem orientação médica)",
+      "cuidadosMedicos": "Tratar todos os contatos domiciliares; desinfetar roupas e roupas de cama",
+      "cuidadosFarmaceuticos": "Instruir sobre modo de aplicação e evitar mucosas, olhos e áreas lesionadas",
+      "cuidadosEnfermagem": "Monitorar sinais de irritação; orientar reaplicação e cuidados com prurido residual",
+      "fontesBibliograficas": "ANVISA, Medscape, Micromedex, bula Miticoçan/Escabin"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Benzyl benzoate",
+      "suspension": "Avoid use on surgical areas 48h prior to surgery",
+      "risk": "Local irritation, systemic toxicity in damaged skin or large areas",
+      "reintroduction": "Reintroduce after skin recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Benzyl benzoate",
+      "nomeComercial": "Ascabiol (not FDA approved in US)",
+      "mecanismoAcao": "Scabicide that interferes with parasite respiration and cell function",
+      "farmacocinetica": "Topical absorption variable; hepatic metabolism",
+      "farmacodinamica": "Kills mites and lice via toxic effects",
+      "indicacoes": "Scabies, pediculosis",
+      "reacoesAdversas": "Stinging, irritation, dermatitis, burning",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid nipple application; rinse before breastfeeding",
+      "administracao": "Topical",
+      "doseMaxima": "Apply once over body; max 2–3 days",
+      "doseMinima": "One-time application may suffice",
+      "classificacao": "Topical antiparasitic",
+      "apresentacao": "25% lotion for adults; 10–12.5% for children",
+      "interacaoMedicamento": "Avoid concurrent corticosteroids",
+      "posologia": "Apply at night, wash off in morning; repeat in 7 days if needed",
+      "armazenamento": "15–30°C",
+      "preparo": "Ready to use; dilute for children if needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Open wounds, eczema, allergy, infants <2y (unless supervised)",
+      "cuidadosMedicos": "Treat household contacts; disinfect linens/clothes",
+      "cuidadosFarmaceuticos": "Educate on correct use, avoid contact with eyes/mucosa",
+      "cuidadosEnfermagem": "Monitor for irritation; assist with application protocol",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Benzoato de bencilo",
+      "suspension": "Evitar en zona quirúrgica 48 h antes",
+      "risk": "Irritación cutánea, posible toxicidad si usado en piel dañada",
+      "reintroduction": "Reanudar tras cicatrización completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Benzoato de bencilo",
+      "nomeComercial": "Ascabiol, Miticozan",
+      "mecanismoAcao": "Escabicida que actúa sobre canales iónicos del parásito",
+      "farmacocinetica": "Absorción variable; metabolismo hepático",
+      "farmacodinamica": "Elimina ácaros y piojos por toxicidad directa",
+      "indicacoes": "Sarna, pediculosis",
+      "reacoesAdversas": "Ardor, eritema, prurito, dermatitis irritativa",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar área de mamas",
+      "administracao": "Tópica",
+      "doseMaxima": "Aplicación en cuerpo completo 1–3 días",
+      "doseMinima": "Aplicación única por la noche",
+      "classificacao": "Escabicida",
+      "apresentacao": "Loción 25%, diluida al 10–12,5% en niños",
+      "interacaoMedicamento": "Evitar corticoides en la misma zona",
+      "posologia": "Aplicar de noche y lavar tras 8–12 h",
+      "armazenamento": "15–30°C",
+      "preparo": "Uso directo o diluido",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Heridas abiertas, eccema severo, <2 años sin control médico",
+      "cuidadosMedicos": "Tratar convivientes, desinfectar ropa",
+      "cuidadosFarmaceuticos": "Instruir forma correcta de uso",
+      "cuidadosEnfermagem": "Supervisar aplicación y signos de irritación",
+      "fontesBibliograficas": "EMA, Medscape, ficha técnica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "苄苯甲酸苄酯（外用）",
+      "suspension": "术前48小时避免用于术区皮肤",
+      "risk": "局部强刺激性，尤其皮肤破损时有系统吸收风险",
+      "reintroduction": "术后皮肤愈合后可重新使用",
+      "contraindicacoes": "破溃、湿疹、2岁以下幼儿"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "苄苯甲酸苄酯",
+      "nomeComercial": "Ascabiol、Miticozan",
+      "mecanismoAcao": "通过神经毒性作用杀灭螨虫和虱子",
+      "farmacocinetica": "皮肤吸收少；肝代谢",
+      "farmacodinamica": "局部抗寄生虫作用",
+      "indicacoes": "疥疮、头虱",
+      "reacoesAdversas": "灼热感、瘙痒、红斑、刺激性皮炎",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免乳房部位",
+      "administracao": "局部使用",
+      "doseMaxima": "一次全身涂抹；必要时可重复1次",
+      "doseMinima": "单次使用8–12小时",
+      "classificacao": "外用杀虫剂",
+      "apresentacao": "25%乳液，儿童稀释至10–12.5%",
+      "interacaoMedicamento": "避免与外用激素同用",
+      "posologia": "睡前全身涂抹，次日清洗",
+      "armazenamento": "15–30°C避光保存",
+      "preparo": "使用前摇匀，可按龄稀释",
+      "solucoesCompatíveis": "不适用",
+      "cuidadosMedicos": "家庭接触者同步处理，衣物热水消毒",
+      "cuidadosFarmaceuticos": "教育使用方法与避开黏膜",
+      "cuidadosEnfermagem": "观察刺激反应与皮肤改善情况",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape、EMA"
+    }
+  }
+}

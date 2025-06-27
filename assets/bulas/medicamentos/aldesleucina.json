@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Aldesleucina",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco elevado de toxicidade sistêmica, hipotensão, febre, insuficiência renal e exacerbação de resposta inflamatória ao trauma cirúrgico",
+      "reintroduction": "Reintroduzir apenas após completa recuperação imunológica e estabilização hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aldesleucina",
+      "nomeComercial": "Proleukin",
+      "mecanismoAcao": "Interleucina-2 humana recombinante que estimula proliferação e ativação de linfócitos T e NK, amplificando resposta imunológica antitumoral",
+      "farmacocinetica": "Administração IV ou SC; meia-vida curta (~85 min); metabolização e excreção hepato-renal",
+      "farmacodinamica": "Potente imunomodulador com efeito citotóxico indireto sobre tumores",
+      "indicacoes": "Carcinoma metastático de células renais, melanoma metastático",
+      "reacoesAdversas": "Síndrome de extravasamento capilar, febre, hipotensão, taquicardia, náusea, oligúria, confusão",
+      "riscoGravidez": "Categoria C — contraindicado salvo risco-vida",
+      "riscoLactacao": "Desconhecido se excretado no leite; evitar uso",
+      "administracao": "Via intravenosa ou subcutânea",
+      "doseMaxima": "600.000 UI/kg IV a cada 8h, até 14 doses por ciclo",
+      "doseMinima": "72.000 UI/kg SC por dia",
+      "classificacao": "Imunoterapia / citocina recombinante",
+      "apresentacao": "Frasco-ampola liofilizado de 1,3 a 22 milhões UI",
+      "interacaoMedicamento": "Potencializa toxicidade de quimioterápicos e interferon; risco aumentado com corticóides",
+      "posologia": "Conforme protocolo oncológico específico; geralmente ciclos alternados de 5 dias",
+      "armazenamento": "Refrigerado entre 2–8°C, proteger da luz, reconstituído usar em 24h",
+      "preparo": "Reconstituir com água estéril; não agitar vigorosamente",
+      "solucoesCompatíveis": "Soro fisiológico ou água estéril",
+      "contraindicacoes": "Insuficiência cardíaca, pulmonar ou renal descompensada; infecção grave; epilepsia",
+      "cuidadosMedicos": "Monitorar sinais vitais, função renal e hepática, eletrólitos e balanço hídrico",
+      "cuidadosFarmaceuticos": "Conferir estabilidade da solução e evitar agitação; controle de temperatura",
+      "cuidadosEnfermagem": "Observar por sinais de extravasamento capilar, hipotensão e febre alta",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Aldesleukin",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "High risk of systemic toxicity, hypotension, fever, renal impairment, and amplified inflammatory response to surgical trauma",
+      "reintroduction": "Restart only after full immune recovery and hemodynamic stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aldesleukin",
+      "nomeComercial": "Proleukin",
+      "mecanismoAcao": "Recombinant IL-2 that promotes proliferation and activation of T cells and NK cells, enhancing antitumor immunity",
+      "farmacocinetica": "IV or SC administration; short half-life (~85 min); hepatic and renal elimination",
+      "farmacodinamica": "Potent immunostimulant with indirect cytotoxic tumor effect",
+      "indicacoes": "Metastatic renal cell carcinoma, metastatic melanoma",
+      "reacoesAdversas": "Capillary leak syndrome, fever, hypotension, tachycardia, nausea, oliguria, confusion",
+      "riscoGravidez": "Category C — contraindicated unless life-threatening condition",
+      "riscoLactacao": "Unknown if excreted in milk; avoid use",
+      "administracao": "IV or subcutaneous",
+      "doseMaxima": "600,000 IU/kg IV every 8h, up to 14 doses per cycle",
+      "doseMinima": "72,000 IU/kg SC daily",
+      "classificacao": "Immunotherapy / recombinant cytokine",
+      "apresentacao": "Lyophilized vial 1.3 to 22 million IU",
+      "interacaoMedicamento": "Enhances toxicity of chemotherapy and interferons; increased risk with corticosteroids",
+      "posologia": "Protocol-dependent; usually 5-day alternating cycles",
+      "armazenamento": "Refrigerate 2–8°C, protect from light, use reconstituted product within 24h",
+      "preparo": "Reconstitute with sterile water; do not shake vigorously",
+      "solucoesCompatíveis": "Normal saline or sterile water",
+      "contraindicacoes": "Decompensated heart, lung, or kidney failure; severe infection; epilepsy",
+      "cuidadosMedicos": "Monitor vitals, renal/hepatic function, electrolytes, and fluid balance",
+      "cuidadosFarmaceuticos": "Ensure stability of solution; avoid agitation; maintain cold chain",
+      "cuidadosEnfermagem": "Watch for capillary leak signs, hypotension, high fever",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Aldesleucina",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo alto de toxicidad sistémica, hipotensión, fiebre, insuficiencia renal y respuesta inflamatoria exacerbada al trauma quirúrgico",
+      "reintroduction": "Reintroducir solo tras recuperación inmunológica y estabilización hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aldesleucina",
+      "nomeComercial": "Proleukin",
+      "mecanismoAcao": "Interleucina-2 recombinante humana que activa linfocitos T y células NK, potenciando la respuesta inmune antitumoral",
+      "farmacocinetica": "Administración IV o SC; vida media ~85 min; eliminación hepática y renal",
+      "farmacodinamica": "Potente inmunoestimulante con efecto antitumoral indirecto",
+      "indicacoes": "Carcinoma metastásico de células renales, melanoma metastásico",
+      "reacoesAdversas": "Síndrome de fuga capilar, fiebre, hipotensión, taquicardia, náuseas, oliguria, confusión",
+      "riscoGravidez": "Categoría C — contraindicado salvo riesgo vital",
+      "riscoLactacao": "Desconocido si se excreta en leche; evitar uso",
+      "administracao": "Vía intravenosa o subcutánea",
+      "doseMaxima": "600.000 UI/kg IV cada 8 h hasta 14 dosis por ciclo",
+      "doseMinima": "72.000 UI/kg SC por día",
+      "classificacao": "Inmunoterapia / citocina recombinante",
+      "apresentacao": "Vial liofilizado de 1,3 a 22 millones de UI",
+      "interacaoMedicamento": "Aumenta toxicidad de quimioterápicos e interferones; mayor riesgo con corticosteroides",
+      "posologia": "Según protocolo; usualmente ciclos alternos de 5 días",
+      "armazenamento": "Refrigerar entre 2–8°C, proteger de la luz, usar reconstituido en 24 h",
+      "preparo": "Reconstituir con agua estéril; no agitar vigorosamente",
+      "solucoesCompatíveis": "Solución salina o agua estéril",
+      "contraindicacoes": "Insuficiencia cardíaca, pulmonar o renal grave; infección severa; epilepsia",
+      "cuidadosMedicos": "Monitorear constantes vitales, función renal/hepática, electrolitos y balance hídrico",
+      "cuidadosFarmaceuticos": "Verificar estabilidad y mantener cadena de frío",
+      "cuidadosEnfermagem": "Observar signos de fuga capilar, hipotensión y fiebre alta",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, ANVISA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿地白细胞介素-2",
+      "suspension": "择期手术前应停药7天",
+      "risk": "高风险：系统毒性、低血压、发热、肾功能损伤及手术炎症反应增强",
+      "reintroduction": "在免疫系统恢复并血流动力学稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿地白细胞介素-2",
+      "nomeComercial": "Proleukin",
+      "mecanismoAcao": "重组人IL-2，激活T细胞和NK细胞，增强抗肿瘤免疫反应",
+      "farmacocinetica": "静脉或皮下注射；半衰期约85分钟；肝肾代谢清除",
+      "farmacodinamica": "强效免疫刺激剂，通过激活免疫系统间接杀伤肿瘤细胞",
+      "indicacoes": "转移性肾癌、转移性黑色素瘤",
+      "reacoesAdversas": "毛细血管渗漏综合征、发热、低血压、心动过速、恶心、少尿、意识障碍",
+      "riscoGravidez": "C类 — 除非生命危险，否则禁用",
+      "riscoLactacao": "是否排泄入乳汁未知；不推荐哺乳期使用",
+      "administracao": "静脉或皮下注射",
+      "doseMaxima": "每8小时600,000 IU/kg静脉注射，最多14次为一疗程",
+      "doseMinima": "皮下注射72,000 IU/kg每日一次",
+      "classificacao": "免疫治疗 / 重组细胞因子",
+      "apresentacao": "冻干粉针剂，1.3至2200万IU/瓶",
+      "interacaoMedicamento": "与化疗药、干扰素联合时毒性增强，与糖皮质激素联用风险增加",
+      "posologia": "根据肿瘤治疗方案，常为5天交替周期",
+      "armazenamento": "2–8°C冷藏，避光，重构后24小时内使用",
+      "preparo": "用无菌水溶解，勿剧烈摇晃",
+      "solucoesCompatíveis": "生理盐水或无菌水",
+      "contraindicacoes": "心、肺、肾功能衰竭；严重感染；癫痫",
+      "cuidadosMedicos": "监测生命体征、肾肝功能、电解质及水分平衡",
+      "cuidadosFarmaceuticos": "确保药液稳定性，勿剧烈摇晃，保持冷链",
+      "cuidadosEnfermagem": "警惕毛细血管渗漏、低血压、高热等反应",
+      "fontesBibliograficas": "FDA、EMA、Micromedex、UpToDate、ANVISA"
+    }
+  }
+}

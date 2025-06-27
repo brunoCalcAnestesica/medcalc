@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Biktarvy",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Baixo risco de interação com anestésicos; essencial para manter supressão viral",
+      "reintroduction": "Manter no pós-operatório se via oral tolerada; monitorar função hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bictegravir + Emtricitabina + Tenofovir alafenamida",
+      "nomeComercial": "Biktarvy",
+      "mecanismoAcao": "Combinação de inibidor da integrase (BIC), inibidor nucleosídeo da transcriptase reversa (FTC) e inibidor nucleotídico da transcriptase reversa (TAF)",
+      "farmacocinetica": "Bictegravir: meia-vida ~17h; Emtricitabina: ~10h; TAF: pró-fármaco ativado intracelularmente",
+      "farmacodinamica": "Bloqueio da replicação viral em múltiplos pontos; supressão rápida e duradoura do HIV",
+      "indicacoes": "Tratamento de infecção por HIV-1 em adultos e adolescentes ≥25 kg sem histórico de resistência",
+      "reacoesAdversas": "Cefaleia, náusea, insônia, diarreia, aumento de transaminases",
+      "riscoGravidez": "Categoria B – pode ser utilizado se benefício justificar o risco",
+      "riscoLactacao": "Amamentação não recomendada devido ao potencial de transmissão e toxicidade",
+      "administracao": "Via oral, 1 comprimido/dia, com ou sem alimentos",
+      "doseMaxima": "1 comprimido/dia (BIC 50 mg + FTC 200 mg + TAF 25 mg)",
+      "doseMinima": "1 comprimido/dia",
+      "classificacao": "Antirretroviral – terapia combinada de 3 drogas",
+      "apresentacao": "Comprimido único de cor violeta contendo a combinação tripla",
+      "interacaoMedicamento": "Evitar com rifampicina, antiácidos com Mg/Al, anticonvulsivantes indutores, erva-de-são-joão",
+      "posologia": "Dose fixa de 1 comprimido por dia no mesmo horário",
+      "armazenamento": "Temperatura ambiente (15–30°C), frasco bem fechado",
+      "preparo": "Não requer reconstituição",
+      "solucoesCompatíveis": "Não aplicável – comprimido",
+      "contraindicacoes": "Hipersensibilidade aos componentes; coinfecção com HBV exige cautela ao interromper",
+      "cuidadosMedicos": "Avaliar função hepática e renal periodicamente; manter adesão",
+      "cuidadosFarmaceuticos": "Conservar na embalagem original; não fracionar comprimido",
+      "cuidadosEnfermagem": "Orientar quanto à adesão diária e efeitos adversos; observar tolerância oral no pós-operatório",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, DHHS HIV Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Biktarvy",
+      "suspension": "Continue until the day of surgery",
+      "risk": "Low interaction risk with anesthetics; essential for maintaining viral suppression",
+      "reintroduction": "Continue postoperatively if oral intake is preserved; monitor liver function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bictegravir + Emtricitabine + Tenofovir alafenamide",
+      "nomeComercial": "Biktarvy",
+      "mecanismoAcao": "Integrase inhibitor (BIC) + nucleoside reverse transcriptase inhibitor (FTC) + nucleotide reverse transcriptase inhibitor (TAF)",
+      "farmacocinetica": "BIC: ~17h half-life; FTC: ~10h; TAF: intracellular activation",
+      "farmacodinamica": "Inhibits viral replication at multiple points; rapid and sustained HIV suppression",
+      "indicacoes": "Treatment of HIV-1 in adults and adolescents ≥25 kg without prior resistance",
+      "reacoesAdversas": "Headache, nausea, insomnia, diarrhea, elevated liver enzymes",
+      "riscoGravidez": "Category B – use if benefit outweighs potential risks",
+      "riscoLactacao": "Breastfeeding not recommended due to risk of transmission and toxicity",
+      "administracao": "Oral, 1 tablet once daily, with or without food",
+      "doseMaxima": "1 tablet/day (BIC 50 mg + FTC 200 mg + TAF 25 mg)",
+      "doseMinima": "1 tablet/day",
+      "classificacao": "Antiretroviral – 3-drug fixed-dose combination",
+      "apresentacao": "Single purple tablet containing triple combination",
+      "interacaoMedicamento": "Avoid with rifampin, Mg/Al antacids, enzyme-inducing anticonvulsants, St. John's wort",
+      "posologia": "Fixed-dose once daily at the same time",
+      "armazenamento": "Store at 15–30°C in original container, tightly closed",
+      "preparo": "No reconstitution required",
+      "solucoesCompatíveis": "Not applicable – oral tablet",
+      "contraindicacoes": "Hypersensitivity to components; HBV coinfection requires caution if discontinued",
+      "cuidadosMedicos": "Monitor liver and renal function regularly; ensure adherence",
+      "cuidadosFarmaceuticos": "Keep in original packaging; do not split the tablet",
+      "cuidadosEnfermagem": "Reinforce daily adherence and monitor adverse effects; check for oral tolerance post-op",
+      "fontesBibliograficas": "FDA, EMA, DHHS HIV Guidelines, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Biktarvy",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Bajo riesgo de interacción anestésica; esencial para mantener la supresión viral",
+      "reintroduction": "Continuar en el postoperatorio si se tolera vía oral; controlar función hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bictegravir + Emtricitabina + Tenofovir alafenamida",
+      "nomeComercial": "Biktarvy",
+      "mecanismoAcao": "Inhibidor de la integrasa (BIC) + inhibidor nucleósido de la transcriptasa inversa (FTC) + inhibidor nucleotídico (TAF)",
+      "farmacocinetica": "BIC: vida media ~17h; FTC: ~10h; TAF: activación intracelular",
+      "farmacodinamica": "Inhibe la replicación viral en múltiples etapas; supresión rápida y sostenida del VIH",
+      "indicacoes": "Tratamiento del VIH-1 en adultos y adolescentes ≥25 kg sin resistencia previa",
+      "reacoesAdversas": "Cefalea, náuseas, insomnio, diarrea, aumento de transaminasas",
+      "riscoGravidez": "Categoría B – usar si el beneficio supera el riesgo",
+      "riscoLactacao": "No se recomienda la lactancia por riesgo de transmisión y toxicidad",
+      "administracao": "Vía oral, 1 comprimido al día, con o sin alimentos",
+      "doseMaxima": "1 comprimido/día (BIC 50 mg + FTC 200 mg + TAF 25 mg)",
+      "doseMinima": "1 comprimido/día",
+      "classificacao": "Antirretroviral – combinación fija de 3 fármacos",
+      "apresentacao": "Comprimido único de color violeta con triple combinación",
+      "interacaoMedicamento": "Evitar con rifampicina, antiácidos Mg/Al, anticonvulsivos inductores, hierba de San Juan",
+      "posologia": "1 comprimido diario en el mismo horario",
+      "armazenamento": "Conservar a 15–30°C en su envase original bien cerrado",
+      "preparo": "No requiere reconstitución",
+      "solucoesCompatíveis": "No aplica – comprimido oral",
+      "contraindicacoes": "Hipersensibilidad a los componentes; precaución al suspender si coinfección con VHB",
+      "cuidadosMedicos": "Monitorear función hepática y renal; asegurar adherencia",
+      "cuidadosFarmaceuticos": "Conservar en envase original; no fraccionar comprimido",
+      "cuidadosEnfermagem": "Reforzar adherencia diaria y observar efectos adversos; verificar tolerancia oral postoperatoria",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, Guías DHHS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "必妥维",
+      "suspension": "术前当天继续使用",
+      "risk": "与麻醉药物相互作用风险低；维持病毒抑制至关重要",
+      "reintroduction": "术后如可经口服则继续使用；监测肝功能"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "比克替拉韦 + 恩曲他滨 + 阿拉芬胺替诺福韦",
+      "nomeComercial": "必妥维（Biktarvy）",
+      "mecanismoAcao": "整合酶抑制剂（BIC）+ 核苷类逆转录酶抑制剂（FTC）+ 核苷酸类逆转录酶抑制剂（TAF）",
+      "farmacocinetica": "比克替拉韦：半衰期约17小时；恩曲他滨：约10小时；TAF在细胞内激活",
+      "farmacodinamica": "多点抑制病毒复制；实现快速持久的HIV抑制",
+      "indicacoes": "适用于体重≥25公斤、无耐药史的成人和青少年HIV-1感染",
+      "reacoesAdversas": "头痛、恶心、失眠、腹泻、转氨酶升高",
+      "riscoGravidez": "B类 – 若潜在益处超过风险可考虑使用",
+      "riscoLactacao": "不建议哺乳，因存在病毒传播和毒性风险",
+      "administracao": "口服，每日1片，可与食物同服",
+      "doseMaxima": "每日1片（BIC 50mg + FTC 200mg + TAF 25mg）",
+      "doseMinima": "每日1片",
+      "classificacao": "抗逆转录病毒药物 – 三联固定剂量组合",
+      "apresentacao": "紫色单片制剂，含三种成分",
+      "interacaoMedicamento": "避免与利福平、含镁/铝抗酸剂、诱导酶抗癫痫药、圣约翰草同用",
+      "posologia": "每日同一时间服用1片",
+      "armazenamento": "15–30°C保存于原包装中，保持密封",
+      "preparo": "无需重构",
+      "solucoesCompatíveis": "不适用 – 口服片剂",
+      "contraindicacoes": "对成分过敏者禁用；合并HBV时停药需谨慎",
+      "cuidadosMedicos": "定期监测肝肾功能；确保用药依从性",
+      "cuidadosFarmaceuticos": "存放于原包装中；勿掰片使用",
+      "cuidadosEnfermagem": "强调每日服药；监测不良反应；术后确认口服可行性",
+      "fontesBibliograficas": "FDA, EMA, 中国药典, Micromedex, DHHS指南"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lidocaína injetável",
+      "suspension": "Não aplicável; uso intraoperatório ou perioperatório sob prescrição médica",
+      "risk": "Risco de toxicidade sistêmica se administrada por via intravascular inadvertida: convulsões, bradicardia, parada cardíaca",
+      "reintroduction": "Uso conforme necessidade anestésica sob supervisão"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Lidocaína",
+      "nomeComercial": "Xylestesin, Xylocaine, Lidonostrum",
+      "mecanismoAcao": "Bloqueia canais de sódio dependentes de voltagem, inibindo a condução nervosa",
+      "farmacocinetica": "Início de ação em 2–5min (IV), 5–10min (infiltração); duração: 1–2h; metabolização hepática",
+      "farmacodinamica": "Anestesia local e bloqueio nervoso com ação rápida e intermediária",
+      "indicacoes": "Anestesia local/regional, bloqueios nervosos, controle de arritmias ventriculares (IV)",
+      "reacoesAdversas": "Tontura, parestesia, hipotensão, bradicardia, convulsões (em superdose)",
+      "riscoGravidez": "Categoria B – segura quando usada corretamente",
+      "riscoLactacao": "Seguro em pequenas doses",
+      "administracao": "Infiltração, peridural, raquidiana, intravenosa (uso antiarrítmico)",
+      "doseMaxima": "4,5mg/kg (sem vasoconstritor); 7mg/kg (com adrenalina)",
+      "doseMinima": "Ajustada conforme área e tipo de procedimento",
+      "classificacao": "Anestésico local tipo amida",
+      "apresentacao": "Soluções 1%, 2%, com ou sem vasoconstritor (adrenalina); frascos 10mL, 20mL, 50mL",
+      "interacaoMedicamento": "Interage com antiarrítmicos classe I/III, anestésicos gerais e depressores do SNC",
+      "posologia": "Variável; ajuste pela via, área e técnica",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Pronto para uso ou diluído em SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Hipersensibilidade a amidas, bloqueio cardíaco grave, hipotensão severa",
+      "cuidadosMedicos": "Monitorar sinais vitais, ECG, sinais neurológicos precoces de toxicidade",
+      "cuidadosFarmaceuticos": "Garantir rotulagem, diluição correta e via adequada",
+      "cuidadosEnfermagem": "Observar eficácia anestésica e sinais de toxicidade",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, BPR"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Injectable Lidocaine",
+      "suspension": "Not applicable; used during surgical or perioperative procedures under supervision",
+      "risk": "Risk of systemic toxicity if administered intravascularly: seizures, bradycardia, cardiac arrest",
+      "reintroduction": "Reintroduce as needed for anesthesia under supervision"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lidocaine hydrochloride",
+      "nomeComercial": "Xylocaine, Lidoject, Lidonostrum",
+      "mecanismoAcao": "Blocks voltage-gated sodium channels, preventing nerve signal conduction",
+      "farmacocinetica": "Onset: 2–5min (IV), 5–10min (local); duration: 1–2h; hepatic metabolism",
+      "farmacodinamica": "Rapid-onset intermediate-duration local anesthetic",
+      "indicacoes": "Local/regional anesthesia, nerve block, ventricular arrhythmia control (IV)",
+      "reacoesAdversas": "Dizziness, paresthesia, hypotension, bradycardia, seizures (if overdose)",
+      "riscoGravidez": "Category B – safe when properly used",
+      "riscoLactacao": "Safe in small doses",
+      "administracao": "Infiltration, epidural, spinal, intravenous (antiarrhythmic use)",
+      "doseMaxima": "4.5mg/kg (without vasoconstrictor); 7mg/kg (with epinephrine)",
+      "doseMinima": "Adjusted per area/procedure",
+      "classificacao": "Amide-type local anesthetic",
+      "apresentacao": "Solutions 1%, 2%, with/without epinephrine; 10mL, 20mL, 50mL vials",
+      "interacaoMedicamento": "Interacts with antiarrhythmics, general anesthetics, CNS depressants",
+      "posologia": "Variable; individualized per technique and site",
+      "armazenamento": "Room temp, protect from light",
+      "preparo": "Ready to use or dilute in 0.9% NaCl",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Amide allergy, severe hypotension, complete heart block",
+      "cuidadosMedicos": "Monitor ECG, vitals, early signs of toxicity",
+      "cuidadosFarmaceuticos": "Ensure labeling, dilution and route verification",
+      "cuidadosEnfermagem": "Observe for pain control, paresthesia, and toxicity signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lidocaína inyectable",
+      "suspension": "No aplica; uso hospitalario durante cirugía o procedimiento perioperatorio",
+      "risk": "Riesgo de toxicidad sistémica si se administra IV: convulsiones, bradicardia, paro cardíaco",
+      "reintroduction": "Reintroducir según necesidad bajo supervisión"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Lidocaína",
+      "nomeComercial": "Xylocaine, Lidoject",
+      "mecanismoAcao": "Bloquea canales de sodio dependientes de voltaje, impidiendo conducción nerviosa",
+      "farmacocinetica": "Inicio 2–5min (IV), 5–10min (local); duración 1–2h; metabolismo hepático",
+      "farmacodinamica": "Anestésico local de inicio rápido y duración intermedia",
+      "indicacoes": "Anestesia local/regional, bloqueo nervioso, arritmias ventriculares (IV)",
+      "reacoesAdversas": "Mareo, parestesias, hipotensión, bradicardia, convulsiones (sobredosis)",
+      "riscoGravidez": "Categoría B – seguro en uso controlado",
+      "riscoLactacao": "Seguro en dosis bajas",
+      "administracao": "Infiltración, epidural, subaracnoidea, IV (uso antiarrítmico)",
+      "doseMaxima": "4,5mg/kg (sin vasoconstrictor); 7mg/kg (con epinefrina)",
+      "doseMinima": "Ajustada según procedimiento",
+      "classificacao": "Anestésico local tipo amida",
+      "apresentacao": "Soluciones 1%, 2%; con/sin epinefrina; viales de 10, 20, 50mL",
+      "interacaoMedicamento": "Interacción con antiarrítmicos, anestésicos generales y depresores del SNC",
+      "posologia": "Individualizada según técnica",
+      "armazenamento": "Ambiente seco, proteger de la luz",
+      "preparo": "Listo para usar o diluir en SSN 0,9%",
+      "solucoesCompatíveis": "SSN 0,9%",
+      "contraindicacoes": "Alergia a amidas, hipotensión severa, bloqueo cardíaco completo",
+      "cuidadosMedicos": "Monitorear ECG, signos vitales y toxicidad temprana",
+      "cuidadosFarmaceuticos": "Verificar dilución, etiquetado y vía",
+      "cuidadosEnfermagem": "Vigilar respuesta analgésica y signos de toxicidad",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利多卡因注射液",
+      "suspension": "不适用；在手术或麻醉中使用",
+      "risk": "如误入血管，可能引起全身毒性：癫痫、心动过缓、心脏骤停",
+      "reintroduction": "根据麻醉需要，在医生指导下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸利多卡因",
+      "nomeComercial": "赛络卡因（Xylocaine）",
+      "mecanismoAcao": "阻断电压依赖性钠通道，抑制神经信号传导",
+      "farmacocinetica": "IV起效2–5分钟，局部5–10分钟；持续1–2小时；肝脏代谢",
+      "farmacodinamica": "起效快、中等持续时间的局部麻醉药",
+      "indicacoes": "局麻、区域阻滞、室性心律失常（IV）",
+      "reacoesAdversas": "头晕、感觉异常、低血压、心动过缓、抽搐（过量）",
+      "riscoGravidez": "B类 – 临床使用安全",
+      "riscoLactacao": "少量进入乳汁，短期使用安全",
+      "administracao": "局部浸润、硬膜外、蛛网膜下腔、静脉（抗心律失常）",
+      "doseMaxima": "4.5mg/kg（无肾上腺素）；7mg/kg（含肾上腺素）",
+      "doseMinima": "根据操作调整",
+      "classificacao": "酰胺类局部麻醉药",
+      "apresentacao": "1%、2%注射液，含/不含肾上腺素，10mL、20mL、50mL瓶",
+      "interacaoMedicamento": "与I类、III类抗心律药、全麻药、中枢抑制药物相互作用",
+      "posologia": "依据操作、部位和病人个体化调整",
+      "armazenamento": "常温避光保存",
+      "preparo": "可原液使用或稀释于0.9%氯化钠",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对酰胺过敏、重度低血压、完全性房室传导阻滞",
+      "cuidadosMedicos": "监测心电图、生命体征、神经毒性早期表现",
+      "cuidadosFarmaceuticos": "确认药液完整、稀释正确及注射途径",
+      "cuidadosEnfermagem": "观察镇痛效果和毒性征象",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

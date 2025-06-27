@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Evolocumabe",
+      "suspension": "Não necessita suspensão pré-operatória, salvo em caso de hipersensibilidade grave ou reação anafilática prévia",
+      "risk": "Risco mínimo perioperatório; possíveis reações no local da aplicação, sintomas gripais e mialgia",
+      "reintroduction": "Pode ser mantido ou reintroduzido normalmente após estabilização clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Evolocumabe",
+      "nomeComercial": "Repatha",
+      "mecanismoAcao": "Anticorpo monoclonal que inibe a PCSK9, aumentando a expressão de receptores de LDL e reduzindo o colesterol LDL circulante",
+      "farmacocinetica": "Administração subcutânea; pico plasmático em 3–4 dias; meia-vida ~11–17 dias",
+      "farmacodinamica": "Redução de até 60% no LDL-c; efeito aditivo à estatina e ezetimiba",
+      "indicacoes": "Hipercolesterolemia familiar, dislipidemia primária, prevenção cardiovascular em pacientes com doença aterosclerótica estabelecida",
+      "reacoesAdversas": "Reações no local da injeção, mialgia, sintomas gripais, urticária, rara anafilaxia",
+      "riscoGravidez": "Categoria C – usar apenas se claramente necessário",
+      "riscoLactacao": "Desconhecido; evitar se possível",
+      "administracao": "Subcutânea (abdome, coxa ou braço)",
+      "doseMaxima": "420 mg SC 1x/mês",
+      "doseMinima": "140 mg SC a cada 2 semanas",
+      "classificacao": "Anticorpo monoclonal anti-PCSK9",
+      "apresentacao": "Caneta ou seringa preenchida: 140 mg/mL",
+      "interacaoMedicamento": "Sem interações medicamentosas significativas conhecidas",
+      "posologia": "140 mg SC a cada 2 semanas ou 420 mg SC 1x/mês",
+      "armazenamento": "Refrigerado (2–8 °C); pode permanecer até 30 dias à temperatura ambiente (≤25 °C)",
+      "preparo": "Pronto para uso; deixar em temperatura ambiente por 30 min antes da aplicação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao evolocumabe ou excipientes",
+      "cuidadosMedicos": "Monitorar perfil lipídico, adesão e resposta clínica",
+      "cuidadosFarmaceuticos": "Educar sobre técnica de aplicação e armazenamento",
+      "cuidadosEnfermagem": "Observar reações locais e sintomas alérgicos",
+      "fontesBibliograficas": "FDA, ANVISA, UpToDate, Micromedex, ESC Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Evolocumab",
+      "suspension": "No need to discontinue perioperatively unless severe allergy history",
+      "risk": "Minimal; injection site reactions, flu-like symptoms, rare hypersensitivity",
+      "reintroduction": "Can be continued or resumed once stable post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Evolocumab",
+      "nomeComercial": "Repatha",
+      "mecanismoAcao": "PCSK9 inhibitor monoclonal antibody; increases LDL receptor recycling and LDL-C clearance",
+      "farmacocinetica": "SC; peak in 3–4 days; t½ ~11–17 days",
+      "farmacodinamica": "Lowers LDL-C by up to 60%; additive to statin therapy",
+      "indicacoes": "HeFH, HoFH, ASCVD risk reduction",
+      "reacoesAdversas": "Injection site reaction, myalgia, flu syndrome, urticaria",
+      "riscoGravidez": "Category C – use if necessary",
+      "riscoLactacao": "Unknown; caution advised",
+      "administracao": "Subcutaneous (abdomen, thigh, arm)",
+      "doseMaxima": "420 mg monthly",
+      "doseMinima": "140 mg every 2 weeks",
+      "classificacao": "PCSK9 inhibitor monoclonal antibody",
+      "apresentacao": "Pre-filled pen/syringe 140 mg/mL",
+      "interacaoMedicamento": "No major interactions reported",
+      "posologia": "140 mg SC q2w or 420 mg SC monthly",
+      "armazenamento": "Refrigerate (2–8 °C); room temp ≤25 °C for 30 days",
+      "preparo": "Allow 30 min at room temperature before injection",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Known hypersensitivity",
+      "cuidadosMedicos": "Lipid panel monitoring and therapy adherence",
+      "cuidadosFarmaceuticos": "Educate on self-injection and handling",
+      "cuidadosEnfermagem": "Monitor site and allergic symptoms",
+      "fontesBibliograficas": "FDA, AHA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Evolocumab",
+      "suspension": "No requiere suspensión antes de cirugía salvo alergia grave",
+      "risk": "Reacciones locales, síntomas gripales, mialgia, urticaria",
+      "reintroduction": "Puede mantenerse o reiniciarse tras cirugía si paciente está estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Evolocumab",
+      "nomeComercial": "Repatha",
+      "mecanismoAcao": "Anticuerpo anti-PCSK9; mejora reciclaje de receptores LDL",
+      "farmacocinetica": "SC; pico 3–4 días; t½ 11–17 días",
+      "farmacodinamica": "Reduce LDL-C hasta 60%",
+      "indicacoes": "HFH, dislipidemia, prevención cardiovascular",
+      "reacoesAdversas": "Eritema, mialgia, síndrome gripal, anafilaxia rara",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar si es posible",
+      "administracao": "Subcutánea (abdomen, muslo, brazo)",
+      "doseMaxima": "420 mg/mes",
+      "doseMinima": "140 mg cada 2 semanas",
+      "classificacao": "Inhibidor de PCSK9",
+      "apresentacao": "Jeringa/pluma 140 mg/mL",
+      "interacaoMedicamento": "Sin interacciones relevantes",
+      "posologia": "140 mg cada 2 semanas o 420 mg al mes",
+      "armazenamento": "2–8 °C; máx 30 días <25 °C",
+      "preparo": "30 min a temperatura ambiente antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a evolocumab",
+      "cuidadosMedicos": "Perfil lipídico y adherencia terapéutica",
+      "cuidadosFarmaceuticos": "Instruir técnica e conservación",
+      "cuidadosEnfermagem": "Observar eritema y síntomas alérgicos",
+      "fontesBibliograficas": "EMA, AHA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "依洛尤单抗（Evolocumab）",
+      "suspension": "除非严重过敏史，术前无需停药",
+      "risk": "局部注射反应、肌痛、感冒样症状、过敏",
+      "reintroduction": "术后稳定可继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依洛尤单抗",
+      "nomeComercial": "Repatha",
+      "mecanismoAcao": "抗PCSK9抗体，提高LDL受体循环，增强降脂作用",
+      "farmacocinetica": "皮下注射，3–4天达峰，t½约11–17天",
+      "farmacodinamica": "LDL-C下降高达60%，可与他汀联用",
+      "indicacoes": "家族性高胆固醇血症、动脉粥样硬化性心血管病",
+      "reacoesAdversas": "红肿、肌痛、发热、过敏反应",
+      "riscoGravidez": "C类，慎用",
+      "riscoLactacao": "未知，建议暂停",
+      "administracao": "皮下注射（腹部、大腿、上臂）",
+      "doseMaxima": "420 mg/月",
+      "doseMinima": "140 mg每2周",
+      "classificacao": "PCSK9单抗降脂药",
+      "apresentacao": "140 mg/mL预充针或注射笔",
+      "interacaoMedicamento": "暂无临床相关相互作用",
+      "posologia": "每2周140 mg或每月420 mg",
+      "armazenamento": "冷藏2–8°C，可常温存放30天（<25°C）",
+      "preparo": "使用前放置室温30分钟",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对本品过敏",
+      "cuidadosMedicos": "监测LDL-C水平，指导依从性",
+      "cuidadosFarmaceuticos": "教育注射技巧，强调冷藏保存",
+      "cuidadosEnfermagem": "注射部位护理与过敏反应观察",
+      "fontesBibliograficas": "FDA、AHA、ESC、UpToDate、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Givosirano",
+      "suspension": "Suspender 5 dias antes de cirurgia de grande porte por risco de hepatotoxicidade ou resposta imune alterada",
+      "risk": "Elevação de transaminases, lesão hepática, dor no local da injeção, risco de reações alérgicas",
+      "reintroduction": "Reintroduzir após estabilização hepática e ausência de reação adversa sistêmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Givosirano",
+      "nomeComercial": "Givlaari",
+      "mecanismoAcao": "RNA interferente (siRNA) que inibe a síntese do ácido aminolevulínico sintase 1 (ALAS1) no fígado",
+      "farmacocinetica": "Administração SC, meia-vida ~5 dias, metabolização por nucleases, excreção hepática",
+      "farmacodinamica": "Reduz acúmulo de precursores tóxicos da porfirina, prevenindo ataques agudos de porfiria hepática",
+      "indicacoes": "Porfiria hepática aguda (PHA) em adultos",
+      "reacoesAdversas": "Reações no local da injeção, náusea, fadiga, elevação de transaminases, exantema",
+      "riscoGravidez": "Categoria C – dados limitados, evitar uso",
+      "riscoLactacao": "Desconhecido; evitar ou suspender amamentação",
+      "administracao": "Subcutânea, 1x/mês",
+      "doseMaxima": "2,5 mg/kg por mês",
+      "doseMinima": "2,5 mg/kg (dose única mensal)",
+      "classificacao": "siRNA terapêutico (inibidor de ALAS1)",
+      "apresentacao": "Solução injetável 189 mg/mL (vial de 1 mL)",
+      "interacaoMedicamento": "Monitorar uso concomitante com fármacos hepatotóxicos; sem interações medicamentosas formais estabelecidas",
+      "posologia": "2,5 mg/kg SC 1 vez por mês",
+      "armazenamento": "Refrigerado (2–8°C), não congelar, proteger da luz",
+      "preparo": "Pronto para uso; administrar via SC em abdome, coxa ou braço",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao givosirano ou excipientes",
+      "cuidadosMedicos": "Monitorar função hepática e renal periodicamente",
+      "cuidadosFarmaceuticos": "Manter cadeia de frio; não agitar",
+      "cuidadosEnfermagem": "Observar reações locais, sinais de toxicidade hepática e alergias",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Givosiran",
+      "suspension": "Hold 5 days before major surgery if hepatic dysfunction or systemic effects are expected",
+      "risk": "Elevated LFTs, injection site pain, hypersensitivity, potential renal/hepatic toxicity",
+      "reintroduction": "Resume after clinical stability and liver enzyme normalization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Givosiran",
+      "nomeComercial": "Givlaari",
+      "mecanismoAcao": "Liver-directed siRNA that suppresses ALAS1 to reduce toxic heme intermediates",
+      "farmacocinetica": "SC, t½ ~5 days, metabolized by nucleases, hepatic excretion",
+      "farmacodinamica": "Lowers ALA/PBG accumulation, preventing acute hepatic porphyria attacks",
+      "indicacoes": "Adults with acute hepatic porphyria (AHP)",
+      "reacoesAdversas": "Injection site reactions, nausea, rash, elevated ALT/AST",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended; unknown if excreted",
+      "administracao": "Monthly SC injection",
+      "doseMaxima": "2.5 mg/kg/month",
+      "doseMinima": "2.5 mg/kg/month",
+      "classificacao": "RNA interference therapeutic (ALAS1 inhibitor)",
+      "apresentacao": "Solution for injection 189 mg/mL (1 mL vial)",
+      "interacaoMedicamento": "Caution with hepatotoxic agents; limited interaction data",
+      "posologia": "2.5 mg/kg SC monthly",
+      "armazenamento": "Refrigerate 2–8°C, protect from light, do not freeze",
+      "preparo": "Ready to use; inject SC into abdomen, arm, or thigh",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Known hypersensitivity to givosiran",
+      "cuidadosMedicos": "Monitor liver enzymes, renal function",
+      "cuidadosFarmaceuticos": "Do not shake; store cold chain",
+      "cuidadosEnfermagem": "Assess for injection site and hepatic reactions",
+      "fontesBibliograficas": "FDA, UpToDate, Lexicomp, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Givosiran",
+      "suspension": "Suspender 5 días antes de cirugía mayor en pacientes con alteración hepática",
+      "risk": "Hepatotoxicidad, náuseas, dolor local, exantema, aumento de transaminasas",
+      "reintroduction": "Reanudar tras recuperación clínica y hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Givosiran",
+      "nomeComercial": "Givlaari",
+      "mecanismoAcao": "ARNi dirigido al hígado que inhibe ALAS1, reduciendo metabolitos tóxicos",
+      "farmacocinetica": "SC, t½ ~5 días, degradado por nucleasas, excreción hepática",
+      "farmacodinamica": "Disminuye ALA y PBG, previniendo ataques de porfiria hepática aguda",
+      "indicacoes": "Porfiria hepática aguda en adultos",
+      "reacoesAdversas": "Reacción local, erupción, náusea, enzimas hepáticas elevadas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante lactancia",
+      "administracao": "Subcutánea mensual",
+      "doseMaxima": "2.5 mg/kg/mes",
+      "doseMinima": "2.5 mg/kg/mes",
+      "classificacao": "ARN interferente (inhibidor ALAS1)",
+      "apresentacao": "Solución inyectable 189 mg/mL",
+      "interacaoMedicamento": "Precaución con hepatotóxicos",
+      "posologia": "2.5 mg/kg SC mensual",
+      "armazenamento": "2–8°C, sin congelar, protegido de la luz",
+      "preparo": "Lista para usar; vía SC",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad al principio activo",
+      "cuidadosMedicos": "Monitorear función hepática y renal",
+      "cuidadosFarmaceuticos": "Conservar en frío; no agitar",
+      "cuidadosEnfermagem": "Controlar reacción local, síntomas hepáticos",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "吉沃西兰",
+      "suspension": "术前5天停药，防止术后肝毒性",
+      "risk": "转氨酶升高、注射部位红肿、皮疹、肝功能异常",
+      "reintroduction": "术后肝功能恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "吉沃西兰",
+      "nomeComercial": "Givlaari",
+      "mecanismoAcao": "小干扰RNA（siRNA），抑制肝脏ALAS1表达，降低ALA/PBG",
+      "farmacocinetica": "皮下注射，半衰期约5天，经肝代谢",
+      "farmacodinamica": "预防急性肝性卟啉发作",
+      "indicacoes": "成人急性肝性卟啉症",
+      "reacoesAdversas": "局部红肿、恶心、皮疹、ALT/AST升高",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "每月一次皮下注射",
+      "doseMaxima": "每月2.5 mg/kg",
+      "doseMinima": "2.5 mg/kg/月",
+      "classificacao": "siRNA靶向治疗",
+      "apresentacao": "189 mg/mL注射液",
+      "interacaoMedicamento": "与肝毒性药物合用需谨慎",
+      "posologia": "每月一次，按体重2.5 mg/kg",
+      "armazenamento": "2–8°C，避光，不可冷冻",
+      "preparo": "直接使用；皮下注射",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对吉沃西兰过敏者",
+      "cuidadosMedicos": "监测肝肾功能、注射反应",
+      "cuidadosFarmaceuticos": "冷链保存，使用前平衡至室温",
+      "cuidadosEnfermagem": "关注红斑、皮疹、肝毒性表现",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

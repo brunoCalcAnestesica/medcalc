@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Atovaquona",
+      "suspension": "Suspender 24–48 horas antes de cirurgias de grande porte com risco hepático",
+      "risk": "Hepatotoxicidade leve, desconforto gastrointestinal, interação com anestésicos metabolizados por fígado",
+      "reintroduction": "Reintroduzir após normalização de enzimas hepáticas e tolerância oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atovaquona",
+      "nomeComercial": "Malarone (com proguanil), Mepron",
+      "mecanismoAcao": "Inibe a cadeia de transporte de elétrons mitocondrial do parasita",
+      "farmacocinetica": "Biodisponibilidade oral 23–47% (aumenta com alimento); meia-vida 2–3 dias; eliminação fecal",
+      "farmacodinamica": "Bloqueia crescimento intraeritrocitário de Plasmodium e Pneumocystis",
+      "indicacoes": "Malária (com proguanil), toxoplasmose, Pneumocystis jirovecii (profilaxia ou tratamento)",
+      "reacoesAdversas": "Náusea, diarreia, rash, elevação de transaminases, cefaleia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral",
+      "doseMaxima": "1.500mg/dia (isolada); 1.000mg/dia (com proguanil)",
+      "doseMinima": "250mg/dia",
+      "classificacao": "Antiprotozoário e antipneumocístico",
+      "apresentacao": "Comprimidos 250mg (com proguanil), suspensão oral 750mg/5mL",
+      "interacaoMedicamento": "Reduzida com rifampicina, tetraciclina; interage com warfarina, metoclopramida",
+      "posologia": "Malária: 250mg 1x/dia com proguanil; Pneumocystis: 750mg 2x/dia",
+      "armazenamento": "Temperatura ambiente; proteger da luz",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar função hepática e GI; avaliar interações com anticoagulantes",
+      "cuidadosFarmaceuticos": "Administrar com alimentos gordurosos para melhor absorção",
+      "cuidadosEnfermagem": "Observar efeitos GI, icterícia, rash e resposta clínica",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Atovaquone",
+      "suspension": "Hold 24–48h before high-risk hepatic surgeries",
+      "risk": "GI intolerance, hepatic enzyme elevation, CYP450-mediated anesthetic interaction",
+      "reintroduction": "Restart once oral tolerance and liver function normalize"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atovaquone",
+      "nomeComercial": "Mepron, Malarone (with proguanil)",
+      "mecanismoAcao": "Inhibits mitochondrial electron transport in protozoa",
+      "farmacocinetica": "Bioavailability ~23–47%; ↑ with fatty food; t½ ~2–3 days; fecal elimination",
+      "farmacodinamica": "Inhibits Plasmodium, Pneumocystis growth",
+      "indicacoes": "Malaria (with proguanil), PCP, toxoplasmosis",
+      "reacoesAdversas": "Nausea, rash, diarrhea, LFT elevation, headache",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid",
+      "administracao": "Oral",
+      "doseMaxima": "1,500mg/day",
+      "doseMinima": "250mg/day",
+      "classificacao": "Antiprotozoal, antipneumocystic",
+      "apresentacao": "250mg tablets (combo); 750mg/5mL suspension",
+      "interacaoMedicamento": "Reduced by rifampin, tetracycline; interacts with warfarin, metoclopramide",
+      "posologia": "Malaria: 250mg daily with proguanil; PCP: 750mg BID",
+      "armazenamento": "Room temperature; protect from light",
+      "preparo": "Oral only",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, severe liver impairment",
+      "cuidadosMedicos": "Check liver enzymes, GI effects, INR with warfarin",
+      "cuidadosFarmaceuticos": "Give with fatty meal for absorption",
+      "cuidadosEnfermagem": "Watch for nausea, jaundice, rash, diarrhea",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Atovacuona",
+      "suspension": "Suspender 24–48h antes de cirugía hepática",
+      "risk": "Riesgo hepático leve, molestias digestivas, interacción con anestesia",
+      "reintroduction": "Reiniciar tras función hepática y digestiva estables"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atovacuona",
+      "nomeComercial": "Mepron, Malarone (con proguanil)",
+      "mecanismoAcao": "Inhibe la cadena respiratoria mitocondrial del protozoo",
+      "farmacocinetica": "VO 23–47%; ↑ con comida; vida media 2–3 días; eliminación fecal",
+      "farmacodinamica": "Bloquea crecimiento de Plasmodium y Pneumocystis",
+      "indicacoes": "Paludismo, neumonía por Pneumocystis, toxoplasmosis",
+      "reacoesAdversas": "Náusea, diarrea, rash, enzimas hepáticas elevadas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral",
+      "doseMaxima": "1.500mg/día",
+      "doseMinima": "250mg/día",
+      "classificacao": "Antiprotozoario",
+      "apresentacao": "Comprimidos 250mg (combinado); suspensión 750mg/5mL",
+      "interacaoMedicamento": "Disminuida por rifampicina; interacción con warfarina, metoclopramida",
+      "posologia": "Paludismo: 250mg/día + proguanil; PCP: 750mg/12h",
+      "armazenamento": "15–30°C protegido de luz",
+      "preparo": "Administración oral",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía severa, alergia",
+      "cuidadosMedicos": "Evaluar TGO/TGP y síntomas GI",
+      "cuidadosFarmaceuticos": "Dar con alimentos para absorción",
+      "cuidadosEnfermagem": "Observar náuseas, ictericia, exantema",
+      "fontesBibliograficas": "Micromedex, OMS, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿托伐醌",
+      "suspension": "术前24–48小时停用（高肝风险手术）",
+      "risk": "轻度肝毒性、胃肠不适、与麻醉药物代谢有关",
+      "reintroduction": "术后肝功能恢复、耐受口服后可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿托伐醌",
+      "nomeComercial": "Mepron、Malarone（与氯胍联用）",
+      "mecanismoAcao": "抑制原虫线粒体电子传递链，影响能量代谢",
+      "farmacocinetica": "口服吸收23–47%，高脂餐增强；半衰期2–3天；粪便排泄",
+      "farmacodinamica": "对疟原虫和肺孢子虫有效",
+      "indicacoes": "疟疾、弓形虫病、肺孢子虫肺炎",
+      "reacoesAdversas": "恶心、腹泻、皮疹、转氨酶升高",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不建议哺乳",
+      "administracao": "口服",
+      "doseMaxima": "每日1500mg",
+      "doseMinima": "每日250mg",
+      "classificacao": "抗原虫药",
+      "apresentacao": "250mg片剂（复方）、750mg/5mL口服液",
+      "interacaoMedicamento": "利福平、四环素降低血药浓度；影响华法林、胃肠药代谢",
+      "posologia": "疟疾每日250mg联用氯胍；PCP为750mg每12小时",
+      "armazenamento": "室温保存，避光",
+      "preparo": "直接口服使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肝功能不全、过敏",
+      "cuidadosMedicos": "术前检查肝功能，术后再评估是否重启",
+      "cuidadosFarmaceuticos": "建议随餐高脂服用",
+      "cuidadosEnfermagem": "注意腹泻、黄疸、皮疹等副作用",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

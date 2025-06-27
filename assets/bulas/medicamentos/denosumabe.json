@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Denosumabe",
+      "suspension": "Não suspender rotineiramente; se possível, realizar procedimentos odontológicos entre 5 e 6 meses após a última dose, antes da próxima aplicação",
+      "risk": "Risco de osteonecrose de mandíbula (MRONJ), especialmente após extrações e implantes dentários; hipocalcemia grave, risco de fraturas vertebrais por efeito rebote se interrompido abruptamente",
+      "reintroduction": "Reintroduzir somente após cicatrização óssea completa e correção de distúrbios de cálcio; considerar avaliação odontológica prévia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Denosumabe",
+      "nomeComercial": "Prolia, Xgeva",
+      "mecanismoAcao": "Anticorpo monoclonal que inibe o RANKL, suprimindo a diferenciação e função dos osteoclastos",
+      "farmacocinetica": "Administração subcutânea, biodisponibilidade ~61%, meia-vida de 25 a 32 dias, metabolizado por catabolismo proteico",
+      "farmacodinamica": "Reduz a reabsorção óssea e aumenta a densidade mineral óssea, prevenindo fraturas",
+      "indicacoes": "Osteoporose pós-menopausa, prevenção de eventos ósseos em metástases ósseas, perda óssea induzida por hormonioterapia",
+      "reacoesAdversas": "Dor musculoesquelética, hipocalcemia, infecções, osteonecrose da mandíbula (MRONJ), fraturas vertebrais após suspensão abrupta, reações no local da aplicação",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Desconhecido se é excretado no leite materno; uso não recomendado",
+      "administracao": "Subcutânea",
+      "doseMaxima": "120mg a cada 4 semanas (Xgeva); 60mg a cada 6 meses (Prolia)",
+      "doseMinima": "60mg SC a cada 6 meses",
+      "classificacao": "Anticorpo monoclonal anti-RANKL",
+      "apresentacao": "Solução injetável em seringas preenchidas de 60mg/mL ou 120mg/1,7mL",
+      "interacaoMedicamento": "Evitar com medicamentos que causam hipocalcemia; cuidado com imunossupressores",
+      "posologia": "60mg SC a cada 6 meses (osteoporose); 120mg SC a cada 4 semanas (oncologia)",
+      "armazenamento": "Refrigerado (2–8°C), não congelar, proteger da luz",
+      "preparo": "Trazer à temperatura ambiente antes da injeção; não agitar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipocalcemia não corrigida, hipersensibilidade ao denosumabe e planejamento de cirurgia odontológica invasiva sem possibilidade de realizar no intervalo ideal (entre doses)",
+      "cuidadosMedicos": "Monitorar cálcio sérico, vitamina D, função renal e saúde oral antes de iniciar. Programar cirurgias odontológicas para ocorrerem entre 5 e 6 meses após a última dose. Evitar suspensão abrupta para prevenir fraturas por efeito rebote",
+      "cuidadosFarmaceuticos": "Orientar técnica SC e conservação adequada. Alertar paciente sobre risco de osteonecrose e orientar janela ideal para procedimentos odontológicos (5–6 meses após a dose anterior)",
+      "cuidadosEnfermagem": "Observar sinais de hipocalcemia, dor mandibular e efeitos locais",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, Medscape"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Denosumab",
+      "suspension": "Suspend 30 days before major bone surgery or prolonged general anesthesia",
+      "risk": "Risk of jaw osteonecrosis, severe hypocalcemia, and delayed bone healing; increased risk with invasive dental procedures",
+      "reintroduction": "Restart only after full bone healing and correction of calcium levels; prior dental assessment is recommended"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Denosumab",
+      "nomeComercial": "Prolia, Xgeva",
+      "mecanismoAcao": "Monoclonal antibody targeting RANKL, inhibiting osteoclast differentiation and activity",
+      "farmacocinetica": "SC administration, ~61% bioavailability, half-life 25–32 days, degraded via protein catabolism",
+      "farmacodinamica": "Decreases bone resorption and increases BMD, reducing fracture risk",
+      "indicacoes": "Postmenopausal osteoporosis, skeletal metastasis prevention, bone loss from hormone therapy",
+      "reacoesAdversas": "Musculoskeletal pain, hypocalcemia, infections, jaw osteonecrosis, injection site reactions",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Unknown if excreted in breast milk; not recommended",
+      "administracao": "Subcutaneous",
+      "doseMaxima": "120mg every 4 weeks (Xgeva); 60mg every 6 months (Prolia)",
+      "doseMinima": "60mg SC every 6 months",
+      "classificacao": "Anti-RANKL monoclonal antibody",
+      "apresentacao": "Prefilled syringes of 60mg/mL or 120mg/1.7mL",
+      "interacaoMedicamento": "Caution with drugs causing hypocalcemia; avoid with immunosuppressants",
+      "posologia": "60mg SC every 6 months (osteoporosis); 120mg SC every 4 weeks (oncology)",
+      "armazenamento": "Refrigerated (2–8°C), do not freeze, protect from light",
+      "preparo": "Allow to reach room temperature before use; do not shake",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Uncorrected hypocalcemia, known hypersensitivity",
+      "cuidadosMedicos": "Monitor calcium, vitamin D, renal function, and dental health",
+      "cuidadosFarmaceuticos": "Instruct on proper SC injection and storage",
+      "cuidadosEnfermagem": "Watch for hypocalcemia, jaw pain, and injection site issues",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Denosumab",
+      "suspension": "Suspender 30 días antes de cirugía ósea o anestesia general prolongada",
+      "risk": "Riesgo de osteonecrosis mandibular, hipocalcemia severa y cicatrización ósea retrasada; más común en procedimientos dentales invasivos",
+      "reintroduction": "Reiniciar solo tras curación ósea completa y niveles normales de calcio; considerar evaluación dental previa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Denosumab",
+      "nomeComercial": "Prolia, Xgeva",
+      "mecanismoAcao": "Anticuerpo monoclonal contra RANKL, inhibe osteoclastos",
+      "farmacocinetica": "SC, biodisponibilidad ~61%, vida media 25–32 días, catabolismo proteico",
+      "farmacodinamica": "Reduce la reabsorción ósea, aumenta la densidad ósea y previene fracturas",
+      "indicacoes": "Osteoporosis postmenopáusica, metástasis óseas, pérdida ósea por terapia hormonal",
+      "reacoesAdversas": "Dolor musculoesquelético, hipocalcemia, infecciones, osteonecrosis mandibular, reacciones locales",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "No recomendado durante la lactancia",
+      "administracao": "Subcutánea",
+      "doseMaxima": "120mg cada 4 semanas (Xgeva); 60mg cada 6 meses (Prolia)",
+      "doseMinima": "60mg SC cada 6 meses",
+      "classificacao": "Anticuerpo monoclonal anti-RANKL",
+      "apresentacao": "Jeringas precargadas de 60mg/mL o 120mg/1.7mL",
+      "interacaoMedicamento": "Evitar con fármacos que causan hipocalcemia; precaución con inmunosupresores",
+      "posologia": "60mg SC cada 6 meses (osteoporosis); 120mg SC cada 4 semanas (oncología)",
+      "armazenamento": "Refrigerado (2–8°C), no congelar, proteger de la luz",
+      "preparo": "Llevar a temperatura ambiente antes de usar; no agitar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipocalcemia no corregida, hipersensibilidad",
+      "cuidadosMedicos": "Controlar calcio, vitamina D, función renal y salud dental",
+      "cuidadosFarmaceuticos": "Explicar técnica SC y conservación",
+      "cuidadosEnfermagem": "Observar hipocalcemia, dolor mandibular y reacciones locales",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "地诺单抗",
+      "suspension": "术前30天停药（大型骨科或长时间麻醉手术）",
+      "risk": "下颌骨坏死、严重低钙血症及骨愈合延迟风险，尤其在侵袭性口腔手术中显著增加",
+      "reintroduction": "骨愈合完全并纠正低钙后方可重新使用；建议术前牙科评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "地诺单抗",
+      "nomeComercial": "Prolia, Xgeva",
+      "mecanismoAcao": "靶向RANKL的单克隆抗体，抑制破骨细胞形成与功能",
+      "farmacocinetica": "皮下注射，生物利用度61%，半衰期25–32天，经蛋白分解代谢",
+      "farmacodinamica": "抑制骨吸收，增加骨密度，降低骨折风险",
+      "indicacoes": "绝经后骨质疏松、骨转移、激素治疗相关骨丢失",
+      "reacoesAdversas": "肌骨疼痛、低钙血症、感染、下颌骨坏死、注射部位反应",
+      "riscoGravidez": "X类 – 禁用",
+      "riscoLactacao": "不推荐哺乳期使用",
+      "administracao": "皮下注射",
+      "doseMaxima": "每4周120mg（Xgeva）；每6个月60mg（Prolia）",
+      "doseMinima": "每6个月60mg",
+      "classificacao": "抗RANKL单克隆抗体",
+      "apresentacao": "预填充注射器：60mg/mL 或 120mg/1.7mL",
+      "interacaoMedicamento": "避免与致低钙药物合用；谨慎合用免疫抑制剂",
+      "posologia": "骨质疏松：每6个月60mg；肿瘤：每4周120mg",
+      "armazenamento": "冷藏（2–8°C），避免冷冻和阳光直射",
+      "preparo": "使用前回温至室温，不可摇晃",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "未纠正的低钙血症，对本品过敏",
+      "cuidadosMedicos": "监测钙、维生素D、肾功能和口腔健康",
+      "cuidadosFarmaceuticos": "指导储存和皮下注射技术",
+      "cuidadosEnfermagem": "观察低钙症状、下颌疼痛、局部反应",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Dacarbazina",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva com risco hematológico ou hepático",
+      "risk": "Mielossupressão, náuseas e vômitos graves, toxicidade hepática, fotossensibilidade, extravasamento com necrose",
+      "reintroduction": "Reintroduzir após recuperação hematológica e hepática, e resolução de toxicidade GI"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dacarbazina",
+      "nomeComercial": "DTIC-Dome",
+      "mecanismoAcao": "Agente alquilante que atua como pró-fármaco, requerendo ativação hepática para formar metabólitos alquilantes que danificam o DNA",
+      "farmacocinetica": "IV; T½ ~5h; metabolizado no fígado (CYP450); excreção renal",
+      "farmacodinamica": "Citotóxico não fase-específico, com efeito predominante em células em proliferação ativa",
+      "indicacoes": "Melanoma metastático, doença de Hodgkin, sarcomas de partes moles (off-label)",
+      "reacoesAdversas": "Náusea, vômito, leucopenia, trombocitopenia, toxicidade hepática, flebite, alopecia, extravasamento",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado; excreção no leite é desconhecida",
+      "administracao": "IV em infusão lenta (30–60 min), preferencialmente em veia central",
+      "doseMaxima": "850–1000mg/m² por ciclo (dividida); 375mg/m²/dia em protocolos como ABVD",
+      "doseMinima": "100–250mg/m²/dose",
+      "classificacao": "Agente alquilante; triazeno antineoplásico",
+      "apresentacao": "Frascos-ampola 100mg, 200mg",
+      "interacaoMedicamento": "Potencialização de toxicidade com outros mielossupressores; atenção com alopurinol, fármacos hepatotóxicos",
+      "posologia": "ABVD: 375mg/m² dia 1 e 15 a cada 28 dias; melanoma: 850mg/m² a cada 3 semanas",
+      "armazenamento": "Pó: temperatura ambiente; solução reconstituída usar em até 8h refrigerada",
+      "preparo": "Reconstituir com água estéril e diluir em SF ou SG5%; proteger da luz",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Gravidez, mielossupressão grave, insuficiência hepática descompensada",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática, sinais de extravasamento e toxicidade GI",
+      "cuidadosFarmaceuticos": "Reconstituir com proteção luminosa, estabilidade limitada; garantir identificação do paciente",
+      "cuidadosEnfermagem": "Observar local da infusão, sintomas GI, febre, sangramentos",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Dacarbazine",
+      "suspension": "Hold 7 days before surgery due to marrow suppression and GI risk",
+      "risk": "Severe nausea/vomiting, myelosuppression, hepatic toxicity, photosensitivity, vesicant risk",
+      "reintroduction": "Restart after recovery from hematologic and GI toxicities"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dacarbazine",
+      "nomeComercial": "DTIC-Dome",
+      "mecanismoAcao": "Alkylating agent requiring hepatic activation; forms DNA crosslinks leading to apoptosis",
+      "farmacocinetica": "IV; T½ ~5h; CYP metabolism; renal excretion",
+      "farmacodinamica": "Non–cell cycle specific cytotoxic activity",
+      "indicacoes": "Metastatic melanoma, Hodgkin’s lymphoma (part of ABVD), soft tissue sarcoma (off-label)",
+      "reacoesAdversas": "N/V, leukopenia, thrombocytopenia, hepatotoxicity, extravasation, alopecia",
+      "riscoGravidez": "Category D – fetal risk",
+      "riscoLactacao": "Avoid breastfeeding",
+      "administracao": "IV infusion over 30–60 minutes",
+      "doseMaxima": "850–1000mg/m² per cycle",
+      "doseMinima": "100mg/m²/dose",
+      "classificacao": "Alkylating agent (triazene class)",
+      "apresentacao": "100mg, 200mg vials",
+      "interacaoMedicamento": "Myelosuppressants, hepatotoxins, allopurinol",
+      "posologia": "ABVD: 375mg/m² days 1 & 15 q28d; melanoma: 850mg/m² q3w",
+      "armazenamento": "Powder at RT; reconstituted solution stable 8h at 2–8°C",
+      "preparo": "Light protection; reconstitute with SWFI then dilute in D5W or NS",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Severe hepatic impairment, pregnancy, hypersensitivity",
+      "cuidadosMedicos": "Monitor CBC, LFTs, infusion site, photosensitivity",
+      "cuidadosFarmaceuticos": "Cytotoxic precautions, light protection, timed infusion",
+      "cuidadosEnfermagem": "Infusion site monitoring, GI symptoms, fever, rash",
+      "fontesBibliograficas": "FDA label, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Dacarbazina",
+      "suspension": "Suspender 7 días antes de cirugía mayor si hay riesgo hematológico",
+      "risk": "Náuseas graves, vómitos, mielosupresión, hepatotoxicidad, fotosensibilidad, flebitis",
+      "reintroduction": "Reintroducir tras recuperación hematológica y resolución de toxicidad GI"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dacarbazina",
+      "nomeComercial": "DTIC-Dome",
+      "mecanismoAcao": "Alquilante activado en hígado; induce enlaces cruzados en el ADN",
+      "farmacocinetica": "IV; T½ 5h; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Citotóxico no fase-específico",
+      "indicacoes": "Melanoma metastásico, linfoma de Hodgkin, sarcoma (off-label)",
+      "reacoesAdversas": "Leucopenia, náusea, vómitos, hepatotoxicidad, eritema, extravasación",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Infusión IV 30–60 minutos",
+      "doseMaxima": "850–1000mg/m²/ciclo",
+      "doseMinima": "100mg/m²",
+      "classificacao": "Agente alquilante triazeno",
+      "apresentacao": "Viales 100mg, 200mg",
+      "interacaoMedicamento": "Alopurinol, otros mielotóxicos",
+      "posologia": "ABVD: 375mg/m² días 1 y 15 cada 28d",
+      "armazenamento": "Liofilizado a temperatura ambiente; diluido 8h a 2–8°C",
+      "preparo": "Diluir en glucosa 5% o SF; protección lumínica",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%",
+      "contraindicacoes": "Hepatopatía severa, embarazo",
+      "cuidadosMedicos": "Vigilancia hematológica, hepática y cutánea",
+      "cuidadosFarmaceuticos": "Preparar bajo luz reducida, tiempo limitado de estabilidad",
+      "cuidadosEnfermagem": "Observar sitio infusión, síntomas GI, fiebre",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "达卡巴嗪",
+      "suspension": "术前7天停药，避免骨髓抑制与肝毒性影响恢复",
+      "risk": "严重恶心、呕吐、骨髓抑制、肝毒性、光敏反应、注射部位坏死",
+      "reintroduction": "术后血象与胃肠道恢复正常后重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "达卡巴嗪",
+      "nomeComercial": "DTIC",
+      "mecanismoAcao": "肝代谢为活性烷化剂，与DNA交联致细胞凋亡",
+      "farmacocinetica": "IV；T½约5小时；肝代谢；肾排泄",
+      "farmacodinamica": "非特异性细胞周期毒性药物",
+      "indicacoes": "黑色素瘤、霍奇金淋巴瘤、软组织肉瘤（非注册适应证）",
+      "reacoesAdversas": "骨髓抑制、肝酶升高、呕吐、掉发、光敏感、外渗",
+      "riscoGravidez": "D类 – 妊娠期禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "静滴30–60分钟，建议中心静脉通路",
+      "doseMaxima": "850–1000mg/m²/周期",
+      "doseMinima": "100mg/m²",
+      "classificacao": "三嗪类烷化剂",
+      "apresentacao": "100mg、200mg粉针剂",
+      "interacaoMedicamento": "与别嘌醇、抗生素、其他细胞毒药物有协同毒性",
+      "posologia": "ABVD方案：375mg/m²，第1和15天，每28天重复",
+      "armazenamento": "粉剂常温保存；复溶液2–8°C避光限8小时使用",
+      "preparo": "水溶后用5%葡萄糖或0.9%氯化钠稀释；避光操作",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "严重肝损害、妊娠期、骨髓抑制",
+      "cuidadosMedicos": "监测血象、肝功能、恶心控制、观察过敏",
+      "cuidadosFarmaceuticos": "避免光照、稀释后限时使用、化疗规范处理",
+      "cuidadosEnfermagem": "输注部位观察、胃肠道反应监测、感染征象",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、NCCN"
+    }
+  }
+}

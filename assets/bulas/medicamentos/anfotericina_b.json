@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Anfotericina B",
+      "suspension": "Suspender 24 horas antes da cirurgia se possível",
+      "risk": "Alto risco de nefrotoxicidade, distúrbios eletrolíticos e interação com anestésicos",
+      "reintroduction": "Reintroduzir com monitoramento renal, eletrolítico e hemodinâmico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anfotericina B",
+      "nomeComercial": "Fungizone, Abelcet, Ambisome",
+      "mecanismoAcao": "Liga-se ao ergosterol na membrana fúngica, formando poros que levam à morte celular",
+      "farmacocinetica": "Administração IV, meia-vida de 15 dias, excreção renal lenta",
+      "farmacodinamica": "Fungicida contra leveduras, bolores e fungos dimórficos",
+      "indicacoes": "Meningite criptocócica, candidíase sistêmica, aspergilose invasiva, histoplasmose",
+      "reacoesAdversas": "Febre, calafrios, náuseas, hipotensão, hipocalemia, nefrotoxicidade",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Desconhecido; usar com cautela",
+      "administracao": "Intravenosa lenta (2–6h)",
+      "doseMaxima": "1,5 mg/kg/dia (convencional); até 5 mg/kg/dia (lipossomal)",
+      "doseMinima": "0,25 mg/kg/dia",
+      "classificacao": "Antifúngico poliênico",
+      "apresentacao": "Pó liofilizado 50 mg (convencional ou lipossomal)",
+      "interacaoMedicamento": "Aumenta toxicidade de nefrotóxicos, digoxina e corticoides; interação com anestésicos",
+      "posologia": "0,5–1 mg/kg/dia IV por 2–6 semanas (ajustar conforme resposta)",
+      "armazenamento": "Refrigerado (2–8°C), protegido da luz",
+      "preparo": "Reconstituir com água estéril; diluir em SG 5%; nunca com SF",
+      "solucoesCompatíveis": "SG 5%",
+      "contraindicacoes": "Hipersensibilidade conhecida; insuficiência renal descompensada (avaliar risco/benefício)",
+      "cuidadosMedicos": "Monitorar função renal, eletrólitos (K+, Mg2+), PA e temperatura",
+      "cuidadosFarmaceuticos": "Observar estabilidade e compatibilidade da formulação lipídica vs. convencional",
+      "cuidadosEnfermagem": "Pré-medicar com antitérmicos/anti-histamínicos, hidratar bem, monitorar reações infusivas",
+      "fontesBibliograficas": "ANVISA, BNF, Micromedex, UpToDate, WHO"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Amphotericin B",
+      "suspension": "Discontinue 24 hours before surgery if possible",
+      "risk": "High risk of nephrotoxicity, electrolyte imbalance, and anesthetic interaction",
+      "reintroduction": "Restart with renal, electrolyte, and hemodynamic monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amphotericin B",
+      "nomeComercial": "Fungizone, Abelcet, Ambisome",
+      "mecanismoAcao": "Binds to ergosterol in fungal membranes, forming pores that cause cell death",
+      "farmacocinetica": "IV only, half-life ~15 days, slow renal excretion",
+      "farmacodinamica": "Fungicidal against yeasts, molds, and dimorphic fungi",
+      "indicacoes": "Cryptococcal meningitis, systemic candidiasis, invasive aspergillosis, histoplasmosis",
+      "reacoesAdversas": "Fever, chills, nausea, hypotension, hypokalemia, nephrotoxicity",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "Slow IV infusion over 2–6h",
+      "doseMaxima": "1.5 mg/kg/day (conventional); up to 5 mg/kg/day (liposomal)",
+      "doseMinima": "0.25 mg/kg/day",
+      "classificacao": "Polyene antifungal",
+      "apresentacao": "Lyophilized powder 50 mg (conventional/liposomal)",
+      "interacaoMedicamento": "Enhances toxicity of nephrotoxins, digoxin, corticosteroids; interacts with anesthetics",
+      "posologia": "0.5–1 mg/kg/day IV for 2–6 weeks (based on infection/response)",
+      "armazenamento": "Refrigerated (36–46°F), protect from light",
+      "preparo": "Reconstitute with sterile water; dilute in D5W only; never use NS",
+      "solucoesCompatíveis": "D5W",
+      "contraindicacoes": "Known hypersensitivity; unstable renal failure (weigh risk/benefit)",
+      "cuidadosMedicos": "Monitor renal function, K+, Mg2+, BP, temperature",
+      "cuidadosFarmaceuticos": "Check formulation compatibility (lipid vs. conventional)",
+      "cuidadosEnfermagem": "Premedicate with antipyretics/antihistamines, ensure hydration, monitor infusion reactions",
+      "fontesBibliograficas": "FDA, WHO, UpToDate, Micromedex, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Anfotericina B",
+      "suspension": "Suspender 24 horas antes de la cirugía si es posible",
+      "risk": "Alto riesgo de nefrotoxicidad, alteraciones electrolíticas e interacción anestésica",
+      "reintroduction": "Reintroducir con control renal, hemodinámico y de electrolitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anfotericina B",
+      "nomeComercial": "Fungizone, Abelcet, Ambisome",
+      "mecanismoAcao": "Se une al ergosterol de la membrana fúngica formando poros y provocando lisis celular",
+      "farmacocinetica": "IV, vida media ~15 días, excreción renal lenta",
+      "farmacodinamica": "Fungicida frente a levaduras, mohos y hongos dimórficos",
+      "indicacoes": "Meningitis criptocócica, candidiasis sistémica, aspergilosis invasiva, histoplasmosis",
+      "reacoesAdversas": "Fiebre, escalofríos, náuseas, hipotensión, hipocalemia, nefrotoxicidad",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Infusión IV lenta (2–6 h)",
+      "doseMaxima": "1,5 mg/kg/día (convencional); hasta 5 mg/kg/día (liposomal)",
+      "doseMinima": "0,25 mg/kg/día",
+      "classificacao": "Antifúngico poliénico",
+      "apresentacao": "Liofilizado 50 mg (convencional o liposomal)",
+      "interacaoMedicamento": "Potencia toxicidad con nefrotóxicos, digoxina, corticoides; interacción anestésica",
+      "posologia": "0,5–1 mg/kg/día por 2–6 semanas",
+      "armazenamento": "Refrigerado (2–8°C), protegido de la luz",
+      "preparo": "Reconstituir con agua estéril y diluir en SG 5%; nunca usar SF",
+      "solucoesCompatíveis": "SG 5%",
+      "contraindicacoes": "Hipersensibilidad, insuficiencia renal descompensada (valorar riesgo/beneficio)",
+      "cuidadosMedicos": "Control renal, electrolitos (K+, Mg2+), PA, temperatura",
+      "cuidadosFarmaceuticos": "Revisar estabilidad y tipo de formulación",
+      "cuidadosEnfermagem": "Premedicar, hidratar, monitorizar reacciones durante infusión",
+      "fontesBibliograficas": "AEMPS, Micromedex, WHO, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "两性霉素B",
+      "suspension": "如可能，术前24小时停药",
+      "risk": "高肾毒性、电解质紊乱及麻醉相互作用风险",
+      "reintroduction": "术后在肾功能、电解质与血流动力学稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "两性霉素B",
+      "nomeComercial": "Fungizone, Abelcet, Ambisome",
+      "mecanismoAcao": "与真菌膜中的麦角固醇结合形成孔道，造成细胞死亡",
+      "farmacocinetica": "静脉注射，半衰期约15天，肾排泄缓慢",
+      "farmacodinamica": "对酵母菌、霉菌、二型真菌具杀真菌作用",
+      "indicacoes": "隐球菌脑膜炎、全身念珠菌病、侵袭性曲霉菌病、组织胞浆菌病",
+      "reacoesAdversas": "发热、寒战、恶心、低血压、低钾血症、肾毒性",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "资料有限，慎用",
+      "administracao": "静脉缓慢滴注（2–6小时）",
+      "doseMaxima": "常规型每日1.5 mg/kg；脂质体型可达5 mg/kg",
+      "doseMinima": "每日0.25 mg/kg",
+      "classificacao": "聚烯类抗真菌药",
+      "apresentacao": "50 mg冻干粉针（常规型或脂质体型）",
+      "interacaoMedicamento": "增强肾毒药物、地高辛、激素类药物毒性；影响麻醉药代谢",
+      "posologia": "每日0.5–1 mg/kg，疗程2–6周",
+      "armazenamento": "2–8°C冷藏，避光",
+      "preparo": "用灭菌水重构后仅可用5%葡萄糖稀释，禁用生理盐水",
+      "solucoesCompatíveis": "5%葡萄糖",
+      "contraindicacoes": "严重过敏、肾衰未控制者需评估风险",
+      "cuidadosMedicos": "监测肾功能、电解质、血压、体温",
+      "cuidadosFarmaceuticos": "区别常规型与脂质型配伍方案",
+      "cuidadosEnfermagem": "给予前药、充分补液，严密观察输注反应",
+      "fontesBibliograficas": "中国药典、WHO、Micromedex、UpToDate"
+    }
+  }
+}

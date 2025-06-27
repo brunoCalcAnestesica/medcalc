@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Azitromicina",
+      "suspension": "Não é necessário suspender",
+      "risk": "Baixo risco anestésico; pode ser mantida em tratamento de infecções respiratórias e ISTs",
+      "reintroduction": "Manter conforme tratamento vigente e avaliação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Azitromicina di-hidratada",
+      "nomeComercial": "Zithromax, Zitromax, Azitromicina Genérico",
+      "mecanismoAcao": "Inibe a síntese proteica bacteriana ligando-se à subunidade 50S ribossomal",
+      "farmacocinetica": "Absorção oral incompleta, ampla distribuição tecidual, meia-vida longa, excreção biliar",
+      "farmacodinamica": "Bacteriostática com efeito pós-antibiótico prolongado",
+      "indicacoes": "Infecções respiratórias, otite, sinusite, ISTs, infecções de pele",
+      "reacoesAdversas": "Distúrbios gastrointestinais, elevação de transaminases, prolongamento do QT",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excretado no leite em pequenas quantidades; uso permitido",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "500 mg/dia",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Antibiótico macrolídeo",
+      "apresentacao": "Comprimidos, suspensão oral, pó injetável",
+      "interacaoMedicamento": "Potencializa toxicidade com varfarina, digoxina e antiarrítmicos",
+      "posologia": "500 mg/dia por 3-5 dias ou 1g dose única (IST)",
+      "armazenamento": "Temperatura ambiente; suspensão reconstituída deve ser refrigerada",
+      "preparo": "Reconstituir pó para suspensão ou diluir pó injetável com SF 0,9%",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%, Glicose 5%",
+      "contraindicacoes": "Hipersensibilidade a macrolídeos; uso cauteloso em cardiopatas",
+      "cuidadosMedicos": "Monitorar intervalo QT e função hepática",
+      "cuidadosFarmaceuticos": "Observar prazo de validade após reconstituição",
+      "cuidadosEnfermagem": "Administrar com intervalo adequado das refeições; observar efeitos GI",
+      "fontesBibliograficas": "SBAn, Micromedex, ANVISA, FDA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Azithromycin",
+      "suspension": "No need to suspend",
+      "risk": "Low anesthetic risk; can be maintained for respiratory or STD treatment",
+      "reintroduction": "Continue according to clinical judgment and infection management"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Azithromycin dihydrate",
+      "nomeComercial": "Zithromax, Zmax, Generic Azithromycin",
+      "mecanismoAcao": "Inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit",
+      "farmacocinetica": "Incomplete oral absorption, wide tissue distribution, long half-life, biliary excretion",
+      "farmacodinamica": "Bacteriostatic with prolonged post-antibiotic effect",
+      "indicacoes": "Respiratory infections, otitis, sinusitis, STDs, skin infections",
+      "reacoesAdversas": "GI upset, elevated liver enzymes, QT prolongation",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Excreted in breast milk; considered safe",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "500 mg/day",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Macrolide antibiotic",
+      "apresentacao": "Tablets, oral suspension, injectable powder",
+      "interacaoMedicamento": "May increase toxicity of warfarin, digoxin, antiarrhythmics",
+      "posologia": "500 mg/day for 3–5 days or 1g single dose (STD)",
+      "armazenamento": "Room temperature; reconstituted suspension should be refrigerated",
+      "preparo": "Reconstitute powder for suspension or dilute IV powder with NS",
+      "solucoesCompatíveis": "Normal Saline, Dextrose 5%",
+      "contraindicacoes": "Hypersensitivity to macrolides; use with caution in cardiac patients",
+      "cuidadosMedicos": "Monitor QT interval and liver function",
+      "cuidadosFarmaceuticos": "Check expiration after reconstitution",
+      "cuidadosEnfermagem": "Administer on empty stomach; monitor GI symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, ANVISA, SBAn"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Azitromicina",
+      "suspension": "No requiere suspensión",
+      "risk": "Riesgo anestésico bajo; útil en infecciones respiratorias e ITS",
+      "reintroduction": "Mantener durante el perioperatorio si es clínicamente indicado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Azitromicina dihidrato",
+      "nomeComercial": "Zithromax, Azitromicina Genérico",
+      "mecanismoAcao": "Inhibe la síntesis proteica bacteriana en la subunidad 50S ribosomal",
+      "farmacocinetica": "Absorción oral incompleta, gran distribución, vida media larga, excreción biliar",
+      "farmacodinamica": "Bacteriostático con efecto posantibiótico prolongado",
+      "indicacoes": "Infecciones respiratorias, otitis, sinusitis, ITS, piel y tejidos blandos",
+      "reacoesAdversas": "Molestias gastrointestinales, elevación de enzimas hepáticas, QT prolongado",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Se excreta en leche materna, generalmente seguro",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "500 mg/día",
+      "doseMinima": "250 mg/dosis",
+      "classificacao": "Antibiótico macrólido",
+      "apresentacao": "Comprimidos, suspensión oral, inyectable",
+      "interacaoMedicamento": "Aumenta toxicidad de warfarina, digoxina, antiarrítmicos",
+      "posologia": "500 mg/día por 3–5 días o dosis única de 1g (ITS)",
+      "armazenamento": "Ambiente; suspensión reconstituida en refrigeración",
+      "preparo": "Reconstituir polvo con diluyente adecuado (SF 0,9%)",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%, glucosa al 5%",
+      "contraindicacoes": "Alergia a macrólidos; precaución en cardiopatías",
+      "cuidadosMedicos": "Controlar QT y función hepática",
+      "cuidadosFarmaceuticos": "Observar caducidad tras reconstitución",
+      "cuidadosEnfermagem": "Administrar en ayunas y vigilar síntomas GI",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿奇霉素",
+      "suspension": "无需停药",
+      "risk": "麻醉风险低，用于呼吸道或性传播感染时可继续使用",
+      "reintroduction": "围术期根据临床需要继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿奇霉素二水合物",
+      "nomeComercial": "希舒美, 阿奇霉素片, 阿奇霉素干混悬剂",
+      "mecanismoAcao": "与细菌50S核糖体结合，抑制蛋白质合成",
+      "farmacocinetica": "口服吸收差，广泛分布，半衰期长，经胆汁排泄",
+      "farmacodinamica": "抑菌作用，具有长效后抗生素作用",
+      "indicacoes": "呼吸道感染、中耳炎、鼻窦炎、性传播疾病、皮肤软组织感染",
+      "reacoesAdversas": "胃肠不适、肝酶升高、QT间期延长",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可排入乳汁，一般认为安全",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日500毫克",
+      "doseMinima": "每次250毫克",
+      "classificacao": "大环内酯类抗生素",
+      "apresentacao": "片剂、口服混悬液、注射粉末",
+      "interacaoMedicamento": "增强华法林、地高辛、抗心律失常药的毒性",
+      "posologia": "每日500毫克，疗程3–5天或一次性1克（性病）",
+      "armazenamento": "常温保存；重构后混悬液需冷藏",
+      "preparo": "将粉末重构为混悬液或用0.9%氯化钠稀释注射用粉",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "对大环内酯类过敏；心脏病患者慎用",
+      "cuidadosMedicos": "监测QT间期和肝功能",
+      "cuidadosFarmaceuticos": "注意重构后使用期限",
+      "cuidadosEnfermagem": "饭前给药，注意胃肠反应",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex"
+    }
+  }
+}

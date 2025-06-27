@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Selpercatinibe",
+      "suspension": "Suspender 3 a 5 dias antes de cirurgia eletiva em pacientes com risco de prolongamento de QT ou imunossupressão",
+      "risk": "Risco de prolongamento do intervalo QT, toxicidade hepática, hipertensão e diarreia; risco de pneumonite em alguns pacientes",
+      "reintroduction": "Reintroduzir após estabilização clínica, função hepática normal e ECG sem alterações significativas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Selpercatinibe",
+      "nomeComercial": "Retevmo",
+      "mecanismoAcao": "Inibidor altamente seletivo da quinase RET, bloqueando a sinalização oncogênica mediada por fusões ou mutações no gene RET",
+      "farmacocinetica": "Administração oral; biodisponibilidade aumentada com alimentos leves; metabolizado por CYP3A4; meia-vida ~32h; excreção fecal majoritária",
+      "farmacodinamica": "Inibe proliferação celular e induz apoptose em células com alteração no gene RET; ação sustentada com dose contínua",
+      "indicacoes": "Câncer de pulmão de não pequenas células (CPNPC) com fusão RET, câncer medular de tireoide (CMT) com mutação RET, outros tumores sólidos com fusão RET",
+      "reacoesAdversas": "Hipertensão, elevação de transaminases, diarreia, constipação, cefaleia, fadiga, prolongamento de QT, boca seca, náuseas",
+      "riscoGravidez": "Categoria D – pode causar toxicidade embriofetal",
+      "riscoLactacao": "Evitar lactação durante o tratamento e por 1 semana após a última dose",
+      "administracao": "Oral",
+      "doseMaxima": "160 mg 2x/dia",
+      "doseMinima": "40 mg 2x/dia (ajuste conforme toxicidade)",
+      "classificacao": "Antineoplásico – inibidor seletivo da quinase RET",
+      "apresentacao": "Cápsulas de 40 mg e 80 mg",
+      "interacaoMedicamento": "Evitar uso com inibidores/indutores potentes de CYP3A4; monitorar com QT-prolongadores",
+      "posologia": "160 mg 2x/dia com ou sem alimentos; ajustar conforme toxicidade",
+      "armazenamento": "Temperatura ambiente (15–30 °C), manter no frasco original",
+      "preparo": "Uso direto; não abrir ou mastigar cápsulas",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Hipersensibilidade ao selpercatinibe ou componentes da fórmula",
+      "cuidadosMedicos": "Monitorar ECG, PA, função hepática e eletrólitos periodicamente",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão ao esquema e sinais de toxicidade",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade cardiovascular, hepática e gastrintestinal",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Bula Retevmo, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Selpercatinib",
+      "suspension": "Hold 3–5 days prior to elective surgery, especially in patients at risk for QT prolongation or immunosuppression",
+      "risk": "May cause QT prolongation, hepatotoxicity, hypertension, diarrhea, and pneumonitis",
+      "reintroduction": "Restart after clinical stability and normalization of liver function and ECG"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Selpercatinib",
+      "nomeComercial": "Retevmo",
+      "mecanismoAcao": "Highly selective RET kinase inhibitor, blocking oncogenic signaling from RET gene alterations",
+      "farmacocinetica": "Oral; enhanced absorption with light food; metabolized by CYP3A4; t½ ~32h; mostly fecal excretion",
+      "farmacodinamica": "Inhibits RET-driven tumor growth and promotes apoptosis",
+      "indicacoes": "RET fusion-positive NSCLC, RET-mutant medullary thyroid cancer, RET fusion-positive solid tumors",
+      "reacoesAdversas": "Hypertension, elevated AST/ALT, QT prolongation, diarrhea, constipation, fatigue, dry mouth, nausea",
+      "riscoGravidez": "Category D – risk of embryo-fetal toxicity",
+      "riscoLactacao": "Avoid breastfeeding during treatment and for 1 week after",
+      "administracao": "Oral",
+      "doseMaxima": "160 mg BID",
+      "doseMinima": "40 mg BID (dose adjusted by toxicity)",
+      "classificacao": "RET kinase inhibitor – targeted antineoplastic",
+      "apresentacao": "Capsules: 40 mg, 80 mg",
+      "interacaoMedicamento": "Avoid strong CYP3A4 inhibitors/inducers; caution with QT-prolonging agents",
+      "posologia": "160 mg twice daily; adjust as needed for toxicity",
+      "armazenamento": "Store at 15–30 °C; keep in original container",
+      "preparo": "Swallow whole; do not open or chew capsules",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity to selpercatinib or excipients",
+      "cuidadosMedicos": "Monitor ECG, LFTs, BP, and electrolytes",
+      "cuidadosFarmaceuticos": "Educate on adherence and toxicity symptoms",
+      "cuidadosEnfermagem": "Monitor for GI symptoms, liver toxicity, ECG changes",
+      "fontesBibliograficas": "FDA, Retevmo PI, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Selpercatinib",
+      "suspension": "Suspender 3–5 días antes de cirugía electiva en pacientes con riesgo cardíaco o inmunosupresión",
+      "risk": "Prolongación de QT, hepatotoxicidad, hipertensión, neumonitis, síntomas GI",
+      "reintroduction": "Reiniciar tras estabilización y recuperación hepática/eléctrica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Selpercatinib",
+      "nomeComercial": "Retevmo",
+      "mecanismoAcao": "Inhibidor selectivo de la quinasa RET, bloquea señales oncogénicas de RET",
+      "farmacocinetica": "Oral; Tmax ~4 h; metabolizado por CYP3A4; t½ ~32 h",
+      "farmacodinamica": "Inhibe proliferación mediada por RET y favorece apoptosis tumoral",
+      "indicacoes": "Cáncer pulmonar RET+, carcinoma medular de tiroides RET+, tumores sólidos RET+",
+      "reacoesAdversas": "Hipertensión, diarrea, elevación hepática, boca seca, náuseas, QT prolongado",
+      "riscoGravidez": "Categoría D – riesgo fetal",
+      "riscoLactacao": "Evitar durante y 7 días tras el tratamiento",
+      "administracao": "Oral",
+      "doseMaxima": "160 mg 2x/día",
+      "doseMinima": "40 mg 2x/día",
+      "classificacao": "Inhibidor RET – antineoplásico dirigido",
+      "apresentacao": "Cápsulas 40 mg, 80 mg",
+      "interacaoMedicamento": "Evitar con CYP3A4 potentes o fármacos QT",
+      "posologia": "160 mg c/12h; ajustar por toxicidad",
+      "armazenamento": "15–30 °C, recipiente original",
+      "preparo": "No abrir ni masticar cápsulas",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, embarazo",
+      "cuidadosMedicos": "ECG, PA, hepático y electrolitos",
+      "cuidadosFarmaceuticos": "Educación sobre toxicidad y adherencia",
+      "cuidadosEnfermagem": "Observar síntomas digestivos, hepáticos y cardiacos",
+      "fontesBibliograficas": "EMA, ficha técnica Retevmo, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "Selpercatinib（塞佩替尼）",
+      "suspension": "择期手术前3–5天停药，特别是QT延长或免疫抑制患者",
+      "risk": "可能导致QT延长、肝毒性、高血压、腹泻、间质性肺病",
+      "reintroduction": "术后稳定、肝功能及心电图正常后恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "塞佩替尼",
+      "nomeComercial": "Retevmo",
+      "mecanismoAcao": "选择性RET激酶抑制剂，抑制由RET融合/突变驱动的癌细胞信号传导",
+      "farmacocinetica": "口服；Tmax约4小时；CYP3A4代谢；半衰期约32小时",
+      "farmacodinamica": "抑制肿瘤生长，促进凋亡；适用于RET异常驱动肿瘤",
+      "indicacoes": "RET阳性NSCLC、甲状腺髓样癌、其他RET融合阳性肿瘤",
+      "reacoesAdversas": "高血压、肝酶升高、QT延长、乏力、口干、胃肠不适",
+      "riscoGravidez": "D类 – 有胚胎毒性风险",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日2次160 mg",
+      "doseMinima": "每日2次40 mg",
+      "classificacao": "RET激酶靶向抑制剂",
+      "apresentacao": "胶囊40 mg、80 mg",
+      "interacaoMedicamento": "避免与CYP3A4抑制剂/诱导剂合用，QT药物慎用",
+      "posologia": "160 mg每天两次；可根据毒性调整剂量",
+      "armazenamento": "常温保存，原包装中避光防潮",
+      "preparo": "整粒吞服，不可咬碎或打开",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "过敏、孕期、严重心电图异常",
+      "cuidadosMedicos": "定期监测心电图、肝功能、电解质",
+      "cuidadosFarmaceuticos": "指导按时服药和毒性管理",
+      "cuidadosEnfermagem": "关注消化道反应、肝毒性、QT延长症状",
+      "fontesBibliograficas": "中国药典、FDA说明书、Micromedex"
+    }
+  }
+}

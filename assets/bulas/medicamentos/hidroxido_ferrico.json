@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Hidróxido Férrico",
+      "suspension": "Suspender 3 dias antes de cirurgia eletiva em pacientes com risco aumentado de sobrecarga férrica ou reações infusionais",
+      "risk": "Risco de reações infusionais, hipotensão, sobrecarga de ferro e interferência com exames laboratoriais. Pode causar reações adversas em uso EV próximo do ato anestésico.",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e ausência de sinais de sobrecarga férrica. Avaliar ferritina e saturação de transferrina antes da reintrodução."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidróxido Férrico Sacarose, Carboximaltose ou Dextran",
+      "nomeComercial": "Venofer, Ferinject, Ferrlecit, Injectafer",
+      "mecanismoAcao": "Reposição de ferro em forma complexada, disponibilizando gradualmente ferro para síntese de hemoglobina e reconstituição dos estoques corporais",
+      "farmacocinetica": "Administração IV; captação pelos macrófagos e metabolização lenta; meia-vida variável conforme formulação (~6–20h); excreção mínima renal",
+      "farmacodinamica": "Aumenta a eritropoiese ao fornecer ferro biodisponível para médula óssea",
+      "indicacoes": "Anemia ferropriva em pacientes com doença renal crônica, inflamatória ou intolerância ao ferro oral",
+      "reacoesAdversas": "Náuseas, cefaleia, hipotensão, rubor, mialgia, reação anafilactoide, sobrecarga de ferro, dor no local da infusão",
+      "riscoGravidez": "Categoria B (uso cauteloso no 1º trimestre)",
+      "riscoLactacao": "Compatível com amamentação",
+      "administracao": "Infusão intravenosa lenta ou injeção IV direta conforme formulação",
+      "doseMaxima": "1000 mg/semana (carboximaltose); 200 mg/infusão (sacarose); 125 mg/dose (dextran)",
+      "doseMinima": "100 mg/dose",
+      "classificacao": "Repositor de ferro intravenoso",
+      "apresentacao": "Ampolas de 100, 200, 500 ou 1000 mg de ferro metálico",
+      "interacaoMedicamento": "Interfere com exames de ferro sérico, TIBC e ferritina; pode potencializar toxicidade de vitamina C em altas doses",
+      "posologia": "Conforme cálculo da deficiência de ferro (fórmula de Ganzoni ou protocolo institucional)",
+      "armazenamento": "Temperatura ambiente (15–30°C), proteger da luz",
+      "preparo": "Diluir em SF 0,9% conforme volume e via; infusão lenta (15–30 min)",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%",
+      "contraindicacoes": "Hemocromatose, anemias não ferroprivas, hipersensibilidade ao composto",
+      "cuidadosMedicos": "Monitorar ferritina, TSAT, reações infusionais e função hepática",
+      "cuidadosFarmaceuticos": "Verificar estabilidade após diluição; não usar se precipitado",
+      "cuidadosEnfermagem": "Monitorar PA, desconforto no local e sinais de reação alérgica",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, KDIGO, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ferric Hydroxide",
+      "suspension": "Discontinue 3 days before surgery in high-risk patients (e.g., dialysis or recent infusions)",
+      "risk": "Infusion-related reactions, hypotension, iron overload, interference with lab tests. Risk elevated near anesthesia.",
+      "reintroduction": "Resume only after hemodynamic stability and normal iron indices (ferritin, TSAT)."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ferric Hydroxide (as Sucrose, Carboxymaltose, Dextran Complex)",
+      "nomeComercial": "Venofer, Injectafer, Ferrlecit, Ferinject",
+      "mecanismoAcao": "IV iron complex that replenishes body iron stores and supports erythropoiesis",
+      "farmacocinetica": "IV administration; slow macrophage uptake; half-life 6–20h depending on formulation; minimal renal excretion",
+      "farmacodinamica": "Increases hemoglobin production by supplying bioavailable iron",
+      "indicacoes": "Iron-deficiency anemia in CKD, inflammation, or oral iron intolerance",
+      "reacoesAdversas": "Headache, nausea, hypotension, myalgia, flushing, allergic reactions, local pain",
+      "riscoGravidez": "Category B (use caution in first trimester)",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "Slow IV infusion or direct IV push (per product)",
+      "doseMaxima": "1000 mg/week (carboxymaltose); 200 mg/infusion (sucrose); 125 mg/dose (dextran)",
+      "doseMinima": "100 mg/dose",
+      "classificacao": "IV iron replacement agent",
+      "apresentacao": "Vials with 100–1000 mg iron",
+      "interacaoMedicamento": "Affects serum iron, ferritin, TIBC; potential interaction with high-dose vitamin C",
+      "posologia": "Based on iron deficit (Ganzoni formula or clinical protocol)",
+      "armazenamento": "15–30°C; protect from light",
+      "preparo": "Dilute in 0.9% saline; infuse slowly over 15–30 minutes",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Hemochromatosis, non-iron-deficiency anemias, hypersensitivity",
+      "cuidadosMedicos": "Monitor iron studies and for infusion reactions",
+      "cuidadosFarmaceuticos": "Check for precipitation; use immediately after dilution",
+      "cuidadosEnfermagem": "Monitor BP and site for pain or allergic reaction",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, KDIGO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hidróxido Férrico",
+      "suspension": "Suspender 3 días antes de cirugía en pacientes con riesgo de sobrecarga férrica o reacciones",
+      "risk": "Reacciones infusionais, hipotensión, sobrecarga de hierro, alteración en análisis. Mayor riesgo si usado próximo a la anestesia.",
+      "reintroduction": "Reanudar tras estabilidad clínica y evaluación de ferritina y saturación de transferrina"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidróxido Férrico (sacarosa, carboximaltosa, dextrano)",
+      "nomeComercial": "Venofer, Ferinject, Injectafer, Ferrlecit",
+      "mecanismoAcao": "Repone depósitos de hierro para eritropoyesis efectiva",
+      "farmacocinetica": "IV, captación lenta, t½ 6–20h, excreción biliar mínima",
+      "farmacodinamica": "Mejora la hemoglobina al restaurar hierro disponible",
+      "indicacoes": "Anemia por deficiencia de hierro (ERC, inflamación, intolerancia oral)",
+      "reacoesAdversas": "Náuseas, rubor, hipotensión, reacciones alérgicas, hipersensibilidad",
+      "riscoGravidez": "Categoría B (precaución 1º trimestre)",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "Infusión lenta o bolo IV según producto",
+      "doseMaxima": "1000 mg/sem (carboximaltosa), 200 mg (sacarosa), 125 mg (dextrano)",
+      "doseMinima": "100 mg",
+      "classificacao": "Sustituto de hierro intravenoso",
+      "apresentacao": "Viales de 100–1000 mg",
+      "interacaoMedicamento": "Interfiere con pruebas de hierro y puede interactuar con vitamina C",
+      "posologia": "Cálculo según déficit férrico (Ganzoni)",
+      "armazenamento": "15–30 °C, protegido de la luz",
+      "preparo": "Diluir en NaCl 0,9% y administrar lentamente",
+      "solucoesCompatíveis": "NaCl 0,9%",
+      "contraindicacoes": "Hemocromatosis, anemia no ferropénica",
+      "cuidadosMedicos": "Monitorear ferritina, TSAT y eventos adversos",
+      "cuidadosFarmaceuticos": "Control de estabilidad y dilución correcta",
+      "cuidadosEnfermagem": "Observar PA y signos de reacción",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, KDIGO, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氢氧化铁",
+      "suspension": "高风险患者术前3天停用（如肾病或近期使用）",
+      "risk": "输注反应、低血压、铁负荷过重，可能影响术中检测结果",
+      "reintroduction": "术后血流动力学稳定和铁储备评估正常后重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氢氧化铁（蔗糖、羧基麦芽糖、右旋糖酐）",
+      "nomeComercial": "Venofer, Ferinject, Ferrlecit, 注射铁制剂",
+      "mecanismoAcao": "补充铁储备，改善红细胞生成",
+      "farmacocinetica": "静脉输注，缓慢被巨噬细胞摄取，半衰期6–20小时",
+      "farmacodinamica": "提供可用铁以提高血红蛋白合成",
+      "indicacoes": "慢性病或口服铁不耐受导致的缺铁性贫血",
+      "reacoesAdversas": "头痛、恶心、低血压、局部疼痛、过敏反应",
+      "riscoGravidez": "B类（1期慎用）",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "缓慢静脉滴注或直接注射",
+      "doseMaxima": "每周最多1000 mg（羧基麦芽糖）",
+      "doseMinima": "100 mg",
+      "classificacao": "静脉补铁剂",
+      "apresentacao": "安瓿含铁100–1000 mg",
+      "interacaoMedicamento": "影响血铁、铁蛋白测定；与高剂量维生素C交互",
+      "posologia": "按Ganzoni公式计算铁缺失量",
+      "armazenamento": "15–30°C避光保存",
+      "preparo": "使用0.9%氯化钠稀释，缓慢输注",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "血色病、非缺铁性贫血",
+      "cuidadosMedicos": "术前术后监测铁代谢指标",
+      "cuidadosFarmaceuticos": "使用前检查稳定性并立即使用",
+      "cuidadosEnfermagem": "监测血压与过敏反应",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、KDIGO、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Adenosina",
+      "suspension": "Não se aplica – uso exclusivamente hospitalar em situações agudas",
+      "risk": "Bradicardia, assistolia transitória, broncoespasmo, especialmente em pacientes asmáticos",
+      "reintroduction": "Pode ser utilizada a qualquer momento em contexto de emergência, com monitorização contínua"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Adenosina",
+      "nomeComercial": "Adenocard, Adenocor",
+      "mecanismoAcao": "Ativa receptores A1 de adenosina no nodo AV, reduzindo a condução atrioventricular e interrompendo taquiarritmias supraventriculares",
+      "farmacocinetica": "Meia-vida plasmática extremamente curta (<10 segundos); metabolizada rapidamente por desaminação",
+      "farmacodinamica": "Bloqueio transitório da condução AV, permitindo reentrada sinusal",
+      "indicacoes": "Tratamento de taquicardia supraventricular paroxística (TSVP) com QRS estreito e estabilidade hemodinâmica",
+      "reacoesAdversas": "Rubor facial, dispneia, dor torácica, bradicardia, náusea, ansiedade",
+      "riscoGravidez": "Categoria C (usar se necessário)",
+      "riscoLactacao": "Uso permitido; meia-vida muito curta, risco mínimo",
+      "administracao": "Intravenosa em bolus rápido",
+      "doseMaxima": "12mg (dose única máxima); pode repetir em incrementos de 6mg, até 3 doses",
+      "doseMinima": "6mg (dose inicial)",
+      "classificacao": "Antiarrítmico classe V (modulador de nucleotídeos purínicos)",
+      "apresentacao": "Ampolas de 6mg/2mL e 3mg/mL",
+      "interacaoMedicamento": "Reduzida por metilxantinas (cafeína, teofilina); potencializada por dipiridamol e bloqueadores AV",
+      "posologia": "6mg IV rápida, seguida por flush salino; se ineficaz, 12mg após 1–2 minutos",
+      "armazenamento": "Temperatura ambiente, proteger da luz; uso imediato após abertura",
+      "preparo": "Pronta para uso; administrar em via proximal com flush rápido",
+      "solucoesCompatíveis": "Solução salina 0,9%",
+      "contraindicacoes": "Bloqueio AV de 2º ou 3º grau sem marca-passo, síndrome do nó sinusal, asma grave",
+      "cuidadosMedicos": "Monitorização cardíaca contínua durante a administração",
+      "cuidadosFarmaceuticos": "Utilizar imediatamente após abertura; observar integridade da ampola",
+      "cuidadosEnfermagem": "Preparar via venosa proximal e administrar flush imediatamente após a injeção",
+      "fontesBibliograficas": "SBEC, ACLS, Micromedex, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Adenosine",
+      "suspension": "Not applicable – used exclusively in acute hospital settings",
+      "risk": "Transient bradycardia, asystole, flushing, bronchospasm especially in asthma patients",
+      "reintroduction": "May be used anytime in emergencies under continuous monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Adenosine",
+      "nomeComercial": "Adenocard",
+      "mecanismoAcao": "Activates A1 adenosine receptors at AV node, transiently blocks conduction to restore sinus rhythm",
+      "farmacocinetica": "Very short half-life (<10 sec), rapid uptake and degradation by red blood cells and vascular endothelium",
+      "farmacodinamica": "Temporary AV node block allowing termination of reentry arrhythmias",
+      "indicacoes": "Paroxysmal supraventricular tachycardia (PSVT) with narrow QRS and hemodynamic stability",
+      "reacoesAdversas": "Flushing, dyspnea, chest discomfort, transient bradycardia or asystole, anxiety",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Safe during breastfeeding; minimal exposure",
+      "administracao": "Intravenous bolus",
+      "doseMaxima": "12mg (single max); up to 3 doses total",
+      "doseMinima": "6mg (initial dose)",
+      "classificacao": "Class V antiarrhythmic (purinergic modulator)",
+      "apresentacao": "Vials: 6mg/2mL, 3mg/mL",
+      "interacaoMedicamento": "Effect reduced by methylxanthines; increased by dipyridamole and AV blockers",
+      "posologia": "6mg rapid IV push followed by saline flush; if needed, 12mg after 1–2 min",
+      "armazenamento": "Room temperature, protect from light; use immediately once opened",
+      "preparo": "No dilution needed; administer via proximal IV access with rapid flush",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "2nd/3rd degree AV block without pacemaker, sick sinus syndrome, severe asthma",
+      "cuidadosMedicos": "Continuous ECG monitoring during administration",
+      "cuidadosFarmaceuticos": "Use immediately after opening; ensure vial integrity",
+      "cuidadosEnfermagem": "Prepare proximal IV access; flush rapidly after injection",
+      "fontesBibliograficas": "ACLS, FDA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Adenosina",
+      "suspension": "No aplica – uso exclusivo hospitalario en situaciones agudas",
+      "risk": "Bradicardia transitoria, asistolia, rubor, broncoespasmo en asmáticos",
+      "reintroduction": "Puede usarse en cualquier momento si hay indicación urgente y monitorización continua"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Adenosina",
+      "nomeComercial": "Adenocard",
+      "mecanismoAcao": "Activa receptores A1 en nodo AV, bloqueando temporalmente la conducción AV para restaurar el ritmo sinusal",
+      "farmacocinetica": "Vida media muy corta (<10s); metabolizada rápidamente por eritrocitos y endotelio",
+      "farmacodinamica": "Bloqueo transitorio del nodo AV interrumpe taquiarritmias por reentrada",
+      "indicacoes": "Taquicardia supraventricular paroxística con QRS estrecho y estabilidad hemodinámica",
+      "reacoesAdversas": "Rubor, disnea, dolor torácico, bradicardia, ansiedad",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Segura en lactancia; exposición mínima",
+      "administracao": "Bolo intravenoso rápido",
+      "doseMaxima": "12mg (máxima por dosis); hasta 3 dosis posibles",
+      "doseMinima": "6mg (dosis inicial)",
+      "classificacao": "Antiarrítmico clase V (modulador purinérgico)",
+      "apresentacao": "Ampollas de 6mg/2mL, 3mg/mL",
+      "interacaoMedicamento": "Reducida por metilxantinas; aumentada por dipiridamol y bloqueadores AV",
+      "posologia": "6mg IV rápido + flush; si no hay respuesta, repetir 12mg tras 1–2 min",
+      "armazenamento": "Temperatura ambiente, proteger de luz, usar tras apertura",
+      "preparo": "No requiere dilución; aplicar por vía proximal y flush inmediato",
+      "solucoesCompatíveis": "Solución salina 0,9%",
+      "contraindicacoes": "Bloqueo AV 2º/3º sin marcapasos, síndrome del seno enfermo, asma grave",
+      "cuidadosMedicos": "Monitorización ECG continua durante la administración",
+      "cuidadosFarmaceuticos": "Usar inmediatamente tras apertura; comprobar ampolla",
+      "cuidadosEnfermagem": "Asegurar vía proximal y aplicar flush rápido",
+      "fontesBibliograficas": "ACLS, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "腺苷",
+      "suspension": "不适用 – 仅在急诊医院环境中使用",
+      "risk": "短暂心动过缓、心脏停搏、面部潮红、哮喘患者风险更高",
+      "reintroduction": "如需急救可随时使用，需持续心电监护"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "腺苷",
+      "nomeComercial": "腺苷注射液（Adenocor）",
+      "mecanismoAcao": "激活AV结A1受体，暂时阻断房室传导以终止折返性心律失常",
+      "farmacocinetica": "血浆半衰期极短（<10秒），快速代谢",
+      "farmacodinamica": "短暂性AV结阻滞，有助于恢复窦性心律",
+      "indicacoes": "窄QRS阵发性室上性心动过速（PSVT）",
+      "reacoesAdversas": "面红、呼吸困难、胸痛、心动过缓、焦虑",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可用于哺乳期，几乎无风险",
+      "administracao": "静脉快速推注",
+      "doseMaxima": "单次最大剂量12mg；可间隔重复3次",
+      "doseMinima": "首次6mg",
+      "classificacao": "V类抗心律失常药（嘌呤受体调节剂）",
+      "apresentacao": "注射液：6mg/2mL、3mg/mL",
+      "interacaoMedicamento": "受甲基黄嘌呤类抑制；双嘧达莫和AV阻滞剂增强作用",
+      "posologia": "6mg静推 + 快速生理盐水冲洗，无效则1–2分钟后用12mg",
+      "armazenamento": "室温避光，开封后立即使用",
+      "preparo": "无需稀释，经近端静脉推注，随后立即冲洗",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "无起搏器的Ⅱ或Ⅲ度房室传导阻滞，病窦综合征，严重哮喘",
+      "cuidadosMedicos": "给药期间持续心电监测",
+      "cuidadosFarmaceuticos": "立即使用；检查安瓿完好",
+      "cuidadosEnfermagem": "准备近端静脉推注并快速冲洗",
+      "fontesBibliograficas": "中国药典、FDA、ACLS、Micromedex"
+    }
+  }
+}

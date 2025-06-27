@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Glucarpidase",
+      "suspension": "Não se aplica – uso hospitalar específico em intoxicação por metotrexato",
+      "risk": "Pode causar reações de hipersensibilidade, parestesia, rubor, cefaleia, náusea; interfere na dosagem de metotrexato nas primeiras 48h",
+      "reintroduction": "Uso único ou em dose única repetida com base nos níveis de metotrexato"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glucarpidase",
+      "nomeComercial": "Voraxaze",
+      "mecanismoAcao": "Enzima recombinante que cliva metotrexato em metabólitos inativos não tóxicos (DAMPA e glutamato)",
+      "farmacocinetica": "IV; ação imediata; meia-vida curta; metabolismo extracelular",
+      "farmacodinamica": "Reduz rapidamente os níveis plasmáticos de metotrexato em intoxicações com comprometimento renal",
+      "indicacoes": "Toxicidade aguda por metotrexato em pacientes com insuficiência renal",
+      "reacoesAdversas": "Rubor, parestesia, hipotensão, náusea, cefaleia, hipersensibilidade",
+      "riscoGravidez": "Categoria C – usar com cautela em risco vital",
+      "riscoLactacao": "Desconhecido – evitar",
+      "administracao": "Intravenosa em bolus",
+      "doseMaxima": "50 unidades/kg (dose única)",
+      "doseMinima": "50 unidades/kg",
+      "classificacao": "Antídoto enzimático para metotrexato",
+      "apresentacao": "Ampola liofilizada 1.000 unidades",
+      "interacaoMedicamento": "Não administrar leucovorina IV nas 2 horas seguintes; não interfere com leucovorina oral",
+      "posologia": "50 U/kg IV bolus em até 5 min",
+      "armazenamento": "Refrigerado 2–8 °C; reconstituído, usar em 4 horas",
+      "preparo": "Reconstituir com 1 mL de água estéril para cada 1.000 U; agitar suavemente",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Hipersensibilidade conhecida à proteína",
+      "cuidadosMedicos": "Monitorar metotrexato sérico, creatinina, eletrólitos e status neurológico",
+      "cuidadosFarmaceuticos": "Evitar uso simultâneo de leucovorina IV nas 2 h seguintes",
+      "cuidadosEnfermagem": "Observar sinais de reação alérgica e resposta neurológica",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Glucarpidase",
+      "suspension": "Not applicable – hospital use for MTX toxicity",
+      "risk": "Hypersensitivity, flushing, paresthesia, GI symptoms, alters MTX assay for 48h",
+      "reintroduction": "Single-use agent; redose only per MTX levels"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glucarpidase",
+      "nomeComercial": "Voraxaze",
+      "mecanismoAcao": "Enzyme that hydrolyzes MTX into inactive DAMPA and glutamate",
+      "farmacocinetica": "IV; rapid action; short half-life",
+      "farmacodinamica": "Rapidly reduces toxic MTX levels in renal dysfunction",
+      "indicacoes": "Toxic MTX levels in patients with impaired renal clearance",
+      "reacoesAdversas": "Flushing, tingling, nausea, headache, hypersensitivity",
+      "riscoGravidez": "Category C – use if benefit > risk",
+      "riscoLactacao": "Avoid",
+      "administracao": "IV bolus over 5 min",
+      "doseMaxima": "50 units/kg single dose",
+      "doseMinima": "50 units/kg",
+      "classificacao": "Methotrexate detoxifying enzyme",
+      "apresentacao": "1,000 unit vial",
+      "interacaoMedicamento": "Avoid IV leucovorin for 2h post-dose; PO leucovorin ok",
+      "posologia": "50 U/kg IV bolus in ≤5 min",
+      "armazenamento": "2–8 °C; use reconstituted product within 4 h",
+      "preparo": "Reconstitute with 1 mL SWFI per 1,000 U",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Known protein hypersensitivity",
+      "cuidadosMedicos": "Monitor MTX levels, renal function, electrolytes",
+      "cuidadosFarmaceuticos": "Separate leucovorin IV dosing from glucarpidase",
+      "cuidadosEnfermagem": "Monitor for allergic reaction and neurologic changes",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Glucarpidasa",
+      "suspension": "No aplicable – uso hospitalario en toxicidad por MTX",
+      "risk": "Anafilaxia, náusea, parestesias, interfiere en niveles de MTX",
+      "reintroduction": "Dosis única; repetir según niveles de MTX"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glucarpidasa",
+      "nomeComercial": "Voraxaze",
+      "mecanismoAcao": "Enzima que metaboliza MTX en productos inactivos",
+      "farmacocinetica": "IV; acción rápida; vida media corta",
+      "farmacodinamica": "Reduce MTX sérico en insuficiencia renal",
+      "indicacoes": "Toxicidad por MTX en IR",
+      "reacoesAdversas": "Rubor, náuseas, cefalea, reacciones alérgicas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar",
+      "administracao": "IV en bolo",
+      "doseMaxima": "50 U/kg",
+      "doseMinima": "50 U/kg",
+      "classificacao": "Antídoto enzimático MTX",
+      "apresentacao": "Vial 1.000 U",
+      "interacaoMedicamento": "Evitar leucovorina IV en 2h",
+      "posologia": "50 U/kg en bolo ≤5 min",
+      "armazenamento": "2–8 °C; usar en 4 h",
+      "preparo": "1 mL agua estéril por vial",
+      "solucoesCompatíveis": "SF",
+      "contraindicacoes": "Alergia a proteínas",
+      "cuidadosMedicos": "Monitor MTX, función renal, estado neurológico",
+      "cuidadosFarmaceuticos": "No mezclar con leucovorina IV",
+      "cuidadosEnfermagem": "Vigilar reacciones adversas",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "葡糖苷酶（Glucarpidase）",
+      "suspension": "不适用，仅限住院重度甲氨蝶呤中毒",
+      "risk": "面红、刺痛、胃肠反应、影响MTX检测48h",
+      "reintroduction": "单次使用，根据MTX浓度重复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "葡糖苷酶",
+      "nomeComercial": "Voraxaze",
+      "mecanismoAcao": "将甲氨蝶呤水解为无毒代谢物",
+      "farmacocinetica": "IV快速起效，t½短",
+      "farmacodinamica": "重度MTX中毒时快速清除血药",
+      "indicacoes": "MTX相关毒性，尤其肾功能损害者",
+      "reacoesAdversas": "潮红、感觉异常、过敏、恶心、头痛",
+      "riscoGravidez": "C类，慎用",
+      "riscoLactacao": "不推荐",
+      "administracao": "静推5分钟内完成",
+      "doseMaxima": "50 U/kg",
+      "doseMinima": "50 U/kg",
+      "classificacao": "酶解甲氨蝶呤解毒剂",
+      "apresentacao": "1,000单位冻干粉瓶",
+      "interacaoMedicamento": "避免2h内用IV叶酸钙",
+      "posologia": "50 U/kg静推",
+      "armazenamento": "2–8°C冷藏，重构后4h内用",
+      "preparo": "每瓶加1 mL无菌水，轻摇",
+      "solucoesCompatíveis": "生理盐水",
+      "contraindicacoes": "蛋白过敏",
+      "cuidadosMedicos": "监测MTX浓度、肾功能、电解质",
+      "cuidadosFarmaceuticos": "避开叶酸IV同时使用",
+      "cuidadosEnfermagem": "观察变态反应、神经变化",
+      "fontesBibliograficas": "FDA、UpToDate、Micromedex、EMA"
+    }
+  }
+}

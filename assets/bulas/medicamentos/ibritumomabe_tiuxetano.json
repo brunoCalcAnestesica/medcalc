@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ibritumomabe tiuxetano",
+      "suspension": "Não se aplica – uso exclusivo em oncologia, não relacionado a suspensão perioperatória comum",
+      "risk": "Risco elevado de toxicidade hematológica (trombocitopenia, neutropenia) e exposição radioativa; exige equipe especializada para administração e manejo",
+      "reintroduction": "Não aplicável; trata-se de terapia única ou de ciclos específicos, não se aplica conceito de reintrodução perioperatória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ibritumomabe tiuxetano",
+      "nomeComercial": "Zevalin",
+      "mecanismoAcao": "Anticorpo monoclonal anti-CD20 conjugado com ítrio-90 (radiação beta), que se liga a células B CD20+ causando citotoxicidade direta, lise mediada por complemento e dano por radiação localizada",
+      "farmacocinetica": "Distribuição rápida para tecido linfático; meia-vida do ítrio-90 é de aproximadamente 64 horas; eliminação via decaimento radioativo",
+      "farmacodinamica": "Induz apoptose, citotoxicidade imune e dano local por radiação nas células B malignas",
+      "indicacoes": "Linfoma não-Hodgkin de células B CD20+ refratário ou recidivado; terapia de consolidação após quimioterapia de primeira linha",
+      "reacoesAdversas": "Trombocitopenia, neutropenia, infecções, febre, calafrios, fadiga, náuseas, reações infusionais, risco de mielodisplasia",
+      "riscoGravidez": "Categoria D – Contraindicado; pode causar dano fetal. Evitar gravidez durante e até 12 meses após o tratamento",
+      "riscoLactacao": "Contraindicado – Potencial risco radioativo para o lactente",
+      "administracao": "Intravenosa, obrigatoriamente em combinação com rituximabe",
+      "doseMaxima": "0,4 mCi/kg (máximo de 32 mCi) após administração de rituximabe",
+      "doseMinima": "0,3 mCi/kg para pacientes com plaquetas entre 100.000–149.000/mm³",
+      "classificacao": "Radioimunoterápico; anticorpo monoclonal conjugado com isótopo radioativo",
+      "apresentacao": "Frasco-ampola com ibritumomabe tiuxetano (não radioativo) + kit para radioativação com ítrio-90",
+      "interacaoMedicamento": "Evitar uso concomitante com outros mielossupressores; contraindicado com vacinas vivas",
+      "posologia": "Administração única após duas doses de rituximabe em dias consecutivos",
+      "armazenamento": "Refrigerado entre 2–8°C; manipulação em ambiente controlado de radioatividade",
+      "preparo": "Necessita radioativação com ítrio-90 em laboratório de radiofarmácia sob condições estritamente controladas",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Hipersensibilidade ao ibritumomabe, tiuxetano, ítrio-90 ou proteínas murinas; gravidez e lactação; contagem de plaquetas <100.000/mm³",
+      "cuidadosMedicos": "Monitorar hemograma antes e após aplicação; avaliar função hematológica e limitar contato com pessoas vulneráveis devido à radiação",
+      "cuidadosFarmaceuticos": "Garantir validade, rastreabilidade e controle da radioatividade no momento da preparação e administração",
+      "cuidadosEnfermagem": "Monitorar sinais de toxicidade hematológica e reações infusionais; orientar paciente sobre precauções após radioimunoterapia",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, NCCN Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ibritumomab tiuxetan",
+      "suspension": "Not applicable – oncology-specific; not related to typical perioperative suspension",
+      "risk": "High risk of hematologic toxicity (thrombocytopenia, neutropenia) and radiation exposure; requires specialized handling and administration",
+      "reintroduction": "Not applicable; it is a one-time or cycle-based therapy, not subject to typical perioperative resumption"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ibritumomab tiuxetan",
+      "nomeComercial": "Zevalin",
+      "mecanismoAcao": "Anti-CD20 monoclonal antibody linked to Yttrium-90 (beta radiation), targeting CD20+ B-cells causing direct cytotoxicity, complement-mediated lysis, and localized radiation damage",
+      "farmacocinetica": "Rapid lymphatic distribution; Y-90 half-life approx. 64 hours; eliminated via radioactive decay",
+      "farmacodinamica": "Induces apoptosis, immune-mediated cytotoxicity, and local radiation-induced cell death in malignant B-cells",
+      "indicacoes": "Relapsed or refractory CD20+ B-cell non-Hodgkin lymphoma; consolidation after first-line chemotherapy",
+      "reacoesAdversas": "Thrombocytopenia, neutropenia, infections, fever, chills, fatigue, nausea, infusion reactions, risk of myelodysplasia",
+      "riscoGravidez": "Category D – Contraindicated; may cause fetal harm. Avoid pregnancy during and for 12 months post-treatment",
+      "riscoLactacao": "Contraindicated – Potential radiation hazard to nursing infants",
+      "administracao": "Intravenous, in combination with rituximab",
+      "doseMaxima": "0.4 mCi/kg (max 32 mCi) following rituximab administration",
+      "doseMinima": "0.3 mCi/kg for patients with platelet counts between 100,000–149,000/mm³",
+      "classificacao": "Radioimmunotherapeutic; monoclonal antibody conjugated with radioactive isotope",
+      "apresentacao": "Vial with ibritumomab tiuxetan (non-radioactive) plus Y-90 radiolabeling kit",
+      "interacaoMedicamento": "Avoid with other myelosuppressive agents; contraindicated with live vaccines",
+      "posologia": "Single administration following two rituximab doses on consecutive days",
+      "armazenamento": "Refrigerated (2–8°C); prepared in radiation-controlled environment",
+      "preparo": "Requires yttrium-90 radiolabeling by certified nuclear pharmacy personnel",
+      "solucoesCompatíveis": "0.9% sodium chloride",
+      "contraindicacoes": "Hypersensitivity to ibritumomab, tiuxetan, Y-90, or murine proteins; pregnancy and lactation; platelets <100,000/mm³",
+      "cuidadosMedicos": "Monitor CBC before and after; evaluate hematologic risks; limit exposure to vulnerable populations post-treatment",
+      "cuidadosFarmaceuticos": "Ensure proper radiation levels, expiration, and traceability during preparation and administration",
+      "cuidadosEnfermagem": "Monitor for hematologic toxicity and infusion reactions; educate patient on post-radioimmunotherapy safety",
+      "fontesBibliograficas": "FDA, Micromedex, NCCN Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ibritumomab tiuxetán",
+      "suspension": "No aplica – uso exclusivamente oncológico, no relacionado con suspensión perioperatoria habitual",
+      "risk": "Alto riesgo de toxicidad hematológica (trombocitopenia, neutropenia) y exposición a radiación; requiere administración y manejo especializado",
+      "reintroduction": "No aplicable; terapia única o por ciclos, no sujeta a reintroducción perioperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ibritumomab tiuxetán",
+      "nomeComercial": "Zevalin",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-CD20 unido a itrio-90 (radiación beta), que se dirige a células B CD20+ causando citotoxicidad directa, lisis mediada por complemento y daño por radiación localizada",
+      "farmacocinetica": "Distribución rápida en tejidos linfáticos; vida media del Y-90 es de 64 horas; eliminación por decaimiento radiactivo",
+      "farmacodinamica": "Induce apoptosis, citotoxicidad inmunitaria y daño celular por radiación en células B malignas",
+      "indicacoes": "Linfoma no Hodgkin de células B CD20+ refractario o recidivante; terapia de consolidación tras quimioterapia de primera línea",
+      "reacoesAdversas": "Trombocitopenia, neutropenia, infecciones, fiebre, escalofríos, fatiga, náuseas, reacciones a la infusión, riesgo de mielodisplasia",
+      "riscoGravidez": "Categoría D – Contraindicado; riesgo fetal. Evitar embarazo durante y 12 meses tras tratamiento",
+      "riscoLactacao": "Contraindicado – Riesgo potencial por radiación para el lactante",
+      "administracao": "Vía intravenosa, en combinación con rituximab",
+      "doseMaxima": "0.4 mCi/kg (máx. 32 mCi) tras rituximab",
+      "doseMinima": "0.3 mCi/kg si plaquetas entre 100.000–149.000/mm³",
+      "classificacao": "Radioinmunoterapia; anticuerpo monoclonal conjugado con isótopo radiactivo",
+      "apresentacao": "Vial con ibritumomab tiuxetán (no radiactivo) + kit para marcaje con itrio-90",
+      "interacaoMedicamento": "Evitar con otros mielosupresores; contraindicado con vacunas vivas",
+      "posologia": "Administración única tras dos dosis de rituximab en días consecutivos",
+      "armazenamento": "Refrigerado (2–8°C); preparación en entorno controlado de radiación",
+      "preparo": "Requiere marcaje radiactivo con itrio-90 por personal especializado",
+      "solucoesCompatíveis": "Cloruro de sodio al 0.9%",
+      "contraindicacoes": "Hipersensibilidad a ibritumomab, tiuxetán, itrio-90 o proteínas murinas; embarazo y lactancia; plaquetas <100.000/mm³",
+      "cuidadosMedicos": "Monitorear hemograma; evaluar riesgo hematológico; limitar contacto con personas vulnerables tras la terapia",
+      "cuidadosFarmaceuticos": "Verificar nivel de radiación, fecha de caducidad y trazabilidad durante la preparación",
+      "cuidadosEnfermagem": "Observar toxicidad hematológica y reacciones; orientar sobre precauciones post-terapia",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伊布替莫单抗-替昔坦",
+      "suspension": "不适用——仅限肿瘤治疗，不涉及围手术期停药",
+      "risk": "高风险的血液毒性（血小板减少、中性粒细胞减少）和放射暴露；需专业团队操作",
+      "reintroduction": "不适用；属于一次性或周期性治疗，无围手术期重新使用的概念"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伊布替莫单抗-替昔坦",
+      "nomeComercial": "Zevalin（泽瓦林）",
+      "mecanismoAcao": "抗CD20单克隆抗体与90Y（β射线）结合，靶向CD20+ B细胞，造成直接毒性、补体介导的细胞裂解及局部辐射损伤",
+      "farmacocinetica": "迅速分布到淋巴组织；90Y半衰期约64小时；通过放射性衰变清除",
+      "farmacodinamica": "诱导细胞凋亡、免疫介导的细胞毒性及放射性细胞死亡",
+      "indicacoes": "复发或难治性CD20+ B细胞非霍奇金淋巴瘤；一线化疗后的巩固治疗",
+      "reacoesAdversas": "血小板减少、中性粒细胞减少、感染、发热、寒战、疲劳、恶心、输注反应、骨髓异常风险",
+      "riscoGravidez": "D类 – 禁用；可能导致胎儿损伤。治疗期间及12个月内避免怀孕",
+      "riscoLactacao": "禁用 – 放射性可能对婴儿有害",
+      "administracao": "静脉注射，与利妥昔单抗联合",
+      "doseMaxima": "0.4 mCi/kg（最大32 mCi），在利妥昔单抗之后使用",
+      "doseMinima": "血小板在100,000–149,000/mm³时，剂量为0.3 mCi/kg",
+      "classificacao": "放射免疫治疗药物；放射性同位素标记的单克隆抗体",
+      "apresentacao": "含非放射性伊布替莫单抗-替昔坦的瓶装制剂及90Y放射性标记套件",
+      "interacaoMedicamento": "避免与其他骨髓抑制剂联用；禁止接种活疫苗",
+      "posologia": "在连续两天利妥昔单抗之后单次给药",
+      "armazenamento": "冷藏（2–8°C）；在放射性控制环境下制备",
+      "preparo": "由经过认证的放射药房人员进行90Y放射性标记",
+      "solucoesCompatíveis": "0.9%氯化钠注射液",
+      "contraindicacoes": "对伊布替莫单抗、替昔坦、90Y或鼠源蛋白过敏；妊娠和哺乳期禁用；血小板<100,000/mm³",
+      "cuidadosMedicos": "监测血常规；评估血液学风险；治疗后避免与易感人群接触",
+      "cuidadosFarmaceuticos": "确保制备时辐射水平、有效期和可追溯性",
+      "cuidadosEnfermagem": "监测血液毒性及输注反应；提供放射免疫治疗后的安全指导",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、NCCN指南"
+    }
+  }
+}

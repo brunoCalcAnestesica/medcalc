@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Etelcalcetida",
+      "suspension": "Não é necessário suspender em cirurgias, mas monitorar cálcio sérico em perioperatório",
+      "risk": "Risco de hipocalcemia sintomática, espasmo muscular, arritmias; deve ser monitorado em pacientes cirúrgicos",
+      "reintroduction": "Pode ser mantida; caso suspensa, reiniciar com monitoramento de cálcio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etelcalcetida",
+      "nomeComercial": "Parsabiv",
+      "mecanismoAcao": "Agonista do receptor de cálcio (calcimimético) que reduz a secreção de PTH pela glândula paratireoide",
+      "farmacocinetica": "Administração IV, Tmáx 30 minutos, meia-vida de 3–5 dias, metabolização via reação de troca de dissulfeto",
+      "farmacodinamica": "Reduz PTH, cálcio e fósforo séricos em pacientes com hiperparatireoidismo secundário em diálise",
+      "indicacoes": "Hiperparatireoidismo secundário em adultos com DRC em hemodiálise",
+      "reacoesAdversas": "Hipocalcemia, náusea, vômito, fraqueza, parestesia, câimbras, prolongamento de QT",
+      "riscoGravidez": "Categoria C – dados limitados",
+      "riscoLactacao": "Evitar durante lactação",
+      "administracao": "Intravenosa no final da sessão de hemodiálise",
+      "doseMaxima": "15 mg por dose (3x/semana)",
+      "doseMinima": "2,5 mg (ajuste conforme PTH e cálcio)",
+      "classificacao": "Calcimimético (agonista do receptor sensor de cálcio)",
+      "apresentacao": "Solução injetável 2,5 mg/mL (vial de 5 mL)",
+      "interacaoMedicamento": "Potencial com medicamentos que prolongam QT ou afetam cálcio",
+      "posologia": "5 mg IV 3x/semana após diálise; ajustar conforme níveis de PTH",
+      "armazenamento": "Refrigerado (2–8°C), proteger da luz",
+      "preparo": "Pronto para uso; não diluir",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipocalcemia, hipersensibilidade conhecida",
+      "cuidadosMedicos": "Monitorar cálcio, PTH, fósforo, ECG",
+      "cuidadosFarmaceuticos": "Não congelar; uso exclusivo IV após HD",
+      "cuidadosEnfermagem": "Administrar após HD; observar sinais de hipocalcemia",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Etelcalcetide",
+      "suspension": "No suspension needed for surgery; monitor calcium in perioperative setting",
+      "risk": "Risk of symptomatic hypocalcemia, arrhythmias, QT prolongation; monitor serum calcium",
+      "reintroduction": "Continue with dialysis sessions or resume post-op with calcium monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etelcalcetide",
+      "nomeComercial": "Parsabiv",
+      "mecanismoAcao": "Calcimimetic agent activating the calcium-sensing receptor on parathyroid cells to decrease PTH secretion",
+      "farmacocinetica": "IV route, Tmax ~30 min, t½ 3–5 days, disulfide exchange metabolism",
+      "farmacodinamica": "Lowers PTH, calcium and phosphate in dialysis patients",
+      "indicacoes": "Secondary hyperparathyroidism in adults with CKD on hemodialysis",
+      "reacoesAdversas": "Hypocalcemia, nausea, vomiting, muscle spasms, paresthesia, prolonged QT",
+      "riscoGravidez": "Category C – not enough data",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "IV bolus post-hemodialysis",
+      "doseMaxima": "15 mg post-HD (3 times/week)",
+      "doseMinima": "2.5 mg",
+      "classificacao": "Calcimimetic (calcium-sensing receptor agonist)",
+      "apresentacao": "Injection 2.5 mg/mL (5 mL vial)",
+      "interacaoMedicamento": "QT-prolonging drugs, drugs affecting calcium homeostasis",
+      "posologia": "5 mg IV 3×/week post-HD; titrate per labs",
+      "armazenamento": "Refrigerated (2–8°C), protect from light",
+      "preparo": "Do not dilute; ready-to-use vial",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypocalcemia, hypersensitivity",
+      "cuidadosMedicos": "Monitor calcium, PTH, phosphate, ECG",
+      "cuidadosFarmaceuticos": "Keep refrigerated, discard if frozen",
+      "cuidadosEnfermagem": "Administer post-HD, monitor hypocalcemia signs",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, NCCN"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Etelcalcetida",
+      "suspension": "No es necesario suspender antes de cirugía; vigilar calcio en el perioperatorio",
+      "risk": "Hipocalcemia, QT prolongado, espasmos, náuseas; riesgo de arritmia",
+      "reintroduction": "Mantener o reiniciar tras control de calcio sérico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etelcalcetida",
+      "nomeComercial": "Parsabiv",
+      "mecanismoAcao": "Agonista del receptor sensible al calcio en paratiroides; reduce PTH",
+      "farmacocinetica": "IV, Tmax 30 min, t½ 3–5 días, metabolismo vía intercambio disulfuro",
+      "farmacodinamica": "Disminuye PTH, calcio y fósforo sérico",
+      "indicacoes": "Hiperparatiroidismo secundario en hemodiálisis",
+      "reacoesAdversas": "Hipocalcemia, náuseas, espasmos, parestesia, QT largo",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "IV post-hemodiálisis",
+      "doseMaxima": "15 mg",
+      "doseMinima": "2,5 mg",
+      "classificacao": "Calcimimético",
+      "apresentacao": "Solución inyectable 2,5 mg/mL",
+      "interacaoMedicamento": "Medicamentos que prolongan QT o afectan calcio",
+      "posologia": "5 mg post-HD 3x/semana; ajustar por laboratorio",
+      "armazenamento": "2–8°C, proteger de la luz",
+      "preparo": "No diluir",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipocalcemia, alergia",
+      "cuidadosMedicos": "Vigilar calcio, PTH, fósforo, ECG",
+      "cuidadosFarmaceuticos": "No congelar; usar solo tras HD",
+      "cuidadosEnfermagem": "Observar síntomas de hipocalcemia",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "依特卡肽",
+      "suspension": "手术无需停药，但术前术后须监测血钙",
+      "risk": "低钙血症、QT延长、肌肉痉挛、恶心、心律失常",
+      "reintroduction": "术后恢复后可继续使用，须监测血钙"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依特卡肽",
+      "nomeComercial": "Parsabiv",
+      "mecanismoAcao": "钙感受器激动剂，抑制甲状旁腺激素分泌",
+      "farmacocinetica": "IV注射，Tmax约30分钟，半衰期3–5天，经双硫键交换代谢",
+      "farmacodinamica": "降低PTH、血钙与血磷浓度",
+      "indicacoes": "透析中慢性肾病继发性甲旁亢",
+      "reacoesAdversas": "低钙血症、恶心、痉挛、感觉异常、QT延长",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "透析结束后静脉注射",
+      "doseMaxima": "15毫克/次（每周3次）",
+      "doseMinima": "2.5毫克",
+      "classificacao": "钙调节类药物（Calcimimetic）",
+      "apresentacao": "2.5 mg/mL注射液（5 mL瓶）",
+      "interacaoMedicamento": "QT延长药物、钙代谢影响药",
+      "posologia": "5毫克透析后注射，依据PTH调整",
+      "armazenamento": "2–8°C冷藏，避光",
+      "preparo": "原液直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "低钙血症、过敏史",
+      "cuidadosMedicos": "监测PTH、钙磷、电图",
+      "cuidadosFarmaceuticos": "冷藏保存，不可冷冻",
+      "cuidadosEnfermagem": "注射后观察低钙表现如肌痉挛",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

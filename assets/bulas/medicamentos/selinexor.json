@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Selinexor",
+      "suspension": "Suspender 5 a 7 dias antes de cirurgias eletivas devido ao risco de náuseas, vômitos e trombocitopenia",
+      "risk": "Risco de mielossupressão grave, náuseas, vômitos, fadiga, hiponatremia e toxicidade gastrointestinal",
+      "reintroduction": "Reintroduzir após recuperação hematológica e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Selinexor",
+      "nomeComercial": "Xpovio",
+      "mecanismoAcao": "Inibidor seletivo da exportina 1 (XPO1), bloqueando a exportação nuclear de proteínas supressoras tumorais, promovendo apoptose celular",
+      "farmacocinetica": "Administração oral; Tmáx ~4h; alta ligação a proteínas plasmáticas; metabolizado por oxidação e conjugação; meia-vida terminal ~6–8h",
+      "farmacodinamica": "Induz apoptose em células neoplásicas por retenção nuclear de proteínas reguladoras de crescimento e apoptose",
+      "indicacoes": "Mieloma múltiplo refratário, linfoma difuso de grandes células B (LDGCB) recidivado ou refratário",
+      "reacoesAdversas": "Náuseas, vômitos, fadiga, anorexia, perda de peso, trombocitopenia, neutropenia, hiponatremia, diarreia, infecções",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg 2x/semana (mieloma); 60 mg 1x/semana (linfoma)",
+      "doseMinima": "40 mg 1x/semana",
+      "classificacao": "Antineoplásico – inibidor da exportina 1 (XPO1)",
+      "apresentacao": "Comprimidos revestidos de 20 mg",
+      "interacaoMedicamento": "Cautela com inibidores ou indutores de CYP3A4; evitar uso com antieméticos QT-prolongadores",
+      "posologia": "Mieloma: 80–100 mg 2x/semana com dexametasona; linfoma: 60 mg 1x/semana",
+      "armazenamento": "Temperatura ambiente (15–30 ºC)",
+      "preparo": "Uso oral direto; não partir os comprimidos",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade ao selinexor",
+      "cuidadosMedicos": "Monitorar hemograma, eletrólitos, função hepática; suporte antiemético agressivo",
+      "cuidadosFarmaceuticos": "Orientar sobre ingestão com alimentos leves e medidas para prevenir náuseas",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade gastrointestinal e hematológica",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, Bula Xpovio"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Selinexor",
+      "suspension": "Hold 5–7 days before elective surgery due to risk of GI toxicity and cytopenias",
+      "risk": "High risk of myelosuppression, nausea, vomiting, fatigue, hyponatremia, GI toxicity",
+      "reintroduction": "Restart after clinical and hematologic recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Selinexor",
+      "nomeComercial": "Xpovio",
+      "mecanismoAcao": "Selective inhibitor of nuclear export (SINE) that targets XPO1 to restore tumor suppressor function and induce apoptosis",
+      "farmacocinetica": "Oral; Tmax ~4h; protein-bound; metabolized via oxidation and conjugation; t½ ~6–8h",
+      "farmacodinamica": "Causes nuclear retention of tumor suppressor proteins, inhibiting proliferation of malignant cells",
+      "indicacoes": "Relapsed/refractory multiple myeloma and diffuse large B-cell lymphoma (DLBCL)",
+      "reacoesAdversas": "Nausea, vomiting, fatigue, anorexia, thrombocytopenia, neutropenia, hyponatremia, diarrhea, infections",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated during lactation",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg twice weekly (myeloma); 60 mg once weekly (DLBCL)",
+      "doseMinima": "40 mg once weekly",
+      "classificacao": "Antineoplastic – selective nuclear export inhibitor (XPO1)",
+      "apresentacao": "Tablets 20 mg",
+      "interacaoMedicamento": "Caution with CYP3A4 modulators; avoid QT-prolonging antiemetics",
+      "posologia": "Myeloma: 80–100 mg 2x/week with dexamethasone; DLBCL: 60 mg 1x/week",
+      "armazenamento": "Room temperature (15–30 ºC)",
+      "preparo": "Oral tablets; do not split",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, hypersensitivity",
+      "cuidadosMedicos": "Monitor CBC, liver function, electrolytes; aggressive antiemetic protocol",
+      "cuidadosFarmaceuticos": "Counsel on anti-nausea strategies and proper administration",
+      "cuidadosEnfermagem": "Assess GI tolerance, fatigue, hematologic parameters",
+      "fontesBibliograficas": "FDA, Xpovio Prescribing Info, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Selinexor",
+      "suspension": "Suspender 5–7 días antes de cirugía por riesgo de toxicidad gastrointestinal y citopenias",
+      "risk": "Riesgo alto de náuseas, vómitos, fatiga, hiponatremia, mielosupresión",
+      "reintroduction": "Reanudar tras recuperación clínica y hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Selinexor",
+      "nomeComercial": "Xpovio",
+      "mecanismoAcao": "Inhibidor selectivo de la exportina nuclear XPO1, restablece funciones supresoras tumorales",
+      "farmacocinetica": "Oral; Tmax ~4h; metabolismo hepático; t½ 6–8h",
+      "farmacodinamica": "Retiene proteínas tumorales en el núcleo, favoreciendo apoptosis",
+      "indicacoes": "Mieloma múltiple refractario; linfoma B difuso de células grandes recidivante",
+      "reacoesAdversas": "Náuseas, vómitos, anorexia, fatiga, trombocitopenia, hiponatremia, diarrea, infecciones",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg 2x/semana",
+      "doseMinima": "40 mg 1x/semana",
+      "classificacao": "Antineoplásico – inhibidor de exportina nuclear (XPO1)",
+      "apresentacao": "Comprimidos de 20 mg",
+      "interacaoMedicamento": "Evitar con moduladores CYP3A4 y antieméticos QT-prolongadores",
+      "posologia": "80–100 mg 2x/semana (MM); 60 mg 1x/semana (DLBCL)",
+      "armazenamento": "Ambiente seco, 15–30 ºC",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad",
+      "cuidadosMedicos": "Monitorización hematológica, hepática y síntomas GI",
+      "cuidadosFarmaceuticos": "Asesorar en náuseas y adherencia",
+      "cuidadosEnfermagem": "Evaluar tolerancia digestiva y signos de citopenia",
+      "fontesBibliograficas": "EMA, ficha técnica Xpovio, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "Selinexor（塞利尼索）",
+      "suspension": "术前5–7天停药，防止术后恶心呕吐和血细胞减少",
+      "risk": "显著胃肠道毒性、疲劳、低钠血症、骨髓抑制风险",
+      "reintroduction": "术后稳定后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "塞利尼索（Selinexor）",
+      "nomeComercial": "Xpovio",
+      "mecanismoAcao": "选择性XPO1核输出抑制剂，保留抑癌蛋白在细胞核内，诱导凋亡",
+      "farmacocinetica": "口服给药，Tmax约4小时，肝代谢，半衰期约6–8小时",
+      "farmacodinamica": "通过核保留抑癌蛋白作用，抑制肿瘤细胞生长",
+      "indicacoes": "复发/难治性多发性骨髓瘤，B大细胞淋巴瘤",
+      "reacoesAdversas": "恶心、呕吐、食欲下降、疲劳、血小板减少、低钠血症、感染",
+      "riscoGravidez": "D类 – 禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每周2次100毫克",
+      "doseMinima": "每周1次40毫克",
+      "classificacao": "抗肿瘤药物 – XPO1抑制剂",
+      "apresentacao": "20 mg片剂",
+      "interacaoMedicamento": "避免与CYP3A4调节剂合用；慎用QT延长药物",
+      "posologia": "80–100 mg每周两次（骨髓瘤）；60 mg每周一次（DLBCL）",
+      "armazenamento": "15–30 ºC室温避光保存",
+      "preparo": "整片吞服，不可分割",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "孕期、哺乳期、过敏史",
+      "cuidadosMedicos": "监测血常规、电解质、肝功能",
+      "cuidadosFarmaceuticos": "建议防止恶心措施，教育用药规律",
+      "cuidadosEnfermagem": "关注胃肠耐受性及造血抑制征象",
+      "fontesBibliograficas": "中国药典、Xpovio说明书、Micromedex"
+    }
+  }
+}

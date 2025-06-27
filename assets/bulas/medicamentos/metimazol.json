@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Metimazol",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Risco de crise tireotóxica se suspenso abruptamente. Supressão da síntese de hormônios tireoidianos pode ser crítica em pacientes com hipertireoidismo.",
+      "reintroduction": "Continuar normalmente no pós-operatório, com avaliação de função tireoidiana e dosagem ajustada conforme níveis hormonais"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metimazol",
+      "nomeComercial": "Tapazol, Thyrozol (alguns países)",
+      "mecanismoAcao": "Inibe a síntese dos hormônios tireoidianos, bloqueando a peroxidase tireoidiana",
+      "farmacocinetica": "Absorção rápida por via oral, metabolismo hepático, excreção renal",
+      "farmacodinamica": "Reduz a produção de T3 e T4 pela glândula tireoide",
+      "indicacoes": "Hipertireoidismo, Doença de Graves, preparação pré-operatória para tireoidectomia",
+      "reacoesAdversas": "Rash, agranulocitose, hepatotoxicidade, artralgia",
+      "riscoGravidez": "Categoria D (evitar, especialmente no primeiro trimestre)",
+      "riscoLactacao": "Excretado no leite, uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "60mg/dia",
+      "doseMinima": "5mg/dia",
+      "classificacao": "Antitireoidiano",
+      "apresentacao": "Comprimidos de 5mg, 10mg e 30mg",
+      "interacaoMedicamento": "Pode potencializar efeito de anticoagulantes e betabloqueadores",
+      "posologia": "Dose ajustada conforme níveis de TSH e T4 livre",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao metimazol, disfunção hepática grave",
+      "cuidadosMedicos": "Monitorar função hepática e hematológica periodicamente",
+      "cuidadosFarmaceuticos": "Orientar sobre sinais de agranulocitose (febre, dor de garganta)",
+      "cuidadosEnfermagem": "Observar sinais de infecção e alteração do estado geral",
+      "fontesBibliograficas": "SBEM, FDA, Micromedex, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Methimazole",
+      "suspension": "Maintain until the day of surgery",
+      "risk": "Risk of thyroid storm if abruptly discontinued. Hormone suppression must be sustained in hyperthyroid patients.",
+      "reintroduction": "Continue postoperatively with thyroid function monitoring and dosage adjustment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Methimazole",
+      "nomeComercial": "Tapazole",
+      "mecanismoAcao": "Inhibits thyroid hormone synthesis by blocking thyroid peroxidase",
+      "farmacocinetica": "Rapid oral absorption, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Reduces production of T3 and T4",
+      "indicacoes": "Hyperthyroidism, Graves' disease, preoperative preparation for thyroidectomy",
+      "reacoesAdversas": "Rash, agranulocytosis, hepatotoxicity, arthralgia",
+      "riscoGravidez": "Category D (avoid, especially in the first trimester)",
+      "riscoLactacao": "Excreted in breast milk, use with caution",
+      "administracao": "Oral route",
+      "doseMaxima": "60mg/day",
+      "doseMinima": "5mg/day",
+      "classificacao": "Antithyroid agent",
+      "apresentacao": "Tablets 5mg, 10mg, 30mg",
+      "interacaoMedicamento": "May enhance effects of anticoagulants and beta-blockers",
+      "posologia": "Dose adjusted according to TSH and free T4 levels",
+      "armazenamento": "Room temperature, protected from light and moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, severe hepatic dysfunction",
+      "cuidadosMedicos": "Monitor liver and blood counts regularly",
+      "cuidadosFarmaceuticos": "Advise about signs of agranulocytosis (fever, sore throat)",
+      "cuidadosEnfermagem": "Observe for infection and general condition changes",
+      "fontesBibliograficas": "FDA, Micromedex, AACE guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Metimazol",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Riesgo de tormenta tiroidea si se suspende bruscamente. Es fundamental mantener la inhibición hormonal.",
+      "reintroduction": "Continuar en el postoperatorio con control de la función tiroidea y ajuste de dosis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metimazol",
+      "nomeComercial": "Tapazol",
+      "mecanismoAcao": "Inhibe la peroxidasa tiroidea y la síntesis de hormonas tiroideas",
+      "farmacocinetica": "Buena absorción oral, metabolismo hepático, eliminación renal",
+      "farmacodinamica": "Disminuye la producción de T3 y T4",
+      "indicacoes": "Hipertiroidismo, enfermedad de Graves, preparación prequirúrgica",
+      "reacoesAdversas": "Exantema, agranulocitosis, hepatotoxicidad, artralgia",
+      "riscoGravidez": "Categoría D (evitar en el primer trimestre)",
+      "riscoLactacao": "Se excreta en la leche materna, usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "60mg/día",
+      "doseMinima": "5mg/día",
+      "classificacao": "Antitiroideo",
+      "apresentacao": "Comprimidos de 5mg, 10mg, 30mg",
+      "interacaoMedicamento": "Potencia anticoagulantes y betabloqueadores",
+      "posologia": "Dosis ajustada según TSH y T4 libre",
+      "armazenamento": "Temperatura ambiente, protegido de luz y humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, enfermedad hepática grave",
+      "cuidadosMedicos": "Monitoreo hepático y hematológico frecuente",
+      "cuidadosFarmaceuticos": "Orientar sobre signos de agranulocitosis",
+      "cuidadosEnfermagem": "Observar signos de infección y estado general",
+      "fontesBibliograficas": "Micromedex, FDA, protocolos latinoamericanos"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甲巯咪唑",
+      "suspension": "手术当天继续使用",
+      "risk": "突然停药可导致甲状腺危象。对甲亢患者必须持续抑制激素合成。",
+      "reintroduction": "术后继续用药，监测甲状腺功能并调整剂量"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甲巯咪唑",
+      "nomeComercial": "他巴唑（Tapazole）",
+      "mecanismoAcao": "抑制甲状腺过氧化物酶，阻断T3和T4的合成",
+      "farmacocinetica": "口服吸收迅速，肝脏代谢，肾脏排泄",
+      "farmacodinamica": "减少甲状腺激素的生成",
+      "indicacoes": "甲状腺功能亢进，Graves病，术前准备",
+      "reacoesAdversas": "皮疹、粒细胞缺乏、肝毒性、关节痛",
+      "riscoGravidez": "D类（第一孕期避免使用）",
+      "riscoLactacao": "可分泌至乳汁中，慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日60毫克",
+      "doseMinima": "每日5毫克",
+      "classificacao": "抗甲状腺药物",
+      "apresentacao": "片剂：5mg, 10mg, 30mg",
+      "interacaoMedicamento": "增强抗凝药、β阻滞剂作用",
+      "posologia": "依据TSH和游离T4调整剂量",
+      "armazenamento": "常温避光保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对药物过敏、重度肝病",
+      "cuidadosMedicos": "定期监测肝功能和血常规",
+      "cuidadosFarmaceuticos": "提醒警惕粒细胞缺乏症状",
+      "cuidadosEnfermagem": "观察感染体征和全身状况",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

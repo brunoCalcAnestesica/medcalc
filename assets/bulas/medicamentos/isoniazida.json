@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Isoniazida",
+      "suspension": "Suspender 1 dia antes da cirurgia",
+      "risk": "Risco de hepatotoxicidade, neuropatia periférica e interação com anestésicos e midazolam",
+      "reintroduction": "Reintroduzir 24–48h após estabilidade hepática e reinício da alimentação oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Isoniazida",
+      "nomeComercial": "Nidrazida, Rimifon, Laniazid",
+      "mecanismoAcao": "Inibe a síntese de ácidos micólicos da parede celular do Mycobacterium tuberculosis",
+      "farmacocinetica": "Boa absorção oral, metabolismo hepático (acetilação), excreção renal",
+      "farmacodinamica": "Bactericida contra micobactérias em fase de multiplicação ativa",
+      "indicacoes": "Tuberculose ativa ou latente, geralmente em combinação",
+      "reacoesAdversas": "Hepatite, neuropatia periférica, rash, febre, artralgia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretada no leite, uso permitido com monitoramento",
+      "administracao": "Via oral, também disponível parenteral em alguns países",
+      "doseMaxima": "300 mg/dia (monoterapia), 5 mg/kg/dia (associada)",
+      "doseMinima": "100 mg/dia (profilaxia)",
+      "classificacao": "Antibiótico antimicobacteriano",
+      "apresentacao": "Comprimidos, solução oral, injetável (limitada disponibilidade)",
+      "interacaoMedicamento": "Aumenta toxicidade de carbamazepina, fenitoína, álcool e paracetamol",
+      "posologia": "300 mg/dia em dose única ou fracionada",
+      "armazenamento": "Local seco e fresco, temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Solução salina 0,9% (para injetável)",
+      "contraindicacoes": "Hepatopatia aguda, hipersensibilidade à isoniazida",
+      "cuidadosMedicos": "Monitorar TGO, TGP, sinais de hepatite, administrar piridoxina se necessário",
+      "cuidadosFarmaceuticos": "Orientar sobre hepatotoxicidade e evitar álcool",
+      "cuidadosEnfermagem": "Observar icterícia, fadiga, náuseas persistentes",
+      "fontesBibliograficas": "SBPT, ANVISA, Micromedex, WHO, CDC"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Isoniazid",
+      "suspension": "Suspend 1 day before surgery",
+      "risk": "Risk of hepatotoxicity, peripheral neuropathy, and interaction with anesthetics and midazolam",
+      "reintroduction": "Restart 24–48h after liver function stabilizes and oral intake resumes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Isoniazid",
+      "nomeComercial": "Nydrazid, Laniazid, Isotamine",
+      "mecanismoAcao": "Inhibits synthesis of mycolic acids in mycobacterial cell wall",
+      "farmacocinetica": "Well absorbed orally, hepatic metabolism via acetylation, renal excretion",
+      "farmacodinamica": "Bactericidal against actively dividing Mycobacterium tuberculosis",
+      "indicacoes": "Active or latent tuberculosis, usually combined with other agents",
+      "reacoesAdversas": "Hepatitis, peripheral neuropathy, rash, fever, arthralgia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; acceptable with monitoring",
+      "administracao": "Oral, occasionally parenteral in some countries",
+      "doseMaxima": "300 mg/day (monotherapy), 5 mg/kg/day (in combination)",
+      "doseMinima": "100 mg/day (prophylaxis)",
+      "classificacao": "Antimycobacterial antibiotic",
+      "apresentacao": "Tablets, oral solution, limited injectable forms",
+      "interacaoMedicamento": "Increases toxicity of carbamazepine, phenytoin, alcohol, acetaminophen",
+      "posologia": "300 mg/day once or in divided doses",
+      "armazenamento": "Store in a dry place at room temperature (59–86°F)",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "0.9% sodium chloride (for IV use)",
+      "contraindicacoes": "Active hepatic disease, hypersensitivity to isoniazid",
+      "cuidadosMedicos": "Monitor AST, ALT, signs of hepatitis; use pyridoxine as needed",
+      "cuidadosFarmaceuticos": "Advise on hepatotoxicity risk and alcohol avoidance",
+      "cuidadosEnfermagem": "Watch for jaundice, fatigue, persistent nausea",
+      "fontesBibliograficas": "CDC, FDA, WHO, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Isoniazida",
+      "suspension": "Suspender 1 día antes de la cirugía",
+      "risk": "Riesgo de hepatotoxicidad, neuropatía periférica e interacción con anestésicos",
+      "reintroduction": "Reintroducir 24–48h después de estabilización hepática y tolerancia oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Isoniazida",
+      "nomeComercial": "Nidrazida, Laniazida, Isotamina",
+      "mecanismoAcao": "Inhibe la síntesis de ácidos micólicos en la pared celular de micobacterias",
+      "farmacocinetica": "Buena absorción oral, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Bactericida frente a micobacterias activas",
+      "indicacoes": "Tuberculosis activa o latente",
+      "reacoesAdversas": "Hepatitis, neuropatía, fiebre, erupción cutánea",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en la leche; uso permitido bajo control",
+      "administracao": "Oral, raramente parenteral",
+      "doseMaxima": "300 mg/día",
+      "doseMinima": "100 mg/día (profilaxis)",
+      "classificacao": "Antibiótico antimicobacteriano",
+      "apresentacao": "Comprimidos, solución oral",
+      "interacaoMedicamento": "Aumenta toxicidad de alcohol, fenitoína, paracetamol",
+      "posologia": "300 mg una vez al día",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "Salina 0,9% si parenteral",
+      "contraindicacoes": "Enfermedad hepática activa, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear transaminasas, suplementar piridoxina",
+      "cuidadosFarmaceuticos": "Evitar consumo de alcohol, advertir sobre toxicidad hepática",
+      "cuidadosEnfermagem": "Vigilar ictericia, náuseas, malestar general",
+      "fontesBibliograficas": "OMS, ANVISA, CDC, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "异烟肼",
+      "suspension": "术前1天停药",
+      "risk": "可能引起肝毒性、周围神经病、与麻醉药和咪达唑仑相互作用",
+      "reintroduction": "术后肝功能稳定且可进食后24–48小时重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "异烟肼",
+      "nomeComercial": "尼达嗪, 异烟肼片",
+      "mecanismoAcao": "抑制分枝杆菌细胞壁中粘脂酸合成",
+      "farmacocinetica": "口服吸收良好，经肝脏代谢，肾排泄",
+      "farmacodinamica": "对活跃分裂的结核分枝杆菌具杀菌作用",
+      "indicacoes": "治疗活动性或潜伏性结核病",
+      "reacoesAdversas": "肝炎、外周神经病、皮疹、发热、关节痛",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，需监测",
+      "administracao": "口服，部分国家可注射",
+      "doseMaxima": "每日300毫克",
+      "doseMinima": "每日100毫克（预防）",
+      "classificacao": "抗分枝杆菌药",
+      "apresentacao": "片剂、口服液",
+      "interacaoMedicamento": "与酒精、苯妥英、对乙酰氨基酚合用风险增加",
+      "posologia": "每日一次300毫克",
+      "armazenamento": "干燥阴凉处，室温保存",
+      "preparo": "无需特殊处理",
+      "solucoesCompatíveis": "0.9%氯化钠（如注射）",
+      "contraindicacoes": "活动性肝病、过敏",
+      "cuidadosMedicos": "监测肝功能，可补充维生素B6",
+      "cuidadosFarmaceuticos": "避免酒精摄入，警惕肝毒性",
+      "cuidadosEnfermagem": "观察黄疸、乏力、恶心等症状",
+      "fontesBibliograficas": "中国药典, WHO, Micromedex"
+    }
+  }
+}

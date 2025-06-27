@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vitamina E (Alfa-Tocoferol)",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva com risco hemorrágico elevado",
+      "risk": "Em altas doses (>400 UI/dia), pode interferir na agregação plaquetária e potencializar risco de sangramento, especialmente com anticoagulantes ou antiagregantes.",
+      "reintroduction": "Reintroduzir após avaliação da hemostasia e reestabelecimento da dieta oral. Preferir doses fisiológicas (<100 UI/dia) na primeira semana pós-operatória."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alfa-Tocoferol",
+      "nomeComercial": "E-Vit, E-Syn, Natuphitus E, Tocovit",
+      "mecanismoAcao": "Antioxidante lipossolúvel que protege membranas celulares contra estresse oxidativo; estabiliza ácidos graxos poli-insaturados",
+      "farmacocinetica": "Absorção intestinal dependente de bile e gordura; armazenada em tecido adiposo e fígado; meia-vida de 48–96 horas; excreção fecal",
+      "farmacodinamica": "Protege lipídios de membrana, modula resposta inflamatória e imunológica; atua na síntese de prostaglandinas",
+      "indicacoes": "Deficiência vitamínica (colestase, doenças hepáticas, prematuridade), estresse oxidativo, suporte antioxidante em TPN",
+      "reacoesAdversas": "Diarreia, náuseas, cefaleia, fadiga, aumento do risco de sangramento em altas doses",
+      "riscoGravidez": "Categoria A em doses nutricionais; evitar altas doses",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Oral (cápsulas, solução); parenteral em TPN (forma emulsificada)",
+      "doseMaxima": "1000 mg/dia (equivalente a ~1500 UI/dia)",
+      "doseMinima": "15 mg/dia (22 UI/dia)",
+      "classificacao": "Vitamina lipossolúvel – antioxidante",
+      "apresentacao": "Cápsulas 100–400 UI; solução oral; emulsão para TPN",
+      "interacaoMedicamento": "Potencializa efeito de anticoagulantes e antiagregantes; interage com ciclosporina e orlistate",
+      "posologia": "15–1000 UI/dia conforme indicação clínica",
+      "armazenamento": "Temperatura ambiente; protegido da luz",
+      "preparo": "Uso direto oral; emulsão deve ser incorporada ao TPN por farmacêutico",
+      "solucoesCompatíveis": "Em TPN com emulsão lipídica",
+      "contraindicacoes": "Hipersensibilidade; coagulopatias não compensadas; uso com anticoagulantes sem controle",
+      "cuidadosMedicos": "Monitorar INR se em uso com varfarina ou anticoagulantes; evitar megadoses crônicas",
+      "cuidadosFarmaceuticos": "Evitar exposição à luz; verificar estabilidade em nutrição parenteral",
+      "cuidadosEnfermagem": "Observar sinais de sangramento em pacientes de risco",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, UpToDate, ASPEN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vitamin E (Alpha-Tocopherol)",
+      "suspension": "Discontinue 7 days prior to surgery with bleeding risk",
+      "risk": "High doses (>400 IU/day) may impair platelet function and increase bleeding, especially with anticoagulants or antiplatelets.",
+      "reintroduction": "Restart after oral intake resumes and bleeding risk subsides; use physiologic doses initially (<100 IU/day)."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alpha-Tocopherol",
+      "nomeComercial": "Vitamin E, Aquasol E, Tocovid, E-400",
+      "mecanismoAcao": "Fat-soluble antioxidant protecting polyunsaturated fatty acids in cell membranes from oxidation",
+      "farmacocinetica": "Absorbed with fat in presence of bile; stored in liver and adipose tissue; excreted in feces",
+      "farmacodinamica": "Antioxidant action, stabilizes membranes, modulates immune and inflammatory response",
+      "indicacoes": "Vitamin E deficiency, oxidative stress, TPN support, premature infants, liver disease",
+      "reacoesAdversas": "GI upset, headache, fatigue, bleeding at high doses",
+      "riscoGravidez": "Category A at nutritional doses; high-dose use should be avoided",
+      "riscoLactacao": "Safe for breastfeeding at normal intake",
+      "administracao": "Oral capsules or solution; IV via TPN only",
+      "doseMaxima": "1000 mg/day (~1500 IU)",
+      "doseMinima": "15 mg/day (22 IU)",
+      "classificacao": "Fat-soluble antioxidant vitamin",
+      "apresentacao": "Capsules 100–400 IU, oral solution, IV emulsion for TPN",
+      "interacaoMedicamento": "Enhances bleeding risk with anticoagulants; interacts with cyclosporine and orlistat",
+      "posologia": "15–1000 IU/day depending on indication",
+      "armazenamento": "Room temp, protect from light",
+      "preparo": "Oral use directly; IV form in lipid emulsion for TPN",
+      "solucoesCompatíveis": "Lipid emulsion in TPN",
+      "contraindicacoes": "Hypersensitivity, active bleeding disorders, uncontrolled anticoagulation",
+      "cuidadosMedicos": "Monitor INR with warfarin; avoid megadoses chronically",
+      "cuidadosFarmaceuticos": "Ensure light protection; stable in lipid TPN",
+      "cuidadosEnfermagem": "Monitor for bleeding signs",
+      "fontesBibliograficas": "FDA, NIH, UpToDate, Micromedex, ASPEN"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vitamina E (Alfa-Tocoferol)",
+      "suspension": "Suspender 7 días antes de cirugía con riesgo hemorrágico",
+      "risk": "Dosis altas (>400 UI/día) pueden aumentar riesgo de sangrado, especialmente con anticoagulantes",
+      "reintroduction": "Reanudar tras recuperación oral y estabilización hemostática; iniciar con dosis fisiológicas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alfa-Tocoferol",
+      "nomeComercial": "E-Vit, E-Syn, Vitamina E Genfar",
+      "mecanismoAcao": "Antioxidante liposoluble; estabiliza membranas y protege ácidos grasos poliinsaturados",
+      "farmacocinetica": "Absorción intestinal con grasas; almacenamiento hepático y adiposo; excreción biliar",
+      "farmacodinamica": "Modula inflamación, protege tejidos, actúa sobre síntesis de eicosanoides",
+      "indicacoes": "Deficiencia vitamínica, estrés oxidativo, soporte nutricional",
+      "reacoesAdversas": "Diarrea, cefalea, cansancio, sangrado (altas dosis)",
+      "riscoGravidez": "Categoría A (evitar megadosis)",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "VO o parenteral (TPN)",
+      "doseMaxima": "1000 mg/día (~1500 UI)",
+      "doseMinima": "15 mg/día",
+      "classificacao": "Vitamina liposoluble – antioxidante",
+      "apresentacao": "Cápsulas, solución oral, emulsión TPN",
+      "interacaoMedicamento": "Potencia anticoagulantes; interfiere con ciclosporina y orlistat",
+      "posologia": "15–1000 UI/día",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "Uso directo; emulsión para nutrición parenteral",
+      "solucoesCompatíveis": "Lípidos en TPN",
+      "contraindicacoes": "Sangrado activo, anticoagulación sin control",
+      "cuidadosMedicos": "Controlar INR y evitar megadosis sin indicación",
+      "cuidadosFarmaceuticos": "Evitar luz; verificar compatibilidad TPN",
+      "cuidadosEnfermagem": "Vigilar signos de sangrado",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex, ASPEN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "维生素E（α-生育酚）",
+      "suspension": "术前7天停药（有出血风险时）",
+      "risk": "高剂量可能抑制血小板聚集，增加出血风险，尤其合并抗凝剂时",
+      "reintroduction": "术后凝血功能稳定后可恢复，建议前期使用生理剂量"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "α-生育酚",
+      "nomeComercial": "维生素E胶囊、E400、Evion",
+      "mecanismoAcao": "脂溶性抗氧化剂，保护细胞膜和PUFAs免受氧化",
+      "farmacocinetica": "脂肪和胆汁参与吸收，储存于脂肪组织，粪便排泄",
+      "farmacodinamica": "抗氧化，调节免疫和炎症反应，保护神经系统",
+      "indicacoes": "维生素E缺乏、TPN、氧化应激相关疾病",
+      "reacoesAdversas": "大剂量时腹泻、出血、疲劳、头痛",
+      "riscoGravidez": "A类（避免大剂量）",
+      "riscoLactacao": "安全（生理剂量）",
+      "administracao": "口服或静脉用脂肪乳中添加",
+      "doseMaxima": "每日1000毫克（~1500 IU）",
+      "doseMinima": "每日15毫克（22 IU）",
+      "classificacao": "脂溶性抗氧化维生素",
+      "apresentacao": "胶囊100–400 IU，TPN脂肪乳",
+      "interacaoMedicamento": "增强抗凝作用，与环孢素、奥利司他互作",
+      "posologia": "每日15–1000 IU，根据需要",
+      "armazenamento": "常温避光",
+      "preparo": "口服直接服用；静脉使用应在脂肪乳中配置",
+      "solucoesCompatíveis": "TPN脂肪乳",
+      "contraindicacoes": "出血倾向，未监控的抗凝治疗",
+      "cuidadosMedicos": "与抗凝合用需监测INR",
+      "cuidadosFarmaceuticos": "TPN前检查兼容性；避光储存",
+      "cuidadosEnfermagem": "注意出血迹象",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate、ASPEN"
+    }
+  }
+}

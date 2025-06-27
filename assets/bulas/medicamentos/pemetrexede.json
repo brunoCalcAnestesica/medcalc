@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pemetrexede",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas; manter suplementação com folato e vitamina B12",
+      "risk": "Mielossupressão, mucosite, fadiga, rash cutâneo, toxicidade renal e hepática",
+      "reintroduction": "Reintroduzir após recuperação hematológica e resolução de toxicidades, geralmente 10–14 dias após cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pemetrexede",
+      "nomeComercial": "Alimta",
+      "mecanismoAcao": "Antimetabólito que inibe múltiplas enzimas da síntese de purinas e pirimidinas, como TS, DHFR e GARFT",
+      "farmacocinetica": "Administração IV; baixa metabolização hepática; eliminação renal; meia-vida ~3,5h",
+      "farmacodinamica": "Citotóxico dependente da fase S; requer suplementação com ácido fólico e B12 para reduzir toxicidade",
+      "indicacoes": "Câncer de pulmão não pequenas células (NSCLC), mesotelioma pleural maligno, off-label em câncer de bexiga e endométrio",
+      "reacoesAdversas": "Neutropenia, trombocitopenia, anemia, náusea, mucosite, elevação de transaminases, rash cutâneo",
+      "riscoGravidez": "Categoria D – contraindicado; risco teratogênico confirmado",
+      "riscoLactacao": "Contraindicado; excreção no leite desconhecida",
+      "administracao": "Infusão IV de 10 minutos, a cada 21 dias",
+      "doseMaxima": "500mg/m² a cada 21 dias",
+      "doseMinima": "375mg/m² em ajustes por toxicidade",
+      "classificacao": "Antimetabólito antifolato",
+      "apresentacao": "Frascos de 100mg, 500mg ou 1000mg (pó liofilizado)",
+      "interacaoMedicamento": "Interação com AINEs (aumenta risco renal), cisplatina (nefrotoxicidade), probenecida, ciclosporina",
+      "posologia": "500mg/m² IV dia 1 de cada ciclo (com cisplatina ou carboplatina); repetir a cada 21 dias",
+      "armazenamento": "Frasco liofilizado: 15–25°C; solução reconstituída estável por 24h refrigerada",
+      "preparo": "Reconstituir com SF 0,9% e diluir em 100ml de SF para infusão em 10 min",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "ClCr <45 ml/min, gravidez, hipersensibilidade, uso sem suplementação",
+      "cuidadosMedicos": "Avaliar creatinina, hemograma, TGO/TGP antes de cada ciclo; iniciar folato 5–7 dias antes",
+      "cuidadosFarmaceuticos": "Confirmar suplementação com folato/B12, evitar coadministração com AINEs em IR",
+      "cuidadosEnfermagem": "Observar sinais de mucosite, rash, toxicidade hematológica e renal",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pemetrexed",
+      "suspension": "Discontinue 7 days prior to elective surgery; ensure folic acid and B12 supplementation",
+      "risk": "Myelosuppression, mucositis, rash, nephrotoxicity, hepatotoxicity",
+      "reintroduction": "Resume 10–14 days post-op if hematologic and renal function stabilized"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pemetrexed",
+      "nomeComercial": "Alimta",
+      "mecanismoAcao": "Inhibits TS, DHFR, and GARFT enzymes involved in folate metabolism and DNA/RNA synthesis",
+      "farmacocinetica": "IV; minimal hepatic metabolism; renal excretion; T½ ~3.5h",
+      "farmacodinamica": "S-phase cytotoxic; folate/B12 reduce toxicity",
+      "indicacoes": "Non-small cell lung cancer, mesothelioma; off-label: bladder, endometrial cancer",
+      "reacoesAdversas": "Neutropenia, anemia, nausea, mucositis, rash, AST/ALT elevation",
+      "riscoGravidez": "Category D – avoid",
+      "riscoLactacao": "Do not breastfeed during use",
+      "administracao": "10-minute IV infusion q21d",
+      "doseMaxima": "500mg/m² q21d",
+      "doseMinima": "375mg/m²",
+      "classificacao": "Antifolate antimetabolite",
+      "apresentacao": "Vials 100mg, 500mg, 1000mg",
+      "interacaoMedicamento": "NSAIDs ↑ renal toxicity; caution with cisplatin, probenecid",
+      "posologia": "500mg/m² IV on day 1 with cisplatin or carboplatin q21d",
+      "armazenamento": "Vial: room temp; diluted: 24h refrigerated",
+      "preparo": "Reconstitute with NS, dilute in 100ml NS",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "CrCl <45ml/min, pregnancy, lack of supplementation",
+      "cuidadosMedicos": "Supplement with folic acid/B12; monitor CBC, renal/hepatic panels",
+      "cuidadosFarmaceuticos": "Counsel on supplementation and NSAID use",
+      "cuidadosEnfermagem": "Watch for mucositis, rash, cytopenia, renal signs",
+      "fontesBibliograficas": "FDA label, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pemetrexed",
+      "suspension": "Suspender 7 días antes de cirugía; asegurar suplementación con ácido fólico y B12",
+      "risk": "Mielosupresión, mucositis, toxicidad renal y hepática, erupción cutánea",
+      "reintroduction": "Reiniciar 10–14 días tras cirugía si hay recuperación hematológica y renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pemetrexed",
+      "nomeComercial": "Alimta",
+      "mecanismoAcao": "Inhibe múltiples enzimas del ciclo del folato (TS, DHFR, GARFT)",
+      "farmacocinetica": "IV; excreción renal; T½ ~3,5h",
+      "farmacodinamica": "Citotóxico fase S; se reduce toxicidad con ácido fólico y B12",
+      "indicacoes": "Cáncer pulmonar no microcítico, mesotelioma pleural",
+      "reacoesAdversas": "Neutropenia, mucositis, náuseas, rash, alteración hepática",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Infusión IV 10 minutos cada 21 días",
+      "doseMaxima": "500mg/m²",
+      "doseMinima": "375mg/m²",
+      "classificacao": "Antimetabolito antifolato",
+      "apresentacao": "Frascos 100mg, 500mg, 1000mg",
+      "interacaoMedicamento": "AINEs, cisplatino, probenecid",
+      "posologia": "500mg/m² día 1 + platino cada 21 días",
+      "armazenamento": "15–25°C; solución diluida refrigerada 24h",
+      "preparo": "Diluir en SF 100ml; condiciones citotóxicas",
+      "solucoesCompatíveis": "Cloruro sódico 0,9%",
+      "contraindicacoes": "ClCr <45ml/min, embarazo, sin suplemento",
+      "cuidadosMedicos": "CBC, función renal/hepática, suplemento previo",
+      "cuidadosFarmaceuticos": "Evitar AINEs en IR; seguimiento suplemento",
+      "cuidadosEnfermagem": "Observar mucositis, rash, recuento hematológico",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "培美曲塞",
+      "suspension": "术前7天停药，术后血象与肝肾功能恢复后评估恢复",
+      "risk": "骨髓抑制、口腔炎、皮疹、肝毒性、肾毒性",
+      "reintroduction": "术后10–14天，血象与器官功能稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "培美曲塞",
+      "nomeComercial": "Alimta",
+      "mecanismoAcao": "抑制TS、DHFR、GARFT，干扰嘧啶/嘌呤合成",
+      "farmacocinetica": "静注；T½约3.5小时；肾排泄",
+      "farmacodinamica": "S期细胞毒性；维生素B12/叶酸可减少毒性",
+      "indicacoes": "非小细胞肺癌、胸膜间皮瘤",
+      "reacoesAdversas": "白细胞减少、口腔炎、皮疹、AST/ALT升高、脱发",
+      "riscoGravidez": "D类 – 孕期禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "每21天一次，静脉输注10分钟",
+      "doseMaxima": "500mg/m²",
+      "doseMinima": "375mg/m²",
+      "classificacao": "抗叶酸类抗代谢药",
+      "apresentacao": "100mg、500mg、1000mg冻干粉",
+      "interacaoMedicamento": "与NSAIDs、铂类、丙磺舒互作",
+      "posologia": "500mg/m²，每21天，联合顺铂",
+      "armazenamento": "室温保存；稀释液冷藏24小时",
+      "preparo": "稀释于0.9%氯化钠100ml，静脉10分钟输入",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "肌酐清除率<45ml/min、未补充维生素、妊娠",
+      "cuidadosMedicos": "补充叶酸/维生素B12、CBC、电解质、肝肾功能",
+      "cuidadosFarmaceuticos": "复核补充方案，避免NSAIDs合用",
+      "cuidadosEnfermagem": "观察口腔溃疡、皮疹、水肿、血象变化",
+      "fontesBibliograficas": "中国药典、Micromedex、EMA、FDA、UpToDate"
+    }
+  }
+}

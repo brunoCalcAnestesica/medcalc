@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Antazolina",
+      "suspension": "Não é necessário suspender",
+      "risk": "Efeitos anticolinérgicos leves e sedação sistêmica em casos raros; geralmente segura no perioperatório",
+      "reintroduction": "Pode ser mantida continuamente; reavaliar se sinais de reação adversa local"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antazolina mesilato",
+      "nomeComercial": "Spersallerg (com tetrazolina)",
+      "mecanismoAcao": "Anti-histamínico H1 com leve efeito anticolinérgico e estabilizador de mastócitos",
+      "farmacocinetica": "Ação tópica ocular; início em minutos, duração de 4 a 6 horas",
+      "farmacodinamica": "Bloqueia os receptores H1 da histamina e reduz o prurido e hiperemia ocular",
+      "indicacoes": "Conjuntivite alérgica, rinoconjuntivite sazonal",
+      "reacoesAdversas": "Ardência ocular leve, secura, midríase discreta, sonolência (rara)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; evitar uso prolongado sem indicação",
+      "administracao": "Uso oftálmico",
+      "doseMaxima": "1 gota 4x/dia por olho",
+      "doseMinima": "1 gota 2x/dia",
+      "classificacao": "Anti-histamínico oftálmico",
+      "apresentacao": "Solução oftálmica 0,5 mg/mL com 0,4 mg/mL de tetrazolina",
+      "interacaoMedicamento": "Potencialização com outros sedativos ou anticolinérgicos",
+      "posologia": "Instilar 1 gota no(s) olho(s) afetado(s) 2 a 4 vezes/dia",
+      "armazenamento": "15–25°C, frasco fechado, longe da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Glaucoma de ângulo fechado, hipersensibilidade à fórmula",
+      "cuidadosMedicos": "Evitar uso contínuo >14 dias sem avaliação; verificar resposta terapêutica",
+      "cuidadosFarmaceuticos": "Orientar sobre intervalo mínimo de 6h entre aplicações",
+      "cuidadosEnfermagem": "Observar efeitos anticolinérgicos ou irritação local",
+      "fontesBibliograficas": "EMA, BNF, Micromedex, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Antazoline",
+      "suspension": "No need to suspend",
+      "risk": "Minimal systemic effect; rare anticholinergic symptoms or sedation",
+      "reintroduction": "Safe to continue unless ocular adverse effects appear"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antazoline mesylate",
+      "nomeComercial": "Spersallerg (with naphazoline or tetryzoline)",
+      "mecanismoAcao": "H1 receptor antagonist with mild anticholinergic and mast-cell stabilizing action",
+      "farmacocinetica": "Topical ocular effect, onset within minutes, duration 4–6 hours",
+      "farmacodinamica": "Relieves ocular allergy symptoms by histamine blockade",
+      "indicacoes": "Allergic conjunctivitis, seasonal allergic eye symptoms",
+      "reacoesAdversas": "Mild burning, ocular dryness, rare mydriasis or drowsiness",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; avoid prolonged use unless necessary",
+      "administracao": "Ophthalmic",
+      "doseMaxima": "1 drop 4x/day per eye",
+      "doseMinima": "1 drop 2x/day",
+      "classificacao": "Ophthalmic antihistamine",
+      "apresentacao": "0.05% antazoline solution with vasoconstrictor (e.g., 0.05% tetrahydrozoline)",
+      "interacaoMedicamento": "May increase sedative effects when used with CNS depressants",
+      "posologia": "Instill 1 drop in affected eye(s) 2 to 4 times daily",
+      "armazenamento": "59–77°F, protect from light and contamination",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Narrow-angle glaucoma, known hypersensitivity",
+      "cuidadosMedicos": "Do not use beyond 2 weeks without review; check ocular surface",
+      "cuidadosFarmaceuticos": "Inform about safe dosing interval and bottle hygiene",
+      "cuidadosEnfermagem": "Monitor for dryness, blurred vision, allergic response",
+      "fontesBibliograficas": "FDA, Micromedex, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Antazolina",
+      "suspension": "No requiere suspensión",
+      "risk": "Efectos sistémicos mínimos; posibles síntomas anticolinérgicos o sedación leve",
+      "reintroduction": "Continuar salvo reacción adversa ocular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antazolina mesilato",
+      "nomeComercial": "Spersallerg (con tetrazolina)",
+      "mecanismoAcao": "Antihistamínico H1 con leve efecto anticolinérgico y estabilizador de mastocitos",
+      "farmacocinetica": "Efecto tópico ocular, inicio rápido, duración 4–6 h",
+      "farmacodinamica": "Reduce síntomas alérgicos oculares al bloquear histamina",
+      "indicacoes": "Conjuntivitis alérgica, rinoconjuntivitis",
+      "reacoesAdversas": "Ardor leve, sequedad, midriasis discreta, somnolencia (rara)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce si se excreta; usar con precaución",
+      "administracao": "Vía oftálmica",
+      "doseMaxima": "1 gota 4x/día",
+      "doseMinima": "1 gota 2x/día",
+      "classificacao": "Antihistamínico oftálmico",
+      "apresentacao": "Solución 0,05% con tetrazolina 0,04%",
+      "interacaoMedicamento": "Potencia sedación con otros antihistamínicos o depresores",
+      "posologia": "Instilar 1 gota 2–4 veces/día",
+      "armazenamento": "15–25°C, proteger de la luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Glaucoma de ángulo cerrado, hipersensibilidad",
+      "cuidadosMedicos": "No usar por más de 2 semanas sin control",
+      "cuidadosFarmaceuticos": "Advertir sobre limpieza del frasco y dosis adecuada",
+      "cuidadosEnfermagem": "Vigilar efectos oculares y signos de alergia",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "安他唑啉",
+      "suspension": "无需停药",
+      "risk": "轻微抗胆碱副作用或嗜睡风险；一般安全",
+      "reintroduction": "可持续使用；如有不良反应应暂停"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "安他唑啉甲磺酸盐",
+      "nomeComercial": "Spersallerg（含四氢唑啉）",
+      "mecanismoAcao": "H1组胺受体拮抗剂，具有轻度抗胆碱作用与稳定肥大细胞功能",
+      "farmacocinetica": "局部眼用起效快，持续约4–6小时",
+      "farmacodinamica": "缓解过敏性结膜炎症状如瘙痒与红肿",
+      "indicacoes": "季节性过敏性结膜炎",
+      "reacoesAdversas": "轻微刺痛、干涩、瞳孔轻度扩大、罕见嗜睡",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否排泄入乳汁未知；慎用",
+      "administracao": "滴眼用",
+      "doseMaxima": "每日每眼最多4次",
+      "doseMinima": "每日每眼2次",
+      "classificacao": "眼用抗组胺药",
+      "apresentacao": "安他唑啉0.05%，常与四氢唑啉合用",
+      "interacaoMedicamento": "与中枢抑制药合用可增强镇静作用",
+      "posologia": "每眼每日滴2–4次",
+      "armazenamento": "15–25°C，避光保存",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "闭角型青光眼、过敏",
+      "cuidadosMedicos": "不建议连续使用超过2周",
+      "cuidadosFarmaceuticos": "说明正确使用频率和注意瓶口卫生",
+      "cuidadosEnfermagem": "监测眼部不适与过敏反应",
+      "fontesBibliograficas": "中国药典，Micromedex，EMA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Treonina",
+      "suspension": "Não é necessário suspender",
+      "risk": "Segura em doses nutricionais; em excesso pode sobrecarregar função hepática em pacientes comprometidos",
+      "reintroduction": "Pode ser mantida ou reintroduzida conforme avaliação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Treonina",
+      "nomeComercial": "Treonina, AminoVital, Aminomix",
+      "mecanismoAcao": "Aminoácido essencial envolvido na síntese de proteínas, mucinas intestinais e manutenção da imunidade",
+      "farmacocinetica": "Boa absorção intestinal, metabolização hepática parcial, excreção renal",
+      "farmacodinamica": "Importante para integridade da mucosa intestinal, síntese de colágeno e metabolismo proteico",
+      "indicacoes": "Suplementação nutricional, suporte enteral/parenteral, doenças intestinais e hepáticas",
+      "reacoesAdversas": "Raras; altas doses podem causar desequilíbrio de aminoácidos e náusea",
+      "riscoGravidez": "Categoria A (segura em doses fisiológicas)",
+      "riscoLactacao": "Compatível com lactação em doses nutricionais",
+      "administracao": "Oral ou intravenosa em formulações nutricionais",
+      "doseMaxima": "3.000 mg/dia",
+      "doseMinima": "500 mg/dia",
+      "classificacao": "Aminoácido essencial",
+      "apresentacao": "Pó, cápsulas, soluções injetáveis para nutrição parenteral",
+      "interacaoMedicamento": "Pode competir com outros aminoácidos essenciais; atenção em dietas balanceadas",
+      "posologia": "Ajustada conforme necessidade clínica ou nutricional",
+      "armazenamento": "Armazenar em local seco, fresco e ao abrigo da luz",
+      "preparo": "Diluir em líquidos compatíveis conforme orientação profissional",
+      "solucoesCompatíveis": "Soro fisiológico, glicose 5%, água purificada",
+      "contraindicacoes": "Hipersensibilidade, distúrbios do ciclo da ureia, insuficiência hepática grave",
+      "cuidadosMedicos": "Avaliar função hepática e balanço nitrogenado em uso prolongado",
+      "cuidadosFarmaceuticos": "Verificar compatibilidade com nutrição parenteral total",
+      "cuidadosEnfermagem": "Observar sinais de intolerância, GI ou alterações laboratoriais",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, PubChem, ASPEN Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Threonine",
+      "suspension": "No need to suspend",
+      "risk": "Safe in nutritional doses; excess may stress liver in compromised patients",
+      "reintroduction": "May be continued or reintroduced based on clinical evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Threonine",
+      "nomeComercial": "Threonine, AminoVital, Aminomix",
+      "mecanismoAcao": "Essential amino acid involved in protein synthesis, intestinal mucins and immune function",
+      "farmacocinetica": "Well absorbed in the gut, partial hepatic metabolism, renal excretion",
+      "farmacodinamica": "Supports mucosal integrity, collagen synthesis and protein metabolism",
+      "indicacoes": "Nutritional supplementation, enteral/parenteral support, intestinal and hepatic disorders",
+      "reacoesAdversas": "Rare; high doses may cause amino acid imbalance and nausea",
+      "riscoGravidez": "Category A (safe at physiological intake)",
+      "riscoLactacao": "Compatible with breastfeeding at nutritional doses",
+      "administracao": "Oral or intravenous in nutritional formulations",
+      "doseMaxima": "3,000 mg/day",
+      "doseMinima": "500 mg/day",
+      "classificacao": "Essential amino acid",
+      "apresentacao": "Powder, capsules, IV solutions for parenteral nutrition",
+      "interacaoMedicamento": "May compete with other essential amino acids; caution in balanced diets",
+      "posologia": "Adjusted according to clinical and nutritional needs",
+      "armazenamento": "Store in dry, cool place away from light",
+      "preparo": "Dilute in compatible liquids under professional guidance",
+      "solucoesCompatíveis": "Normal saline, D5W, purified water",
+      "contraindicacoes": "Hypersensitivity, urea cycle disorders, severe hepatic insufficiency",
+      "cuidadosMedicos": "Monitor liver function and nitrogen balance in prolonged use",
+      "cuidadosFarmaceuticos": "Check compatibility with total parenteral nutrition",
+      "cuidadosEnfermagem": "Monitor for intolerance signs, GI symptoms or lab changes",
+      "fontesBibliograficas": "FDA, EMA, PubChem, Micromedex, ASPEN Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Treonina",
+      "suspension": "No requiere suspensión",
+      "risk": "Segura en dosis fisiológicas; en exceso puede sobrecargar el hígado en pacientes comprometidos",
+      "reintroduction": "Puede continuarse o reintroducirse tras evaluación médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Treonina",
+      "nomeComercial": "Treonina, AminoVital, Aminomix",
+      "mecanismoAcao": "Aminoácido esencial implicado en la síntesis de proteínas, mucinas intestinales y función inmune",
+      "farmacocinetica": "Buena absorción intestinal, metabolismo hepático parcial, excreción renal",
+      "farmacodinamica": "Contribuye a la integridad de la mucosa, síntesis de colágeno y metabolismo proteico",
+      "indicacoes": "Suplementación nutricional, soporte enteral/parenteral, enfermedades hepáticas e intestinales",
+      "reacoesAdversas": "Raras; dosis altas pueden causar náuseas o desequilibrio de aminoácidos",
+      "riscoGravidez": "Categoría A (segura en dosis fisiológicas)",
+      "riscoLactacao": "Compatible con lactancia en dosis nutricionales",
+      "administracao": "Oral o intravenosa en nutrición parenteral",
+      "doseMaxima": "3.000 mg/día",
+      "doseMinima": "500 mg/día",
+      "classificacao": "Aminoácido esencial",
+      "apresentacao": "Polvo, cápsulas, soluciones inyectables",
+      "interacaoMedicamento": "Puede competir con otros aminoácidos esenciales; precaución en dietas equilibradas",
+      "posologia": "Ajustada según necesidad clínica y nutricional",
+      "armazenamento": "Almacenar en lugar seco, fresco y protegido de la luz",
+      "preparo": "Diluir en líquidos compatibles según indicación profesional",
+      "solucoesCompatíveis": "Suero fisiológico, glucosa al 5%, agua purificada",
+      "contraindicacoes": "Hipersensibilidad, trastornos del ciclo de la urea, insuficiencia hepática grave",
+      "cuidadosMedicos": "Monitorear función hepática y balance nitrogenado en uso prolongado",
+      "cuidadosFarmaceuticos": "Verificar compatibilidad con nutrición parenteral",
+      "cuidadosEnfermagem": "Observar signos de intolerancia y síntomas gastrointestinales",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, PubChem, ASPEN Guidelines"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "苏氨酸",
+      "suspension": "无需停药",
+      "risk": "营养剂量下安全，过量可能增加肝脏负担",
+      "reintroduction": "术后可继续使用或重新引入，需评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "苏氨酸",
+      "nomeComercial": "Threonine, AminoVital, Aminomix",
+      "mecanismoAcao": "必需氨基酸，参与蛋白质合成、肠道黏蛋白和免疫功能",
+      "farmacocinetica": "肠道吸收良好，部分肝代谢，经肾排泄",
+      "farmacodinamica": "有助于肠道黏膜完整性、胶原蛋白合成和蛋白代谢",
+      "indicacoes": "营养补充、肠内/肠外营养支持、肝病和肠病",
+      "reacoesAdversas": "罕见，大剂量可导致氨基酸失衡和恶心",
+      "riscoGravidez": "A类（生理剂量下安全）",
+      "riscoLactacao": "可用于哺乳期，限营养剂量",
+      "administracao": "口服或静脉注射（营养配方）",
+      "doseMaxima": "每日3000毫克",
+      "doseMinima": "每日500毫克",
+      "classificacao": "必需氨基酸",
+      "apresentacao": "粉末、胶囊、注射液",
+      "interacaoMedicamento": "可能与其他必需氨基酸竞争吸收；需营养平衡",
+      "posologia": "根据临床和营养需求调整",
+      "armazenamento": "干燥、阴凉避光保存",
+      "preparo": "按专业建议在兼容液体中稀释",
+      "solucoesCompatíveis": "生理盐水、5%葡萄糖、水",
+      "contraindicacoes": "过敏、尿素循环紊乱、严重肝功能不全",
+      "cuidadosMedicos": "长期使用需监测肝功能和氮平衡",
+      "cuidadosFarmaceuticos": "确认与肠外营养配伍",
+      "cuidadosEnfermagem": "观察不良反应与消化道表现",
+      "fontesBibliograficas": "FDA、EMA、Micromedex、PubChem、ASPEN指南"
+    }
+  }
+}

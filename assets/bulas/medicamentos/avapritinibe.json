@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Avapritinibe",
+      "suspension": "Suspender 7 dias antes da cirurgia",
+      "risk": "Risco de hemorragia, neurotoxicidade, edema periorbital e interações com anestésicos metabolizados por CYP3A4",
+      "reintroduction": "Reintroduzir após estabilização clínica e função neurológica preservada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Avapritinibe",
+      "nomeComercial": "Ayvakit",
+      "mecanismoAcao": "Inibidor seletivo de tirosina-quinase KIT e PDGFRA, incluindo mutações D842V resistentes",
+      "farmacocinetica": "Via oral; alta biodisponibilidade; metabolizado pelo CYP3A4; excreção fecal",
+      "farmacodinamica": "Inibe a proliferação de células com mutações oncogênicas em tumores do estroma gastrointestinal (GIST)",
+      "indicacoes": "Tumores do estroma gastrointestinal (GIST) com mutação PDGFRA D842V, mastocitose sistêmica avançada",
+      "reacoesAdversas": "Edema periorbital, náusea, diarreia, anemia, confusão mental, hemorragia",
+      "riscoGravidez": "Categoria D — risco fetal conhecido",
+      "riscoLactacao": "Desconhecido; contraindicado durante lactação",
+      "administracao": "Via oral, uma vez ao dia",
+      "doseMaxima": "300 mg/dia (GIST); 200 mg/dia (mastocitose)",
+      "doseMinima": "100 mg/dia (ajustes por toxicidade)",
+      "classificacao": "Inibidor de tirosina-quinase seletivo KIT/PDGFRA",
+      "apresentacao": "Comprimidos de 100 mg, 200 mg e 300 mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores de CYP3A4 e anticoagulantes",
+      "posologia": "300 mg/dia VO em jejum (GIST); 200 mg/dia (mastocitose)",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, insuficiência hepática grave, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática, sinais de neurotoxicidade e sangramento",
+      "cuidadosFarmaceuticos": "Verificar prescrição, ajustar em caso de uso concomitante com CYP3A4",
+      "cuidadosEnfermagem": "Observar confusão, edema, sangramentos e adesão ao tratamento",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Ayvakit bula, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Avapritinib",
+      "suspension": "Discontinue 7 days prior to surgery",
+      "risk": "Risk of bleeding, neurotoxicity, periorbital edema, and CYP3A4-mediated anesthetic interactions",
+      "reintroduction": "Restart after clinical stabilization and neurologic safety is confirmed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Avapritinib",
+      "nomeComercial": "Ayvakit",
+      "mecanismoAcao": "Selective tyrosine kinase inhibitor targeting KIT and PDGFRA, including resistant D842V mutations",
+      "farmacocinetica": "Oral; high bioavailability; metabolized by CYP3A4; fecal excretion",
+      "farmacodinamica": "Inhibits oncogenic proliferation in GIST and advanced systemic mastocytosis",
+      "indicacoes": "GIST with PDGFRA D842V mutation, advanced systemic mastocytosis",
+      "reacoesAdversas": "Periorbital edema, nausea, diarrhea, anemia, cognitive effects, bleeding",
+      "riscoGravidez": "Category D — fetal risk known",
+      "riscoLactacao": "Unknown; contraindicated during breastfeeding",
+      "administracao": "Oral, once daily",
+      "doseMaxima": "300 mg/day (GIST); 200 mg/day (mastocytosis)",
+      "doseMinima": "100 mg/day (toxicity adjustment)",
+      "classificacao": "Selective KIT/PDGFRA tyrosine kinase inhibitor",
+      "apresentacao": "Tablets of 100 mg, 200 mg, and 300 mg",
+      "interacaoMedicamento": "Interacts with CYP3A4 inhibitors/inducers and anticoagulants",
+      "posologia": "300 mg/day PO fasting (GIST); 200 mg/day (mastocytosis)",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, severe hepatic impairment, hypersensitivity",
+      "cuidadosMedicos": "Monitor CBC, liver function, neurotoxicity, and bleeding",
+      "cuidadosFarmaceuticos": "Review CYP3A4 interactions; manage dosage accordingly",
+      "cuidadosEnfermagem": "Observe for confusion, edema, bleeding, and treatment adherence",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Ayvakit PI, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Avapritinib",
+      "suspension": "Suspender 7 días antes de cirugía",
+      "risk": "Riesgo de hemorragia, neurotoxicidad, edema periorbitario e interacción con anestesia mediada por CYP3A4",
+      "reintroduction": "Reintroducir tras estabilización clínica y evaluación neurológica favorable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Avapritinib",
+      "nomeComercial": "Ayvakit",
+      "mecanismoAcao": "Inhibidor selectivo de tirosina quinasa KIT y PDGFRA, incluidas mutaciones resistentes como D842V",
+      "farmacocinetica": "Vía oral; alta biodisponibilidad; metabolizado por CYP3A4; excreción fecal",
+      "farmacodinamica": "Inhibe la proliferación celular en GIST y mastocitosis sistémica avanzada",
+      "indicacoes": "GIST con mutación PDGFRA D842V, mastocitosis sistémica avanzada",
+      "reacoesAdversas": "Edema periorbitario, náuseas, diarrea, anemia, deterioro cognitivo, sangrado",
+      "riscoGravidez": "Categoría D — riesgo fetal conocido",
+      "riscoLactacao": "Desconocido; contraindicado durante la lactancia",
+      "administracao": "Vía oral, una vez al día",
+      "doseMaxima": "300 mg/día (GIST); 200 mg/día (mastocitosis)",
+      "doseMinima": "100 mg/día (ajustes por toxicidad)",
+      "classificacao": "Inhibidor de tirosina quinasa KIT/PDGFRA selectivo",
+      "apresentacao": "Comprimidos de 100 mg, 200 mg y 300 mg",
+      "interacaoMedicamento": "Interacción con inhibidores/inductores de CYP3A4 y anticoagulantes",
+      "posologia": "300 mg/día en ayunas (GIST); 200 mg/día (mastocitosis)",
+      "armazenamento": "Conservar a 15–30°C",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, insuficiencia hepática grave, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear hemograma, función hepática, neurotoxicidad y signos de sangrado",
+      "cuidadosFarmaceuticos": "Verificar interacciones con CYP3A4 y ajustar dosis",
+      "cuidadosEnfermagem": "Observar confusión, edema, hemorragias y adherencia al tratamiento",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Ayvakit Ficha Técnica, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿伐普替尼",
+      "suspension": "术前提前7天停药",
+      "risk": "存在出血、神经毒性、眶周水肿及CYP3A4代谢麻醉药相互作用风险",
+      "reintroduction": "临床稳定且神经系统评估无异常后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿伐普替尼",
+      "nomeComercial": "Ayvakit",
+      "mecanismoAcao": "选择性抑制KIT和PDGFRA酪氨酸激酶，包括耐药突变D842V",
+      "farmacocinetica": "口服吸收好；CYP3A4代谢；粪便排泄",
+      "farmacodinamica": "抑制胃肠间质瘤（GIST）和系统性肥大细胞增多症中的致癌信号通路",
+      "indicacoes": "PDGFRA D842V突变的GIST、高级别系统性肥大细胞增多症",
+      "reacoesAdversas": "眶周水肿、恶心、腹泻、贫血、意识混乱、出血",
+      "riscoGravidez": "D类 — 已知对胎儿有害",
+      "riscoLactacao": "是否分泌入乳汁未知，哺乳期禁用",
+      "administracao": "口服，每日一次",
+      "doseMaxima": "GIST：每日300毫克；肥大细胞症：每日200毫克",
+      "doseMinima": "每日100毫克（不良反应调整）",
+      "classificacao": "KIT/PDGFRA酪氨酸激酶抑制剂",
+      "apresentacao": "100、200、300毫克片剂",
+      "interacaoMedicamento": "与CYP3A4抑制剂/诱导剂、抗凝药有相互作用",
+      "posologia": "GIST每日300毫克空腹服用；肥大细胞症每日200毫克",
+      "armazenamento": "常温保存（15–30°C）",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、重度肝功能障碍、过敏史",
+      "cuidadosMedicos": "监测CBC、肝功能、神经系统症状和出血倾向",
+      "cuidadosFarmaceuticos": "核对CYP3A4联用药物并作剂量调整",
+      "cuidadosEnfermagem": "注意混乱、眶周水肿、出血表现和依从性",
+      "fontesBibliograficas": "FDA、EMA、ANVISA、Ayvakit说明书、Micromedex"
+    }
+  }
+}

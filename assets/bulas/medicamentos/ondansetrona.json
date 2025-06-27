@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ondansetrona",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Baixo risco; útil para controle de náuseas perioperatórias; monitorar QTc em altas doses",
+      "reintroduction": "Pode ser mantida no intra e pós-operatório conforme necessidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ondansetrona",
+      "nomeComercial": "Vonau, Zofran",
+      "mecanismoAcao": "Antagonista seletivo dos receptores 5-HT3 da serotonina no trato gastrointestinal e SNC",
+      "farmacocinetica": "Biodisponibilidade oral 60%, meia-vida ~4h, metabolismo hepático (CYP3A4, CYP1A2, CYP2D6)",
+      "farmacodinamica": "Bloqueia estímulos eméticos na zona gatilho quimiorreceptora e no nervo vago",
+      "indicacoes": "Prevenção e tratamento de náuseas e vômitos induzidos por quimioterapia, radioterapia ou pós-operatório",
+      "reacoesAdversas": "Cefaleia, constipação, fadiga, aumento de QT, rubor",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível",
+      "administracao": "Oral, intravenosa, intramuscular",
+      "doseMaxima": "32 mg/dia (oral ou IV)",
+      "doseMinima": "4 mg/dose",
+      "classificacao": "Antiemético (antagonista 5-HT3)",
+      "apresentacao": "Comprimidos de 4 mg e 8 mg; solução injetável 2 mg/mL",
+      "interacaoMedicamento": "Pode prolongar QT com outros fármacos cardiotóxicos",
+      "posologia": "4 a 8 mg VO ou IV a cada 8 horas, conforme indicação",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Diluir em SF 0,9% para infusão lenta (em altas doses)",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade à ondansetrona ou outros antagonistas 5-HT3",
+      "cuidadosMedicos": "Monitorar ECG em pacientes com risco de arritmias",
+      "cuidadosFarmaceuticos": "Evitar uso com medicamentos que prolongam QT",
+      "cuidadosEnfermagem": "Observar eficácia antiemética e sinais de reação adversa",
+      "fontesBibliograficas": "ANVISA, FDA, BNF, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ondansetron",
+      "suspension": "Continue until the day of surgery",
+      "risk": "Low risk; helpful for perioperative nausea; monitor QTc with high doses",
+      "reintroduction": "May be continued intra- and postoperatively as needed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ondansetron",
+      "nomeComercial": "Zofran",
+      "mecanismoAcao": "Selective 5-HT3 serotonin receptor antagonist in GI tract and CNS",
+      "farmacocinetica": "Oral bioavailability 60%, half-life ~4h, hepatic metabolism (CYP3A4, CYP1A2, CYP2D6)",
+      "farmacodinamica": "Blocks emetic signals at the chemoreceptor trigger zone and vagal afferents",
+      "indicacoes": "Prevention and treatment of chemotherapy, radiotherapy, and postoperative nausea/vomiting",
+      "reacoesAdversas": "Headache, constipation, fatigue, QT prolongation, flushing",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral, IV, IM",
+      "doseMaxima": "32 mg/day (oral or IV)",
+      "doseMinima": "4 mg/dose",
+      "classificacao": "Antiemetic (5-HT3 antagonist)",
+      "apresentacao": "Tablets 4 mg, 8 mg; injection 2 mg/mL",
+      "interacaoMedicamento": "May prolong QT with other cardiotoxic drugs",
+      "posologia": "4 to 8 mg PO or IV every 8h as indicated",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Dilute in NS for slow infusion (high doses)",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hypersensitivity to ondansetron or other 5-HT3 antagonists",
+      "cuidadosMedicos": "Monitor ECG in patients with arrhythmia risk",
+      "cuidadosFarmaceuticos": "Avoid with other QT-prolonging drugs",
+      "cuidadosEnfermagem": "Assess antiemetic effect and side effects",
+      "fontesBibliograficas": "FDA, BNF, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ondansetrón",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Riesgo bajo; útil en náuseas perioperatorias; controlar QTc en dosis altas",
+      "reintroduction": "Puede mantenerse intra y postoperatoriamente según necesidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ondansetrón",
+      "nomeComercial": "Zofran",
+      "mecanismoAcao": "Antagonista selectivo del receptor 5-HT3 de serotonina en TGI y SNC",
+      "farmacocinetica": "Biodisponibilidad oral 60%, vida media ~4h, metabolismo hepático (CYP3A4, CYP1A2, CYP2D6)",
+      "farmacodinamica": "Bloquea señales eméticas en la zona gatillo y el nervio vago",
+      "indicacoes": "Prevención y tratamiento de náuseas y vómitos inducidos por quimioterapia, radioterapia y postoperatorios",
+      "reacoesAdversas": "Cefalea, estreñimiento, fatiga, QT largo, sofocos",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral, IV, IM",
+      "doseMaxima": "32 mg/día",
+      "doseMinima": "4 mg/dosis",
+      "classificacao": "Antiemético (antagonista 5-HT3)",
+      "apresentacao": "Tabletas 4 mg, 8 mg; solución inyectable 2 mg/mL",
+      "interacaoMedicamento": "Puede prolongar QT con otros fármacos cardiotóxicos",
+      "posologia": "4–8 mg VO o IV cada 8h según indicación",
+      "armazenamento": "Ambiente, protegido de la luz",
+      "preparo": "Diluir en SF para infusión lenta",
+      "solucoesCompatíveis": "SF, SG 5%",
+      "contraindicacoes": "Hipersensibilidad a ondansetrón o antagonistas 5-HT3",
+      "cuidadosMedicos": "Controlar ECG si hay riesgo de arritmia",
+      "cuidadosFarmaceuticos": "Evitar uso con otros prolongadores del QT",
+      "cuidadosEnfermagem": "Evaluar eficacia y efectos adversos",
+      "fontesBibliograficas": "AEMPS, FDA, BNF, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "昂丹司琼",
+      "suspension": "术前可继续使用",
+      "risk": "低风险；用于控制围术期恶心；高剂量时监测QTc",
+      "reintroduction": "术中或术后按需继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "昂丹司琼",
+      "nomeComercial": "Zofran",
+      "mecanismoAcao": "选择性拮抗5-HT3受体，作用于胃肠道和中枢",
+      "farmacocinetica": "口服生物利用度60%，半衰期约4小时，肝脏代谢（CYP3A4, CYP1A2, CYP2D6）",
+      "farmacodinamica": "阻断化学感受器触发区及迷走神经的呕吐信号",
+      "indicacoes": "预防和治疗化疗、放疗及术后恶心呕吐",
+      "reacoesAdversas": "头痛、便秘、疲劳、QT延长、潮红",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可用",
+      "administracao": "口服、静脉、肌注",
+      "doseMaxima": "每日32毫克",
+      "doseMinima": "每次4毫克",
+      "classificacao": "止吐药（5-HT3拮抗剂）",
+      "apresentacao": "片剂4毫克、8毫克；注射液2 mg/mL",
+      "interacaoMedicamento": "与心脏毒性药物合用可延长QT",
+      "posologia": "每8小时一次，每次4–8毫克，口服或注射",
+      "armazenamento": "室温，避光",
+      "preparo": "高剂量时稀释于0.9%氯化钠缓慢滴注",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "对本品或其他5-HT3拮抗剂过敏",
+      "cuidadosMedicos": "有心律风险者需监测心电图",
+      "cuidadosFarmaceuticos": "避免与延长QT药物合用",
+      "cuidadosEnfermagem": "评估止吐效果及不良反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

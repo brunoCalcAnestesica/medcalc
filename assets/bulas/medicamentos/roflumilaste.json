@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Roflumilaste",
+      "suspension": "Não é necessário suspender antes de cirurgias eletivas.",
+      "risk": "Pode causar perda de peso, náusea, diarreia, insônia e cefaleia. Monitorar pacientes com histórico de depressão.",
+      "reintroduction": "Pode ser mantido ou reintroduzido no pós-operatório conforme tolerabilidade."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Roflumilaste",
+      "nomeComercial": "Daxas, Daliresp",
+      "mecanismoAcao": "Inibidor seletivo da fosfodiesterase-4 (PDE4), reduzindo a inflamação pulmonar associada à DPOC ao aumentar o AMPc intracelular.",
+      "farmacocinetica": "Biodisponibilidade: 80%; pico: 1 h; metabólito ativo (N-óxido); meia-vida: 17 h; metabolismo hepático (CYP1A2, CYP3A4).",
+      "farmacodinamica": "Reduz exacerbações em pacientes com DPOC grave com bronquite crônica e história de exacerbações frequentes.",
+      "indicacoes": "DPOC grave associada à bronquite crônica com histórico de exacerbações frequentes.",
+      "reacoesAdversas": "Perda de peso, náusea, dor abdominal, diarreia, cefaleia, insônia, ansiedade, depressão, tremores.",
+      "riscoGravidez": "Categoria C – uso com cautela se necessário.",
+      "riscoLactacao": "Não recomendado devido à falta de dados.",
+      "administracao": "Oral (comprimido).",
+      "doseMaxima": "500 mcg/dia.",
+      "doseMinima": "250 mcg/dia (em ajuste gradual, se necessário).",
+      "classificacao": "Inibidor de PDE4 – anti-inflamatório pulmonar oral.",
+      "apresentacao": "Comprimidos de 500 mcg.",
+      "interacaoMedicamento": "Eritromicina, cetoconazol, rifampicina, fenitoína, fenobarbital (alteram níveis plasmáticos).",
+      "posologia": "500 mcg VO 1x/dia. Iniciar com 250 mcg se efeitos adversos forem significativos.",
+      "armazenamento": "Temperatura ambiente, protegido da luz.",
+      "preparo": "Não requer preparo especial.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Doença hepática moderada a grave, hipersensibilidade, histórico de depressão grave com ideação suicida.",
+      "cuidadosMedicos": "Monitorar peso corporal, estado mental, função hepática e tolerabilidade digestiva.",
+      "cuidadosFarmaceuticos": "Orientar quanto ao início lento em pacientes sensíveis.",
+      "cuidadosEnfermagem": "Observar sintomas GI, perda de peso, humor, adesão.",
+      "fontesBibliograficas": "GOLD, EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Roflumilast",
+      "suspension": "No need to suspend before elective surgery.",
+      "risk": "Weight loss, nausea, diarrhea, insomnia, headache. Monitor mood changes in depression history.",
+      "reintroduction": "Can be continued or restarted post-op if tolerated."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Roflumilast",
+      "nomeComercial": "Daliresp",
+      "mecanismoAcao": "Selective phosphodiesterase-4 (PDE4) inhibitor, increases cAMP, reduces pulmonary inflammation.",
+      "farmacocinetica": "Bioavailability: 80%; peak: 1 h; active metabolite; t½: 17 h; hepatic metabolism (CYP1A2, CYP3A4).",
+      "farmacodinamica": "Reduces exacerbations in severe COPD with chronic bronchitis and frequent history.",
+      "indicacoes": "Severe COPD with chronic bronchitis and frequent exacerbations.",
+      "reacoesAdversas": "Weight loss, nausea, abdominal pain, insomnia, diarrhea, depression, anxiety, tremors.",
+      "riscoGravidez": "Category C – use only if needed.",
+      "riscoLactacao": "Not recommended due to insufficient data.",
+      "administracao": "Oral tablet.",
+      "doseMaxima": "500 mcg/day.",
+      "doseMinima": "250 mcg/day (initial if necessary).",
+      "classificacao": "PDE4 inhibitor – oral anti-inflammatory.",
+      "apresentacao": "500 mcg tablets.",
+      "interacaoMedicamento": "CYP3A4/1A2 modulators (e.g., rifampin, erythromycin) may affect levels.",
+      "posologia": "500 mcg PO daily; start at 250 mcg if adverse effects occur.",
+      "armazenamento": "Room temp, protect from light.",
+      "preparo": "No special preparation required.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Moderate/severe liver disease, hypersensitivity, suicidal ideation history.",
+      "cuidadosMedicos": "Monitor body weight, mood, hepatic function, GI tolerance.",
+      "cuidadosFarmaceuticos": "Educate about gradual introduction.",
+      "cuidadosEnfermagem": "Observe for GI side effects, mood, adherence.",
+      "fontesBibliograficas": "FDA, GOLD, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Roflumilast",
+      "suspension": "No requiere suspensión antes de cirugía.",
+      "risk": "Pérdida de peso, náuseas, insomnio, diarrea, cefalea. Vigilar pacientes con depresión.",
+      "reintroduction": "Puede mantenerse o reiniciarse tras cirugía según tolerancia."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Roflumilast",
+      "nomeComercial": "Daxas, Daliresp",
+      "mecanismoAcao": "Inhibidor selectivo de PDE4 que aumenta el AMPc y reduce inflamación pulmonar.",
+      "farmacocinetica": "Biodisp.: 80%; pico: 1 h; t½: 17 h; metabolismo hepático.",
+      "farmacodinamica": "Reduce exacerbaciones en EPOC grave con bronquitis crónica.",
+      "indicacoes": "EPOC grave con bronquitis crónica y exacerbaciones frecuentes.",
+      "reacoesAdversas": "Náuseas, diarrea, pérdida de peso, insomnio, ansiedad, temblores, cefalea.",
+      "riscoGravidez": "Categoría C – usar si necesario.",
+      "riscoLactacao": "No recomendado por falta de datos.",
+      "administracao": "Oral (comprimido).",
+      "doseMaxima": "500 mcg/día.",
+      "doseMinima": "250 mcg/día (inicio).",
+      "classificacao": "Inhibidor oral de PDE4.",
+      "apresentacao": "Comprimidos 500 mcg.",
+      "interacaoMedicamento": "Inductores CYP3A4/1A2 pueden reducir niveles.",
+      "posologia": "500 mcg/día; iniciar con 250 mcg si hay efectos adversos.",
+      "armazenamento": "Ambiente seco, protegido de luz.",
+      "preparo": "No requiere preparación especial.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Enfermedad hepática moderada-grave, depresión grave, alergia.",
+      "cuidadosMedicos": "Monitorear peso, estado de ánimo, tolerancia digestiva.",
+      "cuidadosFarmaceuticos": "Explicar introducción progresiva.",
+      "cuidadosEnfermagem": "Observar peso, cambios de humor, síntomas GI.",
+      "fontesBibliograficas": "EMA, AEMPS, GOLD, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "罗氟司特（Roflumilast）",
+      "suspension": "术前无需停药。",
+      "risk": "可引起体重下降、恶心、失眠、腹泻、头痛，抑郁症者需监测情绪。",
+      "reintroduction": "术后可继续或恢复使用，按方案进行。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "罗氟司特",
+      "nomeComercial": "Daxas、Daliresp",
+      "mecanismoAcao": "选择性PDE4抑制剂，升高AMPc水平，减轻慢阻肺气道炎症。",
+      "farmacocinetica": "口服吸收良好，达峰约1小时，半衰期约17小时，肝代谢（CYP3A4/1A2）。",
+      "farmacodinamica": "减少慢阻肺急性加重频率，特别适用于合并慢性支气管炎患者。",
+      "indicacoes": "慢阻肺伴慢性支气管炎、频繁加重者。",
+      "reacoesAdversas": "体重减轻、恶心、失眠、腹泻、焦虑、抑郁、头痛。",
+      "riscoGravidez": "C类，仅在确需时使用。",
+      "riscoLactacao": "不建议哺乳期使用。",
+      "administracao": "口服片剂。",
+      "doseMaxima": "每日500微克。",
+      "doseMinima": "起始剂量250微克/日（如有不良反应）。",
+      "classificacao": "PDE4抑制剂 – 口服抗炎药物。",
+      "apresentacao": "500微克片剂。",
+      "interacaoMedicamento": "利福平、酮康唑等CYP3A4诱导剂/抑制剂影响血药浓度。",
+      "posologia": "每日500微克口服，必要时起始250微克。",
+      "armazenamento": "常温避光保存。",
+      "preparo": "无需特别处理。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "中重度肝病、严重抑郁、自杀倾向、过敏。",
+      "cuidadosMedicos": "监测体重、情绪变化、胃肠不适及肝功能。",
+      "cuidadosFarmaceuticos": "用药前教育逐渐适应副作用。",
+      "cuidadosEnfermagem": "关注依从性、心理状态及体重。",
+      "fontesBibliograficas": "中国药典、GOLD、UpToDate、Micromedex"
+    }
+  }
+}

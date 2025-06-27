@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Mercaptopurina",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de imunossupressão, leucopenia, hepatotoxicidade e má cicatrização",
+      "reintroduction": "Reintroduzir após recuperação hematológica e função hepática normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mercaptopurina",
+      "nomeComercial": "Puri-Nethol",
+      "mecanismoAcao": "Análogo da purina que inibe a síntese de ácidos nucleicos, bloqueando a proliferação celular",
+      "farmacocinetica": "Absorção oral variável (~50%), meia-vida de 1 hora; metabolização hepática e excreção renal",
+      "farmacodinamica": "Citotóxico específico da fase S do ciclo celular",
+      "indicacoes": "Leucemia linfoide aguda (LLA), leucemia mieloide crônica (LMC), doenças inflamatórias intestinais",
+      "reacoesAdversas": "Leucopenia, trombocitopenia, náuseas, vômitos, hepatotoxicidade, estomatite",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via oral",
+      "doseMaxima": "2,5 mg/kg/dia",
+      "doseMinima": "1 mg/kg/dia",
+      "classificacao": "Antineoplásico – antimetabólito (análogo de purina)",
+      "apresentacao": "Comprimidos orais de 50 mg",
+      "interacaoMedicamento": "Interage com alopurinol (aumenta toxicidade), warfarina, imunossupressores",
+      "posologia": "1–2,5 mg/kg/dia, ajustado conforme resposta e toxicidade hematológica",
+      "armazenamento": "Temperatura ambiente (15–25°C), protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Gravidez, lactação, insuficiência hepática grave, depressão medular severa",
+      "cuidadosMedicos": "Monitorar hemograma, bilirrubinas e transaminases",
+      "cuidadosFarmaceuticos": "Evitar fracionamento do comprimido, armazenar corretamente",
+      "cuidadosEnfermagem": "Avaliar sinais de toxicidade hematológica e hepática",
+      "fontesBibliograficas": "INCA, ANVISA, FDA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mercaptopurine",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of immunosuppression, leukopenia, hepatotoxicity, and impaired wound healing",
+      "reintroduction": "Restart after hematologic recovery and normalized liver function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mercaptopurine",
+      "nomeComercial": "Puri-Nethol",
+      "mecanismoAcao": "Purine analog that inhibits nucleic acid synthesis, halting cell proliferation",
+      "farmacocinetica": "Oral absorption ~50%, half-life ~1 hour; hepatic metabolism and renal excretion",
+      "farmacodinamica": "S-phase specific cytotoxic agent",
+      "indicacoes": "Acute lymphoblastic leukemia (ALL), chronic myeloid leukemia (CML), inflammatory bowel diseases",
+      "reacoesAdversas": "Leukopenia, thrombocytopenia, nausea, vomiting, hepatotoxicity, stomatitis",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral route",
+      "doseMaxima": "2.5 mg/kg/day",
+      "doseMinima": "1 mg/kg/day",
+      "classificacao": "Antineoplastic – antimetabolite (purine analog)",
+      "apresentacao": "Oral tablets, 50 mg",
+      "interacaoMedicamento": "Interacts with allopurinol (increases toxicity), warfarin, immunosuppressants",
+      "posologia": "1–2.5 mg/kg/day, adjusted based on response and toxicity",
+      "armazenamento": "Store at 15–25°C, protect from light",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, severe hepatic impairment, bone marrow suppression",
+      "cuidadosMedicos": "Monitor CBC, bilirubin, liver enzymes",
+      "cuidadosFarmaceuticos": "Avoid splitting tablets; store properly",
+      "cuidadosEnfermagem": "Monitor for hepatic and hematologic toxicity",
+      "fontesBibliograficas": "FDA, Micromedex, ASCO, NCCN"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Mercaptopurina",
+      "suspension": "Suspender 7 días antes de la cirugía electiva",
+      "risk": "Riesgo de inmunosupresión, leucopenia, hepatotoxicidad y mala cicatrización",
+      "reintroduction": "Reintroducir tras recuperación hematológica y función hepática normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mercaptopurina",
+      "nomeComercial": "Puri-Nethol",
+      "mecanismoAcao": "Análogo de purina que inhibe la síntesis de ácidos nucleicos, bloqueando la proliferación celular",
+      "farmacocinetica": "Absorción oral ~50%; vida media ~1 hora; metabolismo hepático, excreción renal",
+      "farmacodinamica": "Citotóxico específico de fase S del ciclo celular",
+      "indicacoes": "Leucemia linfoblástica aguda, leucemia mieloide crónica, enfermedad inflamatoria intestinal",
+      "reacoesAdversas": "Leucopenia, trombocitopenia, náuseas, vómitos, hepatotoxicidad, estomatitis",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado; se excreta en la leche materna",
+      "administracao": "Vía oral",
+      "doseMaxima": "2,5 mg/kg/día",
+      "doseMinima": "1 mg/kg/día",
+      "classificacao": "Antineoplásico – antimetabolito (análogo de purina)",
+      "apresentacao": "Comprimidos orales de 50 mg",
+      "interacaoMedicamento": "Interacción con alopurinol (aumenta toxicidad), warfarina, inmunosupresores",
+      "posologia": "1–2,5 mg/kg/día según respuesta y toxicidad",
+      "armazenamento": "Temperatura ambiente (15–25°C), protegido de la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, hepatopatía grave, supresión medular",
+      "cuidadosMedicos": "Monitorear hemograma, enzimas hepáticas",
+      "cuidadosFarmaceuticos": "No fraccionar comprimidos; conservar adecuadamente",
+      "cuidadosEnfermagem": "Vigilar toxicidad hepática y hematológica",
+      "fontesBibliograficas": "ANMAT, FDA, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "巯嘌呤",
+      "suspension": "择期手术前7天停药",
+      "risk": "有免疫抑制、白细胞减少、肝毒性及伤口愈合差的风险",
+      "reintroduction": "血液恢复正常且肝功能恢复后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "巯嘌呤",
+      "nomeComercial": "Puri-Nethol",
+      "mecanismoAcao": "为嘌呤类似物，可抑制核酸合成，阻止细胞增殖",
+      "farmacocinetica": "口服吸收率约50%；半衰期约1小时；经肝代谢、肾排泄",
+      "farmacodinamica": "S期特异性细胞毒性药物",
+      "indicacoes": "急性淋巴细胞白血病、慢性髓细胞白血病、炎症性肠病",
+      "reacoesAdversas": "白细胞减少、血小板减少、恶心、呕吐、肝毒性、口腔炎",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用，可分泌入乳汁",
+      "administracao": "口服",
+      "doseMaxima": "每日2.5 mg/kg",
+      "doseMinima": "每日1 mg/kg",
+      "classificacao": "抗肿瘤药 – 抗代谢药（嘌呤类似物）",
+      "apresentacao": "口服片剂，每片50 mg",
+      "interacaoMedicamento": "与别嘌醇联用可增加毒性，慎用华法林、免疫抑制剂",
+      "posologia": "1–2.5 mg/kg/日，视反应与毒性调整",
+      "armazenamento": "室温（15–25°C），避光保存",
+      "preparo": "无需特殊配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、严重肝功能不全、骨髓抑制",
+      "cuidadosMedicos": "监测血常规、肝酶水平",
+      "cuidadosFarmaceuticos": "避免掰片，妥善保存",
+      "cuidadosEnfermagem": "观察肝毒性和血液毒性迹象",
+      "fontesBibliograficas": "中国药典, FDA, Micromedex, NCCN"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pegfilgrastim",
+      "suspension": "Suspender 1 semana antes de cirurgia eletiva de médio/grande porte",
+      "risk": "Risco de esplenomegalia, dor óssea, leucocitose, potencial interferência com contagem leucocitária e eventos tromboembólicos",
+      "reintroduction": "Reintroduzir após completa recuperação hematológica e ausência de sinais infecciosos ou inflamatórios"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pegfilgrastim",
+      "nomeComercial": "Neulasta, Pelgraz, Fulphila",
+      "mecanismoAcao": "Fator estimulador de colônias de granulócitos (G-CSF) peguilado que estimula proliferação e diferenciação de neutrófilos",
+      "farmacocinetica": "Administração SC; meia-vida de 15–80h (autolimitada por neutrófilos); excreção renal mínima",
+      "farmacodinamica": "Aumenta contagem e função de neutrófilos, reduzindo risco de neutropenia febril",
+      "indicacoes": "Profilaxia de neutropenia induzida por quimioterapia em tumores não mieloides",
+      "reacoesAdversas": "Dor óssea, cefaleia, náusea, esplenomegalia, leucocitose, reação no local da aplicação",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excreção desconhecida; usar com cautela",
+      "administracao": "Subcutânea",
+      "doseMaxima": "6 mg por ciclo (adultos)",
+      "doseMinima": "6 mg por ciclo (dose única padrão)",
+      "classificacao": "Fator de crescimento hematopoiético",
+      "apresentacao": "Seringa preenchida SC: 6 mg/0,6 mL",
+      "interacaoMedicamento": "Evitar uso concomitante com lítio (potencialização); monitorar interações com quimioterápicos mielotóxicos",
+      "posologia": "6 mg SC uma vez por ciclo, 24–72h após quimioterapia citotóxica",
+      "armazenamento": "Refrigerado (2–8°C); não congelar; proteger da luz",
+      "preparo": "Uso direto da seringa; não agitar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao pegfilgrastim ou derivados do G-CSF",
+      "cuidadosMedicos": "Monitorar contagem de leucócitos, sinais de esplenomegalia e dor óssea intensa",
+      "cuidadosFarmaceuticos": "Verificar conservação adequada, validade e integridade da seringa",
+      "cuidadosEnfermagem": "Observar sinais de reação local, dor óssea e contagem hematológica",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, EMA, bula Neulasta"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pegfilgrastim",
+      "suspension": "Discontinue 1 week before major elective surgery",
+      "risk": "Risk of splenomegaly, bone pain, leukocytosis, and possible thrombosis; may interfere with WBC counts",
+      "reintroduction": "Restart after hematologic recovery and absence of infection or inflammation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pegfilgrastim",
+      "nomeComercial": "Neulasta, Fulphila, Udenyca",
+      "mecanismoAcao": "Pegylated G-CSF that stimulates neutrophil proliferation and differentiation",
+      "farmacocinetica": "SC administration; half-life 15–80h; clearance self-regulated by neutrophils; minimal renal excretion",
+      "farmacodinamica": "Increases neutrophil count and function, reducing risk of febrile neutropenia",
+      "indicacoes": "Prevention of chemotherapy-induced neutropenia in non-myeloid malignancies",
+      "reacoesAdversas": "Bone pain, headache, nausea, splenomegaly, leukocytosis, injection site reactions",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "Subcutaneous",
+      "doseMaxima": "6 mg per cycle (adults)",
+      "doseMinima": "6 mg per cycle (standard single dose)",
+      "classificacao": "Hematopoietic growth factor",
+      "apresentacao": "Prefilled syringe SC: 6 mg/0.6 mL",
+      "interacaoMedicamento": "Avoid with lithium (potentiation); monitor with myelotoxic chemo",
+      "posologia": "6 mg SC once per cycle, 24–72h after cytotoxic chemo",
+      "armazenamento": "Refrigerate (2–8°C); do not freeze; protect from light",
+      "preparo": "Administer directly from syringe; do not shake",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity to pegfilgrastim or G-CSF derivatives",
+      "cuidadosMedicos": "Monitor WBCs, spleen size, and bone pain",
+      "cuidadosFarmaceuticos": "Check storage, expiry, syringe integrity",
+      "cuidadosEnfermagem": "Monitor injection site, WBC counts, and bone pain",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Neulasta PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pegfilgrastim",
+      "suspension": "Suspender 1 semana antes de cirugía mayor programada",
+      "risk": "Riesgo de esplenomegalia, dolor óseo, leucocitosis, trombosis; puede alterar el recuento leucocitario",
+      "reintroduction": "Reiniciar tras recuperación hematológica y ausencia de infección"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pegfilgrastim",
+      "nomeComercial": "Neulasta, Fulphila",
+      "mecanismoAcao": "G-CSF pegilado que estimula proliferación y maduración de neutrófilos",
+      "farmacocinetica": "SC; vida media 15–80h, aclaramiento autorregulado por neutrófilos, excreción renal mínima",
+      "farmacodinamica": "Aumenta el número y función de neutrófilos, previniendo neutropenia febril",
+      "indicacoes": "Prevención de neutropenia por quimioterapia en cáncer no mieloide",
+      "reacoesAdversas": "Dolor óseo, cefalea, náuseas, esplenomegalia, leucocitosis, reacción en sitio de inyección",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Subcutánea",
+      "doseMaxima": "6 mg por ciclo",
+      "doseMinima": "6 mg por ciclo",
+      "classificacao": "Factor de crecimiento hematopoyético",
+      "apresentacao": "Jeringa precargada SC: 6 mg/0.6 mL",
+      "interacaoMedicamento": "Evitar con litio; vigilar con quimioterapia mielosupresora",
+      "posologia": "6 mg SC una vez por ciclo, 24–72 h tras quimioterapia",
+      "armazenamento": "Refrigerar (2–8°C), no congelar, proteger de la luz",
+      "preparo": "Administrar directo de jeringa, no agitar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad a pegfilgrastim o derivados del G-CSF",
+      "cuidadosMedicos": "Controlar leucocitos, tamaño esplénico, dolor óseo",
+      "cuidadosFarmaceuticos": "Verificar almacenamiento, caducidad e integridad del dispositivo",
+      "cuidadosEnfermagem": "Vigilar reacción local, dolor óseo, perfil hematológico",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Neulasta"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "聚乙二醇化非格司亭",
+      "suspension": "择期大手术前1周停药",
+      "risk": "脾肿大、骨痛、白细胞增多、可能诱发血栓；可能干扰术前血象评估",
+      "reintroduction": "术后血象恢复，炎症控制后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "聚乙二醇化非格司亭",
+      "nomeComercial": "Neulasta、Fulphila",
+      "mecanismoAcao": "PEG-G-CSF，促进中性粒细胞增殖和成熟",
+      "farmacocinetica": "皮下注射；半衰期15–80小时，由中性粒细胞数量自调节清除",
+      "farmacodinamica": "升高中性粒细胞数，预防化疗相关粒细胞减少",
+      "indicacoes": "非骨髓瘤性肿瘤化疗引起的粒细胞减少预防",
+      "reacoesAdversas": "骨痛、头痛、恶心、脾大、白细胞增多、注射部位反应",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否分泌不明，慎用",
+      "administracao": "皮下注射",
+      "doseMaxima": "每周期6 mg",
+      "doseMinima": "6 mg（标准剂量）",
+      "classificacao": "造血生长因子",
+      "apresentacao": "预充注射器6 mg/0.6 mL",
+      "interacaoMedicamento": "与锂联用增强作用；与骨髓抑制药同用需监测",
+      "posologia": "化疗后24–72小时注射6 mg SC，每周期一次",
+      "armazenamento": "冷藏（2–8°C），避光保存，勿冷冻",
+      "preparo": "勿摇晃，直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对pegfilgrastim或G-CSF过敏",
+      "cuidadosMedicos": "监测WBC、脾大、骨痛",
+      "cuidadosFarmaceuticos": "保持冷链，核对效期和器械完整性",
+      "cuidadosEnfermagem": "观察注射部位反应、骨痛、血象",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Neulasta说明书"
+    }
+  }
+}

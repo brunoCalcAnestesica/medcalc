@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Midostaurina",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva em casos de pancitopenia grave, mucosite ou risco infeccioso elevado",
+      "risk": "Mielossupressão, náuseas, vômitos, prolongamento do QT, toxicidade pulmonar, hepatotoxicidade",
+      "reintroduction": "Reintroduzir após recuperação hematológica e liberação oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Midostaurina",
+      "nomeComercial": "Rydapt",
+      "mecanismoAcao": "Inibidor multiquinase incluindo FLT3, KIT e PDGFR; bloqueia sinalização celular em leucemias e mastocitoses",
+      "farmacocinetica": "Oral; meia-vida ~20h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Induz apoptose e reduz proliferação celular em neoplasias hematológicas com mutações específicas",
+      "indicacoes": "Leucemia mieloide aguda (LMA) com mutação FLT3, mastocitose sistêmica avançada",
+      "reacoesAdversas": "Náusea, vômito, febre, edema, neutropenia, QT prolongado, disfunção hepática",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral, com alimentos",
+      "doseMaxima": "100mg 2x/dia",
+      "doseMinima": "50mg 2x/dia (ajuste por toxicidade)",
+      "classificacao": "Inibidor multiquinase (FLT3, KIT, PDGFR)",
+      "apresentacao": "Cápsulas 25mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores de CYP3A4, QT prolongadores, antifúngicos azólicos",
+      "posologia": "50mg 2x/dia VO durante quimioterapia; 100mg 2x/dia na mastocitose",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, hipersensibilidade, QTc > 450ms não corrigido",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, hemograma, transaminases",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão, interações e sinais de toxicidade cardíaca/hepática",
+      "cuidadosEnfermagem": "Observar náuseas, febre, hemograma e sinais de toxicidade",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Midostaurin",
+      "suspension": "Discontinue 7 days before elective surgery in cases of severe pancytopenia, mucositis, or high infection risk",
+      "risk": "Myelosuppression, nausea, vomiting, QT prolongation, pulmonary toxicity, hepatotoxicity",
+      "reintroduction": "Restart after hematologic recovery and oncologic clearance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Midostaurin",
+      "nomeComercial": "Rydapt",
+      "mecanismoAcao": "Multikinase inhibitor (FLT3, KIT, PDGFR); blocks proliferation signals in hematologic malignancies",
+      "farmacocinetica": "Oral; half-life ~20h; hepatic metabolism (CYP3A4)",
+      "farmacodinamica": "Induces apoptosis and reduces proliferation in FLT3-mutated AML and systemic mastocytosis",
+      "indicacoes": "FLT3-mutated AML, advanced systemic mastocytosis",
+      "reacoesAdversas": "Nausea, vomiting, fever, edema, neutropenia, QT prolongation, hepatic dysfunction",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral with food",
+      "doseMaxima": "100mg BID",
+      "doseMinima": "50mg BID (if toxicity)",
+      "classificacao": "Multikinase inhibitor (FLT3, KIT, PDGFR)",
+      "apresentacao": "Capsules 25mg",
+      "interacaoMedicamento": "Interacts with CYP3A4 modulators, QT-prolonging agents, azole antifungals",
+      "posologia": "50mg BID with chemo; 100mg BID in mastocytosis",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Oral use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, hypersensitivity, QTc > 450ms untreated",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, CBC, liver enzymes",
+      "cuidadosFarmaceuticos": "Educate on adherence, drug interactions, QT/hepatic toxicity",
+      "cuidadosEnfermagem": "Monitor nausea, fever, labs, and toxicity signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Midostaurina",
+      "suspension": "Suspender 7 días antes de cirugía si hay pancitopenia, mucositis o alto riesgo infeccioso",
+      "risk": "Mielosupresión, náuseas, vómitos, QT prolongado, toxicidad hepática/pulmonar",
+      "reintroduction": "Reiniciar tras recuperación hematológica y autorización oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Midostaurina",
+      "nomeComercial": "Rydapt",
+      "mecanismoAcao": "Inhibidor multiquinasa (FLT3, KIT, PDGFR); bloquea señales proliferativas tumorales",
+      "farmacocinetica": "Oral; vida media ~20h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Induce apoptosis y reduce proliferación en LMA FLT3+ y mastocitosis sistémica",
+      "indicacoes": "LMA con mutación FLT3, mastocitosis sistémica avanzada",
+      "reacoesAdversas": "Náuseas, vómitos, fiebre, edema, neutropenia, QT prolongado, disfunción hepática",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral con alimentos",
+      "doseMaxima": "100mg 2x/día",
+      "doseMinima": "50mg 2x/día (si toxicidad)",
+      "classificacao": "Inhibidor multiquinasa (FLT3, KIT, PDGFR)",
+      "apresentacao": "Cápsulas 25mg",
+      "interacaoMedicamento": "Interacciones con CYP3A4, antifúngicos azoles, fármacos QT",
+      "posologia": "50mg 2x/día con quimio; 100mg 2x/día en mastocitosis",
+      "armazenamento": "Ambiente seco, protegido de luz",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, hipersensibilidad, QTc > 450ms no corregido",
+      "cuidadosMedicos": "Controlar ECG, electrolitos, hemograma, hepático",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia, interacciones y toxicidad hepática/QT",
+      "cuidadosEnfermagem": "Observar náuseas, fiebre, labs y signos de toxicidad",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "米妥司汀（Midostaurin）",
+      "suspension": "术前7天停药，尤其在重度骨髓抑制、黏膜炎或感染风险高者",
+      "risk": "骨髓抑制、恶心、呕吐、QT延长、肝肺毒性",
+      "reintroduction": "术后血象恢复和肿瘤科许可后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "米妥司汀",
+      "nomeComercial": "Rydapt",
+      "mecanismoAcao": "多激酶抑制剂（FLT3、KIT、PDGFR），阻断肿瘤细胞增殖通路",
+      "farmacocinetica": "口服；半衰期约20小时；肝脏CYP3A4代谢",
+      "farmacodinamica": "诱导凋亡，抑制FLT3突变AML与系统性肥大细胞病细胞生长",
+      "indicacoes": "FLT3突变急性髓系白血病、晚期系统性肥大细胞病",
+      "reacoesAdversas": "恶心、呕吐、发热、水肿、中性粒细胞减少、QT延长、肝功能异常",
+      "riscoGravidez": "D类 – 禁用于妊娠期",
+      "riscoLactacao": "禁用",
+      "administracao": "口服（随餐服用）",
+      "doseMaxima": "每日100mg，分2次服",
+      "doseMinima": "每日50mg，分2次服（毒性调整）",
+      "classificacao": "多激酶抑制剂（FLT3、KIT、PDGFR）",
+      "apresentacao": "25mg胶囊",
+      "interacaoMedicamento": "与CYP3A4抑制剂/诱导剂、QT延长药物、唑类抗真菌药有交互作用",
+      "posologia": "化疗联合：50mg 每日2次；肥大细胞病：100mg 每日2次",
+      "armazenamento": "避光室温保存",
+      "preparo": "口服直接服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、QTc>450ms未纠正、对本品过敏",
+      "cuidadosMedicos": "监测心电图、电解质、血象及肝功能",
+      "cuidadosFarmaceuticos": "说明规律服药、QT延长及药物相互作用风险",
+      "cuidadosEnfermagem": "关注胃肠道不适、发热、骨髓抑制和肝毒性表现",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Gonadotrofina coriônica",
+      "suspension": "Suspender 5 dias antes de cirurgias eletivas com risco tromboembólico ou hormonossensíveis",
+      "risk": "Trombose venosa profunda, ginecomastia, retenção de líquidos, dor abdominal, síndrome de hiperestimulação ovariana, cefaleia",
+      "reintroduction": "Reintroduzir 7 dias após cirurgia, com paciente clinicamente estável e sem eventos trombóticos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gonadotrofina coriônica humana (hCG)",
+      "nomeComercial": "Choriomon, Pregnyl, Ovidrel (r-hCG)",
+      "mecanismoAcao": "Hormônio glicoproteico que mimetiza o LH, promovendo ovulação, luteinização e produção de testosterona testicular",
+      "farmacocinetica": "Administração IM ou SC; início em 2h; T½ ~36h (hCG urinária), ~24h (r-hCG); excreção urinária",
+      "farmacodinamica": "Estimula células da granulosa e de Leydig a produzirem esteroides sexuais (estradiol/testosterona)",
+      "indicacoes": "Infertilidade anovulatória, indução da ovulação, hipogonadismo masculino, criptorquidia",
+      "reacoesAdversas": "Dor local, cefaleia, irritabilidade, retenção hídrica, ginecomastia, trombose, OHSS (mulheres)",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "IM ou SC, dose única ou fracionada conforme protocolo",
+      "doseMaxima": "10.000 UI por dose (em fertilização assistida); 5000 UI 3x/semana (hipogonadismo)",
+      "doseMinima": "250 mcg (r-hCG, Ovidrel)",
+      "classificacao": "Hormônio gonadotrófico; agonista de LH/CG",
+      "apresentacao": "Frascos 250mcg (Ovidrel), 5000 UI, 10.000 UI com diluente",
+      "interacaoMedicamento": "Aumenta risco com estrogênios, outros hormônios gonadotróficos; cuidado com trombofilias",
+      "posologia": "5000–10.000 UI IM única no ciclo feminino; 1500–5000 UI 2–3x/semana para homens",
+      "armazenamento": "Refrigerado 2–8°C; solução pronta usar em 24h",
+      "preparo": "Diluir com o diluente fornecido; administrar imediatamente",
+      "solucoesCompatíveis": "Diluente do fabricante",
+      "contraindicacoes": "Gravidez, trombose ativa, tumores hormônio-dependentes",
+      "cuidadosMedicos": "Monitorar ovulação/testosterona, sinais de OHSS e eventos tromboembólicos",
+      "cuidadosFarmaceuticos": "Manter cadeia de frio, instruir sobre aplicação correta SC/IM",
+      "cuidadosEnfermagem": "Observar dor local, edema, dor abdominal, falta de ar",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex, protocolos SBRA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Human chorionic gonadotropin (hCG)",
+      "suspension": "Discontinue 5 days before surgery with high thrombotic risk",
+      "risk": "Thrombosis, headache, abdominal pain, water retention, OHSS, gynecomastia",
+      "reintroduction": "Resume 7 days postop if patient stable, no TE events"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Human chorionic gonadotropin (hCG)",
+      "nomeComercial": "Pregnyl, Novarel, Ovidrel (recombinant)",
+      "mecanismoAcao": "LH analog; stimulates Leydig/granulosa cells → testosterone or ovulation",
+      "farmacocinetica": "IM or SC; T½ ~36h (urinary), ~24h (r-hCG)",
+      "farmacodinamica": "Triggers final oocyte maturation or androgen production",
+      "indicacoes": "Anovulation, hypogonadism, male infertility, cryptorchidism",
+      "reacoesAdversas": "Thromboembolism, gynecomastia, OHSS, injection pain, nausea",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Not advised",
+      "administracao": "Single or multiple IM/SC injections per protocol",
+      "doseMaxima": "10,000 IU/dose IM; 250 mcg SC (Ovidrel)",
+      "doseMinima": "1500 IU (male); 250 mcg SC (fem)",
+      "classificacao": "Gonadotropin hormone (LH mimetic)",
+      "apresentacao": "250mcg syringe, 5000/10000 IU vials + diluent",
+      "interacaoMedicamento": "Risk ↑ with estrogens, gonadotropins; caution in thrombophilia",
+      "posologia": "5000–10,000 IU IM once; 1500–5000 IU 2–3×/week in men",
+      "armazenamento": "Refrigerate 2–8°C; use reconstituted sol. within 24h",
+      "preparo": "Reconstitute with supplied diluent immediately prior to use",
+      "solucoesCompatíveis": "Manufacturer diluent",
+      "contraindicacoes": "Pregnancy, thromboembolism, hormone-sensitive tumors",
+      "cuidadosMedicos": "Monitor ovulation/testosterone, OHSS, DVT symptoms",
+      "cuidadosFarmaceuticos": "Cold chain, dose verification, education SC/IM route",
+      "cuidadosEnfermagem": "Assess pain, swelling, dyspnea, abdominal distension",
+      "fontesBibliograficas": "FDA, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Gonadotropina coriónica humana",
+      "suspension": "Suspender 5 días antes si hay riesgo de trombosis",
+      "risk": "Trombosis, dolor abdominal, náuseas, ginecomastia, retención hídrica",
+      "reintroduction": "Reiniciar 7 días después si no hay eventos trombóticos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gonadotropina coriónica humana",
+      "nomeComercial": "Pregnyl, Ovidrel, Choriomon",
+      "mecanismoAcao": "Análogo LH; estimula ovulación/testosterona",
+      "farmacocinetica": "IM/SC; T½ ~24–36h; eliminación renal",
+      "farmacodinamica": "Estímulo ovárico/testicular",
+      "indicacoes": "Anovulación, hipogonadismo, criptórquides",
+      "reacoesAdversas": "Dolor local, trombosis, OHSS, ginecomastia",
+      "riscoGravidez": "Categoría X – teratógeno",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Dosis única IM/SC",
+      "doseMaxima": "10,000 UI (IM); 250 mcg (r-hCG)",
+      "doseMinima": "1500 UI hombres",
+      "classificacao": "Hormona gonadotrófica",
+      "apresentacao": "250mcg, 5000/10000 UI viales",
+      "interacaoMedicamento": "Aumenta riesgo con estrógenos, FSH, LH",
+      "posologia": "5000–10000 UI IM; 1500–5000 UI/sem en hombres",
+      "armazenamento": "2–8°C; uso en 24h tras dilución",
+      "preparo": "Reconstituir con diluyente incluido",
+      "solucoesCompatíveis": "Solo diluyente original",
+      "contraindicacoes": "Trombosis, embarazo, cáncer hormono-dependiente",
+      "cuidadosMedicos": "Vigilar respuesta hormonal, OHSS, síntomas trombóticos",
+      "cuidadosFarmaceuticos": "Cadena de frío, aplicación SC/IM segura",
+      "cuidadosEnfermagem": "Observar dolor, abdomen distendido, disnea",
+      "fontesBibliograficas": "EMA, protocolos SEF, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "人绒毛膜促性腺激素 (hCG)",
+      "suspension": "术前5天停药，如为激素高敏或血栓风险者",
+      "risk": "静脉血栓、卵巢过度刺激综合征（OHSS）、腹胀、乳腺胀痛",
+      "reintroduction": "术后7天，无栓塞风险者可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "人绒毛膜促性腺激素",
+      "nomeComercial": "Pregnyl、Ovidrel、绒促",
+      "mecanismoAcao": "模拟LH作用，刺激排卵和睾丸睾酮合成",
+      "farmacocinetica": "皮下/肌注；T½约24–36小时；尿排泄",
+      "farmacodinamica": "诱导排卵、黄体化或促睾功能",
+      "indicacoes": "排卵障碍、不育、隐睾、促性腺轴评估",
+      "reacoesAdversas": "注射疼痛、恶心、乳腺胀、腹胀、OHSS、血栓",
+      "riscoGravidez": "X类 – 孕期禁用",
+      "riscoLactacao": "不建议使用",
+      "administracao": "IM或SC注射，单次或周期性",
+      "doseMaxima": "10000 IU（肌注）；250 mcg（r-hCG）",
+      "doseMinima": "1500 IU",
+      "classificacao": "促性腺激素类药物",
+      "apresentacao": "250mcg预充注射器；5000IU、10000IU冻干粉",
+      "interacaoMedicamento": "与雌激素、抗凝剂、激素类药物联用需监控",
+      "posologia": "女性排卵前：5000–10000IU一次；男性：1500–5000IU每周2–3次",
+      "armazenamento": "冷藏2–8°C，避光，稀释后24h内用",
+      "preparo": "稀释后立即注射；按说明书配比",
+      "solucoesCompatíveis": "厂家提供的溶剂",
+      "contraindicacoes": "活动性血栓、激素依赖肿瘤、妊娠",
+      "cuidadosMedicos": "监测卵泡、生殖激素、DVT/OHSS症状",
+      "cuidadosFarmaceuticos": "指导患者注射部位、冷藏保存、按周期应用",
+      "cuidadosEnfermagem": "关注注射反应、下肢肿痛、腹水、呼吸不适",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

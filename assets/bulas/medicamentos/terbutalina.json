@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Terbutalina",
+      "suspension": "Não é necessário suspender antes de cirurgias eletivas, mas monitorar taquicardia e interação com anestésicos halogenados.",
+      "risk": "Pode causar tremores, taquicardia, hipocalemia, ansiedade. Aumenta risco de arritmias com anestésicos voláteis.",
+      "reintroduction": "Pode ser mantida ou reintroduzida no pós-operatório com vigilância cardiovascular."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Terbutalina sulfato",
+      "nomeComercial": "Bricanyl, Terbutil, Terbutalin",
+      "mecanismoAcao": "Agonista seletivo dos receptores β2-adrenérgicos, promovendo broncodilatação e relaxamento da musculatura lisa brônquica.",
+      "farmacocinetica": "Início: 5–30 min (inalada/oral); pico: 1–2 h; meia-vida: 3–4 h; excreção renal.",
+      "farmacodinamica": "Reduz a resistência das vias aéreas, melhora a ventilação, alivia broncoespasmo.",
+      "indicacoes": "Asma, bronquite crônica, DPOC, prevenção de broncoespasmo induzido por exercício.",
+      "reacoesAdversas": "Tremores, cefaleia, taquicardia, náusea, ansiedade, hipocalemia.",
+      "riscoGravidez": "Categoria B – uso permitido com monitoramento.",
+      "riscoLactacao": "Compatível com vigilância clínica.",
+      "administracao": "Oral, subcutânea, inalatória.",
+      "doseMaxima": "15 mg/dia VO; 0,5 mg SC 4x/dia; 0,5 mg inalatória até 3x/dia.",
+      "doseMinima": "2,5 mg VO ou 0,25 mg SC.",
+      "classificacao": "Agonista β2-adrenérgico de curta duração (SABA).",
+      "apresentacao": "Comprimidos (2,5 mg, 5 mg), xarope, solução injetável (0,5 mg/mL), spray inalatório.",
+      "interacaoMedicamento": "Beta-bloqueadores, diuréticos, anestésicos halogenados, digoxina.",
+      "posologia": "Adultos: 2,5–5 mg VO 2–3x/dia; SC: 0,25–0,5 mg a cada 6–8h; inalado: 0,5 mg/dose.",
+      "armazenamento": "Temperatura ambiente, protegido da luz.",
+      "preparo": "SC: aplicar lentamente; inalado: uso conforme necessidade aguda.",
+      "solucoesCompatíveis": "SF 0,9% (injeção).",
+      "contraindicacoes": "Hipertireoidismo, taquiarritmias, hipersensibilidade.",
+      "cuidadosMedicos": "Monitorar eletólitos, FC, ECG em pacientes com cardiopatias.",
+      "cuidadosFarmaceuticos": "Instruir técnica inalatória e ajuste de dose individual.",
+      "cuidadosEnfermagem": "Observar tremores, taquicardia e resposta clínica ao broncodilatador.",
+      "fontesBibliograficas": "GINA, ANVISA, UpToDate, FDA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Terbutaline",
+      "suspension": "No need to suspend before elective surgery, but monitor for tachycardia and volatile anesthetic interactions.",
+      "risk": "May cause tremors, tachycardia, hypokalemia, anxiety. Increases risk of arrhythmia with volatile anesthetics.",
+      "reintroduction": "Can be continued or restarted post-op with cardiovascular monitoring."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Terbutaline sulfate",
+      "nomeComercial": "Bricanyl, Brethine",
+      "mecanismoAcao": "Selective β2-adrenergic agonist causing bronchial smooth muscle relaxation and bronchodilation.",
+      "farmacocinetica": "Onset: 5–30 min (inhaled/oral); peak: 1–2 h; t½: 3–4 h; renal excretion.",
+      "farmacodinamica": "Reduces airway resistance and improves airflow in obstructive pulmonary diseases.",
+      "indicacoes": "Asthma, COPD, bronchitis, exercise-induced bronchospasm.",
+      "reacoesAdversas": "Tremor, headache, tachycardia, nausea, anxiety, hypokalemia.",
+      "riscoGravidez": "Category B – may be used with caution.",
+      "riscoLactacao": "Considered compatible.",
+      "administracao": "Oral, subcutaneous, inhaled.",
+      "doseMaxima": "15 mg/day oral; 0.5 mg SC 4x/day; 0.5 mg/dose inhaled up to 3x/day.",
+      "doseMinima": "2.5 mg oral or 0.25 mg SC.",
+      "classificacao": "Short-acting β2 agonist (SABA).",
+      "apresentacao": "Tablets (2.5 mg, 5 mg), syrup, injection (0.5 mg/mL), inhaler.",
+      "interacaoMedicamento": "Beta-blockers, diuretics, digoxin, volatile anesthetics.",
+      "posologia": "Adults: 2.5–5 mg PO 2–3x/day; SC: 0.25–0.5 mg q6–8h; inhaled: 0.5 mg/dose.",
+      "armazenamento": "Room temperature, protect from light.",
+      "preparo": "SC: inject slowly; inhaled: as needed for acute symptoms.",
+      "solucoesCompatíveis": "0.9% saline (injection).",
+      "contraindicacoes": "Hyperthyroidism, tachyarrhythmias, hypersensitivity.",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, and heart rate in at-risk patients.",
+      "cuidadosFarmaceuticos": "Educate on inhaler use and individualized dosing.",
+      "cuidadosEnfermagem": "Observe for tremors, tachycardia, clinical response.",
+      "fontesBibliograficas": "FDA, GINA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Terbutalina",
+      "suspension": "No requiere suspensión previa a cirugía. Vigilar taquicardia y anestésicos volátiles.",
+      "risk": "Temblor, taquicardia, hipocalemia, ansiedad. Riesgo de arritmias con anestesia.",
+      "reintroduction": "Puede mantenerse o reintroducirse con monitoreo cardiovascular."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato de terbutalina",
+      "nomeComercial": "Bricanyl, Terbutalin",
+      "mecanismoAcao": "Agonista β2-adrenérgico selectivo que relaja el músculo bronquial.",
+      "farmacocinetica": "Inicio: 5–30 min; pico: 1–2 h; t½: 3–4 h; eliminación renal.",
+      "farmacodinamica": "Disminuye la resistencia de las vías aéreas y mejora la ventilación.",
+      "indicacoes": "Asma, bronquitis, EPOC, broncoespasmo inducido por ejercicio.",
+      "reacoesAdversas": "Temblor, cefalea, taquicardia, náusea, ansiedad, hipocalemia.",
+      "riscoGravidez": "Categoría B – usar con precaución.",
+      "riscoLactacao": "Compatible con vigilancia.",
+      "administracao": "Oral, subcutánea, inhalada.",
+      "doseMaxima": "15 mg/día VO; 0,5 mg SC 4x/día; 0,5 mg inhalado hasta 3x/día.",
+      "doseMinima": "2,5 mg VO o 0,25 mg SC.",
+      "classificacao": "Agonista β2 de acción corta (SABA).",
+      "apresentacao": "Comprimidos, jarabe, solución inyectable, aerosol.",
+      "interacaoMedicamento": "Beta-bloqueantes, diuréticos, digitálicos, anestésicos volátiles.",
+      "posologia": "Adultos: 2,5–5 mg 2–3x/día VO; SC: 0,25–0,5 mg cada 6–8h.",
+      "armazenamento": "Ambiente seco, protegido de la luz.",
+      "preparo": "SC: inyección lenta; inhalado según necesidad aguda.",
+      "solucoesCompatíveis": "SF 0,9%.",
+      "contraindicacoes": "Hipertiroidismo, arritmias, hipersensibilidad.",
+      "cuidadosMedicos": "Vigilar ECG, potasio, FC.",
+      "cuidadosFarmaceuticos": "Instruir técnica inhalatoria.",
+      "cuidadosEnfermagem": "Observar temblor, respuesta respiratoria.",
+      "fontesBibliograficas": "AEMPS, GINA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "特布他林（Terbutaline）",
+      "suspension": "术前无需停药，但需监测心率及麻醉药交互作用。",
+      "risk": "可能引起震颤、心悸、低钾、焦虑。与吸入麻醉剂合用有心律失常风险。",
+      "reintroduction": "术后可继续使用或恢复，需监测心电与电解质。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "特布他林硫酸盐",
+      "nomeComercial": "Bricanyl、特布喘宁",
+      "mecanismoAcao": "选择性β2受体激动剂，引起支气管平滑肌松弛。",
+      "farmacocinetica": "起效5–30分钟，达峰1–2小时，T1/2约3–4小时，经肾排泄。",
+      "farmacodinamica": "扩张气道，缓解支气管痉挛，改善通气。",
+      "indicacoes": "哮喘、慢性支气管炎、慢阻肺、运动性哮喘。",
+      "reacoesAdversas": "震颤、头痛、心悸、焦虑、恶心、低血钾。",
+      "riscoGravidez": "B类，妊娠期可用。",
+      "riscoLactacao": "哺乳期可用。",
+      "administracao": "口服、皮下注射、吸入。",
+      "doseMaxima": "口服每日15 mg；皮下注每日4次，每次0.5 mg；吸入每次0.5 mg。",
+      "doseMinima": "2.5 mg口服或0.25 mg皮下注。",
+      "classificacao": "短效β2激动剂（SABA）。",
+      "apresentacao": "片剂（2.5 mg、5 mg）、糖浆、注射液（0.5 mg/mL）、吸入剂。",
+      "interacaoMedicamento": "β阻滞剂、利尿剂、地高辛、吸入麻醉剂。",
+      "posologia": "成人：口服2.5–5 mg每日2–3次；皮下注射0.25–0.5 mg每6–8小时；吸入0.5 mg。",
+      "armazenamento": "避光、室温保存。",
+      "preparo": "皮下注射缓慢给药，吸入按需。",
+      "solucoesCompatíveis": "0.9%氯化钠。",
+      "contraindicacoes": "甲亢、心律失常、过敏者禁用。",
+      "cuidadosMedicos": "监测心电图、电解质、血压。",
+      "cuidadosFarmaceuticos": "指导吸入方式，警惕药物联用。",
+      "cuidadosEnfermagem": "观察震颤、呼吸缓解、心率变化。",
+      "fontesBibliograficas": "中国药典、GINA、UpToDate、Micromedex"
+    }
+  }
+}

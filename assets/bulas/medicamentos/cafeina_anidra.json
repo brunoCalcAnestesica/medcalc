@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cafeína Anidra",
+      "suspension": "Suspender 24 horas antes de procedimentos com anestesia geral",
+      "risk": "Risco de taquiarritmias, agitação psicomotora e interação com anestésicos halogenados",
+      "reintroduction": "Reintroduzir após estabilização cardiovascular e recuperação anestésica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cafeína Anidra",
+      "nomeComercial": "Cafeaspirina, Nobese, Durvitan, Cafeína USP",
+      "mecanismoAcao": "Antagonista não seletivo dos receptores de adenosina, promove estimulação do SNC e aumento da liberação de neurotransmissores",
+      "farmacocinetica": "Absorção oral rápida, biodisponibilidade de ~100%, meia-vida de 3–7 horas, metabolismo hepático (CYP1A2)",
+      "farmacodinamica": "Efeitos estimulantes centrais, aumento da vigilância, resistência à fadiga, broncodilatação leve",
+      "indicacoes": "Fadiga, cefaleia, coadjuvante analgésico, apneia neonatal",
+      "reacoesAdversas": "Insônia, nervosismo, palpitações, náuseas, irritabilidade, tremores, taquicardia",
+      "riscoGravidez": "Categoria C (usar com cautela)",
+      "riscoLactacao": "Excretada no leite materno; limitar dose",
+      "administracao": "Via oral ou intravenosa (neonatologia)",
+      "doseMaxima": "400 mg/dia (adultos)",
+      "doseMinima": "100 mg/dia",
+      "classificacao": "Estimulante do sistema nervoso central (metilxantina)",
+      "apresentacao": "Comprimidos, cápsulas, pó, solução injetável",
+      "interacaoMedicamento": "Potencializa estimulantes; interação com anticoagulantes, contraceptivos orais, lítio e antibióticos quinolonas",
+      "posologia": "100–200 mg até 2x/dia, conforme necessidade clínica",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Para uso EV, reconstituir conforme especificação neonatal",
+      "solucoesCompatíveis": "Soro glicosado 5%, solução salina 0,9%",
+      "contraindicacoes": "Arritmias graves, hipertensão descontrolada, ansiedade severa",
+      "cuidadosMedicos": "Monitorar pressão, frequência cardíaca e sinais de excitação neurológica",
+      "cuidadosFarmaceuticos": "Orientar sobre risco de superdosagem e duplicidade com alimentos/bebidas",
+      "cuidadosEnfermagem": "Observar sinais de hiperestimulação e taquicardia",
+      "fontesBibliograficas": "Micromedex, FDA, ANVISA, UpToDate, SBNeO"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Caffeine Anhydrous",
+      "suspension": "Suspend 24 hours before procedures involving general anesthesia",
+      "risk": "Risk of tachyarrhythmia, psychomotor agitation, and interaction with volatile anesthetics",
+      "reintroduction": "Reintroduce after full cardiovascular stabilization and anesthetic recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Caffeine Anhydrous",
+      "nomeComercial": "NoDoz, Vivarin, Duracaf, Alert, Caffeine USP",
+      "mecanismoAcao": "Non-selective adenosine receptor antagonist, promotes CNS stimulation and neurotransmitter release",
+      "farmacocinetica": "Rapid oral absorption, ~100% bioavailability, 3–7 hour half-life, hepatic metabolism (CYP1A2)",
+      "farmacodinamica": "CNS stimulant effects: increased alertness, reduced fatigue, mild bronchodilation",
+      "indicacoes": "Fatigue, headache, analgesic adjuvant, neonatal apnea",
+      "reacoesAdversas": "Insomnia, nervousness, palpitations, nausea, irritability, tremor, tachycardia",
+      "riscoGravidez": "Category C (use with caution)",
+      "riscoLactacao": "Excreted in breast milk; dose should be limited",
+      "administracao": "Oral or IV (neonatal)",
+      "doseMaxima": "400 mg/day (adults)",
+      "doseMinima": "100 mg/day",
+      "classificacao": "CNS stimulant (methylxanthine)",
+      "apresentacao": "Tablets, capsules, powder, injectable solution",
+      "interacaoMedicamento": "Enhances effects of stimulants; interacts with anticoagulants, oral contraceptives, lithium, quinolones",
+      "posologia": "100–200 mg up to twice daily as needed",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "For IV use, reconstitute per neonatal guidelines",
+      "solucoesCompatíveis": "5% Dextrose, 0.9% NaCl",
+      "contraindicacoes": "Severe arrhythmias, uncontrolled hypertension, severe anxiety",
+      "cuidadosMedicos": "Monitor HR, BP, signs of CNS overstimulation",
+      "cuidadosFarmaceuticos": "Counsel on overdose risk and stimulant duplication with foods/beverages",
+      "cuidadosEnfermagem": "Observe for signs of overstimulation and tachycardia",
+      "fontesBibliograficas": "FDA, Micromedex, NIH, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cafeína Anhidra",
+      "suspension": "Suspender 24 horas antes de procedimientos con anestesia general",
+      "risk": "Riesgo de taquiarritmias, agitación psicomotora e interacción con anestésicos volátiles",
+      "reintroduction": "Reintroducir después de la estabilización cardiovascular y recuperación anestésica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cafeína Anhidra",
+      "nomeComercial": "Durvitan, Nobese, Cafeína USP, Cafeaspirina",
+      "mecanismoAcao": "Antagonista no selectivo de los receptores de adenosina, estimula el SNC y aumenta la liberación de neurotransmisores",
+      "farmacocinetica": "Absorción oral rápida, biodisponibilidad ~100%, vida media 3–7 horas, metabolismo hepático (CYP1A2)",
+      "farmacodinamica": "Estimulación del sistema nervioso central: aumenta el estado de alerta, reduce la fatiga, broncodilatación leve",
+      "indicacoes": "Fatiga, cefaleas, adyuvante analgésico, apnea neonatal",
+      "reacoesAdversas": "Insomnio, nerviosismo, palpitaciones, náuseas, irritabilidad, temblores, taquicardia",
+      "riscoGravidez": "Categoría C (uso con precaución)",
+      "riscoLactacao": "Se excreta en la leche materna; limitar la dosis",
+      "administracao": "Oral o intravenosa (en neonatos)",
+      "doseMaxima": "400 mg/día (adultos)",
+      "doseMinima": "100 mg/día",
+      "classificacao": "Estimulante del SNC (metilxantina)",
+      "apresentacao": "Comprimidos, cápsulas, polvo, solución inyectable",
+      "interacaoMedicamento": "Potencia estimulantes; interacción con anticoagulantes, anticonceptivos orales, litio, quinolonas",
+      "posologia": "100–200 mg hasta dos veces al día según necesidad clínica",
+      "armazenamento": "15–30°C, protegido de la humedad",
+      "preparo": "Para EV, reconstituir según protocolos neonatales",
+      "solucoesCompatíveis": "Dextrosa 5%, solución salina 0,9%",
+      "contraindicacoes": "Arritmias graves, hipertensión no controlada, ansiedad severa",
+      "cuidadosMedicos": "Controlar FC, PA y signos de estimulación excesiva",
+      "cuidadosFarmaceuticos": "Advertir sobre duplicidad con bebidas o medicamentos estimulantes",
+      "cuidadosEnfermagem": "Observar signos de sobreestimulación y taquicardia",
+      "fontesBibliograficas": "Micromedex, AEMPS, Excipients FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "无水咖啡因",
+      "suspension": "术前24小时停用，特别是在全麻手术中",
+      "risk": "心律失常、中枢过度兴奋，与吸入麻醉药有交互作用风险",
+      "reintroduction": "麻醉恢复和心血管稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "无水咖啡因",
+      "nomeComercial": "咖啡因片、Durvitan、Vivarin、USP级咖啡因",
+      "mecanismoAcao": "非选择性腺苷受体拮抗剂，促进中枢神经兴奋及神经递质释放",
+      "farmacocinetica": "口服吸收迅速，生物利用度接近100%，半衰期3–7小时，CYP1A2肝脏代谢",
+      "farmacodinamica": "中枢兴奋作用，提高警觉性、抗疲劳、轻度支气管扩张",
+      "indicacoes": "疲劳、头痛、镇痛辅助、新生儿呼吸暂停",
+      "reacoesAdversas": "失眠、心悸、恶心、焦虑、震颤、心动过速",
+      "riscoGravidez": "C类（需谨慎使用）",
+      "riscoLactacao": "可进入乳汁，应限制使用",
+      "administracao": "口服或静脉注射（新生儿）",
+      "doseMaxima": "成人每日不超过400mg",
+      "doseMinima": "每日100mg",
+      "classificacao": "中枢神经刺激剂（甲基黄嘌呤类）",
+      "apresentacao": "片剂、胶囊、粉剂、注射液",
+      "interacaoMedicamento": "增强其他兴奋剂作用；与抗凝药、避孕药、锂剂、喹诺酮类抗生素相互作用",
+      "posologia": "100–200mg，每日1–2次，根据临床需要调整",
+      "armazenamento": "15–30°C，避湿保存",
+      "preparo": "静脉用需根据新生儿方案重构",
+      "solucoesCompatíveis": "5%葡萄糖液，0.9%氯化钠溶液",
+      "contraindicacoes": "严重心律失常、未控制高血压、重度焦虑",
+      "cuidadosMedicos": "监测心率、血压及神经兴奋表现",
+      "cuidadosFarmaceuticos": "提醒避免与咖啡因食物/饮料/药物重复使用",
+      "cuidadosEnfermagem": "观察兴奋过度和心动过速症状",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

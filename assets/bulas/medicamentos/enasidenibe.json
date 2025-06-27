@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Enasidenibe",
+      "suspension": "Suspender 5 dias antes de procedimentos invasivos ou cirurgias eletivas",
+      "risk": "Risco de diferenciação leucêmica (síndrome de diferenciação), hepatotoxicidade e interações com anestésicos metabolizados por CYP3A4",
+      "reintroduction": "Reintroduzir após estabilização clínica e resolução de complicações hematológicas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enasidenibe",
+      "nomeComercial": "Idhifa",
+      "mecanismoAcao": "Inibidor seletivo da isocitrato desidrogenase 2 mutante (IDH2), bloqueando a produção de 2-HG e promovendo diferenciação celular",
+      "farmacocinetica": "Biodisponibilidade oral, pico em 4 h, meia-vida de ~137 h, metabolismo hepático via CYP3A4",
+      "farmacodinamica": "Restaura diferenciação celular em células leucêmicas com mutação IDH2",
+      "indicacoes": "Leucemia mieloide aguda (LMA) recidivada ou refratária com mutação IDH2",
+      "reacoesAdversas": "Síndrome de diferenciação, icterícia, elevação de bilirrubina, náusea, prolongamento de QT",
+      "riscoGravidez": "Categoria D – risco fetal conhecido",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral, 1x/dia com ou sem alimentos",
+      "doseMaxima": "100 mg/dia",
+      "doseMinima": "Não aplicável – dose única padrão",
+      "classificacao": "Inibidor de IDH2 mutante",
+      "apresentacao": "Comprimidos de 50 mg",
+      "interacaoMedicamento": "Evitar com inibidores/indutores potentes do CYP3A4; cuidado com substratos do QT",
+      "posologia": "100 mg VO 1x/dia até progressão da doença ou toxicidade inaceitável",
+      "armazenamento": "Temperatura ambiente, 15–30°C",
+      "preparo": "Não se aplica",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar QTc, eletrólitos, sinais de síndrome de diferenciação",
+      "cuidadosFarmaceuticos": "Orientar sobre sintomas de toxicidade hepática e diferenciação",
+      "cuidadosEnfermagem": "Observar febre, dispneia e edema (síndrome de diferenciação)",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Enasidenib",
+      "suspension": "Discontinue 5 days before surgery or invasive procedures",
+      "risk": "Risk of differentiation syndrome, hepatotoxicity, QT prolongation, and CYP3A4 drug interactions",
+      "reintroduction": "Restart once patient is clinically stable and syndrome resolves"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enasidenib",
+      "nomeComercial": "Idhifa",
+      "mecanismoAcao": "Selective inhibitor of mutant IDH2, reduces 2-HG production and promotes cellular differentiation",
+      "farmacocinetica": "Oral route, Tmax 4 h, t½ ~137 h, hepatic metabolism via CYP3A4",
+      "farmacodinamica": "Induces differentiation of leukemic cells with IDH2 mutation",
+      "indicacoes": "Relapsed or refractory AML with IDH2 mutation",
+      "reacoesAdversas": "Differentiation syndrome, hyperbilirubinemia, nausea, QT prolongation, leukocytosis",
+      "riscoGravidez": "Category D – known fetal risk",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral once daily, with or without food",
+      "doseMaxima": "100 mg/day",
+      "doseMinima": "Not applicable (fixed dose)",
+      "classificacao": "Mutant IDH2 inhibitor",
+      "apresentacao": "Tablets: 50 mg",
+      "interacaoMedicamento": "Avoid strong CYP3A4 modulators; caution with QT-prolonging drugs",
+      "posologia": "100 mg orally once daily until progression or unacceptable toxicity",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "None",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, hypersensitivity",
+      "cuidadosMedicos": "Monitor QTc, bilirubin, and signs of differentiation syndrome",
+      "cuidadosFarmaceuticos": "Educate about symptoms of liver injury and differentiation",
+      "cuidadosEnfermagem": "Monitor for fever, hypoxia, pulmonary infiltrates",
+      "fontesBibliograficas": "FDA, UpToDate, NCCN, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Enasidenib",
+      "suspension": "Suspender 5 días antes de cirugía o procedimientos invasivos",
+      "risk": "Síndrome de diferenciación, toxicidad hepática, prolongación de QT, interacciones CYP3A4",
+      "reintroduction": "Reintroducir tras estabilización clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enasidenib",
+      "nomeComercial": "Idhifa",
+      "mecanismoAcao": "Inhibidor selectivo de IDH2 mutado, reduce 2-HG y promueve diferenciación celular",
+      "farmacocinetica": "Vía oral, Tmax 4 h, t½ ~137 h, metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Induce diferenciación de células leucémicas con mutación IDH2",
+      "indicacoes": "LMA recidivante o refractaria con mutación IDH2",
+      "reacoesAdversas": "Síndrome de diferenciación, hiperbilirrubinemia, náuseas, leucocitosis, QT largo",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral, 1 vez al día",
+      "doseMaxima": "100 mg/día",
+      "doseMinima": "No aplicable (dosis fija)",
+      "classificacao": "Inhibidor de IDH2 mutado",
+      "apresentacao": "Comprimidos de 50 mg",
+      "interacaoMedicamento": "Evitar inductores/inhibidores fuertes de CYP3A4",
+      "posologia": "100 mg/día hasta progresión o toxicidad",
+      "armazenamento": "15–30°C",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear QT, enzimas hepáticas, signos de diferenciación",
+      "cuidadosFarmaceuticos": "Informar sobre toxicidad hepática y síntomas respiratorios",
+      "cuidadosEnfermagem": "Observar fiebre, disnea, infiltrados pulmonares",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伊达西尼",
+      "suspension": "术前5天停药，尤其为侵入性操作或全麻手术",
+      "risk": "可能引发分化综合征、肝毒性、QT延长，与CYP3A4药物相互作用",
+      "reintroduction": "症状缓解、临床稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伊达西尼",
+      "nomeComercial": "Idhifa",
+      "mecanismoAcao": "选择性抑制IDH2突变酶，阻断2-HG生成，促进白血病细胞分化",
+      "farmacocinetica": "口服吸收良好，Tmax约4小时，半衰期约137小时，经CYP3A4代谢",
+      "farmacodinamica": "促进IDH2突变白血病细胞分化并终止异常增殖",
+      "indicacoes": "IDH2突变的复发或难治性急性髓性白血病",
+      "reacoesAdversas": "分化综合征、高胆红素血症、QT延长、恶心、发热、肺浸润",
+      "riscoGravidez": "D类 – 有明确胎儿风险",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服，每日一次",
+      "doseMaxima": "100毫克/天",
+      "doseMinima": "固定剂量方案，无低于剂量",
+      "classificacao": "IDH2突变酶抑制剂",
+      "apresentacao": "片剂50毫克",
+      "interacaoMedicamento": "避免CYP3A4强抑制剂或诱导剂合用，慎用QT延长药",
+      "posologia": "每日100毫克，直至疾病进展或不可耐受毒性",
+      "armazenamento": "15–30°C避光储存",
+      "preparo": "无需特殊处理",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳期、已知过敏史",
+      "cuidadosMedicos": "监测QT、肝功能、电解质及分化综合征体征",
+      "cuidadosFarmaceuticos": "提示患者注意呼吸症状、黄疸、发热等表现",
+      "cuidadosEnfermagem": "关注分化综合征相关体征，支持性处理",
+      "fontesBibliograficas": "FDA、Micromedex、UpToDate、中国药典"
+    }
+  }
+}

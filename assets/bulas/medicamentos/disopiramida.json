@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Disopiramida",
+      "suspension": "Suspender 5 dias antes de cirurgias eletivas, especialmente cardíacas",
+      "risk": "Pode causar bloqueios atrioventriculares, prolongamento do intervalo QT, hipotensão e retenção urinária perioperatória",
+      "reintroduction": "Reintroduzir apenas após estabilização hemodinâmica e eletrocardiográfica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Disopiramida",
+      "nomeComercial": "Rythmodan",
+      "mecanismoAcao": "Bloqueador dos canais de sódio (Classe IA de Vaughan-Williams); reduz a condução e prolonga o potencial de ação cardíaco",
+      "farmacocinetica": "Boa biodisponibilidade oral; meia-vida 6–8 h; excreção renal e hepática",
+      "farmacodinamica": "Ação antiarrítmica potente em taquiarritmias ventriculares e supraventriculares",
+      "indicacoes": "Arritmias ventriculares sintomáticas, taquicardia supraventricular paroxística, cardiomiopatia hipertrófica obstrutiva (off-label)",
+      "reacoesAdversas": "Boca seca, visão turva, retenção urinária, constipação, prolongamento QT, torsades de pointes, hipotensão",
+      "riscoGravidez": "Categoria C – usar apenas se necessário",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "800 mg/dia",
+      "doseMinima": "100 mg/dia",
+      "classificacao": "Antiarrítmico classe IA",
+      "apresentacao": "Cápsulas 100 mg; solução injetável 2 mg/mL",
+      "interacaoMedicamento": "Interage com outros antiarrítmicos, inibidores da colinesterase, fármacos que prolongam QT",
+      "posologia": "100–200 mg VO 3x/dia ou 2 mg/kg IV lento",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "IV: diluir em SF 0,9% para infusão lenta",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Bloqueio AV de 2º/3º grau sem marca-passo, insuficiência cardíaca descompensada, glaucoma de ângulo fechado",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos e função renal",
+      "cuidadosFarmaceuticos": "Conferir intervalo QT; evitar interações QT prolongadoras",
+      "cuidadosEnfermagem": "Monitorar PA, ritmo cardíaco e sintomas anticolinérgicos",
+      "fontesBibliograficas": "UpToDate, FDA, Micromedex, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Disopyramide",
+      "suspension": "Discontinue 5 days before elective surgery, especially cardiac procedures",
+      "risk": "May cause QT prolongation, AV block, hypotension, anticholinergic effects",
+      "reintroduction": "Restart after cardiac rhythm and hemodynamics stabilize"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Disopyramide",
+      "nomeComercial": "Norpace",
+      "mecanismoAcao": "Class IA antiarrhythmic; sodium channel blocker that slows conduction and prolongs action potential",
+      "farmacocinetica": "Oral bioavailability ~80%; half-life 6–8 h; hepatic metabolism, renal clearance",
+      "farmacodinamica": "Suppresses ventricular and atrial arrhythmias",
+      "indicacoes": "Ventricular arrhythmias, SVT, hypertrophic cardiomyopathy (off-label)",
+      "reacoesAdversas": "Dry mouth, blurry vision, urinary retention, QT prolongation, torsades, hypotension",
+      "riscoGravidez": "Category C – use only if necessary",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral or IV",
+      "doseMaxima": "800 mg/day",
+      "doseMinima": "100 mg/day",
+      "classificacao": "Class IA antiarrhythmic",
+      "apresentacao": "Capsules 100 mg; IV solution 2 mg/mL",
+      "interacaoMedicamento": "Avoid with QT-prolonging agents, CYP3A4 inhibitors",
+      "posologia": "100–200 mg PO TID or 2 mg/kg IV",
+      "armazenamento": "Room temperature",
+      "preparo": "IV: dilute in NS for slow infusion",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "AV block without pacemaker, decompensated heart failure, glaucoma",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, renal function",
+      "cuidadosFarmaceuticos": "Check QT interval and drug interactions",
+      "cuidadosEnfermagem": "Watch for cardiac rhythm, hypotension, anticholinergic effects",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Disopiramida",
+      "suspension": "Suspender 5 días antes de cirugía, especialmente cardíaca",
+      "risk": "Prolongación del QT, bloqueo AV, hipotensión, retención urinaria",
+      "reintroduction": "Reiniciar tras estabilidad hemodinámica y del ritmo cardíaco"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Disopiramida",
+      "nomeComercial": "Rythmodan",
+      "mecanismoAcao": "Antiarrítmico clase IA que bloquea canales de sodio",
+      "farmacocinetica": "Buena absorción oral; t½ 6–8 h; excreción renal/hepática",
+      "farmacodinamica": "Disminuye conducción y prolonga repolarización",
+      "indicacoes": "Arritmias ventriculares, TSVP, miocardiopatía hipertrófica (uso no aprobado)",
+      "reacoesAdversas": "Boca seca, visión borrosa, retención urinaria, torsades de pointes",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Oral o IV",
+      "doseMaxima": "800 mg/día",
+      "doseMinima": "100 mg/día",
+      "classificacao": "Antiarrítmico clase IA",
+      "apresentacao": "Cápsulas 100 mg, solución 2 mg/mL",
+      "interacaoMedicamento": "QT prolongado con otros fármacos similares",
+      "posologia": "100–200 mg VO 3x/día o 2 mg/kg IV lento",
+      "armazenamento": "Ambiente",
+      "preparo": "Diluir en SF para IV",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Bloqueo AV, IC descompensada, glaucoma",
+      "cuidadosMedicos": "Monitoreo ECG, electrólitos, función renal",
+      "cuidadosFarmaceuticos": "Evitar combinaciones QT prolongadoras",
+      "cuidadosEnfermagem": "Control PA, ritmo, síntomas anticolinérgicos",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "丙吡胺（Disopyramide）",
+      "suspension": "术前5天停药，尤其心脏手术",
+      "risk": "QT延长、房室传导阻滞、低血压、抗胆碱作用",
+      "reintroduction": "术后心电稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "丙吡胺",
+      "nomeComercial": "Rythmodan",
+      "mecanismoAcao": "IA类抗心律失常药，阻断钠通道，延长动作电位",
+      "farmacocinetica": "口服吸收好，半衰期6–8小时，肝肾代谢",
+      "farmacodinamica": "抑制心肌快速传导系统，适用于室性与房性心律失常",
+      "indicacoes": "室性心律失常、阵发性上室性心动过速、肥厚型心肌病（非标签用途）",
+      "reacoesAdversas": "口干、视物模糊、排尿困难、QT延长、尖端扭转型室速、低血压",
+      "riscoGravidez": "C类，仅在必要时使用",
+      "riscoLactacao": "不推荐",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日800毫克",
+      "doseMinima": "每日100毫克",
+      "classificacao": "IA类抗心律失常药",
+      "apresentacao": "胶囊100 mg；注射液2 mg/mL",
+      "interacaoMedicamento": "与QT延长药、CYP3A4抑制剂联用风险升高",
+      "posologia": "100–200 mg每日3次，或2 mg/kg静注缓慢滴注",
+      "armazenamento": "室温保存",
+      "preparo": "IV用0.9%氯化钠稀释",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "无起搏器的房室传导阻滞、失代偿心衰、闭角型青光眼",
+      "cuidadosMedicos": "监测QT、肾功能、电解质",
+      "cuidadosFarmaceuticos": "注意QT延长风险与相互作用",
+      "cuidadosEnfermagem": "观察血压、心电图与抗胆碱副作用",
+      "fontesBibliograficas": "FDA、UpToDate、Micromedex、中国药典"
+    }
+  }
+}

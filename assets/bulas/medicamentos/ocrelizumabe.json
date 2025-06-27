@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ocrelizumabe",
+      "suspension": "Não suspender sem avaliação médica – imunobiológico de uso contínuo",
+      "risk": "Infecções oportunistas, reações infusionais, hepatite B reativada, neoplasias",
+      "reintroduction": "Reintroduzir com monitoramento imunológico, hepático e avaliação de risco-benefício"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ocrelizumabe",
+      "nomeComercial": "Ocrevus",
+      "mecanismoAcao": "Anticorpo monoclonal anti-CD20; depleta linfócitos B, reduz inflamação neuroimune",
+      "farmacocinetica": "Meia-vida 26 dias, depuração não linear; administração IV sem metabolismo hepático significativo",
+      "farmacodinamica": "Modula a atividade imunológica na esclerose múltipla e reduz lesão medular progressiva",
+      "indicacoes": "Esclerose múltipla primariamente progressiva (EMPP) e remitente-recorrente (EMRR)",
+      "reacoesAdversas": "Reações infusionais, infecção respiratória, herpes, prurido, hipotensão, neoplasias",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; evitar uso durante amamentação",
+      "administracao": "Intravenosa (infusão lenta)",
+      "doseMaxima": "600 mg a cada 6 meses",
+      "doseMinima": "300 mg em infusões iniciais (dias 1 e 15)",
+      "classificacao": "Anticorpo monoclonal anti-CD20",
+      "apresentacao": "Frascos-ampola 300 mg/10 mL (30 mg/mL)",
+      "interacaoMedicamento": "Evitar imunossupressores concomitantes; risco aumentado com vacinas vivas",
+      "posologia": "300 mg IV dia 1 + 300 mg IV dia 15 (dose inicial); 600 mg IV a cada 6 meses (manutenção)",
+      "armazenamento": "Refrigerado (2–8°C), não congelar, proteger da luz",
+      "preparo": "Diluir em 250 mL de SF 0,9%; infundir lentamente (2,5–3,5h)",
+      "solucoesCompatíveis": "SF 0,9% somente",
+      "contraindicacoes": "Infecção ativa, hepatite B crônica, hipersensibilidade grave prévia",
+      "cuidadosMedicos": "Monitorar sinais vitais durante a infusão e status infeccioso entre os ciclos",
+      "cuidadosFarmaceuticos": "Reconstituir em ambiente controlado; uso hospitalar exclusivo",
+      "cuidadosEnfermagem": "Observar reações infusionais e sinais de infecção latente ou ativa",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ocrelizumab",
+      "suspension": "Do not discontinue without medical supervision – long-term immunotherapy",
+      "risk": "Infusion reactions, infections, hepatitis B reactivation, potential malignancy",
+      "reintroduction": "Restart with full immune and hepatic monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ocrelizumab",
+      "nomeComercial": "Ocrevus",
+      "mecanismoAcao": "Anti-CD20 monoclonal antibody; depletes B cells, reducing neuroinflammation",
+      "farmacocinetica": "Half-life ~26 days; IV route; nonlinear clearance",
+      "farmacodinamica": "Immunomodulation for relapsing and progressive multiple sclerosis; reduces disease activity",
+      "indicacoes": "Primary progressive and relapsing-remitting multiple sclerosis",
+      "reacoesAdversas": "Infusion reactions, URI, herpes infections, pruritus, neoplasia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; avoid during breastfeeding",
+      "administracao": "Intravenous",
+      "doseMaxima": "600 mg every 6 months",
+      "doseMinima": "300 mg IV on days 1 and 15 (initiation)",
+      "classificacao": "Anti-CD20 monoclonal antibody",
+      "apresentacao": "300 mg/10 mL vials (30 mg/mL)",
+      "interacaoMedicamento": "Avoid live vaccines and concurrent immunosuppressants",
+      "posologia": "300 mg day 1 + 300 mg day 15 (initial); 600 mg IV every 6 months",
+      "armazenamento": "2–8°C; do not freeze or shake; protect from light",
+      "preparo": "Dilute in 250 mL 0.9% NaCl; infuse over 2.5–3.5 hours",
+      "solucoesCompatíveis": "0.9% NaCl only",
+      "contraindicacoes": "Active infection, chronic HBV, prior severe hypersensitivity",
+      "cuidadosMedicos": "Monitor vitals during infusion and immune function between doses",
+      "cuidadosFarmaceuticos": "Hospital use only; reconstitute in sterile conditions",
+      "cuidadosEnfermagem": "Observe for infusion reactions and latent infections",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ocrelizumab",
+      "suspension": "No suspender sin evaluación médica – inmunoterapia prolongada",
+      "risk": "Reacciones por infusión, infecciones, reactivación de hepatitis B, neoplasias",
+      "reintroduction": "Reintroducir con control inmunológico y hepático"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ocrelizumab",
+      "nomeComercial": "Ocrevus",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-CD20; reduce linfocitos B e inflamación",
+      "farmacocinetica": "Vida media ~26 días, administración IV, depuración no lineal",
+      "farmacodinamica": "Inmunomodulador para EM remitente y progresiva; reduce actividad de la enfermedad",
+      "indicacoes": "Esclerosis múltiple primaria progresiva y remitente-recurrente",
+      "reacoesAdversas": "Reacción infusional, infecciones respiratorias, herpes, prurito, tumores",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante lactancia",
+      "administracao": "Intravenosa",
+      "doseMaxima": "600 mg cada 6 meses",
+      "doseMinima": "300 mg días 1 y 15 (inicio)",
+      "classificacao": "Anticuerpo monoclonal anti-CD20",
+      "apresentacao": "Vial 300 mg/10 mL (30 mg/mL)",
+      "interacaoMedicamento": "Evitar vacunas vivas e inmunosupresores simultáneos",
+      "posologia": "300 mg día 1 + 300 mg día 15; mantenimiento 600 mg IV cada 6 meses",
+      "armazenamento": "2–8°C, proteger de la luz, no congelar ni agitar",
+      "preparo": "Diluir en 250 mL de SF 0,9%; infundir durante 2.5–3.5h",
+      "solucoesCompatíveis": "Solo SF 0,9%",
+      "contraindicacoes": "Infección activa, hepatitis B crónica, hipersensibilidad grave previa",
+      "cuidadosMedicos": "Monitorear constantes y función inmunológica",
+      "cuidadosFarmaceuticos": "Uso hospitalario; preparación bajo condiciones asépticas",
+      "cuidadosEnfermagem": "Observar reacciones a la infusión e infecciones latentes",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥克利珠单抗",
+      "suspension": "不可自行停药——长期免疫治疗方案必须医生指导下调整",
+      "risk": "输液反应、感染、乙肝再激活、潜在肿瘤风险",
+      "reintroduction": "如需重新开始治疗，应进行免疫和肝功能评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥克利珠单抗",
+      "nomeComercial": "Ocrevus",
+      "mecanismoAcao": "抗CD20单克隆抗体，靶向B淋巴细胞，减少神经系统炎症",
+      "farmacocinetica": "半衰期约26天，静脉给药，清除呈非线性",
+      "farmacodinamica": "用于缓解型与原发进展型多发性硬化症，降低疾病活跃度",
+      "indicacoes": "原发性进展型与复发-缓解型多发性硬化症",
+      "reacoesAdversas": "输液反应、上呼吸道感染、疱疹、瘙痒、肿瘤",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不建议哺乳期使用",
+      "administracao": "静脉注射",
+      "doseMaxima": "每6个月600毫克",
+      "doseMinima": "首次：第1天和第15天各300毫克",
+      "classificacao": "抗CD20单克隆抗体",
+      "apresentacao": "300 mg/10 mL 注射用瓶（30 mg/mL）",
+      "interacaoMedicamento": "避免使用活疫苗或联合其他免疫抑制剂",
+      "posologia": "初始：300mg第1天+第15天；维持：每6个月600mg IV",
+      "armazenamento": "2–8°C冷藏，避光，不可冷冻或摇晃",
+      "preparo": "用250mL 0.9%氯化钠稀释，缓慢静滴2.5–3.5小时",
+      "solucoesCompatíveis": "仅限0.9%氯化钠",
+      "contraindicacoes": "活动性感染、慢性乙肝感染、既往严重过敏反应",
+      "cuidadosMedicos": "输注期间监测生命体征与免疫状态",
+      "cuidadosFarmaceuticos": "医院专用药，需在无菌环境下配制",
+      "cuidadosEnfermagem": "监测过敏反应及潜伏感染表现",
+      "fontesBibliograficas": "NMPA, WHO, FDA, EMA, Micromedex"
+    }
+  }
+}

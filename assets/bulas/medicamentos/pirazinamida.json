@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pirazinamida",
+      "suspension": "Suspender 1 dia antes da cirurgia eletiva",
+      "risk": "Potencial hepatotoxicidade e interação com anestésicos metabolizados no fígado",
+      "reintroduction": "Reintroduzir após normalização das enzimas hepáticas e avaliação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pirazinamida",
+      "nomeComercial": "PZA, Tebrazid",
+      "mecanismoAcao": "Interfere na síntese de ácidos micólicos da parede celular do Mycobacterium tuberculosis",
+      "farmacocinetica": "Boa absorção oral, metabolizada no fígado, excreção renal",
+      "farmacodinamica": "Atividade bactericida contra Mycobacterium tuberculosis em meio ácido",
+      "indicacoes": "Tratamento da tuberculose em combinação com outros fármacos",
+      "reacoesAdversas": "Hepatotoxicidade, hiperuricemia, artralgia, erupções cutâneas",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Pode ser excretada no leite materno, uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "2 g/dia",
+      "doseMinima": "15 mg/kg/dia",
+      "classificacao": "Antituberculoso",
+      "apresentacao": "Comprimidos de 500 mg",
+      "interacaoMedicamento": "Aumenta risco de toxicidade hepática com rifampicina, anestésicos halogenados",
+      "posologia": "15–30 mg/kg/dia em dose única diária ou dividida",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hepatite aguda, insuficiência hepática grave, gota ativa",
+      "cuidadosMedicos": "Monitorar função hepática e ácido úrico",
+      "cuidadosFarmaceuticos": "Avaliar duplicidade terapêutica e hepatotoxicidade combinada",
+      "cuidadosEnfermagem": "Observar sinais de hepatite, dor articular e alteração no humor",
+      "fontesBibliograficas": "SBMT, WHO, FDA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pyrazinamide",
+      "suspension": "Suspend 1 day before elective surgery",
+      "risk": "Risk of hepatotoxicity and interaction with liver-metabolized anesthetics",
+      "reintroduction": "Reintroduce after liver enzyme normalization and clinical evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pyrazinamide",
+      "nomeComercial": "PZA, Tebrazid",
+      "mecanismoAcao": "Disrupts mycolic acid synthesis in Mycobacterium tuberculosis",
+      "farmacocinetica": "Well absorbed orally, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Bactericidal in acidic environments against M. tuberculosis",
+      "indicacoes": "Tuberculosis treatment in combination regimens",
+      "reacoesAdversas": "Liver toxicity, hyperuricemia, joint pain, skin rashes",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk, use with caution",
+      "administracao": "Oral route",
+      "doseMaxima": "2 g/day",
+      "doseMinima": "15 mg/kg/day",
+      "classificacao": "Antitubercular agent",
+      "apresentacao": "500 mg tablets",
+      "interacaoMedicamento": "Increased hepatic toxicity with rifampin and inhaled anesthetics",
+      "posologia": "15–30 mg/kg/day once daily or in divided doses",
+      "armazenamento": "Store at room temperature, protect from moisture",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active hepatitis, severe liver failure, active gout",
+      "cuidadosMedicos": "Monitor liver enzymes and uric acid",
+      "cuidadosFarmaceuticos": "Check for overlapping hepatotoxic agents",
+      "cuidadosEnfermagem": "Observe for hepatitis signs, joint pain, mood changes",
+      "fontesBibliograficas": "WHO, CDC, FDA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pirazinamida",
+      "suspension": "Suspender 1 día antes de cirugía electiva",
+      "risk": "Riesgo de hepatotoxicidad e interacción con anestésicos metabolizados hepáticamente",
+      "reintroduction": "Reintroducir tras normalización de enzimas hepáticas y evaluación médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pirazinamida",
+      "nomeComercial": "PZA, Tebrazid",
+      "mecanismoAcao": "Inhibe la síntesis de ácidos micólicos en M. tuberculosis",
+      "farmacocinetica": "Buena absorción oral, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Actividad bactericida en medios ácidos contra M. tuberculosis",
+      "indicacoes": "Tuberculosis en combinación con otros fármacos",
+      "reacoesAdversas": "Hepatotoxicidad, hiperuricemia, artralgia, erupciones cutáneas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en la leche materna, uso con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "2 g/día",
+      "doseMinima": "15 mg/kg/día",
+      "classificacao": "Antituberculoso",
+      "apresentacao": "Comprimidos de 500 mg",
+      "interacaoMedicamento": "Aumenta toxicidad hepática con rifampicina, anestésicos halogenados",
+      "posologia": "15–30 mg/kg/día en dosis única o dividida",
+      "armazenamento": "Almacenar a temperatura ambiente, protegido de humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatitis activa, insuficiencia hepática grave, gota activa",
+      "cuidadosMedicos": "Monitorear función hepática y ácido úrico",
+      "cuidadosFarmaceuticos": "Evitar combinación con fármacos hepatotóxicos",
+      "cuidadosEnfermagem": "Observar signos de hepatitis, dolor articular, alteraciones emocionales",
+      "fontesBibliograficas": "OMS, Micromedex, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "吡嗪酰胺",
+      "suspension": "择期手术前1天停药",
+      "risk": "可能引起肝毒性，与肝代谢麻醉药有相互作用",
+      "reintroduction": "肝酶恢复正常后在医生评估下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "吡嗪酰胺",
+      "nomeComercial": "PZA, 泰比嗪",
+      "mecanismoAcao": "干扰结核分枝杆菌细胞壁合成",
+      "farmacocinetica": "口服吸收良好，肝脏代谢，肾脏排泄",
+      "farmacodinamica": "在酸性环境下具杀菌作用",
+      "indicacoes": "与其他药物联合治疗结核病",
+      "reacoesAdversas": "肝毒性、高尿酸血症、关节痛、皮疹",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日2克",
+      "doseMinima": "每日15毫克/公斤体重",
+      "classificacao": "抗结核药",
+      "apresentacao": "500毫克片剂",
+      "interacaoMedicamento": "与利福平、麻醉药联用可增加肝毒性",
+      "posologia": "每日15–30毫克/公斤，单次或分次服用",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肝炎、严重肝功能不全、活动性痛风",
+      "cuidadosMedicos": "监测肝功能和尿酸水平",
+      "cuidadosFarmaceuticos": "避免与其他肝毒性药物合用",
+      "cuidadosEnfermagem": "观察肝炎症状、关节疼痛和情绪变化",
+      "fontesBibliograficas": "WHO, 中国药典, Micromedex, FDA"
+    }
+  }
+}

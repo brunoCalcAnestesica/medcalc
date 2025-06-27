@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Repaglinida",
+      "suspension": "Interromper temporariamente antes de procedimentos que possam reduzir a ingestão alimentar ou aumentar o risco de hipoglicemia.",
+      "risk": "Risco de hipoglicemia, especialmente em associação com outros antidiabéticos.",
+      "reintroduction": "Reintroduzir com cautela após resolução do fator de risco, ajustando a dose conforme necessário."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Repaglinida",
+      "nomeComercial": "Novonorm, Prandin",
+      "mecanismoAcao": "Estimula a liberação de insulina pelas células beta pancreáticas, agindo como um modulador rápido dos canais de potássio ATP-dependentes.",
+      "farmacocinetica": "Absorção rápida após administração oral, pico plasmático em 0,5-1 hora. Metabolismo hepático (CYP3A4, CYP2C8), meia-vida de eliminação curta (~1 hora). Excreção principalmente via bile.",
+      "farmacodinamica": "Reduz a glicemia pós-prandial ao promover secreção rápida e transitória de insulina. O efeito depende da presença de glicose.",
+      "indicacoes": "Tratamento do diabetes mellitus tipo 2 em adultos, especialmente quando a hiperglicemia não é controlada apenas com dieta e exercício.",
+      "reacoesAdversas": "Hipoglicemia, dor abdominal, diarreia, náusea, constipação, aumento das enzimas hepáticas, reações alérgicas cutâneas.",
+      "riscoGravidez": "Categoria C. Não recomendado durante a gravidez devido à ausência de estudos adequados em humanos.",
+      "riscoLactacao": "Desconhece-se se é excretada no leite materno. Uso não recomendado durante a amamentação.",
+      "administracao": "Via oral, 15-30 minutos antes das refeições.",
+      "doseMaxima": "16 mg/dia.",
+      "doseMinima": "0,5 mg antes das refeições.",
+      "classificacao": "Antidiabético oral, derivado das meglitinidas.",
+      "apresentacao": "Comprimidos de 0,5 mg, 1 mg e 2 mg.",
+      "interacaoMedicamento": "Potencializa hipoglicemia com outros antidiabéticos; interação com gemfibrozila, claritromicina, ciclosporina, rifampicina e inibidores/indutores do CYP3A4/CYP2C8.",
+      "posologia": "Iniciar com 0,5-1 mg antes das refeições principais. Ajustar conforme resposta glicêmica. Máximo de 4 mg por dose.",
+      "armazenamento": "Conservar em temperatura ambiente (15–30°C), protegido da luz e umidade.",
+      "preparo": "Não requer preparo especial. Administrar inteiro, sem mastigar ou partir.",
+      "solucoesCompatíveis": "Não aplicável, uso oral em comprimidos.",
+      "contraindicacoes": "Diabetes tipo 1, cetoacidose diabética, hipersensibilidade à repaglinida ou excipientes da fórmula, uso concomitante com gemfibrozila.",
+      "cuidadosMedicos": "Monitorar glicemia capilar, ajustar dose em insuficiência hepática, orientar sobre sintomas de hipoglicemia.",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão ao tratamento, armazenar adequadamente, evitar uso após vencimento.",
+      "cuidadosEnfermagem": "Administrar próximo às refeições, observar sinais de hipoglicemia, reforçar educação em saúde.",
+      "fontesBibliograficas": "BRASIL. Bula do produto Novonorm (ANVISA). Micromedex. UpToDate. Goodman & Gilman: As Bases Farmacológicas da Terapêutica."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Repaglinide",
+      "suspension": "Temporarily discontinue before procedures that limit oral intake or increase hypoglycemia risk.",
+      "risk": "Risk of hypoglycemia, especially when combined with other antidiabetics.",
+      "reintroduction": "Reintroduce cautiously after risk factors resolve, titrating dose as needed."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Repaglinide",
+      "nomeComercial": "Prandin",
+      "mecanismoAcao": "Stimulates insulin release from pancreatic beta cells by modulating ATP-dependent potassium channels.",
+      "farmacocinetica": "Rapid oral absorption, peak plasma in 0.5-1 hour. Hepatic metabolism (CYP3A4, CYP2C8), short elimination half-life (~1 hour). Excreted mainly in bile.",
+      "farmacodinamica": "Lowers postprandial glucose by inducing rapid, short-acting insulin secretion. Effect is glucose-dependent.",
+      "indicacoes": "Type 2 diabetes mellitus in adults, particularly when hyperglycemia is not controlled by diet and exercise alone.",
+      "reacoesAdversas": "Hypoglycemia, abdominal pain, diarrhea, nausea, constipation, elevated liver enzymes, allergic skin reactions.",
+      "riscoGravidez": "Pregnancy Category C. Not recommended due to lack of adequate human studies.",
+      "riscoLactacao": "Unknown if excreted in breast milk. Not recommended during breastfeeding.",
+      "administracao": "Oral, 15-30 minutes before meals.",
+      "doseMaxima": "16 mg/day.",
+      "doseMinima": "0.5 mg before meals.",
+      "classificacao": "Oral antidiabetic, meglitinide derivative.",
+      "apresentacao": "Tablets of 0.5 mg, 1 mg, and 2 mg.",
+      "interacaoMedicamento": "Increased hypoglycemia risk with other antidiabetics; interacts with gemfibrozil, clarithromycin, cyclosporine, rifampin, and CYP3A4/CYP2C8 inhibitors/inducers.",
+      "posologia": "Start with 0.5-1 mg before main meals. Adjust based on glycemic response. Max 4 mg per dose.",
+      "armazenamento": "Store at room temperature (15–30°C), protected from light and moisture.",
+      "preparo": "No special preparation required. Swallow whole, do not chew or split.",
+      "solucoesCompatíveis": "Not applicable, oral tablet only.",
+      "contraindicacoes": "Type 1 diabetes, diabetic ketoacidosis, hypersensitivity to repaglinide or excipients, concomitant use with gemfibrozil.",
+      "cuidadosMedicos": "Monitor blood glucose, adjust dose in hepatic impairment, educate on hypoglycemia symptoms.",
+      "cuidadosFarmaceuticos": "Advise on adherence, proper storage, and not to use after expiration.",
+      "cuidadosEnfermagem": "Administer near meals, monitor for hypoglycemia, reinforce patient education.",
+      "fontesBibliograficas": "FDA Prandin label. Micromedex. UpToDate. Goodman & Gilman's The Pharmacological Basis of Therapeutics."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Repaglinida",
+      "suspension": "Suspender temporalmente antes de procedimientos que limiten la ingesta oral o aumenten el riesgo de hipoglucemia.",
+      "risk": "Riesgo de hipoglucemia, especialmente en combinación con otros antidiabéticos.",
+      "reintroduction": "Reintroducir con precaución tras resolver el factor de riesgo, ajustando la dosis según necesidad."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Repaglinida",
+      "nomeComercial": "Novonorm, Prandin",
+      "mecanismoAcao": "Estimula la liberación de insulina de las células beta pancreáticas modulando los canales de potasio dependientes de ATP.",
+      "farmacocinetica": "Rápida absorción oral, concentración máxima en plasma en 0,5-1 hora. Metabolismo hepático (CYP3A4, CYP2C8), vida media de eliminación corta (~1 hora). Excreción principalmente biliar.",
+      "farmacodinamica": "Reduce la glucosa posprandial al inducir una secreción rápida y transitoria de insulina. El efecto depende de la glucosa.",
+      "indicacoes": "Tratamiento de la diabetes mellitus tipo 2 en adultos, especialmente cuando la hiperglucemia no se controla solo con dieta y ejercicio.",
+      "reacoesAdversas": "Hipoglucemia, dolor abdominal, diarrea, náuseas, estreñimiento, aumento de enzimas hepáticas, reacciones alérgicas cutáneas.",
+      "riscoGravidez": "Categoría C. No recomendado durante el embarazo por falta de estudios adecuados en humanos.",
+      "riscoLactacao": "Se desconoce si se excreta en la leche materna. No recomendado durante la lactancia.",
+      "administracao": "Vía oral, 15-30 minutos antes de las comidas.",
+      "doseMaxima": "16 mg/día.",
+      "doseMinima": "0,5 mg antes de las comidas.",
+      "classificacao": "Antidiabético oral, derivado de las meglitinidas.",
+      "apresentacao": "Comprimidos de 0,5 mg, 1 mg y 2 mg.",
+      "interacaoMedicamento": "Potencia la hipoglucemia con otros antidiabéticos; interacción con gemfibrozilo, claritromicina, ciclosporina, rifampicina e inhibidores/inductores de CYP3A4/CYP2C8.",
+      "posologia": "Iniciar con 0,5-1 mg antes de las comidas principales. Ajustar según respuesta glucémica. Máximo 4 mg por dosis.",
+      "armazenamento": "Conservar a temperatura ambiente (15–30°C), protegido de la luz y la humedad.",
+      "preparo": "No requiere preparación especial. Administrar entero, sin masticar ni partir.",
+      "solucoesCompatíveis": "No aplicable, uso oral en comprimidos.",
+      "contraindicacoes": "Diabetes tipo 1, cetoacidosis diabética, hipersensibilidad a la repaglinida o excipientes, uso concomitante con gemfibrozilo.",
+      "cuidadosMedicos": "Monitorear glucemia, ajustar dosis en insuficiencia hepática, educar sobre síntomas de hipoglucemia.",
+      "cuidadosFarmaceuticos": "Orientar sobre adherencia, almacenamiento adecuado, evitar uso tras la fecha de caducidad.",
+      "cuidadosEnfermagem": "Administrar cerca de las comidas, observar signos de hipoglucemia, reforzar educación en salud.",
+      "fontesBibliograficas": "Bula de Novonorm (AEMPS, España). Micromedex. UpToDate. Goodman & Gilman."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "瑞格列奈",
+      "suspension": "在限制进食或增加低血糖风险的操作前暂时停用。",
+      "risk": "低血糖风险，尤其与其他降糖药联合使用时。",
+      "reintroduction": "在风险因素消除后谨慎重新引入，并根据需要调整剂量。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "瑞格列奈 (Repaglinide)",
+      "nomeComercial": "诺和龙 (Novonorm), Prandin",
+      "mecanismoAcao": "通过调节胰腺β细胞的ATP依赖性钾通道，促进胰岛素分泌。",
+      "farmacocinetica": "口服吸收快，血浆峰值在0.5-1小时。肝脏代谢（CYP3A4、CYP2C8），消除半衰期短（约1小时）。主要经胆汁排泄。",
+      "farmacodinamica": "通过快速、短暂地促进胰岛素分泌降低餐后血糖。作用依赖于葡萄糖存在。",
+      "indicacoes": "适用于成人2型糖尿病，尤其是单独饮食和运动控制不佳者。",
+      "reacoesAdversas": "低血糖、腹痛、腹泻、恶心、便秘、肝酶升高、皮肤过敏反应。",
+      "riscoGravidez": "妊娠C类。由于缺乏足够的人体研究，孕期不推荐使用。",
+      "riscoLactacao": "是否排泄至乳汁尚不明确。哺乳期不推荐使用。",
+      "administracao": "口服，餐前15-30分钟服用。",
+      "doseMaxima": "每日16毫克。",
+      "doseMinima": "每餐前0.5毫克。",
+      "classificacao": "口服降糖药，苯甲酸类（美格列奈类）衍生物。",
+      "apresentacao": "片剂：0.5毫克、1毫克、2毫克。",
+      "interacaoMedicamento": "与其他降糖药合用增加低血糖风险；与吉非贝齐、克拉霉素、环孢素、利福平及CYP3A4/CYP2C8抑制剂/诱导剂有相互作用。",
+      "posologia": "初始每餐前0.5-1毫克，根据血糖反应调整剂量。单次最大4毫克。",
+      "armazenamento": "室温（15–30°C）避光、防潮保存。",
+      "preparo": "无需特殊准备。整片吞服，不可咀嚼或掰开。",
+      "solucoesCompatíveis": "不适用，仅口服片剂。",
+      "contraindicacoes": "1型糖尿病、糖尿病酮症酸中毒、对瑞格列奈或辅料过敏、与吉非贝齐合用。",
+      "cuidadosMedicos": "监测血糖，肝功能不全时调整剂量，教育低血糖症状。",
+      "cuidadosFarmaceuticos": "指导依从性、正确保存、过期禁用。",
+      "cuidadosEnfermagem": "餐前服用，观察低血糖表现，加强健康教育。",
+      "fontesBibliograficas": "中国药典。Novonorm说明书（中国国家药监局）。Micromedex。UpToDate。Goodman & Gilman。"
+    }
+  }
+}

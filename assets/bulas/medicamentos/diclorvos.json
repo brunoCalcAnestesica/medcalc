@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Diclorvos",
+      "suspension": "Substância tóxica de uso agrícola – suspender imediatamente qualquer exposição humana",
+      "risk": "Altamente tóxico; inibição da acetilcolinesterase, levando a crises colinérgicas severas, convulsões, parada respiratória e morte",
+      "reintroduction": "Proibido para uso humano; não deve ser reintroduzido em nenhuma circunstância"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diclorvos (DDVP)",
+      "nomeComercial": "No-Pest, Vapona (nome agrícola)",
+      "mecanismoAcao": "Inibidor irreversível da acetilcolinesterase, acumulando acetilcolina nas sinapses",
+      "farmacocinetica": "Absorção dérmica, inalatória ou oral rápida; metabolização hepática",
+      "farmacodinamica": "Superestimulação colinérgica do sistema nervoso central e periférico",
+      "indicacoes": "Nenhuma – uso veterinário e agrícola apenas",
+      "reacoesAdversas": "Broncorreia, miose, convulsões, bradicardia, fasciculações, coma, morte",
+      "riscoGravidez": "Categoria X – abortivo, teratogênico",
+      "riscoLactacao": "Extremamente tóxico – proibido",
+      "administracao": "Acidental – geralmente por inalação, contato ou ingestão",
+      "doseMaxima": "Não aplicável – tóxico em qualquer dose para humanos",
+      "doseMinima": "Não aplicável",
+      "classificacao": "Organofosforado – pesticida altamente perigoso",
+      "apresentacao": "Líquido volátil, aerossol ou pastilhas agrícolas",
+      "interacaoMedicamento": "Contraindicado com depressores centrais, bloqueadores neuromusculares; antagonismo com atropina (terapêutico)",
+      "posologia": "Não aplicável",
+      "armazenamento": "Uso controlado em ambiente agrícola, sob EPI",
+      "preparo": "Não aplicável para humanos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Todas as formas de uso humano",
+      "cuidadosMedicos": "Suporte intensivo com atropina, oximes (pralidoxima), ventilação mecânica",
+      "cuidadosFarmaceuticos": "Produto de uso restrito; notificar vigilância sanitária em caso de intoxicação",
+      "cuidadosEnfermagem": "Monitorar função respiratória, neurológica e sinais colinérgicos",
+      "fontesBibliograficas": "ANVISA, WHO, Micromedex, CDC, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Dichlorvos",
+      "suspension": "Toxic pesticide – cease all human exposure immediately",
+      "risk": "Severe cholinergic crisis due to AChE inhibition: seizures, respiratory failure, death",
+      "reintroduction": "Banned from human use – never reintroduce"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dichlorvos (DDVP)",
+      "nomeComercial": "No-Pest Strips, Vapona",
+      "mecanismoAcao": "Irreversible acetylcholinesterase inhibitor causing ACh buildup",
+      "farmacocinetica": "Rapid absorption via inhalation, skin, or ingestion; hepatic metabolism",
+      "farmacodinamica": "Excessive cholinergic stimulation of CNS and peripheral nerves",
+      "indicacoes": "None – used only in agriculture and pest control",
+      "reacoesAdversas": "Salivation, bronchospasm, bradycardia, convulsions, paralysis, death",
+      "riscoGravidez": "Category X – teratogenic and abortifacient",
+      "riscoLactacao": "Highly toxic – contraindicated",
+      "administracao": "Accidental – mostly inhalational or dermal",
+      "doseMaxima": "Not applicable – toxic at any dose",
+      "doseMinima": "Not applicable",
+      "classificacao": "Organophosphate pesticide",
+      "apresentacao": "Liquid, aerosols, fumigant strips",
+      "interacaoMedicamento": "Avoid CNS depressants; treated with atropine and oximes",
+      "posologia": "Not applicable",
+      "armazenamento": "Restricted agricultural environments only",
+      "preparo": "Not for human preparation",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "All human use",
+      "cuidadosMedicos": "Atropine + pralidoxime, ICU care, ventilation support",
+      "cuidadosFarmaceuticos": "Do not dispense; report intoxications",
+      "cuidadosEnfermagem": "Monitor cholinergic symptoms and provide respiratory support",
+      "fontesBibliograficas": "CDC, WHO, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Diclorvos",
+      "suspension": "Sustancia tóxica – cesar toda exposición humana inmediatamente",
+      "risk": "Crisis colinérgica, paro respiratorio, convulsiones, muerte",
+      "reintroduction": "Prohibido – nunca reintroducir en humanos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diclorvos (DDVP)",
+      "nomeComercial": "Vapona, No-Pest",
+      "mecanismoAcao": "Inhibidor irreversible de la acetilcolinesterasa",
+      "farmacocinetica": "Absorción por piel, inhalación u oral; metabolismo hepático",
+      "farmacodinamica": "Estimulación colinérgica severa en SNC y SNP",
+      "indicacoes": "Ninguna – uso sólo agrícola/veterinario",
+      "reacoesAdversas": "Salivación, espasmos, colapso, coma, muerte",
+      "riscoGravidez": "Categoría X – teratógeno",
+      "riscoLactacao": "Altamente tóxico",
+      "administracao": "Accidental",
+      "doseMaxima": "No aplica",
+      "doseMinima": "No aplica",
+      "classificacao": "Plaguicida organofosforado",
+      "apresentacao": "Líquido, tiras fumigantes, aerosoles",
+      "interacaoMedicamento": "Tratamiento con atropina, evitar sedantes",
+      "posologia": "No aplicable",
+      "armazenamento": "Sólo en ambientes controlados",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Todo uso humano",
+      "cuidadosMedicos": "Atropina + pralidoxima; soporte UCI",
+      "cuidadosFarmaceuticos": "Reportar a autoridades sanitarias",
+      "cuidadosEnfermagem": "Soporte respiratorio y vigilancia neurológica",
+      "fontesBibliograficas": "OMS, CDC, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "敌敌畏（DDVP）",
+      "suspension": "一旦暴露即刻停止，属于高毒农药",
+      "risk": "胆碱危象、癫痫、呼吸衰竭、高致死率",
+      "reintroduction": "完全禁止用于人体"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "敌敌畏",
+      "nomeComercial": "Vapona, No-Pest",
+      "mecanismoAcao": "不可逆抑制乙酰胆碱酯酶，乙酰胆碱过量",
+      "farmacocinetica": "经皮、吸入、消化道迅速吸收，肝代谢",
+      "farmacodinamica": "胆碱能过度激活，危及生命",
+      "indicacoes": "无；为农业杀虫剂",
+      "reacoesAdversas": "流涎、支气管痉挛、癫痫、意识障碍、死亡",
+      "riscoGravidez": "X类，强致畸",
+      "riscoLactacao": "高毒，严禁使用",
+      "administracao": "意外暴露",
+      "doseMaxima": "无",
+      "doseMinima": "无",
+      "classificacao": "有机磷杀虫剂",
+      "apresentacao": "液体、熏蒸条",
+      "interacaoMedicamento": "与中枢抑制剂联用可致死；治疗用阿托品+复能剂",
+      "posologia": "不适用",
+      "armazenamento": "仅限农业控制环境中",
+      "preparo": "不适用于人",
+      "solucoesCompatíveis": "无",
+      "contraindicacoes": "所有人体用途",
+      "cuidadosMedicos": "阿托品+碘解磷定，呼吸支持",
+      "cuidadosFarmaceuticos": "应立即上报，不得调配",
+      "cuidadosEnfermagem": "监测胆碱样症状与支持治疗",
+      "fontesBibliograficas": "WHO、CDC、中国疾病预防控制中心、Micromedex"
+    }
+  }
+}

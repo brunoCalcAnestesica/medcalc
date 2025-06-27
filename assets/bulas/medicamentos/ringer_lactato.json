@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lactato de Ringer",
+      "suspension": "Não é necessário suspender; manter conforme necessidade hemodinâmica",
+      "risk": "Pode causar alcalose metabólica em uso prolongado; contraindicado em hipercalemia, insuficiência hepática grave e em associação com ceftriaxona em neonatos.",
+      "reintroduction": "Reintroduzir conforme avaliação volêmica, eletrólitos e função hepática. Indicado para reposição volêmica em cirurgias, trauma e sepse."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Solução de Ringer com Lactato",
+      "nomeComercial": "Ringer Lactato, Solução de Hartmann, Lactato Baxter",
+      "mecanismoAcao": "Reposição volêmica isotônica com eletrólitos e tampão (lactato convertido em bicarbonato no fígado)",
+      "farmacocinetica": "Distribuição rápida no espaço extracelular; lactato metabolizado no fígado",
+      "farmacodinamica": "Expansor plasmático isotônico que corrige acidose leve e hidrata tecidos",
+      "indicacoes": "Reposição volêmica, hipovolemia, queimaduras, trauma, choque, manutenção intraoperatória",
+      "reacoesAdversas": "Hipervolemia, hipocalemia, alcalose metabólica, edema pulmonar",
+      "riscoGravidez": "Categoria A",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Via intravenosa em infusão contínua",
+      "doseMaxima": "Individualizada conforme volemia e eletrólitos; volumes de 1000–3000 mL/dia são comuns",
+      "doseMinima": "250 mL em adultos para reposição inicial",
+      "classificacao": "Cristaloide isotônico – solução balanceada",
+      "apresentacao": "500 mL e 1000 mL em bolsa plástica com 130 mEq/L Na+, 109 mEq/L Cl−, 28 mEq/L lactato, 4 mEq/L K+, 3 mEq/L Ca++",
+      "interacaoMedicamento": "Incompatível com ceftriaxona (risco de precipitação); cautela com digitálicos e eletrólitos",
+      "posologia": "500–1000 mL IV inicial, ajustar conforme resposta clínica",
+      "armazenamento": "Temperatura ambiente; uso imediato após abertura",
+      "preparo": "Solução pronta para uso; administrar com equipo adequado",
+      "solucoesCompatíveis": "Não misturar com sangue, ceftriaxona ou soluções com fosfato",
+      "contraindicacoes": "Hipercalemia, insuficiência hepática grave, alcalose metabólica",
+      "cuidadosMedicos": "Monitorar eletrólitos, função hepática e status volêmico",
+      "cuidadosFarmaceuticos": "Verificar integridade da bolsa e prazo de validade",
+      "cuidadosEnfermagem": "Observar sinais de sobrecarga volêmica (edema, estertores)",
+      "fontesBibliograficas": "SBRAE, ANVISA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lactated Ringer’s Solution",
+      "suspension": "Not to be discontinued; used perioperatively as indicated",
+      "risk": "May cause metabolic alkalosis, hypervolemia, and hyperkalemia; contraindicated with ceftriaxone in neonates",
+      "reintroduction": "Restart based on volume status, electrolytes, and liver function. Used for resuscitation and perioperative fluids."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lactated Ringer's",
+      "nomeComercial": "Hartmann's Solution, LR, Baxter LR",
+      "mecanismoAcao": "Isotonic crystalloid with sodium, potassium, calcium, and lactate (converted to bicarbonate in liver)",
+      "farmacocinetica": "Rapidly distributed extracellularly; lactate metabolized hepatically",
+      "farmacodinamica": "Maintains intravascular volume and corrects mild acidosis",
+      "indicacoes": "Hypovolemia, surgery, trauma, burns, septic shock",
+      "reacoesAdversas": "Volume overload, electrolyte imbalance, metabolic alkalosis",
+      "riscoGravidez": "Category A",
+      "riscoLactacao": "Safe during breastfeeding",
+      "administracao": "Intravenous continuous infusion",
+      "doseMaxima": "Customized; typically 1–3 L/day",
+      "doseMinima": "250 mL bolus",
+      "classificacao": "Balanced isotonic crystalloid",
+      "apresentacao": "500/1000 mL bags (130 Na+, 109 Cl−, 28 lactate, 4 K+, 3 Ca++)",
+      "interacaoMedicamento": "Do not mix with ceftriaxone (precipitation risk), phosphate or blood products",
+      "posologia": "500–1000 mL bolus, then per clinical needs",
+      "armazenamento": "Room temperature; single-use",
+      "preparo": "Ready-to-use; IV administration",
+      "solucoesCompatíveis": "NS, D5W; avoid phosphate and ceftriaxone",
+      "contraindicacoes": "Hyperkalemia, liver failure, alkalosis",
+      "cuidadosMedicos": "Monitor labs and fluid status",
+      "cuidadosFarmaceuticos": "Check bag integrity and compatibility",
+      "cuidadosEnfermagem": "Watch for fluid overload (edema, crackles)",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ringer Lactato",
+      "suspension": "No se suspende; es parte de la reanimación y mantenimiento perioperatorio",
+      "risk": "Puede causar alcalosis, hipervolemia, hiperkalemia; contraindicado con ceftriaxona en neonatos",
+      "reintroduction": "Reanudar según balance hídrico y electrólitos; útil en shock y cirugía"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ringer Lactato",
+      "nomeComercial": "Solución Hartmann, Lactato de Ringer",
+      "mecanismoAcao": "Solución cristaloide isotónica con sodio, potasio, calcio y lactato",
+      "farmacocinetica": "Distribución extracelular rápida; metabolismo hepático del lactato",
+      "farmacodinamica": "Expansor plasmático, corrige acidosis leve",
+      "indicacoes": "Hipovolemia, cirugía, trauma, quemaduras",
+      "reacoesAdversas": "Sobrecarga de volumen, alcalosis, hiperkalemia",
+      "riscoGravidez": "Categoría A",
+      "riscoLactacao": "Compatible",
+      "administracao": "Intravenosa continua",
+      "doseMaxima": "Variable; común 1–3 litros/día",
+      "doseMinima": "250 mL",
+      "classificacao": "Cristaloide balanceado isotónico",
+      "apresentacao": "Bolsas de 500/1000 mL (130 Na+, 109 Cl−, 28 lactato, 4 K+, 3 Ca++)",
+      "interacaoMedicamento": "Incompatible con ceftriaxona, fosfato, hemoderivados",
+      "posologia": "500–1000 mL inicial; ajustar según respuesta clínica",
+      "armazenamento": "Ambiente; usar após abertura",
+      "preparo": "Uso directo IV",
+      "solucoesCompatíveis": "Sodio, glucosa; evitar fosfato/ceftriaxona",
+      "contraindicacoes": "Hiperkalemia, hepatopatía severa, alcalosis",
+      "cuidadosMedicos": "Monitorear electrólitos y volemia",
+      "cuidadosFarmaceuticos": "Verificar integridad y compatibilidad",
+      "cuidadosEnfermagem": "Vigilar sobrecarga de volumen",
+      "fontesBibliograficas": "AEMPS, EMA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乳酸林格液",
+      "suspension": "术前无需停药；用于围术期液体复苏和维持",
+      "risk": "长期或快速输注可致碱中毒、高钾、容量负荷过重",
+      "reintroduction": "术后根据容量状态、肝功能及电解质监测情况重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乳酸林格液",
+      "nomeComercial": "Ringer乳酸注射液，Hartmann氏液",
+      "mecanismoAcao": "平衡型等渗晶体液；乳酸在肝转为碳酸氢盐参与缓冲",
+      "farmacocinetica": "分布于细胞外液，乳酸在肝代谢，肾排泄",
+      "farmacodinamica": "维持血容量，纠正轻度酸中毒，补充电解质",
+      "indicacoes": "失血、烧伤、感染性休克、围手术期液体管理",
+      "reacoesAdversas": "容量负荷、代谢性碱中毒、高钾、高钙",
+      "riscoGravidez": "A类",
+      "riscoLactacao": "哺乳期可安全使用",
+      "administracao": "静脉持续输注",
+      "doseMaxima": "依据病情；常用量每日1–3升",
+      "doseMinima": "250毫升",
+      "classificacao": "等渗晶体补液液",
+      "apresentacao": "500/1000 mL袋装：130钠，109氯，28乳酸，4钾，3钙",
+      "interacaoMedicamento": "禁与头孢曲松、磷酸盐、输血混合",
+      "posologia": "根据临床状态调整速度与总量",
+      "armazenamento": "室温保存，使用前检查包装",
+      "preparo": "直接静脉滴注，无需稀释",
+      "solucoesCompatíveis": "可与NaCl、葡萄糖5%合用；禁混Ca不兼容药物",
+      "contraindicacoes": "高钾血症、严重肝病、代谢性碱中毒",
+      "cuidadosMedicos": "监测血钾、乳酸及液体平衡",
+      "cuidadosFarmaceuticos": "检查袋完整性、避免与不兼容药物混合",
+      "cuidadosEnfermagem": "监测水肿、肺部啰音等过量体液迹象",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate、SBRAE"
+    }
+  }
+}

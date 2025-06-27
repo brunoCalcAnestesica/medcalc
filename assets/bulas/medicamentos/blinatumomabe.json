@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Blinatumomabe",
+      "suspension": "Suspender 48 horas antes da cirurgia eletiva",
+      "risk": "Risco de neurotoxicidade, síndrome de liberação de citocinas e imunossupressão; interações com anestesia ainda não completamente conhecidas",
+      "reintroduction": "Reintroduzir apenas após recuperação clínica e imunológica, com suporte especializado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Blinatumomabe",
+      "nomeComercial": "Blincyto",
+      "mecanismoAcao": "Anticorpo biespecífico anti-CD19 e anti-CD3 que direciona linfócitos T para lisar células B malignas",
+      "farmacocinetica": "Administração por infusão contínua IV; meia-vida ~2 horas; não metabolizado por enzimas hepáticas clássicas",
+      "farmacodinamica": "Ativação rápida de linfócitos T e destruição de células B CD19+",
+      "indicacoes": "Leucemia linfoblástica aguda (LLA) B-filoblástica recidivada ou refratária; mínima doença residual positiva",
+      "reacoesAdversas": "Síndrome de liberação de citocinas, neurotoxicidade, febre, cefaleia, tremores, infecções",
+      "riscoGravidez": "Categoria C – risco em modelos animais; evitar durante a gestação",
+      "riscoLactacao": "Desconhecido se excretado no leite humano; evitar amamentação",
+      "administracao": "Infusão IV contínua por 28 dias, via bomba de infusão portátil",
+      "doseMaxima": "28 mcg/dia (dose-teto em adultos)",
+      "doseMinima": "9 mcg/dia (fase inicial)",
+      "classificacao": "Imunoterapia – anticorpo biespecífico",
+      "apresentacao": "Frascos-ampola para reconstituição contendo 38,5 mcg",
+      "interacaoMedicamento": "Potencial risco com imunossupressores, corticosteroides, agentes neurolépticos e quimioterápicos",
+      "posologia": "Ciclo de 28 dias de infusão contínua, seguido por intervalo de 14 dias",
+      "armazenamento": "Refrigerado a 2–8°C antes da reconstituição; após preparo, estabilidade limitada",
+      "preparo": "Reconstituição com diluente específico, seguir protocolo de manipulação segura",
+      "solucoesCompatíveis": "Solução de infusão com cloreto de sódio 0,9%",
+      "contraindicacoes": "Hipersensibilidade a proteínas murinas ou a qualquer componente da fórmula",
+      "cuidadosMedicos": "Monitorar sinais de neurotoxicidade e síndrome de liberação de citocinas; suporte hospitalar durante o 1º ciclo",
+      "cuidadosFarmaceuticos": "Manter cadeia de frio; seguir técnica asséptica; não agitar o frasco",
+      "cuidadosEnfermagem": "Acompanhar perfusão contínua, avaliar função neurológica e sinais de reação sistêmica",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, ANVISA, NCCN Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Blinatumomab",
+      "suspension": "Suspend 48 hours prior to elective surgery",
+      "risk": "Risk of neurotoxicity, cytokine release syndrome, and immunosuppression; anesthetic interactions not fully known",
+      "reintroduction": "Reintroduce only after clinical and immunologic recovery with specialist support"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Blinatumomab",
+      "nomeComercial": "Blincyto",
+      "mecanismoAcao": "Bispecific CD19/CD3 antibody that redirects T cells to lyse malignant B cells",
+      "farmacocinetica": "Continuous IV infusion; half-life ~2h; not metabolized via classic hepatic enzymes",
+      "farmacodinamica": "Rapid activation of T cells and lysis of CD19+ B cells",
+      "indicacoes": "Relapsed/refractory B-cell precursor acute lymphoblastic leukemia (ALL); MRD-positive ALL",
+      "reacoesAdversas": "Cytokine release syndrome, neurotoxicity, fever, headache, tremor, infections",
+      "riscoGravidez": "Category C – fetal risk seen in animals; avoid during pregnancy",
+      "riscoLactacao": "Unknown if excreted in human milk; avoid breastfeeding",
+      "administracao": "Continuous IV infusion for 28 days via portable pump",
+      "doseMaxima": "28 mcg/day (adult max dose)",
+      "doseMinima": "9 mcg/day (initial phase)",
+      "classificacao": "Immunotherapy – bispecific monoclonal antibody",
+      "apresentacao": "Single-use vial, lyophilized powder, 38.5 mcg",
+      "interacaoMedicamento": "Potential interactions with immunosuppressants, corticosteroids, neuroleptics, chemotherapy",
+      "posologia": "28-day continuous infusion cycle, followed by 14-day break",
+      "armazenamento": "Refrigerate at 2–8°C before reconstitution; limited stability after preparation",
+      "preparo": "Reconstitute with dedicated diluent under aseptic technique",
+      "solucoesCompatíveis": "0.9% Sodium Chloride for infusion",
+      "contraindicacoes": "Known hypersensitivity to murine proteins or any component",
+      "cuidadosMedicos": "Monitor for neurotoxicity, CRS; inpatient monitoring during initial cycle recommended",
+      "cuidadosFarmaceuticos": "Cold chain required; do not shake; aseptic preparation mandatory",
+      "cuidadosEnfermagem": "Supervise continuous infusion; assess neurologic status and systemic reactions",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, NCCN Guidelines, Blincyto Prescribing Info"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Blinatumomab",
+      "suspension": "Suspender 48 horas antes de cirugía electiva",
+      "risk": "Riesgo de neurotoxicidad, síndrome de liberación de citocinas e inmunosupresión; interacción anestésica no bien establecida",
+      "reintroduction": "Reintroducir solo tras recuperación clínica e inmunológica con apoyo especializado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Blinatumomab",
+      "nomeComercial": "Blincyto",
+      "mecanismoAcao": "Anticuerpo biespecífico CD19/CD3 que redirige linfocitos T para destruir células B malignas",
+      "farmacocinetica": "Infusión continua IV; vida media ~2h; no metabolizado por enzimas hepáticas clásicas",
+      "farmacodinamica": "Activación rápida de linfocitos T y lisis de células B CD19+",
+      "indicacoes": "Leucemia linfoblástica aguda B recidivante o refractaria; enfermedad mínima residual positiva",
+      "reacoesAdversas": "Síndrome de liberación de citocinas, neurotoxicidad, fiebre, cefalea, temblores, infecciones",
+      "riscoGravidez": "Categoría C – riesgo fetal en animales; evitar durante el embarazo",
+      "riscoLactacao": "Se desconoce si se excreta en leche humana; evitar la lactancia",
+      "administracao": "Infusión IV continua durante 28 días, con bomba portátil",
+      "doseMaxima": "28 mcg/día (dosis máxima en adultos)",
+      "doseMinima": "9 mcg/día (fase inicial)",
+      "classificacao": "Inmunoterapia – anticuerpo monoclonal biespecífico",
+      "apresentacao": "Vial liofilizado monodosis de 38,5 mcg",
+      "interacaoMedicamento": "Riesgo potencial con inmunosupresores, corticosteroides, neurolépticos, quimioterapia",
+      "posologia": "Ciclo de 28 días de infusión continua seguido de 14 días de descanso",
+      "armazenamento": "Refrigerado a 2–8°C antes de la reconstitución; estabilidad limitada tras el preparado",
+      "preparo": "Reconstituir con diluyente específico, siguiendo técnica aséptica",
+      "solucoesCompatíveis": "Cloruro de sodio al 0.9%",
+      "contraindicacoes": "Hipersensibilidad a proteínas murinas o componentes de la fórmula",
+      "cuidadosMedicos": "Monitorear neurotoxicidad y síndrome de liberación de citocinas; soporte hospitalario inicial",
+      "cuidadosFarmaceuticos": "Mantener cadena de frío; evitar agitación; usar técnica aséptica",
+      "cuidadosEnfermagem": "Supervisar infusión continua; controlar estado neurológico y reacciones sistémicas",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, ANVISA, Guías NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "布利那妥单抗",
+      "suspension": "择期手术前48小时停药",
+      "risk": "存在神经毒性、细胞因子释放综合征和免疫抑制的风险；麻醉药相互作用尚不明确",
+      "reintroduction": "仅在临床和免疫恢复后，在专科指导下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "布利那妥单抗",
+      "nomeComercial": "Blincyto（百泽妥）",
+      "mecanismoAcao": "双特异性抗体（CD19/CD3），引导T细胞杀伤恶性B细胞",
+      "farmacocinetica": "持续静脉输注；半衰期约2小时；不经常规肝酶代谢",
+      "farmacodinamica": "快速激活T细胞并裂解CD19+ B细胞",
+      "indicacoes": "复发或难治性B细胞前体急性淋巴细胞白血病（ALL）；MRD阳性ALL",
+      "reacoesAdversas": "细胞因子释放综合征、神经毒性、发热、头痛、震颤、感染",
+      "riscoGravidez": "C类 – 动物研究显示胎儿风险；妊娠期间应避免使用",
+      "riscoLactacao": "是否进入乳汁未知；应避免哺乳",
+      "administracao": "连续静脉输注28天，使用便携式泵",
+      "doseMaxima": "每日28微克（成人最大剂量）",
+      "doseMinima": "每日9微克（初始剂量）",
+      "classificacao": "免疫治疗 – 双特异性单抗",
+      "apresentacao": "38.5微克冻干粉注射瓶",
+      "interacaoMedicamento": "与免疫抑制剂、糖皮质激素、神经安定剂和化疗药物可能相互作用",
+      "posologia": "连续输注28天，间隔14天后开始下一个周期",
+      "armazenamento": "2–8°C冷藏，复溶后稳定性有限",
+      "preparo": "使用专用稀释剂，在无菌条件下复溶",
+      "solucoesCompatíveis": "0.9%氯化钠注射液",
+      "contraindicacoes": "对小鼠蛋白或任何成分过敏者禁用",
+      "cuidadosMedicos": "监测神经毒性及CRS；首个周期建议住院观察",
+      "cuidadosFarmaceuticos": "冷链运输；切勿摇晃；严格无菌操作",
+      "cuidadosEnfermagem": "监督持续输注；监测神经状态和系统反应",
+      "fontesBibliograficas": "FDA, EMA, 中国药典, Micromedex, NCCN指南"
+    }
+  }
+}

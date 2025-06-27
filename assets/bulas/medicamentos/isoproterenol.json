@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Isoproterenol",
+      "suspension": "Manter se indicado em suporte hemodinâmico ou bradicardia refratária",
+      "risk": "Pode causar taquiarritmias, isquemia miocárdica, hipotensão e interação com anestésicos",
+      "reintroduction": "Reintroduzir conforme necessidade clínica e monitorização cardíaca intensiva"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Isoproterenol",
+      "nomeComercial": "Isuprel",
+      "mecanismoAcao": "Agonista beta-adrenérgico não seletivo (β1 e β2), aumenta FC, contratilidade e broncodilatação",
+      "farmacocinetica": "Administração IV ou SC; início rápido; meia-vida curta (~2–5 minutos); metabolizado por COMT hepática",
+      "farmacodinamica": "Aumenta débito cardíaco, reduz resistência vascular periférica e promove broncodilatação",
+      "indicacoes": "Bradicardia refratária, bloqueio AV, choque, parada cardíaca com atividade elétrica sem pulso",
+      "reacoesAdversas": "Taquicardia, arritmias, angina, cefaleia, rubor, tremores",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; uso com cautela",
+      "administracao": "Intravenosa contínua ou em bolus; ocasionalmente subcutânea",
+      "doseMaxima": "0,2 mcg/kg/min (infusão contínua)",
+      "doseMinima": "1–4 mcg IV em bolus; iniciar com 0,01 mcg/kg/min em infusão",
+      "classificacao": "Agonista adrenérgico beta não seletivo",
+      "apresentacao": "Ampolas de 0,2mg/mL",
+      "interacaoMedicamento": "Potencializa efeito com outros simpaticomiméticos; risco aumentado com anestésicos halogenados",
+      "posologia": "Infusão: 0,01–0,2 mcg/kg/min, titulada por resposta clínica",
+      "armazenamento": "Refrigerado (2–8 °C), protegido da luz",
+      "preparo": "Diluir em SF 0,9% ou SG 5% para infusão lenta e contínua",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Taquiarritmias, feocromocitoma, hipersensibilidade ao fármaco",
+      "cuidadosMedicos": "Monitorização contínua de ECG, PA e perfusão; evitar hipocalemia",
+      "cuidadosFarmaceuticos": "Preparar solução imediatamente antes do uso; não usar se cor alterada",
+      "cuidadosEnfermagem": "Monitorar FC, ritmo, PA, perfusão e resposta à droga",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Isoproterenol",
+      "suspension": "Maintain if used for hemodynamic support or refractory bradycardia",
+      "risk": "May induce tachyarrhythmias, myocardial ischemia, hypotension, interaction with anesthetics",
+      "reintroduction": "Restart as needed with intensive cardiac monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Isoproterenol",
+      "nomeComercial": "Isuprel",
+      "mecanismoAcao": "Non-selective beta-adrenergic agonist (β1 and β2), increases HR, contractility, and bronchodilation",
+      "farmacocinetica": "IV or SC; rapid onset; short half-life (2–5 min); metabolized by liver COMT",
+      "farmacodinamica": "Increases cardiac output, lowers peripheral resistance, bronchodilation",
+      "indicacoes": "Refractory bradycardia, AV block, shock, pulseless electrical activity",
+      "reacoesAdversas": "Tachycardia, arrhythmias, angina, headache, flushing, tremors",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "IV infusion or bolus; SC possible",
+      "doseMaxima": "0.2 mcg/kg/min (continuous infusion)",
+      "doseMinima": "1–4 mcg IV bolus; start infusion at 0.01 mcg/kg/min",
+      "classificacao": "Non-selective beta-adrenergic agonist",
+      "apresentacao": "Ampoules 0.2mg/mL",
+      "interacaoMedicamento": "Potentiated by sympathomimetics; increased risk with halogenated anesthetics",
+      "posologia": "Infusion: 0.01–0.2 mcg/kg/min titrated to response",
+      "armazenamento": "Refrigerated (2–8 °C), protect from light",
+      "preparo": "Dilute in NS or D5W for slow continuous infusion",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Tachyarrhythmias, pheochromocytoma, known hypersensitivity",
+      "cuidadosMedicos": "Continuous ECG, BP, and perfusion monitoring; avoid hypokalemia",
+      "cuidadosFarmaceuticos": "Prepare immediately before use; discard discolored solution",
+      "cuidadosEnfermagem": "Monitor HR, rhythm, BP, perfusion, clinical effect",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Isoproterenol",
+      "suspension": "Mantener si se usa para soporte hemodinámico o bradicardia refractaria",
+      "risk": "Puede causar taquiarritmias, isquemia miocárdica, hipotensión e interacción con anestésicos",
+      "reintroduction": "Reintroducir según necesidad clínica con monitoreo intensivo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Isoproterenol",
+      "nomeComercial": "Isuprel",
+      "mecanismoAcao": "Agonista beta no selectivo (β1 y β2), incrementa FC, contractilidad y broncodilatación",
+      "farmacocinetica": "IV o SC; inicio rápido; vida media 2–5 min; metabolizado por COMT hepática",
+      "farmacodinamica": "Aumenta gasto cardíaco, reduce resistencia vascular, broncodilata",
+      "indicacoes": "Bradicardia refractaria, bloqueo AV, shock, AESP",
+      "reacoesAdversas": "Taquicardia, arritmias, angina, cefalea, rubor, temblores",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Infusión IV o bolo; ocasionalmente SC",
+      "doseMaxima": "0,2 mcg/kg/min",
+      "doseMinima": "1–4 mcg en bolo; iniciar infusión en 0,01 mcg/kg/min",
+      "classificacao": "Agonista beta-adrenérgico no selectivo",
+      "apresentacao": "Ampollas 0,2mg/mL",
+      "interacaoMedicamento": "Potenciado por simpaticomiméticos; riesgo aumentado con anestésicos halogenados",
+      "posologia": "Infusión 0,01–0,2 mcg/kg/min según respuesta",
+      "armazenamento": "Refrigerado (2–8 °C), protegido de la luz",
+      "preparo": "Diluir en SSF o SG5% para infusión continua",
+      "solucoesCompatíveis": "SSF 0,9%, SG 5%",
+      "contraindicacoes": "Taquiarritmias, feocromocitoma, alergia conocida",
+      "cuidadosMedicos": "Monitoreo continuo de ECG, PA, perfusión",
+      "cuidadosFarmaceuticos": "Preparar justo antes del uso, descartar si cambia de color",
+      "cuidadosEnfermagem": "Vigilar FC, ritmo, PA, perfusión",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "异丙肾上腺素",
+      "suspension": "如用于血流动力学支持或难治性心动过缓，可持续至术日",
+      "risk": "可致心律失常、心肌缺血、低血压，与麻醉药联用风险增加",
+      "reintroduction": "术后根据临床需要和心脏监测重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "异丙肾上腺素",
+      "nomeComercial": "Isuprel",
+      "mecanismoAcao": "非选择性β受体激动剂，增强心率、心肌收缩力，支气管扩张",
+      "farmacocinetica": "静注或皮下注射；起效快；半衰期2–5分钟；肝COMT代谢",
+      "farmacodinamica": "提高心输出量，降低外周阻力，扩张支气管",
+      "indicacoes": "顽固性心动过缓、房室传导阻滞、休克、无脉电活动",
+      "reacoesAdversas": "心动过速、心律失常、心绞痛、头痛、潮红、震颤",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否排泄至乳汁不明，慎用",
+      "administracao": "静脉滴注或缓慢注射，偶可皮下注射",
+      "doseMaxima": "0.2微克/公斤/分钟",
+      "doseMinima": "1–4微克静注，持续滴注初始0.01微克/公斤/分钟",
+      "classificacao": "非选择性β受体激动剂",
+      "apresentacao": "安瓿0.2mg/mL",
+      "interacaoMedicamento": "与其他拟交感药物协同作用；与卤代麻醉药合用增加心律失常风险",
+      "posologia": "滴注速率0.01–0.2微克/公斤/分钟，按反应调整",
+      "armazenamento": "2–8°C冷藏，避光保存",
+      "preparo": "用0.9%氯化钠或5%葡萄糖溶液稀释静滴",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "心动过速性心律失常、嗜铬细胞瘤、过敏",
+      "cuidadosMedicos": "持续监测心电图、血压、灌注，避免低钾血症",
+      "cuidadosFarmaceuticos": "现配现用，如颜色异常应丢弃",
+      "cuidadosEnfermagem": "监测心率、节律、血压、灌注状态",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

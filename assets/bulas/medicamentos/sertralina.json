@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sertralina",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de síndrome serotoninérgica com opioides e anestésicos; pode causar agitação, instabilidade autonômica e interação cardiovascular significativa",
+      "reintroduction": "Reintroduzir após 72h se o paciente estiver clinicamente estável e sem uso de serotonérgicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Sertralina",
+      "nomeComercial": "Zoloft, Assert, Serpax, Tolrest, Serenata",
+      "mecanismoAcao": "Inibidor seletivo da recaptação de serotonina (ISRS), aumentando sua disponibilidade na fenda sináptica",
+      "farmacocinetica": "Biodisponibilidade oral de ~44%, metabolização hepática (CYP2B6, CYP2C19, CYP3A4), meia-vida de eliminação ~26h",
+      "farmacodinamica": "Antidepressivo com efeito ansiolítico e antiobsessivo; baixa ação sedativa e anticolinérgica",
+      "indicacoes": "Depressão maior, transtorno obsessivo-compulsivo (TOC), transtorno de ansiedade generalizada, transtorno de pânico, fobia social, transtorno disfórico pré-menstrual, PTSD",
+      "reacoesAdversas": "Náusea, cefaleia, disfunção sexual, insônia, diarreia, tremores, sudorese",
+      "riscoGravidez": "Categoria C (FDA); possível risco neonatal se usado no terceiro trimestre",
+      "riscoLactacao": "Excretado no leite materno; uso com monitoramento",
+      "administracao": "Via oral",
+      "doseMaxima": "200mg/dia",
+      "doseMinima": "25mg/dia",
+      "classificacao": "Inibidor seletivo da recaptação de serotonina (ISRS)",
+      "apresentacao": "Comprimidos de 25mg, 50mg, 100mg; solução oral 20mg/mL",
+      "interacaoMedicamento": "Interage com IMAO, triptanos, anticoagulantes, lítio, tramadol e outros serotoninérgicos",
+      "posologia": "Iniciar com 50mg/dia, podendo aumentar progressivamente até 200mg/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Agitar solução oral antes do uso; comprimidos não requerem preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso concomitante com IMAO, hipersensibilidade ao fármaco",
+      "cuidadosMedicos": "Monitorar sintomas de síndrome serotoninérgica, ideação suicida e função hepática",
+      "cuidadosFarmaceuticos": "Garantir adesão terapêutica; orientar início de ação gradual (1–4 semanas)",
+      "cuidadosEnfermagem": "Observar humor, comportamento e sinais vitais",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, NICE"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sertraline",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of serotonin syndrome with opioids and anesthetics; may cause autonomic instability, agitation and cardiovascular events",
+      "reintroduction": "Restart after 72h if clinically stable and no serotonergic agents are used"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sertraline Hydrochloride",
+      "nomeComercial": "Zoloft, Desven, Lustral, Sertraline Teva, Sertralina Sandoz",
+      "mecanismoAcao": "Selective serotonin reuptake inhibitor (SSRI), enhances serotonergic neurotransmission",
+      "farmacocinetica": "Oral bioavailability ~44%, metabolized in liver (CYP2B6, CYP2C19, CYP3A4), half-life ~26h",
+      "farmacodinamica": "Antidepressant with anti-anxiety and anti-obsessive effects, minimal sedative activity",
+      "indicacoes": "Major depression, OCD, generalized anxiety disorder, panic disorder, social anxiety, PMDD, PTSD",
+      "reacoesAdversas": "Nausea, insomnia, sexual dysfunction, headache, tremor, diarrhea, sweating",
+      "riscoGravidez": "Category C (FDA); potential neonatal complications in late pregnancy",
+      "riscoLactacao": "Excreted in breast milk; monitor infants for adverse effects",
+      "administracao": "Oral route",
+      "doseMaxima": "200mg/day",
+      "doseMinima": "25mg/day",
+      "classificacao": "Selective serotonin reuptake inhibitor (SSRI)",
+      "apresentacao": "Tablets: 25mg, 50mg, 100mg; Oral solution 20mg/mL",
+      "interacaoMedicamento": "Interacts with MAOIs, triptans, anticoagulants, lithium, tramadol, other serotonergic drugs",
+      "posologia": "Start at 50mg/day; titrate up to 200mg/day as needed",
+      "armazenamento": "Store at 15–30°C, protect from light",
+      "preparo": "Shake oral solution before use; no preparation for tablets",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Concomitant MAOI use, hypersensitivity",
+      "cuidadosMedicos": "Monitor for serotonin syndrome, hepatic function, suicidal ideation",
+      "cuidadosFarmaceuticos": "Educate on delayed onset (1–4 weeks), adherence is key",
+      "cuidadosEnfermagem": "Monitor mood, behavior, vital signs",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, APA, NICE"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sertralina",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de síndrome serotoninérgico con opioides y anestésicos; puede causar inestabilidad autonómica y agitación",
+      "reintroduction": "Reintroducir después de 72h si el paciente está clínicamente estable y sin fármacos serotoninérgicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Sertralina",
+      "nomeComercial": "Zoloft, Sertralina Cinfa, Aremis, Arketis",
+      "mecanismoAcao": "Inhibidor selectivo de la recaptación de serotonina (ISRS), mejora la transmisión serotoninérgica",
+      "farmacocinetica": "Biodisponibilidad oral ~44%, metabolismo hepático (CYP2B6, CYP2C19, CYP3A4), vida media ~26h",
+      "farmacodinamica": "Antidepresivo con efectos ansiolíticos y antiobsesivos; mínima actividad sedante",
+      "indicacoes": "Depresión mayor, TOC, TAG, trastorno de pánico, fobia social, TDPM, TEPT",
+      "reacoesAdversas": "Náuseas, insomnio, disfunción sexual, cefalea, temblores, diarrea, sudoración",
+      "riscoGravidez": "Categoría C; posible riesgo neonatal si se usa en el tercer trimestre",
+      "riscoLactacao": "Se excreta en leche materna; monitorear al lactante",
+      "administracao": "Vía oral",
+      "doseMaxima": "200mg/día",
+      "doseMinima": "25mg/día",
+      "classificacao": "ISRS – Inhibidor selectivo de la recaptación de serotonina",
+      "apresentacao": "Tabletas: 25mg, 50mg, 100mg; solución oral 20mg/mL",
+      "interacaoMedicamento": "Interacciones con IMAO, triptanos, anticoagulantes, litio, tramadol",
+      "posologia": "Dosis inicial: 50mg/día; ajustar hasta 200mg/día según respuesta",
+      "armazenamento": "15–30°C, protegido de luz",
+      "preparo": "Agitar solución oral antes de usar; tabletas no requieren preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Uso con IMAO, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear síndrome serotoninérgico, función hepática, ideación suicida",
+      "cuidadosFarmaceuticos": "Explicar inicio de acción retardado (1–4 semanas), reforzar adherencia",
+      "cuidadosEnfermagem": "Observar el estado emocional, signos vitales y comportamiento",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "舍曲林",
+      "suspension": "择期手术前7天停药",
+      "risk": "与阿片类和麻醉剂合用可能引发血清素综合征、自主神经不稳和心血管事件",
+      "reintroduction": "术后72小时内，在患者临床稳定并停止使用血清素药物的前提下可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸舍曲林",
+      "nomeComercial": "左洛复, Zoloft, 宜百安, 赛乐特",
+      "mecanismoAcao": "选择性5-羟色胺再摄取抑制剂（SSRI），增强中枢神经系统5-HT活性",
+      "farmacocinetica": "口服生物利用度约44%，肝脏代谢（CYP2B6、CYP2C19、CYP3A4），半衰期约26小时",
+      "farmacodinamica": "抗抑郁、抗焦虑和抗强迫作用，镇静作用弱",
+      "indicacoes": "重度抑郁症、强迫症、焦虑症、惊恐障碍、社交恐惧症、经前烦躁障碍、创伤后应激障碍",
+      "reacoesAdversas": "恶心、头痛、失眠、性功能障碍、震颤、腹泻、出汗",
+      "riscoGravidez": "C类；妊娠晚期可能影响新生儿",
+      "riscoLactacao": "可分泌至乳汁，建议监测婴儿反应",
+      "administracao": "口服",
+      "doseMaxima": "每日200毫克",
+      "doseMinima": "每日25毫克",
+      "classificacao": "选择性5-羟色胺再摄取抑制剂（SSRI）",
+      "apresentacao": "片剂：25mg、50mg、100mg；口服液：20mg/mL",
+      "interacaoMedicamento": "与MAOI、曲坦类、抗凝剂、锂剂、曲马多等相互作用",
+      "posologia": "起始剂量为50mg/日，根据耐受性逐渐增加至200mg",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "口服液使用前需摇匀，片剂无需准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "正在使用MAOI或对本品过敏者禁用",
+      "cuidadosMedicos": "监测血清素综合征、肝功能、自杀倾向",
+      "cuidadosFarmaceuticos": "强调依从性和疗效起始延迟（1–4周）",
+      "cuidadosEnfermagem": "观察情绪、生命体征及行为反应",
+      "fontesBibliograficas": "NMPA, FDA, WHO, Micromedex"
+    }
+  }
+}

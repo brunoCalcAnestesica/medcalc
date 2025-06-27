@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ciprofloxacino",
+      "suspension": "Suspender 24 horas antes se possível",
+      "risk": "Risco de prolongamento do QT, interações com anestésicos e relaxantes musculares",
+      "reintroduction": "Reintroduzir após estabilização cardiovascular e retorno da função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ciprofloxacino",
+      "nomeComercial": "Cipro, Quinoflox, Baycip, Ciprofloxacino Genérico",
+      "mecanismoAcao": "Inibe a DNA-girase bacteriana e a topoisomerase IV, bloqueando a replicação do DNA",
+      "farmacocinetica": "Boa biodisponibilidade oral, metabolização hepática parcial, excreção renal e biliar",
+      "farmacodinamica": "Bactericida de amplo espectro, especialmente gram-negativos",
+      "indicacoes": "Infecções urinárias, respiratórias, gastrointestinais, osteomielite, prostatite",
+      "reacoesAdversas": "Náuseas, diarreia, tendinite, fotossensibilidade, prolongamento do QT",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Contraindicado; excretado no leite e pode afetar cartilagens",
+      "administracao": "Oral e intravenosa",
+      "doseMaxima": "1500 mg/dia",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Antibiótico fluoroquinolona",
+      "apresentacao": "Comprimidos, solução oral, solução injetável",
+      "interacaoMedicamento": "Interage com antiácidos, anticoagulantes, antiarrítmicos, tizanidina",
+      "posologia": "500-750 mg 12/12h, por 7-14 dias dependendo da infecção",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Pronto para uso EV; não diluir em soluções alcalinas",
+      "solucoesCompatíveis": "SF 0,9%, Glicose 5%",
+      "contraindicacoes": "Gestantes, lactantes, menores de 18 anos, história de arritmia",
+      "cuidadosMedicos": "Monitorar função renal, ECG (QT), sinais neurológicos",
+      "cuidadosFarmaceuticos": "Evitar coadministração com antiácidos ou suplementos minerais",
+      "cuidadosEnfermagem": "Observar sinais de tendinite, confusão mental, reação alérgica",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, EMA, SBAn"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ciprofloxacin",
+      "suspension": "Suspend 24 hours before if possible",
+      "risk": "QT prolongation risk, interactions with anesthetics and muscle relaxants",
+      "reintroduction": "Restart after cardiovascular stabilization and normal renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ciprofloxacin",
+      "nomeComercial": "Cipro, Cipro XR, Proquin XR",
+      "mecanismoAcao": "Inhibits DNA gyrase and topoisomerase IV, blocking DNA replication",
+      "farmacocinetica": "Good oral bioavailability, partial hepatic metabolism, renal/biliary excretion",
+      "farmacodinamica": "Broad-spectrum bactericidal, especially gram-negatives",
+      "indicacoes": "UTIs, respiratory, GI, bone, and prostate infections",
+      "reacoesAdversas": "Nausea, diarrhea, tendinitis, photosensitivity, QT prolongation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Contraindicated; excreted in milk and may affect cartilage",
+      "administracao": "Oral and intravenous",
+      "doseMaxima": "1500 mg/day",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Fluoroquinolone antibiotic",
+      "apresentacao": "Tablets, oral suspension, IV solution",
+      "interacaoMedicamento": "Interacts with antacids, anticoagulants, antiarrhythmics, tizanidine",
+      "posologia": "500-750 mg every 12h for 7–14 days",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Ready-to-use IV; avoid alkaline diluents",
+      "solucoesCompatíveis": "Normal Saline, Dextrose 5%",
+      "contraindicacoes": "Pregnancy, lactation, under 18, arrhythmia history",
+      "cuidadosMedicos": "Monitor renal function, ECG (QT), neurological status",
+      "cuidadosFarmaceuticos": "Avoid with antacids or mineral supplements",
+      "cuidadosEnfermagem": "Monitor for tendinitis, confusion, allergy",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, SBAn"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ciprofloxacino",
+      "suspension": "Suspender 24 horas antes si es posible",
+      "risk": "Riesgo de QT prolongado, interacciones con anestésicos y relajantes musculares",
+      "reintroduction": "Reintroducir tras estabilización cardiovascular y función renal normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ciprofloxacino",
+      "nomeComercial": "Ciproxin, Ciprolon, Ciprofloxacino Genérico",
+      "mecanismoAcao": "Inhibe la girasa del ADN y la topoisomerasa IV bacteriana",
+      "farmacocinetica": "Buena biodisponibilidad oral, metabolismo hepático parcial, excreción renal y biliar",
+      "farmacodinamica": "Bactericida de amplio espectro, eficaz contra gram-negativos",
+      "indicacoes": "ITU, respiratorias, gastrointestinales, óseas, prostatitis",
+      "reacoesAdversas": "Náuseas, diarrea, tendinitis, fotosensibilidad, QT prolongado",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Contraindicado; se excreta en la leche y afecta el cartílago",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "1500 mg/día",
+      "doseMinima": "250 mg/dosis",
+      "classificacao": "Antibiótico fluoroquinolona",
+      "apresentacao": "Comprimidos, suspensión oral, inyectable",
+      "interacaoMedicamento": "Interacción con antiácidos, anticoagulantes, antiarrítmicos, tizanidina",
+      "posologia": "500-750 mg cada 12h durante 7-14 días",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Solución lista para EV; evitar diluyentes alcalinos",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%, glucosa 5%",
+      "contraindicacoes": "Embarazo, lactancia, menores de 18 años, antecedentes de arritmia",
+      "cuidadosMedicos": "Monitorizar función renal, ECG, estado neurológico",
+      "cuidadosFarmaceuticos": "Evitar con antiácidos y suplementos minerales",
+      "cuidadosEnfermagem": "Observar tendinitis, confusión, alergias",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, ANVISA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "环丙沙星",
+      "suspension": "术前24小时停药",
+      "risk": "可导致QT延长，与麻醉药和肌松药有相互作用",
+      "reintroduction": "术后心功能稳定且肾功能恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "环丙沙星",
+      "nomeComercial": "息普霉素, 环丙沙星片, 注射液",
+      "mecanismoAcao": "抑制细菌DNA旋转酶和拓扑异构酶IV，阻止DNA复制",
+      "farmacocinetica": "口服吸收良好，部分肝代谢，经肾和胆道排泄",
+      "farmacodinamica": "广谱杀菌剂，主要对革兰阴性菌有效",
+      "indicacoes": "泌尿、呼吸、胃肠、骨骼、前列腺感染",
+      "reacoesAdversas": "恶心、腹泻、肌腱炎、光敏反应、QT延长",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "禁用；可分泌至乳汁并影响软骨发育",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日1500毫克",
+      "doseMinima": "每次250毫克",
+      "classificacao": "氟喹诺酮类抗生素",
+      "apresentacao": "片剂、口服液、注射液",
+      "interacaoMedicamento": "与抗酸药、抗凝药、抗心律失常药、替扎尼定有相互作用",
+      "posologia": "每12小时500–750毫克，疗程7-14天",
+      "armazenamento": "常温避光保存",
+      "preparo": "注射液可直接使用，避免碱性溶液",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "孕妇、哺乳期、18岁以下、心律不齐病史者禁用",
+      "cuidadosMedicos": "监测肾功能、心电图、神经症状",
+      "cuidadosFarmaceuticos": "避免与抗酸剂或矿物质补充剂同服",
+      "cuidadosEnfermagem": "注意肌腱炎、精神症状和过敏反应",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex"
+    }
+  }
+}

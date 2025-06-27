@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Oxalato de lantânio",
+      "suspension": "Não é necessário suspender em cirurgias de pequeno porte; avaliar caso a caso em cirurgias maiores com risco de constipação ou íleo",
+      "risk": "Risco de acúmulo gastrointestinal, constipação grave e interação com outros quelantes ou medicamentos que alteram o trânsito intestinal",
+      "reintroduction": "Pode ser reintroduzido conforme tolerância digestiva no pós-operatório imediato, preferencialmente com dieta iniciada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxalato de lantânio",
+      "nomeComercial": "Fosrenol",
+      "mecanismoAcao": "Quelante de fosfato que atua ligando-se ao fosfato dietético no trato gastrointestinal, formando complexos insolúveis eliminados pelas fezes",
+      "farmacocinetica": "Absorção sistêmica mínima (<0,002%), excreção fecal; sem metabolismo hepático relevante",
+      "farmacodinamica": "Reduz níveis séricos de fósforo em pacientes com insuficiência renal crônica ao prevenir sua absorção intestinal",
+      "indicacoes": "Hiperfosfatemia em pacientes com doença renal crônica em diálise",
+      "reacoesAdversas": "Náusea, vômito, constipação, dor abdominal, prurido, hipocalcemia",
+      "riscoGravidez": "Categoria C (FDA), uso apenas se benefício superar o risco",
+      "riscoLactacao": "Desconhecido; uso com cautela",
+      "administracao": "Via oral, administrado com alimentos",
+      "doseMaxima": "3750mg/dia",
+      "doseMinima": "750mg/dia",
+      "classificacao": "Quelante de fosfato",
+      "apresentacao": "Comprimidos mastigáveis de 500mg, 750mg e 1000mg",
+      "interacaoMedicamento": "Reduz absorção de ciprofloxacino, levotiroxina, tetraciclinas e outras drogas que formam complexos com cátions",
+      "posologia": "Dividir em 3 doses diárias com as refeições; ajuste conforme níveis séricos de fósforo",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Comprimidos devem ser mastigados completamente ou triturados; não engolir inteiros",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Obstrução intestinal, hipofosfatemia, hipersensibilidade ao lantânio",
+      "cuidadosMedicos": "Monitorar fósforo sérico, cálcio, sinais de distúrbios gastrintestinais",
+      "cuidadosFarmaceuticos": "Orientar quanto à mastigação adequada e interações com outros fármacos orais",
+      "cuidadosEnfermagem": "Observar sintomas gastrointestinais e adesão à administração com alimentos",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lanthanum oxalate",
+      "suspension": "No suspension needed for minor procedures; assess in major GI risk surgeries",
+      "risk": "Risk of GI accumulation, severe constipation, interaction with other binders or delayed GI transit drugs",
+      "reintroduction": "Can be reintroduced postoperatively if gastrointestinal tolerance allows and diet is resumed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lanthanum oxalate",
+      "nomeComercial": "Fosrenol",
+      "mecanismoAcao": "Phosphate binder that binds dietary phosphate in the gut forming insoluble complexes excreted in stool",
+      "farmacocinetica": "Minimal systemic absorption (<0.002%), fecal excretion, not metabolized hepatically",
+      "farmacodinamica": "Lowers serum phosphorus in CKD patients by preventing intestinal phosphate absorption",
+      "indicacoes": "Hyperphosphatemia in patients with chronic kidney disease on dialysis",
+      "reacoesAdversas": "Nausea, vomiting, constipation, abdominal pain, pruritus, hypocalcemia",
+      "riscoGravidez": "Category C; use only if potential benefit justifies risk",
+      "riscoLactacao": "Unknown; caution advised",
+      "administracao": "Oral route, administered with meals",
+      "doseMaxima": "3750mg/day",
+      "doseMinima": "750mg/day",
+      "classificacao": "Phosphate binder",
+      "apresentacao": "Chewable tablets of 500mg, 750mg, 1000mg",
+      "interacaoMedicamento": "Reduces absorption of ciprofloxacin, levothyroxine, tetracyclines and other cation-binding drugs",
+      "posologia": "Divided into 3 daily doses with meals; titrate based on serum phosphate",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "Chew thoroughly or crush; do not swallow whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Bowel obstruction, hypophosphatemia, hypersensitivity to lanthanum",
+      "cuidadosMedicos": "Monitor phosphate, calcium, GI symptoms",
+      "cuidadosFarmaceuticos": "Educate on proper chewing and drug interactions",
+      "cuidadosEnfermagem": "Assess GI tolerance and compliance with meals",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Oxalato de lantano",
+      "suspension": "No se requiere suspensión para procedimientos menores; evaluar en cirugías mayores con riesgo gastrointestinal",
+      "risk": "Riesgo de acumulación gastrointestinal, estreñimiento grave, interacción con otros quelantes o medicamentos que alteran la motilidad intestinal",
+      "reintroduction": "Puede reintroducirse en el postoperatorio si se tolera bien la vía oral y se reinicia la dieta"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxalato de lantano",
+      "nomeComercial": "Fosrenol",
+      "mecanismoAcao": "Quelante de fosfato que se une al fosfato dietético en el intestino, formando complejos insolubles excretados por las heces",
+      "farmacocinetica": "Absorción sistémica mínima (<0.002%), excreción fecal, sin metabolismo hepático significativo",
+      "farmacodinamica": "Reduce el fósforo sérico en pacientes con enfermedad renal crónica al impedir su absorción intestinal",
+      "indicacoes": "Hiperfosfatemia en pacientes con enfermedad renal crónica en diálisis",
+      "reacoesAdversas": "Náuseas, vómitos, estreñimiento, dolor abdominal, prurito, hipocalcemia",
+      "riscoGravidez": "Categoría C (FDA); solo si el beneficio supera el riesgo",
+      "riscoLactacao": "Desconocido; se recomienda precaución",
+      "administracao": "Vía oral, administrado con las comidas",
+      "doseMaxima": "3750mg/día",
+      "doseMinima": "750mg/día",
+      "classificacao": "Quelante de fosfato",
+      "apresentacao": "Comprimidos masticables de 500mg, 750mg y 1000mg",
+      "interacaoMedicamento": "Reduce la absorción de ciprofloxacina, levotiroxina, tetraciclinas y otros fármacos que forman complejos con cationes",
+      "posologia": "Dividir en 3 dosis diarias con las comidas; ajustar según fósforo sérico",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de la humedad",
+      "preparo": "Los comprimidos deben masticarse completamente o triturarse; no tragar enteros",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Obstrucción intestinal, hipofosfatemia, hipersensibilidad al lantano",
+      "cuidadosMedicos": "Monitorear fósforo sérico, calcio, síntomas gastrointestinales",
+      "cuidadosFarmaceuticos": "Orientar sobre masticación adecuada e interacciones",
+      "cuidadosEnfermagem": "Vigilar tolerancia gastrointestinal y cumplimiento con alimentos",
+      "fontesBibliograficas": "EMA, Micromedex, UpToDate, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "草酸镧",
+      "suspension": "小型手术无需停药；胃肠高风险手术需个别评估",
+      "risk": "胃肠道蓄积、严重便秘、与其他螯合剂或胃肠动力药相互作用风险",
+      "reintroduction": "术后如恢复饮食并耐受，可重新给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "草酸镧",
+      "nomeComercial": "Fosrenol",
+      "mecanismoAcao": "通过在胃肠道与膳食磷结合，形成不溶性复合物，经粪便排出",
+      "farmacocinetica": "系统吸收极低（<0.002%），粪便排泄，无肝脏代谢",
+      "farmacodinamica": "用于慢性肾病患者降低血磷浓度，防止磷的肠道吸收",
+      "indicacoes": "慢性肾病透析患者的高磷血症",
+      "reacoesAdversas": "恶心、呕吐、便秘、腹痛、瘙痒、低钙血症",
+      "riscoGravidez": "C类；仅在潜在获益大于风险时使用",
+      "riscoLactacao": "未知，建议谨慎使用",
+      "administracao": "口服，随餐服用",
+      "doseMaxima": "每日3750毫克",
+      "doseMinima": "每日750毫克",
+      "classificacao": "磷结合剂",
+      "apresentacao": "咀嚼片500mg、750mg、1000mg",
+      "interacaoMedicamento": "减少环丙沙星、左甲状腺素、四环素等药物的吸收",
+      "posologia": "每日三次，随餐服用，根据血磷水平调整剂量",
+      "armazenamento": "15–30°C保存，防潮",
+      "preparo": "咀嚼或压碎服用，勿整片吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "肠梗阻、低磷血症、对镧过敏",
+      "cuidadosMedicos": "监测血磷、钙水平及胃肠道症状",
+      "cuidadosFarmaceuticos": "指导患者正确服药并避免药物相互作用",
+      "cuidadosEnfermagem": "评估服药依从性及胃肠道耐受性",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、UpToDate"
+    }
+  }
+}

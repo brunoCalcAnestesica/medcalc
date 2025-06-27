@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vindesina",
+      "suspension": "Suspender 7–10 dias antes de cirurgias eletivas de grande porte",
+      "risk": "Neurotoxicidade, mielossupressão, constipação, ileo paralítico, extravasamento, risco infeccioso",
+      "reintroduction": "Reintroduzir após recuperação hematológica, resolução de neurotoxicidade e cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vindesina",
+      "nomeComercial": "Eldisine",
+      "mecanismoAcao": "Alcaloide da vinca; liga-se à tubulina e inibe a formação do fuso mitótico, bloqueando a mitose na metáfase",
+      "farmacocinetica": "Administração IV; meia-vida terminal 24h; metabolismo hepático (CYP3A4); excreção biliar",
+      "farmacodinamica": "Citotóxico fase M do ciclo celular; ativa contra neoplasias hematológicas e tumores sólidos",
+      "indicacoes": "Leucemias agudas, linfomas, câncer de mama, melanoma, câncer de pulmão de pequenas células",
+      "reacoesAdversas": "Neutropenia, trombocitopenia, neuropatia sensitivo-motora, constipação, parestesias, queda de cabelo, dor mandibular",
+      "riscoGravidez": "Categoria D – teratogênico; uso restrito a risco oncológico",
+      "riscoLactacao": "Contraindicado; não se sabe se é excretado no leite",
+      "administracao": "Infusão IV lenta ou bolus diluído, somente por via intravenosa",
+      "doseMaxima": "3mg/m²/semana",
+      "doseMinima": "1.5mg/m²/semana",
+      "classificacao": "Antineoplásico; alcaloide da vinca",
+      "apresentacao": "Frasco-ampola 5mg (liofilizado)",
+      "interacaoMedicamento": "Substrato de CYP3A4; interação com antifúngicos azólicos, anticonvulsivantes e imunossupressores",
+      "posologia": "2–3mg/m² IV 1x/semana, em ciclos de 7 a 14 dias",
+      "armazenamento": "Refrigerado 2–8°C; solução reconstituída estável 24h",
+      "preparo": "Reconstituir sob capela com EPI; evitar contato dérmico ou ocular",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, glicose 5%",
+      "contraindicacoes": "Neutropenia grave, neuropatia sensorial grave, gravidez, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática, avaliação neurológica seriada",
+      "cuidadosFarmaceuticos": "Garantir via IV exclusiva, identificar risco de extravasamento",
+      "cuidadosEnfermagem": "Observar parestesias, reflexos, constipação, sinais de extravasamento",
+      "fontesBibliograficas": "ANVISA, EMA, Micromedex, UpToDate, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vindesine",
+      "suspension": "Discontinue 7–10 days before major surgery",
+      "risk": "Neurotoxicity, myelosuppression, constipation, paralytic ileus, vesicant risk",
+      "reintroduction": "Restart after hematologic and neurologic recovery and wound healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vindesine",
+      "nomeComercial": "Eldisine (not FDA approved, used internationally)",
+      "mecanismoAcao": "Binds tubulin, inhibits microtubule formation, blocks mitosis at metaphase",
+      "farmacocinetica": "IV only; T½ ~24h; hepatic metabolism via CYP3A4; biliary excretion",
+      "farmacodinamica": "Cytotoxic in M phase; effective in hematologic and solid tumors",
+      "indicacoes": "Acute leukemia, lymphoma, small cell lung cancer, melanoma, breast cancer",
+      "reacoesAdversas": "Neutropenia, neuropathy, jaw pain, constipation, alopecia",
+      "riscoGravidez": "Category D – contraindicated unless life-threatening",
+      "riscoLactacao": "Avoid breastfeeding",
+      "administracao": "IV infusion or slow IV push only",
+      "doseMaxima": "3mg/m²/week",
+      "doseMinima": "1.5mg/m²/week",
+      "classificacao": "Vinca alkaloid antineoplastic agent",
+      "apresentacao": "Vials 5mg",
+      "interacaoMedicamento": "CYP3A4 substrate; interacts with azoles, phenytoin, cyclosporine",
+      "posologia": "2–3mg/m² weekly, adjusted per response",
+      "armazenamento": "2–8°C; reconstituted solution good for 24h",
+      "preparo": "Use gloves, goggles; avoid skin or mucosal contact",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Severe neuropathy, neutropenia, pregnancy",
+      "cuidadosMedicos": "CBC, liver enzymes, neurologic exam before each cycle",
+      "cuidadosFarmaceuticos": "Label as vesicant; IV route only",
+      "cuidadosEnfermagem": "Monitor reflexes, GI symptoms, infusion site",
+      "fontesBibliograficas": "EMA, Eldisine monograph, Micromedex, NCCN"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vindesina",
+      "suspension": "Suspender 7–10 días antes de cirugía mayor",
+      "risk": "Neurotoxicidad, mielosupresión, íleo paralítico, extravasación",
+      "reintroduction": "Reintroducir tras recuperación hematológica y neurológica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vindesina",
+      "nomeComercial": "Eldisine",
+      "mecanismoAcao": "Se une a la tubulina, bloquea el huso mitótico en metafase",
+      "farmacocinetica": "IV; T½ 24h; metabolismo hepático; excreción biliar",
+      "farmacodinamica": "Citotóxica en fase M; eficaz en leucemias y tumores sólidos",
+      "indicacoes": "Leucemia aguda, linfoma, melanoma, cáncer de mama y pulmón",
+      "reacoesAdversas": "Parestesias, caída de cabello, estreñimiento, dolor mandibular, neutropenia",
+      "riscoGravidez": "Categoría D – contraindicado salvo urgencia vital",
+      "riscoLactacao": "No se recomienda",
+      "administracao": "IV lenta o infusión corta",
+      "doseMaxima": "3mg/m²/semana",
+      "doseMinima": "1.5mg/m²/semana",
+      "classificacao": "Alcaloide de la vinca",
+      "apresentacao": "Vial 5mg",
+      "interacaoMedicamento": "Interacción con azoles, antiepilépticos, inmunosupresores",
+      "posologia": "2–3mg/m² semanalmente",
+      "armazenamento": "2–8°C; solución estable 24h",
+      "preparo": "Ambiente estéril; equipo de protección",
+      "solucoesCompatíveis": "Cloruro sódico 0,9%, glucosa 5%",
+      "contraindicacoes": "Neuropatía severa, embarazo, leucopenia grave",
+      "cuidadosMedicos": "Evaluar neurotoxicidad, hemograma, función hepática",
+      "cuidadosFarmaceuticos": "Evitar extravasación, uso exclusivo IV",
+      "cuidadosEnfermagem": "Observar reflejos, estreñimiento, sitio de infusión",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "长春苷",
+      "suspension": "术前7–10天停用，避免术中毒性增强",
+      "risk": "神经毒性、骨髓抑制、肠麻痹、外渗组织坏死",
+      "reintroduction": "术后神经和血象恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "长春苷",
+      "nomeComercial": "Eldisine",
+      "mecanismoAcao": "结合微管蛋白，抑制纺锤体形成，阻止细胞有丝分裂",
+      "farmacocinetica": "静注；半衰期24小时；肝代谢；胆汁排泄",
+      "farmacodinamica": "细胞周期M期活性；对白血病及实体瘤有效",
+      "indicacoes": "急性白血病、淋巴瘤、黑色素瘤、乳腺癌、小细胞肺癌",
+      "reacoesAdversas": "四肢麻木、白细胞减少、便秘、下颌疼痛、脱发",
+      "riscoGravidez": "D类 – 孕期禁用",
+      "riscoLactacao": "禁用；可能分泌乳汁",
+      "administracao": "静脉注射，禁止其他途径",
+      "doseMaxima": "每周最大3mg/m²",
+      "doseMinima": "每周1.5mg/m²",
+      "classificacao": "长春碱类抗肿瘤药",
+      "apresentacao": "5mg冻干粉瓶",
+      "interacaoMedicamento": "CYP3A4底物，与抗真菌药、抗癫药、环孢素等交互作用",
+      "posologia": "每周2–3mg/m²静注",
+      "armazenamento": "2–8°C冷藏；配制液24小时内使用",
+      "preparo": "无菌条件配制；佩戴防护装备",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "严重神经病变、妊娠、重度中性粒细胞减少",
+      "cuidadosMedicos": "监测神经反应、肝功能、CBC",
+      "cuidadosFarmaceuticos": "明确静脉途径；警示外渗风险",
+      "cuidadosEnfermagem": "注意麻木、反射减退、注射部位红肿",
+      "fontesBibliograficas": "中国药典、Micromedex、EMA"
+    }
+  }
+}

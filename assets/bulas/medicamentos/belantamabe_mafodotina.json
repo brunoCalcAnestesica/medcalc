@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Belantamabe Mafodotina",
+      "suspension": "Suspender 30 dias antes de procedimentos cirúrgicos eletivos",
+      "risk": "Toxicidade ocular, imunossupressão e risco de infecção; potencial atraso na cicatrização",
+      "reintroduction": "Reintroduzir apenas após reavaliação oftalmológica e cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Belantamabe mafodotina",
+      "nomeComercial": "Blenrep",
+      "mecanismoAcao": "Anticorpo monoclonal anti-BCMA conjugado a agente citotóxico (mafodotina), promovendo apoptose de células do mieloma múltiplo",
+      "farmacocinetica": "Administração IV, meia-vida de 12 dias, metabolismo proteico, eliminação não renal",
+      "farmacodinamica": "Liga-se a BCMA em células plasmáticas, promovendo internalização e liberação da mafodotina que interrompe a função microtubular",
+      "indicacoes": "Mieloma múltiplo recidivado ou refratário após ≥4 terapias anteriores, incluindo inibidor de proteassoma, imunomodulador e anticorpo anti-CD38",
+      "reacoesAdversas": "Ceratinopatia, visão turva, trombocitopenia, náusea, pirexia, fadiga",
+      "riscoGravidez": "Categoria D – risco fetal conhecido",
+      "riscoLactacao": "Desconhecido; evitar durante amamentação e por pelo menos 3 meses após a última dose",
+      "administracao": "Infusão intravenosa a cada 3 semanas",
+      "doseMaxima": "2,5 mg/kg a cada 3 semanas",
+      "doseMinima": "Redução para 1,9 mg/kg em toxicidade ocular",
+      "classificacao": "Imunoconjugado antineoplásico – anti-BCMA",
+      "apresentacao": "Frasco-ampola com 100 mg de pó liofilizado",
+      "interacaoMedicamento": "Evitar uso concomitante com outros fármacos com toxicidade ocular",
+      "posologia": "2,5 mg/kg IV a cada 3 semanas, ajustar conforme toxicidade",
+      "armazenamento": "Refrigerado (2–8°C); reconstituído e diluído deve ser usado em até 24h",
+      "preparo": "Diluir em 0,9% NaCl para infusão IV em 30 min",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Gravidez, hipersensibilidade ao composto",
+      "cuidadosMedicos": "Exigir avaliação oftalmológica antes de cada dose",
+      "cuidadosFarmaceuticos": "Manter sob refrigeração; realizar preparo com técnica asséptica",
+      "cuidadosEnfermagem": "Monitorar sinais visuais e hematológicos; educar sobre sintomas oculares",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Belantamab Mafodotin",
+      "suspension": "Discontinue 30 days before elective surgery",
+      "risk": "Ocular toxicity, immunosuppression, delayed wound healing and infection risk",
+      "reintroduction": "Restart only after ophthalmologic reassessment and full tissue recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Belantamab mafodotin",
+      "nomeComercial": "Blenrep",
+      "mecanismoAcao": "Anti-BCMA monoclonal antibody conjugated with mafodotin cytotoxin causing apoptosis in myeloma cells",
+      "farmacocinetica": "IV route, 12-day half-life, proteolytic metabolism, non-renal elimination",
+      "farmacodinamica": "Binds BCMA, internalized and releases mafodotin to inhibit microtubules",
+      "indicacoes": "Relapsed/refractory multiple myeloma after ≥4 prior therapies (including PI, IMiD, anti-CD38)",
+      "reacoesAdversas": "Keratopathy, blurred vision, thrombocytopenia, nausea, pyrexia, fatigue",
+      "riscoGravidez": "Category D – fetal risk",
+      "riscoLactacao": "Unknown; avoid during and for 3 months after treatment",
+      "administracao": "IV infusion every 3 weeks",
+      "doseMaxima": "2.5 mg/kg every 3 weeks",
+      "doseMinima": "1.9 mg/kg if ocular toxicity occurs",
+      "classificacao": "Anti-BCMA antibody-drug conjugate",
+      "apresentacao": "Lyophilized 100 mg vial",
+      "interacaoMedicamento": "Avoid other ocular toxic agents",
+      "posologia": "2.5 mg/kg IV q3w; adjust per toxicity",
+      "armazenamento": "2–8°C; use reconstituted/diluted solution within 24h",
+      "preparo": "Dilute in 0.9% NaCl; infuse over 30 min",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Pregnancy, hypersensitivity",
+      "cuidadosMedicos": "Ophthalmic exam before each dose required",
+      "cuidadosFarmaceuticos": "Store refrigerated; aseptic preparation",
+      "cuidadosEnfermagem": "Monitor vision changes, labs; educate on eye toxicity",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Belantamab Mafodotina",
+      "suspension": "Suspender 30 días antes de cirugía electiva",
+      "risk": "Toxicidad ocular, inmunosupresión, riesgo de infección y cicatrización deficiente",
+      "reintroduction": "Reintroducir solo tras evaluación oftalmológica y recuperación completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Belantamab mafodotina",
+      "nomeComercial": "Blenrep",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-BCMA unido a mafodotina que provoca apoptosis celular",
+      "farmacocinetica": "IV, vida media 12 días, metabolismo proteolítico, eliminación no renal",
+      "farmacodinamica": "Se une a BCMA, internaliza y libera mafodotina que inhibe los microtúbulos",
+      "indicacoes": "Mieloma múltiple recidivante/refractario tras ≥4 líneas de tratamiento",
+      "reacoesAdversas": "Queratopatía, visión borrosa, trombocitopenia, náuseas, fiebre, fatiga",
+      "riscoGravidez": "Categoría D – riesgo fetal",
+      "riscoLactacao": "Desconocido; evitar lactancia 3 meses post tratamiento",
+      "administracao": "Infusión IV cada 3 semanas",
+      "doseMaxima": "2,5 mg/kg cada 3 semanas",
+      "doseMinima": "1,9 mg/kg si hay toxicidad ocular",
+      "classificacao": "Conjugado anticuerpo-fármaco anti-BCMA",
+      "apresentacao": "Vial liofilizado de 100 mg",
+      "interacaoMedicamento": "Evitar combinación con fármacos tóxicos para la córnea",
+      "posologia": "2,5 mg/kg IV q3w; ajustar según toxicidad",
+      "armazenamento": "2–8°C; solución reconstituida usar en 24h",
+      "preparo": "Diluir en NaCl 0,9%; infundir en 30 minutos",
+      "solucoesCompatíveis": "ClNa 0,9%",
+      "contraindicacoes": "Embarazo, hipersensibilidad",
+      "cuidadosMedicos": "Requiere evaluación oftalmológica previa a cada dosis",
+      "cuidadosFarmaceuticos": "Conservar refrigerado; preparación aséptica",
+      "cuidadosEnfermagem": "Monitorear visión, hemograma; educar sobre toxicidad ocular",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "贝兰妥玛福多汀",
+      "suspension": "择期手术前30天停药",
+      "risk": "眼毒性、免疫抑制、术后感染与愈合风险",
+      "reintroduction": "术后眼科评估及组织恢复良好后再使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "贝兰妥玛福多汀",
+      "nomeComercial": "Blenrep",
+      "mecanismoAcao": "抗BCMA单抗与微管毒素马福多汀结合，诱导多发性骨髓瘤细胞凋亡",
+      "farmacocinetica": "静脉注射，半衰期12天，蛋白代谢，非肾清除",
+      "farmacodinamica": "靶向BCMA，释放毒素破坏微管结构",
+      "indicacoes": "复发或难治性多发性骨髓瘤（经≥4种治疗）",
+      "reacoesAdversas": "角膜病变、视力模糊、血小板减少、恶心、发热、乏力",
+      "riscoGravidez": "D类 – 存在胎儿毒性",
+      "riscoLactacao": "不推荐哺乳，至少停药后3个月内避免",
+      "administracao": "每3周静脉输注1次",
+      "doseMaxima": "每3周2.5 mg/kg",
+      "doseMinima": "眼毒性时降至1.9 mg/kg",
+      "classificacao": "抗BCMA抗体药物偶联物（ADC）",
+      "apresentacao": "100 mg 冻干粉针剂",
+      "interacaoMedicamento": "避免与其他眼毒性药物联用",
+      "posologia": "每3周2.5 mg/kg；如需调整按毒性程度处理",
+      "armazenamento": "2–8°C冷藏，稀释后24小时内使用",
+      "preparo": "用0.9%氯化钠稀释，30分钟内静脉滴注",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "妊娠、药物过敏史",
+      "cuidadosMedicos": "每次输注前必须眼科检查",
+      "cuidadosFarmaceuticos": "冷藏保存，无菌配制",
+      "cuidadosEnfermagem": "监测视力变化、血象，告知患者眼毒性风险",
+      "fontesBibliograficas": "中国药典, FDA, EMA, UpToDate"
+    }
+  }
+}

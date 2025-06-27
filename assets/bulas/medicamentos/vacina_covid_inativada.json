@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina COVID-19 (vírus inativado)",
+      "suspension": "Postergar apenas em casos de febre ≥38°C ou quadro agudo grave",
+      "risk": "Reações leves a moderadas; raros casos de alergia ou miocardite; não há risco de infecção pela vacina",
+      "reintroduction": "Retomar após resolução de quadro febril ou agudo; revacinação conforme calendário de reforço"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "SARS-CoV-2 inativado (cepas inteiras)",
+      "nomeComercial": "CoronaVac (Sinovac/Butantan), Covaxin",
+      "mecanismoAcao": "Induz resposta imune contra múltiplos antígenos do vírus SARS-CoV-2",
+      "farmacocinetica": "Soroconversão em 2–4 semanas após 2ª dose",
+      "farmacodinamica": "Reduz risco de formas graves, hospitalizações e morte por COVID-19",
+      "indicacoes": "Imunização contra COVID-19 em pessoas ≥3 anos; preferencial para crianças, gestantes, idosos e imunossuprimidos quando RNAm ou vetorial não estão disponíveis",
+      "reacoesAdversas": "Dor local, febre, cefaleia, mialgia, fadiga; raramente anafilaxia",
+      "riscoGravidez": "Categoria B – autorizada e recomendada",
+      "riscoLactacao": "Segura",
+      "administracao": "Intramuscular, deltoide (0,5 mL)",
+      "doseMaxima": "2 doses + reforço conforme plano nacional",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacina viral inativada (SARS-CoV-2)",
+      "apresentacao": "0,5 mL/frasco ou seringa (mono ou multidoses)",
+      "interacaoMedicamento": "Pode ser coadministrada com outras vacinas inativadas",
+      "posologia": "2 doses com 2–4 semanas de intervalo; reforço ≥6 meses depois",
+      "armazenamento": "2–8°C; não congelar",
+      "preparo": "Agitar levemente; não diluir",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Anafilaxia à dose anterior ou componente da fórmula",
+      "cuidadosMedicos": "Adiar em quadros febris; avaliar imunocomprometidos severos",
+      "cuidadosFarmaceuticos": "Verificar lote, aspecto, validade; manter cadeia de frio",
+      "cuidadosEnfermagem": "Aplicar IM corretamente; observar 15 minutos após",
+      "fontesBibliograficas": "SBIm, PNI/MS, OMS, ANVISA, FDA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "COVID-19 vaccine (inactivated virus)",
+      "suspension": "Postpone if high fever or acute illness",
+      "risk": "Mild-moderate reactions; no risk of infection; rare anaphylaxis",
+      "reintroduction": "Resume after recovery; follow booster schedules"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Inactivated SARS-CoV-2 virus",
+      "nomeComercial": "CoronaVac, Covaxin",
+      "mecanismoAcao": "Stimulates immune response to whole virus antigens",
+      "farmacocinetica": "Immunity develops 2–4 weeks post 2nd dose",
+      "farmacodinamica": "Prevents severe COVID-19 and reduces hospitalization",
+      "indicacoes": "Ages ≥3 years; suitable for elderly, children, pregnancy, immunosuppressed",
+      "reacoesAdversas": "Injection site pain, fever, headache, fatigue, rare allergy",
+      "riscoGravidez": "Category B – permitted",
+      "riscoLactacao": "Safe",
+      "administracao": "IM, deltoid (0.5 mL)",
+      "doseMaxima": "2-dose primary series + booster(s)",
+      "doseMinima": "0.5 mL",
+      "classificacao": "Inactivated viral vaccine",
+      "apresentacao": "0.5 mL vial/syringe",
+      "interacaoMedicamento": "Can be coadministered with other inactivated vaccines",
+      "posologia": "2 doses 2–4 weeks apart; booster after ≥6 months",
+      "armazenamento": "2–8°C; do not freeze",
+      "preparo": "Do not dilute; shake gently",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Anaphylaxis to prior dose or vaccine component",
+      "cuidadosMedicos": "Screen for illness and severe allergy",
+      "cuidadosFarmaceuticos": "Check cold chain, clarity, expiration",
+      "cuidadosEnfermagem": "IM injection; observe for 15 minutes",
+      "fontesBibliograficas": "WHO, CDC, FDA, Micromedex, Medscape"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna COVID-19 (virus inactivado)",
+      "suspension": "Aplazar en fiebre >38°C o enfermedad aguda",
+      "risk": "Reacciones leves a moderadas; no produce infección; anafilaxia rara",
+      "reintroduction": "Reanudar una vez resuelto el cuadro agudo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "SARS-CoV-2 virus inactivado",
+      "nomeComercial": "CoronaVac, Covaxin",
+      "mecanismoAcao": "Induce inmunidad contra múltiples antígenos virales",
+      "farmacocinetica": "Seroconversión 2–4 semanas tras 2.ª dosis",
+      "farmacodinamica": "Previene enfermedad grave y hospitalización",
+      "indicacoes": "≥3 años, embarazadas, inmunodeprimidos, adultos mayores",
+      "reacoesAdversas": "Dolor, fiebre, cefalea, fatiga",
+      "riscoGravidez": "Categoría B – recomendado",
+      "riscoLactacao": "Seguro",
+      "administracao": "IM deltoides (0,5 mL)",
+      "doseMaxima": "2 dosis + refuerzo según calendario",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacuna inactivada",
+      "apresentacao": "Vial 0,5 mL o jeringa precargada",
+      "interacaoMedicamento": "Compatible con otras vacunas inactivadas",
+      "posologia": "2 dosis con 2–4 semanas de intervalo; refuerzo ≥6 meses",
+      "armazenamento": "2–8°C",
+      "preparo": "Agitar suavemente",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Anafilaxia previa",
+      "cuidadosMedicos": "Evaluar riesgo de reacción alérgica o fiebre",
+      "cuidadosFarmaceuticos": "Cadena de frío, agitación, vencimiento",
+      "cuidadosEnfermagem": "Aplicación IM correcta, observación postvacunación",
+      "fontesBibliograficas": "OMS, EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "灭活新冠疫苗",
+      "suspension": "如发热或感染急性期可推迟接种",
+      "risk": "注射部位疼痛、发热、疲乏、极罕见过敏反应",
+      "reintroduction": "症状缓解后可恢复接种"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "灭活SARS-CoV-2病毒",
+      "nomeComercial": "科兴CoronaVac、Covaxin（印度）",
+      "mecanismoAcao": "诱导广泛的抗体和细胞免疫反应",
+      "farmacocinetica": "两针后2–4周产生抗体",
+      "farmacodinamica": "预防COVID-19重症和死亡",
+      "indicacoes": "3岁以上人群，适合老年人和基础病患者",
+      "reacoesAdversas": "轻度发热、肌痛、注射部位反应",
+      "riscoGravidez": "B类 – 可接种",
+      "riscoLactacao": "安全",
+      "administracao": "三角肌肌肉注射",
+      "doseMaxima": "初种2剂+加强针",
+      "doseMinima": "0.5 mL",
+      "classificacao": "灭活病毒疫苗",
+      "apresentacao": "单剂量瓶或注射器",
+      "interacaoMedicamento": "可与其他灭活疫苗同时接种",
+      "posologia": "0, 28天两剂；加强针在6个月后",
+      "armazenamento": "2–8°C，避免冷冻",
+      "preparo": "注射前轻摇",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "已知过敏、发热、急性感染",
+      "cuidadosMedicos": "评估症状、接种史",
+      "cuidadosFarmaceuticos": "冷链监控、核查批号",
+      "cuidadosEnfermagem": "肌注后观察15–30分钟",
+      "fontesBibliograficas": "中国药典、Micromedex、WHO、CDC"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Delamanida",
+      "suspension": "Suspender 1 dia antes da cirurgia em uso não urgente",
+      "risk": "Prolongamento do QT, interação com anestésicos e risco hepático; metabolizada por CYP3A4",
+      "reintroduction": "Reintroduzir após cirurgia com ECG e enzimas hepáticas estáveis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Delamanida",
+      "nomeComercial": "Deltyba",
+      "mecanismoAcao": "Inibe a síntese de ácido micólico da parede celular do M. tuberculosis",
+      "farmacocinetica": "Oral, meia-vida ~30–38h, metabolização hepática via CYP3A4",
+      "farmacodinamica": "Bactericida contra M. tuberculosis multirresistente (MDR-TB)",
+      "indicacoes": "Tuberculose pulmonar multirresistente (MDR-TB), em combinação com outros agentes",
+      "reacoesAdversas": "QT prolongado, hipoalbuminemia, náusea, hepatotoxicidade, dor torácica",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar durante lactação (dados limitados)",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg 2x/dia",
+      "doseMinima": "50 mg 2x/dia",
+      "classificacao": "Antituberculoso (nitroimidazol)",
+      "apresentacao": "Comprimidos de 50 mg",
+      "interacaoMedicamento": "Interage com outros QT-prolongadores e substratos de CYP3A4",
+      "posologia": "100 mg 2x/dia por até 24 semanas",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral com alimentos para melhor absorção",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "QT prolongado, hipocalemia não corrigida, uso com outros QT-prolongadores",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, função hepática, adesão",
+      "cuidadosFarmaceuticos": "Educar paciente sobre risco cardíaco e importância da adesão",
+      "cuidadosEnfermagem": "Monitorar sinais de arritmia e toxicidade hepática",
+      "fontesBibliograficas": "ANVISA, WHO, UpToDate, Micromedex, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Delamanid",
+      "suspension": "Discontinue 1 day before surgery if not urgent",
+      "risk": "QT prolongation, anesthetic interaction, CYP3A4 metabolism, hepatic risk",
+      "reintroduction": "Restart postoperatively once ECG and liver tests are stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Delamanid",
+      "nomeComercial": "Deltyba",
+      "mecanismoAcao": "Inhibits mycolic acid synthesis in M. tuberculosis cell wall",
+      "farmacocinetica": "Oral, half-life 30–38h, hepatic metabolism via CYP3A4",
+      "farmacodinamica": "Bactericidal against multidrug-resistant M. tuberculosis (MDR-TB)",
+      "indicacoes": "MDR-TB in combination with other drugs",
+      "reacoesAdversas": "QT prolongation, hypoalbuminemia, nausea, hepatotoxicity, chest pain",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid during breastfeeding (limited data)",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg BID",
+      "doseMinima": "50 mg BID",
+      "classificacao": "Antituberculosis (nitroimidazole)",
+      "apresentacao": "50 mg tablets",
+      "interacaoMedicamento": "Interacts with QT-prolonging agents, CYP3A4 substrates",
+      "posologia": "100 mg twice daily for up to 24 weeks",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Oral use with food for better absorption",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "QT prolongation, uncorrected hypokalemia, use with other QT-prolonging drugs",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, liver function, adherence",
+      "cuidadosFarmaceuticos": "Counsel on cardiac risk and importance of full course",
+      "cuidadosEnfermagem": "Watch for arrhythmia and liver toxicity",
+      "fontesBibliograficas": "WHO, FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Delamanida",
+      "suspension": "Suspender 1 día antes de la cirugía si no es urgente",
+      "risk": "Riesgo de prolongación del QT, interacciones anestésicas y metabolismo hepático (CYP3A4)",
+      "reintroduction": "Reintroducir tras estabilización cardíaca y hepática postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Delamanida",
+      "nomeComercial": "Deltyba",
+      "mecanismoAcao": "Inhibe la síntesis de ácido micólico de la pared de M. tuberculosis",
+      "farmacocinetica": "Oral, vida media 30–38h, metabolismo hepático por CYP3A4",
+      "farmacodinamica": "Bactericida contra M. tuberculosis multirresistente (MDR-TB)",
+      "indicacoes": "Tuberculosis pulmonar multirresistente (en combinación)",
+      "reacoesAdversas": "QT prolongado, hipoalbuminemia, náuseas, hepatotoxicidad, dolor torácico",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante lactancia (datos limitados)",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg dos veces al día",
+      "doseMinima": "50 mg dos veces al día",
+      "classificacao": "Antituberculoso (nitroimidazol)",
+      "apresentacao": "Comprimidos de 50 mg",
+      "interacaoMedicamento": "Interacción con fármacos que prolongan el QT y sustratos de CYP3A4",
+      "posologia": "100 mg dos veces/día hasta 24 semanas",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "Administración oral con alimentos",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "QT prolongado, hipokalemia no corregida, uso con otros QT-prolongadores",
+      "cuidadosMedicos": "Monitorear ECG, electrolitos, hígado y adherencia",
+      "cuidadosFarmaceuticos": "Educar sobre riesgos cardíacos y completar el tratamiento",
+      "cuidadosEnfermagem": "Observar toxicidad hepática y arritmias",
+      "fontesBibliograficas": "OMS, FDA, BNF, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "德拉马尼",
+      "suspension": "择期手术建议术前1天停药",
+      "risk": "存在QT延长、麻醉相互作用及肝毒性风险，经CYP3A4代谢",
+      "reintroduction": "术后心电图和肝功能恢复稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "德拉马尼",
+      "nomeComercial": "Deltyba",
+      "mecanismoAcao": "抑制分枝杆菌细胞壁脂肪酸（甲酰酸）合成",
+      "farmacocinetica": "口服，半衰期30–38小时，肝脏CYP3A4代谢",
+      "farmacodinamica": "对耐多药结核杆菌具有杀菌作用",
+      "indicacoes": "耐多药肺结核（与其他药物联合使用）",
+      "reacoesAdversas": "QT间期延长、低白蛋白血症、恶心、肝毒性、胸痛",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期避免使用（资料有限）",
+      "administracao": "口服",
+      "doseMaxima": "每日两次，每次100毫克",
+      "doseMinima": "每日两次，每次50毫克",
+      "classificacao": "抗结核药（硝基咪唑类）",
+      "apresentacao": "50毫克片剂",
+      "interacaoMedicamento": "与延长QT药物、CYP3A4底物相互作用",
+      "posologia": "每日2次100mg，疗程可达24周",
+      "armazenamento": "室温保存，避光",
+      "preparo": "口服，随餐服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "QT延长、未纠正的低钾血症、与QT延长药联用",
+      "cuidadosMedicos": "监测心电图、电解质、肝功能及依从性",
+      "cuidadosFarmaceuticos": "指导患者了解QT风险和治疗周期",
+      "cuidadosEnfermagem": "监测心律及肝毒性表现",
+      "fontesBibliograficas": "WHO、中国药典、Micromedex、UpToDate"
+    }
+  }
+}

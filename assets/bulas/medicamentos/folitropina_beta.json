@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Folitropina beta",
+      "suspension": "Suspender 5 dias antes de cirurgia eletiva com risco de hiperestimulação ovariana ou trombose",
+      "risk": "Síndrome de hiperestimulação ovariana (OHSS), dor abdominal, cefaleia, reações no local da injeção, trombose venosa profunda",
+      "reintroduction": "Reintroduzir 7 dias após a cirurgia, com função hormonal e estabilidade clínica restabelecidas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Folitropina beta",
+      "nomeComercial": "Puregon",
+      "mecanismoAcao": "Hormônio folículo-estimulante (FSH) recombinante; estimula crescimento e maturação folicular ovariana e espermatogênese",
+      "farmacocinetica": "Administração SC; T½ ~30h; metabolização hepática mínima; excreção renal",
+      "farmacodinamica": "Ativa receptores de FSH em células da granulosa e Sertoli, promovendo esteroidogênese e maturação folicular",
+      "indicacoes": "Estimulação ovariana controlada, anovulação, indução da ovulação, hipogonadismo hipogonadotrófico, infertilidade masculina",
+      "reacoesAdversas": "OHSS, distensão abdominal, dor pélvica, cefaleia, náusea, irritação no local da aplicação",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "SC diária, com ajuste conforme resposta ovariana",
+      "doseMaxima": "450 UI/dia",
+      "doseMinima": "50 UI/dia",
+      "classificacao": "Hormônio gonadotrófico recombinante (FSH-r)",
+      "apresentacao": "Caneta preenchida (300 UI, 600 UI, 900 UI), frascos de 50 UI, 100 UI, 150 UI",
+      "interacaoMedicamento": "Uso conjunto com LH ou hCG; risco aumentado de OHSS com estradiol alto",
+      "posologia": "50–150 UI/dia SC por até 12 dias; ajustar individualmente",
+      "armazenamento": "Refrigerado (2–8°C); pode ser mantido fora da geladeira por até 28 dias a <25°C",
+      "preparo": "Uso direto em caneta ou reconstituir pó com diluente fornecido",
+      "solucoesCompatíveis": "Diluente do fabricante",
+      "contraindicacoes": "OHSS prévio, neoplasias hormônio-dependentes, gravidez, sangramento ginecológico não diagnosticado",
+      "cuidadosMedicos": "Monitorar resposta ovariana por ultrassonografia e estradiol; evitar OHSS",
+      "cuidadosFarmaceuticos": "Orientar sobre uso correto da caneta, conservação, descarte de agulhas",
+      "cuidadosEnfermagem": "Observar reações locais, dor abdominal, náuseas, sinais de trombose",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, UpToDate, SBRA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Follitropin beta",
+      "suspension": "Hold 5 days before surgery if high risk for OHSS or thromboembolism",
+      "risk": "OHSS, abdominal pain, bloating, headache, local reactions, thrombotic events",
+      "reintroduction": "Restart ~7 days postop when stable and hormone markers normalized"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Follitropin beta",
+      "nomeComercial": "Follistim AQ, Puregon",
+      "mecanismoAcao": "Recombinant FSH; stimulates follicular development and spermatogenesis",
+      "farmacocinetica": "SC; T½ ~30h; minimal hepatic metabolism; renal elimination",
+      "farmacodinamica": "Binds FSH receptors on granulosa/Sertoli cells to promote steroidogenesis and gamete maturation",
+      "indicacoes": "Ovulation induction, ART, hypogonadotropic hypogonadism",
+      "reacoesAdversas": "OHSS, abdominal/pelvic pain, nausea, injection site erythema, VTE",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Not recommended",
+      "administracao": "SC daily, dose titrated to response",
+      "doseMaxima": "450 IU/day",
+      "doseMinima": "50 IU/day",
+      "classificacao": "Recombinant gonadotropin hormone (FSH)",
+      "apresentacao": "Cartridges 300, 600, 900 IU; vials 50–150 IU",
+      "interacaoMedicamento": "Used with LH/hCG; increased OHSS risk with high estradiol",
+      "posologia": "Starting at 75–150 IU/day SC up to 12 days",
+      "armazenamento": "2–8°C; room temp ≤25°C for ≤28 days",
+      "preparo": "Use prefilled pen or reconstitute vial with diluent",
+      "solucoesCompatíveis": "Manufacturer diluent only",
+      "contraindicacoes": "OHSS, estrogen-dependent tumors, pregnancy, unknown vaginal bleeding",
+      "cuidadosMedicos": "Monitor US and E2 levels; avoid OHSS",
+      "cuidadosFarmaceuticos": "Cold chain, pen instruction, needle safety",
+      "cuidadosEnfermagem": "Monitor pain, bloating, OHSS, leg swelling",
+      "fontesBibliograficas": "FDA label, UpToDate, Micromedex, NCCN"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Folitropina beta",
+      "suspension": "Suspender 5 días antes si riesgo elevado de OHSS o trombosis",
+      "risk": "OHSS, distensión abdominal, cefalea, reacción local, eventos trombóticos",
+      "reintroduction": "Reiniciar tras resolución hormonal y estabilidad (7 días)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Folitropina beta",
+      "nomeComercial": "Puregon",
+      "mecanismoAcao": "FSH recombinante; estimula foliculogénesis y espermatogénesis",
+      "farmacocinetica": "SC; T½ ~30h; metabolismo hepático leve; eliminación renal",
+      "farmacodinamica": "Activa receptores FSH en granulosa/testículo",
+      "indicacoes": "Estimulación ovárica, anovulación, hipogonadismo masculino",
+      "reacoesAdversas": "Dolor abdominal, hinchazón, cefalea, OHSS, reacción SC",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "SC diario según respuesta",
+      "doseMaxima": "450 UI/día",
+      "doseMinima": "50 UI/día",
+      "classificacao": "FSH recombinante",
+      "apresentacao": "Plumas 300–900 UI; viales 50–150 UI + diluyente",
+      "interacaoMedicamento": "Con LH/hCG; OHSS con estradiol alto",
+      "posologia": "75–150 UI/día SC hasta 12 días",
+      "armazenamento": "2–8°C o <25°C por 28 días",
+      "preparo": "Pluma precargada o reconstituido",
+      "solucoesCompatíveis": "Diluyente original",
+      "contraindicacoes": "OHSS, embarazo, sangrado no diagnosticado",
+      "cuidadosMedicos": "E2, ecografía, signos de OHSS",
+      "cuidadosFarmaceuticos": "Educación sobre conservación, uso correcto",
+      "cuidadosEnfermagem": "Observar distensión, dolor, edema, dificultad respiratoria",
+      "fontesBibliograficas": "EMA, SEF, ficha técnica, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "重组卵泡刺激素β",
+      "suspension": "术前5天停药，高OHSS或血栓风险患者",
+      "risk": "卵巢过度刺激综合征、腹痛、注射红肿、血栓、头痛",
+      "reintroduction": "术后7天激素恢复稳定后重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "重组卵泡刺激素β",
+      "nomeComercial": "Puregon",
+      "mecanismoAcao": "FSH受体激动剂，刺激卵泡发育或精子形成",
+      "farmacocinetica": "SC注射；T½约30小时；主要经肾排泄",
+      "farmacodinamica": "直接激活FSH受体，调节雌激素与精子生成",
+      "indicacoes": "诱导排卵、辅助生殖、男性不育",
+      "reacoesAdversas": "腹胀、OHSS、注射反应、水肿、血栓",
+      "riscoGravidez": "X类 – 禁用于妊娠期",
+      "riscoLactacao": "禁用",
+      "administracao": "每日皮下注射，个体化调整",
+      "doseMaxima": "每日450 IU",
+      "doseMinima": "每日50 IU",
+      "classificacao": "重组人FSH激素",
+      "apresentacao": "笔芯装300/600/900 IU；冻干粉50–150 IU+稀释液",
+      "interacaoMedicamento": "与hCG联用；高雌激素时易致OHSS",
+      "posologia": "每日75–150 IU，根据反应逐步调整",
+      "armazenamento": "2–8°C，稀释后24小时内使用",
+      "preparo": "即配即用或使用笔芯",
+      "solucoesCompatíveis": "厂家稀释液",
+      "contraindicacoes": "OHSS史、激素相关肿瘤、孕期",
+      "cuidadosMedicos": "监测卵泡、E2、B超、血栓风险",
+      "cuidadosFarmaceuticos": "冷藏、教育注射技术、安全处理针头",
+      "cuidadosEnfermagem": "观察局部不适、腹胀、呼吸困难",
+      "fontesBibliograficas": "中国药典、EMA、SEER、Micromedex、UpToDate"
+    }
+  }
+}

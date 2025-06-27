@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ramipril",
+      "suspension": "Suspender 24 horas antes de cirurgia eletiva com anestesia geral para evitar hipotensão refratária",
+      "risk": "Risco de hipotensão intraoperatória; pode causar hipercalemia e alteração da função renal",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e função renal adequada no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ramipril",
+      "nomeComercial": "Triatec, Altace",
+      "mecanismoAcao": "Inibidor da ECA (enzima conversora da angiotensina); reduz formação de angiotensina II e secreção de aldosterona",
+      "farmacocinetica": "Pró-fármaco convertido em ramiprilato; início: 1–2h; Tmáx: 3–6h; meia-vida: 13–17h; excreção renal",
+      "farmacodinamica": "Reduz pressão arterial, pós-carga e remodelamento cardíaco; efeito antiproteinúrico em nefropatias",
+      "indicacoes": "Hipertensão, insuficiência cardíaca, prevenção secundária após infarto, nefropatia diabética",
+      "reacoesAdversas": "Tosse seca, hipotensão, hipercalemia, tontura, disfunção renal, angioedema (raro)",
+      "riscoGravidez": "Categoria D – contraindicado no 2º e 3º trimestres",
+      "riscoLactacao": "Evitar; excreção no leite humano não recomendada",
+      "administracao": "Oral",
+      "doseMaxima": "10 mg/dia",
+      "doseMinima": "1,25 mg/dia",
+      "classificacao": "Inibidor da ECA – anti-hipertensivo",
+      "apresentacao": "Comprimidos de 1,25 mg, 2,5 mg, 5 mg, 10 mg",
+      "interacaoMedicamento": "Aumenta risco com diuréticos poupadores de potássio, AINEs, lítio",
+      "posologia": "Início: 2,5 mg/dia; manutenção: 2,5–10 mg/dia em 1 ou 2 tomadas",
+      "armazenamento": "Temperatura ambiente (15–30 °C)",
+      "preparo": "Uso direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Angioedema prévio, estenose bilateral da artéria renal, gravidez, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar função renal e eletrólitos regularmente",
+      "cuidadosFarmaceuticos": "Orientar sobre sinais de hipotensão e evitar AINEs concomitantes",
+      "cuidadosEnfermagem": "Observar pressão, débito urinário, sintomas de angioedema",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, Bula Triatec"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ramipril",
+      "suspension": "Hold 24 hours before elective surgery with general anesthesia to avoid refractory hypotension",
+      "risk": "Intraoperative hypotension risk; may cause hyperkalemia and renal impairment",
+      "reintroduction": "Restart after hemodynamic and renal function stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ramipril",
+      "nomeComercial": "Altace",
+      "mecanismoAcao": "ACE inhibitor; reduces angiotensin II formation and aldosterone secretion",
+      "farmacocinetica": "Prodrug; Tmax 3–6h; half-life 13–17h; renal elimination",
+      "farmacodinamica": "Lowers BP, afterload, cardiac remodeling; nephroprotective in proteinuria",
+      "indicacoes": "Hypertension, heart failure, post-MI prevention, diabetic nephropathy",
+      "reacoesAdversas": "Dry cough, hypotension, hyperkalemia, dizziness, renal dysfunction, rare angioedema",
+      "riscoGravidez": "Category D (2nd/3rd trimester)",
+      "riscoLactacao": "Avoid; may be excreted in human milk",
+      "administracao": "Oral",
+      "doseMaxima": "10 mg/day",
+      "doseMinima": "1.25 mg/day",
+      "classificacao": "ACE inhibitor – antihypertensive",
+      "apresentacao": "Tablets: 1.25, 2.5, 5, 10 mg",
+      "interacaoMedicamento": "Interacts with K-sparing diuretics, NSAIDs, lithium",
+      "posologia": "Start: 2.5 mg/day; maintenance: 2.5–10 mg/day in 1–2 doses",
+      "armazenamento": "15–30 °C, dry environment",
+      "preparo": "Direct oral use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "History of angioedema, bilateral renal artery stenosis, pregnancy",
+      "cuidadosMedicos": "Monitor renal function, potassium, BP",
+      "cuidadosFarmaceuticos": "Educate on hypotension signs, avoid NSAIDs",
+      "cuidadosEnfermagem": "Check BP, edema, renal output, facial swelling",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Altace PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ramipril",
+      "suspension": "Suspender 24 h antes de cirugía con anestesia general para prevenir hipotensión refractaria",
+      "risk": "Riesgo de hipotensión intraoperatoria, hipercalemia y disfunción renal",
+      "reintroduction": "Reiniciar tras estabilización hemodinámica y función renal adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ramipril",
+      "nomeComercial": "Triatec",
+      "mecanismoAcao": "Inhibidor de la ECA; reduce angiotensina II y aldosterona",
+      "farmacocinetica": "Pró-fármaco; Tmax 3–6 h; vida media 13–17 h; eliminación renal",
+      "farmacodinamica": "Reduce PA, poscarga y remodelado cardíaco; protege riñón",
+      "indicacoes": "Hipertensión, insuficiencia cardíaca, prevención post-infarto, nefropatía diabética",
+      "reacoesAdversas": "Tos seca, hipotensión, hipercalemia, mareos, disfunción renal, angioedema (raro)",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Oral",
+      "doseMaxima": "10 mg/día",
+      "doseMinima": "1,25 mg/día",
+      "classificacao": "Inhibidor ECA – antihipertensivo",
+      "apresentacao": "Comprimidos 1,25, 2,5, 5, 10 mg",
+      "interacaoMedicamento": "Interacción con diuréticos ahorradores de K, AINEs, litio",
+      "posologia": "Inicio: 2,5 mg/día; mantenimiento: 2,5–10 mg/día en 1–2 tomas",
+      "armazenamento": "15–30 °C",
+      "preparo": "Uso directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Angioedema previo, estenosis renal bilateral, embarazo",
+      "cuidadosMedicos": "Monitorizar PA, función renal, potasio",
+      "cuidadosFarmaceuticos": "Evitar AINEs, advertir sobre signos de hipotensión",
+      "cuidadosEnfermagem": "Observar PA, edema, síntomas de angioedema",
+      "fontesBibliograficas": "Micromedex, AEMPS, ficha técnica Triatec"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "雷米普利",
+      "suspension": "择期手术前24小时停药，防止麻醉下顽固性低血压",
+      "risk": "术中低血压风险；可致高钾血症及肾功能障碍",
+      "reintroduction": "术后血流动力学稳定和肾功能恢复后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "雷米普利（Ramipril）",
+      "nomeComercial": "Triatec、Altace",
+      "mecanismoAcao": "ACE抑制剂，抑制血管紧张素II生成与醛固酮分泌",
+      "farmacocinetica": "为前药，经肝转化；Tmax约3–6小时；半衰期13–17小时；肾排泄",
+      "farmacodinamica": "降压、减轻心脏负荷、防止心肌重构；对肾有保护作用",
+      "indicacoes": "高血压、心力衰竭、心梗后预防、糖尿病肾病",
+      "reacoesAdversas": "干咳、低血压、高钾、头晕、肾损伤、血管性水肿（罕见）",
+      "riscoGravidez": "D类（孕中晚期禁用）",
+      "riscoLactacao": "避免使用",
+      "administracao": "口服",
+      "doseMaxima": "每日10 mg",
+      "doseMinima": "每日1.25 mg",
+      "classificacao": "ACE抑制剂 – 降压药",
+      "apresentacao": "片剂：1.25、2.5、5、10 mg",
+      "interacaoMedicamento": "与保钾利尿剂、NSAIDs、锂剂等合用有风险",
+      "posologia": "起始2.5 mg/日；维持2.5–10 mg/日，分1–2次服用",
+      "armazenamento": "室温保存，15–30°C",
+      "preparo": "直接服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "血管性水肿史、双肾动脉狭窄、孕期",
+      "cuidadosMedicos": "监测血压、肾功能和血钾",
+      "cuidadosFarmaceuticos": "教育患者避免NSAIDs并警惕低血压症状",
+      "cuidadosEnfermagem": "观察低血压、尿量、面部肿胀",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Triatec说明书"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Regorafenibe",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de má cicatrização, hipertensão, sangramentos e eventos tromboembólicos",
+      "reintroduction": "Reintroduzir após cicatrização completa e controle pressórico adequado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Regorafenibe",
+      "nomeComercial": "Stivarga",
+      "mecanismoAcao": "Inibidor multiquinase que atua em VEGFR, PDGFR, FGFR, RET e KIT, inibindo proliferação tumoral e angiogênese",
+      "farmacocinetica": "Biodisponibilidade oral ~69–83%; meia-vida de 20–30 h; metabolização hepática (CYP3A4, UGT1A9)",
+      "farmacodinamica": "Bloqueio de múltiplas vias de crescimento tumoral e vascular",
+      "indicacoes": "Câncer colorretal metastático, tumor estromal gastrointestinal (GIST), carcinoma hepatocelular",
+      "reacoesAdversas": "Fadiga, diarreia, síndrome mão-pé, hipertensão, elevação de transaminases, disfonia",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via oral",
+      "doseMaxima": "160 mg/dia (4 comprimidos de 40 mg)",
+      "doseMinima": "80 mg/dia (ajustada conforme tolerância)",
+      "classificacao": "Antineoplásico – inibidor de tirosina quinase multialvo",
+      "apresentacao": "Comprimidos de 40 mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores do CYP3A4, risco com anticoagulantes e anti-hipertensivos",
+      "posologia": "160 mg/dia por 21 dias em ciclos de 28 dias (21 dias ativos + 7 dias de pausa)",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Não requer preparo; comprimidos devem ser ingeridos inteiros com água",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, hipertensão descontrolada, sangramento ativo, perfuração GI",
+      "cuidadosMedicos": "Monitorar PA, enzimas hepáticas, integridade cutânea e eventos trombóticos",
+      "cuidadosFarmaceuticos": "Orientar sobre uso cíclico, jejum relativo e sinais de toxicidade",
+      "cuidadosEnfermagem": "Observar toxicidade cutânea, PA e sintomas GI",
+      "fontesBibliograficas": "INCA, FDA, EMA, ANVISA, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Regorafenib",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of poor wound healing, hypertension, bleeding, thromboembolic events",
+      "reintroduction": "Restart after wound healing and BP control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Regorafenib",
+      "nomeComercial": "Stivarga",
+      "mecanismoAcao": "Multikinase inhibitor targeting VEGFR, PDGFR, FGFR, KIT, RET, inhibiting tumor growth and angiogenesis",
+      "farmacocinetica": "Oral bioavailability ~69–83%; half-life 20–30 h; hepatic metabolism (CYP3A4, UGT1A9)",
+      "farmacodinamica": "Blocks multiple tumor proliferation and vascular pathways",
+      "indicacoes": "Metastatic colorectal cancer, GIST, hepatocellular carcinoma",
+      "reacoesAdversas": "Fatigue, diarrhea, hand-foot syndrome, hypertension, elevated LFTs, hoarseness",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "160 mg/day (4 x 40 mg tablets)",
+      "doseMinima": "80 mg/day (adjust as tolerated)",
+      "classificacao": "Antineoplastic – multikinase tyrosine kinase inhibitor",
+      "apresentacao": "Tablets: 40 mg",
+      "interacaoMedicamento": "CYP3A4 interactions; monitor with anticoagulants and antihypertensives",
+      "posologia": "160 mg daily for 21 days of a 28-day cycle (21 on, 7 off)",
+      "armazenamento": "Store at 15–30°C, protect from moisture and light",
+      "preparo": "No preparation needed; swallow whole with water",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, uncontrolled hypertension, active bleeding, GI perforation",
+      "cuidadosMedicos": "Monitor BP, liver function, skin integrity, thrombotic events",
+      "cuidadosFarmaceuticos": "Educate on cyclic use, food interaction, toxicity signs",
+      "cuidadosEnfermagem": "Monitor for skin reactions, BP, GI symptoms",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Regorafenib",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de mala cicatrización, hipertensión, sangrado y trombosis",
+      "reintroduction": "Reintroducir tras cicatrización completa y control de presión arterial"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Regorafenib",
+      "nomeComercial": "Stivarga",
+      "mecanismoAcao": "Inhibidor multiquinasa (VEGFR, PDGFR, FGFR, KIT, RET), bloquea proliferación tumoral y angiogénesis",
+      "farmacocinetica": "Biodisponibilidad oral ~69–83%; vida media 20–30 h; metabolizado por CYP3A4, UGT1A9",
+      "farmacodinamica": "Bloquea múltiples vías tumorales y vasculares",
+      "indicacoes": "Cáncer colorrectal metastásico, GIST, carcinoma hepatocelular",
+      "reacoesAdversas": "Fatiga, diarrea, síndrome mano-pie, hipertensión, transaminasas elevadas, disfonía",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "160 mg/día (4 x 40 mg)",
+      "doseMinima": "80 mg/día (ajustable)",
+      "classificacao": "Antineoplásico – inhibidor de tirosina quinasa multiquinasa",
+      "apresentacao": "Comprimidos de 40 mg",
+      "interacaoMedicamento": "Interacciones con CYP3A4, anticoagulantes, antihipertensivos",
+      "posologia": "160 mg/día por 21 días, luego 7 días de descanso (ciclos de 28 días)",
+      "armazenamento": "15–30°C, protegido de luz y humedad",
+      "preparo": "No requiere preparación, tomar con agua",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, hipertensión no controlada, sangrado activo, perforación GI",
+      "cuidadosMedicos": "Controlar PA, función hepática, piel y eventos trombóticos",
+      "cuidadosFarmaceuticos": "Orientar sobre ciclos, interacciones y toxicidades",
+      "cuidadosEnfermagem": "Vigilar piel, PA y síntomas gastrointestinales",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "瑞戈非尼",
+      "suspension": "术前7天停药",
+      "risk": "术后愈合延迟、高血压、出血和血栓事件风险",
+      "reintroduction": "伤口愈合和血压控制后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "瑞戈非尼",
+      "nomeComercial": "Stivarga",
+      "mecanismoAcao": "多靶点酪氨酸激酶抑制剂，作用于VEGFR、PDGFR、FGFR、KIT、RET",
+      "farmacocinetica": "口服生物利用度69–83%；半衰期20–30小时；CYP3A4代谢",
+      "farmacodinamica": "抑制肿瘤细胞增殖与血管生成",
+      "indicacoes": "转移性结直肠癌、胃肠间质瘤（GIST）、肝细胞癌",
+      "reacoesAdversas": "乏力、腹泻、手足综合征、高血压、转氨酶升高、声音嘶哑",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日160毫克（4粒40 mg）",
+      "doseMinima": "每日80毫克",
+      "classificacao": "抗肿瘤药 – 多靶点酪氨酸激酶抑制剂",
+      "apresentacao": "片剂40 mg",
+      "interacaoMedicamento": "与CYP3A4药物、抗凝药、降压药相互作用",
+      "posologia": "每日160 mg，连续服用21天，停药7天，28天为一周期",
+      "armazenamento": "15–30°C避光避湿保存",
+      "preparo": "无需制备，整片吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、未控制高血压、活动性出血、胃肠穿孔",
+      "cuidadosMedicos": "监测血压、肝功能、皮肤完整性及血栓事件",
+      "cuidadosFarmaceuticos": "指导周期性服药及监测副作用",
+      "cuidadosEnfermagem": "观察皮肤毒性、高血压及胃肠道症状",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Carboximaltose Férrica",
+      "suspension": "Suspender 3 dias antes de cirurgia com risco de reação infusionais ou sobrecarga férrica",
+      "risk": "Pode causar reações infusionais graves, sobrecarga de ferro e interferência com exames laboratoriais. Risco aumentado próximo ao ato anestésico.",
+      "reintroduction": "Reintroduzir após avaliação de estabilidade clínica, função hepática e níveis de ferritina e transferrina."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carboximaltose Férrica",
+      "nomeComercial": "Ferinject",
+      "mecanismoAcao": "Complexo de ferro que fornece ferro biodisponível gradualmente para síntese de hemoglobina",
+      "farmacocinetica": "Administração IV; meia-vida terminal de 7–12h; rápida captação hepática e reticuloendotelial; eliminação fecal mínima",
+      "farmacodinamica": "Corrige a deficiência de ferro com alta eficácia em dose única; restaura estoques corporais",
+      "indicacoes": "Anemia ferropriva em DRC, doenças inflamatórias, pós-parto, intolerância ao ferro oral",
+      "reacoesAdversas": "Hipotensão, náuseas, tontura, cefaleia, dor abdominal, rash, prurido, hipofosfatemia",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível com amamentação",
+      "administracao": "Infusão intravenosa lenta (até 1000 mg por sessão)",
+      "doseMaxima": "1000 mg por semana",
+      "doseMinima": "500 mg por sessão",
+      "classificacao": "Repositor de ferro intravenoso",
+      "apresentacao": "Frasco de 500 mg/10 mL ou 1000 mg/20 mL",
+      "interacaoMedicamento": "Afeta interpretação de exames de ferro; evitar administração concomitante com outros compostos férricos",
+      "posologia": "Calcular necessidade com fórmula de Ganzoni ou protocolo local",
+      "armazenamento": "15–30°C, protegido da luz",
+      "preparo": "Pronto para uso; pode ser diluído em SF 0,9%",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%",
+      "contraindicacoes": "Hipersensibilidade, sobrecarga de ferro, anemia não ferropriva",
+      "cuidadosMedicos": "Monitorar ferritina, TSAT, sinais de anafilaxia ou reações infusionais",
+      "cuidadosFarmaceuticos": "Evitar agitação; uso imediato após abertura",
+      "cuidadosEnfermagem": "Monitorar sinais vitais durante a infusão; observar reações adversas",
+      "fontesBibliograficas": "ANVISA, EMA, KDIGO, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ferric Carboxymaltose",
+      "suspension": "Discontinue 3 days before surgery if infusion reactions or iron overload are a concern",
+      "risk": "Potential for severe infusion reactions and iron overload; interferes with iron studies; increased risk perioperatively",
+      "reintroduction": "Reintroduce after clinical stability and lab confirmation of safe iron stores"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ferric Carboxymaltose",
+      "nomeComercial": "Injectafer",
+      "mecanismoAcao": "Provides bioavailable iron for incorporation into hemoglobin",
+      "farmacocinetica": "IV route; half-life 7–12h; hepatic uptake; minimal urinary excretion",
+      "farmacodinamica": "Rapid iron repletion with high-dose IV administration",
+      "indicacoes": "Iron-deficiency anemia in CKD, postpartum, GI loss, or oral iron intolerance",
+      "reacoesAdversas": "Hypotension, headache, nausea, dizziness, rash, hypophosphatemia",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe during breastfeeding",
+      "administracao": "IV infusion of up to 1000 mg per session",
+      "doseMaxima": "1000 mg/week",
+      "doseMinima": "500 mg/session",
+      "classificacao": "IV iron supplement",
+      "apresentacao": "500 mg/10 mL or 1000 mg/20 mL vials",
+      "interacaoMedicamento": "Interferes with iron labs; do not co-administer with oral iron",
+      "posologia": "Dosage based on weight and hemoglobin/ferritin/TSAT levels",
+      "armazenamento": "Store 15–30°C, protect from light",
+      "preparo": "Ready-to-use; may dilute in 0.9% NaCl",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Hypersensitivity, iron overload, non-iron-deficiency anemia",
+      "cuidadosMedicos": "Monitor iron indices and signs of hypersensitivity",
+      "cuidadosFarmaceuticos": "Do not shake; use immediately after opening",
+      "cuidadosEnfermagem": "Observe vitals and infusion site; report adverse symptoms",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, KDIGO, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Carboximaltosa Férrica",
+      "suspension": "Suspender 3 días antes de cirugía si riesgo de sobrecarga o reacciones",
+      "risk": "Riesgo de reacciones infusionais graves, sobrecarga de hierro y alteración en analíticas",
+      "reintroduction": "Reintroducir tras estabilidad clínica y normalización del perfil férrico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carboximaltosa Férrica",
+      "nomeComercial": "Ferinject",
+      "mecanismoAcao": "Aporta hierro biodisponible para síntesis de hemoglobina",
+      "farmacocinetica": "IV, t½ 7–12h, captación hepática, excreción mínima renal",
+      "farmacodinamica": "Repletación rápida de hierro corporal",
+      "indicacoes": "Anemia ferropénica por ERC, parto, inflamación, intolerancia oral",
+      "reacoesAdversas": "Hipotensión, cefalea, náuseas, hipofosfatemia, rash",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible",
+      "administracao": "Infusión IV hasta 1000 mg por sesión",
+      "doseMaxima": "1000 mg/semana",
+      "doseMinima": "500 mg",
+      "classificacao": "Suplemento de hierro intravenoso",
+      "apresentacao": "Viales de 500 y 1000 mg",
+      "interacaoMedicamento": "Interfiere con analíticas; no combinar con otros férricos",
+      "posologia": "Según fórmula de Ganzoni o protocolo clínico",
+      "armazenamento": "15–30 °C, protegido de la luz",
+      "preparo": "Uso directo o diluir en SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Hipersensibilidad, sobrecarga férrica",
+      "cuidadosMedicos": "Monitorear ferritina, TSAT y eventos adversos",
+      "cuidadosFarmaceuticos": "Evitar agitación; uso inmediato tras apertura",
+      "cuidadosEnfermagem": "Vigilar PA y reacciones durante infusión",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, KDIGO"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "羧基麦芽糖铁",
+      "suspension": "术前三天停用以减少输注反应风险",
+      "risk": "有引起过敏反应、铁超负荷、实验室干扰等风险",
+      "reintroduction": "术后血流稳定、铁储存恢复正常后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "羧基麦芽糖铁",
+      "nomeComercial": "Ferinject, Injectafer",
+      "mecanismoAcao": "提供缓释可利用铁用于造血",
+      "farmacocinetica": "静脉给药；半衰期7–12小时；肝摄取；粪便排泄",
+      "farmacodinamica": "快速补铁，改善贫血",
+      "indicacoes": "缺铁性贫血（肾病、产后、胃肠道出血）",
+      "reacoesAdversas": "低血压、头痛、恶心、低磷血症、瘙痒",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "单次最大剂量1000mg静脉缓慢输注",
+      "doseMaxima": "每周1000mg",
+      "doseMinima": "500mg",
+      "classificacao": "静脉补铁剂",
+      "apresentacao": "注射瓶：500mg/10mL 或 1000mg/20mL",
+      "interacaoMedicamento": "干扰铁指标检测；避免与其他铁剂同用",
+      "posologia": "依据Ganzoni公式或临床协议计算缺铁量",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "可直接使用或稀释于0.9%氯化钠",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "铁过载、非缺铁性贫血、过敏史",
+      "cuidadosMedicos": "监测铁蛋白、TSAT和过敏反应",
+      "cuidadosFarmaceuticos": "切勿摇晃，稀释后立即使用",
+      "cuidadosEnfermagem": "监测生命体征与不良反应",
+      "fontesBibliograficas": "中国药典、Micromedex、KDIGO、UpToDate"
+    }
+  }
+}

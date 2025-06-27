@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ipilimumabe",
+      "suspension": "Suspender 30 dias antes da cirurgia eletiva",
+      "risk": "Risco de reações imunomediadas graves (colite, hepatite, pneumonite), potencial interferência na cicatrização",
+      "reintroduction": "Reintroduzir após resolução completa de toxicidades imunomediadas e cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ipilimumabe",
+      "nomeComercial": "Yervoy",
+      "mecanismoAcao": "Anticorpo monoclonal que bloqueia CTLA-4, promovendo ativação e proliferação de células T antitumorais",
+      "farmacocinetica": "Meia-vida terminal de ~15,4 dias; metabolização proteica; administração intravenosa",
+      "farmacodinamica": "Estímulo do sistema imune contra células tumorais via inibição de checkpoint imune",
+      "indicacoes": "Melanoma metastático, carcinoma renal avançado, câncer colorretal MSI-H/dMMR, hepatocarcinoma",
+      "reacoesAdversas": "Colite, dermatite, hepatite, hipofisite, tireoidite, fadiga, diarreia, rash",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; risco de toxicidade imunológica neonatal",
+      "administracao": "Via intravenosa",
+      "doseMaxima": "10 mg/kg a cada 3 semanas (uso específico)",
+      "doseMinima": "1 mg/kg a cada 3 semanas",
+      "classificacao": "Antineoplásico – anticorpo monoclonal anti-CTLA-4",
+      "apresentacao": "Frascos de 50 mg/10 mL e 200 mg/40 mL",
+      "interacaoMedicamento": "Risco aumentado de toxicidade com outros imunoterápicos e corticosteroides",
+      "posologia": "3 mg/kg IV a cada 3 semanas por 4 doses (melanoma), variar conforme tumor",
+      "armazenamento": "Refrigerado entre 2–8°C, não congelar, proteger da luz",
+      "preparo": "Diluir em SF 0,9% e administrar por infusão IV em 90 minutos",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Gravidez, doença autoimune ativa não controlada, infecção grave",
+      "cuidadosMedicos": "Monitorar função hepática, TSH, cortisol, sinais de colite e reações autoimunes",
+      "cuidadosFarmaceuticos": "Manuseio em ambiente controlado, não agitar o frasco, uso imediato após diluição",
+      "cuidadosEnfermagem": "Avaliar sinais de toxicidade imunológica e orientar quanto a sintomas precoces",
+      "fontesBibliograficas": "INCA, FDA, EMA, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ipilimumab",
+      "suspension": "Discontinue 30 days before elective surgery",
+      "risk": "Risk of severe immune-related adverse events (colitis, hepatitis, pneumonitis), delayed healing",
+      "reintroduction": "Restart after complete resolution of immune toxicity and wound recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ipilimumab",
+      "nomeComercial": "Yervoy",
+      "mecanismoAcao": "Monoclonal antibody that blocks CTLA-4, enhancing T-cell activation and proliferation",
+      "farmacocinetica": "Terminal half-life ~15.4 days; degraded by proteolysis; IV route",
+      "farmacodinamica": "Stimulates antitumor immune response by inhibiting immune checkpoint",
+      "indicacoes": "Metastatic melanoma, advanced renal cell carcinoma, MSI-H/dMMR colorectal cancer, hepatocellular carcinoma",
+      "reacoesAdversas": "Colitis, dermatitis, hepatitis, hypophysitis, thyroiditis, fatigue, diarrhea, rash",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; potential neonatal immune toxicity",
+      "administracao": "Intravenous",
+      "doseMaxima": "10 mg/kg every 3 weeks (specific settings)",
+      "doseMinima": "1 mg/kg every 3 weeks",
+      "classificacao": "Antineoplastic – anti-CTLA-4 monoclonal antibody",
+      "apresentacao": "Vials: 50 mg/10 mL and 200 mg/40 mL",
+      "interacaoMedicamento": "Increased toxicity risk with other immunotherapies and steroids",
+      "posologia": "3 mg/kg IV every 3 weeks x 4 doses (melanoma); varies by indication",
+      "armazenamento": "Store at 2–8°C, do not freeze, protect from light",
+      "preparo": "Dilute in NS; IV infusion over 90 minutes",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Pregnancy, uncontrolled active autoimmune disease, severe infection",
+      "cuidadosMedicos": "Monitor liver enzymes, TSH, cortisol, signs of colitis and autoimmune reactions",
+      "cuidadosFarmaceuticos": "Prepare in sterile conditions, do not shake, use immediately after dilution",
+      "cuidadosEnfermagem": "Watch for immune-related toxicity and educate on early symptom reporting",
+      "fontesBibliograficas": "FDA, NCCN, ASCO, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ipilimumab",
+      "suspension": "Suspender 30 días antes de cirugía electiva",
+      "risk": "Riesgo de eventos inmunomediados graves (colitis, hepatitis, neumonitis) y cicatrización retardada",
+      "reintroduction": "Reintroducir tras resolución completa de toxicidades y cicatrización"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ipilimumab",
+      "nomeComercial": "Yervoy",
+      "mecanismoAcao": "Anticuerpo monoclonal que bloquea CTLA-4, activando linfocitos T",
+      "farmacocinetica": "Vida media ~15,4 días; metabolización proteica; vía IV",
+      "farmacodinamica": "Estimula respuesta inmune antitumoral mediante bloqueo de checkpoint",
+      "indicacoes": "Melanoma metastásico, carcinoma renal, cáncer colorrectal MSI-H/dMMR, hepatocarcinoma",
+      "reacoesAdversas": "Colitis, dermatitis, hepatitis, hipofisitis, tiroiditis, fatiga, diarrea, rash",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado; riesgo de toxicidad inmune neonatal",
+      "administracao": "Vía intravenosa",
+      "doseMaxima": "10 mg/kg cada 3 semanas (según caso)",
+      "doseMinima": "1 mg/kg cada 3 semanas",
+      "classificacao": "Antineoplásico – anticuerpo monoclonal anti-CTLA-4",
+      "apresentacao": "Viales de 50 mg/10 mL y 200 mg/40 mL",
+      "interacaoMedicamento": "Mayor toxicidad con inmunoterapia o esteroides",
+      "posologia": "3 mg/kg IV cada 3 semanas por 4 dosis (melanoma), según tumor",
+      "armazenamento": "2–8°C, no congelar, proteger de la luz",
+      "preparo": "Diluir en SF 0,9% y administrar IV en 90 minutos",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Embarazo, autoinmunidad activa no controlada, infección grave",
+      "cuidadosMedicos": "Controlar función hepática, TSH, cortisol y signos de toxicidad inmune",
+      "cuidadosFarmaceuticos": "Preparación estéril, no agitar el frasco, uso inmediato",
+      "cuidadosEnfermagem": "Vigilar toxicidad inmune, educar sobre síntomas tempranos",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伊匹木单抗",
+      "suspension": "术前30天停药",
+      "risk": "免疫相关不良反应风险高（结肠炎、肝炎、肺炎），可能延迟伤口愈合",
+      "reintroduction": "毒性缓解且伤口愈合后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伊匹木单抗",
+      "nomeComercial": "Yervoy",
+      "mecanismoAcao": "CTLA-4单克隆抗体，通过抑制免疫检查点增强T细胞激活",
+      "farmacocinetica": "终末半衰期约15.4天；蛋白降解代谢；静脉注射",
+      "farmacodinamica": "激活免疫系统攻击肿瘤细胞",
+      "indicacoes": "转移性黑色素瘤、肾癌、MSI-H结直肠癌、肝细胞癌",
+      "reacoesAdversas": "结肠炎、皮炎、肝炎、垂体炎、甲状腺炎、乏力、腹泻、皮疹",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用，可致新生儿免疫毒性",
+      "administracao": "静脉注射",
+      "doseMaxima": "每3周10 mg/kg（特定情况）",
+      "doseMinima": "每3周1 mg/kg",
+      "classificacao": "抗肿瘤药 – 抗CTLA-4单克隆抗体",
+      "apresentacao": "注射液：50 mg/10 mL 和 200 mg/40 mL",
+      "interacaoMedicamento": "与其他免疫疗法或糖皮质激素合用时毒性增加",
+      "posologia": "每3周3 mg/kg，连续4次（黑色素瘤方案）",
+      "armazenamento": "2–8°C冷藏，避光，不可冷冻",
+      "preparo": "用0.9%氯化钠稀释后静脉注射90分钟",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "妊娠、严重活动性自身免疫病、重度感染",
+      "cuidadosMedicos": "监测肝酶、TSH、皮质醇、免疫毒性体征",
+      "cuidadosFarmaceuticos": "无菌环境下配制，不得摇晃，立即使用",
+      "cuidadosEnfermagem": "警惕免疫毒性反应，教育患者识别早期症状",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

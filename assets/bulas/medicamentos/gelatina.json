@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Gelatina Succinilada",
+      "suspension": "Suspender 24 horas antes de cirurgia com risco elevado de sangramento ou reação anafilática",
+      "risk": "Pode causar anafilaxia, coagulopatia dilucional e sobrecarga volêmica. Contraindicado em pacientes com histórico de alergia à gelatina bovina.",
+      "reintroduction": "Reintroduzir apenas com monitoramento hemodinâmico rigoroso e indicação formal em expansão volêmica refratária."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gelatina Succinilada Modificada",
+      "nomeComercial": "Gelafundin, Plasmion, Geloplasma",
+      "mecanismoAcao": "Coloide sintético derivado da gelatina que aumenta a pressão oncótica e expande o volume plasmático",
+      "farmacocinetica": "Distribuição intravascular; meia-vida de 3–6 h; excreção renal",
+      "farmacodinamica": "Aumenta temporariamente o volume circulante, melhora débito cardíaco e perfusão tecidual",
+      "indicacoes": "Choque hipovolêmico, hipovolemia perioperatória, substituto do volume plasmático",
+      "reacoesAdversas": "Anafilaxia, coagulopatia, prurido, náusea, disfunção renal, sobrecarga volêmica",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Uso permitido com vigilância clínica",
+      "administracao": "Via intravenosa em infusão lenta",
+      "doseMaxima": "20 mL/kg/dia ou 1500 mL/24 h (adulto)",
+      "doseMinima": "250–500 mL",
+      "classificacao": "Expansor plasmático – coloide sintético",
+      "apresentacao": "Solução a 4% em frascos de 500 mL",
+      "interacaoMedicamento": "Potencializa anticoagulantes, interage com componentes do sistema complemento",
+      "posologia": "500–1000 mL/dose conforme resposta hemodinâmica",
+      "armazenamento": "Temperatura ambiente; uso único após abertura",
+      "preparo": "Solução pronta para uso IV",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%; não misturar com sangue",
+      "contraindicacoes": "Alergia à gelatina, ICC grave, insuficiência renal anúrica, distúrbios graves da coagulação",
+      "cuidadosMedicos": "Monitorar PA, PVC, função renal, sinais de reação alérgica",
+      "cuidadosFarmaceuticos": "Checar integridade da embalagem; não reutilizar",
+      "cuidadosEnfermagem": "Observar anafilaxia, edema, alterações na PA",
+      "fontesBibliograficas": "SBRAE, ANVISA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Succinylated Gelatin",
+      "suspension": "Discontinue 24 hours prior to high-risk bleeding surgeries",
+      "risk": "May cause anaphylaxis, coagulopathy, fluid overload. Avoid in patients with gelatin allergy or renal failure.",
+      "reintroduction": "Restart only under ICU monitoring and clear volume replacement indication."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Succinylated Gelatin",
+      "nomeComercial": "Gelofusine, Plasmion",
+      "mecanismoAcao": "Synthetic colloid derived from gelatin that increases oncotic pressure and plasma volume",
+      "farmacocinetica": "Remains intravascular; t½ ~3–6 h; renal elimination",
+      "farmacodinamica": "Increases circulating volume and improves tissue perfusion temporarily",
+      "indicacoes": "Hypovolemic shock, perioperative volume loss",
+      "reacoesAdversas": "Anaphylaxis, renal impairment, coagulopathy, pruritus",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use with caution",
+      "administracao": "IV infusion",
+      "doseMaxima": "20 mL/kg/day or 1500 mL/day",
+      "doseMinima": "250 mL",
+      "classificacao": "Synthetic colloid plasma expander",
+      "apresentacao": "4% solution in 500 mL bottles",
+      "interacaoMedicamento": "May enhance anticoagulant effect, interfere with complement system",
+      "posologia": "500–1000 mL/dose based on hemodynamics",
+      "armazenamento": "Room temperature, single-use only",
+      "preparo": "Ready to use IV solution",
+      "solucoesCompatíveis": "NS, D5W; do not mix with blood",
+      "contraindicacoes": "Gelatin allergy, severe CHF, anuric renal failure",
+      "cuidadosMedicos": "Monitor BP, renal function, allergic reactions",
+      "cuidadosFarmaceuticos": "Check packaging and do not reuse",
+      "cuidadosEnfermagem": "Observe for anaphylaxis and fluid overload",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Gelatina Succinilada",
+      "suspension": "Suspender 24 h antes de cirugía con alto riesgo hemorrágico",
+      "risk": "Riesgo de anafilaxia, coagulopatía y sobrecarga; contraindicado en alergia a gelatina",
+      "reintroduction": "Reanudar sólo con monitoreo hemodinámico estricto"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gelatina Succinilada",
+      "nomeComercial": "Gelafundin, Geloplasma",
+      "mecanismoAcao": "Coloide sintético derivado de gelatina que aumenta volumen intravascular",
+      "farmacocinetica": "Distribución vascular; t½ 3–6 h; eliminación renal",
+      "farmacodinamica": "Expande volumen circulante, mejora perfusión tisular",
+      "indicacoes": "Shock hipovolémico, pérdidas perioperatorias",
+      "reacoesAdversas": "Anafilaxia, disfunción renal, prurito, alteraciones de coagulación",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Uso bajo control",
+      "administracao": "Infusión IV lenta",
+      "doseMaxima": "20 mL/kg/día o 1500 mL",
+      "doseMinima": "250 mL",
+      "classificacao": "Expansor coloide sintético",
+      "apresentacao": "500 mL solución al 4%",
+      "interacaoMedicamento": "Potencia anticoagulantes; no compatible con sangre",
+      "posologia": "500–1000 mL según necesidad",
+      "armazenamento": "Ambiente; uso único",
+      "preparo": "Listo para uso IV",
+      "solucoesCompatíveis": "SF, glucosa; evitar mezcla con sangre",
+      "contraindicacoes": "ICC, IR anúrica, hipersensibilidad a gelatina",
+      "cuidadosMedicos": "Monitor PA, coagulación, renal",
+      "cuidadosFarmaceuticos": "Verificar bolsa y compatibilidad",
+      "cuidadosEnfermagem": "Observar signos de reacción alérgica y sobrecarga",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "琥珀酰明胶",
+      "suspension": "术前24小时停用高出血风险手术",
+      "risk": "可能引起过敏、凝血障碍、容量负荷过重，肾功能受损",
+      "reintroduction": "术后仅在重症扩容指征下重启，严密监测"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "琥珀酰明胶",
+      "nomeComercial": "Gelafundin、Plasmion、Geloplasma",
+      "mecanismoAcao": "通过胶体渗透压扩容，提升血容量",
+      "farmacocinetica": "分布血管内，半衰期3–6小时，肾排泄",
+      "farmacodinamica": "提升循环容量，改善微循环灌注",
+      "indicacoes": "低血容量休克、术中血容量补充",
+      "reacoesAdversas": "过敏、肾损害、瘙痒、凝血障碍",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "监测下使用",
+      "administracao": "静脉缓慢滴注",
+      "doseMaxima": "每日20 mL/kg或1500 mL",
+      "doseMinima": "250 mL",
+      "classificacao": "人工胶体扩容剂",
+      "apresentacao": "4%溶液500 mL瓶装",
+      "interacaoMedicamento": "增强抗凝剂效应，不可与血制品共输",
+      "posologia": "500–1000 mL按需调节",
+      "armazenamento": "室温保存，单次使用",
+      "preparo": "直接使用，勿与血液混用",
+      "solucoesCompatíveis": "氯化钠、葡萄糖注射液",
+      "contraindicacoes": "对明胶过敏、心衰、无尿、活动性出血",
+      "cuidadosMedicos": "监测血压、尿量、过敏反应",
+      "cuidadosFarmaceuticos": "观察溶液清澈、标签完整",
+      "cuidadosEnfermagem": "警惕容量负荷、速发型过敏反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、EMA"
+    }
+  }
+}

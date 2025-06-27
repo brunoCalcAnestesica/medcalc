@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Degarelix",
+      "suspension": "Não requer suspensão rotineira antes de cirurgias eletivas",
+      "risk": "Reações no local da aplicação, fogachos, aumento de peso, disfunção sexual, dor musculoesquelética, prolongamento de QT",
+      "reintroduction": "Manter ou reintroduzir em 24–48h após cirurgia, conforme tolerância clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Degarelix",
+      "nomeComercial": "Firmagon",
+      "mecanismoAcao": "Antagonista do receptor de GnRH; bloqueia rapidamente a liberação de LH e FSH, suprimindo testosterona sem ‘flare’ inicial",
+      "farmacocinetica": "Administração SC; início rápido; T½ ~28 dias; não metabolizado por CYP; eliminação fecal/renal",
+      "farmacodinamica": "Supressão direta e sustentada do eixo hipotálamo-hipófise-gonadal com queda rápida de testosterona",
+      "indicacoes": "Câncer de próstata avançado hormônio-dependente",
+      "reacoesAdversas": "Dor/inchaço no local da aplicação, fogachos, aumento de peso, disfunção erétil, QT prolongado",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Injeção SC profunda na região abdominal, mensalmente",
+      "doseMaxima": "240mg carga (2x120mg) + 80mg/mês de manutenção",
+      "doseMinima": "80mg/mês",
+      "classificacao": "Antagonista de GnRH",
+      "apresentacao": "Pó liofilizado 120mg e 80mg com diluentes específicos",
+      "interacaoMedicamento": "Pode prolongar QT; atenção com antiarrítmicos, diuréticos, antidepressivos tricíclicos",
+      "posologia": "240mg SC (dose inicial) seguido de 80mg/mês SC",
+      "armazenamento": "Refrigerado (2–8°C); usar imediatamente após reconstituição",
+      "preparo": "Reconstituir com diluente específico até dissolução completa; injetar lentamente SC",
+      "solucoesCompatíveis": "Diluente fornecido pelo fabricante",
+      "contraindicacoes": "QT longo não tratado, hipersensibilidade à fórmula",
+      "cuidadosMedicos": "Monitorar testosterona, PSA, ECG (QT), efeitos colaterais metabólicos",
+      "cuidadosFarmaceuticos": "Educar sobre manutenção da cadeia de frio, técnica de aplicação e calendário de doses",
+      "cuidadosEnfermagem": "Observar dor local, lipodistrofia, reações sistêmicas",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Degarelix",
+      "suspension": "No routine discontinuation is necessary before surgery",
+      "risk": "Injection site pain, hot flashes, erectile dysfunction, weight gain, QT prolongation",
+      "reintroduction": "Resume or continue 24–48h postop if stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Degarelix",
+      "nomeComercial": "Firmagon",
+      "mecanismoAcao": "GnRH receptor antagonist; rapidly reduces LH, FSH, and testosterone without surge",
+      "farmacocinetica": "SC; T½ ~28 days; not CYP-metabolized; fecal and renal clearance",
+      "farmacodinamica": "Rapid and sustained testosterone suppression",
+      "indicacoes": "Advanced hormone-sensitive prostate cancer",
+      "reacoesAdversas": "Injection site reactions, libido loss, QT prolongation, metabolic changes",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Not recommended",
+      "administracao": "SC abdominal injection monthly",
+      "doseMaxima": "240mg loading (2×120mg) then 80mg/month",
+      "doseMinima": "80mg/month",
+      "classificacao": "GnRH antagonist",
+      "apresentacao": "Lyophilized powder 80mg, 120mg with diluent",
+      "interacaoMedicamento": "QT-prolonging agents, antiarrhythmics, SSRIs, diuretics",
+      "posologia": "240mg SC once, then 80mg SC monthly",
+      "armazenamento": "Refrigerate 2–8°C; use immediately after mixing",
+      "preparo": "Reconstitute in provided diluent; SC injection into abdomen",
+      "solucoesCompatíveis": "Manufacturer diluent only",
+      "contraindicacoes": "Known hypersensitivity, untreated prolonged QTc",
+      "cuidadosMedicos": "Monitor ECG, testosterone, metabolic profile",
+      "cuidadosFarmaceuticos": "Cold chain integrity, education on timing and reconstitution",
+      "cuidadosEnfermagem": "Assess site pain, local reactions, systemic side effects",
+      "fontesBibliograficas": "FDA label, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Degarelix",
+      "suspension": "No requiere suspensión antes de cirugía salvo riesgo cardíaco significativo",
+      "risk": "Dolor en el sitio, sofocos, disfunción eréctil, QT prolongado, aumento de peso",
+      "reintroduction": "Continuar o reiniciar tras 24–48h si clínicamente estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Degarelix",
+      "nomeComercial": "Firmagon",
+      "mecanismoAcao": "Antagonista de GnRH; supresión rápida de LH, FSH y testosterona sin 'flare'",
+      "farmacocinetica": "SC; T½ 28 días; metabolismo no CYP; excreción fecal/renal",
+      "farmacodinamica": "Supresión hormonal directa y sostenida",
+      "indicacoes": "Cáncer de próstata avanzado hormono-sensible",
+      "reacoesAdversas": "Reacciones en el sitio, libido baja, hipertensión leve, QT largo",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Inyección SC abdominal mensual",
+      "doseMaxima": "240mg SC carga; 80mg mensual",
+      "doseMinima": "80mg mensual",
+      "classificacao": "Antagonista de GnRH",
+      "apresentacao": "80mg y 120mg con diluyente propio",
+      "interacaoMedicamento": "Fármacos QT-prolongadores, antiarrítmicos, ISRS",
+      "posologia": "240mg SC día 1; luego 80mg SC cada 28 días",
+      "armazenamento": "Refrigerado 2–8°C; uso inmediato tras preparación",
+      "preparo": "Reconstituir con diluyente; inyectar SC lentamente",
+      "solucoesCompatíveis": "Sólo diluyente incluido",
+      "contraindicacoes": "Alergia a degarelix, QTc prolongado no controlado",
+      "cuidadosMedicos": "PSA, ECG, perfil metabólico, testosterona",
+      "cuidadosFarmaceuticos": "Cadena de frío, calendario de aplicación, formación al paciente",
+      "cuidadosEnfermagem": "Observar zona SC, efectos sistémicos, temperatura",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "地加瑞克",
+      "suspension": "一般无需术前停药，如心律异常者需个体评估",
+      "risk": "注射部位红肿、潮热、性功能减退、体重增加、QT延长",
+      "reintroduction": "术后24–48小时内如病人稳定可继续用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "地加瑞克",
+      "nomeComercial": "Firmagon",
+      "mecanismoAcao": "GnRH受体拮抗剂，直接快速抑制LH/FSH释放",
+      "farmacocinetica": "皮下注射；T½约28天；不依赖CYP代谢",
+      "farmacodinamica": "无初期‘flare’反应，抑制睾酮迅速显著",
+      "indicacoes": "激素敏感性前列腺癌晚期",
+      "reacoesAdversas": "注射疼痛、潮热、水肿、性功能下降、QT延长",
+      "riscoGravidez": "X类 – 禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "首次240mg皮下注射（2×120mg），维持80mg每月一次",
+      "doseMaxima": "240mg起始；80mg每月维持",
+      "doseMinima": "80mg/月",
+      "classificacao": "GnRH拮抗剂",
+      "apresentacao": "80mg/120mg冻干粉+稀释剂",
+      "interacaoMedicamento": "QT延长药物、抗抑郁药、抗心律失常药等",
+      "posologia": "首剂240mg，之后每28天注射80mg",
+      "armazenamento": "冷藏2–8°C，避免冻结；即配即用",
+      "preparo": "加稀释液完全溶解后SC注射",
+      "solucoesCompatíveis": "原厂配液",
+      "contraindicacoes": "QT延长未治疗、已知过敏",
+      "cuidadosMedicos": "监测PSA、睾酮、心电图、代谢指标",
+      "cuidadosFarmaceuticos": "注意冷链、配药技巧、患者宣教",
+      "cuidadosEnfermagem": "观察局部红肿、发热、疲劳、心率变化",
+      "fontesBibliograficas": "中国药典、FDA、EMA、NCCN、Micromedex"
+    }
+  }
+}

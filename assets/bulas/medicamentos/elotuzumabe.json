@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Elotuzumabe",
+      "suspension": "Suspender 4 semanas antes de cirurgias eletivas ou em caso de infecção ativa ou pancitopenia",
+      "risk": "Risco de imunossupressão, neutropenia, infecções oportunistas e reações infusionais graves",
+      "reintroduction": "Reintroduzir apenas após resolução completa de infecções e recuperação hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Elotuzumabe",
+      "nomeComercial": "Empliciti",
+      "mecanismoAcao": "Anticorpo monoclonal IgG1 humanizado que ativa células NK e direciona células mielomatosas via SLAMF7",
+      "farmacocinetica": "Administração IV; meia-vida ~10 dias; metabolismo proteolítico via retículo endoplasmático",
+      "farmacodinamica": "Aumenta citotoxicidade NK dependente de anticorpos contra células de mieloma múltiplo",
+      "indicacoes": "Mieloma múltiplo recidivado ou refratário em combinação com lenalidomida/dexametasona",
+      "reacoesAdversas": "Infusões febris, fadiga, constipação, tosse, infecções respiratórias, neutropenia",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intravenosa (infusão lenta)",
+      "doseMaxima": "10 mg/kg (dias 1, 8, 15, 22 nos 2 primeiros ciclos; depois a cada 2 semanas)",
+      "doseMinima": "10 mg/kg",
+      "classificacao": "Imunoterapia – anticorpo monoclonal anti-SLAMF7",
+      "apresentacao": "Frasco-ampola liofilizado 300 mg ou 400 mg",
+      "interacaoMedicamento": "Imunossupressão com corticosteroides, lenalidomida; risco aumentado de infecção com antivirais",
+      "posologia": "10 mg/kg IV dias 1, 8, 15 e 22 (ciclos 1–2); depois a cada 2 semanas",
+      "armazenamento": "Refrigerado (2–8°C), protegido da luz; solução reconstituída deve ser usada em 24 h",
+      "preparo": "Reconstituir com água estéril e diluir em SF 0,9% ou SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Gravidez, lactação, infecção ativa grave, hipersensibilidade",
+      "cuidadosMedicos": "Pré-medicação com anti-histamínico, antitérmico e corticosteroide; monitorar contagem de neutrófilos",
+      "cuidadosFarmaceuticos": "Preparo asséptico; compatibilidade EV; não agitar",
+      "cuidadosEnfermagem": "Infusão lenta com observação contínua; sinais de reação infusional ou infecção",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex, NCCN Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Elotuzumab",
+      "suspension": "Hold 4 weeks before elective surgery or in case of active infection or cytopenia",
+      "risk": "Immunosuppression, neutropenia, infusion reactions, risk of opportunistic infections",
+      "reintroduction": "Restart only after hematologic recovery and infection resolution"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Elotuzumab",
+      "nomeComercial": "Empliciti",
+      "mecanismoAcao": "Humanized IgG1 monoclonal antibody targeting SLAMF7 to stimulate NK cell-mediated cytotoxicity",
+      "farmacocinetica": "IV; half-life ~10 days; proteolytic metabolism",
+      "farmacodinamica": "Boosts NK cell-mediated killing of multiple myeloma cells",
+      "indicacoes": "Relapsed or refractory multiple myeloma with lenalidomide/dexamethasone",
+      "reacoesAdversas": "Fever, fatigue, constipation, cough, URTI, neutropenia, infusion-related reactions",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "IV infusion",
+      "doseMaxima": "10 mg/kg",
+      "doseMinima": "10 mg/kg",
+      "classificacao": "Immunotherapy – anti-SLAMF7 mAb",
+      "apresentacao": "Lyophilized vial 300 mg or 400 mg",
+      "interacaoMedicamento": "Additive immunosuppression with corticosteroids, lenalidomide",
+      "posologia": "10 mg/kg IV days 1, 8, 15, 22 (cycles 1–2); then every 2 weeks",
+      "armazenamento": "2–8°C refrigerated; use reconstituted solution within 24 h",
+      "preparo": "Reconstitute with sterile water, dilute in NS or D5W",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Pregnancy, active infection, hypersensitivity",
+      "cuidadosMedicos": "Premedicate; monitor neutrophils and signs of infection",
+      "cuidadosFarmaceuticos": "Aseptic preparation; avoid shaking; verify compatibility",
+      "cuidadosEnfermagem": "Slow infusion; observe for infusion and infectious complications",
+      "fontesBibliograficas": "FDA, UpToDate, NCCN, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Elotuzumab",
+      "suspension": "Suspender 4 semanas antes de cirugía o si hay infección activa o citopenia severa",
+      "risk": "Riesgo de neutropenia, reacciones por infusión, infecciones graves",
+      "reintroduction": "Reiniciar tras recuperación hematológica e infecciones resueltas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Elotuzumab",
+      "nomeComercial": "Empliciti",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-SLAMF7 que activa células NK",
+      "farmacocinetica": "IV, t½ ~10 días, metabolización proteica",
+      "farmacodinamica": "Citotoxicidad mediada por NK frente a mieloma múltiple",
+      "indicacoes": "Mieloma múltiple refractario/recidivante con lenalidomida/dexametasona",
+      "reacoesAdversas": "Fiebre, fatiga, neutropenia, reacciones infusionales",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Infusión IV lenta",
+      "doseMaxima": "10 mg/kg",
+      "doseMinima": "10 mg/kg",
+      "classificacao": "Inmunoterapia – anti-SLAMF7",
+      "apresentacao": "Vial 300 o 400 mg",
+      "interacaoMedicamento": "Inmunosupresión con corticoides, lenalidomida",
+      "posologia": "10 mg/kg días 1, 8, 15 y 22 (ciclos 1–2), luego cada 2 semanas",
+      "armazenamento": "Refrigerado 2–8 °C, solución reconstituida usar en 24 h",
+      "preparo": "Reconstituir con agua estéril, diluir en SF o glucosa",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Infección activa, embarazo, alergia",
+      "cuidadosMedicos": "Premedicación, control hematológico, infecciones",
+      "cuidadosFarmaceuticos": "Preparación aséptica, compatibilidad EV",
+      "cuidadosEnfermagem": "Vigilar reacciones infusionales e infecciosas",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "Elotuzumab（依鲁妥珠单抗）",
+      "suspension": "择期手术或感染/骨髓抑制时提前4周停药",
+      "risk": "中性粒细胞减少、感染、输液反应、免疫抑制",
+      "reintroduction": "术后血象与感染控制稳定后方可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依鲁妥珠单抗",
+      "nomeComercial": "Empliciti",
+      "mecanismoAcao": "人源化IgG1抗SLAMF7抗体，激活NK细胞，清除骨髓瘤细胞",
+      "farmacocinetica": "静注，半衰期约10天，经蛋白酶降解",
+      "farmacodinamica": "增强NK细胞抗肿瘤作用，治疗多发性骨髓瘤",
+      "indicacoes": "复发/难治多发性骨髓瘤（联用来那度胺和地塞米松）",
+      "reacoesAdversas": "发热、疲乏、便秘、输液反应、感染、粒细胞减少",
+      "riscoGravidez": "D类，禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "静脉缓慢输注",
+      "doseMaxima": "10 mg/kg（1, 8, 15, 22日；之后每2周）",
+      "doseMinima": "10 mg/kg",
+      "classificacao": "免疫治疗，抗SLAMF7单抗",
+      "apresentacao": "300/400 mg冻干粉",
+      "interacaoMedicamento": "与免疫抑制药联用易感染",
+      "posologia": "10 mg/kg IV，第1–2周期每周1次，之后每2周",
+      "armazenamento": "2–8°C冷藏，稀释液24小时内使用",
+      "preparo": "无菌复溶后用0.9%氯化钠或5%葡萄糖稀释",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "感染、孕期、哺乳期、已知过敏",
+      "cuidadosMedicos": "输注前用药，监测血象与感染",
+      "cuidadosFarmaceuticos": "无菌配制，避免震荡，核对配伍",
+      "cuidadosEnfermagem": "缓慢输注，密切观察不良反应",
+      "fontesBibliograficas": "FDA、EMA、UpToDate、Micromedex、NCCN指南"
+    }
+  }
+}

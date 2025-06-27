@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Levofloxacino",
+      "suspension": "Suspender 24 a 48h antes, se possível",
+      "risk": "Risco de prolongamento do QT, neurotoxicidade, interação com relaxantes musculares e anestésicos",
+      "reintroduction": "Reintroduzir após estabilidade hemodinâmica e correção de eletrólitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levofloxacino",
+      "nomeComercial": "Tavanic, Levaquin, Levoxin, Levofloxacino Genérico",
+      "mecanismoAcao": "Inibe a DNA-girase e topoisomerase IV bacterianas, interrompendo a replicação do DNA",
+      "farmacocinetica": "Alta biodisponibilidade oral, meia-vida longa, excreção renal predominante",
+      "farmacodinamica": "Bactericida de amplo espectro, especialmente gram-negativos",
+      "indicacoes": "Infecções respiratórias, urinárias, pielonefrite, prostatite, infecções de pele",
+      "reacoesAdversas": "Tendinite, neuropatia, confusão mental, prolongamento do QT",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite materno; contraindicado",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "750 mg/dia",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Antibiótico fluoroquinolona",
+      "apresentacao": "Comprimidos, solução oral, solução injetável",
+      "interacaoMedicamento": "Interage com antiácidos, antiarrítmicos, anticoagulantes, corticoides",
+      "posologia": "500–750 mg 1x/dia, por 7–14 dias",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Diluir solução injetável em SF 0,9% ou glicose 5%",
+      "solucoesCompatíveis": "SF 0,9%, Glicose 5%",
+      "contraindicacoes": "Alergia a fluoroquinolonas, epilepsia, gravidez, lactação",
+      "cuidadosMedicos": "Monitorar função renal, ECG e sinais neurológicos",
+      "cuidadosFarmaceuticos": "Evitar administração com sais metálicos e laticínios",
+      "cuidadosEnfermagem": "Observar tendinopatia, convulsões e sinais psiquiátricos",
+      "fontesBibliograficas": "ANVISA, Micromedex, SBAn, FDA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Levofloxacin",
+      "suspension": "Suspend 24–48h before if possible",
+      "risk": "QT prolongation, neurotoxicity, interaction with anesthetics and muscle relaxants",
+      "reintroduction": "Restart after hemodynamic stabilization and electrolyte correction"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levofloxacin",
+      "nomeComercial": "Levaquin, Tavanic, Generic Levofloxacin",
+      "mecanismoAcao": "Inhibits DNA gyrase and topoisomerase IV, blocking bacterial DNA replication",
+      "farmacocinetica": "High oral bioavailability, long half-life, renal excretion",
+      "farmacodinamica": "Broad-spectrum bactericidal, especially gram-negatives",
+      "indicacoes": "Respiratory, urinary tract, skin infections, prostatitis",
+      "reacoesAdversas": "Tendinitis, neuropathy, mental confusion, QT prolongation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; contraindicated",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "750 mg/day",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Fluoroquinolone antibiotic",
+      "apresentacao": "Tablets, oral solution, IV solution",
+      "interacaoMedicamento": "Interacts with antacids, antiarrhythmics, corticosteroids, anticoagulants",
+      "posologia": "500–750 mg once daily for 7–14 days",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Dilute IV solution in NS or D5W",
+      "solucoesCompatíveis": "Normal Saline, Dextrose 5%",
+      "contraindicacoes": "Fluoroquinolone allergy, epilepsy, pregnancy, lactation",
+      "cuidadosMedicos": "Monitor renal function, ECG, neurological status",
+      "cuidadosFarmaceuticos": "Avoid co-administration with metal ions or dairy",
+      "cuidadosEnfermagem": "Observe for tendonitis, seizures, psychiatric symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Levofloxacino",
+      "suspension": "Suspender 24–48h antes si es posible",
+      "risk": "Prolongación del QT, neurotoxicidad, interacción con anestésicos",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica y corrección electrolítica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levofloxacino",
+      "nomeComercial": "Tavanic, Levaquin, Levofloxacino Genérico",
+      "mecanismoAcao": "Inhibe la girasa del ADN y la topoisomerasa IV bacteriana",
+      "farmacocinetica": "Alta biodisponibilidad, excreción renal, vida media prolongada",
+      "farmacodinamica": "Bactericida de amplio espectro, especialmente gramnegativos",
+      "indicacoes": "Infecciones respiratorias, urinarias, piel, próstata",
+      "reacoesAdversas": "Tendinitis, neuropatía, confusión, QT prolongado",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche materna; contraindicado",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "750 mg/día",
+      "doseMinima": "250 mg/dosis",
+      "classificacao": "Antibiótico fluoroquinolona",
+      "apresentacao": "Comprimidos, solución oral, solución IV",
+      "interacaoMedicamento": "Interacciones con antiácidos, antiarrítmicos, corticoides, anticoagulantes",
+      "posologia": "500–750 mg una vez al día por 7–14 días",
+      "armazenamento": "Almacenar a temperatura ambiente, protegido de la luz",
+      "preparo": "Diluir solución IV en suero fisiológico o glucosa 5%",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%, glucosa 5%",
+      "contraindicacoes": "Alergia a fluoroquinolonas, epilepsia, embarazo, lactancia",
+      "cuidadosMedicos": "Monitorear función renal, ECG, síntomas neurológicos",
+      "cuidadosFarmaceuticos": "Evitar administración con metales o lácteos",
+      "cuidadosEnfermagem": "Observar tendinopatía, convulsiones, síntomas psiquiátricos",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, ANVISA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "左氧氟沙星",
+      "suspension": "术前24至48小时停药",
+      "risk": "QT延长、神经毒性，与麻醉药和肌松药有交互作用",
+      "reintroduction": "术后血流动力学稳定、电解质恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "左氧氟沙星",
+      "nomeComercial": "可乐必妥, 左氧氟沙星片, 左氧氟沙星注射液",
+      "mecanismoAcao": "抑制DNA旋转酶和拓扑异构酶IV，阻断细菌DNA复制",
+      "farmacocinetica": "口服吸收好，半衰期长，主要经肾排泄",
+      "farmacodinamica": "广谱杀菌，主要针对革兰阴性菌",
+      "indicacoes": "呼吸道、泌尿道、皮肤、前列腺感染",
+      "reacoesAdversas": "肌腱炎、神经病、意识混乱、QT间期延长",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "禁用，可分泌入乳汁，影响软骨发育",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日750毫克",
+      "doseMinima": "每次250毫克",
+      "classificacao": "氟喹诺酮类抗生素",
+      "apresentacao": "片剂、口服液、注射液",
+      "interacaoMedicamento": "与抗酸药、抗心律药、糖皮质激素、抗凝药物相互作用",
+      "posologia": "每日1次500–750毫克，疗程7–14天",
+      "armazenamento": "避光常温保存",
+      "preparo": "静脉注射需稀释于生理盐水或葡萄糖注射液",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "过敏、癫痫、孕妇、哺乳期禁用",
+      "cuidadosMedicos": "监测肾功能、心电图和神经症状",
+      "cuidadosFarmaceuticos": "避免与金属离子或奶制品同服",
+      "cuidadosEnfermagem": "警惕肌腱炎、精神症状、抽搐等不良反应",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex"
+    }
+  }
+}

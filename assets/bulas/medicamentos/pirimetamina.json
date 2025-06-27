@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pirimetamina",
+      "suspension": "Suspender 3 dias antes de cirurgias eletivas de médio ou grande porte",
+      "risk": "Risco de mielotoxicidade, interação com anestésicos e sulfas, potencial para anemia megaloblástica",
+      "reintroduction": "Reintroduzir após normalização do hemograma e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pirimetamina",
+      "nomeComercial": "Daraprim",
+      "mecanismoAcao": "Inibe a diidrofolato redutase do parasita, bloqueando a síntese de DNA e crescimento celular",
+      "farmacocinetica": "Biodisponibilidade oral >85%; meia-vida longa (~96h); metabolização hepática",
+      "farmacodinamica": "Antiprotozoário ativo contra Toxoplasma gondii e Plasmodium spp.",
+      "indicacoes": "Toxoplasmose (em combinação), malária (resistência a cloroquina)",
+      "reacoesAdversas": "Anemia megaloblástica, leucopenia, rash, cefaleia, náusea",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral",
+      "doseMaxima": "75mg/dia",
+      "doseMinima": "12,5mg/dia",
+      "classificacao": "Antiprotozoário antagonista do ácido fólico",
+      "apresentacao": "Comprimidos 25mg",
+      "interacaoMedicamento": "Potencializa toxicidade de metotrexato, sulfonamidas, zidovudina; risco com cloranfenicol",
+      "posologia": "Toxoplasmose: 50–75mg/dia + sulfadiazina + ácido folínico",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Uso direto por via oral",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, anemia megaloblástica por deficiência de folato",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática e renal durante o uso",
+      "cuidadosFarmaceuticos": "Administrar sempre com ácido folínico para reduzir toxicidade hematológica",
+      "cuidadosEnfermagem": "Observar palidez, mucosas, infecções de repetição, sintomas GI",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pyrimethamine",
+      "suspension": "Hold 3 days before major elective surgery",
+      "risk": "Risk of bone marrow suppression, drug interactions, potential for megaloblastic anemia",
+      "reintroduction": "Restart after hematologic recovery and clinical stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pyrimethamine",
+      "nomeComercial": "Daraprim",
+      "mecanismoAcao": "Inhibits protozoal dihydrofolate reductase, blocking DNA synthesis",
+      "farmacocinetica": "Oral bioavailability >85%; t½ ~96h; hepatic metabolism",
+      "farmacodinamica": "Antiprotozoal against Toxoplasma and Plasmodium spp.",
+      "indicacoes": "Toxoplasmosis (in combo), malaria (chloroquine-resistant)",
+      "reacoesAdversas": "Megaloblastic anemia, leukopenia, rash, headache, nausea",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid",
+      "administracao": "Oral",
+      "doseMaxima": "75mg/day",
+      "doseMinima": "12.5mg/day",
+      "classificacao": "Folic acid antagonist antiprotozoal",
+      "apresentacao": "Tablets 25mg",
+      "interacaoMedicamento": "Interacts with methotrexate, sulfonamides, zidovudine, chloramphenicol",
+      "posologia": "Toxoplasmosis: 50–75mg/day + sulfadiazine + leucovorin",
+      "armazenamento": "15–30°C",
+      "preparo": "Oral use only",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Megaloblastic anemia due to folate deficiency, hypersensitivity",
+      "cuidadosMedicos": "Monitor CBC, liver and kidney function",
+      "cuidadosFarmaceuticos": "Always co-administer leucovorin to prevent toxicity",
+      "cuidadosEnfermagem": "Monitor pallor, fatigue, GI symptoms, infection signs",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pirimetamina",
+      "suspension": "Suspender 3 días antes de cirugía mayor",
+      "risk": "Riesgo de mielotoxicidad, anemia megaloblástica, interacción con fármacos",
+      "reintroduction": "Reiniciar tras recuperación hematológica y estabilidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pirimetamina",
+      "nomeComercial": "Daraprim",
+      "mecanismoAcao": "Inhibe la dihidrofolato reductasa del parásito",
+      "farmacocinetica": "Buena absorción oral; vida media ~96h; metabolismo hepático",
+      "farmacodinamica": "Antiprotozoario activo contra Toxoplasma y Plasmodium",
+      "indicacoes": "Toxoplasmosis (combinada), malaria resistente",
+      "reacoesAdversas": "Anemia, leucopenia, rash, cefalea, náuseas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral",
+      "doseMaxima": "75mg/día",
+      "doseMinima": "12,5mg/día",
+      "classificacao": "Antifolato antiprotozoario",
+      "apresentacao": "Comprimidos 25mg",
+      "interacaoMedicamento": "Interacción con sulfas, metotrexato, zidovudina, cloranfenicol",
+      "posologia": "50–75mg/día con sulfadiazina + folínico",
+      "armazenamento": "Ambiente seco, 15–30°C",
+      "preparo": "Administración oral",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Anemia megaloblástica, alergia",
+      "cuidadosMedicos": "Control de hemograma, hepático y renal",
+      "cuidadosFarmaceuticos": "Administrar junto con ácido folínico",
+      "cuidadosEnfermagem": "Observar mucosas, sangrados, infecciones",
+      "fontesBibliograficas": "Micromedex, OMS, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乙胺嘧啶",
+      "suspension": "术前3天停药，尤其在大手术或骨髓抑制风险者",
+      "risk": "骨髓抑制、QT延长、与磺胺类及麻醉药相互作用",
+      "reintroduction": "术后血象恢复正常后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乙胺嘧啶",
+      "nomeComercial": "Daraprim",
+      "mecanismoAcao": "抑制疟原虫及弓形虫二氢叶酸还原酶",
+      "farmacocinetica": "口服吸收良好，半衰期约96小时，经肝代谢",
+      "farmacodinamica": "抗弓形虫和疟原虫有效，常与磺胺联合",
+      "indicacoes": "弓形虫病、耐氯喹疟疾",
+      "reacoesAdversas": "巨幼细胞贫血、白细胞减少、皮疹、恶心、口腔溃疡",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不推荐",
+      "administracao": "口服",
+      "doseMaxima": "每日75毫克",
+      "doseMinima": "每日12.5毫克",
+      "classificacao": "抗叶酸类抗原虫药",
+      "apresentacao": "25mg片剂",
+      "interacaoMedicamento": "与磺胺类、甲氨蝶呤、氯霉素共用毒性增强",
+      "posologia": "50–75mg/d，与磺胺和叶酸联用",
+      "armazenamento": "室温干燥保存",
+      "preparo": "口服服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对本品过敏、巨幼细胞性贫血、肝肾功能衰竭",
+      "cuidadosMedicos": "监测CBC、电解质、肝肾功能",
+      "cuidadosFarmaceuticos": "配合叶酸预防毒性，长期使用密切监测",
+      "cuidadosEnfermagem": "观察口腔、皮肤、神志、感染迹象",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、FDA"
+    }
+  }
+}

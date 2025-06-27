@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Glimepirida",
+      "suspension": "Suspender na véspera de cirurgia com jejum ou anestesia geral",
+      "risk": "Risco de hipoglicemia grave perioperatória, especialmente em jejum prolongado; interação com beta-bloqueadores, AINEs e álcool",
+      "reintroduction": "Reintroduzir após retomada da alimentação e estabilidade glicêmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glimepirida",
+      "nomeComercial": "Amaryl, Glimepax",
+      "mecanismoAcao": "Estimula liberação de insulina pelas células beta do pâncreas (sulfonilureia de 3ª geração)",
+      "farmacocinetica": "Via oral; pico em 2–3 h; t½ ~5–9 h; metabolismo hepático (CYP2C9); excreção urinária e fecal",
+      "farmacodinamica": "Reduz glicemia basal e pós-prandial; dependente de função pancreática",
+      "indicacoes": "Diabetes mellitus tipo 2",
+      "reacoesAdversas": "Hipoglicemia, ganho de peso, náusea, rash, elevação de transaminases (raro)",
+      "riscoGravidez": "Categoria C – preferir insulina",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral, com café da manhã",
+      "doseMaxima": "8 mg/dia",
+      "doseMinima": "1 mg/dia",
+      "classificacao": "Hipoglicemiante oral – sulfonilureia",
+      "apresentacao": "Comprimidos de 1 mg, 2 mg, 4 mg",
+      "interacaoMedicamento": "Interage com beta-bloqueadores, anticoagulantes, álcool, AINEs",
+      "posologia": "1–8 mg VO 1x/dia, ajustar conforme resposta e risco de hipoglicemia",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "DM tipo 1, cetoacidose diabética, gravidez, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar glicemia, HbA1c, sinais de hipoglicemia",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão, jejum e sintomas de hipoglicemia",
+      "cuidadosEnfermagem": "Observar sudorese, confusão, taquicardia e ingestão alimentar",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, ADA Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Glimepiride",
+      "suspension": "Discontinue the day before surgery due to fasting risk",
+      "risk": "Severe perioperative hypoglycemia, interactions with alcohol, beta-blockers, NSAIDs",
+      "reintroduction": "Restart after stable food intake and glycemic control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glimepiride",
+      "nomeComercial": "Amaryl",
+      "mecanismoAcao": "3rd gen sulfonylurea; stimulates insulin release from pancreatic beta cells",
+      "farmacocinetica": "Oral; Tmax ~2–3 h; t½ 5–9 h; hepatic metabolism via CYP2C9",
+      "farmacodinamica": "Reduces fasting and postprandial glucose",
+      "indicacoes": "Type 2 diabetes mellitus",
+      "reacoesAdversas": "Hypoglycemia, weight gain, GI upset, rare hepatic effects",
+      "riscoGravidez": "Category C – insulin preferred",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral with breakfast",
+      "doseMaxima": "8 mg/day",
+      "doseMinima": "1 mg/day",
+      "classificacao": "Sulfonylurea antidiabetic",
+      "apresentacao": "1 mg, 2 mg, 4 mg tablets",
+      "interacaoMedicamento": "Interacts with beta-blockers, alcohol, warfarin, NSAIDs",
+      "posologia": "1–8 mg PO daily; titrate to response",
+      "armazenamento": "Room temperature",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Type 1 DM, DKA, pregnancy, severe hepatic dysfunction",
+      "cuidadosMedicos": "Monitor glucose, HbA1c, hypoglycemia",
+      "cuidadosFarmaceuticos": "Educate on fasting risks, symptom recognition",
+      "cuidadosEnfermagem": "Watch for sweating, confusion, tachycardia",
+      "fontesBibliograficas": "FDA, ADA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Glimepirida",
+      "suspension": "Suspender el día previo a cirugía con ayuno",
+      "risk": "Hipoglucemia severa, interacción con alcohol y betabloqueadores",
+      "reintroduction": "Reiniciar tras ingesta estable y glucemia controlada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glimepirida",
+      "nomeComercial": "Amaryl",
+      "mecanismoAcao": "Sulfonilurea de 3ª gen; estimula secreción de insulina",
+      "farmacocinetica": "Oral; t½ 5–9 h; metabolismo hepático (CYP2C9)",
+      "farmacodinamica": "Reduce glucosa basal y postprandial",
+      "indicacoes": "Diabetes tipo 2",
+      "reacoesAdversas": "Hipoglucemia, náuseas, aumento de peso",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "VO con desayuno",
+      "doseMaxima": "8 mg/día",
+      "doseMinima": "1 mg/día",
+      "classificacao": "Sulfonilurea hipoglucemiante",
+      "apresentacao": "Tabletas 1–4 mg",
+      "interacaoMedicamento": "Alcohol, betabloqueantes, warfarina",
+      "posologia": "1–8 mg/día",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Listo para uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "DM1, cetoacidosis, embarazo",
+      "cuidadosMedicos": "Control glucemia, HbA1c",
+      "cuidadosFarmaceuticos": "Educación en hipoglucemia",
+      "cuidadosEnfermagem": "Vigilar síntomas hipoglucemia",
+      "fontesBibliograficas": "ADA, EMA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "格列美脲（Glimepiride）",
+      "suspension": "术前一天停药，避免禁食期低血糖",
+      "risk": "低血糖、心跳快、与β阻滞剂/NSAID/酒精相互作用",
+      "reintroduction": "术后进食稳定后重新服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "格列美脲",
+      "nomeComercial": "Amaryl",
+      "mecanismoAcao": "刺激胰岛β细胞释放胰岛素（第三代磺脲类）",
+      "farmacocinetica": "口服，t½ 5–9小时，经CYP2C9代谢",
+      "farmacodinamica": "降低空腹及餐后血糖",
+      "indicacoes": "2型糖尿病",
+      "reacoesAdversas": "低血糖、体重增加、恶心",
+      "riscoGravidez": "C类，孕期优选胰岛素",
+      "riscoLactacao": "不推荐",
+      "administracao": "早餐时口服",
+      "doseMaxima": "每日8 mg",
+      "doseMinima": "每日1 mg",
+      "classificacao": "口服降糖药（磺脲类）",
+      "apresentacao": "1/2/4 mg片剂",
+      "interacaoMedicamento": "与酒精、β阻滞剂、NSAIDs交互",
+      "posologia": "1–8 mg每天，按需调整",
+      "armazenamento": "室温",
+      "preparo": "无需稀释",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "1型糖尿病、酮症酸中毒、严重肝功能障碍",
+      "cuidadosMedicos": "监测血糖、HbA1c、低血糖风险",
+      "cuidadosFarmaceuticos": "教育患者空腹风险与识别症状",
+      "cuidadosEnfermagem": "观察出汗、心悸、意识模糊",
+      "fontesBibliograficas": "FDA、ADA、UpToDate、Micromedex"
+    }
+  }
+}

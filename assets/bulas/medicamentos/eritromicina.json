@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Eritromicina",
+      "suspension": "Suspender 48 horas antes de cirurgia eletiva de médio/grande porte",
+      "risk": "Prolongamento do intervalo QT, risco de arritmias, interação com anestésicos e depressores do SNC",
+      "reintroduction": "Reintroduzir após correção eletrolítica e estabilidade hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eritromicina",
+      "nomeComercial": "Ilosone, Ery, Eritromax",
+      "mecanismoAcao": "Liga-se à subunidade 50S do ribossomo bacteriano, inibindo a síntese proteica",
+      "farmacocinetica": "Biodisponibilidade ~30–65%; metabolização hepática; excreção biliar",
+      "farmacodinamica": "Bacteriostática (bactericida em altas doses) contra Gram+ e atípicos",
+      "indicacoes": "Infecções respiratórias, otorrinolaringológicas, sífilis, clamídia, pele",
+      "reacoesAdversas": "Náusea, diarreia, hepatotoxicidade colestática, prolongamento de QT, ototoxicidade",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Permitido",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "4g/dia (VO ou EV)",
+      "doseMinima": "250mg/dose",
+      "classificacao": "Macrolídeo",
+      "apresentacao": "Comprimidos, suspensão oral, frascos IV (500mg)",
+      "interacaoMedicamento": "Interage com teofilina, varfarina, carbamazepina, estatinas, antiarrítmicos classe IA/III",
+      "posologia": "250–500mg 6/6h VO ou 1g EV dividido",
+      "armazenamento": "15–30°C, protegido da luz",
+      "preparo": "IV: diluir em 100–250mL de SF 0,9% e infundir lentamente (>60 min)",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Prolongamento de QT, uso com cisaprida/pimozida, hepatopatia grave",
+      "cuidadosMedicos": "Avaliar ECG e eletrólitos antes de reintroduzir",
+      "cuidadosFarmaceuticos": "Evitar mistura com drogas QT-prolongadoras",
+      "cuidadosEnfermagem": "Monitorar ECG, náuseas, vômitos, audição (uso prolongado)",
+      "fontesBibliograficas": "Micromedex, ANVISA, UpToDate, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Erythromycin",
+      "suspension": "Discontinue 48 hours before major elective surgery",
+      "risk": "QT prolongation, arrhythmias, drug interactions with anesthetics, CNS depression",
+      "reintroduction": "Restart after electrolyte correction and hemodynamic stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Erythromycin",
+      "nomeComercial": "Ery-Tab, E.E.S., Ilosone",
+      "mecanismoAcao": "Binds to 50S ribosomal subunit, inhibiting protein synthesis",
+      "farmacocinetica": "Bioavailability 30–65%; hepatic metabolism; biliary excretion",
+      "farmacodinamica": "Bacteriostatic; bactericidal at high concentrations",
+      "indicacoes": "Respiratory infections, STIs, skin infections, pertussis, diphtheria",
+      "reacoesAdversas": "Nausea, diarrhea, cholestatic hepatitis, QT prolongation, ototoxicity",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral or IV",
+      "doseMaxima": "4g/day",
+      "doseMinima": "250mg/dose",
+      "classificacao": "Macrolide antibiotic",
+      "apresentacao": "Tablets, oral suspension, IV vials",
+      "interacaoMedicamento": "Warfarin, statins, theophylline, antiarrhythmics, carbamazepine",
+      "posologia": "250–500mg q6h PO or 1g/day IV",
+      "armazenamento": "Store 15–30°C, protect from light",
+      "preparo": "Dilute IV in 100–250mL NS or D5W, infuse >60 min",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "QT prolongation, cisapride/pimozide use, severe liver disease",
+      "cuidadosMedicos": "Check ECG, electrolytes pre/post-op",
+      "cuidadosFarmaceuticos": "Avoid co-use with QT drugs; ensure proper dilution",
+      "cuidadosEnfermagem": "Monitor QT, GI symptoms, hearing with prolonged use",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Eritromicina",
+      "suspension": "Suspender 48h antes de cirugía mayor",
+      "risk": "Prolongación QT, hepatotoxicidad, interacciones anestésicas",
+      "reintroduction": "Reintroducir tras estabilización y normalización de electrolitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eritromicina",
+      "nomeComercial": "Ilosone, Erythrocin",
+      "mecanismoAcao": "Inhibe la síntesis de proteínas al unirse a la subunidad 50S ribosomal",
+      "farmacocinetica": "Biodisponibilidad 30–65%; metabolismo hepático; excreción biliar",
+      "farmacodinamica": "Bacteriostática; bactericida a dosis altas",
+      "indicacoes": "Infecciones respiratorias, genitales, piel, faringitis, tos ferina",
+      "reacoesAdversas": "Náuseas, vómitos, hepatitis colestásica, QT largo, ototoxicidad",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral o IV",
+      "doseMaxima": "4g/día",
+      "doseMinima": "250mg/dosis",
+      "classificacao": "Macrólido",
+      "apresentacao": "Comprimidos, suspensión oral, viales IV",
+      "interacaoMedicamento": "Interacciones con estatinas, varfarina, carbamazepina, antiarrítmicos",
+      "posologia": "250–500mg cada 6h VO o 1g/día IV",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "Diluir en 100–250mL SSF o SG5%, infundir lentamente",
+      "solucoesCompatíveis": "SSF 0,9%, SG 5%",
+      "contraindicacoes": "QT prolongado, hepatopatía grave, cisaprida",
+      "cuidadosMedicos": "Monitorizar ECG, hepatograma, electrolitos",
+      "cuidadosFarmaceuticos": "Evitar QT-prolongadores, comprobar compatibilidad",
+      "cuidadosEnfermagem": "Observar efectos GI, auditivos, cardiacos",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "红霉素",
+      "suspension": "择期手术前48小时停药",
+      "risk": "延长QT间期，肝毒性，可能与麻醉药物相互作用",
+      "reintroduction": "术后电解质稳定后可重新开始"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "红霉素",
+      "nomeComercial": "Ilosone, 红霉素注射液",
+      "mecanismoAcao": "与细菌50S核糖体亚基结合，抑制蛋白合成",
+      "farmacocinetica": "生物利用度30–65%；肝代谢；胆汁排泄",
+      "farmacodinamica": "抑菌剂；高浓度下具有杀菌作用",
+      "indicacoes": "呼吸道感染、泌尿感染、皮肤感染、性病",
+      "reacoesAdversas": "胃肠反应、胆汁淤积性肝炎、QT延长、听力损害",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可哺乳",
+      "administracao": "口服或静脉",
+      "doseMaxima": "每日4克",
+      "doseMinima": "每次250毫克",
+      "classificacao": "大环内酯类抗生素",
+      "apresentacao": "片剂、口服液、注射剂",
+      "interacaoMedicamento": "与华法林、他汀类、抗心律失常药物等有相互作用",
+      "posologia": "每6小时250–500mg，IV每日1g",
+      "armazenamento": "避光保存于15–30°C",
+      "preparo": "IV需稀释于0.9%氯化钠或5%葡萄糖，缓慢滴注",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "QT延长、肝功能不全、对红霉素过敏",
+      "cuidadosMedicos": "监测心电图、肝功能、电解质",
+      "cuidadosFarmaceuticos": "避免与QT延长药联用，注意稳定性",
+      "cuidadosEnfermagem": "关注恶心、听力变化、心律不齐",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

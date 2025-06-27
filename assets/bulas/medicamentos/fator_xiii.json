@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fator XIII",
+      "suspension": "Não aplicável – administrado sob critério clínico específico, conforme deficiência identificada",
+      "risk": "Risco de trombose, reações anafiláticas, febre, cefaleia; risco maior em pacientes com histórico de inibidores ou trombofilias",
+      "reintroduction": "Pode ser reintroduzido conforme necessidade hemostática ou reposição em cirurgia ou trauma em pacientes com deficiência de FXIII"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fator XIII da coagulação (A subunidade)",
+      "nomeComercial": "Tretten (recombinante), Fibrogammin (plasmático)",
+      "mecanismoAcao": "Estabiliza o coágulo de fibrina ao promover a reticulação de monômeros de fibrina, aumentando a resistência e durabilidade do trombo",
+      "farmacocinetica": "Meia-vida: 6–12 dias; administração IV; metabolismo hepático parcial",
+      "farmacodinamica": "Promove estabilização e durabilidade da hemostasia secundária",
+      "indicacoes": "Deficiência congênita de fator XIII; sangramentos cirúrgicos em pacientes deficientes; sangramento uterino disfuncional com deficiência de FXIII",
+      "reacoesAdversas": "Febre, náuseas, erupção cutânea, anafilaxia, trombose (rara)",
+      "riscoGravidez": "Categoria C – uso permitido se necessário",
+      "riscoLactacao": "Provavelmente seguro",
+      "administracao": "Infusão intravenosa lenta",
+      "doseMaxima": "35 UI/kg/dose (dose única mensal em profilaxia)",
+      "doseMinima": "10–20 UI/kg conforme gravidade do sangramento",
+      "classificacao": "Concentrado de fator de coagulação – estabilizador do coágulo",
+      "apresentacao": "Frascos-ampola liofilizados 250–1250 UI + diluente",
+      "interacaoMedicamento": "Cuidado com agentes antifibrinolíticos; evitar com heparinas sem necessidade",
+      "posologia": "20–35 UI/kg IV a cada 28 dias (profilaxia); ou sob demanda",
+      "armazenamento": "2–8°C; não congelar; usar até 3h após preparo",
+      "preparo": "Reconstituir com diluente fornecido; administrar lentamente",
+      "solucoesCompatíveis": "Somente o diluente original",
+      "contraindicacoes": "Hipersensibilidade a proteínas recombinantes ou plasmáticas",
+      "cuidadosMedicos": "Monitorar FXIII plasmático, sangramentos, sinais de trombose",
+      "cuidadosFarmaceuticos": "Conferir validade e integridade do produto liofilizado",
+      "cuidadosEnfermagem": "Observar reações adversas, sinais vitais, resposta hemostática",
+      "fontesBibliograficas": "EMA, FDA, Medscape, Micromedex, SBHH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Factor XIII",
+      "suspension": "Not applicable – given based on diagnosed deficiency",
+      "risk": "Risk of thrombosis, allergic reactions, anaphylaxis, headache, nausea",
+      "reintroduction": "Re-administer based on clinical bleeding risk or perioperative status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Coagulation factor XIII A-subunit (recombinant or plasma-derived)",
+      "nomeComercial": "Tretten (recombinant), Corifact (plasma-derived)",
+      "mecanismoAcao": "Cross-links fibrin monomers to stabilize and strengthen fibrin clot",
+      "farmacocinetica": "Half-life 6–12 days; IV route; hepatic metabolism",
+      "farmacodinamica": "Provides long-term clot stability",
+      "indicacoes": "Congenital FXIII deficiency, surgical bleeding prophylaxis",
+      "reacoesAdversas": "Headache, rash, fever, thrombosis (rare), hypersensitivity",
+      "riscoGravidez": "Category C – use if benefit justifies risk",
+      "riscoLactacao": "Likely safe",
+      "administracao": "Slow intravenous infusion",
+      "doseMaxima": "35 IU/kg (monthly prophylaxis)",
+      "doseMinima": "10–20 IU/kg (minor bleeding)",
+      "classificacao": "Coagulation factor concentrate – FXIII",
+      "apresentacao": "250–1250 IU vials (lyophilized) + diluent",
+      "interacaoMedicamento": "Caution with fibrinolytics; avoid with unnecessary anticoagulants",
+      "posologia": "35 IU/kg once monthly (prophylaxis); adjust if bleeding",
+      "armazenamento": "2–8°C; do not freeze; use within 3h after reconstitution",
+      "preparo": "Reconstitute with provided diluent; do not shake",
+      "solucoesCompatíveis": "Only use supplied diluent",
+      "contraindicacoes": "Known allergy to product components",
+      "cuidadosMedicos": "Monitor FXIII activity, thrombosis signs",
+      "cuidadosFarmaceuticos": "Ensure product is intact and within expiration",
+      "cuidadosEnfermagem": "Monitor infusion site, allergic reactions, clinical response",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, Medscape"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Factor XIII",
+      "suspension": "No aplica – uso indicado según déficit documentado",
+      "risk": "Riesgo de trombosis, alergia, fiebre, náuseas",
+      "reintroduction": "Reanudar según estado clínico y sangrado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Factor XIII (subunidad A)",
+      "nomeComercial": "Tretten, Corifact",
+      "mecanismoAcao": "Fortalece el coágulo de fibrina mediante reticulación",
+      "farmacocinetica": "T½ 6–12 días; IV; metabolismo hepático parcial",
+      "farmacodinamica": "Proporciona estabilidad al coágulo",
+      "indicacoes": "Déficit congénito de FXIII, cirugía",
+      "reacoesAdversas": "Cefalea, rash, fiebre, trombosis (rara)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Seguramente seguro",
+      "administracao": "IV lenta",
+      "doseMaxima": "35 UI/kg (profilaxis mensual)",
+      "doseMinima": "10–20 UI/kg",
+      "classificacao": "Concentrado de factor de coagulación",
+      "apresentacao": "250–1250 UI frascos liofilizados",
+      "interacaoMedicamento": "Cuidado con antifibrinolíticos",
+      "posologia": "35 UI/kg cada 4 semanas",
+      "armazenamento": "2–8°C, no congelar",
+      "preparo": "Reconstituir y usar en 3h",
+      "solucoesCompatíveis": "Solo diluyente del fabricante",
+      "contraindicacoes": "Alergia conocida",
+      "cuidadosMedicos": "Controlar actividad FXIII",
+      "cuidadosFarmaceuticos": "Verificar reconstitución aséptica",
+      "cuidadosEnfermagem": "Vigilar reacciones, eficacia hemostática",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "第XIII因子",
+      "suspension": "无需术前停药，仅按凝血需要使用",
+      "risk": "可致过敏、头痛、血栓（罕见）",
+      "reintroduction": "术后如需维持止血可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "重组或人源第XIII因子",
+      "nomeComercial": "Tretten、Corifact",
+      "mecanismoAcao": "增强纤维蛋白稳定性、提高凝血持久性",
+      "farmacocinetica": "T½ 6–12天；肝代谢，IV给药",
+      "farmacodinamica": "改善凝血稳定性",
+      "indicacoes": "FXIII缺乏、术前止血",
+      "reacoesAdversas": "头痛、皮疹、发热、过敏、血栓",
+      "riscoGravidez": "C类 – 权衡利弊",
+      "riscoLactacao": "可能安全",
+      "administracao": "缓慢静注",
+      "doseMaxima": "35 IU/kg",
+      "doseMinima": "10–20 IU/kg",
+      "classificacao": "凝血因子浓缩制剂",
+      "apresentacao": "250–1250 IU冻干粉+稀释液",
+      "interacaoMedicamento": "避免与纤溶药合用",
+      "posologia": "每月35 IU/kg一次",
+      "armazenamento": "2–8°C保存，用前3小时内用完",
+      "preparo": "用配套稀释液重溶",
+      "solucoesCompatíveis": "仅限原厂稀释液",
+      "contraindicacoes": "对成分过敏者",
+      "cuidadosMedicos": "监测FXIII水平与出血控制",
+      "cuidadosFarmaceuticos": "保持无菌、及时使用",
+      "cuidadosEnfermagem": "观察过敏与输注反应",
+      "fontesBibliograficas": "中国药典、EMA、Micromedex、Medscape"
+    }
+  }
+}

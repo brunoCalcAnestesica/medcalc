@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Etileno glicol",
+      "suspension": "Não se aplica – substância tóxica; exposição acidental deve ser tratada como emergência",
+      "risk": "Neurotoxicidade, acidose metabólica grave, insuficiência renal aguda, hipocalcemia, morte",
+      "reintroduction": "Nunca reintroduzir – sem uso terapêutico em humanos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etileno glicol",
+      "nomeComercial": "Componente de anticongelantes, fluidos hidráulicos",
+      "mecanismoAcao": "Após ingestão, é metabolizado por álcool desidrogenase em metabólitos tóxicos: glicolaldeído, ácido glicólico e oxálico",
+      "farmacocinetica": "Absorção GI rápida; distribuição ampla; metabolização hepática; excreção renal",
+      "farmacodinamica": "Toxicidade multissistêmica, principalmente renal e neurológica",
+      "indicacoes": "Nenhuma – substância industrial; uso clínico apenas como agente tóxico em intoxicações",
+      "reacoesAdversas": "Náusea, vômito, letargia, convulsões, coma, anúria, edema cerebral",
+      "riscoGravidez": "Categoria X – abortivo, teratogênico",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Acidental (oral, inalatória ou dérmica)",
+      "doseMaxima": "Tóxica: 1,4 mL/kg; letal: > 100 mL em adultos",
+      "doseMinima": "Tóxica a partir de 0,2 mL/kg em crianças",
+      "classificacao": "Álcool industrial tóxico",
+      "apresentacao": "Líquido incolor, doce, viscoso",
+      "interacaoMedicamento": "Antagonismo terapêutico com etanol e fomepizol (inibem metabolismo tóxico)",
+      "posologia": "Antídotos: Etanol IV ou Fomepizol; hemodiálise em casos graves",
+      "armazenamento": "Ambiente industrial controlado",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Qualquer uso humano deliberado",
+      "cuidadosMedicos": "Tratamento de emergência: antídoto, correção da acidose, diálise",
+      "cuidadosFarmaceuticos": "Não manipular fora de controle industrial; reportar exposições",
+      "cuidadosEnfermagem": "Monitorar consciência, função renal, acidose e eletrólitos",
+      "fontesBibliograficas": "CDC, WHO, UpToDate, Micromedex, TOXNET"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ethylene glycol",
+      "suspension": "Not applicable – toxic substance; exposure must be treated as emergency",
+      "risk": "Neurotoxicity, metabolic acidosis, acute renal failure, hypocalcemia, death",
+      "reintroduction": "Never reintroduce – no medical use in humans"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ethylene glycol",
+      "nomeComercial": "Component in antifreeze and industrial fluids",
+      "mecanismoAcao": "Metabolized by alcohol dehydrogenase into toxic metabolites: glycolic, oxalic acids",
+      "farmacocinetica": "Rapid GI absorption; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Multisystem toxicity: CNS, kidneys, lungs",
+      "indicacoes": "None – clinical use only in context of poisoning",
+      "reacoesAdversas": "Vomiting, CNS depression, seizure, renal failure, coma",
+      "riscoGravidez": "Category X – teratogenic and abortifacient",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Accidental ingestion/inhalation/skin contact",
+      "doseMaxima": "Lethal: >100 mL; toxic: 1.4 mL/kg",
+      "doseMinima": "Children toxic dose ~0.2 mL/kg",
+      "classificacao": "Toxic alcohol; industrial compound",
+      "apresentacao": "Colorless, sweet-tasting, viscous liquid",
+      "interacaoMedicamento": "Antidote action from ethanol or fomepizole",
+      "posologia": "IV ethanol or fomepizole; hemodialysis if severe",
+      "armazenamento": "Industrial use only; sealed and labeled",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "All deliberate human use",
+      "cuidadosMedicos": "Emergency: correct acidosis, give antidote, dialysis",
+      "cuidadosFarmaceuticos": "Not to be dispensed; report exposures",
+      "cuidadosEnfermagem": "Monitor LOC, renal status, acid-base balance",
+      "fontesBibliograficas": "NIH, CDC, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Etilenglicol",
+      "suspension": "No aplicable – tóxico; tratar exposición como emergencia",
+      "risk": "Acidosis metabólica, nefrotoxicidad, coma, convulsiones",
+      "reintroduction": "Nunca reintroducir – sin uso terapéutico humano"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etilenglicol",
+      "nomeComercial": "Anticongelante industrial",
+      "mecanismoAcao": "Metabolismo hepático a ácidos glicólico y oxálico tóxicos",
+      "farmacocinetica": "Absorción oral rápida; eliminación renal",
+      "farmacodinamica": "Toxicidad múltiple: neurológica, renal",
+      "indicacoes": "Ninguna; solo como tóxico",
+      "reacoesAdversas": "Vómitos, coma, acidosis, anuria",
+      "riscoGravidez": "Categoría X",
+      "riscoLactacao": "Prohibido",
+      "administracao": "Accidental oral, dérmica o inhalatoria",
+      "doseMaxima": "Letal: >100 mL",
+      "doseMinima": "Tóxica: 1,4 mL/kg",
+      "classificacao": "Alcohol tóxico industrial",
+      "apresentacao": "Líquido dulce, incoloro",
+      "interacaoMedicamento": "Etanol y fomepizol como antídotos",
+      "posologia": "Etanol IV, fomepizol, hemodiálisis",
+      "armazenamento": "Ambiente controlado, inflamable",
+      "preparo": "No aplicable",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Todo uso médico deliberado",
+      "cuidadosMedicos": "Urgencia: antídoto, diálisis, soporte vital",
+      "cuidadosFarmaceuticos": "Reportar exposición, no dispensar",
+      "cuidadosEnfermagem": "Monitorear conciencia, función renal",
+      "fontesBibliograficas": "WHO, CDC, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乙二醇（Ethylene glycol）",
+      "suspension": "不适用 – 工业毒物；误服需立即抢救",
+      "risk": "神经毒性、代谢性酸中毒、急性肾衰、低钙血症",
+      "reintroduction": "不可重新用于任何医疗场景"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乙二醇",
+      "nomeComercial": "防冻液成分",
+      "mecanismoAcao": "被乙醇脱氢酶代谢成毒性代谢物：乙醛酸、草酸",
+      "farmacocinetica": "口服吸收快，肝代谢，肾排泄",
+      "farmacodinamica": "中枢抑制、肾损伤、酸中毒",
+      "indicacoes": "无；仅用于毒理研究或中毒急救",
+      "reacoesAdversas": "嗜睡、惊厥、少尿、脑水肿",
+      "riscoGravidez": "X类，致畸",
+      "riscoLactacao": "禁用",
+      "administracao": "误服、吸入、皮肤接触",
+      "doseMaxima": "致死量：>100 mL",
+      "doseMinima": "中毒起始量：~1.4 mL/kg",
+      "classificacao": "工业溶剂/毒性醇类",
+      "apresentacao": "无色甜味液体",
+      "interacaoMedicamento": "乙醇、氟马西泮为解毒剂",
+      "posologia": "根据毒物血浓度给予解毒+透析",
+      "armazenamento": "工业密闭存储",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "任何人为使用",
+      "cuidadosMedicos": "监测酸碱、电解质、透析",
+      "cuidadosFarmaceuticos": "不可在药房操作，需上报",
+      "cuidadosEnfermagem": "观察意识、呼吸、肾功能",
+      "fontesBibliograficas": "WHO、CDC、TOXNET、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Levomepromazina",
+      "suspension": "Suspender 3 dias antes da cirurgia eletiva",
+      "risk": "Risco de hipotensão, depressão respiratória, sedação profunda e interação com anestésicos",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e recuperação da ventilação espontânea"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levomepromazina",
+      "nomeComercial": "Neozine",
+      "mecanismoAcao": "Antagonista dos receptores D2, H1, α1-adrenérgico, muscarínico e serotoninérgico 5-HT2A",
+      "farmacocinetica": "Biodisponibilidade oral ~50%; meia-vida ~15–30 h; metabolização hepática",
+      "farmacodinamica": "Potente sedativo e antipsicótico; efeitos anticolinérgicos, anti-histamínicos e analgésicos centrais",
+      "indicacoes": "Esquizofrenia, agitação psicomotora, insônia refratária, dor neuropática, delírio paliativo",
+      "reacoesAdversas": "Sonolência, hipotensão, boca seca, constipação, retenção urinária, discinesia tardia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "Oral, intramuscular ou intravenosa (uso restrito)",
+      "doseMaxima": "600 mg/dia (em contexto hospitalar)",
+      "doseMinima": "25 mg/dia",
+      "classificacao": "Antipsicótico típico – fenotiazina de baixa potência",
+      "apresentacao": "Comprimidos 25 mg, solução oral 40 mg/mL, ampola 25 mg/mL",
+      "interacaoMedicamento": "Potencializa opioides, benzodiazepínicos, anestésicos; antagoniza levodopa",
+      "posologia": "25–200 mg/dia VO em 2–3 doses ou 12,5–25 mg IM a cada 8 h",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Uso EV com monitorização; diluir em SF 0,9% se necessário",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Depressão grave do SNC, coma, hipotensão grave, alergia à fenotiazina",
+      "cuidadosMedicos": "Monitorar PA, sedação, ECG (QT), função hepática",
+      "cuidadosFarmaceuticos": "Evitar associação com álcool e depressores do SNC; orientar uso noturno",
+      "cuidadosEnfermagem": "Observar nível de consciência, PA, retenção urinária e boca seca",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, Maudsley, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Levomepromazine",
+      "suspension": "Discontinue 3 days before elective surgery",
+      "risk": "Risk of hypotension, respiratory depression, deep sedation, anesthetic interaction",
+      "reintroduction": "Restart after hemodynamic stabilization and spontaneous ventilation recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levomepromazine",
+      "nomeComercial": "Nozinan (off-label in US)",
+      "mecanismoAcao": "D2, H1, α1, M1 and 5-HT2A receptor antagonist",
+      "farmacocinetica": "Oral bioavailability ~50%; half-life ~15–30 h; hepatic metabolism",
+      "farmacodinamica": "Strong sedative and analgesic; antipsychotic with antihistamine and anticholinergic properties",
+      "indicacoes": "Schizophrenia, agitation, insomnia, neuropathic pain, palliative sedation (off-label)",
+      "reacoesAdversas": "Sedation, hypotension, dry mouth, urinary retention, EPS, QT prolongation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral, IM, IV (restricted)",
+      "doseMaxima": "600 mg/day in hospital",
+      "doseMinima": "25 mg/day",
+      "classificacao": "Typical antipsychotic – low potency phenothiazine",
+      "apresentacao": "Tablets 25 mg, oral solution 40 mg/mL, ampoules 25 mg/mL",
+      "interacaoMedicamento": "Enhances opioids, CNS depressants, interacts with anesthetics; antagonizes levodopa",
+      "posologia": "25–200 mg/day PO in 2–3 doses; 12.5–25 mg IM q8h",
+      "armazenamento": "15–30°C",
+      "preparo": "Dilute IV with NS if needed; monitor ECG and sedation",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "CNS depression, coma, severe hypotension, phenothiazine allergy",
+      "cuidadosMedicos": "Monitor BP, ECG (QT), liver enzymes, sedation level",
+      "cuidadosFarmaceuticos": "Avoid alcohol/CNS depressants; educate on bedtime dosing",
+      "cuidadosEnfermagem": "Watch LOC, dry mouth, urinary retention, hypotension",
+      "fontesBibliograficas": "Micromedex, UpToDate, Maudsley, NCCN"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Levomepromazina",
+      "suspension": "Suspender 3 días antes de cirugía electiva",
+      "risk": "Riesgo de hipotensión, depresión respiratoria, sedación profunda, interacción con anestesia",
+      "reintroduction": "Reintroducir tras estabilidad hemodinámica y conciencia recuperada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levomepromazina",
+      "nomeComercial": "Nozinán",
+      "mecanismoAcao": "Antagonista D2, H1, α1, M1 y 5-HT2A",
+      "farmacocinetica": "Biodisponibilidad ~50%; vida media 15–30 h; metabolismo hepático",
+      "farmacodinamica": "Potente sedante, antipsicótico, analgésico central",
+      "indicacoes": "Esquizofrenia, agitación, insomnio refractario, dolor oncológico, sedación paliativa",
+      "reacoesAdversas": "Somnolencia, hipotensión, boca seca, retención urinaria, estreñimiento, SNM",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Oral, IM, IV (con monitorización)",
+      "doseMaxima": "600 mg/día hospitalizado",
+      "doseMinima": "25 mg/día",
+      "classificacao": "Antipsicótico típico – fenotiazina sedante",
+      "apresentacao": "Comprimidos 25 mg, solución oral, ampollas 25 mg/mL",
+      "interacaoMedicamento": "Potencia sedantes, opioides, anestésicos; antagoniza levodopa",
+      "posologia": "25–200 mg/día VO; IM 12,5–25 mg cada 8h",
+      "armazenamento": "15–30°C",
+      "preparo": "Diluir IV en SF 0,9%; infundir lentamente con control ECG",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Depresión severa del SNC, coma, hipotensión severa",
+      "cuidadosMedicos": "Monitorear PA, ECG, estado mental, hepático",
+      "cuidadosFarmaceuticos": "Evitar alcohol; explicar uso nocturno; interacciones",
+      "cuidadosEnfermagem": "Observar somnolencia, hipotensión, retención urinaria",
+      "fontesBibliograficas": "EMA, ANMAT, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "左美丙嗪",
+      "suspension": "术前3天停药",
+      "risk": "低血压、呼吸抑制、过度镇静与麻醉相互作用",
+      "reintroduction": "术后血流动力学与神志稳定后恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "左美丙嗪",
+      "nomeComercial": "Nozinan",
+      "mecanismoAcao": "阻断D2、H1、α1、M1、5-HT2A等受体",
+      "farmacocinetica": "口服生物利用度约50%；半衰期15–30小时；肝代谢",
+      "farmacodinamica": "强镇静、抗精神病、抗胆碱、抗组胺、中枢镇痛",
+      "indicacoes": "精神分裂症、躁动、失眠、晚期癌痛、姑息镇静",
+      "reacoesAdversas": "嗜睡、低血压、口干、尿潴留、便秘、SNM",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不推荐",
+      "administracao": "口服、肌注、静注",
+      "doseMaxima": "每日600毫克（住院）",
+      "doseMinima": "每日25毫克",
+      "classificacao": "典型抗精神病药 – 镇静型吩噻嗪",
+      "apresentacao": "片剂25 mg，口服液40 mg/mL，注射液25 mg/mL",
+      "interacaoMedicamento": "增强麻醉剂、阿片、镇静剂作用，拮抗左旋多巴",
+      "posologia": "口服25–200 mg/d，分2–3次；IM 12.5–25 mg q8h",
+      "armazenamento": "15–30°C",
+      "preparo": "IV稀释于0.9%氯化钠，缓慢注射，需心电监护",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "严重中枢抑制、昏迷、低血压、吩噻嗪过敏",
+      "cuidadosMedicos": "监测血压、心电图、镇静程度、肝功能",
+      "cuidadosFarmaceuticos": "告知镇静风险、避免饮酒、遵医嘱服用",
+      "cuidadosEnfermagem": "关注嗜睡、低血压、排尿异常、口干",
+      "fontesBibliograficas": "中国药典, EMA, Micromedex, UpToDate"
+    }
+  }
+}

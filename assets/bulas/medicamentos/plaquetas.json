@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Concentrado de Plaquetas",
+      "suspension": "Não aplicável; trata-se de hemocomponente terapêutico",
+      "risk": "Reações transfusionais, alérgicas, febris, risco de aloimunização e infecções transmitidas por transfusão; risco aumentado com múltiplas exposições",
+      "reintroduction": "Indicado conforme contagem plaquetária e condição clínica; não há restrição de reintrodução"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Plaquetas humanas concentradas",
+      "nomeComercial": "Concentrado de plaquetas (CP)",
+      "mecanismoAcao": "Reposição hemostática em trombocitopenia ou disfunção plaquetária; promovem formação de tampão plaquetário e hemostasia primária",
+      "farmacocinetica": "Sobrevida média de 3–5 dias após transfusão; resposta depende de aloimunização e função esplênica",
+      "farmacodinamica": "Corrige sangramento ativo ou previne hemorragia em pacientes com plaquetopenia grave ou disfunção",
+      "indicacoes": "Plaquetopenia (<10.000/mm³), sangramento ativo, procedimentos invasivos com plaquetas <50.000/mm³, transfusão profilática em quimioterapia",
+      "reacoesAdversas": "Febre, calafrios, urticária, anafilaxia, infecção, refratariedade imunológica",
+      "riscoGravidez": "Seguro; utilizar conforme necessidade hemostática",
+      "riscoLactacao": "Seguro",
+      "administracao": "Intravenosa",
+      "doseMaxima": "De acordo com peso e necessidade clínica (geralmente 1 U/10 kg PC)",
+      "doseMinima": "1 unidade (pool ou aférese)",
+      "classificacao": "Hemocomponente terapêutico",
+      "apresentacao": "Bolsa contendo 200–300 mL com 0,5 a 0,8 x10¹¹ plaquetas/unidade",
+      "interacaoMedicamento": "Imunossupressores, anti-HLA, corticoides podem interferir na resposta transfusional",
+      "posologia": "1 U por 10 kg de peso ou 1 pool/aférese para adultos; repetir conforme resposta clínica/laboratorial",
+      "armazenamento": "Entre 20–24°C com agitação contínua; validade 5 dias",
+      "preparo": "Inspeção visual, verificação de compatibilidade ABO/Rh (ideal)",
+      "solucoesCompatíveis": "SF 0,9% (evitar glicose)",
+      "contraindicacoes": "Purpura trombocitopênica trombótica (PTT), púrpura trombocitopênica imune (PTI) sem sangramento",
+      "cuidadosMedicos": "Avaliar necessidade real, realizar controle pós-transfusão (CPI, CCI)",
+      "cuidadosFarmaceuticos": "Checar integridade da bolsa, validade, armazenamento adequado",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, reações transfusionais e resposta terapêutica",
+      "fontesBibliograficas": "Ministério da Saúde, AABB, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Platelet Concentrate",
+      "suspension": "Not applicable (therapeutic blood component)",
+      "risk": "Transfusion reactions, allergic responses, fever, alloimmunization, infectious transmission; risk increases with repeated exposure",
+      "reintroduction": "Based on platelet count and clinical condition; no specific restriction"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Human Platelets",
+      "nomeComercial": "Platelet Concentrate (PC)",
+      "mecanismoAcao": "Hemostatic replacement in thrombocytopenia or dysfunction; promotes platelet plug formation and primary hemostasis",
+      "farmacocinetica": "Average survival 3–5 days post-transfusion; response varies with splenic function and alloimmunization",
+      "farmacodinamica": "Prevents or treats bleeding due to platelet deficiency or dysfunction",
+      "indicacoes": "Platelets <10,000/mm³, active bleeding, pre-procedure <50,000/mm³, prophylaxis during chemotherapy",
+      "reacoesAdversas": "Fever, chills, urticaria, anaphylaxis, infection, alloimmune refractoriness",
+      "riscoGravidez": "Safe when clinically indicated",
+      "riscoLactacao": "Safe",
+      "administracao": "Intravenous",
+      "doseMaxima": "Depends on weight and clinical need (typically 1 U/10 kg)",
+      "doseMinima": "1 unit (pooled or apheresis)",
+      "classificacao": "Therapeutic blood product",
+      "apresentacao": "Bag: 200–300 mL with 0.5–0.8 x10¹¹ platelets/unit",
+      "interacaoMedicamento": "Immunosuppressants, anti-HLA, corticosteroids may affect response",
+      "posologia": "1 unit per 10 kg body weight or 1 adult dose; repeat as needed based on response",
+      "armazenamento": "20–24°C with agitation; shelf life 5 days",
+      "preparo": "Visual inspection, ABO/Rh compatibility check (ideal)",
+      "solucoesCompatíveis": "0.9% NaCl (avoid glucose solutions)",
+      "contraindicacoes": "TTP, ITP without bleeding",
+      "cuidadosMedicos": "Monitor platelet increments (CPI/CCI) and clinical response",
+      "cuidadosFarmaceuticos": "Verify bag integrity, expiration, storage conditions",
+      "cuidadosEnfermagem": "Monitor vitals, transfusion reactions, and efficacy",
+      "fontesBibliograficas": "AABB, UpToDate, Micromedex, WHO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Concentrado de plaquetas",
+      "suspension": "No aplicable; es un hemoderivado terapéutico",
+      "risk": "Reacciones transfusionales, alérgicas, febriles, riesgo de aloimunización e infecciones; mayor riesgo con múltiples exposiciones",
+      "reintroduction": "Se indica según conteo plaquetario y condición clínica; sin restricción formal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Plaquetas humanas concentradas",
+      "nomeComercial": "Concentrado de plaquetas (CP)",
+      "mecanismoAcao": "Reposición hemostática en trombocitopenia o disfunción; forman tapón plaquetario y hemostasia primaria",
+      "farmacocinetica": "Vida media 3–5 días; respuesta depende de función esplénica y aloimunización",
+      "farmacodinamica": "Corrige sangrado activo o lo previene en plaquetopenia severa",
+      "indicacoes": "Plaquetas <10.000/mm³, sangrado activo, cirugía o procedimiento con <50.000/mm³, quimioterapia",
+      "reacoesAdversas": "Fiebre, urticaria, anafilaxia, infecciones, refractariedad inmune",
+      "riscoGravidez": "Seguro si está indicado",
+      "riscoLactacao": "Seguro",
+      "administracao": "Intravenosa",
+      "doseMaxima": "Según peso y necesidad clínica (1 U/10 kg)",
+      "doseMinima": "1 unidad (pool o aféresis)",
+      "classificacao": "Hemoderivado terapéutico",
+      "apresentacao": "Bolsa 200–300 mL con 0,5–0,8 x10¹¹ plaquetas/unidad",
+      "interacaoMedicamento": "Inmunosupresores, anti-HLA, corticoides reducen eficacia",
+      "posologia": "1 U/10 kg o 1 pool adulto; repetir según respuesta clínica",
+      "armazenamento": "20–24°C con agitación; duración 5 días",
+      "preparo": "Inspección visual, ver compatibilidad ABO/Rh (ideal)",
+      "solucoesCompatíveis": "Suero fisiológico 0,9% (no glucosa)",
+      "contraindicacoes": "PTT, PTI sin sangrado",
+      "cuidadosMedicos": "Controlar CPI, CCI y respuesta clínica",
+      "cuidadosFarmaceuticos": "Verificar integridad, fecha y almacenamiento",
+      "cuidadosEnfermagem": "Monitorear signos vitales y reacciones",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex, OMS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "血小板浓缩液",
+      "suspension": "不适用（治疗用血液成分）",
+      "risk": "可能引起过敏、发热、免疫耐受和输血传播感染；多次输注风险更高",
+      "reintroduction": "根据血小板计数和临床需要随时可再次使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "人血小板浓缩物",
+      "nomeComercial": "血小板浓缩液",
+      "mecanismoAcao": "补充血小板以恢复止血功能，通过形成血小板血栓参与初级止血",
+      "farmacocinetica": "平均存活3–5天，受脾功能和免疫影响",
+      "farmacodinamica": "用于血小板减少或功能障碍所致出血的治疗和预防",
+      "indicacoes": "血小板 <10×10⁹/L、有活动性出血、术前血小板<50×10⁹/L、化疗相关预防",
+      "reacoesAdversas": "发热、寒战、皮疹、过敏、感染、免疫抵抗",
+      "riscoGravidez": "临床需要时安全",
+      "riscoLactacao": "安全",
+      "administracao": "静脉输注",
+      "doseMaxima": "1单位/10公斤体重，按需调整",
+      "doseMinima": "1单位（单采或混合）",
+      "classificacao": "治疗性血液制品",
+      "apresentacao": "袋装200–300 mL，含0.5–0.8×10¹¹个血小板/单位",
+      "interacaoMedicamento": "免疫抑制剂、抗HLA抗体、糖皮质激素等影响疗效",
+      "posologia": "1单位/10kg体重，或成人1袋；根据反应重复",
+      "armazenamento": "20–24°C摇匀保存，有效期5天",
+      "preparo": "目视检查，ABO/Rh匹配优选",
+      "solucoesCompatíveis": "0.9%氯化钠（禁用葡萄糖）",
+      "contraindicacoes": "TTP/PTI无出血者不推荐",
+      "cuidadosMedicos": "监测输注反应、CPI、CCI",
+      "cuidadosFarmaceuticos": "核查标签、贮存条件与有效期",
+      "cuidadosEnfermagem": "监测生命体征、输注不良反应和止血效果",
+      "fontesBibliograficas": "中国输血指南、Micromedex、UpToDate、世卫组织"
+    }
+  }
+}

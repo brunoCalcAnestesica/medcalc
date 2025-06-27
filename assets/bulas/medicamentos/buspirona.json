@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Buspirona",
+      "suspension": "Suspender 2 dias antes da cirurgia eletiva",
+      "risk": "Risco de interação com anestésicos e potencial aumento de sedação; possível instabilidade autonômica em combinação com opioides",
+      "reintroduction": "Reintroduzir após 24–48h, se paciente estiver vigil, hemodinamicamente estável e sem uso de opioides"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Buspirona",
+      "nomeComercial": "Buspar, Ansiren, Bespar",
+      "mecanismoAcao": "Agonista parcial de receptores 5-HT1A e antagonista leve de dopamina D2, modulando neurotransmissores envolvidos na ansiedade",
+      "farmacocinetica": "Absorção oral rápida, metabolização hepática extensa (CYP3A4), meia-vida de 2 a 11 horas, excreção renal e fecal",
+      "farmacodinamica": "Ansiolítico não sedativo, com início de ação gradual, sem propriedades hipnóticas, anticonvulsivantes ou de dependência",
+      "indicacoes": "Transtorno de ansiedade generalizada (TAG), ansiedade leve a moderada, adjuvante em depressão resistente com componente ansioso",
+      "reacoesAdversas": "Tontura, cefaleia, náusea, nervosismo, insônia, sudorese, parestesia, fadiga",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excreção no leite não confirmada; uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "60mg/dia",
+      "doseMinima": "15mg/dia",
+      "classificacao": "Ansiolítico não benzodiazepínico",
+      "apresentacao": "Comprimidos de 5mg, 10mg e 15mg",
+      "interacaoMedicamento": "Interage com IMAOs, depressores do SNC, inibidores do CYP3A4, álcool",
+      "posologia": "Iniciar com 5–10mg 2–3x/dia, ajuste gradual conforme resposta clínica até 60mg/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso concomitante com IMAO, hipersensibilidade conhecida",
+      "cuidadosMedicos": "Avaliar resposta ansiolítica após 2 semanas, ajustar dose, evitar em crises agudas de ansiedade",
+      "cuidadosFarmaceuticos": "Conferir integridade dos comprimidos, não fracionar sem necessidade, orientar adesão",
+      "cuidadosEnfermagem": "Observar estado mental, sonolência, sinais de sedação ou interações medicamentosas",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Buspirone",
+      "suspension": "Discontinue 2 days before elective procedures",
+      "risk": "Potential interaction with anesthetics; increased sedation risk; possible autonomic instability with opioids",
+      "reintroduction": "Restart after 24–48h if patient is alert, stable, and off opioids"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Buspirone Hydrochloride",
+      "nomeComercial": "Buspar, Vanspar (discontinued), generics",
+      "mecanismoAcao": "Partial agonist of 5-HT1A receptors, mild antagonist of dopamine D2 receptors; modulates CNS neurotransmission",
+      "farmacocinetica": "Rapid oral absorption, high first-pass metabolism (CYP3A4), bioavailability ~4%, half-life 2–11h",
+      "farmacodinamica": "Non-sedating anxiolytic with gradual onset, lacks hypnotic, muscle relaxant or anticonvulsant effects",
+      "indicacoes": "Generalized Anxiety Disorder (GAD), off-label use in depression with anxiety symptoms",
+      "reacoesAdversas": "Dizziness, nausea, headache, nervousness, lightheadedness, insomnia, restlessness",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Unknown if excreted in milk; use caution",
+      "administracao": "Oral route",
+      "doseMaxima": "60mg/day",
+      "doseMinima": "15mg/day",
+      "classificacao": "Non-benzodiazepine anxiolytic",
+      "apresentacao": "Tablets: 5mg, 10mg, 15mg, 30mg",
+      "interacaoMedicamento": "CYP3A4 inhibitors, MAOIs, alcohol, CNS depressants",
+      "posologia": "Start 5–10mg two to three times daily; titrate based on response up to 60mg/day",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "MAOI use, hypersensitivity to buspirone",
+      "cuidadosMedicos": "Evaluate after 2–3 weeks; not for acute anxiety crises",
+      "cuidadosFarmaceuticos": "Counsel on delayed onset, reinforce compliance",
+      "cuidadosEnfermagem": "Monitor mental state, signs of over-sedation, vitals",
+      "fontesBibliograficas": "FDA, Micromedex, Lexicomp, ClinicalKey"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Buspirona",
+      "suspension": "Suspender 2 días antes de cirugía electiva",
+      "risk": "Interacción con anestésicos y opioides; riesgo de sedación aumentada e inestabilidad autonómica",
+      "reintroduction": "Reintroducir después de 24–48h si el paciente está alerta, estable y sin opioides"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Buspirona",
+      "nomeComercial": "Buspar, Buspinox, Buspirex, generics",
+      "mecanismoAcao": "Agonista parcial 5-HT1A y antagonista leve de receptores dopaminérgicos D2",
+      "farmacocinetica": "Absorción rápida, metabolización hepática (CYP3A4), biodisponibilidad oral <10%, excreción renal y fecal",
+      "farmacodinamica": "Ansiolítico no sedante, sin efectos hipnóticos o relajantes musculares, inicio de acción diferido",
+      "indicacoes": "Trastorno de ansiedad generalizada (TAG), adyuvante en depresión con ansiedad",
+      "reacoesAdversas": "Mareos, náuseas, dolor de cabeza, nerviosismo, insomnio",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "No se sabe si se excreta en la leche; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "60mg/día",
+      "doseMinima": "15mg/día",
+      "classificacao": "Ansiolítico no benzodiazepínico",
+      "apresentacao": "Tabletas: 5mg, 10mg, 15mg",
+      "interacaoMedicamento": "IMAO, alcohol, depresores del SNC, inhibidores del CYP3A4",
+      "posologia": "Dosis inicial 5–10mg 2–3 veces/día; ajustar hasta 60mg según respuesta",
+      "armazenamento": "15–30°C, protegido de la humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Hipersensibilidad, uso concomitante con IMAO",
+      "cuidadosMedicos": "Controlar respuesta clínica, no indicado para crisis aguda de ansiedad",
+      "cuidadosFarmaceuticos": "Informar sobre inicio lento y necesidad de cumplimiento",
+      "cuidadosEnfermagem": "Observar conducta, signos vitales y efectos secundarios",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, Fisterra"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "丁螺环酮",
+      "suspension": "择期手术前2天停药",
+      "risk": "与麻醉药和阿片类药物合用可能导致镇静增强和自主神经不稳定",
+      "reintroduction": "术后24–48小时，患者稳定且未使用阿片类药物时可重新服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸丁螺环酮",
+      "nomeComercial": "安思平, Buspar, 丁螺环酮片",
+      "mecanismoAcao": "部分激动5-羟色胺1A受体，轻度阻断多巴胺D2受体",
+      "farmacocinetica": "口服吸收迅速，肝脏代谢（CYP3A4），生物利用度低，半衰期2–11小时",
+      "farmacodinamica": "非镇静性抗焦虑药，起效缓慢，无肌松或催眠作用",
+      "indicacoes": "广泛性焦虑障碍、轻度焦虑、作为抗抑郁药的辅助治疗",
+      "reacoesAdversas": "头晕、恶心、失眠、焦虑、头痛",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "尚不明确是否分泌入乳汁，慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日60毫克",
+      "doseMinima": "每日15毫克",
+      "classificacao": "非苯二氮䓬类抗焦虑药",
+      "apresentacao": "片剂：5mg、10mg、15mg",
+      "interacaoMedicamento": "与MAOI、中枢抑制剂、CYP3A4抑制剂、酒精有相互作用",
+      "posologia": "初始剂量5–10mg每日2–3次，根据反应调整至60mg/日",
+      "armazenamento": "15–30°C，避免潮湿",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对本品过敏、同时使用MAOI",
+      "cuidadosMedicos": "观察疗效，适用于慢性焦虑，非急性发作",
+      "cuidadosFarmaceuticos": "强调规律用药和延迟起效",
+      "cuidadosEnfermagem": "监测心理状态、镇静表现和生命体征",
+      "fontesBibliograficas": "NMPA, WHO, Micromedex, 国家基本药物目录"
+    }
+  }
+}

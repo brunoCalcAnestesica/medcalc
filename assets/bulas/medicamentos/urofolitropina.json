@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Urofolitropina",
+      "suspension": "Suspender 5 dias antes de cirurgia eletiva com risco de hiperestimulação ovariana ou trombose",
+      "risk": "Síndrome de hiperestimulação ovariana (OHSS), dor abdominal, aumento ovariano, náusea, cefaleia, trombose, reação local",
+      "reintroduction": "Reintroduzir após 7 dias e resolução completa dos sinais de OHSS ou instabilidade hormonal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Urofolitropina (FSH urinário purificado)",
+      "nomeComercial": "Fostimon, Bravelle",
+      "mecanismoAcao": "Hormônio folículo-estimulante (FSH); estimula desenvolvimento folicular ovariano e espermatogênese",
+      "farmacocinetica": "SC ou IM; T½ ~24–36h; metabolização hepática mínima; excreção renal",
+      "farmacodinamica": "Ação direta sobre receptores FSH nas células da granulosa/testiculares",
+      "indicacoes": "Estimulação ovariana controlada, anovulação, hipogonadismo hipogonadotrófico, fertilização in vitro",
+      "reacoesAdversas": "Distensão abdominal, cistos ovarianos, dor pélvica, reações SC, cefaleia, OHSS leve a grave",
+      "riscoGravidez": "Categoria X – contraindicado durante gestação",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "SC ou IM diariamente, ajustando-se dose com base em resposta ovariana ou espermatogênica",
+      "doseMaxima": "450 UI/dia",
+      "doseMinima": "75 UI/dia",
+      "classificacao": "Hormônio gonadotrófico exógeno – FSH urinário",
+      "apresentacao": "Frascos de 75 UI, 150 UI com diluente",
+      "interacaoMedicamento": "Potencial interação com outros hormônios gonadotróficos e hCG; risco aumentado com estrogênios",
+      "posologia": "75–150 UI/dia SC/IM ajustado até ovulação (máx. 12 dias por ciclo)",
+      "armazenamento": "Refrigerado (2–8°C); solução pronta deve ser usada em até 24h",
+      "preparo": "Reconstituir com diluente fornecido antes da aplicação",
+      "solucoesCompatíveis": "Diluente incluso na embalagem",
+      "contraindicacoes": "OHSS ativo, gravidez, neoplasias hormônio-dependentes, sangramento ginecológico não explicado",
+      "cuidadosMedicos": "Monitorar ultrassonografia ovariana, estradiol, sinais de OHSS, eventos tromboembólicos",
+      "cuidadosFarmaceuticos": "Orientar reconstituição correta, estabilidade e técnica de aplicação",
+      "cuidadosEnfermagem": "Observar reações locais, dor abdominal, náuseas, distensão",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, SBRA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Urofollitropin",
+      "suspension": "Hold 5 days before elective surgery with thrombotic or OHSS risk",
+      "risk": "OHSS, ovarian enlargement, abdominal pain, headache, injection site reaction, thrombosis",
+      "reintroduction": "Resume after OHSS resolution and stable hormonal response (≈7 days)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Urofollitropin",
+      "nomeComercial": "Bravelle",
+      "mecanismoAcao": "Purified urinary FSH; stimulates ovarian follicular development and spermatogenesis",
+      "farmacocinetica": "SC/IM; T½ 24–36h; renal clearance",
+      "farmacodinamica": "Binds FSH receptors in ovaries/testes; promotes follicle maturation or spermatogenesis",
+      "indicacoes": "Ovulation induction, ART cycles, hypogonadotropic hypogonadism",
+      "reacoesAdversas": "Abdominal pain, OHSS, ovarian cysts, headache, SC site irritation, VTE",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Not recommended",
+      "administracao": "SC or IM; daily dose individualized",
+      "doseMaxima": "450 IU/day",
+      "doseMinima": "75 IU/day",
+      "classificacao": "Urinary FSH preparation",
+      "apresentacao": "Vials: 75 IU, 150 IU + diluent",
+      "interacaoMedicamento": "Gonadotropins, hCG; estrogen potentiation risk",
+      "posologia": "75–150 IU/day × up to 12 days; titrate by ovarian response",
+      "armazenamento": "2–8°C; use solution within 24h",
+      "preparo": "Reconstitute before use with provided diluent",
+      "solucoesCompatíveis": "Only manufacturer’s diluent",
+      "contraindicacoes": "OHSS, pregnancy, hormone-dependent tumors, unexplained bleeding",
+      "cuidadosMedicos": "Monitor estradiol, ovarian ultrasound, signs of OHSS or thromboembolism",
+      "cuidadosFarmaceuticos": "Patient training on mixing, dosing, proper injection",
+      "cuidadosEnfermagem": "Observe pain, swelling, GI symptoms, breathlessness",
+      "fontesBibliograficas": "FDA label, UpToDate, NCCN, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Urofollitropina",
+      "suspension": "Suspender 5 días antes de cirugía con riesgo de trombosis o OHSS",
+      "risk": "OHSS, dolor abdominal, quistes, cefalea, reacción local",
+      "reintroduction": "Reiniciar tras 7 días y estabilidad ovárica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Urofollitropina",
+      "nomeComercial": "Bravelle, Fostimon",
+      "mecanismoAcao": "FSH urinario purificado que estimula el crecimiento folicular",
+      "farmacocinetica": "SC/IM; T½ 24–36h; excreción renal",
+      "farmacodinamica": "Estimula maduración folicular u espermatogénesis",
+      "indicacoes": "Estimulación ovárica, infertilidad, FIV",
+      "reacoesAdversas": "Distensión, dolor pélvico, cefalea, OHSS, eventos trombóticos",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "SC/IM según protocolo",
+      "doseMaxima": "450 UI/día",
+      "doseMinima": "75 UI/día",
+      "classificacao": "FSH urinario",
+      "apresentacao": "Viales 75–150 UI con diluyente",
+      "interacaoMedicamento": "Con hCG y estrógenos; mayor riesgo de OHSS",
+      "posologia": "75–150 UI/día hasta 12 días",
+      "armazenamento": "2–8°C, usar dentro de 24h tras dilución",
+      "preparo": "Reconstituir antes del uso",
+      "solucoesCompatíveis": "Solo diluyente original",
+      "contraindicacoes": "OHSS, embarazo, tumores hormonales",
+      "cuidadosMedicos": "Control ecográfico, estradiol, síntomas de OHSS",
+      "cuidadosFarmaceuticos": "Instrucción sobre mezcla, aplicación",
+      "cuidadosEnfermagem": "Observar distensión, dolor pélvico, disnea",
+      "fontesBibliograficas": "SEF, ficha técnica, EMA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "尿促卵泡激素（uFSH）",
+      "suspension": "术前5天停药，避免术中发生OHSS或血栓",
+      "risk": "卵巢过度刺激综合征、腹痛、卵巢增大、注射部位疼痛、血栓",
+      "reintroduction": "术后7天，卵巢稳定、无症状后再启动"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "尿促卵泡激素",
+      "nomeComercial": "Bravelle、Fostimon",
+      "mecanismoAcao": "促进卵泡发育成熟、男性睾丸功能",
+      "farmacocinetica": "皮下注射；T½ 约24–36小时；肾排泄",
+      "farmacodinamica": "激活FSH受体，引导卵泡发育或精子生成",
+      "indicacoes": "促排卵、试管婴儿、男性少精",
+      "reacoesAdversas": "卵巢增大、OHSS、注射反应、腹胀、头痛、血栓",
+      "riscoGravidez": "X类 – 妊娠禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "每日SC/IM注射，个体化调整",
+      "doseMaxima": "每日不超450 IU",
+      "doseMinima": "每日75 IU",
+      "classificacao": "泌尿提纯FSH激素制剂",
+      "apresentacao": "冻干粉75、150 IU/瓶，含稀释液",
+      "interacaoMedicamento": "与hCG、雌激素共用需监控",
+      "posologia": "每日75–150 IU，根据卵泡反应增减",
+      "armazenamento": "2–8°C冷藏，稀释后24h内用完",
+      "preparo": "即用即配，摇匀后SC注射",
+      "solucoesCompatíveis": "仅使用厂家稀释剂",
+      "contraindicacoes": "OHSS、妊娠、激素依赖性肿瘤",
+      "cuidadosMedicos": "B超监测、激素检测、预防血栓",
+      "cuidadosFarmaceuticos": "指导患者用药周期、冷藏保存、针头处理",
+      "cuidadosEnfermagem": "观察局部红肿、腹水、下肢水肿、呼吸困难",
+      "fontesBibliograficas": "中国药典、SEER、FDA、EMA、Micromedex"
+    }
+  }
+}

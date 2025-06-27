@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fosfato Monossódico",
+      "suspension": "Ajustar ou suspender em casos de insuficiência renal, distúrbios eletrolíticos ou risco de hipofosfatemia perioperatória",
+      "risk": "Pode causar desequilíbrio ácido-base e eletrólitos. Administração IV rápida pode induzir hipocalcemia, arritmias e acidose metabólica.",
+      "reintroduction": "Reintroduzir conforme status ácido-básico, níveis de fósforo e função renal, com monitoramento laboratorial frequente."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosfato Monossódico",
+      "nomeComercial": "Fleet Enema, Enema de Fosfato, Fosfat enema",
+      "mecanismoAcao": "Fonte de fósforo inorgânico; participa do metabolismo energético (ATP), tampão ácido-base e integridade óssea",
+      "farmacocinetica": "Absorção intestinal variável; distribuição ampla; excreção renal",
+      "farmacodinamica": "Recompõe fosfatemia, estimula motilidade intestinal quando usado por via retal",
+      "indicacoes": "Reposição de fosfato em hipofosfatemia grave; preparo intestinal; acidose tubular renal",
+      "reacoesAdversas": "Hipocalcemia, hipernatremia, hipercalemia, arritmias, insuficiência renal aguda (em idosos e nefropatas)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Uso permitido sob orientação",
+      "administracao": "Oral (solução), retal (enema), intravenosa (em protocolos específicos)",
+      "doseMaxima": "500 mL/dia via retal (adulto); IV: 0,08–0,16 mmol/kg",
+      "doseMinima": "5–10 mL/dose via oral ou retal",
+      "classificacao": "Repositor de fósforo – eletrólito ácido",
+      "apresentacao": "Solução oral/retal 133 mL (6,5 g monofosfato sódico/5,9 g fosfato dissódico)",
+      "interacaoMedicamento": "Interage com antiácidos, digitálicos, diuréticos e sais de cálcio",
+      "posologia": "Oral: conforme prescrição; Retal: 1 frasco 1x/dia; IV: conforme necessidade de fósforo",
+      "armazenamento": "Temperatura ambiente; evitar congelamento",
+      "preparo": "Pronto para uso (oral/retal); IV deve ser diluído e administrado lentamente",
+      "solucoesCompatíveis": "SF 0,9%, SG 5% (EV lento)",
+      "contraindicacoes": "Obstrução intestinal, insuficiência renal grave, hipercalemia, hipernatremia",
+      "cuidadosMedicos": "Monitorar fósforo, cálcio, sódio, potássio, creatinina e ECG",
+      "cuidadosFarmaceuticos": "Evitar uso simultâneo com cálcio EV por risco de precipitação",
+      "cuidadosEnfermagem": "Observar sinais de desequilíbrio eletrolítico e desconforto abdominal",
+      "fontesBibliograficas": "SBRAE, ANVISA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Monosodium Phosphate",
+      "suspension": "Adjust or suspend in renal impairment or electrolyte disturbances",
+      "risk": "May cause hypocalcemia, hypernatremia, and arrhythmias if misused. Caution with IV administration.",
+      "reintroduction": "Restart based on serum phosphate, renal function, and acid-base status."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Monosodium Phosphate",
+      "nomeComercial": "Fleet Enema, Phospho-soda",
+      "mecanismoAcao": "Provides phosphate for metabolic processes and acts as a buffer; supports ATP generation and bone health",
+      "farmacocinetica": "GI absorption; renal excretion; systemic distribution",
+      "farmacodinamica": "Replenishes phosphate stores; stimulates peristalsis when used rectally",
+      "indicacoes": "Severe hypophosphatemia, bowel prep, renal tubular acidosis",
+      "reacoesAdversas": "Electrolyte disturbances (Ca, Na, K), arrhythmia, acute kidney injury",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use with medical supervision",
+      "administracao": "Oral, rectal, or IV (slow, monitored)",
+      "doseMaxima": "500 mL/day rectal; IV: 0.08–0.16 mmol/kg",
+      "doseMinima": "5–10 mL per dose",
+      "classificacao": "Phosphate supplement – acid electrolyte",
+      "apresentacao": "Oral/rectal solution 133 mL (mono + disodium phosphate)",
+      "interacaoMedicamento": "Interacts with calcium, diuretics, antacids, digitalis",
+      "posologia": "Rectal: 1 bottle/day; Oral: per protocol; IV: per lab values",
+      "armazenamento": "Room temp; do not freeze",
+      "preparo": "Ready to use (oral/rectal); dilute IV dose and infuse slowly",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Obstruction, renal failure, hyperkalemia, hypernatremia",
+      "cuidadosMedicos": "Monitor phosphate, Ca, K, Na, renal function, ECG",
+      "cuidadosFarmaceuticos": "Avoid mixing with calcium solutions",
+      "cuidadosEnfermagem": "Monitor for cramping, discomfort, and labs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fosfato Monosódico",
+      "suspension": "Suspender o ajustar en insuficiencia renal o trastornos electrolíticos",
+      "risk": "Riesgo de hipocalcemia, hipernatremia y arritmias si mal administrado",
+      "reintroduction": "Reiniciar según fósforo, función renal y estado ácido-base"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosfato Monosódico",
+      "nomeComercial": "Fleet Enema, Fosfosoda",
+      "mecanismoAcao": "Suministra fosfato; actúa como tampón ácido-base y apoya metabolismo energético",
+      "farmacocinetica": "Absorción GI; excreción renal",
+      "farmacodinamica": "Restaura fosfatemia; estimula motilidad intestinal (rectal)",
+      "indicacoes": "Hipofosfatemia grave, preparación intestinal, acidosis tubular renal",
+      "reacoesAdversas": "Hipocalcemia, hiperpotasemia, hipernatremia, IR aguda",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Uso controlado",
+      "administracao": "Oral, rectal, IV lenta",
+      "doseMaxima": "500 mL/día; IV según peso",
+      "doseMinima": "5–10 mL",
+      "classificacao": "Repositor de fosfato – electrólito ácido",
+      "apresentacao": "133 mL solución oral/rectal",
+      "interacaoMedicamento": "Antiácidos, calcio, digitálicos, diuréticos",
+      "posologia": "1 enema/día; VO según necesidad",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Listo uso VO/rectal; EV diluir y perfundir lento",
+      "solucoesCompatíveis": "SF, glucosa 5%",
+      "contraindicacoes": "Obstrucción, IR severa, hipernatremia",
+      "cuidadosMedicos": "Monitorizar fósforo, calcio, potasio, creatinina",
+      "cuidadosFarmaceuticos": "Evitar mezcla con calcio",
+      "cuidadosEnfermagem": "Observar molestias y cambios ECG",
+      "fontesBibliograficas": "AEMPS, EMA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "磷酸一钠",
+      "suspension": "肾功能不全或电解质紊乱者术前应停用",
+      "risk": "不当使用可致低钙、高钠、电解质紊乱，甚至心律异常",
+      "reintroduction": "术后根据血磷和肾功能监测结果恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磷酸一钠",
+      "nomeComercial": "Fleet灌肠液、磷酸盐补液",
+      "mecanismoAcao": "补充磷元素，参与能量代谢和酸碱缓冲",
+      "farmacocinetica": "经胃肠吸收，肾排泄",
+      "farmacodinamica": "纠正低磷血症，灌肠刺激肠道蠕动",
+      "indicacoes": "重度低磷血症、灌肠排便、酸中毒纠正",
+      "reacoesAdversas": "低钙、高钠、高钾、肾功能衰竭、心律失常",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可在监测下使用",
+      "administracao": "口服、直肠或静脉缓慢滴注",
+      "doseMaxima": "每日500 mL（直肠）；静脉0.08–0.16 mmol/kg",
+      "doseMinima": "5 mL",
+      "classificacao": "电解质–酸性磷盐补充剂",
+      "apresentacao": "133 mL口服/灌肠液",
+      "interacaoMedicamento": "与钙、洋地黄、抗酸药、利尿剂相互作用",
+      "posologia": "1瓶/天灌肠；静脉按需定量输入",
+      "armazenamento": "室温避光",
+      "preparo": "口服/灌肠无需稀释；IV需稀释缓慢滴注",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "肠梗阻、重度肾衰、高钠血症",
+      "cuidadosMedicos": "监测电解质与肾功能、避免钙磷沉淀",
+      "cuidadosFarmaceuticos": "不可与钙同瓶混合；稀释后立即使用",
+      "cuidadosEnfermagem": "警惕腹痛、肌无力、心律改变",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、FDA"
+    }
+  }
+}

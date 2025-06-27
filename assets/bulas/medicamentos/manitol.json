@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Manitol",
+      "suspension": "Suspender 24h antes de cirurgias não neurológicas se usado como diurético osmótico contínuo",
+      "risk": "Risco de hipovolemia, desequilíbrio eletrolítico, sobrecarga cardíaca e rebote intracraniano; atenção especial em pacientes com ICC, DRC ou hipertensão intracraniana",
+      "reintroduction": "Reintroduzir conforme osmolaridade sérica, volemia e controle clínico específico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Manitol",
+      "nomeComercial": "Manitol 20%, Osmolamina, Osmofundin",
+      "mecanismoAcao": "Açúcar alcoólico osmoticamente ativo que não é reabsorvido nos túbulos renais, promovendo diurese e redução de pressão intracraniana e intraocular",
+      "farmacocinetica": "Administração IV; não é metabolizado; excreção renal rápida",
+      "farmacodinamica": "Reduz edema cerebral, pressão intraocular e melhora diurese; aumenta osmolaridade plasmática",
+      "indicacoes": "Edema cerebral, hipertensão intracraniana, glaucoma agudo, diurese forçada em intoxicações",
+      "reacoesAdversas": "Desidratação, hiponatremia, hipocalemia, ICC descompensada, necrose tubular aguda, cefaleia",
+      "riscoGravidez": "Categoria C – uso se benefício superar riscos",
+      "riscoLactacao": "Seguro com cautela",
+      "administracao": "Intravenosa lenta (15–30 min) ou infusão contínua",
+      "doseMaxima": "2g/kg/dose ou até 200g/dia (máximo 100 mL de solução a 20% por dose)",
+      "doseMinima": "0,25g/kg/dose para hipertensão intracraniana leve",
+      "classificacao": "Diurético osmótico e redutor de pressão intracraniana",
+      "apresentacao": "Solução IV a 10%, 15%, 20%, 25%",
+      "interacaoMedicamento": "Potencializa toxicidade de digitálicos em hipocalemia; incompatível com lítio e outros eletrólitos hiperosmolares",
+      "posologia": "0,25–1g/kg IV em 15–30 min (edema cerebral); repetir conforme resposta e osmolaridade",
+      "armazenamento": "Temperatura ambiente (15–30°C); cristaliza sob 15°C — aquecer antes do uso",
+      "preparo": "Usar filtro 5µ se solução cristalizar; inspecionar antes do uso",
+      "solucoesCompatíveis": "SF 0,9% se diluído, mas geralmente usado puro",
+      "contraindicacoes": "Anúria, hiperosmolaridade (>320 mOsm/kg), ICC descompensada, hemorragia intracraniana ativa não controlada",
+      "cuidadosMedicos": "Monitorar osmolaridade, eletrólitos, função renal, PA e diurese",
+      "cuidadosFarmaceuticos": "Garantir clareza da solução; filtrar se necessário",
+      "cuidadosEnfermagem": "Observar sinais de sobrecarga ou desidratação, medir balanço hídrico rigoroso",
+      "fontesBibliograficas": "ANVISA, FDA, Medscape, Micromedex, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mannitol",
+      "suspension": "Suspend 24h prior to non-neurological surgeries if on continuous use",
+      "risk": "Risk of hypovolemia, electrolyte imbalance, cardiac overload and intracranial rebound; caution in CHF, CKD, or intracranial hypertension",
+      "reintroduction": "Reintroduce based on serum osmolarity, volume status, and clinical need"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mannitol",
+      "nomeComercial": "Osmitrol, Mannitol Injection",
+      "mecanismoAcao": "Osmotic diuretic that increases plasma osmolarity, reducing brain and eye pressure and promoting diuresis",
+      "farmacocinetica": "IV only; not metabolized; rapid renal excretion",
+      "farmacodinamica": "Lowers ICP, IOP and increases urine output",
+      "indicacoes": "Cerebral edema, elevated ICP, acute glaucoma, forced diuresis in intoxications",
+      "reacoesAdversas": "Dehydration, hyponatremia, hypokalemia, heart failure, acute tubular necrosis, headache",
+      "riscoGravidez": "Category C – use only if benefits outweigh risks",
+      "riscoLactacao": "Likely safe with caution",
+      "administracao": "Slow IV bolus (15–30 min) or continuous infusion",
+      "doseMaxima": "Up to 2g/kg/dose; 200g/day",
+      "doseMinima": "0.25g/kg/dose",
+      "classificacao": "Osmotic diuretic / ICP reducer",
+      "apresentacao": "10%, 15%, 20%, 25% IV solution",
+      "interacaoMedicamento": "May enhance digitalis toxicity; incompatible with lithium",
+      "posologia": "0.25–1g/kg over 15–30 min; repeat per ICP and labs",
+      "armazenamento": "Store at 15–30°C; crystallizes below 15°C – warm before use",
+      "preparo": "Use filter if crystals present; inspect before use",
+      "solucoesCompatíveis": "Can be diluted in NS if needed, usually used undiluted",
+      "contraindicacoes": "Anuria, active intracranial hemorrhage, severe CHF, hyperosmolarity >320 mOsm/kg",
+      "cuidadosMedicos": "Monitor serum osmolality, electrolytes, BP, renal function",
+      "cuidadosFarmaceuticos": "Ensure clarity; filter if crystals present",
+      "cuidadosEnfermagem": "Track intake/output, monitor signs of overload or dehydration",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Manitol",
+      "suspension": "Suspender 24h antes de cirugía no neurológica si se administra en forma continua",
+      "risk": "Riesgo de deshidratación, desequilibrio electrolítico y rebote de presión intracraneal",
+      "reintroduction": "Reintroducir según osmolaridad y balance hídrico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Manitol",
+      "nomeComercial": "Osmitrol, Manitol Braun",
+      "mecanismoAcao": "Diurético osmótico; retiene agua en túbulos renales y reduce presión intracraneal/intraocular",
+      "farmacocinetica": "Sólo IV; sin metabolismo; eliminación renal",
+      "farmacodinamica": "Reduce PIC, PIO y aumenta diuresis",
+      "indicacoes": "Edema cerebral, hipertensión intracraneal, glaucoma agudo, intoxicaciones",
+      "reacoesAdversas": "Hipovolemia, hiponatremia, ICC, cefalea, necrosis tubular aguda",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Probablemente seguro",
+      "administracao": "IV lenta o infusión",
+      "doseMaxima": "Hasta 2g/kg/dosis o 200g/día",
+      "doseMinima": "0,25g/kg",
+      "classificacao": "Diurético osmótico / reductor PIC",
+      "apresentacao": "Solución IV 10–25%",
+      "interacaoMedicamento": "Potencia digitálicos; incompatible con litio",
+      "posologia": "0,25–1g/kg en 15–30 minutos",
+      "armazenamento": "15–30°C; calentar si cristaliza",
+      "preparo": "Filtrar si cristalizado",
+      "solucoesCompatíveis": "ClNa 0,9% si se diluye",
+      "contraindicacoes": "Anuria, HIC activa, ICC severa",
+      "cuidadosMedicos": "Monitorear osmolaridad, diuresis, electrolitos",
+      "cuidadosFarmaceuticos": "Asegurar transparencia de solución",
+      "cuidadosEnfermagem": "Control hídrico, vigilancia de signos de sobrecarga",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甘露醇",
+      "suspension": "非神经外科手术前如持续使用建议提前24h停用",
+      "risk": "可致容量不足、电解质紊乱、颅内压反跳；心衰或肾衰者慎用",
+      "reintroduction": "术后依据渗透压与液体状态决定是否恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甘露醇",
+      "nomeComercial": "甘露醇注射液（20%）",
+      "mecanismoAcao": "渗透性利尿剂，升高血浆渗透压，促进脑脊液及房水外流",
+      "farmacocinetica": "静脉给药；不代谢；肾排出",
+      "farmacodinamica": "降低颅压、眼压，利尿",
+      "indicacoes": "颅脑水肿、高颅压、青光眼危象、中毒性利尿",
+      "reacoesAdversas": "低血容量、低钠、低钾、水中毒、心衰加重",
+      "riscoGravidez": "C类 – 必要时可用",
+      "riscoLactacao": "谨慎使用",
+      "administracao": "缓慢静注或持续输注",
+      "doseMaxima": "每日不超200g",
+      "doseMinima": "每次0.25g/kg",
+      "classificacao": "渗透性利尿剂",
+      "apresentacao": "10%、20%注射液",
+      "interacaoMedicamento": "增强地高辛毒性；与锂不相容",
+      "posologia": "0.25–1g/kg静滴，15–30分钟",
+      "armazenamento": "15–30°C，若结晶加温溶解",
+      "preparo": "有结晶需过滤",
+      "solucoesCompatíveis": "可稀释于生理盐水",
+      "contraindicacoes": "无尿、活动性脑出血、心衰失代偿、血渗>320",
+      "cuidadosMedicos": "监测渗透压、电解质、肾功能",
+      "cuidadosFarmaceuticos": "观察是否有结晶、确认配伍",
+      "cuidadosEnfermagem": "测量尿量、意识、生命体征",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape、FDA"
+    }
+  }
+}

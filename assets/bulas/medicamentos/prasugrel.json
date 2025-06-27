@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Prasugrel",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco elevado de sangramento perioperatório devido à inibição irreversível da agregação plaquetária",
+      "reintroduction": "Reintroduzir após controle de sangramento e orientação do cardiologista"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prasugrel cloridrato",
+      "nomeComercial": "Effient",
+      "mecanismoAcao": "Inibidor irreversível do receptor P2Y12 de ADP nas plaquetas, impedindo sua ativação e agregação",
+      "farmacocinetica": "Pró-fármaco ativado no fígado; início ~30 min; meia-vida ~7 horas; excreção renal e fecal",
+      "farmacodinamica": "Potente inibição plaquetária por 7–10 dias (vida útil da plaqueta)",
+      "indicacoes": "Síndrome coronariana aguda com ICP, prevenção de eventos trombóticos",
+      "reacoesAdversas": "Sangramento, anemia, leucopenia, trombocitopenia, dispneia",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Desconhecido; evitar se possível",
+      "administracao": "Via oral",
+      "doseMaxima": "60mg dose de ataque; 10mg/dia manutenção",
+      "doseMinima": "5mg/dia em pacientes com <60kg ou idosos",
+      "classificacao": "Antiagregante plaquetário, inibidor do P2Y12",
+      "apresentacao": "Comprimidos de 5mg, 10mg",
+      "interacaoMedicamento": "Aumenta risco de sangramento com AAS, anticoagulantes, AINEs; metabolizado por CYP3A4",
+      "posologia": "Ataque: 60mg VO; manutenção: 10mg/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Histórico de AVC/AIT, sangramento ativo, cirurgia recente",
+      "cuidadosMedicos": "Suspender 7 dias antes de cirurgias; monitorar sangramentos",
+      "cuidadosFarmaceuticos": "Orientar paciente sobre risco de sangramento e sinais de alerta",
+      "cuidadosEnfermagem": "Observar equimoses, sangramentos incomuns, hemorragias digestivas",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, ESC guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Prasugrel",
+      "suspension": "Hold 7 days before elective surgery",
+      "risk": "High risk of perioperative bleeding due to irreversible platelet inhibition",
+      "reintroduction": "Restart after hemostasis is achieved and per cardiology guidance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prasugrel hydrochloride",
+      "nomeComercial": "Effient",
+      "mecanismoAcao": "Irreversible P2Y12 receptor antagonist on platelets, inhibiting aggregation",
+      "farmacocinetica": "Prodrug activated hepatically; onset ~30 min; half-life ~7h; renal and fecal excretion",
+      "farmacodinamica": "Potent platelet inhibition lasting 7–10 days",
+      "indicacoes": "ACS with PCI, prevention of thrombotic cardiovascular events",
+      "reacoesAdversas": "Bleeding, anemia, leukopenia, thrombocytopenia, dyspnea",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Unknown; avoid if possible",
+      "administracao": "Oral",
+      "doseMaxima": "60mg loading; 10mg/day maintenance",
+      "doseMinima": "5mg/day for <60kg or elderly",
+      "classificacao": "Antiplatelet, P2Y12 inhibitor",
+      "apresentacao": "Tablets 5mg, 10mg",
+      "interacaoMedicamento": "Increased bleeding with aspirin, anticoagulants, NSAIDs; CYP3A4 metabolism",
+      "posologia": "60mg PO loading; then 10mg/day",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "History of stroke/TIA, active bleeding, recent surgery",
+      "cuidadosMedicos": "Hold 7 days pre-op; monitor for bleeding",
+      "cuidadosFarmaceuticos": "Educate on bleeding risks and warning signs",
+      "cuidadosEnfermagem": "Check for unusual bruising, bleeding, GI hemorrhage",
+      "fontesBibliograficas": "FDA, Micromedex, ACC/AHA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Prasugrel",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Alto riesgo de sangrado por inhibición irreversible de plaquetas",
+      "reintroduction": "Reintroducir tras control de sangrado y según cardiólogo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de prasugrel",
+      "nomeComercial": "Effient",
+      "mecanismoAcao": "Antagonista irreversible del receptor P2Y12, inhibe agregación plaquetaria",
+      "farmacocinetica": "Pró-fármaco activado hepáticamente; inicio ~30 min; vida media ~7h",
+      "farmacodinamica": "Inhibición plaquetaria potente de 7–10 días",
+      "indicacoes": "SCA con ICP, prevención de eventos cardiovasculares trombóticos",
+      "reacoesAdversas": "Sangrado, anemia, leucopenia, trombocitopenia, disnea",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar si es posible",
+      "administracao": "Oral",
+      "doseMaxima": "60mg dosis de carga; 10mg/día mantenimiento",
+      "doseMinima": "5mg/día en <60kg o ancianos",
+      "classificacao": "Antiagregante plaquetario, inhibidor de P2Y12",
+      "apresentacao": "Comprimidos de 5mg, 10mg",
+      "interacaoMedicamento": "Aumenta sangrado con AAS, anticoagulantes, AINEs",
+      "posologia": "60mg VO carga; luego 10mg/día",
+      "armazenamento": "15–30°C",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "ACV/AIT previo, sangrado activo, cirugía reciente",
+      "cuidadosMedicos": "Suspender 7 días antes de cirugía; monitorizar sangrado",
+      "cuidadosFarmaceuticos": "Informar sobre signos de sangrado y evitar suspensiones sin indicación",
+      "cuidadosEnfermagem": "Observar sangrados inusuales, hematomas, hemorragias digestivas",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "普拉格雷",
+      "suspension": "择期手术前7天停药",
+      "risk": "抑制血小板功能，增加围术期出血风险",
+      "reintroduction": "术后止血稳定后，在心脏科指导下重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "普拉格雷盐酸盐",
+      "nomeComercial": "Effient",
+      "mecanismoAcao": "不可逆抑制血小板P2Y12受体，抑制其活化与聚集",
+      "farmacocinetica": "肝脏代谢为活性物，起效约30分钟，半衰期约7小时",
+      "farmacodinamica": "抑制血小板功能持续7–10天",
+      "indicacoes": "急性冠脉综合征经PCI，预防血栓性事件",
+      "reacoesAdversas": "出血、贫血、白细胞减少、血小板减少、呼吸困难",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "口服",
+      "doseMaxima": "负荷量60毫克；维持10毫克/天",
+      "doseMinima": "老年人或<60kg者每日5毫克",
+      "classificacao": "抗血小板药，P2Y12受体拮抗剂",
+      "apresentacao": "片剂：5mg、10mg",
+      "interacaoMedicamento": "与阿司匹林、抗凝药、NSAIDs合用增加出血风险",
+      "posologia": "首次60mg，随后每日10mg维持",
+      "armazenamento": "15–30°C保存",
+      "preparo": "无需特殊处理",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "中风/TIA史、活动性出血、术后近期",
+      "cuidadosMedicos": "术前7天停药，监测出血并评估再使用时机",
+      "cuidadosFarmaceuticos": "告知患者出血风险，严禁随意停药",
+      "cuidadosEnfermagem": "观察皮下出血、出血时间延长、消化道出血体征",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

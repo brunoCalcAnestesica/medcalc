@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Warfarina (fracionada)",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva; ajustar conforme INR",
+      "risk": "Risco elevado de sangramento perioperatório; necessidade de ponte com heparina em casos de alto risco trombótico",
+      "reintroduction": "Reintroduzir 12–24h após cirurgia se hemostasia estiver assegurada; monitorar INR"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Warfarina sódica",
+      "nomeComercial": "Marevan, Coumadin",
+      "mecanismoAcao": "Inibe a síntese hepática dos fatores de coagulação II, VII, IX e X (vitamina K dependentes)",
+      "farmacocinetica": "Início em 36–72h; meia-vida 36–42h; metabolização hepática (CYP2C9)",
+      "farmacodinamica": "Antagonista da vitamina K, efeito anticoagulante retardado e cumulativo",
+      "indicacoes": "FA, TEV, próteses valvares, prevenção de AVC cardioembólico",
+      "reacoesAdversas": "Sangramento, necrose cutânea, síndrome dos dedos roxos, teratogenicidade",
+      "riscoGravidez": "Categoria X (contraindicado)",
+      "riscoLactacao": "Uso permitido",
+      "administracao": "Oral",
+      "doseMaxima": "15mg/dia",
+      "doseMinima": "1mg/dia",
+      "classificacao": "Anticoagulante oral cumarínico",
+      "apresentacao": "Comprimidos 1mg, 2,5mg, 5mg",
+      "interacaoMedicamento": "Numerosas interações: AINEs, antibióticos, antifúngicos, anticonvulsivantes, alimentos ricos em vitamina K",
+      "posologia": "Individualizada para manter INR entre 2,0–3,0 (ou 2,5–3,5 em prótese mecânica)",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Fracionamento conforme prescrição médica (ex: ½, ¼ comprimido)",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, sangramento ativo, hipertensão não controlada, cirurgia de alto risco hemorrágico iminente",
+      "cuidadosMedicos": "Monitorar INR; considerar ponte com heparina em alto risco trombótico",
+      "cuidadosFarmaceuticos": "Orientar sobre fracionamento correto, adesão e interações alimentares/medicamentosas",
+      "cuidadosEnfermagem": "Observar sinais de sangramento, queda de Hb, hematuria, equimoses",
+      "fontesBibliograficas": "Micromedex, ANVISA, UpToDate, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Warfarin (dose-adjusted)",
+      "suspension": "Stop 5 days before elective surgery; adjust per INR",
+      "risk": "High perioperative bleeding risk; may require heparin bridge for high thrombotic risk",
+      "reintroduction": "Restart 12–24h after surgery if hemostasis is secured; monitor INR"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Warfarin sodium",
+      "nomeComercial": "Coumadin, Jantoven",
+      "mecanismoAcao": "Inhibits hepatic synthesis of vitamin K-dependent clotting factors II, VII, IX, X",
+      "farmacocinetica": "Onset 36–72h; half-life ~36–42h; hepatic metabolism (CYP2C9)",
+      "farmacodinamica": "Vitamin K antagonist with delayed cumulative anticoagulant effect",
+      "indicacoes": "AFib, VTE, mechanical valves, stroke prevention",
+      "reacoesAdversas": "Bleeding, skin necrosis, purple toes syndrome, fetal toxicity",
+      "riscoGravidez": "Category X (contraindicated)",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "15mg/day",
+      "doseMinima": "1mg/day",
+      "classificacao": "Vitamin K antagonist (oral anticoagulant)",
+      "apresentacao": "Tablets 1mg, 2.5mg, 5mg",
+      "interacaoMedicamento": "Many: NSAIDs, antibiotics, antifungals, anticonvulsants, high vitamin K foods",
+      "posologia": "Individualized to maintain INR 2.0–3.0 (or 2.5–3.5 for mechanical valves)",
+      "armazenamento": "Room temperature",
+      "preparo": "Tablet splitting per prescription (e.g., ½ or ¼ tablet)",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, active bleeding, uncontrolled hypertension, upcoming high-risk surgery",
+      "cuidadosMedicos": "Monitor INR closely; consider heparin bridging",
+      "cuidadosFarmaceuticos": "Counsel on adherence, tablet splitting, drug/food interactions",
+      "cuidadosEnfermagem": "Watch for bleeding signs: hematuria, GI bleeding, bruising",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, ACCP"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Warfarina (fraccionada)",
+      "suspension": "Suspender 5 días antes de cirugía; ajustar por INR",
+      "risk": "Alto riesgo de sangrado perioperatorio; puede requerir puente con heparina",
+      "reintroduction": "Reintroducir 12–24h después si no hay sangrado; controlar INR"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Warfarina sódica",
+      "nomeComercial": "Coumadin",
+      "mecanismoAcao": "Inhibe factores de coagulación II, VII, IX y X dependientes de vitamina K",
+      "farmacocinetica": "Inicio 36–72h; vida media 36–42h; metabolismo hepático",
+      "farmacodinamica": "Antagonista de vitamina K, efecto anticoagulante acumulativo",
+      "indicacoes": "FA, TEV, válvulas mecánicas, prevención de ACV",
+      "reacoesAdversas": "Sangrado, necrosis cutánea, síndrome de los dedos morados",
+      "riscoGravidez": "Categoría X",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "15mg/día",
+      "doseMinima": "1mg/día",
+      "classificacao": "Anticoagulante cumarínico oral",
+      "apresentacao": "Comprimidos 1mg, 2.5mg, 5mg",
+      "interacaoMedicamento": "Muchísimas: AINEs, antibióticos, antifúngicos, anticonvulsivos, alimentos verdes",
+      "posologia": "Individual según INR (2–3 o 2.5–3.5 en válvula mecánica)",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Fraccionar según pauta médica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, sangrado activo, cirugía mayor inminente",
+      "cuidadosMedicos": "Control estricto de INR; valorar puente con HBPM",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia, interacciones y fraccionamiento",
+      "cuidadosEnfermagem": "Observar signos de sangrado y equimosis",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "华法林（分剂量）",
+      "suspension": "择期手术前5天停药，视INR调整",
+      "risk": "极高出血风险，可能需肝素桥接治疗",
+      "reintroduction": "术后12–24小时如止血良好可重新使用并监测INR"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "华法林钠",
+      "nomeComercial": "Coumadin",
+      "mecanismoAcao": "抑制肝脏合成维生素K依赖性凝血因子（II, VII, IX, X）",
+      "farmacocinetica": "起效36–72小时，半衰期36–42小时，肝脏代谢",
+      "farmacodinamica": "维生素K拮抗剂，抗凝作用延迟且积累",
+      "indicacoes": "房颤、静脉血栓、瓣膜置换、脑卒中预防",
+      "reacoesAdversas": "出血、皮肤坏死、紫趾综合征、胎儿毒性",
+      "riscoGravidez": "X类，妊娠期禁用",
+      "riscoLactacao": "可哺乳",
+      "administracao": "口服",
+      "doseMaxima": "每日15毫克",
+      "doseMinima": "每日1毫克",
+      "classificacao": "口服抗凝剂（维生素K拮抗剂）",
+      "apresentacao": "片剂：1mg、2.5mg、5mg",
+      "interacaoMedicamento": "与NSAIDs、抗生素、抗真菌药、维生素K食物等多种药物相互作用显著",
+      "posologia": "根据INR个体化调整（目标2–3或2.5–3.5）",
+      "armazenamento": "室温保存",
+      "preparo": "根据医嘱分割服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、活动性出血、高危手术前",
+      "cuidadosMedicos": "监测INR，必要时肝素桥接",
+      "cuidadosFarmaceuticos": "指导分片服用、饮食一致性、药物交互",
+      "cuidadosEnfermagem": "监测出血体征、Hb下降、黑便/血尿",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

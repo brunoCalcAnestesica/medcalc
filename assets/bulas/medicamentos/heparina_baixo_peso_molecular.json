@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Heparina de Baixo Peso Molecular (HBPM)",
+      "suspension": "Suspender 12–24 horas antes de procedimentos cirúrgicos de médio a alto risco hemorrágico",
+      "risk": "Risco de sangramento, hematoma espinhal com anestesia neuraxial, trombocitopenia induzida por heparina (HIT)",
+      "reintroduction": "Reintroduzir 12–24 horas após cirurgia, com hemostasia assegurada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Heparina de baixo peso molecular (enoxaparina, dalteparina, nadroparina)",
+      "nomeComercial": "Clexane, Fragmin, Fraxiparina",
+      "mecanismoAcao": "Inibe preferencialmente o fator Xa ativado via potencialização da antitrombina III",
+      "farmacocinetica": "SC; biodisponibilidade ~90%; meia-vida 3–6 h; eliminação renal",
+      "farmacodinamica": "Anticoagulação previsível com menor risco de HIT em comparação com heparina não fracionada",
+      "indicacoes": "Profilaxia e tratamento de TVP, EP, SCA, prevenção trombótica pós-cirurgia",
+      "reacoesAdversas": "Sangramento, trombocitopenia, dor no local da injeção, elevação de transaminases",
+      "riscoGravidez": "Categoria B – seguro em gestação",
+      "riscoLactacao": "Permitido",
+      "administracao": "SC, geralmente 1–2x/dia",
+      "doseMaxima": "1,5 mg/kg/dia ou 100 mg 2x/dia (terapêutica)",
+      "doseMinima": "20–40 mg/dia (profilática)",
+      "classificacao": "Anticoagulante parenteral (inibidor indireto do fator Xa)",
+      "apresentacao": "Seringas pré-preenchidas de 20 mg, 40 mg, 60 mg, 80 mg, 100 mg",
+      "interacaoMedicamento": "AINEs, antiplaquetários, outros anticoagulantes",
+      "posologia": "Profilaxia: 40 mg SC 1x/dia; Terapia: 1 mg/kg 12/12 h ou 1,5 mg/kg 1x/dia",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Pronto para uso; administração SC no abdômen",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Sangramento ativo, história de HIT, insuficiência renal grave sem ajuste",
+      "cuidadosMedicos": "Monitorar plaquetas, função renal, sinais de sangramento",
+      "cuidadosFarmaceuticos": "Confirmar integridade da seringa, validade, volume",
+      "cuidadosEnfermagem": "Observar hematomas, dor, sangramento, volume urinário",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Low Molecular Weight Heparin (LMWH)",
+      "suspension": "Discontinue 12–24 hours before high-bleeding-risk surgery",
+      "risk": "Bleeding, spinal/epidural hematoma, HIT, renal elimination",
+      "reintroduction": "Restart 12–24 hours post-op with secured hemostasis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enoxaparin, dalteparin, nadroparin",
+      "nomeComercial": "Lovenox, Fragmin, Fraxiparine",
+      "mecanismoAcao": "Binds antithrombin III, preferentially inhibits factor Xa",
+      "farmacocinetica": "SC; bioavailability ~90%; t½ ~4–6 h; renal clearance",
+      "farmacodinamica": "Predictable anticoagulation; lower HIT risk vs UFH",
+      "indicacoes": "DVT/PE treatment and prevention, ACS, post-op thrombosis prophylaxis",
+      "reacoesAdversas": "Bleeding, thrombocytopenia, injection site pain, ALT elevation",
+      "riscoGravidez": "Category B – considered safe",
+      "riscoLactacao": "Allowed",
+      "administracao": "SC once or twice daily",
+      "doseMaxima": "1.5 mg/kg/day or 100 mg BID",
+      "doseMinima": "20–40 mg/day (prophylactic)",
+      "classificacao": "Parenteral anticoagulant (indirect factor Xa inhibitor)",
+      "apresentacao": "Prefilled syringes: 20, 40, 60, 80, 100 mg",
+      "interacaoMedicamento": "NSAIDs, antiplatelets, anticoagulants",
+      "posologia": "Prophylaxis: 40 mg SC daily; Treatment: 1 mg/kg BID or 1.5 mg/kg daily",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Ready-to-use; SC injection into abdomen",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active bleeding, HIT, severe renal impairment without adjustment",
+      "cuidadosMedicos": "Monitor CBC, renal function, signs of bleeding",
+      "cuidadosFarmaceuticos": "Check syringe integrity, dose, expiration",
+      "cuidadosEnfermagem": "Observe for bleeding, bruising, renal output",
+      "fontesBibliograficas": "FDA, Lexicomp, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Heparina de Bajo Peso Molecular (HBPM)",
+      "suspension": "Suspender 12–24 h antes de cirugía con alto riesgo de sangrado",
+      "risk": "Hemorragia, hematoma espinal, trombocitopenia inducida por heparina",
+      "reintroduction": "Reiniciar 12–24 h tras cirugía con hemostasia controlada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enoxaparina, dalteparina, nadroparina",
+      "nomeComercial": "Clexane, Fragmin, Fraxiparina",
+      "mecanismoAcao": "Potencia antitrombina III, inhibe factor Xa",
+      "farmacocinetica": "SC; biodisponibilidad ~90%; t½ ~4–6 h; eliminación renal",
+      "farmacodinamica": "Anticoagulación predecible, menor riesgo de HIT que heparina no fraccionada",
+      "indicacoes": "TVP/TEP, SCA, profilaxis postoperatoria",
+      "reacoesAdversas": "Sangrado, trombocitopenia, dolor local",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Seguro",
+      "administracao": "SC 1–2x/día",
+      "doseMaxima": "1.5 mg/kg/día",
+      "doseMinima": "20–40 mg/día",
+      "classificacao": "Anticoagulante parenteral",
+      "apresentacao": "Jeringas prellenadas: 20–100 mg",
+      "interacaoMedicamento": "AINEs, antiplaquetarios",
+      "posologia": "Profilaxis: 40 mg/día; tratamiento: 1 mg/kg cada 12 h",
+      "armazenamento": "Ambiente, proteger de luz",
+      "preparo": "Lista para uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Sangrado activo, HIT, insuficiencia renal severa",
+      "cuidadosMedicos": "Monitorear plaquetas, función renal",
+      "cuidadosFarmaceuticos": "Controlar integridad y dosis",
+      "cuidadosEnfermagem": "Observar hematomas y signos de sangrado",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "低分子肝素",
+      "suspension": "术前12–24小时停药，高出血风险患者",
+      "risk": "出血、脊髓血肿、肝素诱导性血小板减少症",
+      "reintroduction": "术后12–24小时止血稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依诺肝素、达肝素、那曲肝素",
+      "nomeComercial": "克赛那(Clexane)、Fragmin、Fraxiparine",
+      "mecanismoAcao": "增强抗凝血酶III活性，抑制Xa因子",
+      "farmacocinetica": "皮下注射，t½ 4–6小时，肾排泄",
+      "farmacodinamica": "可预测的抗凝作用，HIT风险低于普通肝素",
+      "indicacoes": "静脉血栓、肺栓塞、ACS、术后血栓预防",
+      "reacoesAdversas": "出血、注射部位瘀斑、血小板减少",
+      "riscoGravidez": "B类 – 孕期可用",
+      "riscoLactacao": "可用",
+      "administracao": "每日1–2次皮下注射",
+      "doseMaxima": "1.5 mg/kg/天",
+      "doseMinima": "20–40 mg/天",
+      "classificacao": "抗Xa抗凝剂",
+      "apresentacao": "预充针管：20、40、60、80、100 mg",
+      "interacaoMedicamento": "NSAIDs、抗血小板药、其他抗凝剂",
+      "posologia": "预防：40 mg/天；治疗：1 mg/kg 每12小时",
+      "armazenamento": "室温避光",
+      "preparo": "无需稀释，直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性出血、HIT、严重肾功能不全",
+      "cuidadosMedicos": "监测血小板、电解质、肾功能",
+      "cuidadosFarmaceuticos": "验证剂量与批号，避免冷冻",
+      "cuidadosEnfermagem": "注射部位压迫，监测出血",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Polietilenoglicol",
+      "suspension": "Suspender 24h antes de cirurgias abdominais eletivas ou procedimentos endoscópicos",
+      "risk": "Pode causar distensão abdominal, desequilíbrios eletrolíticos e aumentar o risco de aspiração se usado próximo à indução anestésica",
+      "reintroduction": "Pode ser reiniciado no pós-operatório conforme trânsito intestinal e estado clínico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Polietilenoglicol 3350",
+      "nomeComercial": "Muvinlax, PEG 3350, Bi-Ostom, Nulytely",
+      "mecanismoAcao": "Agente osmótico hidrossolúvel, retém água na luz intestinal por ligação a moléculas de água, promovendo aumento do volume fecal",
+      "farmacocinetica": "Absorção sistêmica desprezível; efeito em 24–72h; excreção fecal inalterada",
+      "farmacodinamica": "Aumenta hidratação do bolo fecal e facilita o trânsito intestinal sem efeito irritativo ou farmacológico direto sobre o intestino",
+      "indicacoes": "Constipação funcional crônica, preparo intestinal para colonoscopia ou cirurgias colorretais",
+      "reacoesAdversas": "Flatulência, cólicas, náusea, diarreia osmótica, desidratação em doses elevadas",
+      "riscoGravidez": "Categoria C (seguro em uso de curto prazo sob orientação)",
+      "riscoLactacao": "Compatível com amamentação; excreção insignificante",
+      "administracao": "Via oral, dissolvido em água ou sucos (solução reconstituída)",
+      "doseMaxima": "34g/dia (uso crônico); até 4L em preparo colônico",
+      "doseMinima": "17g/dia (uso leve ou pediátrico)",
+      "classificacao": "Laxativo osmótico de ação local",
+      "apresentacao": "Sachês de pó 17g, potes de 100g, soluções prontas (em preparo intestinal)",
+      "interacaoMedicamento": "Reduz absorção de fármacos hidrossolúveis administrados conjuntamente (ex: digoxina, anticonvulsivantes orais)",
+      "posologia": "Constipação: 17g/dia em 240ml de líquido; preparo colônico: 2–4L fracionados",
+      "armazenamento": "Temperatura ambiente; solução reconstituída pode ser refrigerada por até 24h",
+      "preparo": "Dissolver completamente em 240ml de líquido frio antes da ingestão",
+      "solucoesCompatíveis": "Água, sucos claros, chá gelado",
+      "contraindicacoes": "Obstrução intestinal, perfuração intestinal, íleo paralítico, colite ativa",
+      "cuidadosMedicos": "Evitar uso prolongado sem causa orgânica conhecida; considerar ajuste em pacientes renais",
+      "cuidadosFarmaceuticos": "Instruir diluição correta e ingestão abundante de líquidos durante o uso",
+      "cuidadosEnfermagem": "Monitorar sinais de desidratação, distensão e frequência evacuatória",
+      "fontesBibliograficas": "Micromedex, FDA, EMA, ANVISA, SBMDL"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Polyethylene Glycol",
+      "suspension": "Discontinue 24h before abdominal surgeries or bowel procedures",
+      "risk": "May cause bloating, electrolyte shifts, risk of aspiration during anesthesia if given too close to induction",
+      "reintroduction": "Restart post-op as needed, once bowel sounds return and oral intake resumes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Polyethylene Glycol 3350",
+      "nomeComercial": "Miralax, GoLYTELY, Nulytely, PEG 3350",
+      "mecanismoAcao": "Non-absorbable osmotic agent that binds water and retains it in the colon, increasing stool volume and hydration",
+      "farmacocinetica": "Minimal systemic absorption; onset 24–72h for constipation; excreted unchanged in stool",
+      "farmacodinamica": "Facilitates defecation by softening stool and increasing volume, without intestinal stimulation",
+      "indicacoes": "Chronic idiopathic constipation, bowel cleansing prior to colonoscopy or colorectal surgery",
+      "reacoesAdversas": "Abdominal bloating, cramps, nausea, osmotic diarrhea, rare dehydration",
+      "riscoGravidez": "Category C – short-term use considered safe",
+      "riscoLactacao": "Compatible with breastfeeding; minimal systemic absorption",
+      "administracao": "Oral – mixed with 4–8 oz of water or clear liquid",
+      "doseMaxima": "34g/day (constipation); up to 4L (colonoscopy prep)",
+      "doseMinima": "17g/day",
+      "classificacao": "Osmotic laxative",
+      "apresentacao": "Powder sachets, bottles (238g), ready-to-drink solutions",
+      "interacaoMedicamento": "May affect absorption of other oral drugs taken at the same time",
+      "posologia": "Constipation: 17g in 240ml once daily; prep: 4L over 3–4h",
+      "armazenamento": "Store powder at room temperature; use reconstituted solution within 24h",
+      "preparo": "Dissolve powder in cold water or clear liquid until fully mixed",
+      "solucoesCompatíveis": "Water, apple juice, lemonade, clear tea",
+      "contraindicacoes": "GI obstruction, bowel perforation, ileus, active colitis",
+      "cuidadosMedicos": "Use caution in renal patients or with fluid/electrolyte disturbances",
+      "cuidadosFarmaceuticos": "Emphasize full hydration and proper dilution",
+      "cuidadosEnfermagem": "Monitor bowel output and abdominal discomfort",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, AGA Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Polietilenglicol",
+      "suspension": "Suspender 24h antes de cirugías abdominales o procedimientos endoscópicos",
+      "risk": "Distensión abdominal, desequilibrios hidroelectrolíticos, riesgo de broncoaspiración si se administra antes de anestesia",
+      "reintroduction": "Puede reiniciarse cuando haya recuperación del tránsito intestinal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Polietilenglicol 3350",
+      "nomeComercial": "Movicol, GoLYTELY, PEG 3350, Miralax",
+      "mecanismoAcao": "Agente osmótico que retiene agua en el intestino por enlaces de hidrógeno, hidratando y aumentando el volumen fecal",
+      "farmacocinetica": "No se absorbe sistemáticamente; efecto en 24–72h; excreción fecal inalterada",
+      "farmacodinamica": "Aumenta el volumen y suaviza las heces sin efecto irritante",
+      "indicacoes": "Estreñimiento crónico, preparación del intestino antes de colonoscopia o cirugía",
+      "reacoesAdversas": "Flatulencias, cólicos, diarrea, náuseas, deshidratación",
+      "riscoGravidez": "Categoría C – uso puntual aceptable",
+      "riscoLactacao": "Compatible con la lactancia",
+      "administracao": "Vía oral – disuelto en agua o líquidos claros",
+      "doseMaxima": "34g/día (estreñimiento); hasta 4L (preparación)",
+      "doseMinima": "17g/día",
+      "classificacao": "Laxante osmótico",
+      "apresentacao": "Sobres en polvo, botellas de solución preparada",
+      "interacaoMedicamento": "Reduce la absorción de medicamentos orales si se toman juntos",
+      "posologia": "Estreñimiento: 17g/día en 240ml de líquido; preparación: 4L en 3–4h",
+      "armazenamento": "Ambiente seco y fresco; solución preparada válida 24h refrigerada",
+      "preparo": "Disolver bien antes de usar",
+      "solucoesCompatíveis": "Agua, zumos claros, té sin leche",
+      "contraindicacoes": "Obstrucción intestinal, perforación, íleo paralítico, colitis activa",
+      "cuidadosMedicos": "Evitar uso prolongado sin causa estructural; vigilar pacientes renales",
+      "cuidadosFarmaceuticos": "Asegurar correcta reconstitución e hidratación",
+      "cuidadosEnfermagem": "Evaluar distensión, dolor y frecuencia de evacuación",
+      "fontesBibliograficas": "EMA, Micromedex, literatura médica local"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "聚乙二醇",
+      "suspension": "术前24小时停用，特别是结肠镜检查或腹部手术",
+      "risk": "可能导致腹胀、电解质紊乱，靠近麻醉诱导使用有误吸风险",
+      "reintroduction": "术后恢复肠功能和可进食时可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "聚乙二醇 3350",
+      "nomeComercial": "复洁灵（PEG 3350）、洁肠灵、GoLYTELY",
+      "mecanismoAcao": "非吸收性渗透剂，通过与水分结合，增加肠腔水分和粪便体积，促进排便",
+      "farmacocinetica": "无系统吸收，起效时间24–72小时，原形排出粪便",
+      "farmacodinamica": "温和软化粪便、增加容积、促进排便，无刺激性",
+      "indicacoes": "慢性便秘、结肠镜前清肠、术前肠道准备",
+      "reacoesAdversas": "腹胀、腹泻、恶心、低钠血症、轻度脱水",
+      "riscoGravidez": "C类 – 短期使用被认为是安全的",
+      "riscoLactacao": "哺乳期可用，极少进入母乳",
+      "administracao": "口服，溶于水或果汁等透明液体中服用",
+      "doseMaxima": "每日34克用于慢性便秘；肠镜准备可用至4L",
+      "doseMinima": "每日17克",
+      "classificacao": "渗透性泻药",
+      "apresentacao": "散剂、溶液、瓶装粉剂",
+      "interacaoMedicamento": "可能影响同时服用口服药物的吸收",
+      "posologia": "便秘：17g/天；清肠：3–4小时内服4L",
+      "armazenamento": "常温保存；配好的溶液冷藏保存不超过24小时",
+      "preparo": "使用前充分溶解",
+      "solucoesCompatíveis": "水、苹果汁、柠檬水等透明饮品",
+      "contraindicacoes": "肠梗阻、穿孔、肠麻痹、活动性炎症性肠病",
+      "cuidadosMedicos": "谨慎用于肾病、心衰患者；避免长期连续使用",
+      "cuidadosFarmaceuticos": "提醒正确溶解及足量饮水",
+      "cuidadosEnfermagem": "监测排便频率、电解质与脱水体征",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA"
+    }
+  }
+}

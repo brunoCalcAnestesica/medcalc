@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Atomoxetina",
+      "suspension": "Suspender 5 dias antes de cirurgia eletiva",
+      "risk": "Risco cardiovascular (taquicardia, hipertensão), interação com anestésicos e risco aumentado de crise adrenérgica",
+      "reintroduction": "Reintroduzir 24–48h após cirurgia, se estável hemodinamicamente e sem arritmias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atomoxetina",
+      "nomeComercial": "Strattera",
+      "mecanismoAcao": "Inibe seletivamente a recaptação de noradrenalina no SNC sem ação estimulante direta",
+      "farmacocinetica": "Absorção oral rápida, pico plasmático em 1–2h, metabolizado por CYP2D6, excreção urinária",
+      "farmacodinamica": "Melhora sintomas de TDAH por aumento da noradrenalina sináptica, sem efeitos dopaminérgicos significativos",
+      "indicacoes": "Tratamento do Transtorno de Déficit de Atenção e Hiperatividade (TDAH)",
+      "reacoesAdversas": "Insônia, perda de apetite, aumento da pressão arterial e FC, dispepsia, disfunção sexual",
+      "riscoGravidez": "Categoria C – uso se benefício justificar o risco",
+      "riscoLactacao": "Excretado no leite; evitar ou monitorar lactente",
+      "administracao": "Via oral, com ou sem alimentos",
+      "doseMaxima": "100 mg/dia",
+      "doseMinima": "0,5 mg/kg/dia",
+      "classificacao": "Inibidor seletivo da recaptação de noradrenalina (ISRN)",
+      "apresentacao": "Cápsulas de 10, 18, 25, 40, 60, 80 e 100 mg",
+      "interacaoMedicamento": "Interage com antidepressivos tricíclicos, IMAO, agonistas adrenérgicos, vasoconstritores",
+      "posologia": "Dose inicial: 0,5 mg/kg/dia, até dose alvo de 1,2 mg/kg/dia",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Glaucoma de ângulo fechado, feocromocitoma, uso recente de IMAO",
+      "cuidadosMedicos": "Monitorar PA e FC; atenção a sintomas de agitação, mania, hepatotoxicidade",
+      "cuidadosFarmaceuticos": "Orientar sobre horário fixo e não abrir cápsula",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, apetite, sono e comportamento",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Atomoxetine",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of hypertension, tachycardia, and adrenergic crisis under anesthesia",
+      "reintroduction": "Restart 24–48h post-op if hemodynamically stable and arrhythmia-free"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atomoxetine",
+      "nomeComercial": "Strattera",
+      "mecanismoAcao": "Selective norepinephrine reuptake inhibitor with no direct stimulant effect",
+      "farmacocinetica": "Rapid oral absorption, peak in 1–2h, metabolized by CYP2D6, urinary excretion",
+      "farmacodinamica": "Increases synaptic norepinephrine, improving ADHD symptoms",
+      "indicacoes": "Treatment of Attention Deficit Hyperactivity Disorder (ADHD)",
+      "reacoesAdversas": "Insomnia, decreased appetite, increased BP and HR, GI discomfort, sexual dysfunction",
+      "riscoGravidez": "Category C – use if benefit justifies risk",
+      "riscoLactacao": "Excreted in milk; avoid or monitor infant",
+      "administracao": "Oral, with or without food",
+      "doseMaxima": "100 mg/day",
+      "doseMinima": "0.5 mg/kg/day",
+      "classificacao": "Selective norepinephrine reuptake inhibitor (NRI)",
+      "apresentacao": "Capsules: 10, 18, 25, 40, 60, 80, 100 mg",
+      "interacaoMedicamento": "Interacts with TCAs, MAOIs, adrenergic agents, vasoconstrictors",
+      "posologia": "Start at 0.5 mg/kg/day, target dose ~1.2 mg/kg/day",
+      "armazenamento": "Room temp, protected from light/moisture",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Narrow-angle glaucoma, pheochromocytoma, recent MAOI use",
+      "cuidadosMedicos": "Monitor BP, HR, mood, liver function",
+      "cuidadosFarmaceuticos": "Do not open capsule; advise fixed schedule",
+      "cuidadosEnfermagem": "Monitor vitals, behavior, appetite, sleep",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, NICE"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Atomoxetina",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de hipertensión, taquicardia e interacción con anestesia; crisis adrenérgica",
+      "reintroduction": "Reintroducir 24–48h tras cirugía si estable y sin arritmias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atomoxetina",
+      "nomeComercial": "Strattera",
+      "mecanismoAcao": "Inhibidor selectivo de la recaptación de noradrenalina sin efecto estimulante directo",
+      "farmacocinetica": "Buena absorción oral, pico en 1–2h, metabolizado por CYP2D6, excreción urinaria",
+      "farmacodinamica": "Aumenta la noradrenalina sináptica, mejorando los síntomas del TDAH",
+      "indicacoes": "Tratamiento del Trastorno por Déficit de Atención e Hiperactividad (TDAH)",
+      "reacoesAdversas": "Insomnio, pérdida de apetito, aumento de TA y FC, dispepsia, disfunción sexual",
+      "riscoGravidez": "Categoría C – usar solo si es imprescindible",
+      "riscoLactacao": "Se excreta en leche; evitar o vigilar al lactante",
+      "administracao": "Oral, con o sin alimentos",
+      "doseMaxima": "100 mg/día",
+      "doseMinima": "0,5 mg/kg/día",
+      "classificacao": "Inhibidor selectivo de recaptación de noradrenalina",
+      "apresentacao": "Cápsulas: 10, 18, 25, 40, 60, 80, 100 mg",
+      "interacaoMedicamento": "Interacciones con tricíclicos, IMAO, vasoconstrictores",
+      "posologia": "Inicial: 0,5 mg/kg/día; objetivo: 1,2 mg/kg/día",
+      "armazenamento": "Temperatura ambiente, protegido de luz y humedad",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Glaucoma, feocromocitoma, uso reciente de IMAO",
+      "cuidadosMedicos": "Monitorear TA, FC, estado mental, hepatotoxicidad",
+      "cuidadosFarmaceuticos": "No abrir cápsula; orientar posologia fija",
+      "cuidadosEnfermagem": "Controlar signos vitales, apetito, sueño y conducta",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "托莫西汀",
+      "suspension": "择期手术前5天停药",
+      "risk": "与麻醉剂相互作用，可能引起高血压、心动过速及肾上腺危象",
+      "reintroduction": "术后24–48小时内，血流动力学稳定且无心律失常时可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "托莫西汀",
+      "nomeComercial": "Strattera",
+      "mecanismoAcao": "选择性抑制中枢去甲肾上腺素再摄取，无直接兴奋作用",
+      "farmacocinetica": "口服吸收快，1–2小时达峰，CYP2D6代谢，经尿液排出",
+      "farmacodinamica": "通过提高突触间隙去甲肾上腺素浓度改善ADHD症状",
+      "indicacoes": "注意缺陷多动障碍（ADHD）治疗",
+      "reacoesAdversas": "失眠、食欲下降、高血压、心动过速、消化不良、性功能障碍",
+      "riscoGravidez": "C类 – 风险与获益权衡使用",
+      "riscoLactacao": "可分泌至乳汁中，应避免或监测婴儿",
+      "administracao": "口服，可随餐或空腹服用",
+      "doseMaxima": "每日不超过100毫克",
+      "doseMinima": "0.5 mg/kg/天",
+      "classificacao": "去甲肾上腺素再摄取抑制剂",
+      "apresentacao": "胶囊剂：10、18、25、40、60、80、100毫克",
+      "interacaoMedicamento": "与三环类抗抑郁药、单胺氧化酶抑制剂、拟交感药相互作用",
+      "posologia": "初始剂量0.5 mg/kg/天，目标剂量1.2 mg/kg/天",
+      "armazenamento": "室温，避光防潮",
+      "preparo": "无需制备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "闭角型青光眼、嗜铬细胞瘤、近期使用MAOI",
+      "cuidadosMedicos": "监测血压、心率、精神状态、肝功能",
+      "cuidadosFarmaceuticos": "按时服药，不可打开胶囊",
+      "cuidadosEnfermagem": "观察生命体征、食欲、睡眠及行为变化",
+      "fontesBibliograficas": "中国药典, FDA, UpToDate, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ranibizumabe (uso intravítreo)",
+      "suspension": "Suspender 7 dias antes de cirurgia oftalmológica não urgente com risco de infecção",
+      "risk": "Risco de endoftalmite, aumento da pressão intraocular e eventos tromboembólicos sistêmicos",
+      "reintroduction": "Reintroduzir após recuperação ocular completa e controle da inflamação"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ranibizumabe",
+      "nomeComercial": "Lucentis",
+      "mecanismoAcao": "Anticorpo monoclonal fragmentado que inibe o fator de crescimento endotelial vascular A (VEGF-A)",
+      "farmacocinetica": "Injeção intravítrea; pico em 1 dia; meia-vida intraocular ~9 dias; eliminação renal",
+      "farmacodinamica": "Reduz neovascularização e edema macular; preserva e melhora acuidade visual",
+      "indicacoes": "Degeneração macular relacionada à idade (forma neovascular), edema macular diabético, oclusão de veia da retina, neovascularização miópica",
+      "reacoesAdversas": "Hemorragia conjuntival, dor ocular, aumento da pressão intraocular, inflamação intraocular, endoftalmite",
+      "riscoGravidez": "Categoria C – evitar uso",
+      "riscoLactacao": "Evitar; desconhece-se se é excretado no leite",
+      "administracao": "Injeção intravítrea",
+      "doseMaxima": "0,5 mg (0,05 mL) por olho por mês",
+      "doseMinima": "0,5 mg a cada 2 meses após controle",
+      "classificacao": "Anti-VEGF oftálmico",
+      "apresentacao": "Solução injetável 10 mg/mL (0,23 mL); seringa pré-cheia ou frasco-ampola",
+      "interacaoMedicamento": "Não estabelecidas para via intravítrea",
+      "posologia": "0,5 mg mensal até estabilização; considerar manutenção a cada 2 meses",
+      "armazenamento": "Refrigerado (2–8 °C); proteger da luz",
+      "preparo": "Administrar sob condições assépticas; não reutilizar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecção ocular ou periocular ativa, inflamação intraocular ativa, hipersensibilidade",
+      "cuidadosMedicos": "Avaliar risco trombótico e pressão intraocular pós-aplicação",
+      "cuidadosFarmaceuticos": "Verificar integridade da seringa; respeitar cadeia de frio",
+      "cuidadosEnfermagem": "Observar sinais de infecção, inflamação e dor após injeção",
+      "fontesBibliograficas": "Micromedex, FDA, UpToDate, Bula Lucentis ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ranibizumab (intravitreal)",
+      "suspension": "Discontinue 7 days before non-urgent ocular surgery with infection risk",
+      "risk": "Risk of endophthalmitis, intraocular pressure rise, and thromboembolic events",
+      "reintroduction": "Reintroduce after full ocular recovery and inflammation control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ranibizumab",
+      "nomeComercial": "Lucentis",
+      "mecanismoAcao": "Monoclonal antibody fragment that binds VEGF-A, inhibiting angiogenesis",
+      "farmacocinetica": "Intravitreal injection; Tmax ~1 day; intraocular half-life ~9 days; renal clearance",
+      "farmacodinamica": "Reduces neovascularization and macular edema; stabilizes/improves visual acuity",
+      "indicacoes": "Wet AMD, diabetic macular edema, retinal vein occlusion, myopic CNV",
+      "reacoesAdversas": "Conjunctival hemorrhage, eye pain, elevated IOP, intraocular inflammation, endophthalmitis",
+      "riscoGravidez": "Category C – avoid use",
+      "riscoLactacao": "Unknown excretion – caution advised",
+      "administracao": "Intravitreal injection",
+      "doseMaxima": "0.5 mg (0.05 mL) per eye per month",
+      "doseMinima": "0.5 mg every 2 months after control",
+      "classificacao": "Anti-VEGF ophthalmic agent",
+      "apresentacao": "Injection solution 10 mg/mL (0.23 mL); vial or prefilled syringe",
+      "interacaoMedicamento": "None established for intravitreal route",
+      "posologia": "Monthly 0.5 mg until stabilization; then every 2 months as maintenance",
+      "armazenamento": "Refrigerate 2–8 °C; protect from light",
+      "preparo": "Use aseptic technique; single-use only",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Ocular/periocular infection, active intraocular inflammation, hypersensitivity",
+      "cuidadosMedicos": "Monitor IOP, thrombotic risk, signs of inflammation",
+      "cuidadosFarmaceuticos": "Cold chain, inspect syringe/vial integrity",
+      "cuidadosEnfermagem": "Monitor for signs of pain, inflammation, infection",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Lucentis PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ranibizumab (uso intravítreo)",
+      "suspension": "Suspender 7 días antes de cirugía oftálmica no urgente con riesgo infeccioso",
+      "risk": "Riesgo de endoftalmitis, hipertensión ocular y tromboembolismo sistémico",
+      "reintroduction": "Reintroducir tras recuperación ocular completa y ausencia de inflamación"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ranibizumab",
+      "nomeComercial": "Lucentis",
+      "mecanismoAcao": "Fragmento de anticuerpo monoclonal contra VEGF-A",
+      "farmacocinetica": "Inyección intravítrea; Tmax ~1 día; vida media intraocular ~9 días; eliminación renal",
+      "farmacodinamica": "Reduce neovascularización y edema macular; preserva o mejora agudeza visual",
+      "indicacoes": "DMAE húmeda, edema macular diabético, obstrucción venosa retiniana, neovascularización miópica",
+      "reacoesAdversas": "Hemorragia conjuntival, dolor ocular, aumento de PIO, inflamación ocular, endoftalmitis",
+      "riscoGravidez": "Categoría C – evitar",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Inyección intravítrea",
+      "doseMaxima": "0,5 mg/mes por ojo",
+      "doseMinima": "0,5 mg cada 2 meses",
+      "classificacao": "Anti-VEGF oftálmico",
+      "apresentacao": "Solución 10 mg/mL (0,23 mL); jeringa precargada o vial",
+      "interacaoMedicamento": "No conocidas por vía intravítrea",
+      "posologia": "0,5 mg mensualmente hasta estabilización; mantenimiento cada 2 meses",
+      "armazenamento": "2–8 °C, proteger de la luz",
+      "preparo": "Técnica aséptica; no reutilizar",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Infección ocular, inflamación intraocular activa, hipersensibilidad",
+      "cuidadosMedicos": "Evaluar PIO, trombosis, inflamación ocular",
+      "cuidadosFarmaceuticos": "Cadena de frío, integridad del producto",
+      "cuidadosEnfermagem": "Observar signos de infección, dolor, inflamación",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, Lucentis ficha técnica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "雷尼珠单抗（玻璃体注射）",
+      "suspension": "择期眼科手术前7天停药以防感染",
+      "risk": "可能引发眼内炎、眼压升高、血栓栓塞风险",
+      "reintroduction": "术后眼部恢复、无炎症后可重用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "雷尼珠单抗",
+      "nomeComercial": "Lucentis",
+      "mecanismoAcao": "抗VEGF-A单克隆抗体片段，抑制异常新生血管",
+      "farmacocinetica": "玻璃体注射，Tmax 1天，半衰期9天，肾排泄",
+      "farmacodinamica": "减少新生血管生成与黄斑水肿，提高视力",
+      "indicacoes": "湿性AMD、糖尿病性黄斑水肿、视网膜静脉阻塞、近视CNV",
+      "reacoesAdversas": "结膜出血、眼痛、眼压升高、炎症、眼内炎",
+      "riscoGravidez": "C类，孕期禁用",
+      "riscoLactacao": "慎用，是否排泄不明",
+      "administracao": "玻璃体腔注射",
+      "doseMaxima": "每眼每月0.5 mg（0.05 mL）",
+      "doseMinima": "每2月0.5 mg维持",
+      "classificacao": "抗VEGF眼用药",
+      "apresentacao": "10 mg/mL注射液（0.23 mL），单剂量注射器或小瓶",
+      "interacaoMedicamento": "暂无明确药物相互作用",
+      "posologia": "0.5 mg每月注射一次，稳定后可改为每两月一次",
+      "armazenamento": "2–8°C冷藏，避光保存",
+      "preparo": "无菌操作，单次使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "眼部感染、炎症、过敏史",
+      "cuidadosMedicos": "监测眼压、炎症反应、血栓风险",
+      "cuidadosFarmaceuticos": "注意冷链、产品外观完整性",
+      "cuidadosEnfermagem": "观察局部反应及感染征象",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、Lucentis说明书"
+    }
+  }
+}

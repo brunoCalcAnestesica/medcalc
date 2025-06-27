@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sargramostim",
+      "suspension": "Suspender 24 a 48 horas antes de cirurgia eletiva ou procedimentos invasivos em pacientes neutropênicos",
+      "risk": "Pode causar febre, dor óssea, esplenomegalia, reações pulmonares e hipotensão; risco de exacerbação de inflamação em transplantes",
+      "reintroduction": "Reintroduzir após estabilização clínica e recuperação hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sargramostim (GM-CSF recombinante humano)",
+      "nomeComercial": "Leukine",
+      "mecanismoAcao": "Glicoproteína que estimula a produção, diferenciação e função de neutrófilos, monócitos/macrófagos e eosinófilos pela medula óssea",
+      "farmacocinetica": "Administração IV ou SC; meia-vida terminal ~2–3 h; metabolização hepática e eliminação renal mínima",
+      "farmacodinamica": "Aumenta a contagem de leucócitos e modula funções imunes inatas, favorecendo recuperação após quimioterapia ou transplantes",
+      "indicacoes": "Redução da neutropenia em transplante de medula óssea, mobilização de células progenitoras hematopoiéticas, terapia adjuvante em mielodisplasias e quimioterapia",
+      "reacoesAdversas": "Febre, calafrios, erupções cutâneas, mialgia, hipotensão, dispneia, derrame pleural, esplenomegalia, elevação de transaminases",
+      "riscoGravidez": "Categoria C – usar apenas se o benefício justificar o risco fetal",
+      "riscoLactacao": "Desconhece-se se é excretado no leite; evitar ou suspender amamentação durante tratamento",
+      "administracao": "Subcutânea ou intravenosa",
+      "doseMaxima": "500 mcg/m²/dia",
+      "doseMinima": "250 mcg/m²/dia",
+      "classificacao": "Fator estimulador de colônias de granulócitos-macrófagos (GM-CSF)",
+      "apresentacao": "Pó liofilizado para injeção SC/IV – 250 mcg/frasco",
+      "interacaoMedicamento": "Potencial interação com quimioterápicos mielotóxicos; evitar administração simultânea",
+      "posologia": "250 mcg/m²/dia por 14 dias pós-TMO; ajustar conforme resposta clínica",
+      "armazenamento": "Refrigerado (2–8 °C), não congelar; usar imediatamente após reconstituição",
+      "preparo": "Reconstituir com água estéril para injeção; administrar lentamente",
+      "solucoesCompatíveis": "SG 5%; compatível com NaCl 0,9% para IV",
+      "contraindicacoes": "Hipersensibilidade a sargramostim, leveduras ou derivados; leucemia mieloide aguda ativa",
+      "cuidadosMedicos": "Monitorar hemograma completo, função hepática e respiratória durante o uso",
+      "cuidadosFarmaceuticos": "Verificar integridade do frasco e prazo de validade; preparar em ambiente asséptico",
+      "cuidadosEnfermagem": "Observar reações locais e sistêmicas, sinais de toxicidade pulmonar ou esplênica",
+      "fontesBibliograficas": "FDA, Leukine Prescribing Info, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sargramostim",
+      "suspension": "Hold 24–48h prior to elective surgery or procedures in neutropenic patients",
+      "risk": "May cause fever, bone pain, hypotension, pulmonary toxicity, and inflammatory reactions; caution in graft vs host scenarios",
+      "reintroduction": "Restart after clinical stability and hematologic recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sargramostim (recombinant human GM-CSF)",
+      "nomeComercial": "Leukine",
+      "mecanismoAcao": "Stimulates proliferation and differentiation of granulocyte, macrophage, and dendritic cell lineages via GM-CSF receptor activation",
+      "farmacocinetica": "IV/SC; terminal half-life ~2–3 h; hepatic metabolism; minimal renal clearance",
+      "farmacodinamica": "Enhances recovery from neutropenia and improves innate immunity function after chemotherapy or stem cell transplant",
+      "indicacoes": "Reduce neutropenia post bone marrow transplant, mobilize progenitor cells, adjunct in MDS, AML consolidation",
+      "reacoesAdversas": "Fever, chills, myalgia, rash, hypotension, dyspnea, pleural effusion, hepatomegaly, ALT/AST elevation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; use with caution or avoid breastfeeding",
+      "administracao": "IV or subcutaneous injection",
+      "doseMaxima": "500 mcg/m²/day",
+      "doseMinima": "250 mcg/m²/day",
+      "classificacao": "Hematopoietic growth factor – GM-CSF",
+      "apresentacao": "Lyophilized powder for injection – 250 mcg/vial",
+      "interacaoMedicamento": "Avoid concurrent use with myelotoxic chemotherapy",
+      "posologia": "250 mcg/m²/day for up to 14 days post-Tx; adjust per response",
+      "armazenamento": "Refrigerate 2–8 °C; do not freeze; use reconstituted solution immediately",
+      "preparo": "Reconstitute with sterile water; administer slowly",
+      "solucoesCompatíveis": "D5W or NS (IV use)",
+      "contraindicacoes": "Hypersensitivity to yeast or GM-CSF; active AML",
+      "cuidadosMedicos": "Monitor CBC, liver enzymes, pulmonary status",
+      "cuidadosFarmaceuticos": "Confirm vial integrity; prepare under aseptic conditions",
+      "cuidadosEnfermagem": "Watch for injection site reactions, systemic inflammatory signs",
+      "fontesBibliograficas": "FDA, Leukine Prescribing Info, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sargramostim",
+      "suspension": "Suspender 24–48 h antes de procedimientos quirúrgicos en pacientes neutropénicos",
+      "risk": "Puede causar fiebre, dolor óseo, hipotensión, toxicidad pulmonar, inflamación; riesgo en aloinjertos",
+      "reintroduction": "Reiniciar tras recuperación hematológica y estabilidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sargramostim (GM-CSF recombinante humano)",
+      "nomeComercial": "Leukine",
+      "mecanismoAcao": "Estimula células precursoras hematopoyéticas y fagocíticas mediante el receptor de GM-CSF",
+      "farmacocinetica": "SC o IV; semivida ~2–3 h; metabolismo hepático; excreción renal mínima",
+      "farmacodinamica": "Facilita la recuperación inmune tras quimio o trasplante",
+      "indicacoes": "Neutropenia post-TMO, movilización de progenitores, consolidación en leucemias",
+      "reacoesAdversas": "Fiebre, mialgia, hipotensión, erupción, disnea, derrame pleural, hepatomegalia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No se conoce excreción; evitar si es posible",
+      "administracao": "Subcutánea o intravenosa",
+      "doseMaxima": "500 mcg/m²/día",
+      "doseMinima": "250 mcg/m²/día",
+      "classificacao": "Factor de crecimiento hematopoyético – GM-CSF",
+      "apresentacao": "Vial 250 mcg liofilizado",
+      "interacaoMedicamento": "Evitar con quimioterapia mielotóxica simultánea",
+      "posologia": "250 mcg/m²/día durante 10–14 días post-transplante",
+      "armazenamento": "2–8 °C, no congelar, usar al reconstituir",
+      "preparo": "Reconstituir en agua estéril; administrar lentamente",
+      "solucoesCompatíveis": "Glucosa 5%, suero fisiológico",
+      "contraindicacoes": "Alergia a GM-CSF, levaduras o leucemia activa",
+      "cuidadosMedicos": "Monitorear hemograma, hepático y respiración",
+      "cuidadosFarmaceuticos": "Revisar estabilidad y fecha de vencimiento",
+      "cuidadosEnfermagem": "Observar reacciones locales y sistémicas",
+      "fontesBibliograficas": "EMA, ficha técnica Leukine, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "重组人GM-CSF（Sargramostim）",
+      "suspension": "术前24–48小时停用，尤其中性粒细胞减少患者",
+      "risk": "可能引起发热、骨痛、低血压、肺部毒性、脾肿大等不良反应",
+      "reintroduction": "血象恢复和病情稳定后再重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "重组人粒细胞-巨噬细胞集落刺激因子（GM-CSF）",
+      "nomeComercial": "Leukine",
+      "mecanismoAcao": "激活骨髓造血细胞，促进粒细胞、巨噬细胞和树突细胞生成",
+      "farmacocinetica": "皮下注射或静脉注射；半衰期2–3小时；肝代谢",
+      "farmacodinamica": "增强造血和免疫功能，加速化疗或移植后免疫恢复",
+      "indicacoes": "移植后粒缺、祖细胞动员、MDS辅助治疗",
+      "reacoesAdversas": "发热、寒战、肌痛、低血压、皮疹、肺毒性、转氨酶升高",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "皮下或静脉注射",
+      "doseMaxima": "每日500微克/m²",
+      "doseMinima": "每日250微克/m²",
+      "classificacao": "造血因子 – GM-CSF",
+      "apresentacao": "250微克/瓶 冻干粉针剂",
+      "interacaoMedicamento": "不与骨髓抑制药联合使用",
+      "posologia": "每日250微克/m²，疗程10–14天",
+      "armazenamento": "2–8°C冷藏，使用前配制",
+      "preparo": "注射用无菌水配制，缓慢注射",
+      "solucoesCompatíveis": "5%葡萄糖或0.9%氯化钠",
+      "contraindicacoes": "过敏史、活动性白血病",
+      "cuidadosMedicos": "定期检查血常规、肝功能、肺功能",
+      "cuidadosFarmaceuticos": "配药无菌，现配现用",
+      "cuidadosEnfermagem": "观察注射反应、发热、呼吸不适",
+      "fontesBibliograficas": "中国药典、Micromedex、Leukine说明书"
+    }
+  }
+}

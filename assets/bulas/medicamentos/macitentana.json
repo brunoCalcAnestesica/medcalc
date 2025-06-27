@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Macitentana",
+      "suspension": "Suspender 24h antes da cirurgia eletiva em pacientes com hipotensão ou risco de sangramento",
+      "risk": "Risco de hipotensão, edema, anemia e hepatotoxicidade",
+      "reintroduction": "Reintroduzir após recuperação clínica e estabilidade hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Macitentana",
+      "nomeComercial": "Opsumit",
+      "mecanismoAcao": "Antagonista dual dos receptores de endotelina A e B, promovendo vasodilatação pulmonar",
+      "farmacocinetica": "Via oral; início em ~8h; meia-vida ~16h; metabolização hepática (CYP3A4)",
+      "farmacodinamica": "Reduz resistência vascular pulmonar e melhora capacidade funcional",
+      "indicacoes": "Hipertensão arterial pulmonar (HAP, classe II–III OMS)",
+      "reacoesAdversas": "Cefaleia, anemia, edema, congestão nasal, elevação de transaminases",
+      "riscoGravidez": "Categoria X – teratogênico",
+      "riscoLactacao": "Desconhecido; evitar uso",
+      "administracao": "Oral",
+      "doseMaxima": "10mg/dia",
+      "doseMinima": "10mg/dia",
+      "classificacao": "Antagonista dos receptores de endotelina (ERA)",
+      "apresentacao": "Comprimido revestido 10mg",
+      "interacaoMedicamento": "Evitar com inibidores/indutores fortes de CYP3A4; cuidado com varfarina e contraceptivos orais",
+      "posologia": "10mg 1x/dia com ou sem alimentos",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Pronto para uso oral",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, hepatopatia grave, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar função hepática, hemoglobina e pressão arterial",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão, contracepção eficaz e exames periódicos",
+      "cuidadosEnfermagem": "Observar sinais de hipotensão, edema e efeitos adversos",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Macitentan",
+      "suspension": "Discontinue 24h before surgery in patients with hypotension or bleeding risk",
+      "risk": "Risk of hypotension, anemia, edema, and hepatotoxicity",
+      "reintroduction": "Restart after clinical and hemodynamic stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Macitentan",
+      "nomeComercial": "Opsumit",
+      "mecanismoAcao": "Dual endothelin receptor antagonist (ETA and ETB) promoting pulmonary vasodilation",
+      "farmacocinetica": "Oral; peak ~8h; half-life ~16h; hepatic metabolism (CYP3A4)",
+      "farmacodinamica": "Reduces pulmonary vascular resistance and improves exercise capacity",
+      "indicacoes": "Pulmonary arterial hypertension (PAH, WHO class II–III)",
+      "reacoesAdversas": "Headache, anemia, edema, nasal congestion, elevated liver enzymes",
+      "riscoGravidez": "Category X – teratogenic",
+      "riscoLactacao": "Unknown; avoid use",
+      "administracao": "Oral",
+      "doseMaxima": "10mg/day",
+      "doseMinima": "10mg/day",
+      "classificacao": "Endothelin receptor antagonist (ERA)",
+      "apresentacao": "Film-coated tablets 10mg",
+      "interacaoMedicamento": "Avoid strong CYP3A4 modulators; caution with warfarin, hormonal contraceptives",
+      "posologia": "10mg once daily, with or without food",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Ready for oral use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, severe liver impairment, hypersensitivity",
+      "cuidadosMedicos": "Monitor liver function, hemoglobin, and BP",
+      "cuidadosFarmaceuticos": "Counsel on adherence, contraception, routine labs",
+      "cuidadosEnfermagem": "Monitor hypotension, edema, adverse events",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Macitentán",
+      "suspension": "Suspender 24h antes de cirugía si hay hipotensión o riesgo hemorrágico",
+      "risk": "Riesgo de hipotensión, anemia, edema, hepatotoxicidad",
+      "reintroduction": "Reiniciar tras estabilización clínica y hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Macitentán",
+      "nomeComercial": "Opsumit",
+      "mecanismoAcao": "Antagonista dual de los receptores de endotelina ETA y ETB",
+      "farmacocinetica": "Oral; pico ~8h; vida media ~16h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Disminuye la resistencia vascular pulmonar y mejora la capacidad funcional",
+      "indicacoes": "Hipertensión arterial pulmonar (clase II–III OMS)",
+      "reacoesAdversas": "Cefalea, anemia, edema, congestión nasal, transaminasas elevadas",
+      "riscoGravidez": "Categoría X – teratogénico",
+      "riscoLactacao": "Desconocido; evitar uso",
+      "administracao": "Oral",
+      "doseMaxima": "10mg/día",
+      "doseMinima": "10mg/día",
+      "classificacao": "Antagonista de receptores de endotelina (ERA)",
+      "apresentacao": "Comprimidos recubiertos 10mg",
+      "interacaoMedicamento": "Evitar inhibidores/inductores potentes de CYP3A4; precaución con anticoagulantes y anticonceptivos",
+      "posologia": "10mg una vez al día, con o sin alimentos",
+      "armazenamento": "Ambiente seco, proteger de la luz",
+      "preparo": "Listo para uso oral",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, hepatopatía grave, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear función hepática, Hb y PA",
+      "cuidadosFarmaceuticos": "Educar sobre uso regular, anticoncepción y controles",
+      "cuidadosEnfermagem": "Observar PA, edema y efectos adversos",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "马西替坦",
+      "suspension": "择期手术前24小时停药，若存在低血压或出血风险",
+      "risk": "可能引起低血压、贫血、水肿、肝毒性",
+      "reintroduction": "术后稳定后可根据临床情况恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "马西替坦",
+      "nomeComercial": "Opsumit（奥普舒美）",
+      "mecanismoAcao": "选择性阻断内皮素A/B受体，扩张肺血管",
+      "farmacocinetica": "口服；达峰约8小时；半衰期约16小时；CYP3A4肝代谢",
+      "farmacodinamica": "降低肺动脉阻力，改善运动耐力",
+      "indicacoes": "肺动脉高压（PAH）（WHO II–III级）",
+      "reacoesAdversas": "头痛、贫血、水肿、鼻塞、转氨酶升高",
+      "riscoGravidez": "X类 – 有致畸风险",
+      "riscoLactacao": "不推荐使用",
+      "administracao": "口服",
+      "doseMaxima": "每日10毫克",
+      "doseMinima": "每日10毫克",
+      "classificacao": "内皮素受体拮抗剂（ERA类）",
+      "apresentacao": "薄膜包衣片10mg",
+      "interacaoMedicamento": "避免与CYP3A4强抑制剂/诱导剂联用；注意避孕药和华法林联用风险",
+      "posologia": "每日一次，10mg，可与食物同服",
+      "armazenamento": "室温保存，避光防潮",
+      "preparo": "无需特殊处理",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、重度肝病、过敏史",
+      "cuidadosMedicos": "监测肝功能、血红蛋白及血压",
+      "cuidadosFarmaceuticos": "指导避孕、坚持服药及定期检查",
+      "cuidadosEnfermagem": "观察低血压、水肿及肝毒性体征",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

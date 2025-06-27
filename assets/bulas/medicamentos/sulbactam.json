@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sulbactam",
+      "suspension": "Não requer suspensão pré-operatória se em uso terapêutico",
+      "risk": "Risco baixo; pode causar disfunção hepática leve e interação com antibióticos aminoglicosídeos",
+      "reintroduction": "Reintroduzir conforme controle infeccioso e função hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulbactam sódico",
+      "nomeComercial": "Ampicilina + Sulbactam (Unasyn), Durlobactam (novas combinações)",
+      "mecanismoAcao": "Inibidor irreversível de β-lactamases, sem atividade antibacteriana significativa isolada",
+      "farmacocinetica": "Administração IV/IM; meia-vida 1h; eliminação renal",
+      "farmacodinamica": "Potencializa antibióticos β-lactâmicos contra Gram-positivos e Gram-negativos produtores de β-lactamase",
+      "indicacoes": "Infecções respiratórias, urinárias, intra-abdominais, pele, ginecológicas",
+      "reacoesAdversas": "Rash, diarreia, elevação de transaminases, trombocitopenia",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Seguro",
+      "administracao": "Intravenosa ou intramuscular (geralmente em combinação com ampicilina)",
+      "doseMaxima": "6g/dia (sulbactam)",
+      "doseMinima": "1g/dia",
+      "classificacao": "Inibidor de β-lactamase",
+      "apresentacao": "Ampolas 1g, 2g (combinado com ampicilina)",
+      "interacaoMedicamento": "Interação com aminoglicosídeos se administrados na mesma solução; incompatível com alguns aminopenicilínicos",
+      "posologia": "1,5g a 3g IV a cada 6–8h (com ampicilina)",
+      "armazenamento": "Temperatura ambiente; solução reconstituída usar em 8h (ambiente) ou 24h (refrigerada)",
+      "preparo": "Diluir em SF 0,9% ou SG 5%; uso imediato",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a penicilinas, insuficiência renal sem ajuste de dose",
+      "cuidadosMedicos": "Monitorar função hepática, renal, eletrólitos",
+      "cuidadosFarmaceuticos": "Evitar uso na mesma linha com aminoglicosídeos",
+      "cuidadosEnfermagem": "Observar sinais de hipersensibilidade e infusão lenta",
+      "fontesBibliograficas": "Micromedex, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sulbactam",
+      "suspension": "No need to stop if part of active antimicrobial therapy",
+      "risk": "Low risk; may cause mild hepatic enzyme elevation, avoid mixing with aminoglycosides",
+      "reintroduction": "Resume as needed post-op for infection control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulbactam sodium",
+      "nomeComercial": "Unasyn (with Ampicillin)",
+      "mecanismoAcao": "Irreversible inhibitor of β-lactamase enzymes",
+      "farmacocinetica": "IV/IM; half-life ~1h; renal elimination",
+      "farmacodinamica": "Extends spectrum of β-lactams vs β-lactamase-producing organisms",
+      "indicacoes": "RTIs, UTIs, IAI, SSTI, gynecological infections",
+      "reacoesAdversas": "Diarrhea, rash, elevated LFTs, thrombocytopenia",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe",
+      "administracao": "IV or IM with ampicillin",
+      "doseMaxima": "6g/day (sulbactam)",
+      "doseMinima": "1g/day",
+      "classificacao": "β-lactamase inhibitor",
+      "apresentacao": "1g/2g vials (usually with ampicillin)",
+      "interacaoMedicamento": "Incompatible with aminoglycosides in same IV line",
+      "posologia": "1.5g–3g IV q6–8h (with ampicillin)",
+      "armazenamento": "Room temp; reconstituted solution 8h (RT), 24h (fridge)",
+      "preparo": "Dilute in NS or D5W",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Penicillin allergy, renal impairment without dose adjustment",
+      "cuidadosMedicos": "Check renal/liver function; infection control",
+      "cuidadosFarmaceuticos": "Do not co-administer in same line with aminoglycosides",
+      "cuidadosEnfermagem": "Infuse slowly; watch for allergic reactions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sulbactam",
+      "suspension": "No necesita suspenderse antes de cirugía si está en uso activo",
+      "risk": "Riesgo bajo; puede elevar transaminasas o interactuar con aminoglucósidos",
+      "reintroduction": "Reiniciar según evolución infecciosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulbactam sódico",
+      "nomeComercial": "Unasyn (con ampicilina)",
+      "mecanismoAcao": "Inhibidor irreversible de β-lactamasas",
+      "farmacocinetica": "IV/IM; vida media 1h; eliminación renal",
+      "farmacodinamica": "Amplía el espectro de antibióticos β-lactámicos",
+      "indicacoes": "ITU, IRAB, intraabdominales, piel, ginecológicas",
+      "reacoesAdversas": "Rash, diarrea, alteración hepática leve",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Seguro",
+      "administracao": "IV o IM (en combinación)",
+      "doseMaxima": "6g/día",
+      "doseMinima": "1g/día",
+      "classificacao": "Inhibidor de β-lactamasa",
+      "apresentacao": "Frascos de 1g o 2g (con ampicilina)",
+      "interacaoMedicamento": "Incompatible con aminoglucósidos en misma línea",
+      "posologia": "1,5g a 3g IV cada 6–8h",
+      "armazenamento": "Ambiente seco; reconstituido 8h (ambiente), 24h (frío)",
+      "preparo": "Diluir en SSF o SG5%",
+      "solucoesCompatíveis": "SSF, SG5%",
+      "contraindicacoes": "Alergia a penicilinas, IRC sin ajuste",
+      "cuidadosMedicos": "Evaluar función hepática y renal",
+      "cuidadosFarmaceuticos": "No mezclar con aminoglucósidos",
+      "cuidadosEnfermagem": "Observar rash, náuseas, signos de alergia",
+      "fontesBibliograficas": "Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "舒巴坦",
+      "suspension": "无需术前停药，如感染存在可继续使用",
+      "risk": "风险低，部分肝酶升高或与氨基糖苷类不兼容",
+      "reintroduction": "术后根据感染情况和肝肾功能决定重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "舒巴坦钠",
+      "nomeComercial": "舒安欣（与氨苄西林联用）",
+      "mecanismoAcao": "不可逆抑制β-内酰胺酶，增强抗生素效力",
+      "farmacocinetica": "IV/IM，半衰期约1小时，经肾排泄",
+      "farmacodinamica": "拓展β-内酰胺类对耐药细菌的活性",
+      "indicacoes": "呼吸道、泌尿道、腹腔、皮肤感染",
+      "reacoesAdversas": "皮疹、腹泻、转氨酶升高、白细胞减少",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "安全",
+      "administracao": "静脉或肌肉注射（联合）",
+      "doseMaxima": "每日6克",
+      "doseMinima": "每日1克",
+      "classificacao": "β-内酰胺酶抑制剂",
+      "apresentacao": "1g、2g（与氨苄西林合剂）",
+      "interacaoMedicamento": "与氨基糖苷类药物混合使用可失活",
+      "posologia": "每6–8小时静注1.5–3g",
+      "armazenamento": "原粉常温，复溶液8小时内（室温）或24小时（冷藏）用完",
+      "preparo": "溶于0.9%氯化钠或5%葡萄糖",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "青霉素过敏、肾功能不全未调整剂量",
+      "cuidadosMedicos": "监测肝酶、电解质、肾功能",
+      "cuidadosFarmaceuticos": "不与氨基糖苷类同管输注",
+      "cuidadosEnfermagem": "观察输注反应、皮疹、消化道不适",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

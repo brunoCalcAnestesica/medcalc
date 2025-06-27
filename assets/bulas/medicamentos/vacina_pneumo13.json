@@ -1,0 +1,139 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina pneumocócica 13-valente",
+      "suspension": "Não se aplica – vacina inativada, pode ser mantida exceto em febre ou cirurgia de grande porte iminente",
+      "risk": "Reações locais, febre, irritabilidade, anafilaxia rara; não há risco de infecção pela vacina",
+      "reintroduction": "Retomar após resolução de febre ou condição aguda, conforme calendário vacinal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "13 sorotipos de Streptococcus pneumoniae conjugados a proteína CRM197",
+      "nomeComercial": "Prevenar 13",
+      "mecanismoAcao": "Estimula resposta imune contra 13 sorotipos capsulares pneumocócicos, prevenindo infecção invasiva e otites",
+      "farmacocinetica": "Resposta imune em 2–3 semanas; memória imunológica gerada após esquema completo",
+      "farmacodinamica": "Previne infecções invasivas (meningite, sepse, pneumonia) por pneumococo",
+      "indicacoes": "Imunização infantil, idosos, imunocomprometidos, doenças crônicas, DPOC, cardiopatias, asplenia",
+      "reacoesAdversas": "Dor, edema, febre, sonolência, irritabilidade, perda de apetite",
+      "riscoGravidez": "Categoria B – uso conforme risco-benefício",
+      "riscoLactacao": "Seguro",
+      "administracao": "Intramuscular",
+      "doseMaxima": "Esquema de 3 doses + reforço (infantil); 1 dose em adultos e idosos",
+      "doseMinima": "0,5 mL por aplicação",
+      "classificacao": "Vacina conjugada bacteriana polissacarídica",
+      "apresentacao": "Seringa de 0,5 mL pré-preenchida",
+      "interacaoMedicamento": "Pode ser administrada com outras vacinas inativadas",
+      "posologia": "Infantil: 2, 4, 6 meses + reforço aos 12 meses; adulto: dose única",
+      "armazenamento": "2–8°C, não congelar",
+      "preparo": "Agitar antes de aplicar; não diluir",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Anafilaxia prévia à vacina ou seus componentes",
+      "cuidadosMedicos": "Adiar se febre >38°C; verificar histórico vacinal",
+      "cuidadosFarmaceuticos": "Garantir cadeia de frio, conferir lote e integridade",
+      "cuidadosEnfermagem": "Aplicar IM corretamente, orientar eventos adversos",
+      "fontesBibliograficas": "SBIm, PNI/MS, ANVISA, CDC, EMA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pneumococcal 13-valent conjugate vaccine",
+      "suspension": "Not applicable – delay if febrile illness or major surgery",
+      "risk": "Injection site pain, fever, fatigue, rare anaphylaxis",
+      "reintroduction": "Resume when clinically stable per schedule"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "13 serotypes of Streptococcus pneumoniae conjugated to CRM197 protein",
+      "nomeComercial": "Prevnar 13",
+      "mecanismoAcao": "Induces antibodies against 13 pneumococcal serotypes, providing protection against invasive disease",
+      "farmacocinetica": "Immune response in 2–3 weeks; long-term memory with booster",
+      "farmacodinamica": "Prevents meningitis, pneumonia, otitis media and sepsis",
+      "indicacoes": "Infants, elderly, immunocompromised, chronic diseases",
+      "reacoesAdversas": "Pain, swelling, fever, drowsiness, poor appetite",
+      "riscoGravidez": "Category B – use if indicated",
+      "riscoLactacao": "Safe",
+      "administracao": "Intramuscular",
+      "doseMaxima": "4-dose series (children); 1 dose in adults",
+      "doseMinima": "0.5 mL",
+      "classificacao": "Conjugate bacterial polysaccharide vaccine",
+      "apresentacao": "0.5 mL prefilled syringe",
+      "interacaoMedicamento": "Can be co-administered with other vaccines",
+      "posologia": "2, 4, 6, and 12–15 months (infants); single dose in adults",
+      "armazenamento": "2–8°C; do not freeze",
+      "preparo": "Shake before injection",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe allergy to vaccine or components",
+      "cuidadosMedicos": "Screen for illness or fever",
+      "cuidadosFarmaceuticos": "Verify cold chain, lot, and expiration",
+      "cuidadosEnfermagem": "Administer IM, observe for adverse reactions",
+      "fontesBibliograficas": "CDC, FDA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna neumocócica conjugada 13-valente",
+      "suspension": "No aplica – posponer si hay fiebre o cirugía",
+      "risk": "Dolor, fiebre, anafilaxia rara",
+      "reintroduction": "Reanudar según calendario una vez estable",
+      "administracao": "Intramuscular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "13 serotipos de S. pneumoniae conjugados a CRM197",
+      "nomeComercial": "Prevenar 13",
+      "mecanismoAcao": "Estimula anticuerpos específicos y memoria inmune",
+      "farmacocinetica": "2–3 semanas para respuesta humoral",
+      "farmacodinamica": "Previene enfermedad neumocócica invasiva",
+      "indicacoes": "Niños, mayores, pacientes de riesgo",
+      "reacoesAdversas": "Fiebre, dolor, somnolencia, irritabilidad",
+      "riscoGravidez": "Categoría B – riesgo/beneficio",
+      "riscoLactacao": "Compatible",
+      "administracao": "IM",
+      "doseMaxima": "4 dosis infantiles; 1 en adultos",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacuna bacteriana conjugada",
+      "apresentacao": "0,5 mL jeringa precargada",
+      "interacaoMedicamento": "Compatible con otras vacunas",
+      "posologia": "2, 4, 6 y 12 meses; 1 dosis en adultos",
+      "armazenamento": "2–8°C, no congelar",
+      "preparo": "Agitar antes de aplicar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Anafilaxia previa",
+      "cuidadosMedicos": "Evaluar fiebre o enfermedad activa",
+      "cuidadosFarmaceuticos": "Revisar cadena de frío y lote",
+      "cuidadosEnfermagem": "Aplicar IM y vigilar reacciones",
+      "fontesBibliograficas": "EMA, AEP, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "13价肺炎球菌多糖结合疫苗",
+      "suspension": "如发热或重手术前可延期接种",
+      "risk": "注射部位疼痛、发热、嗜睡、过敏反应罕见",
+      "reintroduction": "恢复健康后可按计划继续接种"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "13种肺炎球菌血清型多糖与CRM197蛋白结合",
+      "nomeComercial": "沛儿13（Prevenar 13）",
+      "mecanismoAcao": "诱导抗肺炎链球菌抗体产生",
+      "farmacocinetica": "2–3周起效；记忆免疫维持多年",
+      "farmacodinamica": "预防肺炎、脑膜炎、败血症、耳炎",
+      "indicacoes": "婴儿、老年人、慢病或免疫低下者",
+      "reacoesAdversas": "注射疼痛、低热、烦躁、食欲减退",
+      "riscoGravidez": "B类 – 谨慎使用",
+      "riscoLactacao": "安全",
+      "administracao": "肌注（三角肌或大腿）",
+      "doseMaxima": "婴儿最多4剂；成人1剂",
+      "doseMinima": "0.5 mL",
+      "classificacao": "结合型多糖疫苗",
+      "apresentacao": "0.5 mL预充注射器",
+      "interacaoMedicamento": "可与其他疫苗联合使用",
+      "posologia": "2、4、6、12月龄接种；成人1剂",
+      "armazenamento": "2–8°C冷藏，不可冷冻",
+      "preparo": "使用前摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对本疫苗成分过敏者",
+      "cuidadosMedicos": "接种前检查健康状况",
+      "cuidadosFarmaceuticos": "确认冷链、批号有效",
+      "cuidadosEnfermagem": "肌注、接种后留观30分钟",
+      "fontesBibliograficas": "中国疫苗手册、Micromedex、EMA、CDC"
+    }
+  }
+}

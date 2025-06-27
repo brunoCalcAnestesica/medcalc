@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Levamisol",
+      "suspension": "Suspender 1 dia antes da cirurgia em uso eletivo",
+      "risk": "Potencial imunomodulador e risco de agranulocitose em uso prolongado",
+      "reintroduction": "Reintroduzir após cirurgia com leucograma estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levamisol",
+      "nomeComercial": "Ascaridil, Decaris",
+      "mecanismoAcao": "Bloqueia a atividade da succinato desidrogenase no helminto, levando à paralisia muscular e morte",
+      "farmacocinetica": "Boa absorção oral, metabolização hepática, excreção renal",
+      "farmacodinamica": "Anti-helmíntico e imunomodulador; ativa linfócitos T",
+      "indicacoes": "Ascaridíase, ancilostomíase; adjuvante imunológico (uso off-label e experimental)",
+      "reacoesAdversas": "Náuseas, gosto metálico, dor abdominal, leucopenia, agranulocitose (uso prolongado)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar se possível",
+      "administracao": "Oral",
+      "doseMaxima": "150 mg/dia (adultos); 2,5 mg/kg (pediatria)",
+      "doseMinima": "50 mg",
+      "classificacao": "Anti-helmíntico e imunomodulador",
+      "apresentacao": "Comprimidos 50 mg e 150 mg",
+      "interacaoMedicamento": "Aumenta toxicidade com 5-FU; uso com anticoagulantes exige monitoramento de INR",
+      "posologia": "Dose única de 150 mg (adulto); 2,5 mg/kg (criança)",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, discrasias sanguíneas, gravidez",
+      "cuidadosMedicos": "Evitar uso repetido; se prolongado, monitorar leucograma",
+      "cuidadosFarmaceuticos": "Orientar dose única, preferencialmente à noite com alimento",
+      "cuidadosEnfermagem": "Observar sintomas gastrointestinais e cutâneos",
+      "fontesBibliograficas": "ANVISA, UpToDate, Micromedex, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Levamisole",
+      "suspension": "Discontinue 1 day before surgery if used electively",
+      "risk": "Immunomodulatory effects and risk of agranulocytosis with prolonged use",
+      "reintroduction": "Restart post-op if WBC count is stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levamisole",
+      "nomeComercial": "Ergamisol (withdrawn in US)",
+      "mecanismoAcao": "Inhibits fumarate reductase in nematodes, causing paralysis and death",
+      "farmacocinetica": "Well absorbed orally, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Antihelminthic and immunomodulatory; enhances T-cell function",
+      "indicacoes": "Ascariasis, hookworm; previously used as immunomodulator (off-label)",
+      "reacoesAdversas": "Nausea, metallic taste, abdominal pain, leukopenia, agranulocytosis (chronic use)",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid if possible",
+      "administracao": "Oral",
+      "doseMaxima": "150 mg/day; 2.5 mg/kg (pediatrics)",
+      "doseMinima": "50 mg",
+      "classificacao": "Antihelminthic and immunomodulator",
+      "apresentacao": "Tablets 50 mg and 150 mg",
+      "interacaoMedicamento": "Increases toxicity with 5-FU; potentiates anticoagulants (monitor INR)",
+      "posologia": "Single dose 150 mg (adults); 2.5 mg/kg (children)",
+      "armazenamento": "Store at room temperature, protect from moisture",
+      "preparo": "Direct oral use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, blood dyscrasias, pregnancy",
+      "cuidadosMedicos": "Avoid chronic use; monitor CBC if extended therapy",
+      "cuidadosFarmaceuticos": "Advise single dose at bedtime with food",
+      "cuidadosEnfermagem": "Watch for GI and skin reactions",
+      "fontesBibliograficas": "FDA archive, BNF, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Levamisol",
+      "suspension": "Suspender 1 día antes de la cirugía si es uso electivo",
+      "risk": "Efectos inmunomoduladores y riesgo de agranulocitosis con uso prolongado",
+      "reintroduction": "Reintroducir tras cirugía si leucograma está estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levamisol",
+      "nomeComercial": "Decaris",
+      "mecanismoAcao": "Inhibe la succinato deshidrogenasa del helminto, provocando parálisis y muerte",
+      "farmacocinetica": "Buena absorción oral, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Antihelmíntico e inmunomodulador; activa linfocitos T",
+      "indicacoes": "Ascariasis, anquilostomiasis; usos experimentales como inmunomodulador",
+      "reacoesAdversas": "Náuseas, sabor metálico, dolor abdominal, leucopenia, agranulocitosis",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar si es posible",
+      "administracao": "Oral",
+      "doseMaxima": "150 mg/día; 2,5 mg/kg en niños",
+      "doseMinima": "50 mg",
+      "classificacao": "Antihelmíntico e inmunomodulador",
+      "apresentacao": "Comprimidos de 50 mg y 150 mg",
+      "interacaoMedicamento": "Mayor toxicidad con 5-FU; potencia anticoagulantes (vigilar INR)",
+      "posologia": "Dosis única de 150 mg en adultos; 2,5 mg/kg en niños",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, discrasias sanguíneas, embarazo",
+      "cuidadosMedicos": "Evitar uso prolongado; monitorear leucograma si es necesario",
+      "cuidadosFarmaceuticos": "Aconsejar toma nocturna con comida",
+      "cuidadosEnfermagem": "Observar efectos gastrointestinales y cutáneos",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "左旋咪唑",
+      "suspension": "择期手术建议术前1天停药",
+      "risk": "具有免疫调节作用，长期使用可引发粒细胞缺乏",
+      "reintroduction": "术后白细胞计数正常后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "左旋咪唑",
+      "nomeComercial": "左咪唑片",
+      "mecanismoAcao": "抑制寄生虫的琥珀酸脱氢酶，导致虫体瘫痪和死亡",
+      "farmacocinetica": "口服吸收好，肝脏代谢，经肾排泄",
+      "farmacodinamica": "广谱驱虫药，同时具有免疫增强功能",
+      "indicacoes": "蛔虫病、钩虫病；也用于免疫功能低下患者（实验性）",
+      "reacoesAdversas": "恶心、金属味、腹痛、白细胞减少、粒细胞缺乏症",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日150毫克，儿童2.5 mg/kg",
+      "doseMinima": "50毫克",
+      "classificacao": "驱虫药与免疫调节剂",
+      "apresentacao": "50 mg与150 mg片剂",
+      "interacaoMedicamento": "与氟尿嘧啶（5-FU）合用毒性增强；增强抗凝作用（监测INR）",
+      "posologia": "成人150 mg单剂，儿童2.5 mg/kg",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "口服直接服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "过敏、血液系统疾病、妊娠",
+      "cuidadosMedicos": "避免长期用药，必要时监测白细胞计数",
+      "cuidadosFarmaceuticos": "建议晚上随餐服用",
+      "cuidadosEnfermagem": "监测胃肠道反应与皮肤症状",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

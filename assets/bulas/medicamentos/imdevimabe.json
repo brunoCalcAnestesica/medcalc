@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Imdevimabe",
+      "suspension": "Suspenso globalmente; perdeu eficácia contra variantes atuais do SARS-CoV-2",
+      "risk": "Risco de reações infusionais e perda de eficácia; uso emergencial revogado",
+      "reintroduction": "Não recomendado; não autorizado atualmente"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imdevimabe",
+      "nomeComercial": "REGEN-COV (em combinação com Casirivimabe)",
+      "mecanismoAcao": "Anticorpo monoclonal que se liga à proteína spike do SARS-CoV-2, impedindo a ligação ao receptor ACE2",
+      "farmacocinetica": "Administração IV ou SC; meia-vida média ~25–30 dias; metabolismo proteico",
+      "farmacodinamica": "Neutraliza variantes suscetíveis do SARS-CoV-2; perdeu eficácia frente a Omicron",
+      "indicacoes": "Tratamento e profilaxia pós-exposição de COVID-19 (uso emergencial revogado)",
+      "reacoesAdversas": "Febre, calafrios, náusea, reações alérgicas, erupção cutânea",
+      "riscoGravidez": "Categoria não classificada; uso se benefício superar risco",
+      "riscoLactacao": "Desconhecido; usar com cautela",
+      "administracao": "Via intravenosa ou subcutânea",
+      "doseMaxima": "600 mg imdevimabe + 600 mg casirivimabe (tratamento IV)",
+      "doseMinima": "300 mg imdevimabe + 300 mg casirivimabe (profilaxia SC)",
+      "classificacao": "Anticorpo monoclonal anti-SARS-CoV-2 (descontinuado)",
+      "apresentacao": "Frascos separados ou combinados para uso IV/SC",
+      "interacaoMedicamento": "Sem interações medicamentosas conhecidas",
+      "posologia": "Dose única IV ou SC conforme protocolo emergencial (revogado)",
+      "armazenamento": "Refrigerado (2–8°C), não congelar",
+      "preparo": "Diluir para infusão IV ou administrar puro SC",
+      "solucoesCompatíveis": "SF 0,9% (para diluição IV)",
+      "contraindicacoes": "Hipersensibilidade conhecida a imdevimabe ou excipientes",
+      "cuidadosMedicos": "Monitorar reações alérgicas e eficácia clínica",
+      "cuidadosFarmaceuticos": "Verificar estabilidade e armazenamento correto",
+      "cuidadosEnfermagem": "Observar sinais de infusão e hipersensibilidade",
+      "fontesBibliograficas": "FDA, EUA Fact Sheet, EMA, WHO, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Imdevimab",
+      "suspension": "No longer authorized; revoked EUA due to variant resistance",
+      "risk": "Infusion reactions and loss of efficacy; not recommended",
+      "reintroduction": "Not advised under current guidelines"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imdevimab",
+      "nomeComercial": "REGEN-COV (with Casirivimab)",
+      "mecanismoAcao": "Neutralizing mAb targeting SARS-CoV-2 spike protein, blocks ACE2 binding",
+      "farmacocinetica": "IV or SC; half-life ~25–30 days; proteolytic clearance",
+      "farmacodinamica": "Blocks virus entry into cells; ineffective against Omicron variants",
+      "indicacoes": "Treatment or post-exposure prophylaxis of COVID-19 (EUA revoked)",
+      "reacoesAdversas": "Chills, fever, nausea, rash, allergic reactions",
+      "riscoGravidez": "Not classified; use only if benefit > risk",
+      "riscoLactacao": "Unknown; caution recommended",
+      "administracao": "IV infusion or subcutaneous injection",
+      "doseMaxima": "600 mg imdevimab + 600 mg casirivimab (IV)",
+      "doseMinima": "300 mg imdevimab + 300 mg casirivimab (SC)",
+      "classificacao": "Anti-SARS-CoV-2 monoclonal antibody (withdrawn)",
+      "apresentacao": "Separate or combined vials for IV/SC use",
+      "interacaoMedicamento": "No significant drug interactions reported",
+      "posologia": "Single dose IV or SC as per prior EUA protocol",
+      "armazenamento": "Store at 36–46°F; do not freeze",
+      "preparo": "Dilute for IV use; administer SC undiluted",
+      "solucoesCompatíveis": "0.9% NaCl (for IV)",
+      "contraindicacoes": "Known allergy to imdevimab or excipients",
+      "cuidadosMedicos": "Monitor for hypersensitivity and response",
+      "cuidadosFarmaceuticos": "Check expiration and cold chain",
+      "cuidadosEnfermagem": "Monitor during and post-injection for adverse effects",
+      "fontesBibliograficas": "FDA, EUA Fact Sheet, Micromedex, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Imdevimab",
+      "suspension": "Suspendido globalmente; no autorizado actualmente",
+      "risk": "Pérdida de eficacia ante variantes; riesgo de reacciones infusionais",
+      "reintroduction": "No se recomienda su reintroducción"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imdevimab",
+      "nomeComercial": "REGEN-COV (con Casirivimab)",
+      "mecanismoAcao": "Anticuerpo que bloquea la proteína spike, impidiendo unión a ACE2",
+      "farmacocinetica": "IV/SC; semivida de 25–30 días; metabolismo proteico",
+      "farmacodinamica": "Previene la entrada del virus a células; ya no efectivo contra Omicron",
+      "indicacoes": "COVID-19 leve/moderado o profilaxis (autorización revocada)",
+      "reacoesAdversas": "Escalofríos, fiebre, rash, náuseas, reacciones alérgicas",
+      "riscoGravidez": "No clasificado; usar solo si beneficio supera riesgo",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Infusión IV o inyección SC",
+      "doseMaxima": "600 mg imdevimab + 600 mg casirivimab (IV)",
+      "doseMinima": "300 mg + 300 mg (SC)",
+      "classificacao": "Anticuerpo monoclonal anti-SARS-CoV-2 (retirado)",
+      "apresentacao": "Viales individuales o combinados",
+      "interacaoMedicamento": "Sin interacciones relevantes conocidas",
+      "posologia": "Dosis única IV o SC según protocolo antiguo",
+      "armazenamento": "2–8°C, no congelar",
+      "preparo": "Diluir solo si IV; uso SC directo",
+      "solucoesCompatíveis": "Suero fisiológico para IV",
+      "contraindicacoes": "Alergia conocida a imdevimab",
+      "cuidadosMedicos": "Observar respuesta y efectos alérgicos",
+      "cuidadosFarmaceuticos": "Verificar cadena de frío y caducidad",
+      "cuidadosEnfermagem": "Vigilar durante y después de la aplicación",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, OMS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "Imdevimab",
+      "suspension": "已撤销使用授权；不再推荐",
+      "risk": "对新冠变异株（如Omicron）无效；曾引起输注反应",
+      "reintroduction": "不建议重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imdevimab",
+      "nomeComercial": "REGEN-COV（与Casirivimab联合）",
+      "mecanismoAcao": "与SARS-CoV-2刺突蛋白结合，阻断其与ACE2受体结合",
+      "farmacocinetica": "IV/SC途径；半衰期约25–30天；蛋白代谢",
+      "farmacodinamica": "曾对原始毒株有效；现对Omicron失效",
+      "indicacoes": "COVID-19治疗与预防（授权已撤销）",
+      "reacoesAdversas": "发热、寒战、皮疹、恶心、过敏反应",
+      "riscoGravidez": "未分类；需权衡风险与收益",
+      "riscoLactacao": "是否排泄未知；慎用",
+      "administracao": "静脉输注或皮下注射",
+      "doseMaxima": "静脉600 mg + 600 mg",
+      "doseMinima": "皮下300 mg + 300 mg",
+      "classificacao": "抗新冠单抗（已退市）",
+      "apresentacao": "独立或联合包装瓶",
+      "interacaoMedicamento": "无已知重要相互作用",
+      "posologia": "单次IV或SC注射（按原方案）",
+      "armazenamento": "2–8°C冷藏，禁止冷冻",
+      "preparo": "IV需稀释，SC可直接使用",
+      "solucoesCompatíveis": "0.9%氯化钠（用于稀释）",
+      "contraindicacoes": "对本品过敏者禁用",
+      "cuidadosMedicos": "监测反应与疗效",
+      "cuidadosFarmaceuticos": "检查有效期与冷链",
+      "cuidadosEnfermagem": "注射期间与后1小时密切观察",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，世卫组织"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Levodropropizina",
+      "suspension": "Suspender 12 a 24 horas antes da cirurgia",
+      "risk": "Antitussígeno de ação periférica com risco de depressão reflexa da tosse e secreção residual",
+      "reintroduction": "Reintroduzir no pós-operatório apenas com avaliação da via aérea e padrão ventilatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levodropropizina",
+      "nomeComercial": "Antux, Levosse, Zylohist, Levotuss",
+      "mecanismoAcao": "Antitussígeno de ação periférica que inibe reflexo da tosse via modulação de fibras C vagais",
+      "farmacocinetica": "Biodisponibilidade oral ~75%; início em 30–60 min; meia-vida 1.4–2 h; excreção renal",
+      "farmacodinamica": "Reduz estímulo reflexo de tosse sem ação central sedativa significativa",
+      "indicacoes": "Tosse irritativa seca ou associada a infecções respiratórias leves a moderadas",
+      "reacoesAdversas": "Náusea, sonolência leve, rash, broncoconstrição (raro)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar uso; não há dados sobre excreção no leite",
+      "administracao": "Via oral",
+      "doseMaxima": "180 mg/dia (adultos)",
+      "doseMinima": "3 mg/kg/dia (crianças)",
+      "classificacao": "Antitussígeno periférico não opioide",
+      "apresentacao": "Solução oral 6 mg/mL ou 30 mg/5 mL; gotas pediátricas",
+      "interacaoMedicamento": "Potencial aditivo com broncodilatadores beta2; sem interação com anestésicos",
+      "posologia": "Adultos: 60 mg 3x/dia; crianças: 3 mg/kg divididos em 3 doses",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Agitar antes do uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Tosse produtiva, asma brônquica ativa, hipersensibilidade",
+      "cuidadosMedicos": "Evitar uso em pacientes com risco de retenção de secreção brônquica",
+      "cuidadosFarmaceuticos": "Orientar sobre diferenciação entre tosse seca e produtiva",
+      "cuidadosEnfermagem": "Observar padrão respiratório e resposta clínica",
+      "fontesBibliograficas": "ANVISA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Levodropropizine",
+      "suspension": "Discontinue 12 to 24 hours before surgery",
+      "risk": "Peripheral antitussive; may impair cough reflex and airway clearance",
+      "reintroduction": "Restart only if airway patency and ventilation are assured post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levodropropizine",
+      "nomeComercial": "Antux (not FDA-approved), Levosse",
+      "mecanismoAcao": "Non-opioid peripheral cough suppressant acting on vagal C fibers",
+      "farmacocinetica": "Oral bioavailability ~75%; onset 30–60 min; half-life 1.4–2 h; renal elimination",
+      "farmacodinamica": "Reduces cough reflex without central sedation",
+      "indicacoes": "Dry or irritative cough in mild/moderate respiratory tract infections",
+      "reacoesAdversas": "Nausea, mild drowsiness, rash, rare bronchospasm",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid during breastfeeding; unknown excretion",
+      "administracao": "Oral",
+      "doseMaxima": "180 mg/day (adults)",
+      "doseMinima": "3 mg/kg/day (children)",
+      "classificacao": "Peripheral non-opioid antitussive",
+      "apresentacao": "6 mg/mL syrup, pediatric drops",
+      "interacaoMedicamento": "May enhance beta2-bronchodilator effects; no known anesthetic interactions",
+      "posologia": "Adults: 60 mg TID; children: 3 mg/kg/day in 3 doses",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "Shake before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Productive cough, active asthma, hypersensitivity",
+      "cuidadosMedicos": "Do not use when mucus clearance is required",
+      "cuidadosFarmaceuticos": "Clarify indication (nonproductive vs productive cough)",
+      "cuidadosEnfermagem": "Monitor respiratory function and cough pattern",
+      "fontesBibliograficas": "EMA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Levodropropizina",
+      "suspension": "Suspender 12–24 horas antes de la cirugía",
+      "risk": "Supresor periférico de la tos; puede dificultar la depuración bronquial",
+      "reintroduction": "Reintroducir tras asegurar función respiratoria adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levodropropizina",
+      "nomeComercial": "Levosse, Antux, Levotuss",
+      "mecanismoAcao": "Actúa sobre las fibras C vagales; inhibe el reflejo tusígeno",
+      "farmacocinetica": "Biodisponibilidad ~75%, inicio 30–60 min, vida media 1.4–2 h, eliminación renal",
+      "farmacodinamica": "Reduce la tos sin sedación central",
+      "indicacoes": "Tos seca o irritativa en infecciones respiratorias leves/moderadas",
+      "reacoesAdversas": "Náuseas, somnolencia leve, erupciones, broncoespasmo (raro)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "180 mg/día (adultos)",
+      "doseMinima": "3 mg/kg/día (niños)",
+      "classificacao": "Antitusivo periférico no opioide",
+      "apresentacao": "Solución 6 mg/mL, gotas pediátricas",
+      "interacaoMedicamento": "Sinergia con beta2-broncodilatadores; sin interacción anestésica",
+      "posologia": "Adultos: 60 mg cada 8h; niños: 3 mg/kg/día en 3 dosis",
+      "armazenamento": "15–30°C",
+      "preparo": "Agitar antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Tos productiva, asma activa, hipersensibilidad",
+      "cuidadosMedicos": "Evitar en pacientes con secreciones respiratorias",
+      "cuidadosFarmaceuticos": "Indicar diferenciación entre tos seca y productiva",
+      "cuidadosEnfermagem": "Observar patrón respiratorio y eficacia clínica",
+      "fontesBibliograficas": "AEMPS, Vademécum, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "左羟丙嗪",
+      "suspension": "术前应提前12–24小时停药",
+      "risk": "外周镇咳药；可能影响反射性咳嗽清除",
+      "reintroduction": "术后应评估呼吸道通畅与通气功能后再用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "左羟丙嗪",
+      "nomeComercial": "Levodropropizine, 乐咳平",
+      "mecanismoAcao": "作用于迷走神经C纤维，抑制咳嗽反射",
+      "farmacocinetica": "口服生物利用度75%，起效30–60分钟，半衰期约1.5小时，肾排泄",
+      "farmacodinamica": "减少干咳，无中枢镇静作用",
+      "indicacoes": "干咳、刺激性咳嗽、轻中度呼吸道感染",
+      "reacoesAdversas": "恶心、轻度嗜睡、皮疹、支气管痉挛（罕见）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不推荐哺乳期使用",
+      "administracao": "口服",
+      "doseMaxima": "成人每日180毫克",
+      "doseMinima": "儿童每日3毫克/公斤",
+      "classificacao": "非阿片类外周镇咳药",
+      "apresentacao": "6毫克/毫升口服液，儿童滴剂",
+      "interacaoMedicamento": "与β2激动剂可能协同，无已知麻醉相互作用",
+      "posologia": "成人：每8小时60毫克；儿童：每日3次，按体重计算",
+      "armazenamento": "15–30°C",
+      "preparo": "使用前摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "湿咳、哮喘发作、过敏",
+      "cuidadosMedicos": "黏液潴留风险者禁用",
+      "cuidadosFarmaceuticos": "指导干咳与湿咳用药差异",
+      "cuidadosEnfermagem": "监测呼吸情况及治疗反应",
+      "fontesBibliograficas": "中国药典, EMA, Micromedex, UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Selênio",
+      "suspension": "Não requer suspensão antes de procedimentos; uso seguro em doses nutricionais",
+      "risk": "Em altas doses pode causar selenose: queda de cabelo, alterações ungueais, halitose com odor de alho",
+      "reintroduction": "Pode ser mantido ou reintroduzido conforme monitoramento clínico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Selênio (selenito de sódio, selenometionina, L-selenometionina)",
+      "nomeComercial": "Selemax, Selenoprecise, Selenomet, Selenium 100, Supra Selenium",
+      "mecanismoAcao": "Mineral essencial com ação antioxidante como cofator da glutationa peroxidase e outras selenoproteínas",
+      "farmacocinetica": "Boa absorção intestinal (mais alta como selenometionina); armazenamento tecidual, metabolismo hepático, excreção urinária",
+      "farmacodinamica": "Reduz estresse oxidativo, modula resposta imune, regula função tireoidiana e expressão gênica antioxidante",
+      "indicacoes": "Déficits nutricionais, tireoidite de Hashimoto, infertilidade masculina, doenças autoimunes, envelhecimento celular",
+      "reacoesAdversas": "Odor de alho no hálito, náusea, dor epigástrica, dermatite (em excesso)",
+      "riscoGravidez": "Categoria A – seguro em doses dietéticas (< 200 mcg/dia)",
+      "riscoLactacao": "Seguro em doses fisiológicas; presente no leite materno",
+      "administracao": "Uso oral",
+      "doseMaxima": "UL: 400 mcg/dia; dose funcional: 100–200 mcg/dia",
+      "doseMinima": "55 mcg/dia como dose diária recomendada (IDR)",
+      "classificacao": "Mineral antioxidante – cofator enzimático – micronutriente essencial",
+      "apresentacao": "Comprimidos, cápsulas, multivitamínicos, sais minerais",
+      "interacaoMedicamento": "Potencializa ação de vitamina E e zinco; pode interferir com anticoagulantes e estatinas em altas doses",
+      "posologia": "55 a 200 mcg/dia, preferencialmente com refeições",
+      "armazenamento": "Conservar ao abrigo de luz e umidade, em temperatura ambiente",
+      "preparo": "Formas orgânicas (selenometionina) têm maior biodisponibilidade e segurança",
+      "solucoesCompatíveis": "Vitamina E, zinco, coenzima Q10, magnésio, glutationa",
+      "contraindicacoes": "Selenose pré-existente, alergia a derivados sulfurosos, insuficiência renal severa sem acompanhamento",
+      "cuidadosMedicos": "Monitorar pacientes imunodeprimidos ou com doenças tireoidianas autoimunes",
+      "cuidadosFarmaceuticos": "Evitar megadoses sem controle laboratorial; orientar dose segura de manutenção",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade crônica (odor, unhas, queda de cabelo); reforçar dose alimentar segura",
+      "fontesBibliograficas": "ANVISA, UpToDate, Medscape, EFSA, NIH Office of Dietary Supplements, Clinical Nutrition"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Selenium",
+      "suspension": "No need to suspend before procedures; safe at nutritional doses",
+      "risk": "High doses may cause selenosis: garlic breath, hair loss, nail brittleness",
+      "reintroduction": "May be continued or reintroduced depending on clinical tolerance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Selenium (sodium selenite, selenomethionine)",
+      "nomeComercial": "SelenoPrecise, Selemax, Selenium 100, Supra Selenium, Selenomet",
+      "mecanismoAcao": "Essential trace element and cofactor for antioxidant selenoproteins (e.g., glutathione peroxidase)",
+      "farmacocinetica": "Well absorbed (especially selenomethionine), stored in tissues, hepatic metabolism, urinary excretion",
+      "farmacodinamica": "Reduces oxidative stress, supports immune regulation, thyroid function, and antioxidant gene expression",
+      "indicacoes": "Deficiency, Hashimoto’s thyroiditis, male infertility, autoimmunity, cellular aging",
+      "reacoesAdversas": "Garlic odor breath, nausea, rash, epigastric pain (at high doses)",
+      "riscoGravidez": "Category A – safe at dietary doses (< 200 mcg/day)",
+      "riscoLactacao": "Safe; naturally found in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "UL: 400 mcg/day; functional: 100–200 mcg/day",
+      "doseMinima": "55 mcg/day (RDA)",
+      "classificacao": "Antioxidant mineral – enzyme cofactor – essential micronutrient",
+      "apresentacao": "Capsules, tablets, multivitamins, trace mineral blends",
+      "interacaoMedicamento": "Synergistic with vitamin E and zinc; caution with statins or anticoagulants at high doses",
+      "posologia": "55–200 mcg/day with meals",
+      "armazenamento": "Keep in a dry, cool place protected from light",
+      "preparo": "Organic forms (e.g., selenomethionine) offer higher bioavailability",
+      "solucoesCompatíveis": "Vitamin E, zinc, CoQ10, magnesium, glutathione",
+      "contraindicacoes": "Selenosis, sulfur sensitivity, severe renal failure without monitoring",
+      "cuidadosMedicos": "Monitor thyroid autoimmunity and immune function",
+      "cuidadosFarmaceuticos": "Avoid megadoses without lab monitoring; reinforce safe intake levels",
+      "cuidadosEnfermagem": "Watch for signs of chronic toxicity (breath, hair, nails); reinforce safe dietary limits",
+      "fontesBibliograficas": "NIH ODS, Medscape, UpToDate, EFSA, Clinical Nutrition"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Selenio",
+      "suspension": "No requiere suspensión previa; seguro en dosis dietéticas",
+      "risk": "Altas dosis pueden causar selenosis: olor a ajo, caída del cabello, uñas frágiles",
+      "reintroduction": "Puede mantenerse o reintroducirse según evaluación clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Selenio (selenito de sodio, selenometionina)",
+      "nomeComercial": "Selemax, SelenoPrecise, Selenium 100, Selenomet, Supra Selenium",
+      "mecanismoAcao": "Cofactor antioxidante de enzimas como glutatión peroxidasa, regula inmunidad y tiroides",
+      "farmacocinetica": "Buena absorción (más alta como selenometionina), metabolismo hepático, excreción urinaria",
+      "farmacodinamica": "Reduce estrés oxidativo, regula función tiroidea e inmunológica, promueve expresión antioxidante",
+      "indicacoes": "Deficiencia, Hashimoto, infertilidad, autoinmunidad, envejecimiento celular",
+      "reacoesAdversas": "Olor a ajo, náuseas, dolor epigástrico, dermatitis (exceso)",
+      "riscoGravidez": "Categoría A – seguro en dosis fisiológicas (< 200 mcg/día)",
+      "riscoLactacao": "Seguro; presente en la leche materna",
+      "administracao": "Oral",
+      "doseMaxima": "UL: 400 mcg/día; funcional: 100–200 mcg/día",
+      "doseMinima": "55 mcg/día (IDR)",
+      "classificacao": "Mineral esencial – antioxidante – micronutriente enzimático",
+      "apresentacao": "Cápsulas, comprimidos, multivitamínicos",
+      "interacaoMedicamento": "Potencia vitamina E y zinc; precaución con anticoagulantes y estatinas",
+      "posologia": "55–200 mcg/día con comidas",
+      "armazenamento": "Lugar seco, fresco y sin luz directa",
+      "preparo": "Mayor biodisponibilidad como selenometionina",
+      "solucoesCompatíveis": "Vitamina E, zinc, glutatión, magnesio, CoQ10",
+      "contraindicacoes": "Selenosis, alergia a sulfuros, insuficiencia renal avanzada",
+      "cuidadosMedicos": "Monitorear función tiroidea y autoinmunidad",
+      "cuidadosFarmaceuticos": "Evitar megadosis sin seguimiento; reforzar niveles seguros",
+      "cuidadosEnfermagem": "Observar signos de toxicidad crónica; reforzar límites dietéticos",
+      "fontesBibliograficas": "AEMPS, EFSA, Medscape, UpToDate, Clinical Nutrition"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硒（Selenium）",
+      "suspension": "常规营养剂量下无需术前停用",
+      "risk": "高剂量可能引起硒中毒（蒜臭味、脱发、指甲变脆）",
+      "reintroduction": "根据临床耐受情况可继续或恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硒（亚硒酸钠、硒代蛋氨酸）",
+      "nomeComercial": "Selemax、SelenoPrecise、Selenomet、硒元素胶囊、Supraselenium",
+      "mecanismoAcao": "为谷胱甘肽过氧化物酶等硒蛋白的辅因子，具抗氧化、调节免疫与甲状腺功能",
+      "farmacocinetica": "有机硒（硒代蛋氨酸）吸收率高；肝代谢，经尿排泄",
+      "farmacodinamica": "清除自由基，支持免疫、甲状腺与抗氧化基因表达",
+      "indicacoes": "缺硒状态、甲状腺炎、精子质量低下、自身免疫疾病、延缓老化",
+      "reacoesAdversas": "蒜味口气、恶心、腹胀、皮疹、脱发（过量）",
+      "riscoGravidez": "A类 – 妊娠期间适量摄入安全",
+      "riscoLactacao": "母乳中含有，营养剂量下安全",
+      "administracao": "口服",
+      "doseMaxima": "每日不超过400微克（UL）",
+      "doseMinima": "每日55微克（RDA）",
+      "classificacao": "抗氧化微量元素 – 必需矿物质 – 酶辅因子",
+      "apresentacao": "胶囊、片剂、复合维生素、微量矿物片",
+      "interacaoMedicamento": "高剂量时与抗凝剂、他汀类药物有潜在相互作用",
+      "posologia": "每日55–200微克，饭后服用",
+      "armazenamento": "避光、干燥、室温保存",
+      "preparo": "硒代蛋氨酸为优选形式，吸收率佳",
+      "solucoesCompatíveis": "维生素E、锌、辅酶Q10、谷胱甘肽、镁",
+      "contraindicacoes": "已有硒中毒者、对含硫成分过敏、严重肾病患者慎用",
+      "cuidadosMedicos": "甲状腺疾病患者应定期监测",
+      "cuidadosFarmaceuticos": "建议每日摄入不超400微克；避免长期过量",
+      "cuidadosEnfermagem": "观察体味变化、毛发指甲状况；建议饮食均衡摄取",
+      "fontesBibliograficas": "中国营养学会、Medscape、UpToDate、EFSA、临床营养杂志"
+    }
+  }
+}

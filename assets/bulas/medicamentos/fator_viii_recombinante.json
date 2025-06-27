@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fator VIII Recombinante",
+      "suspension": "Não suspender; administrar conforme protocolo pré-operatório em pacientes com hemofilia A",
+      "risk": "Risco de trombose em altas doses, reações alérgicas e formação de inibidores. Uso específico em pacientes com deficiência congênita de Fator VIII.",
+      "reintroduction": "Reintroduzir conforme níveis plasmáticos de Fator VIII e risco hemostático perioperatório. Necessário monitoramento laboratorial rigoroso."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fator VIII de coagulação recombinante",
+      "nomeComercial": "Advate, Kogenate, NovoEight, Esperoct",
+      "mecanismoAcao": "Reposição direta do Fator VIII ausente ou deficiente, essencial na via intrínseca da cascata da coagulação",
+      "farmacocinetica": "Administração IV; meia-vida de 8–14 h (1ª geração), até 19 h (extendido); metabolismo hepático",
+      "farmacodinamica": "Corrige temporariamente a deficiência de Fator VIII, normalizando o tempo de coagulação",
+      "indicacoes": "Tratamento e profilaxia de hemorragias em pacientes com hemofilia A (congênita ou adquirida)",
+      "reacoesAdversas": "Febre, calafrios, cefaleia, reações infusionais, trombose (raro), desenvolvimento de inibidores",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Uso sob orientação em casos muito específicos",
+      "administracao": "Infusão intravenosa direta ou contínua, conforme peso corporal",
+      "doseMaxima": "Individualizada; pode ultrapassar 50 UI/kg a cada 8 h em grandes cirurgias",
+      "doseMinima": "10–20 UI/kg (episódios leves ou profilaxia)",
+      "classificacao": "Fator de coagulação recombinante",
+      "apresentacao": "Frascos com 250–3000 UI com diluente",
+      "interacaoMedicamento": "Nenhuma significativa relatada; não administrar com outras soluções IV simultaneamente",
+      "posologia": "25–50 UI/kg IV conforme gravidade do sangramento ou cirurgia; manter níveis >80–100% em perioperatório",
+      "armazenamento": "2–8 °C; pode ser armazenado em temperatura ambiente (≤30 °C) por curto período",
+      "preparo": "Reconstituir com diluente fornecido; uso imediato após preparo",
+      "solucoesCompatíveis": "Somente diluente fornecido; não misturar com outras soluções",
+      "contraindicacoes": "Hipersensibilidade a proteína recombinante ou excipientes",
+      "cuidadosMedicos": "Monitorar níveis plasmáticos de Fator VIII, APTT, sinais de trombose ou inibição",
+      "cuidadosFarmaceuticos": "Manter cadeia do frio até reconstituição; uso único",
+      "cuidadosEnfermagem": "Observar reações locais e sistêmicas; realizar infusão lenta",
+      "fontesBibliograficas": "ANVISA, SBHH, WFH Guidelines, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Recombinant Factor VIII",
+      "suspension": "Not suspended; given pre-op per protocol in hemophilia A",
+      "risk": "May cause thrombosis, allergic reactions, or inhibitor development. Used only in Factor VIII deficiency.",
+      "reintroduction": "Restart based on plasma levels and hemostatic need. Strict lab monitoring is mandatory."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Recombinant Factor VIII",
+      "nomeComercial": "Advate, Eloctate, Kovaltry, Esperoct",
+      "mecanismoAcao": "Replaces missing Factor VIII to restore intrinsic coagulation cascade",
+      "farmacocinetica": "IV; half-life ~8–14 h (standard), ~19 h (extended); hepatic clearance",
+      "farmacodinamica": "Temporarily corrects Factor VIII deficiency and normalizes coagulation",
+      "indicacoes": "Treatment/prevention of bleeding in hemophilia A",
+      "reacoesAdversas": "Headache, chills, fever, thrombosis (rare), allergic reactions, inhibitor development",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use if clearly needed",
+      "administracao": "IV bolus or continuous; weight-based dosing",
+      "doseMaxima": "May exceed 50 IU/kg q8h perioperatively",
+      "doseMinima": "10–20 IU/kg",
+      "classificacao": "Recombinant coagulation factor",
+      "apresentacao": "Vials 250–3000 IU with diluent",
+      "interacaoMedicamento": "No known interactions; do not co-infuse with other IV drugs",
+      "posologia": "25–50 IU/kg; target 80–100% activity during surgery",
+      "armazenamento": "2–8 °C; short-term room temp storage allowed",
+      "preparo": "Reconstitute with provided diluent; use immediately",
+      "solucoesCompatíveis": "Only provided diluent; no mixing",
+      "contraindicacoes": "Hypersensitivity to ingredients or protein",
+      "cuidadosMedicos": "Monitor Factor VIII levels, APTT, thrombosis, inhibitors",
+      "cuidadosFarmaceuticos": "Cold chain; use within 3 h of reconstitution",
+      "cuidadosEnfermagem": "Infuse slowly; observe for adverse reactions",
+      "fontesBibliograficas": "FDA, WFH, CDC, UpToDate, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Factor VIII Recombinante",
+      "suspension": "No se suspende; administrar según protocolo quirúrgico en hemofilia A",
+      "risk": "Riesgo de trombosis, reacciones alérgicas, formación de inhibidores",
+      "reintroduction": "Reintroducir según niveles plasmáticos y necesidad hemostática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Factor VIII Recombinante",
+      "nomeComercial": "Advate, Kogenate, Esperoct",
+      "mecanismoAcao": "Reemplaza el Factor VIII en la cascada intrínseca de coagulación",
+      "farmacocinetica": "IV; t½ 8–19 h según tipo",
+      "farmacodinamica": "Corrige temporalmente el déficit de Factor VIII",
+      "indicacoes": "Tratamiento y profilaxis de hemorragias en hemofilia A",
+      "reacoesAdversas": "Cefalea, fiebre, reacciones alérgicas, inhibidores",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Solo si está indicado",
+      "administracao": "IV lenta o continua, según peso",
+      "doseMaxima": ">50 UI/kg c/8 h según cirugía",
+      "doseMinima": "10–20 UI/kg",
+      "classificacao": "Factor de coagulación recombinante",
+      "apresentacao": "Viales 250–3000 UI",
+      "interacaoMedicamento": "No administrar con otros medicamentos IV",
+      "posologia": "25–50 UI/kg; mantener >80% en cirugía",
+      "armazenamento": "2–8 °C; temperatura ambiente por tiempo limitado",
+      "preparo": "Reconstituir y usar en 3 h",
+      "solucoesCompatíveis": "Solo diluyente proporcionado",
+      "contraindicacoes": "Alergia a proteínas recombinantes",
+      "cuidadosMedicos": "Monitorizar niveles, APTT, trombosis",
+      "cuidadosFarmaceuticos": "Cadena de frío, sin agitación",
+      "cuidadosEnfermagem": "Observar primeras infusiones, presión, rash",
+      "fontesBibliograficas": "AEMPS, EMA, UpToDate, WFH"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "重组凝血因子VIII",
+      "suspension": "术前不应停用，适用于A型血友病手术方案",
+      "risk": "可能引发过敏、血栓、抑制物产生",
+      "reintroduction": "术后根据因子水平和出血风险决定重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "重组人凝血因子VIII",
+      "nomeComercial": "Advate、Kogenate、Esperoct",
+      "mecanismoAcao": "补充因子VIII，恢复内源性凝血通路功能",
+      "farmacocinetica": "IV输注，半衰期8–19小时",
+      "farmacodinamica": "迅速提高FVIII水平，控制/预防出血",
+      "indicacoes": "A型血友病治疗与预防",
+      "reacoesAdversas": "头痛、过敏反应、发热、抑制物形成",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "按需使用，谨慎",
+      "administracao": "体重计算静脉滴注或推注",
+      "doseMaxima": "可达50 IU/kg 每8小时（术中）",
+      "doseMinima": "10–20 IU/kg",
+      "classificacao": "重组凝血因子",
+      "apresentacao": "250–3000 IU小瓶，含稀释液",
+      "interacaoMedicamento": "不与其他药混合输注",
+      "posologia": "25–50 IU/kg/次，术前维持80–100%",
+      "armazenamento": "2–8°C，避免冷冻；短期可室温保存",
+      "preparo": "配套稀释液，配制后尽快使用",
+      "solucoesCompatíveis": "仅限配套稀释液",
+      "contraindicacoes": "对重组蛋白过敏者禁用",
+      "cuidadosMedicos": "监测FVIII水平、凝血功能、抑制物",
+      "cuidadosFarmaceuticos": "冷链运输，勿摇晃",
+      "cuidadosEnfermagem": "静注缓慢，观察首剂反应",
+      "fontesBibliograficas": "中国药典、WFH、Micromedex、UpToDate"
+    }
+  }
+}

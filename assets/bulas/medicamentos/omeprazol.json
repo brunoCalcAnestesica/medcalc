@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Omeprazol",
+      "suspension": "Manter até o dia da cirurgia, inclusive em jejum",
+      "risk": "Baixo risco; útil para prevenção de broncoaspiração e úlcera de estresse em pacientes cirúrgicos",
+      "reintroduction": "Continuar no pós-operatório se indicado clinicamente"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Omeprazol magnésico",
+      "nomeComercial": "Losec, Pantoprazol, Mepral, Omepra",
+      "mecanismoAcao": "Inibe irreversivelmente a H+/K+-ATPase da célula parietal gástrica, bloqueando secreção ácida",
+      "farmacocinetica": "Biodisponibilidade 30–40%; meia-vida 1h; efeito prolongado por inibição enzimática",
+      "farmacodinamica": "Inibidor de bomba de prótons; reduz acidez gástrica por mais de 24h",
+      "indicacoes": "Úlcera péptica, refluxo gastroesofágico, prevenção de úlcera por AINE, síndrome de Zollinger-Ellison",
+      "reacoesAdversas": "Cefaleia, náusea, constipação, hipomagnesemia, polipos gástricos benignos",
+      "riscoGravidez": "Categoria C (seguro se necessário)",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "40mg/dia VO ou IV",
+      "doseMinima": "10mg/dia",
+      "classificacao": "IBP (inibidor de bomba de prótons)",
+      "apresentacao": "Cápsulas 10mg, 20mg, 40mg; pó IV 40mg",
+      "interacaoMedicamento": "Reduz absorção de cetoconazol, digoxina; interage com clopidogrel (reduz efeito)",
+      "posologia": "20–40mg/dia em dose única ou dividida",
+      "armazenamento": "Temperatura ambiente; IV reconstituído usar em até 6h",
+      "preparo": "IV: diluir em 10mL de água para injeção e administrar em 15–30min",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Hipersensibilidade aos benzimidazóis substituídos",
+      "cuidadosMedicos": "Monitorar magnésio sérico e sintomas gástricos persistentes",
+      "cuidadosFarmaceuticos": "Orientar uso em jejum pela manhã",
+      "cuidadosEnfermagem": "Observar resposta gástrica e sintomas neurológicos (hipomagnesemia)",
+      "fontesBibliograficas": "Micromedex, ANVISA, UpToDate, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Omeprazole",
+      "suspension": "Continue up to and including the day of surgery",
+      "risk": "Low risk; used for aspiration prophylaxis and stress ulcer prevention",
+      "reintroduction": "Continue post-op if clinically indicated"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Omeprazole",
+      "nomeComercial": "Prilosec, Losec",
+      "mecanismoAcao": "Irreversibly inhibits gastric parietal H+/K+-ATPase enzyme",
+      "farmacocinetica": "Bioavailability 30–40%; t½ ~1h; hepatic metabolism",
+      "farmacodinamica": "PPI with acid suppression lasting >24h",
+      "indicacoes": "GERD, peptic ulcers, NSAID ulcer prevention, Zollinger-Ellison syndrome",
+      "reacoesAdversas": "Headache, nausea, diarrhea, low magnesium, gastric polyps",
+      "riscoGravidez": "Category C (use if needed)",
+      "riscoLactacao": "Safe",
+      "administracao": "Oral or IV",
+      "doseMaxima": "40mg/day",
+      "doseMinima": "10mg/day",
+      "classificacao": "Proton pump inhibitor (PPI)",
+      "apresentacao": "Caps 10mg, 20mg, 40mg; IV vial 40mg",
+      "interacaoMedicamento": "Decreases absorption of ketoconazole, digoxin; affects clopidogrel efficacy",
+      "posologia": "20–40mg/day PO or IV",
+      "armazenamento": "Room temperature; IV use within 6h",
+      "preparo": "Dilute IV in 10mL SWFI; infuse over 15–30 min",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Known hypersensitivity to PPIs",
+      "cuidadosMedicos": "Check Mg if long-term; monitor for GI symptom resolution",
+      "cuidadosFarmaceuticos": "Take on empty stomach, ideally morning",
+      "cuidadosEnfermagem": "Watch for hypomagnesemia symptoms, acid rebound",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Omeprazol",
+      "suspension": "Continuar hasta el día de la cirugía",
+      "risk": "Bajo riesgo; útil para prevención de broncoaspiración o úlcera",
+      "reintroduction": "Continuar postoperatorio si está indicado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Omeprazol",
+      "nomeComercial": "Losec, Prilosec",
+      "mecanismoAcao": "Inhibe la H+/K+-ATPasa de células parietales gástricas",
+      "farmacocinetica": "VO 30–40%; vida media 1h; metabolizado por hígado",
+      "farmacodinamica": "Disminuye secreción ácida gástrica por más de 24h",
+      "indicacoes": "ERGE, úlcera péptica, prevención con AINEs",
+      "reacoesAdversas": "Cefalea, náuseas, hipomagnesemia, pólipos gástricos",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Seguro",
+      "administracao": "VO o IV",
+      "doseMaxima": "40mg/día",
+      "doseMinima": "10mg/día",
+      "classificacao": "IBP (inhibidor bomba de protones)",
+      "apresentacao": "Cápsulas 10, 20, 40mg; frasco IV 40mg",
+      "interacaoMedicamento": "Afecta absorción de ketoconazol, reduce eficacia de clopidogrel",
+      "posologia": "20–40mg/día en una dosis",
+      "armazenamento": "Ambiente seco; IV usar dentro 6h",
+      "preparo": "Diluir IV en 10mL agua inyectable",
+      "solucoesCompatíveis": "SSF 0,9%",
+      "contraindicacoes": "Alergia a benzimidazoles",
+      "cuidadosMedicos": "Control de magnesio, función gástrica",
+      "cuidadosFarmaceuticos": "Administrar en ayunas, preferente en la mañana",
+      "cuidadosEnfermagem": "Observar síntomas GI y neurológicos",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥美拉唑",
+      "suspension": "术前无需停药，可继续使用",
+      "risk": "手术期风险低；用于防止胃酸相关并发症",
+      "reintroduction": "术后可继续使用以防胃溃疡或反流症状"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥美拉唑",
+      "nomeComercial": "Losec, Prilosec",
+      "mecanismoAcao": "抑制胃壁细胞H+/K+-ATP酶，抑制胃酸分泌",
+      "farmacocinetica": "生物利用度30–40%；半衰期约1小时；肝脏代谢",
+      "farmacodinamica": "PPI类药物，抑酸作用可持续24小时以上",
+      "indicacoes": "胃食管反流、胃溃疡、NSAID引起的胃病",
+      "reacoesAdversas": "头痛、低镁血症、胃息肉、便秘、皮疹",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日40毫克",
+      "doseMinima": "每日10毫克",
+      "classificacao": "质子泵抑制剂",
+      "apresentacao": "胶囊10、20、40mg；注射粉40mg",
+      "interacaoMedicamento": "影响氯吡格雷、酮康唑等药物代谢",
+      "posologia": "每日20–40mg，早晨空腹服用",
+      "armazenamento": "室温保存，避免光照",
+      "preparo": "IV用10mL注射用水溶解后稀释",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对本品或同类药过敏",
+      "cuidadosMedicos": "长期使用监测血镁、胃酸症状",
+      "cuidadosFarmaceuticos": "晨起空腹服用，IV配置后尽快使用",
+      "cuidadosEnfermagem": "关注低镁、胃肠道不适及神经反应",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

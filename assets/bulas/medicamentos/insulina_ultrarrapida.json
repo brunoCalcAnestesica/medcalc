@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Insulina de ação ultra-rápida",
+      "suspension": "Não suspender; essencial no controle glicêmico intra e pós-operatório",
+      "risk": "Hipoglicemia se não ajustada corretamente; risco aumentado em jejum perioperatório",
+      "reintroduction": "Manter ou ajustar conforme glicemia capilar e status nutricional pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Insulina lispro / asparte / glulisina",
+      "nomeComercial": "Humalog, Novorapid, Apidra, Fiasp",
+      "mecanismoAcao": "Análogo de insulina humana com início de ação rápido; estimula captação de glicose e inibe glicogenólise",
+      "farmacocinetica": "Início em 5–15 min; pico em 45–90 min; duração 3–5 h",
+      "farmacodinamica": "Imita liberação fisiológica de insulina pós-prandial; efeito rápido e previsível",
+      "indicacoes": "DM tipo 1 e 2, correção glicêmica, uso em bomba de infusão contínua",
+      "reacoesAdversas": "Hipoglicemia, lipodistrofia, reações locais, hipocalemia (rara)",
+      "riscoGravidez": "Categoria B; seguro com monitoramento",
+      "riscoLactacao": "Seguro; não excretado em leite em quantidades significativas",
+      "administracao": "Via subcutânea (ou EV em ambiente hospitalar)",
+      "doseMaxima": "Dependente do protocolo e resposta glicêmica",
+      "doseMinima": "0,05 UI/kg (ajuste conforme sensibilidade)",
+      "classificacao": "Insulina análoga de ação ultra-rápida",
+      "apresentacao": "Frascos 10 mL (100 UI/mL), canetas pré-preenchidas",
+      "interacaoMedicamento": "Potencial hipoglicemia com beta-bloqueadores, AAS, álcool; hiperglicemia com corticoides",
+      "posologia": "15 min antes da refeição ou imediatamente após; dose conforme carboidratos e glicemia",
+      "armazenamento": "Refrigerado 2–8°C; após abertura, manter até 28 dias à temperatura ambiente (15–30°C)",
+      "preparo": "Uso direto SC ou EV diluído em SF 0,9% (hospitalar)",
+      "solucoesCompatíveis": "SF 0,9%, SG 5% (uso EV apenas sob supervisão)",
+      "contraindicacoes": "Hipoglicemia documentada, alergia a excipientes",
+      "cuidadosMedicos": "Avaliar jejum perioperatório, ajustar dose conforme glicemia intraoperatória",
+      "cuidadosFarmaceuticos": "Garantir cadeia de frio, revisar validade e integridade das canetas/frascos",
+      "cuidadosEnfermagem": "Monitorar glicemia capilar pré e pós-dose; reconhecer sinais de hipo/hiperglicemia",
+      "fontesBibliograficas": "SBEM, FDA, EMA, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ultra-rapid-acting insulin",
+      "suspension": "Do not suspend; essential for perioperative glycemic control",
+      "risk": "Hypoglycemia if not adjusted during fasting; monitor closely",
+      "reintroduction": "Continue as needed post-op, adjust based on capillary glucose"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Insulin lispro / aspart / glulisine",
+      "nomeComercial": "Humalog, Novolog, Apidra, Fiasp",
+      "mecanismoAcao": "Rapid-acting insulin analog; stimulates glucose uptake and inhibits hepatic glucose production",
+      "farmacocinetica": "Onset 5–15 min; peak 45–90 min; duration 3–5 h",
+      "farmacodinamica": "Mimics physiologic mealtime insulin secretion",
+      "indicacoes": "Type 1 and 2 DM, bolus correction, insulin pumps",
+      "reacoesAdversas": "Hypoglycemia, lipodystrophy, injection site reactions, rare hypokalemia",
+      "riscoGravidez": "Category B; safe with monitoring",
+      "riscoLactacao": "Safe during breastfeeding",
+      "administracao": "Subcutaneous; IV in hospital setting",
+      "doseMaxima": "Variable; depends on protocol and glucose",
+      "doseMinima": "0.05 U/kg SC or per sliding scale",
+      "classificacao": "Ultra-rapid insulin analog",
+      "apresentacao": "Vials (10 mL), pens (3 mL); 100 U/mL",
+      "interacaoMedicamento": "↑Effect: beta-blockers, alcohol, aspirin; ↓Effect: corticosteroids",
+      "posologia": "15 min before or up to 20 min after meal",
+      "armazenamento": "Refrigerate 36–46°F; open vials good for 28 days at RT",
+      "preparo": "Use directly SC or dilute IV in saline",
+      "solucoesCompatíveis": "0.9% NaCl, 5% Dextrose (for IV)",
+      "contraindicacoes": "Documented hypoglycemia, allergy",
+      "cuidadosMedicos": "Adjust dose perioperatively; avoid fasting hypoglycemia",
+      "cuidadosFarmaceuticos": "Ensure cold chain, expiration, visual clarity",
+      "cuidadosEnfermagem": "Monitor glucose before/after; observe for hypo symptoms",
+      "fontesBibliograficas": "ADA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Insulina de acción ultra-rápida",
+      "suspension": "No suspender; esencial para control glucémico perioperatorio",
+      "risk": "Riesgo de hipoglucemia en ayuno; ajustar según glucemia",
+      "reintroduction": "Mantener o reintroducir según necesidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Insulina lispro / aspart / glulisina",
+      "nomeComercial": "Humalog, Novorapid, Apidra, Fiasp",
+      "mecanismoAcao": "Análogo de insulina que actúa rápido; promueve absorción de glucosa periférica",
+      "farmacocinetica": "Inicio 5–15 min; pico 45–90 min; duración 3–5 h",
+      "farmacodinamica": "Imita liberación fisiológica de insulina postprandial",
+      "indicacoes": "Diabetes tipo 1 y 2, bolos prandiales, bombas de insulina",
+      "reacoesAdversas": "Hipoglucemia, lipodistrofia, irritación local, hipopotasemia",
+      "riscoGravidez": "Categoría B; uso seguro",
+      "riscoLactacao": "Seguro en lactancia",
+      "administracao": "Subcutánea o IV en hospital",
+      "doseMaxima": "Variable; según protocolo clínico",
+      "doseMinima": "0.05 UI/kg",
+      "classificacao": "Análogo de insulina de acción ultra-rápida",
+      "apresentacao": "Frascos 10 mL; lapiceras 3 mL; 100 UI/mL",
+      "interacaoMedicamento": "↑Efecto: betabloqueadores, AAS, alcohol; ↓Efecto: corticoides",
+      "posologia": "15 min antes o hasta 20 min después de comer",
+      "armazenamento": "2–8°C; luego 28 días a temperatura ambiente",
+      "preparo": "Directo SC o diluido IV",
+      "solucoesCompatíveis": "SF 0,9%, glucosa 5%",
+      "contraindicacoes": "Hipoglucemia activa, alergia conocida",
+      "cuidadosMedicos": "Ajuste individualizado; prevención de hipoglucemia perioperatoria",
+      "cuidadosFarmaceuticos": "Cadena de frío, integridad, fecha de vencimiento",
+      "cuidadosEnfermagem": "Medir glucemia antes y después; vigilar síntomas",
+      "fontesBibliograficas": "EMA, ADA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "超速效胰岛素",
+      "suspension": "术前不应停药；术中需密切监测血糖",
+      "risk": "空腹状态易引发低血糖；需个体化调整",
+      "reintroduction": "术后按血糖控制情况恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "赖脯胰岛素 / 门冬胰岛素 / 葡萄糖酸胰岛素",
+      "nomeComercial": "Humalog，诺和锐，艾普达，Fiasp",
+      "mecanismoAcao": "模拟餐时胰岛素释放，促进葡萄糖摄取与抑制肝糖输出",
+      "farmacocinetica": "起效5–15分钟；高峰45–90分钟；持续3–5小时",
+      "farmacodinamica": "快速起效，便于餐前调整血糖",
+      "indicacoes": "1型/2型糖尿病，泵用，纠正血糖",
+      "reacoesAdversas": "低血糖、脂肪营养不良、注射部位红肿、低钾血症",
+      "riscoGravidez": "B类，妊娠期可使用",
+      "riscoLactacao": "哺乳期安全",
+      "administracao": "皮下注射或医院IV使用",
+      "doseMaxima": "根据血糖与体重个体化调整",
+      "doseMinima": "0.05 U/kg",
+      "classificacao": "超速效胰岛素类似物",
+      "apresentacao": "10 mL瓶装或3 mL预充笔；100单位/mL",
+      "interacaoMedicamento": "与β阻滞剂、酒精、糖皮质激素等存在交互作用",
+      "posologia": "餐前15分钟注射或饭后立即注射",
+      "armazenamento": "2–8°C冷藏，使用后28天室温保存",
+      "preparo": "直接SC使用；IV时需稀释于生理盐水",
+      "solucoesCompatíveis": "0.9%氯化钠或5%葡萄糖",
+      "contraindicacoes": "低血糖、过敏",
+      "cuidadosMedicos": "术前、术中血糖监测，预防低血糖",
+      "cuidadosFarmaceuticos": "保证冷链、观察变色/沉淀",
+      "cuidadosEnfermagem": "血糖监测，识别低血糖症状",
+      "fontesBibliograficas": "中国药典，ADA，FDA，UpToDate"
+    }
+  }
+}

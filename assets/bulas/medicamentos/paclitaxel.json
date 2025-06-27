@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Paclitaxel",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva, se possível",
+      "risk": "Risco de mielossupressão, neuropatia periférica e interação com anestésicos",
+      "reintroduction": "Reintroduzir após avaliação oncológica e recuperação hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paclitaxel",
+      "nomeComercial": "Taxol, Natraxel",
+      "mecanismoAcao": "Promove a estabilização dos microtúbulos, impedindo a despolimerização e bloqueando a mitose",
+      "farmacocinetica": "Administração IV; meia-vida terminal ~52 h; metabolismo hepático (CYP2C8 e CYP3A4); excreção biliar",
+      "farmacodinamica": "Citotóxico, atua preferencialmente na fase G2/M do ciclo celular",
+      "indicacoes": "Câncer de ovário, mama, pulmão, esôfago, sarcoma de Kaposi",
+      "reacoesAdversas": "Neutropenia, anemia, neuropatia sensitiva, alopecia, reações de hipersensibilidade",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intravenosa",
+      "doseMaxima": "175 mg/m² por ciclo",
+      "doseMinima": "80 mg/m² por semana",
+      "classificacao": "Antineoplásico (taxano)",
+      "apresentacao": "Frasco-ampola de 30 mg/5 mL, 100 mg/16,7 mL, 300 mg/50 mL",
+      "interacaoMedicamento": "Interage com doxorrubicina, cisplatina, inibidores/indutores de CYP3A4 e CYP2C8",
+      "posologia": "135–175 mg/m² IV por 3h a cada 21 dias ou 80–100 mg/m² semanal",
+      "armazenamento": "Temperatura ambiente (15–30°C), proteger da luz",
+      "preparo": "Diluir em SF 0,9%, SG 5% ou solução de Ringer com dextrose",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%, Ringer com dextrose",
+      "contraindicacoes": "Neutropenia grave, hipersensibilidade a Cremophor EL ou ao fármaco",
+      "cuidadosMedicos": "Pré-medicar com corticosteroides, anti-histamínicos e H2-bloqueadores",
+      "cuidadosFarmaceuticos": "Usar filtro 0,22 µm durante infusão; não usar PVC",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, reações de hipersensibilidade e toxicidade neurológica",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate, INCA, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Paclitaxel",
+      "suspension": "Hold 7 days before elective surgery if possible",
+      "risk": "Risk of myelosuppression, peripheral neuropathy, and hypersensitivity reactions",
+      "reintroduction": "Restart after oncologic reassessment and hematologic recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paclitaxel",
+      "nomeComercial": "Taxol",
+      "mecanismoAcao": "Stabilizes microtubules, inhibiting depolymerization and mitosis",
+      "farmacocinetica": "IV; terminal half-life ~52 h; hepatic metabolism (CYP2C8, CYP3A4); biliary excretion",
+      "farmacodinamica": "Cytotoxic, G2/M phase specific",
+      "indicacoes": "Ovarian, breast, NSCLC, esophageal cancer, Kaposi sarcoma",
+      "reacoesAdversas": "Neutropenia, anemia, sensory neuropathy, alopecia, hypersensitivity",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Intravenous",
+      "doseMaxima": "175 mg/m² per cycle",
+      "doseMinima": "80 mg/m² weekly",
+      "classificacao": "Taxane antineoplastic",
+      "apresentacao": "Vials: 30 mg/5 mL, 100 mg/16.7 mL, 300 mg/50 mL",
+      "interacaoMedicamento": "Interacts with doxorubicin, cisplatin, CYP3A4/CYP2C8 modulators",
+      "posologia": "135–175 mg/m² IV over 3h every 21 days or 80–100 mg/m² weekly",
+      "armazenamento": "15–30°C, protect from light",
+      "preparo": "Dilute in NS, D5W or D5-LR",
+      "solucoesCompatíveis": "NS, D5W, D5-LR",
+      "contraindicacoes": "Severe neutropenia, hypersensitivity to Cremophor EL or paclitaxel",
+      "cuidadosMedicos": "Premedicate with steroids, H1- and H2-blockers",
+      "cuidadosFarmaceuticos": "Use 0.22 µm filter; avoid PVC sets",
+      "cuidadosEnfermagem": "Monitor vitals, infusion reactions, neurologic toxicity",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, NCCN"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Paclitaxel",
+      "suspension": "Suspender 7 días antes de cirugía electiva si es posible",
+      "risk": "Riesgo de mielosupresión, neuropatía periférica y reacciones de hipersensibilidad",
+      "reintroduction": "Reintroducir tras recuperación hematológica y evaluación oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paclitaxel",
+      "nomeComercial": "Taxol",
+      "mecanismoAcao": "Estabiliza los microtúbulos, inhibiendo su despolimerización y bloqueando la mitosis",
+      "farmacocinetica": "IV; vida media terminal ~52 h; metabolismo hepático (CYP2C8, CYP3A4); excreción biliar",
+      "farmacodinamica": "Citotóxico, específico de fase G2/M",
+      "indicacoes": "Cáncer de ovario, mama, pulmón, esófago, sarcoma de Kaposi",
+      "reacoesAdversas": "Neutropenia, anemia, neuropatía, alopecia, reacciones alérgicas",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intravenosa",
+      "doseMaxima": "175 mg/m² por ciclo",
+      "doseMinima": "80 mg/m² semanal",
+      "classificacao": "Antineoplásico (taxano)",
+      "apresentacao": "Frascos de 30 mg/5 mL, 100 mg/16,7 mL, 300 mg/50 mL",
+      "interacaoMedicamento": "Interacciones con doxorrubicina, cisplatino, inhibidores/inductores CYP3A4/2C8",
+      "posologia": "135–175 mg/m² IV cada 21 días o 80–100 mg/m² semanal",
+      "armazenamento": "Temperatura ambiente, proteger de la luz",
+      "preparo": "Diluir en SF 0,9%, SG 5% o Ringer con glucosa",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%, Ringer glucosado",
+      "contraindicacoes": "Neutropenia severa, alergia a Cremophor EL o paclitaxel",
+      "cuidadosMedicos": "Premedicar con corticoides, antihistamínicos y bloqueadores H2",
+      "cuidadosFarmaceuticos": "Usar filtro de 0,22 µm, evitar PVC",
+      "cuidadosEnfermagem": "Vigilar constantes vitales, reacciones alérgicas y toxicidad neurológica",
+      "fontesBibliograficas": "AEMPS, Micromedex, FDA, UpToDate, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "紫杉醇",
+      "suspension": "择期手术前7天停药",
+      "risk": "有骨髓抑制、外周神经毒性和过敏反应风险",
+      "reintroduction": "术后血液指标恢复且经肿瘤科评估后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "紫杉醇",
+      "nomeComercial": "泰素",
+      "mecanismoAcao": "稳定微管结构，抑制其解聚，阻止有丝分裂",
+      "farmacocinetica": "静脉注射；终末半衰期约52小时；肝代谢（CYP2C8、3A4）；胆汁排泄",
+      "farmacodinamica": "细胞毒药物，主要作用于G2/M期",
+      "indicacoes": "卵巢癌、乳腺癌、肺癌、食管癌、卡波西肉瘤",
+      "reacoesAdversas": "中性粒细胞减少、贫血、感觉神经病变、脱发、过敏反应",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用",
+      "administracao": "静脉注射",
+      "doseMaxima": "175 mg/m² 每周期",
+      "doseMinima": "80 mg/m² 每周",
+      "classificacao": "抗肿瘤药物（紫杉烷类）",
+      "apresentacao": "30 mg/5 mL、100 mg/16.7 mL、300 mg/50 mL 规格瓶装注射液",
+      "interacaoMedicamento": "与阿霉素、顺铂、CYP3A4/CYP2C8调节剂相互作用",
+      "posologia": "135–175 mg/m² 静滴每21天一次或80–100 mg/m² 每周一次",
+      "armazenamento": "室温保存（15–30°C），避光",
+      "preparo": "可稀释于0.9%氯化钠、5%葡萄糖或含葡萄糖林格液中",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖、葡萄糖林格液",
+      "contraindicacoes": "重度中性粒细胞减少，对Cremophor EL或本品过敏",
+      "cuidadosMedicos": "术前用糖皮质激素、抗组胺药和H2受体阻滞剂预处理",
+      "cuidadosFarmaceuticos": "使用0.22微米过滤器；避免使用PVC输液器具",
+      "cuidadosEnfermagem": "监测生命体征、过敏反应及神经毒性症状",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、UpToDate、NCCN指南"
+    }
+  }
+}

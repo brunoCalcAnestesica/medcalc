@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Olmesartana",
+      "suspension": "Suspender 24 horas antes da cirurgia eletiva",
+      "risk": "Risco de hipotensão profunda intraoperatória, especialmente com anestesia geral e hipovolemia",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e retomada da via oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Olmesartana medoxomila",
+      "nomeComercial": "Benicar, Olmetec",
+      "mecanismoAcao": "Bloqueia seletivamente os receptores AT1 da angiotensina II, promovendo vasodilatação",
+      "farmacocinetica": "Biodisponibilidade oral ~26%; meia-vida ~13h; excreção renal e biliar",
+      "farmacodinamica": "Reduz resistência vascular sistêmica e pressão arterial",
+      "indicacoes": "Hipertensão arterial sistêmica",
+      "reacoesAdversas": "Tontura, hipotensão, hipercalemia, disfunção renal, diarreia",
+      "riscoGravidez": "Categoria D (2º e 3º trimestre)",
+      "riscoLactacao": "Evitar durante a amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "40mg/dia",
+      "doseMinima": "10mg/dia",
+      "classificacao": "Antagonista dos receptores da angiotensina II (BRA)",
+      "apresentacao": "Comprimidos de 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Potencializa efeito com diuréticos e lítio; risco aumentado de hipercalemia com IECA, AINEs, diuréticos poupadores de potássio",
+      "posologia": "20–40mg/dia, preferencialmente pela manhã",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, hipersensibilidade à substância, estenose bilateral de artérias renais",
+      "cuidadosMedicos": "Monitorar PA, função renal e potássio sérico",
+      "cuidadosFarmaceuticos": "Orientar paciente sobre risco de suspensão abrupta e sinais de hipotensão",
+      "cuidadosEnfermagem": "Observar PA e sintomas de hipotensão ou hipercalemia",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Olmesartan",
+      "suspension": "Discontinue 24 hours before elective surgery",
+      "risk": "Risk of profound intraoperative hypotension, especially with general anesthesia and hypovolemia",
+      "reintroduction": "Restart once hemodynamically stable and oral intake resumes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Olmesartan medoxomil",
+      "nomeComercial": "Benicar",
+      "mecanismoAcao": "Selectively blocks angiotensin II AT1 receptors, leading to vasodilation",
+      "farmacocinetica": "Oral bioavailability ~26%; half-life ~13h; renal and biliary excretion",
+      "farmacodinamica": "Lowers systemic vascular resistance and BP",
+      "indicacoes": "Systemic arterial hypertension",
+      "reacoesAdversas": "Dizziness, hypotension, hyperkalemia, renal dysfunction, diarrhea",
+      "riscoGravidez": "Category D (2nd and 3rd trimester)",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "40mg/day",
+      "doseMinima": "10mg/day",
+      "classificacao": "Angiotensin II receptor blocker (ARB)",
+      "apresentacao": "Tablets 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Additive with diuretics and lithium; increased risk of hyperkalemia with ACEIs, NSAIDs, K-sparing diuretics",
+      "posologia": "20–40mg/day, preferably in the morning",
+      "armazenamento": "Room temperature, protect from moisture",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, hypersensitivity, bilateral renal artery stenosis",
+      "cuidadosMedicos": "Monitor BP, renal function, potassium levels",
+      "cuidadosFarmaceuticos": "Warn about abrupt discontinuation and hypotension signs",
+      "cuidadosEnfermagem": "Monitor BP and signs of hypotension or hyperkalemia",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Olmesartán",
+      "suspension": "Suspender 24 horas antes de cirugía electiva",
+      "risk": "Riesgo de hipotensión intraoperatoria severa, especialmente con anestesia general",
+      "reintroduction": "Reintroducir cuando se estabilice y se reanude la vía oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Olmesartán medoxomilo",
+      "nomeComercial": "Benicar, Olmetec",
+      "mecanismoAcao": "Bloquea selectivamente los receptores AT1 de la angiotensina II",
+      "farmacocinetica": "Biodisponibilidad ~26%; vida media ~13h; excreción renal y biliar",
+      "farmacodinamica": "Disminuye la resistencia vascular y la presión arterial",
+      "indicacoes": "Hipertensión arterial sistémica",
+      "reacoesAdversas": "Mareos, hipotensión, hipercalemia, deterioro renal, diarrea",
+      "riscoGravidez": "Categoría D (2º y 3º trimestre)",
+      "riscoLactacao": "Evitar durante la lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "40mg/día",
+      "doseMinima": "10mg/día",
+      "classificacao": "Antagonista de receptores de angiotensina II (ARA-II)",
+      "apresentacao": "Comprimidos 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Aumenta efecto de diuréticos y litio; riesgo de hipercalemia con IECA, AINEs, diuréticos ahorradores de potasio",
+      "posologia": "20–40mg/día por la mañana",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, hipersensibilidad, estenosis bilateral de arterias renales",
+      "cuidadosMedicos": "Monitorizar PA, función renal y potasio sérico",
+      "cuidadosFarmaceuticos": "Informar sobre signos de hipotensión y evitar suspensión brusca",
+      "cuidadosEnfermagem": "Observar PA y signos de hipercalemia",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥美沙坦",
+      "suspension": "择期手术前24小时停药",
+      "risk": "术中可能发生低血压，尤其在全麻或容量不足情况下",
+      "reintroduction": "术后恢复口服后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥美沙坦酯",
+      "nomeComercial": "Benicar",
+      "mecanismoAcao": "选择性阻断血管紧张素II AT1受体，扩张血管",
+      "farmacocinetica": "口服生物利用度约26%；半衰期约13小时；肾肝排泄",
+      "farmacodinamica": "降低外周阻力和血压",
+      "indicacoes": "高血压",
+      "reacoesAdversas": "头晕、低血压、高钾血症、肾功能不全、腹泻",
+      "riscoGravidez": "D类（妊娠中后期禁用）",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日40毫克",
+      "doseMinima": "每日10毫克",
+      "classificacao": "血管紧张素II受体拮抗剂（ARB）",
+      "apresentacao": "片剂：10mg、20mg、40mg",
+      "interacaoMedicamento": "与利尿剂、锂盐协同；与ACEI、NSAIDs合用风险升高",
+      "posologia": "每日1次，20–40mg，建议早晨服用",
+      "armazenamento": "室温干燥保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、过敏、双侧肾动脉狭窄",
+      "cuidadosMedicos": "监测血压、肾功能和血钾",
+      "cuidadosFarmaceuticos": "避免突然停药，注意用药依从性",
+      "cuidadosEnfermagem": "观察低血压及高钾症状",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

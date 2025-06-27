@@ -1,0 +1,139 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sotrovimabe",
+      "suspension": "Suspender 10 dias antes de cirurgias eletivas",
+      "risk": "Potencial interferência na cicatrização e resposta imune; pode mascarar sinais de infecção",
+      "reintroduction": "Reintroduzir após cicatrização completa e avaliação imunológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sotrovimabe",
+      "nomeComercial": "Xevudy",
+      "mecanismoAcao": "Anticorpo monoclonal que se liga ao domínio da proteína spike do SARS-CoV-2, bloqueando a entrada viral",
+      "farmacocinetica": "Meia-vida terminal média de 49 dias; metabolismo proteico; excreção não renal",
+      "farmacodinamica": "Neutraliza o SARS-CoV-2 e reduz risco de progressão para COVID-19 grave",
+      "indicacoes": "COVID-19 leve a moderado com risco de progressão em pacientes não hospitalizados",
+      "reacoesAdversas": "Erupções cutâneas, prurido, reações infusionais, náuseas, anafilaxia (raro)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhece-se se é excretado no leite humano",
+      "administracao": "Infusão intravenosa única",
+      "doseMaxima": "500 mg IV em dose única",
+      "doseMinima": "500 mg (dose única padrão)",
+      "classificacao": "Anticorpo monoclonal neutralizante anti-SARS-CoV-2",
+      "apresentacao": "Frasco-ampola de 500 mg/8 mL",
+      "interacaoMedicamento": "Evitar vacinação com vírus vivos até 90 dias após uso",
+      "posologia": "500 mg diluído em 100 mL de NaCl 0,9%, infusão IV em 30 minutos",
+      "armazenamento": "Refrigerar entre 2–8°C; não congelar; solução diluída estável por até 6 horas (temperatura ambiente) ou 24h (refrigerada)",
+      "preparo": "Diluir em solução salina sob técnica asséptica",
+      "solucoesCompatíveis": "Solução de cloreto de sódio 0,9%",
+      "contraindicacoes": "Hipersensibilidade ao sotrovimabe ou excipientes",
+      "cuidadosMedicos": "Monitorar sinais vitais e reações durante e após a infusão",
+      "cuidadosFarmaceuticos": "Verificar validade, condições de armazenamento e tempo pós-diluição",
+      "cuidadosEnfermagem": "Monitorar infusão, reações locais e sistêmicas",
+      "fontesBibliograficas": "FDA, EMA, Medscape, GSK, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sotrovimab",
+      "suspension": "Suspend 10 days before elective surgery",
+      "risk": "May interfere with wound healing and immune response; may mask infection signs",
+      "reintroduction": "Restart after full healing and immune stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sotrovimab",
+      "nomeComercial": "Xevudy",
+      "mecanismoAcao": "Monoclonal antibody binding the SARS-CoV-2 spike protein, blocking viral entry",
+      "farmacocinetica": "Mean terminal half-life ~49 days; proteolytic metabolism; non-renal excretion",
+      "farmacodinamica": "Neutralizes SARS-CoV-2 and prevents severe COVID-19 progression",
+      "indicacoes": "Mild-to-moderate COVID-19 in non-hospitalized high-risk patients",
+      "reacoesAdversas": "Rash, pruritus, infusion-related reactions, nausea, rare anaphylaxis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown if excreted in breast milk",
+      "administracao": "Single intravenous infusion",
+      "doseMaxima": "500 mg IV single dose",
+      "doseMinima": "500 mg (standard dose)",
+      "classificacao": "Neutralizing monoclonal antibody anti-SARS-CoV-2",
+      "apresentacao": "500 mg/8 mL vial",
+      "interacaoMedicamento": "Avoid live virus vaccines for 90 days post-treatment",
+      "posologia": "500 mg diluted in 100 mL 0.9% NaCl, infused over 30 minutes",
+      "armazenamento": "Store at 2–8°C; do not freeze; stable 6 h (room temp) or 24 h (refrigerated) after dilution",
+      "preparo": "Dilute aseptically in 0.9% saline",
+      "solucoesCompatíveis": "0.9% sodium chloride",
+      "contraindicacoes": "Hypersensitivity to sotrovimab or formulation components",
+      "cuidadosMedicos": "Monitor vitals and allergic responses during/after infusion",
+      "cuidadosFarmaceuticos": "Check expiry, cold chain, and post-dilution stability",
+      "cuidadosEnfermagem": "Observe for infusion site reactions and systemic effects",
+      "fontesBibliograficas": "FDA, GSK, EMA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sotrovimab",
+      "suspension": "Suspender 10 días antes de cirugía programada",
+      "risk": "Puede interferir con la cicatrización y respuesta inmune; riesgo de ocultar infecciones",
+      "reintroduction": "Reanudar tras cicatrización y estabilidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sotrovimab",
+      "nomeComercial": "Xevudy",
+      "mecanismoAcao": "Anticuerpo monoclonal que bloquea la proteína spike del SARS-CoV-2",
+      "farmacocinetica": "Semivida terminal media de 49 días; metabolismo proteico",
+      "farmacodinamica": "Neutraliza el SARS-CoV-2 y previene COVID-19 grave",
+      "indicacoes": "COVID-19 leve a moderado en pacientes no hospitalizados con riesgo elevado",
+      "reacoesAdversas": "Erupción, prurito, reacciones a la infusión, náuseas, anafilaxia (raro)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido si se excreta en leche materna",
+      "administracao": "Infusión intravenosa única",
+      "doseMaxima": "500 mg IV única dosis",
+      "doseMinima": "500 mg",
+      "classificacao": "Anticuerpo monoclonal neutralizante anti SARS-CoV-2",
+      "apresentacao": "Frasco de 500 mg/8 mL",
+      "interacaoMedicamento": "Evitar vacunas con virus vivos durante 90 días",
+      "posologia": "Diluir 500 mg en 100 mL NaCl 0,9% e infundir en 30 min",
+      "armazenamento": "2–8°C; no congelar; estabilidad: 6 h (ambiente), 24 h (refrigerado)",
+      "preparo": "Diluir asépticamente",
+      "solucoesCompatíveis": "Cloruro sódico 0,9%",
+      "contraindicacoes": "Hipersensibilidad al principio activo",
+      "cuidadosMedicos": "Monitorizar signos vitales y reacciones",
+      "cuidadosFarmaceuticos": "Verificar cadena de frío y validez",
+      "cuidadosEnfermagem": "Vigilar sitio de infusión y eventos adversos",
+      "fontesBibliograficas": "EMA, FDA, GSK, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "索特罗单抗",
+      "suspension": "择期手术前10天停药",
+      "risk": "可能干扰免疫反应与术后愈合，掩盖感染征象",
+      "reintroduction": "术后愈合完成后可重新使用",
+      "contraindicacoes": "对索特罗单抗过敏"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "索特罗单抗",
+      "nomeComercial": "Xevudy",
+      "mecanismoAcao": "结合SARS-CoV-2刺突蛋白以阻断病毒进入细胞",
+      "farmacocinetica": "半衰期约49天，蛋白质代谢",
+      "farmacodinamica": "中和病毒并阻止病情恶化",
+      "indicacoes": "轻中度COVID-19高风险人群",
+      "reacoesAdversas": "皮疹、瘙痒、输液反应、恶心、罕见过敏",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "未知是否排泄至乳汁",
+      "administracao": "静脉输注一次",
+      "doseMaxima": "500毫克",
+      "doseMinima": "500毫克",
+      "classificacao": "抗SARS-CoV-2中和抗体",
+      "apresentacao": "8毫升含500毫克/瓶",
+      "interacaoMedicamento": "90天内避免接种活疫苗",
+      "posologia": "稀释于100 mL 0.9%氯化钠中，30分钟输注",
+      "armazenamento": "2–8°C保存，稀释后6小时（室温）或24小时（冷藏）使用",
+      "preparo": "使用无菌技术稀释",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对本品过敏者禁用",
+      "cuidadosMedicos": "监测输液时生命体征和反应",
+      "cuidadosFarmaceuticos": "确保冷链，核查稳定性",
+      "cuidadosEnfermagem": "观察局部和全身不良反应",
+      "fontesBibliograficas": "FDA，GSK，Micromedex，Medscape"
+    }
+  }
+}

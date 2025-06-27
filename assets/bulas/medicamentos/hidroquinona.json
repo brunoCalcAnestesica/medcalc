@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Hidroquinona",
+      "suspension": "Suspender em áreas cirúrgicas ou pele lesionada; uso não recomendado perioperatório",
+      "risk": "Pode causar irritação, hipopigmentação irregular, ocronose exógena em uso prolongado",
+      "reintroduction": "Reintroduzir com cautela após completa cicatrização da pele"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidroquinona",
+      "nomeComercial": "Clariderm, Solaquin, Melani-D",
+      "mecanismoAcao": "Inibe a tirosinase, enzima-chave na produção de melanina",
+      "farmacocinetica": "Absorção dérmica variável; metabolização hepática; excreção urinária",
+      "farmacodinamica": "Despigmentante eficaz para hiperpigmentações como melasma e lentigos",
+      "indicacoes": "Melasma, hiperpigmentações pós-inflamatórias, sardas",
+      "reacoesAdversas": "Eritema, queimação, dermatite de contato, ocronose exógena",
+      "riscoGravidez": "Categoria C; evitar uso durante gestação",
+      "riscoLactacao": "Evitar aplicação em mamas durante amamentação",
+      "administracao": "Uso tópico",
+      "doseMaxima": "Aplicar 1–2x/dia em áreas pequenas por no máximo 3 meses",
+      "doseMinima": "1x/dia",
+      "classificacao": "Agente despigmentante cutâneo",
+      "apresentacao": "Creme 2–4%",
+      "interacaoMedicamento": "Evitar uso com peróxido de benzoíla (pode causar escurecimento temporário da pele)",
+      "posologia": "Aplicar camada fina na área hiperpigmentada 1–2x/dia com fotoproteção rigorosa",
+      "armazenamento": "15–25°C, proteger da luz",
+      "preparo": "Uso direto; uso externo apenas",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, eczema ativo, pele ferida, uso prolongado não supervisionado",
+      "cuidadosMedicos": "Limitar o tempo de uso; avaliar sinais precoces de ocronose",
+      "cuidadosFarmaceuticos": "Educar sobre uso com fotoprotetor e duração limitada do tratamento",
+      "cuidadosEnfermagem": "Observar sinais de irritação, queimação ou escurecimento paradoxal",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hydroquinone",
+      "suspension": "Discontinue on surgical sites or damaged skin",
+      "risk": "Irritation, burning, exogenous ochronosis (rare); avoid prolonged use",
+      "reintroduction": "Resume after skin healing; limit duration"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hydroquinone",
+      "nomeComercial": "Eldoquin, Lustra, Melquin",
+      "mecanismoAcao": "Inhibits tyrosinase, reducing melanin synthesis",
+      "farmacocinetica": "Variable dermal absorption; hepatic metabolism",
+      "farmacodinamica": "Topical depigmenting agent",
+      "indicacoes": "Melasma, lentigines, PIH",
+      "reacoesAdversas": "Redness, stinging, dermatitis, rare ochronosis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid breast application",
+      "administracao": "Topical",
+      "doseMaxima": "Apply 1–2x/day for up to 3 months",
+      "doseMinima": "Once daily",
+      "classificacao": "Depigmenting topical agent",
+      "apresentacao": "2–4% cream",
+      "interacaoMedicamento": "Avoid use with benzoyl peroxide",
+      "posologia": "Thin application on hyperpigmented area with sunscreen",
+      "armazenamento": "Store at 59–77°F",
+      "preparo": "Ready to use; avoid mucosa",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Allergy, damaged skin, unsupervised prolonged use",
+      "cuidadosMedicos": "Do not exceed 3 months without reassessment",
+      "cuidadosFarmaceuticos": "Counsel on sunscreen use and adverse effects",
+      "cuidadosEnfermagem": "Monitor skin reaction and hyperpigmentation pattern",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hidroquinona",
+      "suspension": "No usar en piel operada o lesionada",
+      "risk": "Irritación, ardor, dermatitis, ocronosis exógena (rara)",
+      "reintroduction": "Reanudar tras cicatrización y control médico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidroquinona",
+      "nomeComercial": "Eldoquin, Hidroquin, Clariderm",
+      "mecanismoAcao": "Inhibe tirosinasa y reduce producción de melanina",
+      "farmacocinetica": "Absorción dérmica variable",
+      "farmacodinamica": "Despigmienta áreas hiperpigmentadas",
+      "indicacoes": "Melasma, hiperpigmentación postinflamatoria, lentigos",
+      "reacoesAdversas": "Ardor, eritema, despigmentación desigual",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar en senos",
+      "administracao": "Tópico",
+      "doseMaxima": "1–2 veces/día, no más de 3 meses",
+      "doseMinima": "1 vez/día",
+      "classificacao": "Despimentante dérmico",
+      "apresentacao": "Crema 2–4%",
+      "interacaoMedicamento": "Evitar con peróxido de benzoilo",
+      "posologia": "Aplicar capa fina con fotoprotección",
+      "armazenamento": "15–25°C, protegida de la luz",
+      "preparo": "Uso externo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Eczema, heridas, uso prolongado sin seguimiento",
+      "cuidadosMedicos": "No usar más de 3 meses sin control",
+      "cuidadosFarmaceuticos": "Indicar uso conjunto con protección solar",
+      "cuidadosEnfermagem": "Vigilar cambios pigmentarios y tolerancia local",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氢醌（外用）",
+      "suspension": "术前术后不建议在伤口使用",
+      "risk": "可能引起刺激、灼热、色素不均或外源性黑变病",
+      "reintroduction": "术后皮肤完全恢复后小范围使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氢醌",
+      "nomeComercial": "Eldoquin, Melani-D",
+      "mecanismoAcao": "抑制酪氨酸酶，减少黑色素合成",
+      "farmacocinetica": "皮肤吸收率因人而异",
+      "farmacodinamica": "局部脱色剂，用于改善色素沉着",
+      "indicacoes": "黄褐斑、晒斑、炎症后色素沉着",
+      "reacoesAdversas": "红斑、灼热、瘙痒、外源性黑变病（稀有）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免用于乳房区域",
+      "administracao": "外用",
+      "doseMaxima": "每日1–2次，最长不超3个月",
+      "doseMinima": "每日1次",
+      "classificacao": "局部美白剂",
+      "apresentacao": "2–4%乳膏",
+      "interacaoMedicamento": "避免与过氧化苯甲酰合用",
+      "posologia": "每日1–2次，清洁后薄涂患处，并防晒",
+      "armazenamento": "15–25°C，避光保存",
+      "preparo": "直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "破损皮肤、激素敏感区域、长期滥用",
+      "cuidadosMedicos": "持续使用不超过3个月，出现刺激需停药",
+      "cuidadosFarmaceuticos": "强调防晒与观察色素变化",
+      "cuidadosEnfermagem": "监测色素减退均匀性及刺激反应",
+      "fontesBibliograficas": "FDA，UpToDate，Micromedex，EMA"
+    }
+  }
+}

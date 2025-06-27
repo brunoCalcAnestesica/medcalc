@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Everolimo",
+      "suspension": "Suspender 5 a 7 dias antes de cirurgias eletivas com risco infeccioso ou de cicatrização prejudicada",
+      "risk": "Imunossupressão, atraso na cicatrização, risco de infecção e toxicidade hematológica",
+      "reintroduction": "Reintroduzir após estabilização clínica e adequada recuperação tecidual"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Everolimo",
+      "nomeComercial": "Afinitor, Certican, Zortress",
+      "mecanismoAcao": "Inibidor da mTOR (mammalian target of rapamycin), suprime proliferação celular e angiogênese",
+      "farmacocinetica": "Biodisponibilidade ~30%, meia-vida de 30 h, metabolização hepática via CYP3A4",
+      "farmacodinamica": "Bloqueia a via PI3K/AKT/mTOR, inibindo crescimento celular e resposta imune",
+      "indicacoes": "Carcinoma renal avançado, esclerose tuberosa, câncer de mama HR+, transplante renal, neuroendócrinos pancreáticos",
+      "reacoesAdversas": "Estomatite, hiperglicemia, hiperlipidemia, anemia, trombocitopenia, rash, infecções",
+      "riscoGravidez": "Categoria D – risco fetal",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral, 1x/dia, preferencialmente em jejum",
+      "doseMaxima": "10 mg/dia (oncológico); até 0,75 mg 2x/dia (transplante)",
+      "doseMinima": "2,5 mg/dia (ajuste por toxicidade)",
+      "classificacao": "Imunossupressor / Antineoplásico (inibidor de mTOR)",
+      "apresentacao": "Comprimidos de 2,5 mg, 5 mg, 7,5 mg e 10 mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores do CYP3A4, imunossupressores, estatinas",
+      "posologia": "Individualizada conforme indicação, monitorar níveis plasmáticos em transplantes",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não se aplica",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, infecções ativas graves",
+      "cuidadosMedicos": "Monitorar função hepática, renal, glicemia, perfil lipídico e hemograma",
+      "cuidadosFarmaceuticos": "Educar sobre horários fixos e jejum para absorção ideal",
+      "cuidadosEnfermagem": "Observar sinais de infecção, toxicidade hematológica e mucosite",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Everolimus",
+      "suspension": "Hold 5–7 days prior to major surgery due to wound healing delay and immunosuppression",
+      "risk": "Impaired healing, immunosuppression, hematologic toxicity, hyperlipidemia",
+      "reintroduction": "Restart once wound healing and infection risk have resolved"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Everolimus",
+      "nomeComercial": "Afinitor, Zortress, Certican",
+      "mecanismoAcao": "mTOR inhibitor suppressing cell proliferation and angiogenesis",
+      "farmacocinetica": "Oral bioavailability ~30%, t½ ~30 h, CYP3A4 metabolism",
+      "farmacodinamica": "Blocks PI3K/AKT/mTOR pathway, halting cell growth and immune response",
+      "indicacoes": "Renal cell carcinoma, tuberous sclerosis, HR+ breast cancer, pancreatic NETs, renal transplant",
+      "reacoesAdversas": "Stomatitis, rash, hyperglycemia, hyperlipidemia, anemia, infections",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Avoid in lactation",
+      "administracao": "Oral, once daily, on empty stomach",
+      "doseMaxima": "10 mg/day (oncology); 0.75 mg BID (transplant)",
+      "doseMinima": "2.5 mg/day",
+      "classificacao": "mTOR inhibitor (immunosuppressant/antineoplastic)",
+      "apresentacao": "Tablets: 2.5 mg, 5 mg, 7.5 mg, 10 mg",
+      "interacaoMedicamento": "CYP3A4 inhibitors/inducers, immunosuppressants, statins",
+      "posologia": "Adjusted per indication and blood levels (transplant)",
+      "armazenamento": "Store at room temperature, dry conditions",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe infection, hypersensitivity",
+      "cuidadosMedicos": "Monitor CBC, lipids, glucose, liver/kidney function",
+      "cuidadosFarmaceuticos": "Advise on fasting administration, drug interactions",
+      "cuidadosEnfermagem": "Monitor for mucositis, infection, delayed healing",
+      "fontesBibliograficas": "FDA, Micromedex, Lexicomp, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Everolimus",
+      "suspension": "Suspender 5–7 días antes de cirugía mayor",
+      "risk": "Inmunosupresión, retraso en la cicatrización, dislipidemia, toxicidad hematológica",
+      "reintroduction": "Reintroducir tras resolución de complicaciones y buena cicatrización"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Everolimus",
+      "nomeComercial": "Afinitor, Zortress, Certican",
+      "mecanismoAcao": "Inhibidor de mTOR que bloquea proliferación y angiogénesis celular",
+      "farmacocinetica": "Biodisponibilidad 30%, t½ 30 h, metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Inhibe PI3K/AKT/mTOR reduciendo crecimiento celular",
+      "indicacoes": "Cáncer renal, mama HR+, NETs pancreáticos, esclerosis tuberosa, trasplante",
+      "reacoesAdversas": "Estomatitis, hiperglucemia, dislipidemia, anemia, infecciones",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Vía oral 1x/día, en ayunas",
+      "doseMaxima": "10 mg/día",
+      "doseMinima": "2.5 mg/día",
+      "classificacao": "Inhibidor de mTOR",
+      "apresentacao": "Tabletas 2.5 mg, 5 mg, 10 mg",
+      "interacaoMedicamento": "Inductores/inhibidores de CYP3A4, estatinas, inmunosupresores",
+      "posologia": "Individual según indicación; monitorizar niveles plasmáticos",
+      "armazenamento": "Ambiente seco y fresco",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infección activa, hipersensibilidad",
+      "cuidadosMedicos": "Control hematológico, hepático, glucémico y lipídico",
+      "cuidadosFarmaceuticos": "Advertir interacciones y forma de administración",
+      "cuidadosEnfermagem": "Vigilar mucositis, fiebre, infección",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "依维莫司",
+      "suspension": "术前5–7天停药以防感染和愈合迟缓",
+      "risk": "免疫抑制、延迟愈合、感染风险、血脂和血糖异常",
+      "reintroduction": "伤口愈合和感染控制后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依维莫司",
+      "nomeComercial": "Afinitor（癌症）、Zortress（移植）",
+      "mecanismoAcao": "mTOR抑制剂，抑制细胞增殖和血管生成",
+      "farmacocinetica": "口服吸收，生物利用度30%，半衰期约30小时，CYP3A4代谢",
+      "farmacodinamica": "抑制PI3K/AKT/mTOR信号通路，抗肿瘤及免疫抑制",
+      "indicacoes": "乳腺癌、肾癌、胰腺神经内分泌瘤、结节性硬化、肾移植",
+      "reacoesAdversas": "口腔炎、高血糖、高脂血症、贫血、感染",
+      "riscoGravidez": "D类 – 有胎儿风险",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服每日一次，空腹服用",
+      "doseMaxima": "每日10毫克",
+      "doseMinima": "每日2.5毫克",
+      "classificacao": "mTOR通路抑制剂",
+      "apresentacao": "片剂 2.5 mg、5 mg、10 mg",
+      "interacaoMedicamento": "与CYP3A4抑制剂、诱导剂、免疫抑制剂、他汀类药物相互作用",
+      "posologia": "依据适应症个体化给药，部分需监测血药浓度",
+      "armazenamento": "15–30°C干燥避光",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重感染、过敏史",
+      "cuidadosMedicos": "监测血糖、血脂、肝肾功能、血象",
+      "cuidadosFarmaceuticos": "指导空腹服用，注意药物联用",
+      "cuidadosEnfermagem": "观察口腔炎、发热、出血或感染迹象",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

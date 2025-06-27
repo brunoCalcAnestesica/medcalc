@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Trastuzumabe",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas de grande porte, especialmente em pacientes com disfunção cardíaca",
+      "risk": "Cardiotoxicidade, reações infusionais, neutropenia, toxicidade pulmonar intersticial, risco de infecção",
+      "reintroduction": "Reintroduzir após estabilização clínica e função cardíaca adequada, geralmente após 10–14 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trastuzumabe",
+      "nomeComercial": "Herceptin, Trazimera, Kanjinti",
+      "mecanismoAcao": "Anticorpo monoclonal humanizado que se liga ao receptor HER2, inibindo a proliferação celular dependente desse receptor",
+      "farmacocinetica": "Meia-vida terminal ~28,5 dias; não requer ajuste renal/hepático; administração IV ou SC",
+      "farmacodinamica": "Inibição da sinalização HER2; promove citotoxicidade celular dependente de anticorpo (ADCC)",
+      "indicacoes": "Câncer de mama HER2+, gástrico ou da junção gastroesofágica HER2+",
+      "reacoesAdversas": "Febre, calafrios, cardiotoxicidade (diminuição da fração de ejeção), náuseas, fadiga, reações infusionais",
+      "riscoGravidez": "Categoria D – risco de oligohidrâmnio, hipoplasia pulmonar fetal",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "IV (infusão lenta) ou SC (formulação específica); primeira dose IV 8mg/kg, manutenção 6mg/kg/21 dias",
+      "doseMaxima": "8mg/kg (dose de ataque IV)",
+      "doseMinima": "SC: 600mg fixos a cada 3 semanas",
+      "classificacao": "Anticorpo monoclonal anti-HER2",
+      "apresentacao": "Pó liofilizado 150mg, 420mg; solução SC 600mg",
+      "interacaoMedicamento": "Evitar com antraciclinas (risco cardíaco), atenção com radioterapia torácica concomitante",
+      "posologia": "Ataque IV: 8mg/kg; manutenção: 6mg/kg a cada 21 dias; SC: 600mg fixos",
+      "armazenamento": "Refrigerado (2–8°C); solução reconstituída usar em até 24h",
+      "preparo": "Reconstituir pó IV com água estéril; diluir em SF 250ml",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9% (não usar glicose)",
+      "contraindicacoes": "Insuficiência cardíaca congestiva, gravidez, hipersensibilidade à proteína murina",
+      "cuidadosMedicos": "Avaliar FEVE antes e a cada 3 meses; ECG; sinais respiratórios",
+      "cuidadosFarmaceuticos": "Orientar intervalo fixo entre doses; atenção à via de administração (IV x SC)",
+      "cuidadosEnfermagem": "Monitorar sinais de reação infusional, dispneia, edema periférico",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Trastuzumab",
+      "suspension": "Hold 7 days before major surgery in cardiac risk patients; evaluate case by case",
+      "risk": "Cardiotoxicity, infusion reactions, neutropenia, pulmonary interstitial disease, fetal harm",
+      "reintroduction": "Resume 10–14 days post-op if cardiac and clinical status stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trastuzumab",
+      "nomeComercial": "Herceptin, Kanjinti, Ogivri, Trazimera",
+      "mecanismoAcao": "Binds to HER2 receptor, blocking dimerization and inducing ADCC",
+      "farmacocinetica": "Half-life ~28.5 days; IV or SC; no hepatic/renal adjustment needed",
+      "farmacodinamica": "Anti-HER2 cytotoxicity via immune-mediated mechanisms",
+      "indicacoes": "HER2+ breast cancer, HER2+ gastric/gastroesophageal junction adenocarcinoma",
+      "reacoesAdversas": "Fever, chills, LVEF decrease, nausea, fatigue, infusion-related events",
+      "riscoGravidez": "Category D – fetal harm (oligohydramnios, pulmonary hypoplasia)",
+      "riscoLactacao": "Not recommended during breastfeeding",
+      "administracao": "IV: loading 8mg/kg, maintenance 6mg/kg q21d; SC: 600mg q3w",
+      "doseMaxima": "8mg/kg IV loading",
+      "doseMinima": "600mg SC fixed",
+      "classificacao": "Monoclonal antibody (anti-HER2)",
+      "apresentacao": "Lyophilized vials 150mg, 420mg; SC solution 600mg",
+      "interacaoMedicamento": "Avoid with anthracyclines; caution with thoracic RT",
+      "posologia": "8mg/kg IV → 6mg/kg q3w; SC: 600mg q3w",
+      "armazenamento": "Refrigerate 2–8°C; reconstituted IV stable 24h",
+      "preparo": "Reconstitute IV with SWFI, dilute in NS 250ml",
+      "solucoesCompatíveis": "NS only (no D5W)",
+      "contraindicacoes": "CHF, pregnancy, murine protein hypersensitivity",
+      "cuidadosMedicos": "LVEF by ECHO/MUGA q3m; monitor respiratory status",
+      "cuidadosFarmaceuticos": "Differentiate IV vs SC dosing; label stability",
+      "cuidadosEnfermagem": "Watch for dyspnea, fever, edema, infusion reaction",
+      "fontesBibliograficas": "FDA label, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Trastuzumab",
+      "suspension": "Suspender 7 días antes de cirugía mayor; reiniciar tras estabilidad cardíaca",
+      "risk": "Cardiotoxicidad, reacciones infusionales, neutropenia, toxicidad pulmonar, teratogenicidad",
+      "reintroduction": "Reintroducir 10–14 días después si sin eventos cardíacos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trastuzumab",
+      "nomeComercial": "Herceptin, Trazimera, Ogivri",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-HER2 que bloquea proliferación y activa ADCC",
+      "farmacocinetica": "T½ 28.5 días; IV o SC; sin ajuste hepático/renal",
+      "farmacodinamica": "Efecto citotóxico por inhibición HER2 y mediado por anticuerpo",
+      "indicacoes": "Cáncer de mama HER2+, gástrico/esofágico HER2+",
+      "reacoesAdversas": "Fiebre, escalofríos, disnea, edema, náuseas, disfunción ventricular",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "IV: 8mg/kg → 6mg/kg c/21d; SC: 600mg c/21d",
+      "doseMaxima": "8mg/kg",
+      "doseMinima": "600mg (SC)",
+      "classificacao": "Anticuerpo monoclonal anti-HER2",
+      "apresentacao": "Viales 150mg, 420mg; solución 600mg",
+      "interacaoMedicamento": "Precaución con antraciclinas y RT torácica",
+      "posologia": "Ataque 8mg/kg; mantenimiento 6mg/kg o SC 600mg",
+      "armazenamento": "Refrigerado; diluido usar en 24h",
+      "preparo": "Reconstituir con agua estéril; diluir en SF",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "ICC, embarazo, alergia murina",
+      "cuidadosMedicos": "Control FEVI, síntomas respiratorios",
+      "cuidadosFarmaceuticos": "Diferenciar IV y SC, revisar estabilidad",
+      "cuidadosEnfermagem": "Vigilar reacciones, disnea, fiebre",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "曲妥珠单抗",
+      "suspension": "大型手术前7天停药；有心功能异常者更应评估",
+      "risk": "心毒性、输液反应、中性粒细胞减少、间质性肺病、胎儿损伤",
+      "reintroduction": "术后10–14天，心功能恢复后可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "曲妥珠单抗",
+      "nomeComercial": "赫赛汀（Herceptin）",
+      "mecanismoAcao": "结合HER2受体，抑制其信号传导并激活ADCC",
+      "farmacocinetica": "T½约28.5天；静注或皮下注射；无需肝肾调整",
+      "farmacodinamica": "抗HER2作用，抑制癌细胞增殖，诱导细胞毒性",
+      "indicacoes": "HER2阳性乳腺癌、胃癌、胃食管连接癌",
+      "reacoesAdversas": "发热、心衰、恶心、呼吸困难、水肿、注射反应",
+      "riscoGravidez": "D类 – 有胎儿毒性，禁用于孕期",
+      "riscoLactacao": "禁用",
+      "administracao": "IV首次8mg/kg→6mg/kg q3w；SC固定600mg q3w",
+      "doseMaxima": "8mg/kg（IV初始）",
+      "doseMinima": "600mg（SC）",
+      "classificacao": "抗HER2单克隆抗体",
+      "apresentacao": "150mg/420mg冻干粉；600mg皮下注射液",
+      "interacaoMedicamento": "慎与蒽环类/放疗联用",
+      "posologia": "IV: 8→6mg/kg；SC: 600mg固定每3周",
+      "armazenamento": "2–8°C冷藏；稀释后24小时内使用",
+      "preparo": "用无菌注射用水复溶，稀释至SF 250ml中",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "充血性心衰、妊娠、对鼠源蛋白过敏",
+      "cuidadosMedicos": "定期心脏功能监测、症状评估",
+      "cuidadosFarmaceuticos": "标记给药途径（IV或SC），注意贮存与过敏预防",
+      "cuidadosEnfermagem": "监测输注反应、水肿、疲劳、呼吸变化",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA、NCCN"
+    }
+  }
+}

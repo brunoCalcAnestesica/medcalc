@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nivolumabe",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva com risco de complicações autoimunes ou inflamatórias",
+      "risk": "Pneumonite, colite, hepatite imune, tireoidite, hipofisite, reações infusionais, fadiga, rash",
+      "reintroduction": "Reintroduzir após resolução de toxicidades autoimunes e estabilização clínica, geralmente 10–14 dias após cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nivolumabe",
+      "nomeComercial": "Opdivo",
+      "mecanismoAcao": "Anticorpo monoclonal IgG4 que bloqueia o receptor PD-1, promovendo ativação da resposta imune antitumoral",
+      "farmacocinetica": "Meia-vida ~26,7 dias; clearance não linear; IV a cada 2–4 semanas",
+      "farmacodinamica": "Inibe checkpoint imune PD-1/PD-L1, restaurando a atividade das células T",
+      "indicacoes": "Melanoma, câncer de pulmão não pequenas células, carcinoma de células renais, linfoma de Hodgkin, câncer gástrico, esofágico, bexiga, cabeça e pescoço, hepatocarcinoma",
+      "reacoesAdversas": "Fadiga, rash, diarreia, prurido, alterações endócrinas, hepatite, pneumonite, colite, insuficiência adrenal",
+      "riscoGravidez": "Categoria D – risco potencial; evitar uso durante gestação",
+      "riscoLactacao": "Contraindicado; não se sabe se é excretado no leite",
+      "administracao": "Infusão IV em 30 minutos; dose fixa ou por peso",
+      "doseMaxima": "480mg IV a cada 4 semanas (dose fixa); 3mg/kg a cada 2 semanas (peso)",
+      "doseMinima": "240mg IV a cada 2 semanas",
+      "classificacao": "Inibidor de checkpoint imunológico (anti-PD-1)",
+      "apresentacao": "Frascos de 40mg/4ml, 100mg/10ml",
+      "interacaoMedicamento": "Risco aumentado com corticosteroides e imunossupressores; evitar vacinas vivas",
+      "posologia": "240mg IV a cada 2 semanas ou 480mg a cada 4 semanas; monoterapia ou em combinação (ex: ipilimumabe)",
+      "armazenamento": "Refrigerado (2–8°C); não congelar; proteger da luz",
+      "preparo": "Diluir em SF 0,9% ou SG 5% até 160ml; infundir em 30 minutos",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, glicose 5%",
+      "contraindicacoes": "Hipersensibilidade a qualquer componente da fórmula",
+      "cuidadosMedicos": "Monitorar função hepática, tireoidiana, suprarrenal, sinais de toxicidade imune",
+      "cuidadosFarmaceuticos": "Manter cadeia de frio, garantir tempo correto de infusão, verificar diluição",
+      "cuidadosEnfermagem": "Observar reações infusionais, dispneia, dor abdominal, diarreia, rash",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nivolumab",
+      "suspension": "Hold 7 days before major surgery in patients at risk of immune-related complications",
+      "risk": "Pneumonitis, hepatitis, colitis, thyroid dysfunction, adrenal insufficiency, infusion reactions",
+      "reintroduction": "Restart 10–14 days after surgery once immune toxicities are resolved"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nivolumab",
+      "nomeComercial": "Opdivo",
+      "mecanismoAcao": "IgG4 anti-PD-1 monoclonal antibody; blocks PD-1/PD-L1 signaling to enhance T cell function",
+      "farmacocinetica": "T½ ~26.7 days; nonlinear clearance; IV q2w or q4w",
+      "farmacodinamica": "Immune checkpoint blockade reactivating T cells",
+      "indicacoes": "Melanoma, NSCLC, RCC, HCC, urothelial carcinoma, HNSCC, HL, esophageal/gastric cancers",
+      "reacoesAdversas": "Fatigue, rash, diarrhea, hypothyroidism, hyperthyroidism, hepatitis, pneumonitis, adrenalitis",
+      "riscoGravidez": "Category D – use only if necessary",
+      "riscoLactacao": "Not recommended during treatment",
+      "administracao": "IV infusion over 30 minutes",
+      "doseMaxima": "480mg q4w (fixed); 3mg/kg q2w (weight-based)",
+      "doseMinima": "240mg q2w",
+      "classificacao": "PD-1 immune checkpoint inhibitor",
+      "apresentacao": "Vials: 40mg/4ml, 100mg/10ml",
+      "interacaoMedicamento": "Avoid with live vaccines; caution with corticosteroids",
+      "posologia": "240mg q2w or 480mg q4w; mono/combo with ipilimumab",
+      "armazenamento": "Refrigerate 2–8°C; protect from light; do not freeze",
+      "preparo": "Dilute in NS or D5W up to 160ml; infuse over 30min",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Known hypersensitivity to nivolumab",
+      "cuidadosMedicos": "Monitor LFTs, TSH, cortisol, immune-related AEs",
+      "cuidadosFarmaceuticos": "Cold chain, infusion filter, strict stability rules",
+      "cuidadosEnfermagem": "Assess for diarrhea, rash, fatigue, SOB, fever",
+      "fontesBibliograficas": "FDA label, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nivolumab",
+      "suspension": "Suspender 7 días antes de cirugía en pacientes con riesgo de toxicidad inmunológica",
+      "risk": "Neumonitis, colitis, hepatitis autoinmune, hipotiroidismo, adrenalitis",
+      "reintroduction": "Reiniciar tras 10–14 días si no hay toxicidades inmunes activas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nivolumab",
+      "nomeComercial": "Opdivo",
+      "mecanismoAcao": "Anticuerpo IgG4 que bloquea PD-1, potenciando respuesta T antitumoral",
+      "farmacocinetica": "T½ ~26.7 días; infusión IV; eliminación no lineal",
+      "farmacodinamica": "Bloqueo de checkpoint inmune PD-1/PD-L1",
+      "indicacoes": "Melanoma, cáncer de pulmón, gástrico, riñón, vejiga, esófago, linfoma",
+      "reacoesAdversas": "Fatiga, diarrea, rash, toxicidad hepática, neumonitis, hipotiroidismo",
+      "riscoGravidez": "Categoría D – evitar en embarazo",
+      "riscoLactacao": "No recomendado",
+      "administracao": "IV en 30 minutos; fijo o por peso",
+      "doseMaxima": "480mg c/4 semanas; 3mg/kg c/2 semanas",
+      "doseMinima": "240mg c/2 semanas",
+      "classificacao": "Inmunoterapia anti-PD-1",
+      "apresentacao": "Frascos 40mg/4ml, 100mg/10ml",
+      "interacaoMedicamento": "Evitar vacunas vivas; precaución con esteroides",
+      "posologia": "240mg c/2 semanas o 480mg c/4 semanas",
+      "armazenamento": "2–8°C; no congelar; proteger de la luz",
+      "preparo": "Diluir en SF o glucosa 5% hasta 160ml; infundir en 30 minutos",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%",
+      "contraindicacoes": "Hipersensibilidad a nivolumab",
+      "cuidadosMedicos": "Control TSH, hepatograma, cortisol; vigilancia clínica",
+      "cuidadosFarmaceuticos": "Cadena de frío, preparación estéril, filtro 0,22μm",
+      "cuidadosEnfermagem": "Observar disnea, fiebre, diarrea, exantema",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "纳武利尤单抗",
+      "suspension": "术前7天停药；如有自身免疫并发症更应停用",
+      "risk": "肺炎、肝炎、肠炎、甲状腺炎、肾上腺炎、疲劳、输液反应",
+      "reintroduction": "术后10–14天，毒性缓解后重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "纳武利尤单抗",
+      "nomeComercial": "Opdivo",
+      "mecanismoAcao": "阻断PD-1通路，解除T细胞免疫抑制",
+      "farmacocinetica": "半衰期约26.7天；非线性清除；IV滴注",
+      "farmacodinamica": "免疫检查点抑制剂，恢复T细胞功能",
+      "indicacoes": "黑色素瘤、NSCLC、肾癌、肝癌、胃癌、膀胱癌、头颈癌",
+      "reacoesAdversas": "皮疹、乏力、发热、肺炎、肝炎、肠炎、内分泌障碍",
+      "riscoGravidez": "D类 – 孕期禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静滴30分钟，每2或4周1次",
+      "doseMaxima": "每次480mg（每4周）",
+      "doseMinima": "每次240mg（每2周）",
+      "classificacao": "免疫治疗药物，PD-1抑制剂",
+      "apresentacao": "40mg/4ml、100mg/10ml注射液",
+      "interacaoMedicamento": "避免活疫苗，慎与免疫抑制剂联用",
+      "posologia": "240mg q2w或480mg q4w，单药或联合治疗",
+      "armazenamento": "2–8°C冷藏，避光，不可冷冻",
+      "preparo": "稀释于生理盐水或葡萄糖液，总量160ml，30分钟输注",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "对本品过敏者、活动性自身免疫病患者慎用",
+      "cuidadosMedicos": "监测肝肾功能、内分泌、影像学及毒副反应",
+      "cuidadosFarmaceuticos": "确保冷链运输，正确稀释与输注",
+      "cuidadosEnfermagem": "观察发热、皮疹、腹泻、呼吸困难等免疫相关不良反应",
+      "fontesBibliograficas": "中国药典、Micromedex、EMA、FDA、NCCN"
+    }
+  }
+}

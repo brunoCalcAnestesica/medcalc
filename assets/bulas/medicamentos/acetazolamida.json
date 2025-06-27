@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Acetazolamida",
+      "suspension": "Suspender 24–48 horas antes da cirurgia",
+      "risk": "Risco de acidose metabólica, distúrbios hidroeletrolíticos e interação com anestésicos",
+      "reintroduction": "Reintroduzir com cautela e monitoramento ácido-básico e renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetazolamida",
+      "nomeComercial": "Diamox, Glaupax",
+      "mecanismoAcao": "Inibe anidrase carbônica, reduzendo produção de humor aquoso e reabsorção tubular de bicarbonato",
+      "farmacocinetica": "Início 1–2 h (oral), pico 2–4 h, duração 8–12 h; excreção renal",
+      "farmacodinamica": "Reduz pressão intraocular e causa diurese com perda de bicarbonato",
+      "indicacoes": "Glaucoma, epilepsia, edema, alcalose metabólica, mal da altitude",
+      "reacoesAdversas": "Parestesias, anorexia, náusea, hipocalemia, acidose metabólica",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar se possível; pode acidificar o leite",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "1000 mg/dia (adultos)",
+      "doseMinima": "125 mg/dia",
+      "classificacao": "Inibidor da anidrase carbônica sistêmico",
+      "apresentacao": "Comprimidos 250 mg, ampola 500 mg IV",
+      "interacaoMedicamento": "Interage com diuréticos, salicilatos, lítio, anestésicos, corticosteroides",
+      "posologia": "250–500 mg 1–2x/dia; até 4x/dia em indicações específicas",
+      "armazenamento": "Temperatura ambiente; proteger da luz",
+      "preparo": "IV: reconstituir com 5 mL de água estéril",
+      "solucoesCompatíveis": "Água estéril, SF 0,9%",
+      "contraindicacoes": "Insuficiência hepática grave, hiponatremia, hipocalemia, doença renal grave",
+      "cuidadosMedicos": "Monitorar eletrólitos, pH e função renal",
+      "cuidadosFarmaceuticos": "Evitar uso prolongado sem controle ácido-básico",
+      "cuidadosEnfermagem": "Observar sinais de acidose e alterações neurológicas",
+      "fontesBibliograficas": "Micromedex, FDA, UpToDate, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Acetazolamide",
+      "suspension": "Discontinue 24–48 hours before surgery",
+      "risk": "Risk of metabolic acidosis, hypokalemia, renal stress; interacts with anesthesia",
+      "reintroduction": "Restart only with monitoring of electrolytes and acid-base balance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetazolamide",
+      "nomeComercial": "Diamox",
+      "mecanismoAcao": "Carbonic anhydrase inhibitor; decreases aqueous humor and bicarbonate reabsorption",
+      "farmacocinetica": "Oral onset ~1–2 h, peak 2–4 h, duration 8–12 h; renal excretion",
+      "farmacodinamica": "Reduces IOP, causes diuresis, induces mild acidosis",
+      "indicacoes": "Glaucoma, edema, metabolic alkalosis, altitude sickness, seizures",
+      "reacoesAdversas": "Fatigue, paresthesia, nausea, hypokalemia, acidosis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use with caution",
+      "administracao": "Oral or IV",
+      "doseMaxima": "1000 mg/day",
+      "doseMinima": "125 mg/day",
+      "classificacao": "Systemic carbonic anhydrase inhibitor",
+      "apresentacao": "250 mg tablets, 500 mg IV vial",
+      "interacaoMedicamento": "Caution with lithium, salicylates, diuretics, anesthetics",
+      "posologia": "250–500 mg 1–2x/day; adjust based on indication",
+      "armazenamento": "Store at room temperature",
+      "preparo": "Reconstitute 500 mg IV with 5 mL sterile water",
+      "solucoesCompatíveis": "Sterile water, 0.9% NaCl",
+      "contraindicacoes": "Severe hepatic or renal disease, hyponatremia, hypokalemia",
+      "cuidadosMedicos": "Monitor ABG, renal function, potassium",
+      "cuidadosFarmaceuticos": "Educate on hydration and signs of acidosis",
+      "cuidadosEnfermagem": "Check pH, neurologic status, serum bicarbonate",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Acetazolamida",
+      "suspension": "Suspender 24–48 h antes de cirugía",
+      "risk": "Riesgo de acidosis metabólica, hipopotasemia; interacción con anestesia",
+      "reintroduction": "Reiniciar con control ácido-base y renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetazolamida",
+      "nomeComercial": "Diamox",
+      "mecanismoAcao": "Inhibidor de la anhidrasa carbónica; disminuye humor acuoso y bicarbonato",
+      "farmacocinetica": "Inicio 1–2 h, duración 8–12 h, excreción renal",
+      "farmacodinamica": "Disminuye PIO y causa diuresis con acidosis leve",
+      "indicacoes": "Glaucoma, edema, alcalosis metabólica, mal de altura",
+      "reacoesAdversas": "Parestesias, náuseas, hipopotasemia, acidosis",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar uso prolongado",
+      "administracao": "Oral o IV",
+      "doseMaxima": "1000 mg/día",
+      "doseMinima": "125 mg/día",
+      "classificacao": "Inhibidor sistémico de anhidrasa carbónica",
+      "apresentacao": "250 mg comprimidos, 500 mg ampollas IV",
+      "interacaoMedicamento": "Evitar con litio, salicilatos, diuréticos",
+      "posologia": "250–500 mg 1–2 veces/día",
+      "armazenamento": "15–25°C",
+      "preparo": "Reconstituir ampolla con 5 mL agua estéril",
+      "solucoesCompatíveis": "Agua estéril, SSF",
+      "contraindicacoes": "Insuficiencia hepática o renal, hiponatremia, hipopotasemia",
+      "cuidadosMedicos": "Controlar pH y electrólitos",
+      "cuidadosFarmaceuticos": "Evitar uso crónico sin seguimiento",
+      "cuidadosEnfermagem": "Observar signos de acidosis, cansancio, confusión",
+      "fontesBibliograficas": "EMA, Vademécum, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乙酰唑胺",
+      "suspension": "术前建议提前24–48小时停药",
+      "risk": "可能引起代谢性酸中毒、电解质紊乱、麻醉中协同风险",
+      "reintroduction": "术后需监测pH、电解质及肾功能后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乙酰唑胺",
+      "nomeComercial": "Diamox",
+      "mecanismoAcao": "抑制碳酸酐酶，减少房水及肾小管HCO₃⁻重吸收",
+      "farmacocinetica": "起效1–2小时，作用持续8–12小时，经肾排泄",
+      "farmacodinamica": "降眼压、碱性尿、抑制高原反应",
+      "indicacoes": "青光眼、水肿、高原反应、碱中毒",
+      "reacoesAdversas": "四肢麻木、食欲减退、低钾、酸中毒",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免使用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日1000毫克",
+      "doseMinima": "每日125毫克",
+      "classificacao": "全身性碳酸酐酶抑制剂",
+      "apresentacao": "250毫克片剂、500毫克注射粉剂",
+      "interacaoMedicamento": "与水杨酸、锂、利尿剂、麻醉剂相互作用",
+      "posologia": "每日1–2次，250–500毫克",
+      "armazenamento": "15–25°C",
+      "preparo": "注射用药稀释5 mL注射用水",
+      "solucoesCompatíveis": "注射用水、生理盐水",
+      "contraindicacoes": "重度肝/肾衰竭、低钠低钾血症",
+      "cuidadosMedicos": "监测血气、肾功能、电解质",
+      "cuidadosFarmaceuticos": "长期使用需严密监测",
+      "cuidadosEnfermagem": "观察酸中毒体征、电解质紊乱",
+      "fontesBibliograficas": "中国药典, UpToDate, Micromedex"
+    }
+  }
+}

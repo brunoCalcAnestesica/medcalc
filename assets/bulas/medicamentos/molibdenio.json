@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Molibdênio",
+      "suspension": "Não requer suspensão antes de procedimentos; uso seguro em doses fisiológicas",
+      "risk": "Doses excessivas podem causar acidose, gota, irritação gastrointestinal e deficiência secundária de cobre",
+      "reintroduction": "Pode ser reintroduzido conforme tolerância e níveis laboratoriais"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Molibdênio (molibdato de sódio, molibdato de amônio)",
+      "nomeComercial": "Molybdenum Chelate, Molibden B12, Molybdenum Complex, Molibdenum 150",
+      "mecanismoAcao": "Mineral traço essencial atuando como cofator de enzimas como xantina oxidase, sulfito oxidase e aldeído oxidase",
+      "farmacocinetica": "Boa absorção intestinal; distribuído para fígado, rins, glândulas; excreção renal",
+      "farmacodinamica": "Participa da detoxificação de sulfetos, purinas, sulfitos e aldeídos; auxilia metabolismo de aminoácidos contendo enxofre",
+      "indicacoes": "Deficiências nutricionais, suporte hepático e enzimático, hiperoxalúria, distúrbios do metabolismo do enxofre",
+      "reacoesAdversas": "Raras: diarreia, náusea, uricemia aumentada, gosto metálico (em doses elevadas)",
+      "riscoGravidez": "Categoria A – seguro em doses alimentares (≤45 mcg/dia)",
+      "riscoLactacao": "Seguro em níveis fisiológicos; presente no leite humano",
+      "administracao": "Uso oral",
+      "doseMaxima": "UL: 2000 mcg/dia; funcional: 75–150 mcg/dia",
+      "doseMinima": "45 mcg/dia como ingestão diária recomendada (IDR)",
+      "classificacao": "Micronutriente essencial – cofator enzimático – mineral traço antioxidante",
+      "apresentacao": "Comprimidos, cápsulas, polivitamínicos minerais",
+      "interacaoMedicamento": "Altas doses reduzem absorção de cobre; cuidado com uso prolongado sem monitoramento",
+      "posologia": "45 a 150 mcg/dia com alimentos",
+      "armazenamento": "Armazenar ao abrigo de luz, calor e umidade",
+      "preparo": "Forma quelada com aminoácidos (como glicina) possui melhor biodisponibilidade",
+      "solucoesCompatíveis": "Zinco, cobre, selênio, vitamina B2, enxofre orgânico (MSM)",
+      "contraindicacoes": "Gota ativa, insuficiência renal grave, hipercupremia",
+      "cuidadosMedicos": "Monitorar ácido úrico, função renal e cobre sérico em suplementação prolongada",
+      "cuidadosFarmaceuticos": "Evitar megadoses; orientar sobre função e limite seguro de ingestão",
+      "cuidadosEnfermagem": "Observar sinais de desconforto digestivo e adesão; reforçar dieta balanceada",
+      "fontesBibliograficas": "ANVISA, NIH ODS, Medscape, UpToDate, EFSA, Clinical Nutrition"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Molybdenum",
+      "suspension": "No suspension needed before procedures; safe at physiological doses",
+      "risk": "Excess intake may cause gout, acidosis, GI irritation, or copper deficiency",
+      "reintroduction": "Can be reintroduced based on lab levels and clinical tolerance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Molybdenum (sodium molybdate, ammonium molybdate)",
+      "nomeComercial": "Molybdenum Chelate, Molybdenum 150, Trace Mineral Complex, Molibden B12",
+      "mecanismoAcao": "Essential trace element acting as cofactor for enzymes like xanthine oxidase, sulfite oxidase, aldehyde oxidase",
+      "farmacocinetica": "Well absorbed; distributed to liver, kidneys, glands; excreted via urine",
+      "farmacodinamica": "Involved in detoxification of sulfites, aldehydes, purines; supports sulfur-containing amino acid metabolism",
+      "indicacoes": "Nutritional deficiencies, sulfur metabolism disorders, oxalate metabolism support, enzymatic detox pathways",
+      "reacoesAdversas": "Rare: diarrhea, nausea, metallic taste, increased uric acid (high doses)",
+      "riscoGravidez": "Category A – safe at dietary doses (≤45 mcg/day)",
+      "riscoLactacao": "Safe; present in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "UL: 2000 mcg/day; functional: 75–150 mcg/day",
+      "doseMinima": "45 mcg/day (RDA)",
+      "classificacao": "Essential trace mineral – enzymatic cofactor – detox support",
+      "apresentacao": "Capsules, tablets, multivitamin blends",
+      "interacaoMedicamento": "High doses may reduce copper absorption; caution with prolonged use",
+      "posologia": "45–150 mcg/day with food",
+      "armazenamento": "Store in a cool, dry place protected from heat and light",
+      "preparo": "Chelated forms (e.g. glycine-bound) offer better bioavailability",
+      "solucoesCompatíveis": "Zinc, selenium, copper, vitamin B2, MSM",
+      "contraindicacoes": "Active gout, severe renal impairment, hypercupremia",
+      "cuidadosMedicos": "Monitor uric acid, renal function, and copper during prolonged supplementation",
+      "cuidadosFarmaceuticos": "Avoid megadoses; reinforce physiological intake range",
+      "cuidadosEnfermagem": "Watch for GI symptoms; reinforce adherence and nutritional guidance",
+      "fontesBibliograficas": "NIH ODS, Medscape, UpToDate, EFSA, Clinical Nutrition"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Molibdeno",
+      "suspension": "No requiere suspensión antes de procedimientos; seguro en dosis fisiológicas",
+      "risk": "Dosis altas pueden causar gota, acidosis, irritación gastrointestinal o déficit de cobre",
+      "reintroduction": "Puede reintroducirse tras evaluación clínica y laboratorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Molibdeno (molibdato de sodio o amonio)",
+      "nomeComercial": "Molybdenum Complex, Molibden B12, Molybdenum 150, Trace Minerals",
+      "mecanismoAcao": "Cofactor de enzimas como xantina oxidasa, sulfito oxidasa y aldehído oxidasa",
+      "farmacocinetica": "Buena absorción; distribución hepática y renal; eliminación urinaria",
+      "farmacodinamica": "Desintoxica sulfitos y purinas, apoya metabolismo de aminoácidos sulfurados y función enzimática hepática",
+      "indicacoes": "Déficits nutricionales, trastornos del azufre, hiperoxaluria, soporte hepático",
+      "reacoesAdversas": "Náuseas, diarrea, sabor metálico, hiperuricemia (en exceso)",
+      "riscoGravidez": "Categoría A – seguro en cantidades nutricionales (≤45 mcg/día)",
+      "riscoLactacao": "Seguro; presente en la leche materna",
+      "administracao": "Oral",
+      "doseMaxima": "UL: 2000 mcg/día; funcional: 75–150 mcg/día",
+      "doseMinima": "45 mcg/día (requerimiento diario)",
+      "classificacao": "Mineral traza esencial – cofactor enzimático – apoyo hepático",
+      "apresentacao": "Cápsulas, tabletas, multivitamínicos",
+      "interacaoMedicamento": "Puede reducir absorción de cobre; controlar uso prolongado",
+      "posologia": "45–150 mcg/día con comidas",
+      "armazenamento": "Lugar seco, fresco y protegido de la luz",
+      "preparo": "Quelados orgánicos tienen mejor absorción (glicina, citrato)",
+      "solucoesCompatíveis": "Cobre, zinc, selenio, MSM, B2",
+      "contraindicacoes": "Gota, insuficiencia renal, hipercupremia",
+      "cuidadosMedicos": "Monitorear función renal, cobre sérico y ácido úrico",
+      "cuidadosFarmaceuticos": "Evitar megadosis; reforzar nivel de ingesta recomendada",
+      "cuidadosEnfermagem": "Observar tolerancia digestiva y adherencia; reforzar hidratación",
+      "fontesBibliograficas": "AEMPS, EFSA, Medscape, UpToDate, ODS NIH"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "钼（Molybdenum）",
+      "suspension": "无需术前停用，营养剂量安全",
+      "risk": "过量可能导致痛风、胃肠不适、铜缺乏或代谢紊乱",
+      "reintroduction": "根据实验室指标和耐受情况可重新服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "钼（钼酸钠或钼酸铵）",
+      "nomeComercial": "Molibden B12、Molybdenum Complex、微量元素复合片、Molybdenum 150",
+      "mecanismoAcao": "为黄嘌呤氧化酶、亚硫酸氧化酶、醛氧化酶等酶类的关键辅因子",
+      "farmacocinetica": "口服吸收良好，经肝分布，肾脏排泄",
+      "farmacodinamica": "参与嘌呤、亚硫酸盐等代谢清除，支持含硫氨基酸代谢与解毒酶活性",
+      "indicacoes": "营养缺乏、硫代谢紊乱、尿酸异常、肝酶解毒支持",
+      "reacoesAdversas": "恶心、金属味、腹泻、尿酸升高（剂量过大）",
+      "riscoGravidez": "A类 – 在推荐摄入量下安全",
+      "riscoLactacao": "安全，母乳中自然存在",
+      "administracao": "口服",
+      "doseMaxima": "每日不超过2000微克（UL）",
+      "doseMinima": "每日45微克（中国DRI）",
+      "classificacao": "必需微量元素 – 酶促反应调节剂",
+      "apresentacao": "胶囊、片剂、微量元素营养包",
+      "interacaoMedicamento": "高剂量可能干扰铜吸收，长期使用需监控",
+      "posologia": "每日45–150微克，建议随餐服用",
+      "armazenamento": "阴凉干燥密闭储存，避免高温与潮湿",
+      "preparo": "有机螯合钼（如甘氨酸螯合）生物利用率更佳",
+      "solucoesCompatíveis": "锌、铜、硒、维生素B2、MSM",
+      "contraindicacoes": "活动性痛风、高尿酸血症、重度肾功能衰竭",
+      "cuidadosMedicos": "补充期间应监测尿酸与铜水平",
+      "cuidadosFarmaceuticos": "避免超过上限摄入，适量补充即可",
+      "cuidadosEnfermagem": "关注消化耐受与尿酸反应，指导饮水与摄入均衡",
+      "fontesBibliograficas": "中国营养学会、NIH ODS、UpToDate、Medscape、EFSA"
+    }
+  }
+}

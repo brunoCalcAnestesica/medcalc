@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bupropiona SR",
+      "suspension": "Suspender 24 horas antes da cirurgia",
+      "risk": "Risco de convulsões, hipertensão e interação com anestésicos; redução do limiar convulsivo é preocupação perioperatória",
+      "reintroduction": "Reintroduzir após estabilidade hemodinâmica e confirmação de ausência de convulsões no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bupropiona cloridrato (liberação sustentada)",
+      "nomeComercial": "Wellbutrin SR, Zetron, Bup, Buprosan SR",
+      "mecanismoAcao": "Inibidor da recaptação de dopamina e noradrenalina; mecanismo exato no TDM é desconhecido",
+      "farmacocinetica": "Biodisponibilidade oral ~87%; início em 3h; meia-vida de 21h; metabolizado no fígado (CYP2B6)",
+      "farmacodinamica": "Estimulante leve do SNC; não afeta diretamente serotonina; ação antidepressiva e para cessação tabágica",
+      "indicacoes": "Transtorno depressivo maior, cessação do tabagismo, depressão sazonal (TAS)",
+      "reacoesAdversas": "Insônia, boca seca, cefaleia, náuseas, tremores, agitação, risco de convulsões",
+      "riscoGravidez": "Categoria C – uso apenas se necessário; avaliar risco/benefício",
+      "riscoLactacao": "Excretado no leite materno; risco de efeitos no lactente",
+      "administracao": "Via oral; 1–2 vezes ao dia com intervalo mínimo de 8h",
+      "doseMaxima": "400 mg/dia (SR)",
+      "doseMinima": "100 mg/dia",
+      "classificacao": "Antidepressivo – inibidor da recaptação de dopamina e noradrenalina (NDRI)",
+      "apresentacao": "Comprimidos de liberação sustentada: 100 mg, 150 mg, 200 mg",
+      "interacaoMedicamento": "Evitar com IMAOs, outros antidepressivos com risco convulsivo, antipsicóticos, benzodiazepínicos, álcool",
+      "posologia": "Inicial: 150 mg/dia; manutenção: 150 mg 2x/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C); evitar umidade",
+      "preparo": "Não quebrar ou mastigar comprimidos SR",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Epilepsia, transtornos alimentares, uso recente de IMAO, abstinência de álcool ou benzodiazepínicos",
+      "cuidadosMedicos": "Monitorar PA, risco convulsivo, sintomas neuropsiquiátricos",
+      "cuidadosFarmaceuticos": "Orientar sobre administração correta e risco de overdose",
+      "cuidadosEnfermagem": "Observar sinais de agitação, insônia e convulsão; avaliar adesão",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, DSM-5, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bupropion SR",
+      "suspension": "Discontinue 24 hours prior to surgery",
+      "risk": "Risk of seizures, hypertension, and anesthetic interaction; seizure threshold reduction is a key concern",
+      "reintroduction": "Reintroduce after hemodynamic stabilization and absence of postoperative seizures"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bupropion hydrochloride (sustained release)",
+      "nomeComercial": "Wellbutrin SR, Zyban, Bupropion SR",
+      "mecanismoAcao": "Norepinephrine and dopamine reuptake inhibitor (NDRI); exact antidepressant mechanism unknown",
+      "farmacocinetica": "Oral bioavailability ~87%; onset ~3h; half-life ~21h; metabolized by CYP2B6",
+      "farmacodinamica": "Mild CNS stimulant; lacks serotonergic effect; used in depression and smoking cessation",
+      "indicacoes": "Major depressive disorder, seasonal affective disorder, smoking cessation",
+      "reacoesAdversas": "Insomnia, dry mouth, headache, nausea, tremor, agitation, risk of seizures",
+      "riscoGravidez": "Category C – use if clearly needed",
+      "riscoLactacao": "Excreted in breast milk; potential effects on infant",
+      "administracao": "Oral; 1–2 times daily, at least 8h apart",
+      "doseMaxima": "400 mg/day (SR)",
+      "doseMinima": "100 mg/day",
+      "classificacao": "Antidepressant – norepinephrine-dopamine reuptake inhibitor (NDRI)",
+      "apresentacao": "Sustained release tablets: 100 mg, 150 mg, 200 mg",
+      "interacaoMedicamento": "Avoid with MAOIs, seizure-threshold-lowering drugs, antipsychotics, benzodiazepines, alcohol",
+      "posologia": "Start: 150 mg/day; maintenance: 150 mg twice daily",
+      "armazenamento": "Store at 15–30°C; avoid moisture",
+      "preparo": "Do not crush or chew SR tablets",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Seizure disorders, eating disorders, recent MAOI use, abrupt alcohol or sedative withdrawal",
+      "cuidadosMedicos": "Monitor BP, seizure risk, and neuropsychiatric symptoms",
+      "cuidadosFarmaceuticos": "Instruct on correct dosing and overdose risk",
+      "cuidadosEnfermagem": "Observe for agitation, insomnia, seizures; assess adherence",
+      "fontesBibliograficas": "FDA, Micromedex, DSM-5, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bupropion SR",
+      "suspension": "Suspender 24 horas antes de la cirugía",
+      "risk": "Riesgo de convulsiones, hipertensión e interacción anestésica; reduce el umbral convulsivo",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica y ausencia de convulsiones postoperatorias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de bupropión (liberación sostenida)",
+      "nomeComercial": "Wellbutrin SR, Zyban",
+      "mecanismoAcao": "Inhibidor de la recaptación de dopamina y noradrenalina (IRDN)",
+      "farmacocinetica": "Biodisponibilidad oral ~87%; inicio ~3h; vida media ~21h; metabolizado por CYP2B6",
+      "farmacodinamica": "Estimulante leve del SNC; sin efecto serotoninérgico; indicado para depresión y dejar de fumar",
+      "indicacoes": "Trastorno depresivo mayor, trastorno afectivo estacional, cesación tabáquica",
+      "reacoesAdversas": "Insomnio, boca seca, cefalea, náuseas, temblor, agitación, riesgo de convulsiones",
+      "riscoGravidez": "Categoría C – usar solo si es necesario",
+      "riscoLactacao": "Se excreta en la leche materna; posible riesgo para el lactante",
+      "administracao": "Vía oral, 1–2 veces al día con al menos 8h entre dosis",
+      "doseMaxima": "400 mg/día (SR)",
+      "doseMinima": "100 mg/día",
+      "classificacao": "Antidepresivo – inhibidor de recaptación de dopamina y noradrenalina (IRDN)",
+      "apresentacao": "Comprimidos de liberación sostenida: 100 mg, 150 mg, 200 mg",
+      "interacaoMedicamento": "Evitar con IMAO, fármacos que reducen el umbral convulsivo, antipsicóticos, alcohol",
+      "posologia": "Inicial: 150 mg/día; mantenimiento: 150 mg dos veces al día",
+      "armazenamento": "15–30°C; evitar humedad",
+      "preparo": "No triturar ni masticar comprimidos SR",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Epilepsia, trastornos alimentarios, uso reciente de IMAO, abstinencia de alcohol/sedantes",
+      "cuidadosMedicos": "Monitorear PA, riesgo de convulsiones, síntomas neuropsiquiátricos",
+      "cuidadosFarmaceuticos": "Advertir sobre forma de administración y riesgo de sobredosis",
+      "cuidadosEnfermagem": "Observar insomnio, agitación, convulsiones; controlar adherencia",
+      "fontesBibliograficas": "FDA, Micromedex, DSM-5, Guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "安非他酮缓释片",
+      "suspension": "术前24小时停药",
+      "risk": "有癫痫、高血压和麻醉相互作用风险；术中关注降低癫痫阈值",
+      "reintroduction": "术后血流动力学稳定、无癫痫发作后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "安非他酮盐酸盐（缓释）",
+      "nomeComercial": "Wellbutrin SR, Zyban",
+      "mecanismoAcao": "去甲肾上腺素和多巴胺再摄取抑制剂（NDRI）",
+      "farmacocinetica": "口服生物利用度约87%；起效约3小时；半衰期约21小时；经CYP2B6代谢",
+      "farmacodinamica": "轻度中枢神经刺激；无血清素作用；适用于抑郁和戒烟",
+      "indicacoes": "重度抑郁障碍、季节性情感障碍、戒烟辅助治疗",
+      "reacoesAdversas": "失眠、口干、头痛、恶心、震颤、激动、癫痫风险",
+      "riscoGravidez": "C类 – 仅在必要时使用",
+      "riscoLactacao": "可分泌至乳汁中；可能影响婴儿",
+      "administracao": "口服，每日1–2次，间隔至少8小时",
+      "doseMaxima": "每日400毫克（SR）",
+      "doseMinima": "每日100毫克",
+      "classificacao": "抗抑郁药 – 去甲肾上腺素和多巴胺再摄取抑制剂",
+      "apresentacao": "缓释片剂：100mg、150mg、200mg",
+      "interacaoMedicamento": "避免与MAOI、降低癫痫阈的药物、抗精神病药、酒精联用",
+      "posologia": "初始150mg/天；维持150mg早晚各一次",
+      "armazenamento": "15–30°C，防潮保存",
+      "preparo": "不可咀嚼或掰开缓释片",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "癫痫、饮食障碍、近期使用MAOI、酒精或镇静药物戒断",
+      "cuidadosMedicos": "监测血压、癫痫风险、精神神经症状",
+      "cuidadosFarmaceuticos": "指导正确服药方法，警示过量风险",
+      "cuidadosEnfermagem": "注意失眠、激动、癫痫发作，评估依从性",
+      "fontesBibliograficas": "FDA, 中国药典, Micromedex, DSM-5, UpToDate"
+    }
+  }
+}

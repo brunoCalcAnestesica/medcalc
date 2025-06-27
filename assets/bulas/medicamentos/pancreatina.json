@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pancreatina",
+      "suspension": "Suspender 24–48h antes de cirurgias com jejum prolongado ou manipulação pancreática",
+      "risk": "Pode causar irritação gástrica, obstrução em altas doses, hiperuricosúria; risco teórico de fibrose colônica em uso crônico com altas doses",
+      "reintroduction": "Reintroduzir quando dieta oral for reestabelecida, especialmente em pacientes com insuficiência pancreática exócrina"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pancreatina (mistura de amilase, lipase, protease)",
+      "nomeComercial": "Creon, Pancreoflat, Eurobiol, Panzytrat, Enzicoba",
+      "mecanismoAcao": "Enzimas digestivas de origem porcina que facilitam a digestão de carboidratos, gorduras e proteínas",
+      "farmacocinetica": "Ação tópica no lúmen intestinal; não absorvida sistemicamente; eliminada pelas fezes",
+      "farmacodinamica": "Melhora a absorção de nutrientes em casos de insuficiência pancreática exócrina",
+      "indicacoes": "Fibrose cística, pancreatite crônica, gastrectomia, ressecções intestinais, síndrome de Shwachman-Diamond",
+      "reacoesAdversas": "Flatulência, náusea, dor abdominal, constipação, hiperuricosúria, estomatite",
+      "riscoGravidez": "Categoria C – usar se benefício justificar",
+      "riscoLactacao": "Provavelmente seguro",
+      "administracao": "Oral com refeições ou lanches",
+      "doseMaxima": "10000 UI/kg/dia de lipase (uso crônico pediátrico)",
+      "doseMinima": "500 UI/kg/refeição (crianças); 25000–50000 UI/refeição (adultos)",
+      "classificacao": "Suplemento enzimático digestivo",
+      "apresentacao": "Cápsulas gastrorresistentes com microgrânulos ou comprimidos",
+      "interacaoMedicamento": "Reduz absorção de ferro e ácido fólico; cuidado com antiácidos",
+      "posologia": "Dose individualizada conforme peso, refeição e resposta clínica",
+      "armazenamento": "Temperatura ambiente <25°C; evitar umidade",
+      "preparo": "Não mastigar nem esmagar; cápsulas podem ser abertas e grânulos administrados com alimentos ácidos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Pancreatite aguda ativa ou hipersensibilidade a proteínas suínas",
+      "cuidadosMedicos": "Monitorar ganho ponderal, sintomas de má absorção, função pancreática",
+      "cuidadosFarmaceuticos": "Orientar forma correta de administração e conservação",
+      "cuidadosEnfermagem": "Observar aderência ao tratamento e resposta digestiva",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, SBAD"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pancreatin",
+      "suspension": "Hold 24–48h prior to GI or pancreatic surgery",
+      "risk": "GI irritation, high-dose obstruction risk, hyperuricosuria; rare colonic stricture",
+      "reintroduction": "Restart once oral feeding resumes, especially in pancreatic insufficiency"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pancreatin (porcine-derived amylase, lipase, protease)",
+      "nomeComercial": "Creon, Pancreaze, Zenpep, Ultresa",
+      "mecanismoAcao": "Provides exogenous digestive enzymes to aid in macronutrient digestion",
+      "farmacocinetica": "Not absorbed; local action in intestine; excreted in feces",
+      "farmacodinamica": "Improves fat, protein, and carbohydrate digestion",
+      "indicacoes": "Exocrine pancreatic insufficiency, CF, chronic pancreatitis, pancreatic surgery",
+      "reacoesAdversas": "Abdominal pain, nausea, flatulence, hyperuricosuria",
+      "riscoGravidez": "Category C – use if needed",
+      "riscoLactacao": "Likely safe",
+      "administracao": "Oral with meals and snacks",
+      "doseMaxima": "10000 units lipase/kg/day (CF guidelines)",
+      "doseMinima": "500–2500 units lipase/kg/meal",
+      "classificacao": "Digestive enzyme replacement",
+      "apresentacao": "Enteric-coated capsules or tablets",
+      "interacaoMedicamento": "Iron and folic acid absorption may be reduced",
+      "posologia": "Adjusted individually by weight and response",
+      "armazenamento": "<25°C, dry place",
+      "preparo": "Do not crush; can open capsule for acid food delivery",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Allergy to porcine proteins; active acute pancreatitis",
+      "cuidadosMedicos": "Monitor growth, nutrition, stool patterns",
+      "cuidadosFarmaceuticos": "Ensure correct use; advise not to crush",
+      "cuidadosEnfermagem": "Assist in timing with meals; track symptoms",
+      "fontesBibliograficas": "FDA, CF Foundation, Micromedex, Medscape"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pancreatina",
+      "suspension": "Suspender 24–48h antes de cirugía digestiva o pancreática",
+      "risk": "Irritación gastrointestinal, obstrucción por alta dosis, hiperuricosuria",
+      "reintroduction": "Reintroducir tras reanudación de alimentación oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pancreatina (enzimas porcinas)",
+      "nomeComercial": "Creon, Pancrex, Eurobiol",
+      "mecanismoAcao": "Proporciona amilasa, lipasa y proteasa exógenas para digestión",
+      "farmacocinetica": "Acción local en intestino; no absorbida",
+      "farmacodinamica": "Mejora digestión de nutrientes",
+      "indicacoes": "Insuficiencia pancreática exócrina",
+      "reacoesAdversas": "Dolor abdominal, náuseas, flatulencia, hiperuricemia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Segura",
+      "administracao": "Oral con comidas",
+      "doseMaxima": "10000 UI/kg/día",
+      "doseMinima": "500 UI/kg/comida",
+      "classificacao": "Enzima digestiva",
+      "apresentacao": "Cápsulas gastrorresistentes",
+      "interacaoMedicamento": "Interfiere con hierro y ácido fólico",
+      "posologia": "Individualizar por peso y síntomas",
+      "armazenamento": "<25°C seco",
+      "preparo": "No triturar; se puede abrir cápsula en alimento ácido",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a proteínas porcinas",
+      "cuidadosMedicos": "Control nutricional y digestivo",
+      "cuidadosFarmaceuticos": "Ver conservación y forma de uso",
+      "cuidadosEnfermagem": "Observar digestión, informar sobre administración",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "胰酶（胰酯酶复合制剂）",
+      "suspension": "术前48小时停用，特别是胰腺或胃肠手术",
+      "risk": "高剂量可能导致肠道阻塞、高尿酸血症、胃肠不适",
+      "reintroduction": "术后恢复口服后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "猪胰提取物（含脂肪酶、淀粉酶、蛋白酶）",
+      "nomeComercial": "Creon、唯达宁、潘妥康",
+      "mecanismoAcao": "补充胰酶以促进食物消化吸收",
+      "farmacocinetica": "肠道局部作用，不吸收，经粪便排出",
+      "farmacodinamica": "提高营养吸收，减少脂肪泻",
+      "indicacoes": "胰腺外分泌功能不全、囊性纤维化、胰腺切除术后",
+      "reacoesAdversas": "腹胀、恶心、便秘、皮疹",
+      "riscoGravidez": "C类 – 权衡利弊",
+      "riscoLactacao": "安全",
+      "administracao": "随主餐和零食口服",
+      "doseMaxima": "脂肪酶10000单位/kg/日",
+      "doseMinima": "500单位/kg/餐",
+      "classificacao": "消化酶补充剂",
+      "apresentacao": "肠溶微粒胶囊",
+      "interacaoMedicamento": "减少铁和叶酸吸收",
+      "posologia": "根据体重及食量个体化调整",
+      "armazenamento": "避光干燥，<25°C",
+      "preparo": "勿咀嚼；可开胶囊混合酸性食物服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对猪源蛋白过敏",
+      "cuidadosMedicos": "监测营养、体重、生长发育",
+      "cuidadosFarmaceuticos": "正确服药教育",
+      "cuidadosEnfermagem": "协助与餐同服，观察消化反应",
+      "fontesBibliograficas": "中国药典、Micromedex、EMA、FDA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Caspofungina",
+      "suspension": "Manter até o dia da cirurgia se houver infecção ativa",
+      "risk": "Baixo risco de interação anestésica direta, mas requer ajuste hepático e cuidado com infusão",
+      "reintroduction": "Reintroduzir com função hepática estável e monitoramento infusional"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Caspofungina",
+      "nomeComercial": "Cancidas",
+      "mecanismoAcao": "Inibe a síntese de β-(1,3)-D-glucano, essencial para a parede celular fúngica",
+      "farmacocinetica": "IV, meia-vida ~9–11 h, metabolização hepática lenta, excreção urinária e fecal",
+      "farmacodinamica": "Fungicida contra Candida spp., fungistático contra Aspergillus spp.",
+      "indicacoes": "Candidíase invasiva, candidemia, aspergilose invasiva refratária, profilaxia em neutropênicos",
+      "reacoesAdversas": "Febre, flebite, cefaleia, elevação de enzimas hepáticas, rash",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; evitar se possível",
+      "administracao": "Infusão intravenosa lenta (1 h)",
+      "doseMaxima": "70 mg no 1º dia, depois 50 mg/dia",
+      "doseMinima": "35 mg/dia em disfunção hepática",
+      "classificacao": "Equinocandina (antifúngico)",
+      "apresentacao": "Pó liofilizado para solução injetável (50 mg, 70 mg)",
+      "interacaoMedicamento": "Interações com ciclosporina, tacrolimo e carbamazepina (nível hepático)",
+      "posologia": "70 mg IV no 1º dia, seguido de 50 mg/dia",
+      "armazenamento": "Refrigerado (2–8°C), protegido da luz",
+      "preparo": "Reconstituir com água estéril, diluir em SF 0,9% ou SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade à caspofungina ou excipientes",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas e reações à infusão",
+      "cuidadosFarmaceuticos": "Reconstituir conforme especificação; observar estabilidade",
+      "cuidadosEnfermagem": "Administrar por bomba infusora; monitorar reação infusional",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, BNF, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Caspofungin",
+      "suspension": "Continue until day of surgery if treating active infection",
+      "risk": "Low direct anesthetic interaction; monitor liver and infusion-related reactions",
+      "reintroduction": "Restart when hepatic function is stable and infusion tolerated"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Caspofungin",
+      "nomeComercial": "Cancidas",
+      "mecanismoAcao": "Inhibits β-(1,3)-D-glucan synthesis, a key fungal cell wall component",
+      "farmacocinetica": "IV, half-life ~9–11 h, slow hepatic metabolism, fecal and renal excretion",
+      "farmacodinamica": "Fungicidal against Candida spp., fungistatic against Aspergillus spp.",
+      "indicacoes": "Invasive candidiasis, candidemia, refractory invasive aspergillosis, prophylaxis in neutropenic patients",
+      "reacoesAdversas": "Fever, phlebitis, headache, elevated liver enzymes, rash",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; avoid if possible",
+      "administracao": "Slow IV infusion over 1 hour",
+      "doseMaxima": "70 mg (loading), then 50 mg/day",
+      "doseMinima": "35 mg/day (hepatic impairment)",
+      "classificacao": "Echinocandin antifungal",
+      "apresentacao": "Lyophilized powder for injection (50 mg, 70 mg)",
+      "interacaoMedicamento": "Interacts with cyclosporine, tacrolimus, carbamazepine (hepatic metabolism)",
+      "posologia": "70 mg IV on day 1, then 50 mg/day",
+      "armazenamento": "Refrigerate (36–46°F), protect from light",
+      "preparo": "Reconstitute with sterile water, dilute in NS or D5W",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hypersensitivity to caspofungin or components",
+      "cuidadosMedicos": "Monitor liver enzymes and infusion reactions",
+      "cuidadosFarmaceuticos": "Follow proper reconstitution and dilution protocols",
+      "cuidadosEnfermagem": "Use infusion pump, observe for infusion reactions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Caspofungina",
+      "suspension": "Mantener hasta el día de la cirugía si hay infección activa",
+      "risk": "Bajo riesgo de interacción anestésica directa; controlar función hepática y reacciones a la infusión",
+      "reintroduction": "Reintroducir con función hepática estable y buena tolerancia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Caspofungina",
+      "nomeComercial": "Cancidas",
+      "mecanismoAcao": "Inhibe la síntesis de β-(1,3)-D-glucano, componente esencial de la pared celular fúngica",
+      "farmacocinetica": "IV, vida media 9–11 h, metabolismo hepático lento, excreción renal y fecal",
+      "farmacodinamica": "Fungicida frente a Candida spp., fungistático frente a Aspergillus spp.",
+      "indicacoes": "Candidiasis invasiva, candidemia, aspergilosis invasiva refractaria, profilaxis en neutropénicos",
+      "reacoesAdversas": "Fiebre, flebitis, cefalea, enzimas hepáticas elevadas, erupción",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; evitar si es posible",
+      "administracao": "Infusión IV lenta (1 h)",
+      "doseMaxima": "70 mg/día inicial, luego 50 mg/día",
+      "doseMinima": "35 mg/día en insuficiencia hepática",
+      "classificacao": "Equinocandina (antifúngico)",
+      "apresentacao": "Polvo liofilizado para solución inyectable (50 mg, 70 mg)",
+      "interacaoMedicamento": "Interacciones con ciclosporina, tacrolimus, carbamazepina",
+      "posologia": "70 mg IV primer día, seguido de 50 mg/día",
+      "armazenamento": "Refrigerado (2–8°C), protegido de la luz",
+      "preparo": "Reconstituir con agua estéril, diluir en SF 0,9% o SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidad a caspofungina o excipientes",
+      "cuidadosMedicos": "Monitorear enzimas hepáticas y reacciones infusionales",
+      "cuidadosFarmaceuticos": "Seguir protocolos de reconstitución y estabilidad",
+      "cuidadosEnfermagem": "Administrar con bomba de infusión; observar reacciones",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "卡泊芬净",
+      "suspension": "如有感染活动，术前继续使用",
+      "risk": "直接麻醉交互作用低，但需监测肝功能及输注反应",
+      "reintroduction": "术后在肝功能稳定并能耐受输注后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "卡泊芬净",
+      "nomeComercial": "Cancidas",
+      "mecanismoAcao": "抑制β-(1,3)-D-葡聚糖合成，破坏真菌细胞壁",
+      "farmacocinetica": "静脉注射，半衰期9–11小时，肝代谢缓慢，经尿和粪排泄",
+      "farmacodinamica": "对念珠菌具杀菌作用，对曲霉菌具抑菌作用",
+      "indicacoes": "侵袭性念珠菌病、血流感染、难治性曲霉菌病、中性粒细胞减少者预防",
+      "reacoesAdversas": "发热、静脉炎、头痛、转氨酶升高、皮疹",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期资料有限，慎用",
+      "administracao": "静脉输注（1小时）",
+      "doseMaxima": "首剂70 mg，维持剂量50 mg/天",
+      "doseMinima": "肝功能损害者35 mg/天",
+      "classificacao": "棘白菌素类抗真菌药",
+      "apresentacao": "注射用粉针50mg或70mg",
+      "interacaoMedicamento": "与环孢素、他克莫司、卡马西平有相互作用",
+      "posologia": "第1天70 mg，随后每日50 mg",
+      "armazenamento": "2–8°C冷藏，避光",
+      "preparo": "用无菌水重构后稀释于0.9%氯化钠或5%葡萄糖",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对卡泊芬净或辅料过敏",
+      "cuidadosMedicos": "监测肝功能和输注反应",
+      "cuidadosFarmaceuticos": "遵循稀释配制规范，注意稳定性",
+      "cuidadosEnfermagem": "使用输液泵，密切观察输注不良反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

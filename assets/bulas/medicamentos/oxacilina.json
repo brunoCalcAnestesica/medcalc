@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Oxacilina",
+      "suspension": "Manter até o momento da indução anestésica",
+      "risk": "Risco de reação alérgica em pacientes sensibilizados; em altas doses pode causar nefrotoxicidade",
+      "reintroduction": "Reintroduzir conforme necessidade clínica e avaliação infecciosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxacilina sódica",
+      "nomeComercial": "Oxacilin, Oxacil",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana; resistente à penicilinase",
+      "farmacocinetica": "IV ou IM, meia-vida ~30–60 min, excreção renal e biliar",
+      "farmacodinamica": "Bactericida contra estafilococos produtores de penicilinase (MSSA)",
+      "indicacoes": "Infecções por MSSA: endocardite, osteomielite, infecções de pele e tecidos moles",
+      "reacoesAdversas": "Nefrite intersticial, flebite, hepatotoxicidade, rash",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível",
+      "administracao": "Intravenosa ou intramuscular",
+      "doseMaxima": "12 g/dia (dividida)",
+      "doseMinima": "2 g/dia",
+      "classificacao": "Antibiótico betalactâmico (penicilina resistente à penicilinase)",
+      "apresentacao": "Frascos de 500 mg, 1 g e 2 g",
+      "interacaoMedicamento": "Pode diminuir eficácia de contraceptivos orais; antagonismo com bacteriostáticos",
+      "posologia": "2–4 g/dia divididos a cada 4–6h (adulto)",
+      "armazenamento": "Refrigerar pó; solução reconstituída estável por 24h sob refrigeração",
+      "preparo": "Diluir em SF 0,9% para infusão lenta IV ou bolus IM",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a penicilinas",
+      "cuidadosMedicos": "Monitorar função renal e hepática durante uso prolongado",
+      "cuidadosFarmaceuticos": "Garantir diluição correta e compatibilidade da solução",
+      "cuidadosEnfermagem": "Observar sinais de alergia, flebite e toxicidade renal",
+      "fontesBibliograficas": "ANVISA, Micromedex, BNF, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Oxacillin",
+      "suspension": "Continue until anesthesia induction",
+      "risk": "Allergic reactions possible; high doses may cause nephrotoxicity",
+      "reintroduction": "Restart as needed based on clinical and infectious evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxacillin sodium",
+      "nomeComercial": "Bactocill",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis; penicillinase-resistant",
+      "farmacocinetica": "IV or IM, half-life ~30–60 min, renal and biliary excretion",
+      "farmacodinamica": "Bactericidal against penicillinase-producing staphylococci (MSSA)",
+      "indicacoes": "MSSA infections: endocarditis, osteomyelitis, skin and soft tissue",
+      "reacoesAdversas": "Interstitial nephritis, phlebitis, hepatotoxicity, rash",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Compatible",
+      "administracao": "IV or IM",
+      "doseMaxima": "12 g/day (divided)",
+      "doseMinima": "2 g/day",
+      "classificacao": "Beta-lactam antibiotic (penicillinase-resistant)",
+      "apresentacao": "Vials of 500 mg, 1 g, 2 g",
+      "interacaoMedicamento": "May reduce oral contraceptive efficacy; antagonistic with bacteriostatics",
+      "posologia": "2–4 g/day divided q4–6h (adult)",
+      "armazenamento": "Refrigerate powder; reconstituted stable 24h in fridge",
+      "preparo": "Dilute in NS for slow IV or IM bolus",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Penicillin allergy",
+      "cuidadosMedicos": "Monitor renal and hepatic function with prolonged use",
+      "cuidadosFarmaceuticos": "Ensure proper dilution and compatibility",
+      "cuidadosEnfermagem": "Monitor for allergic reaction, phlebitis, renal toxicity",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Oxacilina",
+      "suspension": "Mantener hasta la inducción anestésica",
+      "risk": "Riesgo de reacciones alérgicas y toxicidad renal con dosis altas",
+      "reintroduction": "Reintroducir según necesidad clínica e infecciosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxacilina sódica",
+      "nomeComercial": "Oxacilina Normon",
+      "mecanismoAcao": "Inhibe la síntesis de la pared celular; resistente a penicilinasa",
+      "farmacocinetica": "IV o IM, vida media ~30–60 min, excreción renal y biliar",
+      "farmacodinamica": "Bactericida contra estafilococos MSSA",
+      "indicacoes": "Infecciones por MSSA: endocarditis, osteomielitis, piel y tejidos blandos",
+      "reacoesAdversas": "Nefritis intersticial, flebitis, hepatotoxicidad, erupción cutánea",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible",
+      "administracao": "IV o IM",
+      "doseMaxima": "12 g/día (dividido)",
+      "doseMinima": "2 g/día",
+      "classificacao": "Antibiótico betalactámico (resistente a penicilinasa)",
+      "apresentacao": "Viales de 500 mg, 1 g, 2 g",
+      "interacaoMedicamento": "Disminuye eficacia de anticonceptivos orales; antagonismo con bacteriostáticos",
+      "posologia": "2–4 g/día divididos cada 4–6h",
+      "armazenamento": "Refrigerar polvo; solución reconstituida estable 24h",
+      "preparo": "Diluir en SF 0,9%; infusión IV lenta o bolo IM",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a penicilinas",
+      "cuidadosMedicos": "Monitorizar función renal y hepática en tratamientos prolongados",
+      "cuidadosFarmaceuticos": "Verificar correcta dilución y compatibilidad",
+      "cuidadosEnfermagem": "Observar reacciones alérgicas y toxicidad renal",
+      "fontesBibliograficas": "AEMPS, Micromedex, WHO, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "苯唑西林",
+      "suspension": "可持续使用至麻醉诱导前",
+      "risk": "高剂量可能引起肾毒性及过敏反应",
+      "reintroduction": "术后根据感染情况继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "苯唑西林钠",
+      "nomeComercial": "Oxacillin（进口）",
+      "mecanismoAcao": "结合PBPs，抑制细胞壁合成，对β内酰胺酶稳定",
+      "farmacocinetica": "IV或IM，半衰期30–60分钟，经肾与胆汁排泄",
+      "farmacodinamica": "对产酶葡萄球菌（MSSA）具杀菌作用",
+      "indicacoes": "葡萄球菌感染：心内膜炎、骨髓炎、皮肤软组织感染",
+      "reacoesAdversas": "间质性肾炎、静脉炎、肝毒性、皮疹",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "静脉或肌肉注射",
+      "doseMaxima": "每日12克（分次）",
+      "doseMinima": "每日2克",
+      "classificacao": "β-内酰胺类抗生素（耐青霉素酶）",
+      "apresentacao": "500毫克、1克、2克瓶装",
+      "interacaoMedicamento": "影响口服避孕药，与抑菌剂拮抗",
+      "posologia": "每4–6小时给予500–1000毫克",
+      "armazenamento": "原粉冷藏，溶液冷藏24小时内用完",
+      "preparo": "用0.9%氯化钠稀释，IV缓注或IM注射",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "对青霉素过敏者禁用",
+      "cuidadosMedicos": "长期使用需监测肝肾功能",
+      "cuidadosFarmaceuticos": "确认配制浓度和药液稳定性",
+      "cuidadosEnfermagem": "观察过敏、静脉炎及肾毒性表现",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

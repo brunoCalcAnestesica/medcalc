@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Encorafenibe",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de arritmias, uveíte, hiperglicemia, disfunção hepática e retardo na cicatrização",
+      "reintroduction": "Reintroduzir após estabilização glicêmica, hepática e cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Encorafenibe",
+      "nomeComercial": "Braftovi",
+      "mecanismoAcao": "Inibidor seletivo da BRAF quinase mutada (V600E), bloqueando a via MAPK em tumores BRAF+",
+      "farmacocinetica": "Biodisponibilidade oral elevada; meia-vida de 6 h; metabolização via CYP3A4",
+      "farmacodinamica": "Reduz a proliferação celular em tumores com mutação BRAF V600",
+      "indicacoes": "Melanoma metastático BRAF V600E+, câncer colorretal BRAF+, em combinação com binimetinibe ou cetuximabe",
+      "reacoesAdversas": "Fadiga, náuseas, artralgia, uveíte, aumento de glicemia e transaminases, alopecia, rash",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "450 mg/dia (300 mg pela manhã + 150 mg à noite)",
+      "doseMinima": "150 mg/dia (ajustável)",
+      "classificacao": "Antineoplásico – inibidor de BRAF mutado",
+      "apresentacao": "Cápsulas de 75 mg, 50 mg",
+      "interacaoMedicamento": "Evitar com inibidores/indutores potentes de CYP3A4; cuidado com hipoglicemiantes, anticoagulantes",
+      "posologia": "450 mg/dia VO em combinação com binimetinibe ou cetuximabe",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade e luz",
+      "preparo": "Não requer preparo; cápsulas devem ser ingeridas inteiras",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, hepatopatia descompensada, retinopatia grave",
+      "cuidadosMedicos": "Monitorar função hepática, glicemia, ECG, fundo de olho",
+      "cuidadosFarmaceuticos": "Educar sobre interações e sinais visuais ou hepáticos",
+      "cuidadosEnfermagem": "Observar alterações visuais, hiperglicemia, rash, sintomas gastrointestinais",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Encorafenib",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of arrhythmias, uveitis, hyperglycemia, liver toxicity, impaired wound healing",
+      "reintroduction": "Restart after hepatic/glycemic stabilization and healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Encorafenib",
+      "nomeComercial": "Braftovi",
+      "mecanismoAcao": "Selective BRAF V600E kinase inhibitor blocking MAPK pathway",
+      "farmacocinetica": "High oral bioavailability; half-life ~6 h; CYP3A4 metabolism",
+      "farmacodinamica": "Suppresses proliferation in BRAF V600-mutant tumors",
+      "indicacoes": "BRAF+ melanoma and colorectal cancer (with binimetinib or cetuximab)",
+      "reacoesAdversas": "Fatigue, nausea, arthralgia, uveitis, hyperglycemia, liver enzyme elevation, alopecia, rash",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "450 mg/day (300 mg AM + 150 mg PM)",
+      "doseMinima": "150 mg/day (adjusted)",
+      "classificacao": "Antineoplastic – BRAF inhibitor",
+      "apresentacao": "Capsules: 75 mg, 50 mg",
+      "interacaoMedicamento": "Avoid strong CYP3A4 modulators; caution with hypoglycemics, anticoagulants",
+      "posologia": "450 mg/day orally in combination regimens",
+      "armazenamento": "Store at 15–30°C, protect from light and moisture",
+      "preparo": "No preparation required; swallow whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, decompensated liver disease, severe retinopathy",
+      "cuidadosMedicos": "Monitor LFTs, glucose, ECG, ophthalmic exam",
+      "cuidadosFarmaceuticos": "Educate on drug interactions and signs of eye/liver toxicity",
+      "cuidadosEnfermagem": "Monitor visual changes, glucose, rash, GI symptoms",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Encorafenib",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de arritmias, uveítis, hiperglucemia, hepatotoxicidad, cicatrización lenta",
+      "reintroduction": "Reintroducir tras estabilización hepática y glucémica, y cicatrización completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Encorafenib",
+      "nomeComercial": "Braftovi",
+      "mecanismoAcao": "Inhibidor selectivo de BRAF V600E, bloqueando la vía MAPK",
+      "farmacocinetica": "Buena biodisponibilidad oral; vida media ~6 h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Inhibe proliferación tumoral en cánceres con mutaciones BRAF V600",
+      "indicacoes": "Melanoma BRAF+ y cáncer colorrectal (con binimetinib o cetuximab)",
+      "reacoesAdversas": "Fatiga, náuseas, artralgias, uveítis, hiperglucemia, hepatotoxicidad, alopecia, erupción",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "450 mg/día (300 mg AM + 150 mg PM)",
+      "doseMinima": "150 mg/día",
+      "classificacao": "Antineoplásico – inhibidor de BRAF mutado",
+      "apresentacao": "Cápsulas de 75 mg, 50 mg",
+      "interacaoMedicamento": "Evitar inductores/inhibidores potentes de CYP3A4; precaución con hipoglucemiantes y anticoagulantes",
+      "posologia": "450 mg/día por vía oral, en combinación",
+      "armazenamento": "15–30°C, protegido de luz y humedad",
+      "preparo": "No requiere preparación; ingerir entero",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, hepatopatía grave, retinopatía activa",
+      "cuidadosMedicos": "Controlar glucosa, transaminasas, ECG y fondo de ojo",
+      "cuidadosFarmaceuticos": "Educar sobre toxicidades visuales y hepáticas",
+      "cuidadosEnfermagem": "Vigilar síntomas visuales, hiperglucemia, erupciones y síntomas GI",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "恩考拉非尼",
+      "suspension": "术前5天停药",
+      "risk": "心律不齐、葡萄膜炎、高血糖、肝功能异常、伤口愈合延迟风险",
+      "reintroduction": "术后肝功能与血糖恢复正常、伤口愈合后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "恩考拉非尼",
+      "nomeComercial": "Braftovi",
+      "mecanismoAcao": "选择性抑制BRAF V600E激酶，抑制MAPK信号通路",
+      "farmacocinetica": "口服吸收良好；半衰期约6小时；CYP3A4代谢",
+      "farmacodinamica": "抑制带有BRAF突变的肿瘤细胞增殖",
+      "indicacoes": "BRAF突变的黑色素瘤与结直肠癌（与binimetinib或cetuximab联合）",
+      "reacoesAdversas": "乏力、恶心、关节痛、葡萄膜炎、高血糖、肝酶升高、脱发、皮疹",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日450毫克（上午300 + 晚上150）",
+      "doseMinima": "每日150毫克",
+      "classificacao": "抗肿瘤药 – BRAF突变抑制剂",
+      "apresentacao": "胶囊：75 mg、50 mg",
+      "interacaoMedicamento": "避免与CYP3A4强抑制/诱导剂同用，注意降糖药和抗凝剂",
+      "posologia": "每日450 mg，分早晚服用，与其他药物联用",
+      "armazenamento": "15–30°C，避光避湿",
+      "preparo": "无需配制，整粒吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、严重肝功能损伤、视网膜病变",
+      "cuidadosMedicos": "监测肝功能、血糖、心电图、眼底",
+      "cuidadosFarmaceuticos": "指导识别肝毒性与视力异常",
+      "cuidadosEnfermagem": "观察视力变化、高血糖、皮疹和胃肠症状",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

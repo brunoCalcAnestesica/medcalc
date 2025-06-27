@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pioglitazona",
+      "suspension": "Suspender 24 horas antes da cirurgia",
+      "risk": "Risco de retenção hídrica, ICC e edema perioperatório",
+      "reintroduction": "Reintroduzir com cautela após estabilização hemodinâmica e ausência de sobrecarga hídrica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pioglitazona",
+      "nomeComercial": "Actos, Glustin, Pionix",
+      "mecanismoAcao": "Agonista do receptor PPAR-γ, melhora sensibilidade à insulina",
+      "farmacocinetica": "Boa absorção oral, metabolização hepática via CYP2C8 e CYP3A4",
+      "farmacodinamica": "Reduz resistência insulínica, aumenta captação de glicose",
+      "indicacoes": "Diabetes mellitus tipo 2",
+      "reacoesAdversas": "Edema, ganho de peso, risco aumentado de insuficiência cardíaca",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido, evitar durante a amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "45 mg/dia",
+      "doseMinima": "15 mg/dia",
+      "classificacao": "Tiazolidinediona (antidiabético oral)",
+      "apresentacao": "Comprimidos de 15, 30 e 45 mg",
+      "interacaoMedicamento": "Potencializa efeito de outros hipoglicemiantes; interação com contraceptivos orais",
+      "posologia": "Dose única diária",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "IC classe III/IV, disfunção hepática ativa",
+      "cuidadosMedicos": "Monitorar sinais de congestão e função hepática",
+      "cuidadosFarmaceuticos": "Evitar em pacientes com risco de insuficiência cardíaca",
+      "cuidadosEnfermagem": "Observar edemas, peso corporal e sinais respiratórios",
+      "fontesBibliograficas": "SBEM, ANVISA, FDA, EMA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pioglitazone",
+      "suspension": "Suspend 24 hours before surgery",
+      "risk": "Risk of fluid retention, CHF, and perioperative edema",
+      "reintroduction": "Reintroduce cautiously after hemodynamic stabilization and no fluid overload"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pioglitazone",
+      "nomeComercial": "Actos, Glustin, Pionix",
+      "mecanismoAcao": "PPAR-γ agonist that improves insulin sensitivity",
+      "farmacocinetica": "Well absorbed orally, metabolized via CYP2C8 and CYP3A4",
+      "farmacodinamica": "Decreases insulin resistance, increases glucose uptake",
+      "indicacoes": "Type 2 diabetes mellitus",
+      "reacoesAdversas": "Edema, weight gain, increased risk of heart failure",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; avoid during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "45 mg/day",
+      "doseMinima": "15 mg/day",
+      "classificacao": "Thiazolidinedione (oral antidiabetic)",
+      "apresentacao": "Tablets of 15, 30, and 45 mg",
+      "interacaoMedicamento": "Enhances effect of other antidiabetics; may affect oral contraceptives",
+      "posologia": "Single daily dose",
+      "armazenamento": "Store at room temperature, avoid moisture",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Class III/IV heart failure, active liver disease",
+      "cuidadosMedicos": "Monitor for fluid retention and liver function",
+      "cuidadosFarmaceuticos": "Avoid in patients at risk of heart failure",
+      "cuidadosEnfermagem": "Watch for edema, weight changes, and dyspnea",
+      "fontesBibliograficas": "FDA, EMA, SBEM, ANVISA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pioglitazona",
+      "suspension": "Suspender 24 horas antes de la cirugía",
+      "risk": "Riesgo de retención de líquidos, ICC y edema perioperatorio",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica y ausencia de sobrecarga hídrica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pioglitazona",
+      "nomeComercial": "Actos, Glustin, Pionix",
+      "mecanismoAcao": "Agonista de PPAR-γ, mejora la sensibilidad a la insulina",
+      "farmacocinetica": "Buena absorción oral, metabolismo hepático por CYP2C8 y CYP3A4",
+      "farmacodinamica": "Reduce la resistencia a la insulina, aumenta la captación de glucosa",
+      "indicacoes": "Diabetes tipo 2",
+      "reacoesAdversas": "Edema, aumento de peso, mayor riesgo de insuficiencia cardíaca",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante la lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "45 mg/día",
+      "doseMinima": "15 mg/día",
+      "classificacao": "Tiazolidinediona (antidiabético oral)",
+      "apresentacao": "Comprimidos de 15, 30 y 45 mg",
+      "interacaoMedicamento": "Potencia otros hipoglucemiantes; interacción con anticonceptivos orales",
+      "posologia": "Dosis única diaria",
+      "armazenamento": "Temperatura ambiente, protegido de la humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "ICC clase III/IV, enfermedad hepática activa",
+      "cuidadosMedicos": "Monitorear signos de congestión y función hepática",
+      "cuidadosFarmaceuticos": "Evitar en pacientes con riesgo de insuficiencia cardíaca",
+      "cuidadosEnfermagem": "Observar edemas, peso corporal y dificultad respiratoria",
+      "fontesBibliograficas": "EMA, FDA, SBEM, ANVISA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "吡格列酮",
+      "suspension": "术前24小时停药",
+      "risk": "术中可能导致液体潴留、心衰和水肿",
+      "reintroduction": "术后血流动力学稳定且无液体超负荷时重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "吡格列酮",
+      "nomeComercial": "Actos, Glustin, Pionix",
+      "mecanismoAcao": "PPAR-γ激动剂，增强胰岛素敏感性",
+      "farmacocinetica": "口服吸收良好，经CYP2C8和CYP3A4代谢",
+      "farmacodinamica": "降低胰岛素抵抗，提高葡萄糖摄取",
+      "indicacoes": "2型糖尿病",
+      "reacoesAdversas": "水肿、体重增加、心衰风险增加",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "未知，避免哺乳期使用",
+      "administracao": "口服",
+      "doseMaxima": "每日45毫克",
+      "doseMinima": "每日15毫克",
+      "classificacao": "噻唑烷二酮类（口服降糖药）",
+      "apresentacao": "15、30、45毫克片剂",
+      "interacaoMedicamento": "增强其他降糖药效果，可能影响口服避孕药",
+      "posologia": "每日一次",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "无需准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "III/IV级心衰、活动性肝病",
+      "cuidadosMedicos": "监测液体潴留和肝功能",
+      "cuidadosFarmaceuticos": "避免用于有心衰风险的患者",
+      "cuidadosEnfermagem": "观察水肿、体重变化和呼吸困难",
+      "fontesBibliograficas": "中国药典、FDA、EMA、SBEM、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cetoprofeno",
+      "suspension": "Suspender 48 horas antes de procedimentos cirúrgicos eletivos.",
+      "risk": "Aumenta o risco de sangramento gastrintestinal, toxicidade renal e inibição reversível da agregação plaquetária. Pode interagir com anestésicos e anticoagulantes.",
+      "reintroduction": "Reintroduzir 48–72h após cirurgia, com estabilidade clínica, hemodinâmica e função renal preservada."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cetoprofeno",
+      "nomeComercial": "Profenid, Artrosil, Oki, Ketoflex",
+      "mecanismoAcao": "Inibidor não seletivo das enzimas COX-1 e COX-2, reduzindo a síntese de prostaglandinas inflamatórias.",
+      "farmacocinetica": "Absorção oral rápida; pico plasmático em 0,5–2h; meia-vida 1,5–2h; metabolização hepática; excreção renal.",
+      "farmacodinamica": "Ação anti-inflamatória, analgésica e antipirética. Efeito antiplaquetário reversível.",
+      "indicacoes": "Artrite reumatoide, osteoartrite, dor aguda, lombalgia, dismenorreia, gota aguda, dor pós-operatória.",
+      "reacoesAdversas": "Náuseas, dispepsia, dor epigástrica, cefaleia, rash, sangramento GI, aumento de transaminases, retenção hídrica.",
+      "riscoGravidez": "Categoria C (1º e 2º trimestres), D no 3º.",
+      "riscoLactacao": "Evitar uso crônico durante a amamentação.",
+      "administracao": "Oral, intramuscular, intravenosa, tópica.",
+      "doseMaxima": "300 mg/dia (oral), 200 mg/dia (IM ou IV).",
+      "doseMinima": "50 mg/dose.",
+      "classificacao": "Anti-inflamatório não esteroidal (AINE) não seletivo.",
+      "apresentacao": "Comprimidos 50/100/150 mg, cápsulas SR, solução injetável 50/100 mg/mL, gel 2,5–5%.",
+      "interacaoMedicamento": "Interage com anticoagulantes, AAS, metotrexato, IECA, diuréticos, lítio.",
+      "posologia": "50–100 mg 2 a 3 vezes ao dia, com alimentos.",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz.",
+      "preparo": "Injetável deve ser administrado por via IM profunda ou EV lenta.",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, SG 5%.",
+      "contraindicacoes": "Úlcera péptica ativa, sangramento GI, DRC grave, hepatopatia, IC descompensada, gravidez no 3º trimestre.",
+      "cuidadosMedicos": "Monitorar função renal/hepática, PA, sintomas digestivos, risco cardiovascular.",
+      "cuidadosFarmaceuticos": "Evitar uso prolongado; avaliar necessidade de gastroproteção.",
+      "cuidadosEnfermagem": "Administrar com alimentos ou via IM profunda; observar dor local, rash e sintomas GI.",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ketoprofen",
+      "suspension": "Discontinue 48 hours before elective surgery.",
+      "risk": "Increased risk of GI bleeding, renal toxicity, and reversible platelet inhibition. May interact with anesthetics and anticoagulants.",
+      "reintroduction": "Restart 48–72h post-op if renal function and hemodynamics are stable."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ketoprofen",
+      "nomeComercial": "Orudis, Oruvail, Actron",
+      "mecanismoAcao": "Non-selective COX-1 and COX-2 inhibitor, decreasing prostaglandin synthesis involved in inflammation.",
+      "farmacocinetica": "Rapid oral absorption; peak 0.5–2h; half-life 1.5–2h; hepatic metabolism; renal excretion.",
+      "farmacodinamica": "Anti-inflammatory, analgesic and antipyretic. Reversible platelet inhibition.",
+      "indicacoes": "RA, OA, acute pain, dysmenorrhea, gout, low back pain, postoperative pain.",
+      "reacoesAdversas": "Nausea, epigastric pain, dyspepsia, headache, rash, GI bleeding, elevated transaminases, fluid retention.",
+      "riscoGravidez": "Category C (1st/2nd trimester), D (3rd trimester).",
+      "riscoLactacao": "Avoid chronic use while breastfeeding.",
+      "administracao": "Oral, IM, IV, topical.",
+      "doseMaxima": "300 mg/day (oral), 200 mg/day (parenteral).",
+      "doseMinima": "50 mg/dose.",
+      "classificacao": "Non-selective NSAID.",
+      "apresentacao": "Tablets/capsules 50/100/150 mg, SR forms, injectable 50/100 mg/mL, gel 2.5–5%.",
+      "interacaoMedicamento": "Interacts with warfarin, aspirin, lithium, methotrexate, ACEIs, diuretics.",
+      "posologia": "50–100 mg 2–3 times/day with meals.",
+      "armazenamento": "Store at 15–30°C, protect from light.",
+      "preparo": "Inject IM deeply or slow IV if indicated.",
+      "solucoesCompatíveis": "0.9% NaCl, D5W.",
+      "contraindicacoes": "Active ulcer, GI bleeding, severe renal/hepatic failure, decompensated HF, 3rd trimester pregnancy.",
+      "cuidadosMedicos": "Monitor renal/liver function, BP, GI tolerance, cardiovascular risk.",
+      "cuidadosFarmaceuticos": "Avoid prolonged use; consider GI protection.",
+      "cuidadosEnfermagem": "Administer with food or deep IM; observe for local pain, GI symptoms, rash.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ketoprofeno",
+      "suspension": "Suspender 48 horas antes de cirugía electiva.",
+      "risk": "Riesgo de sangrado gastrointestinal, toxicidad renal y inhibición plaquetaria reversible. Puede interactuar con anestesia y anticoagulantes.",
+      "reintroduction": "Reintroducir 48–72h después de cirugía si hay función renal y estabilidad hemodinámica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ketoprofeno",
+      "nomeComercial": "Oki, Fastum, Actron",
+      "mecanismoAcao": "Inhibidor no selectivo de COX-1/2 que reduce prostaglandinas.",
+      "farmacocinetica": "Absorción oral rápida; pico 0.5–2h; vida media 1.5–2h; metabolismo hepático; excreción renal.",
+      "farmacodinamica": "Efecto antiinflamatorio, analgésico y antipirético. Inhibición plaquetaria reversible.",
+      "indicacoes": "Artritis, dolor agudo, dismenorrea, gota, dolor postoperatorio.",
+      "reacoesAdversas": "Náuseas, dolor epigástrico, dispepsia, cefalea, rash, sangrado GI, elevación de transaminasas.",
+      "riscoGravidez": "Categoría C (1º/2º trimestre), D (3º trimestre).",
+      "riscoLactacao": "Evitar uso crónico durante lactancia.",
+      "administracao": "Oral, IM, IV, tópico.",
+      "doseMaxima": "300 mg/día (oral), 200 mg/día (parenteral).",
+      "doseMinima": "50 mg/dosis.",
+      "classificacao": "AINE no selectivo.",
+      "apresentacao": "Comprimidos/cápsulas 50–150 mg, ampollas 50/100 mg/mL, gel 2.5–5%.",
+      "interacaoMedicamento": "Interacción con anticoagulantes, AAS, litio, metotrexato, IECAs, diuréticos.",
+      "posologia": "50–100 mg 2–3 veces al día con alimentos.",
+      "armazenamento": "15–30°C, protegido de luz.",
+      "preparo": "IM profundo o IV lenta.",
+      "solucoesCompatíveis": "ClNa 0.9%, glucosa 5%.",
+      "contraindicacoes": "Úlcera activa, sangrado GI, IRC/insuf. hepática grave, IC descompensada, embarazo avanzado.",
+      "cuidadosMedicos": "Monitorear renal, hepático, PA, tolerancia digestiva.",
+      "cuidadosFarmaceuticos": "Evitar uso prolongado, considerar protección gástrica.",
+      "cuidadosEnfermagem": "Administrar con comida o vía IM profunda; vigilar dolor local, rash, síntomas GI.",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯芬那酸酯（Ketoprofen）",
+      "suspension": "术前48小时停药。",
+      "risk": "增加胃肠道出血、肾毒性、可逆性血小板抑制风险；可能与麻醉剂、抗凝剂相互作用。",
+      "reintroduction": "术后48–72小时，血流动力学与肾功能稳定后可恢复使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯芬那酸酯",
+      "nomeComercial": "Profenid、Oki、Fastum",
+      "mecanismoAcao": "非选择性COX-1/2抑制剂，减少炎性前列腺素生成。",
+      "farmacocinetica": "口服吸收快；0.5–2小时达峰；半衰期1.5–2小时；肝代谢；肾排泄。",
+      "farmacodinamica": "抗炎、镇痛、退热，抑制血小板可逆。",
+      "indicacoes": "风湿关节炎、关节炎、急性疼痛、痛经、术后疼痛。",
+      "reacoesAdversas": "胃痛、恶心、消化不良、头痛、皮疹、胃肠出血、肝酶升高、水钠潴留。",
+      "riscoGravidez": "C类（早期）、D类（妊娠晚期）。",
+      "riscoLactacao": "哺乳期避免长期使用。",
+      "administracao": "口服、肌注、静注、外用。",
+      "doseMaxima": "口服每日不超过300mg，注射剂≤200mg。",
+      "doseMinima": "每次50mg。",
+      "classificacao": "非选择性NSAID。",
+      "apresentacao": "片剂50–150mg，注射液50/100mg/mL，外用凝胶2.5–5%。",
+      "interacaoMedicamento": "与华法林、阿司匹林、锂、ACEI、利尿剂、甲氨蝶呤相互作用。",
+      "posologia": "每日2–3次，每次50–100mg，餐后服用。",
+      "armazenamento": "15–30°C避光保存。",
+      "preparo": "肌注需深部注射，静注需缓慢进行。",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖。",
+      "contraindicacoes": "活动性溃疡、出血、严重肝肾病、妊娠晚期。",
+      "cuidadosMedicos": "监测肝肾功能、血压、胃肠耐受、心血管风险。",
+      "cuidadosFarmaceuticos": "避免长期使用；考虑胃黏膜保护。",
+      "cuidadosEnfermagem": "饭后服用或深部肌注；观察局部疼痛、胃部不适、皮疹。",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、UpToDate"
+    }
+  }
+}

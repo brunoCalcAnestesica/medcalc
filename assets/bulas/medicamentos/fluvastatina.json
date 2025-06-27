@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fluvastatina",
+      "suspension": "Não requer suspensão pré-operatória em cirurgias de baixo risco",
+      "risk": "Baixo risco de interação anestésica; considerar em hepatopatia ou mialgia grave",
+      "reintroduction": "Pode ser reintroduzida no pós-operatório conforme função hepática e muscular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fluvastatina Sódica",
+      "nomeComercial": "Lescol, Lescol XL, Fluvast, Vastin",
+      "mecanismoAcao": "Inibe a HMG-CoA redutase, reduzindo a síntese hepática de colesterol e promovendo captação de LDL.",
+      "farmacocinetica": "Biodisponibilidade ~24%; metabolismo hepático CYP2C9; meia-vida ~1–3h; excreção fecal predominante.",
+      "farmacodinamica": "Redução de LDL (20–35%), colesterol total e TG; leve aumento do HDL; menor risco de miopatia entre as estatinas.",
+      "indicacoes": "Hipercolesterolemia primária, dislipidemia mista, prevenção de eventos cardiovasculares em alto risco",
+      "reacoesAdversas": "Mialgia leve, dor abdominal, náusea, elevação de transaminases, cefaleia, insônia",
+      "riscoGravidez": "Categoria X (contraindicado)",
+      "riscoLactacao": "Contraindicado; excreção no leite materno",
+      "administracao": "Via oral; 1x/dia preferencialmente à noite ou após refeição",
+      "doseMaxima": "80mg/dia (comprimido de liberação prolongada)",
+      "doseMinima": "20mg/dia",
+      "classificacao": "Estatina / inibidor da HMG-CoA redutase",
+      "apresentacao": "Comprimidos de 20, 40 e 80mg (Lescol XL)",
+      "interacaoMedicamento": "Menor risco de interações; cautela com ciclosporina, colchicina, fenitoína, varfarina",
+      "posologia": "20–80mg/dia conforme perfil lipídico",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença hepática ativa, gravidez, lactação",
+      "cuidadosMedicos": "Monitorar função hepática; avaliar CPK em caso de mialgia",
+      "cuidadosFarmaceuticos": "Orientar ingestão com alimento e horário fixo",
+      "cuidadosEnfermagem": "Observar queixas musculares, colúria ou icterícia",
+      "fontesBibliograficas": "Micromedex, Bula Lescol, EMA, PubChem CID: 1548975"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fluvastatin",
+      "suspension": "No need to suspend in low-risk surgery",
+      "risk": "Low anesthetic interaction risk; consider suspension in hepatic failure or severe myopathy",
+      "reintroduction": "Resume post-op after confirming liver and muscle status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fluvastatin Sodium",
+      "nomeComercial": "Lescol, Lescol XL, Fluvast",
+      "mecanismoAcao": "HMG-CoA reductase inhibitor; reduces hepatic cholesterol production and increases LDL clearance.",
+      "farmacocinetica": "Bioavailability ~24%; hepatic metabolism via CYP2C9; half-life 1–3h; mainly fecal excretion.",
+      "farmacodinamica": "Lowers LDL (20–35%), total cholesterol, TG; modest HDL elevation; lowest risk of myopathy among statins.",
+      "indicacoes": "Primary hypercholesterolemia, mixed dyslipidemia, CV risk reduction",
+      "reacoesAdversas": "Myalgia, GI discomfort, headache, insomnia, transaminase elevation",
+      "riscoGravidez": "Category X (contraindicated)",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral; once daily with food or at bedtime",
+      "doseMaxima": "80mg/day (extended-release tablet)",
+      "doseMinima": "20mg/day",
+      "classificacao": "Statin / HMG-CoA reductase inhibitor",
+      "apresentacao": "Tablets: 20mg, 40mg, 80mg (Lescol XL)",
+      "interacaoMedicamento": "Fewer interactions; caution with cyclosporine, colchicine, phenytoin, warfarin",
+      "posologia": "20–80mg/day based on lipid profile",
+      "armazenamento": "Store at 15–30°C, dry environment",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active liver disease, pregnancy, breastfeeding",
+      "cuidadosMedicos": "Monitor LFTs; assess CPK if muscle symptoms occur",
+      "cuidadosFarmaceuticos": "Ensure consistent timing and food intake",
+      "cuidadosEnfermagem": "Watch for myalgia, dark urine, jaundice",
+      "fontesBibliograficas": "FDA, Micromedex, PubChem CID: 1548975"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fluvastatina",
+      "suspension": "No requiere suspensión en cirugía de bajo riesgo",
+      "risk": "Bajo riesgo anestésico; considerar en hepatopatía o miopatía grave",
+      "reintroduction": "Reintroducir tras control hepático y muscular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fluvastatina Sódica",
+      "nomeComercial": "Lescol, Vastin, Fluvast",
+      "mecanismoAcao": "Inhibe la HMG-CoA reductasa; reduce colesterol hepático y aumenta la captación de LDL.",
+      "farmacocinetica": "Biodisponibilidad 24%; metabolismo hepático (CYP2C9); semivida 1–3h; eliminación fecal.",
+      "farmacodinamica": "Reduce LDL (20–35%), colesterol total y TG; HDL moderado; bajo riesgo de miopatía.",
+      "indicacoes": "Hipercolesterolemia primaria, dislipidemia mixta, prevención cardiovascular",
+      "reacoesAdversas": "Mialgia, náusea, cefalea, insomnio, enzimas hepáticas elevadas",
+      "riscoGravidez": "Categoría X (prohibido)",
+      "riscoLactacao": "Contraindicado; se excreta en leche",
+      "administracao": "Vía oral, 1 vez/día con comida o por la noche",
+      "doseMaxima": "80mg/día (comprimido de liberación prolongada)",
+      "doseMinima": "20mg/día",
+      "classificacao": "Estatina / hipolipemiante",
+      "apresentacao": "Comprimidos 20, 40, 80mg",
+      "interacaoMedicamento": "Menos interacciones; precaución con ciclosporina, colchicina, fenitoína, warfarina",
+      "posologia": "20–80mg/día según perfil lipídico",
+      "armazenamento": "15–30°C, seco, protegido",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Enfermedad hepática activa, embarazo, lactancia",
+      "cuidadosMedicos": "Monitorear TGO/TGP y CPK si dolor muscular",
+      "cuidadosFarmaceuticos": "Aconsejar toma regular y con comida",
+      "cuidadosEnfermagem": "Observar síntomas musculares o hepáticos",
+      "fontesBibliograficas": "EMA, PubChem, Micromedex, AEMPS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氟伐他汀（Fluvastatin）",
+      "suspension": "低风险手术无需停药",
+      "risk": "与麻醉药相互作用风险较低；有肌病或肝损应停用",
+      "reintroduction": "术后评估肝酶与CPK正常后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氟伐他汀钠",
+      "nomeComercial": "Lescol、氟脂宁",
+      "mecanismoAcao": "HMG-CoA还原酶抑制剂；抑制胆固醇合成，增强LDL受体清除。",
+      "farmacocinetica": "口服生物利用度24%；CYP2C9代谢；半衰期1–3小时；粪便排泄。",
+      "farmacodinamica": "降低LDL（20–35%），轻微提高HDL；他汀中肌病风险最低",
+      "indicacoes": "原发性高胆固醇血症、混合型血脂异常、心血管预防",
+      "reacoesAdversas": "肌痛、头痛、失眠、肝酶升高、胃肠不适",
+      "riscoGravidez": "X类（禁用）",
+      "riscoLactacao": "禁用于哺乳期",
+      "administracao": "口服，每日一次，饭后或睡前",
+      "doseMaxima": "每日80毫克（缓释片）",
+      "doseMinima": "每日20毫克",
+      "classificacao": "他汀类 / HMG-CoA还原酶抑制剂",
+      "apresentacao": "20mg、40mg、80mg片剂",
+      "interacaoMedicamento": "与环孢素、秋水仙碱、苯妥英、华法林有交互",
+      "posologia": "根据血脂水平20–80mg/d调整",
+      "armazenamento": "15–30°C，干燥避光",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肝病、妊娠、哺乳期",
+      "cuidadosMedicos": "监测肝酶、肌酸激酶；警惕肌病",
+      "cuidadosFarmaceuticos": "建议规律服药，随餐服用",
+      "cuidadosEnfermagem": "观察肌肉不适或肝功能异常表现",
+      "fontesBibliograficas": "PubChem CID: 1548975、FDA、Micromedex、WHO"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nifedipina (retard)",
+      "suspension": "Suspender 8 a 12 horas antes de cirurgia eletiva, com monitoramento da pressão arterial",
+      "risk": "Risco de hipotensão, taquicardia reflexa e interação com anestésicos e vasodilatadores; pode comprometer perfusão em anestesia geral",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e reinício da alimentação oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nifedipina",
+      "nomeComercial": "Adalat Retard, Nifedipina, Pressolat",
+      "mecanismoAcao": "Bloqueador dos canais de cálcio tipo L, reduzindo o influxo de cálcio nas células musculares lisas vasculares e miocárdicas, promovendo vasodilatação",
+      "farmacocinetica": "Absorção oral rápida com liberação prolongada; início de ação em 30–60 min; meia-vida de 6–8h; metabolização hepática (CYP3A4); excreção renal",
+      "farmacodinamica": "Diminui resistência vascular periférica, reduz pressão arterial e pós-carga com efeito mínimo sobre condução cardíaca",
+      "indicacoes": "Hipertensão arterial, angina estável e variante, fenômeno de Raynaud",
+      "reacoesAdversas": "Cefaleia, rubor, edema periférico, hipotensão, tontura, taquicardia, náuseas",
+      "riscoGravidez": "Categoria C (uso com cautela, principalmente no 1º trimestre)",
+      "riscoLactacao": "Excretado em pequenas quantidades no leite; uso geralmente considerado seguro",
+      "administracao": "Via oral (comprimidos de liberação lenta)",
+      "doseMaxima": "60 mg/dia (dividido 2x)",
+      "doseMinima": "20 mg/dia",
+      "classificacao": "Antagonista dos canais de cálcio (diidropiridínico)",
+      "apresentacao": "Comprimidos retard de 20 mg e 30 mg",
+      "interacaoMedicamento": "Interage com betabloqueadores, digoxina, anestésicos, inibidores/indutores do CYP3A4",
+      "posologia": "20–30 mg 2x/dia, ajustado conforme resposta clínica",
+      "armazenamento": "Conservar em temperatura ambiente, protegido da umidade",
+      "preparo": "Não partir, mastigar ou triturar comprimidos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipotensão grave, choque cardiogênico, estenose aórtica significativa, hipersensibilidade à nifedipina",
+      "cuidadosMedicos": "Monitorar PA e frequência cardíaca; ajustar dose em insuficiência hepática",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão e não interrupção abrupta do tratamento",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, edema periférico e tolerância ao tratamento",
+      "fontesBibliograficas": "Micromedex, UpToDate, ANVISA, Adalat bula, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nifedipine (extended-release)",
+      "suspension": "Discontinue 8–12 hours prior to elective surgery with blood pressure monitoring",
+      "risk": "Risk of hypotension, reflex tachycardia, and interactions with anesthetics and vasodilators; may impair perfusion under general anesthesia",
+      "reintroduction": "Restart after hemodynamic stabilization and oral intake resumption"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nifedipine",
+      "nomeComercial": "Adalat CC, Procardia XL",
+      "mecanismoAcao": "L-type calcium channel blocker that reduces calcium influx in vascular smooth muscle and myocardium, promoting vasodilation",
+      "farmacocinetica": "Rapid oral absorption with extended release; onset in 30–60 min; half-life 6–8h; hepatic metabolism (CYP3A4); renal excretion",
+      "farmacodinamica": "Decreases peripheral vascular resistance, lowers BP and afterload with minimal effect on cardiac conduction",
+      "indicacoes": "Hypertension, chronic stable angina, variant angina, Raynaud’s phenomenon",
+      "reacoesAdversas": "Headache, flushing, peripheral edema, hypotension, dizziness, tachycardia, nausea",
+      "riscoGravidez": "Category C (use with caution, especially in first trimester)",
+      "riscoLactacao": "Excreted in small amounts in breast milk; generally considered safe",
+      "administracao": "Oral (extended-release tablets)",
+      "doseMaxima": "60 mg/day (divided twice daily)",
+      "doseMinima": "20 mg/day",
+      "classificacao": "Dihydropyridine calcium channel blocker",
+      "apresentacao": "Extended-release tablets 20 mg, 30 mg",
+      "interacaoMedicamento": "Interacts with beta-blockers, digoxin, anesthetics, CYP3A4 inhibitors/inducers",
+      "posologia": "20–30 mg twice daily, adjusted to clinical response",
+      "armazenamento": "Store at room temperature, protect from moisture",
+      "preparo": "Do not cut, chew or crush tablets",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe hypotension, cardiogenic shock, advanced aortic stenosis, hypersensitivity to nifedipine",
+      "cuidadosMedicos": "Monitor BP and HR; adjust dose in hepatic impairment",
+      "cuidadosFarmaceuticos": "Educate on adherence and avoid abrupt withdrawal",
+      "cuidadosEnfermagem": "Monitor vital signs, peripheral edema, and treatment tolerance",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Adalat PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nifedipina (liberación prolongada)",
+      "suspension": "Suspender 8–12 horas antes de cirugía electiva con control de presión arterial",
+      "risk": "Riesgo de hipotensión, taquicardia refleja, interacción con anestésicos y vasodilatadores; puede afectar perfusión en anestesia general",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica y reinicio de vía oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nifedipina",
+      "nomeComercial": "Adalat Retard, Nifedipino, Pressolat",
+      "mecanismoAcao": "Bloqueador de canales de calcio tipo L, inhibe ingreso de calcio en músculo liso vascular y miocardio, causando vasodilatación",
+      "farmacocinetica": "Absorción oral rápida con liberación prolongada; inicio en 30–60 min; vida media 6–8 h; metabolismo hepático (CYP3A4); excreción renal",
+      "farmacodinamica": "Disminuye resistencia vascular periférica, baja PA y poscarga con poco efecto sobre conducción cardíaca",
+      "indicacoes": "Hipertensión, angina estable o variante, fenómeno de Raynaud",
+      "reacoesAdversas": "Cefalea, rubor, edema periférico, hipotensión, mareo, taquicardia, náuseas",
+      "riscoGravidez": "Categoría C (precaución, especialmente primer trimestre)",
+      "riscoLactacao": "Excreción mínima en leche; generalmente considerado seguro",
+      "administracao": "Vía oral (comprimidos de liberación retardada)",
+      "doseMaxima": "60 mg/día (2 tomas)",
+      "doseMinima": "20 mg/día",
+      "classificacao": "Antagonista del calcio tipo dihidropiridina",
+      "apresentacao": "Comprimidos de liberación prolongada: 20 mg, 30 mg",
+      "interacaoMedicamento": "Interacción con betabloqueantes, digoxina, anestésicos, inhibidores/inductores de CYP3A4",
+      "posologia": "20–30 mg dos veces al día; ajustar según respuesta",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "No partir, triturar ni masticar comprimidos",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipotensión severa, shock cardiogénico, estenosis aórtica avanzada, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear PA y FC; ajustar dosis en insuficiencia hepática",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia y evitar interrupción abrupta",
+      "cuidadosEnfermagem": "Controlar signos vitales, edema periférico y tolerancia",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Adalat"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硝苯地平缓释片",
+      "suspension": "择期手术前8–12小时停用并监测血压",
+      "risk": "术中低血压、反射性心动过速风险；与麻醉药及扩血管药物相互作用；可能影响灌注",
+      "reintroduction": "血流动力学稳定、恢复口服后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硝苯地平",
+      "nomeComercial": "Adalat Retard",
+      "mecanismoAcao": "L型钙通道阻滞剂，抑制钙进入血管平滑肌和心肌细胞，引起血管扩张",
+      "farmacocinetica": "口服缓释吸收良好，30–60分钟起效，半衰期6–8小时，经肝脏CYP3A4代谢，肾排泄",
+      "farmacodinamica": "降低外周阻力，降低血压与后负荷，对心传导影响小",
+      "indicacoes": "高血压、稳定型心绞痛、变异型心绞痛、雷诺现象",
+      "reacoesAdversas": "头痛、面红、下肢水肿、低血压、头晕、心动过速、恶心",
+      "riscoGravidez": "C类（孕期慎用）",
+      "riscoLactacao": "少量排入乳汁，一般认为安全",
+      "administracao": "口服（缓释片）",
+      "doseMaxima": "每日60毫克（分2次）",
+      "doseMinima": "每日20毫克",
+      "classificacao": "二氢吡啶类钙通道阻滞剂",
+      "apresentacao": "缓释片20 mg、30 mg",
+      "interacaoMedicamento": "与β受体阻滞剂、地高辛、麻醉药、CYP3A4酶调节剂有相互作用",
+      "posologia": "每日2次，每次20–30 mg，依据临床反应调整",
+      "armazenamento": "室温，防潮",
+      "preparo": "不得咀嚼、压碎或掰片",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重度低血压、心源性休克、严重主动脉瓣狭窄、过敏",
+      "cuidadosMedicos": "监测血压和心率；肝功能不全需调整剂量",
+      "cuidadosFarmaceuticos": "指导遵医使用，避免突然停药",
+      "cuidadosEnfermagem": "监测生命体征、外周水肿和用药反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Adalat说明书"
+    }
+  }
+}

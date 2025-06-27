@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sirolimo",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas devido ao risco de má cicatrização e imunossupressão",
+      "risk": "Imunossupressor potente; risco de infecção, dislipidemia, proteinúria, toxicidade pulmonar e retardo na cicatrização",
+      "reintroduction": "Reintroduzir após cicatrização adequada e ausência de sinais infecciosos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sirolimo",
+      "nomeComercial": "Rapamune",
+      "mecanismoAcao": "Inibe a via mTOR, bloqueando a ativação da célula T e a proliferação de linfócitos, sem afetar diretamente a replicação de DNA",
+      "farmacocinetica": "Biodisponibilidade oral ~14%; Tmáx 1–2 h; metabolização hepática via CYP3A4; excreção fecal predominante; meia-vida ~60h",
+      "farmacodinamica": "Inibe a resposta imune mediada por células T e B; efeito antiproliferativo e antifibrótico; reduz a rejeição de órgãos transplantados",
+      "indicacoes": "Profilaxia de rejeição em transplante renal, linfangioleiomiomatose esporádica (LAM), uso off-label em doenças autoimunes e vasculopatias",
+      "reacoesAdversas": "Infecções, hipertensão, hiperlipidemia, trombocitopenia, anemia, aftas orais, acne, edema periférico, hepatotoxicidade",
+      "riscoGravidez": "Categoria C – pode causar toxicidade fetal",
+      "riscoLactacao": "Contraindicado; excretado no leite em animais",
+      "administracao": "Oral",
+      "doseMaxima": "15 mg/dia (ajuste individualizado por níveis plasmáticos)",
+      "doseMinima": "1 mg/dia (inicial)",
+      "classificacao": "Imunossupressor – inibidor de mTOR",
+      "apresentacao": "Comprimidos 1 mg, solução oral 1 mg/mL",
+      "interacaoMedicamento": "CYP3A4: interações com cetoconazol, rifampicina, verapamil, ciclosporina; cuidado com estatinas e IECAs",
+      "posologia": "Iniciar com 6 mg no dia do transplante, seguido de 2 mg/dia; ajustar por níveis plasmáticos entre 5–15 ng/mL",
+      "armazenamento": "Comprimidos: 15–30 ºC; solução: refrigerar 2–8 ºC",
+      "preparo": "Uso oral direto; solução pode ser diluída em água ou suco",
+      "solucoesCompatíveis": "Água ou suco (laranja)",
+      "contraindicacoes": "Hipersensibilidade, insuficiência hepática grave sem ajuste, gravidez",
+      "cuidadosMedicos": "Monitorar níveis plasmáticos, função renal e hepática, perfil lipídico",
+      "cuidadosFarmaceuticos": "Educar sobre adesão, interações e monitoramento laboratorial",
+      "cuidadosEnfermagem": "Observar sinais de infecção, toxicidade hepática e alterações mucocutâneas",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, bula Rapamune"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sirolimus",
+      "suspension": "Discontinue 7 days before elective surgery due to risk of impaired wound healing and immunosuppression",
+      "risk": "High risk of infection, hyperlipidemia, delayed healing, pneumonitis, proteinuria",
+      "reintroduction": "Restart after complete wound healing and infection control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sirolimus",
+      "nomeComercial": "Rapamune",
+      "mecanismoAcao": "mTOR inhibitor; blocks IL-2-driven T-cell proliferation by binding FKBP-12 and inhibiting mTOR complex 1",
+      "farmacocinetica": "Oral bioavailability ~14%; Tmax 1–2h; hepatic metabolism (CYP3A4); half-life ~60h; excreted mainly in feces",
+      "farmacodinamica": "Immunosuppressive and antiproliferative effects; inhibits smooth muscle proliferation and immune activation",
+      "indicacoes": "Renal transplant rejection prophylaxis; lymphangioleiomyomatosis (LAM); off-label: autoimmune and vascular disorders",
+      "reacoesAdversas": "Infections, hypertension, hyperlipidemia, thrombocytopenia, acne, aphthous ulcers, edema, hepatic toxicity",
+      "riscoGravidez": "Category C – embryo-fetal toxicity in animals",
+      "riscoLactacao": "Contraindicated; excreted in milk in animals",
+      "administracao": "Oral",
+      "doseMaxima": "15 mg/day",
+      "doseMinima": "1 mg/day",
+      "classificacao": "mTOR inhibitor – immunosuppressant",
+      "apresentacao": "Tablets 1 mg, oral solution 1 mg/mL",
+      "interacaoMedicamento": "CYP3A4 interactions: ketoconazole, rifampin, verapamil; caution with statins, ACE inhibitors",
+      "posologia": "6 mg loading dose, then 2 mg/day; titrate to 5–15 ng/mL sirolimus trough",
+      "armazenamento": "Tablets: 15–30 °C; solution: refrigerate 2–8 °C",
+      "preparo": "Oral solution can be mixed with water or orange juice",
+      "solucoesCompatíveis": "Water or orange juice",
+      "contraindicacoes": "Hypersensitivity, pregnancy, severe hepatic dysfunction",
+      "cuidadosMedicos": "Monitor sirolimus levels, renal/hepatic function, lipid profile",
+      "cuidadosFarmaceuticos": "Educate on timing, lab monitoring, drug interactions",
+      "cuidadosEnfermagem": "Monitor for infections, GI symptoms, oral lesions",
+      "fontesBibliograficas": "FDA, Micromedex, Rapamune PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sirolimus",
+      "suspension": "Suspender 7 días antes de cirugía por riesgo de infección y mala cicatrización",
+      "risk": "Inmunosupresión, dislipidemia, toxicidad hepática, neumonitis, proteinuria",
+      "reintroduction": "Reintroducir tras cicatrización completa y sin signos infecciosos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sirolimus",
+      "nomeComercial": "Rapamune",
+      "mecanismoAcao": "Inhibidor de mTOR; impide proliferación de linfocitos T vía inhibición de IL-2",
+      "farmacocinetica": "Biodisponibilidad oral ~14%; Tmáx 1–2 h; metabolismo hepático CYP3A4; semivida ~60 h",
+      "farmacodinamica": "Efecto inmunosupresor, antiproliferativo y antifibrótico",
+      "indicacoes": "Prevención de rechazo en trasplante renal; linfangioleiomiomatosis (LAM)",
+      "reacoesAdversas": "Infecciones, dislipidemia, hipertensión, anemia, estomatitis, acné, edemas",
+      "riscoGravidez": "Categoría C – riesgo fetal en animales",
+      "riscoLactacao": "Evitar durante lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "15 mg/día",
+      "doseMinima": "1 mg/día",
+      "classificacao": "Inmunosupresor – inhibidor mTOR",
+      "apresentacao": "Comprimidos 1 mg; solución oral 1 mg/mL",
+      "interacaoMedicamento": "Interacciones con CYP3A4: ketoconazol, rifampicina, verapamilo",
+      "posologia": "Dosis inicial 6 mg; luego 2 mg/día; ajustar a niveles 5–15 ng/mL",
+      "armazenamento": "Comprimidos: 15–30 °C; solución: refrigerar",
+      "preparo": "Disolver solución en agua o jugo",
+      "solucoesCompatíveis": "Agua o jugo de naranja",
+      "contraindicacoes": "Hipersensibilidad, embarazo, disfunción hepática grave",
+      "cuidadosMedicos": "Control de niveles plasmáticos, perfil hepático/lipídico",
+      "cuidadosFarmaceuticos": "Educar sobre horarios, interacciones y controles",
+      "cuidadosEnfermagem": "Vigilar infecciones, síntomas orales, edemas",
+      "fontesBibliograficas": "EMA, ficha técnica Rapamune, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "西罗莫司（Sirolimus）",
+      "suspension": "择期手术前7天停药，避免伤口愈合不良与感染",
+      "risk": "免疫抑制风险高，伴血脂异常、肝毒性、肺毒性、口腔溃疡等",
+      "reintroduction": "术后伤口愈合良好，感染控制后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "西罗莫司",
+      "nomeComercial": "Rapamune",
+      "mecanismoAcao": "mTOR抑制剂，通过与FKBP-12结合抑制T细胞增殖",
+      "farmacocinetica": "口服生物利用度约14%；Tmax 1–2小时；肝CYP3A4代谢；半衰期约60小时",
+      "farmacodinamica": "抑制T/B细胞活化；抑制增殖和血管生成，防止器官排斥反应",
+      "indicacoes": "肾移植排斥预防，LAM；部分自身免疫疾病（研究中）",
+      "reacoesAdversas": "感染、血脂异常、肝酶升高、黏膜炎、痤疮、水肿、骨髓抑制",
+      "riscoGravidez": "C类 – 有动物致畸证据",
+      "riscoLactacao": "动物实验中排泄；禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日15毫克",
+      "doseMinima": "每日1毫克起始剂量",
+      "classificacao": "免疫抑制剂 – mTOR抑制类",
+      "apresentacao": "1 mg片剂；1 mg/mL口服液",
+      "interacaoMedicamento": "CYP3A4相关药物注意相互作用（如酮康唑、环孢素）",
+      "posologia": "起始6 mg负荷剂量，维持2 mg/日，目标浓度5–15 ng/mL",
+      "armazenamento": "片剂室温保存，液体需冷藏",
+      "preparo": "液体可与水或橙汁混合后服用",
+      "solucoesCompatíveis": "水或橙汁",
+      "contraindicacoes": "对本品过敏、妊娠期、严重肝功能损伤",
+      "cuidadosMedicos": "监测药物浓度、肝肾功能、血脂",
+      "cuidadosFarmaceuticos": "强调规律用药、避免漏服、注意药物交互作用",
+      "cuidadosEnfermagem": "监测感染征象、口腔溃疡、皮肤反应",
+      "fontesBibliograficas": "中国药典、Micromedex、Rapamune说明书"
+    }
+  }
+}

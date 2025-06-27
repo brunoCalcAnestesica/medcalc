@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Leuprorrelina",
+      "suspension": "Suspender apenas se o procedimento cirúrgico envolver risco de eventos cardiovasculares agudos ou instabilidade hemodinâmica",
+      "risk": "Fogachos, fraqueza, hipertensão, dor óssea, sangramento vaginal (flare), osteoporose, elevação transitória de PSA ou testosterona",
+      "reintroduction": "Reintroduzir após estabilização clínica e hemodinâmica, geralmente em 7–14 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Leuprorrelina",
+      "nomeComercial": "Lupron, Eligard",
+      "mecanismoAcao": "Análogo do GnRH que causa dessensibilização dos receptores hipofisários e redução da secreção de LH e FSH",
+      "farmacocinetica": "Administração SC ou IM; liberação prolongada; metabolismo hepático e renal; T½ variável conforme formulação (3,75mg a cada mês até 45mg a cada 6 meses)",
+      "farmacodinamica": "Supressão do eixo hipotálamo-hipófise-gonadal; redução de testosterona e estrogênio",
+      "indicacoes": "Câncer de próstata, câncer de mama hormônio-dependente, endometriose, miomas uterinos, puberdade precoce",
+      "reacoesAdversas": "Fogachos, sudorese, dor óssea, cefaleia, disfunção sexual, edema, reações no local da aplicação, perda de massa óssea",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "IM ou SC de liberação prolongada (mensal, trimestral, semestral)",
+      "doseMaxima": "45mg SC a cada 6 meses (formulação de depósito)",
+      "doseMinima": "3,75mg IM mensal",
+      "classificacao": "Análogo do GnRH (agonista); antineoplásico hormonal",
+      "apresentacao": "Frascos ou seringas de 3,75mg, 7,5mg, 11,25mg, 22,5mg, 30mg, 45mg",
+      "interacaoMedicamento": "Raro efeito com anticoagulantes e anti-hipertensivos; atenção à coadministração com antagonistas hormonais",
+      "posologia": "3,75mg IM mensal ou 22,5mg IM a cada 3 meses, conforme protocolo",
+      "armazenamento": "Refrigerado (2–8°C) para a formulação em suspensão; não congelar",
+      "preparo": "Reconstituir imediatamente antes do uso com o diluente fornecido; uso imediato",
+      "solucoesCompatíveis": "Diluente específico incluso na apresentação",
+      "contraindicacoes": "Gravidez, hipersensibilidade a análogos do GnRH, sangramento inexplicado",
+      "cuidadosMedicos": "Monitorar densidade mineral óssea, testosterona/estradiol, PSA, efeitos cardiovasculares",
+      "cuidadosFarmaceuticos": "Verificar estabilidade e validade da formulação; orientar paciente sobre efeitos do ‘flare’ inicial",
+      "cuidadosEnfermagem": "Observar local da aplicação, dor óssea, sintomas vasomotores",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Leuprolide",
+      "suspension": "Hold only if patient is at high perioperative cardiovascular or hemodynamic risk",
+      "risk": "Hot flashes, bone pain, hypertension, PSA/testosterone flare, osteoporosis, edema",
+      "reintroduction": "Resume 7–14 days postop when clinically stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Leuprolide",
+      "nomeComercial": "Lupron, Eligard",
+      "mecanismoAcao": "GnRH agonist; desensitizes pituitary GnRH receptors, reducing LH/FSH secretion",
+      "farmacocinetica": "IM/SC; depot formulations; hepatic and renal metabolism; variable T½",
+      "farmacodinamica": "Gonadal suppression of sex hormones",
+      "indicacoes": "Prostate and breast cancer, endometriosis, uterine fibroids, CPP",
+      "reacoesAdversas": "Hot flashes, bone pain, mood changes, injection site reactions, decreased libido",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Monthly to 6-month SC/IM depot injections",
+      "doseMaxima": "45mg SC every 6 months",
+      "doseMinima": "3.75mg IM monthly",
+      "classificacao": "GnRH agonist – hormonal therapy",
+      "apresentacao": "3.75mg, 7.5mg, 11.25mg, 22.5mg, 30mg, 45mg kits",
+      "interacaoMedicamento": "Minimal; use caution with hormonal antagonists and QT-prolonging agents",
+      "posologia": "3.75mg monthly IM or 22.5mg q3m per protocol",
+      "armazenamento": "Refrigerate 2–8°C; do not freeze",
+      "preparo": "Reconstitute immediately before injection with supplied diluent",
+      "solucoesCompatíveis": "Proprietary diluent only",
+      "contraindicacoes": "Pregnancy, unexplained bleeding, allergy to GnRH analogs",
+      "cuidadosMedicos": "Monitor PSA, sex hormones, BMD, cardiovascular status",
+      "cuidadosFarmaceuticos": "Proper mixing and timing; counsel on transient flare symptoms",
+      "cuidadosEnfermagem": "Monitor site, bone symptoms, hot flashes",
+      "fontesBibliograficas": "FDA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Leuprorelina",
+      "suspension": "Suspender solo en cirugías con alto riesgo cardiovascular/hemodinámico",
+      "risk": "Fogajes, dolor óseo, hipertensión, osteoporosis, sangrado vaginal, edema",
+      "reintroduction": "Reiniciar tras 7–14 días si estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Leuprorelina",
+      "nomeComercial": "Lupron, Eligard",
+      "mecanismoAcao": "Análogo de GnRH; suprime LH/FSH → castración química",
+      "farmacocinetica": "IM/SC; metabolismo hepático/renal; T½ prolongada",
+      "farmacodinamica": "Supresión hormonal gonadal",
+      "indicacoes": "Cáncer de próstata, endometriosis, miomas, CPP",
+      "reacoesAdversas": "Calores, dolor óseo, cefalea, disfunción sexual, pérdida ósea",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "SC o IM mensual/trimestral/semestral",
+      "doseMaxima": "45mg SC cada 6 meses",
+      "doseMinima": "3.75mg IM mensual",
+      "classificacao": "Análogo de GnRH",
+      "apresentacao": "3.75mg, 7.5mg, 11.25mg, 22.5mg, 30mg, 45mg",
+      "interacaoMedicamento": "Cuidado con antagonistas hormonales y QT prolongadores",
+      "posologia": "3.75mg mensual; 22.5mg trimestral según protocolo",
+      "armazenamento": "2–8°C; no congelar",
+      "preparo": "Reconstituir con diluyente antes de usar",
+      "solucoesCompatíveis": "Diluyente específico",
+      "contraindicacoes": "Embarazo, sangrado inexplicado, alergia a GnRH",
+      "cuidadosMedicos": "Control hormonal, densidad ósea, síntomas cardiovasculares",
+      "cuidadosFarmaceuticos": "Almacenamiento adecuado, educación sobre ‘flare’",
+      "cuidadosEnfermagem": "Observar sitio, sofocos, dolor óseo",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "亮丙瑞林",
+      "suspension": "大手术前7天停药（高危心血管患者）",
+      "risk": "潮热、骨痛、血压升高、性功能障碍、骨密度下降",
+      "reintroduction": "术后稳定7–14天后恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "亮丙瑞林",
+      "nomeComercial": "Lupron、Eligard",
+      "mecanismoAcao": "GnRH类似物，持续刺激→垂体去敏化→激素抑制",
+      "farmacocinetica": "SC/IM；T½依制剂而异；肝/肾代谢",
+      "farmacodinamica": "抑制LH/FSH分泌，降睾酮/雌激素",
+      "indicacoes": "前列腺癌、乳腺癌、子宫肌瘤、性早熟",
+      "reacoesAdversas": "潮热、注射反应、骨痛、水肿、性功能低下",
+      "riscoGravidez": "X类 – 禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "每月/每3月/每6月SC或IM注射",
+      "doseMaxima": "45mg每6个月",
+      "doseMinima": "3.75mg每月",
+      "classificacao": "GnRH激动剂",
+      "apresentacao": "3.75mg～45mg注射剂",
+      "interacaoMedicamento": "与抗激素药、QT延长药有交互风险",
+      "posologia": "3.75mg/月；22.5mg/3月，依方案",
+      "armazenamento": "2–8°C冷藏，避光",
+      "preparo": "使用自带稀释液即配即用",
+      "solucoesCompatíveis": "厂家配制液",
+      "contraindicacoes": "妊娠、不明出血、GnRH过敏",
+      "cuidadosMedicos": "监测骨密度、PSA、心血管状况",
+      "cuidadosFarmaceuticos": "告知可能“激发”反应，冷藏保存",
+      "cuidadosEnfermagem": "观察注射反应、骨痛、潮热、情绪变化",
+      "fontesBibliograficas": "中国药典、FDA、EMA、NCCN、Micromedex"
+    }
+  }
+}

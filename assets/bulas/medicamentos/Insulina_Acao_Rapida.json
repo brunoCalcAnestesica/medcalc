@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Insulina de ação rápida",
+      "suspension": "Não suspender antes de cirurgias; ajustar conforme jejum, tipo de cirurgia e glicemia",
+      "risk": "Hipoglicemia perioperatória se não ajustada; pode ser substituída por infusão EV em procedimentos prolongados",
+      "reintroduction": "Reintroduzir conforme retomada da dieta e controle glicêmico pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Insulina regular (solúvel)",
+      "nomeComercial": "Humulin R, Novolin R",
+      "mecanismoAcao": "Promove captação de glicose por células-alvo e inibe glicogenólise e lipólise",
+      "farmacocinetica": "Início em 30 min, pico em 2–4 h, duração de 6–8 h; início imediato via EV",
+      "farmacodinamica": "Reduz rapidamente a glicemia plasmática em resposta à hiperglicemia aguda",
+      "indicacoes": "Diabetes mellitus tipo 1 e 2, cetoacidose diabética, controle glicêmico hospitalar, infusão IV contínua",
+      "reacoesAdversas": "Hipoglicemia, lipodistrofia, reações no local de aplicação",
+      "riscoGravidez": "Categoria B – segura na gravidez",
+      "riscoLactacao": "Segura na lactação",
+      "administracao": "Subcutânea, intravenosa (bolus ou infusão)",
+      "doseMaxima": "Individualizada; geralmente até 0,1 UI/kg EV em bolus ou perfusão",
+      "doseMinima": "Conforme esquema basal-bolus ou prescrição hospitalar",
+      "classificacao": "Hormônio antidiabético de ação rápida",
+      "apresentacao": "Frasco-ampola 100 UI/mL, caneta pré-cheia",
+      "interacaoMedicamento": "Interage com corticoides, betabloqueadores, tiazídicos, álcool",
+      "posologia": "Conforme prescrição individualizada (SC antes das refeições ou IV contínua)",
+      "armazenamento": "Refrigerar entre 2–8°C; em uso, manter até 28 dias fora da geladeira (<30°C)",
+      "preparo": "Transparente, sem partículas; não agitar vigorosamente",
+      "solucoesCompatíveis": "Soro fisiológico 0,9% (EV); não misturar com outras insulinas",
+      "contraindicacoes": "Hipoglicemia, alergia à insulina",
+      "cuidadosMedicos": "Monitorar glicemia capilar rigorosamente no intra e pós-operatório",
+      "cuidadosFarmaceuticos": "Checar validade, aspecto e compatibilidade em infusão",
+      "cuidadosEnfermagem": "Administrar conforme glicemia e jejum; observar sintomas de hipoglicemia",
+      "fontesBibliograficas": "SBEM, ADA, Medscape, ANVISA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Rapid-acting insulin (regular)",
+      "suspension": "Do not suspend before surgery; adjust per fasting and glycemic targets",
+      "risk": "Risk of perioperative hypoglycemia; may require IV infusion",
+      "reintroduction": "Restart post-op based on glucose control and nutrition status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Regular insulin (soluble human insulin)",
+      "nomeComercial": "Humulin R, Novolin R",
+      "mecanismoAcao": "Promotes cellular glucose uptake, inhibits hepatic glucose production",
+      "farmacocinetica": "Onset: 30 min; Peak: 2–4 h; Duration: 6–8 h; immediate onset IV",
+      "farmacodinamica": "Lowers blood glucose acutely and predictably",
+      "indicacoes": "Type 1 and 2 DM, DKA, perioperative glucose control, IV insulin drips",
+      "reacoesAdversas": "Hypoglycemia, lipodystrophy, local reactions",
+      "riscoGravidez": "Category B – safe",
+      "riscoLactacao": "Safe",
+      "administracao": "SC, IV (bolus or continuous)",
+      "doseMaxima": "Individualized; up to 0.1 IU/kg bolus or infusion",
+      "doseMinima": "Per basal-bolus or hospital protocol",
+      "classificacao": "Short-acting antidiabetic hormone",
+      "apresentacao": "100 IU/mL vial or prefilled pen",
+      "interacaoMedicamento": "Interacts with corticosteroids, beta-blockers, alcohol",
+      "posologia": "Pre-meal SC or IV drip per hospital orders",
+      "armazenamento": "Refrigerate 2–8°C; in-use vials OK up to 28 days at room temp",
+      "preparo": "Clear, particle-free; do not shake",
+      "solucoesCompatíveis": "0.9% NaCl (IV use); do not mix with other insulins",
+      "contraindicacoes": "Hypoglycemia, insulin allergy",
+      "cuidadosMedicos": "Monitor BG closely perioperatively",
+      "cuidadosFarmaceuticos": "Verify stability, compatibility for IV",
+      "cuidadosEnfermagem": "Administer per BG/fasting protocol; watch for hypoglycemia",
+      "fontesBibliograficas": "FDA, ADA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Insulina de acción rápida (regular)",
+      "suspension": "No suspender antes de cirugía; ajustar según ayuno y glicemia",
+      "risk": "Riesgo de hipoglucemia; puede requerir infusión IV en cirugía prolongada",
+      "reintroduction": "Reanudar tras cirugía según glicemia y estado nutricional"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Insulina humana regular",
+      "nomeComercial": "Humulina R, Novolina R",
+      "mecanismoAcao": "Favorece la captación de glucosa e inhibe gluconeogénesis hepática",
+      "farmacocinetica": "Inicio: 30 min; Pico: 2–4 h; Duración: 6–8 h; IV inmediato",
+      "farmacodinamica": "Disminuye glucemia rápidamente",
+      "indicacoes": "DM tipo 1 y 2, cetoacidosis, control perioperatorio",
+      "reacoesAdversas": "Hipoglucemia, lipodistrofia, reacciones locales",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Segura",
+      "administracao": "SC, IV",
+      "doseMaxima": "Individualizar; hasta 0,1 UI/kg bolo/infusión",
+      "doseMinima": "Según protocolo basal-bolo",
+      "classificacao": "Hormona hipoglucemiante",
+      "apresentacao": "100 UI/mL frasco o pluma",
+      "interacaoMedicamento": "Alcohol, corticoides, tiazidas, betabloqueantes",
+      "posologia": "SC antes de comidas o IV continua",
+      "armazenamento": "2–8°C; uso 28 días <30°C",
+      "preparo": "Clara y sin partículas; no agitar",
+      "solucoesCompatíveis": "NaCl 0,9% IV; no mezclar insulinas",
+      "contraindicacoes": "Hipoglucemia, alergia",
+      "cuidadosMedicos": "Monitorizar glucemia en perioperatorio",
+      "cuidadosFarmaceuticos": "Verificar estabilidad y compatibilidad",
+      "cuidadosEnfermagem": "Aplicar según glicemia y ayuno; vigilar hipoglucemia",
+      "fontesBibliograficas": "ADA, Medscape, ANMAT, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "速效胰岛素（常规）",
+      "suspension": "术前不建议停药；需根据禁食状态与血糖调整剂量",
+      "risk": "术中低血糖风险；复杂手术可能需静脉胰岛素",
+      "reintroduction": "术后按饮食恢复与血糖水平重新给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "常规人胰岛素",
+      "nomeComercial": "优泌林R、诺和灵R",
+      "mecanismoAcao": "促进细胞摄取葡萄糖，抑制肝糖生成",
+      "farmacocinetica": "起效30分钟，峰值2–4小时，持续6–8小时；IV起效立即",
+      "farmacodinamica": "快速控制高血糖状态",
+      "indicacoes": "1型/2型糖尿病、酮症酸中毒、围手术期血糖控制",
+      "reacoesAdversas": "低血糖、注射部位脂肪萎缩、过敏反应",
+      "riscoGravidez": "B类 – 安全",
+      "riscoLactacao": "可安全哺乳",
+      "administracao": "皮下注射、静脉注射",
+      "doseMaxima": "个体化，一般0.1单位/公斤/次",
+      "doseMinima": "依据血糖和方案调整",
+      "classificacao": "短效降糖激素",
+      "apresentacao": "100单位/mL小瓶或注射笔",
+      "interacaoMedicamento": "与酒精、糖皮质激素、β阻滞剂、利尿剂相互作用",
+      "posologia": "SC餐前注射或按医嘱IV滴注",
+      "armazenamento": "2–8°C冷藏；启用后室温下可使用28天",
+      "preparo": "澄清无色、无颗粒；勿剧烈摇晃",
+      "solucoesCompatíveis": "0.9%氯化钠（IV用）；不可与其他胰岛素混合",
+      "contraindicacoes": "低血糖、过敏",
+      "cuidadosMedicos": "术前后严密监测血糖，调整剂量",
+      "cuidadosFarmaceuticos": "审核药品有效期和兼容性",
+      "cuidadosEnfermagem": "根据禁食和血糖准确用药，观察低血糖症状",
+      "fontesBibliograficas": "中国药典、Micromedex、ADA、Medscape"
+    }
+  }
+}

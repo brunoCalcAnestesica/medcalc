@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tobramicina",
+      "suspension": "Suspender 24 horas antes de cirurgias eletivas em pacientes com risco de disfunção renal ou uso concomitante de fármacos nefrotóxicos.",
+      "risk": "Risco de nefrotoxicidade, ototoxicidade, bloqueio neuromuscular e interação com anestésicos.",
+      "reintroduction": "Reintroduzir após reavaliação da função renal e auditiva e estabilização clínica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tobramicina",
+      "nomeComercial": "Tobrex, Tobradex, Nebcina",
+      "mecanismoAcao": "Aminoglicosídeo que inibe a síntese proteica bacteriana por ligação à subunidade 30S ribossomal, causando leitura incorreta do mRNA",
+      "farmacocinetica": "Administração parenteral ou tópica; baixa absorção oral; excreção renal por filtração glomerular; meia-vida 2–3 h (sistêmica)",
+      "farmacodinamica": "Ação bactericida dependente de concentração; ativa contra Gram-negativos (P. aeruginosa, E. coli, Klebsiella) e alguns Gram-positivos",
+      "indicacoes": "Infecções graves por bacilos Gram-negativos (sepse, pneumonia, ITU); infecções oculares externas (uso tópico); bronquiectasias (inalatório)",
+      "reacoesAdversas": "Nefrotoxicidade, ototoxicidade, vertigem, bloqueio neuromuscular, eritema ocular (uso tópico), broncoespasmo (inalatório)",
+      "riscoGravidez": "Categoria D (sistêmica); C (tópico)",
+      "riscoLactacao": "Uso com cautela; excreção mínima no leite",
+      "administracao": "IV, IM, tópica (oftálmica, otológica), inalatória",
+      "doseMaxima": "5–7 mg/kg/dia (sistêmica); conforme posologia tópica ou inalatória",
+      "doseMinima": "1 mg/kg/dia (sistêmica)",
+      "classificacao": "Antibiótico aminoglicosídeo bactericida",
+      "apresentacao": "Solução injetável 80 mg/2 mL; colírio 0,3%; pomada oftálmica 0,3%; solução inalatória 300 mg/5 mL",
+      "interacaoMedicamento": "Risco aumentado de toxicidade com diuréticos de alça, vancomicina, cisplatina, ciclosporina",
+      "posologia": "3–5 mg/kg/dia dividido em 2–3 doses IV/IM; 1–2 gotas oftálmicas 4–6x/dia; 300 mg inalatória 2x/dia",
+      "armazenamento": "Solução injetável refrigerada (2–8 ºC); colírio à temperatura ambiente",
+      "preparo": "Diluir em SF 0,9% para IV; solução oftálmica pronta para uso",
+      "solucoesCompatíveis": "SF 0,9%, SG 5% (IV)",
+      "contraindicacoes": "Alergia a aminoglicosídeos, insuficiência renal grave sem ajuste, miastenia grave",
+      "cuidadosMedicos": "Monitorar função renal, níveis séricos e sinais de toxicidade auditiva",
+      "cuidadosFarmaceuticos": "Assegurar reconstituição e diluição correta; respeitar estabilidade da solução",
+      "cuidadosEnfermagem": "Avaliar diurese, audição, equilíbrio; instruir aplicação correta tópica",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, bula Tobrex, Nebcina"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tobramycin",
+      "suspension": "Discontinue 24 hours before elective surgeries in patients at risk of renal dysfunction or using concomitant nephrotoxic drugs.",
+      "risk": "Risk of nephrotoxicity, ototoxicity, neuromuscular blockade, and interaction with anesthetics.",
+      "reintroduction": "Reintroduce after reassessment of renal and auditory function and clinical stabilization."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tobramycin",
+      "nomeComercial": "Tobrex, Tobradex, Nebcina",
+      "mecanismoAcao": "Aminoglycoside that inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit, causing misreading of mRNA",
+      "farmacocinetica": "Parenteral or topical administration; low oral absorption; renal excretion by glomerular filtration; half-life 2–3 h (systemic)",
+      "farmacodinamica": "Concentration-dependent bactericidal action; active against Gram-negatives (P. aeruginosa, E. coli, Klebsiella) and some Gram-positives",
+      "indicacoes": "Severe infections by Gram-negative bacilli (sepsis, pneumonia, UTI); external ocular infections (topical use); bronchiectasis (inhaled)",
+      "reacoesAdversas": "Nephrotoxicity, ototoxicity, vertigo, neuromuscular blockade, ocular erythema (topical), bronchospasm (inhaled)",
+      "riscoGravidez": "Category D (systemic); C (topical)",
+      "riscoLactacao": "Use with caution; minimal excretion in breast milk",
+      "administracao": "IV, IM, topical (ophthalmic, otic), inhaled",
+      "doseMaxima": "5–7 mg/kg/day (systemic); as per topical or inhaled regimen",
+      "doseMinima": "1 mg/kg/day (systemic)",
+      "classificacao": "Bactericidal aminoglycoside antibiotic",
+      "apresentacao": "Injectable solution 80 mg/2 mL; eye drops 0.3%; ophthalmic ointment 0.3%; inhalation solution 300 mg/5 mL",
+      "interacaoMedicamento": "Increased toxicity risk with loop diuretics, vancomycin, cisplatin, cyclosporine",
+      "posologia": "3–5 mg/kg/day divided in 2–3 IV/IM doses; 1–2 ophthalmic drops 4–6x/day; 300 mg inhaled 2x/day",
+      "armazenamento": "Injectable solution refrigerated (2–8 ºC); eye drops at room temperature",
+      "preparo": "Dilute in 0.9% saline for IV; ophthalmic solution ready to use",
+      "solucoesCompatíveis": "0.9% saline, 5% dextrose (IV)",
+      "contraindicacoes": "Allergy to aminoglycosides, severe renal failure without adjustment, myasthenia gravis",
+      "cuidadosMedicos": "Monitor renal function, serum levels, and signs of auditory toxicity",
+      "cuidadosFarmaceuticos": "Ensure correct reconstitution and dilution; respect solution stability",
+      "cuidadosEnfermagem": "Evaluate urine output, hearing, balance; instruct on correct topical application",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Tobrex and Nebcina package inserts"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tobramicina",
+      "suspension": "Suspender 24 horas antes de cirugías electivas en pacientes con riesgo de disfunción renal o uso concomitante de fármacos nefrotóxicos.",
+      "risk": "Riesgo de nefrotoxicidad, ototoxicidad, bloqueo neuromuscular e interacción con anestésicos.",
+      "reintroduction": "Reintroducir tras reevaluación de la función renal y auditiva y estabilización clínica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tobramicina",
+      "nomeComercial": "Tobrex, Tobradex, Nebcina",
+      "mecanismoAcao": "Aminoglucósido que inhibe la síntesis proteica bacteriana por unión a la subunidad ribosomal 30S, causando lectura incorrecta del ARNm",
+      "farmacocinetica": "Administración parenteral o tópica; baja absorción oral; excreción renal por filtración glomerular; vida media 2–3 h (sistémica)",
+      "farmacodinamica": "Acción bactericida dependiente de la concentración; activa contra Gram-negativos (P. aeruginosa, E. coli, Klebsiella) y algunos Gram-positivos",
+      "indicacoes": "Infecciones graves por bacilos Gram-negativos (sepsis, neumonía, ITU); infecciones oculares externas (uso tópico); bronquiectasias (inhalatoria)",
+      "reacoesAdversas": "Nefrotoxicidad, ototoxicidad, vértigo, bloqueo neuromuscular, eritema ocular (uso tópico), broncoespasmo (inhalatoria)",
+      "riscoGravidez": "Categoría D (sistémica); C (tópica)",
+      "riscoLactacao": "Uso con precaución; excreción mínima en leche",
+      "administracao": "IV, IM, tópica (oftálmica, ótica), inhalatoria",
+      "doseMaxima": "5–7 mg/kg/día (sistémica); según posología tópica o inhalatoria",
+      "doseMinima": "1 mg/kg/día (sistémica)",
+      "classificacao": "Antibiótico aminoglucósido bactericida",
+      "apresentacao": "Solución inyectable 80 mg/2 mL; colirio 0,3%; pomada oftálmica 0,3%; solución inhalatoria 300 mg/5 mL",
+      "interacaoMedicamento": "Riesgo aumentado de toxicidad con diuréticos de asa, vancomicina, cisplatino, ciclosporina",
+      "posologia": "3–5 mg/kg/día dividido en 2–3 dosis IV/IM; 1–2 gotas oftálmicas 4–6x/día; 300 mg inhalatoria 2x/día",
+      "armazenamento": "Solución inyectable refrigerada (2–8 ºC); colirio a temperatura ambiente",
+      "preparo": "Diluir en SF 0,9% para IV; solución oftálmica lista para usar",
+      "solucoesCompatíveis": "SF 0,9%, SG 5% (IV)",
+      "contraindicacoes": "Alergia a aminoglucósidos, insuficiencia renal grave sin ajuste, miastenia grave",
+      "cuidadosMedicos": "Monitorizar función renal, niveles séricos y signos de toxicidad auditiva",
+      "cuidadosFarmaceuticos": "Asegurar correcta reconstitución y dilución; respetar la estabilidad de la solución",
+      "cuidadosEnfermagem": "Evaluar diuresis, audición, equilibrio; instruir sobre la correcta aplicación tópica",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, prospecto Tobrex, Nebcina"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "妥布霉素",
+      "suspension": "在有肾功能障碍风险或同时使用肾毒性药物的患者中，择期手术前24小时停用。",
+      "risk": "有肾毒性、耳毒性、神经肌肉阻滞及与麻醉药相互作用的风险。",
+      "reintroduction": "在肾功能和听力功能重新评估及临床稳定后可重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "妥布霉素",
+      "nomeComercial": "Tobrex, Tobradex, Nebcina",
+      "mecanismoAcao": "氨基糖苷类，通过与30S核糖体亚基结合抑制细菌蛋白质合成，导致mRNA误读",
+      "farmacocinetica": "肠外或局部给药；口服吸收差；肾小球滤过排泄；半衰期2–3小时（全身）",
+      "farmacodinamica": "浓度依赖性杀菌作用；对革兰阴性菌（铜绿假单胞菌、大肠杆菌、克雷伯菌）及部分革兰阳性菌有效",
+      "indicacoes": "严重革兰阴性杆菌感染（败血症、肺炎、尿路感染）；外眼感染（局部用药）；支气管扩张症（吸入）",
+      "reacoesAdversas": "肾毒性、耳毒性、眩晕、神经肌肉阻滞、眼部红斑（局部）、支气管痉挛（吸入）",
+      "riscoGravidez": "D类（全身）；C类（局部）",
+      "riscoLactacao": "慎用；乳汁中排泄极少",
+      "administracao": "静脉注射、肌肉注射、局部（眼科、耳科）、吸入",
+      "doseMaxima": "5–7 mg/kg/天（全身）；局部或吸入按说明书",
+      "doseMinima": "1 mg/kg/天（全身）",
+      "classificacao": "杀菌性氨基糖苷类抗生素",
+      "apresentacao": "注射液80 mg/2 mL；滴眼液0.3%；眼膏0.3%；吸入液300 mg/5 mL",
+      "interacaoMedicamento": "与袢利尿剂、万古霉素、顺铂、环孢素合用毒性风险增加",
+      "posologia": "3–5 mg/kg/天分2–3次IV/IM；滴眼液每次1–2滴，每日4–6次；吸入300 mg，每日2次",
+      "armazenamento": "注射液冷藏（2–8℃）；滴眼液室温保存",
+      "preparo": "IV用0.9%氯化钠稀释；滴眼液为即用型",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖（IV）",
+      "contraindicacoes": "对氨基糖苷类过敏、严重肾功能衰竭未调整、重症肌无力",
+      "cuidadosMedicos": "监测肾功能、血药浓度及听力毒性表现",
+      "cuidadosFarmaceuticos": "确保正确重构和稀释；遵循溶液稳定性",
+      "cuidadosEnfermagem": "评估尿量、听力和平衡；指导局部正确用药",
+      "fontesBibliograficas": "Micromedex、UpToDate、FDA、ANVISA、Tobrex和Nebcina说明书"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Osimertinibe",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas de grande porte ou com risco pulmonar elevado",
+      "risk": "Pneumonite intersticial, diarreia, rash acneiforme, hepatotoxicidade, prolongamento do QT, trombocitopenia",
+      "reintroduction": "Reintroduzir após resolução de toxicidades pulmonares, hepáticas ou cardíacas e cicatrização satisfatória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Osimertinibe",
+      "nomeComercial": "Tagrisso",
+      "mecanismoAcao": "Inibidor irreversível da tirosina quinase do EGFR mutado (ex19del, L858R, T790M)",
+      "farmacocinetica": "VO; biodisponibilidade ~70%; T½ ~48–60h; metabolismo CYP3A4; excreção fecal",
+      "farmacodinamica": "Bloqueio seletivo do EGFR mutado, inibição da proliferação celular em NSCLC com mutações sensíveis",
+      "indicacoes": "Câncer de pulmão de células não pequenas EGFR+ avançado ou com mutação T790M; adjuvante pós-ressecção",
+      "reacoesAdversas": "Rash, diarreia, estomatite, pneumonite, prolongamento de QT, fadiga, anorexia",
+      "riscoGravidez": "Categoria D – contraindicado; risco teratogênico confirmado",
+      "riscoLactacao": "Contraindicado durante e por pelo menos 6 semanas após a última dose",
+      "administracao": "VO, 80mg 1x/dia, com ou sem alimentos",
+      "doseMaxima": "80mg/dia",
+      "doseMinima": "40mg/dia (em casos de toxicidade)",
+      "classificacao": "Inibidor de tirosina quinase do EGFR de 3ª geração",
+      "apresentacao": "Comprimidos de 40mg e 80mg",
+      "interacaoMedicamento": "Interação com inibidores/indutores de CYP3A4, risco aumentado com QT prolongadores",
+      "posologia": "80mg/dia VO contínuo até progressão ou toxicidade",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Pode ser disperso em água se necessário; uso exclusivo oral",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Prolongamento QTc não controlado, gravidez, pneumonite prévia induzida por EGFR-TKI",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, função hepática e respiratória",
+      "cuidadosFarmaceuticos": "Educar paciente sobre adesão, interações e sinais precoces de toxicidade pulmonar/cutânea",
+      "cuidadosEnfermagem": "Observar sintomas respiratórios, cutâneos, diarreia, fadiga",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Osimertinib",
+      "suspension": "Hold 7 days before major surgery due to risk of pulmonary or cardiac toxicity",
+      "risk": "ILD/pneumonitis, diarrhea, rash, QT prolongation, hepatotoxicity, thrombocytopenia",
+      "reintroduction": "Restart after resolution of pulmonary, hepatic, or ECG abnormalities and wound healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Osimertinib",
+      "nomeComercial": "Tagrisso",
+      "mecanismoAcao": "Irreversible EGFR-TKI targeting mutant forms (ex19del, L858R, T790M)",
+      "farmacocinetica": "Oral; ~70% bioavailability; T½ ~48–60h; metabolized by CYP3A4; fecal excretion",
+      "farmacodinamica": "Selective inhibition of mutant EGFR → apoptosis of NSCLC cells",
+      "indicacoes": "EGFR-mutant NSCLC (advanced, T790M+, adjuvant)",
+      "reacoesAdversas": "Rash, diarrhea, stomatitis, ILD, QTc prolongation, anorexia, fatigue",
+      "riscoGravidez": "Category D – teratogenicity observed",
+      "riscoLactacao": "Avoid during and for 6 weeks post-therapy",
+      "administracao": "Oral, 80mg once daily with/without food",
+      "doseMaxima": "80mg/day",
+      "doseMinima": "40mg/day (dose adjustment)",
+      "classificacao": "3rd-generation EGFR-TKI",
+      "apresentacao": "Tablets 40mg, 80mg",
+      "interacaoMedicamento": "CYP3A4 modulators, QT-prolonging drugs",
+      "posologia": "80mg PO daily until progression or toxicity",
+      "armazenamento": "Store at 15–30°C, protect from light/moisture",
+      "preparo": "Swallow whole or disperse in 50ml water",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, uncontrolled QTc prolongation, previous ILD",
+      "cuidadosMedicos": "ECG, electrolytes, LFTs, pulmonary status monitoring",
+      "cuidadosFarmaceuticos": "Counsel on adherence, CYP3A4 interactions, diarrhea",
+      "cuidadosEnfermagem": "Assess rash, dyspnea, diarrhea, fatigue",
+      "fontesBibliograficas": "FDA label, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Osimertinib",
+      "suspension": "Suspender 7 días antes de cirugía si hay riesgo pulmonar/cardiaco",
+      "risk": "Neumonitis, diarrea, erupción, hepatotoxicidad, prolongación QT",
+      "reintroduction": "Reiniciar tras 10–14 días y resolución de toxicidades"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Osimertinib",
+      "nomeComercial": "Tagrisso",
+      "mecanismoAcao": "Inhibidor irreversible de EGFR mutado (del19, L858R, T790M)",
+      "farmacocinetica": "Oral; T½ 48–60h; CYP3A4; excreción fecal",
+      "farmacodinamica": "Bloqueo de EGFR mutado → apoptosis en NSCLC",
+      "indicacoes": "NSCLC con mutación EGFR, adyuvante y metastásico",
+      "reacoesAdversas": "Erupción, diarrea, estomatitis, neumonitis, QT prolongado, anorexia",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No recomendado durante y 6 semanas postratamiento",
+      "administracao": "VO, 80mg/día",
+      "doseMaxima": "80mg/día",
+      "doseMinima": "40mg/día",
+      "classificacao": "ITK de 3ª generación anti-EGFR",
+      "apresentacao": "Comprimidos 40mg, 80mg",
+      "interacaoMedicamento": "CYP3A4, antiácidos, QT prolongadores",
+      "posologia": "80mg/día continuo",
+      "armazenamento": "15–30°C, protegido de humedad/luz",
+      "preparo": "Ingerir entera o dispersar en agua",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "QT prolongado, neumonitis previa, embarazo",
+      "cuidadosMedicos": "ECG, hepático, síntomas respiratorios y cutáneos",
+      "cuidadosFarmaceuticos": "Control interacciones, educación adherencia",
+      "cuidadosEnfermagem": "Vigilar rash, diarrea, disnea, fatiga",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥希替尼",
+      "suspension": "术前7天停药，若有间质性肺病史慎用",
+      "risk": "间质性肺炎、腹泻、皮疹、肝毒性、QT间期延长",
+      "reintroduction": "术后10–14天，症状缓解后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥希替尼",
+      "nomeComercial": "Tagrisso",
+      "mecanismoAcao": "EGFR突变选择性不可逆抑制剂，作用于T790M",
+      "farmacocinetica": "口服；T½约48–60小时；CYP3A4代谢；粪便排泄",
+      "farmacodinamica": "靶向EGFR突变（包括耐药位点T790M）",
+      "indicacoes": "EGFR突变型晚期NSCLC，术后辅助治疗",
+      "reacoesAdversas": "皮疹、腹泻、口腔炎、QT延长、肺炎、肝酶升高",
+      "riscoGravidez": "D类 – 禁用于孕期",
+      "riscoLactacao": "治疗期间及6周内禁哺乳",
+      "administracao": "口服，每日80mg，餐前后均可",
+      "doseMaxima": "80mg/天",
+      "doseMinima": "40mg/天",
+      "classificacao": "第三代EGFR-TKI",
+      "apresentacao": "片剂40mg、80mg",
+      "interacaoMedicamento": "CYP3A4药物、QT延长药物、抗酸药",
+      "posologia": "每日80mg口服，持续使用",
+      "armazenamento": "15–30°C，避光防潮",
+      "preparo": "整片服用，或水中分散后服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "孕期、QT延长、既往EGFR-TKI肺炎",
+      "cuidadosMedicos": "监测肝功能、电解质、ECG、肺部症状",
+      "cuidadosFarmaceuticos": "强调规律服药、管理副作用、药物相互作用",
+      "cuidadosEnfermagem": "观察皮疹、腹泻、呼吸异常、疲劳",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

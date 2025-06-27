@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Prednisolona",
+      "suspension": "Suspender apenas em cirurgias eletivas de longo prazo se em uso crônico e com risco de supressão adrenal. Avaliar necessidade de dose de estresse.",
+      "risk": "Supressão do eixo HHA, hiperglicemia, risco de infecção, hipertensão, retenção de sódio e osteoporose. Uso crônico exige cautela no perioperatório.",
+      "reintroduction": "Reintroduzir com dose de manutenção ou de estresse conforme avaliação clínica e duração do uso prévio."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prednisolona",
+      "nomeComercial": "Predsin, Pred Fort, Isonason, Meticorten (prednisona, pró-fármaco)",
+      "mecanismoAcao": "Glicocorticoide sintético que inibe a produção de citocinas inflamatórias, reduz a permeabilidade capilar e suprime a resposta imune.",
+      "farmacocinetica": "Biodisponibilidade oral: ~80%; início: 1–2 h; pico: 2 h; meia-vida: 2–4 h; metabolização hepática.",
+      "farmacodinamica": "Ação anti-inflamatória, antialérgica e imunossupressora potente. Efeito mineralocorticoide leve.",
+      "indicacoes": "Asma grave, DPOC exacerbada, doenças autoimunes, alergias severas, inflamações sistêmicas, edemas cerebrais, púrpura, tratamento pós-transplante.",
+      "reacoesAdversas": "Insônia, dispepsia, ganho de peso, fraqueza muscular, hiperglicemia, hipertensão, osteoporose, acne, alterações de humor.",
+      "riscoGravidez": "Categoria C – usar se necessário. Pode causar retardo de crescimento fetal em doses elevadas.",
+      "riscoLactacao": "Compatível em doses baixas a moderadas com monitoramento.",
+      "administracao": "Oral (comprimidos, solução), parenteral (acetato ou succinato de prednisolona IV).",
+      "doseMaxima": "Até 80 mg/dia em terapia de indução (adulto).",
+      "doseMinima": "5 mg/dia para manutenção.",
+      "classificacao": "Glicocorticoide sistêmico.",
+      "apresentacao": "Comprimidos (5, 20 mg), solução oral (3, 5 mg/mL), ampola IV (acetato ou succinato).",
+      "interacaoMedicamento": "AINEs, hipoglicemiantes, varfarina, diuréticos, anticonvulsivantes, rifampicina.",
+      "posologia": "Asma grave: 40–60 mg/dia; manutenção: 5–10 mg/dia; IV: conforme protocolo clínico.",
+      "armazenamento": "Temperatura ambiente, protegido da luz.",
+      "preparo": "Diluir forma IV conforme protocolo (succinato compatível com SF ou SG5%).",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%.",
+      "contraindicacoes": "Infecções fúngicas sistêmicas, alergia conhecida, uso sem cobertura antibiótica em infecção ativa.",
+      "cuidadosMedicos": "Monitorar sinais de infecção, pressão arterial, glicemia e cortisol basal em uso prolongado.",
+      "cuidadosFarmaceuticos": "Verificar dose e necessidade de tapering em uso prolongado.",
+      "cuidadosEnfermagem": "Observar efeitos adversos, controlar glicemia e PA, reforçar ingestão com alimento.",
+      "fontesBibliograficas": "UpToDate, Micromedex, SBPT, BNF, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Prednisolone",
+      "suspension": "Suspend only in elective surgeries with chronic use and adrenal suppression risk. Evaluate need for stress dose.",
+      "risk": "HPA axis suppression, hyperglycemia, infection risk, hypertension, sodium retention. Careful perioperative management needed.",
+      "reintroduction": "Resume maintenance or stress dose post-op based on duration and clinical evaluation."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prednisolone",
+      "nomeComercial": "Orapred, Millipred, Prelone, Pediapred",
+      "mecanismoAcao": "Synthetic glucocorticoid that suppresses inflammation and immune responses by inhibiting cytokines and vascular permeability.",
+      "farmacocinetica": "Oral bioavailability ~80%; onset: 1–2 h; t½: 2–4 h; hepatic metabolism.",
+      "farmacodinamica": "Potent anti-inflammatory, immunosuppressive, and anti-allergic effects. Mild mineralocorticoid activity.",
+      "indicacoes": "Severe asthma, COPD exacerbation, autoimmune diseases, allergies, cerebral edema, transplant, adrenal insufficiency.",
+      "reacoesAdversas": "Insomnia, weight gain, hyperglycemia, hypertension, mood changes, myopathy, osteoporosis.",
+      "riscoGravidez": "Category C – use if needed; may affect fetal growth at high doses.",
+      "riscoLactacao": "Compatible at low to moderate doses.",
+      "administracao": "Oral (tablets, solution); parenteral (IV succinate or acetate).",
+      "doseMaxima": "Up to 80 mg/day for induction.",
+      "doseMinima": "5 mg/day for maintenance.",
+      "classificacao": "Systemic glucocorticoid.",
+      "apresentacao": "Tablets (5, 10, 20 mg), oral solution (5 mg/5 mL), IV vials.",
+      "interacaoMedicamento": "NSAIDs, warfarin, antidiabetics, rifampin, anticonvulsants, diuretics.",
+      "posologia": "Asthma: 40–60 mg/day; maintenance: 5–10 mg/day; IV as per clinical protocol.",
+      "armazenamento": "Store at room temperature, protect from light.",
+      "preparo": "IV: dilute succinate form in NS or D5W.",
+      "solucoesCompatíveis": "NS 0.9%, Dextrose 5%.",
+      "contraindicacoes": "Systemic fungal infections, allergy, use without antibiotic in active infection.",
+      "cuidadosMedicos": "Monitor glucose, BP, infection, adrenal function in chronic use.",
+      "cuidadosFarmaceuticos": "Check tapering need, interaction risk.",
+      "cuidadosEnfermagem": "Monitor glycemia, BP, side effects; administer with food.",
+      "fontesBibliograficas": "UpToDate, Micromedex, FDA, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Prednisolona",
+      "suspension": "Suspender solo si hay riesgo de supresión adrenal por uso crónico prolongado. Evaluar necesidad de dosis de estrés.",
+      "risk": "Supresión del eje HHA, hiperglucemia, riesgo infeccioso, HTA, retención de sodio, osteoporosis.",
+      "reintroduction": "Reintroducir con dosis de mantenimiento o estrés según criterio clínico."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prednisolona",
+      "nomeComercial": "Prednisone, Meticorten, Predsin, Prelone",
+      "mecanismoAcao": "Glucocorticoide sintético que inhibe la inflamación y la respuesta inmune.",
+      "farmacocinetica": "Biodisponibilidad oral ~80%; inicio: 1–2 h; t½: 2–4 h; metabolismo hepático.",
+      "farmacodinamica": "Efectos antiinflamatorios e inmunosupresores potentes; leve efecto mineralocorticoide.",
+      "indicacoes": "Asma grave, EPOC exacerbada, autoinmunidad, alergias, edema cerebral, trasplante.",
+      "reacoesAdversas": "Insomnio, hiperglucemia, ganancia de peso, HTA, miopatía, alteraciones del ánimo.",
+      "riscoGravidez": "Categoría C – usar si beneficio supera riesgo.",
+      "riscoLactacao": "Compatible en dosis bajas a moderadas.",
+      "administracao": "Oral o parenteral (succinato/acetato).",
+      "doseMaxima": "Hasta 80 mg/día.",
+      "doseMinima": "5 mg/día.",
+      "classificacao": "Glucocorticoide sistémico.",
+      "apresentacao": "Comprimidos (5, 20 mg), solución oral (5 mg/5 mL), ampollas IV.",
+      "interacaoMedicamento": "AINES, warfarina, hipoglucemiantes, rifampicina, diuréticos.",
+      "posologia": "Asma: 40–60 mg/día; mantenimiento: 5–10 mg/día.",
+      "armazenamento": "Ambiente, protegido de luz.",
+      "preparo": "IV: diluir succinato en SF o SG5%.",
+      "solucoesCompatíveis": "ClNa 0.9%, Glucosa 5%.",
+      "contraindicacoes": "Infección fúngica sistémica, hipersensibilidad.",
+      "cuidadosMedicos": "Monitorear glicemia, PA, eje HHA.",
+      "cuidadosFarmaceuticos": "Verificar necesidad de reducción gradual.",
+      "cuidadosEnfermagem": "Observar efectos adversos, administrar con alimentos.",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "泼尼松龙（Prednisolone）",
+      "suspension": "如长期使用并存在肾上腺抑制风险，择期手术前应评估是否需停药或给应激剂量。",
+      "risk": "可能导致HHA轴抑制、高血糖、感染、钠潴留、高血压、骨质疏松等。",
+      "reintroduction": "术后可按原剂量或应激剂量恢复使用，视病情决定。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "泼尼松龙",
+      "nomeComercial": "Prednisolone、Prelon、泼尼松片（中国常规制剂）",
+      "mecanismoAcao": "合成糖皮质激素，抑制炎症因子及毛细血管通透性，具强抗炎及免疫抑制作用。",
+      "farmacocinetica": "口服吸收良好；起效1–2小时；T1/2约2–4小时；肝脏代谢。",
+      "farmacodinamica": "快速抗炎、抗过敏、免疫抑制；轻度盐皮质激素作用。",
+      "indicacoes": "哮喘、慢阻肺急性发作、自身免疫病、脑水肿、过敏反应、肾病综合征等。",
+      "reacoesAdversas": "失眠、情绪波动、高血糖、高血压、肌无力、体重增加、感染风险、骨质疏松。",
+      "riscoGravidez": "C类，必要时使用。",
+      "riscoLactacao": "哺乳期可用，中低剂量下较安全。",
+      "administracao": "口服、静脉注射（琥珀酸酯、乙酸酯制剂）。",
+      "doseMaxima": "成人诱导期可达80 mg/d。",
+      "doseMinima": "维持量5 mg/d。",
+      "classificacao": "系统性糖皮质激素。",
+      "apresentacao": "片剂（5、20 mg）、口服液、注射剂。",
+      "interacaoMedicamento": "NSAIDs、华法林、降糖药、抗癫药、利福平、利尿剂等。",
+      "posologia": "常规40–60 mg/d；维持5–10 mg/d；IV按医嘱使用。",
+      "armazenamento": "室温避光保存。",
+      "preparo": "IV用药稀释于NS或D5W缓慢推注或滴注。",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖。",
+      "contraindicacoes": "严重真菌感染、对糖皮质激素过敏。",
+      "cuidadosMedicos": "监测血糖、血压、电解质、感染迹象及肾上腺功能。",
+      "cuidadosFarmaceuticos": "长期使用需逐渐减量，不可骤停。",
+      "cuidadosEnfermagem": "观察不良反应，建议餐后服用以减胃肠刺激。",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate"
+    }
+  }
+}

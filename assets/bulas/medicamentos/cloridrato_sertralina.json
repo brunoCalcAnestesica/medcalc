@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cloridrato de Sertralina",
+      "suspension": "Manter até o dia da cirurgia, salvo em risco elevado de sangramento gastrointestinal ou interação com outros serotoninérgicos",
+      "risk": "Pode aumentar risco de sangramento perioperatório, síndrome serotoninérgica e interação com tramadol, fentanil e triptanos",
+      "reintroduction": "Manter no pós-operatório; suspender apenas se houver complicações hemorrágicas ou neurológicas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de sertralina",
+      "nomeComercial": "Zoloft, Tolrest, Assert",
+      "mecanismoAcao": "Inibidor seletivo da recaptação de serotonina (ISRS)",
+      "farmacocinetica": "Biodisponibilidade ~44%; meia-vida de 26 h; metabolizado no fígado (CYP450)",
+      "farmacodinamica": "Aumenta níveis sinápticos de serotonina; efeito ansiolítico, antidepressivo e antiobsessivo",
+      "indicacoes": "Depressão maior, transtorno de ansiedade, TOC, TEPT, fobia social, síndrome do pânico",
+      "reacoesAdversas": "Náusea, cefaleia, insônia, disfunção sexual, diarreia, tremores",
+      "riscoGravidez": "Categoria C – pode ser usado com cautela em depressão grave",
+      "riscoLactacao": "Compatível com amamentação (excreção mínima no leite)",
+      "administracao": "Via oral",
+      "doseMaxima": "200 mg/dia",
+      "doseMinima": "25 mg/dia",
+      "classificacao": "Antidepressivo ISRS",
+      "apresentacao": "Comprimidos 25, 50 e 100 mg",
+      "interacaoMedicamento": "Potencializa outros serotoninérgicos (tramadol, triptanos); risco com AINEs, varfarina, IMAOs",
+      "posologia": "Início com 25–50 mg/dia; titular até 100–200 mg/dia conforme resposta",
+      "armazenamento": "Temperatura ambiente, frasco bem fechado",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso concomitante com IMAOs, pimozida; hipersensibilidade",
+      "cuidadosMedicos": "Monitorar sinais de sangramento, agitação e sintomas serotoninérgicos",
+      "cuidadosFarmaceuticos": "Avaliar interações com fármacos do intraoperatório",
+      "cuidadosEnfermagem": "Observar humor, pressão arterial, náuseas, agitação ou confusão",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, APA Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sertraline Hydrochloride",
+      "suspension": "Continue through surgery unless high bleeding risk or serotonergic interaction is present",
+      "risk": "May increase perioperative bleeding, serotonin syndrome risk, interaction with opioids",
+      "reintroduction": "Generally maintained post-op; discontinue only with adverse events"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sertraline hydrochloride",
+      "nomeComercial": "Zoloft",
+      "mecanismoAcao": "Selective serotonin reuptake inhibitor (SSRI)",
+      "farmacocinetica": "Bioavailability ~44%; half-life ~26 h; hepatic metabolism (CYP450)",
+      "farmacodinamica": "Boosts serotonergic tone; antidepressant and anxiolytic effect",
+      "indicacoes": "Major depressive disorder, panic disorder, OCD, PTSD, SAD, PMDD",
+      "reacoesAdversas": "Nausea, headache, insomnia, sexual dysfunction, tremor, diarrhea",
+      "riscoGravidez": "Category C – may be used when benefit outweighs risk",
+      "riscoLactacao": "Low secretion in breast milk – considered safe",
+      "administracao": "Oral",
+      "doseMaxima": "200 mg/day",
+      "doseMinima": "25 mg/day",
+      "classificacao": "SSRI antidepressant",
+      "apresentacao": "Tablets: 25, 50, 100 mg",
+      "interacaoMedicamento": "Risk with MAOIs, NSAIDs, triptans, tramadol; additive bleeding risk",
+      "posologia": "Start 25–50 mg/day; titrate to 100–200 mg/day",
+      "armazenamento": "Store at room temperature",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Concomitant MAOI or pimozide use; known hypersensitivity",
+      "cuidadosMedicos": "Monitor for bleeding, serotonin syndrome, and mood",
+      "cuidadosFarmaceuticos": "Check interaction with surgical meds",
+      "cuidadosEnfermagem": "Observe mood, BP, GI and neurologic status",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, APA Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clorhidrato de Sertralina",
+      "suspension": "Continuar hasta cirugía salvo riesgo alto de sangrado o interacciones serotoninérgicas",
+      "risk": "Aumenta riesgo de sangrado y síndrome serotoninérgico; interactúa con opioides",
+      "reintroduction": "Mantener salvo complicación hemorrágica grave"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de sertralina",
+      "nomeComercial": "Zoloft",
+      "mecanismoAcao": "ISRS – inhibidor selectivo de la recaptación de serotonina",
+      "farmacocinetica": "Biodisponibilidad ~44%; vida media ~26 h; metabolismo hepático",
+      "farmacodinamica": "Antidepresivo, ansiolítico, antiobsesivo",
+      "indicacoes": "Depresión, TOC, TEPT, fobia social, trastorno de pánico",
+      "reacoesAdversas": "Náuseas, cefalea, insomnio, disfunción sexual, diarrea, temblores",
+      "riscoGravidez": "Categoría C – usar si beneficio supera riesgo",
+      "riscoLactacao": "Seguro; mínima secreción",
+      "administracao": "Oral",
+      "doseMaxima": "200 mg/día",
+      "doseMinima": "25 mg/día",
+      "classificacao": "Antidepresivo ISRS",
+      "apresentacao": "Comprimidos 25, 50, 100 mg",
+      "interacaoMedicamento": "IMAO, triptanos, tramadol, AINEs; riesgo de sangrado",
+      "posologia": "Inicio 25–50 mg/día; ajuste hasta 200 mg/día",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "IMAO, pimozida, alergia",
+      "cuidadosMedicos": "Vigilar estado de ánimo, sangrado y efectos serotoninérgicos",
+      "cuidadosFarmaceuticos": "Revisar interacciones quirúrgicas",
+      "cuidadosEnfermagem": "Controlar estado mental, TA y efectos GI",
+      "fontesBibliograficas": "EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "盐酸舍曲林",
+      "suspension": "一般术前无需停药，除非合并高出血或5-HT风险",
+      "risk": "可能增加术中出血、血清素综合征，与麻醉药/阿片类联用需注意",
+      "reintroduction": "术后通常可维持，如出血或神经不良反应需评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸舍曲林",
+      "nomeComercial": "左洛复 Zoloft",
+      "mecanismoAcao": "选择性5-羟色胺再摄取抑制剂（SSRI）",
+      "farmacocinetica": "口服生物利用度~44%；半衰期约26小时，肝代谢",
+      "farmacodinamica": "提升5-HT功能，具有抗抑郁、抗焦虑作用",
+      "indicacoes": "抑郁症、强迫症、PTSD、社交恐惧、惊恐障碍",
+      "reacoesAdversas": "恶心、失眠、性功能障碍、震颤、腹泻、焦虑",
+      "riscoGravidez": "C类 – 有指征时可用",
+      "riscoLactacao": "少量分泌，通常安全",
+      "administracao": "口服",
+      "doseMaxima": "每日200毫克",
+      "doseMinima": "每日25毫克",
+      "classificacao": "SSRI类抗抑郁药",
+      "apresentacao": "片剂：25、50、100毫克",
+      "interacaoMedicamento": "与MAOI、曲普坦、阿片类、NSAIDs合用需注意",
+      "posologia": "起始25–50毫克/日，逐步调整至200毫克",
+      "armazenamento": "常温避光保存",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "合用MAOI、匹莫齐特，过敏者禁用",
+      "cuidadosMedicos": "术前评估情绪、出血倾向、血清素状态",
+      "cuidadosFarmaceuticos": "关注麻醉用药交互",
+      "cuidadosEnfermagem": "观察情绪、血压、神经/胃肠反应",
+      "fontesBibliograficas": "中国药典、UpToDate、Micromedex、FDA"
+    }
+  }
+}

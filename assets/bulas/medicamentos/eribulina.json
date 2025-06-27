@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Eribulina",
+      "suspension": "Suspender 7 dias antes de procedimentos cirúrgicos maiores",
+      "risk": "Risco de mielossupressão, neutropenia febril, toxicidade neurológica periférica e interação com anestésicos mielotóxicos",
+      "reintroduction": "Reintroduzir após recuperação hematológica e neurológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eribulina mesilato",
+      "nomeComercial": "Halaven",
+      "mecanismoAcao": "Inibe o crescimento de microtúbulos sem afetar sua despolimerização, interrompendo a mitose e levando à apoptose",
+      "farmacocinetica": "Administração IV, meia-vida ~40 h, metabolização hepática limitada, excreção fecal e renal",
+      "farmacodinamica": "Antimitótico não taxano que bloqueia a progressão do ciclo celular na fase G2/M",
+      "indicacoes": "Câncer de mama metastático após ≥2 regimes, lipossarcoma avançado",
+      "reacoesAdversas": "Neutropenia, alopecia, fadiga, neuropatia periférica, náusea, constipação, prolongamento de QT",
+      "riscoGravidez": "Categoria D – risco fetal",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intravenosa lenta (2 a 5 minutos)",
+      "doseMaxima": "1,4 mg/m² nos dias 1 e 8 de um ciclo de 21 dias",
+      "doseMinima": "1,1 mg/m² (ajuste por toxicidade)",
+      "classificacao": "Inibidor de microtúbulos",
+      "apresentacao": "Frascos-ampola de 0,44 mg/mL (2 mL ou 3 mL)",
+      "interacaoMedicamento": "Cautela com fármacos que prolongam QT e mielotóxicos",
+      "posologia": "1,4 mg/m² IV nos dias 1 e 8 a cada 21 dias",
+      "armazenamento": "Refrigerado (2–8°C), proteger da luz",
+      "preparo": "Diluir em SF 0,9% ou SG 5%, infusão IV lenta",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Neutropenia <1.000/mm³, gravidez, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar hemograma, ECG, neuropatia e sinais de infecção",
+      "cuidadosFarmaceuticos": "Preparação asséptica em sala apropriada, observar estabilidade",
+      "cuidadosEnfermagem": "Observar acesso venoso, sinais de flebite e toxicidade hematológica",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Eribulin",
+      "suspension": "Hold at least 7 days prior to major surgery",
+      "risk": "Risk of myelosuppression, peripheral neuropathy, QT prolongation, febrile neutropenia",
+      "reintroduction": "Resume once hematologic and neurologic recovery is confirmed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eribulin mesylate",
+      "nomeComercial": "Halaven",
+      "mecanismoAcao": "Inhibits microtubule growth, causing mitotic block at G2/M phase and apoptosis",
+      "farmacocinetica": "IV route, half-life ~40 h, minimal liver metabolism, fecal and renal excretion",
+      "farmacodinamica": "Non-taxane microtubule dynamics inhibitor",
+      "indicacoes": "Metastatic breast cancer after ≥2 regimens; advanced liposarcoma",
+      "reacoesAdversas": "Neutropenia, alopecia, fatigue, nausea, constipation, QT prolongation, neuropathy",
+      "riscoGravidez": "Category D – fetal harm",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "IV bolus over 2–5 minutes",
+      "doseMaxima": "1.4 mg/m² on Days 1 and 8 every 21-day cycle",
+      "doseMinima": "1.1 mg/m² if toxicity",
+      "classificacao": "Microtubule dynamics inhibitor",
+      "apresentacao": "Vials: 0.44 mg/mL (2 mL or 3 mL)",
+      "interacaoMedicamento": "Caution with QT-prolonging drugs and myelosuppressives",
+      "posologia": "1.4 mg/m² IV Days 1 and 8 every 21 days",
+      "armazenamento": "Refrigerate 2–8°C, protect from light",
+      "preparo": "Dilute in NS or D5W, administer over 2–5 min",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Pregnancy, hypersensitivity, ANC <1000/mm³",
+      "cuidadosMedicos": "Monitor CBC, ECG, neuropathy, infection signs",
+      "cuidadosFarmaceuticos": "Use sterile compounding; check compatibility and expiration",
+      "cuidadosEnfermagem": "Assess IV site, monitor for extravasation or hematologic toxicity",
+      "fontesBibliograficas": "FDA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Eribulina",
+      "suspension": "Suspender al menos 7 días antes de cirugía mayor",
+      "risk": "Mielosupresión, neuropatía periférica, neutropenia febril, QT largo",
+      "reintroduction": "Reintroducir tras recuperación hematológica y neurológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eribulina mesilato",
+      "nomeComercial": "Halaven",
+      "mecanismoAcao": "Inhibe crecimiento de microtúbulos, bloquea mitosis (fase G2/M)",
+      "farmacocinetica": "IV, t½ ~40 h, mínima metabolización hepática",
+      "farmacodinamica": "Antimitótico no taxano",
+      "indicacoes": "Cáncer de mama metastásico, liposarcoma avanzado",
+      "reacoesAdversas": "Neutropenia, náusea, fatiga, neuropatía, QT largo",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "IV lenta (2–5 min)",
+      "doseMaxima": "1,4 mg/m² días 1 y 8 cada 21 días",
+      "doseMinima": "1,1 mg/m² si toxicidad",
+      "classificacao": "Inhibidor de microtúbulos",
+      "apresentacao": "Frascos 0,44 mg/mL",
+      "interacaoMedicamento": "Evitar fármacos QT largos y mielotóxicos",
+      "posologia": "1,4 mg/m² IV días 1 y 8 ciclo de 21 días",
+      "armazenamento": "Refrigerar 2–8°C",
+      "preparo": "Diluir en SSF o SG5%",
+      "solucoesCompatíveis": "SSF, SG5%",
+      "contraindicacoes": "Neutropenia severa, embarazo",
+      "cuidadosMedicos": "Controlar hemograma, ECG, neuropatía",
+      "cuidadosFarmaceuticos": "Preparación estéril, control de estabilidad",
+      "cuidadosEnfermagem": "Observar flebitis, extravasación",
+      "fontesBibliograficas": "EMA, AEMPS, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "艾瑞布林",
+      "suspension": "术前至少7天停药",
+      "risk": "骨髓抑制、QT延长、神经毒性、发热性中性粒细胞减少",
+      "reintroduction": "术后血象与神经恢复后可恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "艾瑞布林甲磺酸盐",
+      "nomeComercial": "Halaven",
+      "mecanismoAcao": "抑制微管聚合，不影响去聚合，阻断有丝分裂",
+      "farmacocinetica": "静脉注射，半衰期约40小时，经肝代谢和胆道/肾排泄",
+      "farmacodinamica": "非紫杉醇类抗微管药，阻止细胞进入有丝分裂",
+      "indicacoes": "转移性乳腺癌、晚期脂肪肉瘤",
+      "reacoesAdversas": "中性粒细胞减少、疲劳、恶心、QT延长、神经病",
+      "riscoGravidez": "D类 – 禁用于孕妇",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉注射2–5分钟",
+      "doseMaxima": "1.4 mg/m²（第1、8天）每21天周期",
+      "doseMinima": "1.1 mg/m²",
+      "classificacao": "微管动力学抑制剂",
+      "apresentacao": "注射液0.44 mg/mL（2 mL或3 mL）",
+      "interacaoMedicamento": "避免QT延长药及其他骨髓抑制剂",
+      "posologia": "1.4 mg/m² IV 第1、8天，每21天1周期",
+      "armazenamento": "冷藏（2–8°C），避光",
+      "preparo": "稀释于0.9%氯化钠或5%葡萄糖注射液中",
+      "solucoesCompatíveis": "氯化钠、葡萄糖",
+      "contraindicacoes": "严重中性粒细胞减少、妊娠、过敏",
+      "cuidadosMedicos": "监测血象、电图、神经毒性",
+      "cuidadosFarmaceuticos": "无菌操作、稀释液稳定性注意",
+      "cuidadosEnfermagem": "监测注射部位和毒副反应",
+      "fontesBibliograficas": "FDA、Micromedex、UpToDate、中国药典"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina influenza",
+      "suspension": "Não se aplica – pode ser adiada em casos de febre aguda ou cirurgia de grande porte iminente",
+      "risk": "Reações locais, febre, mialgia, cefaleia; anafilaxia rara; não causa gripe por ser inativada",
+      "reintroduction": "Reaplicação anual recomendada; retomar o calendário após resolução de impedimentos temporários"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fragmentos de antígenos de vírus influenza A (H1N1, H3N2) e B (linhagens Yamagata/Victoria), inativados",
+      "nomeComercial": "Vaxigrip Tetra, Fluarix Tetra, Influvac, Vacina Influenza Trivalente",
+      "mecanismoAcao": "Estimula produção de anticorpos neutralizantes contra os principais sorotipos circulantes de influenza",
+      "farmacocinetica": "Resposta imune em 10–14 dias; proteção ~6–12 meses",
+      "farmacodinamica": "Previne infecção gripal sintomática e formas graves (pneumonia, internação)",
+      "indicacoes": "Todos ≥6 meses de idade; prioridade para gestantes, idosos, crianças <5 anos, profissionais da saúde e imunossuprimidos",
+      "reacoesAdversas": "Dor, rubor, febre baixa, mialgia, calafrios, cefaleia",
+      "riscoGravidez": "Categoria B – altamente recomendada para gestantes",
+      "riscoLactacao": "Segura",
+      "administracao": "Intramuscular (região deltoide ou vasto lateral)",
+      "doseMaxima": "0,5 mL/dose única anual",
+      "doseMinima": "0,25 mL (em crianças 6–35 meses com formulação pediátrica)",
+      "classificacao": "Vacina viral inativada fragmentada",
+      "apresentacao": "0,25 mL e 0,5 mL seringas preenchidas ou frascos multidoses",
+      "interacaoMedicamento": "Pode ser coadministrada com outras vacinas inativadas",
+      "posologia": "1 dose anual; 2 doses com 4 semanas em primovacinação infantil (6 meses a 8 anos)",
+      "armazenamento": "2–8°C, não congelar",
+      "preparo": "Agitar suavemente; uso imediato",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Reação anafilática à dose anterior ou à proteína do ovo",
+      "cuidadosMedicos": "Adiar em doenças febris graves; verificar alergia grave a ovo",
+      "cuidadosFarmaceuticos": "Manter cadeia de frio; checar validade e aspecto",
+      "cuidadosEnfermagem": "Aplicar IM corretamente; orientar sobre reações comuns",
+      "fontesBibliograficas": "SBIm, PNI/MS, OMS, CDC, ANVISA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Influenza vaccine",
+      "suspension": "Not applicable – postpone if fever or acute illness present",
+      "risk": "Injection site soreness, low fever, fatigue; no live virus in inactivated vaccine",
+      "reintroduction": "Annual revaccination recommended; resume after illness resolves"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Inactivated influenza A (H1N1, H3N2) and B strains",
+      "nomeComercial": "Fluzone, Fluarix, Afluria, FluLaval",
+      "mecanismoAcao": "Induces neutralizing antibodies to circulating influenza strains",
+      "farmacocinetica": "Seroconversion in 10–14 days; duration ~6–12 months",
+      "farmacodinamica": "Reduces incidence of symptomatic and severe influenza",
+      "indicacoes": "Everyone ≥6 months; priority for elderly, pregnant, children, immunocompromised",
+      "reacoesAdversas": "Mild fever, fatigue, myalgia, injection site pain",
+      "riscoGravidez": "Category B – strongly recommended",
+      "riscoLactacao": "Safe",
+      "administracao": "Intramuscular (deltoid or thigh)",
+      "doseMaxima": "0.5 mL/year (single dose)",
+      "doseMinima": "0.25 mL (pediatric formulations)",
+      "classificacao": "Inactivated split virus vaccine",
+      "apresentacao": "0.25 mL, 0.5 mL syringes, or multidose vials",
+      "interacaoMedicamento": "Can be co-administered with other vaccines",
+      "posologia": "Annual dose; 2 doses for first-time children 6 months–8 years",
+      "armazenamento": "2–8°C; do not freeze",
+      "preparo": "Shake gently before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe allergy to vaccine or egg protein",
+      "cuidadosMedicos": "Delay in febrile illness or recent GBS history",
+      "cuidadosFarmaceuticos": "Check cold chain, lot, and appearance",
+      "cuidadosEnfermagem": "IM injection technique; advise on mild adverse events",
+      "fontesBibliograficas": "CDC, WHO, FDA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna influenza",
+      "suspension": "No se suspende; posponer si hay fiebre o infección activa",
+      "risk": "Dolor local, fiebre baja, cefalea, rara anafilaxia",
+      "reintroduction": "Aplicar anualmente tras recuperación clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Virus influenza A y B inactivados",
+      "nomeComercial": "Vaxigrip, Fluarix, Influvac",
+      "mecanismoAcao": "Genera anticuerpos contra cepas estacionales de influenza",
+      "farmacocinetica": "Respuesta en 10–14 días; duración ~1 año",
+      "farmacodinamica": "Reduce enfermedad gripal sintomática y hospitalización",
+      "indicacoes": "Niños ≥6 meses, gestantes, mayores, riesgo crónico",
+      "reacoesAdversas": "Fiebre leve, dolor, mialgia, cansancio",
+      "riscoGravidez": "Recomendada",
+      "riscoLactacao": "Segura",
+      "administracao": "IM (deltoides o muslo)",
+      "doseMaxima": "0,5 mL por año",
+      "doseMinima": "0,25 mL",
+      "classificacao": "Vacuna inactivada fraccionada",
+      "apresentacao": "Jeringa prellenada 0,25/0,5 mL",
+      "interacaoMedicamento": "Compatible con otras vacunas",
+      "posologia": "1 dosis anual; 2 dosis si es primovacunación infantil",
+      "armazenamento": "2–8°C",
+      "preparo": "Agitar antes del uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Anafilaxia a vacuna previa u ovoalbúmina",
+      "cuidadosMedicos": "Evaluar GBS previo, alergias",
+      "cuidadosFarmaceuticos": "Verificar lote, temperatura y aspecto",
+      "cuidadosEnfermagem": "Vigilancia postvacunación 15 min",
+      "fontesBibliograficas": "AEP, OMS, EMA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "流感疫苗",
+      "suspension": "不需停种，如有发热或重大手术可延期",
+      "risk": "接种部位疼痛、低热、疲劳、罕见过敏",
+      "reintroduction": "一年一剂，病后可恢复接种"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "灭活甲/乙型流感病毒裂解疫苗",
+      "nomeComercial": "Vaxigrip、Fluarix、康泰克",
+      "mecanismoAcao": "刺激产生对流感病毒的中和抗体",
+      "farmacocinetica": "10–14天起效，保护期6–12个月",
+      "farmacodinamica": "降低感染率和重症风险",
+      "indicacoes": "6月龄以上人群，优先：孕妇、老年、基础病",
+      "reacoesAdversas": "注射疼痛、低热、乏力、肌痛",
+      "riscoGravidez": "B类 – 强烈推荐",
+      "riscoLactacao": "安全",
+      "administracao": "肌肉注射（上臂/大腿）",
+      "doseMaxima": "0.5 mL/年",
+      "doseMinima": "0.25 mL",
+      "classificacao": "裂解灭活疫苗",
+      "apresentacao": "0.25–0.5 mL预充针剂",
+      "interacaoMedicamento": "可与其他疫苗联合接种",
+      "posologia": "每年1剂，儿童初种2剂",
+      "armazenamento": "2–8°C冷藏，不得冷冻",
+      "preparo": "注射前轻摇",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重蛋白过敏或GBS史",
+      "cuidadosMedicos": "排除急性感染和既往不良反应",
+      "cuidadosFarmaceuticos": "温度监测，批号可追溯",
+      "cuidadosEnfermagem": "接种后观察15分钟",
+      "fontesBibliograficas": "中国疫苗手册、Micromedex、CDC"
+    }
+  }
+}

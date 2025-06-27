@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Flutamida",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas com risco hepático ou tromboembólico",
+      "risk": "Hepatotoxicidade, ginecomastia, ondas de calor, toxicidade hematológica, aumento de transaminases, trombose",
+      "reintroduction": "Reintroduzir após recuperação hepática e estabilidade clínica, geralmente 7–10 dias após cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Flutamida",
+      "nomeComercial": "Flutamin, Drogenil",
+      "mecanismoAcao": "Antagonista não esteroidal do receptor androgênico; inibe ação da testosterona e DHT nos tecidos alvo",
+      "farmacocinetica": "VO; rápida absorção; metabolizado no fígado; meia-vida ~6h; excreção urinária e fecal",
+      "farmacodinamica": "Bloqueio competitivo de receptores androgênicos → regressão de tumores prostáticos dependentes de andrógeno",
+      "indicacoes": "Câncer de próstata avançado (em combinação com análogos de GnRH); uso off-label em hiperandrogenismo feminino",
+      "reacoesAdversas": "Ginecomastia, elevação de TGO/TGP, colestase, náuseas, diarreia, fadiga, anemia, trombose",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "VO, geralmente 250mg 3x/dia (750mg/dia total)",
+      "doseMaxima": "750mg/dia",
+      "doseMinima": "250mg/dia",
+      "classificacao": "Antagonista não esteroidal do receptor androgênico",
+      "apresentacao": "Comprimidos de 125mg e 250mg",
+      "interacaoMedicamento": "Potencial hepatotóxico com paracetamol, varfarina, AINEs; interação com anti-hipertensivos e anticoagulantes",
+      "posologia": "250mg VO 3x/dia, continuamente ou conforme protocolo oncológico",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência hepática, gravidez, sangramento ativo",
+      "cuidadosMedicos": "Monitorar função hepática mensalmente, sinais de trombose, hemograma",
+      "cuidadosFarmaceuticos": "Educar sobre hepatotoxicidade, importância da adesão e possíveis interações medicamentosas",
+      "cuidadosEnfermagem": "Observar icterícia, fadiga, dor abdominal, ginecomastia, edema",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Flutamide",
+      "suspension": "Discontinue 7 days prior to surgery with hepatic or thrombotic risk",
+      "risk": "Hepatotoxicity, gynecomastia, thrombosis, hot flashes, fatigue, anemia",
+      "reintroduction": "Restart once liver enzymes normalize and patient clinically stable (7–10 days postop)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Flutamide",
+      "nomeComercial": "Eulexin",
+      "mecanismoAcao": "Non-steroidal antiandrogen; competitively blocks androgen receptors",
+      "farmacocinetica": "Oral; hepatic metabolism; T½ ~6h; renal/fecal elimination",
+      "farmacodinamica": "Prevents androgen-dependent tumor growth",
+      "indicacoes": "Advanced prostate cancer (with LHRH analog); off-label use in women with androgen excess",
+      "reacoesAdversas": "Hepatitis, nausea, gynecomastia, diarrhea, fatigue, thromboembolism",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Avoid",
+      "administracao": "250mg PO three times daily",
+      "doseMaxima": "750mg/day",
+      "doseMinima": "250mg/day",
+      "classificacao": "Nonsteroidal antiandrogen",
+      "apresentacao": "125mg and 250mg tablets",
+      "interacaoMedicamento": "Warfarin, hepatotoxic drugs, antihypertensives",
+      "posologia": "250mg TID continuously or per oncologic protocol",
+      "armazenamento": "Store at room temp, dry place",
+      "preparo": "Oral administration only",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Liver impairment, pregnancy, bleeding disorders",
+      "cuidadosMedicos": "Monitor LFTs, CBC, symptoms of thrombosis",
+      "cuidadosFarmaceuticos": "Patient education on adherence, hepatic risks, interactions",
+      "cuidadosEnfermagem": "Assess jaundice, edema, gynecomastia, fatigue",
+      "fontesBibliograficas": "FDA label, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Flutamida",
+      "suspension": "Suspender 7 días antes de cirugía con riesgo hepático o trombótico",
+      "risk": "Hepatotoxicidad, ginecomastia, TEP/TVP, fatiga, anemia",
+      "reintroduction": "Reiniciar tras 7–10 días y recuperación hepática completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Flutamida",
+      "nomeComercial": "Eulexin",
+      "mecanismoAcao": "Antagonista androgénico no esteroideo; inhibe unión de DHT a su receptor",
+      "farmacocinetica": "VO; metabolismo hepático; T½ ~6h",
+      "farmacodinamica": "Bloqueo de efectos androgénicos en próstata y tejidos blanco",
+      "indicacoes": "Cáncer de próstata avanzado; off-label: hirsutismo, SOP",
+      "reacoesAdversas": "Fatiga, náusea, toxicidad hepática, ginecomastia, eventos trombóticos",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "250mg VO cada 8h",
+      "doseMaxima": "750mg/día",
+      "doseMinima": "250mg/día",
+      "classificacao": "Antiandrógeno no esteroideo",
+      "apresentacao": "Comprimidos 125mg, 250mg",
+      "interacaoMedicamento": "Anticoagulantes, estatinas, paracetamol",
+      "posologia": "250mg tres veces/día de forma continua",
+      "armazenamento": "Ambiente seco y fresco",
+      "preparo": "Administración oral",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía grave, embarazo, sangrado activo",
+      "cuidadosMedicos": "LFTs, signos de trombosis, ginecomastia",
+      "cuidadosFarmaceuticos": "Educar sobre toxicidad hepática, interacción y cumplimiento",
+      "cuidadosEnfermagem": "Vigilar náuseas, coloración ictérica, síntomas neurológicos",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氟他胺",
+      "suspension": "术前7天停药，防止术中肝毒性或血栓风险",
+      "risk": "肝毒性、男性乳房发育、疲劳、血栓事件、贫血",
+      "reintroduction": "术后7–10天肝功能恢复后可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氟他胺",
+      "nomeComercial": "Eulexin",
+      "mecanismoAcao": "非甾体雄激素受体拮抗剂，抑制雄激素与AR结合",
+      "farmacocinetica": "口服；T½约6小时；肝代谢；尿/粪排泄",
+      "farmacodinamica": "拮抗雄激素介导肿瘤生长",
+      "indicacoes": "前列腺癌，雄激素相关疾病",
+      "reacoesAdversas": "肝酶升高、恶心、乏力、乳房发育、血栓、皮疹",
+      "riscoGravidez": "D类 – 禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "每日3次，每次250mg",
+      "doseMaxima": "每日750mg",
+      "doseMinima": "每日250mg",
+      "classificacao": "非甾体雄激素拮抗剂",
+      "apresentacao": "片剂125mg/250mg",
+      "interacaoMedicamento": "与抗凝剂、镇痛药、CYP2C9药物互作",
+      "posologia": "每日250mg×3次，持续服用",
+      "armazenamento": "干燥避光，室温",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重度肝病、孕期、活动性出血",
+      "cuidadosMedicos": "监测LFT、电解质、CBC",
+      "cuidadosFarmaceuticos": "指导患者遵医用药、避免酒精和高风险药物",
+      "cuidadosEnfermagem": "关注皮肤黄染、疲劳、胸胀、腹泻",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

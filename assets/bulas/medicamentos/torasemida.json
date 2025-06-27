@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Torasemida",
+      "suspension": "Suspender 24 horas antes da cirurgia eletiva",
+      "risk": "Risco de hipovolemia, hipotensão, desequilíbrio eletrolítico e interação com anestésicos",
+      "reintroduction": "Reintroduzir no pós-operatório com monitoramento de eletrólitos e função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Torasemida",
+      "nomeComercial": "Demadex, Torasem, Torel, Torem, Exazid",
+      "mecanismoAcao": "Inibe o co-transporte Na+/K+/2Cl- na alça de Henle, promovendo diurese",
+      "farmacocinetica": "Boa absorção oral (80–90%), pico plasmático em 1–2h, meia-vida de 3–4h, excreção renal e biliar",
+      "farmacodinamica": "Diurético de alça com efeito natriurético, diurético e anti-hipertensivo potente",
+      "indicacoes": "Hipertensão arterial, edema por insuficiência cardíaca, cirrose ou doença renal",
+      "reacoesAdversas": "Hipocalemia, tontura, cefaleia, desidratação, hipotensão",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Uso não recomendado devido à ausência de dados",
+      "administracao": "Via oral ou intravenosa",
+      "doseMaxima": "200mg/dia",
+      "doseMinima": "5mg/dia",
+      "classificacao": "Diurético de alça",
+      "apresentacao": "Comprimidos de 5mg, 10mg, 20mg e solução injetável 10mg/mL",
+      "interacaoMedicamento": "Potencializa toxicidade de digitálicos e lítio; interação com AINEs e aminoglicosídeos",
+      "posologia": "Dose ajustada conforme indicação e resposta clínica",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Reconstituição não necessária na forma oral; solução injetável pronta para uso",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, glicose 5%",
+      "contraindicacoes": "Anúria, hipersensibilidade às sulfonamidas, hipocalemia grave",
+      "cuidadosMedicos": "Monitorar eletrólitos, pressão arterial, função renal",
+      "cuidadosFarmaceuticos": "Avaliar estabilidade da solução, armazenamento adequado",
+      "cuidadosEnfermagem": "Controlar balanço hídrico, sinais de hipocalemia e hipotensão",
+      "fontesBibliograficas": "Micromedex, FDA, EMA, ANVISA, SBH, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Torasemide",
+      "suspension": "Suspend 24 hours before elective surgery",
+      "risk": "Risk of hypovolemia, hypotension, electrolyte imbalance, anesthetic interaction",
+      "reintroduction": "Restart postoperatively with renal and electrolyte monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Torasemide",
+      "nomeComercial": "Demadex, Soaanz, Torsemide",
+      "mecanismoAcao": "Inhibits Na+/K+/2Cl− cotransporter in loop of Henle, increasing diuresis",
+      "farmacocinetica": "Well absorbed orally (80–90%), peak at 1–2h, half-life 3–4h, excreted renally and biliary",
+      "farmacodinamica": "Potent loop diuretic with antihypertensive and natriuretic effects",
+      "indicacoes": "Hypertension, edema due to heart failure, liver cirrhosis or kidney disease",
+      "reacoesAdversas": "Hypokalemia, dizziness, headache, dehydration, hypotension",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Not recommended due to limited data",
+      "administracao": "Oral or IV route",
+      "doseMaxima": "200mg/day",
+      "doseMinima": "5mg/day",
+      "classificacao": "Loop diuretic",
+      "apresentacao": "Tablets (5mg, 10mg, 20mg), injection 10mg/mL",
+      "interacaoMedicamento": "May increase toxicity of digoxin, lithium; interacts with NSAIDs and aminoglycosides",
+      "posologia": "Individualized dose based on indication and response",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "No reconstitution needed for oral; injection ready-to-use",
+      "solucoesCompatíveis": "Normal saline, dextrose 5%",
+      "contraindicacoes": "Anuria, sulfonamide hypersensitivity, severe hypokalemia",
+      "cuidadosMedicos": "Monitor BP, electrolytes, renal function",
+      "cuidadosFarmaceuticos": "Ensure storage and solution stability",
+      "cuidadosEnfermagem": "Monitor fluid balance, signs of hypokalemia and hypotension",
+      "fontesBibliograficas": "FDA, Micromedex, Lexicomp, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Torasemida",
+      "suspension": "Suspender 24 horas antes de cirugía electiva",
+      "risk": "Riesgo de hipovolemia, hipotensión, desequilibrio electrolítico e interacción anestésica",
+      "reintroduction": "Reintroducir tras cirugía con control renal y electrolítico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Torasemida",
+      "nomeComercial": "Demadex, Torasem, Torel, Torem",
+      "mecanismoAcao": "Inhibe el cotransportador Na+/K+/2Cl− en el asa de Henle",
+      "farmacocinetica": "Buena absorción oral (80–90%), pico en 1–2h, vida media 3–4h, excreción renal y biliar",
+      "farmacodinamica": "Diurético del asa con efecto natriurético y antihipertensivo potente",
+      "indicacoes": "Hipertensión, edema por insuficiencia cardíaca, cirrosis hepática, enfermedad renal",
+      "reacoesAdversas": "Hipocalemia, mareo, cefalea, deshidratación, hipotensión",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "No recomendado por falta de datos",
+      "administracao": "Vía oral o intravenosa",
+      "doseMaxima": "200mg/día",
+      "doseMinima": "5mg/día",
+      "classificacao": "Diurético del asa",
+      "apresentacao": "Comprimidos 5mg, 10mg, 20mg; solución inyectable 10mg/mL",
+      "interacaoMedicamento": "Aumenta toxicidad de digitálicos, litio; interacciones con AINEs y aminoglucósidos",
+      "posologia": "Dosis ajustada según respuesta e indicación",
+      "armazenamento": "Conservar entre 15–30°C, protegido de humedad",
+      "preparo": "No requiere reconstitución oral; inyectable lista para uso",
+      "solucoesCompatíveis": "Suero fisiológico, glucosa al 5%",
+      "contraindicacoes": "Anuria, hipersensibilidad a sulfonamidas, hipocalemia grave",
+      "cuidadosMedicos": "Control de presión arterial, función renal, electrolitos",
+      "cuidadosFarmaceuticos": "Verificar estabilidad y almacenamiento",
+      "cuidadosEnfermagem": "Monitoreo de líquidos, signos de hipocalemia e hipotensión",
+      "fontesBibliograficas": "EMA, FDA, ANVISA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "托拉塞米",
+      "suspension": "择期手术前24小时停药",
+      "risk": "低血容量、低血压、电解质紊乱与麻醉药物相互作用风险",
+      "reintroduction": "术后监测肾功能和电解质后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "托拉塞米",
+      "nomeComercial": "Demadex, 托拉米",
+      "mecanismoAcao": "抑制亨利袢的Na+/K+/2Cl−协同转运体，促进排钠排水",
+      "farmacocinetica": "口服吸收良好（80–90%），1–2小时达峰，半衰期3–4小时，经肾和胆道排泄",
+      "farmacodinamica": "强效袢利尿剂，具有排钠和降压作用",
+      "indicacoes": "高血压、心力衰竭、肝硬化或肾病引起的水肿",
+      "reacoesAdversas": "低钾血症、头晕、头痛、脱水、低血压",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "不推荐，数据不足",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日200毫克",
+      "doseMinima": "每日5毫克",
+      "classificacao": "袢利尿剂",
+      "apresentacao": "5mg、10mg、20mg片剂；注射液10mg/mL",
+      "interacaoMedicamento": "可增加地高辛、锂毒性；与NSAIDs、氨基糖苷类有相互作用",
+      "posologia": "依据临床情况个体化调整剂量",
+      "armazenamento": "15–30°C，避湿保存",
+      "preparo": "口服剂型无需重配；注射液可直接使用",
+      "solucoesCompatíveis": "生理盐水、5%葡萄糖",
+      "contraindicacoes": "无尿、磺胺类过敏、严重低钾血症",
+      "cuidadosMedicos": "监测血压、电解质、肾功能",
+      "cuidadosFarmaceuticos": "确保溶液稳定性和储存条件",
+      "cuidadosEnfermagem": "观察液体平衡、低钾与低压征象",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

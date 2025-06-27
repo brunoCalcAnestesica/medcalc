@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Enfuvirtida",
+      "suspension": "Manter até o dia da cirurgia; avaliar suspensão em caso de reação cutânea grave no local de aplicação",
+      "risk": "Reações no local da aplicação, risco de infecção local, potencial aumento de risco de abscesso subcutâneo e resistência viral",
+      "reintroduction": "Reintroduzir após recuperação da ferida cirúrgica e ausência de infecção local"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enfuvirtida",
+      "nomeComercial": "Fuzeon",
+      "mecanismoAcao": "Inibidor de fusão; impede a entrada do HIV-1 nas células ao bloquear a interação gp41 com a membrana celular",
+      "farmacocinetica": "Administração subcutânea; meia-vida ~3,8 horas; metabolismo proteolítico",
+      "farmacodinamica": "Reduz carga viral plasmática em pacientes com HIV resistente a múltiplas classes",
+      "indicacoes": "HIV-1 resistente a múltiplas terapias; terapia de resgate",
+      "reacoesAdversas": "Dor no local da injeção (>90%), nódulos, eritema, hipersensibilidade, infecções bacterianas cutâneas",
+      "riscoGravidez": "Categoria B – pode ser usado com cautela",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Subcutânea, 2x/dia",
+      "doseMaxima": "180 mg/dia (90 mg 2x/dia)",
+      "doseMinima": "180 mg/dia",
+      "classificacao": "Inibidor de fusão do HIV-1",
+      "apresentacao": "Pó liofilizado 108 mg com diluente (água estéril)",
+      "interacaoMedicamento": "Baixo potencial de interação medicamentosa por não ser metabolizado por CYP",
+      "posologia": "90 mg SC a cada 12 horas",
+      "armazenamento": "Refrigerado (2–8 °C); solução reconstituída válida por 24 h",
+      "preparo": "Reconstituir com 1,1 mL de água estéril; agitar suavemente até dissolver",
+      "solucoesCompatíveis": "Água estéril para injeção",
+      "contraindicacoes": "Hipersensibilidade, infecção cutânea ativa grave no local de injeção",
+      "cuidadosMedicos": "Monitorar reação local, adesão e resposta virológica",
+      "cuidadosFarmaceuticos": "Educar sobre reconstituição e técnica de aplicação rotativa",
+      "cuidadosEnfermagem": "Observar locais de injeção, dor, endurecimento e infecção",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, DHHS HIV Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Enfuvirtide",
+      "suspension": "Continue up to surgery; suspend only if severe injection site reaction or active skin infection",
+      "risk": "Local injection site reactions, nodules, potential abscess or bacterial infection",
+      "reintroduction": "Restart after wound healing and absence of infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enfuvirtide",
+      "nomeComercial": "Fuzeon",
+      "mecanismoAcao": "Fusion inhibitor that blocks gp41-mediated entry of HIV-1 into CD4+ cells",
+      "farmacocinetica": "SC; t½ ~3.8 h; proteolytic metabolism",
+      "farmacodinamica": "Decreases viral load in multi-drug resistant HIV-1",
+      "indicacoes": "Treatment-experienced HIV-1 infection",
+      "reacoesAdversas": "Injection site pain, nodules, erythema, hypersensitivity, skin infections",
+      "riscoGravidez": "Category B – use with caution",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Subcutaneous BID",
+      "doseMaxima": "180 mg/day",
+      "doseMinima": "180 mg/day",
+      "classificacao": "HIV fusion inhibitor",
+      "apresentacao": "Lyophilized powder 108 mg + sterile water",
+      "interacaoMedicamento": "Low interaction risk; not CYP metabolized",
+      "posologia": "90 mg SC every 12 hours",
+      "armazenamento": "Refrigerate (2–8 °C); reconstituted: stable for 24 h",
+      "preparo": "Add 1.1 mL SWFI; swirl gently until fully dissolved",
+      "solucoesCompatíveis": "Sterile water for injection",
+      "contraindicacoes": "Hypersensitivity, active severe injection site infection",
+      "cuidadosMedicos": "Monitor virologic response and injection site complications",
+      "cuidadosFarmaceuticos": "Educate on reconstitution, rotation of injection sites",
+      "cuidadosEnfermagem": "Assess injection sites for pain, nodules, infection",
+      "fontesBibliograficas": "FDA, DHHS, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Enfuvirtida",
+      "suspension": "Mantener hasta cirugía; suspender solo si reacción grave en sitio de inyección",
+      "risk": "Reacciones locales, nódulos, riesgo de abscesos e infección cutánea",
+      "reintroduction": "Reiniciar tras cicatrización y control de infección"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enfuvirtida",
+      "nomeComercial": "Fuzeon",
+      "mecanismoAcao": "Inhibidor de fusión que impide entrada del VIH al unirse a gp41",
+      "farmacocinetica": "SC, t½ ~3,8 h, metabolismo proteico",
+      "farmacodinamica": "Reduce carga viral en VIH resistente",
+      "indicacoes": "VIH-1 multirresistente",
+      "reacoesAdversas": "Dolor local, induración, eritema, infección bacteriana",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Subcutánea 2x/día",
+      "doseMaxima": "180 mg/día",
+      "doseMinima": "180 mg/día",
+      "classificacao": "Inhibidor de fusión VIH",
+      "apresentacao": "Polvo liofilizado 108 mg + agua estéril",
+      "interacaoMedicamento": "Bajo riesgo; no metabolizado por CYP",
+      "posologia": "90 mg SC cada 12 horas",
+      "armazenamento": "2–8 °C, reconstituido: usar en 24 h",
+      "preparo": "Disolver en 1,1 mL de agua estéril",
+      "solucoesCompatíveis": "Agua estéril",
+      "contraindicacoes": "Alergia, infección local grave",
+      "cuidadosMedicos": "Control respuesta viral y sitio de inyección",
+      "cuidadosFarmaceuticos": "Enseñar técnica y rotación de sitios",
+      "cuidadosEnfermagem": "Revisar enrojecimiento, dolor, signos infecciosos",
+      "fontesBibliograficas": "EMA, DHHS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "依夫韦肽（Enfuvirtide）",
+      "suspension": "如注射部位严重反应可术前停药，否则可继续",
+      "risk": "注射部位硬结、红肿、感染风险",
+      "reintroduction": "术后创口愈合、无感染后可重用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依夫韦肽",
+      "nomeComercial": "Fuzeon",
+      "mecanismoAcao": "HIV融合抑制剂，阻断gp41介导病毒进入",
+      "farmacocinetica": "皮下注射，t½约3.8小时，蛋白降解代谢",
+      "farmacodinamica": "用于多药耐药HIV患者，显著降病毒载量",
+      "indicacoes": "HIV联合抗逆转录治疗失败后使用",
+      "reacoesAdversas": "注射部位疼痛、硬块、感染、过敏",
+      "riscoGravidez": "B类，可慎用",
+      "riscoLactacao": "不推荐",
+      "administracao": "皮下注射，每日2次",
+      "doseMaxima": "每日180 mg",
+      "doseMinima": "每日180 mg",
+      "classificacao": "HIV融合抑制类抗病毒药",
+      "apresentacao": "冻干粉108 mg +无菌水",
+      "interacaoMedicamento": "不参与CYP代谢，交互作用少",
+      "posologia": "每12小时注射90 mg",
+      "armazenamento": "2–8°C冷藏，稀释后24小时内使用",
+      "preparo": "用1.1 mL无菌水溶解，轻晃溶解",
+      "solucoesCompatíveis": "注射用水",
+      "contraindicacoes": "注射部位感染、过敏",
+      "cuidadosMedicos": "监测注射部位与病毒载量",
+      "cuidadosFarmaceuticos": "指导配药及轮换注射点",
+      "cuidadosEnfermagem": "观察局部红肿、疼痛、硬结",
+      "fontesBibliograficas": "FDA、DHHS指南、Micromedex、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Guselkumabe",
+      "suspension": "Suspender 10 a 14 dias antes de cirurgias eletivas",
+      "risk": "Imunossupressão seletiva; risco de infecções oportunistas, reativação de tuberculose e atraso na cicatrização",
+      "reintroduction": "Reintroduzir após completa cicatrização e resolução de qualquer processo infeccioso"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Guselkumabe",
+      "nomeComercial": "Tremfya",
+      "mecanismoAcao": "Anticorpo monoclonal IgG1λ que bloqueia seletivamente a subunidade p19 da interleucina IL‑23",
+      "farmacocinetica": "Meia-vida de ~15 a 19 dias; metabolismo proteico; não é eliminado por via renal",
+      "farmacodinamica": "Inibe vias inflamatórias Th17 mediadas por IL-23, reduzindo inflamação e proliferação queratinocítica",
+      "indicacoes": "Psoríase em placas moderada a grave, artrite psoriásica ativa",
+      "reacoesAdversas": "Infecções do trato respiratório superior, reações no local da injeção, dor de cabeça, herpes zoster",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhece-se se é excretado no leite materno; uso com cautela",
+      "administracao": "Subcutânea",
+      "doseMaxima": "100 mg SC a cada 8 semanas",
+      "doseMinima": "100 mg SC a cada 8 semanas após fase inicial",
+      "classificacao": "Imunobiológico – anti-IL-23 (p19)",
+      "apresentacao": "Solução injetável em seringa ou caneta preenchida 100 mg/mL",
+      "interacaoMedicamento": "Evitar uso concomitante com outros imunossupressores biológicos",
+      "posologia": "100 mg SC nas semanas 0 e 4, seguido de 100 mg a cada 8 semanas",
+      "armazenamento": "Refrigerado entre 2–8°C, proteger da luz, não congelar",
+      "preparo": "Pronto para uso; retirar da geladeira 30 minutos antes da administração",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Tuberculose ativa, infecções graves, hipersensibilidade ao guselkumabe",
+      "cuidadosMedicos": "Realizar triagem para tuberculose latente; monitorar infecções e resposta clínica",
+      "cuidadosFarmaceuticos": "Conferir aspecto, data de validade e integridade da embalagem",
+      "cuidadosEnfermagem": "Instruir técnica de aplicação SC e observar reações adversas locais e sistêmicas",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Medscape, Micromedex, bula Tremfya"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Guselkumab",
+      "suspension": "Discontinue 10–14 days before elective surgery",
+      "risk": "Selective immunosuppression; risk of infections, TB reactivation, delayed healing",
+      "reintroduction": "Restart after complete wound healing and infection clearance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Guselkumab",
+      "nomeComercial": "Tremfya",
+      "mecanismoAcao": "IgG1λ monoclonal antibody that blocks IL‑23 p19 subunit",
+      "farmacocinetica": "t½ ~15–19 days; proteolytic metabolism; non-renal clearance",
+      "farmacodinamica": "Suppresses IL-23/Th17 inflammation in psoriasis and psoriatic arthritis",
+      "indicacoes": "Moderate-to-severe plaque psoriasis, active psoriatic arthritis",
+      "reacoesAdversas": "URTIs, injection site reactions, headache, shingles",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown if excreted in milk; caution advised",
+      "administracao": "Subcutaneous injection",
+      "doseMaxima": "100 mg SC every 8 weeks",
+      "doseMinima": "100 mg SC q8w after initial doses",
+      "classificacao": "Biologic – IL-23 p19 inhibitor",
+      "apresentacao": "Prefilled syringe/autoinjector 100 mg/mL",
+      "interacaoMedicamento": "Avoid co-use with biologic immunosuppressants",
+      "posologia": "100 mg SC at weeks 0 and 4, then every 8 weeks",
+      "armazenamento": "Store at 2–8°C; protect from light; do not freeze",
+      "preparo": "Ready to use; allow to reach room temperature before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active TB, serious infections, hypersensitivity",
+      "cuidadosMedicos": "Screen for TB; monitor infection signs",
+      "cuidadosFarmaceuticos": "Check cold chain, expiry, and syringe integrity",
+      "cuidadosEnfermagem": "Educate on SC technique and monitor reactions",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex, Tremfya PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Guselkumab",
+      "suspension": "Suspender 10–14 días antes de cirugía programada",
+      "risk": "Riesgo de infección, reactivación de TB y retraso de cicatrización",
+      "reintroduction": "Reiniciar tras recuperación e infecciones resueltas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Guselkumab",
+      "nomeComercial": "Tremfya",
+      "mecanismoAcao": "Anticuerpo IgG1λ que bloquea la subunidad p19 de IL-23",
+      "farmacocinetica": "t½ 15–19 días; metabolismo proteico",
+      "farmacodinamica": "Reduce inflamación Th17 mediada por IL-23 en psoriasis",
+      "indicacoes": "Psoriasis en placas, artritis psoriásica activa",
+      "reacoesAdversas": "Nasofaringitis, herpes zóster, dolor de cabeza, reacciones locales",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce si se excreta en leche; usar con precaución",
+      "administracao": "Inyección subcutánea",
+      "doseMaxima": "100 mg cada 8 semanas",
+      "doseMinima": "100 mg cada 8 semanas",
+      "classificacao": "Biológico – inhibidor de IL-23 (p19)",
+      "apresentacao": "Jeringa precargada o autoinyector 100 mg/mL",
+      "interacaoMedicamento": "Evitar otros biológicos inmunosupresores",
+      "posologia": "100 mg semanas 0 y 4, luego cada 8 semanas",
+      "armazenamento": "2–8°C; no congelar; proteger de la luz",
+      "preparo": "Listo para usar; aplicar a temperatura ambiente",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "TB activa, infecciones graves, alergia conocida",
+      "cuidadosMedicos": "Detectar TB antes; vigilar síntomas infecciosos",
+      "cuidadosFarmaceuticos": "Controlar integridad y conservación en frío",
+      "cuidadosEnfermagem": "Instruir sobre inyección SC y monitorizar reacciones",
+      "fontesBibliograficas": "EMA, FDA, Tremfya Ficha Técnica, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "古塞利单抗",
+      "suspension": "术前建议停药10–14天",
+      "risk": "免疫抑制风险，可能延迟愈合，诱发感染或潜伏结核激活",
+      "reintroduction": "术后完全愈合且无感染时可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "古塞利单抗",
+      "nomeComercial": "Tremfya",
+      "mecanismoAcao": "靶向IL-23的p19亚单位的人源化IgG1λ单抗",
+      "farmacocinetica": "半衰期15–19天；蛋白代谢",
+      "farmacodinamica": "抑制IL-23介导的炎症反应（Th17）",
+      "indicacoes": "中重度斑块型银屑病、银屑病性关节炎",
+      "reacoesAdversas": "上呼吸道感染、注射部位反应、带状疱疹、头痛",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "未知是否排入乳汁，慎用",
+      "administracao": "皮下注射",
+      "doseMaxima": "每8周100毫克",
+      "doseMinima": "每8周100毫克",
+      "classificacao": "生物制剂 – IL-23抑制剂",
+      "apresentacao": "预充注射器或自动注射器 100 mg/mL",
+      "interacaoMedicamento": "避免同时使用其他生物制剂",
+      "posologia": "第0、4周注射100 mg，随后每8周1次",
+      "armazenamento": "2–8°C冷藏，避光，不可冷冻",
+      "preparo": "使用前回温至室温",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性感染、活动性结核、过敏反应史",
+      "cuidadosMedicos": "治疗前检测潜伏结核，监测感染征象",
+      "cuidadosFarmaceuticos": "确保冷链和外观检查",
+      "cuidadosEnfermagem": "指导患者正确注射和观察副作用",
+      "fontesBibliograficas": "FDA，EMA，Tremfya说明书，Micromedex"
+    }
+  }
+}

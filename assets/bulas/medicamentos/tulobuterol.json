@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tulobuterol",
+      "suspension": "Suspender 24 horas antes da cirurgia em uso sistêmico",
+      "risk": "Taquicardia, hipocalemia, tremores; interage com anestésicos halogenados e β-bloqueadores",
+      "reintroduction": "Reintroduzir após avaliação cardiovascular e padrão respiratório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tulobuterol",
+      "nomeComercial": "Hokunalin Tape",
+      "mecanismoAcao": "Agonista β2-adrenérgico de longa duração; ação broncodilatadora",
+      "farmacocinetica": "Início 2–4 h (transdérmico), duração até 24 h; metabolização hepática; excreção renal",
+      "farmacodinamica": "Relaxa músculo liso brônquico, reduz resistência das vias aéreas, melhora troca gasosa",
+      "indicacoes": "Asma brônquica, bronquite crônica, DPOC",
+      "reacoesAdversas": "Tremores, taquicardia, dor de cabeça, hipocalemia, insônia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Não recomendado; sem dados específicos",
+      "administracao": "Via transdérmica (adesivo de liberação controlada)",
+      "doseMaxima": "2 mg/dia (transdérmico adulto)",
+      "doseMinima": "0,5 mg/dia (pediátrico)",
+      "classificacao": "Agonista β2 de longa duração (LABA) transdérmico",
+      "apresentacao": "Adesivo 0,5 mg, 1 mg, 2 mg (uso diário)",
+      "interacaoMedicamento": "Cuidado com digitálicos, diuréticos, xantinas e anestésicos voláteis",
+      "posologia": "Aplicar 1 adesivo/dia na pele seca e íntegra",
+      "armazenamento": "15–30°C, manter embalagem lacrada",
+      "preparo": "Sem necessidade de preparo; aplicar diretamente",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipertireoidismo, arritmias, alergia ao adesivo",
+      "cuidadosMedicos": "Monitorar eletrolíticos, ECG e eficácia clínica",
+      "cuidadosFarmaceuticos": "Orientar sobre troca diária e evitar áreas irritadas",
+      "cuidadosEnfermagem": "Avaliar adesão, resposta broncodilatadora e eventos adversos",
+      "fontesBibliograficas": "PMDA Japão, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tulobuterol",
+      "suspension": "Discontinue 24 hours before surgery if used systemically",
+      "risk": "Risk of arrhythmia, tremor, hypokalemia; interaction with anesthetics and beta-blockers",
+      "reintroduction": "Restart based on respiratory status and cardiac monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tulobuterol",
+      "nomeComercial": "Hokunalin Tape (not FDA approved)",
+      "mecanismoAcao": "Long-acting β2 agonist (LABA) with bronchodilator activity",
+      "farmacocinetica": "Onset 2–4 h (patch); duration 24 h; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Smooth muscle relaxation in airways; improved airflow and oxygenation",
+      "indicacoes": "Asthma, chronic bronchitis, COPD",
+      "reacoesAdversas": "Tachycardia, tremor, insomnia, headache, hypokalemia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Transdermal patch",
+      "doseMaxima": "2 mg/day (patch)",
+      "doseMinima": "0.5 mg/day",
+      "classificacao": "Transdermal long-acting β2 agonist",
+      "apresentacao": "Patches 0.5 mg, 1 mg, 2 mg (once daily)",
+      "interacaoMedicamento": "Caution with digoxin, diuretics, xanthines, volatile anesthetics",
+      "posologia": "Apply 1 patch daily on clean, dry skin",
+      "armazenamento": "Store at 15–30°C in sealed pouch",
+      "preparo": "Apply directly; no dilution required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Arrhythmias, thyrotoxicosis, hypersensitivity to patch",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, and symptoms",
+      "cuidadosFarmaceuticos": "Instruct on daily patch change and site rotation",
+      "cuidadosEnfermagem": "Assess respiratory status, adherence, and skin tolerance",
+      "fontesBibliograficas": "PMDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tulobuterol",
+      "suspension": "Suspender 24 h antes de cirugía si uso sistémico",
+      "risk": "Riesgo de taquiarritmia, hipopotasemia, interacción con anestesia",
+      "reintroduction": "Reiniciar si es necesario bajo monitoreo respiratorio y cardíaco"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tulobuterol",
+      "nomeComercial": "Hokunalin Tape",
+      "mecanismoAcao": "Agonista β2 adrenérgico de acción prolongada",
+      "farmacocinetica": "Inicio 2–4 h; duración 24 h; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Relaja músculo bronquial y mejora la función respiratoria",
+      "indicacoes": "Asma, bronquitis crónica, EPOC",
+      "reacoesAdversas": "Temblor, taquicardia, cefalea, insomnio, hipopotasemia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Transdérmica (parche)",
+      "doseMaxima": "2 mg/día",
+      "doseMinima": "0.5 mg/día",
+      "classificacao": "Agonista β2 de acción prolongada",
+      "apresentacao": "Parche 0.5 mg, 1 mg, 2 mg (uso diario)",
+      "interacaoMedicamento": "Precaución con digitálicos, diuréticos, teofilinas, anestesia",
+      "posologia": "1 parche/día en piel seca",
+      "armazenamento": "15–30°C, en bolsa cerrada",
+      "preparo": "No necesita preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Arritmias, hipertiroidismo, alergia al parche",
+      "cuidadosMedicos": "Monitorear ECG, electrolitos y síntomas",
+      "cuidadosFarmaceuticos": "Educar sobre cambios diarios y rotación del sitio",
+      "cuidadosEnfermagem": "Observar eficacia respiratoria y reacciones cutáneas",
+      "fontesBibliograficas": "PMDA Japón, Vademécum, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "妥洛特罗",
+      "suspension": "术前建议提前24小时停用贴片",
+      "risk": "β2激动剂可致心悸、低钾血症，与麻醉剂存在交互风险",
+      "reintroduction": "术后恢复呼吸稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "妥洛特罗",
+      "nomeComercial": "Hokunalin透皮贴",
+      "mecanismoAcao": "选择性β2受体激动剂，长效支气管扩张",
+      "farmacocinetica": "起效2–4小时，作用24小时，经肝代谢，肾排泄",
+      "farmacodinamica": "扩张支气管平滑肌，缓解呼吸道阻力",
+      "indicacoes": "哮喘、慢性支气管炎、COPD",
+      "reacoesAdversas": "震颤、心悸、失眠、头痛、低钾",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不建议哺乳期使用",
+      "administracao": "透皮贴片",
+      "doseMaxima": "每日2毫克",
+      "doseMinima": "每日0.5毫克",
+      "classificacao": "长效β2受体激动剂（LABA）",
+      "apresentacao": "0.5/1/2 mg贴片，每日更换",
+      "interacaoMedicamento": "与强心苷、利尿剂、麻醉剂交互",
+      "posologia": "每日1次贴敷于干燥皮肤",
+      "armazenamento": "15–30°C，密封保存",
+      "preparo": "无需稀释或混合",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "心律失常、甲亢、过敏",
+      "cuidadosMedicos": "监测心电图、电解质",
+      "cuidadosFarmaceuticos": "说明贴片位置更换及用药依从性",
+      "cuidadosEnfermagem": "观察呼吸改善、局部反应与心率",
+      "fontesBibliograficas": "PMDA, 日本说明书, UpToDate, Micromedex"
+    }
+  }
+}

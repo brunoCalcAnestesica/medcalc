@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Daclizumabe",
+      "suspension": "Suspender 12 semanas antes de cirurgia eletiva ou imunossupressão planejada",
+      "risk": "Risco elevado de hepatotoxicidade, encefalite autoimune, infecções oportunistas e disfunção imune pós-operatória",
+      "reintroduction": "Contraindicado após retirada do mercado; não reintroduzir"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Daclizumabe",
+      "nomeComercial": "Zinbryta (retirado do mercado)",
+      "mecanismoAcao": "Anticorpo monoclonal humanizado anti-CD25 (subunidade alfa do receptor de IL-2)",
+      "farmacocinetica": "Meia-vida de eliminação ~21 dias; administração subcutânea mensal",
+      "farmacodinamica": "Modula resposta imune, reduz atividade inflamatória em esclerose múltipla recorrente-remitente",
+      "indicacoes": "Tratamento da esclerose múltipla (uso descontinuado por segurança)",
+      "reacoesAdversas": "Hepatite, elevação de transaminases, encefalite, meningite asséptica, reações cutâneas graves",
+      "riscoGravidez": "Categoria C – contraindicado",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "Subcutânea mensal",
+      "doseMaxima": "150 mg/mês",
+      "doseMinima": "150 mg/mês",
+      "classificacao": "Imunobiológico; anticorpo monoclonal anti-IL-2R",
+      "apresentacao": "Seringa preenchida 150 mg/mL (uso descontinuado)",
+      "interacaoMedicamento": "Potencial imunossupressão com outros biológicos ou corticosteroides",
+      "posologia": "150 mg SC a cada 4 semanas",
+      "armazenamento": "Refrigerado entre 2–8°C, protegido da luz",
+      "preparo": "Pronto para uso após aquecimento à temperatura ambiente",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hepatopatia, histórico de encefalite autoimune, uso de outros imunobiológicos, gravidez",
+      "cuidadosMedicos": "Monitorar função hepática, sinais neurológicos e cutâneos",
+      "cuidadosFarmaceuticos": "Não dispensar; produto retirado do mercado globalmente",
+      "cuidadosEnfermagem": "Avaliar efeitos adversos imunes; não administrar sem prescrição judicial",
+      "fontesBibliograficas": "EMA, FDA, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Daclizumab",
+      "suspension": "Discontinue 12 weeks before elective surgery or planned immunosuppression",
+      "risk": "High risk of liver injury, autoimmune encephalitis, serious infections, immune dysregulation",
+      "reintroduction": "Withdrawn from market – do not reintroduce"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Daclizumab",
+      "nomeComercial": "Zinbryta (withdrawn)",
+      "mecanismoAcao": "Humanized monoclonal antibody against IL-2 receptor alpha (CD25)",
+      "farmacocinetica": "Elimination half-life ~21 days; monthly SC injection",
+      "farmacodinamica": "Modulates immune activity; reduces inflammation in MS",
+      "indicacoes": "Relapsing multiple sclerosis (withdrawn due to safety concerns)",
+      "reacoesAdversas": "Hepatotoxicity, encephalitis, aseptic meningitis, severe rash",
+      "riscoGravidez": "Category C – contraindicated",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Subcutaneous monthly",
+      "doseMaxima": "150 mg/month",
+      "doseMinima": "150 mg/month",
+      "classificacao": "Biologic; IL-2 receptor antagonist",
+      "apresentacao": "Prefilled syringe 150 mg/mL (withdrawn)",
+      "interacaoMedicamento": "Avoid with other immunosuppressants or biologics",
+      "posologia": "150 mg SC every 4 weeks",
+      "armazenamento": "Refrigerated 2–8°C; protect from light",
+      "preparo": "Ready after warming to room temp",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Liver disease, autoimmune encephalitis, immunosuppressant use, pregnancy",
+      "cuidadosMedicos": "Monitor liver enzymes, neurologic status, skin",
+      "cuidadosFarmaceuticos": "Do not dispense – product withdrawn",
+      "cuidadosEnfermagem": "Assess for immune adverse effects",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Daclizumab",
+      "suspension": "Suspender 12 semanas antes de cirugía o inmunosupresión",
+      "risk": "Riesgo de hepatotoxicidad, encefalitis autoinmune, infecciones graves",
+      "reintroduction": "Retirado del mercado – no reintroducir"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Daclizumab",
+      "nomeComercial": "Zinbryta (retirado)",
+      "mecanismoAcao": "Anticuerpo monoclonal contra CD25 (receptor IL-2)",
+      "farmacocinetica": "Vida media ~21 días; administración SC mensual",
+      "farmacodinamica": "Reduce inflamación inmune en EM recurrente",
+      "indicacoes": "Esclerosis múltiple (retirado por seguridad)",
+      "reacoesAdversas": "Hepatitis, encefalitis, meningitis aséptica, exantemas graves",
+      "riscoGravidez": "Categoría C – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Subcutánea mensual",
+      "doseMaxima": "150 mg/mes",
+      "doseMinima": "150 mg/mes",
+      "classificacao": "Inmunobiológico anti IL-2R",
+      "apresentacao": "Jeringa precargada 150 mg/mL (retirado)",
+      "interacaoMedicamento": "Evitar uso con otros biológicos o inmunosupresores",
+      "posologia": "150 mg SC cada 4 semanas",
+      "armazenamento": "Refrigerado 2–8°C, evitar luz",
+      "preparo": "Aplicar a temperatura ambiente",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatitis, encefalitis, embarazo, inmunosupresión",
+      "cuidadosMedicos": "Monitorear enzimas hepáticas y síntomas neurológicos",
+      "cuidadosFarmaceuticos": "Retirado – no dispensar",
+      "cuidadosEnfermagem": "Observar signos de toxicidad inmune",
+      "fontesBibliograficas": "EMA, AEMPS, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "达利珠单抗",
+      "suspension": "术前12周停药，尤其涉及免疫系统抑制",
+      "risk": "高风险：肝毒性、自身免疫性脑炎、严重感染",
+      "reintroduction": "已全球停用，不应重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "达利珠单抗",
+      "nomeComercial": "Zinbryta（已撤市）",
+      "mecanismoAcao": "人源化抗CD25单抗，抑制IL-2受体",
+      "farmacocinetica": "半衰期约21天，每月皮下注射",
+      "farmacodinamica": "抑制中枢免疫活性，用于复发型多发性硬化症",
+      "indicacoes": "复发型多发性硬化（已撤市）",
+      "reacoesAdversas": "肝功能异常、脑炎、无菌性脑膜炎、严重皮疹",
+      "riscoGravidez": "C类，禁用",
+      "riscoLactacao": "不建议",
+      "administracao": "皮下注射，每月一次",
+      "doseMaxima": "每月150毫克",
+      "doseMinima": "每月150毫克",
+      "classificacao": "生物制剂，抗IL-2R抗体",
+      "apresentacao": "预充针剂150 mg/mL（已停用）",
+      "interacaoMedicamento": "不可与免疫抑制剂/生物制剂合用",
+      "posologia": "每4周注射150 mg",
+      "armazenamento": "2–8°C冷藏，避光",
+      "preparo": "使用前回温至室温",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "肝病、脑炎史、孕妇、合用免疫抑制剂",
+      "cuidadosMedicos": "密切监测肝功能与神经系统症状",
+      "cuidadosFarmaceuticos": "该药已停售，不可流通",
+      "cuidadosEnfermagem": "警惕免疫毒性反应",
+      "fontesBibliograficas": "FDA、EMA、中国药典、Micromedex、UpToDate"
+    }
+  }
+}

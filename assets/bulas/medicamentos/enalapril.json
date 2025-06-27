@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Enalapril",
+      "suspension": "Suspender no dia anterior à cirurgia ou manter com monitoramento hemodinâmico rigoroso",
+      "risk": "Risco de hipotensão refratária à indução anestésica, especialmente em hipovolemia ou com bloqueadores neuraxiais",
+      "reintroduction": "Reintroduzir 24–48h após estabilidade hemodinâmica e retorno da função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enalapril",
+      "nomeComercial": "Renitec, Eupressin, Vasotec",
+      "mecanismoAcao": "Inibidor da ECA, bloqueia conversão de angiotensina I em II, reduzindo vasoconstrição e secreção de aldosterona",
+      "farmacocinetica": "Pró-fármaco, convertido em enalaprilato; meia-vida 11h; excreção renal",
+      "farmacodinamica": "Vasodilatação arterial e venosa, redução da pré e pós-carga, melhora hemodinâmica sem taquicardia reflexa",
+      "indicacoes": "Hipertensão, insuficiência cardíaca, disfunção ventricular esquerda",
+      "reacoesAdversas": "Tosse seca, hiperpotassemia, hipotensão, insuficiência renal aguda, angioedema",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Excretado no leite; evitar",
+      "administracao": "Via oral",
+      "doseMaxima": "40mg/dia",
+      "doseMinima": "2,5mg/dia",
+      "classificacao": "Inibidor da enzima conversora de angiotensina (IECA)",
+      "apresentacao": "Comprimidos 2,5mg, 5mg, 10mg, 20mg",
+      "interacaoMedicamento": "Interage com diuréticos poupadores de potássio, AINEs, lítio, anestésicos",
+      "posologia": "5 a 20mg/dia em 1–2 doses",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Angioedema prévio com IECA, gravidez, estenose bilateral de artéria renal",
+      "cuidadosMedicos": "Suspender antes da cirurgia se possível; monitorar PA, potássio e creatinina",
+      "cuidadosFarmaceuticos": "Evitar uso com AINEs e monitorar eletrólitos",
+      "cuidadosEnfermagem": "Observar sinais de hipotensão, tosse, edema facial ou de língua",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Enalapril",
+      "suspension": "Discontinue the day before surgery or continue with strict hemodynamic monitoring",
+      "risk": "Risk of refractory hypotension during induction, especially with neuraxial blocks or hypovolemia",
+      "reintroduction": "Restart 24–48h post-op after hemodynamic and renal stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enalapril",
+      "nomeComercial": "Vasotec",
+      "mecanismoAcao": "ACE inhibitor that blocks conversion of angiotensin I to II, reducing vasoconstriction and aldosterone",
+      "farmacocinetica": "Prodrug; converted to enalaprilat; half-life ~11h; renal excretion",
+      "farmacodinamica": "Arterial and venous dilation; decreases preload and afterload without reflex tachycardia",
+      "indicacoes": "Hypertension, heart failure, asymptomatic LV dysfunction",
+      "reacoesAdversas": "Dry cough, hyperkalemia, hypotension, acute renal failure, angioedema",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Excreted in milk; not recommended",
+      "administracao": "Oral",
+      "doseMaxima": "40mg/day",
+      "doseMinima": "2.5mg/day",
+      "classificacao": "ACE inhibitor",
+      "apresentacao": "Tablets 2.5mg, 5mg, 10mg, 20mg",
+      "interacaoMedicamento": "Interacts with potassium-sparing diuretics, NSAIDs, lithium, anesthetics",
+      "posologia": "5–20mg/day in 1–2 doses",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "History of angioedema, pregnancy, bilateral renal artery stenosis",
+      "cuidadosMedicos": "Stop before surgery if possible; monitor BP, potassium, creatinine",
+      "cuidadosFarmaceuticos": "Avoid NSAIDs, monitor renal and electrolyte balance",
+      "cuidadosEnfermagem": "Watch for hypotension, dry cough, facial/tongue swelling",
+      "fontesBibliograficas": "FDA, Micromedex, AHA guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Enalapril",
+      "suspension": "Suspender el día anterior a la cirugía o continuar con monitorización estricta",
+      "risk": "Riesgo de hipotensión refractaria en la inducción anestésica, especialmente con bloqueo neuraxial o hipovolemia",
+      "reintroduction": "Reiniciar 24–48h tras cirugía con estabilidad hemodinámica y renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enalapril",
+      "nomeComercial": "Renitec, Vasotec",
+      "mecanismoAcao": "Inhibidor de la ECA, bloquea conversión de angiotensina I en II",
+      "farmacocinetica": "Pró-fármaco, convertido a enalaprilato; vida media 11h, excreción renal",
+      "farmacodinamica": "Vasodilatación arterial y venosa, sin taquicardia refleja",
+      "indicacoes": "Hipertensión, insuficiencia cardíaca, disfunción ventricular izquierda",
+      "reacoesAdversas": "Tos seca, hiperpotasemia, hipotensión, angioedema",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Se excreta en leche materna; evitar",
+      "administracao": "Vía oral",
+      "doseMaxima": "40mg/día",
+      "doseMinima": "2,5mg/día",
+      "classificacao": "IECA",
+      "apresentacao": "Comprimidos 2,5mg, 5mg, 10mg, 20mg",
+      "interacaoMedicamento": "Interacción con AINEs, diuréticos, litio, anestésicos",
+      "posologia": "5–20mg/día en 1–2 tomas",
+      "armazenamento": "Conservar a temperatura ambiente, protegido de la luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Angioedema previo, embarazo, estenosis renal bilateral",
+      "cuidadosMedicos": "Controlar PA, potasio y función renal",
+      "cuidadosFarmaceuticos": "Evitar AINEs; educar sobre signos de angioedema",
+      "cuidadosEnfermagem": "Controlar PA y signos de reacción alérgica",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "依那普利",
+      "suspension": "建议在术前一天停药，或术中严格监测血流动力学",
+      "risk": "诱导麻醉时可能发生低血压，尤其在低血容量或硬膜外麻醉下",
+      "reintroduction": "术后血流稳定及肾功能恢复后24–48小时重新开始"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依那普利",
+      "nomeComercial": "Renitec, Vasotec（万苏特）",
+      "mecanismoAcao": "血管紧张素转换酶（ACE）抑制剂，减少血管收缩与醛固酮分泌",
+      "farmacocinetica": "前体药，经肝转化为依那普利拉；半衰期约11小时，肾排泄",
+      "farmacodinamica": "扩张动静脉血管，降低前后负荷，无反射性心动过速",
+      "indicacoes": "高血压、心力衰竭、无症状性左心室功能障碍",
+      "reacoesAdversas": "干咳、高钾、低血压、急性肾衰、血管性水肿",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "可分泌入乳，应避免",
+      "administracao": "口服",
+      "doseMaxima": "每日40毫克",
+      "doseMinima": "每日2.5毫克",
+      "classificacao": "ACE抑制剂",
+      "apresentacao": "片剂：2.5mg、5mg、10mg、20mg",
+      "interacaoMedicamento": "与NSAIDs、利尿剂、锂、麻醉药有交互作用",
+      "posologia": "每日5–20mg，可分1–2次服用",
+      "armazenamento": "室温避光保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "ACE抑制剂引起的血管性水肿、妊娠、双侧肾动脉狭窄",
+      "cuidadosMedicos": "术前尽量停药；术中监测血压与肾功能",
+      "cuidadosFarmaceuticos": "避免与NSAIDs合用；监测钾和肾功能",
+      "cuidadosEnfermagem": "观察低血压、干咳、水肿等体征",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

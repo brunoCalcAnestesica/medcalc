@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ustekinumabe",
+      "suspension": "Suspender 10 a 14 dias antes de cirurgias eletivas",
+      "risk": "Imunossupressão com risco aumentado de infecções, cicatrização tardia e reativação de infecções latentes (TB, HBV)",
+      "reintroduction": "Reintroduzir após cicatrização completa e ausência de sinais infecciosos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ustekinumabe",
+      "nomeComercial": "Stelara",
+      "mecanismoAcao": "Anticorpo monoclonal IgG1κ que se liga à subunidade p40 das interleucinas IL-12 e IL-23, inibindo vias Th1 e Th17 inflamatórias",
+      "farmacocinetica": "Meia-vida ~15–45 dias; metabolismo proteico; excreção não renal",
+      "farmacodinamica": "Reduz citocinas inflamatórias em psoríase, artrite psoriásica e doença de Crohn",
+      "indicacoes": "Psoríase em placas moderada a grave, artrite psoriásica ativa, doença de Crohn moderada a grave (SC e IV)",
+      "reacoesAdversas": "Nasofaringite, cefaleia, infecções cutâneas, reações no local da injeção, tuberculose latente",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Desconhece-se se é excretado no leite; uso com cautela",
+      "administracao": "Subcutânea (manutenção); intravenosa (indução na doença de Crohn)",
+      "doseMaxima": "90 mg SC a cada 8 semanas (Crohn); 45–90 mg conforme peso (psoríase)",
+      "doseMinima": "45 mg SC a cada 12 semanas",
+      "classificacao": "Imunobiológico – anti-IL-12/23",
+      "apresentacao": "Seringa ou caneta pré-cheia SC (45 ou 90 mg); frasco-ampola 130 mg/26 mL (IV)",
+      "interacaoMedicamento": "Evitar uso concomitante com imunossupressores ou outros biológicos",
+      "posologia": "Psoríase: 45–90 mg SC nas semanas 0, 4, depois a cada 12 semanas; Crohn: 260–520 mg IV seguido de 90 mg SC a cada 8 semanas",
+      "armazenamento": "Refrigerado entre 2–8°C; não congelar; proteger da luz",
+      "preparo": "Pronto para uso (SC); diluir IV conforme bula (Stelara IV)",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Tuberculose ativa, infecções graves ativas, hipersensibilidade ao medicamento",
+      "cuidadosMedicos": "Avaliar tuberculose e hepatite B latente antes de iniciar; monitorar sinais infecciosos",
+      "cuidadosFarmaceuticos": "Reforçar conservação e inspeção visual antes da aplicação",
+      "cuidadosEnfermagem": "Orientar aplicação subcutânea e observar reações locais e sistêmicas",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Medscape, Micromedex, Stelara bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ustekinumab",
+      "suspension": "Discontinue 10–14 days before elective surgery",
+      "risk": "Immunosuppression may delay wound healing and increase infection risk",
+      "reintroduction": "Restart after complete healing and infection-free status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ustekinumab",
+      "nomeComercial": "Stelara",
+      "mecanismoAcao": "IgG1κ monoclonal antibody targeting p40 subunit of IL-12 and IL-23, blocking Th1/Th17 inflammation",
+      "farmacocinetica": "Half-life ~15–45 days; proteolytic metabolism",
+      "farmacodinamica": "Suppresses proinflammatory cytokines in psoriasis, Crohn’s, psoriatic arthritis",
+      "indicacoes": "Moderate-severe plaque psoriasis, psoriatic arthritis, Crohn’s disease",
+      "reacoesAdversas": "Nasopharyngitis, headache, skin infections, TB reactivation, injection site reactions",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "Subcutaneous (maintenance); Intravenous (induction in Crohn’s)",
+      "doseMaxima": "90 mg SC every 8 weeks",
+      "doseMinima": "45 mg SC every 12 weeks",
+      "classificacao": "Biologic – IL-12/23 inhibitor",
+      "apresentacao": "Prefilled syringe (45/90 mg SC); 130 mg IV vial",
+      "interacaoMedicamento": "Avoid co-use with other biologics or strong immunosuppressants",
+      "posologia": "Psoriasis: 45–90 mg SC at weeks 0, 4, then every 12w; Crohn’s: 260–520 mg IV then 90 mg SC every 8w",
+      "armazenamento": "2–8°C; do not freeze; protect from light",
+      "preparo": "SC: ready to use; IV: dilute per instructions",
+      "solucoesCompatíveis": "0.9% sodium chloride",
+      "contraindicacoes": "Active TB, severe infections, known hypersensitivity",
+      "cuidadosMedicos": "Screen for TB/HBV; monitor infections and autoimmune activity",
+      "cuidadosFarmaceuticos": "Ensure cold chain and product integrity",
+      "cuidadosEnfermagem": "Monitor injection site and systemic reactions; guide self-administration",
+      "fontesBibliograficas": "FDA, Micromedex, Stelara Prescribing Info, Medscape"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ustekinumab",
+      "suspension": "Suspender 10–14 días antes de cirugía",
+      "risk": "Riesgo de infección y cicatrización retardada por inmunosupresión",
+      "reintroduction": "Reiniciar tras curación completa y sin infección activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ustekinumab",
+      "nomeComercial": "Stelara",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-IL12/23, bloquea respuesta Th1/Th17",
+      "farmacocinetica": "t½ ~15–45 días; metabolismo proteico",
+      "farmacodinamica": "Reduce inflamación crónica en psoriasis, Crohn y artritis psoriásica",
+      "indicacoes": "Psoriasis, artritis psoriásica, enfermedad de Crohn",
+      "reacoesAdversas": "Nasofaringitis, cefalea, infecciones dérmicas, TB latente, reacción local",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "SC o IV según indicación",
+      "doseMaxima": "90 mg cada 8 semanas",
+      "doseMinima": "45 mg cada 12 semanas",
+      "classificacao": "Biológico – inhibidor IL-12/23",
+      "apresentacao": "Jeringa precargada SC o vial IV 130 mg",
+      "interacaoMedicamento": "Evitar otros biológicos o inmunosupresores potentes",
+      "posologia": "Psoriasis: SC 0, 4 sem y luego c/12 sem; Crohn: IV carga, luego SC cada 8 sem",
+      "armazenamento": "2–8°C, no congelar, proteger de luz",
+      "preparo": "SC listo; IV diluir según ficha técnica",
+      "solucoesCompatíveis": "NaCl 0,9%",
+      "contraindicacoes": "TB activa, infecciones graves, alergia conocida",
+      "cuidadosMedicos": "Buscar TB/HBV antes; vigilar infecciones",
+      "cuidadosFarmaceuticos": "Cadena de frío, revisión visual",
+      "cuidadosEnfermagem": "Monitorear aplicación SC y efectos adversos",
+      "fontesBibliograficas": "EMA, Medscape, Stelara Ficha Técnica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乌司奴单抗",
+      "suspension": "择期手术前10–14天停药",
+      "risk": "可能抑制免疫反应，增加术后感染和愈合延迟风险",
+      "reintroduction": "术后恢复和无感染表现后可重新开始用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乌司奴单抗",
+      "nomeComercial": "Stelara",
+      "mecanismoAcao": "人源化IgG1κ抗体，靶向IL-12/23的p40亚单位，抑制Th1/Th17炎症通路",
+      "farmacocinetica": "半衰期15–45天；蛋白质代谢；非肾清除",
+      "farmacodinamica": "在银屑病、克罗恩病、银屑病关节炎中减少慢性炎症",
+      "indicacoes": "中重度斑块型银屑病、克罗恩病、银屑病性关节炎",
+      "reacoesAdversas": "鼻咽炎、头痛、皮肤感染、注射部位反应、潜伏结核",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "未知是否进入乳汁，建议慎用",
+      "administracao": "皮下注射或静脉输注",
+      "doseMaxima": "90毫克每8周1次",
+      "doseMinima": "45毫克每12周1次",
+      "classificacao": "免疫生物制剂 – IL-12/23抑制剂",
+      "apresentacao": "SC预充注射器；IV瓶装130毫克",
+      "interacaoMedicamento": "避免与其他免疫抑制剂或生物制剂联用",
+      "posologia": "SC：第0、4周后每12周；克罗恩病先IV后SC",
+      "armazenamento": "2–8°C冷藏，避免冷冻和光照",
+      "preparo": "SC可直接使用，IV需稀释",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "活动性结核、严重感染、过敏",
+      "cuidadosMedicos": "筛查结核和乙肝，监测感染",
+      "cuidadosFarmaceuticos": "保持冷链，检查外观和有效期",
+      "cuidadosEnfermagem": "指导患者正确SC注射，观察全身反应",
+      "fontesBibliograficas": "FDA，Stelara说明书，Micromedex，Medscape"
+    }
+  }
+}

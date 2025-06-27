@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clorfeniramina",
+      "suspension": "Suspender 24 horas antes da cirurgia",
+      "risk": "Sedação significativa, potencial anticolinérgico, interferência com monitoramento anestésico",
+      "reintroduction": "Reintroduzir após estabilização clínica, com atenção a sonolência e retenção urinária"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Maleato de clorfeniramina",
+      "nomeComercial": "Polaramine, Histamin, Desalex Clor, Alergovet",
+      "mecanismoAcao": "Antagonista competitivo dos receptores H1 da histamina, com efeito anticolinérgico e sedativo",
+      "farmacocinetica": "Início em 30 minutos, pico em 2–6h, meia-vida de 12–24h; metabolizado no fígado (CYP2D6), excreção renal",
+      "farmacodinamica": "Reduz prurido, rinorreia, urticária, espirros e congestão leve",
+      "indicacoes": "Rinite alérgica, urticária, conjuntivite alérgica, prurido dermatológico, reações anafiláticas (coadjuvante)",
+      "reacoesAdversas": "Sedação, boca seca, tontura, retenção urinária, constipação",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Pode inibir lactação e estar presente no leite materno",
+      "administracao": "Via oral, IM ou IV",
+      "doseMaxima": "24 mg/dia (adultos)",
+      "doseMinima": "2 mg/dose",
+      "classificacao": "Anti-histamínico de primeira geração",
+      "apresentacao": "Comprimidos 4 mg, solução oral, solução injetável 10 mg/mL",
+      "interacaoMedicamento": "Potencializa depressores do SNC, álcool, anticolinérgicos; antagoniza inibidores da MAO",
+      "posologia": "Adultos: 4 mg a cada 4–6h; crianças: 0,35 mg/kg/dia divididos",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Injetável deve ser diluído conforme via e protocolo",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, SG 5%",
+      "contraindicacoes": "Glaucoma de ângulo fechado, obstrução urinária, uso recente de IMAO",
+      "cuidadosMedicos": "Evitar em idosos por risco anticolinérgico; atenção em pacientes com apneia do sono",
+      "cuidadosFarmaceuticos": "Orientar sobre risco de sonolência e evitar álcool",
+      "cuidadosEnfermagem": "Monitorar nível de consciência, pressão arterial e débito urinário",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate, SBAn"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Chlorpheniramine",
+      "suspension": "Discontinue 24 hours before surgery",
+      "risk": "Sedation, anticholinergic effects, potential interference with anesthesia monitoring",
+      "reintroduction": "Reintroduce after clinical stabilization, monitor sedation and urinary retention"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Chlorpheniramine maleate",
+      "nomeComercial": "Chlor-Trimeton, Aller-Chlor, Teldrin",
+      "mecanismoAcao": "H1 receptor antagonist with anticholinergic and sedative properties",
+      "farmacocinetica": "Onset ~30 minutes, peak 2–6h, half-life 12–24h; hepatic metabolism (CYP2D6); renal excretion",
+      "farmacodinamica": "Relieves sneezing, itching, rhinorrhea, and urticaria",
+      "indicacoes": "Allergic rhinitis, urticaria, conjunctivitis, pruritus, anaphylaxis (adjunct)",
+      "reacoesAdversas": "Drowsiness, dry mouth, dizziness, constipation, urinary retention",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "May be present in breast milk; suppresses lactation",
+      "administracao": "Oral, IM, or IV",
+      "doseMaxima": "24 mg/day (adults)",
+      "doseMinima": "2 mg/dose",
+      "classificacao": "First-generation antihistamine",
+      "apresentacao": "4 mg tablets, oral syrup, 10 mg/mL injection",
+      "interacaoMedicamento": "Potentiates CNS depressants, alcohol, MAO inhibitors",
+      "posologia": "Adults: 4 mg every 4–6h; pediatric: 0.35 mg/kg/day divided",
+      "armazenamento": "Store at room temperature (15–30°C)",
+      "preparo": "Dilute injection per protocol and route",
+      "solucoesCompatíveis": "NS 0.9%, D5W",
+      "contraindicacoes": "Angle-closure glaucoma, urinary retention, recent MAOI use",
+      "cuidadosMedicos": "Use cautiously in elderly, OSA, or hepatic impairment",
+      "cuidadosFarmaceuticos": "Warn patients about sedation; avoid alcohol",
+      "cuidadosEnfermagem": "Monitor consciousness, BP, urinary output",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, AHFS"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clorfenamina",
+      "suspension": "Suspender 24 horas antes de la cirugía",
+      "risk": "Efecto sedante y anticolinérgico significativo; interfiere con el monitoreo anestésico",
+      "reintroduction": "Reintroducir tras estabilización clínica, monitorizar somnolencia y retención urinaria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Maleato de clorfenamina",
+      "nomeComercial": "Polaramine, Clorfen, Histamin",
+      "mecanismoAcao": "Antagonista de receptores H1 con propiedades anticolinérgicas y sedantes",
+      "farmacocinetica": "Inicio ~30 minutos, pico 2–6h, vida media 12–24h; metabolismo hepático, excreción renal",
+      "farmacodinamica": "Alivia síntomas alérgicos como prurito, estornudos, rinorrea",
+      "indicacoes": "Rinitis alérgica, urticaria, conjuntivitis, prurito, anafilaxia (adyuvante)",
+      "reacoesAdversas": "Somnolencia, boca seca, mareos, retención urinaria",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Puede suprimir la lactancia; presente en la leche materna",
+      "administracao": "Oral, IM o IV",
+      "doseMaxima": "24 mg/día",
+      "doseMinima": "2 mg/dosis",
+      "classificacao": "Antihistamínico de primera generación",
+      "apresentacao": "Tabletas 4 mg, solución oral, ampollas 10 mg/mL",
+      "interacaoMedicamento": "Potencia efectos de depresores del SNC, alcohol, IMAO",
+      "posologia": "Adultos: 4 mg cada 4–6 h; niños: 0,35 mg/kg/día",
+      "armazenamento": "15–30°C",
+      "preparo": "Diluir según vía y protocolo si es inyectable",
+      "solucoesCompatíveis": "ClNa 0,9%, SG 5%",
+      "contraindicacoes": "Glaucoma, retención urinaria, uso reciente de IMAO",
+      "cuidadosMedicos": "Precaución en ancianos, apnea del sueño",
+      "cuidadosFarmaceuticos": "Advertir sobre somnolencia; evitar alcohol",
+      "cuidadosEnfermagem": "Vigilar estado mental, presión arterial y diuresis",
+      "fontesBibliograficas": "EMA, FDA, Vademécum, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯苯那敏",
+      "suspension": "术前24小时停药",
+      "risk": "镇静与抗胆碱作用强，可能干扰麻醉监测",
+      "reintroduction": "术后病情稳定后重新使用，注意嗜睡与尿潴留"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "马来酸氯苯那敏",
+      "nomeComercial": "扑尔敏, Histamin, Polaramine",
+      "mecanismoAcao": "竞争性H1组胺受体拮抗剂，具有抗胆碱和镇静作用",
+      "farmacocinetica": "起效30分钟，达峰2–6小时，半衰期12–24小时，经肝代谢和肾排泄",
+      "farmacodinamica": "缓解瘙痒、喷嚏、鼻涕、荨麻疹等过敏反应",
+      "indicacoes": "过敏性鼻炎、荨麻疹、结膜炎、瘙痒、过敏反应辅助用药",
+      "reacoesAdversas": "嗜睡、口干、头晕、尿潴留、便秘",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可抑制泌乳，分泌入乳汁",
+      "administracao": "口服、肌注、静注",
+      "doseMaxima": "每日24毫克",
+      "doseMinima": "每次2毫克",
+      "classificacao": "第一代抗组胺药",
+      "apresentacao": "4毫克片剂、口服液、10毫克/毫升注射液",
+      "interacaoMedicamento": "增强酒精、中枢抑制剂及MAOI作用",
+      "posologia": "成人：每4–6小时4毫克；儿童：每日按体重0.35毫克/公斤",
+      "armazenamento": "室温（15–30°C）",
+      "preparo": "注射剂根据给药途径稀释",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "闭角型青光眼、尿潴留、近期使用MAOI者禁用",
+      "cuidadosMedicos": "老年人、睡眠呼吸暂停患者慎用",
+      "cuidadosFarmaceuticos": "避免饮酒，告知可能嗜睡",
+      "cuidadosEnfermagem": "监测意识状态、血压与尿量",
+      "fontesBibliograficas": "中国药典, FDA, Micromedex, UpToDate"
+    }
+  }
+}

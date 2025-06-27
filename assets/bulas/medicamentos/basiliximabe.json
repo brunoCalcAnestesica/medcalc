@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Basiliximabe",
+      "suspension": "Suspender 30 dias antes de cirurgia eletiva não relacionada ao transplante",
+      "risk": "Imunossupressão seletiva, risco de infecção oportunista e interferência na cicatrização",
+      "reintroduction": "Reintroduzir após controle infeccioso e estabilidade clínica, geralmente 4 semanas após cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Basiliximabe",
+      "nomeComercial": "Simulect",
+      "mecanismoAcao": "Anticorpo monoclonal quimérico que bloqueia o receptor de IL-2 (CD25) nos linfócitos T ativados",
+      "farmacocinetica": "Administração IV, meia-vida de 7 dias, depuração não renal; efeito dura até 4–6 semanas",
+      "farmacodinamica": "Inibe a ativação de células T específicas, reduzindo o risco de rejeição aguda",
+      "indicacoes": "Profilaxia de rejeição em transplante renal alogênico com terapia de imunossupressão concomitante",
+      "reacoesAdversas": "Constipação, hipertensão, edema, anemia, infecção do trato urinário, dor abdominal",
+      "riscoGravidez": "Categoria B – estudos animais não mostraram risco, mas faltam dados humanos",
+      "riscoLactacao": "Desconhecido; uso com cautela",
+      "administracao": "Intravenosa, em infusão lenta ou bolus",
+      "doseMaxima": "20 mg por dose",
+      "doseMinima": "20 mg por dose",
+      "classificacao": "Imunossupressor – anticorpo monoclonal anti-CD25",
+      "apresentacao": "Frasco-ampola com 10 mg ou 20 mg de pó liofilizado",
+      "interacaoMedicamento": "Risco aumentado de infecção com outros imunossupressores; sem interações metabólicas significativas",
+      "posologia": "20 mg IV no dia do transplante (0) e 4 dias após",
+      "armazenamento": "Refrigerado a 2–8°C; solução reconstituída usar em até 24h",
+      "preparo": "Diluir em 5 mL de água para injeção; infundir em 30 minutos",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, glicose 5%",
+      "contraindicacoes": "Hipersensibilidade a basiliximabe ou proteínas murinas",
+      "cuidadosMedicos": "Monitorar sinais de infecção, função renal e rejeição; evitar vacinação com vírus vivos",
+      "cuidadosFarmaceuticos": "Manter cadeia de frio, reconstituir conforme técnica asséptica",
+      "cuidadosEnfermagem": "Monitorar durante infusão; observar reações alérgicas ou sinais de infecção",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Basiliximab",
+      "suspension": "Discontinue 30 days before elective non-transplant surgery",
+      "risk": "Selective immunosuppression, increased infection risk, impaired healing",
+      "reintroduction": "Restart after infection resolution and stable recovery, typically 4 weeks post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Basiliximab",
+      "nomeComercial": "Simulect",
+      "mecanismoAcao": "Chimeric monoclonal antibody targeting IL-2 receptor (CD25) on activated T cells",
+      "farmacocinetica": "IV admin, half-life ~7 days, non-renal clearance, duration of effect 4–6 weeks",
+      "farmacodinamica": "Inhibits T-cell activation, reducing acute rejection risk",
+      "indicacoes": "Prophylaxis of acute organ rejection in renal transplantation with immunosuppressive regimen",
+      "reacoesAdversas": "Constipation, hypertension, edema, anemia, UTI, abdominal pain",
+      "riscoGravidez": "Category B – no risk in animals, unknown in humans",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "IV bolus or infusion",
+      "doseMaxima": "20 mg per dose",
+      "doseMinima": "20 mg per dose",
+      "classificacao": "Immunosuppressant – anti-CD25 monoclonal antibody",
+      "apresentacao": "Lyophilized powder vials: 10 mg or 20 mg",
+      "interacaoMedicamento": "Increased infection risk with other immunosuppressants; no major CYP interactions",
+      "posologia": "20 mg IV on day 0 and day 4 post-transplant",
+      "armazenamento": "Refrigerate 2–8°C; use reconstituted solution within 24h",
+      "preparo": "Reconstitute with 5 mL water for injection; infuse over 30 minutes",
+      "solucoesCompatíveis": "0.9% NaCl, 5% Dextrose",
+      "contraindicacoes": "Hypersensitivity to basiliximab or murine proteins",
+      "cuidadosMedicos": "Monitor for infection, renal function, and rejection signs; avoid live vaccines",
+      "cuidadosFarmaceuticos": "Maintain cold chain; aseptic reconstitution",
+      "cuidadosEnfermagem": "Monitor vitals during infusion; watch for allergic reactions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Basiliximab",
+      "suspension": "Suspender 30 días antes de cirugía no urgente",
+      "risk": "Inmunosupresión selectiva, riesgo infeccioso, mala cicatrización",
+      "reintroduction": "Reintroducir tras recuperación estable y sin infección (~4 semanas)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Basiliximab",
+      "nomeComercial": "Simulect",
+      "mecanismoAcao": "Anticuerpo monoclonal quimérico contra el receptor de IL-2 (CD25)",
+      "farmacocinetica": "IV, vida media ~7 días, sin metabolismo renal, efecto 4–6 semanas",
+      "farmacodinamica": "Inhibe activación de células T, reduce rechazo agudo",
+      "indicacoes": "Prevención de rechazo agudo en trasplante renal",
+      "reacoesAdversas": "Estreñimiento, HTA, edema, anemia, ITU, dolor abdominal",
+      "riscoGravidez": "Categoría B – sin evidencia en animales; precaución humana",
+      "riscoLactacao": "Desconocido; evitar si es posible",
+      "administracao": "IV en bolo o infusión",
+      "doseMaxima": "20 mg por dosis",
+      "doseMinima": "20 mg por dosis",
+      "classificacao": "Inmunosupresor – anticuerpo monoclonal anti-CD25",
+      "apresentacao": "Vial de polvo liofilizado 10 mg o 20 mg",
+      "interacaoMedicamento": "Mayor riesgo infeccioso con otros inmunosupresores",
+      "posologia": "20 mg IV día 0 y día 4",
+      "armazenamento": "2–8°C; usar en 24h tras reconstituir",
+      "preparo": "Diluir en 5 mL de agua estéril; infundir en 30 min",
+      "solucoesCompatíveis": "NaCl 0,9%, glucosa 5%",
+      "contraindicacoes": "Hipersensibilidad a proteínas murinas",
+      "cuidadosMedicos": "Monitorear infección y signos de rechazo",
+      "cuidadosFarmaceuticos": "Mantener cadena de frío; técnica aséptica",
+      "cuidadosEnfermagem": "Control durante infusión, signos adversos",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "巴利昔单抗",
+      "suspension": "择期手术前30天停药",
+      "risk": "选择性免疫抑制，感染风险高，影响术后愈合",
+      "reintroduction": "术后4周左右，若无感染可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "巴利昔单抗",
+      "nomeComercial": "Simulect",
+      "mecanismoAcao": "嵌合抗IL-2受体（CD25）单克隆抗体，阻断T细胞激活",
+      "farmacocinetica": "静脉注射，半衰期7天，非肾代谢，作用持续4–6周",
+      "farmacodinamica": "抑制T细胞活化，减少移植排斥",
+      "indicacoes": "肾移植术中预防急性排斥反应",
+      "reacoesAdversas": "便秘、高血压、水肿、贫血、尿路感染、腹痛",
+      "riscoGravidez": "B类 – 动物无害；人类资料有限",
+      "riscoLactacao": "未知；慎用",
+      "administracao": "静脉推注或缓慢输注",
+      "doseMaxima": "每次20毫克",
+      "doseMinima": "每次20毫克",
+      "classificacao": "免疫抑制剂 – 抗CD25单抗",
+      "apresentacao": "10或20毫克冻干粉针剂",
+      "interacaoMedicamento": "与其他免疫抑制剂联用时感染风险增加",
+      "posologia": "术日和术后第4天各用20 mg IV",
+      "armazenamento": "2–8°C冷藏，稀释后24小时内使用",
+      "preparo": "用5 mL注射用水稀释，30分钟内输注",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "对鼠源蛋白过敏",
+      "cuidadosMedicos": "监测感染与排斥症状",
+      "cuidadosFarmaceuticos": "注意冷链保存与无菌操作",
+      "cuidadosEnfermagem": "输注中观察不良反应",
+      "fontesBibliograficas": "中国药典, FDA, UpToDate, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Histidina",
+      "suspension": "Não é necessário suspender",
+      "risk": "Geralmente segura; pode interferir com metabolismo de metais e função renal em altas doses",
+      "reintroduction": "Pode ser continuada ou reintroduzida conforme avaliação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Histidina",
+      "nomeComercial": "Histidina, AminoVital, Aminomix",
+      "mecanismoAcao": "Aminoácido essencial envolvido na síntese de histamina, quelação de metais e função imunológica",
+      "farmacocinetica": "Absorção intestinal eficiente, metabolização hepática parcial, excreção renal",
+      "farmacodinamica": "Precursora da histamina, atua em processos inflamatórios, imunológicos e no equilíbrio ácido-base",
+      "indicacoes": "Suplementação em nutrição enteral/parenteral, suporte imunológico, distúrbios metabólicos",
+      "reacoesAdversas": "Raras; em altas doses pode causar diarreia, náusea ou desequilíbrio eletrolítico",
+      "riscoGravidez": "Categoria A (geralmente segura em doses fisiológicas)",
+      "riscoLactacao": "Uso permitido em doses nutricionais, sob orientação profissional",
+      "administracao": "Oral ou intravenosa (em nutrição parenteral)",
+      "doseMaxima": "3.000 mg/dia",
+      "doseMinima": "500 mg/dia",
+      "classificacao": "Aminoácido essencial",
+      "apresentacao": "Pó, cápsulas, soluções injetáveis para nutrição parenteral",
+      "interacaoMedicamento": "Pode interferir na absorção de zinco, cobre e ferro; potencial interação com anti-histamínicos",
+      "posologia": "Ajustada conforme necessidade nutricional ou protocolo hospitalar",
+      "armazenamento": "Local seco, fresco e protegido da luz",
+      "preparo": "Pode ser diluído em água ou solução compatível para administração",
+      "solucoesCompatíveis": "Soro fisiológico, glicose 5%, água purificada",
+      "contraindicacoes": "Fenilcetonúria, hipersensibilidade a aminoácidos, insuficiência renal não compensada",
+      "cuidadosMedicos": "Monitorar eletrólitos e função renal em uso prolongado",
+      "cuidadosFarmaceuticos": "Garantir compatibilidade com demais componentes da dieta ou nutrição parenteral",
+      "cuidadosEnfermagem": "Observar reações adversas, manter registros nutricionais e monitorar infusão",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, PubChem, Micromedex, ASPEN Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Histidine",
+      "suspension": "No need to suspend",
+      "risk": "Generally safe; high doses may affect metal metabolism and renal function",
+      "reintroduction": "Can be continued or reintroduced upon clinical evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Histidine",
+      "nomeComercial": "Histidine, AminoVital, Aminomix",
+      "mecanismoAcao": "Essential amino acid involved in histamine synthesis, metal chelation and immune modulation",
+      "farmacocinetica": "Efficient intestinal absorption, partial hepatic metabolism, renal excretion",
+      "farmacodinamica": "Precursor of histamine, modulates inflammation, immune response and acid-base balance",
+      "indicacoes": "Nutritional support in enteral/parenteral feeding, immune support, metabolic conditions",
+      "reacoesAdversas": "Rare; high doses may cause diarrhea, nausea, or electrolyte imbalance",
+      "riscoGravidez": "Category A (safe in physiological doses)",
+      "riscoLactacao": "Permitted under nutritional doses and professional supervision",
+      "administracao": "Oral or IV (in parenteral nutrition)",
+      "doseMaxima": "3,000 mg/day",
+      "doseMinima": "500 mg/day",
+      "classificacao": "Essential amino acid",
+      "apresentacao": "Powder, capsules, injectable solutions for parenteral nutrition",
+      "interacaoMedicamento": "May interfere with zinc, copper, and iron absorption; possible interaction with antihistamines",
+      "posologia": "Adjusted based on nutritional or hospital protocol",
+      "armazenamento": "Store in a dry, cool place away from light",
+      "preparo": "Can be diluted in water or compatible solution",
+      "solucoesCompatíveis": "Normal saline, D5W, purified water",
+      "contraindicacoes": "Phenylketonuria, amino acid hypersensitivity, uncompensated renal failure",
+      "cuidadosMedicos": "Monitor electrolytes and renal function during prolonged use",
+      "cuidadosFarmaceuticos": "Ensure compatibility with enteral/parenteral formulas",
+      "cuidadosEnfermagem": "Monitor for adverse effects, nutritional records and infusion control",
+      "fontesBibliograficas": "FDA, EMA, PubChem, Micromedex, ASPEN Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Histidina",
+      "suspension": "No requiere suspensión",
+      "risk": "Generalmente segura; dosis altas pueden alterar metabolismo de metales y función renal",
+      "reintroduction": "Puede continuarse o reintroducirse según evaluación clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Histidina",
+      "nomeComercial": "Histidina, AminoVital, Aminomix",
+      "mecanismoAcao": "Aminoácido esencial involucrado en síntesis de histamina, quelación de metales y función inmune",
+      "farmacocinetica": "Absorción intestinal eficaz, metabolismo hepático parcial, excreción renal",
+      "farmacodinamica": "Precursora de histamina, modula inflamación, respuesta inmune y equilibrio ácido-base",
+      "indicacoes": "Soporte nutricional, nutrición enteral/parenteral, apoyo inmunológico, trastornos metabólicos",
+      "reacoesAdversas": "Raras; a dosis altas puede causar diarrea, náuseas o desequilibrio electrolítico",
+      "riscoGravidez": "Categoría A (segura en dosis fisiológicas)",
+      "riscoLactacao": "Uso permitido con control profesional en dosis nutricionales",
+      "administracao": "Oral o intravenosa (nutrición parenteral)",
+      "doseMaxima": "3.000 mg/día",
+      "doseMinima": "500 mg/día",
+      "classificacao": "Aminoácido esencial",
+      "apresentacao": "Polvo, cápsulas, soluciones inyectables para nutrición parenteral",
+      "interacaoMedicamento": "Interfiere con absorción de zinc, cobre, hierro; posible interacción con antihistamínicos",
+      "posologia": "Ajustada según necesidad nutricional o protocolo hospitalario",
+      "armazenamento": "Lugar seco, fresco, protegido de la luz",
+      "preparo": "Puede diluirse en agua o solución compatible",
+      "solucoesCompatíveis": "Solución salina, glucosa 5%, agua purificada",
+      "contraindicacoes": "Fenilcetonuria, hipersensibilidad a aminoácidos, insuficiencia renal no compensada",
+      "cuidadosMedicos": "Monitorizar electrolitos y función renal en uso prolongado",
+      "cuidadosFarmaceuticos": "Verificar compatibilidad con fórmulas nutricionales",
+      "cuidadosEnfermagem": "Observar efectos adversos, registros nutricionales y control de infusión",
+      "fontesBibliograficas": "EMA, FDA, PubChem, Micromedex, ASPEN Guidelines"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "组氨酸",
+      "suspension": "无需停药",
+      "risk": "通常安全，高剂量可能影响金属代谢和肾功能",
+      "reintroduction": "术后可继续使用或重新引入，需评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "组氨酸",
+      "nomeComercial": "Histidine, AminoVital, Aminomix",
+      "mecanismoAcao": "必需氨基酸，参与组胺合成、金属螯合及免疫功能调节",
+      "farmacocinetica": "肠道吸收良好，部分肝代谢，经肾排泄",
+      "farmacodinamica": "组胺前体，参与炎症、免疫调节和酸碱平衡",
+      "indicacoes": "肠内/肠外营养补充、免疫支持、代谢障碍",
+      "reacoesAdversas": "罕见，大剂量可导致腹泻、恶心、电解质失衡",
+      "riscoGravidez": "A类（生理剂量下通常安全）",
+      "riscoLactacao": "营养剂量可用，建议在专业指导下使用",
+      "administracao": "口服或静脉注射（肠外营养）",
+      "doseMaxima": "每日3000毫克",
+      "doseMinima": "每日500毫克",
+      "classificacao": "必需氨基酸",
+      "apresentacao": "粉剂、胶囊、肠外营养注射液",
+      "interacaoMedicamento": "可干扰锌、铜、铁吸收；可能与抗组胺药物相互作用",
+      "posologia": "根据营养需求或医院方案调整",
+      "armazenamento": "阴凉干燥处避光保存",
+      "preparo": "可用水或兼容溶液稀释",
+      "solucoesCompatíveis": "生理盐水、5%葡萄糖、水",
+      "contraindicacoes": "苯丙酮尿症、氨基酸过敏、未控制肾功能不全",
+      "cuidadosMedicos": "长期使用时监测电解质与肾功能",
+      "cuidadosFarmaceuticos": "确保与营养方案中的其他成分兼容",
+      "cuidadosEnfermagem": "观察不良反应，记录营养摄入，监测输注",
+      "fontesBibliograficas": "FDA、EMA、PubChem、Micromedex、ASPEN指南"
+    }
+  }
+}

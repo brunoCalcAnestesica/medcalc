@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Piperacilina + Tazobactam",
+      "suspension": "Manter até o dia da cirurgia se em uso terapêutico",
+      "risk": "Risco de nefrotoxicidade, diarreia, disfunção hepática e interação com anticoagulantes",
+      "reintroduction": "Reintroduzir conforme quadro infeccioso e avaliação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piperacilina sódica + Tazobactam sódico",
+      "nomeComercial": "Tazocin, Zerbaxa (combinações diferentes)",
+      "mecanismoAcao": "Piperacilina inibe síntese da parede celular; tazobactam inibe beta-lactamases",
+      "farmacocinetica": "IV; meia-vida 0,7–1,2h; excreção renal",
+      "farmacodinamica": "Bactericida contra Gram+ e Gram−, inclusive Pseudomonas",
+      "indicacoes": "Infecções intra-abdominais, respiratórias, urinárias, neutropênicos febris, sepse",
+      "reacoesAdversas": "Diarreia, náusea, rash, leucopenia, elevação de transaminases",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Seguro com monitoramento",
+      "administracao": "Intravenosa",
+      "doseMaxima": "4,5g IV a cada 6h",
+      "doseMinima": "2,25g IV a cada 8h",
+      "classificacao": "Penicilina de amplo espectro com inibidor de beta-lactamase",
+      "apresentacao": "Frascos-ampola 2,25g, 4,5g",
+      "interacaoMedicamento": "Aumenta toxicidade de metotrexato; pode alterar INR com varfarina",
+      "posologia": "3,375–4,5g IV a cada 6–8h por 30 minutos",
+      "armazenamento": "Pó: 15–25°C; solução reconstituída: refrigerada por 24h",
+      "preparo": "Reconstituir com água estéril, diluir em SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Alergia a penicilinas, histórico de colite pseudomembranosa",
+      "cuidadosMedicos": "Avaliar função renal, hepática e eletrólitos; ajustar dose na DRC",
+      "cuidadosFarmaceuticos": "Orientar diluição correta e estabilidade pós-reconstituição",
+      "cuidadosEnfermagem": "Observar reação alérgica, diarreia, sinais de superinfecção",
+      "fontesBibliograficas": "Micromedex, FDA, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Piperacillin + Tazobactam",
+      "suspension": "Continue until surgery if clinically indicated",
+      "risk": "Risk of nephrotoxicity, diarrhea, liver enzyme elevation, INR changes",
+      "reintroduction": "Restart according to infection status and clinical judgment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piperacillin sodium + Tazobactam sodium",
+      "nomeComercial": "Zosyn",
+      "mecanismoAcao": "Piperacillin inhibits cell wall synthesis; tazobactam inhibits beta-lactamase",
+      "farmacocinetica": "IV; half-life 0.7–1.2h; renal excretion",
+      "farmacodinamica": "Broad-spectrum bactericidal; covers Gram+, Gram−, Pseudomonas",
+      "indicacoes": "Intra-abdominal infections, pneumonia, UTIs, neutropenic fever, sepsis",
+      "reacoesAdversas": "GI upset, rash, leukopenia, elevated transaminases",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Generally safe",
+      "administracao": "IV infusion",
+      "doseMaxima": "4.5g IV q6h",
+      "doseMinima": "2.25g IV q8h",
+      "classificacao": "Extended-spectrum penicillin + beta-lactamase inhibitor",
+      "apresentacao": "Vials 2.25g, 3.375g, 4.5g",
+      "interacaoMedicamento": "Enhances methotrexate toxicity; alters warfarin INR",
+      "posologia": "3.375–4.5g IV q6–8h over 30 min",
+      "armazenamento": "Powder at room temp; solution refrigerate for 24h",
+      "preparo": "Reconstitute with sterile water, dilute in NS",
+      "solucoesCompatíveis": "Normal saline (0.9%)",
+      "contraindicacoes": "Penicillin allergy, history of pseudomembranous colitis",
+      "cuidadosMedicos": "Monitor renal/hepatic function, electrolytes, adjust in renal disease",
+      "cuidadosFarmaceuticos": "Verify reconstitution steps and stability",
+      "cuidadosEnfermagem": "Watch for hypersensitivity, diarrhea, superinfection",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Piperacilina + Tazobactam",
+      "suspension": "Mantener hasta cirugía si está indicado clínicamente",
+      "risk": "Riesgo de nefrotoxicidad, diarrea, alteración hepática y coagulación",
+      "reintroduction": "Reintroducir según evolución clínica y necesidad antimicrobiana"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piperacilina sódica + Tazobactam sódico",
+      "nomeComercial": "Tazocin",
+      "mecanismoAcao": "Piperacilina inhibe síntesis de pared celular; tazobactam inhibe beta-lactamasas",
+      "farmacocinetica": "IV; vida media 0.7–1.2h; eliminación renal",
+      "farmacodinamica": "Bactericida de amplio espectro, incluye Pseudomonas",
+      "indicacoes": "Infecciones intraabdominales, pulmonares, urinarias, sepsis",
+      "reacoesAdversas": "Diarrea, erupción, leucopenia, transaminasas elevadas",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Seguro con vigilancia",
+      "administracao": "Infusión IV",
+      "doseMaxima": "4.5g cada 6h",
+      "doseMinima": "2.25g cada 8h",
+      "classificacao": "Penicilina de amplio espectro + inhibidor beta-lactamasa",
+      "apresentacao": "Viales 2.25g, 4.5g",
+      "interacaoMedicamento": "Potencia toxicidad con metotrexato; interacción con warfarina",
+      "posologia": "3.375–4.5g IV cada 6–8h",
+      "armazenamento": "Polvo a temperatura ambiente; solución refrigerada 24h",
+      "preparo": "Reconstituir con agua estéril, diluir en SSF",
+      "solucoesCompatíveis": "SSF 0.9%",
+      "contraindicacoes": "Alergia a penicilina, colitis pseudomembranosa previa",
+      "cuidadosMedicos": "Monitorizar función renal, hepática y electrolitos",
+      "cuidadosFarmaceuticos": "Verificar técnica de dilución y tiempos de estabilidad",
+      "cuidadosEnfermagem": "Observar alergias, diarrea, sobreinfección",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "哌拉西林-他唑巴坦",
+      "suspension": "如感染指征明确，术前不建议停药",
+      "risk": "可引起肾毒性、肝酶升高、腹泻、出血倾向",
+      "reintroduction": "术后根据感染情况和临床判断决定是否继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "哌拉西林钠 + 他唑巴坦钠",
+      "nomeComercial": "Tazocin",
+      "mecanismoAcao": "哌拉西林为青霉素类，抑制细胞壁合成；他唑巴坦抑制β-内酰胺酶",
+      "farmacocinetica": "静脉注射；半衰期0.7–1.2小时；肾排泄",
+      "farmacodinamica": "广谱抗菌，涵盖革兰阳性、阴性及假单胞菌",
+      "indicacoes": "腹腔感染、肺炎、尿路感染、发热性中性粒细胞减少症、败血症",
+      "reacoesAdversas": "腹泻、皮疹、白细胞减少、肝酶升高",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期可用，建议监测",
+      "administracao": "静脉输注",
+      "doseMaxima": "每6小时4.5克",
+      "doseMinima": "每8小时2.25克",
+      "classificacao": "广谱青霉素类 + β-内酰胺酶抑制剂",
+      "apresentacao": "2.25g、4.5g瓶装粉针",
+      "interacaoMedicamento": "增强甲氨蝶呤毒性；可改变华法林INR",
+      "posologia": "3.375–4.5g 每6–8小时滴注30分钟",
+      "armazenamento": "原粉常温保存；配液冷藏24小时",
+      "preparo": "用无菌水复溶后稀释于0.9%氯化钠注射液",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "青霉素过敏、假膜性肠炎史",
+      "cuidadosMedicos": "监测肾功能、电解质、肝功能",
+      "cuidadosFarmaceuticos": "注意浓度、滴注系统及有效期",
+      "cuidadosEnfermagem": "警惕过敏反应、腹泻、继发感染",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

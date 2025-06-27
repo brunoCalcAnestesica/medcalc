@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Camrelizumabe",
+      "suspension": "Suspender 4 semanas antes de cirurgias eletivas maiores",
+      "risk": "Risco de reações imunes perioperatórias, pneumonite, hepatite, colite autoimune e interferência com cicatrização",
+      "reintroduction": "Reintroduzir após recuperação cirúrgica completa e reavaliação imunológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Camrelizumabe",
+      "nomeComercial": "AiRuiKa, SHR-1210",
+      "mecanismoAcao": "Anticorpo monoclonal IgG4 anti-PD-1, que bloqueia a ligação de PD-1 aos seus ligantes, reativando a resposta imune antitumoral",
+      "farmacocinetica": "Administração intravenosa, meia-vida de eliminação ~15 dias, distribuição limitada ao espaço intravascular",
+      "farmacodinamica": "Potencializa a atividade de células T contra células tumorais através da inibição de checkpoints imunológicos",
+      "indicacoes": "Carcinoma nasofaríngeo, câncer de pulmão não pequenas células, carcinoma hepatocelular, linfoma de Hodgkin clássico",
+      "reacoesAdversas": "Fadiga, rash, prurido, elevação de transaminases, hipotiroidismo, pneumonite, colite, hepatite autoimune",
+      "riscoGravidez": "Categoria D - risco fetal baseado em mecanismo de ação",
+      "riscoLactacao": "Não se sabe se é excretado no leite materno; recomenda-se evitar durante a amamentação",
+      "administracao": "Via intravenosa, infusão em 30 minutos",
+      "doseMaxima": "200 mg a cada 2 semanas",
+      "doseMinima": "200 mg a cada 2 semanas",
+      "classificacao": "Imunoterapia antineoplásica – inibidor de checkpoint PD-1",
+      "apresentacao": "Frasco-ampola com 200 mg/10 mL (20 mg/mL)",
+      "interacaoMedicamento": "Evitar uso concomitante com corticosteroides ou imunossupressores potentes",
+      "posologia": "200 mg EV a cada 2 semanas até progressão ou toxicidade inaceitável",
+      "armazenamento": "Refrigerado (2–8 °C), não congelar, protegido da luz",
+      "preparo": "Diluir em soro fisiológico até 250 mL, infundir em bomba volumétrica",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Hipersensibilidade ao camrelizumabe ou componentes da fórmula",
+      "cuidadosMedicos": "Monitorar função hepática, pulmonar e tireoidiana; atenção a sintomas de toxicidade imune",
+      "cuidadosFarmaceuticos": "Conferir validade, temperatura e compatibilidade na diluição",
+      "cuidadosEnfermagem": "Observar sinais de reações infusionais e eventos adversos imunomediados",
+      "fontesBibliograficas": "NMPA China, ClinicalTrials.gov, PubMed, FDA Inmunotherapy Guidelines, ANVISA (quando aplicável)"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Camrelizumab",
+      "suspension": "Discontinue 4 weeks before major elective surgery",
+      "risk": "Risk of immune-mediated perioperative complications including pneumonitis, hepatitis, autoimmune colitis and impaired healing",
+      "reintroduction": "Restart after complete surgical recovery and immunological reassessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Camrelizumab",
+      "nomeComercial": "AiRuiKa, SHR-1210",
+      "mecanismoAcao": "IgG4 anti-PD-1 monoclonal antibody blocking PD-1/PD-L1 interaction, restoring antitumor T cell activity",
+      "farmacocinetica": "IV administration, half-life ~15 days, low tissue penetration",
+      "farmacodinamica": "Restores T-cell mediated cytotoxicity against tumor cells via checkpoint inhibition",
+      "indicacoes": "Nasopharyngeal carcinoma, NSCLC, hepatocellular carcinoma, classic Hodgkin lymphoma",
+      "reacoesAdversas": "Fatigue, rash, pruritus, ALT/AST elevation, hypothyroidism, pneumonitis, colitis, autoimmune hepatitis",
+      "riscoGravidez": "Category D – fetal risk based on mechanism",
+      "riscoLactacao": "Unknown if excreted in milk; breastfeeding not recommended",
+      "administracao": "Intravenous infusion over 30 minutes",
+      "doseMaxima": "200 mg every 2 weeks",
+      "doseMinima": "200 mg every 2 weeks",
+      "classificacao": "Immune checkpoint inhibitor – PD-1 blocker",
+      "apresentacao": "Vial containing 200 mg/10 mL (20 mg/mL)",
+      "interacaoMedicamento": "Avoid potent immunosuppressants and systemic corticosteroids",
+      "posologia": "200 mg IV every 2 weeks until progression or unacceptable toxicity",
+      "armazenamento": "Refrigerate at 2–8 °C, do not freeze, protect from light",
+      "preparo": "Dilute in 0.9% saline to 250 mL, infuse via volumetric pump",
+      "solucoesCompatíveis": "0.9% sodium chloride",
+      "contraindicacoes": "Hypersensitivity to camrelizumab or formulation components",
+      "cuidadosMedicos": "Monitor liver, lung and thyroid function; check for immune toxicities",
+      "cuidadosFarmaceuticos": "Verify expiration date, temperature control and dilution compatibility",
+      "cuidadosEnfermagem": "Watch for infusion reactions and immune-related adverse events",
+      "fontesBibliograficas": "NMPA, ClinicalTrials.gov, FDA Immunotherapy Guidelines, PubMed"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Camrelizumab",
+      "suspension": "Suspender 4 semanas antes de cirugía mayor electiva",
+      "risk": "Riesgo de reacciones inmunomediadas perioperatorias, como neumonitis, colitis, hepatitis autoinmune e interferencia con la cicatrización",
+      "reintroduction": "Reintroducir tras recuperación quirúrgica completa y reevaluación inmunológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Camrelizumab",
+      "nomeComercial": "AiRuiKa, SHR-1210",
+      "mecanismoAcao": "Anticuerpo monoclonal IgG4 anti-PD-1 que bloquea la interacción PD-1/PD-L1 y restaura la actividad de células T",
+      "farmacocinetica": "Administración IV, vida media ~15 días, distribución vascular",
+      "farmacodinamica": "Reactiva la respuesta inmunitaria contra células tumorales",
+      "indicacoes": "Carcinoma nasofaríngeo, cáncer de pulmón, hepatocarcinoma, linfoma de Hodgkin clásico",
+      "reacoesAdversas": "Fatiga, erupción, picor, alteración hepática, hipotiroidismo, colitis, neumonitis, hepatitis autoinmune",
+      "riscoGravidez": "Categoría D – riesgo fetal",
+      "riscoLactacao": "Se desconoce si se excreta por la leche; evitar lactancia",
+      "administracao": "Vía intravenosa, infusión en 30 minutos",
+      "doseMaxima": "200 mg cada 2 semanas",
+      "doseMinima": "200 mg cada 2 semanas",
+      "classificacao": "Inmunoterapia antineoplásica – inhibidor de PD-1",
+      "apresentacao": "Frasco de 200 mg/10 mL (20 mg/mL)",
+      "interacaoMedicamento": "Evitar inmunosupresores potentes y corticoides sistémicos",
+      "posologia": "200 mg IV cada 2 semanas hasta progresión o toxicidad",
+      "armazenamento": "2–8 °C, no congelar, proteger de la luz",
+      "preparo": "Diluir en 0,9% NaCl hasta 250 mL, infundir con bomba",
+      "solucoesCompatíveis": "Cloruro de sodio al 0,9%",
+      "contraindicacoes": "Hipersensibilidad al camrelizumab",
+      "cuidadosMedicos": "Monitorización hepática, pulmonar y tiroidea",
+      "cuidadosFarmaceuticos": "Revisar temperatura y compatibilidad",
+      "cuidadosEnfermagem": "Observar eventos inmunológicos adversos",
+      "fontesBibliograficas": "NMPA, PubMed, ClinicalTrials.gov, FDA Guidelines"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "卡瑞利珠单抗",
+      "suspension": "重大择期手术前应提前4周停药",
+      "risk": "术中可能发生免疫相关不良事件，如肺炎、肝炎、自身免疫性结肠炎、延迟愈合",
+      "reintroduction": "术后完全恢复且免疫系统评估正常后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "卡瑞利珠单抗",
+      "nomeComercial": "艾瑞卡, SHR-1210",
+      "mecanismoAcao": "人源化IgG4抗PD-1单克隆抗体，阻断PD-1与其配体结合，恢复T细胞抗肿瘤功能",
+      "farmacocinetica": "静脉注射，半衰期约15天，主要分布于血液中",
+      "farmacodinamica": "增强T细胞对肿瘤的杀伤能力",
+      "indicacoes": "鼻咽癌、非小细胞肺癌、肝细胞癌、霍奇金淋巴瘤",
+      "reacoesAdversas": "乏力、皮疹、瘙痒、转氨酶升高、甲减、肺炎、肝炎、自身免疫性结肠炎",
+      "riscoGravidez": "D类 – 存在胎儿风险",
+      "riscoLactacao": "不确定是否经乳汁排泄，建议哺乳期避免使用",
+      "administracao": "静脉滴注30分钟",
+      "doseMaxima": "每两周200毫克",
+      "doseMinima": "每两周200毫克",
+      "classificacao": "免疫检查点抑制剂 – PD-1通路阻断剂",
+      "apresentacao": "每瓶含200毫克/10毫升（20毫克/毫升）",
+      "interacaoMedicamento": "避免与强免疫抑制剂或糖皮质激素同时使用",
+      "posologia": "每两周静脉注射200毫克，直至进展或不可耐受毒性",
+      "armazenamento": "2–8 °C冷藏，勿冷冻，避光保存",
+      "preparo": "使用0.9%生理盐水稀释至250毫升，使用泵输注",
+      "solucoesCompatíveis": "0.9%氯化钠注射液",
+      "contraindicacoes": "对卡瑞利珠单抗或其成分过敏者禁用",
+      "cuidadosMedicos": "监测肝功能、肺功能和甲状腺功能",
+      "cuidadosFarmaceuticos": "核查有效期、储存条件与稀释兼容性",
+      "cuidadosEnfermagem": "警惕输注反应及免疫相关毒性",
+      "fontesBibliograficas": "中国NMPA，ClinicalTrials.gov，PubMed，FDA指南"
+    }
+  }
+}

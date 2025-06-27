@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Diltiazem",
+      "suspension": "Manter até o dia da cirurgia em pacientes com controle adequado da PA e FC",
+      "risk": "Bradicardia, bloqueio AV, hipotensão intraoperatória, interação com anestésicos e betabloqueadores",
+      "reintroduction": "Reintroduzir em 24–48h, conforme estabilidade hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diltiazem",
+      "nomeComercial": "Cardizem, Procorum, Angor Diltia",
+      "mecanismoAcao": "Bloqueador dos canais de cálcio tipo L, reduz influxo de cálcio no miocárdio e vasos",
+      "farmacocinetica": "Biodisponibilidade 40–60%, metabolização hepática (CYP3A4), meia-vida 3–8h (oral), 3–5min (EV)",
+      "farmacodinamica": "Efeito cronotrópico e inotrópico negativo, vasodilatação coronariana e periférica",
+      "indicacoes": "Hipertensão, angina estável, FA com resposta ventricular rápida, taquiarritmias supraventriculares",
+      "reacoesAdversas": "Edema, cefaleia, bradicardia, bloqueio AV, hipotensão, constipação",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite; evitar se possível",
+      "administracao": "Oral e intravenosa",
+      "doseMaxima": "360mg/dia (oral); 25mg/dose EV",
+      "doseMinima": "60mg/dia (oral)",
+      "classificacao": "Bloqueador dos canais de cálcio, classe não diidropiridínica",
+      "apresentacao": "Comprimidos 30mg, 60mg, 90mg, 120mg; ampola 25mg/5mL",
+      "interacaoMedicamento": "Potencializa bradicardia com betabloqueadores, risco com anestésicos e amiodarona",
+      "posologia": "30–120mg 3–4x/dia (liberação imediata); 180–360mg/dia (liberação prolongada)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "EV: diluir em SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Bradicardia severa, bloqueio AV de 2º ou 3º grau sem marcapasso, ICC com disfunção sistólica",
+      "cuidadosMedicos": "Monitorar PA, FC e ECG continuamente em uso EV",
+      "cuidadosFarmaceuticos": "Verificar interações com antiarrítmicos e anestésicos",
+      "cuidadosEnfermagem": "Monitorar sinais vitais antes e após administração",
+      "fontesBibliograficas": "Micromedex, FDA, ANVISA, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Diltiazem",
+      "suspension": "Continue until surgery if HR and BP are controlled",
+      "risk": "Bradycardia, AV block, hypotension under anesthesia, interactions with beta-blockers",
+      "reintroduction": "Restart within 24–48h post-op if stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diltiazem",
+      "nomeComercial": "Cardizem, Tiazac, Cartia XT",
+      "mecanismoAcao": "Calcium channel blocker (L-type), reduces calcium influx in myocardium and vasculature",
+      "farmacocinetica": "Oral bioavailability 40–60%, hepatic metabolism (CYP3A4), half-life 3–8h (oral), 3–5min (IV)",
+      "farmacodinamica": "Negative chronotropic and inotropic effects, coronary and peripheral vasodilation",
+      "indicacoes": "Hypertension, chronic angina, AF with RVR, PSVT",
+      "reacoesAdversas": "Edema, headache, bradycardia, AV block, hypotension, constipation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in milk; avoid if possible",
+      "administracao": "Oral and intravenous",
+      "doseMaxima": "360mg/day (oral); 25mg/dose IV",
+      "doseMinima": "60mg/day (oral)",
+      "classificacao": "Non-dihydropyridine calcium channel blocker",
+      "apresentacao": "Tablets 30mg–120mg; IV 25mg/5mL ampoules",
+      "interacaoMedicamento": "Caution with beta-blockers, anesthetics, amiodarone",
+      "posologia": "Immediate: 30–120mg QID; Extended-release: 180–360mg/day",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "IV: dilute in NS",
+      "solucoesCompatíveis": "Normal saline",
+      "contraindicacoes": "Severe bradycardia, 2nd/3rd degree AV block without pacemaker, systolic heart failure",
+      "cuidadosMedicos": "Monitor BP, HR, ECG continuously if IV",
+      "cuidadosFarmaceuticos": "Review interactions with antiarrhythmics and anesthetics",
+      "cuidadosEnfermagem": "Check vitals before and after administration",
+      "fontesBibliograficas": "FDA, Micromedex, AHA guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Diltiazem",
+      "suspension": "Mantener hasta la cirugía si la PA y FC están controladas",
+      "risk": "Bradicardia, bloqueo AV, hipotensión con anestesia, interacción con betabloqueadores",
+      "reintroduction": "Reiniciar 24–48h tras la cirugía según estabilidad hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diltiazem",
+      "nomeComercial": "Cardizem, Progor, Angizem",
+      "mecanismoAcao": "Bloquea canales de calcio tipo L, reduce entrada de calcio en miocardio y vasos",
+      "farmacocinetica": "Biodisponibilidad oral 40–60%, metabolismo hepático (CYP3A4), semivida 3–8h (VO), 3–5min (IV)",
+      "farmacodinamica": "Cronotrópico e inotrópico negativo, vasodilatador periférico y coronario",
+      "indicacoes": "Hipertensión, angina, FA con respuesta rápida, TSV",
+      "reacoesAdversas": "Edema, cefalea, bradicardia, bloqueo AV, estreñimiento",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche; evitar si es posible",
+      "administracao": "Oral e intravenosa",
+      "doseMaxima": "360mg/día (oral); 25mg/dosis IV",
+      "doseMinima": "60mg/día",
+      "classificacao": "Bloqueador de canales de calcio no dihidropiridínico",
+      "apresentacao": "Comprimidos 30mg, 60mg, 90mg, 120mg; ampolla 25mg/5mL",
+      "interacaoMedicamento": "Precaución con betabloqueadores, anestésicos, amiodarona",
+      "posologia": "Inmediato: 30–120mg 3–4x/día; liberación prolongada: 180–360mg/día",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "IV diluir en SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Bradicardia severa, bloqueo AV avanzado sin marcapasos, IC sistólica",
+      "cuidadosMedicos": "Monitoreo de PA, FC y ECG continuo en IV",
+      "cuidadosFarmaceuticos": "Revisar interacciones con antiarrítmicos y anestesia",
+      "cuidadosEnfermagem": "Controlar constantes vitales antes y después de administrar",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "地尔硫卓",
+      "suspension": "如血压心率稳定，术前可继续使用",
+      "risk": "心动过缓、房室传导阻滞、术中低血压，与麻醉药和β阻滞剂相互作用",
+      "reintroduction": "术后24–48小时内根据血流动力学情况恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "地尔硫卓",
+      "nomeComercial": "Cardizem（卡地兹姆）",
+      "mecanismoAcao": "L型钙通道阻滞剂，抑制心肌与血管平滑肌钙内流",
+      "farmacocinetica": "口服生物利用度40–60%，肝脏代谢，半衰期口服3–8小时，静注3–5分钟",
+      "farmacodinamica": "负性变时与变力作用，扩张冠脉与外周血管",
+      "indicacoes": "高血压、心绞痛、房颤快速反应、室上速",
+      "reacoesAdversas": "水肿、头痛、心动过缓、房室阻滞、便秘",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可排泄入乳，应慎用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日360毫克（口服）；静注单次25毫克",
+      "doseMinima": "每日60毫克",
+      "classificacao": "非二氢吡啶类钙通道阻滞剂",
+      "apresentacao": "片剂30–120mg；注射液25mg/5mL",
+      "interacaoMedicamento": "与β阻滞剂、麻醉剂、胺碘酮等合用需谨慎",
+      "posologia": "30–120mg每次，3–4次/天；缓释剂量180–360mg/天",
+      "armazenamento": "避光、常温保存",
+      "preparo": "静脉使用稀释于0.9%氯化钠",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "严重心动过缓、房室阻滞（无起搏器）、收缩性心衰",
+      "cuidadosMedicos": "静脉使用需持续监测血压、心率与心电图",
+      "cuidadosFarmaceuticos": "核查合并用药，避免严重心脏抑制",
+      "cuidadosEnfermagem": "给药前后监测生命体征",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

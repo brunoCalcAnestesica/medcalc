@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Acetilcisteína",
+      "suspension": "Não é necessário suspender antes da cirurgia",
+      "risk": "Seguro em contexto anestésico; atenção ao reflexo de tosse com uso inalatório",
+      "reintroduction": "Pode ser mantida ou reiniciada no pós-operatório conforme indicação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetilcisteína",
+      "nomeComercial": "Fluimucil, Mucomucil, Cisteil, Cetil",
+      "mecanismoAcao": "Despolimeriza pontes dissulfeto das mucoproteínas, reduzindo a viscosidade do muco; atua como doador de grupos sulfidrila (ação antioxidante)",
+      "farmacocinetica": "Biodisponibilidade oral baixa (~10%); início 1 h; meia-vida 5–6 h; metabolização hepática; excreção renal",
+      "farmacodinamica": "Mucolítico e antioxidante com capacidade de proteger hepatócitos em intoxicações por paracetamol",
+      "indicacoes": "Doenças respiratórias com secreção espessa; intoxicação por paracetamol",
+      "reacoesAdversas": "Náuseas, vômitos, broncoespasmo (inalatório), gosto desagradável, urticária",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Uso permitido; não há evidências de risco",
+      "administracao": "Oral, inalatória, intravenosa",
+      "doseMaxima": "600 mg 3x/dia (oral adulto); até 150 mg/kg IV em intoxicação aguda",
+      "doseMinima": "100 mg/dia (pediatria)",
+      "classificacao": "Mucolítico e antídoto hepatoprotetor",
+      "apresentacao": "Comprimidos efervescentes, solução oral, ampola IV, pó para solução oral/inalatória",
+      "interacaoMedicamento": "Reduz eficácia de antibióticos se misturado na mesma solução; sem interação anestésica",
+      "posologia": "Adultos: 600 mg/dia (manutenção); intoxicação: protocolo específico com doses progressivas IV",
+      "armazenamento": "15–30°C; proteger da umidade",
+      "preparo": "Diluir ampola IV conforme protocolo; agitar solução oral antes do uso",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade, úlcera gástrica ativa",
+      "cuidadosMedicos": "Evitar uso inalatório em pacientes com hiper-reatividade brônquica",
+      "cuidadosFarmaceuticos": "Orientar preparo adequado e não associar com antibióticos na mesma seringa",
+      "cuidadosEnfermagem": "Observar tolerância gástrica e resposta respiratória",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Acetylcysteine",
+      "suspension": "No need to suspend before surgery",
+      "risk": "Safe under anesthesia; monitor for cough reflex with inhalation use",
+      "reintroduction": "Can be maintained or restarted postoperatively as indicated"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetylcysteine",
+      "nomeComercial": "Mucomyst, Acetadote, NAC",
+      "mecanismoAcao": "Breaks disulfide bonds in mucus, lowering viscosity; acts as glutathione precursor in hepatoprotection",
+      "farmacocinetica": "Low oral bioavailability (~10%); onset ~1 h; half-life 5–6 h; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Mucolytic and antioxidant agent; detoxifies NAPQI in acetaminophen overdose",
+      "indicacoes": "Mucus clearance in chronic respiratory diseases; acetaminophen poisoning",
+      "reacoesAdversas": "Nausea, vomiting, bronchospasm (inhalation), bad taste, rash",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Considered safe",
+      "administracao": "Oral, inhalation, intravenous",
+      "doseMaxima": "600 mg TID (oral); 150 mg/kg IV in poisoning",
+      "doseMinima": "100 mg/day (pediatric)",
+      "classificacao": "Mucolytic and hepatoprotective antidote",
+      "apresentacao": "Effervescent tablets, oral solution, IV ampoules, nebulized powder",
+      "interacaoMedicamento": "Incompatible when mixed with antibiotics; no anesthetic interaction",
+      "posologia": "Respiratory: 600 mg/day; poisoning: specific IV protocol",
+      "armazenamento": "Store at 15–30°C; avoid moisture",
+      "preparo": "Dilute IV as per protocol; shake oral solution",
+      "solucoesCompatíveis": "NS 0.9%, D5W",
+      "contraindicacoes": "Hypersensitivity, active peptic ulcer",
+      "cuidadosMedicos": "Avoid inhalation in reactive airway disease",
+      "cuidadosFarmaceuticos": "Do not mix with antibiotics; instruct proper preparation",
+      "cuidadosEnfermagem": "Monitor GI tolerance and airway response",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Acetilcisteína",
+      "suspension": "No requiere suspensión antes de cirugía",
+      "risk": "Seguro en anestesia; puede inducir tos con uso inhalado",
+      "reintroduction": "Puede continuarse o reiniciarse tras cirugía según necesidad"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetilcisteína",
+      "nomeComercial": "Fluimucil, Acetadote, Mucotec",
+      "mecanismoAcao": "Rompe enlaces disulfuro del moco y actúa como precursor de glutatión",
+      "farmacocinetica": "Biodisponibilidad oral ~10%; inicio ~1 h; vida media 5–6 h; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Agente mucolítico y antioxidante; antídoto hepático en sobredosis de paracetamol",
+      "indicacoes": "Enfermedades respiratorias con moco espeso; intoxicación por paracetamol",
+      "reacoesAdversas": "Náuseas, vómitos, broncoespasmo (inhalado), sabor desagradable, urticaria",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Uso permitido",
+      "administracao": "Oral, inhalatoria, intravenosa",
+      "doseMaxima": "600 mg 3 veces/día (adultos); 150 mg/kg IV en intoxicación",
+      "doseMinima": "100 mg/día (niños)",
+      "classificacao": "Mucolítico y antídoto hepático",
+      "apresentacao": "Comprimidos efervescentes, solución oral, inyectable, polvo para inhalación",
+      "interacaoMedicamento": "Incompatible con antibióticos en la misma mezcla",
+      "posologia": "600 mg/día o protocolo IV según intoxicación",
+      "armazenamento": "15–30°C, protegido de humedad",
+      "preparo": "Diluir ampollas IV; agitar solución oral",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%",
+      "contraindicacoes": "Hipersensibilidad, úlcera péptica activa",
+      "cuidadosMedicos": "Evitar inhalado en broncospasmo",
+      "cuidadosFarmaceuticos": "No mezclar con antibióticos en la misma jeringa",
+      "cuidadosEnfermagem": "Observar tolerancia digestiva y patrón respiratorio",
+      "fontesBibliograficas": "EMA, Vademécum, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乙酰半胱氨酸",
+      "suspension": "术前无需停药",
+      "risk": "安全祛痰药；雾化吸入可能引发轻度咳嗽",
+      "reintroduction": "术后可继续或立即恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乙酰半胱氨酸",
+      "nomeComercial": "沐舒坦、必舒坦（Acetadote）",
+      "mecanismoAcao": "断裂黏液中二硫键，降低痰液黏度；作为谷胱甘肽前体发挥抗氧化作用",
+      "farmacocinetica": "口服生物利用度约10%，起效1小时，半衰期5–6小时，经肝代谢，肾排泄",
+      "farmacodinamica": "具有祛痰、抗氧化和肝脏保护作用",
+      "indicacoes": "呼吸道疾病痰多、对乙酰氨基酚中毒",
+      "reacoesAdversas": "恶心、呕吐、支气管痉挛（雾化）、口苦、皮疹",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可用于哺乳期，风险低",
+      "administracao": "口服、雾化吸入、静脉注射",
+      "doseMaxima": "成人口服每日1800毫克，解毒剂量最大150 mg/kg IV",
+      "doseMinima": "儿童每日100毫克",
+      "classificacao": "祛痰药、肝毒性解毒剂",
+      "apresentacao": "泡腾片、口服液、注射液、雾化粉剂",
+      "interacaoMedicamento": "不可与抗生素混合使用；无麻醉药交互作用",
+      "posologia": "每日600毫克；解毒时按专用方案使用",
+      "armazenamento": "15–30°C，避免潮湿",
+      "preparo": "静注需稀释，口服液使用前摇匀",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "对乙酰半胱氨酸过敏、活动性消化性溃疡",
+      "cuidadosMedicos": "哮喘患者吸入应慎用",
+      "cuidadosFarmaceuticos": "说明不应与抗生素共混",
+      "cuidadosEnfermagem": "监测肠胃反应与气道通畅情况",
+      "fontesBibliograficas": "中国药典, UpToDate, Micromedex"
+    }
+  }
+}

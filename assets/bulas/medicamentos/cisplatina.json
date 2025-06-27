@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cisplatina",
+      "suspension": "Suspender 7 a 10 dias antes de cirurgia eletiva de grande porte",
+      "risk": "Nefrotoxicidade, ototoxicidade, mielossupressão, náuseas e vômitos intensos, risco de extravasamento",
+      "reintroduction": "Reintroduzir após recuperação renal, hematológica e resolução de toxicidades, geralmente após 10–14 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cisplatina",
+      "nomeComercial": "Platinil, Cisplatin, Platiblastina",
+      "mecanismoAcao": "Forma ligações cruzadas com o DNA, inibindo replicação e transcrição, promovendo apoptose",
+      "farmacocinetica": "Administração IV; alta ligação a proteínas plasmáticas; eliminação renal; meia-vida terminal ~30h",
+      "farmacodinamica": "Citotóxico com maior ação em células em fase S; afeta tecidos com alta renovação celular",
+      "indicacoes": "Câncer de ovário, testículo, bexiga, pulmão, cabeça e pescoço, cérvice, linfomas e tumores pediátricos",
+      "reacoesAdversas": "Nefrotoxicidade, ototoxicidade, neuropatia periférica, náusea, vômito, anemia, leucopenia, trombocitopenia, hipomagnesemia",
+      "riscoGravidez": "Categoria D – contraindicado, exceto em situações oncológicas específicas",
+      "riscoLactacao": "Contraindicado; excreção no leite não estudada, porém provável",
+      "administracao": "Infusão intravenosa lenta (≥6 horas) com hidratação pré e pós",
+      "doseMaxima": "100mg/m² por ciclo (monoterapia ou em combinação)",
+      "doseMinima": "50mg/m²/ciclo",
+      "classificacao": "Agente alquilante, composto de platina",
+      "apresentacao": "Frascos de 10mg/10ml, 50mg/50ml ou liofilizado",
+      "interacaoMedicamento": "Aumento de toxicidade com aminoglicosídeos, diuréticos de alça, outros nefrotóxicos e ototóxicos",
+      "posologia": "20–100mg/m² a cada 3 a 4 semanas conforme protocolo",
+      "armazenamento": "Temperatura ambiente (15–25°C); protegido da luz",
+      "preparo": "Diluir em SF 0,9% ou SG 5% em ambiente controlado com EPI",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, dextrose 5%",
+      "contraindicacoes": "Disfunção renal grave, audição prejudicada, mielossupressão grave, alergia à platina",
+      "cuidadosMedicos": "Monitorar função renal, audição (audiometria), eletrólitos (Mg, K), hemograma",
+      "cuidadosFarmaceuticos": "Proteger da luz, descartar como resíduo citotóxico, controlar tempo de infusão",
+      "cuidadosEnfermagem": "Hidratação vigorosa, monitorar diurese, náuseas, zumbido e toxicidades hematológicas",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cisplatin",
+      "suspension": "Hold 7–10 days prior to major surgery",
+      "risk": "Nephrotoxicity, ototoxicity, myelosuppression, severe nausea/vomiting, extravasation risk",
+      "reintroduction": "Restart after renal, hematologic and GI recovery; typically 10–14 days post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cisplatin",
+      "nomeComercial": "Platinol, Cisplatin Injection",
+      "mecanismoAcao": "Cross-links DNA strands, inhibiting DNA/RNA synthesis and causing apoptosis",
+      "farmacocinetica": "IV only; protein-bound; renal elimination; T½ ~30h",
+      "farmacodinamica": "Cytotoxic mainly in S-phase; affects fast-dividing tissues",
+      "indicacoes": "Ovarian, testicular, bladder, lung, head and neck, cervical cancer",
+      "reacoesAdversas": "Kidney damage, hearing loss, peripheral neuropathy, nausea, vomiting, bone marrow suppression",
+      "riscoGravidez": "Category D – teratogenic",
+      "riscoLactacao": "Not recommended; excretion in breast milk likely",
+      "administracao": "IV infusion over 6+ hours with hydration protocol",
+      "doseMaxima": "100mg/m² per cycle",
+      "doseMinima": "50mg/m²",
+      "classificacao": "Platinum-based alkylating agent",
+      "apresentacao": "10mg/10ml, 50mg/50ml vials or lyophilized powder",
+      "interacaoMedicamento": "Nephro/ototoxic potentiation with aminoglycosides, loop diuretics",
+      "posologia": "20–100mg/m² every 3–4 weeks",
+      "armazenamento": "Room temp (15–25°C); protect from light",
+      "preparo": "Aseptic dilution in NS or D5W under cytotoxic conditions",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Renal impairment, hearing loss, marrow suppression, hypersensitivity to platinum",
+      "cuidadosMedicos": "Monitor renal function, audiometry, CBC, electrolytes (Mg/K)",
+      "cuidadosFarmaceuticos": "Cytotoxic handling, protect from light",
+      "cuidadosEnfermagem": "Ensure hydration, monitor urine output, nausea, ototoxicity signs",
+      "fontesBibliograficas": "FDA, Platinol label, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cisplatino",
+      "suspension": "Suspender 7–10 días antes de cirugía mayor",
+      "risk": "Nefrotoxicidad, ototoxicidad, náuseas intensas, supresión medular, riesgo de extravasación",
+      "reintroduction": "Reiniciar tras recuperación renal, hematológica y digestiva (10–14 días)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cisplatino",
+      "nomeComercial": "Platinol, Platiblastina",
+      "mecanismoAcao": "Alquila ADN generando enlaces cruzados, inhibe síntesis de ADN/ARN",
+      "farmacocinetica": "IV; alta unión proteica; eliminación renal; vida media ~30h",
+      "farmacodinamica": "Citotóxico fase S; tejidos de rápida replicación",
+      "indicacoes": "Cáncer de ovario, testículo, vejiga, cabeza y cuello, cérvix",
+      "reacoesAdversas": "Toxicidad renal y auditiva, vómitos intensos, mielosupresión, hipomagnesemia",
+      "riscoGravidez": "Categoría D – contraindicado salvo oncología específica",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Infusión IV prolongada (≥6h) con hidratación intensiva",
+      "doseMaxima": "100mg/m² por ciclo",
+      "doseMinima": "50mg/m²",
+      "classificacao": "Agente alquilante de platino",
+      "apresentacao": "10mg/10ml, 50mg/50ml, polvo liofilizado",
+      "interacaoMedicamento": "Mayor toxicidad con aminoglucósidos, diuréticos, otros nefrotóxicos",
+      "posologia": "20–100mg/m² cada 3–4 semanas",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "Dilución en SF o glucosa 5%, bajo flujo laminar",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%",
+      "contraindicacoes": "Daño renal severo, sordera, depresión medular",
+      "cuidadosMedicos": "Control renal, electrolitos, audiometría, hemograma",
+      "cuidadosFarmaceuticos": "Luz protegida, equipo citotóxico",
+      "cuidadosEnfermagem": "Vigilar diuresis, náuseas, pérdida auditiva",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "顺铂",
+      "suspension": "术前7–10天停药，术后恢复后再评估恢复用药",
+      "risk": "肾毒性、耳毒性、骨髓抑制、剧烈恶心呕吐、外渗损伤",
+      "reintroduction": "术后10–14天，若肾功能与血象恢复可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "顺铂",
+      "nomeComercial": "Cisplatin 注射液",
+      "mecanismoAcao": "与DNA结合形成交联，抑制DNA/RNA合成，诱导细胞凋亡",
+      "farmacocinetica": "仅IV给药；高度蛋白结合；肾排泄；T½约30小时",
+      "farmacodinamica": "在S期最强；攻击高增殖细胞",
+      "indicacoes": "卵巢癌、睾丸癌、膀胱癌、宫颈癌、肺癌、头颈部癌",
+      "reacoesAdversas": "肾损伤、耳聋、呕吐、白细胞减少、低镁血症",
+      "riscoGravidez": "D类 – 孕期禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉输注，6小时以上，联合补液治疗",
+      "doseMaxima": "每周期不超过100mg/m²",
+      "doseMinima": "每周期50mg/m²",
+      "classificacao": "铂类烷化剂",
+      "apresentacao": "10mg/10ml、50mg/50ml或冻干粉",
+      "interacaoMedicamento": "与氨基糖苷类、利尿剂联用增强毒性",
+      "posologia": "20–100mg/m²，q3–4周",
+      "armazenamento": "15–25°C避光保存",
+      "preparo": "使用0.9%氯化钠或5%葡萄糖稀释；无菌配药",
+      "solucoesCompatíveis": "氯化钠、葡萄糖注射液",
+      "contraindicacoes": "肾功能不全、听力受损、骨髓抑制",
+      "cuidadosMedicos": "监测肾功能、电解质、听力、血象",
+      "cuidadosFarmaceuticos": "防光包装，细胞毒级处理",
+      "cuidadosEnfermagem": "观察尿量、恶心、听力、神经症状",
+      "fontesBibliograficas": "中国药典、Micromedex、NCCN、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Amiodarona",
+      "suspension": "Suspender 3 a 5 dias antes de cirurgias eletivas com risco arrítmico baixo; manter se em uso contínuo com monitoramento",
+      "risk": "Bradicardia, hipotensão, interação com anestésicos, bloqueadores neuromusculares e risco de toxicidade pulmonar e tireoidiana",
+      "reintroduction": "Reintroduzir após avaliação clínica e eletrocardiográfica, idealmente após estabilização hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amiodarona",
+      "nomeComercial": "Atlansil, Ancoron, Amiodarone, Aratac",
+      "mecanismoAcao": "Bloqueia canais de potássio, sódio e cálcio, prolongando o potencial de ação e período refratário; efeito beta-bloqueador não competitivo",
+      "farmacocinetica": "Alta lipossolubilidade; meia-vida de eliminação muito longa (20–100 dias); excreção biliar",
+      "farmacodinamica": "Antiarritmico de classe III; reduz automaticidade e excitabilidade miocárdica",
+      "indicacoes": "Taquiarritmias ventriculares e supraventriculares, FV/TV refratária em PCR, FA em pacientes com disfunção ventricular",
+      "reacoesAdversas": "Fibrose pulmonar, disfunção tireoidiana, fotossensibilidade, hepatotoxicidade, bradicardia",
+      "riscoGravidez": "Categoria D (usar apenas se essencial)",
+      "riscoLactacao": "Contraindicado; excreção significativa no leite",
+      "administracao": "Intravenosa ou via oral",
+      "doseMaxima": "300mg em PCR; 1200mg/dia (infusão); 600–800mg/dia VO",
+      "doseMinima": "200mg/dia (manutenção oral)",
+      "classificacao": "Antiarrítmico classe III (com múltiplos efeitos de classe)",
+      "apresentacao": "Ampolas 150mg/3mL; comprimidos 100mg e 200mg",
+      "interacaoMedicamento": "Aumenta risco de torsades com outros QT-prolongadores; interação com varfarina, digoxina, beta e bloqueadores de cálcio",
+      "posologia": "300mg em PCR; 150mg IV lento em 10 min, seguido por infusão contínua 1mg/min",
+      "armazenamento": "Proteger da luz; refrigeração não necessária",
+      "preparo": "Diluir apenas em SF 0,9%; incompatível com SG 5%",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%",
+      "contraindicacoes": "Bradicardia severa, bloqueio AV de alto grau sem marca-passo, hipotireoidismo",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, função hepática, tireoidiana e pulmonar",
+      "cuidadosFarmaceuticos": "Evitar luz direta; controle da estabilidade após diluição",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade respiratória, cutânea, bradicardia",
+      "fontesBibliograficas": "SBEC, ACLS, ANVISA, Micromedex, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Amiodarone",
+      "suspension": "Discontinue 3–5 days prior to elective surgeries with low arrhythmic risk; continue with monitoring if high risk",
+      "risk": "Bradycardia, hypotension, interactions with anesthetics and neuromuscular blockers; thyroid and pulmonary toxicity",
+      "reintroduction": "Restart post-op after ECG and clinical assessment, ideally after hemodynamic stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amiodarone",
+      "nomeComercial": "Cordarone, Pacerone, Nexterone",
+      "mecanismoAcao": "Blocks potassium, sodium, and calcium channels; prolongs action potential and refractory period; noncompetitive beta-blockade",
+      "farmacocinetica": "Highly lipophilic, very long half-life (20–100 days), hepatic metabolism, biliary excretion",
+      "farmacodinamica": "Class III antiarrhythmic; suppresses automaticity and excitability",
+      "indicacoes": "Ventricular and supraventricular arrhythmias, refractory VF/VT, AF with heart failure",
+      "reacoesAdversas": "Pulmonary fibrosis, thyroid dysfunction, photosensitivity, hepatotoxicity, bradycardia",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated due to high breast milk levels",
+      "administracao": "Intravenous or oral",
+      "doseMaxima": "300mg IV in arrest; 1200mg/day infusion; up to 800mg/day oral loading",
+      "doseMinima": "200mg/day (oral maintenance)",
+      "classificacao": "Class III antiarrhythmic (multi-class effects)",
+      "apresentacao": "150mg/3mL ampoules; tablets 100mg, 200mg",
+      "interacaoMedicamento": "Interacts with QT-prolongers, warfarin, digoxin, beta/calcium blockers",
+      "posologia": "Cardiac arrest: 300mg IV bolus; 150mg IV over 10 min, then 1mg/min infusion",
+      "armazenamento": "Protect from light; no refrigeration required",
+      "preparo": "Dilute only in 0.9% NaCl; incompatible with dextrose solutions",
+      "solucoesCompatíveis": "Normal saline (0.9%)",
+      "contraindicacoes": "Severe bradycardia, high-grade AV block without pacemaker, hypothyroidism",
+      "cuidadosMedicos": "Monitor ECG, liver, thyroid and pulmonary function",
+      "cuidadosFarmaceuticos": "Protect from light, use within stability window",
+      "cuidadosEnfermagem": "Watch for pulmonary, thyroid and cardiac toxicity signs",
+      "fontesBibliograficas": "FDA, ACLS, Micromedex, AHA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Amiodarona",
+      "suspension": "Suspender 3–5 días antes de cirugía electiva si riesgo arrítmico es bajo; mantener con monitoreo si es esencial",
+      "risk": "Bradicardia, hipotensión, toxicidad tiroidea y pulmonar, interacción con anestesia y bloqueadores musculares",
+      "reintroduction": "Reintroducir tras evaluación hemodinámica y ECG postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amiodarona",
+      "nomeComercial": "Atlansil, Cordarone",
+      "mecanismoAcao": "Bloqueo de canales de potasio, sodio y calcio; efecto beta-bloqueante no competitivo",
+      "farmacocinetica": "Alta lipofilia, semivida muy prolongada (20–100 días), metabolismo hepático, excreción biliar",
+      "farmacodinamica": "Antiarrítmico clase III; reduce automatismo y excitabilidad miocárdica",
+      "indicacoes": "Arritmias ventriculares y supraventriculares, FV/TV refractaria, FA con disfunción ventricular",
+      "reacoesAdversas": "Fibrosis pulmonar, alteraciones tiroideas, fotosensibilidad, hepatotoxicidad",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado; alta excreción en leche",
+      "administracao": "IV u oral",
+      "doseMaxima": "300mg en PCR; 1200mg/día IV; hasta 800mg/día VO",
+      "doseMinima": "200mg/día (mantenimiento)",
+      "classificacao": "Antiarrítmico clase III con efectos mixtos",
+      "apresentacao": "Ampollas de 150mg/3mL; comprimidos de 100mg y 200mg",
+      "interacaoMedicamento": "Riesgo con otros QT-prolongadores, warfarina, digoxina, betabloqueadores",
+      "posologia": "PCR: 300mg IV; luego 150mg IV + infusión continua 1mg/min",
+      "armazenamento": "Proteger de la luz; no requiere refrigeración",
+      "preparo": "Diluir solo en SSF 0,9%; incompatible con glucosa",
+      "solucoesCompatíveis": "SSF 0,9%",
+      "contraindicacoes": "Bradicardia severa, bloqueo AV avanzado sin marcapasos, hipotiroidismo",
+      "cuidadosMedicos": "Monitoreo de ECG, hígado, tiroides y pulmones",
+      "cuidadosFarmaceuticos": "Proteger de la luz, controlar estabilidad tras dilución",
+      "cuidadosEnfermagem": "Observar toxicidad pulmonar, tiroidea y bradicardia",
+      "fontesBibliograficas": "Micromedex, ACLS, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "胺碘酮",
+      "suspension": "择期手术前3–5天停药（低风险患者）；高风险者持续使用并监测",
+      "risk": "心动过缓、低血压、甲状腺与肺毒性，与麻醉药和肌松药相互作用",
+      "reintroduction": "术后稳定后，根据ECG与临床情况重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "胺碘酮",
+      "nomeComercial": "Cordarone、安可隆",
+      "mecanismoAcao": "阻断钾、钠、钙通道，延长动作电位与不应期；具β阻断作用",
+      "farmacocinetica": "脂溶性高，半衰期长（20–100天），肝代谢，经胆汁排泄",
+      "farmacodinamica": "III类抗心律失常药，抑制心肌自律性和兴奋性",
+      "indicacoes": "心室与心房性心律失常、心搏骤停、心衰患者的房颤",
+      "reacoesAdversas": "肺纤维化、甲状腺功能障碍、光敏反应、肝损伤、心动过缓",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用，乳汁排泄量高",
+      "administracao": "静脉或口服",
+      "doseMaxima": "心脏骤停300mg IV；维持可至1200mg/天IV；负荷达800mg/天口服",
+      "doseMinima": "200mg/天维持",
+      "classificacao": "III类抗心律失常药，具多类效应",
+      "apresentacao": "150mg/3mL安瓿；片剂100mg、200mg",
+      "interacaoMedicamento": "延长QT药物、华法林、地高辛、β阻滞剂交互作用强",
+      "posologia": "心脏骤停：300mg IV推注；随后150mg + 1mg/min维持",
+      "armazenamento": "避光保存，无需冷藏",
+      "preparo": "仅用0.9%氯化钠稀释，禁用葡萄糖",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "严重心动过缓、高度AV阻滞（无起搏器）、甲减",
+      "cuidadosMedicos": "监测心电图、肝、甲状腺与肺功能",
+      "cuidadosFarmaceuticos": "避光稀释，使用期内控制稳定性",
+      "cuidadosEnfermagem": "警惕呼吸、甲状腺与心动过缓表现",
+      "fontesBibliograficas": "中国药典、ACLS、Micromedex、FDA"
+    }
+  }
+}

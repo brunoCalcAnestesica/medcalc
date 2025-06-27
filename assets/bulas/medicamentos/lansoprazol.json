@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lansoprazol",
+      "suspension": "Manter até o dia da cirurgia, inclusive em jejum",
+      "risk": "Risco perioperatório baixo; benéfico na prevenção de úlceras de estresse e aspiração",
+      "reintroduction": "Continuar no pós-operatório conforme indicação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lansoprazol",
+      "nomeComercial": "Mediprazol, Ogastro, Prevacid",
+      "mecanismoAcao": "Inibe irreversivelmente a H+/K+-ATPase da célula parietal gástrica",
+      "farmacocinetica": "Biodisponibilidade ~80%; meia-vida 1–2h; metabolização hepática (CYP2C19, CYP3A4)",
+      "farmacodinamica": "Inibidor da bomba de prótons; reduz acidez gástrica por mais de 24h",
+      "indicacoes": "Úlcera péptica, esofagite de refluxo, prevenção de úlcera por AINEs, Zollinger-Ellison",
+      "reacoesAdversas": "Cefaleia, diarreia, dor abdominal, hipomagnesemia, infecções intestinais",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral",
+      "doseMaxima": "60mg/dia",
+      "doseMinima": "15mg/dia",
+      "classificacao": "Inibidor da bomba de prótons (IBP)",
+      "apresentacao": "Cápsulas 15mg, 30mg; pó para suspensão 30mg/sachê",
+      "interacaoMedicamento": "Reduz absorção de cetoconazol, ferro, digoxina; possível redução do efeito de clopidogrel",
+      "posologia": "15–30mg/dia por 4–8 semanas ou conforme indicação",
+      "armazenamento": "Temperatura ambiente; suspensão reconstituída usar em até 30 min",
+      "preparo": "Dissolver pó em pequena quantidade de água e ingerir imediatamente",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade a IBPs",
+      "cuidadosMedicos": "Avaliar resposta clínica e níveis de magnésio se uso prolongado",
+      "cuidadosFarmaceuticos": "Orientar administração em jejum pela manhã",
+      "cuidadosEnfermagem": "Observar sintomas gastrointestinais e neurológicos em uso prolongado",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lansoprazole",
+      "suspension": "Continue up to and including the day of surgery",
+      "risk": "Low risk; used for aspiration prophylaxis and ulcer prevention",
+      "reintroduction": "Resume postoperatively if needed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lansoprazole",
+      "nomeComercial": "Prevacid",
+      "mecanismoAcao": "Irreversible inhibitor of gastric parietal H+/K+-ATPase",
+      "farmacocinetica": "Bioavailability ~80%; half-life 1–2h; hepatic metabolism",
+      "farmacodinamica": "PPI with acid suppression lasting over 24h",
+      "indicacoes": "GERD, peptic ulcer, NSAID-ulcer prevention, Zollinger-Ellison",
+      "reacoesAdversas": "Headache, diarrhea, abdominal pain, hypomagnesemia, GI infections",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe",
+      "administracao": "Oral",
+      "doseMaxima": "60mg/day",
+      "doseMinima": "15mg/day",
+      "classificacao": "Proton pump inhibitor (PPI)",
+      "apresentacao": "Caps 15mg, 30mg; oral powder 30mg/sachet",
+      "interacaoMedicamento": "Decreased absorption of ketoconazole, iron, digoxin; clopidogrel effect may be reduced",
+      "posologia": "15–30mg/day for 4–8 weeks or as needed",
+      "armazenamento": "Store at room temperature; suspension good for 30 min",
+      "preparo": "Dissolve powder in water; drink immediately",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity to PPIs",
+      "cuidadosMedicos": "Monitor magnesium levels with prolonged use",
+      "cuidadosFarmaceuticos": "Take on empty stomach, morning preferred",
+      "cuidadosEnfermagem": "Observe for GI/neurologic symptoms if long-term",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lansoprazol",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Riesgo bajo; útil para prevenir aspiración y úlceras",
+      "reintroduction": "Continuar en postoperatorio si está indicado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lansoprazol",
+      "nomeComercial": "Prevacid, Ogastro",
+      "mecanismoAcao": "Inhibe H+/K+-ATPasa gástrica de manera irreversible",
+      "farmacocinetica": "Biodisponibilidad ~80%; vida media 1–2h; metabolismo hepático",
+      "farmacodinamica": "Reduce secreción ácida por más de 24h",
+      "indicacoes": "ERGE, úlcera gástrica, profilaxis por AINE, Zollinger-Ellison",
+      "reacoesAdversas": "Cefalea, dolor abdominal, diarrea, hipomagnesemia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Seguro",
+      "administracao": "VO",
+      "doseMaxima": "60mg/día",
+      "doseMinima": "15mg/día",
+      "classificacao": "IBP (inhibidor de la bomba de protones)",
+      "apresentacao": "Cápsulas 15mg, 30mg; polvo 30mg",
+      "interacaoMedicamento": "Reduce absorción de hierro, digoxina, ketoconazol; interacción con clopidogrel",
+      "posologia": "15–30mg/día por 4–8 semanas",
+      "armazenamento": "Temperatura ambiente; suspensión usar en 30 min",
+      "preparo": "Disolver polvo en agua y tomar al instante",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a IBP",
+      "cuidadosMedicos": "Control de magnesio si uso crónico",
+      "cuidadosFarmaceuticos": "Tomar en ayunas, preferentemente por la mañana",
+      "cuidadosEnfermagem": "Vigilar síntomas digestivos o neurológicos",
+      "fontesBibliograficas": "Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "兰索拉唑",
+      "suspension": "术前可持续使用，尤其用于预防应激性胃溃疡",
+      "risk": "术中风险低；有助于预防术中误吸",
+      "reintroduction": "术后可继续使用，按需调整"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "兰索拉唑",
+      "nomeComercial": "Prevacid",
+      "mecanismoAcao": "不可逆抑制胃壁细胞H+/K+-ATP酶",
+      "farmacocinetica": "生物利用度80%；半衰期1–2小时；肝脏代谢",
+      "farmacodinamica": "质子泵抑制剂，抑酸作用持续超过24小时",
+      "indicacoes": "胃食管反流病、胃/十二指肠溃疡、NSAIDs相关病变",
+      "reacoesAdversas": "头痛、腹泻、胃痛、低镁血症、肠道感染",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "安全",
+      "administracao": "口服",
+      "doseMaxima": "每日60毫克",
+      "doseMinima": "每日15毫克",
+      "classificacao": "质子泵抑制剂",
+      "apresentacao": "15mg、30mg胶囊，30mg粉剂",
+      "interacaoMedicamento": "影响克拉霉素、氯吡格雷、铁剂等吸收",
+      "posologia": "每日1次，早晨空腹，15–30mg，疗程4–8周",
+      "armazenamento": "室温；粉剂溶解后30分钟内服用",
+      "preparo": "加水溶解后立即口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对本品或IBP类药物过敏",
+      "cuidadosMedicos": "长期用药建议监测血镁",
+      "cuidadosFarmaceuticos": "早上空腹服用效果最佳",
+      "cuidadosEnfermagem": "关注低镁、电解质异常、胃肠不适",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Mesna",
+      "suspension": "Não aplicável; usada perioperatório apenas em combinação com quimioterápicos específicos",
+      "risk": "Risco mínimo isolado; pode causar náusea, vômito, exantema, reações alérgicas e hipotensão",
+      "reintroduction": "Reintroduzir conforme cronograma da quimioterapia citotóxica associada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mesna (ácido 2-mercaptoetanosulfônico)",
+      "nomeComercial": "Uromitexan",
+      "mecanismoAcao": "Agente uroprotetor que se liga a metabólitos tóxicos da ciclofosfamida/ifosfamida prevenindo cistite hemorrágica",
+      "farmacocinetica": "IV ou oral; início de ação rápido; meia-vida ~1h; excreção urinária",
+      "farmacodinamica": "Neutraliza acroleína no trato urinário, prevenindo danos vesicais",
+      "indicacoes": "Prevenção de cistite hemorrágica induzida por ifosfamida ou ciclofosfamida",
+      "reacoesAdversas": "Náusea, vômito, cefaleia, dor abdominal, hipotensão, exantema",
+      "riscoGravidez": "Categoria B – uso permitido se necessário",
+      "riscoLactacao": "Desconhecido; uso com cautela",
+      "administracao": "Intravenosa ou oral (em combinação com quimioterapia)",
+      "doseMaxima": "60% da dose da ifosfamida ou ciclofosfamida, dividida em 3 administrações",
+      "doseMinima": "20% da dose do agente alquilante",
+      "classificacao": "Agente uroprotetor (tiol)",
+      "apresentacao": "Solução injetável 100mg/mL; comprimidos revestidos 400mg (disponibilidade variável)",
+      "interacaoMedicamento": "Pode reduzir eficácia de agentes alquilantes se não bem sincronizado",
+      "posologia": "20% da dose do citotóxico no tempo 0h, 4h e 8h (IV ou VO)",
+      "armazenamento": "Temperatura ambiente (15–25°C), protegido da luz",
+      "preparo": "Pronto para uso; diluir conforme protocolo hospitalar se necessário",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade ao mesna ou similares tiolados",
+      "cuidadosMedicos": "Monitorar sinais de alergia, vômitos e pressão arterial",
+      "cuidadosFarmaceuticos": "Confirmar compatibilidade com o quimioterápico e horários corretos",
+      "cuidadosEnfermagem": "Observar reações infusionais e eficácia da proteção urinária",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mesna",
+      "suspension": "Not applicable; used perioperatively with specific chemotherapy regimens",
+      "risk": "Generally safe; may cause nausea, rash, allergic reactions, hypotension",
+      "reintroduction": "Restart according to chemotherapy schedule"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mesna (sodium 2-mercaptoethanesulfonate)",
+      "nomeComercial": "Mesnex, Uromitexan",
+      "mecanismoAcao": "Uroprotective agent that binds toxic metabolites of ifosfamide/cyclophosphamide to prevent hemorrhagic cystitis",
+      "farmacocinetica": "IV or oral; rapid onset; half-life ~1h; renal excretion",
+      "farmacodinamica": "Neutralizes acrolein in urinary tract to prevent bladder injury",
+      "indicacoes": "Prevention of ifosfamide/cyclophosphamide-induced hemorrhagic cystitis",
+      "reacoesAdversas": "Nausea, vomiting, headache, abdominal pain, hypotension, rash",
+      "riscoGravidez": "Category B – permitted if needed",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "IV or oral (alongside chemotherapy)",
+      "doseMaxima": "60% of ifosfamide/cyclophosphamide dose, divided into 3 administrations",
+      "doseMinima": "20% of alkylating agent dose",
+      "classificacao": "Uroprotective agent (thiol derivative)",
+      "apresentacao": "100mg/mL IV solution; 400mg oral tablets (availability may vary)",
+      "interacaoMedicamento": "May interfere with alkylating agents if not timed properly",
+      "posologia": "20% of cytotoxic dose at 0h, 4h, and 8h (IV or oral)",
+      "armazenamento": "Store at 15–25°C, protect from light",
+      "preparo": "Ready-to-use; dilute as per hospital protocol if needed",
+      "solucoesCompatíveis": "0.9% NaCl, 5% dextrose",
+      "contraindicacoes": "Hypersensitivity to mesna or other thiol agents",
+      "cuidadosMedicos": "Monitor for allergic reaction, vomiting, BP changes",
+      "cuidadosFarmaceuticos": "Ensure synchronization with chemotherapy and drug compatibility",
+      "cuidadosEnfermagem": "Observe for infusion reactions and bladder protection effectiveness",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Mesna",
+      "suspension": "No aplica; se usa en combinación con quimioterapia específica",
+      "risk": "Riesgo mínimo; puede causar náuseas, erupción, hipotensión o reacciones alérgicas",
+      "reintroduction": "Reiniciar según el esquema de quimioterapia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mesna (ácido 2-mercaptoetanosulfónico)",
+      "nomeComercial": "Uromitexan",
+      "mecanismoAcao": "Agente uropotector que se une a metabolitos tóxicos de ciclofosfamida/ifosfamida evitando cistitis hemorrágica",
+      "farmacocinetica": "IV u oral; inicio rápido; vida media ~1h; excreción renal",
+      "farmacodinamica": "Neutraliza acroleína en el tracto urinario evitando daño vesical",
+      "indicacoes": "Prevención de cistitis hemorrágica inducida por alquilantes",
+      "reacoesAdversas": "Náuseas, vómitos, cefalea, dolor abdominal, hipotensión, rash",
+      "riscoGravidez": "Categoría B – permitido si es necesario",
+      "riscoLactacao": "Desconocido; precaución",
+      "administracao": "Intravenosa u oral junto a quimioterapia",
+      "doseMaxima": "60% de la dosis del alquilante, en 3 administraciones",
+      "doseMinima": "20% de la dosis",
+      "classificacao": "Agente uropotector (derivado tiol)",
+      "apresentacao": "Solución IV 100mg/mL; comprimidos 400mg",
+      "interacaoMedicamento": "Puede disminuir efecto del alquilante si mal sincronizado",
+      "posologia": "20% de la dosis citotóxica a 0h, 4h y 8h",
+      "armazenamento": "Ambiente seco, 15–25°C",
+      "preparo": "Listo para usar; puede diluirse",
+      "solucoesCompatíveis": "SSN 0,9%, DAD 5%",
+      "contraindicacoes": "Hipersensibilidad al mesna u otros tioles",
+      "cuidadosMedicos": "Controlar PA, vómitos, reacciones alérgicas",
+      "cuidadosFarmaceuticos": "Verificar cronograma con quimioterapia",
+      "cuidadosEnfermagem": "Vigilar reacciones locales y protección vesical",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "美司钠",
+      "suspension": "不适用于术前停药；用于化疗联合期间",
+      "risk": "偶可引起恶心、皮疹、低血压或过敏反应",
+      "reintroduction": "应与化疗方案同步恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "美司钠（2-巯基乙磺酸钠）",
+      "nomeComercial": "Uromitexan",
+      "mecanismoAcao": "与环磷酰胺/异环磷酰胺的毒性代谢物结合，防止膀胱出血",
+      "farmacocinetica": "静脉或口服吸收迅速，半衰期约1小时，经尿排泄",
+      "farmacodinamica": "中和代谢产物丙烯醛，保护泌尿道",
+      "indicacoes": "预防环磷酰胺/异环磷酰胺诱导的出血性膀胱炎",
+      "reacoesAdversas": "恶心、呕吐、头痛、腹痛、低血压、皮疹",
+      "riscoGravidez": "B类 – 可酌情使用",
+      "riscoLactacao": "资料不足，慎用",
+      "administracao": "静脉注射或口服（配合化疗）",
+      "doseMaxima": "按烷化剂60%剂量分3次",
+      "doseMinima": "烷化剂剂量20%",
+      "classificacao": "泌尿道保护剂（巯基化合物）",
+      "apresentacao": "注射液100mg/mL；片剂400mg（部分地区供应）",
+      "interacaoMedicamento": "可能干扰烷化剂药效，需时序准确",
+      "posologia": "0、4、8小时分别给药，每次为烷化剂20%剂量",
+      "armazenamento": "室温（15–25°C），避光保存",
+      "preparo": "即用，必要时稀释",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对巯基类药物过敏",
+      "cuidadosMedicos": "监测血压、过敏及消化道反应",
+      "cuidadosFarmaceuticos": "确保与化疗时间一致，正确稀释",
+      "cuidadosEnfermagem": "关注局部反应和泌尿道保护效果",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

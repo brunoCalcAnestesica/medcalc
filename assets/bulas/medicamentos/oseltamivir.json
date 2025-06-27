@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Oseltamivir",
+      "suspension": "Não é necessário suspender",
+      "risk": "Baixo risco anestésico; manter em casos de infecção ativa por influenza",
+      "reintroduction": "Pode ser mantido durante todo o perioperatório, se clinicamente indicado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oseltamivir",
+      "nomeComercial": "Tamiflu",
+      "mecanismoAcao": "Inibidor da neuraminidase do vírus influenza A e B",
+      "farmacocinetica": "Boa biodisponibilidade oral, convertido em metabólito ativo no fígado, excreção renal",
+      "farmacodinamica": "Impede liberação viral de células infectadas, reduzindo propagação da infecção",
+      "indicacoes": "Tratamento e profilaxia da gripe causada por vírus influenza A e B",
+      "reacoesAdversas": "Náusea, vômito, dor abdominal, insônia, confusão (raramente)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite materno; uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "150 mg/dia",
+      "doseMinima": "75 mg/dia",
+      "classificacao": "Antiviral, inibidor de neuraminidase",
+      "apresentacao": "Cápsulas de 30 mg, 45 mg, 75 mg; suspensão oral",
+      "interacaoMedicamento": "Redução de eficácia com probenecida; interação com vacina de vírus vivos atenuados",
+      "posologia": "75 mg 2x/dia por 5 dias para tratamento; 75 mg/dia por 10 dias para profilaxia",
+      "armazenamento": "Temperatura ambiente; suspensão reconstituída deve ser refrigerada",
+      "preparo": "Suspensão oral deve ser reconstituída conforme bula",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao oseltamivir ou componentes da fórmula",
+      "cuidadosMedicos": "Avaliar função renal em pacientes com insuficiência renal",
+      "cuidadosFarmaceuticos": "Atenção à validade após reconstituição da suspensão",
+      "cuidadosEnfermagem": "Administrar com alimentos para reduzir náuseas; observar efeitos adversos",
+      "fontesBibliograficas": "SBMI, FDA, Micromedex, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Oseltamivir",
+      "suspension": "No need to suspend",
+      "risk": "Low anesthetic risk; continue if treating active influenza",
+      "reintroduction": "May be maintained perioperatively if clinically indicated"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oseltamivir",
+      "nomeComercial": "Tamiflu",
+      "mecanismoAcao": "Neuraminidase inhibitor against influenza A and B viruses",
+      "farmacocinetica": "Well absorbed orally, converted to active metabolite in liver, renal excretion",
+      "farmacodinamica": "Blocks viral release from infected cells, limiting spread",
+      "indicacoes": "Treatment and prevention of influenza A and B",
+      "reacoesAdversas": "Nausea, vomiting, abdominal pain, insomnia, rare confusion",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; use with caution",
+      "administracao": "Oral route",
+      "doseMaxima": "150 mg/day",
+      "doseMinima": "75 mg/day",
+      "classificacao": "Antiviral, neuraminidase inhibitor",
+      "apresentacao": "Capsules (30 mg, 45 mg, 75 mg); oral suspension",
+      "interacaoMedicamento": "Reduced effect with probenecid; interferes with live influenza vaccine",
+      "posologia": "75 mg twice daily for 5 days (treatment); 75 mg once daily for 10 days (prophylaxis)",
+      "armazenamento": "Store at room temp; refrigerate reconstituted suspension",
+      "preparo": "Suspension must be reconstituted per instructions",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity to oseltamivir or components",
+      "cuidadosMedicos": "Adjust dose in renal impairment",
+      "cuidadosFarmaceuticos": "Check suspension expiry after reconstitution",
+      "cuidadosEnfermagem": "Give with food to reduce nausea; monitor side effects",
+      "fontesBibliograficas": "FDA, Micromedex, WHO, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Oseltamivir",
+      "suspension": "No requiere suspensión",
+      "risk": "Riesgo anestésico bajo; mantener en caso de infección activa",
+      "reintroduction": "Puede mantenerse durante el perioperatorio si está indicado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oseltamivir",
+      "nomeComercial": "Tamiflu",
+      "mecanismoAcao": "Inhibidor de la neuraminidasa del virus influenza A y B",
+      "farmacocinetica": "Buena absorción oral, metabolizado en hígado, excreción renal",
+      "farmacodinamica": "Bloquea la liberación viral de células infectadas",
+      "indicacoes": "Tratamiento y prevención de la gripe",
+      "reacoesAdversas": "Náuseas, vómitos, dolor abdominal, insomnio, confusión (rara)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en la leche materna; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "150 mg/día",
+      "doseMinima": "75 mg/día",
+      "classificacao": "Antiviral, inhibidor de neuraminidasa",
+      "apresentacao": "Cápsulas y suspensión oral",
+      "interacaoMedicamento": "Reducción del efecto con probenecid; interferencia con vacuna de influenza viva",
+      "posologia": "75 mg 2 veces/día por 5 días (tratamiento); 75 mg/día por 10 días (profilaxis)",
+      "armazenamento": "Ambiente; refrigerar la suspensión reconstituida",
+      "preparo": "Reconstituir la suspensión según instrucciones",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad al oseltamivir",
+      "cuidadosMedicos": "Ajuste de dosis en insuficiencia renal",
+      "cuidadosFarmaceuticos": "Controlar caducidad tras reconstitución",
+      "cuidadosEnfermagem": "Administrar con alimentos, vigilar efectos adversos",
+      "fontesBibliograficas": "OMS, FDA, ANVISA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥司他韦",
+      "suspension": "无需停药",
+      "risk": "麻醉风险低，若为流感治疗应继续使用",
+      "reintroduction": "术前术后可持续使用，如临床需要"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥司他韦",
+      "nomeComercial": "达菲 (Tamiflu)",
+      "mecanismoAcao": "抑制流感病毒神经氨酸酶",
+      "farmacocinetica": "口服吸收好，在肝脏转化为活性物质，经肾排泄",
+      "farmacodinamica": "阻断病毒从感染细胞释放，减缓传播",
+      "indicacoes": "治疗和预防甲型和乙型流感",
+      "reacoesAdversas": "恶心、呕吐、腹痛、失眠、罕见精神症状",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日150毫克",
+      "doseMinima": "每日75毫克",
+      "classificacao": "抗病毒药，神经氨酸酶抑制剂",
+      "apresentacao": "胶囊和口服混悬液",
+      "interacaoMedicamento": "与丙磺舒合用减少疗效；影响减毒活流感疫苗",
+      "posologia": "每天2次，每次75毫克，持续5天（治疗）；每天1次，持续10天（预防）",
+      "armazenamento": "常温保存；重配后需冷藏",
+      "preparo": "根据说明书重配口服混悬液",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对奥司他韦过敏者禁用",
+      "cuidadosMedicos": "肾功能不全需调整剂量",
+      "cuidadosFarmaceuticos": "注意混悬液配制后有效期",
+      "cuidadosEnfermagem": "与食物同服可减轻恶心，监测副作用",
+      "fontesBibliograficas": "中国药典，FDA，Micromedex，WHO"
+    }
+  }
+}

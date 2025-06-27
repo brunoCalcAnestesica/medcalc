@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido Nicotínico",
+      "suspension": "Suspender 5 dias antes da cirurgia",
+      "risk": "Risco de hipotensão intraoperatória, hepatotoxicidade e interações com anestésicos e anticoagulantes",
+      "reintroduction": "Reintroduzir após normalização das enzimas hepáticas e estabilidade hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Nicotínico",
+      "nomeComercial": "Niacina, Enduracin, Niaspan",
+      "mecanismoAcao": "Reduz a síntese hepática de VLDL e LDL; aumenta HDL; inibe lipólise no tecido adiposo",
+      "farmacocinetica": "Boa absorção oral; metabolismo hepático extenso; excreção renal",
+      "farmacodinamica": "Antilipêmico potente; melhora perfil lipídico e tem ação vasodilatadora",
+      "indicacoes": "Dislipidemias (aumento de LDL, redução de HDL, hipertrigliceridemia)",
+      "reacoesAdversas": "Rubor facial, prurido, cefaleia, hepatotoxicidade, hiperglicemia, hipotensão",
+      "riscoGravidez": "Categoria C — uso apenas se claramente necessário",
+      "riscoLactacao": "Excretado em pequena quantidade no leite; uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "2.000 mg/dia (liberação prolongada); 6.000 mg/dia (imediata)",
+      "doseMinima": "250 mg/dia",
+      "classificacao": "Hipolipemiante / Vitamina B3 em altas doses",
+      "apresentacao": "Comprimidos de liberação imediata ou prolongada",
+      "interacaoMedicamento": "Potencializa efeitos de anti-hipertensivos e anticoagulantes; risco aumentado com estatinas",
+      "posologia": "Iniciar com 250–500 mg/dia; ajustar conforme tolerância e resposta",
+      "armazenamento": "Temperatura ambiente, longe da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença hepática ativa, úlcera péptica, sangramento ativo",
+      "cuidadosMedicos": "Monitorar função hepática, glicemia, pressão arterial",
+      "cuidadosFarmaceuticos": "Orientar sobre rubor como efeito comum e transitório",
+      "cuidadosEnfermagem": "Observar sinais de hepatotoxicidade, orientar administração com alimentos",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nicotinic Acid",
+      "suspension": "Discontinue 5 days prior to surgery",
+      "risk": "Risk of intraoperative hypotension, hepatotoxicity, and interactions with anesthetics and anticoagulants",
+      "reintroduction": "Restart after liver enzymes normalize and hemodynamic status stabilizes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nicotinic Acid",
+      "nomeComercial": "Niacin, Niaspan, Endur-acin",
+      "mecanismoAcao": "Reduces hepatic VLDL and LDL synthesis; increases HDL; inhibits adipose tissue lipolysis",
+      "farmacocinetica": "Well absorbed orally; extensively metabolized in liver; renal excretion",
+      "farmacodinamica": "Potent lipid-lowering agent with vasodilatory properties",
+      "indicacoes": "Dyslipidemia (elevated LDL, low HDL, hypertriglyceridemia)",
+      "reacoesAdversas": "Flushing, itching, headache, hepatotoxicity, hyperglycemia, hypotension",
+      "riscoGravidez": "Category C — use only if clearly needed",
+      "riscoLactacao": "Excreted in small amounts in breast milk; use with caution",
+      "administracao": "Oral route",
+      "doseMaxima": "2,000 mg/day (extended-release); 6,000 mg/day (immediate)",
+      "doseMinima": "250 mg/day",
+      "classificacao": "Lipid-lowering agent / High-dose vitamin B3",
+      "apresentacao": "Immediate or extended-release tablets",
+      "interacaoMedicamento": "Enhances effects of antihypertensives and anticoagulants; increased risk with statins",
+      "posologia": "Start at 250–500 mg/day; titrate based on tolerance and response",
+      "armazenamento": "Store at room temperature, protect from moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active liver disease, peptic ulcer, active bleeding",
+      "cuidadosMedicos": "Monitor liver function, blood glucose, blood pressure",
+      "cuidadosFarmaceuticos": "Educate about flushing as a common, transient effect",
+      "cuidadosEnfermagem": "Watch for hepatotoxicity signs, advise food intake with dosing",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido Nicotínico",
+      "suspension": "Suspender 5 días antes de cirugía",
+      "risk": "Riesgo de hipotensión intraoperatoria, hepatotoxicidad e interacciones con anestesia y anticoagulantes",
+      "reintroduction": "Reintroducir tras normalización hepática y estabilidad hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Nicotínico",
+      "nomeComercial": "Niacina, Niaspan, Enduracin",
+      "mecanismoAcao": "Reduce la síntesis hepática de VLDL y LDL; aumenta HDL; inhibe lipólisis en tejido adiposo",
+      "farmacocinetica": "Buena absorción oral; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Potente efecto hipolipemiante; mejora el perfil lipídico y tiene efecto vasodilatador",
+      "indicacoes": "Dislipidemias (LDL alto, HDL bajo, hipertrigliceridemia)",
+      "reacoesAdversas": "Rubor facial, prurito, cefalea, hepatotoxicidad, hiperglucemia, hipotensión",
+      "riscoGravidez": "Categoría C — usar solo si es necesario",
+      "riscoLactacao": "Se excreta en pequeñas cantidades en la leche; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "2.000 mg/día (liberación prolongada); 6.000 mg/día (inmediata)",
+      "doseMinima": "250 mg/día",
+      "classificacao": "Hipolipemiante / Vitamina B3 en altas dosis",
+      "apresentacao": "Comprimidos de liberación inmediata o prolongada",
+      "interacaoMedicamento": "Potencia efectos de antihipertensivos y anticoagulantes; riesgo aumentado con estatinas",
+      "posologia": "Comenzar con 250–500 mg/día; ajustar según tolerancia y respuesta",
+      "armazenamento": "Temperatura ambiente, protegido de la humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Enfermedad hepática activa, úlcera péptica, sangrado activo",
+      "cuidadosMedicos": "Monitorear función hepática, glucemia y presión arterial",
+      "cuidadosFarmaceuticos": "Informar sobre el rubor como efecto común y transitorio",
+      "cuidadosEnfermagem": "Observar toxicidad hepática, administrar con alimentos",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "烟酸",
+      "suspension": "手术前5天停药",
+      "risk": "术中低血压、肝毒性及与麻醉药和抗凝剂相互作用的风险",
+      "reintroduction": "肝酶恢复正常和血流动力学稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "烟酸",
+      "nomeComercial": "Niacin, Niaspan, Enduracin",
+      "mecanismoAcao": "抑制肝脏合成VLDL和LDL，提高HDL，抑制脂肪组织脂解",
+      "farmacocinetica": "口服吸收良好，肝脏代谢，肾脏排泄",
+      "farmacodinamica": "强效降脂药，改善血脂谱并具扩血管作用",
+      "indicacoes": "血脂异常（LDL升高、HDL降低、高甘油三酯）",
+      "reacoesAdversas": "面部潮红、瘙痒、头痛、肝毒性、高血糖、低血压",
+      "riscoGravidez": "C类 — 仅在必要时使用",
+      "riscoLactacao": "可微量分泌至乳汁，慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日2000毫克（缓释）；每日6000毫克（速释）",
+      "doseMinima": "每日250毫克",
+      "classificacao": "降脂药 / 高剂量维生素B3",
+      "apresentacao": "速释或缓释片剂",
+      "interacaoMedicamento": "增强抗高血压药和抗凝剂作用，与他汀类药物合用增加风险",
+      "posologia": "起始250–500毫克/日，依耐受性和效果调整",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肝病、消化性溃疡、出血性疾病",
+      "cuidadosMedicos": "监测肝功能、血糖和血压",
+      "cuidadosFarmaceuticos": "告知面部潮红为常见且暂时性不良反应",
+      "cuidadosEnfermagem": "监测肝毒性，建议与食物一同服用",
+      "fontesBibliograficas": "FDA、EMA、ANVISA、Micromedex、BNF"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido Nalidíxico",
+      "suspension": "Suspender 48 horas antes de cirurgias maiores ou sob anestesia geral",
+      "risk": "Risco de neurotoxicidade, convulsões e interações com anestésicos que alteram o limiar convulsivo",
+      "reintroduction": "Reintroduzir após normalização do estado neurológico e reavaliação médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Nalidíxico",
+      "nomeComercial": "Nevigramon, Naldix",
+      "mecanismoAcao": "Inibe a síntese de DNA bacteriano por interferência na girase do DNA (enzima tipo II topoisomerase)",
+      "farmacocinetica": "Absorção oral rápida; pico plasmático em 1-2h; metabolizado no fígado; excreção urinária",
+      "farmacodinamica": "Bactericida contra bacilos gram-negativos, principalmente em trato urinário inferior",
+      "indicacoes": "Infecções urinárias não complicadas por E. coli e outras enterobactérias sensíveis",
+      "reacoesAdversas": "Náuseas, tontura, dor de cabeça, fotossensibilidade, cristalúria, convulsões (raras)",
+      "riscoGravidez": "Categoria C — evitar uso, especialmente no primeiro trimestre",
+      "riscoLactacao": "Excretado no leite materno; uso não recomendado durante lactação",
+      "administracao": "Via oral",
+      "doseMaxima": "4 g/dia",
+      "doseMinima": "2 g/dia",
+      "classificacao": "Quinolona de primeira geração",
+      "apresentacao": "Comprimidos de 500 mg",
+      "interacaoMedicamento": "Potencializa toxicidade com anticoagulantes, probenecida, anestésicos e outros quinolônicos",
+      "posologia": "1 g a cada 6 horas por 7 a 14 dias",
+      "armazenamento": "Temperatura ambiente (15–30°C), longe da luz",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Crianças <3 meses, epilepsia, porfiria, gravidez, hipersensibilidade a quinolonas",
+      "cuidadosMedicos": "Monitorar função renal, hepática e sinais neurológicos",
+      "cuidadosFarmaceuticos": "Orientar sobre ingestão hídrica para evitar cristalúria",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade neurológica e adequação à terapia",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nalidixic Acid",
+      "suspension": "Discontinue 48 hours before major surgery or general anesthesia",
+      "risk": "Risk of neurotoxicity, seizures, and interaction with anesthetics that lower seizure threshold",
+      "reintroduction": "Restart only after neurological recovery and medical reassessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nalidixic Acid",
+      "nomeComercial": "NegGram, Nalidix",
+      "mecanismoAcao": "Inhibits bacterial DNA synthesis by interfering with DNA gyrase (type II topoisomerase)",
+      "farmacocinetica": "Rapid oral absorption; peak in 1–2h; hepatic metabolism; urinary excretion",
+      "farmacodinamica": "Bactericidal against gram-negative bacilli, primarily in the lower urinary tract",
+      "indicacoes": "Uncomplicated urinary tract infections caused by E. coli and sensitive Enterobacteriaceae",
+      "reacoesAdversas": "Nausea, dizziness, headache, photosensitivity, crystalluria, rare seizures",
+      "riscoGravidez": "Category C — avoid, especially in first trimester",
+      "riscoLactacao": "Excreted in breast milk; not recommended during lactation",
+      "administracao": "Oral route",
+      "doseMaxima": "4 g/day",
+      "doseMinima": "2 g/day",
+      "classificacao": "First-generation quinolone",
+      "apresentacao": "500 mg tablets",
+      "interacaoMedicamento": "May enhance toxicity of anticoagulants, probenecid, anesthetics, and other quinolones",
+      "posologia": "1 g every 6 hours for 7 to 14 days",
+      "armazenamento": "Store at room temperature (15–30°C), protected from light",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Infants <3 months, epilepsy, porphyria, pregnancy, hypersensitivity to quinolones",
+      "cuidadosMedicos": "Monitor renal and liver function, neurological status",
+      "cuidadosFarmaceuticos": "Advise adequate hydration to prevent crystalluria",
+      "cuidadosEnfermagem": "Observe for signs of neurological toxicity and treatment adherence",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, WHO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido Nalidíxico",
+      "suspension": "Suspender 48 horas antes de cirugía mayor o anestesia general",
+      "risk": "Riesgo de neurotoxicidad, convulsiones e interacción con anestésicos que reducen el umbral convulsivo",
+      "reintroduction": "Reintroducir solo tras recuperación neurológica y reevaluación médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Nalidíxico",
+      "nomeComercial": "NegGram, Nalidix",
+      "mecanismoAcao": "Inhibe la síntesis de ADN bacteriano interfiriendo con la girasa del ADN (topoisomerasa tipo II)",
+      "farmacocinetica": "Buena absorción oral; pico en 1–2 h; metabolizado en hígado; excreción renal",
+      "farmacodinamica": "Bactericida frente a bacilos gramnegativos, especialmente en infecciones urinarias",
+      "indicacoes": "Infecciones urinarias no complicadas por E. coli y enterobacterias sensibles",
+      "reacoesAdversas": "Náuseas, vértigo, cefalea, fotosensibilidad, cristaluria, convulsiones (raras)",
+      "riscoGravidez": "Categoría C — evitar especialmente en el primer trimestre",
+      "riscoLactacao": "Se excreta en leche materna; no recomendado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "4 g/día",
+      "doseMinima": "2 g/día",
+      "classificacao": "Quinolona de primera generación",
+      "apresentacao": "Comprimidos de 500 mg",
+      "interacaoMedicamento": "Potencia efectos de anticoagulantes, probenecid, anestésicos y otras quinolonas",
+      "posologia": "1 g cada 6 horas durante 7–14 días",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de la luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Lactantes <3 meses, epilepsia, porfiria, embarazo, alergia a quinolonas",
+      "cuidadosMedicos": "Monitorear función renal, hepática y neurológica",
+      "cuidadosFarmaceuticos": "Aconsejar buena hidratación para prevenir cristaluria",
+      "cuidadosEnfermagem": "Observar signos de toxicidad neurológica y adherencia al tratamiento",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, ANVISA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "萘啶酸",
+      "suspension": "重大手术或全身麻醉前应停药48小时",
+      "risk": "存在神经毒性、癫痫风险，与降低癫痫阈值的麻醉药有相互作用",
+      "reintroduction": "神经系统恢复正常且经医生评估后方可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "萘啶酸",
+      "nomeComercial": "NegGram",
+      "mecanismoAcao": "通过抑制细菌DNA旋转酶（拓扑异构酶II）阻断DNA合成",
+      "farmacocinetica": "口服吸收迅速，1–2小时达峰；肝脏代谢，经尿排泄",
+      "farmacodinamica": "对革兰阴性杆菌，特别是泌尿系统感染具杀菌作用",
+      "indicacoes": "由大肠杆菌或敏感肠杆菌引起的单纯性尿路感染",
+      "reacoesAdversas": "恶心、头晕、头痛、光敏、尿中结晶、罕见癫痫",
+      "riscoGravidez": "C类 — 不推荐使用，特别是孕早期",
+      "riscoLactacao": "可分泌入乳汁，哺乳期不建议使用",
+      "administracao": "口服",
+      "doseMaxima": "每日4克",
+      "doseMinima": "每日2克",
+      "classificacao": "第一代喹诺酮类抗生素",
+      "apresentacao": "500毫克片剂",
+      "interacaoMedicamento": "可增强抗凝药、丙磺舒、麻醉剂及其他喹诺酮毒性",
+      "posologia": "每6小时1克，疗程7至14天",
+      "armazenamento": "室温（15–30°C）避光保存",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "3个月以下婴儿、癫痫、卟啉症、孕期、对喹诺酮过敏者禁用",
+      "cuidadosMedicos": "监测肾功能、肝功能及神经系统状态",
+      "cuidadosFarmaceuticos": "建议大量饮水以防尿中结晶",
+      "cuidadosEnfermagem": "观察神经毒性迹象及用药依从性",
+      "fontesBibliograficas": "FDA、EMA、Micromedex、WHO"
+    }
+  }
+}

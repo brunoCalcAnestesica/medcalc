@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ferro Aminoácido Quelato",
+      "suspension": "Não requer suspensão para cirurgias eletivas",
+      "risk": "Segura em doses fisiológicas; em megadoses pode causar constipação, náusea ou sobrecarga de ferro",
+      "reintroduction": "Pode ser mantido ou reintroduzido 24h após o procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ferro (como bisglicinato ferroso ou ferro aminoácido quelato)",
+      "nomeComercial": "Ferrochel, Lavitan Ferro, FerroQuel, Ferro B12",
+      "mecanismoAcao": "Participa na síntese de hemoglobina, mioglobina e enzimas mitocondriais; transporte e armazenamento de oxigênio",
+      "farmacocinetica": "Absorção duodenal aumentada na forma quelada (~90%); menor interação com alimentos e menor efeito colateral gastrintestinal",
+      "farmacodinamica": "Reverte anemia ferropriva, melhora oxigenação tecidual, função cognitiva e imune",
+      "indicacoes": "Anemia ferropriva, gestação, lactação, adolescentes, vegetarianos, atletas",
+      "reacoesAdversas": "Constipação, escurecimento das fezes, náusea leve, dor epigástrica",
+      "riscoGravidez": "Categoria A – seguro e recomendado",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral",
+      "doseMaxima": "45 mg/dia de ferro elementar (sem supervisão)",
+      "doseMinima": "8–18 mg/dia (IDR)",
+      "classificacao": "Mineral essencial hematopoiético",
+      "apresentacao": "Cápsulas, comprimidos, líquidos, multivitamínicos",
+      "interacaoMedicamento": "Reduz absorção de zinco, cálcio, magnésio; deve ser administrado isoladamente",
+      "posologia": "30–60 mg/dia de ferro elementar; preferencialmente em jejum ou com vitamina C",
+      "armazenamento": "Local seco e protegido da luz",
+      "preparo": "Estável como bisglicinato ferroso; maior tolerância que sais ferrosos",
+      "solucoesCompatíveis": "Vitamina C, ácido fólico, B12",
+      "contraindicacoes": "Hemocromatose, anemias não ferroprivas, hipersensibilidade ao composto",
+      "cuidadosMedicos": "Monitorar ferritina e saturação de transferrina após 3 meses",
+      "cuidadosFarmaceuticos": "Evitar administração junto com leite, café ou cálcio",
+      "cuidadosEnfermagem": "Observar adesão ao tratamento e sinais de intolerância gastrintestinal",
+      "fontesBibliograficas": "NIH, PubMed, UpToDate, Medscape, Natural Medicines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Chelated Iron (Iron Bisglycinate)",
+      "suspension": "No need to suspend for elective surgeries",
+      "risk": "Safe at nutritional doses; high doses may cause constipation, nausea, iron overload",
+      "reintroduction": "Can be resumed 24h post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Iron (as bisglycinate or amino acid chelate)",
+      "nomeComercial": "Ferrochel, NOW Iron, Solgar Gentle Iron, Albion Iron",
+      "mecanismoAcao": "Cofactor in hemoglobin and myoglobin synthesis, cellular respiration enzymes",
+      "farmacocinetica": "Highly bioavailable (~90%) in chelated form; fewer food interactions; renal excretion minimal",
+      "farmacodinamica": "Corrects iron deficiency anemia, improves oxygen transport, cognition, and immunity",
+      "indicacoes": "Iron deficiency, pregnancy, adolescence, vegetarian diets, athletes",
+      "reacoesAdversas": "Dark stools, mild GI discomfort, nausea, rare constipation",
+      "riscoGravidez": "Category A – safe and recommended",
+      "riscoLactacao": "Safe",
+      "administracao": "Oral",
+      "doseMaxima": "45 mg/day of elemental iron without supervision",
+      "doseMinima": "8–18 mg/day (RDA)",
+      "classificacao": "Essential mineral for hematopoiesis",
+      "apresentacao": "Capsules, tablets, liquid, multivitamins",
+      "interacaoMedicamento": "Interferes with calcium, magnesium, zinc; separate administration",
+      "posologia": "30–60 mg/day elemental iron; best with vitamin C",
+      "armazenamento": "Store in a dry, dark place",
+      "preparo": "Stable as bisglycinate; better tolerated than ferrous sulfate",
+      "solucoesCompatíveis": "Vitamin C, folate, B12",
+      "contraindicacoes": "Hemochromatosis, non-iron-deficiency anemia, allergy",
+      "cuidadosMedicos": "Check ferritin and transferrin saturation after 3 months",
+      "cuidadosFarmaceuticos": "Avoid taking with dairy, calcium, or caffeine",
+      "cuidadosEnfermagem": "Monitor adherence and GI side effects",
+      "fontesBibliograficas": "NIH, Medscape, Natural Medicines, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hierro aminoácido quelado",
+      "suspension": "No requiere suspensión en cirugía habitual",
+      "risk": "Seguro en dosis normales; exceso puede causar molestias digestivas o sobrecarga",
+      "reintroduction": "Puede mantenerse o reintroducirse 24h después de cirugía"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hierro bisglicinato o aminoácido quelado",
+      "nomeComercial": "Ferrochel, Solgar Hierro, Hierro Now, Albion Iron",
+      "mecanismoAcao": "Cofactor en síntesis de hemoglobina, mioglobina y metabolismo celular",
+      "farmacocinetica": "Alta absorción (~90%) en forma quelada; poca interacción con alimentos; excreción renal mínima",
+      "farmacodinamica": "Corrige anemia ferropénica, mejora oxigenación y función inmune",
+      "indicacoes": "Anemia por déficit de hierro, embarazo, dietas vegetarianas, deportistas",
+      "reacoesAdversas": "Heces oscuras, náusea, estreñimiento leve (menos común que con sulfato ferroso)",
+      "riscoGravidez": "Categoría A – recomendado",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral",
+      "doseMaxima": "45 mg/día de hierro elemental (sin control)",
+      "doseMinima": "8–18 mg/día",
+      "classificacao": "Mineral esencial con función hematopoyética",
+      "apresentacao": "Comprimidos, cápsulas, líquidos, multivitamínicos",
+      "interacaoMedicamento": "Interfiere con calcio, zinc y magnesio; separar tomas",
+      "posologia": "30–60 mg/día con vitamina C para mejorar absorción",
+      "armazenamento": "Lugar seco, fresco y sin luz directa",
+      "preparo": "Estable como bisglicinato ferroso",
+      "solucoesCompatíveis": "Vitamina C, B12, ácido fólico",
+      "contraindicacoes": "Hemocromatosis, anemias no ferropénicas, hipersensibilidad",
+      "cuidadosMedicos": "Revaluar ferritina cada 3 meses de uso",
+      "cuidadosFarmaceuticos": "Evitar combinar con lácteos o suplementos de calcio",
+      "cuidadosEnfermagem": "Observar adherencia y efectos gastrointestinales",
+      "fontesBibliograficas": "NIH, PubMed, Medscape, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "螯合铁（铁甘氨酸）",
+      "suspension": "常规手术前无需停用",
+      "risk": "营养剂量安全，高剂量可致恶心、便秘或铁过载",
+      "reintroduction": "术后24小时可继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "铁甘氨酸螯合物（铁AAC）",
+      "nomeComercial": "Ferrochel铁、NOW铁、Solgar温和铁、Albion铁",
+      "mecanismoAcao": "参与血红蛋白和细胞色素合成，促进氧气运输与免疫代谢",
+      "farmacocinetica": "吸收率高（~90%），食物干扰小，经肠道吸收，少量肾排泄",
+      "farmacodinamica": "改善缺铁性贫血，提高携氧能力与认知功能",
+      "indicacoes": "缺铁性贫血、孕期补铁、儿童青少年、素食者",
+      "reacoesAdversas": "大便发黑、轻度胃部不适、恶心、便秘（少见）",
+      "riscoGravidez": "A类 – 建议摄入",
+      "riscoLactacao": "安全",
+      "administracao": "口服",
+      "doseMaxima": "每日铁元素不超过45毫克（无医生指导）",
+      "doseMinima": "每日8–18毫克",
+      "classificacao": "造血功能所需微量元素",
+      "apresentacao": "胶囊、片剂、液体、复合维生素",
+      "interacaoMedicamento": "避免与钙、锌、镁同服影响吸收",
+      "posologia": "每日30–60毫克铁元素，建议空腹或随维C同服",
+      "armazenamento": "避光、干燥保存",
+      "preparo": "以铁甘氨酸形式吸收率最佳",
+      "solucoesCompatíveis": "维生素C、叶酸、B12",
+      "contraindicacoes": "血色病、非缺铁贫血、对铁制剂过敏",
+      "cuidadosMedicos": "3个月后复查铁蛋白与转铁饱和度",
+      "cuidadosFarmaceuticos": "服用时避免与乳制品或钙片同时使用",
+      "cuidadosEnfermagem": "观察消化反应和服药依从性",
+      "fontesBibliograficas": "中国药典、PubMed、NIH、UpToDate、Medscape"
+    }
+  }
+}

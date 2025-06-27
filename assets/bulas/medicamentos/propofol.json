@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Propofol",
+      "suspension": "Não se aplica (uso hospitalar EV); avaliar suspensão de benzodiazepínicos e anticonvulsivantes se em uso crônico",
+      "risk": "Depressão respiratória, hipotensão, bradicardia, dor à injeção, risco de síndrome do propofol em infusão prolongada (PRIS)",
+      "reintroduction": "Reintroduzir conforme necessidade anestésica, com vigilância cardiovascular e suporte ventilatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Propofol",
+      "nomeComercial": "Diprivan, Propovan, Recofol",
+      "mecanismoAcao": "Modulador positivo do GABA-A; promove sedação, hipnose e amnésia com rápida indução e recuperação",
+      "farmacocinetica": "Início: 30s; duração: 3–10min; metabolizado no fígado (CYP2B6); eliminação renal; redistribuição rápida",
+      "farmacodinamica": "Hipnótico intravenoso de curta ação, ideal para indução anestésica, sedação e manutenção em procedimentos ou UTI",
+      "indicacoes": "Indução e manutenção da anestesia, sedação em UTI, procedimentos diagnósticos e cirúrgicos curtos",
+      "reacoesAdversas": "Hipotensão, bradicardia, apneia, mioclonias, dor à injeção, pancreatite (rara), síndrome do propofol (PRIS)",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível com lactação após uso único",
+      "administracao": "Intravenosa (bolo e infusão contínua)",
+      "doseMaxima": "Infusão até 4mg/kg/h em sedação; indução 2,5mg/kg (adulto jovem saudável)",
+      "doseMinima": "Indução: 1–2mg/kg; sedação leve: 0,3–0,5mg/kg",
+      "classificacao": "Hipnótico IV não barbitúrico de ação ultracurta",
+      "apresentacao": "Emulsão oleosa 10mg/mL (frasco 20mL, 50mL, 100mL)",
+      "interacaoMedicamento": "Benzodiazepínicos, opioides, anestésicos voláteis, bloqueadores neuromusculares, álcool",
+      "posologia": "Indução: 1,5–2,5mg/kg IV; manutenção: 4–12mg/kg/h; sedação: 25–100mcg/kg/min",
+      "armazenamento": "Temperatura ambiente, agitar antes do uso, válido por 6h após abertura (em sistema fechado)",
+      "preparo": "Administrar IV lento em veia calibrosa; preferir uso com lidocaína para reduzir dor à injeção",
+      "solucoesCompatíveis": "SF 0,9%; incompatível com SG 5%, sangue total e agentes alcalinos",
+      "contraindicacoes": "Alergia a ovos ou soja (relativa), hipersensibilidade, hipotensão grave não compensada, disfunção mitocondrial",
+      "cuidadosMedicos": "Monitorar ECG, PA, SpO2, FR, sinais de PRIS, acidose metabólica e disfunção hepática/renal em uso prolongado",
+      "cuidadosFarmaceuticos": "Observar validade, emulsão uniforme, controle de tempo de infusão (alto risco microbiológico)",
+      "cuidadosEnfermagem": "Monitorar sedação, ventilação, dor à injeção, sinais vitais, nível de consciência e cor da urina (PRIS)",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate, Miller’s Anesthesia, SBAR"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Propofol",
+      "suspension": "Not applicable (IV anesthetic); discontinue chronic CNS depressants if indicated",
+      "risk": "Respiratory and cardiovascular depression, injection pain, PRIS with prolonged infusion, rare pancreatitis",
+      "reintroduction": "May be reintroduced as needed in anesthesia with close monitoring of vitals and sedation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Propofol",
+      "nomeComercial": "Diprivan, Propoven, Fresenius Propofol",
+      "mecanismoAcao": "GABA-A receptor modulator; induces hypnosis, sedation, and amnesia",
+      "farmacocinetica": "Onset: 30s; duration: 3–10min; hepatic metabolism (CYP2B6); renal excretion",
+      "farmacodinamica": "Short-acting IV anesthetic used for induction, maintenance, and procedural sedation",
+      "indicacoes": "Induction/maintenance of anesthesia, ICU sedation, procedural sedation",
+      "reacoesAdversas": "Hypotension, bradycardia, apnea, injection pain, PRIS, green urine (rare)",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Single-dose use considered safe",
+      "administracao": "IV bolus and continuous infusion",
+      "doseMaxima": "4mg/kg/h (sedation); induction 2.5mg/kg",
+      "doseMinima": "0.3–0.5mg/kg for light sedation",
+      "classificacao": "Ultra-short-acting non-barbiturate hypnotic",
+      "apresentacao": "10mg/mL lipid emulsion (vials: 20mL, 50mL, 100mL)",
+      "interacaoMedicamento": "Opioids, benzodiazepines, volatile anesthetics, alcohol",
+      "posologia": "Induction: 1.5–2.5mg/kg IV; maintenance: 4–12mg/kg/h; sedation: 25–100mcg/kg/min",
+      "armazenamento": "Room temperature, use within 6h after opening",
+      "preparo": "Slow IV via large vein; mix with lidocaine to reduce injection pain",
+      "solucoesCompatíveis": "NS 0.9%; incompatible with D5W, blood, alkaline drugs",
+      "contraindicacoes": "Soy/egg allergy, hypotension, mitochondrial disorders",
+      "cuidadosMedicos": "Monitor ECG, BP, SpO2, PRIS signs (lactic acidosis, rhabdomyolysis)",
+      "cuidadosFarmaceuticos": "Verify emulsion integrity; discard after 6h",
+      "cuidadosEnfermagem": "Monitor sedation, RR, pain, color of urine, vitals",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Propofol",
+      "suspension": "No aplica (anestésico EV); suspender depresores del SNC crónicos si corresponde",
+      "risk": "Depresión respiratoria/cardiaca, dolor a la inyección, PRIS en infusión prolongada",
+      "reintroduction": "Reintroducir en anestesia o procedimientos con monitoreo vital estricto"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Propofol",
+      "nomeComercial": "Diprivan, Propoven, Recofol",
+      "mecanismoAcao": "Modulador GABA-A; hipnosis y sedación de inicio rápido",
+      "farmacocinetica": "Inicio: 30s; duración: 3–10min; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Hipnótico IV de corta duración; usado para inducción, sedación y mantenimiento",
+      "indicacoes": "Inducción anestésica, sedación en UCI y procedimientos cortos",
+      "reacoesAdversas": "Hipotensión, apnea, dolor a la inyección, PRIS, bradicardia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Segura tras dosis única",
+      "administracao": "Bolo e infusión continua IV",
+      "doseMaxima": "4mg/kg/h sedación; inducción 2,5mg/kg",
+      "doseMinima": "0,3–0,5mg/kg sedación leve",
+      "classificacao": "Hipnótico no barbitúrico IV",
+      "apresentacao": "Emulsión 10mg/mL (viales de 20, 50, 100mL)",
+      "interacaoMedicamento": "Opioides, benzodiacepinas, anestésicos, alcohol",
+      "posologia": "Inducción: 1,5–2,5mg/kg IV; sedación: 25–100mcg/kg/min",
+      "armazenamento": "Temperatura ambiente, usar en 6h tras abrir",
+      "preparo": "IV lento; se puede usar lidocaína para reducir dolor",
+      "solucoesCompatíveis": "SF 0,9%; incompatible con SG 5% y soluciones alcalinas",
+      "contraindicacoes": "Alergia a huevo/soja, hipotensión grave, disfunción mitocondrial",
+      "cuidadosMedicos": "Monitorizar ECG, PA, SpO2, signos de PRIS",
+      "cuidadosFarmaceuticos": "Observar emulsión; desechar tras 6h",
+      "cuidadosEnfermagem": "Controlar sedación, FR, color de orina, hipotensión",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "丙泊酚",
+      "suspension": "不适用（静脉麻醉药）；慢性中枢抑制剂使用者术前需评估",
+      "risk": "呼吸抑制、血压下降、注射部位疼痛、PRIS（长期输注）",
+      "reintroduction": "术后或需镇静时可重新使用，需严密监测生命体征"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "丙泊酚",
+      "nomeComercial": "Diprivan, 普泊芬",
+      "mecanismoAcao": "GABA-A受体激动剂，快速诱导镇静和催眠",
+      "farmacocinetica": "起效30秒；持续3–10分钟；肝代谢；肾排泄",
+      "farmacodinamica": "短效IV麻醉药；用于诱导、维持麻醉和ICU镇静",
+      "indicacoes": "麻醉诱导/维持、重症ICU镇静、短程操作",
+      "reacoesAdversas": "低血压、呼吸暂停、注射痛、PRIS、绿色尿",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "单次使用被认为安全",
+      "administracao": "静脉注射/泵输",
+      "doseMaxima": "镇静4mg/kg/h；诱导2.5mg/kg",
+      "doseMinima": "0.3–0.5mg/kg轻度镇静",
+      "classificacao": "非巴比妥类短效静脉催眠药",
+      "apresentacao": "乳剂：10mg/mL（20, 50, 100mL瓶）",
+      "interacaoMedicamento": "苯二氮䓬类、阿片类、吸入麻醉剂、酒精",
+      "posologia": "诱导1.5–2.5mg/kg；维持4–12mg/kg/h；镇静25–100mcg/kg/min",
+      "armazenamento": "室温保存，开封后6小时内用完",
+      "preparo": "使用粗静脉IV推注；可与利多卡因合用减痛",
+      "solucoesCompatíveis": "0.9%氯化钠；不兼容于D5W或碱性溶液",
+      "contraindicacoes": "鸡蛋/大豆过敏、严重低血压、线粒体病",
+      "cuidadosMedicos": "监测心电图、SpO2、PRIS（乳酸酸中毒、肾损伤）",
+      "cuidadosFarmaceuticos": "检查乳化均匀性，6小时内用完",
+      "cuidadosEnfermagem": "观察呼吸、镇静程度、血压、绿色尿、意识状态",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex, UpToDate"
+    }
+  }
+}

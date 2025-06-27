@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fludrocortisona",
+      "suspension": "Manter até o dia da cirurgia em pacientes com insuficiência adrenal",
+      "risk": "Risco de insuficiência adrenal aguda se suspenso abruptamente; pode causar retenção de sódio, hipertensão e hipocalemia",
+      "reintroduction": "Reintroduzir imediatamente no pós-operatório com dose de estresse, ajustando conforme resposta clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fludrocortisona",
+      "nomeComercial": "Florinef",
+      "mecanismoAcao": "Mineralocorticoide sintético que age nos túbulos renais promovendo retenção de sódio e excreção de potássio",
+      "farmacocinetica": "Alta biodisponibilidade oral, meia-vida de 18 a 36 horas, metabolizada no fígado, excreção renal",
+      "farmacodinamica": "Potente efeito mineralocorticoide, com mínima ação glicocorticoide em doses habituais",
+      "indicacoes": "Insuficiência adrenal primária (Doença de Addison), hipotensão ortostática, hiperplasia adrenal congênita",
+      "reacoesAdversas": "Hipertensão, edema, hipocalemia, cefaleia, fraqueza",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Usar com cautela; sem dados definitivos sobre excreção no leite",
+      "administracao": "Via oral",
+      "doseMaxima": "0,2mg/dia",
+      "doseMinima": "0,05mg/dia",
+      "classificacao": "Corticosteroide mineralocorticoide",
+      "apresentacao": "Comprimidos de 0,1mg",
+      "interacaoMedicamento": "Aumenta risco de hipocalemia com diuréticos, pode interferir com anticoagulantes e insulina",
+      "posologia": "0,05 a 0,2mg/dia, conforme resposta clínica e eletrólitos",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecções fúngicas sistêmicas, hipersensibilidade à droga",
+      "cuidadosMedicos": "Monitorar eletrólitos, pressão arterial, sinais de sobrecarga de volume",
+      "cuidadosFarmaceuticos": "Conferir data de validade, orientar sobre horários e retenção hídrica",
+      "cuidadosEnfermagem": "Monitorar PA, edema, balanço hídrico e níveis de potássio",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fludrocortisone",
+      "suspension": "Continue until the day of surgery in patients with adrenal insufficiency",
+      "risk": "Risk of adrenal crisis if discontinued; may cause sodium retention, hypertension, and hypokalemia",
+      "reintroduction": "Reintroduce immediately post-op with stress dosing and titrate as needed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fludrocortisone",
+      "nomeComercial": "Florinef",
+      "mecanismoAcao": "Synthetic mineralocorticoid acting on renal tubules to retain sodium and excrete potassium",
+      "farmacocinetica": "High oral bioavailability, half-life 18–36h, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Potent mineralocorticoid with minimal glucocorticoid activity at typical doses",
+      "indicacoes": "Primary adrenal insufficiency (Addison’s disease), orthostatic hypotension, congenital adrenal hyperplasia",
+      "reacoesAdversas": "Hypertension, edema, hypokalemia, headache, weakness",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use with caution; unknown if excreted in human milk",
+      "administracao": "Oral route",
+      "doseMaxima": "0.2mg/day",
+      "doseMinima": "0.05mg/day",
+      "classificacao": "Mineralocorticoid corticosteroid",
+      "apresentacao": "Tablets 0.1mg",
+      "interacaoMedicamento": "Risk of hypokalemia with diuretics; may interfere with anticoagulants and insulin",
+      "posologia": "0.05 to 0.2mg/day depending on clinical response and labs",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Systemic fungal infections, known hypersensitivity",
+      "cuidadosMedicos": "Monitor electrolytes, BP, volume status",
+      "cuidadosFarmaceuticos": "Check expiration date, counsel on timing and fluid balance",
+      "cuidadosEnfermagem": "Monitor BP, edema, fluid status, and potassium",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fludrocortisona",
+      "suspension": "Mantener hasta el día de la cirugía en pacientes con insuficiencia suprarrenal",
+      "risk": "Riesgo de crisis suprarrenal si se suspende; puede causar retención de sodio, hipertensión e hipopotasemia",
+      "reintroduction": "Reiniciar inmediatamente en el postoperatorio con dosis de estrés y ajustar según necesidad"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fludrocortisona",
+      "nomeComercial": "Florinef",
+      "mecanismoAcao": "Mineralocorticoide sintético que actúa en los túbulos renales promoviendo retención de sodio y excreción de potasio",
+      "farmacocinetica": "Buena biodisponibilidad oral, vida media 18–36h, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Potente efecto mineralocorticoide, con mínima actividad glucocorticoide en dosis terapéuticas",
+      "indicacoes": "Insuficiencia suprarrenal primaria, hipotensión ortostática, hiperplasia suprarrenal congénita",
+      "reacoesAdversas": "Hipertensión, edema, hipopotasemia, cefalea, debilidad",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Precaución; no se conoce si se excreta en la leche",
+      "administracao": "Vía oral",
+      "doseMaxima": "0,2mg/día",
+      "doseMinima": "0,05mg/día",
+      "classificacao": "Corticosteroide mineralocorticoide",
+      "apresentacao": "Comprimidos de 0,1mg",
+      "interacaoMedicamento": "Aumenta riesgo de hipopotasemia con diuréticos; interacción con anticoagulantes e insulina",
+      "posologia": "0,05–0,2mg/día según respuesta clínica",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infecciones fúngicas sistémicas, hipersensibilidad conocida",
+      "cuidadosMedicos": "Monitorear electrolitos, presión arterial y signos de sobrecarga",
+      "cuidadosFarmaceuticos": "Verificar vencimiento, informar sobre horario y retención hídrica",
+      "cuidadosEnfermagem": "Monitorear PA, edema, balance hídrico y potasio",
+      "fontesBibliograficas": "Micromedex, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氟氢可的松",
+      "suspension": "肾上腺功能不全患者应术前持续用药",
+      "risk": "停药可致急性肾上腺危象；可能引起钠潴留、高血压、低钾血症",
+      "reintroduction": "术后立即重新给予应激情况下的剂量，根据反应调整"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氟氢可的松",
+      "nomeComercial": "Florinef",
+      "mecanismoAcao": "合成矿物皮质激素，作用于肾小管促进钠潴留和钾排泄",
+      "farmacocinetica": "口服吸收良好，半衰期18–36小时，经肝代谢，肾排泄",
+      "farmacodinamica": "强效矿物皮质激素作用，常规剂量下糖皮质作用轻微",
+      "indicacoes": "原发性肾上腺皮质功能减退、直立性低血压、先天性肾上腺增生症",
+      "reacoesAdversas": "高血压、水肿、低钾血症、头痛、乏力",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期慎用；尚不明确是否分泌入乳汁",
+      "administracao": "口服",
+      "doseMaxima": "每日0.2毫克",
+      "doseMinima": "每日0.05毫克",
+      "classificacao": "矿物皮质激素类皮质类固醇",
+      "apresentacao": "片剂：0.1毫克",
+      "interacaoMedicamento": "与利尿剂合用增加低钾风险；可能干扰抗凝药和胰岛素作用",
+      "posologia": "每日0.05–0.2毫克，依据反应和电解质调整",
+      "armazenamento": "室温保存，避光",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "系统性真菌感染、对药物过敏",
+      "cuidadosMedicos": "监测电解质、血压、体液状态",
+      "cuidadosFarmaceuticos": "检查有效期，指导按时服用与水分管理",
+      "cuidadosEnfermagem": "监测血压、水肿、电解质与水分平衡",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

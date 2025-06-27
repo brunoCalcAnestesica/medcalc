@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Acetato de Cálcio",
+      "suspension": "Suspender 1 dia antes se uso contínuo e via oral",
+      "risk": "Pode causar hipercalcemia e interferir na função renal; interação com anestésicos e eletrólitos",
+      "reintroduction": "Reintroduzir após normalização da função renal e eletrólitos; avaliar cálcio sérico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetato de cálcio",
+      "nomeComercial": "Calphron, PhosLo",
+      "mecanismoAcao": "Liga-se ao fósforo dietético no trato gastrointestinal formando fosfato de cálcio insolúvel, reduzindo sua absorção",
+      "farmacocinetica": "Ação local no intestino, sem absorção significativa do fármaco intacto; parte do cálcio é absorvida sistemicamente",
+      "farmacodinamica": "Reduz a absorção intestinal de fósforo, útil na hiperfosfatemia de pacientes em diálise",
+      "indicacoes": "Controle da hiperfosfatemia em pacientes com doença renal crônica em diálise",
+      "reacoesAdversas": "Hipercalcemia, constipação, náuseas, vômitos, fraqueza muscular",
+      "riscoGravidez": "Categoria C – usar se os benefícios justificarem os riscos",
+      "riscoLactacao": "Pode ser usado com cautela",
+      "administracao": "Via oral, com as refeições",
+      "doseMaxima": "Até 2668 mg de cálcio elementar/dia (equivalente a 10 g de acetato de cálcio)",
+      "doseMinima": "Estabelecida conforme necessidade de controle de fósforo sérico",
+      "classificacao": "Quelante de fósforo – suplemento de cálcio",
+      "apresentacao": "Comprimidos ou cápsulas de 667 mg; solução oral",
+      "interacaoMedicamento": "Reduz absorção de tetraciclinas, fluoroquinolonas, ferro e levotiroxina",
+      "posologia": "Iniciar com 2 cápsulas 3x/dia com refeições; ajustar conforme fósforo sérico",
+      "armazenamento": "Temperatura ambiente, protegido de umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipercalcemia, hipercalciúria, cálculos renais de cálcio, hipersensibilidade ao cálcio",
+      "cuidadosMedicos": "Monitorar cálcio e fósforo séricos regularmente",
+      "cuidadosFarmaceuticos": "Evitar superdosagem; orientar ingestão com refeições",
+      "cuidadosEnfermagem": "Observar sinais de hipercalcemia, orientar administração com alimentos",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Calcium Acetate",
+      "suspension": "Hold 1 day before surgery if on chronic oral use",
+      "risk": "May cause hypercalcemia; interacts with renal function and electrolytes; affects anesthetic balance",
+      "reintroduction": "Restart once calcium and renal function are normalized"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Calcium Acetate",
+      "nomeComercial": "Calphron, PhosLo",
+      "mecanismoAcao": "Binds dietary phosphate in the GI tract forming insoluble calcium phosphate",
+      "farmacocinetica": "Acts locally in the gut; calcium partially absorbed systemically",
+      "farmacodinamica": "Decreases intestinal phosphate absorption; used in dialysis-related hyperphosphatemia",
+      "indicacoes": "Management of hyperphosphatemia in end-stage renal disease (ESRD)",
+      "reacoesAdversas": "Hypercalcemia, constipation, nausea, vomiting, muscle weakness",
+      "riscoGravidez": "Category C – use only if benefits outweigh risks",
+      "riscoLactacao": "Use with caution",
+      "administracao": "Oral route, with meals",
+      "doseMaxima": "Up to 2668 mg elemental calcium/day (~10 g calcium acetate)",
+      "doseMinima": "Depends on serum phosphate levels",
+      "classificacao": "Phosphate binder – calcium supplement",
+      "apresentacao": "667 mg capsules or tablets; oral solution",
+      "interacaoMedicamento": "Reduces absorption of tetracyclines, fluoroquinolones, iron, and levothyroxine",
+      "posologia": "Start with 2 capsules TID with meals; adjust per serum phosphate",
+      "armazenamento": "Store at room temperature, protect from moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypercalcemia, renal stones, hypersensitivity to calcium",
+      "cuidadosMedicos": "Monitor serum calcium and phosphate regularly",
+      "cuidadosFarmaceuticos": "Prevent overdose; instruct intake with meals",
+      "cuidadosEnfermagem": "Watch for signs of hypercalcemia; ensure intake with meals",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Acetato de Calcio",
+      "suspension": "Suspender 1 día antes si se usa de forma crónica",
+      "risk": "Riesgo de hipercalcemia y alteraciones electrolíticas; puede interferir con anestesia y función renal",
+      "reintroduction": "Reintroducir tras normalización de calcio y función renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetato de calcio",
+      "nomeComercial": "Calphron, PhosLo",
+      "mecanismoAcao": "Se une al fósforo dietético en el tracto gastrointestinal formando fosfato cálcico insoluble",
+      "farmacocinetica": "Acción local en intestino; el calcio se absorbe parcialmente",
+      "farmacodinamica": "Disminuye la absorción intestinal de fósforo; útil en hiperfosfatemia por diálisis",
+      "indicacoes": "Tratamiento de la hiperfosfatemia en enfermedad renal crónica terminal",
+      "reacoesAdversas": "Hipercalcemia, estreñimiento, náuseas, vómitos, debilidad muscular",
+      "riscoGravidez": "Categoría C – usar si el beneficio supera el riesgo",
+      "riscoLactacao": "Usar con precaución",
+      "administracao": "Vía oral, con comidas",
+      "doseMaxima": "Hasta 2668 mg de calcio elemental/día (~10 g de acetato de calcio)",
+      "doseMinima": "Según necesidad de control de fósforo sérico",
+      "classificacao": "Quelante de fósforo – suplemento de calcio",
+      "apresentacao": "Cápsulas o comprimidos de 667 mg; solución oral",
+      "interacaoMedicamento": "Disminuye absorción de tetraciclinas, fluoroquinolonas, hierro y levotiroxina",
+      "posologia": "Iniciar con 2 cápsulas 3 veces/día con comidas; ajustar según fósforo sérico",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipercalcemia, cálculos renales de calcio, hipersensibilidad al calcio",
+      "cuidadosMedicos": "Controlar calcio y fósforo séricos regularmente",
+      "cuidadosFarmaceuticos": "Prevenir sobredosis; instruir ingesta con comidas",
+      "cuidadosEnfermagem": "Observar signos de hipercalcemia; administrar con comidas",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "醋酸钙",
+      "suspension": "如长期服用，术前1天停药",
+      "risk": "可能引起高钙血症，干扰麻醉剂和电解质平衡，影响肾功能",
+      "reintroduction": "术后在钙水平和肾功能恢复后重新开始"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "醋酸钙",
+      "nomeComercial": "Calphron, PhosLo",
+      "mecanismoAcao": "在胃肠道与膳食磷结合，形成不溶性磷酸钙，减少磷吸收",
+      "farmacocinetica": "局部作用于肠道；部分钙被吸收",
+      "farmacodinamica": "用于透析相关高磷血症，减少肠道磷吸收",
+      "indicacoes": "终末期肾病患者的高磷血症管理",
+      "reacoesAdversas": "高钙血症、便秘、恶心、呕吐、肌无力",
+      "riscoGravidez": "C类 – 风险与获益权衡使用",
+      "riscoLactacao": "可谨慎使用",
+      "administracao": "口服，随餐服用",
+      "doseMaxima": "每日钙元素不超过2668毫克（约10克醋酸钙）",
+      "doseMinima": "依血磷水平调整",
+      "classificacao": "磷结合剂 – 钙补充剂",
+      "apresentacao": "667毫克胶囊或片剂；口服液",
+      "interacaoMedicamento": "减少四环素、氟喹诺酮、铁和左旋甲状腺素吸收",
+      "posologia": "初始每次2粒，每日三次，餐时服用，根据血磷调整",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "高钙血症、肾结石、钙过敏",
+      "cuidadosMedicos": "定期监测血钙和血磷",
+      "cuidadosFarmaceuticos": "避免过量，指导随餐服用",
+      "cuidadosEnfermagem": "观察高钙表现，确保随餐服药",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, 中国药典"
+    }
+  }
+}

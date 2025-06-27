@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vitamina B2 (Riboflavina)",
+      "suspension": "Não requer suspensão antes de procedimentos; segura em doses fisiológicas",
+      "risk": "Em altas doses pode causar coloração amarela intensa da urina; efeitos adversos são raros",
+      "reintroduction": "Pode ser mantida ou reintroduzida sem restrições"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Riboflavina (vitamina B2)",
+      "nomeComercial": "Riboflavina, B2 Complex, B-Right, Ribovita, BioB2",
+      "mecanismoAcao": "Coenzima em reações de oxidorredução (FAD/FMN); participa do metabolismo energético e da proteção antioxidante celular",
+      "farmacocinetica": "Absorção intestinal por transporte ativo; limitada em doses > 25 mg; excreção urinária",
+      "farmacodinamica": "Fundamental para produção de energia, integridade das mucosas, metabolismo da homocisteína e função mitocondrial",
+      "indicacoes": "Deficiências nutricionais, estomatite angular, enxaqueca, síndromes mitocondriais, suporte antioxidante e ocular",
+      "reacoesAdversas": "Raras: urina amarela intensa, leve desconforto gastrointestinal, fotossensibilidade (em megadoses)",
+      "riscoGravidez": "Categoria A – segura e recomendada na gestação",
+      "riscoLactacao": "Segura; participa do desenvolvimento neurológico infantil",
+      "administracao": "Uso oral",
+      "doseMaxima": "100 mg/dia em protocolos terapêuticos; sem toxicidade definida",
+      "doseMinima": "1,1 mg/dia (mulheres); 1,3 mg/dia (homens) – IDR",
+      "classificacao": "Vitamina hidrossolúvel – coenzima energética – fator de proteção mitocondrial",
+      "apresentacao": "Comprimidos, cápsulas, multivitamínicos, complexos B",
+      "interacaoMedicamento": "Reduzida por álcool, alguns antidepressivos, metotrexato; pode aumentar com metoclopramida",
+      "posologia": "1,3 a 100 mg/dia conforme indicação; geralmente com alimentos",
+      "armazenamento": "Conservar em local seco, fresco e protegido da luz",
+      "preparo": "Formas ativas (riboflavina-5-fosfato) têm maior biodisponibilidade",
+      "solucoesCompatíveis": "Coenzima Q10, B6, B12, magnésio, ácido fólico",
+      "contraindicacoes": "Hipersensibilidade à riboflavina (raro)",
+      "cuidadosMedicos": "Considerar em enxaqueca crônica, uso prolongado de anticoncepcionais e idosos",
+      "cuidadosFarmaceuticos": "Orientar que a coloração intensa da urina é esperada e benigna",
+      "cuidadosEnfermagem": "Observar melhora de sintomas orais, mucocutâneos ou neuromusculares",
+      "fontesBibliograficas": "ANVISA, NIH ODS, UpToDate, Medscape, EFSA, Clinical Nutrition"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vitamin B2 (Riboflavin)",
+      "suspension": "No need to suspend before procedures; safe at nutritional doses",
+      "risk": "High doses may cause bright yellow urine; adverse effects are rare",
+      "reintroduction": "Can be continued or reintroduced without restriction"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Riboflavin (Vitamin B2)",
+      "nomeComercial": "Riboflavin, B-Right, Ribovita, B2 Complex, BioB2",
+      "mecanismoAcao": "Coenzyme in redox reactions (FAD/FMN); supports mitochondrial energy metabolism and cellular antioxidant protection",
+      "farmacocinetica": "Active intestinal transport; absorption plateaus above 25 mg; excreted in urine",
+      "farmacodinamica": "Essential for energy production, mucosal integrity, homocysteine metabolism, and mitochondrial function",
+      "indicacoes": "Nutritional deficiency, angular stomatitis, migraine prevention, mitochondrial disorders, antioxidant and ocular support",
+      "reacoesAdversas": "Rare: bright yellow urine, mild GI upset, photosensitivity (in megadoses)",
+      "riscoGravidez": "Category A – safe and recommended during pregnancy",
+      "riscoLactacao": "Safe; supports neurological development in infants",
+      "administracao": "Oral",
+      "doseMaxima": "Up to 100 mg/day in therapeutic use; no defined toxicity",
+      "doseMinima": "1.1 mg/day (women), 1.3 mg/day (men) – RDA",
+      "classificacao": "Water-soluble vitamin – metabolic coenzyme – mitochondrial protector",
+      "apresentacao": "Capsules, tablets, multivitamins, B-complex formulas",
+      "interacaoMedicamento": "Decreased by alcohol, some antidepressants, methotrexate; increased by metoclopramide",
+      "posologia": "1.3 to 100 mg/day, ideally with meals",
+      "armazenamento": "Store in a cool, dry place away from light",
+      "preparo": "Active forms (riboflavin-5-phosphate) offer higher bioavailability",
+      "solucoesCompatíveis": "CoQ10, B6, B12, magnesium, folate",
+      "contraindicacoes": "Rare hypersensitivity to riboflavin",
+      "cuidadosMedicos": "Consider for chronic migraines, prolonged OCP use, and elderly",
+      "cuidadosFarmaceuticos": "Advise that bright urine color is expected and harmless",
+      "cuidadosEnfermagem": "Monitor for improvements in oral, skin, or neurological symptoms",
+      "fontesBibliograficas": "NIH ODS, UpToDate, Medscape, EFSA, Clinical Nutrition"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vitamina B2 (Riboflavina)",
+      "suspension": "No requiere suspensión previa; segura en dosis fisiológicas",
+      "risk": "Dosis altas pueden causar orina amarilla intensa; efectos adversos son raros",
+      "reintroduction": "Puede mantenerse o reintroducirse sin restricciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Riboflavina (vitamina B2)",
+      "nomeComercial": "Riboflavina, BioB2, B2 Complex, B-Right, Ribovita",
+      "mecanismoAcao": "Coenzima en reacciones redox (FAD/FMN); interviene en metabolismo energético y defensa antioxidante",
+      "farmacocinetica": "Absorción activa; saturación por encima de 25 mg; excreción urinaria",
+      "farmacodinamica": "Esencial para producción de energía, integridad de mucosas, metabolismo de homocisteína y función mitocondrial",
+      "indicacoes": "Deficiencia nutricional, estomatitis angular, migraña, trastornos mitocondriales, soporte antioxidante",
+      "reacoesAdversas": "Raras: orina amarilla, malestar gastrointestinal leve, fotosensibilidad (megadosis)",
+      "riscoGravidez": "Categoría A – segura y recomendada en embarazo",
+      "riscoLactacao": "Segura; promueve desarrollo neurológico en lactantes",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/día; sin toxicidad definida",
+      "doseMinima": "1.1 mg/día (mujeres), 1.3 mg/día (hombres)",
+      "classificacao": "Vitamina hidrosoluble – coenzima metabólica – protectora mitocondrial",
+      "apresentacao": "Cápsulas, comprimidos, multivitamínicos, complejo B",
+      "interacaoMedicamento": "Disminuida por alcohol, antidepresivos, metotrexato; aumentada por metoclopramida",
+      "posologia": "1.3 a 100 mg/día con comidas",
+      "armazenamento": "Lugar fresco, seco, sin luz directa",
+      "preparo": "Riboflavina-5-fosfato tiene mayor biodisponibilidad",
+      "solucoesCompatíveis": "B6, B12, magnesio, ácido fólico, CoQ10",
+      "contraindicacoes": "Hipersensibilidad a riboflavina (raro)",
+      "cuidadosMedicos": "Considerar en migraña crónica, anticonceptivos y edad avanzada",
+      "cuidadosFarmaceuticos": "Avisar sobre orina amarilla intensa como efecto benigno",
+      "cuidadosEnfermagem": "Observar síntomas orales, cutáneos o neurológicos",
+      "fontesBibliograficas": "AEMPS, EFSA, Medscape, UpToDate, Clinical Nutrition"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "维生素B2（核黄素）",
+      "suspension": "无需术前停药；营养剂量下使用安全",
+      "risk": "大剂量可导致尿液颜色变黄；不良反应极少见",
+      "reintroduction": "可继续使用或根据临床耐受性重新服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "核黄素（维生素B2）",
+      "nomeComercial": "核黄素片、B2复合片、BioB2、Riboflavin、B-Right",
+      "mecanismoAcao": "作为FAD/FMN参与氧化还原反应，是线粒体能量代谢与抗氧化反应的辅酶",
+      "farmacocinetica": "小肠主动吸收；25毫克以上饱和；尿液排出",
+      "farmacodinamica": "支持能量合成、口腔与黏膜健康、抗氧化、防止神经退化",
+      "indicacoes": "营养缺乏、口角炎、偏头痛、线粒体疾病、抗氧化支持",
+      "reacoesAdversas": "极少：黄尿、轻度恶心或胃肠不适、大剂量时光敏反应",
+      "riscoGravidez": "A类 – 妊娠期使用安全并推荐",
+      "riscoLactacao": "安全；母乳中天然存在，支持婴儿神经发育",
+      "administracao": "口服",
+      "doseMaxima": "每日最多100毫克，未见毒性",
+      "doseMinima": "女性1.1毫克/天，男性1.3毫克/天（RDA）",
+      "classificacao": "水溶性维生素 – 能量代谢辅酶 – 线粒体保护剂",
+      "apresentacao": "胶囊、片剂、多维片、B族复合片",
+      "interacaoMedicamento": "酒精、甲氨蝶呤、某些抗抑郁药降低吸收；胃动力药如胃复安可增加吸收",
+      "posologia": "每日1.3–100毫克，随餐服用更佳",
+      "armazenamento": "干燥避光保存",
+      "preparo": "5'-磷酸核黄素生物利用率更高",
+      "solucoesCompatíveis": "辅酶Q10、维生素B6、B12、叶酸、镁",
+      "contraindicacoes": "极罕见核黄素过敏",
+      "cuidadosMedicos": "偏头痛、长期口服避孕药或老年人应考虑补充",
+      "cuidadosFarmaceuticos": "说明黄色尿液为正常现象，无害",
+      "cuidadosEnfermagem": "观察口腔、皮肤、神经系统症状改善情况",
+      "fontesBibliograficas": "中国营养学会、NIH、Medscape、UpToDate、EFSA"
+    }
+  }
+}

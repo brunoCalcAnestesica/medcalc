@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lormetazepam",
+      "suspension": "Suspender 24h antes da cirurgia eletiva em pacientes sem uso crônico; em uso contínuo, considerar manutenção para evitar abstinência",
+      "risk": "Risco de sedação excessiva, depressão respiratória, interação com anestésicos e opioides",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e retorno da via oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lormetazepam",
+      "nomeComercial": "Loramet, Noctibel",
+      "mecanismoAcao": "Benzodiazepínico que potencializa o efeito do GABA nos receptores GABA-A",
+      "farmacocinetica": "Oral; início 30–60min; meia-vida 8–12h; metabolismo hepático",
+      "farmacodinamica": "Hipnótico com propriedades sedativas, ansiolíticas e relaxantes musculares",
+      "indicacoes": "Insônia de curta duração, distúrbios do sono",
+      "reacoesAdversas": "Sedação diurna, confusão, tontura, tolerância, dependência, amnésia",
+      "riscoGravidez": "Categoria D – risco fetal; uso restrito",
+      "riscoLactacao": "Excretado no leite; não recomendado",
+      "administracao": "Oral (comprimido ou solução)",
+      "doseMaxima": "2mg/dia",
+      "doseMinima": "0,5mg/dia",
+      "classificacao": "Benzodiazepínico hipnótico",
+      "apresentacao": "Comprimidos 1mg, 2mg; solução oral 1mg/mL",
+      "interacaoMedicamento": "Potencializa efeitos de opioides, álcool, antipsicóticos e outros depressores do SNC",
+      "posologia": "1–2mg à noite antes de dormir",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Uso direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Miastenia gravis, apneia do sono grave, insuficiência respiratória severa, hipersensibilidade",
+      "cuidadosMedicos": "Evitar em idosos com risco de quedas, avaliar risco de dependência",
+      "cuidadosFarmaceuticos": "Orientar sobre suspensão gradual e interações",
+      "cuidadosEnfermagem": "Observar sedação, confusão, sinais de abstinência ou respiração lenta",
+      "fontesBibliograficas": "ANVISA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lormetazepam",
+      "suspension": "Discontinue 24h before elective surgery in non-chronic users; maintain if chronic to prevent withdrawal",
+      "risk": "Risk of excessive sedation, respiratory depression, interaction with anesthetics and opioids",
+      "reintroduction": "Restart after hemodynamic stabilization and return to oral intake"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lormetazepam",
+      "nomeComercial": "Noctamid (Europe); not approved in the US",
+      "mecanismoAcao": "Benzodiazepine that enhances GABA activity at GABA-A receptors",
+      "farmacocinetica": "Oral; onset 30–60min; half-life 8–12h; hepatic metabolism",
+      "farmacodinamica": "Hypnotic with sedative, anxiolytic, and muscle relaxant effects",
+      "indicacoes": "Short-term treatment of insomnia",
+      "reacoesAdversas": "Daytime drowsiness, confusion, dizziness, tolerance, dependence, amnesia",
+      "riscoGravidez": "Category D – fetal risk",
+      "riscoLactacao": "Present in breast milk; not recommended",
+      "administracao": "Oral (tablet or solution)",
+      "doseMaxima": "2mg/day",
+      "doseMinima": "0.5mg/day",
+      "classificacao": "Hypnotic benzodiazepine",
+      "apresentacao": "Tablets 1mg, 2mg; oral solution 1mg/mL",
+      "interacaoMedicamento": "Enhances CNS depression with opioids, alcohol, antipsychotics",
+      "posologia": "1–2mg at bedtime",
+      "armazenamento": "Room temperature",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Myasthenia gravis, severe sleep apnea, respiratory insufficiency, hypersensitivity",
+      "cuidadosMedicos": "Use caution in elderly; assess dependence risk",
+      "cuidadosFarmaceuticos": "Counsel on tapering and interaction risks",
+      "cuidadosEnfermagem": "Monitor for sedation, confusion, withdrawal, slow breathing",
+      "fontesBibliograficas": "EMA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lormetazepam",
+      "suspension": "Suspender 24h antes de cirugía si no es usuario crónico; mantener si hay riesgo de abstinencia",
+      "risk": "Riesgo de sedación excesiva, depresión respiratoria, interacción con anestesia y opioides",
+      "reintroduction": "Reiniciar tras estabilización y vía oral reestablecida"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lormetazepam",
+      "nomeComercial": "Noctamid, Loramet",
+      "mecanismoAcao": "Benzodiacepina que potencia acción del GABA en receptores GABA-A",
+      "farmacocinetica": "Oral; inicio 30–60min; vida media 8–12h; metabolismo hepático",
+      "farmacodinamica": "Hipnótico con efecto sedante, ansiolítico y relajante muscular",
+      "indicacoes": "Insomnio ocasional o de corta duración",
+      "reacoesAdversas": "Somnolencia diurna, confusión, mareos, tolerancia, dependencia, amnesia",
+      "riscoGravidez": "Categoría D – riesgo fetal",
+      "riscoLactacao": "Se excreta en leche materna; evitar",
+      "administracao": "Oral (comprimidos o solución)",
+      "doseMaxima": "2mg/día",
+      "doseMinima": "0,5mg/día",
+      "classificacao": "Benzodiacepina hipnótica",
+      "apresentacao": "Comprimidos 1mg, 2mg; solución oral 1mg/mL",
+      "interacaoMedicamento": "Potencia efectos sedantes con alcohol, opioides, antipsicóticos",
+      "posologia": "1–2mg antes de dormir",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Lista para uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Miastenia gravis, apnea severa del sueño, insuficiencia respiratoria, alergia",
+      "cuidadosMedicos": "Evitar en ancianos; controlar riesgo de dependencia",
+      "cuidadosFarmaceuticos": "Educar sobre suspensión progresiva y riesgos de interacción",
+      "cuidadosEnfermagem": "Observar sedación, confusión, abstinencia, respiración lenta",
+      "fontesBibliograficas": "EMA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "劳美他平（Lormetazepam）",
+      "suspension": "术前24小时停用（非长期使用者）；若为慢性使用，考虑继续以防戒断反应",
+      "risk": "可能导致过度镇静、呼吸抑制、与麻醉药或阿片类药物联用时风险加重",
+      "reintroduction": "术后稳定后可恢复服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "劳美他平",
+      "nomeComercial": "Noctamid（在中国尚未广泛注册）",
+      "mecanismoAcao": "苯二氮䓬类药物，增强GABA在GABA-A受体的抑制作用",
+      "farmacocinetica": "口服吸收好；起效30–60分钟；半衰期8–12小时；肝代谢",
+      "farmacodinamica": "具有镇静、催眠、抗焦虑及肌肉松弛作用",
+      "indicacoes": "短期治疗失眠症",
+      "reacoesAdversas": "白天嗜睡、意识混乱、头晕、耐药、成瘾、顺行性遗忘",
+      "riscoGravidez": "D类 – 有胎儿风险，慎用",
+      "riscoLactacao": "可排入乳汁，避免使用",
+      "administracao": "口服（片剂或口服液）",
+      "doseMaxima": "每日2mg",
+      "doseMinima": "每日0.5mg",
+      "classificacao": "苯二氮䓬类安眠药",
+      "apresentacao": "片剂1mg、2mg；口服液1mg/mL",
+      "interacaoMedicamento": "与中枢抑制药（如阿片、酒精、抗精神病药）有协同镇静作用",
+      "posologia": "每日1–2mg，睡前服用",
+      "armazenamento": "常温保存",
+      "preparo": "直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重症肌无力、严重睡眠呼吸暂停、严重呼吸功能不全、过敏",
+      "cuidadosMedicos": "老年人慎用，评估依赖风险",
+      "cuidadosFarmaceuticos": "指导逐渐减药，避免合并镇静药物使用",
+      "cuidadosEnfermagem": "观察过度镇静、意识障碍或戒断反应",
+      "fontesBibliograficas": "中国药典、EMA、Micromedex"
+    }
+  }
+}

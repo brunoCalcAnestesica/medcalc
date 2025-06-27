@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Molnupiravir",
+      "suspension": "Não suspender; uso oral sem impacto perioperatório imediato",
+      "risk": "Teratogênico em modelos animais; evitar em gestantes; interações são mínimas",
+      "reintroduction": "Reintroduzir apenas com nova indicação clínica; completar o ciclo de 5 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Molnupiravir",
+      "nomeComercial": "Lagevrio",
+      "mecanismoAcao": "Análogo de nucleosídeo que induz mutações letais no RNA viral do SARS-CoV-2, inibindo sua replicação",
+      "farmacocinetica": "Via oral; pró-fármaco convertido em NHC (β-D-N4-hidroxi citidina); meia-vida ~3,3 h; excreção urinária e fecal",
+      "farmacodinamica": "Efeito antiviral em fase inicial da infecção, reduzindo progressão para formas graves",
+      "indicacoes": "COVID-19 leve a moderado em adultos com risco elevado de hospitalização (início <5 dias)",
+      "reacoesAdversas": "Náusea, diarreia, tontura, erupção cutânea, aumento discreto de transaminases",
+      "riscoGravidez": "Categoria X (contraindicado); evitar gravidez durante e por 4 dias após o uso",
+      "riscoLactacao": "Desconhecido; interromper amamentação durante e 4 dias após",
+      "administracao": "Via oral com ou sem alimentos",
+      "doseMaxima": "800 mg (4 cápsulas de 200 mg) a cada 12 horas por 5 dias",
+      "doseMinima": "800 mg 2x/dia",
+      "classificacao": "Antiviral oral mutagênico para RNA viral",
+      "apresentacao": "Cápsulas 200 mg em blisters de 40 cápsulas (tratamento de 5 dias)",
+      "interacaoMedicamento": "Não possui interações medicamentosas significativas conhecidas",
+      "posologia": "800 mg VO 2x/dia por 5 dias (total 40 cápsulas)",
+      "armazenamento": "Temperatura ambiente (15–25°C), proteger da umidade",
+      "preparo": "Não partir ou abrir cápsulas",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, menores de 18 anos, hipersensibilidade conhecida",
+      "cuidadosMedicos": "Confirmar ausência de gravidez; orientar contracepção",
+      "cuidadosFarmaceuticos": "Garantir dose completa e adesão ao regime de 5 dias",
+      "cuidadosEnfermagem": "Monitorar efeitos gastrointestinais e orientar sobre risco reprodutivo",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, WHO"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Molnupiravir",
+      "suspension": "Do not suspend; oral administration, no perioperative concern",
+      "risk": "Contraindicated in pregnancy; potential embryo-fetal toxicity; minimal interactions",
+      "reintroduction": "Not reused unless new infection; full 5-day course required"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Molnupiravir",
+      "nomeComercial": "Lagevrio",
+      "mecanismoAcao": "Nucleoside analog inducing lethal mutagenesis in SARS-CoV-2 RNA",
+      "farmacocinetica": "Oral; prodrug of NHC; t1/2 ~3.3h; excreted via urine and feces",
+      "farmacodinamica": "Inhibits viral replication during early infection phase",
+      "indicacoes": "Mild-to-moderate COVID-19 in adults at high risk of severe disease (≤5 days from symptom onset)",
+      "reacoesAdversas": "Nausea, diarrhea, dizziness, rash, transient liver enzyme elevations",
+      "riscoGravidez": "Category X; contraindicated in pregnancy; contraception required",
+      "riscoLactacao": "Unknown; breastfeeding not recommended during and 4 days after",
+      "administracao": "Oral, with or without food",
+      "doseMaxima": "800 mg every 12 hours x 5 days",
+      "doseMinima": "800 mg twice daily",
+      "classificacao": "Oral mutagenic antiviral",
+      "apresentacao": "200 mg capsules in 5-day treatment blister (40 capsules total)",
+      "interacaoMedicamento": "No clinically significant interactions known",
+      "posologia": "800 mg PO BID for 5 days (4 capsules per dose)",
+      "armazenamento": "Store at 59–77°F; protect from moisture",
+      "preparo": "Do not open or crush capsules",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, under 18 years, hypersensitivity",
+      "cuidadosMedicos": "Exclude pregnancy before starting; use contraception",
+      "cuidadosFarmaceuticos": "Ensure compliance and full 5-day course",
+      "cuidadosEnfermagem": "Educate about GI effects and reproductive risks",
+      "fontesBibliograficas": "FDA, Micromedex, NIH, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Molnupiravir",
+      "suspension": "No requiere suspensión; sin impacto perioperatorio",
+      "risk": "Mutagénico y teratogénico; contraindicado en embarazo; pocas interacciones",
+      "reintroduction": "No reutilizar; completar tratamiento de 5 días"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Molnupiravir",
+      "nomeComercial": "Lagevrio",
+      "mecanismoAcao": "Análogo nucleósido que genera mutaciones letales en el ARN viral del SARS-CoV-2",
+      "farmacocinetica": "Oral; profármaco convertido en NHC; t1/2 ~3,3h; eliminación renal y fecal",
+      "farmacodinamica": "Inhibe replicación viral en fase inicial",
+      "indicacoes": "COVID-19 leve/moderado en adultos con riesgo (inicio <5 días)",
+      "reacoesAdversas": "Náuseas, diarrea, mareos, erupción, elevación de transaminasas",
+      "riscoGravidez": "Categoría X; contraindicado",
+      "riscoLactacao": "Desconocido; evitar durante y 4 días tras uso",
+      "administracao": "Vía oral, con o sin alimentos",
+      "doseMaxima": "800 mg cada 12 h durante 5 días",
+      "doseMinima": "800 mg 2 veces/día",
+      "classificacao": "Antiviral oral mutagénico",
+      "apresentacao": "Cápsulas de 200 mg (blíster de 40 cápsulas)",
+      "interacaoMedicamento": "Sin interacciones relevantes",
+      "posologia": "4 cápsulas cada 12 h por 5 días",
+      "armazenamento": "15–25°C; proteger de humedad",
+      "preparo": "No triturar ni abrir cápsulas",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, menores de 18 años",
+      "cuidadosMedicos": "Confirmar no embarazo; anticoncepción efectiva",
+      "cuidadosFarmaceuticos": "Asegurar adherencia completa 5 días",
+      "cuidadosEnfermagem": "Educar sobre riesgos reproductivos y efectos GI",
+      "fontesBibliograficas": "FDA, EMA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "莫努匹韦",
+      "suspension": "无需停药；口服不影响手术期",
+      "risk": "对胎儿有潜在毒性；孕妇禁用；药物相互作用较少",
+      "reintroduction": "不可重复使用，需完整服用5天疗程"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "莫努匹韦",
+      "nomeComercial": "Lagevrio",
+      "mecanismoAcao": "核苷类似物，诱导病毒RNA发生致死性突变",
+      "farmacocinetica": "口服吸收；为前药，在体内转为活性NHC；t1/2约3.3小时",
+      "farmacodinamica": "抑制新冠病毒复制，适用于感染早期",
+      "indicacoes": "轻中度COVID-19成人高风险患者（症状≤5天）",
+      "reacoesAdversas": "恶心、腹泻、头晕、皮疹、肝酶升高",
+      "riscoGravidez": "X类，禁用于孕妇；避孕至停药后4天",
+      "riscoLactacao": "分泌情况不明；应暂停哺乳",
+      "administracao": "口服；可与食物同服",
+      "doseMaxima": "每12小时800 mg，疗程5天",
+      "doseMinima": "每日1600 mg分两次",
+      "classificacao": "诱变型抗病毒药物",
+      "apresentacao": "200 mg胶囊，共40粒/疗程",
+      "interacaoMedicamento": "无明显相互作用",
+      "posologia": "每次4粒，每天2次，连服5天",
+      "armazenamento": "室温15–25°C，防潮",
+      "preparo": "不可碾碎或打开胶囊",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "孕妇、18岁以下青少年",
+      "cuidadosMedicos": "用药前排除怀孕，确保避孕",
+      "cuidadosFarmaceuticos": "加强依从性教育，完成5天治疗",
+      "cuidadosEnfermagem": "强调服药时间及生殖健康风险",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，WHO"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Emtricitabina",
+      "suspension": "Suspender 1 dia antes de cirurgias com anestesia geral apenas em pacientes com função hepática comprometida",
+      "risk": "Risco baixo; pode interagir com outros antirretrovirais ou anestésicos hepatoeliminados",
+      "reintroduction": "Reintroduzir após retomada da via oral e estabilidade hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Emtricitabina",
+      "nomeComercial": "Emtriva, Truvada (em combinação)",
+      "mecanismoAcao": "Inibidor nucleosídeo da transcriptase reversa (NRTI), análogo da citidina",
+      "farmacocinetica": "Biodisponibilidade oral 93%, meia-vida 10 h, excreção renal inalterada",
+      "farmacodinamica": "Incorpora-se ao DNA viral, promovendo término da cadeia de RNA reverso",
+      "indicacoes": "Infecção por HIV-1, prevenção (PrEP) e tratamento combinado",
+      "reacoesAdversas": "Hiperpigmentação palmar, cefaleia, náusea, rash, acidose láctica (raro)",
+      "riscoGravidez": "Categoria B – geralmente seguro",
+      "riscoLactacao": "Contraindicado – risco de transmissão viral e toxicidade",
+      "administracao": "Oral, com ou sem alimentos",
+      "doseMaxima": "200 mg/dia (adultos)",
+      "doseMinima": "120 mg/dia (ajustada em insuficiência renal)",
+      "classificacao": "Antirretroviral (NRTI)",
+      "apresentacao": "Cápsulas de 200 mg; solução oral 10 mg/mL",
+      "interacaoMedicamento": "Potencial com tenofovir, lamivudina, estavudina (sinérgicos ou antagonistas)",
+      "posologia": "200 mg 1x/dia ou conforme combinação em terapia antirretroviral",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Solução oral deve ser agitada antes do uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, monoterapia para HIV",
+      "cuidadosMedicos": "Monitorar função renal, hepática e carga viral",
+      "cuidadosFarmaceuticos": "Atenção à adesão e interações com outros antirretrovirais",
+      "cuidadosEnfermagem": "Observar eventos adversos cutâneos e GI",
+      "fontesBibliograficas": "FDA, ANVISA, WHO, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Emtricitabine",
+      "suspension": "Hold 1 day before elective surgery if hepatic compromise or polytherapy is present",
+      "risk": "Low risk; consider interactions with hepatic anesthetics and ART drugs",
+      "reintroduction": "Resume after oral intake and hepatic stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Emtricitabine",
+      "nomeComercial": "Emtriva, Truvada (combo), Descovy",
+      "mecanismoAcao": "Cytidine analog; nucleoside reverse transcriptase inhibitor (NRTI)",
+      "farmacocinetica": "Bioavailability 93%, half-life 10 h, renal clearance unchanged",
+      "farmacodinamica": "Inhibits HIV reverse transcriptase, causing chain termination",
+      "indicacoes": "HIV-1 treatment and PrEP (pre-exposure prophylaxis)",
+      "reacoesAdversas": "Headache, hyperpigmentation, nausea, diarrhea, lactic acidosis (rare)",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "Oral, with or without food",
+      "doseMaxima": "200 mg/day",
+      "doseMinima": "120 mg/day (renal adjusted)",
+      "classificacao": "Nucleoside reverse transcriptase inhibitor (NRTI)",
+      "apresentacao": "Capsules 200 mg; oral solution 10 mg/mL",
+      "interacaoMedicamento": "Interacts with lamivudine, tenofovir, didanosine",
+      "posologia": "200 mg once daily; per ART protocol",
+      "armazenamento": "15–30°C, protect from moisture",
+      "preparo": "Shake solution well before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, HIV monotherapy",
+      "cuidadosMedicos": "Monitor viral load, CD4 count, renal/liver function",
+      "cuidadosFarmaceuticos": "Emphasize adherence and correct coadministration",
+      "cuidadosEnfermagem": "Report pigmentation changes, GI complaints",
+      "fontesBibliograficas": "FDA, UpToDate, Lexicomp, WHO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Emtricitabina",
+      "suspension": "Suspender 1 día antes de cirugía si se usa en combinación con otros antirretrovirales o hepatotóxicos",
+      "risk": "Riesgo bajo; atención si hay disfunción hepática o renal",
+      "reintroduction": "Reintroducir tras tolerancia oral y función hepática estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Emtricitabina",
+      "nomeComercial": "Emtriva, Truvada, Descovy",
+      "mecanismoAcao": "Inhibidor nucleósido de la transcriptasa inversa (análogo de citidina)",
+      "farmacocinetica": "Biodisponibilidad 93%, T½ 10 h, eliminación renal sin cambios",
+      "farmacodinamica": "Bloquea la síntesis de ADN viral e inhibe la replicación",
+      "indicacoes": "Tratamiento del VIH-1 y profilaxis previa (PrEP)",
+      "reacoesAdversas": "Cefalea, náusea, hiperpigmentación, diarrea",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar en lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "200 mg/día",
+      "doseMinima": "120 mg/día (ajustada)",
+      "classificacao": "Antirretroviral (ITIN)",
+      "apresentacao": "Cápsulas de 200 mg; solución 10 mg/mL",
+      "interacaoMedicamento": "Lamivudina, tenofovir, didanosina",
+      "posologia": "200 mg una vez al día",
+      "armazenamento": "15–30°C, seco y protegido",
+      "preparo": "Agitar solución antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, monoterapia",
+      "cuidadosMedicos": "Monitorear función renal/hepática, carga viral",
+      "cuidadosFarmaceuticos": "Adherencia y revisión de combinaciones",
+      "cuidadosEnfermagem": "Control de efectos adversos gastrointestinales",
+      "fontesBibliograficas": "FDA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "恩曲他滨",
+      "suspension": "术前1天停药，仅限肝功能不全或多药联用者",
+      "risk": "风险低，但需注意肝药酶或肾排泄药物的协同作用",
+      "reintroduction": "术后恢复口服和肝功能正常后可恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "恩曲他滨",
+      "nomeComercial": "艾曲伟、Truvada（联合）",
+      "mecanismoAcao": "细胞核苷酸逆转录酶抑制剂（NRTI），为胞苷类似物",
+      "farmacocinetica": "口服生物利用度高（93%），半衰期10小时，肾脏排泄",
+      "farmacodinamica": "抑制HIV逆转录酶，终止病毒DNA链延伸",
+      "indicacoes": "HIV治疗与PrEP预防",
+      "reacoesAdversas": "色素沉着、头痛、恶心、轻度腹泻",
+      "riscoGravidez": "B类 – 安全性较高",
+      "riscoLactacao": "禁用 – 可能分泌入乳",
+      "administracao": "口服，餐前餐后皆可",
+      "doseMaxima": "每日200毫克",
+      "doseMinima": "每日120毫克（肾功能受损调整）",
+      "classificacao": "核苷酸类逆转录酶抑制剂（NRTI）",
+      "apresentacao": "胶囊200毫克；口服液10 mg/mL",
+      "interacaoMedicamento": "与拉米夫定、替诺福韦、司他夫定可能相互作用",
+      "posologia": "每日200毫克1次，依治疗方案",
+      "armazenamento": "15–30°C，避光干燥处",
+      "preparo": "液体使用前需摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对药物过敏，禁止单药使用",
+      "cuidadosMedicos": "监测肝肾功能、病毒载量、CD4计数",
+      "cuidadosFarmaceuticos": "强调依从性，避免漏服",
+      "cuidadosEnfermagem": "观察皮肤变化与消化不良",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

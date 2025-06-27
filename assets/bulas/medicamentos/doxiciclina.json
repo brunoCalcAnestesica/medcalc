@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Doxiciclina",
+      "suspension": "Suspender 24 a 48h antes, se possível",
+      "risk": "Risco de interação com anestésicos e relaxantes musculares; potencial fotossensibilidade e esofagite",
+      "reintroduction": "Reintroduzir após estabilização gástrica e recuperação do trânsito oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Doxiciclina",
+      "nomeComercial": "Doxium, Vibramicina, Tetradox, Doxiciclina Genérico",
+      "mecanismoAcao": "Inibe a síntese proteica bacteriana ligando-se à subunidade 30S ribossomal",
+      "farmacocinetica": "Boa absorção oral, ampla distribuição, excreção biliar e renal",
+      "farmacodinamica": "Bacteriostática de amplo espectro",
+      "indicacoes": "Infecções respiratórias, acne, clamídia, riquétsias, leptospirose, malária",
+      "reacoesAdversas": "Náusea, esofagite, diarreia, fotossensibilidade, alteração da coloração dentária",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicada durante lactação",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "200 mg/dia",
+      "doseMinima": "100 mg/dose",
+      "classificacao": "Antibiótico da classe das tetraciclinas",
+      "apresentacao": "Comprimidos, cápsulas, solução injetável",
+      "interacaoMedicamento": "Interage com antiácidos, ferro, lítio, anticoagulantes",
+      "posologia": "100 mg a cada 12h no primeiro dia, depois 100 mg/dia",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Solução IV deve ser reconstituída e diluída em SF ou SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, Glicose 5%",
+      "contraindicacoes": "Gravidez, lactação, crianças < 8 anos, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar função hepática e digestiva",
+      "cuidadosFarmaceuticos": "Evitar administração com laticínios e sais metálicos",
+      "cuidadosEnfermagem": "Administrar em jejum com bastante água, manter paciente sentado por 30 minutos",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, SBAn, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Doxycycline",
+      "suspension": "Suspend 24–48h before if possible",
+      "risk": "Risk of anesthetic and muscle relaxant interactions; potential esophagitis and photosensitivity",
+      "reintroduction": "Restart after GI recovery and oral tolerance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Doxycycline",
+      "nomeComercial": "Vibramycin, Doryx, Monodox, Generic Doxycycline",
+      "mecanismoAcao": "Inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit",
+      "farmacocinetica": "Well absorbed orally, widely distributed, biliary and renal excretion",
+      "farmacodinamica": "Broad-spectrum bacteriostatic",
+      "indicacoes": "Respiratory infections, acne, chlamydia, rickettsia, leptospirosis, malaria",
+      "reacoesAdversas": "Nausea, esophagitis, diarrhea, photosensitivity, teeth discoloration",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated during lactation",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "200 mg/day",
+      "doseMinima": "100 mg/dose",
+      "classificacao": "Tetracycline class antibiotic",
+      "apresentacao": "Tablets, capsules, injectable solution",
+      "interacaoMedicamento": "Interacts with antacids, iron, lithium, anticoagulants",
+      "posologia": "100 mg every 12h on day 1, then 100 mg daily",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Reconstitute IV and dilute in NS or D5W",
+      "solucoesCompatíveis": "Normal Saline, Dextrose 5%",
+      "contraindicacoes": "Pregnancy, lactation, children < 8 years, severe liver failure",
+      "cuidadosMedicos": "Monitor liver and GI function",
+      "cuidadosFarmaceuticos": "Avoid with dairy and metal-containing substances",
+      "cuidadosEnfermagem": "Give with water on empty stomach, keep upright for 30 min",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Doxiciclina",
+      "suspension": "Suspender 24–48h antes si es posible",
+      "risk": "Interacción con anestésicos, relajantes musculares; riesgo de esofagitis y fotosensibilidad",
+      "reintroduction": "Reintroducir tras recuperación gastrointestinal y vía oral funcional"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Doxiciclina",
+      "nomeComercial": "Vibramicina, Doxiclat, Doxiciclina Genérico",
+      "mecanismoAcao": "Inhibe la síntesis de proteínas bacterianas al unirse a la subunidad 30S del ribosoma",
+      "farmacocinetica": "Buena absorción oral, distribución amplia, excreción biliar y renal",
+      "farmacodinamica": "Bacteriostático de amplio espectro",
+      "indicacoes": "Infecciones respiratorias, acné, clamidia, rickettsias, leptospirosis, malaria",
+      "reacoesAdversas": "Náuseas, esofagitis, diarrea, fotosensibilidad, manchas dentales",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado en lactancia",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "200 mg/día",
+      "doseMinima": "100 mg/dosis",
+      "classificacao": "Antibiótico de la clase tetraciclina",
+      "apresentacao": "Comprimidos, cápsulas, solución inyectable",
+      "interacaoMedicamento": "Interacción con antiácidos, hierro, litio, anticoagulantes",
+      "posologia": "100 mg cada 12h el primer día, luego 100 mg diarios",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Diluir solución IV con SF 0,9% o glucosa 5%",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%, glucosa 5%",
+      "contraindicacoes": "Embarazo, lactancia, < 8 años, insuficiencia hepática grave",
+      "cuidadosMedicos": "Monitorear función hepática y digestiva",
+      "cuidadosFarmaceuticos": "Evitar con lácteos y suplementos metálicos",
+      "cuidadosEnfermagem": "Administrar con agua, en ayunas, mantener al paciente sentado 30 min",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "多西环素",
+      "suspension": "术前24–48小时停药",
+      "risk": "与麻醉药和肌松药相互作用，可能导致光敏反应和食管炎",
+      "reintroduction": "术后胃肠功能恢复且可经口时重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多西环素",
+      "nomeComercial": "强力霉素, 多西环素片, 多西环素注射液",
+      "mecanismoAcao": "结合细菌30S核糖体亚基，抑制蛋白质合成",
+      "farmacocinetica": "口服吸收良好，分布广，经胆汁和肾排泄",
+      "farmacodinamica": "广谱抑菌剂",
+      "indicacoes": "呼吸道感染、痤疮、衣原体、立克次体、钩端螺旋体、疟疾",
+      "reacoesAdversas": "恶心、食管炎、腹泻、光敏反应、牙齿变色",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日200毫克",
+      "doseMinima": "每次100毫克",
+      "classificacao": "四环素类抗生素",
+      "apresentacao": "片剂、胶囊、注射液",
+      "interacaoMedicamento": "与抗酸药、铁剂、锂、抗凝剂相互作用",
+      "posologia": "首日每12小时100毫克，以后每日100毫克",
+      "armazenamento": "常温避光保存",
+      "preparo": "IV需用0.9%氯化钠或5%葡萄糖稀释",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "妊娠、哺乳、8岁以下儿童、重度肝功能障碍",
+      "cuidadosMedicos": "监测肝功能和消化道反应",
+      "cuidadosFarmaceuticos": "避免与乳制品或金属补充剂同服",
+      "cuidadosEnfermagem": "空腹服药，大量水送服，服后坐立30分钟",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex"
+    }
+  }
+}

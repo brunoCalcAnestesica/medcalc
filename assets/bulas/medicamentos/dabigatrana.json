@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Dabigatrana",
+      "suspension": "Suspender 2 a 5 dias antes da cirurgia, dependendo da função renal e risco hemorrágico",
+      "risk": "Alto risco de sangramento intraoperatório; sem antídoto universal disponível em todos os centros; anticoagulação prolongada",
+      "reintroduction": "Reintroduzir 24 a 72h após cirurgia, conforme controle de hemostasia e função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dabigatrana etexilato",
+      "nomeComercial": "Pradaxa",
+      "mecanismoAcao": "Inibidor direto e reversível da trombina (fator IIa)",
+      "farmacocinetica": "Absorção oral, pró-fármaco ativado no fígado, excreção renal predominante, meia-vida 12–17h",
+      "farmacodinamica": "Impede a conversão de fibrinogênio em fibrina, inibindo a formação de trombos",
+      "indicacoes": "Prevenção de AVC e embolia sistêmica em fibrilação atrial não valvar, TEV, TVP e EP",
+      "reacoesAdversas": "Sangramentos, dispepsia, náusea, aumento de transaminases",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Não recomendado; excreção no leite desconhecida",
+      "administracao": "Via oral",
+      "doseMaxima": "300mg/dia",
+      "doseMinima": "110mg/dia",
+      "classificacao": "Anticoagulante oral direto (DOAC), inibidor de trombina",
+      "apresentacao": "Cápsulas de 75mg, 110mg e 150mg",
+      "interacaoMedicamento": "Evitar uso com outros anticoagulantes, inibidores da glicoproteína P (verapamil, amiodarona, quinidina)",
+      "posologia": "150mg 2x/dia ou 110mg 2x/dia em idosos ou risco aumentado de sangramento",
+      "armazenamento": "Manter em embalagem original, protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Sangramento ativo, insuficiência renal grave (ClCr <30 mL/min), válvulas cardíacas mecânicas",
+      "cuidadosMedicos": "Avaliar função renal antes de iniciar e periodicamente; monitorar sinais de sangramento",
+      "cuidadosFarmaceuticos": "Manter na embalagem original; orientar sobre aderência ao horário",
+      "cuidadosEnfermagem": "Observar sinais de sangramento oculto ou visível",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Dabigatran",
+      "suspension": "Discontinue 2–5 days pre-op depending on renal function and bleeding risk",
+      "risk": "High bleeding risk; limited reversal availability; prolonged anticoagulant effect",
+      "reintroduction": "Restart 24–72h post-op based on hemostasis and renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dabigatran etexilate",
+      "nomeComercial": "Pradaxa",
+      "mecanismoAcao": "Direct thrombin (factor IIa) inhibitor",
+      "farmacocinetica": "Oral prodrug, hepatic activation, renal excretion, half-life 12–17h",
+      "farmacodinamica": "Blocks fibrin formation by inhibiting thrombin activity",
+      "indicacoes": "Stroke prevention in non-valvular AF, DVT, PE treatment and prevention",
+      "reacoesAdversas": "Bleeding, dyspepsia, nausea, elevated liver enzymes",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended; unknown excretion",
+      "administracao": "Oral",
+      "doseMaxima": "300mg/day",
+      "doseMinima": "110mg/day",
+      "classificacao": "Direct oral anticoagulant (DOAC), thrombin inhibitor",
+      "apresentacao": "Capsules: 75mg, 110mg, 150mg",
+      "interacaoMedicamento": "Avoid concurrent anticoagulants, P-gp inhibitors (e.g., verapamil, amiodarone)",
+      "posologia": "150mg BID or 110mg BID in elderly or bleeding risk",
+      "armazenamento": "Store in original packaging, protect from moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active bleeding, severe renal impairment (CrCl <30 mL/min), mechanical heart valves",
+      "cuidadosMedicos": "Monitor renal function; assess bleeding risk regularly",
+      "cuidadosFarmaceuticos": "Keep in blister pack; educate on adherence",
+      "cuidadosEnfermagem": "Monitor for bleeding signs and symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, ACC/AHA guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Dabigatrán",
+      "suspension": "Suspender 2–5 días antes según función renal y riesgo hemorrágico",
+      "risk": "Alto riesgo de sangrado; sin antídoto universal disponible; efecto prolongado",
+      "reintroduction": "Reiniciar 24–72h postoperatorio según hemostasia y función renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dabigatrán etexilato",
+      "nomeComercial": "Pradaxa",
+      "mecanismoAcao": "Inhibidor directo de la trombina (factor IIa)",
+      "farmacocinetica": "Pró-fármaco oral, activación hepática, eliminación renal, semivida 12–17h",
+      "farmacodinamica": "Inhibe la formación de fibrina bloqueando la trombina",
+      "indicacoes": "Prevención de ACV y embolia sistémica en FANV, TVP y TEP",
+      "reacoesAdversas": "Hemorragia, dispepsia, náusea, aumento de transaminasas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado; se desconoce su excreción",
+      "administracao": "Vía oral",
+      "doseMaxima": "300mg/día",
+      "doseMinima": "110mg/día",
+      "classificacao": "Anticoagulante oral directo, inhibidor de trombina",
+      "apresentacao": "Cápsulas: 75mg, 110mg, 150mg",
+      "interacaoMedicamento": "Evitar uso conjunto con otros anticoagulantes o inhibidores de la P-gp",
+      "posologia": "150mg cada 12h o 110mg si riesgo de sangrado",
+      "armazenamento": "Mantener en envase original, protegido de humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Sangrado activo, insuficiencia renal grave, válvulas cardíacas mecánicas",
+      "cuidadosMedicos": "Evaluar función renal regularmente y riesgo hemorrágico",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia y signos de sangrado",
+      "cuidadosEnfermagem": "Vigilar signos de sangrado evidente u oculto",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "达比加群",
+      "suspension": "术前根据肾功能与出血风险停药2–5天",
+      "risk": "出血风险高；解毒药物限制；抗凝作用持续",
+      "reintroduction": "术后24–72小时内，在止血稳定及肾功能良好情况下恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "达比加群酯酯",
+      "nomeComercial": "Pradaxa",
+      "mecanismoAcao": "直接抑制凝血酶（IIa因子）",
+      "farmacocinetica": "口服前药，经肝活化，肾排泄为主，半衰期12–17小时",
+      "farmacodinamica": "通过抑制凝血酶阻止纤维蛋白形成",
+      "indicacoes": "非瓣膜性房颤卒中预防、DVT与PE治疗和预防",
+      "reacoesAdversas": "出血、消化不良、恶心、肝酶升高",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不推荐使用，是否分泌尚不明确",
+      "administracao": "口服",
+      "doseMaxima": "每日300毫克",
+      "doseMinima": "每日110毫克",
+      "classificacao": "直接口服抗凝药，凝血酶抑制剂",
+      "apresentacao": "胶囊：75mg、110mg、150mg",
+      "interacaoMedicamento": "避免与其他抗凝剂及P-gp抑制剂联用",
+      "posologia": "每12小时150mg或高风险时110mg",
+      "armazenamento": "保持在原包装内，防潮",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性出血、严重肾功能不全、机械心脏瓣膜",
+      "cuidadosMedicos": "术前评估肾功能和出血风险",
+      "cuidadosFarmaceuticos": "提醒患者坚持服药并注意出血迹象",
+      "cuidadosEnfermagem": "观察可见或隐匿性出血体征",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

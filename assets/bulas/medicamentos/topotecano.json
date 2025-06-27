@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Topotecano",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de mielossupressão, imunossupressão e infecção grave no pós-operatório",
+      "reintroduction": "Reintroduzir somente após recuperação hematológica completa e ausência de infecção"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Topotecano",
+      "nomeComercial": "Hycamtin",
+      "mecanismoAcao": "Inibe a topoisomerase I, enzima responsável pela religação do DNA durante a replicação celular",
+      "farmacocinetica": "Biodisponibilidade oral de ~40%; meia-vida de 2–3 horas; excreção renal predominante",
+      "farmacodinamica": "Citotóxico específico das fases S e G2 do ciclo celular; induz quebras irreparáveis no DNA",
+      "indicacoes": "Câncer de ovário metastático, câncer de pulmão de pequenas células, câncer cervical",
+      "reacoesAdversas": "Neutropenia, trombocitopenia, anemia, náuseas, diarreia, mucosite",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "2,5 mg/m²/dia (EV); 2,3 mg/m²/dia (oral)",
+      "doseMinima": "0,75 mg/m²/dia",
+      "classificacao": "Antineoplásico – inibidor da topoisomerase I",
+      "apresentacao": "Cápsulas orais, solução injetável",
+      "interacaoMedicamento": "Potencializa toxicidade com cisplatina; cuidado com mielossupressores",
+      "posologia": "1,5 mg/m² EV por 5 dias a cada 21 dias; ou 2,3 mg/m² VO por 5 dias",
+      "armazenamento": "Refrigerado (2–8°C) para solução; cápsulas em temperatura ambiente",
+      "preparo": "Diluir em SF 0,9% ou SG 5% para infusão",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Gravidez, lactação, infecção ativa, insuficiência medular severa",
+      "cuidadosMedicos": "Monitorar contagem sanguínea, função renal e sinais de infecção",
+      "cuidadosFarmaceuticos": "Reconstituir em ambiente controlado; usar EPI; armazenar protegido da luz",
+      "cuidadosEnfermagem": "Monitorar febre, sinais de toxicidade hematológica, aplicar precauções neutropênicas",
+      "fontesBibliograficas": "INCA, FDA, Micromedex, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Topotecan",
+      "suspension": "Hold 7 days before elective surgery",
+      "risk": "Risk of severe neutropenia, immunosuppression, and postoperative infections",
+      "reintroduction": "Restart only after full hematologic recovery and absence of infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Topotecan",
+      "nomeComercial": "Hycamtin",
+      "mecanismoAcao": "Inhibits topoisomerase I, blocking DNA re-ligation during replication",
+      "farmacocinetica": "Oral bioavailability ~40%; half-life 2–3 h; mainly renal excretion",
+      "farmacodinamica": "S and G2 phase-specific cytotoxic agent; induces DNA strand breaks",
+      "indicacoes": "Metastatic ovarian cancer, small cell lung cancer, cervical cancer",
+      "reacoesAdversas": "Neutropenia, thrombocytopenia, anemia, nausea, diarrhea, mucositis",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "2.5 mg/m²/day (IV); 2.3 mg/m²/day (oral)",
+      "doseMinima": "0.75 mg/m²/day",
+      "classificacao": "Antineoplastic – Topoisomerase I inhibitor",
+      "apresentacao": "Oral capsules, injectable solution",
+      "interacaoMedicamento": "Increased toxicity with cisplatin; caution with myelosuppressive drugs",
+      "posologia": "1.5 mg/m² IV for 5 days every 21 days; or 2.3 mg/m² orally for 5 days",
+      "armazenamento": "Refrigerate injectable (2–8°C); store capsules at room temp",
+      "preparo": "Dilute in NS or D5W for infusion",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Pregnancy, breastfeeding, active infection, severe bone marrow suppression",
+      "cuidadosMedicos": "Monitor CBC, renal function, and signs of infection",
+      "cuidadosFarmaceuticos": "Reconstitute under laminar flow; protect from light; wear PPE",
+      "cuidadosEnfermagem": "Monitor for fever, hematologic toxicity; apply neutropenic precautions",
+      "fontesBibliograficas": "FDA, Micromedex, NCCN, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Topotecán",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de neutropenia severa, inmunosupresión e infecciones postoperatorias",
+      "reintroduction": "Reintroducir tras recuperación hematológica completa y sin infección"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Topotecán",
+      "nomeComercial": "Hycamtin",
+      "mecanismoAcao": "Inhibe la topoisomerasa I, bloqueando la religación del ADN",
+      "farmacocinetica": "Biodisponibilidad oral ~40%; vida media 2–3 h; eliminación renal",
+      "farmacodinamica": "Citotóxico específico de fase S y G2; provoca rupturas de ADN",
+      "indicacoes": "Cáncer de ovario metastásico, cáncer de pulmón microcítico, cáncer de cuello uterino",
+      "reacoesAdversas": "Neutropenia, trombocitopenia, anemia, náuseas, diarrea, mucositis",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado en lactancia",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "2,5 mg/m²/día (IV); 2,3 mg/m²/día (oral)",
+      "doseMinima": "0,75 mg/m²/día",
+      "classificacao": "Antineoplásico – inhibidor de topoisomerasa I",
+      "apresentacao": "Cápsulas orales, solución inyectable",
+      "interacaoMedicamento": "Toxicidad aumentada con cisplatino; precaución con mielosupresores",
+      "posologia": "1,5 mg/m² IV por 5 días cada 21 días; o 2,3 mg/m² VO por 5 días",
+      "armazenamento": "Refrigerar la solución (2–8°C); cápsulas a temperatura ambiente",
+      "preparo": "Diluir en SF 0,9% o SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Embarazo, lactancia, infección activa, supresión medular severa",
+      "cuidadosMedicos": "Controlar hemograma, función renal e infección",
+      "cuidadosFarmaceuticos": "Reconstituir bajo flujo laminar; proteger de la luz; usar EPP",
+      "cuidadosEnfermagem": "Vigilar fiebre, toxicidad hematológica; precauciones neutropénicas",
+      "fontesBibliograficas": "ANMAT, FDA, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "托泊替康",
+      "suspension": "择期手术前7天停药",
+      "risk": "重度中性粒细胞减少、免疫抑制、术后感染风险高",
+      "reintroduction": "血象恢复正常且无感染迹象后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "托泊替康",
+      "nomeComercial": "Hycamtin",
+      "mecanismoAcao": "抑制拓扑异构酶I，阻止DNA复制过程中链的修复",
+      "farmacocinetica": "口服生物利用度约40%；半衰期2–3小时；主要经肾排泄",
+      "farmacodinamica": "S期和G2期特异性细胞毒药物；导致DNA链断裂",
+      "indicacoes": "转移性卵巢癌、小细胞肺癌、宫颈癌",
+      "reacoesAdversas": "中性粒细胞减少、血小板减少、贫血、恶心、腹泻、口腔炎",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日2.5 mg/m²（IV），每日2.3 mg/m²（口服）",
+      "doseMinima": "每日0.75 mg/m²",
+      "classificacao": "抗肿瘤药 – 拓扑异构酶I抑制剂",
+      "apresentacao": "口服胶囊，注射用溶液",
+      "interacaoMedicamento": "与顺铂合用可增强毒性；避免与其他骨髓抑制药合用",
+      "posologia": "每21天一个周期，IV 1.5 mg/m²连用5天；或口服2.3 mg/m²连用5天",
+      "armazenamento": "注射剂需冷藏（2–8°C）；胶囊常温保存",
+      "preparo": "使用NS或D5W稀释后静脉输注",
+      "solucoesCompatíveis": "NS，D5W",
+      "contraindicacoes": "妊娠、哺乳、严重感染、严重骨髓抑制",
+      "cuidadosMedicos": "监测血常规、肾功能及感染迹象",
+      "cuidadosFarmaceuticos": "在层流操作台下配置，避光保存，使用防护装备",
+      "cuidadosEnfermagem": "监测发热、骨髓毒性表现，实施中性粒细胞预防措施",
+      "fontesBibliograficas": "中国药典, FDA, Micromedex, NCCN"
+    }
+  }
+}

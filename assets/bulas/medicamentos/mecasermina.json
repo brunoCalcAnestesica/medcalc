@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Mecasermina",
+      "suspension": "Suspender 24h antes da cirurgia eletiva em pacientes com hipoglicemia ou instabilidade clínica",
+      "risk": "Risco de hipoglicemia grave, hipertrofia tonsilar, cefaleia, náusea e dor musculoesquelética",
+      "reintroduction": "Reintroduzir após retorno da alimentação oral e estabilidade glicêmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mecasermina (IGF-1 recombinante humana)",
+      "nomeComercial": "Increlex",
+      "mecanismoAcao": "Agonista de IGF-1 que estimula crescimento ósseo e tecidual, independente de GH",
+      "farmacocinetica": "SC; início variável; meia-vida ~5,8h; metabolismo hepático/renal",
+      "farmacodinamica": "Promove crescimento linear em crianças com deficiência primária grave de IGF-1",
+      "indicacoes": "Deficiência grave primária de IGF-1 (GH normal ou elevado); síndrome de Laron",
+      "reacoesAdversas": "Hipoglicemia, dor muscular, cefaleia, tonsilomegalia, lipohipertrofia",
+      "riscoGravidez": "Categoria C – uso com cautela",
+      "riscoLactacao": "Desconhecido; evitar uso",
+      "administracao": "Subcutânea, 2x/dia, preferencialmente após refeições",
+      "doseMaxima": "0,12mg/kg/dose (total 0,24mg/kg/dia)",
+      "doseMinima": "0,04mg/kg/dose",
+      "classificacao": "Agente análogo ao IGF-1 (somatomedina C)",
+      "apresentacao": "Solução injetável 10mg/mL em frascos de 1mL ou 4mL",
+      "interacaoMedicamento": "Pode potencializar insulina e hipoglicemiantes orais",
+      "posologia": "0,04 a 0,12mg/kg/dose SC, 2x/dia, após refeições",
+      "armazenamento": "Refrigerado (2–8°C), não congelar",
+      "preparo": "Pronto para uso; não agitar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Neoplasia ativa, hipersensibilidade, hipoglicemia recorrente sem controle",
+      "cuidadosMedicos": "Monitorar glicemia, crescimento, efeitos colaterais locais e sistêmicos",
+      "cuidadosFarmaceuticos": "Orientar administração após refeição e rotação dos locais",
+      "cuidadosEnfermagem": "Observar sinais de hipoglicemia e aderência ao esquema",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mecasermin",
+      "suspension": "Discontinue 24h before surgery if patient has active hypoglycemia or instability",
+      "risk": "Risk of severe hypoglycemia, tonsillar hypertrophy, headache, nausea, musculoskeletal pain",
+      "reintroduction": "Restart after resuming oral intake and achieving glycemic stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mecasermin (recombinant human IGF-1)",
+      "nomeComercial": "Increlex",
+      "mecanismoAcao": "IGF-1 agonist that promotes linear growth independent of GH",
+      "farmacocinetica": "SC; variable onset; half-life ~5.8h; hepatic and renal metabolism",
+      "farmacodinamica": "Promotes linear growth in children with severe primary IGF-1 deficiency",
+      "indicacoes": "Severe primary IGF-1 deficiency (normal/high GH); Laron syndrome",
+      "reacoesAdversas": "Hypoglycemia, muscle pain, headache, tonsillar hypertrophy, lipohypertrophy",
+      "riscoGravidez": "Category C – use with caution",
+      "riscoLactacao": "Unknown; avoid",
+      "administracao": "Subcutaneous, BID, preferably after meals",
+      "doseMaxima": "0.12mg/kg/dose (0.24mg/kg/day)",
+      "doseMinima": "0.04mg/kg/dose",
+      "classificacao": "IGF-1 analog (somatomedin C)",
+      "apresentacao": "Injection 10mg/mL in 1mL or 4mL vials",
+      "interacaoMedicamento": "May potentiate insulin and oral hypoglycemics",
+      "posologia": "0.04–0.12mg/kg/dose SC, BID, after meals",
+      "armazenamento": "Refrigerate (2–8°C); do not freeze",
+      "preparo": "Ready to use; do not shake",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active neoplasia, hypersensitivity, uncontrolled hypoglycemia",
+      "cuidadosMedicos": "Monitor blood glucose, growth, and local/systemic effects",
+      "cuidadosFarmaceuticos": "Educate on post-meal dosing and site rotation",
+      "cuidadosEnfermagem": "Observe for hypoglycemia signs and adherence",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Mecasermina",
+      "suspension": "Suspender 24h antes de cirugía si hay hipoglucemia activa o inestabilidad",
+      "risk": "Riesgo de hipoglucemia, hipertrofia amigdalina, cefalea, náuseas, dolor muscular",
+      "reintroduction": "Reiniciar tras estabilidad glucémica y retorno a vía oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mecasermina (IGF-1 recombinante humano)",
+      "nomeComercial": "Increlex",
+      "mecanismoAcao": "Agonista de IGF-1 que estimula crecimiento independiente de GH",
+      "farmacocinetica": "SC; vida media ~5.8h; metabolismo hepático y renal",
+      "farmacodinamica": "Favorece crecimiento lineal en niños con deficiencia primaria de IGF-1",
+      "indicacoes": "Deficiencia grave de IGF-1 (GH normal o alto); síndrome de Laron",
+      "reacoesAdversas": "Hipoglucemia, dolor muscular, cefalea, hipertrofia de amígdalas, lipohipertrofia",
+      "riscoGravidez": "Categoría C – usar con precaución",
+      "riscoLactacao": "Desconocido; evitar",
+      "administracao": "Subcutánea 2x/día tras comidas",
+      "doseMaxima": "0,12mg/kg/dosis (0,24mg/kg/día)",
+      "doseMinima": "0,04mg/kg/dosis",
+      "classificacao": "Análogo de IGF-1",
+      "apresentacao": "Solución inyectable 10mg/mL en viales de 1mL o 4mL",
+      "interacaoMedicamento": "Potencia insulina e hipoglucemiantes orales",
+      "posologia": "0,04–0,12mg/kg/dosis SC, 2x/día",
+      "armazenamento": "Refrigerado (2–8°C), no congelar",
+      "preparo": "Listo para uso; no agitar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Neoplasia activa, hipersensibilidad, hipoglucemia no controlada",
+      "cuidadosMedicos": "Controlar glucemia, crecimiento y eventos adversos",
+      "cuidadosFarmaceuticos": "Indicar administración posprandial y rotación del sitio",
+      "cuidadosEnfermagem": "Vigilar signos de hipoglucemia y cumplimiento",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "美卡塞明（Mecasermin）",
+      "suspension": "择期手术前24小时停药，若存在低血糖或不稳定病情",
+      "risk": "可引发严重低血糖、扁桃体肥大、头痛、恶心、肌肉痛",
+      "reintroduction": "术后恢复饮食且血糖稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "重组人胰岛素样生长因子-1（IGF-1）",
+      "nomeComercial": "Increlex",
+      "mecanismoAcao": "模拟IGF-1，独立于GH促进骨和组织生长",
+      "farmacocinetica": "皮下注射；半衰期约5.8小时；肝肾代谢",
+      "farmacodinamica": "促进IGF-1缺乏患儿的线性身高增长",
+      "indicacoes": "原发性IGF-1缺乏（GH正常或升高）；拉伦综合征",
+      "reacoesAdversas": "低血糖、肌痛、头痛、扁桃体增大、局部脂肪增生",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "未知，建议避免",
+      "administracao": "皮下注射，每日两次，餐后使用",
+      "doseMaxima": "每次0.12mg/kg（每日0.24mg/kg）",
+      "doseMinima": "每次0.04mg/kg",
+      "classificacao": "IGF-1模拟物（促生长因子）",
+      "apresentacao": "注射液10mg/mL，1mL或4mL瓶装",
+      "interacaoMedicamento": "可能增强胰岛素或口服降糖药作用",
+      "posologia": "每次0.04–0.12mg/kg，每日2次",
+      "armazenamento": "冷藏（2–8°C），不可冷冻",
+      "preparo": "即用型；勿摇晃",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肿瘤、过敏、反复低血糖",
+      "cuidadosMedicos": "监测血糖、身高增长及不良反应",
+      "cuidadosFarmaceuticos": "指导注射时间、部位轮换及储存方法",
+      "cuidadosEnfermagem": "观察低血糖症状、依从性及注射部位反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Protamina",
+      "suspension": "Não aplicável – uso hospitalar para reversão da heparina",
+      "risk": "Risco de hipotensão, bradicardia, reações anafiláticas, especialmente em pacientes alérgicos a peixes, diabéticos que usam insulina NPH ou vasectomizados",
+      "reintroduction": "Reintroduzir somente em contexto de reversão urgente da anticoagulação com heparina não fracionada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato de protamina",
+      "nomeComercial": "Protamina UCB, Protamine sulfate",
+      "mecanismoAcao": "Combina-se ionicamente com heparina, formando complexo estável inativo",
+      "farmacocinetica": "Ação em 5 minutos; meia-vida ~7 minutos; metabolismo hepático parcial",
+      "farmacodinamica": "Neutraliza anticoagulação da heparina; efeito rápido e transitório",
+      "indicacoes": "Reversão da anticoagulação por heparina não fracionada (HNF); reversão parcial de HBPM (menor eficácia)",
+      "reacoesAdversas": "Hipotensão, bradicardia, anafilaxia, rubor, náusea",
+      "riscoGravidez": "Categoria C – uso apenas se benefício justificar risco",
+      "riscoLactacao": "Provavelmente seguro",
+      "administracao": "Infusão intravenosa lenta (máx. 5 mg/min)",
+      "doseMaxima": "50 mg/dose; pode repetir após 2 horas conforme TTPa",
+      "doseMinima": "1 mg neutraliza ~100 UI de heparina (ajustar para HBPM)",
+      "classificacao": "Antídoto da heparina / polipeptídeo básico",
+      "apresentacao": "Frascos-ampola com 10 mg/mL em 5 mL (50 mg)",
+      "interacaoMedicamento": "Neutraliza heparinas; pode potencializar anticoagulação paradoxal em excesso",
+      "posologia": "1 mg para cada 100 UI de heparina administrada na última 1–2h",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Administrar diluído em 50–100 mL de SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9% (não usar SG5%)",
+      "contraindicacoes": "Alergia prévia conhecida, risco de reações graves a peixe ou insulina NPH",
+      "cuidadosMedicos": "Monitorar TTPa, sinais de hipersensibilidade, ECG",
+      "cuidadosFarmaceuticos": "Verificar diluição, não usar com glicose 5%",
+      "cuidadosEnfermagem": "Observar sinais vitais, reações alérgicas, infundir lentamente",
+      "fontesBibliograficas": "SBH, ANVISA, FDA, Medscape, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Protamine",
+      "suspension": "Not applicable – used only in hospital for heparin reversal",
+      "risk": "Risk of anaphylaxis, hypotension, bradycardia; especially in fish allergy, vasectomy, or NPH insulin users",
+      "reintroduction": "Re-administer only in the context of urgent heparin reversal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Protamine sulfate",
+      "nomeComercial": "Protamine sulfate (generic)",
+      "mecanismoAcao": "Forms stable inactive complex with heparin",
+      "farmacocinetica": "Onset: 5 minutes; T½ ~7 minutes; hepatic metabolism",
+      "farmacodinamica": "Rapid neutralization of heparin's anticoagulant activity",
+      "indicacoes": "Heparin overdose; surgical heparin reversal",
+      "reacoesAdversas": "Hypotension, bradycardia, anaphylaxis, flushing, nausea",
+      "riscoGravidez": "Category C – use only if needed",
+      "riscoLactacao": "Likely safe",
+      "administracao": "Slow IV (max 5 mg/min)",
+      "doseMaxima": "50 mg/dose",
+      "doseMinima": "1 mg per 100 units heparin (adjust for LMWH)",
+      "classificacao": "Heparin antidote",
+      "apresentacao": "10 mg/mL in 5 mL vials (50 mg)",
+      "interacaoMedicamento": "Neutralizes heparin; excess may cause anticoagulation",
+      "posologia": "1 mg/100 units of heparin given in last 1–2h",
+      "armazenamento": "Room temperature",
+      "preparo": "Dilute in 50–100 mL NS; do not use D5W",
+      "solucoesCompatíveis": "Normal saline only",
+      "contraindicacoes": "Previous reaction, fish allergy, vasectomy",
+      "cuidadosMedicos": "Monitor TTPa, ECG, signs of hypersensitivity",
+      "cuidadosFarmaceuticos": "Avoid D5W; verify dose and rate",
+      "cuidadosEnfermagem": "Infuse slowly, monitor vitals and allergic reactions",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Protamina",
+      "suspension": "No aplica – uso hospitalario exclusivo para revertir heparina",
+      "risk": "Riesgo de anafilaxia, hipotensión, bradicardia, sobre todo en alérgicos a pescado o insulina NPH",
+      "reintroduction": "Administrar solo en contexto de reversión de anticoagulación"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato de protamina",
+      "nomeComercial": "Protamina UCB",
+      "mecanismoAcao": "Neutraliza la heparina formando un complejo estable",
+      "farmacocinetica": "Inicio en 5 min; T½ ~7 min; metabolismo hepático",
+      "farmacodinamica": "Inhibe rápidamente el efecto anticoagulante de la heparina",
+      "indicacoes": "Reversión de heparina, cirugía cardiaca",
+      "reacoesAdversas": "Anafilaxia, hipotensión, náuseas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Compatible",
+      "administracao": "IV lenta (máx 5 mg/min)",
+      "doseMaxima": "50 mg/dosis",
+      "doseMinima": "1 mg por cada 100 UI heparina",
+      "classificacao": "Antídoto de heparina",
+      "apresentacao": "10 mg/mL – 5 mL",
+      "interacaoMedicamento": "Neutraliza heparinas",
+      "posologia": "1 mg/100 UI heparina últimas 1–2 h",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Diluir en 50–100 mL SF",
+      "solucoesCompatíveis": "SF 0,9% (no glucosa)",
+      "contraindicacoes": "Alergia conocida, vasectomía, insulina NPH",
+      "cuidadosMedicos": "Monitorear ECG, TTPa",
+      "cuidadosFarmaceuticos": "Evitar glucosa, verificar dilución",
+      "cuidadosEnfermagem": "Infundir lentamente, vigilar signos vitales",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "鱼精蛋白",
+      "suspension": "仅用于术中/术后快速中和肝素，无常规停药",
+      "risk": "可能引发低血压、过敏、心动过缓，尤其对鱼类过敏或NPH胰岛素使用者",
+      "reintroduction": "如需中和肝素，可再次给予"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "鱼精蛋白硫酸盐",
+      "nomeComercial": "Protamine sulfate",
+      "mecanismoAcao": "与肝素结合，形成中性复合物",
+      "farmacocinetica": "起效5分钟，T½约7分钟，肝代谢",
+      "farmacodinamica": "迅速逆转肝素抗凝作用",
+      "indicacoes": "中和肝素抗凝（手术、出血）",
+      "reacoesAdversas": "过敏、低血压、心动过缓",
+      "riscoGravidez": "C类 – 谨慎",
+      "riscoLactacao": "短期使用可接受",
+      "administracao": "静脉缓慢注射（≤5mg/min）",
+      "doseMaxima": "50 mg",
+      "doseMinima": "1 mg中和100 IU肝素",
+      "classificacao": "肝素拮抗剂",
+      "apresentacao": "5 mL/瓶（10 mg/mL）",
+      "interacaoMedicamento": "中和肝素，不建议合并D5W",
+      "posologia": "按最近1–2小时肝素量换算剂量",
+      "armazenamento": "室温保存",
+      "preparo": "稀释于0.9%氯化钠",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "已知过敏史",
+      "cuidadosMedicos": "监测出凝时间、电解质、心电图",
+      "cuidadosFarmaceuticos": "严禁与葡萄糖合用",
+      "cuidadosEnfermagem": "缓慢注射，监测不良反应",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、Medscape"
+    }
+  }
+}

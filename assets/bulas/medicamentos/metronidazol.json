@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Metronidazol",
+      "suspension": "Não é necessário suspender",
+      "risk": "Baixo risco anestésico; importante para prevenção e tratamento de infecções anaeróbias",
+      "reintroduction": "Manter ou reintroduzir conforme protocolo clínico ou infectológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metronidazol",
+      "nomeComercial": "Flagyl, Metrozol, Metronidazol Genérico",
+      "mecanismoAcao": "Interfere na síntese de DNA bacteriano, levando à morte celular",
+      "farmacocinetica": "Alta biodisponibilidade oral e parenteral, metabolizado no fígado, excreção urinária e fecal",
+      "farmacodinamica": "Bactericida e amebicida contra microrganismos anaeróbios e protozoários",
+      "indicacoes": "Infecções anaeróbias, abscessos, colite pseudomembranosa, giardíase, tricomoníase",
+      "reacoesAdversas": "Gosto metálico, náusea, cefaleia, neuropatia periférica, urina escurecida",
+      "riscoGravidez": "Categoria B (1º trimestre: evitar)",
+      "riscoLactacao": "Excretado no leite materno; avaliar risco-benefício",
+      "administracao": "Oral, intravenosa, tópica ou vaginal",
+      "doseMaxima": "4000 mg/dia",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Antibacteriano e antiparasitário nitroimidazólico",
+      "apresentacao": "Comprimidos, solução oral, solução injetável, gel vaginal e dérmico",
+      "interacaoMedicamento": "Potencial efeito tipo dissulfiram com álcool, aumenta toxicidade da varfarina",
+      "posologia": "500–750 mg a cada 8h por 7–10 dias ou conforme infecção",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Solução IV pronta para uso; não misturar com soluções alcalinas",
+      "solucoesCompatíveis": "SF 0,9%, Dextrose 5%",
+      "contraindicacoes": "Hipersensibilidade, uso de álcool, histórico de discrasias sanguíneas",
+      "cuidadosMedicos": "Monitorar sinais neurológicos e hepáticos em uso prolongado",
+      "cuidadosFarmaceuticos": "Orientar sobre interação com álcool e escurecimento da urina",
+      "cuidadosEnfermagem": "Observar náuseas, vômitos, parestesias e reações infusionais",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, SBAn"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Metronidazole",
+      "suspension": "No need to suspend",
+      "risk": "Low anesthetic risk; key drug for anaerobic infections and prophylaxis",
+      "reintroduction": "Continue or resume as per infectious disease protocol"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metronidazole",
+      "nomeComercial": "Flagyl, Metrogel, Generic Metronidazole",
+      "mecanismoAcao": "Disrupts bacterial DNA synthesis causing cell death",
+      "farmacocinetica": "High oral and IV bioavailability, hepatic metabolism, renal and fecal excretion",
+      "farmacodinamica": "Bactericidal and antiprotozoal against anaerobes",
+      "indicacoes": "Anaerobic infections, abscesses, pseudomembranous colitis, giardiasis, trichomoniasis",
+      "reacoesAdversas": "Metallic taste, nausea, headache, peripheral neuropathy, dark urine",
+      "riscoGravidez": "Category B (1st trimester: avoid)",
+      "riscoLactacao": "Excreted in breast milk; assess risk-benefit",
+      "administracao": "Oral, intravenous, topical, vaginal",
+      "doseMaxima": "4000 mg/day",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Nitroimidazole antibacterial and antiparasitic",
+      "apresentacao": "Tablets, oral solution, IV solution, topical and vaginal gel",
+      "interacaoMedicamento": "Disulfiram-like reaction with alcohol, increases warfarin effect",
+      "posologia": "500–750 mg every 8h for 7–10 days",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "IV solution ready to use; avoid alkaline solutions",
+      "solucoesCompatíveis": "Normal Saline, Dextrose 5%",
+      "contraindicacoes": "Hypersensitivity, alcohol use, history of blood dyscrasias",
+      "cuidadosMedicos": "Monitor neurologic and liver function if prolonged",
+      "cuidadosFarmaceuticos": "Warn about alcohol interaction and darkened urine",
+      "cuidadosEnfermagem": "Observe for nausea, paresthesia, infusion reactions",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, ANVISA, SBAn"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Metronidazol",
+      "suspension": "No requiere suspensión",
+      "risk": "Riesgo anestésico bajo; útil en infecciones anaeróbicas y profilaxis",
+      "reintroduction": "Continuar según el protocolo clínico o infectológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metronidazol",
+      "nomeComercial": "Flagyl, Metronidazol Genérico",
+      "mecanismoAcao": "Inhibe la síntesis de ADN bacteriano, causando la muerte celular",
+      "farmacocinetica": "Buena biodisponibilidad oral y IV, metabolismo hepático, excreción urinaria y fecal",
+      "farmacodinamica": "Bactericida y antiparasitario contra anaerobios",
+      "indicacoes": "Infecciones anaeróbicas, abscesos, colitis pseudomembranosa, giardiasis, tricomoniasis",
+      "reacoesAdversas": "Sabor metálico, náuseas, cefalea, neuropatía, orina oscura",
+      "riscoGravidez": "Categoría B (evitar en primer trimestre)",
+      "riscoLactacao": "Se excreta en la leche; evaluar riesgo-beneficio",
+      "administracao": "Oral, intravenosa, tópica o vaginal",
+      "doseMaxima": "4000 mg/día",
+      "doseMinima": "250 mg/dosis",
+      "classificacao": "Antibacteriano y antiparasitario nitroimidazólico",
+      "apresentacao": "Comprimidos, solución oral, inyectable, gel vaginal y dérmico",
+      "interacaoMedicamento": "Reacción tipo disulfiram con alcohol, potencia anticoagulantes",
+      "posologia": "500–750 mg cada 8h por 7–10 días",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Solución IV lista para usar; no mezclar con soluciones alcalinas",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%, glucosa 5%",
+      "contraindicacoes": "Alergia, consumo de alcohol, discrasias sanguíneas",
+      "cuidadosMedicos": "Controlar función hepática y neurológica",
+      "cuidadosFarmaceuticos": "Advertir sobre interacción con alcohol y orina oscura",
+      "cuidadosEnfermagem": "Observar náuseas, parestesias, reacciones a la infusión",
+      "fontesBibliograficas": "EMA, FDA, ANVISA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甲硝唑",
+      "suspension": "无需停药",
+      "risk": "麻醉风险低，对厌氧感染和术前预防非常重要",
+      "reintroduction": "根据感染方案继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甲硝唑",
+      "nomeComercial": "灭滴灵, 甲硝唑片, 注射液, 阴道凝胶",
+      "mecanismoAcao": "干扰细菌DNA合成，导致细胞死亡",
+      "farmacocinetica": "口服和静脉吸收好，经肝代谢，尿粪排出",
+      "farmacodinamica": "对厌氧菌和原虫具杀菌作用",
+      "indicacoes": "厌氧感染、脓肿、伪膜性结肠炎、贾第虫病、滴虫感染",
+      "reacoesAdversas": "金属味、恶心、头痛、周围神经病变、尿液变暗",
+      "riscoGravidez": "B类（第一孕期避免）",
+      "riscoLactacao": "排入乳汁，需评估利弊",
+      "administracao": "口服、静脉、外用或阴道",
+      "doseMaxima": "每日4000毫克",
+      "doseMinima": "每次250毫克",
+      "classificacao": "硝基咪唑类抗菌抗原虫药",
+      "apresentacao": "片剂、口服液、注射液、外用凝胶",
+      "interacaoMedicamento": "与酒精反应类似戒酒硫，增强华法林效应",
+      "posologia": "每8小时500–750毫克，疗程7–10天",
+      "armazenamento": "常温避光保存",
+      "preparo": "静脉注射液无需稀释，避免碱性液体",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "过敏、饮酒、血液疾病史",
+      "cuidadosMedicos": "监测肝功能和神经症状",
+      "cuidadosFarmaceuticos": "警告勿与酒精同用，尿色可能变深",
+      "cuidadosEnfermagem": "注意恶心、麻木感和输注反应",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex"
+    }
+  }
+}

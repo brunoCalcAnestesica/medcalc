@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Oxolamina",
+      "suspension": "Suspender 12 a 24 horas antes da cirurgia",
+      "risk": "Risco de depressão do reflexo da tosse e secreção residual; atenção em cirurgias com risco pulmonar",
+      "reintroduction": "Reintroduzir após avaliação do padrão respiratório e ausência de secreção retida"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxolamina citrato",
+      "nomeComercial": "Oxolamina, Infludoron, Brondilatox",
+      "mecanismoAcao": "Antitussígeno e anti-inflamatório não esteroidal com ação direta sobre a mucosa respiratória e centro da tosse",
+      "farmacocinetica": "Boa absorção oral; início em ~30–60 min; meia-vida estimada em 4–6 h; excreção renal",
+      "farmacodinamica": "Reduz a tosse irritativa, promove ação anti-inflamatória local em vias aéreas superiores",
+      "indicacoes": "Tosse seca de origem inflamatória, faringite, laringite, traqueíte, bronquite leve",
+      "reacoesAdversas": "Náusea, tontura, sonolência, desconforto gástrico",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Não recomendado; sem dados de segurança",
+      "administracao": "Via oral",
+      "doseMaxima": "300 mg/dia (adultos)",
+      "doseMinima": "50 mg/dia (crianças)",
+      "classificacao": "Antitussígeno e anti-inflamatório de vias aéreas",
+      "apresentacao": "Comprimidos 100 mg, solução oral 50 mg/5 mL, gotas pediátricas",
+      "interacaoMedicamento": "Potencial sedativo com álcool e depressores do SNC",
+      "posologia": "Adultos: 100 mg 3x/dia; crianças: 1 mg/kg/dose até 3x/dia",
+      "armazenamento": "15–30°C",
+      "preparo": "Agitar solução oral antes do uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Tosse produtiva, hipersensibilidade, insuficiência respiratória",
+      "cuidadosMedicos": "Evitar em pacientes com risco de retenção de secreção",
+      "cuidadosFarmaceuticos": "Orientar uso conforme tipo de tosse",
+      "cuidadosEnfermagem": "Observar padrão respiratório, sedação e resposta clínica",
+      "fontesBibliograficas": "ANVISA, Micromedex, literatura de produto"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Oxolamine",
+      "suspension": "Discontinue 12–24 hours before surgery",
+      "risk": "Risk of cough suppression and mucus retention; caution in pulmonary-risk procedures",
+      "reintroduction": "Restart only after confirming airway clearance and respiratory stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxolamine citrate",
+      "nomeComercial": "Oxolamine (not FDA-approved)",
+      "mecanismoAcao": "Peripheral antitussive and anti-inflammatory; acts on airways and cough center",
+      "farmacocinetica": "Well absorbed orally; onset 30–60 min; half-life 4–6 h; renal excretion",
+      "farmacodinamica": "Suppresses dry, inflammatory cough and reduces mucosal inflammation",
+      "indicacoes": "Non-productive cough, pharyngitis, laryngitis, tracheitis, mild bronchitis",
+      "reacoesAdversas": "Nausea, dizziness, mild sedation, GI discomfort",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid use; no data available",
+      "administracao": "Oral",
+      "doseMaxima": "300 mg/day (adults)",
+      "doseMinima": "50 mg/day (pediatric)",
+      "classificacao": "Peripheral antitussive and airway anti-inflammatory",
+      "apresentacao": "Tablets 100 mg, syrup 50 mg/5 mL, pediatric drops",
+      "interacaoMedicamento": "Additive CNS depression with alcohol, sedatives",
+      "posologia": "Adults: 100 mg TID; children: 1 mg/kg/dose up to 3x/day",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "Shake solution before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Productive cough, hypersensitivity, respiratory insufficiency",
+      "cuidadosMedicos": "Do not use if mucus clearance is impaired",
+      "cuidadosFarmaceuticos": "Clarify dry vs productive cough for correct indication",
+      "cuidadosEnfermagem": "Monitor sedation, airway function, cough pattern",
+      "fontesBibliograficas": "Micromedex, DrugBank, product monograph"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Oxolamina",
+      "suspension": "Suspender 12–24 horas antes de cirugía",
+      "risk": "Riesgo de inhibición del reflejo tusígeno y secreción retenida",
+      "reintroduction": "Reintroducir tras evaluación de la vía aérea y ventilación"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Citrato de oxolamina",
+      "nomeComercial": "Oxolamina, Infludoron",
+      "mecanismoAcao": "Antitusivo periférico y antiinflamatorio con acción directa sobre mucosa respiratoria",
+      "farmacocinetica": "Buena absorción oral, inicio 30–60 min, t½ 4–6 h, excreción renal",
+      "farmacodinamica": "Reduce tos seca e inflamación de vías respiratorias altas",
+      "indicacoes": "Tos seca, faringitis, laringitis, bronquitis leve",
+      "reacoesAdversas": "Náuseas, somnolencia, mareos, molestias gástricas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Vía oral",
+      "doseMaxima": "300 mg/día (adultos)",
+      "doseMinima": "50 mg/día (niños)",
+      "classificacao": "Antitusivo no opioide y antiinflamatorio respiratorio",
+      "apresentacao": "Comprimidos 100 mg, jarabe 50 mg/5 mL, gotas",
+      "interacaoMedicamento": "Potencia sedantes; cuidado con alcohol",
+      "posologia": "Adultos: 100 mg cada 8h; niños: 1 mg/kg hasta 3 veces/día",
+      "armazenamento": "15–30°C",
+      "preparo": "Agitar antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Tos productiva, insuficiencia respiratoria, hipersensibilidad",
+      "cuidadosMedicos": "Evitar si hay riesgo de retención de secreciones",
+      "cuidadosFarmaceuticos": "Informar sobre indicación según tipo de tos",
+      "cuidadosEnfermagem": "Observar patrón respiratorio y nivel de alerta",
+      "fontesBibliograficas": "AEMPS, Vademécum, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥索拉明",
+      "suspension": "术前应提前12–24小时停药",
+      "risk": "抑制咳嗽反射，可能导致分泌物潴留",
+      "reintroduction": "术后呼吸道通畅时可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥索拉明柠檬酸盐",
+      "nomeComercial": "Oxolamina",
+      "mecanismoAcao": "外周抗咳药兼具局部抗炎作用，作用于呼吸道黏膜与咳嗽中枢",
+      "farmacocinetica": "口服吸收好，起效30–60分钟，半衰期4–6小时，经肾排泄",
+      "farmacodinamica": "缓解干咳，减少上呼吸道炎性反应",
+      "indicacoes": "干咳、咽喉炎、喉炎、轻度支气管炎",
+      "reacoesAdversas": "恶心、嗜睡、头晕、胃不适",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不推荐哺乳期使用",
+      "administracao": "口服",
+      "doseMaxima": "每日300毫克（成人）",
+      "doseMinima": "每日50毫克（儿童）",
+      "classificacao": "非阿片类抗咳药和呼吸道抗炎药",
+      "apresentacao": "100毫克片剂，50毫克/5毫升口服液，儿童滴剂",
+      "interacaoMedicamento": "与镇静剂、酒精协同作用",
+      "posologia": "成人每8小时100毫克，儿童每日3次按体重给药",
+      "armazenamento": "15–30°C保存",
+      "preparo": "口服液使用前摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "有痰咳嗽、呼吸衰竭、过敏",
+      "cuidadosMedicos": "黏液潴留风险者慎用",
+      "cuidadosFarmaceuticos": "明确干咳或湿咳适应证",
+      "cuidadosEnfermagem": "观察呼吸功能及镇静副作用",
+      "fontesBibliograficas": "中国药典, 文献资料, Micromedex"
+    }
+  }
+}

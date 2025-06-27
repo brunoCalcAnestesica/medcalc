@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bedaquilina",
+      "suspension": "Suspender 1 dia antes da cirurgia se uso não urgente",
+      "risk": "Alto risco de prolongamento do QT e interação com anestésicos; metabolizada por CYP3A4",
+      "reintroduction": "Reintroduzir com monitoramento cardíaco e hepático"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bedaquilina",
+      "nomeComercial": "Sirturo",
+      "mecanismoAcao": "Inibe a ATP sintase da micobactéria, bloqueando produção de energia celular",
+      "farmacocinetica": "Via oral, meia-vida ~5,5 meses, metabolização hepática (CYP3A4)",
+      "farmacodinamica": "Bactericida contra Mycobacterium tuberculosis resistente a múltiplas drogas (MDR-TB)",
+      "indicacoes": "Tuberculose pulmonar multirresistente (MDR-TB)",
+      "reacoesAdversas": "Aumento de transaminases, náuseas, dor torácica, arritmias, QT prolongado",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Desconhecido; evitar uso se possível",
+      "administracao": "Oral",
+      "doseMaxima": "400 mg/dia (primeiras 2 semanas), depois 200 mg 3x/semana",
+      "doseMinima": "200 mg 3x/semana",
+      "classificacao": "Antituberculoso específico (diarilquinolina)",
+      "apresentacao": "Comprimidos de 100 mg",
+      "interacaoMedicamento": "Interage com rifampicina, cetoconazol, antiarrítmicos, inibidores/indutores do CYP3A4",
+      "posologia": "400 mg/dia por 14 dias, depois 200 mg 3x/semana até 24 semanas",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral direto com alimentos para melhor absorção",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Prolongamento do QT, uso com outros QT-prolongadores não monitoráveis",
+      "cuidadosMedicos": "Monitorar ECG, transaminases, eletrólitos, aderência terapêutica",
+      "cuidadosFarmaceuticos": "Educar sobre risco cardíaco e importância do esquema completo",
+      "cuidadosEnfermagem": "Monitorar sinais de arritmia, toxicidade hepática e adesão",
+      "fontesBibliograficas": "ANVISA, FDA, WHO, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bedaquiline",
+      "suspension": "Discontinue 1 day before surgery if non-urgent",
+      "risk": "High risk of QT prolongation and anesthetic interaction; CYP3A4 metabolism",
+      "reintroduction": "Restart with cardiac and hepatic monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bedaquiline",
+      "nomeComercial": "Sirturo",
+      "mecanismoAcao": "Inhibits mycobacterial ATP synthase, blocking energy production",
+      "farmacocinetica": "Oral, half-life ~5.5 months, CYP3A4 hepatic metabolism",
+      "farmacodinamica": "Bactericidal against MDR-TB (multidrug-resistant Mycobacterium tuberculosis)",
+      "indicacoes": "Pulmonary multidrug-resistant tuberculosis (MDR-TB)",
+      "reacoesAdversas": "Elevated transaminases, nausea, chest pain, arrhythmias, QT prolongation",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Unknown; avoid if possible",
+      "administracao": "Oral",
+      "doseMaxima": "400 mg/day (first 2 weeks), then 200 mg three times/week",
+      "doseMinima": "200 mg three times/week",
+      "classificacao": "Antituberculosis agent (diarylquinoline)",
+      "apresentacao": "100 mg tablets",
+      "interacaoMedicamento": "Interacts with rifampin, ketoconazole, antiarrhythmics, CYP3A4 modifiers",
+      "posologia": "400 mg/day for 14 days, then 200 mg three times/week up to 24 weeks",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Direct oral use with food for optimal absorption",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "QT prolongation, coadministration with other QT-prolonging drugs",
+      "cuidadosMedicos": "Monitor ECG, liver enzymes, electrolytes, and adherence",
+      "cuidadosFarmaceuticos": "Educate on cardiac risks and treatment completion importance",
+      "cuidadosEnfermagem": "Observe for arrhythmias, liver toxicity, and compliance",
+      "fontesBibliograficas": "FDA, WHO, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bedaquilina",
+      "suspension": "Suspender 1 día antes de la cirugía si el uso no es urgente",
+      "risk": "Alto riesgo de prolongación del QT e interacción con anestesia; metabolizada por CYP3A4",
+      "reintroduction": "Reintroducir con monitoreo cardíaco y hepático"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bedaquilina",
+      "nomeComercial": "Sirturo",
+      "mecanismoAcao": "Inhibe la ATP sintasa micobacteriana, bloqueando la producción de energía",
+      "farmacocinetica": "Vía oral, vida media ~5.5 meses, metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Bactericida contra M. tuberculosis multirresistente (TB-MDR)",
+      "indicacoes": "Tuberculosis pulmonar multirresistente",
+      "reacoesAdversas": "Transaminasas elevadas, náuseas, dolor torácico, arritmias, QT prolongado",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Desconocido; evitar si es posible",
+      "administracao": "Oral",
+      "doseMaxima": "400 mg/día (primeras 2 semanas), luego 200 mg 3 veces/semana",
+      "doseMinima": "200 mg 3 veces/semana",
+      "classificacao": "Antituberculoso (diarilquinolina)",
+      "apresentacao": "Comprimidos de 100 mg",
+      "interacaoMedicamento": "Interacción con rifampicina, ketoconazol, antiarrítmicos, inductores/inhibidores de CYP3A4",
+      "posologia": "400 mg/día por 14 días, luego 200 mg 3 veces/semana hasta 24 semanas",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Uso oral directo con alimentos",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "QT prolongado, uso combinado con otros QT-prolongadores",
+      "cuidadosMedicos": "Monitorear ECG, enzimas hepáticas, electrolitos y adherencia",
+      "cuidadosFarmaceuticos": "Educar sobre riesgo cardíaco y completar el tratamiento",
+      "cuidadosEnfermagem": "Observar signos de arritmias y toxicidad hepática",
+      "fontesBibliograficas": "OMS, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "贝达喹啉",
+      "suspension": "择期手术建议术前1天停药",
+      "risk": "存在QT延长和麻醉药相互作用的风险；经CYP3A4代谢",
+      "reintroduction": "术后在心电和肝功能监测下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "贝达喹啉",
+      "nomeComercial": "Sirturo",
+      "mecanismoAcao": "抑制分枝杆菌ATP合酶，阻断其能量合成",
+      "farmacocinetica": "口服，半衰期约5.5个月，经肝脏CYP3A4代谢",
+      "farmacodinamica": "对多药耐药肺结核有杀菌作用",
+      "indicacoes": "耐多药肺结核（MDR-TB）",
+      "reacoesAdversas": "转氨酶升高、恶心、胸痛、心律失常、QT延长",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "不推荐哺乳期使用",
+      "administracao": "口服",
+      "doseMaxima": "前2周每日400毫克，之后每周3次每次200毫克",
+      "doseMinima": "每周三次，每次200毫克",
+      "classificacao": "抗结核药（芳基喹啉类）",
+      "apresentacao": "100毫克片剂",
+      "interacaoMedicamento": "与利福平、酮康唑、抗心律失常药、CYP3A4诱导剂/抑制剂有相互作用",
+      "posologia": "前14天400mg每日一次，之后200mg每周三次共24周",
+      "armazenamento": "室温避光保存",
+      "preparo": "口服，建议与食物同服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "QT延长病史，与其他QT延长药合用",
+      "cuidadosMedicos": "监测心电图、肝功能、电解质、依从性",
+      "cuidadosFarmaceuticos": "告知QT风险和疗程重要性",
+      "cuidadosEnfermagem": "观察心律变化与肝毒性反应",
+      "fontesBibliograficas": "WHO、中国药典、Micromedex、UpToDate"
+    }
+  }
+}

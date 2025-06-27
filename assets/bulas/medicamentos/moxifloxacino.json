@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Moxifloxacino",
+      "suspension": "Suspender 24 horas antes de cirurgia eletiva",
+      "risk": "Risco de prolongamento de QT, hepatotoxicidade e interações com anestésicos e eletrólitos",
+      "reintroduction": "Reintroduzir após estabilização eletrolítica e clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Moxifloxacino",
+      "nomeComercial": "Avalox, Actira, Moxigeta",
+      "mecanismoAcao": "Inibe DNA girase e topoisomerase IV bacteriana, impedindo a replicação do DNA",
+      "farmacocinetica": "Biodisponibilidade >85%; meia-vida 12h; excreção biliar e renal",
+      "farmacodinamica": "Bactericida concentração-dependente contra Gram+, Gram− e anaeróbios",
+      "indicacoes": "Pneumonia, sinusite, exacerbação de DPOC, infecções intra-abdominais",
+      "reacoesAdversas": "QT longo, hepatotoxicidade, tendinite, náusea, diarreia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "400mg/dia",
+      "doseMinima": "400mg/dia",
+      "classificacao": "Fluoroquinolona respiratória",
+      "apresentacao": "Comprimidos 400mg; solução IV 400mg/250mL",
+      "interacaoMedicamento": "Antiácidos, antiarrítmicos, hipocalemia, hipomagnesemia aumentam risco de arritmia",
+      "posologia": "400mg 1x/dia por 5–14 dias",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Solução pronta IV; comprimido VO sem necessidade de preparo",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "QT prolongado, hipersensibilidade, distúrbios eletrolíticos não corrigidos",
+      "cuidadosMedicos": "Avaliar ECG, eletrólitos e função hepática",
+      "cuidadosFarmaceuticos": "Evitar coadministração com cálcio, ferro, magnésio",
+      "cuidadosEnfermagem": "Monitorar ECG, PA, reações adversas neurológicas e gastrointestinais",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Moxifloxacin",
+      "suspension": "Discontinue 24 hours before elective surgery",
+      "risk": "Risk of QT prolongation, hepatotoxicity, and anesthetic interaction",
+      "reintroduction": "Restart after electrolyte and clinical stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Moxifloxacin",
+      "nomeComercial": "Avelox",
+      "mecanismoAcao": "Inhibits DNA gyrase and topoisomerase IV, blocking DNA replication",
+      "farmacocinetica": "Bioavailability >85%; half-life 12h; biliary and renal excretion",
+      "farmacodinamica": "Concentration-dependent bactericidal activity",
+      "indicacoes": "Pneumonia, sinusitis, COPD exacerbation, intra-abdominal infections",
+      "reacoesAdversas": "QT prolongation, liver injury, tendinopathy, nausea, diarrhea",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "400mg/day",
+      "doseMinima": "400mg/day",
+      "classificacao": "Respiratory fluoroquinolone",
+      "apresentacao": "400mg tablets; IV solution 400mg/250mL",
+      "interacaoMedicamento": "Antacids, QT-prolonging drugs, electrolyte disturbances increase risk",
+      "posologia": "400mg once daily for 5–14 days",
+      "armazenamento": "15–30°C",
+      "preparo": "IV ready to use; oral tablet no prep needed",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "QT prolongation, allergy, uncorrected hypokalemia/hypomagnesemia",
+      "cuidadosMedicos": "Monitor ECG, liver and electrolytes",
+      "cuidadosFarmaceuticos": "Avoid concurrent use with minerals and QT drugs",
+      "cuidadosEnfermagem": "Watch for cardiac, hepatic, neurologic, and GI adverse effects",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Moxifloxacino",
+      "suspension": "Suspender 24 horas antes de cirugía electiva",
+      "risk": "Riesgo de QT prolongado, toxicidad hepática, interacciones anestésicas",
+      "reintroduction": "Reintroducir tras estabilización clínica y electrolítica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Moxifloxacino",
+      "nomeComercial": "Avelox",
+      "mecanismoAcao": "Inhibe girasa y topoisomerasa IV bacteriana",
+      "farmacocinetica": "Biodisponibilidad >85%; vida media 12h; excreción biliar y renal",
+      "farmacodinamica": "Bactericida concentración-dependiente contra Gram+/− y anaerobios",
+      "indicacoes": "Neumonía, sinusitis, EPOC exacerbado, infecciones abdominales",
+      "reacoesAdversas": "QT prolongado, hepatotoxicidad, tendinitis, náuseas, diarrea",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Oral o IV",
+      "doseMaxima": "400mg/día",
+      "doseMinima": "400mg/día",
+      "classificacao": "Fluoroquinolona respiratoria",
+      "apresentacao": "400mg comprimidos; 400mg/250mL IV",
+      "interacaoMedicamento": "Antiácidos, hipocalemia, fármacos QT aumentan riesgo",
+      "posologia": "400mg 1x/día por 5–14 días",
+      "armazenamento": "15–30°C",
+      "preparo": "IV listo para usar; oral sin preparación",
+      "solucoesCompatíveis": "SSF, SG5%",
+      "contraindicacoes": "QT prolongado, hipersensibilidad, trastornos electrolíticos",
+      "cuidadosMedicos": "Vigilar ECG, electrolitos, hepático",
+      "cuidadosFarmaceuticos": "Evitar coadministración con calcio, magnesio, hierro",
+      "cuidadosEnfermagem": "Observar alteraciones cardíacas, hepáticas, GI y SNC",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "莫西沙星",
+      "suspension": "择期手术前24小时停药",
+      "risk": "QT延长、肝毒性、电解质紊乱与麻醉风险",
+      "reintroduction": "术后电解质和肝功能恢复后再启动"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "莫西沙星",
+      "nomeComercial": "Avelox",
+      "mecanismoAcao": "抑制DNA旋转酶与拓扑异构酶IV，阻断DNA复制",
+      "farmacocinetica": "生物利用度>85%；半衰期12小时；胆汁+肾排泄",
+      "farmacodinamica": "广谱杀菌活性，浓度依赖",
+      "indicacoes": "肺炎、鼻窦炎、慢阻肺急性加重、腹腔感染",
+      "reacoesAdversas": "QT延长、肝酶升高、肌腱病、恶心、腹泻",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服或静脉",
+      "doseMaxima": "每日400毫克",
+      "doseMinima": "每日400毫克",
+      "classificacao": "呼吸氟喹诺酮",
+      "apresentacao": "400mg片剂；250mL/400mg输液",
+      "interacaoMedicamento": "与含钙铁镁制剂、QT延长药联用风险升高",
+      "posologia": "每日1次400mg，疗程5–14天",
+      "armazenamento": "15–30°C避光",
+      "preparo": "IV可直接使用，口服无需处理",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "QT延长、电解质紊乱、过敏",
+      "cuidadosMedicos": "监测心电图、肝酶、电解质",
+      "cuidadosFarmaceuticos": "避免矿物质同服；储存温度控制",
+      "cuidadosEnfermagem": "观察心律、肌腱、消化道及中枢神经反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

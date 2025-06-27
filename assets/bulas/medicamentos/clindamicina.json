@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clindamicina",
+      "suspension": "Não é necessário suspender",
+      "risk": "Baixo risco anestésico; pode ser mantida para prevenção e tratamento de infecções anaeróbias e estafilocócicas",
+      "reintroduction": "Manter conforme plano terapêutico; monitorar função hepática e sinais de colite"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clindamicina",
+      "nomeComercial": "Dalacin, Clindamin-C, Clindoxyl, Clindamicina Genérico",
+      "mecanismoAcao": "Inibe a síntese proteica bacteriana ligando-se à subunidade 50S ribossomal",
+      "farmacocinetica": "Boa absorção oral, distribuição tecidual ampla, metabolização hepática, excreção biliar/renal",
+      "farmacodinamica": "Bacteriostática, com ação bactericida em altas concentrações",
+      "indicacoes": "Infecções odontológicas, osteomielite, celulite, infecções ginecológicas, abscessos anaeróbios",
+      "reacoesAdversas": "Colite pseudomembranosa, náusea, rash, alteração do paladar, elevação de enzimas hepáticas",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excretada no leite; avaliar risco-benefício",
+      "administracao": "Oral, intravenosa, intramuscular, tópica ou vaginal",
+      "doseMaxima": "2700 mg/dia",
+      "doseMinima": "150 mg/dose",
+      "classificacao": "Antibiótico lincosamida",
+      "apresentacao": "Cápsulas, solução oral, solução injetável, creme vaginal, gel dérmico",
+      "interacaoMedicamento": "Antagonismo com eritromicina; potencializa bloqueio neuromuscular",
+      "posologia": "300–600 mg VO a cada 6–8h ou 600–900 mg EV a cada 8h",
+      "armazenamento": "Temperatura ambiente; solução reconstituída sob refrigeração",
+      "preparo": "Diluir ampola em SF 0,9% ou SG 5%; infundir lentamente",
+      "solucoesCompatíveis": "SF 0,9%, Glicose 5%",
+      "contraindicacoes": "Histórico de colite associada a antibióticos",
+      "cuidadosMedicos": "Monitorar sinais de colite, enzimas hepáticas, função renal",
+      "cuidadosFarmaceuticos": "Evitar uso simultâneo com relaxantes musculares sem avaliação médica",
+      "cuidadosEnfermagem": "Observar diarreia, dor abdominal e alergias cutâneas",
+      "fontesBibliograficas": "ANVISA, Micromedex, SBAn, FDA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Clindamycin",
+      "suspension": "No need to suspend",
+      "risk": "Low anesthetic risk; used for anaerobic and staphylococcal infection prophylaxis",
+      "reintroduction": "Continue as planned; monitor liver function and colitis symptoms"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clindamycin",
+      "nomeComercial": "Cleocin, Clindagel, Clindamycin Phosphate",
+      "mecanismoAcao": "Inhibits bacterial protein synthesis by binding to 50S ribosomal subunit",
+      "farmacocinetica": "Well absorbed orally, wide tissue distribution, hepatic metabolism, biliary and renal excretion",
+      "farmacodinamica": "Bacteriostatic; bactericidal at high concentrations",
+      "indicacoes": "Dental infections, osteomyelitis, cellulitis, gynecological infections, anaerobic abscesses",
+      "reacoesAdversas": "Pseudomembranous colitis, nausea, rash, altered taste, liver enzyme elevation",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Excreted in breast milk; assess risk-benefit",
+      "administracao": "Oral, IV, IM, topical, vaginal",
+      "doseMaxima": "2700 mg/day",
+      "doseMinima": "150 mg/dose",
+      "classificacao": "Lincosamide antibiotic",
+      "apresentacao": "Capsules, oral solution, injectable solution, vaginal cream, topical gel",
+      "interacaoMedicamento": "Antagonism with erythromycin; may enhance neuromuscular blockade",
+      "posologia": "300–600 mg PO q6–8h or 600–900 mg IV q8h",
+      "armazenamento": "Room temp; reconstituted IV solution under refrigeration",
+      "preparo": "Dilute in NS or D5W; infuse slowly",
+      "solucoesCompatíveis": "Normal Saline, Dextrose 5%",
+      "contraindicacoes": "History of antibiotic-associated colitis",
+      "cuidadosMedicos": "Monitor for colitis, liver enzymes, renal function",
+      "cuidadosFarmaceuticos": "Avoid with muscle relaxants unless evaluated",
+      "cuidadosEnfermagem": "Watch for diarrhea, abdominal pain, skin rash",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, SBAn"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clindamicina",
+      "suspension": "No requiere suspensión",
+      "risk": "Riesgo anestésico bajo; útil para infecciones anaeróbicas y estafilocócicas",
+      "reintroduction": "Mantener según pauta; controlar hígado y síntomas de colitis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clindamicina",
+      "nomeComercial": "Dalacin, Clindagel, Clindamicina Genérico",
+      "mecanismoAcao": "Inhibe la síntesis de proteínas bacterianas al unirse a la subunidad 50S",
+      "farmacocinetica": "Buena absorción oral, distribución amplia, metabolismo hepático, eliminación biliar y renal",
+      "farmacodinamica": "Bacteriostático, bactericida a dosis altas",
+      "indicacoes": "Infecciones dentales, osteomielitis, celulitis, ginecológicas, abscesos anaeróbicos",
+      "reacoesAdversas": "Colitis pseudomembranosa, náuseas, erupción, alteración del gusto, transaminasas elevadas",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Se excreta en leche; valorar riesgos",
+      "administracao": "Oral, IV, IM, tópica o vaginal",
+      "doseMaxima": "2700 mg/día",
+      "doseMinima": "150 mg/dosis",
+      "classificacao": "Antibiótico lincosamida",
+      "apresentacao": "Cápsulas, solución oral, inyectable, crema vaginal, gel dérmico",
+      "interacaoMedicamento": "Antagonismo con eritromicina; potencia bloqueo neuromuscular",
+      "posologia": "300–600 mg VO cada 6–8h o 600–900 mg IV cada 8h",
+      "armazenamento": "Temperatura ambiente; solución reconstituida refrigerada",
+      "preparo": "Diluir en SF o glucosa 5%; infundir lento",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%, glucosa 5%",
+      "contraindicacoes": "Antecedente de colitis por antibióticos",
+      "cuidadosMedicos": "Monitorear hígado, función renal, colitis",
+      "cuidadosFarmaceuticos": "Evitar con relajantes musculares sin evaluación",
+      "cuidadosEnfermagem": "Observar diarrea, dolor abdominal, erupciones cutáneas",
+      "fontesBibliograficas": "EMA, FDA, ANVISA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "克林霉素",
+      "suspension": "无需停药",
+      "risk": "麻醉风险低，可用于预防和治疗厌氧菌及葡萄球菌感染",
+      "reintroduction": "按治疗计划继续，监测肝功能和结肠炎症状"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "克林霉素",
+      "nomeComercial": "达福欣, 克林霉素磷酸酯, 通用克林霉素",
+      "mecanismoAcao": "通过结合50S核糖体亚基抑制细菌蛋白质合成",
+      "farmacocinetica": "口服吸收好，广泛分布，经肝代谢，胆汁/肾排泄",
+      "farmacodinamica": "抑菌剂，在高浓度下具有杀菌作用",
+      "indicacoes": "牙科感染、骨髓炎、蜂窝织炎、妇科感染、厌氧脓肿",
+      "reacoesAdversas": "伪膜性结肠炎、恶心、皮疹、味觉异常、肝酶升高",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可分泌入乳汁，需权衡利弊",
+      "administracao": "口服、静脉、肌注、外用或阴道使用",
+      "doseMaxima": "每日2700毫克",
+      "doseMinima": "每次150毫克",
+      "classificacao": "林可酰胺类抗生素",
+      "apresentacao": "胶囊、口服液、注射液、阴道霜、凝胶",
+      "interacaoMedicamento": "与红霉素拮抗，可增强肌松药作用",
+      "posologia": "每6–8小时口服300–600毫克，或每8小时IV 600–900毫克",
+      "armazenamento": "常温保存，重构液需冷藏",
+      "preparo": "用0.9%氯化钠或5%葡萄糖稀释，缓慢静滴",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "有抗生素相关性结肠炎史者禁用",
+      "cuidadosMedicos": "监测肝功能、肾功能和结肠炎迹象",
+      "cuidadosFarmaceuticos": "避免与肌松药同时使用除非评估",
+      "cuidadosEnfermagem": "注意腹泻、腹痛和皮疹等不良反应",
+      "fontesBibliograficas": "中国药典, Micromedex, FDA, EMA"
+    }
+  }
+}

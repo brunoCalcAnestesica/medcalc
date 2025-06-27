@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pomalidomida",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva",
+      "risk": "Alto risco de trombose, toxicidade hematológica e interação com anticoagulantes; imunossupressão pode aumentar risco infeccioso perioperatório",
+      "reintroduction": "Reintroduzir após recuperação hematológica e avaliação individual do risco trombótico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pomalidomida",
+      "nomeComercial": "Pomalyst",
+      "mecanismoAcao": "Imunomodulador que inibe a angiogênese e estimula células T e NK; atua na apoptose de células tumorais",
+      "farmacocinetica": "Absorção oral, biodisponibilidade ~73%; Tmáx: 2–3h; meia-vida ~7,5h; metabolizado no fígado (CYP1A2, 3A4)",
+      "farmacodinamica": "Reduz proliferação celular e angiogênese; modula citocinas inflamatórias",
+      "indicacoes": "Mieloma múltiplo recidivado/refratário (em combinação com dexametasona)",
+      "reacoesAdversas": "Neutropenia, anemia, trombocitopenia, trombose venosa profunda, pneumonia, fadiga, náuseas, neuropatia periférica",
+      "riscoGravidez": "Categoria X – contraindicado (teratogênico)",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "4 mg/dia por 21 dias a cada 28 dias",
+      "doseMinima": "1 mg/dia (ajustado por toxicidade)",
+      "classificacao": "Imunomodulador / agente antineoplásico",
+      "apresentacao": "Cápsulas de 1 mg, 2 mg, 3 mg, 4 mg",
+      "interacaoMedicamento": "Interage com anticoagulantes, substratos do CYP1A2/3A4, inibidores da P-gp",
+      "posologia": "4 mg/dia VO por 21 dias com 7 dias de descanso (ciclos de 28 dias); ajustar conforme resposta/toxicidade",
+      "armazenamento": "Temperatura ambiente (15–30°C), proteger da umidade",
+      "preparo": "Uso direto; manuseio com luvas por risco teratogênico",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Gravidez, hipersensibilidade, lactação, insuficiência hepática grave",
+      "cuidadosMedicos": "Avaliar hemograma, risco trombótico, função hepática; considerar profilaxia anticoagulante",
+      "cuidadosFarmaceuticos": "Orientar contracepção rigorosa e manuseio seguro; controle de dispensação com termo de consentimento",
+      "cuidadosEnfermagem": "Monitorar sinais de trombose, infecção, toxicidade hematológica",
+      "fontesBibliograficas": "Micromedex, UpToDate, bula Pomalyst, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pomalidomide",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "High risk of thrombosis, hematologic toxicity, and interaction with anticoagulants; immunosuppression may increase infection risk",
+      "reintroduction": "Resume after hematologic recovery and individual thrombotic risk reassessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pomalidomide",
+      "nomeComercial": "Pomalyst",
+      "mecanismoAcao": "Immunomodulator that inhibits angiogenesis and activates T and NK cells; induces apoptosis in tumor cells",
+      "farmacocinetica": "Oral; ~73% bioavailability; Tmax 2–3h; half-life ~7.5h; metabolized by CYP1A2 and CYP3A4",
+      "farmacodinamica": "Reduces cellular proliferation and angiogenesis; modulates inflammatory cytokines",
+      "indicacoes": "Relapsed/refractory multiple myeloma (with dexamethasone)",
+      "reacoesAdversas": "Neutropenia, anemia, thrombocytopenia, DVT, pneumonia, fatigue, nausea, peripheral neuropathy",
+      "riscoGravidez": "Category X – contraindicated (teratogenic)",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "4 mg/day for 21 of 28 days",
+      "doseMinima": "1 mg/day (dose-adjusted)",
+      "classificacao": "Immunomodulatory antineoplastic agent",
+      "apresentacao": "Capsules: 1 mg, 2 mg, 3 mg, 4 mg",
+      "interacaoMedicamento": "Interacts with anticoagulants, CYP1A2/3A4 substrates, P-gp inhibitors",
+      "posologia": "4 mg daily PO on days 1–21 of 28-day cycles; adjust per response/toxicity",
+      "armazenamento": "Room temp (15–30°C); protect from moisture",
+      "preparo": "Direct use; handle with gloves due to teratogenic risk",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, hypersensitivity, breastfeeding, severe hepatic impairment",
+      "cuidadosMedicos": "Monitor CBC, liver function, thrombotic risk; anticoagulant prophylaxis advised",
+      "cuidadosFarmaceuticos": "Strict pregnancy prevention counseling; REMS program required",
+      "cuidadosEnfermagem": "Monitor for thrombosis, infection, hematologic toxicity",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Pomalyst PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pomalidomida",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Alto riesgo de trombosis, toxicidad hematológica e interacción con anticoagulantes; riesgo aumentado de infecciones",
+      "reintroduction": "Reiniciar tras recuperación hematológica y valoración individual"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pomalidomida",
+      "nomeComercial": "Pomalyst",
+      "mecanismoAcao": "Inmunomodulador que inhibe la angiogénesis y activa linfocitos T y NK; promueve apoptosis tumoral",
+      "farmacocinetica": "VO; biodisponibilidad ~73%; Tmáx 2–3 h; T½ ~7,5 h; metabolizado por CYP1A2 y CYP3A4",
+      "farmacodinamica": "Reduce proliferación y angiogénesis; modula citocinas inflamatorias",
+      "indicacoes": "Mieloma múltiple recidivante/refractario (con dexametasona)",
+      "reacoesAdversas": "Neutropenia, anemia, trombocitopenia, TVP, neumonía, fatiga, náuseas, neuropatía",
+      "riscoGravidez": "Categoría X – contraindicado (teratogénico)",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "4 mg/día durante 21 días de cada ciclo de 28 días",
+      "doseMinima": "1 mg/día (ajustado por toxicidad)",
+      "classificacao": "Agente inmunomodulador antineoplásico",
+      "apresentacao": "Cápsulas: 1, 2, 3, 4 mg",
+      "interacaoMedicamento": "Interacción con anticoagulantes, CYP1A2/3A4, inhibidores P-gp",
+      "posologia": "4 mg/día por 21 días y 7 días de descanso (ciclos de 28 días)",
+      "armazenamento": "15–30°C, protegido de humedad",
+      "preparo": "Uso directo; manipular con guantes por riesgo teratogénico",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, hipersensibilidad, lactancia, insuficiencia hepática grave",
+      "cuidadosMedicos": "Control hematológico, función hepática, riesgo trombótico; profilaxis recomendada",
+      "cuidadosFarmaceuticos": "Prevención estricta del embarazo; consentimiento informado obligatorio",
+      "cuidadosEnfermagem": "Vigilar trombosis, infecciones y toxicidad hematológica",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Pomalyst"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "泊马度胺",
+      "suspension": "择期手术前7天停药",
+      "risk": "血栓、抑制骨髓、与抗凝药物交互作用，免疫抑制增加感染风险",
+      "reintroduction": "血象恢复及评估血栓风险后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "泊马度胺",
+      "nomeComercial": "Pomalyst",
+      "mecanismoAcao": "免疫调节剂，抑制新生血管，激活T/NK细胞，诱导肿瘤细胞凋亡",
+      "farmacocinetica": "口服吸收好，Tmax 2–3小时，T½约7.5小时，经CYP1A2/3A4代谢",
+      "farmacodinamica": "抑制细胞增殖及血管生成，调节细胞因子",
+      "indicacoes": "复发/难治性多发性骨髓瘤（与地塞米松联用）",
+      "reacoesAdversas": "中性粒细胞减少、贫血、血小板减少、深静脉血栓、肺炎、疲劳、恶心、周围神经病变",
+      "riscoGravidez": "X类（强烈致畸）",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日4 mg，连服21天，停药7天为1疗程",
+      "doseMinima": "1 mg（视毒性调整）",
+      "classificacao": "抗肿瘤免疫调节剂",
+      "apresentacao": "胶囊剂：1 mg、2 mg、3 mg、4 mg",
+      "interacaoMedicamento": "与抗凝药、CYP1A2/3A4底物、P-gp抑制剂有交互作用",
+      "posologia": "每日1次4 mg，服用21天停7天，28天为一周期",
+      "armazenamento": "15–30°C，避光防潮",
+      "preparo": "直接使用，需戴手套操作（致畸）",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、严重肝功能不全、过敏史",
+      "cuidadosMedicos": "监测血常规、肝功能、血栓风险，建议抗凝预防",
+      "cuidadosFarmaceuticos": "提供避孕指导，建立使用登记管理系统",
+      "cuidadosEnfermagem": "观察感染征象、血栓、骨髓抑制表现",
+      "fontesBibliograficas": "FDA、Micromedex、中国药典、UpToDate、Pomalyst说明书"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bicarbonato de sódio",
+      "suspension": "Não é necessário suspender antes de cirurgias",
+      "risk": "Pode causar alcalose metabólica, hipernatremia e hipocalemia se usado em excesso; uso cuidadoso em pacientes com insuficiência cardíaca ou renal",
+      "reintroduction": "Reintroduzir conforme parâmetros gasométricos e estado ácido-básico; uso guiado por gasometria arterial"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bicarbonato de sódio",
+      "nomeComercial": "Bicarbonato de Sódio 8,4%, Bicarbonato 10 mEq/10 mL, Biorene",
+      "mecanismoAcao": "Agente tamponante que neutraliza excesso de ácido, restaurando o pH fisiológico extracelular",
+      "farmacocinetica": "Distribuição rápida no espaço extracelular; metabolizado em CO₂; excreção renal",
+      "farmacodinamica": "Corrige acidose metabólica e estabiliza eletrólitos e contratilidade miocárdica",
+      "indicacoes": "Acidose metabólica grave, hipercalemia com instabilidade, intoxicações (tricíclicos, salicilatos), acidose tubular renal",
+      "reacoesAdversas": "Alcalose, edema, hipernatremia, hipocalemia, convulsões, tetania",
+      "riscoGravidez": "Categoria C – usar apenas se necessário",
+      "riscoLactacao": "Seguro se usado com moderação",
+      "administracao": "Intravenosa lenta ou em infusão contínua; oral em dispepsia leve",
+      "doseMaxima": "Depende do bicarbonato desejado (0,5–1 mEq/kg); em geral até 100–200 mEq/dia EV",
+      "doseMinima": "10–20 mEq em bolus EV em acidose leve",
+      "classificacao": "Alcalinizante sistêmico",
+      "apresentacao": "Ampolas de 10 mL (8,4%), frascos EV, comprimidos 325–650 mg (uso oral)",
+      "interacaoMedicamento": "Incompatível com cálcio EV na mesma via; reduz absorção de antifúngicos e alguns antibióticos orais",
+      "posologia": "10–50 mEq IV em bolus ou diluído; VO 325–650 mg cada 4–6h se necessário",
+      "armazenamento": "Temperatura ambiente, longe da luz",
+      "preparo": "Pode ser diluído em SF ou SG5% para infusão contínua",
+      "solucoesCompatíveis": "SF 0,9%, SG 5% (exceto soluções com cálcio)",
+      "contraindicacoes": "Alcalose, hipocalcemia sintomática, hipernatremia grave, parada respiratória sem ventilação adequada",
+      "cuidadosMedicos": "Monitorar pH, bicarbonato sérico, eletrólitos, osmolaridade",
+      "cuidadosFarmaceuticos": "Observar estabilidade da solução e compatibilidade",
+      "cuidadosEnfermagem": "Acompanhar FR, estado mental, sinais de alcalose ou extravasamento",
+      "fontesBibliograficas": "ANVISA, FDA, Medscape, Micromedex, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sodium bicarbonate",
+      "suspension": "Not necessary to suspend before surgery",
+      "risk": "May cause metabolic alkalosis, hypernatremia, and hypokalemia if overdosed; caution in CHF and renal impairment",
+      "reintroduction": "Reintroduce based on ABG and acid-base status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sodium bicarbonate",
+      "nomeComercial": "Sodium Bicarbonate Injection 8.4%, Neut, Alka-Seltzer",
+      "mecanismoAcao": "Buffers excess hydrogen ions, raising extracellular pH",
+      "farmacocinetica": "Rapid extracellular distribution; converts to CO₂ and water; renal excretion",
+      "farmacodinamica": "Corrects acidosis and stabilizes cardiac contractility and electrolytes",
+      "indicacoes": "Severe metabolic acidosis, hyperkalemia, TCA/salicylate overdose, renal tubular acidosis",
+      "reacoesAdversas": "Alkalosis, edema, hypernatremia, hypokalemia, seizures",
+      "riscoGravidez": "Category C – caution advised",
+      "riscoLactacao": "Likely safe",
+      "administracao": "Slow IV bolus or infusion; oral for dyspepsia",
+      "doseMaxima": "Up to 100–200 mEq/day IV under monitoring",
+      "doseMinima": "10–20 mEq IV bolus for mild acidosis",
+      "classificacao": "Systemic alkalinizer",
+      "apresentacao": "10 mL ampoules (8.4%), oral tabs 325–650 mg",
+      "interacaoMedicamento": "Incompatible with calcium in IV; may reduce oral absorption of antifungals and antibiotics",
+      "posologia": "10–50 mEq IV; 325–650 mg PO q4–6h prn",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Dilute in D5W or NS for infusion",
+      "solucoesCompatíveis": "0.9% NaCl, D5W (avoid calcium solutions)",
+      "contraindicacoes": "Alkalosis, symptomatic hypocalcemia, severe hypernatremia, apnea without ventilation",
+      "cuidadosMedicos": "Monitor ABG, electrolytes, serum bicarbonate",
+      "cuidadosFarmaceuticos": "Ensure compatibility and proper dilution",
+      "cuidadosEnfermagem": "Watch for alkalosis signs, IV infiltration, mental status",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex, AHA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bicarbonato de sodio",
+      "suspension": "No requiere suspensión preoperatoria",
+      "risk": "Puede causar alcalosis, hipernatremia o hipopotasemia si se abusa",
+      "reintroduction": "Reintroducir según estado ácido-base y necesidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bicarbonato de sodio",
+      "nomeComercial": "Bicarbonato sódico B. Braun, Alka-Seltzer",
+      "mecanismoAcao": "Neutraliza ácido y aumenta el pH extracelular",
+      "farmacocinetica": "Rápida distribución extracelular; metabolizado en CO₂; excreción renal",
+      "farmacodinamica": "Corrige acidosis, mejora contractilidad cardíaca",
+      "indicacoes": "Acidosis metabólica, hipercalemia, sobredosis, dispepsia",
+      "reacoesAdversas": "Alcalosis, edema, hipernatremia, hipopotasemia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Probablemente seguro",
+      "administracao": "IV lenta, infusión o VO",
+      "doseMaxima": "200 mEq/día IV bajo control",
+      "doseMinima": "10–20 mEq IV",
+      "classificacao": "Alcalinizante sistémico",
+      "apresentacao": "Ampollas 10 mL (8,4%), tabletas 325–650 mg",
+      "interacaoMedicamento": "Incompatible con calcio IV, disminuye absorción de fármacos orales",
+      "posologia": "10–50 mEq IV; VO 325–650 mg cada 6h",
+      "armazenamento": "Temperatura ambiente, evitar luz",
+      "preparo": "Diluir en suero fisiológico o glucosado",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%",
+      "contraindicacoes": "Alcalosis, hipocalcemia, hipernatremia severa",
+      "cuidadosMedicos": "Monitorear pH, bicarbonato, electrolitos",
+      "cuidadosFarmaceuticos": "Dilución correcta, evitar precipitados",
+      "cuidadosEnfermagem": "Supervisar signos de alcalosis, extravasación",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "碳酸氢钠",
+      "suspension": "术前无需停用",
+      "risk": "大剂量可引起碱中毒、高钠、低钾；肾功能不全慎用",
+      "reintroduction": "术后根据动脉血气分析与酸碱状态调整使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "碳酸氢钠",
+      "nomeComercial": "注射用碳酸氢钠、泡腾片（口服）",
+      "mecanismoAcao": "中和酸性，提高血液pH值",
+      "farmacocinetica": "静脉注射迅速分布；代谢为CO₂；肾排泄",
+      "farmacodinamica": "纠正酸中毒，稳定心肌功能",
+      "indicacoes": "代谢性酸中毒、高钾血症、药物中毒",
+      "reacoesAdversas": "碱中毒、水肿、高钠、抽搐、低钾",
+      "riscoGravidez": "C类 – 谨慎使用",
+      "riscoLactacao": "少量使用安全",
+      "administracao": "静脉注射或口服",
+      "doseMaxima": "每日不超过200 mEq",
+      "doseMinima": "轻度酸中毒10–20 mEq起始",
+      "classificacao": "系统性碱化剂",
+      "apresentacao": "注射液（8.4%）、泡腾片",
+      "interacaoMedicamento": "与钙类药物不相容；影响某些口服药吸收",
+      "posologia": "10–50 mEq静注；口服325–650mg每4–6小时",
+      "armazenamento": "室温避光",
+      "preparo": "稀释于葡萄糖或生理盐水中静滴",
+      "solucoesCompatíveis": "氯化钠0.9%、葡萄糖5%（忌与钙共用）",
+      "contraindicacoes": "碱中毒、严重高钠、症状性低钙",
+      "cuidadosMedicos": "监测pH、电解质、肾功能",
+      "cuidadosFarmaceuticos": "配伍检查，防止沉淀",
+      "cuidadosEnfermagem": "监测意识状态、反射、酸碱平衡",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape、FDA"
+    }
+  }
+}

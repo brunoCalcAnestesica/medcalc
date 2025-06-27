@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clobetasol",
+      "suspension": "Não suspender em cirurgias menores; em cirurgias maiores, considerar risco de imunossupressão local",
+      "risk": "Risco de atrofia cutânea, infecção local, supressão adrenal com uso prolongado ou em grandes áreas",
+      "reintroduction": "Reintroduzir conforme resposta clínica e integridade da pele"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clobetasol propionato",
+      "nomeComercial": "Dermovate, Clob-X, Clobetasol Galderma",
+      "mecanismoAcao": "Corticosteroide de alta potência que inibe a síntese de prostaglandinas e citocinas inflamatórias",
+      "farmacocinetica": "Absorção cutânea variável; metabolizado hepaticamente; excreção renal",
+      "farmacodinamica": "Ação anti-inflamatória, antipruriginosa e vasoconstritora potente",
+      "indicacoes": "Psoríase, dermatite atópica, líquen plano, lúpus cutâneo, eczema resistente",
+      "reacoesAdversas": "Atrofia cutânea, telangiectasias, estrias, infecção secundária, acne, hipopigmentação",
+      "riscoGravidez": "Categoria C; evitar uso prolongado durante gestação",
+      "riscoLactacao": "Evitar uso em áreas que entrem em contato com o lactente",
+      "administracao": "Tópica",
+      "doseMaxima": "50 g/semana em adultos",
+      "doseMinima": "Aplicação local 1–2x/dia",
+      "classificacao": "Corticosteroide tópico de classe I (alta potência)",
+      "apresentacao": "Creme, pomada ou solução capilar 0,05%",
+      "interacaoMedicamento": "Risco aumentado com outros corticosteroides tópicos/sistêmicos",
+      "posologia": "Aplicar fina camada 1–2x/dia por até 2 semanas",
+      "armazenamento": "Temperatura ambiente (15–25°C)",
+      "preparo": "Uso direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Rosácea, dermatite perioral, infecções cutâneas virais, tuberculose cutânea",
+      "cuidadosMedicos": "Evitar uso em áreas extensas por mais de 14 dias; avaliar supressão do eixo HHA",
+      "cuidadosFarmaceuticos": "Orientar sobre risco de efeitos colaterais locais e oclusão",
+      "cuidadosEnfermagem": "Observar sinais de atrofia ou infecção; aplicar com luvas se necessário",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Clobetasol",
+      "suspension": "Do not suspend for minor surgery; evaluate for major procedures",
+      "risk": "Skin thinning, local infection, HPA axis suppression if overused",
+      "reintroduction": "Resume based on clinical indication and skin status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clobetasol propionate",
+      "nomeComercial": "Temovate, Olux, Clobex",
+      "mecanismoAcao": "High-potency corticosteroid inhibiting inflammatory cytokine synthesis",
+      "farmacocinetica": "Variable absorption; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Strong anti-inflammatory, antipruritic, and vasoconstrictive effect",
+      "indicacoes": "Psoriasis, atopic dermatitis, lichen planus, discoid lupus, resistant eczema",
+      "reacoesAdversas": "Skin atrophy, telangiectasia, striae, secondary infection, acneiform rash",
+      "riscoGravidez": "Category C; use only if benefit outweighs risk",
+      "riscoLactacao": "Avoid contact with nursing infant",
+      "administracao": "Topical",
+      "doseMaxima": "50 g/week",
+      "doseMinima": "Apply 1–2x/day locally",
+      "classificacao": "High-potency topical corticosteroid (Class I)",
+      "apresentacao": "0.05% cream, ointment, gel, foam, shampoo",
+      "interacaoMedicamento": "Potentiation with other corticosteroids",
+      "posologia": "Apply thin layer 1–2 times daily for ≤2 weeks",
+      "armazenamento": "59–77°F; protect from heat",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Rosacea, perioral dermatitis, viral skin infections, TB of skin",
+      "cuidadosMedicos": "Limit duration and area; monitor adrenal suppression",
+      "cuidadosFarmaceuticos": "Educate on application and avoid occlusion",
+      "cuidadosEnfermagem": "Monitor for adverse effects and infection signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, NIH"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clobetasol",
+      "suspension": "No suspender en cirugía menor; evaluar en cirugía mayor",
+      "risk": "Atrofia cutánea, infecciones, supresión suprarrenal con uso excesivo",
+      "reintroduction": "Reiniciar según necesidad y condición de la piel"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clobetasol propionato",
+      "nomeComercial": "Clobex, Dermovate, Temovate",
+      "mecanismoAcao": "Corticoide tópico potente que inhibe mediadores inflamatorios",
+      "farmacocinetica": "Absorción variable; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Efecto antiinflamatorio, antipruriginoso y vasoconstrictor potente",
+      "indicacoes": "Psoriasis, dermatitis atópica, lupus cutáneo, eczema severo",
+      "reacoesAdversas": "Atrofia, estrías, infección, acné, hipo/hiperpigmentación",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar contacto con lactante",
+      "administracao": "Tópico",
+      "doseMaxima": "50 g/semana",
+      "doseMinima": "1–2 aplicaciones/día",
+      "classificacao": "Corticoide tópico de alta potencia",
+      "apresentacao": "Crema, pomada, solución 0.05%",
+      "interacaoMedicamento": "Potencia efecto con otros corticoides",
+      "posologia": "Aplicar capa fina 1–2 veces/día por hasta 14 días",
+      "armazenamento": "15–25°C",
+      "preparo": "Uso directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Rosácea, tuberculosis, infecciones virales cutáneas",
+      "cuidadosMedicos": "Supervisar si se usa en zonas extensas o por más de 14 días",
+      "cuidadosFarmaceuticos": "Educar sobre uso correcto y riesgos de oclusión",
+      "cuidadosEnfermagem": "Observar efectos locales adversos",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯倍他索",
+      "suspension": "小手术无需停药，大手术前酌情考虑",
+      "risk": "局部可致皮肤萎缩、感染、长期大面积使用可抑制肾上腺轴",
+      "reintroduction": "术后可根据皮肤情况恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "丙酸氯倍他索",
+      "nomeComercial": "Dermovate, Clobex",
+      "mecanismoAcao": "强效糖皮质激素，抑制炎症介质合成",
+      "farmacocinetica": "皮肤吸收量依区域不同；肝代谢；肾排泄",
+      "farmacodinamica": "抗炎、止痒、血管收缩作用强",
+      "indicacoes": "银屑病、慢性湿疹、盘状红斑狼疮等",
+      "reacoesAdversas": "皮肤变薄、毛细血管扩张、痤疮、继发感染、色素改变",
+      "riscoGravidez": "C类；孕期慎用",
+      "riscoLactacao": "避免涂抹乳房区域",
+      "administracao": "外用",
+      "doseMaxima": "每周不超过50克",
+      "doseMinima": "每日1–2次局部使用",
+      "classificacao": "超强效局部糖皮质激素",
+      "apresentacao": "乳膏/软膏/溶液0.05%",
+      "interacaoMedicamento": "慎与其他激素药合用",
+      "posologia": "每日1–2次，连用不超两周",
+      "armazenamento": "室温（15–25°C）",
+      "preparo": "直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "玫瑰痤疮、病毒性皮炎、活动性皮肤结核",
+      "cuidadosMedicos": "不宜长期大面积使用；监测肾上腺功能",
+      "cuidadosFarmaceuticos": "宣教使用时间限制与不遮盖处理",
+      "cuidadosEnfermagem": "观察局部反应与感染风险",
+      "fontesBibliograficas": "中国药典，FDA，EMA，Micromedex"
+    }
+  }
+}

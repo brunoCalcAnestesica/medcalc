@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tioguanina",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de mielossupressão, hepatotoxicidade e infecções graves",
+      "reintroduction": "Reintroduzir após normalização do hemograma e função hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tioguanina",
+      "nomeComercial": "Lanvis",
+      "mecanismoAcao": "Análogo da purina que se incorpora ao DNA e RNA, inibindo a síntese de ácidos nucleicos e promovendo apoptose",
+      "farmacocinetica": "Biodisponibilidade oral 30%; meia-vida plasmática de 80 minutos; metabolização hepática e excreção renal",
+      "farmacodinamica": "Citotóxico com ação específica na fase S do ciclo celular",
+      "indicacoes": "Leucemia mieloide aguda, leucemia linfoblástica aguda, leucemia mieloide crônica",
+      "reacoesAdversas": "Mielossupressão, hepatotoxicidade, náuseas, vômitos, úlceras orais",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via oral",
+      "doseMaxima": "2 mg/kg/dia",
+      "doseMinima": "0,3 mg/kg/dia",
+      "classificacao": "Antineoplásico – antimetabólito (análogo de purina)",
+      "apresentacao": "Comprimidos de 40 mg",
+      "interacaoMedicamento": "Interage com alopurinol, outros imunossupressores e anticoagulantes",
+      "posologia": "2 mg/kg/dia por via oral, ajustado conforme resposta hematológica",
+      "armazenamento": "Temperatura ambiente (15–25°C), protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, disfunção hepática grave, depressão medular severa",
+      "cuidadosMedicos": "Monitorar hemograma completo, enzimas hepáticas e sinais de infecção",
+      "cuidadosFarmaceuticos": "Armazenar protegido da luz, não fracionar comprimidos",
+      "cuidadosEnfermagem": "Observar sinais de mielossupressão, orientar paciente sobre precauções com infecções",
+      "fontesBibliograficas": "INCA, Micromedex, FDA, ANVISA, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Thioguanine",
+      "suspension": "Discontinue 7 days prior to elective surgery",
+      "risk": "Risk of myelosuppression, hepatotoxicity, and severe infections",
+      "reintroduction": "Restart after hematologic and hepatic recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Thioguanine",
+      "nomeComercial": "Lanvis",
+      "mecanismoAcao": "Purine analog incorporated into DNA and RNA, inhibiting nucleic acid synthesis and inducing apoptosis",
+      "farmacocinetica": "Oral bioavailability ~30%; plasma half-life ~80 minutes; hepatic metabolism and renal excretion",
+      "farmacodinamica": "S-phase specific cytotoxic agent",
+      "indicacoes": "Acute myeloid leukemia, acute lymphoblastic leukemia, chronic myeloid leukemia",
+      "reacoesAdversas": "Myelosuppression, hepatotoxicity, nausea, vomiting, oral ulcers",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral route",
+      "doseMaxima": "2 mg/kg/day",
+      "doseMinima": "0.3 mg/kg/day",
+      "classificacao": "Antineoplastic – antimetabolite (purine analog)",
+      "apresentacao": "Oral tablets, 40 mg",
+      "interacaoMedicamento": "Interacts with allopurinol, immunosuppressants, anticoagulants",
+      "posologia": "2 mg/kg/day orally, adjusted to hematologic response",
+      "armazenamento": "Store at 15–25°C, protect from light",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, severe hepatic dysfunction, severe bone marrow suppression",
+      "cuidadosMedicos": "Monitor CBC, liver enzymes, and signs of infection",
+      "cuidadosFarmaceuticos": "Protect from light, do not split tablets",
+      "cuidadosEnfermagem": "Watch for signs of myelosuppression, advise patient on infection precautions",
+      "fontesBibliograficas": "FDA, Micromedex, NCCN, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tioguanina",
+      "suspension": "Suspender 7 días antes de la cirugía electiva",
+      "risk": "Riesgo de mielosupresión, hepatotoxicidad e infecciones graves",
+      "reintroduction": "Reintroducir tras recuperación hematológica y hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tioguanina",
+      "nomeComercial": "Lanvis",
+      "mecanismoAcao": "Análogo de purina que se incorpora al ADN y ARN, inhibiendo su síntesis y causando apoptosis",
+      "farmacocinetica": "Biodisponibilidad oral ~30%; vida media 80 min; metabolismo hepático, excreción renal",
+      "farmacodinamica": "Citotóxico específico de fase S",
+      "indicacoes": "Leucemia mieloide aguda, leucemia linfoblástica aguda, leucemia mieloide crónica",
+      "reacoesAdversas": "Mielosupresión, hepatotoxicidad, náuseas, vómitos, úlceras bucales",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado; se excreta en la leche materna",
+      "administracao": "Vía oral",
+      "doseMaxima": "2 mg/kg/día",
+      "doseMinima": "0,3 mg/kg/día",
+      "classificacao": "Antineoplásico – antimetabolito (análogo de purina)",
+      "apresentacao": "Comprimidos orales de 40 mg",
+      "interacaoMedicamento": "Interacción con alopurinol, inmunosupresores y anticoagulantes",
+      "posologia": "2 mg/kg/día por vía oral, ajustado según respuesta hematológica",
+      "armazenamento": "Temperatura ambiente (15–25°C), protegido de la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Embarazo, lactancia, insuficiencia hepática grave, depresión medular",
+      "cuidadosMedicos": "Monitorear hemograma, enzimas hepáticas, signos de infección",
+      "cuidadosFarmaceuticos": "Conservar protegido de la luz, no fraccionar comprimidos",
+      "cuidadosEnfermagem": "Vigilar mielosupresión, educar al paciente sobre prevención de infecciones",
+      "fontesBibliograficas": "ANMAT, FDA, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硫鸟嘌呤",
+      "suspension": "择期手术前7天停药",
+      "risk": "骨髓抑制、肝毒性和严重感染风险",
+      "reintroduction": "血象和肝功能恢复正常后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硫鸟嘌呤",
+      "nomeComercial": "Lanvis",
+      "mecanismoAcao": "嘌呤类似物，嵌入DNA和RNA，抑制其合成并诱导细胞凋亡",
+      "farmacocinetica": "口服生物利用度约30%；半衰期约80分钟；肝代谢，肾排泄",
+      "farmacodinamica": "S期特异性细胞毒药物",
+      "indicacoes": "急性髓系白血病、急性淋巴细胞白血病、慢性髓系白血病",
+      "reacoesAdversas": "骨髓抑制、肝毒性、恶心、呕吐、口腔溃疡",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用，可分泌至乳汁",
+      "administracao": "口服",
+      "doseMaxima": "每日2 mg/kg",
+      "doseMinima": "每日0.3 mg/kg",
+      "classificacao": "抗肿瘤药 – 抗代谢药（嘌呤类似物）",
+      "apresentacao": "口服片剂，40 mg",
+      "interacaoMedicamento": "与别嘌醇、免疫抑制剂、抗凝药物相互作用",
+      "posologia": "每日2 mg/kg，根据血象反应调整",
+      "armazenamento": "室温（15–25°C）避光保存",
+      "preparo": "无需特殊配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、严重肝功能障碍、骨髓抑制",
+      "cuidadosMedicos": "监测血常规、肝酶、感染迹象",
+      "cuidadosFarmaceuticos": "避光存储，不可掰片",
+      "cuidadosEnfermagem": "监测骨髓抑制，指导防感染措施",
+      "fontesBibliograficas": "中国药典, FDA, Micromedex, NCCN"
+    }
+  }
+}

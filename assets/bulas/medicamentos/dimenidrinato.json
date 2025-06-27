@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Dimenidrinato",
+      "suspension": "Suspender 24h antes de cirurgias eletivas que utilizem anestesia geral",
+      "risk": "Potencial sedação excessiva, interação com anestésicos e risco de retenção urinária ou íleo paralítico",
+      "reintroduction": "Reintroduzir conforme necessidade clínica após recuperação anestésica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dimenidrinato",
+      "nomeComercial": "Dramin, Dimetiv, Vertix",
+      "mecanismoAcao": "Antagonista dos receptores H1 da histamina, com efeito antiemético e sedativo",
+      "farmacocinetica": "Absorção oral rápida, pico plasmático em 2h, metabolização hepática, eliminação renal",
+      "farmacodinamica": "Reduz estímulo vestibular e atua na zona de gatilho do vômito no bulbo",
+      "indicacoes": "Náuseas, vômitos, vertigens, enjoo por movimento",
+      "reacoesAdversas": "Sonolência, boca seca, tontura, retenção urinária, constipação",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Pode ser excretado no leite; usar com cautela",
+      "administracao": "Via oral, intramuscular ou intravenosa",
+      "doseMaxima": "400mg/dia",
+      "doseMinima": "50mg/dose",
+      "classificacao": "Antiemético, anti-histamínico de primeira geração",
+      "apresentacao": "Comprimidos, solução injetável, gotas",
+      "interacaoMedicamento": "Potencializa sedação com benzodiazepínicos, opioides e álcool",
+      "posologia": "50–100mg a cada 4–6h se necessário",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Ampola pronta para uso; não requer diluição",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, dextrose 5%",
+      "contraindicacoes": "Glaucoma de ângulo fechado, hipertrofia prostática, porfiria",
+      "cuidadosMedicos": "Evitar uso prolongado; monitorar efeitos centrais em idosos",
+      "cuidadosFarmaceuticos": "Orientar sobre sedação e evitar operar máquinas",
+      "cuidadosEnfermagem": "Observar nível de consciência e efeitos colaterais",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Dimenhydrinate",
+      "suspension": "Discontinue 24h prior to elective surgeries under general anesthesia",
+      "risk": "May cause excessive sedation, interact with anesthetics, risk of urinary retention or paralytic ileus",
+      "reintroduction": "Reintroduce as needed after full anesthetic recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dimenhydrinate",
+      "nomeComercial": "Dramamine",
+      "mecanismoAcao": "H1 histamine receptor antagonist with antiemetic and sedative properties",
+      "farmacocinetica": "Rapid oral absorption, peak in 2h, hepatic metabolism, renal elimination",
+      "farmacodinamica": "Inhibits vestibular stimulation and vomiting center in the medulla",
+      "indicacoes": "Motion sickness, nausea, vomiting, vertigo",
+      "reacoesAdversas": "Drowsiness, dry mouth, dizziness, urinary retention, constipation",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "May be excreted in breast milk; caution advised",
+      "administracao": "Oral, intramuscular, or intravenous routes",
+      "doseMaxima": "400mg/day",
+      "doseMinima": "50mg/dose",
+      "classificacao": "Antiemetic, first-generation antihistamine",
+      "apresentacao": "Tablets, injection, oral drops",
+      "interacaoMedicamento": "Enhances sedation with opioids, alcohol, benzodiazepines",
+      "posologia": "50–100mg every 4–6h as needed",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Injection is ready to use; no dilution required",
+      "solucoesCompatíveis": "Normal saline, 5% dextrose",
+      "contraindicacoes": "Closed-angle glaucoma, prostatic hypertrophy, porphyria",
+      "cuidadosMedicos": "Avoid prolonged use; monitor CNS effects in elderly",
+      "cuidadosFarmaceuticos": "Advise patient on sedation; avoid operating machinery",
+      "cuidadosEnfermagem": "Monitor consciousness and adverse effects",
+      "fontesBibliograficas": "FDA, Micromedex, Clinical Pharmacology"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Dimenhidrinato",
+      "suspension": "Suspender 24h antes de cirugía electiva bajo anestesia general",
+      "risk": "Puede causar sedación excesiva, interactuar con anestésicos, riesgo de retención urinaria o íleo paralítico",
+      "reintroduction": "Reintroducir según necesidad clínica tras recuperación anestésica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dimenhidrinato",
+      "nomeComercial": "Dramamine",
+      "mecanismoAcao": "Antagonista de receptores H1 con efectos antieméticos y sedantes",
+      "farmacocinetica": "Absorción rápida, pico en 2h, metabolismo hepático, eliminación renal",
+      "farmacodinamica": "Inhibe estímulo vestibular y el centro del vómito",
+      "indicacoes": "Mareo, náuseas, vómitos, vértigo",
+      "reacoesAdversas": "Somnolencia, boca seca, mareo, retención urinaria, estreñimiento",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Puede excretarse en la leche; usar con precaución",
+      "administracao": "Vía oral, IM o IV",
+      "doseMaxima": "400mg/día",
+      "doseMinima": "50mg/dosis",
+      "classificacao": "Antiemético, antihistamínico de primera generación",
+      "apresentacao": "Comprimidos, solución inyectable, gotas orales",
+      "interacaoMedicamento": "Aumenta sedación con opioides, alcohol, benzodiazepinas",
+      "posologia": "50–100mg cada 4–6h según necesidad",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Ampolla lista para usar, no requiere dilución",
+      "solucoesCompatíveis": "Cloruro sódico 0,9%, glucosa 5%",
+      "contraindicacoes": "Glaucoma de ángulo cerrado, hipertrofia prostática, porfiria",
+      "cuidadosMedicos": "Evitar uso prolongado, monitorear efectos en ancianos",
+      "cuidadosFarmaceuticos": "Advertir sobre somnolencia, evitar maquinaria",
+      "cuidadosEnfermagem": "Observar nivel de conciencia y efectos adversos",
+      "fontesBibliograficas": "Micromedex, FDA, literatura clínica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "茶苯海明",
+      "suspension": "择期手术前24小时停用，特别是在全麻手术中",
+      "risk": "可能引起过度镇静，与麻醉剂相互作用，增加尿潴留或肠麻痹风险",
+      "reintroduction": "术后完全苏醒后可根据临床需要重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "茶苯海明",
+      "nomeComercial": "晕海宁（Dramamine）",
+      "mecanismoAcao": "H1受体拮抗剂，具有抗晕和镇静作用",
+      "farmacocinetica": "口服吸收快，2小时达峰，肝脏代谢，经肾排泄",
+      "farmacodinamica": "抑制前庭刺激和延髓呕吐中枢",
+      "indicacoes": "晕车、恶心、呕吐、眩晕",
+      "reacoesAdversas": "嗜睡、口干、头晕、尿潴留、便秘",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可能排泄入乳汁，哺乳期慎用",
+      "administracao": "口服、肌注或静注",
+      "doseMaxima": "每日400毫克",
+      "doseMinima": "每次50毫克",
+      "classificacao": "第一代抗组胺药，止吐药",
+      "apresentacao": "片剂、注射液、滴剂",
+      "interacaoMedicamento": "与麻醉药、镇静药、酒精联用增强镇静作用",
+      "posologia": "每4–6小时服用50–100mg，根据需要调整",
+      "armazenamento": "室温避光保存",
+      "preparo": "注射剂无需稀释，直接使用",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "闭角型青光眼、前列腺肥大、卟啉症",
+      "cuidadosMedicos": "避免长期使用，老年人需密切监测中枢抑制反应",
+      "cuidadosFarmaceuticos": "提醒患者避免驾车、操作机械",
+      "cuidadosEnfermagem": "观察意识状态和不良反应",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

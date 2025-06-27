@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Mexiletina",
+      "suspension": "Suspender 24h antes de cirurgia eletiva em pacientes com instabilidade elétrica ou sob anestesia geral",
+      "risk": "Risco de arritmias, tontura, náusea, hepatotoxicidade e interação com anestésicos e antiarrítmicos",
+      "reintroduction": "Reintroduzir após avaliação cardiológica e estabilidade elétrica pós-operatória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mexiletina cloridrato",
+      "nomeComercial": "Mexitil",
+      "mecanismoAcao": "Bloqueador dos canais de sódio (classe IB); reduz automaticidade e excitabilidade ventricular",
+      "farmacocinetica": "Via oral; meia-vida ~10–12h; metabolização hepática (CYP2D6)",
+      "farmacodinamica": "Diminui arritmias ventriculares ao estabilizar membranas",
+      "indicacoes": "Arritmias ventriculares graves (ex.: TVNS), distrofias musculares com miotonia",
+      "reacoesAdversas": "Tontura, náusea, tremor, dispepsia, hepatotoxicidade, parestesia, cefaleia",
+      "riscoGravidez": "Categoria C – usar apenas se essencial",
+      "riscoLactacao": "Excretado no leite; avaliar risco/benefício",
+      "administracao": "Oral",
+      "doseMaxima": "600–900mg/dia",
+      "doseMinima": "200–300mg/dia",
+      "classificacao": "Antiarrítmico classe IB (análogo oral da lidocaína)",
+      "apresentacao": "Cápsulas 100mg, 200mg",
+      "interacaoMedicamento": "Interage com propranolol, flecainida, amiodarona, antiepilépticos, álcool",
+      "posologia": "200–300mg 2–3x/dia; iniciar com 200mg a cada 8h",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Bloqueio AV de 2º ou 3º grau sem marcapasso, choque cardiogênico, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar ECG, transaminases, eletrólitos e sintomas neurológicos",
+      "cuidadosFarmaceuticos": "Orientar sobre horários fixos, interações e sinais de toxicidade",
+      "cuidadosEnfermagem": "Observar arritmias, tontura, sintomas GI e hepáticos",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, ANVISA, PubMed"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mexiletine",
+      "suspension": "Discontinue 24h before elective surgery in patients with electrical instability or general anesthesia risk",
+      "risk": "Risk of arrhythmias, dizziness, nausea, hepatotoxicity, and anesthetic interaction",
+      "reintroduction": "Restart after cardiologic reassessment and postoperative electrical stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mexiletine hydrochloride",
+      "nomeComercial": "Mexitil",
+      "mecanismoAcao": "Class IB sodium channel blocker; decreases automaticity and excitability",
+      "farmacocinetica": "Oral; half-life ~10–12h; hepatic metabolism (CYP2D6)",
+      "farmacodinamica": "Stabilizes membranes and suppresses ventricular arrhythmias",
+      "indicacoes": "Serious ventricular arrhythmias, non-dystrophic myotonias",
+      "reacoesAdversas": "Dizziness, nausea, tremor, dyspepsia, hepatotoxicity, paresthesia, headache",
+      "riscoGravidez": "Category C – use only if essential",
+      "riscoLactacao": "Excreted in milk; assess risk/benefit",
+      "administracao": "Oral",
+      "doseMaxima": "600–900mg/day",
+      "doseMinima": "200–300mg/day",
+      "classificacao": "Class IB antiarrhythmic (oral lidocaine analog)",
+      "apresentacao": "Capsules: 100mg, 200mg",
+      "interacaoMedicamento": "Interacts with propranolol, flecainide, amiodarone, anticonvulsants, alcohol",
+      "posologia": "200–300mg 2–3x/day; initial: 200mg every 8h",
+      "armazenamento": "Room temp, dry conditions",
+      "preparo": "Oral use only",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "AV block (2nd/3rd degree) without pacemaker, cardiogenic shock, hypersensitivity",
+      "cuidadosMedicos": "Monitor ECG, LFTs, electrolytes, neurologic signs",
+      "cuidadosFarmaceuticos": "Counsel on fixed schedule, interactions, toxicity signs",
+      "cuidadosEnfermagem": "Observe arrhythmia, dizziness, GI or hepatic symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Mexiletina",
+      "suspension": "Suspender 24h antes de cirugía en pacientes con inestabilidad eléctrica o anestesia general",
+      "risk": "Riesgo de arritmias, mareo, náuseas, hepatotoxicidad e interacción anestésica",
+      "reintroduction": "Reiniciar tras evaluación cardiológica y estabilidad postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de mexiletina",
+      "nomeComercial": "Mexitil",
+      "mecanismoAcao": "Bloqueador de canales de sodio clase IB; disminuye la excitabilidad ventricular",
+      "farmacocinetica": "Oral; vida media ~10–12h; metabolismo hepático (CYP2D6)",
+      "farmacodinamica": "Estabiliza membranas y reduce arritmias ventriculares",
+      "indicacoes": "Arritmias ventriculares graves, miotonías no distróficas",
+      "reacoesAdversas": "Mareo, náuseas, temblor, dispepsia, hepatotoxicidad, parestesias, cefalea",
+      "riscoGravidez": "Categoría C – usar solo si es esencial",
+      "riscoLactacao": "Se excreta en leche; valorar riesgo/beneficio",
+      "administracao": "Oral",
+      "doseMaxima": "600–900mg/día",
+      "doseMinima": "200–300mg/día",
+      "classificacao": "Antiarrítmico clase IB (análogo oral de lidocaína)",
+      "apresentacao": "Cápsulas: 100mg, 200mg",
+      "interacaoMedicamento": "Interacción con propranolol, flecainida, amiodarona, antiepilépticos, alcohol",
+      "posologia": "200–300mg 2–3 veces/día; inicio: 200mg cada 8h",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Bloqueo AV de 2°–3° sin marcapasos, shock cardiogénico, alergia",
+      "cuidadosMedicos": "Controlar ECG, transaminasas, electrolitos, síntomas neurológicos",
+      "cuidadosFarmaceuticos": "Educar sobre horario fijo, interacciones, signos de toxicidad",
+      "cuidadosEnfermagem": "Observar arritmias, mareo, síntomas digestivos y hepáticos",
+      "fontesBibliograficas": "EMA, Micromedex, PubMed"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "美西律",
+      "suspension": "择期手术前24小时停药，特别是有心律不稳或需全麻者",
+      "risk": "可致心律失常、头晕、恶心、肝毒性，与麻醉药物有相互作用",
+      "reintroduction": "术后稳定后由心脏科评估恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸美西律",
+      "nomeComercial": "Mexitil",
+      "mecanismoAcao": "ⅠB类抗心律失常药，阻断钠通道，减少心肌自动节律性",
+      "farmacocinetica": "口服吸收良好；半衰期约10–12小时；肝代谢（CYP2D6）",
+      "farmacodinamica": "稳定心肌膜，抑制室性心律失常",
+      "indicacoes": "严重室性心律失常、非营养不良性肌强直症",
+      "reacoesAdversas": "头晕、恶心、震颤、胃部不适、肝功能异常、麻木、头痛",
+      "riscoGravidez": "C类 – 非必要慎用",
+      "riscoLactacao": "可进入乳汁，需评估利弊",
+      "administracao": "口服",
+      "doseMaxima": "每日600–900mg",
+      "doseMinima": "每日200–300mg",
+      "classificacao": "ⅠB类口服抗心律失常药（类利多卡因）",
+      "apresentacao": "胶囊：100mg、200mg",
+      "interacaoMedicamento": "与普萘洛尔、胺碘酮、抗癫药、酒精等有相互作用",
+      "posologia": "每日2–3次，每次200–300mg；起始200mg每8小时",
+      "armazenamento": "室温干燥保存",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "II–III度房室传导阻滞（无起搏器）、心源性休克、过敏",
+      "cuidadosMedicos": "监测心电图、肝酶、电解质及神经症状",
+      "cuidadosFarmaceuticos": "指导规律用药、注意药物相互作用及毒性体征",
+      "cuidadosEnfermagem": "注意心律变化、头晕、消化或肝脏异常表现",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

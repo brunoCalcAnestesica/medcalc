@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bacitracina tópica",
+      "suspension": "Não requer suspensão antes de cirurgia",
+      "risk": "Risco de dermatite de contato e reações alérgicas; toxicidade sistêmica extremamente rara",
+      "reintroduction": "Pode ser reintroduzida após cicatrização da área operada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bacitracina",
+      "nomeComercial": "Bacitracina, Bacigen, Nebacetin (em associação)",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana por interferência no transporte de peptidoglicano",
+      "farmacocinetica": "Absorção dérmica mínima; efeito local; não metabolizada sistemicamente em uso tópico",
+      "farmacodinamica": "Atividade bactericida contra gram-positivos (principalmente Staphylococcus e Streptococcus)",
+      "indicacoes": "Prevenção de infecção em pequenos cortes, abrasões, queimaduras superficiais",
+      "reacoesAdversas": "Coceira, eritema, dermatite de contato, rara anafilaxia",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Segura; evitar aplicação sobre mamilos sem indicação",
+      "administracao": "Tópica",
+      "doseMaxima": "Aplicar até 3x/dia em pequenas áreas",
+      "doseMinima": "1x/dia",
+      "classificacao": "Antibiótico tópico polipeptídico",
+      "apresentacao": "Pomada 250–500 UI/g, isolada ou em associação",
+      "interacaoMedicamento": "Evitar associação com outros antibióticos tópicos para minimizar risco de sensibilização",
+      "posologia": "Aplicar fina camada sobre área afetada; cobrir ou não com gaze",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Uso direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade à bacitracina ou outros antibióticos polipeptídicos",
+      "cuidadosMedicos": "Evitar uso prolongado em grandes áreas; risco de resistência",
+      "cuidadosFarmaceuticos": "Educar sobre sinais de alergia local e evitar uso indiscriminado",
+      "cuidadosEnfermagem": "Observar sinais de reação local ou piora da lesão",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bacitracin (topical)",
+      "suspension": "No suspension required perioperatively",
+      "risk": "Contact dermatitis, allergic reactions; rare systemic toxicity",
+      "reintroduction": "May resume after wound healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bacitracin",
+      "nomeComercial": "Bacitracin ointment, Polysporin",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis by blocking peptidoglycan precursors",
+      "farmacocinetica": "Minimal absorption; local effect only",
+      "farmacodinamica": "Bactericidal against gram-positive cocci",
+      "indicacoes": "Minor cuts, scrapes, burns",
+      "reacoesAdversas": "Itching, rash, contact allergy, rare anaphylaxis",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe; avoid nipple area unless indicated",
+      "administracao": "Topical",
+      "doseMaxima": "Apply up to 3x/day on small wounds",
+      "doseMinima": "Once daily",
+      "classificacao": "Topical polypeptide antibiotic",
+      "apresentacao": "250–500 units/g ointment",
+      "interacaoMedicamento": "Avoid mixing with other topicals unless directed",
+      "posologia": "Apply thin layer; may cover with dressing",
+      "armazenamento": "Store at 59–86°F (15–30°C)",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Known allergy to bacitracin",
+      "cuidadosMedicos": "Avoid widespread or prolonged use",
+      "cuidadosFarmaceuticos": "Inform patient about local reactions",
+      "cuidadosEnfermagem": "Monitor for rash, worsening, or hypersensitivity",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bacitracina (tópica)",
+      "suspension": "No requiere suspensión prequirúrgica",
+      "risk": "Dermatitis de contacto, hipersensibilidad; toxicidad sistémica muy rara",
+      "reintroduction": "Puede reintroducirse tras cicatrización cutánea"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bacitracina",
+      "nomeComercial": "Bacitracina, Bacigen",
+      "mecanismoAcao": "Inhibe la síntesis de la pared celular bacteriana",
+      "farmacocinetica": "Absorción mínima; efecto local",
+      "farmacodinamica": "Bactericida contra grampositivos",
+      "indicacoes": "Cortes leves, quemaduras, prevención de infección",
+      "reacoesAdversas": "Picor, enrojecimiento, alergia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar mamas",
+      "administracao": "Tópica",
+      "doseMaxima": "3 veces/día",
+      "doseMinima": "1 vez/día",
+      "classificacao": "Antibiótico polipeptídico tópico",
+      "apresentacao": "Pomada 250–500 UI/g",
+      "interacaoMedicamento": "Evitar uso conjunto con otros antibióticos tópicos",
+      "posologia": "Aplicar capa fina y cubrir si necesario",
+      "armazenamento": "15–30°C",
+      "preparo": "Uso directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia conocida",
+      "cuidadosMedicos": "Evitar uso extensivo o prolongado",
+      "cuidadosFarmaceuticos": "Orientar sobre síntomas de alergia",
+      "cuidadosEnfermagem": "Observar evolución de la herida",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "杆菌肽（外用）",
+      "suspension": "术前无需停用",
+      "risk": "局部过敏、红斑；系统毒性极罕见",
+      "reintroduction": "术后创口愈合后可继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "杆菌肽",
+      "nomeComercial": "Bacitracin，杆菌肽软膏",
+      "mecanismoAcao": "干扰细菌细胞壁合成，抑制肽聚糖前体",
+      "farmacocinetica": "经皮吸收极少；局部作用",
+      "farmacodinamica": "对革兰阳性菌有杀菌作用",
+      "indicacoes": "轻微创伤、擦伤、浅表感染预防",
+      "reacoesAdversas": "皮肤瘙痒、红斑、接触性皮炎",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "安全；避开乳房",
+      "administracao": "外用",
+      "doseMaxima": "每日最多3次",
+      "doseMinima": "每日1次",
+      "classificacao": "外用多肽类抗生素",
+      "apresentacao": "250–500单位/g软膏",
+      "interacaoMedicamento": "不建议与其他抗生素外用混合使用",
+      "posologia": "每日1–3次，薄涂患处，可覆盖",
+      "armazenamento": "15–30°C保存",
+      "preparo": "直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对杆菌肽过敏",
+      "cuidadosMedicos": "避免广泛使用或长期使用",
+      "cuidadosFarmaceuticos": "说明正确用法与可能过敏风险",
+      "cuidadosEnfermagem": "观察创面愈合与不良反应",
+      "fontesBibliograficas": "FDA，Micromedex，UpToDate，中国药典"
+    }
+  }
+}

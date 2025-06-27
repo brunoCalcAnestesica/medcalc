@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nalmefeno",
+      "suspension": "Não suspender — uso em contexto de emergência permitido; cuidado com precipitação de abstinência em usuários de opioides",
+      "risk": "Pode precipitar síndrome de abstinência aguda; interfere com analgesia opioide intraoperatória",
+      "reintroduction": "Pode ser reintroduzido conforme necessário em contexto agudo, após estabilização respiratória e hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nalmefeno",
+      "nomeComercial": "Selincro, Revex",
+      "mecanismoAcao": "Antagonista competitivo de receptores opioides (µ > δ > κ), sem atividade agonista",
+      "farmacocinetica": "Início IV: 2–5 min; meia-vida: 8–11h; metabolização hepática, excreção renal e fecal",
+      "farmacodinamica": "Reverte efeitos de opioides sem suprimir respiração em dose adequada; usado também para redução do consumo de álcool",
+      "indicacoes": "Reversão de depressão respiratória induzida por opioides; redução do consumo de álcool em dependentes motivados (Europa)",
+      "reacoesAdversas": "Náusea, tontura, sudorese, agitação, hipertensão, abstinência precipitada, cefaleia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excreção desconhecida; uso com cautela",
+      "administracao": "IV, IM, SC (emergência); oral (uso crônico europeu)",
+      "doseMaxima": "2mg IV em bolus único (revérter opioide); 18mg/dia oral (redução alcoólica)",
+      "doseMinima": "0,25mg IV (titulação leve para analgesia preservada)",
+      "classificacao": "Antagonista opioide puro",
+      "apresentacao": "Ampolas IV 1mg/mL; comprimidos 18mg (Selincro)",
+      "interacaoMedicamento": "Interage com opioides, agonistas parciais e agonistas mistos (ex: buprenorfina)",
+      "posologia": "IV: 0,25mg a 2mg, repetir a cada 2–5 min se necessário; oral: 1 comp/dia (18mg)",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "IV: pode ser diluído em SF ou SG5%; oral: tomar com água, sem relação com refeições",
+      "solucoesCompatíveis": "SF 0,9%; SG 5%",
+      "contraindicacoes": "Hipersensibilidade; uso em pacientes com opioides em curso; falência hepática grave",
+      "cuidadosMedicos": "Monitorar PA, ECG, respiração, estado mental e risco de abstinência abrupta",
+      "cuidadosFarmaceuticos": "Verificar risco de interação com opioides e garantir via de administração apropriada",
+      "cuidadosEnfermagem": "Observar retorno respiratório, agitação, dor e sinais autonômicos",
+      "fontesBibliograficas": "EMA, Micromedex, FDA, ANVISA, WHO, Lexicomp"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nalmefene",
+      "suspension": "Do not suspend — permitted for emergency intraoperative use",
+      "risk": "May trigger acute withdrawal; interferes with opioid-based anesthesia and analgesia",
+      "reintroduction": "Can be reintroduced as needed after stabilization of respiratory and hemodynamic status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nalmefene Hydrochloride",
+      "nomeComercial": "Revex (IV); not FDA-approved for alcohol use disorder",
+      "mecanismoAcao": "Pure opioid receptor antagonist (µ > κ > δ), high affinity without agonist activity",
+      "farmacocinetica": "IV onset 2–5 min; half-life 8–11h; hepatic metabolism; renal/fecal excretion",
+      "farmacodinamica": "Reverses opioid overdose; longer half-life than naloxone; used off-label in alcohol dependence in some regions",
+      "indicacoes": "Opioid overdose; investigated for alcohol dependence treatment",
+      "reacoesAdversas": "Nausea, dizziness, agitation, headache, hypertension, acute withdrawal",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "IV, IM, SC; oral (Europe only)",
+      "doseMaxima": "2mg IV bolus; 18mg/day orally (Europe)",
+      "doseMinima": "0.25mg IV (titrated for analgesia preservation)",
+      "classificacao": "Pure opioid antagonist",
+      "apresentacao": "IV: 1mg/mL ampoule; EU oral: 18mg tablet (Selincro)",
+      "interacaoMedicamento": "Interacts with opioids, partial/mixed agonists (buprenorphine, pentazocine)",
+      "posologia": "IV: 0.25–2mg every 2–5 min; Oral (EU): 1 tab/day (18mg)",
+      "armazenamento": "Store at 15–30°C; protect from light",
+      "preparo": "IV: dilute in NS or D5W as needed; oral: take with water",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Opioid use, hypersensitivity, severe hepatic failure",
+      "cuidadosMedicos": "Monitor for withdrawal, BP, ECG, respiration and mental status",
+      "cuidadosFarmaceuticos": "Verify opioid-free status before use; ensure access in emergency kits",
+      "cuidadosEnfermagem": "Observe for reversal of sedation, agitation, and adverse autonomic signs",
+      "fontesBibliograficas": "FDA, EMA, WHO, Lexicomp, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nalmefeno",
+      "suspension": "No se suspende — uso permitido en contexto de emergencia quirúrgica",
+      "risk": "Puede provocar abstinencia aguda; interfiere con anestesia basada en opioides",
+      "reintroduction": "Puede reintroducirse cuando el paciente esté estable y sin opioides circulantes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nalmefeno",
+      "nomeComercial": "Selincro (oral), Revex (IV)",
+      "mecanismoAcao": "Antagonista opioide puro (µ > κ > δ), sin acción agonista",
+      "farmacocinetica": "IV inicio 2–5 min, vida media 8–11h, metabolismo hepático, eliminación renal/fecal",
+      "farmacodinamica": "Revierte efectos de opioides; también reduce consumo de alcohol en pacientes con motivación a disminuir",
+      "indicacoes": "Sobredosis por opioides; dependencia alcohólica (oral, aprobado en Europa)",
+      "reacoesAdversas": "Náuseas, mareos, cefalea, hipertensión, agitación, síndrome de abstinencia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "IV, IM, SC (urgencia); oral (Selincro)",
+      "doseMaxima": "2mg IV en bolo; 18mg/día oral",
+      "doseMinima": "0.25mg IV (ajuste gradual)",
+      "classificacao": "Antagonista puro de receptores opioides",
+      "apresentacao": "Ampollas IV 1mg/mL; comprimidos orales 18mg",
+      "interacaoMedicamento": "Interacciones con opioides, agonistas parciales o mixtos (buprenorfina)",
+      "posologia": "IV: 0.25–2mg cada 2–5 minutos; Oral: 1 comp/día",
+      "armazenamento": "15–30°C, protegido de luz",
+      "preparo": "Diluir en SSF o glucosa 5%; tomar con agua (oral)",
+      "solucoesCompatíveis": "SSF, SG5%",
+      "contraindicacoes": "Uso activo de opioides, hipersensibilidad, hepatopatía severa",
+      "cuidadosMedicos": "Vigilar PA, ECG, respiración y estado mental; evitar interacciones",
+      "cuidadosFarmaceuticos": "Confirmar ausencia de opioides; monitorizar parámetros hepáticos",
+      "cuidadosEnfermagem": "Observar signos de reversión, agitación y respuesta autonómica",
+      "fontesBibliograficas": "EMA, FDA, WHO, Micromedex, AEMPS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "纳美芬",
+      "suspension": "无需停药 — 可在急救中使用",
+      "risk": "可能诱发阿片类戒断症状；干扰术中镇痛",
+      "reintroduction": "术后患者稳定后可根据需要重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "纳美芬",
+      "nomeComercial": "Selincro（口服）, Revex（注射）",
+      "mecanismoAcao": "纯阿片受体拮抗剂（µ > κ > δ），无内在激动性",
+      "farmacocinetica": "静脉起效2–5分钟，半衰期8–11小时，经肝代谢，肾/粪排泄",
+      "farmacodinamica": "逆转阿片效应，维持时间较纳洛酮长；可用于减少饮酒量",
+      "indicacoes": "阿片类急性中毒，慢性酒精依赖（欧盟口服适应症）",
+      "reacoesAdversas": "恶心、头晕、激动、高血压、戒断症状、头痛",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否分泌尚不明确；慎用",
+      "administracao": "静脉、肌注、皮下注射（急救）；口服（每日一次）",
+      "doseMaxima": "注射：2mg；口服：18mg/日",
+      "doseMinima": "IV：0.25mg（维持镇痛下的滴定）",
+      "classificacao": "阿片纯拮抗剂",
+      "apresentacao": "注射液1mg/mL；口服片剂18mg",
+      "interacaoMedicamento": "与阿片类药物、部分激动剂（丁丙诺啡）相互作用",
+      "posologia": "IV急救：0.25–2mg，每2–5分钟一次；口服每日一次18mg",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "IV剂型可稀释于NS或葡萄糖5%；口服与水吞服",
+      "solucoesCompatíveis": "NS，葡萄糖5%",
+      "contraindicacoes": "阿片依赖者使用中、重度肝功能衰竭、过敏史",
+      "cuidadosMedicos": "监测血压、呼吸、ECG、中枢症状",
+      "cuidadosFarmaceuticos": "评估患者是否正在使用阿片类，监测肝功能",
+      "cuidadosEnfermagem": "观察镇静逆转、痛觉恢复及自主神经反应",
+      "fontesBibliograficas": "NMPA, WHO, EMA, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Imunoglobulina Humana",
+      "suspension": "Suspender 5 dias antes de cirurgia eletiva de grande porte com risco trombótico ou em pacientes com sobrecarga volêmica",
+      "risk": "Risco de trombose, disfunção renal aguda, reações anafiláticas, hemólise e sobrecarga circulatória. Contraindicado em deficiência seletiva de IgA com anticorpos anti-IgA.",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e função renal, especialmente em pacientes imunossuprimidos, com síndromes autoimunes ou infecções graves."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imunoglobulina Humana Normal",
+      "nomeComercial": "Octagam, Flebogamma, Sandoglobulina, Tegeline",
+      "mecanismoAcao": "Contém anticorpos IgG policlonais obtidos de plasma humano, com ação imunomoduladora e anti-infecciosa",
+      "farmacocinetica": "Distribuição extravascular lenta; meia-vida 18–32 dias; metabolismo hepático",
+      "farmacodinamica": "Fornece imunidade passiva, neutraliza antígenos e regula a função de linfócitos B e citocinas inflamatórias",
+      "indicacoes": "Imunodeficiências primárias, púrpura trombocitopênica idiopática, Kawasaki, polineuropatia desmielinizante inflamatória crônica (CIDP), imunossupressão",
+      "reacoesAdversas": "Calafrios, febre, cefaleia, anafilaxia, disfunção renal, trombose, hemólise, aumento transitório da pressão arterial",
+      "riscoGravidez": "Categoria C (usar apenas se claramente necessário)",
+      "riscoLactacao": "Compatível sob orientação médica",
+      "administracao": "Infusão intravenosa lenta com bomba de infusão e monitoramento",
+      "doseMaxima": "2 g/kg divididos em 2–5 dias (dose total)",
+      "doseMinima": "0,2–0,4 g/kg em imunodeficiência crônica",
+      "classificacao": "Imunobiológico – imunoglobulina derivada de plasma",
+      "apresentacao": "Frascos de 1, 2, 5 ou 10 g (solução a 5% ou 10%)",
+      "interacaoMedicamento": "Pode interferir com vacinas de vírus vivos; risco aumentado com heparina, AINEs, estrogênios",
+      "posologia": "0,4 g/kg/dia por 5 dias (autoimunes); 0,2–0,4 g/kg/mês (IDP)",
+      "armazenamento": "2–8 °C; não congelar",
+      "preparo": "Pronto para uso IV; não agitar o frasco",
+      "solucoesCompatíveis": "Administrar isoladamente; evitar mistura com outros fármacos",
+      "contraindicacoes": "Alergia à proteína humana, deficiência seletiva de IgA com anticorpos anti-IgA",
+      "cuidadosMedicos": "Monitorar função renal, sinais de reação, pressão e velocidade da infusão",
+      "cuidadosFarmaceuticos": "Evitar agitação e aquecimento; manter cadeia do frio",
+      "cuidadosEnfermagem": "Aumentar lentamente velocidade de infusão; observar reações nas 2 primeiras horas",
+      "fontesBibliograficas": "ANVISA, SBIm, EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Human Immunoglobulin",
+      "suspension": "Hold 5 days before major elective surgery if thrombotic risk or volume overload is present",
+      "risk": "Thrombosis, renal failure, anaphylaxis, hemolysis, and TACO risk. Contraindicated in IgA deficiency with anti-IgA antibodies.",
+      "reintroduction": "Reintroduce after hemodynamic and renal stabilization under immunologic or infectious indications."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Human Normal Immunoglobulin (IVIG)",
+      "nomeComercial": "Gamunex, Gammagard, Privigen, Octagam",
+      "mecanismoAcao": "Polyclonal IgG antibodies from pooled human plasma; immunomodulatory and antimicrobial activity",
+      "farmacocinetica": "IV; slow extravascular distribution; t½ 18–32 days",
+      "farmacodinamica": "Provides passive immunity; modulates B cell and cytokine activity",
+      "indicacoes": "Primary immunodeficiency, ITP, Kawasaki, CIDP, immunosuppression",
+      "reacoesAdversas": "Fever, chills, headache, anaphylaxis, thrombosis, renal dysfunction, hemolysis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Safe with supervision",
+      "administracao": "IV infusion with rate control and monitoring",
+      "doseMaxima": "2 g/kg total over 2–5 days",
+      "doseMinima": "0.2–0.4 g/kg/month (maintenance)",
+      "classificacao": "Plasma-derived immunobiologic",
+      "apresentacao": "Vials 1–10 g (5% or 10% solution)",
+      "interacaoMedicamento": "Interferes with live vaccines; caution with nephrotoxic or thrombotic agents",
+      "posologia": "0.4 g/kg/day × 5 days or monthly per disease",
+      "armazenamento": "2–8 °C; do not freeze",
+      "preparo": "Ready-to-use; do not shake",
+      "solucoesCompatíveis": "Administer separately; no co-infusion",
+      "contraindicacoes": "Anti-IgA antibodies, hypersensitivity to human proteins",
+      "cuidadosMedicos": "Monitor vitals, renal function, and infusion rate",
+      "cuidadosFarmaceuticos": "Cold chain maintenance; protect from agitation",
+      "cuidadosEnfermagem": "Start slow infusion; monitor first 2 hours closely",
+      "fontesBibliograficas": "FDA, CDC, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Inmunoglobulina Humana",
+      "suspension": "Suspender 5 días antes de cirugía mayor con riesgo trombótico",
+      "risk": "Riesgo de trombosis, lesión renal, anafilaxia, hemólisis; contraindicado en IgA deficiencia con anti-IgA",
+      "reintroduction": "Reanudar tras estabilización hemodinámica y renal, con indicación inmunológica o infecciosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Inmunoglobulina Humana Normal",
+      "nomeComercial": "Flebogamma, Octagam, Tegeline",
+      "mecanismoAcao": "Anticuerpos IgG derivados de plasma humano; efecto inmunomodulador y antimicrobiano",
+      "farmacocinetica": "Distribución lenta; t½ 18–32 días; metabolismo hepático",
+      "farmacodinamica": "Inmunidad pasiva, modula linfocitos y citoquinas",
+      "indicacoes": "Inmunodeficiencias primarias, PTI, Kawasaki, CIDP",
+      "reacoesAdversas": "Fiebre, cefalea, reacción anafiláctica, hemólisis, trombosis",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Uso permitido bajo control médico",
+      "administracao": "Infusión IV lenta con bomba y monitoreo",
+      "doseMaxima": "2 g/kg total (2–5 días)",
+      "doseMinima": "0,2–0,4 g/kg/mes",
+      "classificacao": "Inmunobiológico plasmático",
+      "apresentacao": "Viales de 1 a 10 g (5–10%)",
+      "interacaoMedicamento": "Interfiere vacunas vivas, precaución con anticoagulantes",
+      "posologia": "0,4 g/kg/día × 5 días o mensual según indicación",
+      "armazenamento": "2–8 °C, no congelar",
+      "preparo": "Listo para uso; no agitar",
+      "solucoesCompatíveis": "Administrar sola",
+      "contraindicacoes": "Deficiencia IgA con anti-IgA, hipersensibilidad",
+      "cuidadosMedicos": "Controlar función renal y signos de reacción",
+      "cuidadosFarmaceuticos": "Cadena de frío, evitar agitación",
+      "cuidadosEnfermagem": "Velocidad lenta, observar 2h iniciales",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "人免疫球蛋白",
+      "suspension": "重大手术前5天停用，如有血栓或容量负荷风险",
+      "risk": "可致过敏、肾损伤、血栓、溶血；IgA缺陷者禁用",
+      "reintroduction": "术后稳定后可恢复，用于免疫缺陷或感染控制"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "人免疫球蛋白（IVIG）",
+      "nomeComercial": "Octagam, Tegeline, Privigen",
+      "mecanismoAcao": "从健康供者血浆中提取IgG，具有免疫增强和中和功能",
+      "farmacocinetica": "缓慢分布，t½约18–32天，肝代谢",
+      "farmacodinamica": "中和病原体、调节免疫反应",
+      "indicacoes": "原发免疫缺陷、自身免疫病、川崎病、CIDP",
+      "reacoesAdversas": "发热、寒战、过敏反应、血栓、肾损伤",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可使用，需监测",
+      "administracao": "静脉缓慢输注，配泵控制",
+      "doseMaxima": "总剂量2 g/kg分2–5天",
+      "doseMinima": "每月0.2–0.4 g/kg",
+      "classificacao": "血浆衍生免疫制剂",
+      "apresentacao": "1–10 g瓶装（5%或10%）",
+      "interacaoMedicamento": "影响活疫苗效果，慎与抗凝剂同用",
+      "posologia": "0.4 g/kg/d × 5天，或每月维持",
+      "armazenamento": "2–8°C保存，勿冷冻",
+      "preparo": "勿摇晃，现配现用",
+      "solucoesCompatíveis": "单独静滴，勿与他药共输",
+      "contraindicacoes": "IgA缺陷合并抗IgA抗体者禁用",
+      "cuidadosMedicos": "监测肾功能、输注反应、血压",
+      "cuidadosFarmaceuticos": "冷链运输，避免剧烈晃动",
+      "cuidadosEnfermagem": "前2小时密切观察，缓慢加速输注",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、EMA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Rubomicina (Daunorrubicina)",
+      "suspension": "Suspender 7 dias antes de cirurgias não oncológicas ou procedimentos invasivos com risco hemorrágico",
+      "risk": "Cardiotoxicidade dose-dependente, mielossupressão grave, risco de extravasamento tecidual (necrose local)",
+      "reintroduction": "Somente após recuperação hematológica e avaliação cardiológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Daunorrubicina (cloridrato)",
+      "nomeComercial": "Rubomicina",
+      "mecanismoAcao": "Antibiótico antraciclínico que interage com o DNA, inibindo topoisomerase II e gerando radicais livres citotóxicos",
+      "farmacocinetica": "Administração IV; meia-vida trifásica (~30 min, 3h, terminal de até 30h); metabolizada no fígado; excreção biliar predominante",
+      "farmacodinamica": "Inibição da síntese de DNA/RNA, induz apoptose; citotóxico para células hematopoiéticas e neoplásicas",
+      "indicacoes": "Leucemia mieloide aguda (LMA), leucemia linfoblástica aguda (LLA), leucemias secundárias, esquemas combinados em linfomas e tumores sólidos (off-label)",
+      "reacoesAdversas": "Náusea, vômito, alopecia, estomatite, mielossupressão, cardiomiopatia, arritmias, extravasamento, urina avermelhada transitória",
+      "riscoGravidez": "Categoria D – contraindicado, teratogênico",
+      "riscoLactacao": "Contraindicado; excretado no leite",
+      "administracao": "Intravenosa (bolus ou infusão lenta)",
+      "doseMaxima": "Cumulativa: 550 mg/m² (cardiotoxicidade)",
+      "doseMinima": "30–45 mg/m²/dose (ajustada por protocolo)",
+      "classificacao": "Antineoplásico – antraciclina citotóxica",
+      "apresentacao": "Frascos-ampola 20 mg, 50 mg pó liofilizado",
+      "interacaoMedicamento": "Toxicidade aumentada com ciclofosfamida, trastuzumabe; incompatível com heparina; evitar uso com outros cardiotóxicos",
+      "posologia": "30–60 mg/m²/dia IV por 1–3 dias, em ciclos de 21–28 dias",
+      "armazenamento": "Refrigerado (2–8 °C); proteger da luz",
+      "preparo": "Diluir em SG 5% para infusão; técnica asséptica obrigatória; evitar extravasamento",
+      "solucoesCompatíveis": "SG 5%; incompatível com soluções alcalinas",
+      "contraindicacoes": "Hipersensibilidade, depressão medular grave, disfunção hepática acentuada, gestação/lactação",
+      "cuidadosMedicos": "Monitorar ECG, fração de ejeção, hemograma, enzimas hepáticas",
+      "cuidadosFarmaceuticos": "Conferir dose cumulativa, evitar extravasamento, uso com bomba de infusão é preferível",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade cardíaca, controle rigoroso de veia periférica durante infusão",
+      "fontesBibliograficas": "Micromedex, FDA, UpToDate, Bula Rubomicina"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Daunorubicin",
+      "suspension": "Discontinue 7 days before elective non-oncologic procedures",
+      "risk": "Dose-related cardiotoxicity, severe bone marrow suppression, risk of extravasation and tissue necrosis",
+      "reintroduction": "Only after hematologic recovery and cardiac evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Daunorubicin hydrochloride",
+      "nomeComercial": "Cerubidine, DaunoXome (liposomal)",
+      "mecanismoAcao": "Anthracycline antibiotic; DNA intercalation, topoisomerase II inhibition, and free radical generation",
+      "farmacocinetica": "IV; tri-phase elimination (~30 min, 3h, terminal up to 30h); hepatic metabolism; biliary excretion",
+      "farmacodinamica": "Inhibits DNA/RNA synthesis; induces apoptosis in proliferating cells",
+      "indicacoes": "Acute myeloid leukemia (AML), acute lymphoblastic leukemia (ALL), pediatric and adult protocols",
+      "reacoesAdversas": "Nausea, vomiting, alopecia, mucositis, pancytopenia, cardiomyopathy, arrhythmias, red urine (benign)",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "IV (push or infusion)",
+      "doseMaxima": "Cumulative: 550 mg/m²",
+      "doseMinima": "30–60 mg/m²/day",
+      "classificacao": "Cytotoxic anthracycline antineoplastic",
+      "apresentacao": "Lyophilized vials: 20 mg, 50 mg",
+      "interacaoMedicamento": "Increased risk with cyclophosphamide, trastuzumab; incompatible with alkaline solutions or heparin",
+      "posologia": "45–60 mg/m²/day x1–3 days every 3–4 weeks (protocol-specific)",
+      "armazenamento": "Refrigerated 2–8 °C; protect from light",
+      "preparo": "Reconstitute and dilute in D5W; administer with caution to avoid extravasation",
+      "solucoesCompatíveis": "D5W only",
+      "contraindicacoes": "Severe hepatic impairment, baseline myelosuppression, pregnancy, breastfeeding",
+      "cuidadosMedicos": "Monitor LVEF, ECG, CBC, hepatic enzymes",
+      "cuidadosFarmaceuticos": "Calculate cumulative dose; use infusion pump; prevent leakage",
+      "cuidadosEnfermagem": "Use central line if available; monitor for extravasation and cardiac signs",
+      "fontesBibliograficas": "FDA, Micromedex, Cerubidine Prescribing Information"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Daunorrubicina",
+      "suspension": "Suspender 7 días antes de cirugía no oncológica",
+      "risk": "Cardiotoxicidad acumulativa, mielosupresión severa, riesgo de extravasación tisular",
+      "reintroduction": "Reanudar solo tras recuperación hematológica y evaluación cardíaca"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de daunorrubicina",
+      "nomeComercial": "DaunoXome, Cerubidine",
+      "mecanismoAcao": "Antibiótico antraciclina; intercalación de ADN, inhibición de topoisomerasa II y generación de radicales libres",
+      "farmacocinetica": "IV; eliminación trifásica; metabolismo hepático; eliminación biliar",
+      "farmacodinamica": "Inhibe síntesis de ADN/ARN; induce apoptosis",
+      "indicacoes": "Leucemia mieloide aguda, leucemia linfoblástica aguda",
+      "reacoesAdversas": "Náuseas, alopecia, mucositis, pancitopenia, miocardiopatía, arritmias",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intravenosa",
+      "doseMaxima": "550 mg/m² acumulado",
+      "doseMinima": "30–60 mg/m²",
+      "classificacao": "Antineoplásico – antraciclina",
+      "apresentacao": "Viales liofilizados 20 mg, 50 mg",
+      "interacaoMedicamento": "Riesgo aumentado con otros cardiotóxicos; incompatibilidad con soluciones alcalinas",
+      "posologia": "45–60 mg/m²/día por 1–3 días cada 3–4 semanas",
+      "armazenamento": "Refrigerar (2–8 °C), protegido de luz",
+      "preparo": "Reconstituir en glucosa 5%, técnica aséptica",
+      "solucoesCompatíveis": "SG 5%",
+      "contraindicacoes": "Insuficiencia hepática, embarazo, lactancia",
+      "cuidadosMedicos": "Control cardíaco y hematológico estrecho",
+      "cuidadosFarmaceuticos": "Verificar dosis acumulada, evitar extravasación",
+      "cuidadosEnfermagem": "Vigilar signos de toxicidad cardíaca, extravasación",
+      "fontesBibliograficas": "Micromedex, AEMPS, ficha técnica Cerubidine"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "柔红霉素（Rubomycin / Daunorubicin）",
+      "suspension": "择期手术前7天停药（非肿瘤手术）",
+      "risk": "剂量相关性心毒性、骨髓抑制、外渗可致组织坏死",
+      "reintroduction": "血象恢复、心功能评估后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "柔红霉素（盐酸达诺鲁比星）",
+      "nomeComercial": "Rubomycin",
+      "mecanismoAcao": "通过嵌入DNA并抑制拓扑异构酶II，诱导细胞凋亡",
+      "farmacocinetica": "静脉注射；T1/2分三相，肝代谢，胆汁排泄",
+      "farmacodinamica": "抑制DNA/RNA合成；抗肿瘤增殖细胞",
+      "indicacoes": "急性髓系白血病、急性淋巴细胞白血病",
+      "reacoesAdversas": "恶心、脱发、黏膜炎、心肌病、心律失常、尿液短暂变红",
+      "riscoGravidez": "D类，禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "静脉推注或缓慢滴注",
+      "doseMaxima": "累积剂量550 mg/m²",
+      "doseMinima": "30–60 mg/m²",
+      "classificacao": "抗肿瘤药 – 蒽环类",
+      "apresentacao": "20/50 mg冻干粉针剂",
+      "interacaoMedicamento": "与环磷酰胺等合用心毒性升高；避免与碱性液体或肝毒药物共用",
+      "posologia": "每3–4周给予1–3天45–60 mg/m²剂量",
+      "armazenamento": "2–8°C冷藏，避光",
+      "preparo": "用5%葡萄糖稀释；无菌操作",
+      "solucoesCompatíveis": "5%葡萄糖",
+      "contraindicacoes": "严重肝功能损害、心衰、孕期哺乳期",
+      "cuidadosMedicos": "监测心电图、射血分数、肝功能、血常规",
+      "cuidadosFarmaceuticos": "累计剂量核算、配药无菌技术、严防外渗",
+      "cuidadosEnfermagem": "中心静脉优先，监测心毒性和局部反应",
+      "fontesBibliograficas": "Micromedex、中国药典、FDA Rubomycin说明书"
+    }
+  }
+}

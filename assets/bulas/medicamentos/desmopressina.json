@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Desmopressina (oral)",
+      "suspension": "Suspender 24 horas antes de procedimentos eletivos devido ao risco de hiponatremia perioperatória.",
+      "risk": "Risco de retenção hídrica e hiponatremia grave, especialmente em jejum prolongado, uso de líquidos intravenosos ou anestesia geral. Potencial para convulsões por desequilíbrio eletrolítico.",
+      "reintroduction": "Reintroduzir apenas após normalização do sódio e estabilização clínica, com controle rigoroso da ingesta hídrica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Desmopressina",
+      "nomeComercial": "Minirin, Nocdurna, DDAVP, Octim, Desmotabs",
+      "mecanismoAcao": "Análogo sintético da vasopressina que age seletivamente nos receptores V2 renais, promovendo reabsorção de água nos túbulos coletores e redução da diurese.",
+      "farmacocinetica": "Biodisponibilidade oral baixa (~0,1-0,2%), início em 1-2h, meia-vida de 2-3h, metabolização hepática parcial, excreção urinária.",
+      "farmacodinamica": "Reduz volume urinário e aumenta a concentração da urina. Não possui efeito vasoconstritor significativo.",
+      "indicacoes": "Diabetes insipidus central, enurese noturna primária, nictúria, hemofilia A leve, doença de von Willebrand tipo 1.",
+      "reacoesAdversas": "Hiponatremia, cefaleia, náuseas, retenção de líquidos, convulsões, aumento da pressão intracraniana.",
+      "riscoGravidez": "Categoria B – uso com cautela e monitoramento eletrolítico.",
+      "riscoLactacao": "Excreção mínima no leite materno, geralmente considerado seguro.",
+      "administracao": "Via oral, comprimido ou liofilizado sublingual.",
+      "doseMaxima": "0,4 mg/dia para enurese; 240 mcg/dia para nictúria; individualizada para hemofilia.",
+      "doseMinima": "60 mcg/dia em dose única inicial, ajustável conforme resposta.",
+      "classificacao": "Hormônio antidiurético sintético; análogo da vasopressina.",
+      "apresentacao": "Comprimidos de 60 mcg, 120 mcg, 240 mcg; formulações sublinguais disponíveis.",
+      "interacaoMedicamento": "Risco aumentado de hiponatremia com AINEs, antidepressivos ISRS, carbamazepina, clofibrato, oxcarbazepina.",
+      "posologia": "Dose individualizada; iniciar com dose mínima e ajustar conforme resposta clínica e sódio plasmático.",
+      "armazenamento": "Temperatura ambiente (15–25°C), protegido da umidade.",
+      "preparo": "Não requer preparo especial. Liofilizado sublingual não deve ser mastigado ou ingerido.",
+      "solucoesCompatíveis": "Não se aplica à forma oral.",
+      "contraindicacoes": "Hiponatremia, insuficiência cardíaca, SIADH, hipersensibilidade à substância ativa.",
+      "cuidadosMedicos": "Monitorar eletrólitos, balanço hídrico, sinais de intoxicação hídrica e convulsões.",
+      "cuidadosFarmaceuticos": "Orientar paciente sobre restrição hídrica e risco de hiponatremia.",
+      "cuidadosEnfermagem": "Observar sintomas neurológicos, diurese e adesão à restrição de líquidos.",
+      "fontesBibliograficas": "SBRA, Micromedex, FDA, ANVISA, UpToDate, EMA, NICE"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Desmopressin (oral)",
+      "suspension": "Discontinue 24 hours before elective surgery due to risk of perioperative hyponatremia.",
+      "risk": "Risk of water retention and severe hyponatremia, especially during prolonged fasting, IV fluids, or general anesthesia. May cause seizures due to electrolyte imbalance.",
+      "reintroduction": "Restart only after normalization of serum sodium and clinical stabilization, with strict fluid intake control."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Desmopressin",
+      "nomeComercial": "DDAVP, Minirin, Nocdurna, Octim, Desmotabs",
+      "mecanismoAcao": "Synthetic analog of vasopressin acting selectively on renal V2 receptors, promoting water reabsorption in the collecting ducts and reducing diuresis.",
+      "farmacocinetica": "Low oral bioavailability (~0.1-0.2%), onset 1–2h, half-life 2–3h, partial hepatic metabolism, renal excretion.",
+      "farmacodinamica": "Reduces urine volume and increases urine concentration. Lacks significant vasoconstrictive effect.",
+      "indicacoes": "Central diabetes insipidus, primary nocturnal enuresis, nocturia, mild hemophilia A, von Willebrand disease type 1.",
+      "reacoesAdversas": "Hyponatremia, headache, nausea, fluid retention, seizures, increased intracranial pressure.",
+      "riscoGravidez": "Category B – use with caution and electrolyte monitoring.",
+      "riscoLactacao": "Minimal excretion in breast milk; generally considered safe.",
+      "administracao": "Oral route, tablet or sublingual lyophilizate.",
+      "doseMaxima": "0.4 mg/day for enuresis; 240 mcg/day for nocturia; individualized for hemophilia.",
+      "doseMinima": "60 mcg/day as starting dose, titrated based on response.",
+      "classificacao": "Synthetic antidiuretic hormone; vasopressin analog.",
+      "apresentacao": "Tablets of 60 mcg, 120 mcg, 240 mcg; sublingual formulations available.",
+      "interacaoMedicamento": "Increased hyponatremia risk with NSAIDs, SSRIs, carbamazepine, clofibrate, oxcarbazepine.",
+      "posologia": "Individualized dose; start low and adjust based on clinical response and sodium levels.",
+      "armazenamento": "Store at 15–25°C, protect from moisture.",
+      "preparo": "No special preparation needed. Do not chew or swallow sublingual forms.",
+      "solucoesCompatíveis": "Not applicable for oral form.",
+      "contraindicacoes": "Hyponatremia, heart failure, SIADH, hypersensitivity to desmopressin.",
+      "cuidadosMedicos": "Monitor electrolytes, fluid balance, signs of water intoxication and seizures.",
+      "cuidadosFarmaceuticos": "Advise fluid restriction and warn about hyponatremia symptoms.",
+      "cuidadosEnfermagem": "Observe neurological symptoms, urinary volume, and fluid adherence.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, EMA, NICE, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Desmopresina (oral)",
+      "suspension": "Suspender 24 horas antes de cirugía electiva por riesgo de hiponatremia perioperatoria.",
+      "risk": "Riesgo de retención de líquidos e hiponatremia grave, especialmente en ayuno prolongado o con líquidos intravenosos. Posible convulsión por desequilibrio electrolítico.",
+      "reintroduction": "Reintroducir solo tras normalización de sodio y estabilización clínica, con control estricto de líquidos."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Desmopresina",
+      "nomeComercial": "Minirin, DDAVP, Nocdurna, Octim, Desmotabs",
+      "mecanismoAcao": "Análogo sintético de la vasopresina que actúa en los receptores V2 renales, favoreciendo la reabsorción de agua en los túbulos colectores.",
+      "farmacocinetica": "Baja biodisponibilidad oral (~0,1-0,2%), inicio 1–2 h, vida media 2–3 h, metabolismo hepático parcial, eliminación renal.",
+      "farmacodinamica": "Reduce el volumen urinario y aumenta la concentración de orina. No tiene efecto vasoconstrictor significativo.",
+      "indicacoes": "Diabetes insípida central, enuresis nocturna primaria, nicturia, hemofilia A leve, enfermedad de von Willebrand tipo 1.",
+      "reacoesAdversas": "Hiponatremia, cefalea, náuseas, retención de líquidos, convulsiones, hipertensión intracraneal.",
+      "riscoGravidez": "Categoría B – usar con precaución y monitoreo de electrolitos.",
+      "riscoLactacao": "Excreción mínima en leche materna, generalmente segura.",
+      "administracao": "Vía oral, comprimido o liofilizado sublingual.",
+      "doseMaxima": "0,4 mg/día en enuresis; 240 mcg/día en nicturia; ajustada en hemofilia.",
+      "doseMinima": "60 mcg/día como dosis inicial, ajustar según respuesta.",
+      "classificacao": "Hormona antidiurética sintética; análogo de vasopresina.",
+      "apresentacao": "Comprimidos de 60 mcg, 120 mcg, 240 mcg; formas sublinguales disponibles.",
+      "interacaoMedicamento": "Mayor riesgo de hiponatremia con AINEs, ISRS, carbamazepina, clofibrato, oxcarbazepina.",
+      "posologia": "Dosis individualizada; iniciar baja y ajustar según sodio y clínica.",
+      "armazenamento": "Conservar a 15–25°C, protegido de la humedad.",
+      "preparo": "No requiere preparación especial. No masticar ni tragar la forma sublingual.",
+      "solucoesCompatíveis": "No aplicable a la vía oral.",
+      "contraindicacoes": "Hiponatremia, insuficiencia cardíaca, SIADH, hipersensibilidad.",
+      "cuidadosMedicos": "Monitoreo de electrolitos, balance hídrico, signos de intoxicación hídrica.",
+      "cuidadosFarmaceuticos": "Orientar sobre restricción hídrica y síntomas de hiponatremia.",
+      "cuidadosEnfermagem": "Observar síntomas neurológicos y volumen urinario.",
+      "fontesBibliograficas": "Micromedex, FDA, EMA, NICE, ANVISA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "去氨加压素（口服）",
+      "suspension": "择期手术前24小时停药，以防围术期低钠血症。",
+      "risk": "存在水潴留和严重低钠血症风险，特别是在禁食、输液或全麻状态下。可能因电解质紊乱引发癫痫。",
+      "reintroduction": "在钠正常化和病情稳定后，严格控制饮水后可重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "去氨加压素",
+      "nomeComercial": "Minirin, DDAVP, Nocdurna, Desmotabs, Octim",
+      "mecanismoAcao": "合成加压素类似物，选择性作用于肾脏V2受体，促进集合管水重吸收，减少尿量。",
+      "farmacocinetica": "口服生物利用度低（~0.1–0.2%），起效1–2小时，半衰期2–3小时，部分肝代谢，经肾排泄。",
+      "farmacodinamica": "减少尿量、增加尿液浓缩力，无明显血管收缩作用。",
+      "indicacoes": "中枢性尿崩症、夜间遗尿、夜尿症、轻度A型血友病、1型冯·维尔布兰德病。",
+      "reacoesAdversas": "低钠血症、头痛、恶心、水潴留、癫痫、颅内压升高。",
+      "riscoGravidez": "B类 – 应谨慎使用并监测电解质。",
+      "riscoLactacao": "乳汁中分泌极少，一般认为安全。",
+      "administracao": "口服或舌下含服。",
+      "doseMaxima": "夜间遗尿最大0.4毫克/天，夜尿240微克/天，血友病个体化调整。",
+      "doseMinima": "起始剂量为60微克/天，根据反应调整。",
+      "classificacao": "合成抗利尿激素；加压素类似物。",
+      "apresentacao": "60、120、240微克片剂；有舌下片剂型。",
+      "interacaoMedicamento": "NSAIDs、SSRIs、卡马西平、氯贝丁酯、奥卡西平等药物增加低钠风险。",
+      "posologia": "个体化剂量，根据临床反应和钠浓度调整。",
+      "armazenamento": "保存于15–25°C，防潮。",
+      "preparo": "无需特别准备。舌下片不可咀嚼或吞服。",
+      "solucoesCompatíveis": "口服制剂不适用。",
+      "contraindicacoes": "低钠血症、心力衰竭、SIADH、药物过敏。",
+      "cuidadosMedicos": "监测电解质、水平衡、中毒和癫痫表现。",
+      "cuidadosFarmaceuticos": "指导限水并识别低钠症状。",
+      "cuidadosEnfermagem": "观察神经症状和尿量。",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

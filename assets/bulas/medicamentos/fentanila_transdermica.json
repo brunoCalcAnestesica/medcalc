@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fentanila Transdérmica",
+      "suspension": "Suspender 24 a 48 horas antes de cirurgias eletivas com anestesia geral",
+      "risk": "Risco de depressão respiratória, interação com anestésicos e potencial síndrome serotoninérgica. A liberação contínua pode dificultar titulação intraoperatória.",
+      "reintroduction": "Reintroduzir após estabilização respiratória e reavaliação da dor, preferencialmente em pacientes com dor crônica bem controlada."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fentanila",
+      "nomeComercial": "Durogesic®, Matrifen®, Fentanyl Sandoz®",
+      "mecanismoAcao": "Agonista μ-opioide potente com ação analgésica, ansiolítica e sedativa; age por ligação aos receptores opioides no SNC",
+      "farmacocinetica": "Liberação constante por 72 h; pico plasmático em 12–24 h; metabolização hepática (CYP3A4)",
+      "farmacodinamica": "Analgesia de longa duração; reduz excitabilidade nociceptiva espinhal e central",
+      "indicacoes": "Dor crônica intensa, especialmente oncológica, em pacientes com tolerância a opioides",
+      "reacoesAdversas": "Depressão respiratória, constipação, sonolência, náusea, confusão, dependência",
+      "riscoGravidez": "Categoria C – não recomendado",
+      "riscoLactacao": "Evitar – excretado no leite",
+      "administracao": "Via transdérmica (adesivo trocado a cada 72 h)",
+      "doseMaxima": "100 mcg/h (individualizado); aumento gradual conforme tolerância",
+      "doseMinima": "12 mcg/h (dose inicial usual)",
+      "classificacao": "Opioide forte – agonista μ de liberação contínua",
+      "apresentacao": "Adesivos transdérmicos de 12, 25, 50, 75, 100 mcg/h",
+      "interacaoMedicamento": "Potencialização com benzodiazepínicos, álcool, IMAO, antidepressivos tricíclicos; inibidores de CYP3A4 aumentam toxicidade",
+      "posologia": "Troca a cada 72 h; pode ser titulado conforme resposta clínica",
+      "armazenamento": "Temperatura ambiente; evitar fontes de calor (aumenta liberação)",
+      "preparo": "Aplicar em pele seca, íntegra e sem pelos; pressionar por 30 segundos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Dor aguda, hipoventilação, obstrução intestinal, intolerância a opioides, gestação/lactação",
+      "cuidadosMedicos": "Monitorar sedação, FR e sinais de toxicidade; considerar naloxona em caso de sobredosagem",
+      "cuidadosFarmaceuticos": "Orientar descarte seguro do adesivo e evitar exposição térmica",
+      "cuidadosEnfermagem": "Avaliar dor, nível de consciência, FR, trocas no horário correto",
+      "fontesBibliograficas": "ANVISA, UpToDate, Micromedex, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Transdermal Fentanyl",
+      "suspension": "Discontinue 24–48 h before elective surgery with general anesthesia",
+      "risk": "Risk of respiratory depression, anesthetic interaction, serotonin syndrome. Difficult to titrate intraop.",
+      "reintroduction": "Restart post-op once stable and opioid needs assessed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fentanyl",
+      "nomeComercial": "Duragesic®, Fentanyl Transdermal System",
+      "mecanismoAcao": "μ-opioid receptor agonist providing sustained analgesia",
+      "farmacocinetica": "Onset ~12 h; peak 12–24 h; t½ 17 h; CYP3A4 metabolism",
+      "farmacodinamica": "Continuous opioid analgesia for severe chronic pain",
+      "indicacoes": "Chronic severe pain in opioid-tolerant patients",
+      "reacoesAdversas": "Respiratory depression, sedation, constipation, nausea, dependency",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid – excreted in breast milk",
+      "administracao": "Transdermal patch every 72 h",
+      "doseMaxima": "100 mcg/h (titrated)",
+      "doseMinima": "12 mcg/h",
+      "classificacao": "Long-acting strong opioid",
+      "apresentacao": "Patches: 12, 25, 50, 75, 100 mcg/h",
+      "interacaoMedicamento": "Additive with sedatives, MAOIs, CYP3A4 inhibitors",
+      "posologia": "Change patch every 72 h; titrate per response",
+      "armazenamento": "Room temperature; keep away from heat sources",
+      "preparo": "Apply to intact skin; press 30 sec",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Acute pain, respiratory depression, GI obstruction, pregnancy/lactation",
+      "cuidadosMedicos": "Monitor RR, sedation; naloxone in overdose",
+      "cuidadosFarmaceuticos": "Educate on heat exposure, patch disposal",
+      "cuidadosEnfermagem": "Check pain, RR, LOC; rotate site q72h",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fentanilo Transdérmico",
+      "suspension": "Suspender 24–48 h antes de cirugía electiva con anestesia general",
+      "risk": "Riesgo de depresión respiratoria, interacción con anestesia y síndrome serotoninérgico. Difícil titulación intraoperatoria.",
+      "reintroduction": "Reanudar tras estabilidad respiratoria y evaluación de dolor postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fentanilo",
+      "nomeComercial": "Durogesic®, Matrifen®, Fentanyl Sandoz®",
+      "mecanismoAcao": "Agonista de receptores μ-opioides, analgésico potente con efecto central",
+      "farmacocinetica": "Inicio en 12 h; pico en 12–24 h; vida media ~17 h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Analgesia continua de larga duración",
+      "indicacoes": "Dolor crónico intenso, especialmente oncológico, en pacientes con tolerancia a opioides",
+      "reacoesAdversas": "Depresión respiratoria, estreñimiento, náuseas, somnolencia, dependencia",
+      "riscoGravidez": "Categoría C – evitar",
+      "riscoLactacao": "Evitar – excretado en leche materna",
+      "administracao": "Parche transdérmico cada 72 h",
+      "doseMaxima": "100 mcg/h (según tolerancia)",
+      "doseMinima": "12 mcg/h",
+      "classificacao": "Opioide potente – liberación sostenida transdérmica",
+      "apresentacao": "Parche de 12, 25, 50, 75, 100 mcg/h",
+      "interacaoMedicamento": "Potenciado por benzodiacepinas, alcohol, IMAO, antidepresivos tricíclicos, inhibidores de CYP3A4",
+      "posologia": "Cambiar cada 72 h; ajustar según respuesta clínica",
+      "armazenamento": "Ambiente; evitar calor directo",
+      "preparo": "Aplicar en piel seca y limpia; presionar por 30 s",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Dolor agudo, hipoventilación, obstrucción intestinal, embarazo/lactancia",
+      "cuidadosMedicos": "Monitorear FR, sedación, signos de toxicidad",
+      "cuidadosFarmaceuticos": "Orientar sobre desecho seguro del parche",
+      "cuidadosEnfermagem": "Evaluar dolor, FR, conciencia y adhesivo",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "芬太尼透皮贴",
+      "suspension": "择期手术前24–48小时停用，尤其涉及全麻者",
+      "risk": "可能导致呼吸抑制、术中麻醉交互作用及血清素综合征；术中难以控制剂量",
+      "reintroduction": "术后恢复呼吸功能并评估镇痛需要后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "芬太尼",
+      "nomeComercial": "Durogesic®, Matrifen®",
+      "mecanismoAcao": "选择性μ阿片受体激动剂，强效镇痛",
+      "farmacocinetica": "起效12小时，血药峰值12–24小时，T½约17小时，经CYP3A4代谢",
+      "farmacodinamica": "持续72小时镇痛，缓解慢性中度至重度疼痛",
+      "indicacoes": "阿片类耐受患者的癌痛或顽固性慢性痛",
+      "reacoesAdversas": "呼吸抑制、便秘、嗜睡、恶心、成瘾性",
+      "riscoGravidez": "C类（避免使用）",
+      "riscoLactacao": "不推荐，药物可进入乳汁",
+      "administracao": "透皮贴每72小时更换一次",
+      "doseMaxima": "100微克/小时（视耐受调整）",
+      "doseMinima": "12微克/小时",
+      "classificacao": "强效阿片类镇痛药 – 透皮缓释剂型",
+      "apresentacao": "贴片剂：12、25、50、75、100微克/小时",
+      "interacaoMedicamento": "与苯二氮卓类、酒精、MAOI、三环类、CYP3A4抑制剂有相互作用",
+      "posologia": "每72小时更换一次，根据疼痛反应调整剂量",
+      "armazenamento": "室温保存，避免热源",
+      "preparo": "贴于干净无毛皮肤，按压30秒",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "急性疼痛、呼吸抑制、妊娠、肠梗阻、非阿片耐受者",
+      "cuidadosMedicos": "监测镇静度、呼吸、使用纳洛酮应急",
+      "cuidadosFarmaceuticos": "避免贴片接触热源或剪裁",
+      "cuidadosEnfermagem": "观察镇痛效果、意识、贴片位置",
+      "fontesBibliograficas": "中国药典、WHO、Micromedex、UpToDate"
+    }
+  }
+}

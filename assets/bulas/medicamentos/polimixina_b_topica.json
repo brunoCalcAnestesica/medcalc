@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Polimixina B (tópica)",
+      "suspension": "Não requer suspensão em cirurgias",
+      "risk": "Risco de sensibilização, dermatite de contato; toxicidade sistêmica improvável",
+      "reintroduction": "Pode ser reintroduzida após cicatrização e ausência de infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Polimixina B",
+      "nomeComercial": "Nebacetin (em associação), Poly-Rx",
+      "mecanismoAcao": "Altera a permeabilidade da membrana celular de bactérias gram-negativas por ligação a lipopolissacarídeos",
+      "farmacocinetica": "Absorção dérmica mínima; efeito local",
+      "farmacodinamica": "Bactericida contra bacilos gram-negativos, incluindo Pseudomonas",
+      "indicacoes": "Infecções bacterianas superficiais da pele; queimaduras, cortes e abrasões",
+      "reacoesAdversas": "Hipersensibilidade, eritema, prurido, dermatite de contato",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar aplicação sobre mamilos",
+      "administracao": "Tópica",
+      "doseMaxima": "Aplicar até 3x/dia por 7 dias",
+      "doseMinima": "1x/dia em lesões pequenas",
+      "classificacao": "Antibiótico polipeptídico tópico",
+      "apresentacao": "Pomada 5000 UI/g, geralmente combinada com bacitracina/neomicina",
+      "interacaoMedicamento": "Evitar uso com outros antibióticos tópicos sem avaliação médica",
+      "posologia": "Aplicar camada fina sobre área limpa; cobrir com gaze se necessário",
+      "armazenamento": "15–25°C",
+      "preparo": "Pronto para uso; uso externo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia à polimixina B ou componentes da fórmula",
+      "cuidadosMedicos": "Evitar uso prolongado em grandes áreas ou sob oclusão",
+      "cuidadosFarmaceuticos": "Orientar sobre tempo de uso e sinais de alergia",
+      "cuidadosEnfermagem": "Observar resposta local e evolução da lesão",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Polymyxin B (topical)",
+      "suspension": "No suspension needed before surgery",
+      "risk": "Contact dermatitis, rare allergy; systemic toxicity unlikely",
+      "reintroduction": "May resume after wound stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Polymyxin B",
+      "nomeComercial": "Polysporin, Bacitracin + Polymyxin B",
+      "mecanismoAcao": "Binds LPS in gram-negative bacteria, disrupting membrane integrity",
+      "farmacocinetica": "Minimal systemic absorption via intact skin",
+      "farmacodinamica": "Kills gram-negative bacteria, including Pseudomonas",
+      "indicacoes": "Minor skin infections, wounds, abrasions",
+      "reacoesAdversas": "Rash, itching, hypersensitivity",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid nipple application",
+      "administracao": "Topical",
+      "doseMaxima": "Apply up to 3x/day for 7 days",
+      "doseMinima": "Once daily",
+      "classificacao": "Topical polypeptide antibiotic",
+      "apresentacao": "Ointment 5000 units/g (alone or in combo)",
+      "interacaoMedicamento": "Avoid concurrent topical antibiotics unless prescribed",
+      "posologia": "Apply thin layer to clean skin; cover if needed",
+      "armazenamento": "Store at 59–77°F",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Allergy to polymyxin B",
+      "cuidadosMedicos": "Avoid large area use for long periods",
+      "cuidadosFarmaceuticos": "Educate on local reaction signs",
+      "cuidadosEnfermagem": "Monitor for rash and response",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Polimixina B (tópica)",
+      "suspension": "No requiere suspensión quirúrgica",
+      "risk": "Reacciones locales, dermatitis; toxicidad sistémica rara",
+      "reintroduction": "Reanudar tras curación local"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Polimixina B",
+      "nomeComercial": "Polysporin, Nebacetina",
+      "mecanismoAcao": "Interfiere en la membrana bacteriana unida a lipopolisacáridos",
+      "farmacocinetica": "Absorción tópica mínima",
+      "farmacodinamica": "Bactericida frente a gramnegativos (Pseudomonas)",
+      "indicacoes": "Cortes, quemaduras leves, infecciones cutáneas superficiales",
+      "reacoesAdversas": "Dermatitis, prurito, erupción",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar senos",
+      "administracao": "Tópica",
+      "doseMaxima": "3 veces/día durante 7 días",
+      "doseMinima": "1 vez/día",
+      "classificacao": "Antibiótico polipeptídico tópico",
+      "apresentacao": "Pomada 5000 UI/g",
+      "interacaoMedicamento": "Evitar múltiples antibióticos tópicos",
+      "posologia": "Aplicar fina capa sobre piel limpia",
+      "armazenamento": "15–25°C",
+      "preparo": "Uso directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia conocida",
+      "cuidadosMedicos": "Evitar uso prolongado",
+      "cuidadosFarmaceuticos": "Explicar síntomas de reacción local",
+      "cuidadosEnfermagem": "Observar evolución de la herida",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "多粘菌素B（外用）",
+      "suspension": "术前不需停用",
+      "risk": "可能局部过敏，系统毒性极低",
+      "reintroduction": "术后创口愈合后可继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多粘菌素B",
+      "nomeComercial": "Polysporin，联合制剂（如新霉素+杆菌肽）",
+      "mecanismoAcao": "与革兰阴性菌膜结合，破坏膜结构",
+      "farmacocinetica": "皮肤吸收极少",
+      "farmacodinamica": "杀灭革兰阴性杆菌，含铜绿假单胞菌",
+      "indicacoes": "浅表伤口、轻度烧伤、擦伤感染",
+      "reacoesAdversas": "瘙痒、红斑、过敏性接触皮炎",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免乳头部位使用",
+      "administracao": "外用",
+      "doseMaxima": "每日3次，最多7天",
+      "doseMinima": "每日1次",
+      "classificacao": "局部多肽类抗生素",
+      "apresentacao": "5000单位/g软膏",
+      "interacaoMedicamento": "避免多种外用抗菌药共用",
+      "posologia": "清洁皮肤后每日1–3次薄涂患处",
+      "armazenamento": "15–25°C",
+      "preparo": "无需稀释，外用直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对多粘菌素过敏",
+      "cuidadosMedicos": "避免大面积长期封包使用",
+      "cuidadosFarmaceuticos": "宣教用药频率、封包与清洁方法",
+      "cuidadosEnfermagem": "观察刺激反应与疗效",
+      "fontesBibliograficas": "FDA，Micromedex，UpToDate"
+    }
+  }
+}

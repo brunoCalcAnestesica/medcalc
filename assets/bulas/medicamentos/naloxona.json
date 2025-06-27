@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Naloxona",
+      "suspension": "Não suspender — uso emergencial intraoperatório permitido",
+      "risk": "Pode precipitar abstinência aguda em usuários de opioides; monitorar função respiratória e cardiovascular",
+      "reintroduction": "Pode ser reintroduzida a qualquer momento em caso de depressão respiratória induzida por opioides"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Naloxona",
+      "nomeComercial": "Narcan, Nalone, Evzio, Prenoxad",
+      "mecanismoAcao": "Antagonista competitivo dos receptores opioides µ, κ e δ, com maior afinidade pelo receptor µ",
+      "farmacocinetica": "Início de ação IV: 1–2 min; IM/SC: 2–5 min; intranasal: 8–13 min; meia-vida ~30–90 min; metabolização hepática",
+      "farmacodinamica": "Reverte rapidamente os efeitos de opioides, incluindo depressão respiratória, sedação e analgesia",
+      "indicacoes": "Reversão de intoxicação aguda por opioides, depressão respiratória pós-operatória, uso emergencial comunitário",
+      "reacoesAdversas": "Náusea, vômito, sudorese, taquicardia, hipertensão, irritabilidade, convulsões (raro), síndrome de abstinência aguda",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Considerado seguro; excreção insignificante no leite",
+      "administracao": "IV, IM, SC, intranasal",
+      "doseMaxima": "10mg em dose cumulativa (uso emergencial); repetir conforme necessário",
+      "doseMinima": "0,04mg (em titulação IV lenta para analgesia preservada)",
+      "classificacao": "Antagonista opioide puro",
+      "apresentacao": "Ampolas 0,4mg/mL; frascos multidose; sprays nasais 2mg ou 4mg",
+      "interacaoMedicamento": "Inativa agonistas opioides; pode alterar resposta à anestesia multimodal com opioides",
+      "posologia": "Adultos: 0,4–2mg IV/IM/SC a cada 2–3 min até resposta; máx: 10mg; intranasal: 4mg em 1 narina, repetir após 2–3 min se necessário",
+      "armazenamento": "Temperatura ambiente (15–30°C); proteger da luz",
+      "preparo": "Pode ser diluída em SF 0,9% ou SG 5% para infusão contínua em intoxicação grave",
+      "solucoesCompatíveis": "SF 0,9%; SG 5%",
+      "contraindicacoes": "Hipersensibilidade conhecida (rara); uso cauteloso em dependentes crônicos de opioides",
+      "cuidadosMedicos": "Monitorar vias aéreas, ECG, nível de consciência e possíveis recaídas após o efeito da naloxona passar",
+      "cuidadosFarmaceuticos": "Garantir acesso fácil em serviços de emergência e kits comunitários; checar validade dos frascos",
+      "cuidadosEnfermagem": "Observar retorno da ventilação espontânea, sinais de dor e agitação, necessidade de reintervenção",
+      "fontesBibliograficas": "FDA, WHO, ANVISA, Micromedex, Lexicomp, SAMHSA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Naloxone",
+      "suspension": "Do not suspend — emergency use allowed intraoperatively",
+      "risk": "May trigger acute opioid withdrawal; monitor respiratory and cardiovascular function closely",
+      "reintroduction": "Can be re-administered at any time if opioid-induced respiratory depression occurs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Naloxone Hydrochloride",
+      "nomeComercial": "Narcan, Evzio, Kloxxado, Naloxone HCl Injection",
+      "mecanismoAcao": "Competitive opioid receptor antagonist (µ > κ > δ), reverses effects of opioids rapidly",
+      "farmacocinetica": "Onset: IV 1–2 min, IM/SC 2–5 min, intranasal 8–13 min; half-life: ~30–90 min; hepatic metabolism",
+      "farmacodinamica": "Reverses opioid-induced respiratory depression, sedation and euphoria; no intrinsic agonist effect",
+      "indicacoes": "Opioid overdose, postoperative opioid-induced respiratory depression, community opioid reversal kits",
+      "reacoesAdversas": "Nausea, vomiting, sweating, tachycardia, agitation, hypertension, seizures (rare), withdrawal syndrome",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Excreted in small amounts; considered safe",
+      "administracao": "IV, IM, SC, intranasal",
+      "doseMaxima": "10mg cumulative dose (may repeat as needed)",
+      "doseMinima": "0.04mg (slow IV titration when analgesia needs preservation)",
+      "classificacao": "Pure opioid antagonist",
+      "apresentacao": "Ampules 0.4mg/mL; vials; nasal spray 2mg or 4mg",
+      "interacaoMedicamento": "Blocks opioid agonists; interferes with multimodal analgesia protocols",
+      "posologia": "Adults: 0.4–2mg IV/IM/SC every 2–3 min up to 10mg; IN: 4mg/nostril, repeat every 2–3 min if needed",
+      "armazenamento": "Store at 15–30°C; protect from light",
+      "preparo": "Can be diluted in NS or D5W for infusion in opioid toxicity",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Known hypersensitivity (rare); caution in chronic opioid users",
+      "cuidadosMedicos": "Monitor airway, ECG, consciousness and relapse after naloxone effect fades",
+      "cuidadosFarmaceuticos": "Ensure access in emergency settings and public kits; monitor expiration",
+      "cuidadosEnfermagem": "Observe for ventilation recovery, agitation and need for redosing",
+      "fontesBibliograficas": "FDA, SAMHSA, WHO, Micromedex, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Naloxona",
+      "suspension": "No suspender — permitido su uso intraoperatorio de emergencia",
+      "risk": "Puede inducir síndrome de abstinencia aguda; vigilar funciones respiratoria y cardiovascular",
+      "reintroduction": "Puede reintroducirse en cualquier momento ante depresión respiratoria por opioides"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Naloxona",
+      "nomeComercial": "Narcan, Evzio, Prenoxad",
+      "mecanismoAcao": "Antagonista competitivo de receptores opioides (µ, κ, δ); revierte rápidamente efectos opioides",
+      "farmacocinetica": "Inicio: IV 1–2 min, IM/SC 2–5 min, intranasal 8–13 min; vida media: 30–90 min; metabolismo hepático",
+      "farmacodinamica": "Revierte depresión respiratoria, sedación y analgesia inducidas por opioides",
+      "indicacoes": "Sobredosis de opioides, depresión respiratoria posoperatoria, kits comunitarios de reversión",
+      "reacoesAdversas": "Náuseas, vómitos, sudoración, taquicardia, agitación, hipertensión, convulsiones (raro), abstinencia aguda",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Excreción insignificante; se considera segura",
+      "administracao": "IV, IM, SC, intranasal",
+      "doseMaxima": "10mg en dosis acumuladas; repetir según necesidad",
+      "doseMinima": "0.04mg (en titulaciones lentas IV)",
+      "classificacao": "Antagonista puro de opioides",
+      "apresentacao": "Ampollas 0.4mg/mL, viales, aerosoles nasales 2mg o 4mg",
+      "interacaoMedicamento": "Inactiva agonistas opioides; puede afectar analgesia multimodal",
+      "posologia": "Adultos: 0.4–2mg IV/IM/SC cada 2–3 min hasta máx 10mg; IN: 4mg/ventana nasal, repetir si es necesario",
+      "armazenamento": "15–30°C; proteger de la luz",
+      "preparo": "Diluir en SSF o glucosa 5% para infusión continua si necesario",
+      "solucoesCompatíveis": "SSF, SG5%",
+      "contraindicacoes": "Hipersensibilidad conocida (raro); precaución en adictos crónicos a opioides",
+      "cuidadosMedicos": "Monitorear vías aéreas, conciencia, ECG, y recurrencia de depresión respiratoria",
+      "cuidadosFarmaceuticos": "Garantizar kits disponibles y dentro de fecha; instrucción al paciente",
+      "cuidadosEnfermagem": "Observar agitación, náuseas, ventilación espontánea, necesidad de reintervención",
+      "fontesBibliograficas": "AEMPS, FDA, WHO, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "纳洛酮",
+      "suspension": "无需术前停药 — 紧急时可术中使用",
+      "risk": "可诱发阿片戒断综合征，须密切监测呼吸和循环状态",
+      "reintroduction": "如术后出现阿片类引起的呼吸抑制，可随时再次使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸纳洛酮",
+      "nomeComercial": "Narcan, Evzio, 克洛沙得",
+      "mecanismoAcao": "拮抗µ、κ、δ阿片受体，优先结合µ受体，快速逆转阿片类作用",
+      "farmacocinetica": "IV起效1–2分钟，肌注2–5分钟，鼻喷8–13分钟，半衰期30–90分钟，肝代谢",
+      "farmacodinamica": "逆转镇静、呼吸抑制与阿片引起的镇痛作用",
+      "indicacoes": "阿片类过量、术后呼吸抑制、公共场所应急解毒",
+      "reacoesAdversas": "恶心、呕吐、出汗、心动过速、血压升高、躁动、抽搐、急性戒断症状",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "乳汁分泌量极低，临床认为安全",
+      "administracao": "静脉注射、肌注、皮下注射、鼻喷",
+      "doseMaxima": "累计10mg可重复使用",
+      "doseMinima": "0.04mg（用于保留镇痛时的缓慢滴注）",
+      "classificacao": "阿片纯拮抗剂",
+      "apresentacao": "0.4mg/mL注射液、喷鼻剂2mg/4mg",
+      "interacaoMedicamento": "阻断阿片类药物；可能干扰镇痛方案",
+      "posologia": "成人IV/IM/SC：0.4–2mg，每2–3分钟一次，最大10mg；鼻喷4mg，重复视反应而定",
+      "armazenamento": "15–30°C避光保存",
+      "preparo": "可稀释于NS或D5W用于持续输注",
+      "solucoesCompatíveis": "NS，葡萄糖5%",
+      "contraindicacoes": "过敏（极少见），慢性阿片依赖患者慎用",
+      "cuidadosMedicos": "观察气道通畅、意识恢复、呼吸及心电图",
+      "cuidadosFarmaceuticos": "确保公共及院内备药有效期内可用",
+      "cuidadosEnfermagem": "观察患者躁动、疼痛反弹、再次抑制情况",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

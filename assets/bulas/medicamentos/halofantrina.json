@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Halofantrina",
+      "suspension": "Suspender 72 horas antes da cirurgia",
+      "risk": "Risco elevado de arritmias graves e prolongamento do intervalo QT",
+      "reintroduction": "Somente reintroduzir com ECG normal e sem risco cardiovascular no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Halofantrina",
+      "nomeComercial": "Halfan",
+      "mecanismoAcao": "Interfere na polimerização de heme, levando à morte do parasita Plasmodium",
+      "farmacocinetica": "Absorção oral errática, aumentada com alimentos gordurosos; meia-vida 4 dias",
+      "farmacodinamica": "Antimalárico esquizonticida contra P. falciparum e P. vivax",
+      "indicacoes": "Tratamento de malária por P. falciparum multirresistente",
+      "reacoesAdversas": "Prolongamento de QT, arritmias ventriculares, dor abdominal, cefaleia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar durante a amamentação",
+      "administracao": "Oral, em jejum",
+      "doseMaxima": "500 mg 3 vezes em 6 horas",
+      "doseMinima": "500 mg",
+      "classificacao": "Antimalárico (fenantreno-metanol)",
+      "apresentacao": "Comprimidos de 250 mg",
+      "interacaoMedicamento": "Interage com medicamentos que prolongam QT (amiodarona, anestésicos)",
+      "posologia": "3 doses de 500 mg com intervalo de 6h entre elas",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral, não administrar com alimentos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Prolongamento de QT, distúrbios eletrolíticos, cardiopatia estrutural",
+      "cuidadosMedicos": "ECG pré-uso, monitorar sinais de toxicidade cardíaca",
+      "cuidadosFarmaceuticos": "Evitar uso com alimentos gordurosos; evitar combinações com QT longo",
+      "cuidadosEnfermagem": "Monitorar FC, PA, sintomas cardíacos e gastrointestinais",
+      "fontesBibliograficas": "ANVISA, WHO, BNF, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Halofantrine",
+      "suspension": "Discontinue 72 hours prior to surgery",
+      "risk": "High risk of QT prolongation and ventricular arrhythmias",
+      "reintroduction": "Reintroduce only if ECG is normal and no cardiac risk postoperatively"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Halofantrine",
+      "nomeComercial": "Halfan",
+      "mecanismoAcao": "Disrupts heme polymerization in Plasmodium leading to parasite death",
+      "farmacocinetica": "Oral absorption erratic, increased with fat; half-life ~4 days",
+      "farmacodinamica": "Schizonticidal antimalarial against P. falciparum and P. vivax",
+      "indicacoes": "Treatment of multi-resistant P. falciparum malaria",
+      "reacoesAdversas": "QT prolongation, ventricular arrhythmia, abdominal pain, headache",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "Oral, fasting state",
+      "doseMaxima": "500 mg x 3 doses in 6 hours",
+      "doseMinima": "500 mg",
+      "classificacao": "Antimalarial (phenanthrene-methanol)",
+      "apresentacao": "250 mg tablets",
+      "interacaoMedicamento": "Interacts with QT-prolonging drugs (amiodarone, anesthetics)",
+      "posologia": "3 doses of 500 mg every 6 hours",
+      "armazenamento": "Room temp, protect from light",
+      "preparo": "Oral use, do not take with food",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "QT prolongation, electrolyte disturbances, structural heart disease",
+      "cuidadosMedicos": "Baseline ECG, monitor for cardiotoxicity",
+      "cuidadosFarmaceuticos": "Avoid high-fat meals; avoid QT-prolonging combinations",
+      "cuidadosEnfermagem": "Monitor HR, BP, GI and cardiac symptoms",
+      "fontesBibliograficas": "FDA, WHO, BNF, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Halofantrina",
+      "suspension": "Suspender 72 horas antes de cirugía",
+      "risk": "Riesgo alto de prolongación del QT y arritmias ventriculares",
+      "reintroduction": "Reintroducir sólo con ECG normal y sin riesgo cardíaco postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Halofantrina",
+      "nomeComercial": "Halfan",
+      "mecanismoAcao": "Interfiere con la polimerización del hemo en el Plasmodium",
+      "farmacocinetica": "Oral, absorción errática, mayor con grasa; vida media ~4 días",
+      "farmacodinamica": "Antipalúdico esquizonticida frente a P. falciparum y P. vivax",
+      "indicacoes": "Tratamiento de malaria por P. falciparum multirresistente",
+      "reacoesAdversas": "QT prolongado, arritmia, dolor abdominal, cefalea",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante lactancia",
+      "administracao": "Oral en ayunas",
+      "doseMaxima": "500 mg 3 veces en 6 horas",
+      "doseMinima": "500 mg",
+      "classificacao": "Antipalúdico (fenantreno-metanol)",
+      "apresentacao": "Tabletas de 250 mg",
+      "interacaoMedicamento": "Interacciones con fármacos que prolongan QT",
+      "posologia": "3 dosis de 500 mg cada 6h",
+      "armazenamento": "Ambiente, protegido de la luz",
+      "preparo": "Uso oral, no administrar con alimentos",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "QT largo, trastornos electrolíticos, cardiopatía",
+      "cuidadosMedicos": "ECG previo, monitorear toxicidad cardíaca",
+      "cuidadosFarmaceuticos": "Evitar comidas grasas y combinaciones con QT largo",
+      "cuidadosEnfermagem": "Monitorear síntomas cardíacos y gastrointestinales",
+      "fontesBibliograficas": "AEMPS, WHO, BNF, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "哈氟苯喃",
+      "suspension": "术前72小时停药",
+      "risk": "可引起QT延长和室性心律失常",
+      "reintroduction": "术后仅在心电图正常情况下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "哈氟苯喃",
+      "nomeComercial": "哈氟安（Halfan）",
+      "mecanismoAcao": "干扰血红素聚合，导致疟原虫死亡",
+      "farmacocinetica": "口服吸收不稳定，高脂食物增强吸收，半衰期4天",
+      "farmacodinamica": "对恶性疟和间日疟原虫有效的裂殖体杀灭剂",
+      "indicacoes": "治疗多药耐药疟原虫感染",
+      "reacoesAdversas": "QT延长、室性心律失常、腹痛、头痛",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "空腹口服",
+      "doseMaxima": "每6小时500毫克，共3次",
+      "doseMinima": "500毫克",
+      "classificacao": "抗疟药（菲南醇类）",
+      "apresentacao": "250毫克片剂",
+      "interacaoMedicamento": "与QT延长药物（如胺碘酮、麻醉药）相互作用",
+      "posologia": "每6小时服500毫克，共3次",
+      "armazenamento": "室温保存，避光",
+      "preparo": "不可与食物同服，整片吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "QT延长、电解质紊乱、结构性心脏病",
+      "cuidadosMedicos": "使用前做心电图，监测心毒性",
+      "cuidadosFarmaceuticos": "避免高脂饮食和QT延长药物联用",
+      "cuidadosEnfermagem": "观察心律、心率、消化道不良反应",
+      "fontesBibliograficas": "中国药典、WHO、Micromedex、BNF"
+    }
+  }
+}

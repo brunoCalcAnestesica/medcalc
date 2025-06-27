@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sunitinibe",
+      "suspension": "Suspender pelo menos 7 dias antes de cirurgia odontológica invasiva ou cirurgia de grande porte, devido ao risco de osteonecrose de mandíbula (MRONJ), atraso de cicatrização e sangramento",
+      "risk": "Toxicidade cardiovascular, sangramento, atraso de cicatrização, toxicidade hematológica, hipertensão, hipotiroidismo, síndrome mão-pé Potencial risco de osteonecrose de mandíbula (MRONJ), especialmente em combinação com bifosfonatos ou em cirurgias odontológicas invasivas.",
+      "reintroduction": "Reintroduzir após cicatrização adequada, função hepática e renal estáveis, geralmente após 10–14 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sunitinibe",
+      "nomeComercial": "Sutent",
+      "mecanismoAcao": "Inibidor oral de tirosina quinase multialvo (VEGFR, PDGFR, c-KIT), bloqueando angiogênese e proliferação tumoral",
+      "farmacocinetica": "VO; biodisponibilidade ~50%; metabolismo hepático (CYP3A4); meia-vida ~40–60h",
+      "farmacodinamica": "Inibe receptores de fatores de crescimento envolvidos em tumorigênese e angiogênese",
+      "indicacoes": "Carcinoma de células renais metastático, GIST, tumores neuroendócrinos pancreáticos",
+      "reacoesAdversas": "Fadiga, hipertensão, náuseas, mucosite, síndrome mão-pé, leucopenia, aumento de transaminases, disfunção tireoidiana, osteonecrose de mandíbula (MRONJ) rara em contextos odontológicos invasivos",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Via oral, 1x/dia com ou sem alimentos",
+      "doseMaxima": "50mg/dia (4 semanas de uso, 2 de descanso)",
+      "doseMinima": "25mg/dia",
+      "classificacao": "Inibidor oral multiquinase",
+      "apresentacao": "Cápsulas 12,5mg, 25mg, 37,5mg, 50mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores do CYP3A4, aumenta toxicidade com anticoagulantes, AINEs",
+      "posologia": "50mg/dia por 4 semanas seguidas de 2 semanas de pausa (ciclo de 6 semanas)",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável (uso oral)",
+      "contraindicacoes": "Gravidez, lactação, cirurgia recente, sangramento ativo",
+      "cuidadosMedicos": "Monitorar PA, função hepática/renal, TSH, hemograma Avaliar previamente a saúde oral e comunicar equipe odontológica antes de cirurgias invasivas, principalmente se uso concomitante com antirreabsortivos.",
+      "cuidadosFarmaceuticos": "Educar sobre pausa no uso, verificar interações medicamentosas Orientar suspensão mínima de 7 dias antes de procedimentos odontológicos invasivos e risco potencial de MRONJ.",
+      "cuidadosEnfermagem": "Observar mucosite, sangramentos, fadiga, reações dermatológicas",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sunitinib",
+      "suspension": "Discontinue 7 days before major surgery due to bleeding and wound healing risks",
+      "risk": "Hypertension, bleeding, delayed wound healing, hand-foot syndrome, cytopenias, thyroid dysfunction",
+      "reintroduction": "Restart 10–14 days post-op upon adequate wound healing and labs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sunitinib",
+      "nomeComercial": "Sutent",
+      "mecanismoAcao": "Oral multikinase inhibitor targeting VEGFR, PDGFR, KIT; inhibits tumor growth and angiogenesis",
+      "farmacocinetica": "Oral; ~50% bioavailability; CYP3A4 metabolism; T½ ~40–60h",
+      "farmacodinamica": "Antiangiogenic and antiproliferative via RTK inhibition",
+      "indicacoes": "Metastatic RCC, GIST, pNET",
+      "reacoesAdversas": "Fatigue, mucositis, diarrhea, rash, hypertension, thyroiditis, liver enzyme elevation",
+      "riscoGravidez": "Category D – fetal risk",
+      "riscoLactacao": "Do not use while breastfeeding",
+      "administracao": "PO daily with or without food",
+      "doseMaxima": "50mg/day on 4/2 week schedule",
+      "doseMinima": "25mg/day",
+      "classificacao": "Oral multikinase inhibitor",
+      "apresentacao": "12.5mg, 25mg, 37.5mg, 50mg capsules",
+      "interacaoMedicamento": "CYP3A4 inhibitors/inducers; caution with anticoagulants, NSAIDs",
+      "posologia": "50mg/day × 4w on, 2w off; or continuous dosing 37.5mg/day",
+      "armazenamento": "Room temperature, light and moisture protection",
+      "preparo": "None required (oral)",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, recent surgery, active bleeding",
+      "cuidadosMedicos": "Monitor BP, LFTs, TSH, CBC",
+      "cuidadosFarmaceuticos": "Educate on schedule, drug interactions, toxicity signs",
+      "cuidadosEnfermagem": "Assess skin, BP, fatigue, mouth sores, GI symptoms",
+      "fontesBibliograficas": "FDA label, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sunitinib",
+      "suspension": "Suspender 7 días antes de cirugía mayor por riesgo de sangrado y retraso de cicatrización",
+      "risk": "Hipertensión, sangrado, citopenias, toxicidad tiroidea, hepatotoxicidad",
+      "reintroduction": "Reiniciar 10–14 días después si hay cicatrización adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sunitinib",
+      "nomeComercial": "Sutent",
+      "mecanismoAcao": "Inhibidor oral de múltiples tirosinas quinasas (VEGFR, PDGFR, KIT)",
+      "farmacocinetica": "VO; T½ ~40–60h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Inhibe angiogénesis y crecimiento tumoral",
+      "indicacoes": "Carcinoma renal metastásico, GIST, tumores neuroendocrinos pancreáticos",
+      "reacoesAdversas": "Fatiga, náuseas, hipertensión, mucositis, síndrome mano-pie",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "VO una vez al día",
+      "doseMaxima": "50mg/día (4 semanas on, 2 off)",
+      "doseMinima": "25mg/día",
+      "classificacao": "Inhibidor multiquinasa oral",
+      "apresentacao": "Cápsulas 12.5mg, 25mg, 37.5mg, 50mg",
+      "interacaoMedicamento": "Interacción con CYP3A4; anticoagulantes, AINEs",
+      "posologia": "50mg/día × 4 semanas, luego 2 de descanso",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "No requiere",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Cirugía reciente, sangrado activo, embarazo",
+      "cuidadosMedicos": "Control PA, hemograma, perfil hepático, TSH",
+      "cuidadosFarmaceuticos": "Informar pauta, interacciones, síntomas de toxicidad",
+      "cuidadosEnfermagem": "Vigilar PA, mucosa oral, piel, debilidad",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "舒尼替尼",
+      "suspension": "术前7天停药，术后创面愈合后再评估恢复",
+      "risk": "高血压、出血、创口愈合延迟、肝毒性、甲状腺功能障碍、乏力",
+      "reintroduction": "术后10–14天，伤口恢复后可重新开始"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "舒尼替尼",
+      "nomeComercial": "Sutent",
+      "mecanismoAcao": "口服多靶点酪氨酸激酶抑制剂，作用于VEGFR、PDGFR、KIT等",
+      "farmacocinetica": "口服吸收良好；T½ 40–60小时；CYP3A4代谢",
+      "farmacodinamica": "抑制肿瘤血管生成与细胞增殖",
+      "indicacoes": "肾癌、胃肠间质瘤、胰腺神经内分泌瘤",
+      "reacoesAdversas": "高血压、手足综合征、口腔炎、甲状腺功能异常、肝酶升高",
+      "riscoGravidez": "D类 – 禁用于妊娠期",
+      "riscoLactacao": "禁用",
+      "administracao": "每日口服1次，餐前后均可",
+      "doseMaxima": "每日50mg（28天用药，14天停药）",
+      "doseMinima": "每日25mg",
+      "classificacao": "口服多靶点TKI",
+      "apresentacao": "胶囊12.5/25/37.5/50mg",
+      "interacaoMedicamento": "与CYP3A4相关药物、抗凝药、NSAIDs互作",
+      "posologia": "50mg/d，4周用药+2周停药",
+      "armazenamento": "室温保存，防潮避光",
+      "preparo": "无需制备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性出血、妊娠、手术后未愈合",
+      "cuidadosMedicos": "监测肝肾功能、甲状腺、血压、CBC",
+      "cuidadosFarmaceuticos": "强调周期性用药，警惕药物相互作用",
+      "cuidadosEnfermagem": "关注手足反应、疲劳、粘膜炎、血压变化",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、NCCN"
+    }
+  }
+}

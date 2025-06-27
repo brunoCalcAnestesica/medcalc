@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sulfametoxazol + trimetoprima",
+      "suspension": "Suspender 48 horas antes de cirurgias maiores, principalmente em imunossuprimidos",
+      "risk": "Risco de reações alérgicas graves, nefrotoxicidade e distúrbios hematológicos",
+      "reintroduction": "Reintroduzir após normalização de função renal e ausência de reações adversas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfametoxazol + Trimetoprima (SMX + TMP)",
+      "nomeComercial": "Bactrim, Bactrim F, Septra, Eusaprim",
+      "mecanismoAcao": "Inibição sequencial da síntese de ácido fólico bacteriano (SMX inibe diidropteroato sintase; TMP inibe diidrofolato redutase).",
+      "farmacocinetica": "Boa absorção oral; ampla distribuição tecidual; excreção renal; meia-vida ~10 h (SMX), ~8–10 h (TMP).",
+      "farmacodinamica": "Bactericida sinérgico; eficaz contra Staphylococcus, Streptococcus, E. coli, Klebsiella, Pneumocystis jirovecii.",
+      "indicacoes": "Infecções urinárias, respiratórias, gastrintestinais, otites, Pneumocystis jirovecii, nocardiose, toxoplasmose.",
+      "reacoesAdversas": "Náuseas, rash cutâneo, síndrome de Stevens-Johnson, nefrotoxicidade, hiperpotassemia, leucopenia.",
+      "riscoGravidez": "Categoria D no 1º trimestre e final da gestação; uso restrito.",
+      "riscoLactacao": "Excretado no leite materno; evitar uso em neonatos.",
+      "administracao": "Via oral e intravenosa.",
+      "doseMaxima": "320 mg de TMP + 1.600 mg de SMX por dia.",
+      "doseMinima": "80 mg de TMP + 400 mg de SMX por dia.",
+      "classificacao": "Antimicrobiano bactericida (sulfonamida + inibidor de DHFR).",
+      "apresentacao": "Comprimidos 400+80 mg e 800+160 mg; suspensão oral 200+40 mg/5 mL; ampola 80+400 mg/5 mL.",
+      "interacaoMedicamento": "Potencializa o efeito de anticoagulantes, hipoglicemiantes, metotrexato.",
+      "posologia": "8–10 mg/kg/dia (TMP) divididos em 2 doses; ajustar conforme função renal.",
+      "armazenamento": "Temperatura ambiente, protegido da luz.",
+      "preparo": "Solução IV: diluir em SF 0,9% (1:15) e infundir em até 60 minutos.",
+      "solucoesCompatíveis": "SF 0,9%.",
+      "contraindicacoes": "Alergia a sulfas, disfunção hepática/renal grave, lactentes <6 semanas.",
+      "cuidadosMedicos": "Monitorar eletrólitos, função renal e hemograma.",
+      "cuidadosFarmaceuticos": "Orientar hidratação, risco de fotossensibilidade e adesão ao tratamento.",
+      "cuidadosEnfermagem": "Avaliar sinais de reação alérgica e função renal.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Bula Bactrim."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sulfamethoxazole + Trimethoprim",
+      "suspension": "Discontinue 48 hours before major surgery, especially in immunocompromised patients",
+      "risk": "Risk of severe allergic reactions, nephrotoxicity, and hematologic abnormalities",
+      "reintroduction": "Restart after renal function normalization and absence of adverse effects"
+    },
+    "bulario": {
+      "activeIngredient": "Sulfamethoxazole + Trimethoprim (SMX + TMP)",
+      "brandNames": "Bactrim, Bactrim DS, Septra, Eusaprim",
+      "mechanismOfAction": "Sequential inhibition of bacterial folic acid synthesis (SMX inhibits dihydropteroate synthase; TMP inhibits dihydrofolate reductase).",
+      "pharmacokinetics": "Good oral absorption; wide tissue distribution; renal excretion; half-life ~10 h (SMX), ~8–10 h (TMP).",
+      "pharmacodynamics": "Synergistic bactericidal; effective against Staphylococcus, Streptococcus, E. coli, Klebsiella, Pneumocystis jirovecii.",
+      "indications": "Urinary, respiratory, gastrointestinal infections, otitis, Pneumocystis jirovecii, nocardiosis, toxoplasmosis.",
+      "adverseReactions": "Nausea, rash, Stevens-Johnson syndrome, nephrotoxicity, hyperkalemia, leukopenia.",
+      "pregnancyRisk": "Category D in the 1st trimester and late pregnancy; restricted use.",
+      "lactationRisk": "Excreted in breast milk; avoid in neonates.",
+      "administration": "Oral and intravenous.",
+      "maxDose": "320 mg TMP + 1,600 mg SMX per day.",
+      "minDose": "80 mg TMP + 400 mg SMX per day.",
+      "classification": "Bactericidal antimicrobial (sulfonamide + DHFR inhibitor).",
+      "presentation": "Tablets 400+80 mg and 800+160 mg; oral suspension 200+40 mg/5 mL; ampoule 80+400 mg/5 mL.",
+      "drugInteractions": "Potentiates effect of anticoagulants, hypoglycemics, methotrexate.",
+      "posology": "8–10 mg/kg/day (TMP) divided into 2 doses; adjust for renal function.",
+      "storage": "Room temperature, protected from light.",
+      "preparation": "IV solution: dilute in 0.9% saline (1:15) and infuse over up to 60 minutes.",
+      "compatibleSolutions": "0.9% saline.",
+      "contraindications": "Sulfa allergy, severe hepatic/renal dysfunction, infants <6 weeks.",
+      "medicalCare": "Monitor electrolytes, renal function, blood count.",
+      "pharmaceuticalCare": "Advise hydration, photosensitivity risk, and adherence.",
+      "nursingCare": "Assess for allergic reactions and renal function.",
+      "references": "Micromedex, UpToDate, FDA, ANVISA, Bactrim Package Insert."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sulfametoxazol + Trimetoprima",
+      "suspension": "Suspender 48 horas antes de cirugías mayores, especialmente en inmunosuprimidos",
+      "risk": "Riesgo de reacciones alérgicas graves, nefrotoxicidad y alteraciones hematológicas",
+      "reintroduction": "Reintroducir tras normalización de función renal y sin efectos adversos"
+    },
+    "bulario": {
+      "principioActivo": "Sulfametoxazol + Trimetoprima (SMX + TMP)",
+      "nombreComercial": "Bactrim, Bactrim F, Septra, Eusaprim",
+      "mecanismoAccion": "Inhibición secuencial de la síntesis de ácido fólico bacteriano (SMX inhibe la dihidropteroato sintasa; TMP inhibe la dihidrofolato reductasa).",
+      "farmacocinetica": "Buena absorción oral; amplia distribución tisular; excreción renal; vida media ~10 h (SMX), ~8–10 h (TMP).",
+      "farmacodinamia": "Bactericida sinérgico; eficaz contra Staphylococcus, Streptococcus, E. coli, Klebsiella, Pneumocystis jirovecii.",
+      "indicaciones": "Infecciones urinarias, respiratorias, gastrointestinales, otitis, Pneumocystis jirovecii, nocardiosis, toxoplasmosis.",
+      "reaccionesAdversas": "Náuseas, exantema, síndrome de Stevens-Johnson, nefrotoxicidad, hiperpotasemia, leucopenia.",
+      "riesgoEmbarazo": "Categoría D en el primer trimestre y al final del embarazo; uso restringido.",
+      "riesgoLactancia": "Excretado en la leche materna; evitar en neonatos.",
+      "administracion": "Vía oral e intravenosa.",
+      "dosisMaxima": "320 mg de TMP + 1.600 mg de SMX al día.",
+      "dosisMinima": "80 mg de TMP + 400 mg de SMX al día.",
+      "clasificacion": "Antimicrobiano bactericida (sulfonamida + inhibidor de DHFR).",
+      "presentacion": "Comprimidos 400+80 mg y 800+160 mg; suspensión oral 200+40 mg/5 mL; ampolla 80+400 mg/5 mL.",
+      "interaccionesMedicamentosas": "Potencia el efecto de anticoagulantes, hipoglucemiantes, metotrexato.",
+      "posologia": "8–10 mg/kg/día (TMP) divididos en 2 dosis; ajustar según función renal.",
+      "almacenamiento": "Temperatura ambiente, protegido de la luz.",
+      "preparacion": "Solución IV: diluir en SF 0,9% (1:15) e infundir en hasta 60 minutos.",
+      "solucionesCompatibles": "SF 0,9%.",
+      "contraindicaciones": "Alergia a sulfas, disfunción hepática/renal grave, lactantes <6 semanas.",
+      "cuidadosMedicos": "Monitorizar electrolitos, función renal y hemograma.",
+      "cuidadosFarmaceuticos": "Orientar sobre hidratación, riesgo de fotosensibilidad y adherencia.",
+      "cuidadosEnfermeria": "Evaluar signos de reacción alérgica y función renal.",
+      "fuentesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Prospecto de Bactrim."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "磺胺甲噁唑 + 甲氧苄啶",
+      "suspension": "重大手术前48小时停药，尤其是免疫低下患者",
+      "risk": "存在严重过敏反应、肾毒性和血液系统异常风险",
+      "reintroduction": "待肾功能恢复且无不良反应后可重新使用"
+    },
+    "bulario": {
+      "有效成分": "磺胺甲噁唑 + 甲氧苄啶（SMX + TMP）",
+      "商品名": "Bactrim, Bactrim F, Septra, Eusaprim",
+      "作用机制": "依次抑制细菌叶酸合成（SMX抑制二氢蝶酸合成酶；TMP抑制二氢叶酸还原酶）。",
+      "药代动力学": "口服吸收良好；广泛分布于组织；肾脏排泄；半衰期约10小时（SMX），约8–10小时（TMP）。",
+      "药效学": "协同杀菌作用；对葡萄球菌、链球菌、大肠杆菌、克雷伯菌、肺孢子菌（Pneumocystis jirovecii）等有效。",
+      "适应症": "尿路、呼吸道、胃肠道感染，中耳炎，肺孢子菌肺炎，诺卡菌病，弓形虫病。",
+      "不良反应": "恶心、皮疹、Stevens-Johnson综合征、肾毒性、高钾血症、白细胞减少。",
+      "孕期风险": "孕早期和妊娠晚期为D类；限制使用。",
+      "哺乳期风险": "可分泌至乳汁；避免新生儿使用。",
+      "给药途径": "口服和静脉注射。",
+      "最大剂量": "TMP 320 mg + SMX 1,600 mg/天。",
+      "最小剂量": "TMP 80 mg + SMX 400 mg/天。",
+      "药物分类": "杀菌性抗菌药（磺胺类 + DHFR抑制剂）。",
+      "剂型": "片剂400+80 mg、800+160 mg；口服混悬液200+40 mg/5 mL；注射液80+400 mg/5 mL。",
+      "药物相互作用": "增强抗凝药、降糖药、甲氨蝶呤的作用。",
+      "用法用量": "TMP 8–10 mg/kg/天，分2次服用；需根据肾功能调整。",
+      "储存": "室温，避光保存。",
+      "配制": "静脉注射液：用0.9%氯化钠稀释（1:15），60分钟内输注。",
+      "兼容溶液": "0.9%氯化钠。",
+      "禁忌症": "磺胺类过敏、严重肝/肾功能障碍、<6周新生儿禁用。",
+      "医疗注意事项": "监测电解质、肾功能和血常规。",
+      "药学注意事项": "指导补充水分、注意光敏反应和依从性。",
+      "护理注意事项": "观察过敏反应及肾功能。",
+      "参考文献": "Micromedex, UpToDate, FDA, ANVISA, Bactrim说明书。"
+    }
+  }
+}

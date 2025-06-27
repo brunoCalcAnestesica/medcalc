@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Metilprednisolona",
+      "suspension": "Suspender 24–48h antes de procedimentos eletivos quando em doses imunossupressoras (>20 mg/dia por >2 semanas)",
+      "risk": "Risco de supressão adrenal, hiperglicemia, infecção, dificuldade na cicatrização, interação com anestésicos e imunossupressores",
+      "reintroduction": "Reintroduzir em dose fisiológica ou escalonada, conforme risco de insuficiência adrenal e tipo de procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metilprednisolona",
+      "nomeComercial": "Solu-Medrol, Depo-Medrol, Medrol",
+      "mecanismoAcao": "Glicocorticoide sintético com potente ação anti-inflamatória, imunossupressora e antialérgica",
+      "farmacocinetica": "Biodisponibilidade oral >80%; T1/2 ~2,5h; metabolização hepática; excreção renal",
+      "farmacodinamica": "Inibe citocinas inflamatórias, migração leucocitária e resposta imune celular",
+      "indicacoes": "Doenças autoimunes, alergias graves, asma, DPOC exacerbada, sepse, choque, edema cerebral, transplante",
+      "reacoesAdversas": "Hiperglicemia, infecção, osteoporose, miopatia, úlcera, alterações psiquiátricas",
+      "riscoGravidez": "Categoria C – risco em doses altas",
+      "riscoLactacao": "Compatível com uso cauteloso",
+      "administracao": "Oral, IV, IM ou intra-articular",
+      "doseMaxima": "1 g/dia (pulsoterapia IV)",
+      "doseMinima": "4 mg/dia (oral)",
+      "classificacao": "Corticosteroide sistêmico",
+      "apresentacao": "Comprimidos 4–32 mg; ampolas 125–1.000 mg; suspensão IM",
+      "interacaoMedicamento": "Interage com AINEs, anticoagulantes, antidiabéticos, inibidores de CYP3A4",
+      "posologia": "Individualizada conforme indicação; 0,5–2 mg/kg/dia via oral comum",
+      "armazenamento": "Temperatura ambiente; reconstituir solução IV conforme bula",
+      "preparo": "Diluir pó liofilizado conforme via e indicação; seguir técnica asséptica",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Infecção fúngica sistêmica, hipersensibilidade, uso IM em idiopatia trombocitopênica púrpura",
+      "cuidadosMedicos": "Monitorar glicemia, sinais de infecção, função adrenal e DMO",
+      "cuidadosFarmaceuticos": "Orientar desmame gradual após uso prolongado",
+      "cuidadosEnfermagem": "Observar efeitos adversos e realizar administração conforme protocolo",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Methylprednisolone",
+      "suspension": "Hold 24–48h before elective surgery if on immunosuppressive doses (>20 mg/day for >2 weeks)",
+      "risk": "Risk of adrenal suppression, hyperglycemia, infection, delayed healing, interactions with anesthetics and immunosuppressants",
+      "reintroduction": "Restart at physiologic dose or taper as per surgical risk"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Methylprednisolone",
+      "nomeComercial": "Solu-Medrol, Medrol, Depo-Medrol",
+      "mecanismoAcao": "Synthetic glucocorticoid with anti-inflammatory, immunosuppressive, and antiallergic activity",
+      "farmacocinetica": "Oral bioavailability >80%; half-life ~2.5h; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Suppresses cytokines, leukocyte migration, and cellular immune response",
+      "indicacoes": "Autoimmune diseases, severe allergies, asthma, COPD exacerbations, sepsis, cerebral edema, transplant immunosuppression",
+      "reacoesAdversas": "Hyperglycemia, infections, osteoporosis, muscle wasting, ulcers, psychiatric effects",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use with caution; compatible in low doses",
+      "administracao": "Oral, IV, IM, intra-articular",
+      "doseMaxima": "1 g/day (IV pulses)",
+      "doseMinima": "4 mg/day (oral)",
+      "classificacao": "Systemic corticosteroid",
+      "apresentacao": "Tablets 4–32 mg; IV ampoules 125–1,000 mg; IM suspension",
+      "interacaoMedicamento": "NSAIDs, anticoagulants, antidiabetics, CYP3A4 inhibitors",
+      "posologia": "Tailored to indication; 0.5–2 mg/kg/day typical oral dose",
+      "armazenamento": "Room temp; reconstitute IV form per label",
+      "preparo": "Reconstitute lyophilized powder as per route and indication",
+      "solucoesCompatíveis": "Normal saline, 5% dextrose",
+      "contraindicacoes": "Systemic fungal infections, hypersensitivity, IM in ITP",
+      "cuidadosMedicos": "Monitor glucose, infection, bone density, adrenal function",
+      "cuidadosFarmaceuticos": "Educate on tapering after prolonged use",
+      "cuidadosEnfermagem": "Administer per protocol and observe for side effects",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Clinical Pharmacology"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Metilprednisolona",
+      "suspension": "Suspender 24–48h antes de cirugía si recibe dosis inmunosupresora (>20 mg/día por >2 semanas)",
+      "risk": "Supresión adrenal, hiperglucemia, infección, cicatrización lenta, interacciones",
+      "reintroduction": "Reiniciar en dosis fisiológica o ajustada según riesgo quirúrgico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metilprednisolona",
+      "nomeComercial": "Solu-Medrol, Medrol, Depo-Medrol",
+      "mecanismoAcao": "Glucocorticoide sintético con propiedades antiinflamatorias e inmunosupresoras",
+      "farmacocinetica": "Biodisponibilidad oral >80%; vida media ~2,5h; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Inhibe citocinas, migración leucocitaria y respuesta inmune",
+      "indicacoes": "Autoinmunidad, alergias severas, asma, EPOC, sepsis, edema cerebral, trasplantes",
+      "reacoesAdversas": "Hiperglucemia, infecciones, osteoporosis, miopatía, úlcera, alteraciones psiquiátricas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Usar con precaución",
+      "administracao": "Oral, IV, IM o intraarticular",
+      "doseMaxima": "1 g/día (pulsoterapia)",
+      "doseMinima": "4 mg/día",
+      "classificacao": "Corticosteroide sistémico",
+      "apresentacao": "Tabletas 4–32 mg; ampollas 125–1.000 mg; suspensión IM",
+      "interacaoMedicamento": "AINEs, anticoagulantes, hipoglucemiantes, inhibidores CYP3A4",
+      "posologia": "Dosis individualizada; 0,5–2 mg/kg/día habitual por VO",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "Reconstituir polvo liofilizado según vía e indicación",
+      "solucoesCompatíveis": "Salina 0,9%, dextrosa 5%",
+      "contraindicacoes": "Micosis sistémica, hipersensibilidad, púrpura trombocitopénica",
+      "cuidadosMedicos": "Controlar glucemia, infecciones, densidad ósea, función suprarrenal",
+      "cuidadosFarmaceuticos": "Explicar necesidad de reducir progresivamente",
+      "cuidadosEnfermagem": "Observar efectos adversos y asegurar correcta administración",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甲泼尼龙",
+      "suspension": "术前24–48小时停药（若为免疫抑制剂量，>20mg/天超2周）",
+      "risk": "肾上腺抑制、高血糖、感染、延迟愈合，与麻醉药/免疫抑制剂相互作用",
+      "reintroduction": "术后根据肾上腺功能与手术风险恢复生理剂量"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甲泼尼龙",
+      "nomeComercial": "Solu-Medrol, 美卓乐",
+      "mecanismoAcao": "合成糖皮质激素，具抗炎、免疫抑制、抗过敏作用",
+      "farmacocinetica": "口服吸收好，T1/2约2.5小时，肝代谢，肾排泄",
+      "farmacodinamica": "抑制细胞因子释放，抑制炎症反应和免疫细胞迁移",
+      "indicacoes": "自身免疫病、重度过敏、哮喘、COPD、脑水肿、移植",
+      "reacoesAdversas": "高血糖、感染、骨质疏松、肌肉萎缩、溃疡、精神异常",
+      "riscoGravidez": "C类 – 高剂量慎用",
+      "riscoLactacao": "慎用，低剂量可用",
+      "administracao": "口服、静脉、肌注或关节腔内注射",
+      "doseMaxima": "每日1克（冲击治疗）",
+      "doseMinima": "每日4毫克",
+      "classificacao": "系统性糖皮质激素",
+      "apresentacao": "片剂4–32毫克，注射粉针125–1000毫克，肌注悬液",
+      "interacaoMedicamento": "NSAIDs、抗凝药、降糖药、CYP3A4抑制剂",
+      "posologia": "个体化用药，常用剂量0.5–2 mg/kg/日口服",
+      "armazenamento": "常温干燥，注射剂按说明配制",
+      "preparo": "无菌操作稀释注射剂或悬液",
+      "solucoesCompatíveis": "氯化钠、生理葡萄糖",
+      "contraindicacoes": "全身真菌感染、过敏、特发性血小板减少症肌注禁用",
+      "cuidadosMedicos": "监测血糖、感染征象、骨密度、肾上腺功能",
+      "cuidadosFarmaceuticos": "长期用药应逐步减量，教育患者",
+      "cuidadosEnfermagem": "关注不良反应，正确执行给药方案",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cimetidina",
+      "suspension": "Suspender 24 horas antes da cirurgia eletiva em pacientes com risco cardiovascular ou em uso de múltiplos medicamentos com metabolismo hepático.",
+      "risk": "Risco de interações medicamentosas relevantes (varfarina, teofilina, benzodiazepínicos, lidocaína); pode causar bradicardia, hipotensão e confusão mental em idosos. Raramente causa arritmias ventriculares com anestésicos voláteis.",
+      "reintroduction": "Reintroduzir no pós-operatório após reavaliação da função hepática, revisão das interações medicamentosas e estabilização clínica geral."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cimetidina",
+      "nomeComercial": "Tagamet, Ulcerocin",
+      "mecanismoAcao": "Antagonista competitivo reversível dos receptores H2 da histamina localizados nas células parietais gástricas. Inibe a secreção basal e estimulada por alimentos, insulina, cafeína e acetilcolina.",
+      "farmacocinetica": "Absorção oral rápida; biodisponibilidade 60–75%; tempo para pico plasmático: 1–2 horas; meia-vida: 2 horas; metabolismo hepático por CYP450 (1A2, 2C9, 2D6, 3A4); excreção renal e em menor grau fecal.",
+      "farmacodinamica": "Reduz a secreção gástrica ácida em até 70%, diminui volume de secreção e eleva pH gástrico. Não interfere na secreção de bicarbonato ou de muco. Pode interferir na secreção de pepsina.",
+      "indicacoes": "Tratamento e prevenção de úlceras gástricas e duodenais, doença do refluxo gastroesofágico (DRGE), esofagite erosiva, hipersecreção gástrica (síndrome de Zollinger-Ellison), prevenção de úlcera de estresse em pacientes críticos.",
+      "reacoesAdversas": "Comuns: cefaleia, diarreia, constipação. Raros: ginecomastia, impotência, galactorreia, confusão mental, alucinações, elevação de transaminases, leucopenia, pancitopenia, prolongamento do intervalo QT.",
+      "riscoGravidez": "Categoria B (seguro em estudos com animais, ausência de estudos humanos controlados).",
+      "riscoLactacao": "Excreção no leite materno; usar com cautela, preferir IBPs se disponíveis.",
+      "administracao": "Oral (comprimidos, solução) e intravenosa (ampolas).",
+      "doseMaxima": "1.600 mg/dia (dose total em adultos por via oral ou IV).",
+      "doseMinima": "200 mg/dia.",
+      "classificacao": "Antagonista H2 de histamina (antiácido competitivo seletivo).",
+      "apresentacao": "Comprimidos 200 mg, 400 mg, 800 mg; solução oral 300 mg/10 mL; ampola 200 mg/2 mL para uso IV.",
+      "interacaoMedicamento": "Inibe CYP1A2, CYP2C9, CYP2D6 e CYP3A4. Aumenta níveis plasmáticos de varfarina, fenitoína, teofilina, lidocaína, benzodiazepínicos, metformina, antiarrítmicos e antidepressivos tricíclicos. Aumenta toxicidade de procainamida e bloqueadores neuromusculares.",
+      "posologia": "Úlcera duodenal ativa: 800 mg à noite ou 400 mg 2x/dia. Profilaxia: 400 mg/dia. Doses IV: 200 mg a cada 6 a 8 horas.",
+      "armazenamento": "Comprimidos: temperatura ambiente. Ampolas: proteger da luz e manter refrigeradas após diluição.",
+      "preparo": "IV direto: diluir ampola em 20 mL de SF 0,9%; infusão intermitente: diluir em 100 mL de SF 0,9% e infundir em 30 minutos.",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%, glicose 5%. Incompatível com soluções alcalinas.",
+      "contraindicacoes": "Hipersensibilidade à cimetidina. Uso com cautela em pacientes com insuficiência hepática, renal ou idosos frágeis.",
+      "cuidadosMedicos": "Avaliar necessidade em pacientes com múltiplas comorbidades. Preferir IBPs em caso de interação medicamentosa relevante.",
+      "cuidadosFarmaceuticos": "Orientar sobre tempo de uso e evitar automedicação prolongada. Monitorar farmacovigilância devido a risco de confusão mental e efeitos endócrinos.",
+      "cuidadosEnfermagem": "Observar confusão mental em idosos, alterações gastrointestinais e sinais de reações adversas hematológicas ou hepáticas.",
+      "fontesBibliograficas": "Micromedex, FDA Label, ANVISA, UpToDate, Goodman & Gilman, BNF, Martindale"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cimetidine",
+      "suspension": "Discontinue 24 hours prior to surgery in patients at high risk for drug interactions or taking multiple CYP450-metabolized medications.",
+      "risk": "Inhibits multiple CYP450 isoenzymes; may potentiate CNS depression, prolong QT, and alter hemodynamic stability with anesthesia.",
+      "reintroduction": "Reintroduce postoperatively only after evaluating drug interactions and hepatic/renal function."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cimetidine",
+      "nomeComercial": "Tagamet",
+      "mecanismoAcao": "Competitively blocks histamine H2 receptors on gastric parietal cells, inhibiting both basal and stimulated acid secretion.",
+      "farmacocinetica": "Oral bioavailability ~70%; Tmax ~1–2 h; half-life ~2 h; liver metabolism via CYP450; excreted primarily via kidneys.",
+      "farmacodinamica": "Lowers gastric volume and acidity; modest effect on pepsin secretion. Reduces hydrogen ion concentration significantly for ~6 hours.",
+      "indicacoes": "Duodenal and gastric ulcer, GERD, esophagitis, stress ulcer prophylaxis, Zollinger-Ellison syndrome.",
+      "reacoesAdversas": "Gynecomastia, galactorrhea, confusion, hallucination (especially elderly), elevated liver enzymes, neutropenia, thrombocytopenia.",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Detected in breast milk; avoid in breastfeeding if safer alternatives (e.g., PPIs) available.",
+      "administracao": "Oral and intravenous routes.",
+      "doseMaxima": "1,600 mg/day",
+      "doseMinima": "200 mg/day",
+      "classificacao": "Histamine H2 receptor antagonist",
+      "apresentacao": "Tablets 200, 400, 800 mg; solution 300 mg/10 mL; IV ampoules 200 mg/2 mL",
+      "interacaoMedicamento": "Strong inhibitor of multiple CYP450 isoforms: increases serum levels of warfarin, phenytoin, theophylline, lidocaine, propranolol, benzodiazepines.",
+      "posologia": "Duodenal ulcer: 800 mg at bedtime or 400 mg BID. IV: 200 mg every 6–8 hours.",
+      "armazenamento": "Store tablets at room temperature; protect injectable solution from light.",
+      "preparo": "For IV push: dilute 200 mg in 20 mL NS. Infusion: dilute in 100 mL NS, administer over 30 minutes.",
+      "solucoesCompatíveis": "Normal saline, D5W",
+      "contraindicacoes": "Hypersensitivity; relative contraindication in polypharmacy geriatric patients.",
+      "cuidadosMedicos": "Monitor renal/hepatic function in prolonged use. Consider safer alternatives if clinically feasible.",
+      "cuidadosFarmaceuticos": "Reinforce dosage adherence, minimize OTC use, and monitor drug-drug interactions.",
+      "cuidadosEnfermagem": "Assess for confusion, GI side effects, and signs of blood dyscrasias.",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, BNF, Goodman & Gilman"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cimetidina",
+      "suspension": "Suspender 24 horas antes de cirugía en pacientes con polifarmacia o riesgo cardiovascular.",
+      "risk": "Inhibidor del sistema enzimático hepático CYP450; puede prolongar el QT, causar bradicardia, somnolencia y aumentar niveles de otros fármacos.",
+      "reintroduction": "Reintroducir tras estabilización clínica y revisión de interacciones medicamentosas postoperatorias."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cimetidina",
+      "nomeComercial": "Tagamet",
+      "mecanismoAcao": "Antagonista competitivo de los receptores H2 de histamina en las células parietales gástricas. Inhibe secreción basal y estimulada por alimentos, insulina, gastrina y acetilcolina.",
+      "farmacocinetica": "Buena absorción oral; biodisponibilidad 70%; Tmax 1–2h; vida media 2h; metabolismo hepático (CYP450); eliminación renal.",
+      "farmacodinamica": "Reduce la secreción de ácido gástrico en reposo y estimulada. Aumenta el pH gástrico. Tiene efecto leve en secreción de pepsina.",
+      "indicacoes": "Úlcera péptica gástrica y duodenal, enfermedad por reflujo gastroesofágico (ERGE), esofagitis, síndrome de Zollinger-Ellison, prevención de úlcera por estrés.",
+      "reacoesAdversas": "Ginecomastia, galactorrea, confusión, alucinaciones, aumento de enzimas hepáticas, bradicardia, leucopenia, trombocitopenia.",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Se excreta en leche materna; evitar si hay alternativas más seguras.",
+      "administracao": "Vía oral e intravenosa",
+      "doseMaxima": "1.600 mg/día",
+      "doseMinima": "200 mg/día",
+      "classificacao": "Antagonista H2 de histamina",
+      "apresentacao": "Comprimidos 200, 400, 800 mg; solución oral; ampollas IV 200 mg/2 mL",
+      "interacaoMedicamento": "Inhibe CYP1A2, 2C9, 2D6, 3A4. Aumenta niveles de warfarina, teofilina, lidocaína, benzodiazepinas.",
+      "posologia": "800 mg nocturnos o 400 mg cada 12h; IV: 200 mg cada 6–8h",
+      "armazenamento": "Ambiente; proteger de la luz",
+      "preparo": "Diluir en 20 mL de SF para inyección lenta o en 100 mL para infusión IV 30 min.",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia, insuficiencia hepática o renal no compensada",
+      "cuidadosMedicos": "Monitorizar función hepática y renal, especialmente en ancianos",
+      "cuidadosFarmaceuticos": "Revisión cuidadosa de interacciones medicamentosas. Preferir IBP si hay riesgo",
+      "cuidadosEnfermagem": "Observar síntomas de confusión, hipotensión, reacciones GI",
+      "fontesBibliograficas": "AEMPS, BNF, UpToDate, Micromedex, Goodman & Gilman"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "西咪替丁",
+      "suspension": "术前24小时停药，尤其是老年人或服用多种药物者。",
+      "risk": "抑制肝脏CYP450酶系，可增加多种药物血药浓度；老年人易发生意识障碍、心律失常。",
+      "reintroduction": "术后如无肝肾功能障碍且无严重药物相互作用风险，可重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "西咪替丁",
+      "nomeComercial": "Tagamet",
+      "mecanismoAcao": "竞争性拮抗胃壁细胞H2受体，抑制基础及刺激性胃酸分泌。",
+      "farmacocinetica": "口服吸收良好，生物利用度70%；Tmax约1–2小时；半衰期2小时；肝脏代谢，肾脏排泄。",
+      "farmacodinamica": "抑制胃酸分泌，提高胃液pH，减轻胃酸相关疾病症状。",
+      "indicacoes": "胃溃疡、十二指肠溃疡、胃食管反流、应激性溃疡预防、胃酸过多综合征。",
+      "reacoesAdversas": "男性乳房发育、泌乳、意识模糊、转氨酶升高、白细胞减少、QT间期延长。",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可进入乳汁；如有更安全选择，应避免使用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日1600毫克",
+      "doseMinima": "每日200毫克",
+      "classificacao": "H2受体阻滞剂",
+      "apresentacao": "片剂200/400/800毫克，注射液200毫克/2毫升",
+      "interacaoMedicamento": "抑制CYP450多个亚型，增加华法林、茶碱、苯二氮䓬类药物、利多卡因等血药浓度。",
+      "posologia": "400毫克每日2次或800毫克睡前；IV 200毫克每6–8小时",
+      "armazenamento": "常温避光保存",
+      "preparo": "IV注射前用20 mL生理盐水稀释；输注需稀释至100 mL，30分钟内完成。",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "对本品或其他H2拮抗剂过敏；严重肝肾功能障碍慎用",
+      "cuidadosMedicos": "老年人慎用；监测肝肾功能，避免与高风险药物联用",
+      "cuidadosFarmaceuticos": "警惕药物相互作用，使用前查阅患者用药史",
+      "cuidadosEnfermagem": "注意神志变化、低血压、腹泻等不良反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Goodman & Gilman"
+    }
+  }
+}

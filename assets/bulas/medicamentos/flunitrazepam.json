@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Flunitrazepam",
+      "suspension": "Suspender 5 dias antes de cirurgia eletiva com anestesia geral",
+      "risk": "Sedação profunda, amnésia anterógrada, depressão respiratória, dependência, interação com opioides e anestésicos",
+      "reintroduction": "Reintroduzir somente após recuperação anestésica completa e em regime controlado se necessário"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Flunitrazepam",
+      "nomeComercial": "Rohypnol",
+      "mecanismoAcao": "Benzodiazepínico de alta potência que potencializa o efeito do GABA-A, promovendo sedação, hipnose e amnésia",
+      "farmacocinetica": "Oral; início em 15–30 min; meia-vida ~18–26 h; metabolização hepática (CYP3A4)",
+      "farmacodinamica": "Ansiolítico, hipnótico e anticonvulsivante; potente indutor do sono",
+      "indicacoes": "Insônia grave (uso restrito), pré-anestesia (off-label), sedação controlada",
+      "reacoesAdversas": "Sonolência, tontura, ataxia, amnésia, confusão, depressão respiratória, dependência",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "2 mg/dia",
+      "doseMinima": "0,5 mg/dia",
+      "classificacao": "Benzodiazepínico – hipnótico",
+      "apresentacao": "Comprimidos de 1 mg (não disponível em vários países)",
+      "interacaoMedicamento": "Potencializa opioides, álcool, antipsicóticos, anestésicos; risco de depressão CNS",
+      "posologia": "0,5–2 mg VO à noite",
+      "armazenamento": "Temperatura ambiente; controle rigoroso",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, insuficiência respiratória, apneia do sono, histórico de abuso",
+      "cuidadosMedicos": "Monitorar sinais vitais, nível de consciência, dependência e abstinência",
+      "cuidadosFarmaceuticos": "Uso restrito; educar sobre riscos de abuso e sedação excessiva",
+      "cuidadosEnfermagem": "Observar sedação, PA, FR e sinais de confusão",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate, WHO"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Flunitrazepam",
+      "suspension": "Discontinue 5 days before surgery requiring general anesthesia",
+      "risk": "Deep sedation, respiratory depression, anterograde amnesia, CNS depression",
+      "reintroduction": "Restart post-op only if clinically necessary under supervision"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Flunitrazepam",
+      "nomeComercial": "Rohypnol (banned in the US)",
+      "mecanismoAcao": "High-potency benzodiazepine; GABA-A receptor agonist",
+      "farmacocinetica": "Onset 15–30 min; t½ ~18–26 h; hepatic metabolism via CYP3A4",
+      "farmacodinamica": "Strong hypnotic, anxiolytic, anticonvulsant, amnestic",
+      "indicacoes": "Severe insomnia (restricted), procedural sedation (off-label)",
+      "reacoesAdversas": "Somnolence, ataxia, confusion, dependence, overdose risk",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "2 mg/day",
+      "doseMinima": "0.5 mg/day",
+      "classificacao": "Benzodiazepine – hypnotic",
+      "apresentacao": "1 mg tablet (restricted or banned in many countries)",
+      "interacaoMedicamento": "Additive CNS depression with opioids, alcohol, antipsychotics",
+      "posologia": "0.5–2 mg PO at bedtime",
+      "armazenamento": "Secure storage, room temp",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, respiratory depression, sleep apnea",
+      "cuidadosMedicos": "Monitor CNS status, abuse potential, withdrawal",
+      "cuidadosFarmaceuticos": "Strict dispensing control; educate on abuse risks",
+      "cuidadosEnfermagem": "Observe respiratory rate, sedation, confusion",
+      "fontesBibliograficas": "DEA, WHO, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Flunitrazepam",
+      "suspension": "Suspender 5 días antes de cirugía mayor con anestesia",
+      "risk": "Amnesia, sedación, depresión respiratoria, dependencia",
+      "reintroduction": "Reiniciar sólo si estrictamente necesario y bajo control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Flunitrazepam",
+      "nomeComercial": "Rohypnol",
+      "mecanismoAcao": "Benzodiazepina potente; agonista GABA-A",
+      "farmacocinetica": "VO, inicio 15–30 min, t½ ~18–26 h",
+      "farmacodinamica": "Hipnótico, ansiolítico, anticonvulsivo potente",
+      "indicacoes": "Insomnio grave (uso restringido)",
+      "reacoesAdversas": "Somnolencia, confusión, apnea, dependencia",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Prohibido",
+      "administracao": "Oral",
+      "doseMaxima": "2 mg/día",
+      "doseMinima": "0,5 mg/día",
+      "classificacao": "Benzodiacepina – hipnótico",
+      "apresentacao": "1 mg comprimidos",
+      "interacaoMedicamento": "Alcohol, opioides, antipsicóticos – sinergismo",
+      "posologia": "0,5–2 mg noche",
+      "armazenamento": "Controlado, ambiente",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, EPOC, apnea del sueño",
+      "cuidadosMedicos": "Vigilancia conciencia, PA, FR",
+      "cuidadosFarmaceuticos": "Educación y control estricto",
+      "cuidadosEnfermagem": "Observar somnolencia, confusión, FR",
+      "fontesBibliograficas": "WHO, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氟硝西泮（Flunitrazepam）",
+      "suspension": "术前5天停用，尤其涉及全麻",
+      "risk": "深度镇静、健忘、呼吸抑制、依赖风险高",
+      "reintroduction": "术后清醒后再谨慎恢复，严格监控"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氟硝西泮",
+      "nomeComercial": "Rohypnol（多国禁用）",
+      "mecanismoAcao": "高效力苯二氮䓬类，增强GABA-A功能",
+      "farmacocinetica": "口服起效15–30分钟，t½ 18–26小时",
+      "farmacodinamica": "镇静、催眠、抗惊厥、遗忘",
+      "indicacoes": "重度失眠（限用）",
+      "reacoesAdversas": "头晕、步态不稳、记忆缺失、成瘾、呼吸抑制",
+      "riscoGravidez": "D类，禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日2 mg",
+      "doseMinima": "0.5 mg",
+      "classificacao": "苯二氮䓬类安眠药",
+      "apresentacao": "1 mg片剂",
+      "interacaoMedicamento": "与阿片、酒精、麻醉药协同",
+      "posologia": "0.5–2 mg 睡前口服",
+      "armazenamento": "密闭室温储存，严格监管",
+      "preparo": "无需稀释",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、睡眠呼吸暂停、呼吸衰竭",
+      "cuidadosMedicos": "监测意识、呼吸、依赖风险",
+      "cuidadosFarmaceuticos": "教育用药安全，严控发放",
+      "cuidadosEnfermagem": "注意呼吸、血压、意识状态",
+      "fontesBibliograficas": "WHO、FDA、Micromedex、UpToDate"
+    }
+  }
+}

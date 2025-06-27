@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fosfomicina",
+      "suspension": "Manter até o dia da cirurgia se em uso terapêutico",
+      "risk": "Risco de efeitos adversos gastrointestinais e desequilíbrio eletrolítico (forma IV); interação com anestésicos é rara",
+      "reintroduction": "Reintroduzir conforme controle do foco infeccioso e função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosfomicina trometamol (VO) / Fosfomicina sódica (EV)",
+      "nomeComercial": "Monuril, Fosfocil",
+      "mecanismoAcao": "Inibe a enzima MurA, essencial para a síntese da parede celular bacteriana",
+      "farmacocinetica": "Absorção oral 34–58% (trometamol); IV com alta distribuição tecidual; eliminação renal",
+      "farmacodinamica": "Bactericida contra Gram-positivos e Gram-negativos, incluindo multirresistentes",
+      "indicacoes": "Infecção urinária, prostatite, infecção óssea, sepse (uso IV)",
+      "reacoesAdversas": "Diarreia, náusea, hipocalemia, aumento de enzimas hepáticas",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Seguro com monitoramento",
+      "administracao": "Oral (sachet) ou intravenosa",
+      "doseMaxima": "16g/dia IV (dividido); VO: 3g/dose única",
+      "doseMinima": "1g IV; VO: 3g única",
+      "classificacao": "Antibiótico bactericida (derivado do ácido fosfônico)",
+      "apresentacao": "Sachê 3g (trometamol); frasco 2g, 4g IV (sódica)",
+      "interacaoMedicamento": "Antiácidos reduzem absorção VO; risco com aminoglicosídeos e diuréticos IV",
+      "posologia": "VO: 3g dose única; IV: 2–4g a cada 6–8h",
+      "armazenamento": "Temperatura ambiente (15–25°C)",
+      "preparo": "IV: reconstituir com água estéril e diluir em SG 5% ou SF",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Insuficiência renal grave (ClCr <10 mL/min), hipersensibilidade",
+      "cuidadosMedicos": "Monitorar função renal, eletrólitos, sinais de superinfecção",
+      "cuidadosFarmaceuticos": "Orientar ingestão com estômago vazio (VO), estabilidade pós-reconstituição (IV)",
+      "cuidadosEnfermagem": "Observar náuseas, distensão, eletrólitos e resposta terapêutica",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fosfomycin",
+      "suspension": "Continue until surgery if treating infection",
+      "risk": "GI side effects, electrolyte shifts (IV); minimal anesthetic interaction",
+      "reintroduction": "Restart after stabilization and evaluation of renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosfomycin tromethamine (PO) / Fosfomycin disodium (IV)",
+      "nomeComercial": "Monurol, Fosfocin",
+      "mecanismoAcao": "Inhibits MurA enzyme, blocking bacterial cell wall synthesis",
+      "farmacocinetica": "Oral bioavailability 34–58%; high tissue distribution IV; renal elimination",
+      "farmacodinamica": "Broad bactericidal activity incl. MDR pathogens",
+      "indicacoes": "UTI, prostatitis, osteomyelitis, sepsis (IV use)",
+      "reacoesAdversas": "Diarrhea, nausea, hypokalemia, elevated liver enzymes",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe with monitoring",
+      "administracao": "Oral (sachet) or IV infusion",
+      "doseMaxima": "16g/day IV; 3g PO single dose",
+      "doseMinima": "1g IV; 3g PO",
+      "classificacao": "Bactericidal antibiotic (phosphonic acid derivative)",
+      "apresentacao": "3g sachet (PO); 2g, 4g vials (IV)",
+      "interacaoMedicamento": "Antacids reduce PO absorption; caution with aminoglycosides/diuretics (IV)",
+      "posologia": "PO: 3g once; IV: 2–4g q6–8h",
+      "armazenamento": "Room temperature (15–25°C)",
+      "preparo": "Reconstitute IV with sterile water, dilute in D5W or NS",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Severe renal impairment (CrCl <10 mL/min), allergy",
+      "cuidadosMedicos": "Monitor renal function, electrolytes, infection control",
+      "cuidadosFarmaceuticos": "Counsel empty stomach dosing (PO), IV stability",
+      "cuidadosEnfermagem": "Monitor for GI effects, labs, IV site and response",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fosfomicina",
+      "suspension": "Mantener si se usa terapéuticamente antes de cirugía",
+      "risk": "Efectos GI, hipokalemia (IV); escasa interacción anestésica",
+      "reintroduction": "Reintroducir según control clínico y renal postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosfomicina trometamol (VO) / Fosfomicina sódica (IV)",
+      "nomeComercial": "Monurol, Fosfocil",
+      "mecanismoAcao": "Inhibe MurA, bloqueando síntesis de pared celular",
+      "farmacocinetica": "VO 34–58%; IV distribución amplia; eliminación renal",
+      "farmacodinamica": "Bactericida contra Gram+/Gram−, incluidos resistentes",
+      "indicacoes": "ITU, prostatitis, infecciones óseas, sepsis (IV)",
+      "reacoesAdversas": "Diarrea, náuseas, hipokalemia, enzimas hepáticas altas",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Usar con precaución",
+      "administracao": "VO (sobre) o IV",
+      "doseMaxima": "16g/día IV; 3g VO",
+      "doseMinima": "1g IV; 3g VO",
+      "classificacao": "Antibiótico bactericida derivado fosfónico",
+      "apresentacao": "3g sobre VO; frascos 2g, 4g IV",
+      "interacaoMedicamento": "Antiácidos reducen absorción VO; precaución con aminoglucósidos",
+      "posologia": "VO: 3g dosis única; IV: 2–4g cada 6–8h",
+      "armazenamento": "15–25°C",
+      "preparo": "IV: disolver en agua estéril y diluir en SG5% o SSF",
+      "solucoesCompatíveis": "SG5%, SSF",
+      "contraindicacoes": "IR severa, alergia",
+      "cuidadosMedicos": "Monitorear función renal, electrólitos, respuesta",
+      "cuidadosFarmaceuticos": "Orientar posología, interacciones, dilución",
+      "cuidadosEnfermagem": "Observar diarrea, K+, eficacia clínica",
+      "fontesBibliograficas": "Micromedex, guías clínicas, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "磷霉素",
+      "suspension": "如有感染需治疗，可手术前继续使用",
+      "risk": "胃肠道副作用、电解质紊乱（IV），与麻醉药相互作用较少",
+      "reintroduction": "术后稳定后按临床恢复和肾功能判断是否恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磷霉素（口服：托美膦；注射：磷霉素钠）",
+      "nomeComercial": "Monurol",
+      "mecanismoAcao": "抑制细胞壁合成酶MurA，阻断细菌繁殖",
+      "farmacocinetica": "口服吸收率34–58%；静脉分布广；肾脏清除",
+      "farmacodinamica": "杀菌作用广泛，含耐药菌株",
+      "indicacoes": "泌尿感染、前列腺炎、骨感染、脓毒症（IV）",
+      "reacoesAdversas": "腹泻、恶心、低钾血症、肝酶升高",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "安全，但建议监测",
+      "administracao": "口服冲剂或静脉注射",
+      "doseMaxima": "IV每日16克；口服3克单次",
+      "doseMinima": "IV 1克；口服3克",
+      "classificacao": "广谱抗生素（磷酸衍生物）",
+      "apresentacao": "3克口服；2g、4g注射瓶",
+      "interacaoMedicamento": "口服受制酸药影响；IV注意与氨基糖苷类合用风险",
+      "posologia": "口服：3克单次；IV：每6–8小时2–4克",
+      "armazenamento": "常温保存15–25°C",
+      "preparo": "IV稀释于5%葡萄糖或0.9%氯化钠",
+      "solucoesCompatíveis": "5%葡萄糖，0.9%氯化钠",
+      "contraindicacoes": "重度肾功能不全、过敏",
+      "cuidadosMedicos": "监测肾功能、电解质、疗效",
+      "cuidadosFarmaceuticos": "注意口服吸收影响因素及稀释操作",
+      "cuidadosEnfermagem": "关注电解质、腹泻、IV反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

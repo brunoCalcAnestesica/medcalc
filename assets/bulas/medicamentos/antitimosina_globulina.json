@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Antitimoglobulina",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva imunossupressora",
+      "risk": "Risco de imunossupressão grave, leucopenia, febre, reações infusionais severas e infecção perioperatória",
+      "reintroduction": "Reintroduzir com cautela após controle infeccioso e estabilidade hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Globulina antitimócito (cavalo ou coelho)",
+      "nomeComercial": "Thymoglobulina, ATGAM",
+      "mecanismoAcao": "Imunoglobulinas policlonais contra linfócitos T; causa depleção de células T por lise mediada por complemento e fagocitose",
+      "farmacocinetica": "Administração IV; meia-vida 2–3 dias; eliminação reticuloendotelial",
+      "farmacodinamica": "Potente imunossupressor usado em transplantes e doenças autoimunes",
+      "indicacoes": "Prevenção e tratamento da rejeição em transplantes; anemia aplásica severa",
+      "reacoesAdversas": "Leucopenia, trombocitopenia, febre, calafrios, rash, síndrome de liberação de citocinas, infecções",
+      "riscoGravidez": "Categoria C — evitar uso, exceto se necessário",
+      "riscoLactacao": "Desconhecido; contraindicado durante amamentação",
+      "administracao": "Infusão intravenosa lenta",
+      "doseMaxima": "1,5 mg/kg/dia por até 5–7 dias",
+      "doseMinima": "0,5 mg/kg/dia",
+      "classificacao": "Imunossupressor / globulina policlonal",
+      "apresentacao": "Frascos-ampola de 25 mg ou 100 mg",
+      "interacaoMedicamento": "Aumenta risco de infecções com outros imunossupressores e corticóides",
+      "posologia": "1–1,5 mg/kg/dia IV por 4–7 dias conforme protocolo",
+      "armazenamento": "Refrigerado 2–8°C; protegido da luz",
+      "preparo": "Diluir em SG 5% ou SF 0,9%; infundir em no mínimo 4h",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Hipersensibilidade a proteínas animais, leucopenia grave não controlada, infecção ativa",
+      "cuidadosMedicos": "Monitorar hemograma, sinais de reação aguda e infecção",
+      "cuidadosFarmaceuticos": "Checar estabilidade e compatibilidade antes da infusão",
+      "cuidadosEnfermagem": "Pré-medicar com antitérmico/antihistamínico; monitorar sinais vitais durante infusão",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, Thymoglobulin bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Antithymocyte Globulin",
+      "suspension": "Discontinue 7 days before elective immunosuppressive surgery",
+      "risk": "Risk of profound immunosuppression, leukopenia, fever, infusion reactions, and perioperative infections",
+      "reintroduction": "Restart cautiously after infectious control and hematologic stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antithymocyte globulin (horse or rabbit)",
+      "nomeComercial": "Thymoglobulin, ATGAM",
+      "mecanismoAcao": "Polyclonal antibodies targeting T cells, inducing depletion via complement-mediated lysis and phagocytosis",
+      "farmacocinetica": "IV; half-life 2–3 days; RES elimination",
+      "farmacodinamica": "Potent T-cell immunosuppressant used in transplants and autoimmune diseases",
+      "indicacoes": "Prevention/treatment of transplant rejection; severe aplastic anemia",
+      "reacoesAdversas": "Leukopenia, thrombocytopenia, fever, chills, rash, cytokine release syndrome, infections",
+      "riscoGravidez": "Category C — avoid unless clearly needed",
+      "riscoLactacao": "Unknown; contraindicated during breastfeeding",
+      "administracao": "Slow IV infusion",
+      "doseMaxima": "1.5 mg/kg/day for up to 5–7 days",
+      "doseMinima": "0.5 mg/kg/day",
+      "classificacao": "Immunosuppressant / polyclonal antibody",
+      "apresentacao": "25 mg or 100 mg vials",
+      "interacaoMedicamento": "Increased infection risk with other immunosuppressants or corticosteroids",
+      "posologia": "1–1.5 mg/kg/day IV for 4–7 days as per protocol",
+      "armazenamento": "Refrigerate 2–8°C; protect from light",
+      "preparo": "Dilute in 5% Dextrose or 0.9% NaCl; infuse over at least 4 hours",
+      "solucoesCompatíveis": "5% Dextrose, 0.9% NaCl",
+      "contraindicacoes": "Hypersensitivity to animal proteins, uncontrolled leukopenia, active infection",
+      "cuidadosMedicos": "Monitor CBC, acute reactions, and infections",
+      "cuidadosFarmaceuticos": "Verify stability and compatibility prior to infusion",
+      "cuidadosEnfermagem": "Premedicate with antipyretic/antihistamine; monitor vitals during infusion",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, Thymoglobulin PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Globulina Antitimocito",
+      "suspension": "Suspender 7 días antes de cirugía inmunosupresora",
+      "risk": "Riesgo de inmunosupresión profunda, leucopenia, fiebre, reacciones a la infusión e infecciones perioperatorias",
+      "reintroduction": "Reintroducir con precaución tras control de infección y estabilidad hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Globulina antitimocito (caballo o conejo)",
+      "nomeComercial": "Thymoglobulin, ATGAM",
+      "mecanismoAcao": "Anticuerpos policlonales dirigidos contra linfocitos T; inducen lisis por complemento y fagocitosis",
+      "farmacocinetica": "Vía IV; vida media 2–3 días; eliminación reticuloendotelial",
+      "farmacodinamica": "Inmunosupresor potente utilizado en trasplantes y anemias aplásicas",
+      "indicacoes": "Prevención/tratamiento del rechazo; anemia aplásica severa",
+      "reacoesAdversas": "Leucopenia, trombocitopenia, fiebre, escalofríos, erupción, síndrome de liberación de citocinas, infecciones",
+      "riscoGravidez": "Categoría C — evitar salvo necesidad",
+      "riscoLactacao": "Desconocido; contraindicado en lactancia",
+      "administracao": "Infusión IV lenta",
+      "doseMaxima": "1,5 mg/kg/día durante 5–7 días",
+      "doseMinima": "0,5 mg/kg/día",
+      "classificacao": "Inmunosupresor / globulina policlonal",
+      "apresentacao": "Viales de 25 mg o 100 mg",
+      "interacaoMedicamento": "Mayor riesgo infeccioso con corticoides e inmunosupresores",
+      "posologia": "1–1,5 mg/kg/día IV por 4–7 días según protocolo",
+      "armazenamento": "Refrigerado 2–8°C; proteger de la luz",
+      "preparo": "Diluir en SG 5% o SF 0,9%; infundir mínimo 4 horas",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Hipersensibilidad a proteínas animales, leucopenia no controlada, infección activa",
+      "cuidadosMedicos": "Monitorear hemograma, reacciones agudas e infecciones",
+      "cuidadosFarmaceuticos": "Verificar estabilidad y compatibilidad antes de infundir",
+      "cuidadosEnfermagem": "Premedicar con antitérmicos/antihistamínicos; controlar signos vitales",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, ficha técnica Thymoglobulin"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "抗胸腺细胞球蛋白",
+      "suspension": "术前7天停药（免疫抑制性手术）",
+      "risk": "高风险：免疫抑制、白细胞减少、发热、输注反应和术后感染",
+      "reintroduction": "感染控制及血液学稳定后谨慎重用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "抗胸腺细胞球蛋白（马源或兔源）",
+      "nomeComercial": "Thymoglobulin, ATGAM",
+      "mecanismoAcao": "针对T细胞的多克隆抗体，通过补体介导的溶解和吞噬作用消除T细胞",
+      "farmacocinetica": "静脉注射；半衰期约2–3天；网状内皮系统清除",
+      "farmacodinamica": "强效T细胞抑制剂，用于器官移植和严重再生障碍性贫血",
+      "indicacoes": "预防/治疗排异反应；严重再障贫血",
+      "reacoesAdversas": "白细胞减少、血小板减少、发热、寒战、皮疹、细胞因子释放综合征、感染",
+      "riscoGravidez": "C类 — 除非必要，避免使用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉缓慢输注",
+      "doseMaxima": "每日1.5 mg/kg，疗程5–7天",
+      "doseMinima": "每日0.5 mg/kg",
+      "classificacao": "免疫抑制剂 / 多克隆抗体",
+      "apresentacao": "25 mg或100 mg冻干粉针",
+      "interacaoMedicamento": "与皮质类固醇及其他免疫抑制剂合用增加感染风险",
+      "posologia": "按方案1–1.5 mg/kg/天，连续输注4–7天",
+      "armazenamento": "2–8°C冷藏，避光保存",
+      "preparo": "用5%葡萄糖或0.9%氯化钠稀释，至少输注4小时",
+      "solucoesCompatíveis": "5%葡萄糖，0.9%氯化钠",
+      "contraindicacoes": "对动物蛋白过敏、未控制的白细胞减少、活动性感染",
+      "cuidadosMedicos": "监测血象、过敏反应和感染征象",
+      "cuidadosFarmaceuticos": "确认稀释后稳定性和兼容性",
+      "cuidadosEnfermagem": "预处理退热药/抗组胺药，监测生命体征",
+      "fontesBibliograficas": "FDA、EMA、ANVISA、Micromedex、Thymoglobulin说明书"
+    }
+  }
+}

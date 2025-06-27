@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Duloxetina",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de síndrome serotoninérgica com opioides e anestésicos; pode causar hipertensão, sedação, interação cardiovascular e aumento do intervalo QT",
+      "reintroduction": "Reintroduzir após 48–72h com estabilidade hemodinâmica, ausência de opioides serotoninérgicos e normalização do estado mental"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Duloxetina",
+      "nomeComercial": "Cymbalta, Velija, Duxetina, Daforin, Dual",
+      "mecanismoAcao": "Inibidor da recaptação de serotonina e noradrenalina (IRSN), com ação central sobre vias moduladoras da dor e humor",
+      "farmacocinetica": "Biodisponibilidade oral ~50%, metabolização hepática (CYP1A2 e CYP2D6), meia-vida ~12h",
+      "farmacodinamica": "Antidepressivo e ansiolítico com efeitos analgésicos em dor neuropática; modula vias descendentes da dor",
+      "indicacoes": "Transtorno depressivo maior, transtorno de ansiedade generalizada, dor neuropática diabética, fibromialgia, dor musculoesquelética crônica",
+      "reacoesAdversas": "Náusea, boca seca, constipação, tontura, sonolência, aumento da PA, disfunção sexual",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite materno; uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "120mg/dia",
+      "doseMinima": "30mg/dia",
+      "classificacao": "Inibidor da recaptação de serotonina e noradrenalina (IRSN)",
+      "apresentacao": "Cápsulas de liberação prolongada: 30mg, 60mg",
+      "interacaoMedicamento": "Interage com IMAO, triptanos, anticoagulantes, lítio, tramadol, antidepressivos tricíclicos",
+      "posologia": "Início com 30mg/dia; aumento gradual para 60–120mg/dia conforme resposta",
+      "armazenamento": "Conservar entre 15–30°C, protegido de umidade",
+      "preparo": "Não abrir, mastigar ou triturar cápsulas de liberação prolongada",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso com IMAO, glaucoma de ângulo fechado, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar PA, risco de suicídio, função hepática e sinais de síndrome serotoninérgica",
+      "cuidadosFarmaceuticos": "Educar sobre adesão, início tardio do efeito, não descontinuar abruptamente",
+      "cuidadosEnfermagem": "Observar alterações de humor, PA e sintomas autonômicos",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, NICE"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Duloxetine",
+      "suspension": "Discontinue 5 days prior to elective surgery",
+      "risk": "Risk of serotonin syndrome with opioids and anesthetics; may cause hypertension, sedation, QT prolongation, and cardiovascular effects",
+      "reintroduction": "Restart after 48–72h if hemodynamically stable and off serotonergic agents"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Duloxetine Hydrochloride",
+      "nomeComercial": "Cymbalta, Irenka, Drizalma Sprinkle",
+      "mecanismoAcao": "Serotonin and norepinephrine reuptake inhibitor (SNRI) acting centrally on mood and pain modulation",
+      "farmacocinetica": "Oral bioavailability ~50%, hepatic metabolism (CYP1A2, CYP2D6), half-life ~12h",
+      "farmacodinamica": "Antidepressant and anxiolytic with analgesic effects in neuropathic and chronic musculoskeletal pain",
+      "indicacoes": "Major depressive disorder, generalized anxiety disorder, diabetic neuropathy, fibromyalgia, chronic pain",
+      "reacoesAdversas": "Nausea, dry mouth, constipation, dizziness, somnolence, elevated BP, sexual dysfunction",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; caution advised",
+      "administracao": "Oral route",
+      "doseMaxima": "120mg/day",
+      "doseMinima": "30mg/day",
+      "classificacao": "Serotonin and norepinephrine reuptake inhibitor (SNRI)",
+      "apresentacao": "Delayed-release capsules: 30mg, 60mg",
+      "interacaoMedicamento": "Interacts with MAOIs, triptans, anticoagulants, lithium, tramadol, TCAs",
+      "posologia": "Start with 30mg/day; increase to 60–120mg/day as tolerated",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "Do not crush or chew capsules",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Concomitant MAOI use, closed-angle glaucoma, severe hepatic impairment",
+      "cuidadosMedicos": "Monitor BP, hepatic function, suicide risk, serotonin syndrome",
+      "cuidadosFarmaceuticos": "Educate on adherence, gradual onset, avoid abrupt discontinuation",
+      "cuidadosEnfermagem": "Monitor mood, BP, autonomic symptoms",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, APA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Duloxetina",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de síndrome serotoninérgico con opioides y anestésicos; puede causar hipertensión, sedación y prolongación del QT",
+      "reintroduction": "Reintroducir tras 48–72h si el paciente está estable y sin serotoninérgicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Duloxetina",
+      "nomeComercial": "Cymbalta, Duloxetina Sandoz, Velija, Dualgen",
+      "mecanismoAcao": "Inhibidor de la recaptación de serotonina y noradrenalina; modula el estado de ánimo y la percepción del dolor",
+      "farmacocinetica": "Biodisponibilidad oral ~50%, metabolismo hepático (CYP1A2 y CYP2D6), vida media ~12h",
+      "farmacodinamica": "Antidepresivo y ansiolítico con propiedades analgésicas en dolor neuropático y crónico",
+      "indicacoes": "Depresión mayor, ansiedad generalizada, neuropatía diabética, fibromialgia, dolor musculoesquelético",
+      "reacoesAdversas": "Náuseas, sequedad bucal, insomnio, fatiga, estreñimiento, hipertensión, disfunción sexual",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en la leche materna; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "120mg/día",
+      "doseMinima": "30mg/día",
+      "classificacao": "IRSN – Inhibidor de la recaptación de serotonina y noradrenalina",
+      "apresentacao": "Cápsulas de liberación prolongada: 30mg, 60mg",
+      "interacaoMedicamento": "Interacciones con IMAO, triptanos, anticoagulantes, litio, tramadol, tricíclicos",
+      "posologia": "Iniciar con 30mg/día, ajustar a 60–120mg/día según respuesta",
+      "armazenamento": "15–30°C, protegido de humedad",
+      "preparo": "No triturar ni masticar las cápsulas",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Uso con IMAO, glaucoma de ángulo cerrado, insuficiencia hepática grave",
+      "cuidadosMedicos": "Monitorear PA, función hepática, riesgo de suicidio y síntomas serotoninérgicos",
+      "cuidadosFarmaceuticos": "Educar sobre la adherencia, inicio gradual, evitar interrupción brusca",
+      "cuidadosEnfermagem": "Observar presión arterial, estado de ánimo y síntomas autonómicos",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "度洛西汀",
+      "suspension": "择期手术前5天停药",
+      "risk": "与阿片类和麻醉药联用可致血清素综合征、高血压、QT延长和镇静反应",
+      "reintroduction": "术后48–72小时内在患者稳定且未使用血清素能药物时可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸度洛西汀",
+      "nomeComercial": "欣百达, Cymbalta, 度忧清",
+      "mecanismoAcao": "选择性5-羟色胺和去甲肾上腺素再摄取抑制剂；作用于中枢疼痛和情绪调节通路",
+      "farmacocinetica": "口服生物利用度约50%，CYP1A2和CYP2D6代谢，半衰期约12小时",
+      "farmacodinamica": "具有抗抑郁、抗焦虑及镇痛作用，用于神经性疼痛和肌肉骨骼疼痛",
+      "indicacoes": "重度抑郁症、广泛性焦虑障碍、糖尿病性神经病变、纤维肌痛、慢性疼痛",
+      "reacoesAdversas": "恶心、口干、便秘、嗜睡、头晕、高血压、性功能障碍",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌至乳汁，慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日120毫克",
+      "doseMinima": "每日30毫克",
+      "classificacao": "去甲肾上腺素-5-羟色胺再摄取抑制剂",
+      "apresentacao": "缓释胶囊：30mg、60mg",
+      "interacaoMedicamento": "与MAOI、曲马多、锂剂、抗凝剂和三环类药物相互作用",
+      "posologia": "起始剂量30mg/日，根据耐受性调整至60–120mg/日",
+      "armazenamento": "15–30°C，避光干燥保存",
+      "preparo": "缓释胶囊不可压碎或咀嚼",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "禁用于MAOI联合、闭角型青光眼、严重肝功能不全",
+      "cuidadosMedicos": "监测血压、肝功能、自杀风险和血清素综合征",
+      "cuidadosFarmaceuticos": "强调依从性、延迟起效、不可突然停药",
+      "cuidadosEnfermagem": "观察情绪状态、血压及自主神经症状",
+      "fontesBibliograficas": "NMPA, FDA, WHO, Micromedex"
+    }
+  }
+}

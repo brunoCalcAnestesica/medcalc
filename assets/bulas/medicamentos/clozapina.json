@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clozapina",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de sedação profunda, hipotensão grave, depressão respiratória, arritmias e interação com anestésicos e opioides",
+      "reintroduction": "Reintroduzir após 72h, com monitoramento hematológico, ECG e estabilidade hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clozapina",
+      "nomeComercial": "Leponex, Clopine, Clozaril, Zaponex",
+      "mecanismoAcao": "Antagonista dopaminérgico (D2) e serotoninérgico (5-HT2A); também bloqueia receptores histamínicos, adrenérgicos e muscarínicos",
+      "farmacocinetica": "Biodisponibilidade oral ~60–70%, metabolização hepática (CYP1A2, CYP3A4, CYP2D6), meia-vida de 8–16h",
+      "farmacodinamica": "Antipsicótico atípico com baixa incidência de sintomas extrapiramidais; eficaz em esquizofrenia refratária e prevenção de suicídio",
+      "indicacoes": "Esquizofrenia refratária, prevenção de comportamento suicida em esquizofrenia ou transtorno esquizoafetivo",
+      "reacoesAdversas": "Sedação, sialorreia, hipotensão, constipação, agranulocitose, convulsões, miocardite, aumento de peso",
+      "riscoGravidez": "Categoria B (mas usar apenas se estritamente necessário)",
+      "riscoLactacao": "Excretado no leite materno; contraindicado",
+      "administracao": "Via oral",
+      "doseMaxima": "900mg/dia",
+      "doseMinima": "12,5mg/dia",
+      "classificacao": "Antipsicótico atípico",
+      "apresentacao": "Comprimidos de 25mg, 100mg; solução oral 50mg/mL",
+      "interacaoMedicamento": "Interage com benzodiazepínicos, opioides, IMAOs, carbamazepina, anticolinérgicos e depressores do SNC",
+      "posologia": "Iniciar com 12,5mg 1–2x/dia, aumentar gradualmente até 300–600mg/dia; máximo de 900mg/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Realizar contagem hematológica antes e durante o uso; iniciar reintrodução com dose reduzida após pausa prolongada",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Agranulocitose prévia, depressão medular, uso de depressores centrais, insuficiência hepática grave, glaucoma de ângulo fechado",
+      "cuidadosMedicos": "Monitorar hemograma semanalmente (primeiras 18 semanas), ECG, PA e sinais neurológicos",
+      "cuidadosFarmaceuticos": "Manter esquema de monitoramento hematológico e rastrear interações graves",
+      "cuidadosEnfermagem": "Observar sedação, hipotensão postural, salivação excessiva, temperatura e PA",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, NICE"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Clozapine",
+      "suspension": "Discontinue 7 days prior to elective surgery",
+      "risk": "High risk of profound sedation, respiratory depression, hypotension, arrhythmias, and interaction with anesthetics and opioids",
+      "reintroduction": "Restart after 72h with close hematologic and cardiovascular monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clozapine",
+      "nomeComercial": "Clozaril, Versacloz, FazaClo",
+      "mecanismoAcao": "Atypical antipsychotic that blocks D2 and 5-HT2A receptors; also antagonizes histaminergic, adrenergic, and muscarinic receptors",
+      "farmacocinetica": "Oral bioavailability ~60–70%, hepatic metabolism (CYP1A2, CYP3A4, CYP2D6), half-life 8–16h",
+      "farmacodinamica": "Effective in treatment-resistant schizophrenia and prevention of suicide; low extrapyramidal side effects",
+      "indicacoes": "Treatment-resistant schizophrenia, recurrent suicidal behavior in schizophrenia or schizoaffective disorder",
+      "reacoesAdversas": "Sedation, sialorrhea, hypotension, agranulocytosis, constipation, myocarditis, seizures, weight gain",
+      "riscoGravidez": "Category B (only if necessary)",
+      "riscoLactacao": "Excreted in breast milk; contraindicated",
+      "administracao": "Oral route",
+      "doseMaxima": "900mg/day",
+      "doseMinima": "12.5mg/day",
+      "classificacao": "Atypical antipsychotic",
+      "apresentacao": "Tablets: 25mg, 100mg; oral suspension: 50mg/mL",
+      "interacaoMedicamento": "Interacts with benzodiazepines, opioids, MAOIs, carbamazepine, anticholinergics, CNS depressants",
+      "posologia": "Start with 12.5mg once/twice daily, titrate to 300–600mg/day; max 900mg/day",
+      "armazenamento": "Store at 15–30°C, protect from light",
+      "preparo": "Restart at low dose after interruption >48h; monitor CBC and ECG",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Agranulocytosis, myeloproliferative disorders, CNS depression, severe hepatic impairment, narrow-angle glaucoma",
+      "cuidadosMedicos": "Weekly CBC (first 18 weeks), monitor ECG, BP, mental status",
+      "cuidadosFarmaceuticos": "Track hematologic monitoring schedule; manage interactions",
+      "cuidadosEnfermagem": "Observe for sedation, orthostatic hypotension, hypersalivation, temperature and BP changes",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, APA Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clozapina",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo elevado de sedación profunda, depresión respiratoria, hipotensión y arritmias",
+      "reintroduction": "Reintroducir tras 72h con vigilancia hematológica y hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clozapina",
+      "nomeComercial": "Leponex, Clozaril, Zaponex",
+      "mecanismoAcao": "Antipsicótico atípico que bloquea D2 y 5-HT2A, además de receptores H1, adrenérgicos y muscarínicos",
+      "farmacocinetica": "Biodisponibilidad oral ~60–70%, metabolismo hepático (CYP1A2, CYP3A4, CYP2D6), vida media 8–16h",
+      "farmacodinamica": "Eficaz en esquizofrenia resistente y prevención de suicidio; baja incidencia de efectos extrapiramidales",
+      "indicacoes": "Esquizofrenia resistente, prevención del suicidio en esquizofrenia o trastorno esquizoafectivo",
+      "reacoesAdversas": "Somnolencia, sialorrea, estreñimiento, hipotensión, agranulocitosis, convulsiones, miocarditis, aumento de peso",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Se excreta en la leche materna; contraindicado",
+      "administracao": "Vía oral",
+      "doseMaxima": "900mg/día",
+      "doseMinima": "12,5mg/día",
+      "classificacao": "Antipsicótico atípico",
+      "apresentacao": "Comprimidos: 25mg, 100mg; suspensión oral: 50mg/mL",
+      "interacaoMedicamento": "Interacciones con opioides, IMAO, benzodiacepinas, carbamazepina, depresores del SNC",
+      "posologia": "Iniciar con 12,5mg 1–2 veces/día, titular hasta 300–600mg/día; máximo 900mg/día",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "Realizar hemograma antes y durante el uso; reiniciar con dosis baja si se interrumpe",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Agranulocitosis previa, depresión de médula ósea, hepatopatía severa, glaucoma de ángulo cerrado",
+      "cuidadosMedicos": "Control hemático semanal (primeras 18 semanas), PA, ECG y estado mental",
+      "cuidadosFarmaceuticos": "Monitoreo hematológico estricto; evitar interacciones graves",
+      "cuidadosEnfermagem": "Observar hipotensión, salivación excesiva, sedación y PA",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯氮平",
+      "suspension": "术前7天停药",
+      "risk": "可引起深度镇静、呼吸抑制、低血压、心律失常，与麻醉药和阿片类联用风险加剧",
+      "reintroduction": "术后72小时稳定后可重新用药，需密切监测血象和心电图"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯氮平",
+      "nomeComercial": "氯氮平片, Leponex, 可乐平, 氯氮平口服液",
+      "mecanismoAcao": "非典型抗精神病药，阻断多巴胺D2和5-羟色胺2A受体，同时作用于H1、M和肾上腺素受体",
+      "farmacocinetica": "口服生物利用度约60–70%，CYP1A2、CYP3A4和CYP2D6代谢，半衰期约8–16小时",
+      "farmacodinamica": "对难治性精神分裂症有效，EPS副作用较小，有预防自杀作用",
+      "indicacoes": "难治性精神分裂症、精神分裂症或情感障碍相关自杀行为预防",
+      "reacoesAdversas": "镇静、流涎、便秘、低血压、粒细胞缺乏症、癫痫、心肌炎、体重增加",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "分泌至乳汁，禁用于哺乳期妇女",
+      "administracao": "口服",
+      "doseMaxima": "每日900毫克",
+      "doseMinima": "每日12.5毫克",
+      "classificacao": "非典型抗精神病药",
+      "apresentacao": "片剂：25mg、100mg；口服液：50mg/mL",
+      "interacaoMedicamento": "与苯二氮䓬类、阿片类、MAOI、卡马西平、中枢抑制剂有相互作用",
+      "posologia": "初始12.5mg每日1–2次，逐渐增加至300–600mg/日，最大剂量900mg/日",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "用药前和用药期内需定期血液检查；中断用药后需从低剂量重新开始",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "曾发生粒细胞缺乏症、骨髓抑制、重度肝功能损害、闭角型青光眼",
+      "cuidadosMedicos": "首18周每周检查血常规，监测心电图、血压和神志状态",
+      "cuidadosFarmaceuticos": "遵守血象监测时间表，避免严重药物相互作用",
+      "cuidadosEnfermagem": "监测镇静程度、流涎、体温、血压",
+      "fontesBibliograficas": "NMPA, FDA, WHO, Micromedex"
+    }
+  }
+}

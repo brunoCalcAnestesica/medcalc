@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fosfato de potássio",
+      "suspension": "Suspender 24 horas antes de cirurgias apenas em casos de hiperfosfatemia ou disfunção renal",
+      "risk": "Hipercalemia, hiperfosfatemia, acidose metabólica, risco cardíaco em infusão rápida ou dose excessiva",
+      "reintroduction": "Reintroduzir com monitoramento de eletrólitos após reestabilização clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosfato de potássio monobásico/dibásico",
+      "nomeComercial": "K-Phos, Neutra-Phos-K (oral); Potassium Phosphate (EV)",
+      "mecanismoAcao": "Reabastece fosfato corporal e potássio intracelular, essencial à produção de ATP e tamponamento ácido-base",
+      "farmacocinetica": "Via EV ou oral; distribuição rápida nos compartimentos celulares; excreção renal",
+      "farmacodinamica": "Corrige hipofosfatemia e hipocalemia, melhora contratilidade miocárdica e respiratória",
+      "indicacoes": "Hipofosfatemia moderada a grave, acidose tubular renal, reposição de potássio com necessidade de fósforo",
+      "reacoesAdversas": "Arritmias, flebite, necrose tecidual (extravasamento EV), hiperpotassemia, diarreia (oral)",
+      "riscoGravidez": "Categoria C – uso com cautela",
+      "riscoLactacao": "Uso permitido com monitoramento",
+      "administracao": "IV diluído em infusão lenta; oral com alimentos",
+      "doseMaxima": "30 mmol de fósforo/dia IV; 3–4 g/dia oral",
+      "doseMinima": "5–10 mmol de fósforo/dia (ajustada conforme nível sérico)",
+      "classificacao": "Repositor eletrolítico (fósforo e potássio)",
+      "apresentacao": "Ampolas EV 3 mmol/mL (p.e. 15 mmol/5 mL); sachês e comprimidos orais",
+      "interacaoMedicamento": "Cautela com bloqueadores renais de potássio, digitálicos, cálcio EV simultâneo",
+      "posologia": "IV: 0,08–0,16 mmol/kg; oral: 250–500 mg de fósforo 3x/dia",
+      "armazenamento": "Temperatura ambiente; proteger da luz (EV)",
+      "preparo": "Diluir em SF 0,9% ou SG 5% para infusão lenta (4–6 h)",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipercalemia, insuficiência renal grave, hiperfosfatemia, calcificação metastática",
+      "cuidadosMedicos": "Monitorar eletrólitos, ECG, função renal",
+      "cuidadosFarmaceuticos": "Evitar infusão rápida; orientar compatibilidade EV",
+      "cuidadosEnfermagem": "Observar infusão, veia periférica, sinais de extravasamento e arritmias",
+      "fontesBibliograficas": "Micromedex, UpToDate, Lexicomp, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Potassium phosphate",
+      "suspension": "Hold 24 hours pre-op if hyperkalemia or renal impairment present",
+      "risk": "Hyperkalemia, hyperphosphatemia, cardiac arrhythmia if infused rapidly",
+      "reintroduction": "Restart with serum monitoring after stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Potassium phosphate",
+      "nomeComercial": "K-Phos, Neutra-Phos-K, Potassium Phosphate Injection",
+      "mecanismoAcao": "Replaces phosphate and potassium; essential for energy metabolism and buffer system",
+      "farmacocinetica": "Oral or IV; distributes in intracellular space; renal elimination",
+      "farmacodinamica": "Corrects hypophosphatemia and hypokalemia; improves neuromuscular and myocardial function",
+      "indicacoes": "Hypophosphatemia, RTA, phosphate and potassium supplementation",
+      "reacoesAdversas": "Paresthesia, ECG changes, extravasation injury, GI upset (oral), hyperkalemia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use permitted with monitoring",
+      "administracao": "Slow IV infusion or oral with meals",
+      "doseMaxima": "30 mmol/day IV; up to 4 g/day oral",
+      "doseMinima": "5 mmol/day",
+      "classificacao": "Electrolyte supplement (K+ and phosphate)",
+      "apresentacao": "IV: 15 mmol/5 mL ampoules; oral tablets and powder sachets",
+      "interacaoMedicamento": "Avoid with K-sparing agents, digoxin, IV calcium simultaneously",
+      "posologia": "IV: 0.08–0.16 mmol/kg over 4–6 h; oral: 250–500 mg 3x/day",
+      "armazenamento": "Room temp, protect IV from light",
+      "preparo": "Dilute in 100–250 mL NS or D5W, infuse slowly",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hyperkalemia, renal failure, hyperphosphatemia",
+      "cuidadosMedicos": "Monitor ECG, K+, PO4, renal function",
+      "cuidadosFarmaceuticos": "Ensure correct dilution; check compatibility",
+      "cuidadosEnfermagem": "Monitor infusion site, labs, and cardiac rhythm",
+      "fontesBibliograficas": "FDA, Lexicomp, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fosfato de potasio",
+      "suspension": "Suspender 24 h antes de cirugía si hay hiperpotasemia o daño renal",
+      "risk": "Hiperpotasemia, alteraciones cardíacas, extravasación EV",
+      "reintroduction": "Reanudar tras estabilización clínica y lab"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosfato de potasio",
+      "nomeComercial": "K-Phos, Neutra-Phos-K",
+      "mecanismoAcao": "Aporta potasio y fósforo para funciones celulares, neuromusculares y tamponamiento",
+      "farmacocinetica": "Oral/IV; eliminación renal",
+      "farmacodinamica": "Corrige hipofosfatemia e hipopotasemia",
+      "indicacoes": "Hipofosfatemia, acidosis tubular renal",
+      "reacoesAdversas": "Diarrea, náuseas, hiperpotasemia, extravasación",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Permitido con control",
+      "administracao": "VO con comidas o IV lenta",
+      "doseMaxima": "30 mmol/día IV",
+      "doseMinima": "5–10 mmol",
+      "classificacao": "Suplemento de electrolitos",
+      "apresentacao": "Ampollas 15 mmol/5 mL; comprimidos y sobres",
+      "interacaoMedicamento": "Evitar con calcio IV, IECA, digitálicos",
+      "posologia": "IV: 0,08–0,16 mmol/kg; VO: 250–500 mg 3x/día",
+      "armazenamento": "Ambiente seco, luz indirecta",
+      "preparo": "Diluir en SSF o SG5%",
+      "solucoesCompatíveis": "SSF, SG5%",
+      "contraindicacoes": "Insuficiencia renal, hiperfosfatemia, hiperpotasemia",
+      "cuidadosMedicos": "Monitorear K, fósforo, función renal",
+      "cuidadosFarmaceuticos": "Dilución precisa, evitar administración rápida",
+      "cuidadosEnfermagem": "Vigilar sitio de infusión, ECG, síntomas GI",
+      "fontesBibliograficas": "AEMPS, EMA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "磷酸钾",
+      "suspension": "术前如有高钾或肾损伤则停用24小时",
+      "risk": "高钾血症、心律失常、过快静滴可致心脏毒性",
+      "reintroduction": "术后口服恢复或静滴安全时重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磷酸钾",
+      "nomeComercial": "K-Phos, Neutra-Phos-K",
+      "mecanismoAcao": "补充磷和钾，维持能量代谢与酸碱平衡",
+      "farmacocinetica": "IV或口服，分布至细胞内，肾脏排泄",
+      "farmacodinamica": "改善低磷血症与低钾状态",
+      "indicacoes": "低磷血症、代谢性酸中毒、补钾伴低磷",
+      "reacoesAdversas": "高钾、恶心、心律紊乱、静脉炎",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期可用",
+      "administracao": "口服或IV稀释后慢滴",
+      "doseMaxima": "每日30 mmol磷酸盐",
+      "doseMinima": "5 mmol",
+      "classificacao": "电解质补充剂",
+      "apresentacao": "15 mmol/5 mL注射剂，片剂或口服液",
+      "interacaoMedicamento": "禁与钙剂同管，避免与RAAS药合用",
+      "posologia": "IV: 0.08–0.16 mmol/kg缓滴，口服每日3次",
+      "armazenamento": "避光、室温",
+      "preparo": "稀释于NS或D5W，4–6小时输完",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "高钾、肾衰、高磷血症",
+      "cuidadosMedicos": "监测K、P、电解质与心电图",
+      "cuidadosFarmaceuticos": "稀释正确、避免快速滴注",
+      "cuidadosEnfermagem": "观察注射部位、心电、尿量",
+      "fontesBibliograficas": "中国药典、UpToDate、Micromedex、FDA"
+    }
+  }
+}

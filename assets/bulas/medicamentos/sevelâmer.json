@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sevelâmer",
+      "suspension": "Suspender 24h antes de procedimentos gastrointestinais ou cirurgias abdominais programadas",
+      "risk": "Pode causar obstrução ou perfuração intestinal, especialmente em pacientes com histórico de doença GI",
+      "reintroduction": "Reintroduzir após retorno da função gastrointestinal e trânsito normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sevelâmer (carbonato ou cloridrato)",
+      "nomeComercial": "Renagel, Renvela",
+      "mecanismoAcao": "Polímero quelante de fosfato que se liga ao fósforo no intestino, impedindo sua absorção",
+      "farmacocinetica": "Não absorvido sistemicamente; ação local no trato gastrointestinal",
+      "farmacodinamica": "Reduz a fosfatemia ao limitar a absorção intestinal de fósforo; não contém cálcio, evitando hipercalcemia",
+      "indicacoes": "Controle da hiperfosfatemia em pacientes com doença renal crônica em diálise",
+      "reacoesAdversas": "Distensão abdominal, constipação, náuseas, vômitos, dor abdominal, obstrução ou perfuração intestinal (raro)",
+      "riscoGravidez": "Categoria C – não há estudos adequados; usar apenas se claramente necessário",
+      "riscoLactacao": "Desconhece-se se é excretado no leite; uso com cautela",
+      "administracao": "Oral",
+      "doseMaxima": "Até 14 g/dia, conforme necessidade fosfêmica",
+      "doseMinima": "800 mg 3x/dia com refeições",
+      "classificacao": "Quelante de fosfato intestinal – não cálcico",
+      "apresentacao": "Comprimidos de 800 mg; pó para suspensão oral",
+      "interacaoMedicamento": "Pode interferir na absorção de ciprofloxacino, ciclosporina, levotiroxina e vitaminas lipossolúveis",
+      "posologia": "800 a 1600 mg 3x/dia com as refeições, ajustar conforme níveis séricos de fósforo",
+      "armazenamento": "Temperatura ambiente (15–30 °C); manter frasco fechado",
+      "preparo": "Comprimidos inteiros; pó para suspensão deve ser diluído em água antes do uso",
+      "solucoesCompatíveis": "Água potável",
+      "contraindicacoes": "Obstrução intestinal, hipersensibilidade conhecida ao sevelâmer",
+      "cuidadosMedicos": "Monitorar fósforo, cálcio, PTH e sintomas gastrointestinais",
+      "cuidadosFarmaceuticos": "Orientar sobre ingestão com refeições e evitar outros medicamentos simultâneos",
+      "cuidadosEnfermagem": "Avaliar hábitos intestinais e sinais de complicações abdominais",
+      "fontesBibliograficas": "Micromedex, UpToDate, ANVISA, Bula Renagel/Renvela"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sevelamer",
+      "suspension": "Hold 24h before abdominal surgery or endoscopic GI procedures",
+      "risk": "May cause GI obstruction or perforation, particularly in patients with GI disorders",
+      "reintroduction": "Resume after bowel function returns and no signs of ileus"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sevelamer (carbonate or hydrochloride)",
+      "nomeComercial": "Renagel, Renvela",
+      "mecanismoAcao": "Phosphate-binding polymer that binds dietary phosphorus in the gut, reducing absorption",
+      "farmacocinetica": "Not systemically absorbed; local action in GI tract",
+      "farmacodinamica": "Lowers serum phosphate without increasing calcium; reduces phosphorus load in CKD patients",
+      "indicacoes": "Hyperphosphatemia in chronic kidney disease (CKD) on dialysis",
+      "reacoesAdversas": "Bloating, constipation, nausea, vomiting, abdominal pain, rare bowel obstruction/perforation",
+      "riscoGravidez": "Category C – use only if clearly needed",
+      "riscoLactacao": "Unknown; caution advised",
+      "administracao": "Oral",
+      "doseMaxima": "Up to 14 g/day as needed for phosphorus control",
+      "doseMinima": "800 mg TID with meals",
+      "classificacao": "Non-calcium phosphate binder",
+      "apresentacao": "Tablets: 800 mg; powder for oral suspension",
+      "interacaoMedicamento": "May interfere with absorption of ciprofloxacin, levothyroxine, fat-soluble vitamins",
+      "posologia": "800–1600 mg TID with meals; titrate to serum phosphate level",
+      "armazenamento": "Store at room temperature (15–30 °C); protect from moisture",
+      "preparo": "Take tablets whole; dissolve powder in water before use",
+      "solucoesCompatíveis": "Drinking water",
+      "contraindicacoes": "Bowel obstruction, known hypersensitivity",
+      "cuidadosMedicos": "Monitor phosphorus, calcium, PTH; assess for GI symptoms",
+      "cuidadosFarmaceuticos": "Educate on taking with meals; space from other drugs",
+      "cuidadosEnfermagem": "Watch for constipation or abdominal discomfort",
+      "fontesBibliograficas": "FDA, Micromedex, Renvela PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sevelámero",
+      "suspension": "Suspender 24 h antes de cirugía abdominal o procedimientos GI invasivos",
+      "risk": "Puede causar obstrucción o perforación intestinal; precaución en pacientes con patología digestiva",
+      "reintroduction": "Reintroducir tras recuperación del tránsito intestinal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sevelámero",
+      "nomeComercial": "Renagel, Renvela",
+      "mecanismoAcao": "Polímero fijador de fosfato que actúa en el intestino evitando su absorción",
+      "farmacocinetica": "No absorbido; acción local en tracto digestivo",
+      "farmacodinamica": "Reduce fósforo sérico sin aumentar calcio; útil en ERC",
+      "indicacoes": "Hiperfosfatemia en pacientes con insuficiencia renal crónica en diálisis",
+      "reacoesAdversas": "Distensión, náuseas, vómitos, estreñimiento, dolor abdominal, obstrucción (raro)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Uso con precaución",
+      "administracao": "Oral",
+      "doseMaxima": "Hasta 14 g/día",
+      "doseMinima": "800 mg 3 veces/día con comidas",
+      "classificacao": "Quelante de fosfato no cálcico",
+      "apresentacao": "Comprimidos 800 mg; polvo para suspensión",
+      "interacaoMedicamento": "Interfiere con ciprofloxacina, levotiroxina, vitaminas liposolubles",
+      "posologia": "800–1600 mg con cada comida; ajustar a niveles séricos",
+      "armazenamento": "Ambiente fresco y seco",
+      "preparo": "Tomar entero o diluir el polvo en agua",
+      "solucoesCompatíveis": "Agua potable",
+      "contraindicacoes": "Obstrucción intestinal, alergia al compuesto",
+      "cuidadosMedicos": "Monitorear fósforo, calcio, PTH; síntomas digestivos",
+      "cuidadosFarmaceuticos": "Aconsejar tomar con comida y espaciar otros fármacos",
+      "cuidadosEnfermagem": "Vigilar estreñimiento o signos abdominales",
+      "fontesBibliograficas": "AEMPS, ficha técnica Renvela, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "司维拉默（Sevelamer）",
+      "suspension": "术前24小时停药，特别是腹部手术或胃肠镜操作前",
+      "risk": "可能导致肠梗阻或穿孔，尤其在有胃肠病史患者中",
+      "reintroduction": "术后肠道功能恢复后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "司维拉默",
+      "nomeComercial": "Renagel, Renvela",
+      "mecanismoAcao": "肠道中与磷结合，阻止其吸收",
+      "farmacocinetica": "不被吸收，仅局部作用",
+      "farmacodinamica": "减少血磷浓度，避免高磷血症，不升高钙",
+      "indicacoes": "慢性肾病透析患者的高磷血症",
+      "reacoesAdversas": "腹胀、便秘、恶心、呕吐、腹痛，罕见肠梗阻",
+      "riscoGravidez": "C类 – 谨慎使用",
+      "riscoLactacao": "未知是否排泄，慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日不超过14克",
+      "doseMinima": "每餐800毫克",
+      "classificacao": "非钙类肠道磷结合剂",
+      "apresentacao": "800毫克片剂；口服混悬剂粉末",
+      "interacaoMedicamento": "影响某些药物吸收如左甲状腺素、维生素D、环孢素",
+      "posologia": "每餐800–1600毫克，根据血磷调整",
+      "armazenamento": "室温，干燥保存",
+      "preparo": "整片服用或将粉末溶于水",
+      "solucoesCompatíveis": "饮用水",
+      "contraindicacoes": "肠梗阻、对本品过敏",
+      "cuidadosMedicos": "监测磷、钙、PTH及消化症状",
+      "cuidadosFarmaceuticos": "指导饭时服药，避免同时服其他药物",
+      "cuidadosEnfermagem": "关注排便情况及腹部不适",
+      "fontesBibliograficas": "中国药典、Micromedex、Renvela说明书"
+    }
+  }
+}

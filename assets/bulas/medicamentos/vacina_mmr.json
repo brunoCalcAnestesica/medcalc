@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina Tríplice Viral (MMR)",
+      "suspension": "Suspender 2 semanas antes de cirurgias eletivas em imunodeprimidos ou em uso de imunossupressores",
+      "risk": "Vacina de vírus vivos atenuados; pode causar febre, exantema, artralgia, e, raramente, púrpura trombocitopênica. Contraindicada em imunodeficiência grave.",
+      "reintroduction": "Reiniciar após recuperação imunológica ou pós-operatório estável, respeitando intervalo mínimo de 14 dias com imunossupressores."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vacina contra sarampo, caxumba e rubéola (MMR)",
+      "nomeComercial": "Trimovax, Priorix, MMR II",
+      "mecanismoAcao": "Estímulo imunológico ativo por vírus vivos atenuados, induzindo produção de anticorpos neutralizantes",
+      "farmacocinetica": "Resposta imunológica em 10–14 dias; pico de anticorpos em 3–4 semanas",
+      "farmacodinamica": "Proporciona imunidade humoral e celular prolongada contra sarampo, caxumba e rubéola",
+      "indicacoes": "Imunização de rotina em crianças, adolescentes e adultos não vacinados; surtos ou bloqueios",
+      "reacoesAdversas": "Febre, dor no local, exantema, adenopatia, artralgia, púrpura trombocitopênica (raro), convulsões febris (raro)",
+      "riscoGravidez": "Contraindicada (categoria X)",
+      "riscoLactacao": "Permitida",
+      "administracao": "Via subcutânea",
+      "doseMaxima": "0,5 mL por dose",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacina viral viva atenuada",
+      "apresentacao": "Frasco-ampola multidose ou monodose com diluente separado",
+      "interacaoMedicamento": "Contraindicada com imunoglobulinas recentes (<3 meses); evitar com imunossupressores",
+      "posologia": "2 doses SC: 1ª dose aos 12 meses, 2ª dose aos 15 meses ou 4–6 anos",
+      "armazenamento": "2–8 °C; não congelar",
+      "preparo": "Reconstituir com diluente fornecido; usar em até 8 h após preparo",
+      "solucoesCompatíveis": "Apenas diluente original",
+      "contraindicacoes": "Gestação, imunodepressão grave, alergia à neomicina ou à proteína do ovo (relativa)",
+      "cuidadosMedicos": "Verificar estado vacinal, uso de imunossupressores e estado imunológico",
+      "cuidadosFarmaceuticos": "Manter cadeia do frio e prazo após reconstituição",
+      "cuidadosEnfermagem": "Observar por 15 min pós-aplicação; aplicar SC no braço ou coxa",
+      "fontesBibliograficas": "PNI, SBIm, OMS, CDC, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "MMR Vaccine (Measles, Mumps, Rubella)",
+      "suspension": "Hold 2 weeks prior to elective surgery in immunocompromised patients",
+      "risk": "Live attenuated virus; may cause fever, rash, joint pain. Contraindicated in pregnancy and severe immunodeficiency.",
+      "reintroduction": "Restart after immune recovery or stable post-op status. Avoid with recent immunoglobulin use."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Live attenuated measles, mumps and rubella viruses",
+      "nomeComercial": "MMR II, Priorix",
+      "mecanismoAcao": "Induces active immunity via replication of attenuated viruses and antibody production",
+      "farmacocinetica": "Immune response in 10–14 days; peak at 3–4 weeks",
+      "farmacodinamica": "Long-lasting humoral and cellular immunity",
+      "indicacoes": "Routine immunization of children and adults; outbreak response",
+      "reacoesAdversas": "Fever, rash, lymphadenopathy, arthralgia, febrile seizures (rare)",
+      "riscoGravidez": "Category X (contraindicated)",
+      "riscoLactacao": "Safe",
+      "administracao": "Subcutaneous injection",
+      "doseMaxima": "0.5 mL",
+      "doseMinima": "0.5 mL",
+      "classificacao": "Live attenuated viral vaccine",
+      "apresentacao": "Monodose or multidose vial + diluent",
+      "interacaoMedicamento": "Avoid with immunoglobulins (<3 months), corticosteroids",
+      "posologia": "2 doses SC: 12–15 months and 4–6 years",
+      "armazenamento": "2–8 °C; do not freeze",
+      "preparo": "Reconstitute; use within 8 h",
+      "solucoesCompatíveis": "Only supplied diluent",
+      "contraindicacoes": "Pregnancy, severe immunosuppression, neomycin allergy",
+      "cuidadosMedicos": "Assess immune status, medications, vaccine history",
+      "cuidadosFarmaceuticos": "Cold chain, post-reconstitution expiry",
+      "cuidadosEnfermagem": "Observe 15 min post-injection; inject SC in upper arm or thigh",
+      "fontesBibliograficas": "CDC, ACIP, WHO, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna Triple Vírica (SRP)",
+      "suspension": "Suspender 2 semanas antes de cirugía si inmunodeprimido",
+      "risk": "Virus vivos; evitar en embarazo, inmunosupresión; puede causar fiebre, rash",
+      "reintroduction": "Reanudar tras recuperación inmunitaria; no usar tras inmunoglobulinas recientes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Virus vivos atenuados de sarampión, rubéola y parotiditis",
+      "nomeComercial": "MMR II, Priorix",
+      "mecanismoAcao": "Induce inmunidad humoral y celular",
+      "farmacocinetica": "Respuesta en 10–14 días; pico a las 3–4 semanas",
+      "farmacodinamica": "Protección prolongada contra SRP",
+      "indicacoes": "Vacunación infantil y en brotes",
+      "reacoesAdversas": "Fiebre, rash, linfadenopatía, artralgias",
+      "riscoGravidez": "Categoría X (prohibida)",
+      "riscoLactacao": "Compatible",
+      "administracao": "Subcutánea",
+      "doseMaxima": "0,5 mL",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacuna viral atenuada",
+      "apresentacao": "Frasco monodosis o multidosis + diluyente",
+      "interacaoMedicamento": "Evitar con IG recientes o corticoides",
+      "posologia": "2 dosis: 12 meses y 4–6 años",
+      "armazenamento": "2–8 °C; no congelar",
+      "preparo": "Reconstituir y usar en 8 h",
+      "solucoesCompatíveis": "Solo diluyente original",
+      "contraindicacoes": "Embarazo, inmunosupresión severa, alergia neomicina",
+      "cuidadosMedicos": "Verificar estado inmunitario",
+      "cuidadosFarmaceuticos": "Cadena frío y vigencia tras mezcla",
+      "cuidadosEnfermagem": "Observar 15 min; SC en brazo o muslo",
+      "fontesBibliograficas": "OMS, AEP, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "麻腮风三联疫苗（MMR）",
+      "suspension": "术前免疫低下者应提前2周停用",
+      "risk": "活疫苗，禁用于孕妇、免疫抑制患者，可能发热皮疹",
+      "reintroduction": "术后免疫恢复或不使用免疫制剂时可接种"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "麻疹、腮腺炎、风疹减毒活疫苗",
+      "nomeComercial": "MMR II、Priorix",
+      "mecanismoAcao": "刺激机体产生特异性抗体和细胞免疫",
+      "farmacocinetica": "10–14天出现免疫反应，3–4周达峰",
+      "farmacodinamica": "提供长期保护",
+      "indicacoes": "儿童常规免疫、疫情防控",
+      "reacoesAdversas": "注射部位痛、发热、皮疹、轻度关节痛",
+      "riscoGravidez": "X类（禁用）",
+      "riscoLactacao": "可接种",
+      "administracao": "皮下注射",
+      "doseMaxima": "0.5 mL",
+      "doseMinima": "0.5 mL",
+      "classificacao": "减毒活疫苗",
+      "apresentacao": "单剂/多剂装，附稀释液",
+      "interacaoMedicamento": "勿与IG类、免疫抑制剂同用",
+      "posologia": "12月龄、4–6岁各1针",
+      "armazenamento": "2–8°C避光，不可冷冻",
+      "preparo": "用原装稀释液混匀后立即使用",
+      "solucoesCompatíveis": "仅限配套稀释液",
+      "contraindicacoes": "妊娠、严重免疫抑制、对新霉素过敏",
+      "cuidadosMedicos": "评估免疫状态、疫苗史",
+      "cuidadosFarmaceuticos": "冷链运输，重构后限时使用",
+      "cuidadosEnfermagem": "皮下注射后观察15分钟",
+      "fontesBibliograficas": "中国疫苗规划指南、WHO、UpToDate"
+    }
+  }
+}

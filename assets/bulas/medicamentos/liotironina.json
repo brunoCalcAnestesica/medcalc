@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Liotironina",
+      "suspension": "Suspender 24h antes de cirurgia eletiva em casos de tireotoxicose ou uso fora do controle clínico",
+      "risk": "Risco de arritmias, hipertensão, angina e exacerbação de insuficiência cardíaca",
+      "reintroduction": "Reintroduzir após estabilização clínica e retorno à via oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Liotironina sódica (T3)",
+      "nomeComercial": "Cytomel, Triostat",
+      "mecanismoAcao": "Hormônio tireoidiano sintético T3 que regula metabolismo celular, crescimento e desenvolvimento",
+      "farmacocinetica": "Absorção oral rápida (~95%), início em 2–4h, meia-vida ~1 dia; metabolizado no fígado",
+      "farmacodinamica": "Aumenta consumo de oxigênio, produção de calor e estimula sistema cardiovascular e nervoso",
+      "indicacoes": "Hipotireoidismo, coma mixedematoso, teste de supressão da tireoide, câncer de tireoide (com levotiroxina)",
+      "reacoesAdversas": "Taquicardia, ansiedade, sudorese, tremores, perda de peso, insônia",
+      "riscoGravidez": "Categoria A – uso seguro se clinicamente necessário",
+      "riscoLactacao": "Seguro em doses fisiológicas",
+      "administracao": "Oral (comprimidos) ou IV (em casos agudos)",
+      "doseMaxima": "100mcg/dia (em casos excepcionais); 75mcg/dia em uso comum",
+      "doseMinima": "5mcg/dia",
+      "classificacao": "Hormônio tireoidiano (T3 sintético)",
+      "apresentacao": "Comprimidos de 5mcg, 25mcg; ampola IV 10mcg/mL",
+      "interacaoMedicamento": "Aumenta efeito de anticoagulantes; interação com insulina, digoxina, tricíclicos",
+      "posologia": "Inicial 5–25mcg/dia; ajuste gradual conforme TSH/T3 livre",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso oral direto ou IV diluído em SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Tireotoxicose não tratada, infarto agudo do miocárdio, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar TSH, T3 livre, FC, PA e sintomas cardiovasculares",
+      "cuidadosFarmaceuticos": "Garantir posologia adequada, uso contínuo e sem substituições arbitrárias",
+      "cuidadosEnfermagem": "Observar resposta clínica, FC, ansiedade, tremores",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Liothyronine",
+      "suspension": "Discontinue 24h before surgery in thyrotoxic or unstable patients",
+      "risk": "Risk of arrhythmias, hypertension, angina, exacerbation of heart failure",
+      "reintroduction": "Restart after clinical stabilization and return to oral intake"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Liothyronine sodium (T3)",
+      "nomeComercial": "Cytomel, Triostat",
+      "mecanismoAcao": "Synthetic T3 thyroid hormone regulating cellular metabolism and development",
+      "farmacocinetica": "Oral bioavailability ~95%, onset 2–4h, half-life ~1 day, hepatic metabolism",
+      "farmacodinamica": "Increases oxygen consumption, heat production, and stimulates cardiovascular/nervous system",
+      "indicacoes": "Hypothyroidism, myxedema coma, thyroid suppression test, thyroid cancer (with levothyroxine)",
+      "reacoesAdversas": "Tachycardia, anxiety, sweating, tremors, weight loss, insomnia",
+      "riscoGravidez": "Category A – safe if clinically indicated",
+      "riscoLactacao": "Safe in physiologic doses",
+      "administracao": "Oral or IV",
+      "doseMaxima": "100mcg/day (exceptional); usually ≤75mcg/day",
+      "doseMinima": "5mcg/day",
+      "classificacao": "Synthetic thyroid hormone (T3)",
+      "apresentacao": "Tablets 5mcg, 25mcg; IV ampoule 10mcg/mL",
+      "interacaoMedicamento": "Enhances anticoagulants; interacts with insulin, digoxin, TCAs",
+      "posologia": "Start 5–25mcg/day; titrate per TSH/free T3",
+      "armazenamento": "Room temperature, dry place",
+      "preparo": "Oral or IV diluted in 0.9% NaCl",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Untreated thyrotoxicosis, recent MI, hypersensitivity",
+      "cuidadosMedicos": "Monitor TSH, T3, HR, BP, cardiac symptoms",
+      "cuidadosFarmaceuticos": "Ensure stable dosing and avoid unsupervised substitution",
+      "cuidadosEnfermagem": "Watch for tremor, tachycardia, anxiety",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Liotironina",
+      "suspension": "Suspender 24h antes de cirugía en pacientes con tirotoxicosis o descompensación",
+      "risk": "Riesgo de arritmia, hipertensión, angina, insuficiencia cardíaca",
+      "reintroduction": "Reiniciar tras estabilización clínica y tolerancia oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Liotironina sódica (T3)",
+      "nomeComercial": "Cytomel, Triostat",
+      "mecanismoAcao": "Hormona tiroidea sintética T3 que regula metabolismo y desarrollo celular",
+      "farmacocinetica": "Biodisponibilidad oral ~95%, inicio 2–4h, vida media ~1 día, metabolismo hepático",
+      "farmacodinamica": "Aumenta consumo de oxígeno, producción de calor, y estimula el sistema cardiovascular",
+      "indicacoes": "Hipotiroidismo, coma mixedematoso, prueba de supresión tiroidea, cáncer de tiroides (con levotiroxina)",
+      "reacoesAdversas": "Taquicardia, ansiedad, sudoración, temblores, pérdida de peso, insomnio",
+      "riscoGravidez": "Categoría A – segura si está indicada",
+      "riscoLactacao": "Segura en dosis fisiológicas",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "100mcg/día (máximo); 75mcg/día habitual",
+      "doseMinima": "5mcg/día",
+      "classificacao": "Hormona tiroidea sintética (T3)",
+      "apresentacao": "Comprimidos 5mcg, 25mcg; ampolla IV 10mcg/mL",
+      "interacaoMedicamento": "Potencia anticoagulantes; interacción con insulina, digoxina, tricíclicos",
+      "posologia": "Inicial 5–25mcg/día, ajustar según TSH/T3",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "Vía oral o IV diluida en SSN 0,9%",
+      "solucoesCompatíveis": "SSN 0,9%",
+      "contraindicacoes": "Tirotoxicosis no tratada, IAM reciente, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear TSH, T3, FC, PA y síntomas cardíacos",
+      "cuidadosFarmaceuticos": "Evitar cambios de dosis no supervisados",
+      "cuidadosEnfermagem": "Observar ansiedad, taquicardia, temblores",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "三碘甲腺原氨酸（Liotironina）",
+      "suspension": "术前24小时停药，适用于甲状腺毒症或心脏不稳患者",
+      "risk": "可能引起心律失常、高血压、心绞痛或心力衰竭加重",
+      "reintroduction": "术后稳定后恢复使用，确保可耐受口服"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "三碘甲腺原氨酸钠（T3）",
+      "nomeComercial": "赛托美尔（Cytomel）",
+      "mecanismoAcao": "T3甲状腺激素，调控细胞代谢、发育和生长",
+      "farmacocinetica": "口服吸收率高（>95%），起效2–4小时，半衰期约1天，肝代谢",
+      "farmacodinamica": "促进氧耗、产热、心血管和中枢系统兴奋",
+      "indicacoes": "甲减、粘液性昏迷、甲状腺抑制试验、甲癌辅助治疗",
+      "reacoesAdversas": "心动过速、焦虑、多汗、震颤、体重下降、失眠",
+      "riscoGravidez": "A类 – 若临床需要可用",
+      "riscoLactacao": "小剂量可用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "100微克/天（极限剂量），常规不超过75微克",
+      "doseMinima": "每日5微克",
+      "classificacao": "合成T3激素",
+      "apresentacao": "5mcg、25mcg片剂；注射液10mcg/mL",
+      "interacaoMedicamento": "增强抗凝药作用，影响胰岛素、地高辛、三环类药物",
+      "posologia": "起始5–25mcg/天，按TSH/T3调整",
+      "armazenamento": "避光干燥保存",
+      "preparo": "口服直接使用，IV可稀释于0.9%氯化钠",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "未控制甲亢、心肌梗死急性期、过敏",
+      "cuidadosMedicos": "监测TSH、T3、心率、血压及心脏表现",
+      "cuidadosFarmaceuticos": "避免随意替代品牌和剂量",
+      "cuidadosEnfermagem": "观察神经激动症状与心血管反应",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

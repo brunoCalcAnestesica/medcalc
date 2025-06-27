@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Hidralazina",
+      "suspension": "Manter até o dia da cirurgia se controle pressórico necessário",
+      "risk": "Pode causar hipotensão intraoperatória, taquicardia reflexa e interação com anestésicos",
+      "reintroduction": "Reintroduzir conforme controle hemodinâmico e estabilidade pressórica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidralazina",
+      "nomeComercial": "Apresolina, Nepresol",
+      "mecanismoAcao": "Relaxamento direto da musculatura lisa arteriolar, promovendo vasodilatação",
+      "farmacocinetica": "Via oral ou IV; início em 5–20 min (IV); meia-vida de 3–7h; metabolização hepática",
+      "farmacodinamica": "Reduz a resistência vascular sistêmica, com aumento reflexo da FC e débito cardíaco",
+      "indicacoes": "Crises hipertensivas, pré-eclâmpsia, hipertensão arterial resistente",
+      "reacoesAdversas": "Cefaleia, taquicardia, náusea, retenção hídrica, lúpus induzido por drogas",
+      "riscoGravidez": "Categoria C (uso possível se benefício superar risco)",
+      "riscoLactacao": "Pode ser utilizada com cautela",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "300mg/dia (VO); 40mg/dose (IV)",
+      "doseMinima": "10mg 2x/dia (VO); 5mg (IV)",
+      "classificacao": "Anti-hipertensivo vasodilatador direto",
+      "apresentacao": "Comprimidos de 25mg; ampola de 20mg/mL",
+      "interacaoMedicamento": "Potencializa efeito de outros anti-hipertensivos e anestésicos; cuidado com betabloqueadores",
+      "posologia": "VO: 25–100mg/dia fracionado; IV: 5–20mg em bolus lento, repetir se necessário",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Diluir IV em SF 0,9% se necessário para infusão lenta",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Lúpus eritematoso sistêmico ativo, dissecção de aorta, insuficiência coronariana grave",
+      "cuidadosMedicos": "Monitorar PA, FC, sinais de isquemia miocárdica e sintomas de lúpus induzido",
+      "cuidadosFarmaceuticos": "Orientar sobre aderência e evitar suspensão abrupta",
+      "cuidadosEnfermagem": "Observar hipotensão, taquicardia e resposta ao tratamento",
+      "fontesBibliograficas": "Micromedex, FDA, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hydralazine",
+      "suspension": "Continue on the day of surgery if BP control needed",
+      "risk": "May cause intraoperative hypotension, reflex tachycardia, interaction with anesthetics",
+      "reintroduction": "Restart as needed post-op once hemodynamically stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hydralazine",
+      "nomeComercial": "Apresoline",
+      "mecanismoAcao": "Direct arteriolar smooth muscle relaxant, causing vasodilation",
+      "farmacocinetica": "Oral or IV; onset 5–20 min (IV); half-life 3–7h; hepatic metabolism",
+      "farmacodinamica": "Decreases systemic vascular resistance, increases heart rate and cardiac output",
+      "indicacoes": "Hypertensive crisis, preeclampsia, resistant hypertension",
+      "reacoesAdversas": "Headache, tachycardia, nausea, fluid retention, drug-induced lupus",
+      "riscoGravidez": "Category C (use if benefit > risk)",
+      "riscoLactacao": "May be used cautiously",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "300mg/day (PO); 40mg/dose (IV)",
+      "doseMinima": "10mg BID (PO); 5mg (IV)",
+      "classificacao": "Direct-acting vasodilator antihypertensive",
+      "apresentacao": "Tablets 25mg; ampoule 20mg/mL",
+      "interacaoMedicamento": "Enhances effects of other antihypertensives, anesthetics; caution with beta-blockers",
+      "posologia": "PO: 25–100mg/day in divided doses; IV: 5–20mg slow bolus, repeat as needed",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Dilute IV in NS 0.9% for slow infusion if required",
+      "solucoesCompatíveis": "0.9% saline",
+      "contraindicacoes": "Active SLE, aortic dissection, severe coronary artery disease",
+      "cuidadosMedicos": "Monitor BP, HR, myocardial ischemia, lupus-like symptoms",
+      "cuidadosFarmaceuticos": "Advise adherence, avoid abrupt withdrawal",
+      "cuidadosEnfermagem": "Monitor for hypotension, tachycardia, and clinical response",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hidralazina",
+      "suspension": "Mantener el día de la cirugía si se necesita control de la PA",
+      "risk": "Puede causar hipotensión intraoperatoria, taquicardia refleja, interacción con anestésicos",
+      "reintroduction": "Reintroducir cuando la PA esté estabilizada en el postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidralazina",
+      "nomeComercial": "Apresolina",
+      "mecanismoAcao": "Relaja directamente el músculo liso arteriolar, causando vasodilatación",
+      "farmacocinetica": "Oral o IV; inicio 5–20 min (IV); vida media 3–7h; metabolismo hepático",
+      "farmacodinamica": "Reduce la resistencia vascular sistémica, con aumento reflejo de FC y GC",
+      "indicacoes": "Crisis hipertensivas, preeclampsia, hipertensión resistente",
+      "reacoesAdversas": "Cefalea, taquicardia, náuseas, retención de líquidos, lupus inducido",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Uso cauteloso",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "300mg/día (VO); 40mg/dosis (IV)",
+      "doseMinima": "10mg 2x/día (VO); 5mg (IV)",
+      "classificacao": "Antihipertensivo vasodilatador directo",
+      "apresentacao": "Tabletas de 25mg; ampollas de 20mg/mL",
+      "interacaoMedicamento": "Potencia efecto de antihipertensivos y anestésicos; precaución con betabloqueadores",
+      "posologia": "VO: 25–100mg/día dividido; IV: 5–20mg en bolo lento",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Diluir en SSF 0,9% si es necesario para infusión lenta",
+      "solucoesCompatíveis": "SSF 0,9%",
+      "contraindicacoes": "LES activo, disección aórtica, cardiopatía coronaria severa",
+      "cuidadosMedicos": "Monitorear PA, FC, isquemia y lupus inducido",
+      "cuidadosFarmaceuticos": "Aconsejar adherencia, no suspender abruptamente",
+      "cuidadosEnfermagem": "Observar hipotensión y respuesta clínica",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "肼屈嗪",
+      "suspension": "术日可继续使用，如需控制血压",
+      "risk": "可能导致术中低血压、反射性心动过速，与麻醉药相互作用",
+      "reintroduction": "术后血流动力学稳定后重新给予"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "肼屈嗪",
+      "nomeComercial": "Apresoline",
+      "mecanismoAcao": "直接松弛小动脉平滑肌，产生扩血管作用",
+      "farmacocinetica": "口服或静注；静注起效5–20分钟；半衰期3–7小时；肝脏代谢",
+      "farmacodinamica": "降低外周阻力，增加心率和心排量",
+      "indicacoes": "高血压危象、子痫前期、难治性高血压",
+      "reacoesAdversas": "头痛、心动过速、恶心、水肿、药物性红斑狼疮",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "口服或静注",
+      "doseMaxima": "每日300毫克（口服）；每次40毫克（静注）",
+      "doseMinima": "每日两次10毫克（口服）；静注5毫克",
+      "classificacao": "直接作用扩血管降压药",
+      "apresentacao": "片剂25mg；注射液20mg/mL",
+      "interacaoMedicamento": "与其他降压药、麻醉药联用增强作用；慎与β阻滞剂合用",
+      "posologia": "口服25–100mg/日分次；静注5–20mg缓慢注射，可重复",
+      "armazenamento": "室温保存，避光",
+      "preparo": "必要时用0.9%氯化钠稀释静滴",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "系统性红斑狼疮、主动脉夹层、严重冠心病",
+      "cuidadosMedicos": "监测血压、心率、心肌缺血与药物性红斑狼疮征象",
+      "cuidadosFarmaceuticos": "提醒患者勿突然停药，注意储存",
+      "cuidadosEnfermagem": "观察低血压、心动过速及临床反应",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

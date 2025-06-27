@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Mitoxantrona",
+      "suspension": "Suspender pelo menos 4 semanas antes de cirurgia eletiva",
+      "risk": "Risco significativo de mielossupressão, cardiotoxicidade cumulativa e imunossupressão. Aumenta a susceptibilidade a infecções e pode interferir na cicatrização.",
+      "reintroduction": "Reintroduzir somente após recuperação hematológica completa, ausência de infecção ativa e cicatrização adequada da ferida cirúrgica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mitoxantrona",
+      "nomeComercial": "Novantrone, Mitoxantrone Accord, Onkotrone",
+      "mecanismoAcao": "Intercalante de DNA e inibidor da topoisomerase II, inibe síntese de DNA/RNA e proliferação celular",
+      "farmacocinetica": "Administração IV, meia-vida bifásica (~75 h), metabolismo hepático, excreção predominantemente biliar",
+      "farmacodinamica": "Efeito citotóxico e imunossupressor, utilizado em neoplasias e doenças autoimunes",
+      "indicacoes": "Esclerose múltipla secundariamente progressiva, leucemia mieloide aguda, câncer de mama metastático, linfomas",
+      "reacoesAdversas": "Leucopenia, náusea, alopecia, mucosite, cardiotoxicidade cumulativa (disfunção ventricular, ICC)",
+      "riscoGravidez": "Categoria D (evidência de risco fetal, uso contraindicado)",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "Infusão intravenosa lenta, geralmente em ambiente hospitalar",
+      "doseMaxima": "14 mg/m² a cada 21 dias (dose cumulativa máxima 140 mg/m²)",
+      "doseMinima": "6–12 mg/m² em esquemas ajustados por resposta clínica",
+      "classificacao": "Antineoplásico – antracenediona citotóxica",
+      "apresentacao": "Frasco-ampola 20 mg/10 mL para diluição EV",
+      "interacaoMedicamento": "Potencializa toxicidade de outros imunossupressores e agentes mielotóxicos; interação com vacinas vivas",
+      "posologia": "Individualizada por superfície corporal e função hematológica",
+      "armazenamento": "2–8°C, proteger da luz, não congelar",
+      "preparo": "Diluir em solução glicosada ou salina antes da infusão",
+      "solucoesCompatíveis": "SF 0,9% ou SG 5%",
+      "contraindicacoes": "Insuficiência hepática grave, leucopenia grave, disfunção ventricular pré-existente",
+      "cuidadosMedicos": "Monitorar função cardíaca (eco ou fração de ejeção), hemograma antes de cada dose",
+      "cuidadosFarmaceuticos": "Usar EPI para preparo, evitar extravasamento (vesicante), uso imediato após preparo",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, sinais de extravasamento, orientar sobre queda capilar e náuseas",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, UpToDate, Micromedex, SBME, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mitoxantrone",
+      "suspension": "Discontinue at least 4 weeks before elective surgery",
+      "risk": "High risk of myelosuppression, cumulative cardiotoxicity, and immunosuppression. Increases infection risk and may impair wound healing.",
+      "reintroduction": "Reintroduce only after complete hematologic recovery, no active infection, and proper wound healing."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mitoxantrone",
+      "nomeComercial": "Novantrone, Onkotrone, Mitoxantrone Accord",
+      "mecanismoAcao": "DNA intercalator and topoisomerase II inhibitor; inhibits DNA/RNA synthesis and cell proliferation",
+      "farmacocinetica": "IV administration, biphasic half-life (~75 h), hepatic metabolism, biliary excretion",
+      "farmacodinamica": "Cytotoxic and immunosuppressive effects; used in cancers and autoimmune diseases",
+      "indicacoes": "Progressive MS, AML, metastatic breast cancer, lymphomas",
+      "reacoesAdversas": "Leukopenia, nausea, alopecia, mucositis, cardiomyopathy (dose-dependent)",
+      "riscoGravidez": "Category D (positive evidence of fetal risk)",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Slow IV infusion in hospital setting",
+      "doseMaxima": "14 mg/m² every 21 days (cumulative max 140 mg/m²)",
+      "doseMinima": "6–12 mg/m² depending on clinical response",
+      "classificacao": "Antineoplastic – anthracenedione cytotoxic agent",
+      "apresentacao": "Vial 20 mg/10 mL for IV dilution",
+      "interacaoMedicamento": "Enhances toxicity of other immunosuppressants and bone marrow suppressants; interacts with live vaccines",
+      "posologia": "Individualized based on BSA and hematologic profile",
+      "armazenamento": "2–8°C, protect from light, do not freeze",
+      "preparo": "Dilute in D5W or NS before infusion",
+      "solucoesCompatíveis": "0.9% NaCl or 5% Dextrose",
+      "contraindicacoes": "Severe hepatic impairment, baseline leukopenia, cardiac dysfunction",
+      "cuidadosMedicos": "Monitor cardiac function and CBC before each dose",
+      "cuidadosFarmaceuticos": "Use PPE for preparation, vesicant precautions, immediate use after dilution",
+      "cuidadosEnfermagem": "Monitor vitals, check for extravasation, counsel on hair loss and nausea",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex, NCCN Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Mitoxantrona",
+      "suspension": "Suspender al menos 4 semanas antes de cirugía electiva",
+      "risk": "Alto riesgo de mielosupresión, cardiotoxicidad acumulativa e inmunosupresión. Mayor riesgo de infección y retraso en cicatrización.",
+      "reintroduction": "Reintroducir solo tras recuperación hematológica completa, sin infecciones activas y con adecuada cicatrización."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mitoxantrona",
+      "nomeComercial": "Novantrone, Onkotrone, Mitoxantrone Accord",
+      "mecanismoAcao": "Intercalante del ADN e inhibidor de topoisomerasa II, impide síntesis de ADN/ARN",
+      "farmacocinetica": "IV, vida media bifásica (~75 h), metabolismo hepático, excreción biliar",
+      "farmacodinamica": "Efecto citotóxico e inmunosupresor en cánceres y enfermedades autoinmunes",
+      "indicacoes": "EM progresiva, LMA, cáncer de mama metastásico, linfomas",
+      "reacoesAdversas": "Leucopenia, náuseas, alopecia, mucositis, cardiotoxicidad dosis-dependiente",
+      "riscoGravidez": "Categoría D (riesgo fetal demostrado)",
+      "riscoLactacao": "Contraindicado en lactancia",
+      "administracao": "Infusión IV lenta en entorno hospitalario",
+      "doseMaxima": "14 mg/m² cada 21 días (máx. acumulado: 140 mg/m²)",
+      "doseMinima": "6–12 mg/m² según respuesta clínica",
+      "classificacao": "Antineoplásico – antracenediona",
+      "apresentacao": "Vial 20 mg/10 mL",
+      "interacaoMedicamento": "Potencia toxicidad de inmunosupresores y mielotóxicos; evita vacunas vivas",
+      "posologia": "Individualizada según superficie corporal y estado hematológico",
+      "armazenamento": "2–8 °C, protegido de la luz, no congelar",
+      "preparo": "Diluir en glucosa 5% o suero fisiológico",
+      "solucoesCompatíveis": "ClNa 0,9% o glucosa 5%",
+      "contraindicacoes": "Disfunción hepática grave, leucopenia, insuficiencia cardíaca",
+      "cuidadosMedicos": "Monitorear función cardíaca y hemograma",
+      "cuidadosFarmaceuticos": "Usar EPP, precauciones por vesicante, uso inmediato tras dilución",
+      "cuidadosEnfermagem": "Monitorizar signos vitales y extravasación",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "米托蒽醌",
+      "suspension": "择期手术前至少停药4周",
+      "risk": "显著骨髓抑制、心脏毒性与免疫抑制风险，术后感染与伤口愈合障碍",
+      "reintroduction": "术后无感染、血象恢复正常且伤口愈合良好后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "米托蒽醌",
+      "nomeComercial": "诺万特隆, 米托蒽醌注射液",
+      "mecanismoAcao": "嵌入DNA并抑制拓扑异构酶II，阻断细胞增殖",
+      "farmacocinetica": "静脉注射，双相半衰期约75小时，肝代谢，经胆汁排泄",
+      "farmacodinamica": "细胞毒和免疫抑制作用，用于癌症及自身免疫疾病",
+      "indicacoes": "进展性多发性硬化、急性髓系白血病、乳腺癌转移、淋巴瘤",
+      "reacoesAdversas": "白细胞减少、恶心、脱发、口腔炎、剂量相关心脏毒性",
+      "riscoGravidez": "D类（已知对胎儿有害）",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉缓慢滴注",
+      "doseMaxima": "14 mg/m²，每21天一次，累积不超过140 mg/m²",
+      "doseMinima": "6–12 mg/m²，依临床反应调整",
+      "classificacao": "抗肿瘤药 – 蒽醌类细胞毒药",
+      "apresentacao": "20 mg/10 mL小瓶",
+      "interacaoMedicamento": "与其他免疫抑制剂合用增强毒性；避免与活疫苗合用",
+      "posologia": "根据体表面积与血象个体化给药",
+      "armazenamento": "2–8°C，避光保存，切勿冷冻",
+      "preparo": "稀释于5%葡萄糖或0.9%氯化钠中",
+      "solucoesCompatíveis": "5%葡萄糖或0.9%氯化钠",
+      "contraindicacoes": "重度肝功能不全、白细胞减少、心功能不全",
+      "cuidadosMedicos": "治疗前监测心功能和CBC",
+      "cuidadosFarmaceuticos": "操作时戴防护，避免外渗，稀释后立即使用",
+      "cuidadosEnfermagem": "监测生命体征和输液部位",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、EMA、NCCN指南"
+    }
+  }
+}

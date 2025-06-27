@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sulfadiazina de prata",
+      "suspension": "Não requer suspensão em cirurgias; pode ser utilizada em curativos pós-operatórios",
+      "risk": "Risco de leucopenia, argiria (uso prolongado), retardo de epitelização em feridas profundas",
+      "reintroduction": "Pode ser reintroduzida após controle de infecção e com vigilância hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfadiazina de prata",
+      "nomeComercial": "Dermazine, Silvederma, Sulfarma",
+      "mecanismoAcao": "Libera íons de prata com ação bactericida e antifúngica; sulfadiazina inibe síntese de ácido fólico bacteriano",
+      "farmacocinetica": "Absorção cutânea variável; maior em áreas extensas ou queimaduras; excreção renal",
+      "farmacodinamica": "Efeito antimicrobiano amplo contra bactérias gram+ e gram-, e fungos",
+      "indicacoes": "Queimaduras de segundo e terceiro graus, úlceras de pressão infectadas, feridas crônicas",
+      "reacoesAdversas": "Leucopenia transitória, hipersensibilidade, ardor local, argiria (uso crônico)",
+      "riscoGravidez": "Categoria C; contraindicado no final da gestação",
+      "riscoLactacao": "Evitar uso prolongado ou em áreas extensas",
+      "administracao": "Uso tópico",
+      "doseMaxima": "Aplicar 1–2x/dia cobrindo toda a área lesada",
+      "doseMinima": "1x/dia",
+      "classificacao": "Antibacteriano tópico com prata coloidal",
+      "apresentacao": "Creme 1% em bisnagas de 50 g, potes 250 g, sachês hospitalares",
+      "interacaoMedicamento": "Evitar uso concomitante com enzimas proteolíticas e agentes oxidantes",
+      "posologia": "Aplicar camada uniforme em ferida limpa, cobrir com gaze se necessário",
+      "armazenamento": "Temperatura ambiente (15–25°C)",
+      "preparo": "Pronto para uso; uso externo apenas",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia à sulfa ou prata, prematuros, recém-nascidos, gestação a termo",
+      "cuidadosMedicos": "Monitorar contagem de leucócitos em uso prolongado",
+      "cuidadosFarmaceuticos": "Educar sobre frequência, armazenamento e cobertura adequada",
+      "cuidadosEnfermagem": "Observar sinais de hipersensibilidade e resposta da ferida",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate, WHO"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Silver sulfadiazine",
+      "suspension": "No need to suspend; used postoperatively for wound management",
+      "risk": "Leukopenia, delayed healing in deep wounds, rare argyria",
+      "reintroduction": "Reintroduce after wound stabilization and monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Silver sulfadiazine",
+      "nomeComercial": "Silvadene, SSD Cream",
+      "mecanismoAcao": "Silver ions disrupt bacterial membranes; sulfadiazine inhibits folic acid synthesis",
+      "farmacocinetica": "Absorbed through damaged skin; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Broad antimicrobial effect on gram-positive, gram-negative bacteria and fungi",
+      "indicacoes": "Burns (2nd/3rd degree), infected ulcers, surgical wounds",
+      "reacoesAdversas": "Burning, rash, leukopenia, hypersensitivity",
+      "riscoGravidez": "Category C; avoid in late pregnancy",
+      "riscoLactacao": "Caution in breastfeeding; avoid prolonged use",
+      "administracao": "Topical",
+      "doseMaxima": "Apply once or twice daily to cover entire wound",
+      "doseMinima": "Once daily",
+      "classificacao": "Topical sulfonamide with silver",
+      "apresentacao": "1% cream in 50 g tubes or 250 g jars",
+      "interacaoMedicamento": "Avoid oxidants and proteolytic enzymes",
+      "posologia": "Apply a uniform layer over cleansed wound; cover if needed",
+      "armazenamento": "Store at 59–77°F",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Allergy to sulfa/silver, premature infants, term neonates",
+      "cuidadosMedicos": "Monitor WBC count with extended use",
+      "cuidadosFarmaceuticos": "Instruct on application and frequency",
+      "cuidadosEnfermagem": "Monitor wound status and allergic reactions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sulfadiazina de plata",
+      "suspension": "No se requiere suspensión prequirúrgica",
+      "risk": "Leucopenia, argiria (uso crónico), retardo en cicatrización profunda",
+      "reintroduction": "Reintroducir tras estabilización y evaluación de la herida"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfadiazina de plata",
+      "nomeComercial": "Silvederma, Dermazine",
+      "mecanismoAcao": "Iones de plata antimicrobianos; sulfadiazina inhibe síntesis de ácido fólico",
+      "farmacocinetica": "Absorción cutánea moderada; metabolismo hepático",
+      "farmacodinamica": "Bactericida/fungicida de amplio espectro",
+      "indicacoes": "Quemaduras, úlceras, heridas infectadas",
+      "reacoesAdversas": "Ardor, leucopenia, irritación local",
+      "riscoGravidez": "Categoría C; evitar en embarazo avanzado",
+      "riscoLactacao": "Evitar uso extenso durante lactancia",
+      "administracao": "Tópica",
+      "doseMaxima": "Aplicar 1–2 veces/día",
+      "doseMinima": "1 vez/día",
+      "classificacao": "Sulfamida tópica con plata",
+      "apresentacao": "Crema 1%",
+      "interacaoMedicamento": "Evitar con agentes oxidantes",
+      "posologia": "Capa uniforme en la herida limpia",
+      "armazenamento": "15–25°C",
+      "preparo": "Listo para uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a sulfas o plata, neonatos",
+      "cuidadosMedicos": "Control de leucocitos con uso prolongado",
+      "cuidadosFarmaceuticos": "Educar sobre aplicación y tiempo de uso",
+      "cuidadosEnfermagem": "Vigilar signos de alergia y evolución de la herida",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "银磺胺嘧啶（外用）",
+      "suspension": "术前无需停用；术后可用于创面敷料",
+      "risk": "白细胞减少、局部刺激、长期用可致银沉积",
+      "reintroduction": "术后创口稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "银磺胺嘧啶",
+      "nomeComercial": "Silvadene，Dermazine",
+      "mecanismoAcao": "银离子破坏细胞膜；磺胺类抑制叶酸合成",
+      "farmacocinetica": "烧伤皮肤吸收高；肝代谢，肾排泄",
+      "farmacodinamica": "广谱抗菌抗真菌",
+      "indicacoes": "二三度烧伤、褥疮、感染伤口",
+      "reacoesAdversas": "烧灼、过敏、白细胞减少、银皮肤沉着",
+      "riscoGravidez": "C类；孕晚期禁用",
+      "riscoLactacao": "避免大面积长期使用",
+      "administracao": "外用",
+      "doseMaxima": "每日1–2次涂抹伤口",
+      "doseMinima": "每日1次",
+      "classificacao": "含银磺胺类局部抗菌药",
+      "apresentacao": "1%乳膏",
+      "interacaoMedicamento": "避免与蛋白酶/氧化剂联用",
+      "posologia": "清洁创面，涂抹薄层，可包扎",
+      "armazenamento": "室温保存（15–25°C）",
+      "preparo": "直接使用，外用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对磺胺或银过敏、新生儿、早产儿",
+      "cuidadosMedicos": "长期使用监测血象",
+      "cuidadosFarmaceuticos": "指导用药频率和保存方式",
+      "cuidadosEnfermagem": "监测过敏和创面愈合情况",
+      "fontesBibliograficas": "中国药典，FDA，UpToDate，Micromedex"
+    }
+  }
+}

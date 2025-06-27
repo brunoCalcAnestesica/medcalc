@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Eplerenona",
+      "suspension": "Suspender 24–48 horas antes de procedimentos com risco de instabilidade eletrolítica ou hemodinâmica",
+      "risk": "Risco de hipercalemia intraoperatória, interação com anti-hipertensivos, risco cardiovascular em pacientes instáveis",
+      "reintroduction": "Reintroduzir após normalização de eletrólitos e estabilização hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eplerenona",
+      "nomeComercial": "Inspra",
+      "mecanismoAcao": "Antagonista seletivo da aldosterona, age nos receptores mineralocorticoides nos rins",
+      "farmacocinetica": "Biodisponibilidade 70%, meia-vida ~4–6 h, metabolização hepática (CYP3A4), excreção renal e fecal",
+      "farmacodinamica": "Promove excreção de sódio e retenção de potássio, reduzendo efeitos deletérios da aldosterona",
+      "indicacoes": "Insuficiência cardíaca pós-IAM com disfunção sistólica, hipertensão resistente, ICC classe II",
+      "reacoesAdversas": "Hipercalemia, tontura, aumento de creatinina, ginecomastia (raro), hipotensão",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Evitar uso; não se sabe se é excretado no leite",
+      "administracao": "Oral, 1x ou 2x/dia",
+      "doseMaxima": "100 mg/dia",
+      "doseMinima": "25 mg/dia",
+      "classificacao": "Antagonista seletivo dos receptores mineralocorticoides (ARM)",
+      "apresentacao": "Comprimidos 25 mg e 50 mg",
+      "interacaoMedicamento": "Aumenta risco de hipercalemia com IECA, BRA, inibidores da renina, AINEs, lítio",
+      "posologia": "Início: 25–50 mg/dia; ajustar conforme potássio e função renal",
+      "armazenamento": "Temperatura ambiente, longe da umidade",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipercalemia, ClCr <30 mL/min, uso concomitante com inibidores fortes do CYP3A4",
+      "cuidadosMedicos": "Monitorar potássio, creatinina, pressão arterial",
+      "cuidadosFarmaceuticos": "Evitar sal dietético com potássio; monitorar interações",
+      "cuidadosEnfermagem": "Observar sinais de hipotensão e arritmias",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Eplerenone",
+      "suspension": "Discontinue 24–48 hours before surgery if electrolyte or volume instability is expected",
+      "risk": "Hyperkalemia, hypotension, and drug interactions with CYP3A4 substrates and RAAS inhibitors",
+      "reintroduction": "Restart after normalization of potassium and renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eplerenone",
+      "nomeComercial": "Inspra",
+      "mecanismoAcao": "Selective aldosterone receptor antagonist; blocks mineralocorticoid receptors in the kidney",
+      "farmacocinetica": "70% bioavailability, half-life 4–6 h, CYP3A4 metabolism, renal and fecal excretion",
+      "farmacodinamica": "Reduces sodium reabsorption and potassium excretion; improves cardiovascular remodeling",
+      "indicacoes": "Heart failure post-MI, resistant hypertension, Class II CHF",
+      "reacoesAdversas": "Hyperkalemia, dizziness, increased creatinine, hypotension",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Unknown; avoid",
+      "administracao": "Oral once or twice daily",
+      "doseMaxima": "100 mg/day",
+      "doseMinima": "25 mg/day",
+      "classificacao": "Selective mineralocorticoid receptor antagonist (MRA)",
+      "apresentacao": "Tablets: 25 mg, 50 mg",
+      "interacaoMedicamento": "Interacts with CYP3A4 inhibitors, ACE inhibitors, ARBs, NSAIDs",
+      "posologia": "Start at 25–50 mg/day, adjust based on K+ and renal function",
+      "armazenamento": "Store at room temperature",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hyperkalemia, severe renal impairment (CrCl <30), CYP3A4 inhibitors",
+      "cuidadosMedicos": "Monitor potassium, BP, and kidney function",
+      "cuidadosFarmaceuticos": "Avoid potassium supplements and salt substitutes",
+      "cuidadosEnfermagem": "Monitor for signs of hyperkalemia or hypotension",
+      "fontesBibliograficas": "FDA, Micromedex, Lexicomp, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Eplerenona",
+      "suspension": "Suspender 24–48 h antes de cirugía si hay riesgo de desbalance electrolítico",
+      "risk": "Hipercalemia, hipotensión, interacción con IECA/BRA y CYP3A4",
+      "reintroduction": "Reintroducir tras estabilidad hemodinámica y electrolitos normales"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eplerenona",
+      "nomeComercial": "Inspra",
+      "mecanismoAcao": "Antagonista selectivo de la aldosterona; actúa sobre receptores mineralocorticoides",
+      "farmacocinetica": "Biodisponibilidad 70%, vida media 4–6 h, metabolismo hepático CYP3A4",
+      "farmacodinamica": "Reduce reabsorción de sodio, mejora función cardíaca",
+      "indicacoes": "ICC post-IAM, hipertensión resistente, ICC clase II",
+      "reacoesAdversas": "Hipercalemia, hipotensión, aumento de creatinina",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/día",
+      "doseMinima": "25 mg/día",
+      "classificacao": "Antagonista del receptor mineralocorticoide",
+      "apresentacao": "Tabletas 25 mg y 50 mg",
+      "interacaoMedicamento": "IECA, BRA, CYP3A4, AINEs",
+      "posologia": "Iniciar con 25–50 mg/día y ajustar",
+      "armazenamento": "Ambiente fresco, seco",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipercalemia, ClCr <30, inhibidores fuertes de CYP3A4",
+      "cuidadosMedicos": "Monitorear K+, creatinina, TA",
+      "cuidadosFarmaceuticos": "Evitar potasio en dieta o suplementos",
+      "cuidadosEnfermagem": "Observar hipotensión, arritmias",
+      "fontesBibliograficas": "AEMPS, FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "依普利酮",
+      "suspension": "术前24–48小时停药，尤其电解质失衡风险者",
+      "risk": "高钾血症、低血压、与CYP3A4和RAAS药物互作",
+      "reintroduction": "术后血钾稳定、肾功能恢复后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依普利酮",
+      "nomeComercial": "Inspra",
+      "mecanismoAcao": "选择性醛固酮受体拮抗剂，作用于肾远曲小管",
+      "farmacocinetica": "生物利用度70%，半衰期4–6小时，CYP3A4代谢，肾/粪排泄",
+      "farmacodinamica": "减少钠重吸收，保钾降压，改善心功能",
+      "indicacoes": "心力衰竭、心肌梗死后、顽固性高血压",
+      "reacoesAdversas": "高钾血症、头晕、肌酐升高、低血压",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服，每日1–2次",
+      "doseMaxima": "每日100毫克",
+      "doseMinima": "每日25毫克",
+      "classificacao": "选择性醛固酮受体拮抗剂",
+      "apresentacao": "25mg、50mg片剂",
+      "interacaoMedicamento": "与ACEI、ARB、CYP3A4抑制剂、NSAIDs联用需警惕高钾",
+      "posologia": "每日25–50 mg起始，依据肾功能调整",
+      "armazenamento": "室温避光保存",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "高钾血症、ClCr<30、CYP3A4强抑制剂",
+      "cuidadosMedicos": "监测血钾、肌酐和血压",
+      "cuidadosFarmaceuticos": "避免钾补充剂、限制钾摄入",
+      "cuidadosEnfermagem": "观察心律异常、低血压",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

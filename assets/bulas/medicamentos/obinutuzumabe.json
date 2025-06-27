@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Obinutuzumabe",
+      "suspension": "Suspender 30 dias antes da cirurgia eletiva",
+      "risk": "Imunossupressão grave, risco de infecção oportunista, atraso na cicatrização",
+      "reintroduction": "Reintroduzir após completa recuperação imunológica e cicatricial"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Obinutuzumabe",
+      "nomeComercial": "Gazyva",
+      "mecanismoAcao": "Anticorpo monoclonal anti-CD20 tipo II que induz citotoxicidade dependente de anticorpos e apoptose direta de células B",
+      "farmacocinetica": "Meia-vida terminal média de 28 dias; metabolismo proteico; via intravenosa",
+      "farmacodinamica": "Depleta células B CD20+, modulando resposta imune em doenças linfoproliferativas",
+      "indicacoes": "Leucemia linfocítica crônica, linfoma folicular avançado",
+      "reacoesAdversas": "Neutropenia, febre, síndrome de liberação de citocinas, reações infusionais, infecções respiratórias",
+      "riscoGravidez": "Categoria C (evitar uso)",
+      "riscoLactacao": "Contraindicado; pode ser excretado no leite materno",
+      "administracao": "Via intravenosa",
+      "doseMaxima": "1000 mg por infusão",
+      "doseMinima": "1000 mg por ciclo",
+      "classificacao": "Antineoplásico – anticorpo monoclonal anti-CD20 humanizado tipo II",
+      "apresentacao": "Frasco de 1000 mg/40 mL",
+      "interacaoMedicamento": "Aumenta risco de infecção com agentes imunossupressores e quimioterápicos",
+      "posologia": "1000 mg IV nos dias 1, 8 e 15 do ciclo 1, depois 1000 mg a cada 28 dias",
+      "armazenamento": "Refrigerado (2–8°C), não congelar, proteger da luz",
+      "preparo": "Diluir em SF 0,9% para infusão IV lenta, com pré-medicação (antipirético, anti-histamínico, corticosteroide)",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Infecção ativa grave, gravidez, hipersensibilidade conhecida",
+      "cuidadosMedicos": "Monitorar contagem de leucócitos, função hepática e sinais de reativação viral (HBV)",
+      "cuidadosFarmaceuticos": "Preparar em capela de fluxo laminar, evitar agitação do frasco",
+      "cuidadosEnfermagem": "Monitorar reações infusionais nas 4 primeiras horas, observar sinais de infecção",
+      "fontesBibliograficas": "INCA, FDA, EMA, ANVISA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Obinutuzumab",
+      "suspension": "Discontinue 30 days before elective surgery",
+      "risk": "Severe immunosuppression, risk of opportunistic infections, delayed wound healing",
+      "reintroduction": "Restart after full immune and wound recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Obinutuzumab",
+      "nomeComercial": "Gazyva",
+      "mecanismoAcao": "Type II anti-CD20 monoclonal antibody inducing antibody-dependent cytotoxicity and direct apoptosis of B cells",
+      "farmacocinetica": "Terminal half-life ~28 days; catabolized by protein degradation; IV administration",
+      "farmacodinamica": "Depletes CD20+ B cells, modulating immune response in lymphoid malignancies",
+      "indicacoes": "Chronic lymphocytic leukemia, advanced follicular lymphoma",
+      "reacoesAdversas": "Neutropenia, fever, cytokine release syndrome, infusion reactions, respiratory infections",
+      "riscoGravidez": "Category C (use with caution)",
+      "riscoLactacao": "Contraindicated; may be excreted in breast milk",
+      "administracao": "Intravenous route",
+      "doseMaxima": "1000 mg per infusion",
+      "doseMinima": "1000 mg per cycle",
+      "classificacao": "Antineoplastic – humanized type II anti-CD20 monoclonal antibody",
+      "apresentacao": "Vial: 1000 mg/40 mL",
+      "interacaoMedicamento": "Increased infection risk with immunosuppressants and chemotherapy",
+      "posologia": "1000 mg IV on days 1, 8, 15 of cycle 1, then every 28 days",
+      "armazenamento": "Refrigerate (2–8°C), do not freeze, protect from light",
+      "preparo": "Dilute in NS; infuse slowly with premedication (antipyretic, antihistamine, corticosteroid)",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Active severe infection, pregnancy, known hypersensitivity",
+      "cuidadosMedicos": "Monitor WBC count, liver function, signs of HBV reactivation",
+      "cuidadosFarmaceuticos": "Prepare under laminar flow hood, do not shake vial",
+      "cuidadosEnfermagem": "Monitor infusion reactions closely during first 4 hours, assess for infections",
+      "fontesBibliograficas": "FDA, NCCN, ASCO, Micromedex, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Obinutuzumab",
+      "suspension": "Suspender 30 días antes de cirugía electiva",
+      "risk": "Inmunosupresión severa, riesgo de infecciones oportunistas y cicatrización retardada",
+      "reintroduction": "Reintroducir tras recuperación inmunológica completa y cierre de heridas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Obinutuzumab",
+      "nomeComercial": "Gazyva",
+      "mecanismoAcao": "Anticuerpo monoclonal tipo II anti-CD20 que induce apoptosis directa y citotoxicidad dependiente de anticuerpos",
+      "farmacocinetica": "Vida media terminal ~28 días; metabolismo proteico; administración IV",
+      "farmacodinamica": "Depleta células B CD20+, modulando la respuesta inmune",
+      "indicacoes": "Leucemia linfocítica crónica, linfoma folicular avanzado",
+      "reacoesAdversas": "Neutropenia, fiebre, síndrome de liberación de citoquinas, reacciones a la infusión, infecciones respiratorias",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía intravenosa",
+      "doseMaxima": "1000 mg por infusión",
+      "doseMinima": "1000 mg por ciclo",
+      "classificacao": "Antineoplásico – anticuerpo monoclonal humanizado tipo II anti-CD20",
+      "apresentacao": "Frasco de 1000 mg/40 mL",
+      "interacaoMedicamento": "Aumenta el riesgo de infección con quimioterapia e inmunosupresores",
+      "posologia": "1000 mg IV los días 1, 8, 15 del ciclo 1, luego cada 28 días",
+      "armazenamento": "Refrigerar (2–8°C), no congelar, proteger de la luz",
+      "preparo": "Diluir en SF 0,9%, administrar lentamente con premedicación",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Infección activa grave, embarazo, hipersensibilidad conocida",
+      "cuidadosMedicos": "Controlar leucocitos, función hepática y reactivación de VHB",
+      "cuidadosFarmaceuticos": "Preparar bajo flujo laminar, no agitar el frasco",
+      "cuidadosEnfermagem": "Vigilar reacciones a la infusión, signos de infección",
+      "fontesBibliograficas": "ANMAT, FDA, EMA, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥比妥珠单抗",
+      "suspension": "术前30天停药",
+      "risk": "严重免疫抑制、机会性感染风险和伤口愈合延迟",
+      "reintroduction": "术后免疫恢复和伤口愈合后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥比妥珠单抗",
+      "nomeComercial": "Gazyva",
+      "mecanismoAcao": "Ⅱ型抗CD20单克隆抗体，诱导细胞凋亡和抗体依赖性细胞毒作用",
+      "farmacocinetica": "终末半衰期约28天；蛋白代谢；静脉注射",
+      "farmacodinamica": "耗竭CD20+ B细胞，用于淋巴系统疾病的免疫调节",
+      "indicacoes": "慢性淋巴细胞白血病，滤泡性淋巴瘤",
+      "reacoesAdversas": "中性粒细胞减少、发热、细胞因子释放综合征、输注反应、呼吸道感染",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期禁用，可能排泄入乳汁",
+      "administracao": "静脉输注",
+      "doseMaxima": "每次1000毫克",
+      "doseMinima": "每周期1000毫克",
+      "classificacao": "抗肿瘤药 – Ⅱ型抗CD20人源化单克隆抗体",
+      "apresentacao": "注射液，1000 mg/40 mL",
+      "interacaoMedicamento": "与免疫抑制剂和化疗合用增加感染风险",
+      "posologia": "第1周期第1、8、15天1000 mg，之后每28天一次",
+      "armazenamento": "2–8°C冷藏，避光，不可冷冻",
+      "preparo": "使用0.9%氯化钠稀释，缓慢静脉输注，需预处理",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "严重感染、妊娠、已知过敏",
+      "cuidadosMedicos": "监测白细胞、肝功能、乙肝再活化",
+      "cuidadosFarmaceuticos": "层流下配制，避免摇晃",
+      "cuidadosEnfermagem": "前4小时重点监测输注反应，警惕感染迹象",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex, NCCN"
+    }
+  }
+}

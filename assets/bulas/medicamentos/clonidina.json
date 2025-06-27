@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clonidina",
+      "suspension": "Manter até o dia da cirurgia em procedimentos de pequeno e médio porte; avaliar suspensão em cirurgias maiores com risco de hipotensão",
+      "risk": "Risco de hipotensão severa, bradicardia e síndrome de abstinência se suspensa abruptamente",
+      "reintroduction": "Reintroduzir o mais precocemente possível no pós-operatório para evitar efeitos rebote"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clonidina",
+      "nomeComercial": "Catapress, Clonil",
+      "mecanismoAcao": "Agonista dos receptores alfa-2 adrenérgicos centrais, reduz descarga simpática e resistência vascular",
+      "farmacocinetica": "Boa absorção oral, meia-vida de 12–16h, metabolização hepática parcial, excreção renal",
+      "farmacodinamica": "Reduz a frequência cardíaca e pressão arterial, possui efeito analgésico e sedativo em uso parenteral",
+      "indicacoes": "Hipertensão arterial, abstinência de opioides, adjuvante em dor crônica e anestesia",
+      "reacoesAdversas": "Sedação, boca seca, hipotensão, bradicardia, constipação",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite; evitar se possível",
+      "administracao": "Via oral, transdérmica ou intravenosa",
+      "doseMaxima": "0,6mg/dia (oral); até 5mcg/kg/h em infusão contínua",
+      "doseMinima": "0,05mg/dia",
+      "classificacao": "Agonista adrenérgico central",
+      "apresentacao": "Comprimidos 0,1mg e 0,2mg; adesivos transdérmicos; ampola IV",
+      "interacaoMedicamento": "Potencializa sedativos, anestésicos, betabloqueadores; risco de bradicardia e hipotensão severa",
+      "posologia": "0,1mg 2x/dia, podendo ser aumentada gradualmente",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Solução IV deve ser diluída em SG 5% ou SF 0,9%",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Bradicardia severa, bloqueio AV avançado, hipotensão descompensada",
+      "cuidadosMedicos": "Monitorar PA e FC continuamente em uso IV; evitar retirada abrupta",
+      "cuidadosFarmaceuticos": "Orientar sobre síndrome de abstinência e controle de pressão",
+      "cuidadosEnfermagem": "Verificar sinais vitais antes da administração",
+      "fontesBibliograficas": "Micromedex, SBH, FDA, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Clonidine",
+      "suspension": "Continue for minor/moderate surgeries; consider holding in major surgeries with hypotension risk",
+      "risk": "Abrupt withdrawal may lead to rebound hypertension, bradycardia, or hypertensive crisis",
+      "reintroduction": "Restart as soon as possible post-op to avoid withdrawal symptoms"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clonidine",
+      "nomeComercial": "Catapres, Kapvay",
+      "mecanismoAcao": "Central alpha-2 adrenergic agonist reducing sympathetic outflow and peripheral resistance",
+      "farmacocinetica": "Well absorbed orally, half-life 12–16h, partial hepatic metabolism, renal excretion",
+      "farmacodinamica": "Lowers heart rate and BP; analgesic and sedative IV effects",
+      "indicacoes": "Hypertension, opioid withdrawal, adjunct in anesthesia and pain",
+      "reacoesAdversas": "Sedation, dry mouth, bradycardia, constipation, hypotension",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; use with caution",
+      "administracao": "Oral, transdermal, IV",
+      "doseMaxima": "0.6mg/day oral; up to 5mcg/kg/h IV infusion",
+      "doseMinima": "0.05mg/day",
+      "classificacao": "Central adrenergic agonist",
+      "apresentacao": "Tablets 0.1mg, 0.2mg; transdermal patch; IV ampoule",
+      "interacaoMedicamento": "Enhances effect of sedatives, anesthetics, beta-blockers; bradycardia and hypotension risk",
+      "posologia": "Start at 0.1mg BID; titrate based on response",
+      "armazenamento": "Store at room temperature, protected from light",
+      "preparo": "IV solution diluted in D5W or NS",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Severe bradycardia, advanced AV block, decompensated hypotension",
+      "cuidadosMedicos": "Monitor BP and HR; avoid abrupt withdrawal",
+      "cuidadosFarmaceuticos": "Warn about withdrawal symptoms; ensure compliance",
+      "cuidadosEnfermagem": "Check vitals prior to administration",
+      "fontesBibliograficas": "FDA, Micromedex, AHA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clonidina",
+      "suspension": "Mantener en cirugías menores o medias; considerar suspensión en cirugías mayores con riesgo hipotensivo",
+      "risk": "Síndrome de retirada: hipertensión de rebote, bradicardia, crisis hipertensiva",
+      "reintroduction": "Reintroducir tan pronto como sea posible en el postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clonidina",
+      "nomeComercial": "Catapresan",
+      "mecanismoAcao": "Agonista de receptores alfa-2 centrales, reduce el flujo simpático",
+      "farmacocinetica": "Buena absorción oral, vida media 12–16h, metabolismo hepático parcial, eliminación renal",
+      "farmacodinamica": "Disminuye FC y TA, efectos analgésicos y sedantes por vía IV",
+      "indicacoes": "Hipertensión, abstinencia de opioides, anestesia y dolor",
+      "reacoesAdversas": "Somnolencia, boca seca, bradicardia, hipotensión, estreñimiento",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche materna; evitar si es posible",
+      "administracao": "Oral, transdérmica, intravenosa",
+      "doseMaxima": "0,6mg/día oral; hasta 5mcg/kg/h IV",
+      "doseMinima": "0,05mg/día",
+      "classificacao": "Agonista adrenérgico central",
+      "apresentacao": "Tabletas 0,1mg y 0,2mg; parches; ampollas IV",
+      "interacaoMedicamento": "Potencia efectos de sedantes, anestésicos, betabloqueantes",
+      "posologia": "Iniciar con 0,1mg 2x/día y ajustar",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Diluir solución IV en SG 5% o SF 0,9%",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Bradicardia grave, bloqueo AV avanzado, hipotensión no controlada",
+      "cuidadosMedicos": "Monitorear constantes vitales, evitar retiro brusco",
+      "cuidadosFarmaceuticos": "Advertir sobre síndrome de retirada",
+      "cuidadosEnfermagem": "Controlar signos vitales antes de administrar",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "可乐定",
+      "suspension": "小型或中型手术可继续使用；大手术中如有低血压风险考虑暂停",
+      "risk": "突然停药可能导致高血压反弹、心动过缓或危象",
+      "reintroduction": "术后尽早重新使用以避免戒断反应"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "可乐定",
+      "nomeComercial": "Catapres",
+      "mecanismoAcao": "中枢α2肾上腺素能受体激动剂，抑制交感输出",
+      "farmacocinetica": "口服吸收良好，半衰期12–16小时，部分肝代谢，经肾排泄",
+      "farmacodinamica": "降低心率和血压，静脉注射具镇痛和镇静作用",
+      "indicacoes": "高血压、阿片类戒断、术中镇静与镇痛",
+      "reacoesAdversas": "嗜睡、口干、心动过缓、低血压、便秘",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，应慎用",
+      "administracao": "口服、透皮、静脉注射",
+      "doseMaxima": "每日0.6毫克（口服）；静脉持续输注可达5微克/公斤/小时",
+      "doseMinima": "每日0.05毫克",
+      "classificacao": "中枢性肾上腺素能激动剂",
+      "apresentacao": "片剂0.1mg、0.2mg；贴片；IV安瓿",
+      "interacaoMedicamento": "增强镇静药、麻醉药、β阻滞剂作用",
+      "posologia": "起始剂量为每日0.1mg两次，逐步调整",
+      "armazenamento": "常温避光保存",
+      "preparo": "IV溶液可用5%葡萄糖或0.9%氯化钠稀释",
+      "solucoesCompatíveis": "D5W，NS",
+      "contraindicacoes": "严重心动过缓、高度房室传导阻滞、失代偿性低血压",
+      "cuidadosMedicos": "持续监测血压和心率，避免突然停药",
+      "cuidadosFarmaceuticos": "强调依从性，避免反弹性高血压",
+      "cuidadosEnfermagem": "给药前测量生命体征",
+      "fontesBibliograficas": "Micromedex、中国药典、FDA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Warfarina",
+      "suspension": "Suspender 5 dias antes da cirurgia",
+      "risk": "Alto risco de sangramento perioperatório; necessidade de ponte com heparina em casos selecionados",
+      "reintroduction": "Reintroduzir 12–24h após o procedimento, conforme risco de sangramento e status hemostático"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Warfarina sódica",
+      "nomeComercial": "Marevan, Coumadin",
+      "mecanismoAcao": "Antagonista da vitamina K, inibindo os fatores de coagulação II, VII, IX e X",
+      "farmacocinetica": "Via oral; alta biodisponibilidade; metabolizada pelo fígado (CYP2C9); excreção renal e fecal",
+      "farmacodinamica": "Anticoagulante oral de ação lenta com estreita janela terapêutica; requer controle do INR",
+      "indicacoes": "Prevenção e tratamento de trombose venosa profunda, embolia pulmonar, FA, próteses valvares",
+      "reacoesAdversas": "Sangramentos, necrose cutânea, síndrome do dedo roxo, hepatotoxicidade rara",
+      "riscoGravidez": "Categoria X — contraindicado; risco teratogênico grave",
+      "riscoLactacao": "Compatível com amamentação; monitorar o RN em uso materno prolongado",
+      "administracao": "Via oral, 1x/dia",
+      "doseMaxima": "10 mg/dia (ajustado por INR)",
+      "doseMinima": "1 mg/dia",
+      "classificacao": "Anticoagulante oral / antagonista da vitamina K",
+      "apresentacao": "Comprimidos de 1, 2, 5 mg",
+      "interacaoMedicamento": "Numerosas interações com AINES, ATB, anticonvulsivantes, álcool e alimentos ricos em vitamina K",
+      "posologia": "Dose individualizada conforme INR (meta habitual: 2,0–3,0)",
+      "armazenamento": "Temperatura ambiente; protegido da luz e umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não se aplica (oral)",
+      "contraindicacoes": "Sangramento ativo, gravidez, discrasias sanguíneas, hipertensão grave não controlada",
+      "cuidadosMedicos": "Monitorar INR regularmente; ajustar dose conforme protocolo",
+      "cuidadosFarmaceuticos": "Educar sobre interações, dieta e importância do controle laboratorial",
+      "cuidadosEnfermagem": "Observar sinais de sangramento e adesão ao tratamento",
+      "fontesBibliograficas": "ANVISA, FDA, BNF, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Warfarin",
+      "suspension": "Discontinue 5 days before surgery",
+      "risk": "High risk of perioperative bleeding; bridging with heparin may be required",
+      "reintroduction": "Restart 12–24h after procedure based on bleeding risk and hemostasis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Warfarin sodium",
+      "nomeComercial": "Coumadin, Jantoven",
+      "mecanismoAcao": "Vitamin K antagonist that inhibits clotting factors II, VII, IX, and X",
+      "farmacocinetica": "Oral; high bioavailability; metabolized by CYP2C9; excreted renally and fecally",
+      "farmacodinamica": "Slow-acting oral anticoagulant; narrow therapeutic window; INR monitoring required",
+      "indicacoes": "Treatment/prevention of DVT, PE, atrial fibrillation, mechanical heart valves",
+      "reacoesAdversas": "Bleeding, skin necrosis, purple toe syndrome, rare hepatotoxicity",
+      "riscoGravidez": "Category X — contraindicated due to teratogenicity",
+      "riscoLactacao": "Compatible with breastfeeding; monitor infant if long-term",
+      "administracao": "Oral, once daily",
+      "doseMaxima": "10 mg/day (INR-based)",
+      "doseMinima": "1 mg/day",
+      "classificacao": "Oral anticoagulant / vitamin K antagonist",
+      "apresentacao": "Tablets 1, 2, 5 mg",
+      "interacaoMedicamento": "Many interactions: NSAIDs, antibiotics, anticonvulsants, alcohol, vitamin K foods",
+      "posologia": "Individualized dose based on INR (target 2.0–3.0)",
+      "armazenamento": "Room temperature; protect from light/moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable (oral)",
+      "contraindicacoes": "Active bleeding, pregnancy, blood dyscrasias, uncontrolled hypertension",
+      "cuidadosMedicos": "Regular INR monitoring; dose adjustment per guidelines",
+      "cuidadosFarmaceuticos": "Educate on interactions, diet, and lab control",
+      "cuidadosEnfermagem": "Watch for bleeding signs and adherence",
+      "fontesBibliograficas": "FDA, BNF, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Warfarina",
+      "suspension": "Suspender 5 días antes de cirugía",
+      "risk": "Alto riesgo de sangrado perioperatorio; puede requerir puente con heparina",
+      "reintroduction": "Reintroducir 12–24h después del procedimiento según riesgo de sangrado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Warfarina sódica",
+      "nomeComercial": "Coumadin, Marevan",
+      "mecanismoAcao": "Antagonista de la vitamina K; inhibe los factores de coagulación II, VII, IX y X",
+      "farmacocinetica": "Oral; alta biodisponibilidad; metabolismo hepático (CYP2C9); excreción renal y fecal",
+      "farmacodinamica": "Anticoagulante oral de acción lenta y margen terapéutico estrecho; requiere control de INR",
+      "indicacoes": "Prevención y tratamiento de TVP, TEP, fibrilación auricular, válvulas mecánicas",
+      "reacoesAdversas": "Hemorragias, necrosis cutánea, síndrome del dedo púrpura, hepatotoxicidad rara",
+      "riscoGravidez": "Categoría X — contraindicado; teratogénico",
+      "riscoLactacao": "Compatible con lactancia; vigilar al lactante si tratamiento prolongado",
+      "administracao": "Vía oral, 1 vez/día",
+      "doseMaxima": "10 mg/día (según INR)",
+      "doseMinima": "1 mg/día",
+      "classificacao": "Anticoagulante oral / antagonista de vitamina K",
+      "apresentacao": "Comprimidos de 1, 2, 5 mg",
+      "interacaoMedicamento": "Muchas interacciones: AINEs, antibióticos, anticonvulsivos, alcohol, alimentos ricos en vitamina K",
+      "posologia": "Dosis individualizada según INR (meta: 2,0–3,0)",
+      "armazenamento": "Temperatura ambiente; proteger de luz y humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica (oral)",
+      "contraindicacoes": "Hemorragia activa, embarazo, discrasias sanguíneas, hipertensión severa no controlada",
+      "cuidadosMedicos": "Monitorizar INR con regularidad; ajustar dosis según protocolo",
+      "cuidadosFarmaceuticos": "Educar sobre interacciones, dieta e importancia del control del INR",
+      "cuidadosEnfermagem": "Observar signos de sangrado y adherencia al tratamiento",
+      "fontesBibliograficas": "ANVISA, FDA, BNF, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "华法林",
+      "suspension": "术前提前5天停药",
+      "risk": "围术期出血风险高；部分患者需桥接肝素",
+      "reintroduction": "术后12–24小时根据止血情况重新开始用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "华法林钠",
+      "nomeComercial": "Coumadin, Marevan",
+      "mecanismoAcao": "维生素K拮抗剂，抑制凝血因子II、VII、IX、X的合成",
+      "farmacocinetica": "口服吸收良好；肝脏CYP2C9代谢；肾脏和粪便排泄",
+      "farmacodinamica": "起效慢，需监测INR，治疗窗窄",
+      "indicacoes": "预防与治疗深静脉血栓、肺栓塞、房颤、机械瓣膜血栓风险",
+      "reacoesAdversas": "出血、皮肤坏死、紫趾综合征、罕见肝毒性",
+      "riscoGravidez": "X类 — 严重致畸，孕期禁用",
+      "riscoLactacao": "可用于哺乳期，但应监测婴儿",
+      "administracao": "每日口服一次",
+      "doseMaxima": "每日10毫克（按INR调整）",
+      "doseMinima": "每日1毫克",
+      "classificacao": "口服抗凝剂 / 维生素K拮抗剂",
+      "apresentacao": "片剂（1、2、5毫克）",
+      "interacaoMedicamento": "与NSAIDs、抗生素、抗癫痫药、酒精及富含维生素K食物有相互作用",
+      "posologia": "个体化剂量，根据INR维持在2.0–3.0之间",
+      "armazenamento": "室温避光防潮保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用（口服）",
+      "contraindicacoes": "活动性出血、妊娠、血液疾病、重度高血压",
+      "cuidadosMedicos": "定期监测INR，依据标准调整剂量",
+      "cuidadosFarmaceuticos": "指导饮食、药物相互作用及INR检测重要性",
+      "cuidadosEnfermagem": "观察出血体征，评估依从性",
+      "fontesBibliograficas": "FDA、ANVISA、BNF、UpToDate、Micromedex"
+    }
+  }
+}

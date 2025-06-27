@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ceritinibe",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva em pacientes com risco de toxicidade gastrointestinal ou hepática",
+      "risk": "Náusea, vômitos, diarreia, hepatotoxicidade, hiperglicemia, pneumonite intersticial, prolongamento do QT",
+      "reintroduction": "Reintroduzir após normalização de função hepática e resolução de sintomas gastrointestinais e cardíacos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ceritinibe",
+      "nomeComercial": "Zykadia",
+      "mecanismoAcao": "Inibidor de tirosina quinase do ALK (linfoma quinase anaplásico), bloqueando proliferação em tumores ALK+",
+      "farmacocinetica": "VO; absorção aumentada com alimentos; T½ ~41h; metabolismo hepático (CYP3A4); excreção fecal",
+      "farmacodinamica": "Bloqueio da via de sinalização ALK, inibindo crescimento celular e promovendo apoptose",
+      "indicacoes": "Câncer de pulmão de não pequenas células (NSCLC) ALK+ metastático, após falha com crizotinibe",
+      "reacoesAdversas": "Diarreia, náusea, vômito, aumento de TGO/TGP, hiperglicemia, bradicardia, fadiga, pneumonite",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado durante e por 2 semanas após a última dose",
+      "administracao": "VO, 450mg 1x/dia com alimentos (dose otimizada); 750mg/dia em jejum (formulação anterior)",
+      "doseMaxima": "750mg/dia (sem alimentos); 450mg/dia (com alimentos)",
+      "doseMinima": "300mg/dia",
+      "classificacao": "Inibidor de tirosina quinase do ALK (2ª geração)",
+      "apresentacao": "Comprimidos 150mg",
+      "interacaoMedicamento": "Substrato e inibidor de CYP3A4; interação com QT-prolongadores e alimentos gordurosos",
+      "posologia": "450mg VO 1x/dia com alimentos até progressão/toxicidade",
+      "armazenamento": "Temperatura ambiente (15–30°C); protegido da umidade",
+      "preparo": "Uso oral direto; não esmagar ou mastigar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, QTc >500ms, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, glicemia, enzimas hepáticas, sintomas GI",
+      "cuidadosFarmaceuticos": "Educar sobre adesão, sinais de toxicidade, evitar alimentos ricos em gordura com dose alta",
+      "cuidadosEnfermagem": "Observar diarreia, náuseas, dor abdominal, sinais respiratórios e ECG alterado",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ceritinib",
+      "suspension": "Hold 7 days prior to major surgery if GI, hepatic, or cardiac toxicity present",
+      "risk": "Nausea, vomiting, diarrhea, hepatotoxicity, QT prolongation, hyperglycemia, pneumonitis",
+      "reintroduction": "Restart after resolution of GI, hepatic, and ECG abnormalities"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ceritinib",
+      "nomeComercial": "Zykadia",
+      "mecanismoAcao": "Selective ALK inhibitor; prevents ALK phosphorylation and tumor cell proliferation",
+      "farmacocinetica": "Oral; T½ ~41h; metabolism by CYP3A4; fecal excretion",
+      "farmacodinamica": "Inhibits ALK-driven tumor signaling; cytostatic and pro-apoptotic",
+      "indicacoes": "ALK+ metastatic NSCLC (post-crizotinib or 1L therapy)",
+      "reacoesAdversas": "GI toxicity, LFT elevation, QTc prolongation, hyperglycemia, ILD/pneumonitis",
+      "riscoGravidez": "Category D – teratogenicity confirmed",
+      "riscoLactacao": "Avoid during and 2 weeks post-treatment",
+      "administracao": "450mg daily with food (optimized); 750mg fasting (original)",
+      "doseMaxima": "750mg/day (fasted); 450mg/day (with food)",
+      "doseMinima": "300mg/day",
+      "classificacao": "2nd-generation ALK inhibitor",
+      "apresentacao": "150mg tablets",
+      "interacaoMedicamento": "CYP3A4 substrate/inhibitor; QT-prolonging drugs; high-fat meals",
+      "posologia": "450mg PO daily with food until progression or toxicity",
+      "armazenamento": "Room temp 15–30°C; protect from moisture",
+      "preparo": "Do not crush; swallow whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "QTc prolongation, severe hepatic impairment, pregnancy",
+      "cuidadosMedicos": "Monitor ECG, LFTs, glucose, electrolytes, GI symptoms",
+      "cuidadosFarmaceuticos": "Warn on drug-food interactions, educate on dose schedule",
+      "cuidadosEnfermagem": "Assess for diarrhea, rash, fatigue, respiratory signs",
+      "fontesBibliograficas": "FDA label, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ceritinib",
+      "suspension": "Suspender 7 días antes de cirugía si hay toxicidad GI o hepática",
+      "risk": "Náuseas, vómitos, hepatotoxicidad, diarrea, prolongación QT, neumonitis, hiperglucemia",
+      "reintroduction": "Reiniciar tras 10–14 días y resolución de toxicidades"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ceritinib",
+      "nomeComercial": "Zykadia",
+      "mecanismoAcao": "Inhibidor selectivo de ALK, bloquea proliferación tumoral",
+      "farmacocinetica": "VO; T½ 41h; CYP3A4; excreción fecal",
+      "farmacodinamica": "Bloqueo de señalización mediada por ALK",
+      "indicacoes": "NSCLC ALK+ metastásico",
+      "reacoesAdversas": "Toxicidad digestiva, transaminasas elevadas, hiperglucemia, QT largo, neumonitis",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No usar durante ni 2 semanas después",
+      "administracao": "450mg VO con alimentos",
+      "doseMaxima": "750mg/día (ayuno); 450mg (con alimentos)",
+      "doseMinima": "300mg/día",
+      "classificacao": "ITK oral ALK 2ª generación",
+      "apresentacao": "Comprimidos 150mg",
+      "interacaoMedicamento": "CYP3A4, alimentos, QT prolongadores",
+      "posologia": "450mg/día VO con comida",
+      "armazenamento": "15–30°C, seco",
+      "preparo": "No triturar, ingerir entero",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, insuficiencia hepática severa, QT prolongado",
+      "cuidadosMedicos": "ECG, hepático, glucemia, síntomas digestivos",
+      "cuidadosFarmaceuticos": "Evitar comidas grasas y fármacos QT",
+      "cuidadosEnfermagem": "Vigilar diarrea, debilidad, síntomas pulmonares",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "色瑞替尼",
+      "suspension": "术前7天停药，术后症状缓解后再使用",
+      "risk": "胃肠道反应、肝功能损害、QT延长、间质性肺病、高血糖",
+      "reintroduction": "术后10–14天，毒性缓解后可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "色瑞替尼",
+      "nomeComercial": "Zykadia",
+      "mecanismoAcao": "口服ALK酪氨酸激酶抑制剂，抑制ALK突变驱动肿瘤",
+      "farmacocinetica": "T½约41小时；CYP3A4代谢；粪便排泄",
+      "farmacodinamica": "靶向ALK信号传导，诱导凋亡",
+      "indicacoes": "ALK阳性NSCLC转移性患者",
+      "reacoesAdversas": "恶心、呕吐、腹泻、肝酶升高、QT延长、肺炎、疲劳",
+      "riscoGravidez": "D类 – 妊娠禁用",
+      "riscoLactacao": "停药后2周内禁哺乳",
+      "administracao": "450mg每日一次，与食物同服",
+      "doseMaxima": "750mg（空腹）；450mg（随餐）",
+      "doseMinima": "300mg/d",
+      "classificacao": "口服二代ALK抑制剂",
+      "apresentacao": "150mg片剂",
+      "interacaoMedicamento": "CYP3A4抑制剂/诱导剂、食物、QT延长药物",
+      "posologia": "推荐450mg/d随餐服用",
+      "armazenamento": "常温干燥处保存",
+      "preparo": "整片服用，勿嚼碎",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肝病、妊娠、QT间期延长",
+      "cuidadosMedicos": "监测肝酶、心电图、血糖、电解质",
+      "cuidadosFarmaceuticos": "教育规律服药，避免与特定药物/食物同用",
+      "cuidadosEnfermagem": "关注腹泻、虚弱、皮疹、呼吸困难",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、NCCN"
+    }
+  }
+}

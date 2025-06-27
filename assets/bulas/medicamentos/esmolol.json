@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Esmolol",
+      "suspension": "Suspender 6 horas antes de cirurgia eletiva somente se risco de bradicardia severa ou bloqueio AV de alto grau",
+      "risk": "Pode causar hipotensão, bradicardia intensa, broncoespasmo e bloqueios cardíacos em infusão contínua ou bolus",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e com monitoramento contínuo se necessário"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Esmolol cloridrato",
+      "nomeComercial": "Brevibloc",
+      "mecanismoAcao": "Betabloqueador cardioseletivo de curta duração; bloqueia receptores β1 adrenérgicos no miocárdio",
+      "farmacocinetica": "Início: 1–2 min; meia-vida: 9 min; metabolismo plasmático por esterase",
+      "farmacodinamica": "Reduz frequência cardíaca, débito cardíaco e pressão arterial",
+      "indicacoes": "Taquicardia supraventricular, controle de resposta ventricular na fibrilação atrial, hipertensão perioperatória",
+      "reacoesAdversas": "Bradicardia, hipotensão, tontura, náusea, broncoespasmo em asmáticos, bloqueio AV",
+      "riscoGravidez": "Categoria C – usar com cautela",
+      "riscoLactacao": "Provavelmente seguro; observar lactente",
+      "administracao": "Intravenosa (bolus ou infusão contínua)",
+      "doseMaxima": "300 mcg/kg/min",
+      "doseMinima": "50 mcg/kg/min",
+      "classificacao": "Betabloqueador seletivo ultracurto",
+      "apresentacao": "Frasco 100 mg/10 mL ou 2500 mg/250 mL",
+      "interacaoMedicamento": "Potencializa efeitos de bloqueadores AV, anestésicos, e antagoniza simpatomiméticos",
+      "posologia": "Bolus: 500 mcg/kg IV; infusão: 50–200 mcg/kg/min, titulável",
+      "armazenamento": "Temperatura ambiente, usar em até 24 h após diluição",
+      "preparo": "Diluir em SF 0,9% ou SG 5%; infundir com bomba",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Bradicardia severa, bloqueio AV grau 2 ou 3 sem marcapasso, IC descompensada, broncoespasmo grave",
+      "cuidadosMedicos": "Monitorar ECG contínuo, PA, débito urinário e perfusão",
+      "cuidadosFarmaceuticos": "Preparar em seringa ou bomba, controlar compatibilidade EV",
+      "cuidadosEnfermagem": "Avaliar FC, PA, sinais de má perfusão ou bloqueio cardíaco",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, ACLS Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Esmolol",
+      "suspension": "Hold 6 h before surgery only if high-grade AV block or severe bradycardia risk",
+      "risk": "Can cause severe hypotension, bradycardia, heart block, bronchospasm",
+      "reintroduction": "Restart once hemodynamic stability is achieved"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Esmolol hydrochloride",
+      "nomeComercial": "Brevibloc",
+      "mecanismoAcao": "Cardioselective β1-blocker with ultra-short action",
+      "farmacocinetica": "Onset: 1–2 min; t½: 9 min; plasma esterases",
+      "farmacodinamica": "Reduces HR, BP, CO via β1 blockade",
+      "indicacoes": "SVT, perioperative HTN, AFib rate control",
+      "reacoesAdversas": "Bradycardia, hypotension, AV block, bronchospasm",
+      "riscoGravidez": "Category C – caution advised",
+      "riscoLactacao": "Likely safe",
+      "administracao": "IV bolus or infusion",
+      "doseMaxima": "300 mcg/kg/min",
+      "doseMinima": "50 mcg/kg/min",
+      "classificacao": "Ultra-short β1-selective blocker",
+      "apresentacao": "100 mg/10 mL; 2500 mg/250 mL",
+      "interacaoMedicamento": "Additive effects with AV blockers and anesthetics",
+      "posologia": "Bolus 500 mcg/kg IV; infusion 50–200 mcg/kg/min",
+      "armazenamento": "Room temp; use within 24 h post dilution",
+      "preparo": "Dilute in NS or D5W; use infusion pump",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Severe bradycardia, AV block (2°/3°), uncompensated HF, asthma",
+      "cuidadosMedicos": "Monitor ECG, BP, perfusion continuously",
+      "cuidadosFarmaceuticos": "Infusion preparation and compatibility monitoring",
+      "cuidadosEnfermagem": "Check HR, BP, perfusion signs",
+      "fontesBibliograficas": "FDA, ACLS, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Esmolol",
+      "suspension": "Suspender 6 h antes de cirugía sólo si hay bloqueo AV o bradicardia severa",
+      "risk": "Hipotensión severa, bradicardia, bloqueo AV, broncoespasmo",
+      "reintroduction": "Reiniciar tras estabilidad hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Esmolol",
+      "nomeComercial": "Brevibloc",
+      "mecanismoAcao": "Betabloqueante β1 selectivo de acción ultra corta",
+      "farmacocinetica": "Inicio 1–2 min; t½ 9 min; metabolismo plasmático",
+      "farmacodinamica": "Disminuye FC, PA, GC",
+      "indicacoes": "TSV, control perioperatorio, FA",
+      "reacoesAdversas": "Bradicardia, hipotensión, broncoespasmo, bloqueo AV",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Probablemente seguro",
+      "administracao": "IV en bolus o infusión",
+      "doseMaxima": "300 mcg/kg/min",
+      "doseMinima": "50 mcg/kg/min",
+      "classificacao": "β1 bloqueante cardioselectivo",
+      "apresentacao": "100 mg/10 mL; 2500 mg/250 mL",
+      "interacaoMedicamento": "Potencia bloqueadores AV y anestésicos",
+      "posologia": "Bolus 500 mcg/kg; infusión 50–200 mcg/kg/min",
+      "armazenamento": "Ambiente; usar <24 h tras dilución",
+      "preparo": "Diluir en SF o glucosa 5%",
+      "solucoesCompatíveis": "SF, SG 5%",
+      "contraindicacoes": "Bradicardia severa, bloqueo AV, IC descompensada, asma",
+      "cuidadosMedicos": "Monitor ECG, PA, perfusión",
+      "cuidadosFarmaceuticos": "Control compatibilidad y velocidad",
+      "cuidadosEnfermagem": "FC, PA, signos de perfusión",
+      "fontesBibliograficas": "EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "艾司洛尔（Esmolol）",
+      "suspension": "术前6小时停用，仅限高度房室传导阻滞或重度心动过缓",
+      "risk": "可致低血压、心动过缓、AV阻滞、哮喘加重",
+      "reintroduction": "术后血流动力学稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "艾司洛尔",
+      "nomeComercial": "Brevibloc",
+      "mecanismoAcao": "选择性β1受体阻断剂，短效",
+      "farmacocinetica": "起效1–2分钟，t½约9分钟，血浆酯酶代谢",
+      "farmacodinamica": "快速降低心率和血压",
+      "indicacoes": "室上性心动过速、术中高血压、房颤控制",
+      "reacoesAdversas": "低血压、心动过缓、AV阻滞、支气管痉挛",
+      "riscoGravidez": "C类，慎用",
+      "riscoLactacao": "大致安全",
+      "administracao": "静脉推注或持续输注",
+      "doseMaxima": "300 mcg/kg/min",
+      "doseMinima": "50 mcg/kg/min",
+      "classificacao": "超短效β1选择性阻滞剂",
+      "apresentacao": "100 mg/10 mL或2500 mg/250 mL注射液",
+      "interacaoMedicamento": "与AV阻断药、麻醉药增强抑制作用",
+      "posologia": "推注500 mcg/kg；维持50–200 mcg/kg/min",
+      "armazenamento": "常温，稀释后24小时内使用",
+      "preparo": "可用NS或5%葡萄糖稀释，用输注泵滴注",
+      "solucoesCompatíveis": "NS，葡萄糖5%",
+      "contraindicacoes": "严重心动过缓、二/三度房室阻滞、失代偿心衰、哮喘急性期",
+      "cuidadosMedicos": "持续监测ECG、血压、尿量",
+      "cuidadosFarmaceuticos": "正确配制浓度，控制速率",
+      "cuidadosEnfermagem": "观察心率、血压、灌注状态",
+      "fontesBibliograficas": "FDA、UpToDate、Micromedex、ACLS指南"
+    }
+  }
+}

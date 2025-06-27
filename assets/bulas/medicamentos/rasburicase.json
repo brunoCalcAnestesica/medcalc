@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Rasburicase",
+      "suspension": "Suspender 24 horas antes de cirurgia eletiva não hematológica",
+      "risk": "Risco de reação anafilática, hemólise (em pacientes com deficiência de G6PD), e metemoglobinemia",
+      "reintroduction": "Reintroduzir apenas após estabilização clínica e investigação de reações adversas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rasburicase",
+      "nomeComercial": "Fasturtec",
+      "mecanismoAcao": "Enzima recombinante que catalisa a conversão de ácido úrico em alantoína, mais solúvel e facilmente excretada",
+      "farmacocinetica": "Administração IV; início de ação rápido; meia-vida ~18h; metabolização proteica",
+      "farmacodinamica": "Reduz rapidamente os níveis séricos de ácido úrico, prevenindo nefropatia por lise tumoral",
+      "indicacoes": "Tratamento da hiperuricemia em pacientes com neoplasias hematológicas em risco de síndrome da lise tumoral",
+      "reacoesAdversas": "Febre, náusea, vômitos, cefaleia, reações alérgicas, hemólise, metemoglobinemia",
+      "riscoGravidez": "Categoria C – usar apenas se os benefícios superarem os riscos",
+      "riscoLactacao": "Desconhecido; evitar uso durante a amamentação",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0,2 mg/kg/dia",
+      "doseMinima": "0,15 mg/kg/dia",
+      "classificacao": "Antihiperuricêmico enzimático",
+      "apresentacao": "Pó liofilizado 1,5 mg para reconstituição IV",
+      "interacaoMedicamento": "Evitar concomitância com agentes oxidantes e quimioterápicos altamente imunogênicos",
+      "posologia": "0,2 mg/kg/dia por até 5 dias; diluir em SG 5% e infundir em 30 minutos",
+      "armazenamento": "Refrigerado (2–8 °C); não congelar",
+      "preparo": "Reconstituir com diluente específico; não agitar",
+      "solucoesCompatíveis": "SG 5%",
+      "contraindicacoes": "Deficiência de G6PD, hipersensibilidade conhecida à rasburicase",
+      "cuidadosMedicos": "Monitorar ácido úrico, função renal, sinais de hemólise/metemoglobinemia",
+      "cuidadosFarmaceuticos": "Garantir preparo asséptico e compatibilidade; evitar agitação",
+      "cuidadosEnfermagem": "Observar reações infusionais e sinais de hemólise ou cianose",
+      "fontesBibliograficas": "Micromedex, UpToDate, EMA, ANVISA, bula Fasturtec"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Rasburicase",
+      "suspension": "Hold 24 hours before elective non-hematologic surgery",
+      "risk": "Risk of anaphylaxis, hemolysis (in G6PD deficiency), and methemoglobinemia",
+      "reintroduction": "Restart only after clinical stabilization and adverse reaction workup"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rasburicase",
+      "nomeComercial": "Elitek",
+      "mecanismoAcao": "Recombinant urate oxidase that converts uric acid into allantoin",
+      "farmacocinetica": "IV use; rapid onset; t½ ~18h; proteolytic metabolism",
+      "farmacodinamica": "Lowers serum uric acid quickly, preventing tumor lysis nephropathy",
+      "indicacoes": "Hyperuricemia associated with tumor lysis syndrome in pediatric and adult cancer patients",
+      "reacoesAdversas": "Fever, nausea, vomiting, headache, allergic reactions, hemolysis, methemoglobinemia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; avoid during breastfeeding",
+      "administracao": "Intravenous",
+      "doseMaxima": "0.2 mg/kg/day",
+      "doseMinima": "0.15 mg/kg/day",
+      "classificacao": "Uricolytic agent",
+      "apresentacao": "1.5 mg lyophilized powder for reconstitution",
+      "interacaoMedicamento": "Avoid oxidizing drugs and immunogenic chemotherapeutics",
+      "posologia": "0.2 mg/kg/day for up to 5 days; infuse in 30 min diluted in D5W",
+      "armazenamento": "Store refrigerated (2–8 °C); do not freeze",
+      "preparo": "Reconstitute gently with provided diluent; do not shake",
+      "solucoesCompatíveis": "D5W",
+      "contraindicacoes": "G6PD deficiency, known hypersensitivity",
+      "cuidadosMedicos": "Monitor uric acid, renal function, hemolysis/methemoglobinemia signs",
+      "cuidadosFarmaceuticos": "Prepare aseptically; do not shake",
+      "cuidadosEnfermagem": "Watch for infusion reactions, hemolysis signs, cyanosis",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Elitek PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Rasburicase",
+      "suspension": "Suspender 24 h antes de cirugía no hematológica programada",
+      "risk": "Riesgo de anafilaxia, hemólisis (en déficit de G6PD), y metahemoglobinemia",
+      "reintroduction": "Reanudar tras estabilización y evaluación de reacciones adversas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rasburicase",
+      "nomeComercial": "Fasturtec",
+      "mecanismoAcao": "Uricasa recombinante que transforma ácido úrico en alantoína",
+      "farmacocinetica": "IV; inicio rápido; T½ ~18h; metabolismo proteico",
+      "farmacodinamica": "Reduce rápidamente el ácido úrico y previene nefropatía por lisis tumoral",
+      "indicacoes": "Hiperuricemia por síndrome de lisis tumoral en neoplasias hematológicas",
+      "reacoesAdversas": "Fiebre, náuseas, vómitos, cefalea, reacciones alérgicas, hemólisis, metahemoglobinemia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante lactancia",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0,2 mg/kg/día",
+      "doseMinima": "0,15 mg/kg/día",
+      "classificacao": "Enzimático antihiperuricémico",
+      "apresentacao": "Vial liofilizado 1,5 mg",
+      "interacaoMedicamento": "Evitar fármacos oxidantes e inmunosupresores potentes",
+      "posologia": "0,2 mg/kg/día hasta 5 días; diluir en SG 5%, infundir en 30 minutos",
+      "armazenamento": "2–8 °C, no congelar",
+      "preparo": "Reconstituir suavemente; no agitar",
+      "solucoesCompatíveis": "SG 5%",
+      "contraindicacoes": "Deficiencia G6PD, hipersensibilidad",
+      "cuidadosMedicos": "Monitorizar ácido úrico, función renal, signos de hemólisis",
+      "cuidadosFarmaceuticos": "Preparación aséptica, sin agitar",
+      "cuidadosEnfermagem": "Vigilar reacciones, signos de hemólisis, cianosis",
+      "fontesBibliograficas": "Micromedex, EMA, ficha técnica Fasturtec"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "雷布酸酶（Rasburicase）",
+      "suspension": "择期非血液科手术前24小时停药",
+      "risk": "风险包括过敏反应、G6PD缺乏引发溶血、变性高铁血红蛋白血症",
+      "reintroduction": "术后症状缓解、实验室检查正常后再使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "雷布酸酶",
+      "nomeComercial": "Fasturtec",
+      "mecanismoAcao": "重组尿酸氧化酶，催化尿酸转化为更易溶的尿囊素",
+      "farmacocinetica": "静脉注射起效快，T½约18小时，经蛋白质降解代谢",
+      "farmacodinamica": "快速降低尿酸水平，预防肿瘤溶解综合征相关肾损伤",
+      "indicacoes": "血液肿瘤患者肿瘤溶解综合征引起的高尿酸血症",
+      "reacoesAdversas": "发热、恶心、呕吐、头痛、过敏、溶血、高铁血红蛋白血症",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免使用",
+      "administracao": "静脉注射",
+      "doseMaxima": "每日0.2 mg/kg",
+      "doseMinima": "每日0.15 mg/kg",
+      "classificacao": "尿酸代谢酶制剂",
+      "apresentacao": "1.5 mg冻干粉针剂",
+      "interacaoMedicamento": "避免与氧化性药物和强免疫原性化疗药联用",
+      "posologia": "每日0.2 mg/kg，持续最多5天，稀释于5%葡萄糖，30分钟内输注完",
+      "armazenamento": "2–8 °C冷藏，不可冷冻",
+      "preparo": "用指定稀释液溶解，轻轻旋转混匀，切勿摇晃",
+      "solucoesCompatíveis": "5%葡萄糖",
+      "contraindicacoes": "G6PD缺乏、过敏史",
+      "cuidadosMedicos": "监测尿酸、肾功能、溶血和高铁血红蛋白水平",
+      "cuidadosFarmaceuticos": "严格按规操作，注意无菌及冷链",
+      "cuidadosEnfermagem": "观察注射反应、皮肤发绀、溶血体征",
+      "fontesBibliograficas": "中国药典、Micromedex、Fasturtec说明书"
+    }
+  }
+}

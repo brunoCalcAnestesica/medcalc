@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Maraviroque",
+      "suspension": "Suspender 24h antes de cirurgia eletiva se em uso isolado; manter se necessário em terapia antirretroviral combinada",
+      "risk": "Risco de hepatotoxicidade, infecções oportunistas, hipotensão postural",
+      "reintroduction": "Reintroduzir após retomada segura da terapia antirretroviral combinada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Maraviroque",
+      "nomeComercial": "Celsentri",
+      "mecanismoAcao": "Antagonista do co-receptor CCR5, impede entrada do HIV-1 em células hospedeiras",
+      "farmacocinetica": "Oral; meia-vida ~14–18h; metabolizado por CYP3A4",
+      "farmacodinamica": "Inibe a infecção de células CD4+ por cepas do HIV-1 CCR5-tropismo",
+      "indicacoes": "HIV-1 com tropismo exclusivo CCR5, em combinação com outros antirretrovirais",
+      "reacoesAdversas": "Tosse, pirexia, tontura, erupção, dor abdominal, hepatotoxicidade, hipotensão",
+      "riscoGravidez": "Categoria B – usar apenas se necessário",
+      "riscoLactacao": "Excreção desconhecida; evitar amamentação em HIV+",
+      "administracao": "Oral",
+      "doseMaxima": "300mg 2x/dia (ajustada conforme interações)",
+      "doseMinima": "150mg 2x/dia (com inibidores de CYP3A4)",
+      "classificacao": "Antagonista CCR5 (antirretroviral - inibidor de entrada)",
+      "apresentacao": "Comprimidos 150mg, 300mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores de CYP3A4, como ritonavir, cetoconazol, rifampicina",
+      "posologia": "300mg 2x/dia (ajustar se em uso com outros ARVs)",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Uso direto oral",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, co-infecção com HIV-2, uso isolado",
+      "cuidadosMedicos": "Monitorar transaminases, carga viral e pressão arterial",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão, interações e sinais de toxicidade hepática",
+      "cuidadosEnfermagem": "Observar efeitos adversos sistêmicos e sinais de intolerância",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Maraviroc",
+      "suspension": "Discontinue 24h before elective surgery if used alone; maintain if part of essential cART",
+      "risk": "Risk of hepatotoxicity, infections, postural hypotension",
+      "reintroduction": "Restart after safe reinitiation of antiretroviral therapy"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Maraviroc",
+      "nomeComercial": "Selzentry",
+      "mecanismoAcao": "CCR5 antagonist that blocks HIV-1 entry into host cells",
+      "farmacocinetica": "Oral; half-life ~14–18h; metabolized by CYP3A4",
+      "farmacodinamica": "Inhibits replication of CCR5-tropic HIV-1 in CD4+ cells",
+      "indicacoes": "CCR5-tropic HIV-1 in combination with other antiretrovirals",
+      "reacoesAdversas": "Cough, pyrexia, dizziness, rash, abdominal pain, hepatotoxicity, hypotension",
+      "riscoGravidez": "Category B – use if clearly needed",
+      "riscoLactacao": "Unknown; avoid breastfeeding in HIV+",
+      "administracao": "Oral",
+      "doseMaxima": "300mg BID (adjust for interactions)",
+      "doseMinima": "150mg BID (with strong CYP3A4 inhibitors)",
+      "classificacao": "CCR5 antagonist (HIV entry inhibitor)",
+      "apresentacao": "Tablets: 150mg, 300mg",
+      "interacaoMedicamento": "Interacts with CYP3A4 modulators: ritonavir, ketoconazole, rifampin",
+      "posologia": "300mg BID; adjust with interacting ARVs",
+      "armazenamento": "Room temperature, protect from light/moisture",
+      "preparo": "Oral use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, HIV-2, monotherapy",
+      "cuidadosMedicos": "Monitor liver enzymes, BP, viral load",
+      "cuidadosFarmaceuticos": "Counsel on adherence, interactions, hepatic symptoms",
+      "cuidadosEnfermagem": "Observe for systemic AEs and intolerance signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Maraviroc",
+      "suspension": "Suspender 24h antes de cirugía si se usa en monoterapia; mantener si forma parte de TARV esencial",
+      "risk": "Riesgo de hepatotoxicidad, infecciones, hipotensión ortostática",
+      "reintroduction": "Reanudar tras estabilización clínica y retorno seguro a TARV"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Maraviroc",
+      "nomeComercial": "Celsentri",
+      "mecanismoAcao": "Antagonista del receptor CCR5, bloquea entrada del VIH-1",
+      "farmacocinetica": "Oral; vida media ~14–18h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Inhibe replicación del VIH-1 de tropismo CCR5 en células CD4+",
+      "indicacoes": "VIH-1 CCR5+ en combinación con otros antirretrovirales",
+      "reacoesAdversas": "Tos, fiebre, mareo, erupción, dolor abdominal, hepatotoxicidad, hipotensión",
+      "riscoGravidez": "Categoría B – usar si es necesario",
+      "riscoLactacao": "Desconocido; evitar lactancia en VIH+",
+      "administracao": "Oral",
+      "doseMaxima": "300mg 2x/día (ajustado por interacciones)",
+      "doseMinima": "150mg 2x/día (con inhibidores de CYP3A4)",
+      "classificacao": "Antagonista de CCR5 (inhibidor de entrada del VIH)",
+      "apresentacao": "Comprimidos: 150mg, 300mg",
+      "interacaoMedicamento": "Interacciona con ritonavir, ketoconazol, rifampicina (CYP3A4)",
+      "posologia": "300mg 2x/día; ajustar según interacciones",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia, VIH-2, uso como monoterapia",
+      "cuidadosMedicos": "Monitorear función hepática, PA y carga viral",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia, interacciones y toxicidad hepática",
+      "cuidadosEnfermagem": "Observar efectos adversos sistémicos y tolerancia",
+      "fontesBibliograficas": "EMA, Micromedex, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "马拉韦罗克",
+      "suspension": "择期手术前24小时停药（单药）；联合抗病毒治疗中需评估后决定",
+      "risk": "可能引起肝毒性、感染、体位性低血压",
+      "reintroduction": "术后稳定后可恢复使用，并重建完整治疗方案"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "马拉韦罗克",
+      "nomeComercial": "Celsentri",
+      "mecanismoAcao": "CCR5受体拮抗剂，阻断HIV-1病毒进入CD4+细胞",
+      "farmacocinetica": "口服，半衰期14–18小时，肝脏CYP3A4代谢",
+      "farmacodinamica": "抑制CCR5-嗜性HIV-1在T细胞中复制",
+      "indicacoes": "与其他抗逆转录病毒药物联合治疗CCR5型HIV-1感染",
+      "reacoesAdversas": "咳嗽、发热、头晕、皮疹、腹痛、肝毒性、体位性低血压",
+      "riscoGravidez": "B类 – 必要时可用",
+      "riscoLactacao": "排泄情况不明，HIV感染者应避免哺乳",
+      "administracao": "口服",
+      "doseMaxima": "每日两次，每次300mg（根据药物联用情况调整）",
+      "doseMinima": "每日两次，每次150mg（与CYP3A4抑制剂联用）",
+      "classificacao": "CCR5受体拮抗剂（HIV进入抑制剂）",
+      "apresentacao": "片剂150mg、300mg",
+      "interacaoMedicamento": "与CYP3A4药物如利托那韦、酮康唑、利福平存在相互作用",
+      "posologia": "300mg每日两次，根据方案调整",
+      "armazenamento": "避光干燥处常温保存",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对药物过敏、HIV-2感染、单药使用",
+      "cuidadosMedicos": "监测转氨酶、血压、病毒载量",
+      "cuidadosFarmaceuticos": "关注用药依从性、相互作用和肝功能监测",
+      "cuidadosEnfermagem": "观察不良反应、低血压症状与耐受性",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

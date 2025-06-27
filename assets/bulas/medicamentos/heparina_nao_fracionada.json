@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Heparina não fracionada",
+      "suspension": "Suspender 4 a 6 horas antes de cirurgia eletiva ou procedimento invasivo de médio a grande porte",
+      "risk": "Risco elevado de sangramento, trombocitopenia induzida por heparina (TIH), hematomas espinhais se associada a bloqueios neuraxiais",
+      "reintroduction": "Reintroduzir após controle de sangramento e risco hemostático, geralmente 12–24 h após procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Heparina sódica",
+      "nomeComercial": "Liquemine, Hepamax-S, Heparina sódica",
+      "mecanismoAcao": "Potencializa a ação da antitrombina III, inibindo trombina (IIa) e fator Xa",
+      "farmacocinetica": "IV ou SC; início imediato IV; meia-vida 1–2 h; eliminação hepática e renal",
+      "farmacodinamica": "Anticoagulante potente de ação rápida",
+      "indicacoes": "Trombose venosa profunda, embolia pulmonar, SCA, tromboprofilaxia cirúrgica, uso em procedimentos",
+      "reacoesAdversas": "Hemorragia, TIH, osteoporose (uso prolongado), elevação de transaminases",
+      "riscoGravidez": "Categoria C – pode ser usado (não atravessa placenta)",
+      "riscoLactacao": "Seguro",
+      "administracao": "IV contínuo ou em bolus; SC para profilaxia",
+      "doseMaxima": "5.000 UI bolus IV ou 30.000–40.000 UI/dia contínuo",
+      "doseMinima": "5.000 UI SC 2–3x/dia (profilaxia)",
+      "classificacao": "Anticoagulante – heparina padrão",
+      "apresentacao": "Ampolas 5.000 UI/mL, 10.000 UI/mL, frascos de 25.000 UI/5 mL",
+      "interacaoMedicamento": "Potencializa anticoagulantes, AINEs, antiplaquetários; antagonismo com protamina",
+      "posologia": "Bolus 5.000 UI IV seguido de infusão contínua 1.000 UI/h (ajuste por TTPa)",
+      "armazenamento": "Temperatura ambiente, proteger da luz",
+      "preparo": "Diluir em SF 0,9% para infusão contínua",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Sangramento ativo, coagulopatia grave, TIH prévia, cirurgia recente do SNC",
+      "cuidadosMedicos": "Monitorar TTPa, hemoglobina, plaquetas, sinais de sangramento",
+      "cuidadosFarmaceuticos": "Verificar compatibilidade e estabilidade da solução",
+      "cuidadosEnfermagem": "Observar hematomas, sangramentos, sinais neurológicos em bloqueios",
+      "fontesBibliograficas": "SBH, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Unfractionated heparin",
+      "suspension": "Discontinue 4–6 h prior to elective surgery or major invasive procedure",
+      "risk": "High bleeding risk, HIT, spinal hematoma if neuraxial anesthesia used",
+      "reintroduction": "Restart 12–24 h post-op if hemostasis is adequate"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Heparin sodium",
+      "nomeComercial": "Heparin sodium injection",
+      "mecanismoAcao": "Enhances antithrombin III activity to inhibit thrombin (IIa) and factor Xa",
+      "farmacocinetica": "IV or SC; rapid onset IV; t½ ~1–2 h",
+      "farmacodinamica": "Fast-acting anticoagulant",
+      "indicacoes": "DVT, PE, ACS, surgical thromboprophylaxis, device flushing",
+      "reacoesAdversas": "Bleeding, HIT, osteoporosis (chronic), LFT elevations",
+      "riscoGravidez": "Category C – does not cross placenta",
+      "riscoLactacao": "Safe",
+      "administracao": "IV bolus/infusion or SC",
+      "doseMaxima": "5,000 U IV bolus; up to 40,000 U/day infusion",
+      "doseMinima": "5,000 U SC BID–TID",
+      "classificacao": "Anticoagulant – standard heparin",
+      "apresentacao": "5,000–10,000 U/mL ampoules; 25,000 U/5 mL vials",
+      "interacaoMedicamento": "Increased bleeding with anticoagulants, NSAIDs, antiplatelets",
+      "posologia": "Bolus 5,000 U IV then 1,000 U/h IV; titrate by aPTT",
+      "armazenamento": "Room temp; protect from light",
+      "preparo": "Dilute in NS for continuous infusion",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Active bleeding, HIT history, recent CNS surgery",
+      "cuidadosMedicos": "Monitor aPTT, Hb, platelets, bleeding signs",
+      "cuidadosFarmaceuticos": "Confirm compatibility and dose accuracy",
+      "cuidadosEnfermagem": "Check IV site, bruising, neuro status if neuraxial",
+      "fontesBibliograficas": "FDA, ASH, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Heparina no fraccionada",
+      "suspension": "Suspender 4–6 h antes de cirugía o procedimiento invasivo",
+      "risk": "Sangrado, TIH, hematoma medular con bloqueo neuraxial",
+      "reintroduction": "Reiniciar 12–24 h tras cirugía si hemostasia estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Heparina sódica",
+      "nomeComercial": "Heparina sódica",
+      "mecanismoAcao": "Potencia antitrombina III, inhibe IIa y Xa",
+      "farmacocinetica": "IV/SC; inicio rápido; t½ 1–2 h",
+      "farmacodinamica": "Anticoagulante rápido",
+      "indicacoes": "TVP, TEP, SCA, profilaxis quirúrgica",
+      "reacoesAdversas": "Hemorragia, TIH, osteoporosis",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Seguro",
+      "administracao": "IV o SC",
+      "doseMaxima": "40.000 UI/día",
+      "doseMinima": "5.000 UI SC 2–3x/día",
+      "classificacao": "Anticoagulante",
+      "apresentacao": "Ampollas 5.000–25.000 UI",
+      "interacaoMedicamento": "Cuidado con AINEs, antiagregantes",
+      "posologia": "5.000 UI IV bolus + infusión continua",
+      "armazenamento": "Ambiente, protegido luz",
+      "preparo": "Diluir en SF",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Sangrado activo, TIH, neurocirugía reciente",
+      "cuidadosMedicos": "TPa, hemoglobina, plaquetas",
+      "cuidadosFarmaceuticos": "Verificar compatibilidad",
+      "cuidadosEnfermagem": "Observar hematomas, signos neurológicos",
+      "fontesBibliograficas": "EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "普通肝素（Unfractionated Heparin）",
+      "suspension": "术前4–6小时停用，如需手术或穿刺",
+      "risk": "出血、HIT、椎管血肿（神经阻滞）",
+      "reintroduction": "术后12–24小时可重新使用，取决于止血状况"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "肝素钠",
+      "nomeComercial": "Heparin sodium",
+      "mecanismoAcao": "增强ATIII活性，抑制凝血酶和Xa因子",
+      "farmacocinetica": "IV或SC，半衰期1–2小时",
+      "farmacodinamica": "快速抗凝",
+      "indicacoes": "深静脉血栓、肺栓塞、ACS、术中预防",
+      "reacoesAdversas": "出血、HIT、骨质疏松",
+      "riscoGravidez": "C类，胎盘屏障不能通过",
+      "riscoLactacao": "安全",
+      "administracao": "IV或SC",
+      "doseMaxima": "每日40,000单位",
+      "doseMinima": "每日SC 5,000单位×2–3",
+      "classificacao": "抗凝剂",
+      "apresentacao": "5,000–25,000单位安瓿",
+      "interacaoMedicamento": "与抗血小板药、NSAID协同出血",
+      "posologia": "IV推注5,000单位，后1,000单位/h输注",
+      "armazenamento": "室温避光",
+      "preparo": "用0.9%氯化钠稀释",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "活动性出血、HIT、颅内术后",
+      "cuidadosMedicos": "监测aPTT、血红蛋白、血小板",
+      "cuidadosFarmaceuticos": "避免误配剂量，确认兼容性",
+      "cuidadosEnfermagem": "观察出血、瘀斑、神经改变",
+      "fontesBibliograficas": "FDA、SBH、UpToDate、Micromedex"
+    }
+  }
+}

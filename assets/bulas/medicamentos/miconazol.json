@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Miconazol",
+      "suspension": "Não requer suspensão antes de cirurgia",
+      "risk": "Risco de ardor local, prurido e irritação cutânea; baixa absorção sistêmica",
+      "reintroduction": "Pode ser reintroduzido após cicatrização da pele"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Miconazol",
+      "nomeComercial": "Daktarin, Vodol, Miconazil",
+      "mecanismoAcao": "Inibe a síntese de ergosterol fúngico, comprometendo a integridade da membrana celular",
+      "farmacocinetica": "Absorção tópica muito baixa; metabolizado hepaticamente se absorvido; excreção biliar",
+      "farmacodinamica": "Atividade fungicida e fungistática contra Candida spp., dermatófitos e leveduras",
+      "indicacoes": "Candidíase cutânea ou vaginal, Tinea pedis, Tinea corporis, Pitiríase versicolor",
+      "reacoesAdversas": "Eritema, prurido, sensação de queimação, dermatite de contato",
+      "riscoGravidez": "Categoria C (uso tópico em áreas limitadas é considerado seguro)",
+      "riscoLactacao": "Evitar aplicação em mamas durante lactação",
+      "administracao": "Tópico cutâneo ou vaginal",
+      "doseMaxima": "Aplicar 2x/dia por até 4 semanas",
+      "doseMinima": "1x/dia",
+      "classificacao": "Antifúngico imidazólico",
+      "apresentacao": "Creme, pomada, loção ou gel 2%; creme vaginal e óvulos",
+      "interacaoMedicamento": "Evitar uso concomitante com anticoagulantes orais (ex: varfarina)",
+      "posologia": "Aplicar fina camada na área afetada, 1–2x/dia, até 2 semanas após resolução",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Uso direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade conhecida ao miconazol ou outros imidazólicos",
+      "cuidadosMedicos": "Evitar oclusão e contato com mucosas, salvo se uso vaginal prescrito",
+      "cuidadosFarmaceuticos": "Educar sobre tempo mínimo de uso e uso contínuo mesmo após melhora clínica",
+      "cuidadosEnfermagem": "Observar sinais de irritação ou falha terapêutica",
+      "fontesBibliograficas": "ANVISA, EMA, Micromedex, UpToDate, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Miconazole",
+      "suspension": "No suspension needed for surgery",
+      "risk": "Irritation, redness, burning; low systemic absorption",
+      "reintroduction": "Resume after wound healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Miconazole",
+      "nomeComercial": "Micatin, Monistat, Desenex",
+      "mecanismoAcao": "Blocks ergosterol synthesis in fungal membranes",
+      "farmacocinetica": "Minimal topical absorption; hepatic metabolism",
+      "farmacodinamica": "Broad antifungal effect on dermatophytes and Candida",
+      "indicacoes": "Athlete's foot, ringworm, yeast infections",
+      "reacoesAdversas": "Burning, redness, rash",
+      "riscoGravidez": "Category C (topical)",
+      "riscoLactacao": "Avoid on breasts during nursing",
+      "administracao": "Topical (skin or vaginal)",
+      "doseMaxima": "Apply twice daily for up to 4 weeks",
+      "doseMinima": "Once daily",
+      "classificacao": "Topical imidazole antifungal",
+      "apresentacao": "2% cream, powder, spray, vaginal forms",
+      "interacaoMedicamento": "May increase warfarin effect",
+      "posologia": "Apply thin layer 1–2x/day; continue post-resolution",
+      "armazenamento": "59–86°F",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Allergy to miconazole or azoles",
+      "cuidadosMedicos": "Avoid prolonged use; do not occlude unless directed",
+      "cuidadosFarmaceuticos": "Inform on adherence and full treatment duration",
+      "cuidadosEnfermagem": "Monitor for local effects and clinical improvement",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Miconazol",
+      "suspension": "No se requiere suspensión quirúrgica",
+      "risk": "Irritación leve, ardor, eritema",
+      "reintroduction": "Reanudar tras recuperación cutánea"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Miconazol",
+      "nomeComercial": "Daktarin, Gyno-Daktarin",
+      "mecanismoAcao": "Bloquea síntesis de ergosterol; desestabiliza membrana fúngica",
+      "farmacocinetica": "Absorción tópica baja",
+      "farmacodinamica": "Fungicida frente a Candida y dermatófitos",
+      "indicacoes": "Tiña, candidiasis, pitiriasis versicolor",
+      "reacoesAdversas": "Picor, ardor, dermatitis",
+      "riscoGravidez": "Categoría C (tópico seguro)",
+      "riscoLactacao": "Evitar en senos",
+      "administracao": "Tópica o vaginal",
+      "doseMaxima": "2x/día por hasta 4 semanas",
+      "doseMinima": "1x/día",
+      "classificacao": "Antifúngico tópico imidazólico",
+      "apresentacao": "Crema, gel, óvulos 2%",
+      "interacaoMedicamento": "Potencia efecto anticoagulante",
+      "posologia": "Aplicar 1–2 veces/día, continuar 1–2 semanas tras remisión",
+      "armazenamento": "15–30°C",
+      "preparo": "Aplicación directa",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a imidazoles",
+      "cuidadosMedicos": "No ocluir, evitar uso prolongado",
+      "cuidadosFarmaceuticos": "Explicar duración mínima y uso continuo",
+      "cuidadosEnfermagem": "Vigilar evolución e irritación",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "咪康唑（外用）",
+      "suspension": "术前不需停药",
+      "risk": "轻微灼热、红斑、过敏反应",
+      "reintroduction": "术后可根据皮肤状况重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "咪康唑",
+      "nomeComercial": "Daktarin，Gyno-Daktarin",
+      "mecanismoAcao": "抑制麦角固醇合成，破坏真菌细胞膜",
+      "farmacocinetica": "经皮吸收少",
+      "farmacodinamica": "对念珠菌、皮肤癣菌有效",
+      "indicacoes": "足癣、股癣、外阴阴道霉菌感染",
+      "reacoesAdversas": "刺痛、瘙痒、皮疹",
+      "riscoGravidez": "C类；局部短期使用安全",
+      "riscoLactacao": "哺乳期避免乳房使用",
+      "administracao": "外用或阴道",
+      "doseMaxima": "每日2次，最长4周",
+      "doseMinima": "每日1次",
+      "classificacao": "局部咪唑类抗真菌药",
+      "apresentacao": "2%乳膏、凝胶、阴道栓",
+      "interacaoMedicamento": "增强华法林等抗凝药效",
+      "posologia": "每日1–2次清洁皮肤后涂抹",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对咪唑类药物过敏",
+      "cuidadosMedicos": "不推荐长期连续使用",
+      "cuidadosFarmaceuticos": "宣教规范使用与最小疗程",
+      "cuidadosEnfermagem": "监测疗效与皮肤耐受性",
+      "fontesBibliograficas": "中国药典，FDA，UpToDate，Micromedex"
+    }
+  }
+}

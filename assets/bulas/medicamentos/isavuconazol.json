@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Isavuconazol",
+      "suspension": "Suspender 5–7 dias antes de cirurgia eletiva em casos de risco hepático ou QT prolongado",
+      "risk": "Risco de hepatotoxicidade e interação com anestésicos; pode encurtar QTc",
+      "reintroduction": "Reintroduzir após normalização da função hepática e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Isavuconazol",
+      "nomeComercial": "Cresemba",
+      "mecanismoAcao": "Inibe a enzima lanosterol 14α-desmetilase, essencial na síntese de ergosterol fúngico",
+      "farmacocinetica": "Boa biodisponibilidade oral (>98%), meia-vida de 130h, metabolismo hepático via CYP3A4",
+      "farmacodinamica": "Fungicida ou fungistático dependendo da espécie e concentração; amplo espectro",
+      "indicacoes": "Aspergilose invasiva, mucormicose em pacientes adultos",
+      "reacoesAdversas": "Náusea, vômito, elevação de transaminases, hipocalemia, QT curto, cefaleia",
+      "riscoGravidez": "Categoria C – evitar uso, risco não pode ser excluído",
+      "riscoLactacao": "Desconhecido; evitar durante amamentação",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "200mg 3x/dia (dose de ataque); 200mg/dia (manutenção)",
+      "doseMinima": "200mg/dia após ataque",
+      "classificacao": "Antifúngico triazólico de amplo espectro",
+      "apresentacao": "Cápsulas de 100mg; pó para solução injetável",
+      "interacaoMedicamento": "Interage com indutores/inibidores de CYP3A4; risco com imunossupressores e QTc",
+      "posologia": "Dose de ataque: 200mg 3x/dia por 2 dias; manutenção: 200mg/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Diluir pó injetável conforme orientação de bula",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, dextrose 5%",
+      "contraindicacoes": "Hipersensibilidade, uso concomitante com rifampicina, carbamazepina, fenitoína",
+      "cuidadosMedicos": "Monitorar função hepática, eletrólitos e ECG",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão, interações e efeitos colaterais",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hepática e distúrbios eletrolíticos",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Isavuconazole",
+      "suspension": "Discontinue 5–7 days before elective surgery if hepatic or QT risks exist",
+      "risk": "Risk of hepatotoxicity and interaction with anesthetics; may shorten QTc interval",
+      "reintroduction": "Restart after liver function recovery and clinical stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Isavuconazole",
+      "nomeComercial": "Cresemba",
+      "mecanismoAcao": "Inhibits lanosterol 14α-demethylase, impairing fungal ergosterol synthesis",
+      "farmacocinetica": "High oral bioavailability (>98%), half-life ~130h, CYP3A4 metabolism",
+      "farmacodinamica": "Fungicidal or fungistatic depending on concentration/species; broad-spectrum",
+      "indicacoes": "Invasive aspergillosis, mucormycosis in adults",
+      "reacoesAdversas": "Nausea, vomiting, transaminase elevation, hypokalemia, short QT, headache",
+      "riscoGravidez": "Category C – avoid unless clearly needed",
+      "riscoLactacao": "Unknown; avoid during breastfeeding",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "200mg TID for 2 days (loading); 200mg QD (maintenance)",
+      "doseMinima": "200mg/day after loading dose",
+      "classificacao": "Triazole antifungal, broad-spectrum",
+      "apresentacao": "Capsules 100mg; injectable powder",
+      "interacaoMedicamento": "Interacts with CYP3A4 inducers/inhibitors, immunosuppressants, QT-prolonging agents",
+      "posologia": "Loading: 200mg TID x 2 days; Maintenance: 200mg daily",
+      "armazenamento": "15–30°C, protect from light",
+      "preparo": "Reconstitute and dilute injection as per label",
+      "solucoesCompatíveis": "0.9% NaCl, 5% dextrose",
+      "contraindicacoes": "Hypersensitivity, co-use with strong CYP3A4 inducers (e.g. rifampin, phenytoin)",
+      "cuidadosMedicos": "Monitor liver function, ECG, and electrolytes",
+      "cuidadosFarmaceuticos": "Counsel on adherence, drug interactions, liver risks",
+      "cuidadosEnfermagem": "Observe for liver toxicity and electrolyte imbalances",
+      "fontesBibliograficas": "FDA, Micromedex, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Isavuconazol",
+      "suspension": "Suspender 5–7 días antes de cirugía si hay riesgo hepático o de QT",
+      "risk": "Riesgo de hepatotoxicidad e interacción anestésica; puede acortar el QTc",
+      "reintroduction": "Reiniciar tras recuperación hepática y estabilidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Isavuconazol",
+      "nomeComercial": "Cresemba",
+      "mecanismoAcao": "Inhibe la lanosterol 14α-desmetilasa, alterando la síntesis de ergosterol fúngico",
+      "farmacocinetica": "Alta biodisponibilidad oral (>98%), vida media ~130h, metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Fungicida o fungistático según especie y dosis; amplio espectro",
+      "indicacoes": "Aspergilosis invasiva, mucormicosis en adultos",
+      "reacoesAdversas": "Náuseas, vómitos, aumento de transaminasas, hipocalemia, QT corto, cefalea",
+      "riscoGravidez": "Categoría C – evitar salvo necesidad médica",
+      "riscoLactacao": "Desconocido; evitar durante lactancia",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "200mg tres veces/día x2 días (carga); 200mg/día (mantenimiento)",
+      "doseMinima": "200mg/día después de la carga",
+      "classificacao": "Antifúngico triazólico de amplio espectro",
+      "apresentacao": "Cápsulas de 100mg; polvo inyectable",
+      "interacaoMedicamento": "Interacciones con inductores/inhibidores del CYP3A4, inmunosupresores, QT",
+      "posologia": "Carga: 200mg TID x2 días; mantenimiento: 200mg/día",
+      "armazenamento": "15–30°C, protegido de luz",
+      "preparo": "Reconstituir y diluir antes de uso",
+      "solucoesCompatíveis": "Cloruro de sodio 0.9%, glucosa 5%",
+      "contraindicacoes": "Hipersensibilidad, uso con rifampicina, carbamazepina, fenitoína",
+      "cuidadosMedicos": "Monitorear función hepática, ECG y electrolitos",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia y toxicidad hepática",
+      "cuidadosEnfermagem": "Vigilar signos de hepatotoxicidad y desequilibrio electrolítico",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "异阿伏康唑",
+      "suspension": "术前5–7天停药，尤其是有肝功能或QT问题者",
+      "risk": "可能引起肝毒性，与麻醉药物相互作用；可能缩短QT间期",
+      "reintroduction": "肝功能恢复、临床稳定后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "异阿伏康唑",
+      "nomeComercial": "Cresemba（克利唑）",
+      "mecanismoAcao": "抑制真菌甾醇生物合成关键酶14α-去甲基化酶",
+      "farmacocinetica": "口服生物利用度高（>98%），半衰期约130小时，经CYP3A4代谢",
+      "farmacodinamica": "广谱抗真菌，依剂量和菌种具有杀菌或抑菌作用",
+      "indicacoes": "侵袭性曲霉病、粘孢霉病（成人）",
+      "reacoesAdversas": "恶心、呕吐、转氨酶升高、低钾血症、QT间期缩短、头痛",
+      "riscoGravidez": "C类 – 孕期慎用",
+      "riscoLactacao": "是否排入乳汁未知，哺乳期避免使用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日3次200毫克，连续2天（负荷）；维持剂量每日1次200毫克",
+      "doseMinima": "每日200毫克（维持）",
+      "classificacao": "广谱三唑类抗真菌药",
+      "apresentacao": "100mg胶囊、注射用粉末",
+      "interacaoMedicamento": "与CYP3A4药物、免疫抑制剂、QT药物相互作用",
+      "posologia": "负荷：每日三次200mg×2天；维持：每日一次200mg",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "注射前需重构和稀释",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "对药物过敏、合用利福平、苯妥英、卡马西平禁忌",
+      "cuidadosMedicos": "监测肝功能、电解质及心电图",
+      "cuidadosFarmaceuticos": "确保正确服药并监测肝毒性",
+      "cuidadosEnfermagem": "关注肝毒性、低钾、QT缩短等反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

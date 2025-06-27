@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Panitumumabe",
+      "suspension": "Suspender 30 dias antes da cirurgia eletiva",
+      "risk": "Risco de toxicidade cutânea severa, má cicatrização e infecções pós-operatórias",
+      "reintroduction": "Reintroduzir apenas após cicatrização completa e resolução de infecções"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Panitumumabe",
+      "nomeComercial": "Vectibix",
+      "mecanismoAcao": "Anticorpo monoclonal totalmente humano que se liga ao receptor do fator de crescimento epidérmico (EGFR), bloqueando a sinalização celular",
+      "farmacocinetica": "Meia-vida de ~7,5 dias; metabolismo proteico; administração IV",
+      "farmacodinamica": "Inibição do crescimento celular e indução de apoptose em células tumorais EGFR+",
+      "indicacoes": "Câncer colorretal metastático RAS selvagem com expressão de EGFR",
+      "reacoesAdversas": "Rash acneiforme, hipomagnesemia, diarreia, prurido, fadiga, paroníquia",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; pode ser excretado no leite materno",
+      "administracao": "Via intravenosa",
+      "doseMaxima": "6 mg/kg a cada 14 dias",
+      "doseMinima": "6 mg/kg a cada 14 dias (dose padrão)",
+      "classificacao": "Antineoplásico – anticorpo monoclonal anti-EGFR",
+      "apresentacao": "Frascos de 100 mg/5 mL e 400 mg/20 mL",
+      "interacaoMedicamento": "Não deve ser combinado com quimioterapia baseada em oxaliplatina em tumores RAS mutado",
+      "posologia": "6 mg/kg IV a cada 14 dias como infusão lenta",
+      "armazenamento": "Refrigerado entre 2–8°C, protegido da luz",
+      "preparo": "Diluir em SF 0,9% e administrar por infusão IV lenta (60 minutos)",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade ao produto, RAS mutado",
+      "cuidadosMedicos": "Monitorar eletrólitos (Mg, Ca, K), função renal e sinais de toxicidade cutânea",
+      "cuidadosFarmaceuticos": "Preparar em ambiente estéril, não agitar o frasco, usar técnica asséptica",
+      "cuidadosEnfermagem": "Monitorar reações infusionais, alterações eletrolíticas e pele",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Panitumumab",
+      "suspension": "Discontinue 30 days before elective surgery",
+      "risk": "Risk of severe dermatologic toxicity, impaired wound healing, and postoperative infections",
+      "reintroduction": "Restart only after complete wound healing and infection resolution"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Panitumumab",
+      "nomeComercial": "Vectibix",
+      "mecanismoAcao": "Fully human monoclonal antibody targeting EGFR, blocking downstream signaling",
+      "farmacocinetica": "Half-life ~7.5 days; metabolized via proteolysis; IV administration",
+      "farmacodinamica": "Inhibits cell growth and induces apoptosis in EGFR+ tumor cells",
+      "indicacoes": "Metastatic colorectal cancer with wild-type RAS and EGFR expression",
+      "reacoesAdversas": "Acneiform rash, hypomagnesemia, diarrhea, pruritus, fatigue, paronychia",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; may be excreted in breast milk",
+      "administracao": "Intravenous route",
+      "doseMaxima": "6 mg/kg every 14 days",
+      "doseMinima": "6 mg/kg every 14 days (standard dose)",
+      "classificacao": "Antineoplastic – anti-EGFR monoclonal antibody",
+      "apresentacao": "Vials: 100 mg/5 mL and 400 mg/20 mL",
+      "interacaoMedicamento": "Should not be used with oxaliplatin-based chemo in RAS-mutant tumors",
+      "posologia": "6 mg/kg IV every 14 days via slow infusion",
+      "armazenamento": "Store refrigerated (2–8°C), protect from light",
+      "preparo": "Dilute in NS; infuse over 60 minutes",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Pregnancy, breastfeeding, hypersensitivity, RAS-mutant tumors",
+      "cuidadosMedicos": "Monitor electrolytes (Mg, Ca, K), renal function, skin toxicity",
+      "cuidadosFarmaceuticos": "Prepare aseptically, do not shake vial, handle in sterile environment",
+      "cuidadosEnfermagem": "Monitor infusion reactions, electrolyte disturbances, skin changes",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Panitumumab",
+      "suspension": "Suspender 30 días antes de cirugía electiva",
+      "risk": "Riesgo de toxicidad cutánea severa, mala cicatrización e infecciones postoperatorias",
+      "reintroduction": "Reintroducir tras cicatrización completa y resolución de infecciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Panitumumab",
+      "nomeComercial": "Vectibix",
+      "mecanismoAcao": "Anticuerpo monoclonal humano que bloquea EGFR e inhibe la señalización celular",
+      "farmacocinetica": "Vida media ~7,5 días; metabolismo proteico; vía IV",
+      "farmacodinamica": "Bloquea proliferación celular y promueve apoptosis en células EGFR+",
+      "indicacoes": "Cáncer colorrectal metastásico RAS nativo con expresión EGFR",
+      "reacoesAdversas": "Erupción acneiforme, hipomagnesemia, diarrea, prurito, fatiga, paroniquia",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado; puede excretarse en la leche",
+      "administracao": "Vía intravenosa",
+      "doseMaxima": "6 mg/kg cada 14 días",
+      "doseMinima": "6 mg/kg cada 14 días (dosis estándar)",
+      "classificacao": "Antineoplásico – anticuerpo monoclonal anti-EGFR",
+      "apresentacao": "Viales de 100 mg/5 mL y 400 mg/20 mL",
+      "interacaoMedicamento": "No combinar con oxaliplatino en tumores con RAS mutado",
+      "posologia": "6 mg/kg IV cada 14 días en infusión lenta",
+      "armazenamento": "Refrigerar (2–8°C), proteger de la luz",
+      "preparo": "Diluir en SF 0,9%, administrar lentamente durante 60 minutos",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad, RAS mutado",
+      "cuidadosMedicos": "Monitorear electrolitos, función renal y toxicidad dérmica",
+      "cuidadosFarmaceuticos": "Preparación estéril, no agitar el frasco",
+      "cuidadosEnfermagem": "Vigilar reacciones a la infusión y efectos dermatológicos",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "帕尼单抗",
+      "suspension": "术前30天停药",
+      "risk": "严重皮肤毒性、伤口愈合不良和术后感染风险",
+      "reintroduction": "术后完全愈合后方可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "帕尼单抗",
+      "nomeComercial": "Vectibix",
+      "mecanismoAcao": "全人源单克隆抗体，靶向EGFR，抑制细胞信号传导",
+      "farmacocinetica": "半衰期约7.5天；蛋白代谢；静脉注射",
+      "farmacodinamica": "抑制EGFR阳性肿瘤细胞增殖并诱导凋亡",
+      "indicacoes": "EGFR阳性且RAS野生型的转移性结直肠癌",
+      "reacoesAdversas": "痤疮样皮疹、低镁血症、腹泻、瘙痒、疲劳、甲沟炎",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用，可能排入乳汁",
+      "administracao": "静脉输注",
+      "doseMaxima": "每14天6 mg/kg",
+      "doseMinima": "每14天6 mg/kg（标准剂量）",
+      "classificacao": "抗肿瘤药 – 抗EGFR单克隆抗体",
+      "apresentacao": "注射液：100 mg/5 mL 和 400 mg/20 mL",
+      "interacaoMedicamento": "RAS突变型肿瘤禁与含奥沙利铂方案合用",
+      "posologia": "每14天输注一次，剂量6 mg/kg，静脉缓慢注射",
+      "armazenamento": "冷藏（2–8°C），避光",
+      "preparo": "用0.9%氯化钠稀释，60分钟静脉缓慢注射",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "妊娠、哺乳、RAS突变、严重过敏史",
+      "cuidadosMedicos": "监测电解质（Mg, Ca, K）、肾功能及皮肤反应",
+      "cuidadosFarmaceuticos": "无菌条件下配药，不可摇晃药瓶",
+      "cuidadosEnfermagem": "观察输注反应、电解质紊乱及皮肤毒性",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex, NCCN"
+    }
+  }
+}

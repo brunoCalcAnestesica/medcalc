@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Imunoglobulina Anti-Hepatite B",
+      "suspension": "Não suspender; usar de forma imediata em exposição ao HBV em pacientes não vacinados ou imunocomprometidos",
+      "risk": "Reações locais, febre, cefaleia, raramente anafilaxia. Pode interferir com vacinas de vírus vivos (ex: MMR, varicela)",
+      "reintroduction": "Reaplicar conforme necessidade em nova exposição ou ausência de resposta vacinal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imunoglobulina humana anti-HBs",
+      "nomeComercial": "HyperHEPB, Hepatect, Nabi-HB",
+      "mecanismoAcao": "Proporciona imunidade passiva imediata por anticorpos anti-HBs que neutralizam o vírus da hepatite B",
+      "farmacocinetica": "Meia-vida ~3 semanas; início de ação imediato; metabolismo hepático",
+      "farmacodinamica": "Protege temporariamente contra infecção pelo HBV até que a resposta vacinal ativa se desenvolva",
+      "indicacoes": "Exposição ao HBV (perinatal, sexual, acidente com sangue), profilaxia pós-exposição em não vacinados ou imunodeprimidos",
+      "reacoesAdversas": "Dor no local, febre, mialgia, náusea, cefaleia, anafilaxia (raro)",
+      "riscoGravidez": "Categoria C – uso permitido em caso de exposição com alto risco",
+      "riscoLactacao": "Compatível com amamentação",
+      "administracao": "Via intramuscular (preferencialmente glúteo ou vasto lateral)",
+      "doseMaxima": "0,06 mL/kg (recomendada para adultos); até 0,5 mL IM RN",
+      "doseMinima": "0,06 mL/kg",
+      "classificacao": "Imunoglobulina específica humana – anti-HBs",
+      "apresentacao": "Ampolas monodose de 0,5 mL ou frascos de 1 mL (150–312 UI/mL)",
+      "interacaoMedicamento": "Interfere com vacinas de vírus vivos (MMR, varicela); adiar em 3–6 semanas",
+      "posologia": "0,06 mL/kg IM dose única; no RN até 12 h após nascimento se mãe for HBsAg+",
+      "armazenamento": "2–8 °C; não congelar",
+      "preparo": "Pronto para uso; aplicar IM profundamente",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia a imunoglobulina humana, deficiência de IgA com anti-IgA",
+      "cuidadosMedicos": "Administrar o mais breve possível após exposição",
+      "cuidadosFarmaceuticos": "Manter cadeia do frio e conferir validade e lote",
+      "cuidadosEnfermagem": "Observar por 30 min pós-aplicação; não administrar na mesma seringa ou local da vacina",
+      "fontesBibliograficas": "SBIm, CDC, UpToDate, PNI, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hepatitis B Immune Globulin (HBIG)",
+      "suspension": "Do not suspend; administer immediately after exposure for non-immune individuals",
+      "risk": "Low risk; mild local/systemic effects. May interfere with live virus vaccines",
+      "reintroduction": "Repeat in future exposures if vaccine response is inadequate"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anti-HBs human immunoglobulin",
+      "nomeComercial": "HyperHEPB, Nabi-HB, HepaGam B",
+      "mecanismoAcao": "Provides passive immunity by neutralizing hepatitis B virus with anti-HBs antibodies",
+      "farmacocinetica": "T½ ~21 days; hepatic metabolism",
+      "farmacodinamica": "Short-term protection until active immunity from vaccine develops",
+      "indicacoes": "Post-exposure prophylaxis: needlestick, perinatal, sexual contact, liver transplant patients",
+      "reacoesAdversas": "Pain, fever, headache, myalgia, rare anaphylaxis",
+      "riscoGravidez": "Category C; recommended if indicated",
+      "riscoLactacao": "Safe",
+      "administracao": "Intramuscular",
+      "doseMaxima": "0.06 mL/kg IM; neonates: 0.5 mL",
+      "doseMinima": "0.06 mL/kg",
+      "classificacao": "Specific human immunoglobulin – anti-HBs",
+      "apresentacao": "Single/multidose vials (150–312 IU/mL)",
+      "interacaoMedicamento": "Delays MMR/varicella vaccines; separate by 3–6 weeks",
+      "posologia": "0.06 mL/kg IM ASAP post-exposure; neonates: ≤12 h after birth if maternal HBsAg+",
+      "armazenamento": "2–8 °C; do not freeze",
+      "preparo": "Ready to use; deep IM",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe IgA deficiency with anti-IgA antibodies",
+      "cuidadosMedicos": "Urgent use in exposures; ensure vaccine given concurrently (different site)",
+      "cuidadosFarmaceuticos": "Cold chain; label verification",
+      "cuidadosEnfermagem": "Do not mix with vaccine in same syringe or site; monitor 30 min",
+      "fontesBibliograficas": "CDC, ACIP, FDA, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Inmunoglobulina Antihepatitis B",
+      "suspension": "No suspender; se debe aplicar ante exposición sin inmunidad previa",
+      "risk": "Segura; dolor local, fiebre leve; interfiere vacunas vivas",
+      "reintroduction": "Se puede repetir en futuras exposiciones si no hay seroconversión"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Inmunoglobulina humana anti-HBs",
+      "nomeComercial": "HepaGam B, HyperHEPB",
+      "mecanismoAcao": "Proporciona anticuerpos anti-HBs que neutralizan HBV",
+      "farmacocinetica": "Inicio inmediato; duración ~3 semanas",
+      "farmacodinamica": "Protección temporal ante el virus",
+      "indicacoes": "Exposición sexual, accidentes, RN de madre HBsAg+, trasplante",
+      "reacoesAdversas": "Dolor, eritema, fiebre, mialgia",
+      "riscoGravidez": "Categoría C; recomendada si exposición",
+      "riscoLactacao": "Compatible",
+      "administracao": "IM profunda (glúteo, muslo)",
+      "doseMaxima": "0,06 mL/kg; RN: 0,5 mL",
+      "doseMinima": "0,06 mL/kg",
+      "classificacao": "Inmunoglobulina específica anti-HBs",
+      "apresentacao": "Ampollas 0,5–1 mL (150–312 UI/mL)",
+      "interacaoMedicamento": "Evitar MMR/varicela 3–6 semanas tras aplicación",
+      "posologia": "0,06 mL/kg postexposición inmediata",
+      "armazenamento": "2–8 °C; no congelar",
+      "preparo": "Listo para usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Déficit IgA con anti-IgA",
+      "cuidadosMedicos": "Aplicar antes de 7 días postexposición; RN en 12 h",
+      "cuidadosFarmaceuticos": "Cadena frío; revisar lote y fecha",
+      "cuidadosEnfermagem": "No aplicar junto a la vacuna; vigilancia 30 min",
+      "fontesBibliograficas": "OMS, CDC, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乙肝免疫球蛋白（HBIG）",
+      "suspension": "暴露后必须尽早使用，不可延误",
+      "risk": "局部疼痛、低热；可能影响麻腮风、水痘疫苗接种",
+      "reintroduction": "若再次暴露且疫苗无效，需重复注射"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "人抗乙型肝炎表面抗原IgG",
+      "nomeComercial": "HyperHEPB、HepaGam B",
+      "mecanismoAcao": "被动提供抗HBs抗体，阻断HBV感染",
+      "farmacocinetica": "作用起效快，保护约3周",
+      "farmacodinamica": "暴露后快速提供保护，辅助疫苗起效前防感染",
+      "indicacoes": "母婴传播、针刺伤、性暴露、器官移植前",
+      "reacoesAdversas": "注射部位痛、肌肉酸、罕见过敏",
+      "riscoGravidez": "C类，暴露时应注射",
+      "riscoLactacao": "哺乳期可用",
+      "administracao": "肌肉注射，臀部或大腿",
+      "doseMaxima": "0.06 mL/kg；新生儿0.5 mL",
+      "doseMinima": "按体重",
+      "classificacao": "被动免疫制剂（抗HBV）",
+      "apresentacao": "150–312 IU/mL，0.5–1 mL小瓶",
+      "interacaoMedicamento": "延迟活疫苗免疫反应，间隔4周",
+      "posologia": "暴露当日尽早注射；新生儿12小时内",
+      "armazenamento": "2–8°C冷藏，勿冷冻",
+      "preparo": "即用型",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对人免疫球蛋白严重过敏，IgA缺陷者慎用",
+      "cuidadosMedicos": "勿与疫苗混注，注射不同部位",
+      "cuidadosFarmaceuticos": "维持冷链，使用前检查批号",
+      "cuidadosEnfermagem": "注射后观察30分钟",
+      "fontesBibliograficas": "中国疾控、WHO、UpToDate、Micromedex"
+    }
+  }
+}

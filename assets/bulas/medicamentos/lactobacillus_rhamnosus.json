@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lactobacillus rhamnosus",
+      "suspension": "Suspender 24h antes de procedimentos com uso de antibióticos profiláticos ou cirurgias digestivas",
+      "risk": "Risco teórico de bacteremia em imunossuprimidos; pode causar distensão, flatulência ou diarreia em altas doses",
+      "reintroduction": "Reintroduzir após retomada da dieta oral e estabilidade do trato gastrointestinal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lactobacillus rhamnosus GG (ATCC 53103)",
+      "nomeComercial": "Reuteri, Floratil Rhamnosus, Probiatop, Culturelle",
+      "mecanismoAcao": "Coloniza transitoriamente o intestino, inibe patógenos por competição e modula imunidade local",
+      "farmacocinetica": "Sobrevive ao trânsito gastrointestinal; eliminação fecal",
+      "farmacodinamica": "Reduz duração da diarreia, modula microbiota e melhora função de barreira intestinal",
+      "indicacoes": "Diarreia infecciosa, prevenção de diarreia associada a antibióticos, cólica do lactente, gastroenterite, suporte na imunidade",
+      "reacoesAdversas": "Flatulência, distensão, diarreia leve (transitória)",
+      "riscoGravidez": "Categoria B – provavelmente seguro",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral – cápsula, sachê, gotas ou comprimido dispersível",
+      "doseMaxima": "10¹⁰ UFC/dia (em protocolos pediátricos ou infecciosos)",
+      "doseMinima": "10⁹ UFC/dia (manutenção/profilaxia)",
+      "classificacao": "Probiótico simbiótico lático",
+      "apresentacao": "Sachês, cápsulas ou gotas contendo 10⁹–10¹⁰ UFC",
+      "interacaoMedicamento": "Evitar coadministração com antibióticos (respeitar intervalo de 2h)",
+      "posologia": "1–2 vezes ao dia conforme indicação (≥10⁹ UFC)",
+      "armazenamento": "2–8°C; algumas formulações estáveis até 25°C",
+      "preparo": "Diluir em água fria, leite ou fórmula (não aquecer)",
+      "solucoesCompatíveis": "Água, leite frio, suco sem gás",
+      "contraindicacoes": "Imunossupressão grave, pacientes com acesso venoso central",
+      "cuidadosMedicos": "Avaliar risco em imunodeprimidos e pacientes graves",
+      "cuidadosFarmaceuticos": "Orientar preparo correto e intervalo com antibióticos",
+      "cuidadosEnfermagem": "Monitorar sintomas gastrointestinais e padrão fecal",
+      "fontesBibliograficas": "SBP, Medscape, EMA, Micromedex, NIH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lactobacillus rhamnosus",
+      "suspension": "Discontinue 24h prior to GI surgery or concurrent antibiotic prophylaxis",
+      "risk": "Flatulence, risk of bacteremia in immunosuppressed patients",
+      "reintroduction": "Resume when oral intake is stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lactobacillus rhamnosus GG",
+      "nomeComercial": "Culturelle, Reuteri",
+      "mecanismoAcao": "Inhibits pathogens by competition; enhances intestinal immunity",
+      "farmacocinetica": "Not absorbed; excreted via stool",
+      "farmacodinamica": "Reduces duration of diarrhea; supports gut microbiome",
+      "indicacoes": "Antibiotic-associated diarrhea, infectious diarrhea, infant colic",
+      "reacoesAdversas": "Gas, mild diarrhea, bloating",
+      "riscoGravidez": "Category B – likely safe",
+      "riscoLactacao": "Safe",
+      "administracao": "Oral – capsule, sachet, dropper",
+      "doseMaxima": "10¹⁰ CFU/day",
+      "doseMinima": "10⁹ CFU/day",
+      "classificacao": "Probiotic supplement",
+      "apresentacao": "Capsules, powders, drops (10⁹–10¹⁰ CFU)",
+      "interacaoMedicamento": "Separate from antibiotics by 2h",
+      "posologia": "1–2×/day with meals or per indication",
+      "armazenamento": "Refrigerated or <25°C depending on brand",
+      "preparo": "Mix with cold liquids only",
+      "solucoesCompatíveis": "Water, milk, non-carbonated juice",
+      "contraindicacoes": "Severe immunosuppression, central lines",
+      "cuidadosMedicos": "Avoid in critically ill or neutropenic patients",
+      "cuidadosFarmaceuticos": "Counsel on timing with antibiotics",
+      "cuidadosEnfermagem": "Observe GI response and stool consistency",
+      "fontesBibliograficas": "NIH, FDA, Micromedex, Medscape"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lactobacillus rhamnosus",
+      "suspension": "Suspender 24 h antes de cirugía digestiva o uso profiláctico de antibióticos",
+      "risk": "Flatulencia, riesgo teórico de bacteriemia en inmunosuprimidos",
+      "reintroduction": "Reanudar tras tolerancia digestiva completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lactobacillus rhamnosus GG",
+      "nomeComercial": "Culturelle, Reuteri, Lacteol",
+      "mecanismoAcao": "Coloniza intestino, compite con patógenos, mejora inmunidad intestinal",
+      "farmacocinetica": "No absorbido, eliminación fecal",
+      "farmacodinamica": "Reduce diarrea, mejora microbiota y función de barrera",
+      "indicacoes": "Diarrea infantil, antibióticos, cólicos",
+      "reacoesAdversas": "Distensión, gases, náuseas leves",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible",
+      "administracao": "Vía oral",
+      "doseMaxima": "10¹⁰ UFC/día",
+      "doseMinima": "10⁹ UFC/día",
+      "classificacao": "Probiótico intestinal",
+      "apresentacao": "Cápsulas, sobres, gotas",
+      "interacaoMedicamento": "Separar 2 h de antibióticos",
+      "posologia": "1–2 veces/día con comidas",
+      "armazenamento": "Refrigerado o ambiente seco según fabricante",
+      "preparo": "Disolver en líquido frío",
+      "solucoesCompatíveis": "Agua, leche fría, zumos",
+      "contraindicacoes": "Inmunosupresión severa",
+      "cuidadosMedicos": "Evitar en pacientes críticos",
+      "cuidadosFarmaceuticos": "Controlar administración separada",
+      "cuidadosEnfermagem": "Monitorear síntomas digestivos",
+      "fontesBibliograficas": "AEP, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "鼠李糖乳杆菌",
+      "suspension": "术前使用抗生素或消化道操作前24小时停用",
+      "risk": "免疫低下者可能导致菌血症，常见腹胀、气体",
+      "reintroduction": "术后胃肠恢复后可重启使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "鼠李糖乳杆菌GG株",
+      "nomeComercial": "Culturelle、瑞原宁",
+      "mecanismoAcao": "调节肠道菌群，抑制病原菌，增强肠道黏膜免疫",
+      "farmacocinetica": "肠道定植短暂，粪便排出",
+      "farmacodinamica": "缩短腹泻病程，预防抗生素相关性腹泻",
+      "indicacoes": "儿童腹泻、抗生素相关腹泻、乳儿绞痛",
+      "reacoesAdversas": "胀气、腹泻、轻微胃肠不适",
+      "riscoGravidez": "B类 – 安全",
+      "riscoLactacao": "可接受",
+      "administracao": "口服（胶囊、粉包、滴剂）",
+      "doseMaxima": "每日10¹⁰菌落单位",
+      "doseMinima": "每日10⁹菌落单位",
+      "classificacao": "益生菌/活性菌制剂",
+      "apresentacao": "粉剂、胶囊、滴剂",
+      "interacaoMedicamento": "应与抗生素间隔2小时",
+      "posologia": "每日1–2次，随餐服用",
+      "armazenamento": "冷藏或阴凉干燥处",
+      "preparo": "用冷水、牛奶或果汁溶解服用",
+      "solucoesCompatíveis": "水、奶、果汁",
+      "contraindicacoes": "免疫功能低下者、中心静脉导管",
+      "cuidadosMedicos": "不建议用于ICU或重症免疫缺陷者",
+      "cuidadosFarmaceuticos": "强调服用间隔和活性保存",
+      "cuidadosEnfermagem": "观察胃肠道反应、粪便改善",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape、NIH"
+    }
+  }
+}

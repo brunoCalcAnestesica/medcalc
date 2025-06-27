@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Varfarina",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva com ponte se alto risco trombótico",
+      "risk": "Risco elevado de sangramento intra e pós-operatório; necessidade de monitoramento do INR; interação com anestesia regional",
+      "reintroduction": "Reintroduzir 12–24h após cirurgia se hemostasia adequada; retomar dose habitual com monitoramento do INR"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Varfarina sódica",
+      "nomeComercial": "Marevan, Coumadin",
+      "mecanismoAcao": "Inibe a enzima epóxido redutase, bloqueando a reciclagem da vitamina K e a síntese dos fatores II, VII, IX e X",
+      "farmacocinetica": "Absorção oral completa; início de ação em 24–72h; meia-vida de 36–42h; metabolismo hepático (CYP2C9)",
+      "farmacodinamica": "Anticoagulante oral de ação lenta e prolongada; reduz formação de trombos dependentes da via extrínseca",
+      "indicacoes": "FA, TEV, próteses valvares mecânicas, SAF, prevenção secundária de AVC",
+      "reacoesAdversas": "Hemorragias, púrpura, necrose de pele, alopecia, hepatotoxicidade",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Compatível com amamentação em doses terapêuticas",
+      "administracao": "Via oral, 1 vez ao dia, preferencialmente à noite",
+      "doseMaxima": "Individualizada conforme INR",
+      "doseMinima": "1 mg/dia",
+      "classificacao": "Anticoagulante cumarínico",
+      "apresentacao": "Comprimidos de 1, 2, 5 mg",
+      "interacaoMedicamento": "Numerosas interações com antibióticos, antifúngicos, AINEs, anticonvulsivantes, fitoterápicos",
+      "posologia": "Dose inicial 2–5 mg/dia; ajuste por INR (alvo 2–3 ou 2,5–3,5)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável – forma oral sólida",
+      "contraindicacoes": "Sangramento ativo, gravidez, hipertensão grave, distúrbios hepáticos descompensados",
+      "cuidadosMedicos": "Monitorar INR, sinais de sangramento e adesão ao tratamento",
+      "cuidadosFarmaceuticos": "Orientar sobre interações alimentares e medicamentosas; reforçar importância do controle laboratorial",
+      "cuidadosEnfermagem": "Observar sinais de sangramento, hematomas, alterações neurológicas súbitas",
+      "fontesBibliograficas": "ANVISA, FDA, SBH, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Warfarin",
+      "suspension": "Discontinue 5 days before elective surgery with bridging in high thrombotic risk",
+      "risk": "High risk of perioperative bleeding; requires INR monitoring; interacts with regional anesthesia",
+      "reintroduction": "Restart 12–24h after surgery if hemostasis is secured; resume regular dose with INR monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Warfarin sodium",
+      "nomeComercial": "Coumadin, Marevan",
+      "mecanismoAcao": "Inhibits vitamin K epoxide reductase, reducing synthesis of factors II, VII, IX, X",
+      "farmacocinetica": "Complete oral absorption; onset in 24–72h; half-life 36–42h; hepatic metabolism via CYP2C9",
+      "farmacodinamica": "Slow-acting, long-acting oral anticoagulant; inhibits vitamin K-dependent coagulation",
+      "indicacoes": "AFib, VTE, mechanical heart valves, APS, secondary prevention of stroke",
+      "reacoesAdversas": "Bleeding, skin necrosis, alopecia, purple toe syndrome, liver toxicity",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Compatible with breastfeeding in therapeutic doses",
+      "administracao": "Oral, once daily, preferably in the evening",
+      "doseMaxima": "Individualized per INR target",
+      "doseMinima": "1 mg/day",
+      "classificacao": "Coumarin anticoagulant",
+      "apresentacao": "Tablets: 1 mg, 2 mg, 5 mg",
+      "interacaoMedicamento": "Numerous interactions with antibiotics, NSAIDs, anticonvulsants, herbal products",
+      "posologia": "Initial: 2–5 mg/day; adjust to INR goal (2–3 or 2.5–3.5)",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable – solid oral form",
+      "contraindicacoes": "Active bleeding, pregnancy, severe hepatic disease, uncontrolled hypertension",
+      "cuidadosMedicos": "Monitor INR, bleeding signs, and adherence",
+      "cuidadosFarmaceuticos": "Counsel on drug-food and drug-drug interactions; reinforce INR monitoring",
+      "cuidadosEnfermagem": "Observe for bleeding, bruising, or neurological changes",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Warfarina",
+      "suspension": "Suspender 5 días antes de cirugía electiva con puente si hay alto riesgo trombótico",
+      "risk": "Alto riesgo de sangrado perioperatorio; requiere control de INR; interacción con anestesia regional",
+      "reintroduction": "Reintroducir 12–24h después de cirugía si hay hemostasia adecuada; reiniciar dosis habitual con INR"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Warfarina sódica",
+      "nomeComercial": "Coumadin, Marevan",
+      "mecanismoAcao": "Inhibe epóxido reductasa de vitamina K, bloqueando factores II, VII, IX y X",
+      "farmacocinetica": "Absorción oral completa; inicio en 24–72h; vida media 36–42h; metabolismo hepático (CYP2C9)",
+      "farmacodinamica": "Anticoagulante oral de acción lenta y prolongada",
+      "indicacoes": "FA, TEV, válvulas mecánicas, SAF, prevención secundaria de ACV",
+      "reacoesAdversas": "Hemorragias, necrosis cutánea, alopecia, púrpura, hepatotoxicidad",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "Compatible con lactancia en dosis terapéuticas",
+      "administracao": "Vía oral, 1 vez/día, preferentemente por la noche",
+      "doseMaxima": "Individualizada según INR",
+      "doseMinima": "1 mg/día",
+      "classificacao": "Anticoagulante cumarínico",
+      "apresentacao": "Comprimidos de 1, 2, 5 mg",
+      "interacaoMedicamento": "Interacciones con antibióticos, antifúngicos, AINEs, antiepilépticos, fitoterápicos",
+      "posologia": "Dosis inicial: 2–5 mg/día; ajustar por INR (meta 2–3 o 2,5–3,5)",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica – forma oral sólida",
+      "contraindicacoes": "Sangrado activo, embarazo, hepatopatía grave, HTA descontrolada",
+      "cuidadosMedicos": "Controlar INR, signos de sangrado, adherencia",
+      "cuidadosFarmaceuticos": "Educar sobre interacciones alimento-fármaco y necesidad de monitoreo",
+      "cuidadosEnfermagem": "Observar sangrado, hematomas, cambios neurológicos",
+      "fontesBibliograficas": "ANVISA, FDA, SBH, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "华法林",
+      "suspension": "择期手术前5天停药，高血栓风险者应桥接抗凝",
+      "risk": "围术期出血风险高；需监测INR；与区域麻醉相互作用",
+      "reintroduction": "术后12–24小时若止血良好可恢复使用；按INR监测调整剂量"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "华法林钠",
+      "nomeComercial": "Marevan，Coumadin",
+      "mecanismoAcao": "抑制维生素K环氧还原酶，阻断凝血因子II、VII、IX、X合成",
+      "farmacocinetica": "口服吸收完全；起效24–72小时；半衰期36–42小时；肝脏代谢（CYP2C9）",
+      "farmacodinamica": "口服抗凝剂，起效慢、作用持久",
+      "indicacoes": "房颤、静脉血栓、机械瓣膜、抗磷脂综合征、中风二级预防",
+      "reacoesAdversas": "出血、皮肤坏死、脱发、肝损伤、紫癜",
+      "riscoGravidez": "X类 – 妊娠禁用",
+      "riscoLactacao": "治疗剂量下可哺乳",
+      "administracao": "口服，每日一次，建议夜间服用",
+      "doseMaxima": "依据INR个体化",
+      "doseMinima": "每日1毫克",
+      "classificacao": "香豆素类抗凝药",
+      "apresentacao": "片剂：1mg、2mg、5mg",
+      "interacaoMedicamento": "与抗生素、NSAIDs、抗癫痫药、中草药等多种药物相互作用",
+      "posologia": "初始剂量2–5mg，按INR调整（目标2–3或2.5–3.5）",
+      "armazenamento": "常温避光保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用 – 固体口服剂型",
+      "contraindicacoes": "活动性出血、妊娠、肝功能失代偿、高血压失控",
+      "cuidadosMedicos": "监测INR，出血体征，依从性",
+      "cuidadosFarmaceuticos": "强调食物和药物相互作用；强化INR随访",
+      "cuidadosEnfermagem": "观察出血、瘀斑、神经系统变化",
+      "fontesBibliograficas": "FDA、ANVISA、中国药典、Micromedex、UpToDate"
+    }
+  }
+}

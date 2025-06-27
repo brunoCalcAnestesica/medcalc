@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ciclosporina oftálmica",
+      "suspension": "Não é necessário suspender antes de cirurgias, mas considerar substituição em casos de risco infeccioso ou uso de lentes intraoculares",
+      "risk": "Risco de retardo cicatricial e potencial de infecção ocular oportunista; ausência de efeito midriático",
+      "reintroduction": "Manter ou reiniciar após avaliação oftalmológica e controle de sinais inflamatórios"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ciclosporina A",
+      "nomeComercial": "Restasis, Ikervis, Cequa, Klarity-C",
+      "mecanismoAcao": "Imunomodulador que inibe a ativação de linfócitos T, reduzindo a inflamação ocular",
+      "farmacocinetica": "Absorção tópica ocular muito baixa; níveis sistêmicos indetectáveis",
+      "farmacodinamica": "Melhora a produção lacrimal e reduz a inflamação na superfície ocular",
+      "indicacoes": "Olho seco moderado a grave, ceratoconjuntivite seca, disfunção lacrimal autoimune (ex: Síndrome de Sjögren)",
+      "reacoesAdversas": "Ardor, hiperemia conjuntival, prurido ocular, visão turva transitória",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhece-se se é excretada no leite materno; usar com cautela",
+      "administracao": "Uso oftálmico",
+      "doseMaxima": "1 gota 2 vezes ao dia por olho",
+      "doseMinima": "1 gota ao dia",
+      "classificacao": "Imunomodulador oftálmico",
+      "apresentacao": "Solução ou emulsão oftálmica 0,05% ou 0,1%",
+      "interacaoMedicamento": "Evitar uso simultâneo com colírios contendo corticosteroides sem avaliação",
+      "posologia": "Instilar 1 gota em cada olho, 2x ao dia com intervalo mínimo de 12 horas",
+      "armazenamento": "Conservar entre 15–25°C, frascos unidoses devem ser descartados após uso",
+      "preparo": "Agitar levemente se emulsão; evitar contato com extremidade do frasco",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao princípio ativo ou aos excipientes",
+      "cuidadosMedicos": "Avaliar melhora lacrimal após 3–6 meses; não usar em infecções oculares ativas",
+      "cuidadosFarmaceuticos": "Orientar uso contínuo e higiene ocular rigorosa",
+      "cuidadosEnfermagem": "Assegurar adesão e técnica correta de instilação",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Medscape, Micromedex, Bula do fabricante"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ophthalmic Cyclosporine",
+      "suspension": "No need to suspend before surgery, but consider pausing in case of infection risk or intraocular lens procedures",
+      "risk": "May delay wound healing and promote opportunistic ocular infections; no mydriatic effect",
+      "reintroduction": "Can be maintained or resumed post-op with ophthalmologic monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cyclosporine A",
+      "nomeComercial": "Restasis, Cequa, Ikervis, Klarity-C",
+      "mecanismoAcao": "Immunomodulator inhibiting T-cell activation and ocular surface inflammation",
+      "farmacocinetica": "Minimal ocular absorption; systemic exposure is negligible",
+      "farmacodinamica": "Improves tear production and reduces ocular surface inflammation",
+      "indicacoes": "Moderate to severe dry eye, keratoconjunctivitis sicca, autoimmune lacrimal dysfunction (e.g., Sjögren's)",
+      "reacoesAdversas": "Burning, conjunctival hyperemia, ocular itching, temporary blurred vision",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown if excreted in breast milk; use caution",
+      "administracao": "Ophthalmic use",
+      "doseMaxima": "1 drop twice daily per eye",
+      "doseMinima": "1 drop once daily",
+      "classificacao": "Ophthalmic immunomodulator",
+      "apresentacao": "Ophthalmic solution or emulsion 0.05% or 0.1%",
+      "interacaoMedicamento": "Avoid concomitant corticosteroid use without clinical guidance",
+      "posologia": "Instill 1 drop in each eye twice daily, spaced 12 hours apart",
+      "armazenamento": "Store at 15–25°C; discard single-use vials after opening",
+      "preparo": "Shake gently if emulsion; avoid dropper contact with eye",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity to active substance or excipients",
+      "cuidadosMedicos": "Assess tear improvement after 3–6 months; avoid in active infections",
+      "cuidadosFarmaceuticos": "Instruct on strict hygiene and consistent use",
+      "cuidadosEnfermagem": "Ensure adherence and correct instillation technique",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, Medscape, Manufacturer insert"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ciclosporina oftálmica",
+      "suspension": "No suele requerir suspensión antes de cirugía, salvo riesgo infeccioso o uso de lentes intraoculares",
+      "risk": "Puede retardar la cicatrización y facilitar infecciones oportunistas",
+      "reintroduction": "Reanudar tras cirugía si no hay signos infecciosos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ciclosporina A",
+      "nomeComercial": "Restasis, Ikervis, Cequa, Klarity-C",
+      "mecanismoAcao": "Inmunomodulador que inhibe linfocitos T y la inflamación ocular",
+      "farmacocinetica": "Absorción ocular mínima; niveles sistémicos indetectables",
+      "farmacodinamica": "Aumenta la secreción lagrimal y reduce inflamación ocular",
+      "indicacoes": "Ojo seco moderado a severo, queratoconjuntivitis seca, disfunción autoinmune lagrimal",
+      "reacoesAdversas": "Ardor, hiperemia, prurito ocular, visión borrosa transitoria",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce si se excreta en leche materna; usar con precaución",
+      "administracao": "Uso oftálmico",
+      "doseMaxima": "1 gota 2 veces al día por ojo",
+      "doseMinima": "1 gota al día",
+      "classificacao": "Inmunomodulador oftálmico",
+      "apresentacao": "Solución o emulsión oftálmica 0,05% o 0,1%",
+      "interacaoMedicamento": "Evitar corticosteroides sin evaluación médica",
+      "posologia": "Instilar 1 gota en cada ojo 2 veces al día, con 12 h de intervalo",
+      "armazenamento": "15–25°C; frascos unidosis deben desecharse tras el uso",
+      "preparo": "Agitar si es emulsión; evitar contacto del frasco con el ojo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad a la ciclosporina o excipientes",
+      "cuidadosMedicos": "Evaluar respuesta lagrimal entre 3 y 6 meses; no usar en infecciones activas",
+      "cuidadosFarmaceuticos": "Educar sobre higiene ocular y uso prolongado",
+      "cuidadosEnfermagem": "Verificar adherencia y técnica de aplicación",
+      "fontesBibliograficas": "EMA, FDA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "环孢素滴眼液",
+      "suspension": "通常无需在眼科手术前停用，若感染风险高或植入人工晶体可考虑暂停",
+      "risk": "可能延迟伤口愈合并诱发机会性感染，无扩瞳作用",
+      "reintroduction": "术后在眼科医生评估下可继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "环孢素A",
+      "nomeComercial": "Restasis，Ikervis，Cequa，Klarity-C",
+      "mecanismoAcao": "免疫调节剂，通过抑制T细胞活化缓解眼部炎症",
+      "farmacocinetica": "局部吸收极低，系统暴露可忽略",
+      "farmacodinamica": "改善泪液分泌并缓解角结膜干燥炎症",
+      "indicacoes": "中重度干眼、干燥性角结膜炎、自身免疫性泪腺功能障碍",
+      "reacoesAdversas": "烧灼感、结膜充血、瘙痒、视物模糊",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否排入乳汁尚不明确，慎用",
+      "administracao": "滴眼使用",
+      "doseMaxima": "每日2次每眼各1滴",
+      "doseMinima": "每日1次每眼1滴",
+      "classificacao": "免疫调节滴眼液",
+      "apresentacao": "滴眼液或乳剂，浓度为0.05%或0.1%",
+      "interacaoMedicamento": "避免与糖皮质激素同时使用，除非有医学评估",
+      "posologia": "每12小时滴入患眼1滴",
+      "armazenamento": "15–25°C，单剂瓶用后弃置",
+      "preparo": "乳剂使用前轻摇，避免瓶口接触眼睛",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对环孢素或辅料过敏者禁用",
+      "cuidadosMedicos": "使用3–6个月评估疗效，避免感染期使用",
+      "cuidadosFarmaceuticos": "指导患者规范使用与眼部清洁",
+      "cuidadosEnfermagem": "确保依从性与滴眼方法正确",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，Medscape"
+    }
+  }
+}

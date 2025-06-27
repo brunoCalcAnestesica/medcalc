@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Verapamil",
+      "suspension": "Suspender 24 horas antes da cirurgia",
+      "risk": "Risco de bradicardia, hipotensão e bloqueio AV durante anestesia",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Verapamil",
+      "nomeComercial": "Isoptin, Verapress, Calan",
+      "mecanismoAcao": "Bloqueia canais de cálcio tipo L, reduzindo contratilidade miocárdica e condução AV",
+      "farmacocinetica": "Via oral ou IV, meia-vida 2–8 h, metabolização hepática (CYP3A4)",
+      "farmacodinamica": "Efeito cronotrópico e inotrópico negativo, vasodilatação periférica moderada",
+      "indicacoes": "Arritmias supraventriculares, angina, hipertensão",
+      "reacoesAdversas": "Bradicardia, constipação, tontura, edema periférico",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite; usar com cautela",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "480 mg/dia (oral); 10 mg (IV)",
+      "doseMinima": "80 mg/dia",
+      "classificacao": "Bloqueador dos canais de cálcio (fenilalquilamina)",
+      "apresentacao": "Comprimidos 40, 80, 120 mg; solução injetável 2,5 mg/mL",
+      "interacaoMedicamento": "Interage com betabloqueadores, digoxina, anestésicos, inibidores de CYP3A4",
+      "posologia": "80–120 mg 3x/dia (oral); 5–10 mg IV lento para arritmias",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso IV deve ser lento, diluído em SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Bloqueio AV de 2º/3º grau, IC grave, hipotensão",
+      "cuidadosMedicos": "Monitorar ECG, PA e frequência cardíaca",
+      "cuidadosFarmaceuticos": "Evitar uso simultâneo com betabloqueadores IV",
+      "cuidadosEnfermagem": "Monitorar sinais vitais e resposta clínica",
+      "fontesBibliograficas": "ANVISA, Micromedex, BNF, UpToDate, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Verapamil",
+      "suspension": "Hold 24 hours before surgery",
+      "risk": "Risk of bradycardia, hypotension, and AV block under anesthesia",
+      "reintroduction": "Restart postoperatively once hemodynamically stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Verapamil",
+      "nomeComercial": "Calan, Verelan, Isoptin",
+      "mecanismoAcao": "L-type calcium channel blocker reducing myocardial contractility and AV conduction",
+      "farmacocinetica": "Oral or IV, half-life 2–8 h, hepatic metabolism (CYP3A4)",
+      "farmacodinamica": "Negative inotropic, chronotropic effects; mild peripheral vasodilation",
+      "indicacoes": "SVT, angina, hypertension",
+      "reacoesAdversas": "Bradycardia, constipation, dizziness, peripheral edema",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; use with caution",
+      "administracao": "Oral or IV",
+      "doseMaxima": "480 mg/day (oral); 10 mg (IV)",
+      "doseMinima": "80 mg/day",
+      "classificacao": "Calcium channel blocker (phenylalkylamine)",
+      "apresentacao": "Tablets 40, 80, 120 mg; injectable 2.5 mg/mL",
+      "interacaoMedicamento": "Interacts with beta-blockers, digoxin, anesthetics, CYP3A4 inhibitors",
+      "posologia": "80–120 mg TID (oral); 5–10 mg slow IV push for arrhythmia",
+      "armazenamento": "Room temp, protect from light",
+      "preparo": "Administer IV slowly, dilute in NS",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "2nd/3rd degree AV block, severe HF, hypotension",
+      "cuidadosMedicos": "Monitor ECG, BP, and heart rate",
+      "cuidadosFarmaceuticos": "Avoid concurrent IV beta-blockers",
+      "cuidadosEnfermagem": "Monitor vitals and clinical response",
+      "fontesBibliograficas": "FDA, BNF, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Verapamilo",
+      "suspension": "Suspender 24 horas antes de la cirugía",
+      "risk": "Riesgo de bradicardia, hipotensión y bloqueo AV bajo anestesia",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Verapamilo",
+      "nomeComercial": "Isoptin, Calan, Verelan",
+      "mecanismoAcao": "Bloqueador de canales de calcio tipo L, reduce la contractilidad miocárdica y conducción AV",
+      "farmacocinetica": "Oral o IV, vida media 2–8 h, metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Efecto inotrópico y cronotrópico negativo, vasodilatación periférica leve",
+      "indicacoes": "Arritmias supraventriculares, angina, hipertensión",
+      "reacoesAdversas": "Bradicardia, estreñimiento, mareos, edema periférico",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Excretado en leche materna; usar con precaución",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "480 mg/día (oral); 10 mg (IV)",
+      "doseMinima": "80 mg/día",
+      "classificacao": "Bloqueador de canales de calcio (fenilalquilamina)",
+      "apresentacao": "Tabletas 40, 80, 120 mg; solución inyectable 2,5 mg/mL",
+      "interacaoMedicamento": "Interacciones con betabloqueadores, digoxina, anestésicos, inhibidores CYP3A4",
+      "posologia": "80–120 mg 3 veces/día (oral); 5–10 mg IV lento para arritmias",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Administrar IV lentamente, diluido en SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Bloqueo AV de 2º/3º grado, IC grave, hipotensión",
+      "cuidadosMedicos": "Monitorizar ECG, PA y FC",
+      "cuidadosFarmaceuticos": "Evitar administración simultánea con betabloqueadores IV",
+      "cuidadosEnfermagem": "Monitorizar signos vitales y respuesta clínica",
+      "fontesBibliograficas": "AEMPS, BNF, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "维拉帕米",
+      "suspension": "术前24小时停药",
+      "risk": "麻醉中有心动过缓、低血压和房室传导阻滞风险",
+      "reintroduction": "术后血流动力学稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "维拉帕米",
+      "nomeComercial": "异搏定",
+      "mecanismoAcao": "阻断L型钙通道，降低心肌收缩力和房室传导",
+      "farmacocinetica": "口服或静脉注射，半衰期2–8小时，肝脏代谢（CYP3A4）",
+      "farmacodinamica": "负性肌力与心率效应，轻度扩张外周血管",
+      "indicacoes": "室上性心律失常、心绞痛、高血压",
+      "reacoesAdversas": "心动过缓、便秘、头晕、外周水肿",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，慎用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日480毫克（口服）；10毫克（IV）",
+      "doseMinima": "每日80毫克",
+      "classificacao": "钙通道阻滞剂（苯乙胺类）",
+      "apresentacao": "片剂40、80、120毫克；注射液2.5 mg/mL",
+      "interacaoMedicamento": "与β阻滞剂、地高辛、麻醉剂、CYP3A4抑制剂相互作用",
+      "posologia": "口服80–120毫克一日三次；静脉注射5–10毫克缓慢推注",
+      "armazenamento": "室温，避光保存",
+      "preparo": "静脉注射需稀释，缓慢推注",
+      "solucoesCompatíveis": "0.9%氯化钠注射液",
+      "contraindicacoes": "2/3度房室传导阻滞、严重心衰、低血压",
+      "cuidadosMedicos": "监测心电图、血压和心率",
+      "cuidadosFarmaceuticos": "避免与IV β阻滞剂同时使用",
+      "cuidadosEnfermagem": "观察生命体征和临床反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

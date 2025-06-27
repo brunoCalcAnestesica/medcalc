@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Exenatida",
+      "suspension": "Suspender 24 horas antes de cirurgias com jejum prolongado ou risco de náuseas",
+      "risk": "Náusea, vômito, hipoglicemia (se associado a sulfonilureias), atraso do esvaziamento gástrico",
+      "reintroduction": "Reintroduzir após retorno da dieta oral e estabilidade glicêmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Exenatida",
+      "nomeComercial": "Byetta, Bydureon",
+      "mecanismoAcao": "Agonista do receptor de GLP-1 que estimula secreção de insulina, inibe glucagon e retarda o esvaziamento gástrico",
+      "farmacocinetica": "Administração subcutânea; Byetta: T½ ~2,4 h; Bydureon (liberação prolongada): ~5 dias",
+      "farmacodinamica": "Melhora o controle glicêmico pós-prandial e promove saciedade",
+      "indicacoes": "Diabetes tipo 2 em combinação com metformina, sulfonilureia ou insulina",
+      "reacoesAdversas": "Náusea, vômito, diarreia, perda de peso, pancreatite (raro), nódulos no local da aplicação (Bydureon)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar uso durante lactação",
+      "administracao": "Subcutânea (abdômen, coxa ou braço)",
+      "doseMaxima": "Byetta: 10 mcg 2x/dia; Bydureon: 2 mg 1x/semana",
+      "doseMinima": "Byetta: 5 mcg 2x/dia",
+      "classificacao": "Agonista do receptor de GLP-1 (incretinomimético)",
+      "apresentacao": "Byetta: caneta pré-cheia; Bydureon: pó liofilizado + diluente",
+      "interacaoMedicamento": "Reduz absorção de fármacos orais (ex: contraceptivos, antibióticos)",
+      "posologia": "Byetta: 5–10 mcg 2x/dia antes das refeições; Bydureon: 2 mg SC 1x/semana",
+      "armazenamento": "Refrigerado (2–8°C); após aberto, temperatura ambiente por 30 dias",
+      "preparo": "Bydureon requer reconstituição antes da aplicação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "DM tipo 1, cetoacidose diabética, histórico de pancreatite",
+      "cuidadosMedicos": "Monitorar função renal, sintomas de pancreatite, controle glicêmico",
+      "cuidadosFarmaceuticos": "Educar sobre técnica de aplicação e sinais de hipoglicemia",
+      "cuidadosEnfermagem": "Observar reações locais, tolerância gastrointestinal e resposta glicêmica",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Exenatide",
+      "suspension": "Discontinue 24 hours before surgery with prolonged fasting",
+      "risk": "Nausea, vomiting, delayed gastric emptying, risk of hypoglycemia with insulin/sulfonylureas",
+      "reintroduction": "Restart after oral intake resumes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Exenatide",
+      "nomeComercial": "Byetta, Bydureon",
+      "mecanismoAcao": "GLP-1 receptor agonist enhancing insulin secretion, suppressing glucagon, delaying gastric emptying",
+      "farmacocinetica": "SC injection; Byetta: t½ ~2.4 h; Bydureon: ~5 days (extended-release)",
+      "farmacodinamica": "Improves postprandial glucose control and promotes satiety",
+      "indicacoes": "Type 2 diabetes in combo with metformin, sulfonylurea, or insulin",
+      "reacoesAdversas": "Nausea, diarrhea, vomiting, injection site nodules, pancreatitis (rare)",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid use while breastfeeding",
+      "administracao": "Subcutaneous (abdomen, thigh, or arm)",
+      "doseMaxima": "Byetta: 10 mcg BID; Bydureon: 2 mg QW",
+      "doseMinima": "Byetta: 5 mcg BID",
+      "classificacao": "GLP-1 receptor agonist (incretin mimetic)",
+      "apresentacao": "Byetta: prefilled pen; Bydureon: powder + diluent",
+      "interacaoMedicamento": "May affect absorption of oral meds (contraceptives, antibiotics)",
+      "posologia": "Byetta: 5–10 mcg BID before meals; Bydureon: 2 mg SC weekly",
+      "armazenamento": "Refrigerated 2–8°C; room temp for 30 days after opening",
+      "preparo": "Bydureon requires reconstitution",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Type 1 diabetes, DKA, prior pancreatitis",
+      "cuidadosMedicos": "Monitor renal function, signs of pancreatitis, glucose control",
+      "cuidadosFarmaceuticos": "Teach injection technique, hypoglycemia awareness",
+      "cuidadosEnfermagem": "Assess GI tolerance, injection site, glycemic response",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Exenatida",
+      "suspension": "Suspender 24 h antes de cirugía con ayuno prolongado",
+      "risk": "Riesgo de náusea, vómitos, retraso del vaciamiento gástrico, hipoglucemia con sulfonilureas",
+      "reintroduction": "Reintroducir tras reanudación de la vía oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Exenatida",
+      "nomeComercial": "Byetta, Bydureon",
+      "mecanismoAcao": "Agonista de GLP-1 que mejora secreción de insulina e inhibe glucagón",
+      "farmacocinetica": "Byetta: T½ ~2.4 h; Bydureon: ~5 días",
+      "farmacodinamica": "Mejora el control glucémico postprandial",
+      "indicacoes": "DM tipo 2 combinada con metformina, sulfonilurea o insulina",
+      "reacoesAdversas": "Náuseas, vómitos, diarrea, pancreatitis rara, reacción local",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar",
+      "administracao": "Subcutánea",
+      "doseMaxima": "Byetta: 10 mcg 2x/día; Bydureon: 2 mg/semana",
+      "doseMinima": "Byetta: 5 mcg 2x/día",
+      "classificacao": "Agonista del receptor GLP-1",
+      "apresentacao": "Byetta: pluma precargada; Bydureon: polvo liofilizado",
+      "interacaoMedicamento": "Disminuye absorción de fármacos orales",
+      "posologia": "Byetta: antes comidas; Bydureon: semanal",
+      "armazenamento": "2–8°C; 30 días a temperatura ambiente una vez abierto",
+      "preparo": "Bydureon requiere reconstitución",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "DM tipo 1, cetoacidosis, pancreatitis previa",
+      "cuidadosMedicos": "Control renal, síntomas GI y glucemia",
+      "cuidadosFarmaceuticos": "Enseñar técnica de inyección",
+      "cuidadosEnfermagem": "Monitorear efectos GI y control glucémico",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "艾塞那肽",
+      "suspension": "术前24小时停药，尤其空腹手术时",
+      "risk": "恶心、呕吐、胃排延迟、与胰岛素合用可致低血糖",
+      "reintroduction": "术后恢复饮食可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "艾塞那肽",
+      "nomeComercial": "Byetta、Bydureon",
+      "mecanismoAcao": "GLP-1受体激动剂，增强胰岛素分泌、延迟胃排空、降低血糖",
+      "farmacocinetica": "Byetta：半衰期2.4小时；Bydureon：持续释放，半衰期5天",
+      "farmacodinamica": "增强饱腹感，改善餐后高血糖",
+      "indicacoes": "2型糖尿病合并治疗",
+      "reacoesAdversas": "恶心、呕吐、腹泻、注射部位结节、胰腺炎（罕见）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "皮下注射（腹部、手臂、大腿）",
+      "doseMaxima": "Byetta：每日20微克；Bydureon：每周2毫克",
+      "doseMinima": "Byetta：每日10微克",
+      "classificacao": "GLP-1类似物（促胰素类药物）",
+      "apresentacao": "Byetta笔式注射器；Bydureon需重构注射",
+      "interacaoMedicamento": "影响口服药吸收",
+      "posologia": "每日或每周皮下注射",
+      "armazenamento": "冷藏（2–8°C），开启后室温可放30天",
+      "preparo": "Bydureon需摇匀重构",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "1型糖尿病、酮症酸中毒、胰腺炎史",
+      "cuidadosMedicos": "监测肾功能、胃肠反应、低血糖",
+      "cuidadosFarmaceuticos": "指导注射部位轮换与重构方法",
+      "cuidadosEnfermagem": "观察注射反应与血糖控制",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

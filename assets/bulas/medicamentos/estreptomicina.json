@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Estreptomicina",
+      "suspension": "Suspender 72 horas antes de procedimentos otológicos ou neurocirúrgicos devido ao risco de ototoxicidade",
+      "risk": "Risco de ototoxicidade irreversível, nefrotoxicidade, bloqueio neuromuscular e toxicidade vestibular",
+      "reintroduction": "Reintroduzir com cautela, com monitoramento auditivo, renal e neurológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Estreptomicina",
+      "nomeComercial": "Estreptovit, Estreptomix",
+      "mecanismoAcao": "Aminoglicosídeo que inibe a síntese proteica bacteriana pela ligação à subunidade 30S ribossomal",
+      "farmacocinetica": "Administração intramuscular; meia-vida ~2–3 h; excreção renal inalterada",
+      "farmacodinamica": "Bactericida contra bacilos Gram-negativos aeróbios e Mycobacterium tuberculosis",
+      "indicacoes": "Tuberculose (segunda linha), peste, brucelose, tularêmia",
+      "reacoesAdversas": "Ototoxicidade (colear e vestibular), nefrotoxicidade, bloqueio neuromuscular, parestesias",
+      "riscoGravidez": "Categoria D – risco fetal auditivo",
+      "riscoLactacao": "Usar com cautela; risco teórico de disbiose e toxicidade auditiva",
+      "administracao": "Intramuscular",
+      "doseMaxima": "1 g/dia (15 mg/kg/dia)",
+      "doseMinima": "500 mg/dia",
+      "classificacao": "Aminoglicosídeo antibiótico",
+      "apresentacao": "Frascos-ampola de 1 g pó para solução IM",
+      "interacaoMedicamento": "Potencializa nefrotoxicidade com vancomicina, AINEs, ciclosporina; risco aumentado com anestésicos e bloqueadores neuromusculares",
+      "posologia": "15 mg/kg IM 1x/dia ou 7,5 mg/kg 2x/dia",
+      "armazenamento": "Pó: temperatura ambiente; solução reconstituída usar em 24 h sob refrigeração",
+      "preparo": "Reconstituir com 3,5 mL de água estéril para injeção IM",
+      "solucoesCompatíveis": "Água para injeção (IM); SF 0,9% (em preparo especial EV)",
+      "contraindicacoes": "Miastenia grave, hipersensibilidade a aminoglicosídeos, disfunção auditiva pré-existente",
+      "cuidadosMedicos": "Monitorar audiometria, função renal e sinais neuromusculares",
+      "cuidadosFarmaceuticos": "Conferir reconstituição correta e estabilidade da solução",
+      "cuidadosEnfermagem": "Observar tontura, zumbido, equilíbrio e sinais de toxicidade",
+      "fontesBibliograficas": "WHO, ANVISA, UpToDate, Micromedex, ATS TB Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Streptomycin",
+      "suspension": "Discontinue 72 h before otologic or neurosurgical procedures",
+      "risk": "Irreversible ototoxicity, nephrotoxicity, neuromuscular blockade, vestibular damage",
+      "reintroduction": "Restart with monitoring of renal, auditory and neurologic function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Streptomycin",
+      "nomeComercial": "Streptomycin sulfate",
+      "mecanismoAcao": "Aminoglycoside; inhibits bacterial 30S ribosome protein synthesis",
+      "farmacocinetica": "IM; t½ ~2–3 h; renal elimination",
+      "farmacodinamica": "Bactericidal against aerobes and Mycobacterium tuberculosis",
+      "indicacoes": "TB (2nd-line), plague, tularemia, brucellosis",
+      "reacoesAdversas": "Hearing loss, vertigo, nephrotoxicity, neuromuscular block",
+      "riscoGravidez": "Category D – fetal ototoxicity",
+      "riscoLactacao": "Use with caution",
+      "administracao": "Intramuscular",
+      "doseMaxima": "1 g/day (15 mg/kg)",
+      "doseMinima": "500 mg/day",
+      "classificacao": "Aminoglycoside antibiotic",
+      "apresentacao": "1 g vial powder for IM injection",
+      "interacaoMedicamento": "Enhances toxicity with vanco, NSAIDs, cyclosporine; avoid with anesthetics and muscle blockers",
+      "posologia": "15 mg/kg IM daily or 7.5 mg/kg BID",
+      "armazenamento": "Powder: room temp; solution: use within 24 h refrigerated",
+      "preparo": "Reconstitute with 3.5 mL sterile water IM",
+      "solucoesCompatíveis": "Sterile water (IM); NS for IV (in special cases)",
+      "contraindicacoes": "Myasthenia gravis, aminoglycoside allergy, hearing loss",
+      "cuidadosMedicos": "Audiometry, renal and neuro monitoring",
+      "cuidadosFarmaceuticos": "Check dilution and stability",
+      "cuidadosEnfermagem": "Monitor vertigo, tinnitus, hearing, urine output",
+      "fontesBibliograficas": "CDC, WHO, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Estreptomicina",
+      "suspension": "Suspender 72 h antes de cirugía otológica o neurológica",
+      "risk": "Ototoxicidad irreversible, nefrotoxicidad, bloqueo neuromuscular",
+      "reintroduction": "Reiniciar con control auditivo y renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Estreptomicina",
+      "nomeComercial": "Estreptomicina sulfato",
+      "mecanismoAcao": "Aminoglucósido que inhibe subunidad 30S bacteriana",
+      "farmacocinetica": "IM, t½ ~2–3 h, excreción renal",
+      "farmacodinamica": "Bactericida contra Gram– aerobios y TB",
+      "indicacoes": "Tuberculosis, brucelosis, peste, tularemia",
+      "reacoesAdversas": "Sordera, vértigo, nefropatía, debilidad muscular",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Usar con precaución",
+      "administracao": "Intramuscular",
+      "doseMaxima": "1 g/día",
+      "doseMinima": "500 mg/día",
+      "classificacao": "Aminoglucósido antibiótico",
+      "apresentacao": "Vial 1 g polvo IM",
+      "interacaoMedicamento": "Aumenta toxicidad con vanco, AINEs, anestesia",
+      "posologia": "15 mg/kg/día IM o 7,5 mg/kg BID",
+      "armazenamento": "Ambiente (polvo); solución: 24 h en frío",
+      "preparo": "Diluir con 3,5 mL de agua estéril",
+      "solucoesCompatíveis": "Agua estéril, SF 0,9%",
+      "contraindicacoes": "MG, sordera, alergia",
+      "cuidadosMedicos": "Monitoreo auditivo, renal, neuromuscular",
+      "cuidadosFarmaceuticos": "Preparación correcta IM",
+      "cuidadosEnfermagem": "Observar vértigo, equilibrio, orina",
+      "fontesBibliograficas": "OMS, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "链霉素（Streptomycin）",
+      "suspension": "术前72小时停用，特别是耳科或神经外科手术",
+      "risk": "耳毒性（听觉/前庭）、肾毒性、神经肌阻滞",
+      "reintroduction": "术后听力及肾功能稳定后再使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "链霉素",
+      "nomeComercial": "Streptomycin",
+      "mecanismoAcao": "抑制30S核糖体，阻断细菌蛋白合成",
+      "farmacocinetica": "肌注，t½约2–3小时，经肾排泄",
+      "farmacodinamica": "广谱杀菌，对分枝杆菌有效",
+      "indicacoes": "结核病（二线）、鼠疫、布鲁菌病、兔热病",
+      "reacoesAdversas": "耳聋、眩晕、肾损害、肌无力",
+      "riscoGravidez": "D类，禁用",
+      "riscoLactacao": "慎用",
+      "administracao": "肌内注射",
+      "doseMaxima": "每日1克",
+      "doseMinima": "每日500毫克",
+      "classificacao": "氨基糖苷类抗生素",
+      "apresentacao": "1克冻干粉瓶",
+      "interacaoMedicamento": "增强肾毒/耳毒与万古霉素、NSAID、麻醉药等",
+      "posologia": "每日15 mg/kg或分2次注射",
+      "armazenamento": "干粉室温，溶液冷藏24小时",
+      "preparo": "3.5 mL注射用水溶解，IM注射",
+      "solucoesCompatíveis": "注射用水、0.9%氯化钠",
+      "contraindicacoes": "重症肌无力、听力障碍、过敏史",
+      "cuidadosMedicos": "听力测试、肾功能、电解质监测",
+      "cuidadosFarmaceuticos": "IM配药准确，稀释稳定",
+      "cuidadosEnfermagem": "观察耳鸣、头晕、尿量变化",
+      "fontesBibliograficas": "WHO、CDC、UpToDate、Micromedex、中国药典"
+    }
+  }
+}

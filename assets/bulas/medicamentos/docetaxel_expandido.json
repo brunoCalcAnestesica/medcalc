@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Docetaxel",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva; manter somente sob avaliação oncológica em neoadjuvância",
+      "risk": "Mielossupressão, reações de hipersensibilidade, retenção hídrica, mucosite, hepatotoxicidade",
+      "reintroduction": "Reintroduzir após recuperação hematológica e função hepática normalizada, geralmente após 10–14 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Docetaxel",
+      "nomeComercial": "Taxotere, Docefrez",
+      "mecanismoAcao": "Promove a polimerização da tubulina e inibe a despolimerização, interrompendo a mitose em metáfase",
+      "farmacocinetica": "Administração IV; metabolismo hepático (CYP3A4); meia-vida terminal ~11h; excreção biliar",
+      "farmacodinamica": "Citotóxico fase M; bloqueia a divisão celular e ativa apoptose",
+      "indicacoes": "Câncer de mama, pulmão não pequenas células, próstata, gástrico e cabeça/pescoço",
+      "reacoesAdversas": "Neutropenia febril, estomatite, dermatite ungueal, alopecia, diarreia, fadiga, neuropatia periférica sensorial",
+      "riscoGravidez": "Categoria D – contraindicado, exceto em situações vitais oncológicas",
+      "riscoLactacao": "Contraindicado; não se sabe se é excretado no leite humano",
+      "administracao": "Infusão IV em 1h a cada 21 dias, diluído em SF 0,9% ou SG 5%",
+      "doseMaxima": "100mg/m² a cada 3 semanas (monoterapia)",
+      "doseMinima": "60mg/m² em combinação ou ajuste por toxicidade",
+      "classificacao": "Antineoplásico; taxano semissintético",
+      "apresentacao": "Frascos de 20mg, 80mg, 160mg (solução ou pó liofilizado)",
+      "interacaoMedicamento": "Interage com inibidores/indutores do CYP3A4 (cetoconazol, rifampicina); sinergismo com capecitabina, cisplatina",
+      "posologia": "75–100mg/m² IV a cada 21 dias, isolado ou em combinações",
+      "armazenamento": "2–25°C; proteger da luz; solução diluída estável por 4h a 25°C",
+      "preparo": "Diluir sob capela de fluxo laminar com EPI; evitar contato dérmico/ocular",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Contagem de neutrófilos <1500/mm³, hipersensibilidade, disfunção hepática grave",
+      "cuidadosMedicos": "Pré-medicar com corticosteroide (ex: dexametasona); monitorar hepática, hemograma, edema",
+      "cuidadosFarmaceuticos": "Orientar tempo de infusão, risco de extravasamento e toxicidade cumulativa",
+      "cuidadosEnfermagem": "Observar edema, neuropatia, mucosite, sinais de reação alérgica e diarreia",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, UpToDate, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Docetaxel",
+      "suspension": "Hold 7 days before elective surgery; oncologic continuation requires individualized risk-benefit analysis",
+      "risk": "Neutropenia, hypersensitivity, fluid retention, hepatotoxicity, mucositis",
+      "reintroduction": "Restart after hematologic and hepatic recovery, typically 10–14 days post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Docetaxel",
+      "nomeComercial": "Taxotere, Docefrez",
+      "mecanismoAcao": "Stabilizes microtubules by promoting tubulin polymerization and preventing depolymerization",
+      "farmacocinetica": "IV; metabolized by CYP3A4; T½ ~11h; biliary excretion",
+      "farmacodinamica": "Cytotoxic in M-phase; disrupts mitosis and induces apoptosis",
+      "indicacoes": "Breast, NSCLC, prostate, gastric, head and neck cancers",
+      "reacoesAdversas": "Febrile neutropenia, stomatitis, nail changes, alopecia, diarrhea, neuropathy, fatigue",
+      "riscoGravidez": "Category D – fetal harm potential",
+      "riscoLactacao": "Avoid; unknown excretion in breast milk",
+      "administracao": "1h IV infusion q3w; dilute in NS or D5W",
+      "doseMaxima": "100mg/m² q3w (single agent)",
+      "doseMinima": "60mg/m² when combined or dose-adjusted",
+      "classificacao": "Antineoplastic agent; semisynthetic taxane",
+      "apresentacao": "Vials 20mg, 80mg, 160mg",
+      "interacaoMedicamento": "CYP3A4 interactions; enhanced toxicity with cisplatin/capecitabine",
+      "posologia": "75–100mg/m² q3w per protocol",
+      "armazenamento": "Store 2–25°C; protect from light; diluted solution stable for 4h",
+      "preparo": "Handle with PPE; dilute under cytotoxic precautions",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Neutrophil count <1500/mm³, severe hepatic dysfunction, hypersensitivity",
+      "cuidadosMedicos": "Premedicate with dexamethasone; monitor CBC, LFTs, edema",
+      "cuidadosFarmaceuticos": "Light protection, infusion timing, vesicant precautions",
+      "cuidadosEnfermagem": "Watch for edema, mucositis, diarrhea, allergic signs",
+      "fontesBibliograficas": "FDA label, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Docetaxel",
+      "suspension": "Suspender 7 días antes de cirugía; continuar solo bajo supervisión oncológica",
+      "risk": "Neutropenia, reacciones alérgicas, hepatotoxicidad, retención de líquidos, mucositis",
+      "reintroduction": "Reiniciar tras recuperación hematológica y hepática (10–14 días)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Docetaxel",
+      "nomeComercial": "Taxotere",
+      "mecanismoAcao": "Estabiliza microtúbulos al promover su polimerización y evitar la despolimerización",
+      "farmacocinetica": "IV; T½ ~11h; metabolismo hepático (CYP3A4); excreción biliar",
+      "farmacodinamica": "Antimitótico fase M; induce apoptosis celular",
+      "indicacoes": "Cáncer de mama, pulmón, próstata, gástrico, cabeza y cuello",
+      "reacoesAdversas": "Neutropenia, diarrea, alopecia, estomatitis, fatiga, neuropatía, edema",
+      "riscoGravidez": "Categoría D – contraindicado salvo urgencia oncológica",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Infusión IV en 1 hora cada 3 semanas",
+      "doseMaxima": "100mg/m²",
+      "doseMinima": "60mg/m²",
+      "classificacao": "Antineoplásico taxano",
+      "apresentacao": "Viales 20mg, 80mg, 160mg",
+      "interacaoMedicamento": "Interacción con CYP3A4; precaución con cisplatino",
+      "posologia": "75–100mg/m² cada 21 días",
+      "armazenamento": "2–25°C; proteger de la luz",
+      "preparo": "Diluir en glucosa 5% o cloruro sódico; ambiente estéril",
+      "solucoesCompatíveis": "Cloruro sódico 0,9%, glucosa 5%",
+      "contraindicacoes": "Neutropenia severa, hepatopatía, hipersensibilidad",
+      "cuidadosMedicos": "Premedicación con corticoides; controlar función hepática y hemograma",
+      "cuidadosFarmaceuticos": "Evitar extravasación; atención a la estabilidad",
+      "cuidadosEnfermagem": "Observar edema, diarrea, mucositis y parestesias",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "多西他赛",
+      "suspension": "择期手术前7天停用，术后血象与肝功能恢复后可恢复",
+      "risk": "中性粒细胞减少、过敏反应、水潴留、口腔炎、肝毒性",
+      "reintroduction": "术后10–14天，肝功能与血象恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多西他赛",
+      "nomeComercial": "泰素（Taxotere）",
+      "mecanismoAcao": "稳定微管结构，抑制微管解聚，阻断有丝分裂",
+      "farmacocinetica": "静脉输注；T½ ~11小时；肝代谢（CYP3A4）；胆汁排泄",
+      "farmacodinamica": "有丝分裂期细胞毒性；诱导凋亡",
+      "indicacoes": "乳腺癌、非小细胞肺癌、前列腺癌、胃癌、头颈癌",
+      "reacoesAdversas": "中性粒细胞减少、粘膜炎、脱发、腹泻、疲劳、神经病变",
+      "riscoGravidez": "D类 – 禁用，具致畸性",
+      "riscoLactacao": "禁用",
+      "administracao": "每3周输注一次，持续1小时",
+      "doseMaxima": "100mg/m²",
+      "doseMinima": "60mg/m²",
+      "classificacao": "紫杉烷类抗肿瘤药物",
+      "apresentacao": "注射剂20mg、80mg、160mg",
+      "interacaoMedicamento": "与CYP3A4抑制剂/诱导剂互作，联合铂类增强毒性",
+      "posologia": "每21天一次，剂量依体表面积调整",
+      "armazenamento": "避光，2–25°C保存，稀释液4小时内使用",
+      "preparo": "在无菌条件下配制；使用防护装备",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "中性粒细胞<1500/mm³、严重肝病、过敏史",
+      "cuidadosMedicos": "预处理地塞米松，监测肝功能、血象、液体潴留",
+      "cuidadosFarmaceuticos": "注意光照、稀释时间与外渗风险",
+      "cuidadosEnfermagem": "观察注射反应、水肿、口腔炎、麻木",
+      "fontesBibliograficas": "中国药典、Micromedex、NCCN、FDA"
+    }
+  }
+}

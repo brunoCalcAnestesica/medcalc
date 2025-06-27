@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Haloperidol",
+      "suspension": "Suspender 24h antes de cirurgia com anestesia geral ou risco QT prolongado",
+      "risk": "Prolongamento de QT, arritmias, síndrome neuroléptica maligna, rigidez, sedação, hipotensão, sintomas extrapiramidais",
+      "reintroduction": "Reintroduzir após 24–48h, com estabilidade cardiovascular e neurológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Haloperidol",
+      "nomeComercial": "Haldol",
+      "mecanismoAcao": "Antagonista potente dos receptores dopaminérgicos D2; bloqueia via mesolímbica e nigroestriatal",
+      "farmacocinetica": "VO, IM ou EV; T½ ~14–37h; metabolização hepática (CYP3A4/2D6); excreção renal/fecal",
+      "farmacodinamica": "Efeito antipsicótico, antiagitação e antiemético central",
+      "indicacoes": "Esquizofrenia, agitação psicomotora, delirium, hipoatividade, náuseas/vômitos refratários (off-label)",
+      "reacoesAdversas": "Distonia, parkinsonismo, acatisia, sedação, prolongamento QT, convulsão, constipação, boca seca",
+      "riscoGravidez": "Categoria C – usar apenas se necessário",
+      "riscoLactacao": "Evitar se possível",
+      "administracao": "VO, IM, IV (uso hospitalar); dose ajustada conforme via",
+      "doseMaxima": "20mg/dia VO; IM até 10mg/dose aguda; decanoato: até 300mg/mês",
+      "doseMinima": "0,5–1mg/dia (idosos)",
+      "classificacao": "Antipsicótico típico (butirofenona)",
+      "apresentacao": "Comprimidos 0,5mg, 1mg, 5mg, 10mg; solução oral 2mg/ml; solução injetável 5mg/ml",
+      "interacaoMedicamento": "QT-prolongadores, depressores do SNC, anticolinérgicos, levodopa, CYP3A4 inibidores",
+      "posologia": "VO: 1–15mg/dia; IM: 2–10mg/dose; decanoato: 50–300mg IM mensal",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso direto conforme forma farmacêutica",
+      "solucoesCompatíveis": "SF 0,9% para IV/IM",
+      "contraindicacoes": "Doença de Parkinson, coma, depressão grave do SNC, QT longo",
+      "cuidadosMedicos": "Monitorar ECG, estado extrapiramidal, PA, interações",
+      "cuidadosFarmaceuticos": "Avaliar duplicidade terapêutica e dose em idosos",
+      "cuidadosEnfermagem": "Observar agitação, rigidez, sedação, sinais extrapiramidais",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Haloperidol",
+      "suspension": "Hold 24h before surgery involving general anesthesia or QT-prolonging agents",
+      "risk": "QT prolongation, extrapyramidal symptoms, neuroleptic malignant syndrome, sedation, orthostatic hypotension",
+      "reintroduction": "Restart when cardiovascular and neurologic status is stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Haloperidol",
+      "nomeComercial": "Haldol",
+      "mecanismoAcao": "Potent D2 receptor antagonist in mesolimbic and nigrostriatal pathways",
+      "farmacocinetica": "Oral, IM, IV; T½ ~14–37h; hepatic metabolism (CYP3A4/2D6); renal/fecal excretion",
+      "farmacodinamica": "Antipsychotic, sedative, antiemetic effects",
+      "indicacoes": "Schizophrenia, delirium, acute agitation, Tourette’s, nausea (off-label)",
+      "reacoesAdversas": "Dystonia, EPS, QT prolongation, hypotension, NMS, sedation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid if possible",
+      "administracao": "Oral, IM, IV (hospital); decanoate for depot use",
+      "doseMaxima": "20mg/day PO; 10mg/dose IM; 300mg/month depot",
+      "doseMinima": "0.5–1mg/day (frail/elderly)",
+      "classificacao": "Typical antipsychotic (butyrophenone)",
+      "apresentacao": "Tabs 0.5, 1, 5, 10mg; oral solution 2mg/ml; injection 5mg/ml",
+      "interacaoMedicamento": "QT prolongers, CNS depressants, anticholinergics, CYP3A4/2D6 inhibitors",
+      "posologia": "1–15mg/day PO; 2–10mg IM; 50–300mg IM monthly depot",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Use as directed per route",
+      "solucoesCompatíveis": "NS 0.9% for IM/IV",
+      "contraindicacoes": "Parkinson’s disease, severe CNS depression, coma, QT prolongation",
+      "cuidadosMedicos": "Monitor ECG, EPS signs, blood pressure",
+      "cuidadosFarmaceuticos": "Dose adjustment in elderly, monitor polypharmacy",
+      "cuidadosEnfermagem": "Assess rigidity, sedation, BP, EPS symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Haloperidol",
+      "suspension": "Suspender 24h antes de cirugía con anestesia general o fármacos QT",
+      "risk": "Síntomas extrapiramidales, sedación, prolongación QT, hipotensión, NMS",
+      "reintroduction": "Reiniciar 24–48h tras estabilización clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Haloperidol",
+      "nomeComercial": "Haldol",
+      "mecanismoAcao": "Antagonista dopaminérgico D2 potente en vías mesolímbicas y estriatales",
+      "farmacocinetica": "VO, IM, IV; T½ 14–37h; metabolismo hepático (CYP3A4/2D6)",
+      "farmacodinamica": "Antipsicótico, sedante, antiemético",
+      "indicacoes": "Esquizofrenia, agitación, delirio, hipoactivo, náusea refractaria",
+      "reacoesAdversas": "Discinesias, rigidez, somnolencia, QT largo, síncope",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar si posible",
+      "administracao": "VO, IM, IV; decanoato mensual",
+      "doseMaxima": "20mg/día VO; 300mg/mes depot",
+      "doseMinima": "0.5–1mg/día",
+      "classificacao": "Antipsicótico típico (butirofenona)",
+      "apresentacao": "Comprimidos 0.5–10mg; solución 2mg/ml; ampollas 5mg/ml",
+      "interacaoMedicamento": "IMAO, depresores SNC, anticolinérgicos, QT prolongadores",
+      "posologia": "VO 1–15mg/día; IM 2–10mg; depot mensual",
+      "armazenamento": "Ambiente seco, luz protegida",
+      "preparo": "Uso según vía prescrita",
+      "solucoesCompatíveis": "SF 0.9%",
+      "contraindicacoes": "Parkinson, coma, depresión SNC, QT largo",
+      "cuidadosMedicos": "ECG, presión, evaluación extrapiramidal",
+      "cuidadosFarmaceuticos": "Dosis en ancianos, evaluar duplicidades",
+      "cuidadosEnfermagem": "Observar EPS, sedación, rigidez, PA",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氟哌啶醇",
+      "suspension": "术前24小时停药，避免QT延长和麻醉交互",
+      "risk": "锥体外系反应、QT延长、低血压、镇静、昏迷",
+      "reintroduction": "术后稳定24–48小时后恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氟哌啶醇",
+      "nomeComercial": "Haldol",
+      "mecanismoAcao": "强效D2受体拮抗剂，抑制中枢多巴胺系统",
+      "farmacocinetica": "口服/注射；T½ 14–37小时；肝代谢；肾/粪排泄",
+      "farmacodinamica": "抗精神病、镇静、止吐",
+      "indicacoes": "精神分裂症、躁动、谵妄、难治性呕吐",
+      "reacoesAdversas": "肌张力障碍、锥体外系症状、QT延长、嗜睡",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "避免使用",
+      "administracao": "口服、肌注、静注；长效肌注每月1次",
+      "doseMaxima": "每日20mg（PO）；300mg/月（长效针）",
+      "doseMinima": "0.5–1mg/天",
+      "classificacao": "典型抗精神病药（丁酰苯类）",
+      "apresentacao": "片剂0.5–10mg；注射液5mg/ml",
+      "interacaoMedicamento": "QT药、CNS抑制剂、抗胆碱药",
+      "posologia": "口服1–15mg/d；肌注2–10mg次；长效针每月注射",
+      "armazenamento": "避光干燥，室温",
+      "preparo": "按医嘱使用",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "帕金森、昏迷、QT延长患者",
+      "cuidadosMedicos": "心电图监测、锥体外系体征、血压",
+      "cuidadosFarmaceuticos": "避免合用QT药、注意剂量与年龄",
+      "cuidadosEnfermagem": "观察镇静程度、姿势障碍、跌倒风险",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

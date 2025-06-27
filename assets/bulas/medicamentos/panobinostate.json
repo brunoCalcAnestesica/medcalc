@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Panobinostate",
+      "suspension": "Suspender 5–7 dias antes de cirurgias eletivas de grande porte",
+      "risk": "Risco de mielossupressão, diarreia grave, arritmias (prolongamento QT); interações com anestésicos, eletrólitos e outros QT-prolongadores",
+      "reintroduction": "Reintroduzir após recuperação hematológica, estabilidade clínica e eletrólitos normais"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Panobinostate",
+      "nomeComercial": "Farydak",
+      "mecanismoAcao": "Inibidor da histona desacetilase (HDAC), promovendo hiperacetilação da cromatina e induzindo apoptose em células tumorais",
+      "farmacocinetica": "Absorção oral; pico plasmático em 2h; meia-vida ~30h; metabolização hepática (CYP3A4); excreção fecal",
+      "farmacodinamica": "Promove morte celular e inibe proliferação em células neoplásicas resistentes, especialmente em mieloma múltiplo",
+      "indicacoes": "Mieloma múltiplo recidivado ou refratário em combinação com bortezomibe e dexametasona",
+      "reacoesAdversas": "Trombocitopenia, neutropenia, fadiga, diarreia, náusea, vômito, febre, arritmias ventriculares, QT prolongado",
+      "riscoGravidez": "Categoria D (teratogênico); contraindicado",
+      "riscoLactacao": "Contraindicado; suspender por pelo menos 1 semana após o tratamento",
+      "administracao": "Oral",
+      "doseMaxima": "20 mg em dias específicos (D1, D3, D5 do ciclo)",
+      "doseMinima": "10 mg (ajuste por toxicidade)",
+      "classificacao": "Inibidor de HDAC (antineoplásico oral)",
+      "apresentacao": "Cápsulas de 10 mg e 20 mg",
+      "interacaoMedicamento": "Evitar com inibidores/indutores fortes de CYP3A4, QT-prolongadores, antieméticos tipo setron",
+      "posologia": "20 mg VO D1, D3, D5 nas semanas 1 e 2 de cada ciclo de 21 dias",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Cápsulas íntegras, não abrir ou mastigar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, QTc >450 ms, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, hemograma; interromper em arritmias graves ou diarreia intratável",
+      "cuidadosFarmaceuticos": "Orientar sobre toxicidade hematológica, risco QT e profilaxia antiemética",
+      "cuidadosEnfermagem": "Avaliar náuseas, ritmo cardíaco, contagem de plaquetas e neutrófilos",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, EMA, Farydak bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Panobinostat",
+      "suspension": "Discontinue 5–7 days before major elective surgery",
+      "risk": "Risk of myelosuppression, severe diarrhea, QT prolongation, electrolyte imbalance, and drug interactions with anesthetics and antiemetics",
+      "reintroduction": "Restart after hematologic recovery and clinical stability with normal electrolytes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Panobinostat",
+      "nomeComercial": "Farydak",
+      "mecanismoAcao": "Histone deacetylase (HDAC) inhibitor that causes chromatin hyperacetylation and tumor cell apoptosis",
+      "farmacocinetica": "Oral absorption; peak ~2h; half-life ~30h; hepatic metabolism (CYP3A4); fecal excretion",
+      "farmacodinamica": "Induces apoptosis and inhibits proliferation in resistant neoplastic cells, particularly multiple myeloma",
+      "indicacoes": "Relapsed or refractory multiple myeloma in combination with bortezomib and dexamethasone",
+      "reacoesAdversas": "Thrombocytopenia, neutropenia, fatigue, diarrhea, nausea, vomiting, fever, QT prolongation, arrhythmias",
+      "riscoGravidez": "Category D (teratogenic); contraindicated",
+      "riscoLactacao": "Contraindicated; avoid for at least 1 week post-treatment",
+      "administracao": "Oral",
+      "doseMaxima": "20 mg on Days 1, 3, 5 of each cycle",
+      "doseMinima": "10 mg (dose adjusted by toxicity)",
+      "classificacao": "HDAC inhibitor (oral antineoplastic)",
+      "apresentacao": "Capsules: 10 mg, 20 mg",
+      "interacaoMedicamento": "Avoid with strong CYP3A4 modulators, QT-prolonging drugs, antiemetics like 5-HT3 antagonists",
+      "posologia": "20 mg orally on D1, D3, D5 of weeks 1 and 2 of 21-day cycle",
+      "armazenamento": "Store at room temperature, protect from light and moisture",
+      "preparo": "Swallow capsules whole; do not open or chew",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, lactation, QTc >450 ms, severe hepatic impairment",
+      "cuidadosMedicos": "Monitor ECG, CBC, electrolytes; discontinue if severe diarrhea or arrhythmia occurs",
+      "cuidadosFarmaceuticos": "Counsel on QT risk, hematologic toxicity, antiemetic use",
+      "cuidadosEnfermagem": "Monitor for GI symptoms, arrhythmias, thrombocytopenia, neutropenia",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Farydak PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Panobinostat",
+      "suspension": "Suspender 5–7 días antes de cirugía mayor",
+      "risk": "Riesgo de mielosupresión, diarrea grave, prolongación QT, desequilibrio electrolítico e interacciones con anestésicos",
+      "reintroduction": "Reiniciar tras recuperación hematológica y estabilidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Panobinostat",
+      "nomeComercial": "Farydak",
+      "mecanismoAcao": "Inhibidor de histona desacetilasa (HDAC), promueve hiperacetilación de cromatina y apoptosis tumoral",
+      "farmacocinetica": "Vía oral; pico ~2h; vida media ~30h; metabolismo hepático (CYP3A4); excreción fecal",
+      "farmacodinamica": "Induce apoptosis e inhibe proliferación en células neoplásicas resistentes (mieloma múltiple)",
+      "indicacoes": "Mieloma múltiple refractario o recaído (con bortezomib y dexametasona)",
+      "reacoesAdversas": "Trombocitopenia, neutropenia, diarrea, fatiga, náuseas, vómitos, fiebre, arritmias, QT prolongado",
+      "riscoGravidez": "Categoría D (teratogénico); contraindicado",
+      "riscoLactacao": "Contraindicado; evitar lactancia por al menos 1 semana",
+      "administracao": "Oral",
+      "doseMaxima": "20 mg en D1, D3, D5 de cada ciclo",
+      "doseMinima": "10 mg (ajustado por toxicidad)",
+      "classificacao": "Inhibidor de HDAC (antineoplásico oral)",
+      "apresentacao": "Cápsulas: 10 mg, 20 mg",
+      "interacaoMedicamento": "Evitar con inductores/inhibidores CYP3A4, fármacos QT-prolongadores y antieméticos tipo setrón",
+      "posologia": "20 mg VO D1, D3, D5 semanas 1 y 2 en ciclo de 21 días",
+      "armazenamento": "Temperatura ambiente, protegido de luz y humedad",
+      "preparo": "No abrir ni masticar cápsulas",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, QTc >450 ms, insuficiencia hepática grave",
+      "cuidadosMedicos": "Controlar ECG, electrolitos, hemograma; suspender ante diarrea grave o arritmia",
+      "cuidadosFarmaceuticos": "Educar sobre toxicidad hematológica, QT, uso de antieméticos",
+      "cuidadosEnfermagem": "Observar síntomas GI, arritmias, plaquetas y neutrófilos",
+      "fontesBibliograficas": "Micromedex, EMA, UpToDate, ficha técnica Farydak"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "帕诺司他",
+      "suspension": "择期大手术前5–7天停药",
+      "risk": "骨髓抑制、严重腹泻、QT延长、电解质紊乱；与麻醉药和止吐药有交互作用",
+      "reintroduction": "术后血象恢复、临床稳定、电解质正常后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "帕诺司他",
+      "nomeComercial": "Farydak",
+      "mecanismoAcao": "组蛋白脱乙酰酶（HDAC）抑制剂，促进染色质超乙酰化并诱导肿瘤细胞凋亡",
+      "farmacocinetica": "口服吸收，达峰2小时，半衰期约30小时，经CYP3A4代谢，经粪排泄",
+      "farmacodinamica": "抑制多发性骨髓瘤等耐药性肿瘤细胞的增殖并诱导其死亡",
+      "indicacoes": "复发/难治性多发性骨髓瘤（与硼替佐米和地塞米松联用）",
+      "reacoesAdversas": "血小板减少、中性粒细胞减少、腹泻、乏力、恶心、呕吐、QT延长、心律失常",
+      "riscoGravidez": "D类，禁用于妊娠（致畸）",
+      "riscoLactacao": "禁用于哺乳期，停药后至少1周内避免哺乳",
+      "administracao": "口服",
+      "doseMaxima": "20 mg（第1、3、5天）",
+      "doseMinima": "10 mg（毒性调整）",
+      "classificacao": "HDAC抑制剂（口服抗肿瘤药）",
+      "apresentacao": "胶囊：10 mg、20 mg",
+      "interacaoMedicamento": "避免与强CYP3A4抑制剂/诱导剂、QT延长药物、5-HT3止吐药同用",
+      "posologia": "每21天为一周期，第1、3、5天口服20 mg，共2周用药",
+      "armazenamento": "常温避光干燥保存",
+      "preparo": "完整吞服，不可咬碎或打开",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳期、QTc >450 ms、重度肝功能不全",
+      "cuidadosMedicos": "监测心电图、电解质、CBC，严重腹泻或心律失常停药",
+      "cuidadosFarmaceuticos": "宣教QT风险、血液毒性和止吐方案",
+      "cuidadosEnfermagem": "观察腹泻、疲劳、心律及血液指标变化",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Farydak说明书"
+    }
+  }
+}

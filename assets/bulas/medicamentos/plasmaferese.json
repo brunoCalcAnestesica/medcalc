@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Plasmaférese terapêutica",
+      "suspension": "Não aplicável; trata-se de procedimento terapêutico",
+      "risk": "Risco de hipotensão, sangramento, infecção, reações alérgicas ao plasma ou reposição, hipocalcemia, trombocitopenia e instabilidade hemodinâmica",
+      "reintroduction": "Pode ser repetida conforme protocolo clínico da doença de base"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Plasma humano e solução de reposição",
+      "nomeComercial": "Plasmaférese (aférese terapêutica)",
+      "mecanismoAcao": "Remove imunocomplexos, autoanticorpos, crioglobulinas, paraproteínas e mediadores inflamatórios presentes no plasma",
+      "farmacocinetica": "Efeito imediato sobre componentes plasmáticos circulantes; duração variável conforme produção endógena",
+      "farmacodinamica": "Reduz mediadores patológicos da doença autoimune, inflamatória ou hematológica de base",
+      "indicacoes": "PTT, Guillain-Barré, Miastenia gravis, encefalite autoimune, rejeição humoral, crioglobulinemia, hiperviscosidade",
+      "reacoesAdversas": "Calafrios, febre, hipotensão, hipocalcemia, reações alérgicas, sangramento, infecção venosa",
+      "riscoGravidez": "Uso com precaução; avaliar risco/benefício",
+      "riscoLactacao": "Seguro; avaliar risco individual",
+      "administracao": "Procedimento extracorpóreo por via venosa",
+      "doseMaxima": "Até 1,5x volume plasmático (aprox. 3–4 L em adultos) por sessão",
+      "doseMinima": "1 volume plasmático (aprox. 40 mL/kg)",
+      "classificacao": "Terapia extracorpórea (aférese)",
+      "apresentacao": "Procedimento realizado com separador celular automatizado; uso de solução salina, albumina ou plasma fresco",
+      "interacaoMedicamento": "Pode reduzir níveis plasmáticos de imunoglobulinas, anticoagulantes, anticonvulsivantes e imunossupressores",
+      "posologia": "1 sessão diária por 3–7 dias conforme doença; manutenção se necessário",
+      "armazenamento": "Não se aplica (procedimento hospitalar)",
+      "preparo": "Avaliação prévia: eletrólitos, coagulograma, acesso venoso adequado",
+      "solucoesCompatíveis": "Albumina humana 5%, PFC, SF 0,9%",
+      "contraindicacoes": "Instabilidade hemodinâmica grave, sepse não controlada, coagulopatia descompensada",
+      "cuidadosMedicos": "Monitorar eletrólitos, PA, função renal, cálcio iônico e resposta clínica",
+      "cuidadosFarmaceuticos": "Registrar perdas e substituições, garantir disponibilidade dos insumos",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, reação ao plasma, fluxo venoso e sintomas de hipocalcemia",
+      "fontesBibliograficas": "ASFA Guidelines, UpToDate, Micromedex, Ministério da Saúde"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Therapeutic plasma exchange (TPE)",
+      "suspension": "Not applicable; therapeutic procedure",
+      "risk": "Hypotension, bleeding, allergic reactions, infection, hypocalcemia, thrombocytopenia, hemodynamic instability",
+      "reintroduction": "May be repeated as per clinical protocol"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Human plasma and replacement solutions",
+      "nomeComercial": "Plasma exchange (TPE)",
+      "mecanismoAcao": "Removes autoantibodies, immune complexes, cryoglobulins, paraproteins, and cytokines from plasma",
+      "farmacocinetica": "Immediate effect on circulating factors; duration varies with endogenous production",
+      "farmacodinamica": "Reduces pathogenic mediators in autoimmune, hematologic, or inflammatory diseases",
+      "indicacoes": "TTP, Guillain-Barré, myasthenia gravis, autoimmune encephalitis, antibody-mediated rejection, cryoglobulinemia, hyperviscosity",
+      "reacoesAdversas": "Fever, chills, hypotension, hypocalcemia, allergic reactions, bleeding, catheter infection",
+      "riscoGravidez": "Use with caution; weigh risks/benefits",
+      "riscoLactacao": "Generally safe; individual evaluation recommended",
+      "administracao": "Extracorporeal venous access procedure",
+      "doseMaxima": "Up to 1.5x plasma volume (~3–4 L/session in adults)",
+      "doseMinima": "1 plasma volume (~40 mL/kg)",
+      "classificacao": "Extracorporeal therapy",
+      "apresentacao": "Automated cell separator with albumin, saline or fresh frozen plasma",
+      "interacaoMedicamento": "May reduce levels of immunoglobulins, anticoagulants, anticonvulsants, immunosuppressants",
+      "posologia": "Once daily for 3–7 days; maintenance if needed",
+      "armazenamento": "Not applicable",
+      "preparo": "Pre-assessment: labs, venous access",
+      "solucoesCompatíveis": "5% albumin, FFP, 0.9% NaCl",
+      "contraindicacoes": "Severe instability, uncontrolled sepsis, severe coagulopathy",
+      "cuidadosMedicos": "Monitor BP, calcium, renal function, electrolytes, response",
+      "cuidadosFarmaceuticos": "Record losses/replacements; ensure solution availability",
+      "cuidadosEnfermagem": "Check vitals, infusion site, allergic reactions, hypocalcemia symptoms",
+      "fontesBibliograficas": "ASFA Guidelines, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Plasmaféresis terapéutica",
+      "suspension": "No aplicable (procedimiento terapéutico)",
+      "risk": "Hipotensión, sangrado, reacciones alérgicas, hipocalcemia, trombocitopenia, inestabilidad hemodinámica",
+      "reintroduction": "Puede repetirse según protocolo clínico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Plasma humano y soluciones de reemplazo",
+      "nomeComercial": "Plasmaféresis",
+      "mecanismoAcao": "Elimina autoanticuerpos, complejos inmunes, crioglobulinas, paraproteínas y citoquinas",
+      "farmacocinetica": "Efecto inmediato en factores plasmáticos; duración depende de su producción",
+      "farmacodinamica": "Disminuye mediadores patológicos en enfermedades autoinmunes e inflamatorias",
+      "indicacoes": "PTT, Guillain-Barré, miastenia gravis, encefalitis autoinmune, rechazo humoral, crioglobulinemia, hiperviscosidad",
+      "reacoesAdversas": "Escalofríos, fiebre, hipotensión, hipocalcemia, alergias, sangrado, infección venosa",
+      "riscoGravidez": "Uso con precaución; valorar beneficio/riesgo",
+      "riscoLactacao": "Generalmente seguro",
+      "administracao": "Acceso venoso extracorpóreo",
+      "doseMaxima": "Hasta 1.5x volumen plasmático (~3–4 L por sesión)",
+      "doseMinima": "1 volumen plasmático (~40 mL/kg)",
+      "classificacao": "Terapia extracorpórea",
+      "apresentacao": "Separador celular automatizado; uso de albúmina, solución salina o plasma",
+      "interacaoMedicamento": "Reduce niveles de inmunoglobulinas, anticoagulantes, inmunosupresores",
+      "posologia": "1 sesión diaria por 3–7 días; mantenimiento si es necesario",
+      "armazenamento": "No aplica",
+      "preparo": "Evaluación previa: electrolitos, coagulación, acceso venoso",
+      "solucoesCompatíveis": "Albúmina 5%, plasma fresco congelado, SF 0,9%",
+      "contraindicacoes": "Inestabilidad grave, sepsis no controlada, coagulopatía descompensada",
+      "cuidadosMedicos": "Monitorear PA, electrolitos, función renal, calcio iónico",
+      "cuidadosFarmaceuticos": "Registrar reposición/perdidas; asegurar disponibilidad",
+      "cuidadosEnfermagem": "Vigilar signos vitales, reacciones, sitio de acceso, síntomas hipocalcemia",
+      "fontesBibliograficas": "ASFA, UpToDate, Micromedex, Ministerio de Salud"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "治疗性血浆置换",
+      "suspension": "不适用（治疗性操作）",
+      "risk": "可能导致低血压、出血、过敏、低钙血症、血小板减少、感染和血流动力学不稳",
+      "reintroduction": "根据基础疾病和治疗反应可多次进行"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "人血浆 + 替代液",
+      "nomeComercial": "血浆置换术",
+      "mecanismoAcao": "去除循环中的抗体、免疫复合物、冷球蛋白、炎症因子",
+      "farmacocinetica": "立即起效，持续时间依赖内源性再生",
+      "farmacodinamica": "用于清除致病免疫因子，改善自身免疫或血液系统疾病",
+      "indicacoes": "TTP、格林-巴利综合征、重症肌无力、自身免疫性脑炎、移植排斥、冷球蛋白血症、高黏滞血症",
+      "reacoesAdversas": "寒战、发热、低钙、过敏、出血、导管感染",
+      "riscoGravidez": "权衡利弊后使用",
+      "riscoLactacao": "通常安全",
+      "administracao": "静脉通路 + 体外循环",
+      "doseMaxima": "每次最多1.5倍血浆容量（3–4 L）",
+      "doseMinima": "1倍血浆量（约40 mL/kg）",
+      "classificacao": "体外治疗技术",
+      "apresentacao": "自动血浆分离设备，使用白蛋白、盐水或新鲜冷冻血浆",
+      "interacaoMedicamento": "降低免疫球蛋白、抗凝剂、抗癫药、免疫抑制剂血药浓度",
+      "posologia": "每日1次，连续3–7天；可酌情维持",
+      "armazenamento": "不适用",
+      "preparo": "术前检查凝血、电解质、静脉通路",
+      "solucoesCompatíveis": "5%白蛋白、冷冻血浆、生理盐水",
+      "contraindicacoes": "严重不稳定、感染未控、凝血障碍",
+      "cuidadosMedicos": "监测电解质、肾功能、钙、血压和疗效",
+      "cuidadosFarmaceuticos": "准备替代液，记录出入量",
+      "cuidadosEnfermagem": "观察生命体征、过敏反应、静脉通路、低钙表现",
+      "fontesBibliograficas": "ASFA指南、中国医学会、UpToDate、Micromedex"
+    }
+  }
+}

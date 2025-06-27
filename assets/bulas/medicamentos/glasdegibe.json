@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Glasdegibe",
+      "suspension": "Suspender 5 dias antes de cirurgias eletivas com risco cardiovascular elevado",
+      "risk": "Prolongamento do QT, arritmias, toxicidade hematológica; potencial de interações com outros fármacos QT-prolongadores",
+      "reintroduction": "Reintroduzir após estabilidade eletrolítica e cardiovascular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glasdegibe",
+      "nomeComercial": "Daurismo",
+      "mecanismoAcao": "Inibidor da via Hedgehog por bloqueio da proteína SMO (Smoothened), interrompendo proliferação celular",
+      "farmacocinetica": "Via oral, Tmáx 1,7 h, meia-vida ~24 h, metabolismo hepático via CYP3A4",
+      "farmacodinamica": "Inibe a sinalização da via Hedgehog em células-tronco leucêmicas",
+      "indicacoes": "Leucemia mieloide aguda (LMA) em adultos idosos/inaptos para quimioterapia intensiva",
+      "reacoesAdversas": "Fadiga, disgeusia, constipação, alopecia, náusea, infecções, trombocitopenia, QT prolongado",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral, 1 vez ao dia",
+      "doseMaxima": "100 mg/dia",
+      "doseMinima": "100 mg/dia (dose única padrão)",
+      "classificacao": "Inibidor de SMO (Hedgehog)",
+      "apresentacao": "Comprimidos revestidos de 100 mg",
+      "interacaoMedicamento": "Evitar com inibidores/indutores de CYP3A4, medicamentos que prolongam QT",
+      "posologia": "100 mg/dia VO + citarabina SC por 10 dias (ciclos de 28 dias)",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, hipocalemia não corrigida, uso com QT-prolongadores",
+      "cuidadosMedicos": "Monitorar ECG, potássio, magnésio e hemograma regularmente",
+      "cuidadosFarmaceuticos": "Educar sobre riscos de arritmia e adesão ao tratamento",
+      "cuidadosEnfermagem": "Observar fadiga, distúrbios gastrointestinais, alopecia e infecções",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Glasdegib",
+      "suspension": "Discontinue 5 days prior to elective surgery with cardiac risk",
+      "risk": "QT prolongation, myelosuppression, drug-drug interactions (CYP3A4 and QT-prolonging agents)",
+      "reintroduction": "Restart once stable cardiac and electrolyte status is achieved"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glasdegib",
+      "nomeComercial": "Daurismo",
+      "mecanismoAcao": "SMO (Smoothened) inhibitor blocking Hedgehog signaling in malignant stem cells",
+      "farmacocinetica": "Oral; Tmax 1.7 h; t½ ~24 h; metabolized via CYP3A4",
+      "farmacodinamica": "Disrupts leukemic cell proliferation by inhibiting Hedgehog pathway",
+      "indicacoes": "Newly diagnosed AML in elderly or chemo-ineligible adults (combined with low-dose cytarabine)",
+      "reacoesAdversas": "Dysgeusia, constipation, fatigue, QT prolongation, infections, cytopenias",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral once daily",
+      "doseMaxima": "100 mg/day",
+      "doseMinima": "100 mg/day (standard)",
+      "classificacao": "Hedgehog pathway inhibitor",
+      "apresentacao": "100 mg film-coated tablets",
+      "interacaoMedicamento": "Avoid strong CYP3A4 modifiers and QT-prolonging drugs",
+      "posologia": "100 mg daily + low-dose cytarabine SC 10 days per 28-day cycle",
+      "armazenamento": "Room temperature (15–30°C)",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, lactation, uncorrected hypokalemia, QT-prolonging meds",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, CBC",
+      "cuidadosFarmaceuticos": "Counsel on cardiac risk and drug adherence",
+      "cuidadosEnfermagem": "Watch for GI effects, fatigue, alopecia, infections",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Glasdegib",
+      "suspension": "Suspender 5 días antes de cirugía con riesgo cardíaco",
+      "risk": "Prolongación de QT, toxicidad hematológica, interacciones con CYP3A4",
+      "reintroduction": "Reiniciar tras estabilización cardíaca y electrolítica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glasdegib",
+      "nomeComercial": "Daurismo",
+      "mecanismoAcao": "Inhibidor de SMO que bloquea la vía Hedgehog en células leucémicas",
+      "farmacocinetica": "VO, Tmax ~1.7 h, t½ ~24 h, metabolizado por CYP3A4",
+      "farmacodinamica": "Inhibe proliferación celular maligna mediada por Hedgehog",
+      "indicacoes": "LMA recién diagnosticada en adultos mayores o no aptos para quimioterapia intensiva",
+      "reacoesAdversas": "Alteración del gusto, fatiga, estreñimiento, QT largo, infecciones, trombocitopenia",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral una vez al día",
+      "doseMaxima": "100 mg/día",
+      "doseMinima": "100 mg/día",
+      "classificacao": "Inhibidor de la vía Hedgehog",
+      "apresentacao": "Comprimidos recubiertos 100 mg",
+      "interacaoMedicamento": "Evitar CYP3A4 potentes y fármacos con QT prolongado",
+      "posologia": "100 mg/día + citarabina SC 10 días por ciclo de 28 días",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, hipocalemia no corregida",
+      "cuidadosMedicos": "Monitorear ECG, electrolitos, hemograma",
+      "cuidadosFarmaceuticos": "Advertir sobre riesgos cardíacos e interacciones",
+      "cuidadosEnfermagem": "Observar astenia, náuseas, infecciones, caída del cabello",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "格拉得吉",
+      "suspension": "术前5天停药，特别是高心律风险患者",
+      "risk": "QT延长、心律失常、血液毒性、感染风险",
+      "reintroduction": "术后电解质稳定、QT恢复后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "格拉得吉（Glasdegib）",
+      "nomeComercial": "Daurismo",
+      "mecanismoAcao": "Hedgehog通路SMO抑制剂，阻断肿瘤细胞分化与增殖",
+      "farmacocinetica": "口服吸收快，Tmax约1.7小时，t½约24小时，CYP3A4代谢",
+      "farmacodinamica": "抑制白血病干细胞Hedgehog信号通路，抑制肿瘤发展",
+      "indicacoes": "老年或不能耐受强化化疗的初诊AML",
+      "reacoesAdversas": "味觉异常、便秘、乏力、QT延长、感染、血小板减少",
+      "riscoGravidez": "D类 – 禁用于妊娠",
+      "riscoLactacao": "禁用于哺乳期",
+      "administracao": "每日一次口服",
+      "doseMaxima": "100 mg/日",
+      "doseMinima": "100 mg/日",
+      "classificacao": "Hedgehog信号通路抑制剂",
+      "apresentacao": "100 mg包衣片剂",
+      "interacaoMedicamento": "禁与CYP3A4强抑制剂、QT延长药物同用",
+      "posologia": "每日100 mg，配合小剂量阿糖胞苷28日周期",
+      "armazenamento": "室温干燥",
+      "preparo": "不需溶解或稀释",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、电解质紊乱、QT延长史",
+      "cuidadosMedicos": "监测ECG、血象、电解质水平",
+      "cuidadosFarmaceuticos": "提醒QT风险和与抗肿瘤药物配伍注意",
+      "cuidadosEnfermagem": "观察胃肠反应、心律、感染征象",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

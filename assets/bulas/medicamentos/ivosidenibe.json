@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ivosidenibe",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva em pacientes oncológicos de alto risco, com orientação médica",
+      "risk": "Risco de prolongamento de QT, toxicidade hepática e interações com anestésicos",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e liberação oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ivosidenibe",
+      "nomeComercial": "Tibsovo",
+      "mecanismoAcao": "Inibe a enzima IDH1 mutante, reduzindo a produção do oncometabólito 2-HG",
+      "farmacocinetica": "Administração oral, alta ligação proteica, metabolizado via CYP3A4, meia-vida ~93h",
+      "farmacodinamica": "Reduz proliferação de células tumorais com mutação IDH1, induz diferenciação celular",
+      "indicacoes": "Leucemia mieloide aguda (LMA) IDH1-mutada, colangiocarcinoma IDH1-mutado",
+      "reacoesAdversas": "Prolongamento de QT, náuseas, fadiga, leucocitose, hepatotoxicidade",
+      "riscoGravidez": "Categoria D – risco fetal; contraindicado",
+      "riscoLactacao": "Desconhecido; evitar durante amamentação",
+      "administracao": "Oral",
+      "doseMaxima": "500mg/dia",
+      "doseMinima": "500mg/dia (sem ajustes por eficácia)",
+      "classificacao": "Inibidor de IDH1 mutante",
+      "apresentacao": "Comprimidos de 250mg",
+      "interacaoMedicamento": "Evitar com inibidores/indutores fortes de CYP3A4; cuidado com fármacos que prolongam QT",
+      "posologia": "500mg 1x/dia até progressão ou toxicidade inaceitável",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Hipocalemia não corrigida, hipomagnesemia, gravidez",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, transaminases e leucócitos",
+      "cuidadosFarmaceuticos": "Educar sobre adesão, sinais de toxicidade e interações",
+      "cuidadosEnfermagem": "Monitorar eventos adversos, ECG e sintomas de toxicidade hepática",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ivosidenib",
+      "suspension": "Discontinue 7 days before elective surgery in high-risk oncology patients under medical guidance",
+      "risk": "Risk of QT prolongation, liver toxicity, and anesthetic interactions",
+      "reintroduction": "Restart after hemodynamic stabilization and oncology clearance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ivosidenib",
+      "nomeComercial": "Tibsovo",
+      "mecanismoAcao": "Inhibits mutant IDH1 enzyme, reducing 2-HG oncometabolite production",
+      "farmacocinetica": "Oral, high protein binding, CYP3A4 metabolism, half-life ~93h",
+      "farmacodinamica": "Suppresses proliferation and promotes differentiation of IDH1-mutant tumor cells",
+      "indicacoes": "IDH1-mutated acute myeloid leukemia (AML), IDH1-mutant cholangiocarcinoma",
+      "reacoesAdversas": "QT prolongation, nausea, fatigue, leukocytosis, hepatotoxicity",
+      "riscoGravidez": "Category D – fetal risk; contraindicated",
+      "riscoLactacao": "Unknown; avoid during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "500mg/day",
+      "doseMinima": "500mg/day (fixed)",
+      "classificacao": "Mutant IDH1 enzyme inhibitor",
+      "apresentacao": "250mg tablets",
+      "interacaoMedicamento": "Avoid strong CYP3A4 modulators and QT-prolonging drugs",
+      "posologia": "500mg once daily until progression or unacceptable toxicity",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "No special preparation",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Uncorrected hypokalemia/hypomagnesemia, pregnancy",
+      "cuidadosMedicos": "Monitor ECG, liver enzymes, electrolytes, and leukocytes",
+      "cuidadosFarmaceuticos": "Educate on adherence, side effects, and interactions",
+      "cuidadosEnfermagem": "Monitor for adverse effects, ECG, and hepatic symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ivosidenib",
+      "suspension": "Suspender 7 días antes de cirugía en pacientes oncológicos de alto riesgo con autorización médica",
+      "risk": "Riesgo de QT largo, toxicidad hepática e interacción con anestesia",
+      "reintroduction": "Reiniciar tras estabilización hemodinámica y evaluación oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ivosidenib",
+      "nomeComercial": "Tibsovo",
+      "mecanismoAcao": "Inhibe la IDH1 mutante, disminuyendo la producción de 2-HG",
+      "farmacocinetica": "Oral, alta unión a proteínas, metabolismo por CYP3A4, vida media ~93h",
+      "farmacodinamica": "Bloquea la proliferación e induce diferenciación de células tumorales IDH1-mutadas",
+      "indicacoes": "Leucemia mieloide aguda (IDH1 mutada), colangiocarcinoma IDH1-mutado",
+      "reacoesAdversas": "Prolongación de QT, náuseas, fatiga, leucocitosis, hepatotoxicidad",
+      "riscoGravidez": "Categoría D – contraindicado por riesgo fetal",
+      "riscoLactacao": "Desconocido; evitar durante lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "500mg/día",
+      "doseMinima": "500mg/día (fija)",
+      "classificacao": "Inhibidor de IDH1 mutante",
+      "apresentacao": "Comprimidos de 250mg",
+      "interacaoMedicamento": "Evitar con moduladores fuertes de CYP3A4 y medicamentos que prolongan el QT",
+      "posologia": "500mg 1 vez al día hasta progresión o toxicidad",
+      "armazenamento": "Ambiente seco, protegido de la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipocalemia o hipomagnesemia no corregida, embarazo",
+      "cuidadosMedicos": "Controlar ECG, enzimas hepáticas, electrolitos y leucocitos",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia, efectos adversos e interacciones",
+      "cuidadosEnfermagem": "Vigilar efectos adversos, ECG y síntomas hepáticos",
+      "fontesBibliograficas": "EMA, Micromedex, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伊伏替尼",
+      "suspension": "术前7天在肿瘤高风险患者中停药，需医生评估",
+      "risk": "可能引起QT延长、肝毒性及与麻醉药相互作用",
+      "reintroduction": "术后血流动力学稳定并经肿瘤科批准后可恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伊伏替尼",
+      "nomeComercial": "Tibsovo",
+      "mecanismoAcao": "选择性抑制突变型IDH1酶，降低2-HG肿瘤代谢物水平",
+      "farmacocinetica": "口服给药，蛋白结合率高，经CYP3A4代谢，半衰期约93小时",
+      "farmacodinamica": "抑制IDH1突变细胞增殖，诱导其分化",
+      "indicacoes": "IDH1突变型急性髓性白血病（AML）、胆管癌",
+      "reacoesAdversas": "QT延长、恶心、乏力、白细胞增多、肝毒性",
+      "riscoGravidez": "D类 – 禁用于妊娠期，存在胎儿风险",
+      "riscoLactacao": "哺乳期应避免使用，分泌情况不明",
+      "administracao": "口服",
+      "doseMaxima": "每日500毫克",
+      "doseMinima": "每日500毫克（固定剂量）",
+      "classificacao": "突变型IDH1酶抑制剂",
+      "apresentacao": "250毫克片剂",
+      "interacaoMedicamento": "避免与CYP3A4强抑制剂/诱导剂及延长QT药物合用",
+      "posologia": "每日一次500mg，直至疾病进展或毒性无法耐受",
+      "armazenamento": "室温保存，避光防潮",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "未纠正的低钾血症、低镁血症、妊娠期禁用",
+      "cuidadosMedicos": "监测心电图、肝功能、电解质和白细胞计数",
+      "cuidadosFarmaceuticos": "提醒患者注意不良反应和药物相互作用",
+      "cuidadosEnfermagem": "观察毒性反应、心电图和肝功能异常体征",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

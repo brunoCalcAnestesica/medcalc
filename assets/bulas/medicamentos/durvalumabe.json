@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Durvalumabe",
+      "suspension": "Suspender 30 dias antes da cirurgia eletiva",
+      "risk": "Risco de toxicidade imunomediada (pneumonite, colite, hepatite, endocrinopatias) e interferência na cicatrização",
+      "reintroduction": "Reintroduzir após resolução completa das toxicidades imunológicas e cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Durvalumabe",
+      "nomeComercial": "Imfinzi",
+      "mecanismoAcao": "Anticorpo monoclonal que bloqueia PD-L1, restaurando a atividade das células T contra células tumorais",
+      "farmacocinetica": "Meia-vida terminal de ~17 dias; metabolização por vias proteolíticas; administração IV",
+      "farmacodinamica": "Inibição do checkpoint imune PD-L1/PD-1, promovendo resposta imune antitumoral",
+      "indicacoes": "Câncer de pulmão de células não pequenas estágio III, carcinoma urotelial avançado, câncer hepatocelular",
+      "reacoesAdversas": "Fadiga, diarreia, rash, pneumonite, colite, hepatite, tireoidite, hipofisite",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "Via intravenosa",
+      "doseMaxima": "1500 mg a cada 4 semanas",
+      "doseMinima": "10 mg/kg a cada 2 semanas",
+      "classificacao": "Antineoplásico – anticorpo monoclonal anti-PD-L1",
+      "apresentacao": "Frasco-ampola de 120 mg/2,4 mL ou 500 mg/10 mL",
+      "interacaoMedicamento": "Aumenta risco de toxicidade com outros imunoterápicos; corticosteroides podem ser necessários para controle de eventos adversos",
+      "posologia": "10 mg/kg IV a cada 2 semanas ou 1500 mg IV a cada 4 semanas",
+      "armazenamento": "Refrigerado (2–8°C), não congelar, proteger da luz",
+      "preparo": "Diluir em SF 0,9%, infundir por via IV em 60 minutos",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Gravidez, doença autoimune ativa grave, infecção sistêmica",
+      "cuidadosMedicos": "Monitorar função hepática, tireoidiana, glicemia e sinais de toxicidade imunológica",
+      "cuidadosFarmaceuticos": "Manuseio asséptico, não agitar o frasco, uso imediato após preparo",
+      "cuidadosEnfermagem": "Observar reações infusionais e sinais precoces de toxicidade imune",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Durvalumab",
+      "suspension": "Discontinue 30 days before elective surgery",
+      "risk": "Risk of immune-related adverse events (pneumonitis, colitis, hepatitis, endocrinopathies) and impaired healing",
+      "reintroduction": "Restart after full resolution of immune toxicities and wound healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Durvalumab",
+      "nomeComercial": "Imfinzi",
+      "mecanismoAcao": "Monoclonal antibody that blocks PD-L1, enhancing T-cell activity against tumors",
+      "farmacocinetica": "Half-life ~17 days; metabolized by proteolytic pathways; IV route",
+      "farmacodinamica": "Checkpoint inhibition of PD-L1/PD-1 axis, promoting antitumor immune response",
+      "indicacoes": "Stage III NSCLC, advanced urothelial carcinoma, hepatocellular carcinoma",
+      "reacoesAdversas": "Fatigue, diarrhea, rash, pneumonitis, colitis, hepatitis, thyroiditis, hypophysitis",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Intravenous route",
+      "doseMaxima": "1500 mg every 4 weeks",
+      "doseMinima": "10 mg/kg every 2 weeks",
+      "classificacao": "Antineoplastic – anti-PD-L1 monoclonal antibody",
+      "apresentacao": "Vials: 120 mg/2.4 mL or 500 mg/10 mL",
+      "interacaoMedicamento": "Increased toxicity risk with other ICIs; corticosteroids may be needed",
+      "posologia": "10 mg/kg IV every 2 weeks or 1500 mg IV every 4 weeks",
+      "armazenamento": "Store at 2–8°C, do not freeze, protect from light",
+      "preparo": "Dilute in NS, infuse over 60 minutes",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Pregnancy, severe autoimmune disease, systemic infection",
+      "cuidadosMedicos": "Monitor liver, thyroid, glucose, signs of irAEs",
+      "cuidadosFarmaceuticos": "Use aseptic technique, do not shake, use immediately",
+      "cuidadosEnfermagem": "Monitor for infusion reactions, early immune-related toxicity",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Durvalumab",
+      "suspension": "Suspender 30 días antes de cirugía electiva",
+      "risk": "Riesgo de eventos inmunomediados (neumonitis, colitis, hepatitis, endocrinopatías) y mala cicatrización",
+      "reintroduction": "Reintroducir tras resolución completa de toxicidades inmunes y cicatrización"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Durvalumab",
+      "nomeComercial": "Imfinzi",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-PD-L1 que mejora la activación de linfocitos T contra tumores",
+      "farmacocinetica": "Vida media ~17 días; metabolismo proteico; vía IV",
+      "farmacodinamica": "Bloqueo del eje PD-L1/PD-1, restaurando la respuesta inmune antitumoral",
+      "indicacoes": "Cáncer de pulmón no microcítico estadio III, carcinoma urotelial avanzado, hepatocarcinoma",
+      "reacoesAdversas": "Fatiga, diarrea, erupción, neumonitis, colitis, hepatitis, tiroiditis, hipofisitis",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía intravenosa",
+      "doseMaxima": "1500 mg cada 4 semanas",
+      "doseMinima": "10 mg/kg cada 2 semanas",
+      "classificacao": "Antineoplásico – anticuerpo monoclonal anti-PD-L1",
+      "apresentacao": "Viales de 120 mg/2.4 mL y 500 mg/10 mL",
+      "interacaoMedicamento": "Aumenta la toxicidad con otras inmunoterapias; puede requerir corticoides",
+      "posologia": "10 mg/kg IV cada 2 semanas o 1500 mg IV cada 4 semanas",
+      "armazenamento": "2–8°C, no congelar, proteger de la luz",
+      "preparo": "Diluir en SF 0,9%, infundir en 60 minutos",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Embarazo, autoinmunidad severa, infección activa",
+      "cuidadosMedicos": "Controlar función hepática, tiroides, glucosa y eventos inmunológicos",
+      "cuidadosFarmaceuticos": "Técnica aséptica, no agitar, usar inmediatamente",
+      "cuidadosEnfermagem": "Vigilar toxicidades inmunológicas y reacciones a la infusión",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "度伐利尤单抗",
+      "suspension": "术前30天停药",
+      "risk": "免疫毒性（肺炎、肝炎、内分泌病、结肠炎）及愈合延迟风险",
+      "reintroduction": "免疫相关不良反应完全缓解、伤口愈合后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "度伐利尤单抗",
+      "nomeComercial": "Imfinzi",
+      "mecanismoAcao": "PD-L1单克隆抗体，阻断PD-1/PD-L1通路，激活免疫系统攻击肿瘤",
+      "farmacocinetica": "半衰期约17天；蛋白降解代谢；静脉输注",
+      "farmacodinamica": "通过解除免疫抑制恢复T细胞功能",
+      "indicacoes": "非小细胞肺癌III期、晚期尿路上皮癌、肝细胞癌",
+      "reacoesAdversas": "疲劳、腹泻、皮疹、肺炎、结肠炎、肝炎、甲状腺炎、垂体炎",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉注射",
+      "doseMaxima": "每4周1500毫克",
+      "doseMinima": "每2周10 mg/kg",
+      "classificacao": "抗肿瘤药 – 抗PD-L1单克隆抗体",
+      "apresentacao": "注射液：120 mg/2.4 mL，500 mg/10 mL",
+      "interacaoMedicamento": "与其他免疫治疗合用毒性增强；可能需糖皮质激素",
+      "posologia": "每2周10 mg/kg或每4周1500 mg，输注时间60分钟",
+      "armazenamento": "2–8°C冷藏，避光，不可冷冻",
+      "preparo": "用0.9%氯化钠稀释，立即使用",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "妊娠、严重自身免疫病、活动性感染",
+      "cuidadosMedicos": "监测肝酶、甲状腺功能、血糖及免疫毒性",
+      "cuidadosFarmaceuticos": "无菌配药，不可摇晃，配制后立即使用",
+      "cuidadosEnfermagem": "观察早期免疫毒性及输注反应",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

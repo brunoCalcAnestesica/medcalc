@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Imunoglobulina intravenosa (IVIG)",
+      "suspension": "Suspender apenas em casos de orientação médica específica pré-operatória",
+      "risk": "Risco de sobrecarga de volume e eventos trombóticos; avaliar função renal e risco cardiovascular",
+      "reintroduction": "Reintroduzir conforme necessidade clínica e estabilidade hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imunoglobulina humana normal",
+      "nomeComercial": "Octagam, Privigen, Flebogamma, Sandoglobulina",
+      "mecanismoAcao": "Fornece anticorpos policlonais que modulam a resposta imune e neutralizam patógenos",
+      "farmacocinetica": "Administração IV, distribuição rápida intravascular, meia-vida de 21 a 28 dias",
+      "farmacodinamica": "Ação imunomoduladora, anti-inflamatória e substitutiva de imunoglobulinas ausentes",
+      "indicacoes": "Imunodeficiências primárias, púrpura trombocitopênica idiopática, Guillain-Barré, Kawasaki, neuropatias autoimunes",
+      "reacoesAdversas": "Febre, calafrios, cefaleia, náusea, trombose, insuficiência renal aguda",
+      "riscoGravidez": "Categoria C - uso com cautela; segurança não estabelecida",
+      "riscoLactacao": "Provavelmente seguro; excreção mínima no leite",
+      "administracao": "Intravenosa",
+      "doseMaxima": "2g/kg (dividido em dias)",
+      "doseMinima": "0,2–0,4g/kg (imunodeficiência)",
+      "classificacao": "Imunoglobulina humana, agente imunomodulador",
+      "apresentacao": "Frascos-ampola de 1g, 5g, 10g",
+      "interacaoMedicamento": "Pode interferir com vacinas de vírus vivos (ex: sarampo, rubéola)",
+      "posologia": "Individualizada conforme patologia; geralmente 0,4–2g/kg",
+      "armazenamento": "Entre 2–8°C; não congelar",
+      "preparo": "Administrar em bomba de infusão lenta; observar compatibilidade",
+      "solucoesCompatíveis": "Solução fisiológica, glicose 5%",
+      "contraindicacoes": "Alergia a proteínas humanas, deficiência de IgA com anticorpos anti-IgA",
+      "cuidadosMedicos": "Monitorar função renal, sinais de trombose e reações adversas",
+      "cuidadosFarmaceuticos": "Garantir estabilidade e compatibilidade da infusão",
+      "cuidadosEnfermagem": "Observar sinais vitais, reações alérgicas e hidratação adequada",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, SBIm"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Intravenous Immunoglobulin (IVIG)",
+      "suspension": "Discontinue only under specific medical advice preoperatively",
+      "risk": "Risk of fluid overload and thrombotic events; assess renal and cardiovascular status",
+      "reintroduction": "Resume based on clinical need and hemodynamic stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Human normal immunoglobulin",
+      "nomeComercial": "Privigen, Octagam, Gammagard, Flebogamma",
+      "mecanismoAcao": "Provides polyclonal antibodies that modulate immune responses and neutralize pathogens",
+      "farmacocinetica": "IV administration, rapid intravascular distribution, half-life 21–28 days",
+      "farmacodinamica": "Immunomodulatory, anti-inflammatory, and replacement effect",
+      "indicacoes": "Primary immunodeficiency, ITP, Guillain-Barré, Kawasaki disease, autoimmune neuropathies",
+      "reacoesAdversas": "Fever, chills, headache, nausea, thrombosis, acute renal failure",
+      "riscoGravidez": "Category C – use with caution",
+      "riscoLactacao": "Likely safe; minimal excretion into breast milk",
+      "administracao": "Intravenous",
+      "doseMaxima": "2g/kg (divided over days)",
+      "doseMinima": "0.2–0.4g/kg (for PID)",
+      "classificacao": "Human immunoglobulin, immunomodulator",
+      "apresentacao": "Vials: 1g, 5g, 10g",
+      "interacaoMedicamento": "May interfere with live virus vaccines (e.g., measles, rubella)",
+      "posologia": "Individualized; commonly 0.4–2g/kg",
+      "armazenamento": "2–8°C; do not freeze",
+      "preparo": "Use infusion pump; check compatibility",
+      "solucoesCompatíveis": "Normal saline, 5% dextrose",
+      "contraindicacoes": "Allergy to human proteins, IgA deficiency with anti-IgA antibodies",
+      "cuidadosMedicos": "Monitor renal function, thrombotic signs, adverse reactions",
+      "cuidadosFarmaceuticos": "Ensure infusion compatibility and stability",
+      "cuidadosEnfermagem": "Monitor vitals, allergy signs, maintain hydration",
+      "fontesBibliograficas": "FDA, Micromedex, AAAAI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Inmunoglobulina intravenosa (IVIG)",
+      "suspension": "Suspender solo si es indicado por el médico preoperatoriamente",
+      "risk": "Riesgo de sobrecarga de volumen y trombosis; evaluar función renal y cardiovascular",
+      "reintroduction": "Reanudar según necesidad clínica y estabilidad hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Inmunoglobulina humana normal",
+      "nomeComercial": "Privigen, Octagam, Flebogamma",
+      "mecanismoAcao": "Aporta anticuerpos policlonales que modulan la inmunidad y neutralizan patógenos",
+      "farmacocinetica": "Administración IV, distribución rápida, vida media 21–28 días",
+      "farmacodinamica": "Efecto inmunomodulador, antiinflamatorio y de reemplazo",
+      "indicacoes": "Inmunodeficiencias primarias, Púrpura trombocitopénica, Guillain-Barré, Kawasaki",
+      "reacoesAdversas": "Fiebre, escalofríos, cefalea, náuseas, trombosis, falla renal aguda",
+      "riscoGravidez": "Categoría C – usar con precaución",
+      "riscoLactacao": "Probablemente seguro; mínima excreción",
+      "administracao": "Intravenosa",
+      "doseMaxima": "2g/kg (dividido en días)",
+      "doseMinima": "0,2–0,4g/kg",
+      "classificacao": "Inmunoglobulina humana, inmunomodulador",
+      "apresentacao": "Viales de 1g, 5g, 10g",
+      "interacaoMedicamento": "Interfiere con vacunas vivas (ej. sarampión)",
+      "posologia": "Individualizada; comúnmente 0,4–2g/kg",
+      "armazenamento": "2–8°C; no congelar",
+      "preparo": "Usar bomba de infusión; verificar compatibilidad",
+      "solucoesCompatíveis": "Suero fisiológico, glucosa al 5%",
+      "contraindicacoes": "Alergia a proteínas humanas, deficiencia de IgA con anticuerpos anti-IgA",
+      "cuidadosMedicos": "Monitorear función renal, trombosis y reacciones",
+      "cuidadosFarmaceuticos": "Verificar estabilidad y compatibilidad",
+      "cuidadosEnfermagem": "Vigilar signos vitales y reacciones alérgicas",
+      "fontesBibliograficas": "EMA, Micromedex, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "静脉注射免疫球蛋白（IVIG）",
+      "suspension": "术前仅在医生建议下停用",
+      "risk": "可能引发容量超负荷和血栓事件；评估肾功能和心血管状态",
+      "reintroduction": "临床需要和血流动力学稳定后重新开始"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "人免疫球蛋白",
+      "nomeComercial": "百普乐（Privigen）、奥加恩（Octagam）、弗乐博（Flebogamma）",
+      "mecanismoAcao": "提供多克隆抗体，调节免疫反应，清除病原体",
+      "farmacocinetica": "静脉注射后快速分布，半衰期21–28天",
+      "farmacodinamica": "具有免疫调节、抗炎及替代作用",
+      "indicacoes": "原发性免疫缺陷、ITP、格林-巴利综合征、川崎病、自身免疫性神经病",
+      "reacoesAdversas": "发热、寒战、头痛、恶心、血栓、急性肾衰",
+      "riscoGravidez": "C类 – 谨慎使用",
+      "riscoLactacao": "可能安全；乳汁中排泄极少",
+      "administracao": "静脉注射",
+      "doseMaxima": "2g/kg（分几天给予）",
+      "doseMinima": "0.2–0.4g/kg",
+      "classificacao": "人免疫球蛋白，免疫调节剂",
+      "apresentacao": "1g、5g、10g瓶装",
+      "interacaoMedicamento": "可能影响活疫苗效果（如麻疹）",
+      "posologia": "个体化剂量，常见为0.4–2g/kg",
+      "armazenamento": "2–8°C，切勿冷冻",
+      "preparo": "使用输液泵，确保配伍",
+      "solucoesCompatíveis": "生理盐水、5%葡萄糖",
+      "contraindicacoes": "对人蛋白过敏、IgA缺乏伴抗IgA抗体",
+      "cuidadosMedicos": "监测肾功能、血栓迹象、不良反应",
+      "cuidadosFarmaceuticos": "确保配伍及稳定性",
+      "cuidadosEnfermagem": "监测生命体征及过敏反应，保持水化",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Donepezila",
+      "suspension": "Suspender 48 horas antes de cirurgia com anestesia geral, principalmente se uso de bloqueadores neuromusculares ou opioides",
+      "risk": "Bradicardia, síncope, náusea, vômito, sudorese, aumento de secreções, interação com anestésicos e anticolinérgicos",
+      "reintroduction": "Reintroduzir após 24–48h, com função digestiva estável e sem comprometimento hemodinâmico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Donepezila",
+      "nomeComercial": "Elipez, Aricept",
+      "mecanismoAcao": "Inibidor seletivo reversível da acetilcolinesterase; aumenta níveis de acetilcolina sináptica no SNC",
+      "farmacocinetica": "VO; biodisponibilidade >99%; T½ ~70h; metabolizado via CYP2D6/CYP3A4; excreção renal/fecal",
+      "farmacodinamica": "Melhora transmissão colinérgica cortical e hipocampal → melhora cognitiva leve/modesta",
+      "indicacoes": "Doença de Alzheimer leve a moderada/grave, demência por doença de Parkinson (off-label)",
+      "reacoesAdversas": "Náuseas, diarreia, insônia, bradicardia, fraqueza, perda de peso, sonolência",
+      "riscoGravidez": "Categoria C – evitar se possível",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "VO 1x/dia à noite",
+      "doseMaxima": "10mg/dia",
+      "doseMinima": "5mg/dia",
+      "classificacao": "Inibidor da acetilcolinesterase",
+      "apresentacao": "Comprimidos 5mg e 10mg; solução oral 1mg/ml",
+      "interacaoMedicamento": "Anticolinérgicos, anestésicos, succinilcolina, inibidores de CYP3A4 e 2D6",
+      "posologia": "5mg/dia por 4 semanas; aumentar para 10mg/dia se tolerado",
+      "armazenamento": "Temperatura ambiente; proteger da umidade",
+      "preparo": "Uso oral direto; solução disponível para disfagia",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade à donepezila ou derivados da piperidina",
+      "cuidadosMedicos": "Monitorar FC, PA, distúrbios do sono, função gastrintestinal",
+      "cuidadosFarmaceuticos": "Orientar sobre titulação lenta e efeitos colaterais precoces",
+      "cuidadosEnfermagem": "Observar confusão, alterações gastrointestinais, queda, bradicardia",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Donepezil",
+      "suspension": "Hold 48h prior to surgery with general anesthesia or muscle relaxants",
+      "risk": "Bradycardia, syncope, nausea, increased secretions, interaction with NM blockers",
+      "reintroduction": "Resume 24–48h postop when stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Donepezil",
+      "nomeComercial": "Aricept",
+      "mecanismoAcao": "Reversible acetylcholinesterase inhibitor; prolongs ACh availability in CNS",
+      "farmacocinetica": "Oral; T½ ~70h; CYP2D6/3A4 metabolism; renal/fecal excretion",
+      "farmacodinamica": "Enhances cholinergic neurotransmission in cortex and hippocampus",
+      "indicacoes": "Mild to severe Alzheimer’s dementia; Parkinson’s dementia (off-label)",
+      "reacoesAdversas": "GI upset, dizziness, bradycardia, insomnia, weight loss, fatigue",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended",
+      "administracao": "5–10mg PO QHS",
+      "doseMaxima": "10mg/day",
+      "doseMinima": "5mg/day",
+      "classificacao": "Cholinesterase inhibitor",
+      "apresentacao": "5mg, 10mg tablets; ODT; oral solution 1mg/ml",
+      "interacaoMedicamento": "Anticholinergics, anesthetics, succinylcholine, CYP inhibitors",
+      "posologia": "5mg/day x4 weeks, then 10mg/day",
+      "armazenamento": "Room temp; dry place",
+      "preparo": "Swallow whole or use solution",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Allergy to donepezil or piperidine derivatives",
+      "cuidadosMedicos": "Monitor HR, GI tolerance, cognitive changes",
+      "cuidadosFarmaceuticos": "Educate titration, early GI effects",
+      "cuidadosEnfermagem": "Observe HR, nausea, sleep changes, cognition",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Donepecilo",
+      "suspension": "Suspender 48h antes de cirugía con anestesia general o relajantes musculares",
+      "risk": "Bradicardia, síncope, náuseas, vómitos, secreciones aumentadas",
+      "reintroduction": "Reiniciar 24–48h tras cirugía si estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Donepecilo",
+      "nomeComercial": "Aricept",
+      "mecanismoAcao": "Inhibidor reversible de acetilcolinesterasa",
+      "farmacocinetica": "VO; T½ ~70h; metabolismo hepático; eliminación renal y fecal",
+      "farmacodinamica": "Aumenta acetilcolina en SNC → mejora memoria/síntomas cognitivos",
+      "indicacoes": "Demencia tipo Alzheimer leve a grave",
+      "reacoesAdversas": "Náuseas, diarrea, bradicardia, insomnio, pérdida de peso",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "VO 5–10mg/noche",
+      "doseMaxima": "10mg/día",
+      "doseMinima": "5mg/día",
+      "classificacao": "Inhibidor de la acetilcolinesterasa",
+      "apresentacao": "Comprimidos 5 y 10mg; solución oral",
+      "interacaoMedicamento": "Anticolinérgicos, succinilcolina, inhibidores de CYP",
+      "posologia": "5mg/día x4 sem.; luego 10mg/día",
+      "armazenamento": "Lugar seco, temp. ambiente",
+      "preparo": "VO; solución disponible",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad a derivados piperidina",
+      "cuidadosMedicos": "PA, pulso, función cognitiva, síntomas GI",
+      "cuidadosFarmaceuticos": "Explicar ajustes lentos y reacciones esperadas",
+      "cuidadosEnfermagem": "Observar náuseas, ritmo cardíaco, sueño",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "多奈哌齐",
+      "suspension": "术前48小时停药，尤其需全麻或肌松药时",
+      "risk": "心动过缓、恶心、呕吐、迷走反射增强、术中交感不稳",
+      "reintroduction": "术后24–48小时口服恢复后可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多奈哌齐",
+      "nomeComercial": "Aricept",
+      "mecanismoAcao": "选择性可逆AChE抑制剂，延长乙酰胆碱作用",
+      "farmacocinetica": "口服；T½约70小时；CYP2D6/3A4代谢；尿/粪排泄",
+      "farmacodinamica": "增强皮层和海马胆碱能神经传递",
+      "indicacoes": "阿尔茨海默病轻～重度期",
+      "reacoesAdversas": "胃肠道反应、心率下降、体重下降、失眠、困倦",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "不建议",
+      "administracao": "每日1次，晚间服用5–10mg",
+      "doseMaxima": "10mg/天",
+      "doseMinima": "5mg/天",
+      "classificacao": "胆碱酯酶抑制剂",
+      "apresentacao": "片剂5mg、10mg；口服液",
+      "interacaoMedicamento": "抗胆碱药、肌松药、CYP3A4抑制剂",
+      "posologia": "起始5mg，4周后可增至10mg/天",
+      "armazenamento": "干燥处保存，避光",
+      "preparo": "口服使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对药物过敏，术中风险高患者",
+      "cuidadosMedicos": "监测心率、睡眠、胃肠耐受",
+      "cuidadosFarmaceuticos": "告知家属疗效缓慢，预防跌倒",
+      "cuidadosEnfermagem": "观察恶心、跌倒、幻觉、进食下降",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Albiglutida",
+      "suspension": "Suspender 1 dia antes da cirurgia",
+      "risk": "Risco de náuseas, hipoglicemia (quando combinada), retardo do esvaziamento gástrico e impacto sobre jejum pré-operatório",
+      "reintroduction": "Reintroduzir após retomada da alimentação oral, com glicemia estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Albiglutida",
+      "nomeComercial": "Tanzeum (fora de comercialização nos EUA desde 2018)",
+      "mecanismoAcao": "Agonista do receptor de GLP-1; estimula secreção de insulina e inibe glucagon em resposta à glicose",
+      "farmacocinetica": "Administração subcutânea; meia-vida ~5 dias; excreção predominantemente renal",
+      "farmacodinamica": "Melhora controle glicêmico pós-prandial e basal, retarda o esvaziamento gástrico e promove saciedade",
+      "indicacoes": "Tratamento do diabetes mellitus tipo 2 em adultos, geralmente como segunda linha",
+      "reacoesAdversas": "Náuseas, diarreia, reações no local da injeção, pancreatite, infecções do trato respiratório superior",
+      "riscoGravidez": "Categoria C – não recomendado a menos que claramente necessário",
+      "riscoLactacao": "Desconhecido se excretado no leite; usar com cautela",
+      "administracao": "Injeção subcutânea semanal",
+      "doseMaxima": "50 mg 1x/semana",
+      "doseMinima": "30 mg 1x/semana",
+      "classificacao": "Agonista do receptor de GLP-1 (incretinomimético)",
+      "apresentacao": "Pó liofilizado para suspensão injetável (30 mg e 50 mg)",
+      "interacaoMedicamento": "Pode retardar absorção de fármacos orais; risco aumentado de hipoglicemia com sulfonilureias/insulina",
+      "posologia": "30 mg SC 1x/semana, podendo ajustar para 50 mg se necessário",
+      "armazenamento": "Refrigerado (2–8°C); após reconstituição, usar imediatamente",
+      "preparo": "Necessita reconstituição antes do uso; agitar suavemente até dissolução",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Histórico de pancreatite, carcinoma medular de tireoide, síndrome de neoplasia endócrina múltipla tipo 2 (MEN2)",
+      "cuidadosMedicos": "Monitorar sinais de pancreatite, controle glicêmico, função renal",
+      "cuidadosFarmaceuticos": "Orientar sobre preparo, descarte adequado e conservação",
+      "cuidadosEnfermagem": "Ensinar técnica de aplicação SC, observar reações locais",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, SBEM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Albiglutide",
+      "suspension": "Hold 1 day prior to surgery",
+      "risk": "Risk of nausea, delayed gastric emptying, perioperative hypoglycemia (if combined); affects fasting protocols",
+      "reintroduction": "Restart when oral intake resumes and glucose levels are stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Albiglutide",
+      "nomeComercial": "Tanzeum (withdrawn from US market since 2018)",
+      "mecanismoAcao": "GLP-1 receptor agonist; increases insulin secretion and suppresses glucagon in response to glucose",
+      "farmacocinetica": "SC injection; half-life ~5 days; primarily renal elimination",
+      "farmacodinamica": "Improves postprandial and fasting glucose control; delays gastric emptying and increases satiety",
+      "indicacoes": "Type 2 diabetes mellitus in adults as adjunct therapy",
+      "reacoesAdversas": "Nausea, diarrhea, injection site reactions, pancreatitis, URTI",
+      "riscoGravidez": "Category C – use only if benefits outweigh risks",
+      "riscoLactacao": "Unknown excretion in milk; use with caution",
+      "administracao": "Weekly subcutaneous injection",
+      "doseMaxima": "50 mg once weekly",
+      "doseMinima": "30 mg once weekly",
+      "classificacao": "GLP-1 receptor agonist (incretin mimetic)",
+      "apresentacao": "Lyophilized powder for SC injection (30 mg and 50 mg)",
+      "interacaoMedicamento": "May delay absorption of oral drugs; hypoglycemia risk with insulin or sulfonylureas",
+      "posologia": "30 mg SC once weekly, may increase to 50 mg if needed",
+      "armazenamento": "Refrigerate (2–8°C); use immediately after reconstitution",
+      "preparo": "Requires reconstitution; swirl gently to mix",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "History of pancreatitis, medullary thyroid carcinoma, MEN2",
+      "cuidadosMedicos": "Monitor pancreatitis signs, glycemic control, renal function",
+      "cuidadosFarmaceuticos": "Educate on reconstitution, storage, and disposal",
+      "cuidadosEnfermagem": "Teach SC injection, monitor local site reactions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, ADA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Albiglutida",
+      "suspension": "Suspender 1 día antes de la cirugía",
+      "risk": "Riesgo de náuseas, hipoglucemia (con insulina), vaciamiento gástrico lento; puede afectar ayuno prequirúrgico",
+      "reintroduction": "Reintroducir tras reanudación de alimentación oral y glucemia estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Albiglutida",
+      "nomeComercial": "Tanzeum (retirado del mercado en EE.UU.)",
+      "mecanismoAcao": "Agonista del receptor GLP-1; estimula insulina e inhibe glucagón en respuesta a glucosa",
+      "farmacocinetica": "Inyección subcutánea semanal; vida media ~5 días; excreción renal",
+      "farmacodinamica": "Mejora control glucémico basal y posprandial, retrasa vaciamiento gástrico",
+      "indicacoes": "Diabetes tipo 2 en adultos como terapia adicional",
+      "reacoesAdversas": "Náuseas, diarrea, reacciones en el sitio de inyección, pancreatitis, infecciones respiratorias",
+      "riscoGravidez": "Categoría C – usar solo si es necesario",
+      "riscoLactacao": "Se desconoce excreción en leche; usar con precaución",
+      "administracao": "Subcutánea semanal",
+      "doseMaxima": "50 mg 1 vez por semana",
+      "doseMinima": "30 mg 1 vez por semana",
+      "classificacao": "Agonista de GLP-1 (mimético incretínico)",
+      "apresentacao": "Polvo liofilizado para inyección SC (30 y 50 mg)",
+      "interacaoMedicamento": "Ralentiza absorción de orales; mayor riesgo de hipoglucemia con insulina/sulfonilureas",
+      "posologia": "30 mg SC semanal; aumentar a 50 mg si necesario",
+      "armazenamento": "Refrigerado (2–8°C); usar inmediatamente tras reconstitución",
+      "preparo": "Requiere reconstitución suave antes de uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Pancreatitis, carcinoma medular de tiroides, MEN2",
+      "cuidadosMedicos": "Monitorear pancreatitis, control glucémico, función renal",
+      "cuidadosFarmaceuticos": "Educar en mezcla, conservación y descarte",
+      "cuidadosEnfermagem": "Supervisar técnica SC, observar reacciones locales",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "艾塞鲁肽（Albiglutide）",
+      "suspension": "术前1天停药",
+      "risk": "可能导致恶心、低血糖（与胰岛素联用）、胃排空延迟，影响术前禁食",
+      "reintroduction": "术后恢复进食并血糖稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "艾塞鲁肽（Albiglutide）",
+      "nomeComercial": "Tanzeum（已退出美国市场）",
+      "mecanismoAcao": "GLP-1受体激动剂，促进胰岛素分泌，抑制葡萄糖诱导的胰高血糖素释放",
+      "farmacocinetica": "皮下注射，半衰期约5天，主要肾脏排泄",
+      "farmacodinamica": "改善空腹及餐后血糖，延缓胃排空，增强饱腹感",
+      "indicacoes": "成人2型糖尿病，作为辅助治疗",
+      "reacoesAdversas": "恶心、腹泻、注射部位反应、胰腺炎、上呼吸道感染",
+      "riscoGravidez": "C类 – 仅在必要时使用",
+      "riscoLactacao": "是否分泌入乳未知；慎用",
+      "administracao": "每周一次皮下注射",
+      "doseMaxima": "每周50毫克",
+      "doseMinima": "每周30毫克",
+      "classificacao": "GLP-1受体激动剂（促胰素模拟物）",
+      "apresentacao": "30和50毫克冻干粉，皮下注射用",
+      "interacaoMedicamento": "可能延迟口服药物吸收；与胰岛素/磺脲类联用易低血糖",
+      "posologia": "起始30 mg SC，每周一次；必要时增至50 mg",
+      "armazenamento": "2–8°C冷藏，重构后立即使用",
+      "preparo": "使用前需温和摇匀重构",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "胰腺炎史、甲状腺髓样癌、MEN2",
+      "cuidadosMedicos": "监测胰腺炎表现、肾功能及血糖",
+      "cuidadosFarmaceuticos": "指导配制、储存及废弃方法",
+      "cuidadosEnfermagem": "指导皮下注射方法，观察局部反应",
+      "fontesBibliograficas": "FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

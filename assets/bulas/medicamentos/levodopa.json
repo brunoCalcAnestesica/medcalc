@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Levodopa",
+      "suspension": "Suspender 12 horas antes de anestesia geral somente em casos específicos (ex: neurocirurgia ou se orientação anestésica específica)",
+      "risk": "Discinesias, hipotensão ortostática, confusão, alucinações, interação com anestésicos halogenados e inibidores da MAO",
+      "reintroduction": "Reintroduzir tão logo via oral esteja disponível no pós-operatório, idealmente nas primeiras 6 horas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levodopa",
+      "nomeComercial": "Sinemet (com carbidopa), Prolopa (com benserazida)",
+      "mecanismoAcao": "Precursor da dopamina; atravessa a barreira hematoencefálica e é convertido em dopamina no SNC",
+      "farmacocinetica": "VO; rápida absorção; T½ ~1–2h; metabolizado perifericamente sem inibidor; excreção renal",
+      "farmacodinamica": "Reposição de dopamina no estriado cerebral → melhora rigidez, bradicinesia e tremores em Parkinson",
+      "indicacoes": "Doença de Parkinson, síndrome das pernas inquietas (off-label)",
+      "reacoesAdversas": "Discinesia, hipotensão postural, náuseas, confusão, sonolência, insônia, alucinações",
+      "riscoGravidez": "Categoria C – uso se benefício justificar o risco",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "VO; 1 a 3 vezes ao dia conforme formulação",
+      "doseMaxima": "Levodopa 800mg/dia (associada a inibidor da DDC)",
+      "doseMinima": "Levodopa 100mg/dia",
+      "classificacao": "Dopaminérgico antiparkinsoniano",
+      "apresentacao": "Comprimidos simples e de liberação prolongada (25/100mg, 50/200mg, etc.)",
+      "interacaoMedicamento": "Interação com MAOIs não seletivos, metoclopramida, antipsicóticos, ferro oral, anestésicos voláteis",
+      "posologia": "Doses individuais ajustadas; exemplo comum: 25/100mg VO 3x/dia",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Uso oral; EV não disponível",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Glaucoma de ângulo fechado, uso com IMAOs não seletivos",
+      "cuidadosMedicos": "Evitar interrupção abrupta; monitorar pressão, status mental, discinesias",
+      "cuidadosFarmaceuticos": "Orientar sobre janela terapêutica, evitar alimentos proteicos próximos à dose",
+      "cuidadosEnfermagem": "Observar rigidez, alucinações, oscilações motoras, náuseas",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex, SBEM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Levodopa",
+      "suspension": "Discontinue 12h before surgery only when required by neurosurgical or anesthetic protocol",
+      "risk": "Dyskinesia, hypotension, confusion, hallucinations, MAOI interaction, volatile anesthetic sensitization",
+      "reintroduction": "Restart as soon as oral route is possible, ideally within 6h postop"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levodopa",
+      "nomeComercial": "Sinemet (with carbidopa), Stalevo (with entacapone)",
+      "mecanismoAcao": "Dopamine precursor; crosses BBB and is converted to dopamine in CNS",
+      "farmacocinetica": "Oral; T½ ~1–2h; metabolized by AADC; renal elimination",
+      "farmacodinamica": "Restores dopaminergic tone in Parkinson’s disease",
+      "indicacoes": "Parkinson’s disease, restless legs (off-label)",
+      "reacoesAdversas": "Dyskinesias, nausea, dizziness, hallucinations, insomnia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral, 1–4× daily",
+      "doseMaxima": "Levodopa 800mg/day",
+      "doseMinima": "100mg/day",
+      "classificacao": "Dopaminergic antiparkinsonian",
+      "apresentacao": "IR and CR tablets (e.g., 25/100mg, 50/200mg)",
+      "interacaoMedicamento": "Avoid with non-selective MAOIs, antipsychotics, metoclopramide, iron",
+      "posologia": "Common: 25/100mg TID; individualized",
+      "armazenamento": "Room temperature; protect from moisture/light",
+      "preparo": "Oral use only",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Narrow-angle glaucoma, MAOI use",
+      "cuidadosMedicos": "Avoid abrupt withdrawal; monitor BP, hallucinations, motor symptoms",
+      "cuidadosFarmaceuticos": "Protein interference education; timing consistency",
+      "cuidadosEnfermagem": "Observe for rigidity, motor fluctuation, nausea, confusion",
+      "fontesBibliograficas": "FDA label, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Levodopa",
+      "suspension": "Suspender 12h antes solo si lo indica el anestesista o en neurocirugía",
+      "risk": "Discinesias, hipotensión, confusión, alucinaciones, interacción con anestesia",
+      "reintroduction": "Reiniciar VO en 6h postoperatorio si es posible"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levodopa",
+      "nomeComercial": "Sinemet, Prolopa",
+      "mecanismoAcao": "Precursor dopaminérgico que atraviesa la BHE y se convierte en dopamina",
+      "farmacocinetica": "VO; T½ 1–2h; metabolismo periférico; eliminación renal",
+      "farmacodinamica": "Reemplazo dopamina en sistema nigroestriado",
+      "indicacoes": "Enfermedad de Parkinson, piernas inquietas (off-label)",
+      "reacoesAdversas": "Náuseas, discinesias, confusión, insomnio, alucinaciones",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "VO 1–3 veces/día según formulación",
+      "doseMaxima": "800mg/día de levodopa",
+      "doseMinima": "100mg/día",
+      "classificacao": "Antiparkinsoniano dopaminérgico",
+      "apresentacao": "Comprimidos IR/CR (25/100mg, 50/200mg)",
+      "interacaoMedicamento": "Evitar con IMAO no selectivos, metoclopramida, antipsicóticos",
+      "posologia": "25/100mg VO 3×/día; ajustar",
+      "armazenamento": "Ambiente seco y fresco",
+      "preparo": "Oral únicamente",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Glaucoma angosto, uso de IMAO",
+      "cuidadosMedicos": "Monitoreo PA, mental, motor; evitar interrupción brusca",
+      "cuidadosFarmaceuticos": "Evitar proteínas cerca de la toma",
+      "cuidadosEnfermagem": "Observar discinesias, náuseas, confusión",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "左旋多巴",
+      "suspension": "术前12小时停药，仅限神经外科或麻醉科要求时",
+      "risk": "运动波动、低血压、幻觉、恶心、与麻醉药互作",
+      "reintroduction": "术后6小时内恢复口服为佳"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "左旋多巴",
+      "nomeComercial": "美多巴（Sinemet）、普洛帕（Prolopa）",
+      "mecanismoAcao": "多巴胺前体，进入中枢转化为多巴胺",
+      "farmacocinetica": "口服；T½ 1–2小时；外周代谢；肾排泄",
+      "farmacodinamica": "补充黑质纹状体多巴胺，改善帕金森症状",
+      "indicacoes": "帕金森病、RLS（非适应症）",
+      "reacoesAdversas": "异动症、恶心、低血压、嗜睡、精神症状",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "不建议",
+      "administracao": "每日2–4次，根据类型调整",
+      "doseMaxima": "左旋多巴800mg/天",
+      "doseMinima": "100mg/天",
+      "classificacao": "抗帕金森药，多巴胺替代物",
+      "apresentacao": "速释/缓释片剂：25/100、50/200",
+      "interacaoMedicamento": "IMAO、抗精神病药、麦角类药、铁剂",
+      "posologia": "25/100mg 口服3次/日，个体化调整",
+      "armazenamento": "干燥避光，室温",
+      "preparo": "口服使用，不可静脉使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "闭角型青光眼、使用非选择性MAOI",
+      "cuidadosMedicos": "避免突然停药；监测血压、精神状态、运动控制",
+      "cuidadosFarmaceuticos": "指导服药规律、避免高蛋白饮食干扰",
+      "cuidadosEnfermagem": "观察步态波动、恶心、跌倒、幻觉",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

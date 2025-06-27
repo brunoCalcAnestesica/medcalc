@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Loperamida",
+      "suspension": "Suspender 24h antes de cirurgias abdominais ou digestivas maiores",
+      "risk": "Risco de íleo paralítico e mascaramento de dor abdominal; evitar uso profilático",
+      "reintroduction": "Reintroduzir com cautela após o retorno da função intestinal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Loperamida",
+      "nomeComercial": "Imosec, Diasec, Kaosec",
+      "mecanismoAcao": "Agonista de receptores opioides μ nos plexos entéricos, reduzindo peristaltismo intestinal",
+      "farmacocinetica": "Oral, início em 1h, meia-vida 10–14h, metabolização hepática",
+      "farmacodinamica": "Aumenta o tempo de trânsito intestinal e a absorção de água e eletrólitos",
+      "indicacoes": "Diarreia aguda e crônica não infecciosa",
+      "reacoesAdversas": "Constipação, distensão, náuseas, tontura, íleo paralítico",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Uso com cautela",
+      "administracao": "Oral",
+      "doseMaxima": "16 mg/dia",
+      "doseMinima": "2 mg/dose",
+      "classificacao": "Antidiarreico opioide periférico",
+      "apresentacao": "Comprimidos 2 mg, cápsulas, solução oral",
+      "interacaoMedicamento": "Potencialização com inibidores da P-gp e CYP3A4",
+      "posologia": "2 mg após cada evacuação diarreica, máximo 16 mg/dia",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Colite ulcerativa aguda, diarreia infecciosa, íleo paralítico",
+      "cuidadosMedicos": "Evitar em pacientes com suspeita de abdome agudo ou colite infecciosa",
+      "cuidadosFarmaceuticos": "Monitorar sinais de constipação ou distensão abdominal",
+      "cuidadosEnfermagem": "Observar padrão intestinal e hidratação",
+      "fontesBibliograficas": "ANVISA, FDA, BNF, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Loperamide",
+      "suspension": "Discontinue 24h before GI surgeries",
+      "risk": "Risk of paralytic ileus and masking abdominal pain; avoid prophylactic use",
+      "reintroduction": "Restart cautiously after bowel function resumes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Loperamide",
+      "nomeComercial": "Imodium",
+      "mecanismoAcao": "μ-opioid receptor agonist in enteric nerves, slowing gut motility",
+      "farmacocinetica": "Oral, onset ~1h, half-life 10–14h, hepatic metabolism",
+      "farmacodinamica": "Prolongs intestinal transit time, enhances water/electrolyte absorption",
+      "indicacoes": "Non-infectious acute and chronic diarrhea",
+      "reacoesAdversas": "Constipation, bloating, nausea, dizziness, paralytic ileus",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use with caution",
+      "administracao": "Oral",
+      "doseMaxima": "16 mg/day",
+      "doseMinima": "2 mg/dose",
+      "classificacao": "Peripheral opioid antidiarrheal",
+      "apresentacao": "Tablets 2 mg, capsules, oral solution",
+      "interacaoMedicamento": "Enhanced by P-gp and CYP3A4 inhibitors",
+      "posologia": "2 mg after each loose stool, max 16 mg/day",
+      "armazenamento": "Room temp, protect from light",
+      "preparo": "Direct oral use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Acute ulcerative colitis, infectious diarrhea, paralytic ileus",
+      "cuidadosMedicos": "Avoid in suspected surgical abdomen or infectious diarrhea",
+      "cuidadosFarmaceuticos": "Monitor for constipation or distention",
+      "cuidadosEnfermagem": "Monitor bowel function and hydration",
+      "fontesBibliograficas": "FDA, BNF, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Loperamida",
+      "suspension": "Suspender 24h antes de cirugía abdominal o digestiva",
+      "risk": "Riesgo de íleo paralítico y enmascaramiento de dolor abdominal",
+      "reintroduction": "Reintroducir tras retorno de la función intestinal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Loperamida",
+      "nomeComercial": "Fortasec, Imodium",
+      "mecanismoAcao": "Agonista opioide μ en nervios entéricos; reduce motilidad intestinal",
+      "farmacocinetica": "Oral, inicio ~1h, vida media 10–14h, metabolismo hepático",
+      "farmacodinamica": "Prolonga tránsito intestinal y mejora absorción de agua y electrolitos",
+      "indicacoes": "Diarrea aguda y crónica no infecciosa",
+      "reacoesAdversas": "Estreñimiento, distensión, náuseas, íleo",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Precaución",
+      "administracao": "Oral",
+      "doseMaxima": "16 mg/día",
+      "doseMinima": "2 mg/dosis",
+      "classificacao": "Antidiarreico opioide periférico",
+      "apresentacao": "Comprimidos 2 mg, solución oral",
+      "interacaoMedicamento": "Aumentada con inhibidores de P-gp y CYP3A4",
+      "posologia": "2 mg tras cada deposición diarreica, máximo 16 mg/día",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Colitis ulcerosa aguda, diarrea infecciosa, íleo paralítico",
+      "cuidadosMedicos": "Evitar en sospecha de abdomen agudo",
+      "cuidadosFarmaceuticos": "Controlar estreñimiento y distensión",
+      "cuidadosEnfermagem": "Vigilar patrón intestinal e hidratación",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "洛哌丁胺",
+      "suspension": "术前24小时停用（胃肠手术）",
+      "risk": "有肠麻痹及掩盖腹痛风险，术前慎用",
+      "reintroduction": "术后肠功能恢复后可慎重重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "洛哌丁胺",
+      "nomeComercial": "易蒙停（Imodium）",
+      "mecanismoAcao": "激动肠神经μ-阿片受体，抑制肠蠕动",
+      "farmacocinetica": "口服，起效约1小时，半衰期10–14小时，经肝代谢",
+      "farmacodinamica": "延长肠道通过时间，促进水电解质吸收",
+      "indicacoes": "非感染性腹泻（急性与慢性）",
+      "reacoesAdversas": "便秘、腹胀、恶心、肠麻痹",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日不超过16毫克",
+      "doseMinima": "每次2毫克",
+      "classificacao": "外周性阿片类止泻药",
+      "apresentacao": "片剂2毫克，口服液",
+      "interacaoMedicamento": "与P-gp及CYP3A4抑制剂合用风险增加",
+      "posologia": "每次腹泻后服2毫克，最多每日16毫克",
+      "armazenamento": "室温避光",
+      "preparo": "口服直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "急性溃疡性结肠炎、感染性腹泻、肠麻痹",
+      "cuidadosMedicos": "避免用于疑似急腹症患者",
+      "cuidadosFarmaceuticos": "警惕便秘和腹胀发生",
+      "cuidadosEnfermagem": "监测排便和水分摄入",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、FDA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Morfina",
+      "suspension": "Suspender 12–24h antes da cirurgia eletiva se uso crônico oral/parenteral; manter em anestesia sob vigilância",
+      "risk": "Risco de depressão respiratória, hipotensão, náusea e interação com anestésicos, benzodiazepínicos e outros opioides",
+      "reintroduction": "Reintroduzir no pós-operatório com titulação cuidadosa, monitorando sedação, dor e função respiratória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato de Morfina",
+      "nomeComercial": "Dimorf, MST, Sevredol, Kapanol, Astramorph, Oramorph",
+      "mecanismoAcao": "Agonista µ-opioide puro; age nos receptores opioides no SNC e trato gastrointestinal; promove analgesia, euforia, sedação e depressão respiratória",
+      "farmacocinetica": "Biodisponibilidade oral ~30%; início IV: 5min, duração 3–4h; metabolizado no fígado (glucuronidação); eliminação renal",
+      "farmacodinamica": "Analgésico padrão ouro para dor intensa; uso em pós-operatório, dor oncológica, cuidados paliativos e anestesia",
+      "indicacoes": "Dor aguda e crônica intensa, analgesia pós-operatória, dor oncológica, pré-medicação anestésica",
+      "reacoesAdversas": "Depressão respiratória, náuseas, vômitos, constipação, prurido, hipotensão, retenção urinária, tolerância e dependência",
+      "riscoGravidez": "Categoria C (uso restrito)",
+      "riscoLactacao": "Excretado no leite materno; evitar uso prolongado ou em altas doses na lactação",
+      "administracao": "Oral, subcutânea, intramuscular, intravenosa, epidural, intratecal, retal",
+      "doseMaxima": "Não definida – ajuste baseado na dor, tolerância e vigilância clínica; iniciar com 2–10mg IV cada 4h (adulto não tolerante)",
+      "doseMinima": "Oral: 5mg; IV: 1–2mg",
+      "classificacao": "Opioide agonista puro (µ) – analgésico potente",
+      "apresentacao": "Comprimidos, solução oral, ampola IV/SC/IM, formulações de liberação controlada, supositórios",
+      "interacaoMedicamento": "Depressores do SNC, benzodiazepínicos, álcool, IMAO, antipsicóticos, anestésicos inalatórios, relaxantes musculares",
+      "posologia": "Oral: 10–30mg cada 4h; IV: 2–5mg lento; SC: 5–10mg; ajustar com base na resposta e condição clínica",
+      "armazenamento": "Ambiente fresco e seco, protegido da luz",
+      "preparo": "Diluir para infusão IV contínua; monitorar dose acumulada em PCA (analgesia controlada pelo paciente)",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%; compatível com midazolam, haloperidol",
+      "contraindicacoes": "Depressão respiratória grave, íleo paralítico, TCE grave, uso recente de IMAO, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar FR, dor, pupilas, PA e saturação; ajustar dose em idosos e insuficiência renal/hepática",
+      "cuidadosFarmaceuticos": "Verificar compatibilidade em infusão contínua; reforçar prescrição segura e avaliação regular de analgesia",
+      "cuidadosEnfermagem": "Avaliar escala de dor, nível de sedação, RR, constipação, retenção urinária e confusão mental",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, SBED, Micromedex, Lexicomp, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Morphine",
+      "suspension": "Discontinue 12–24h before elective surgery if on chronic use; may be continued under anesthesia with close monitoring",
+      "risk": "Respiratory depression, hypotension, nausea, and serious interaction with anesthetics and CNS depressants",
+      "reintroduction": "Reintroduce cautiously post-op with pain reassessment and respiratory monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Morphine Sulfate",
+      "nomeComercial": "MS Contin, Kadian, Avinza, Morphabond, Astramorph, Duramorph",
+      "mecanismoAcao": "Pure µ-opioid receptor agonist; modulates nociceptive signaling in the CNS and GI tract",
+      "farmacocinetica": "Oral bioavailability ~30%; IV onset: 5min, duration 3–4h; hepatic metabolism (glucuronidation); renal elimination",
+      "farmacodinamica": "Gold-standard opioid for severe pain; used in acute, postoperative, cancer pain and palliative care",
+      "indicacoes": "Moderate-to-severe pain, post-op analgesia, cancer pain, anesthesia adjunct",
+      "reacoesAdversas": "Respiratory depression, nausea, vomiting, constipation, sedation, pruritus, urinary retention, dependence",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; caution with high/prolonged use",
+      "administracao": "Oral, SC, IM, IV, epidural, intrathecal, rectal",
+      "doseMaxima": "No fixed maximum; adjust per tolerance and pain level; IV initial dose: 2–10mg",
+      "doseMinima": "Oral: 5mg; IV: 1–2mg",
+      "classificacao": "Opioid analgesic (full µ-agonist)",
+      "apresentacao": "Tablets, oral solution, IV/SC/IM ampoules, sustained-release tablets, suppositories",
+      "interacaoMedicamento": "CNS depressants, benzodiazepines, alcohol, MAOIs, antipsychotics, inhaled anesthetics",
+      "posologia": "Oral: 10–30mg q4h; IV: 2–5mg slow; SC: 5–10mg; titrate as needed",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Dilute for continuous infusion; use PCA when appropriate",
+      "solucoesCompatíveis": "NS, D5W; compatible with midazolam, haloperidol",
+      "contraindicacoes": "Severe respiratory depression, paralytic ileus, head injury, recent MAOI use",
+      "cuidadosMedicos": "Monitor RR, BP, sedation, pupils, and renal/hepatic function",
+      "cuidadosFarmaceuticos": "Confirm opioid rotation equivalence, verify infusion compatibility, check total daily dose",
+      "cuidadosEnfermagem": "Assess pain scale, sedation, bowel/bladder function, RR and SpO2",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, ASA, WHO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Morfina",
+      "suspension": "Suspender 12–24h antes de cirugía electiva si uso crónico; continuar intraoperatoriamente con vigilancia",
+      "risk": "Depresión respiratoria, náuseas, hipotensión e interacción grave con anestésicos y depresores del SNC",
+      "reintroduction": "Reintroducir con monitoreo postoperatorio, ajustando dosis según dolor y sedación"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato de Morfina",
+      "nomeComercial": "Morfina Genfar, Dolantina, MST, Sevredol, Kapanol",
+      "mecanismoAcao": "Agonista µ-opioide puro; actúa en SNC y sistema gastrointestinal como analgésico y sedante",
+      "farmacocinetica": "Biodisponibilidad oral ~30%; inicio IV: 5min, duración 3–4h; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Estándar para el manejo del dolor severo; usado en cirugía, oncología y cuidados paliativos",
+      "indicacoes": "Dolor agudo o crónico severo, analgesia postoperatoria, dolor oncológico, anestesia",
+      "reacoesAdversas": "Depresión respiratoria, somnolencia, náuseas, vómitos, estreñimiento, prurito, retención urinaria, tolerancia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche materna; evitar en dosis altas o uso prolongado",
+      "administracao": "Oral, SC, IM, IV, epidural, intratecal, rectal",
+      "doseMaxima": "Variable según tolerancia y necesidad; IV: 2–10mg/dosis",
+      "doseMinima": "Oral: 5mg; IV: 1–2mg",
+      "classificacao": "Analgésico opioide potente (agonista µ)",
+      "apresentacao": "Comprimidos, solución oral, ampolletas, liberación prolongada, supositorios",
+      "interacaoMedicamento": "Depresores del SNC, benzodiacepinas, alcohol, anestésicos, IMAO, antipsicóticos",
+      "posologia": "Oral: 10–30mg cada 4h; IV: 2–5mg; SC: 5–10mg; individualizar dosis",
+      "armazenamento": "Ambiente fresco, seco, protegido de luz",
+      "preparo": "Diluir para infusión continua si es necesario; PCA si está disponible",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%, compatible con midazolam",
+      "contraindicacoes": "Depresión respiratoria severa, íleo paralítico, trauma craneal, uso reciente de IMAO",
+      "cuidadosMedicos": "Monitorear FR, PA, conciencia, función renal y hepática",
+      "cuidadosFarmaceuticos": "Ajustar según respuesta, verificar compatibilidades IV, realizar rotación opioide segura",
+      "cuidadosEnfermagem": "Observar dolor, FR, nivel de conciencia, eliminación intestinal y urinaria",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "吗啡",
+      "suspension": "慢性使用者术前12–24小时停药；术中需持续监控可继续使用",
+      "risk": "呼吸抑制、低血压、恶心、与麻醉剂、中枢抑制药显著相互作用",
+      "reintroduction": "术后疼痛控制时可重新开始使用，须监测呼吸和镇静"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硫酸吗啡",
+      "nomeComercial": "吗啡注射液、口服缓释片、Kadian、MS Contin、奥瑞莫尔福",
+      "mecanismoAcao": "μ受体完全激动剂；中枢和胃肠道均有显著镇痛、镇静和副作用",
+      "farmacocinetica": "口服生物利用度30%；IV起效5分钟，持续3–4小时；肝代谢，肾排泄",
+      "farmacodinamica": "用于严重疼痛的金标准药物；适用于术后、癌痛、ICU、镇静",
+      "indicacoes": "急慢性重度疼痛、术后镇痛、癌症疼痛、麻醉辅助",
+      "reacoesAdversas": "呼吸抑制、便秘、恶心、呕吐、瘙痒、尿潴留、镇静、耐药与依赖",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "分泌入乳汁；避免高剂量或长期使用哺乳期患者",
+      "administracao": "口服、静脉、皮下、肌注、硬膜外、鞘内、直肠",
+      "doseMaxima": "无固定上限，根据疼痛和耐受调整；IV初始2–10mg",
+      "doseMinima": "口服：5mg；IV：1–2mg",
+      "classificacao": "μ阿片受体激动剂（强效）",
+      "apresentacao": "注射剂、口服溶液、缓释片、栓剂",
+      "interacaoMedicamento": "苯二氮䓬类、酒精、吸入麻醉剂、抗精神病药、MAOI",
+      "posologia": "口服：10–30mg每4小时；IV：2–5mg缓慢推注；皮下注射：5–10mg",
+      "armazenamento": "避光干燥保存，室温下稳定",
+      "preparo": "持续泵输需稀释；患者自控镇痛（PCA）推荐应用",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖，与咪达唑仑兼容",
+      "contraindicacoes": "严重呼吸抑制、肠麻痹、严重颅脑损伤、近期使用MAOI",
+      "cuidadosMedicos": "监测呼吸、意识、血压、肾肝功能；逐步调整剂量",
+      "cuidadosFarmaceuticos": "确认阿片转换比例、预防过量及配伍禁忌",
+      "cuidadosEnfermagem": "评估疼痛、呼吸频率、镇静状态、便秘和排尿情况",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

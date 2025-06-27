@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Elvitegravir",
+      "suspension": "Manter até o dia da cirurgia, salvo em caso de toxicidade hepática ou interação com anestésicos via CYP3A",
+      "risk": "Interações com indutores ou inibidores do CYP3A, risco de elevação hepática, náusea, diarreia, cefaleia",
+      "reintroduction": "Manter no pós-operatório, com monitoramento hepático se necessário"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Elvitegravir",
+      "nomeComercial": "Vitekta (isolado), Stribild, Genvoya (em combinação)",
+      "mecanismoAcao": "Inibidor da integrase do HIV-1, bloqueando a integração do DNA viral ao genoma do hospedeiro",
+      "farmacocinetica": "Biodisponibilidade aumentada com alimentos; metabolizado via CYP3A; meia-vida ~12,9 h",
+      "farmacodinamica": "Potente efeito antirretroviral, reduz carga viral em combinação com outros fármacos",
+      "indicacoes": "Infecção pelo HIV-1 em combinação com cobicistate, emtricitabina e tenofovir",
+      "reacoesAdversas": "Cefaleia, náusea, diarreia, elevação de ALT/AST, fadiga",
+      "riscoGravidez": "Categoria B – uso permitido com acompanhamento",
+      "riscoLactacao": "Evitar; excreção no leite desconhecida",
+      "administracao": "Oral, 1x/dia com alimentos",
+      "doseMaxima": "150 mg/dia (isolado)",
+      "doseMinima": "150 mg/dia",
+      "classificacao": "Inibidor de integrase do HIV-1",
+      "apresentacao": "Comprimido 150 mg (isolado) ou combinado em dose fixa",
+      "interacaoMedicamento": "Interage com anticonvulsivantes, rifampicina, antiácidos, ciclosporina, anticoncepcionais hormonais",
+      "posologia": "150 mg VO 1x/dia com cobicistate e outros antirretrovirais",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso isolado; coadministração com indutores fortes de CYP3A",
+      "cuidadosMedicos": "Monitorar função hepática, interações medicamentosas",
+      "cuidadosFarmaceuticos": "Orientar adesão e uso com alimentos",
+      "cuidadosEnfermagem": "Observar sintomas gastrointestinais e hepatotoxicidade",
+      "fontesBibliograficas": "FDA, ANVISA, UpToDate, Micromedex, DHHS Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Elvitegravir",
+      "suspension": "Continue perioperatively unless liver toxicity or CYP3A interaction risk is present",
+      "risk": "CYP3A interactions; elevated LFTs, nausea, headache, diarrhea",
+      "reintroduction": "Continue post-op with hepatic monitoring if needed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Elvitegravir",
+      "nomeComercial": "Vitekta (monotherapy), Stribild, Genvoya",
+      "mecanismoAcao": "HIV-1 integrase strand transfer inhibitor (INSTI)",
+      "farmacocinetica": "Enhanced with food; metabolized via CYP3A; t½ ~12.9 h",
+      "farmacodinamica": "Blocks viral DNA integration into host genome",
+      "indicacoes": "HIV-1 infection as part of combination therapy",
+      "reacoesAdversas": "Headache, nausea, diarrhea, elevated liver enzymes",
+      "riscoGravidez": "Category B – monitor closely",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral, once daily with food",
+      "doseMaxima": "150 mg/day (stand-alone)",
+      "doseMinima": "150 mg/day",
+      "classificacao": "INSTI – antiretroviral",
+      "apresentacao": "150 mg tablets or in FDC (fixed-dose combinations)",
+      "interacaoMedicamento": "CYP3A inducers/inhibitors; avoid rifampin, carbamazepine, St John's Wort",
+      "posologia": "150 mg PO daily with cobicistat and other ARVs",
+      "armazenamento": "Room temperature (15–30°C)",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Monotherapy; strong CYP3A inducers",
+      "cuidadosMedicos": "Monitor LFTs and drug interactions",
+      "cuidadosFarmaceuticos": "Educate on food intake and adherence",
+      "cuidadosEnfermagem": "Monitor GI tolerance, hepatic labs",
+      "fontesBibliograficas": "FDA, DHHS, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Elvitegravir",
+      "suspension": "Mantener salvo hepatotoxicidad o interacciones severas (CYP3A)",
+      "risk": "Elevación hepática, cefalea, náusea, interacción con antiepilépticos y rifampicina",
+      "reintroduction": "Mantener con vigilancia hepática posoperatoria si necesario"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Elvitegravir",
+      "nomeComercial": "Vitekta, Stribild, Genvoya",
+      "mecanismoAcao": "Inhibidor de la integrasa del VIH-1",
+      "farmacocinetica": "Absorción mejorada con comida; metabolismo CYP3A",
+      "farmacodinamica": "Bloquea integración de ADN viral en células del huésped",
+      "indicacoes": "VIH-1 como parte de terapia combinada",
+      "reacoesAdversas": "Náuseas, cefalea, ALT elevada, diarrea",
+      "riscoGravidez": "Categoría B – monitorizar",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Oral, con alimentos",
+      "doseMaxima": "150 mg/día",
+      "doseMinima": "150 mg/día",
+      "classificacao": "Inhibidor de integrasa",
+      "apresentacao": "Tabletas de 150 mg o combinaciones",
+      "interacaoMedicamento": "Inductores e inhibidores CYP3A; evitar rifampicina",
+      "posologia": "150 mg 1x/día con cobicistat + ARVs",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Monoterapia, inductores potentes CYP3A",
+      "cuidadosMedicos": "Monitorear interacciones y enzimas hepáticas",
+      "cuidadosFarmaceuticos": "Asegurar cumplimiento, advertir sobre comidas",
+      "cuidadosEnfermagem": "Evaluar digestión y hepática",
+      "fontesBibliograficas": "AEMPS, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "Elvitegravir 艾维曲韦",
+      "suspension": "除非肝毒性或与CYP3A药物相互作用，一般术前可继续",
+      "risk": "肝酶升高、恶心、头痛、与CYP3A药物交互作用显著",
+      "reintroduction": "术后稳定后继续使用并监测肝功能"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "艾维曲韦（Elvitegravir）",
+      "nomeComercial": "Vitekta（单用），Stribild、Genvoya（复方）",
+      "mecanismoAcao": "HIV整合酶抑制剂，阻断病毒DNA嵌入宿主基因组",
+      "farmacocinetica": "口服吸收佳（餐后），CYP3A代谢，t½约13小时",
+      "farmacodinamica": "抗HIV作用强，需与增强剂（cobicistat）合用",
+      "indicacoes": "HIV感染（联合治疗）",
+      "reacoesAdversas": "胃肠不适、ALT升高、乏力、头痛",
+      "riscoGravidez": "B类，可用但需评估",
+      "riscoLactacao": "不推荐",
+      "administracao": "口服，每日1次，随餐服用",
+      "doseMaxima": "150 mg/日",
+      "doseMinima": "150 mg/日",
+      "classificacao": "HIV整合酶抑制剂",
+      "apresentacao": "150 mg片剂，或合并固定剂量片",
+      "interacaoMedicamento": "与CYP3A诱导剂/抑制剂（如利福平、卡马西平）相互作用大",
+      "posologia": "150 mg + cobicistat每日1次",
+      "armazenamento": "常温保存（15–30°C）",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "单药使用，强诱导剂并用",
+      "cuidadosMedicos": "监测肝功能、电解质与相互作用",
+      "cuidadosFarmaceuticos": "强化依从性教育，强调随餐服用",
+      "cuidadosEnfermagem": "注意胃肠耐受性与肝功能变化",
+      "fontesBibliograficas": "FDA、UpToDate、Micromedex、DHHS指南"
+    }
+  }
+}

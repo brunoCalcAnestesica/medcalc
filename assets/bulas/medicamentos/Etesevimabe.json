@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Etesevimabe",
+      "suspension": "Suspender 10 dias antes de cirurgias eletivas",
+      "risk": "Pode interferir na cicatrização e na resposta imune; risco teórico de reativação viral ou infecção oculta",
+      "reintroduction": "Reintroduzir após avaliação clínica e completa recuperação pós-operatória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etesevimabe",
+      "nomeComercial": "Bamlanivimabe + Etesevimabe (associação)",
+      "mecanismoAcao": "Anticorpo monoclonal que se liga à proteína spike do SARS-CoV-2, impedindo sua entrada nas células humanas",
+      "farmacocinetica": "Meia-vida de ~25 dias; metabolismo proteico; excreção não renal",
+      "farmacodinamica": "Neutraliza o SARS-CoV-2, reduzindo carga viral e risco de hospitalização",
+      "indicacoes": "COVID-19 leve a moderada em pacientes de alto risco (uso emergencial aprovado)",
+      "reacoesAdversas": "Reações infusionais, febre, calafrios, rash, dispneia, anafilaxia rara",
+      "riscoGravidez": "Categoria C (sem estudos controlados em humanos)",
+      "riscoLactacao": "Desconhece-se se é excretado no leite humano",
+      "administracao": "Infusão intravenosa única (em associação com Bamlanivimabe)",
+      "doseMaxima": "1400 mg (combinado com 700 mg de Bamlanivimabe)",
+      "doseMinima": "1400 mg (única dose padrão)",
+      "classificacao": "Anticorpo monoclonal neutralizante anti-SARS-CoV-2",
+      "apresentacao": "Frasco-ampola solução 700 mg/20 mL",
+      "interacaoMedicamento": "Evitar vacinas com vírus vivos até 90 dias após o uso",
+      "posologia": "1400 mg IV em dose única, diluído em 0,9% NaCl, infundido em 30 minutos",
+      "armazenamento": "Refrigerado (2–8°C), não congelar; solução diluída estável por 24h (refrigerada) ou 7h (temperatura ambiente)",
+      "preparo": "Diluir assepticamente em solução salina 0,9%",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Hipersensibilidade ao etesevimabe ou seus excipientes",
+      "cuidadosMedicos": "Monitorar sinais vitais, reações adversas, estado imunológico",
+      "cuidadosFarmaceuticos": "Verificar validade, estabilidade e preparo adequado",
+      "cuidadosEnfermagem": "Monitorar local de infusão e reações adversas sistêmicas",
+      "fontesBibliograficas": "FDA, EMA, Medscape, Micromedex, Lilly EUA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Etesevimab",
+      "suspension": "Suspend 10 days before elective procedures",
+      "risk": "May affect wound healing and immune response; risk of masked infection",
+      "reintroduction": "Resume after post-op recovery and clinical reassessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etesevimab",
+      "nomeComercial": "Bamlanivimab + Etesevimab",
+      "mecanismoAcao": "Monoclonal antibody binding the SARS-CoV-2 spike protein and blocking viral entry",
+      "farmacocinetica": "Half-life ~25 days; proteolytic metabolism; non-renal clearance",
+      "farmacodinamica": "Neutralizes SARS-CoV-2 and reduces viral load and hospitalization risk",
+      "indicacoes": "Mild to moderate COVID-19 in high-risk outpatients (EUA)",
+      "reacoesAdversas": "Infusion reactions, fever, rash, chills, dyspnea, rare anaphylaxis",
+      "riscoGravidez": "Category C (insufficient human data)",
+      "riscoLactacao": "Unknown if excreted in human milk",
+      "administracao": "Single IV infusion (combined with Bamlanivimab)",
+      "doseMaxima": "1400 mg (with 700 mg Bamlanivimab)",
+      "doseMinima": "1400 mg (standard single dose)",
+      "classificacao": "Neutralizing monoclonal antibody against SARS-CoV-2",
+      "apresentacao": "700 mg/20 mL vial",
+      "interacaoMedicamento": "Avoid live vaccines for 90 days post-infusion",
+      "posologia": "1400 mg IV in 0.9% NaCl over 30 minutes (with Bamlanivimab)",
+      "armazenamento": "Store at 2–8°C; do not freeze; diluted solution stable 24h (refrigerated) or 7h (room temp)",
+      "preparo": "Aseptic dilution with 0.9% NaCl",
+      "solucoesCompatíveis": "0.9% sodium chloride",
+      "contraindicacoes": "Hypersensitivity to etesevimab or formulation components",
+      "cuidadosMedicos": "Monitor vitals and systemic reactions",
+      "cuidadosFarmaceuticos": "Check expiry and aseptic prep; manage cold chain",
+      "cuidadosEnfermagem": "Observe for systemic and local infusion reactions",
+      "fontesBibliograficas": "FDA, EMA, Medscape, Micromedex, Lilly USA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Etesevimab",
+      "suspension": "Suspender 10 días antes de cirugía electiva",
+      "risk": "Puede interferir con cicatrización y respuesta inmune; riesgo de infección oculta",
+      "reintroduction": "Reanudar tras recuperación y reevaluación médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etesevimab",
+      "nomeComercial": "Bamlanivimab + Etesevimab",
+      "mecanismoAcao": "Anticuerpo monoclonal que se une a la proteína spike del SARS-CoV-2",
+      "farmacocinetica": "Semivida ~25 días; metabolismo proteico",
+      "farmacodinamica": "Neutraliza el SARS-CoV-2 y reduce la carga viral",
+      "indicacoes": "COVID-19 leve a moderada en pacientes ambulatorios de alto riesgo",
+      "reacoesAdversas": "Reacciones a la infusión, fiebre, rash, náuseas, anafilaxia (raro)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce si se excreta en leche materna",
+      "administracao": "Infusión IV única (con Bamlanivimab)",
+      "doseMaxima": "1400 mg",
+      "doseMinima": "1400 mg",
+      "classificacao": "Anticuerpo monoclonal neutralizante",
+      "apresentacao": "Frasco 700 mg/20 mL",
+      "interacaoMedicamento": "Evitar vacunas vivas durante 90 días",
+      "posologia": "1400 mg IV en NaCl 0,9%, en 30 min",
+      "armazenamento": "2–8°C, no congelar; solución diluida estable 24h (refrigerada) o 7h (ambiente)",
+      "preparo": "Diluir asépticamente",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%",
+      "contraindicacoes": "Hipersensibilidad al principio activo",
+      "cuidadosMedicos": "Monitorear signos vitales y efectos adversos",
+      "cuidadosFarmaceuticos": "Revisar fecha de caducidad y técnica de preparación",
+      "cuidadosEnfermagem": "Supervisar reacciones locales y sistémicas",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伊特西韦单抗",
+      "suspension": "择期手术前10天停用",
+      "risk": "可能影响愈合与免疫反应，风险包括隐性感染",
+      "reintroduction": "术后康复后在医生评估下可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伊特西韦单抗",
+      "nomeComercial": "与Bamlanivimab联合使用",
+      "mecanismoAcao": "结合新冠病毒刺突蛋白，阻止病毒进入细胞",
+      "farmacocinetica": "半衰期约25天，蛋白质代谢",
+      "farmacodinamica": "中和新冠病毒，降低病毒载量与住院风险",
+      "indicacoes": "轻中度COVID-19高风险人群",
+      "reacoesAdversas": "输液反应、发热、皮疹、恶心、罕见过敏反应",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否排泄至乳汁未知",
+      "administracao": "静脉输注一次，与Bamlanivimab合用",
+      "doseMaxima": "1400毫克",
+      "doseMinima": "1400毫克",
+      "classificacao": "中和性单克隆抗体",
+      "apresentacao": "700毫克/20毫升瓶装",
+      "interacaoMedicamento": "90天内避免接种活疫苗",
+      "posologia": "与0.9%氯化钠稀释后静脉输注，30分钟完成",
+      "armazenamento": "冷藏保存（2–8°C），稀释后室温7小时或冷藏24小时内使用",
+      "preparo": "使用无菌技术稀释",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对本品或成分过敏者禁用",
+      "cuidadosMedicos": "监测生命体征和过敏反应",
+      "cuidadosFarmaceuticos": "核查冷链与稀释规范",
+      "cuidadosEnfermagem": "观察局部和全身反应",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，Medscape，Lilly"
+    }
+  }
+}

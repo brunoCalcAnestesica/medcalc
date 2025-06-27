@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Naproxeno",
+      "suspension": "Suspender 2 a 3 dias antes da cirurgia",
+      "risk": "Risco aumentado de sangramento e toxicidade renal em procedimentos com anestesia",
+      "reintroduction": "Reintroduzir 48-72h após, se sem sangramentos e com função renal preservada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Naproxeno",
+      "nomeComercial": "Flanax, Naprosyn, Naproxen, Synflex",
+      "mecanismoAcao": "Inibe a enzima ciclooxigenase (COX), reduzindo síntese de prostaglandinas",
+      "farmacocinetica": "Absorção oral completa, metabolizado no fígado, excreção renal",
+      "farmacodinamica": "Anti-inflamatório, antipirético e analgésico",
+      "indicacoes": "Artrite, dor musculoesquelética, dismenorreia, gota, dor aguda",
+      "reacoesAdversas": "Náusea, dispepsia, úlcera, sangramento, nefrotoxicidade",
+      "riscoGravidez": "Categoria C (1º e 2º trimestre), D (3º trimestre)",
+      "riscoLactacao": "Excretado no leite em pequenas quantidades, uso com cautela",
+      "administracao": "Oral",
+      "doseMaxima": "1250 mg/dia",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Anti-inflamatório não esteroidal (AINE)",
+      "apresentacao": "Comprimidos, cápsulas, suspensão oral",
+      "interacaoMedicamento": "Potencializa anticoagulantes, reduz ação de IECA, risco GI com corticosteroides",
+      "posologia": "250–500 mg a cada 12h",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não se aplica (uso oral)",
+      "contraindicacoes": "Úlcera ativa, insuficiência renal/hepática grave, gestação tardia",
+      "cuidadosMedicos": "Monitorar função renal e risco de sangramentos",
+      "cuidadosFarmaceuticos": "Evitar uso com outros AINEs ou anticoagulantes",
+      "cuidadosEnfermagem": "Observar dor epigástrica, diurese e PA",
+      "fontesBibliograficas": "SBAn, Micromedex, FDA, ANVISA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Naproxen",
+      "suspension": "Suspend 2 to 3 days before surgery",
+      "risk": "Increased bleeding and renal toxicity risks under anesthesia",
+      "reintroduction": "Restart 48–72h post-op if no bleeding and renal function stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Naproxen",
+      "nomeComercial": "Aleve, Naprosyn, Anaprox, EC-Naprosyn",
+      "mecanismoAcao": "Inhibits COX enzymes, reducing prostaglandin synthesis",
+      "farmacocinetica": "Completely absorbed orally, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Anti-inflammatory, antipyretic, analgesic",
+      "indicacoes": "Arthritis, musculoskeletal pain, dysmenorrhea, gout, acute pain",
+      "reacoesAdversas": "Nausea, dyspepsia, ulcer, bleeding, nephrotoxicity",
+      "riscoGravidez": "Category C (1st/2nd trimester), D (3rd trimester)",
+      "riscoLactacao": "Excreted in breast milk in small amounts; use caution",
+      "administracao": "Oral",
+      "doseMaxima": "1250 mg/day",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Nonsteroidal anti-inflammatory drug (NSAID)",
+      "apresentacao": "Tablets, capsules, oral suspension",
+      "interacaoMedicamento": "Increases anticoagulant effect, reduces ACEI efficacy, GI risk with steroids",
+      "posologia": "250–500 mg every 12 hours",
+      "armazenamento": "Room temperature, protect from light/moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable (oral use)",
+      "contraindicacoes": "Active ulcer, severe renal/hepatic impairment, late pregnancy",
+      "cuidadosMedicos": "Monitor renal function and bleeding risk",
+      "cuidadosFarmaceuticos": "Avoid with other NSAIDs or anticoagulants",
+      "cuidadosEnfermagem": "Monitor GI symptoms, urine output, and BP",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, SBAn, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Naproxeno",
+      "suspension": "Suspender 2 a 3 días antes de la cirugía",
+      "risk": "Riesgo aumentado de sangrado y toxicidad renal bajo anestesia",
+      "reintroduction": "Reintroducir 48–72h después si sin sangrados y función renal estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Naproxeno",
+      "nomeComercial": "Naprosyn, Flanax, Aleve, Anaprox",
+      "mecanismoAcao": "Inhibe COX, reduce síntesis de prostaglandinas",
+      "farmacocinetica": "Absorción oral completa, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Antiinflamatorio, antipirético y analgésico",
+      "indicacoes": "Artritis, dolor musculoesquelético, dismenorrea, gota, dolor agudo",
+      "reacoesAdversas": "Náuseas, dispepsia, úlcera, sangrado, nefrotoxicidad",
+      "riscoGravidez": "Categoría C (1° y 2° trimestre), D (3° trimestre)",
+      "riscoLactacao": "Se excreta en la leche, usar con precaución",
+      "administracao": "Oral",
+      "doseMaxima": "1250 mg/día",
+      "doseMinima": "250 mg/dosis",
+      "classificacao": "AINE (antiinflamatorio no esteroideo)",
+      "apresentacao": "Comprimidos, cápsulas, suspensión oral",
+      "interacaoMedicamento": "Potencia anticoagulantes, reduce acción de IECA, riesgo gastrointestinal con corticoides",
+      "posologia": "250–500 mg cada 12 horas",
+      "armazenamento": "Temperatura ambiente, protegido de luz y humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica (uso oral)",
+      "contraindicacoes": "Úlcera activa, insuficiencia renal/hepática grave, embarazo avanzado",
+      "cuidadosMedicos": "Monitorear función renal y sangrados",
+      "cuidadosFarmaceuticos": "Evitar con otros AINEs o anticoagulantes",
+      "cuidadosEnfermagem": "Observar síntomas digestivos, diuresis y presión arterial",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "萘普生",
+      "suspension": "术前2至3天停药",
+      "risk": "术中出血风险增加，并可能引起肾毒性",
+      "reintroduction": "术后48–72小时可重新使用，若无出血且肾功能正常"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "萘普生",
+      "nomeComercial": "萘普生片, 萘普生钠, 萘普生缓释片",
+      "mecanismoAcao": "抑制COX酶，减少前列腺素合成",
+      "farmacocinetica": "口服吸收完全，肝代谢，肾排泄",
+      "farmacodinamica": "抗炎、解热、镇痛作用",
+      "indicacoes": "关节炎、肌肉骨骼疼痛、痛经、痛风、急性疼痛",
+      "reacoesAdversas": "恶心、胃不适、胃溃疡、出血、肾毒性",
+      "riscoGravidez": "C类（前两期）、D类（孕晚期）",
+      "riscoLactacao": "可分泌至乳汁中，谨慎使用",
+      "administracao": "口服",
+      "doseMaxima": "每日1250毫克",
+      "doseMinima": "每次250毫克",
+      "classificacao": "非甾体抗炎药（NSAID）",
+      "apresentacao": "片剂、胶囊、口服混悬液",
+      "interacaoMedicamento": "增强抗凝药作用，降低ACEI效果，与激素合用增高胃肠风险",
+      "posologia": "每12小时服用250–500毫克",
+      "armazenamento": "室温保存，避光防潮",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用（口服）",
+      "contraindicacoes": "活动性溃疡、严重肝肾损害、孕晚期",
+      "cuidadosMedicos": "监测肾功能和出血风险",
+      "cuidadosFarmaceuticos": "避免与其他NSAID或抗凝药联用",
+      "cuidadosEnfermagem": "观察胃肠道症状、尿量和血压",
+      "fontesBibliograficas": "中国药典, FDA, EMA, ANVISA"
+    }
+  }
+}

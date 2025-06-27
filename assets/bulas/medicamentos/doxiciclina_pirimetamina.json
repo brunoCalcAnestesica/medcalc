@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Doxiciclina + Pirimetamina",
+      "suspension": "Suspender 48 horas antes de cirurgias de grande porte ou em casos de mielotoxicidade, hepatotoxicidade ou insuficiência renal grave",
+      "risk": "Risco de toxicidade hepática, hematológica e fotossensibilidade; interação com anestésicos e anticoagulantes",
+      "reintroduction": "Reintroduzir após estabilização clínica, função hepatorrenal e hematológica normalizadas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Doxiciclina + Pirimetamina",
+      "nomeComercial": "Não possui apresentação comercial fixa (prescrição magistral ou hospitalar)",
+      "mecanismoAcao": "Doxiciclina: inibe a subunidade 30S ribossomal bacteriana; Pirimetamina: inibe a diidrofolato redutase do parasita",
+      "farmacocinetica": "Doxiciclina: meia-vida 16–18 h, excreção biliar e renal; Pirimetamina: meia-vida ~96 h, metabolismo hepático",
+      "farmacodinamica": "Atividade antimicrobiana e antiparasitária sinérgica, eficaz contra toxoplasma e algumas infecções oportunistas",
+      "indicacoes": "Toxoplasmose cerebral (especialmente em imunossuprimidos), toxoplasmose ocular, infecções parasitárias",
+      "reacoesAdversas": "Mielotoxicidade (pirimetamina), náusea, diarreia, rash, anemia megaloblástica, fotossensibilidade (doxiciclina)",
+      "riscoGravidez": "Categoria D – contraindicado, exceto em risco vital",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "Doxiciclina: 200 mg/dia; Pirimetamina: até 75 mg/dia",
+      "doseMinima": "Doxiciclina: 100 mg/dia; Pirimetamina: 25 mg/dia",
+      "classificacao": "Antimicrobiano + antiparasitário",
+      "apresentacao": "Cápsulas ou comprimidos manipulados; solução hospitalar",
+      "interacaoMedicamento": "Potencializa toxicidade com sulfas, metotrexato; antagonismo com ciclosporina",
+      "posologia": "Doxiciclina 100 mg 2x/dia + Pirimetamina 50–75 mg/dia + leucovorina 10–25 mg/dia",
+      "armazenamento": "Temperatura ambiente; proteger da luz",
+      "preparo": "Manipulação hospitalar ou farmácia magistral",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, discrasias sanguíneas, insuficiência hepática",
+      "cuidadosMedicos": "Monitorar hemograma, enzimas hepáticas, eletrólitos e função renal",
+      "cuidadosFarmaceuticos": "Associar ácido folínico (leucovorina) para evitar mielotoxicidade",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hematológica e fotossensibilidade",
+      "fontesBibliograficas": "CDC, UpToDate, Micromedex, IDSA Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Doxycycline + Pyrimethamine",
+      "suspension": "Hold 48h prior to major surgery if hepatic, hematologic, or renal toxicity is present",
+      "risk": "Hepatotoxicity, myelosuppression, photosensitivity; interacts with anesthetics and anticoagulants",
+      "reintroduction": "Restart after normalization of labs and clinical stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Doxycycline + Pyrimethamine",
+      "nomeComercial": "No fixed commercial combination; hospital compounded",
+      "mecanismoAcao": "Doxy: inhibits bacterial 30S ribosome; Pyrimethamine: inhibits parasite DHFR enzyme",
+      "farmacocinetica": "Doxy: half-life ~18 h; biliary/renal; Pyrimethamine: half-life ~96 h; hepatic metabolism",
+      "farmacodinamica": "Combined bacteriostatic and antiparasitic synergy, especially against Toxoplasma gondii",
+      "indicacoes": "Cerebral toxoplasmosis (esp. HIV+), ocular toxoplasmosis, other parasitic infections",
+      "reacoesAdversas": "Bone marrow suppression (pyrimethamine), nausea, diarrhea, photosensitivity (doxy), anemia",
+      "riscoGravidez": "Category D – avoid unless life-threatening",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral",
+      "doseMaxima": "Doxy: 200 mg/day; Pyrimethamine: 75 mg/day",
+      "doseMinima": "Doxy: 100 mg/day; Pyrimethamine: 25 mg/day",
+      "classificacao": "Antimicrobial + antiparasitic",
+      "apresentacao": "Compounded capsules/tablets or oral solutions",
+      "interacaoMedicamento": "Increased risk with sulfas, methotrexate; interacts with cyclosporine",
+      "posologia": "Doxy 100 mg BID + Pyrimethamine 50–75 mg/day + leucovorin 10–25 mg/day",
+      "armazenamento": "Room temperature; protect from light",
+      "preparo": "Hospital or pharmacy compounding",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, bone marrow suppression, liver disease",
+      "cuidadosMedicos": "Monitor CBC, liver enzymes, electrolytes, renal function",
+      "cuidadosFarmaceuticos": "Always pair with leucovorin to reduce marrow toxicity",
+      "cuidadosEnfermagem": "Monitor for hematologic and dermatologic toxicity",
+      "fontesBibliograficas": "CDC, UpToDate, IDSA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Doxiciclina + Pirimetamina",
+      "suspension": "Suspender 48 h antes de cirugía mayor en pacientes con toxicidad hematológica o hepática",
+      "risk": "Riesgo de mielotoxicidad, hepatotoxicidad, fotosensibilidad; interacción con anestesia",
+      "reintroduction": "Reiniciar tras estabilización clínica y recuperación de parámetros"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Doxiciclina + Pirimetamina",
+      "nomeComercial": "Combinación magistral u hospitalaria",
+      "mecanismoAcao": "Doxiciclina: inhibe subunidad 30S; Pirimetamina: inhibe DHFR parasitaria",
+      "farmacocinetica": "Doxiciclina: t½ ~18 h; Pirimetamina: t½ ~96 h",
+      "farmacodinamica": "Acción sinérgica antimicrobiana y antiparasitaria",
+      "indicacoes": "Toxoplasmosis cerebral u ocular, infecciones oportunistas",
+      "reacoesAdversas": "Neutropenia, anemia, náuseas, fotosensibilidad, vómitos",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Oral",
+      "doseMaxima": "Doxiciclina 200 mg/día; Pirimetamina 75 mg/día",
+      "doseMinima": "Doxiciclina 100 mg/día; Pirimetamina 25 mg/día",
+      "classificacao": "Antibiótico + antiparasitario",
+      "apresentacao": "Cápsulas magistrales o fórmulas hospitalarias",
+      "interacaoMedicamento": "Mayor toxicidad con sulfas, metotrexato",
+      "posologia": "Doxiciclina 100 mg BID + Pirimetamina 50–75 mg/día + leucovorina 10–25 mg/día",
+      "armazenamento": "Ambiente, evitar luz directa",
+      "preparo": "Compuesto farmacéutico",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, hepatopatía, mielodepresión",
+      "cuidadosMedicos": "Control hematológico, hepático y renal",
+      "cuidadosFarmaceuticos": "Asociar leucovorina para prevenir toxicidad medular",
+      "cuidadosEnfermagem": "Vigilar anemia, exantema, náuseas",
+      "fontesBibliograficas": "CDC, IDSA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "多西环素 + 嘧啶胺",
+      "suspension": "术前48小时停药，如有肝肾异常或骨髓抑制更需谨慎",
+      "risk": "肝毒性、骨髓抑制、光敏性强，术中术后并发症风险高",
+      "reintroduction": "术后血象与肝肾功能稳定后可酌情恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多西环素 + 嘧啶胺（Doxycycline + Pyrimethamine）",
+      "nomeComercial": "无固定复方，医院制剂",
+      "mecanismoAcao": "分别抑制蛋白合成与二氢叶酸还原酶，阻断原虫代谢",
+      "farmacocinetica": "多西环素t½约18h，嘧啶胺t½达96h；肝肾代谢排泄",
+      "farmacodinamica": "联合作用于弓形虫等感染，增强抗寄生虫效果",
+      "indicacoes": "弓形虫脑病、眼弓形虫、免疫抑制者感染",
+      "reacoesAdversas": "中性粒细胞减少、恶心、皮疹、贫血、光敏",
+      "riscoGravidez": "D类，禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "多西环素200 mg/日，嘧啶胺75 mg/日",
+      "doseMinima": "多西100 mg/日，嘧啶胺25 mg/日",
+      "classificacao": "抗生素 + 抗原虫药",
+      "apresentacao": "手工配方胶囊或混悬液",
+      "interacaoMedicamento": "与磺胺、甲氨蝶呤等联合可增毒性",
+      "posologia": "多西100 mg BID，嘧啶胺50–75 mg QD + 叶酸5–25 mg QD",
+      "armazenamento": "避光常温保存",
+      "preparo": "由医院药房制备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、肝肾病、骨髓抑制",
+      "cuidadosMedicos": "监测血象、电解质、肝肾功能",
+      "cuidadosFarmaceuticos": "配合叶酸预防骨髓抑制",
+      "cuidadosEnfermagem": "观察皮肤、GI症状、全血细胞计数",
+      "fontesBibliograficas": "CDC、UpToDate、IDSA、Micromedex、中国药典"
+    }
+  }
+}

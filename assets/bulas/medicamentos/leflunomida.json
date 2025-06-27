@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Leflunomida",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva; considerar lavagem com colestiramina em cirurgias de alto risco",
+      "risk": "Risco de imunossupressão, infecção, toxicidade hepática e retardo de cicatrização",
+      "reintroduction": "Reintroduzir após cicatrização adequada e controle de parâmetros hepáticos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Leflunomida",
+      "nomeComercial": "Arava",
+      "mecanismoAcao": "Inibidor da diidroorotato desidrogenase, reduzindo síntese de pirimidinas em linfócitos ativados",
+      "farmacocinetica": "Alta biodisponibilidade oral, pró-fármaco convertido em teriflunomida, meia-vida ~14–18 dias",
+      "farmacodinamica": "Inibe proliferação de linfócitos T e B, reduzindo inflamação autoimune",
+      "indicacoes": "Artrite reumatoide, artrite psoriásica",
+      "reacoesAdversas": "Elevação de transaminases, alopecia, diarreia, hipertensão, infecções",
+      "riscoGravidez": "Categoria X – contraindicado; requer eliminação completa antes da concepção",
+      "riscoLactacao": "Contraindicado; excretado no leite",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/dia (fase de ataque); 20 mg/dia (manutenção)",
+      "doseMinima": "10 mg/dia",
+      "classificacao": "Imunossupressor, DMARD sintético",
+      "apresentacao": "Comprimidos revestidos de 10 mg e 20 mg",
+      "interacaoMedicamento": "Interage com metotrexato, hepatotóxicos, varfarina; aumenta risco de toxicidade",
+      "posologia": "Fase de ataque: 100 mg/dia por 3 dias (opcional), depois 10–20 mg/dia",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso direto; não partir comprimidos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença hepática ativa, gravidez, imunodeficiência não controlada",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas, pressão arterial, hemograma",
+      "cuidadosFarmaceuticos": "Alerta sobre contracepção e risco hepático",
+      "cuidadosEnfermagem": "Observar sintomas de hepatotoxicidade e sinais de infecção",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, BSR, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Leflunomide",
+      "suspension": "Discontinue 7 days before surgery; consider cholestyramine washout in high-risk cases",
+      "risk": "Risk of infection, hepatic toxicity, impaired healing due to immunosuppression",
+      "reintroduction": "Restart after adequate wound healing and hepatic monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Leflunomide",
+      "nomeComercial": "Arava",
+      "mecanismoAcao": "Inhibits dihydroorotate dehydrogenase, reducing de novo pyrimidine synthesis in activated lymphocytes",
+      "farmacocinetica": "High oral bioavailability, converted to teriflunomide, half-life ~14–18 days",
+      "farmacodinamica": "Suppresses T and B lymphocyte proliferation and autoimmune inflammation",
+      "indicacoes": "Rheumatoid arthritis, psoriatic arthritis",
+      "reacoesAdversas": "Elevated liver enzymes, diarrhea, alopecia, hypertension, infections",
+      "riscoGravidez": "Category X – contraindicated; requires elimination before pregnancy",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/day (loading); 20 mg/day (maintenance)",
+      "doseMinima": "10 mg/day",
+      "classificacao": "Immunosuppressant, synthetic DMARD",
+      "apresentacao": "Tablets: 10 mg, 20 mg",
+      "interacaoMedicamento": "Interacts with methotrexate, hepatotoxic drugs, warfarin",
+      "posologia": "Loading: 100 mg/day for 3 days, then 10–20 mg/day",
+      "armazenamento": "Room temperature, dry environment",
+      "preparo": "Do not crush; use whole tablet",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active liver disease, pregnancy, uncontrolled immunodeficiency",
+      "cuidadosMedicos": "Monitor LFTs, CBC, blood pressure",
+      "cuidadosFarmaceuticos": "Emphasize contraception and liver risk",
+      "cuidadosEnfermagem": "Observe for liver symptoms and infection signs",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, ACR, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Leflunomida",
+      "suspension": "Suspender 7 días antes de cirugía; considerar lavado con colestiramina si es de alto riesgo",
+      "risk": "Riesgo de inmunosupresión, toxicidad hepática, infección y mala cicatrización",
+      "reintroduction": "Reintroducir tras cicatrización adecuada y control hepático"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Leflunomida",
+      "nomeComercial": "Arava",
+      "mecanismoAcao": "Inhibidor de la dihidroorotato deshidrogenasa, bloquea la síntesis de pirimidinas",
+      "farmacocinetica": "Alta biodisponibilidad oral, se convierte a teriflunomida, vida media ~14–18 días",
+      "farmacodinamica": "Inhibe la proliferación de linfocitos T y B",
+      "indicacoes": "Artritis reumatoide, artritis psoriásica",
+      "reacoesAdversas": "Elevación de transaminasas, diarrea, alopecia, hipertensión, infecciones",
+      "riscoGravidez": "Categoría X – contraindicado; requiere lavado antes del embarazo",
+      "riscoLactacao": "Contraindicado; se excreta en leche",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/día (fase de ataque); 20 mg/día (mantenimiento)",
+      "doseMinima": "10 mg/día",
+      "classificacao": "Inmunosupresor, DMARD sintético",
+      "apresentacao": "Comprimidos 10 mg y 20 mg",
+      "interacaoMedicamento": "Interacción con metotrexato, anticoagulantes, fármacos hepatotóxicos",
+      "posologia": "100 mg/día por 3 días, luego 10–20 mg/día",
+      "armazenamento": "Temperatura ambiente, protegido de la humedad",
+      "preparo": "No partir el comprimido",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Enfermedad hepática activa, embarazo, inmunosupresión grave",
+      "cuidadosMedicos": "Monitorear enzimas hepáticas, PA, hemograma",
+      "cuidadosFarmaceuticos": "Alertar sobre riesgo hepático y necesidad anticonceptiva",
+      "cuidadosEnfermagem": "Observar signos de infección y hepatotoxicidad",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "来氟米特",
+      "suspension": "择期手术前7天停药；高风险者考虑使用消胆胺加速清除",
+      "risk": "免疫抑制导致感染、肝毒性、延迟愈合风险增加",
+      "reintroduction": "术后创面愈合且肝功能稳定后可重新开始使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "来氟米特",
+      "nomeComercial": "Arava",
+      "mecanismoAcao": "抑制二氢乳清酸脱氢酶，抑制T/B细胞增殖",
+      "farmacocinetica": "口服吸收良好，代谢为活性物teriflunomida，半衰期14–18天",
+      "farmacodinamica": "通过阻断嘧啶合成抑制免疫活性",
+      "indicacoes": "类风湿关节炎、银屑病关节炎",
+      "reacoesAdversas": "转氨酶升高、腹泻、脱发、高血压、感染",
+      "riscoGravidez": "X类 – 禁用；需彻底清除后方可妊娠",
+      "riscoLactacao": "禁用；可分泌入乳汁",
+      "administracao": "口服",
+      "doseMaxima": "每日100毫克（初始）或20毫克（维持）",
+      "doseMinima": "每日10毫克",
+      "classificacao": "免疫抑制剂，合成DMARD",
+      "apresentacao": "10 mg, 20 mg片剂",
+      "interacaoMedicamento": "与甲氨蝶呤、肝毒性药物、华法林存在交互作用",
+      "posologia": "初始100 mg/d x3天，可省略；维持10–20 mg/d",
+      "armazenamento": "常温干燥保存",
+      "preparo": "整片服用，不可掰片",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肝病、妊娠、严重免疫抑制",
+      "cuidadosMedicos": "监测肝酶、血压、CBC，评估怀孕前需清除",
+      "cuidadosFarmaceuticos": "指导避孕与药物风险",
+      "cuidadosEnfermagem": "观察感染迹象、脱发、肝毒性症状",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

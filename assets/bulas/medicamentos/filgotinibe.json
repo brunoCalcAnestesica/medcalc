@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Filgotinibe",
+      "suspension": "Suspender 3 a 5 dias antes de procedimentos cirúrgicos com risco infeccioso ou imunossupressor relevante",
+      "risk": "Imunossupressão, risco de infecção grave, herpes zoster, eventos trombóticos; cuidado em cirurgias maiores",
+      "reintroduction": "Reintroduzir após resolução de infecções e cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Filgotinibe",
+      "nomeComercial": "Jyseleca",
+      "mecanismoAcao": "Inibidor seletivo da Janus quinase 1 (JAK1), modulando a sinalização inflamatória de citocinas",
+      "farmacocinetica": "Administração oral, Tmáx ~2–3 h, meia-vida ~6 h, metabolismo hepático e renal",
+      "farmacodinamica": "Reduz expressão de citocinas inflamatórias como IL-6, IFN-γ e GM-CSF",
+      "indicacoes": "Artrite reumatoide moderada a grave, colite ulcerativa ativa",
+      "reacoesAdversas": "Infecções respiratórias, náuseas, dor abdominal, trombose venosa, herpes zoster",
+      "riscoGravidez": "Categoria não recomendada – contraindicado",
+      "riscoLactacao": "Evitar uso durante lactação",
+      "administracao": "Oral, 1 vez ao dia",
+      "doseMaxima": "200 mg/dia",
+      "doseMinima": "100 mg/dia (ajustada por função renal)",
+      "classificacao": "Inibidor seletivo de JAK1",
+      "apresentacao": "Comprimidos revestidos de 100 mg e 200 mg",
+      "interacaoMedicamento": "Evitar com imunossupressores potentes, infecções ativas e vacinas vivas",
+      "posologia": "100–200 mg/dia, dependendo da indicação e função renal",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecção ativa grave, tuberculose, gravidez",
+      "cuidadosMedicos": "Testar para TB antes de iniciar, monitorar hemograma e função hepática",
+      "cuidadosFarmaceuticos": "Educar sobre sinais de infecção e risco trombótico",
+      "cuidadosEnfermagem": "Observar sinais de infecção, dor abdominal, surgimento de rash",
+      "fontesBibliograficas": "EMA, FDA, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Filgotinib",
+      "suspension": "Hold 3–5 days before surgery with infection or immunosuppression risk",
+      "risk": "Infections, thrombosis, zoster, immunosuppression; assess perioperative immune risk",
+      "reintroduction": "Resume post-op when infection risk resolves and wound heals"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Filgotinib",
+      "nomeComercial": "Jyseleca",
+      "mecanismoAcao": "Selective JAK1 inhibitor modulating cytokine-mediated inflammation",
+      "farmacocinetica": "Oral; Tmax 2–3 h; t½ ~6 h; hepatic and renal metabolism",
+      "farmacodinamica": "Suppresses cytokine signaling (IL-6, IFN-γ, GM-CSF)",
+      "indicacoes": "Moderate-to-severe rheumatoid arthritis; active ulcerative colitis",
+      "reacoesAdversas": "Infections, nausea, VTE, abdominal pain, herpes zoster",
+      "riscoGravidez": "Not recommended",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "Oral, once daily",
+      "doseMaxima": "200 mg/day",
+      "doseMinima": "100 mg/day (renal adjustment)",
+      "classificacao": "Selective JAK1 inhibitor",
+      "apresentacao": "Tablets 100 mg, 200 mg",
+      "interacaoMedicamento": "Avoid live vaccines, potent immunosuppressants",
+      "posologia": "100–200 mg daily depending on renal function",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active severe infection, pregnancy, tuberculosis",
+      "cuidadosMedicos": "Screen for TB; monitor blood counts, liver enzymes",
+      "cuidadosFarmaceuticos": "Counsel on infection signs and thrombotic symptoms",
+      "cuidadosEnfermagem": "Monitor for infection, skin rashes, VTE signs",
+      "fontesBibliograficas": "EMA, FDA, Lexicomp, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Filgotinib",
+      "suspension": "Suspender 3–5 días antes de cirugía con riesgo de infección o inmunosupresión",
+      "risk": "Inmunosupresión, infecciones graves, trombosis, reactivación de herpes",
+      "reintroduction": "Reintroducir tras recuperación postquirúrgica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Filgotinib",
+      "nomeComercial": "Jyseleca",
+      "mecanismoAcao": "Inhibidor selectivo de JAK1; modula citocinas proinflamatorias",
+      "farmacocinetica": "Oral, Tmax 2–3 h, t½ ~6 h, metabolismo hepático y renal",
+      "farmacodinamica": "Reduce señalización de IL-6, IFN-γ y GM-CSF",
+      "indicacoes": "Artritis reumatoide moderada-severa, colitis ulcerosa activa",
+      "reacoesAdversas": "Infecciones, náuseas, VTE, dolor abdominal, herpes zóster",
+      "riscoGravidez": "No recomendado",
+      "riscoLactacao": "Evitar durante lactancia",
+      "administracao": "Oral, una vez al día",
+      "doseMaxima": "200 mg/día",
+      "doseMinima": "100 mg/día",
+      "classificacao": "Inhibidor selectivo de JAK1",
+      "apresentacao": "Tabletas 100 y 200 mg",
+      "interacaoMedicamento": "Evitar vacunas vivas e inmunosupresores potentes",
+      "posologia": "100–200 mg diarios según función renal",
+      "armazenamento": "15–30°C",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infección activa grave, embarazo, tuberculosis",
+      "cuidadosMedicos": "Monitorizar hemograma, función hepática, TB",
+      "cuidadosFarmaceuticos": "Advertir sobre signos de infección y TVP",
+      "cuidadosEnfermagem": "Observar signos de infección, rash y complicaciones trombóticas",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "非利昔替尼",
+      "suspension": "术前3–5天停药，防止术后感染和免疫抑制并发症",
+      "risk": "感染、VTE、带状疱疹复发、血象变化",
+      "reintroduction": "术后创面愈合且无感染后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "非利昔替尼",
+      "nomeComercial": "Jyseleca",
+      "mecanismoAcao": "JAK1选择性抑制剂，抑制炎性细胞因子通路",
+      "farmacocinetica": "口服，Tmax 2–3小时，半衰期约6小时，肝肾代谢",
+      "farmacodinamica": "抑制IL-6、IFN-γ、GM-CSF等介导炎症",
+      "indicacoes": "中重度类风湿关节炎，活动性溃疡性结肠炎",
+      "reacoesAdversas": "感染、恶心、腹痛、VTE、带状疱疹",
+      "riscoGravidez": "不推荐妊娠期使用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "每日1次口服",
+      "doseMaxima": "每日200毫克",
+      "doseMinima": "每日100毫克（肾功能不全调整）",
+      "classificacao": "选择性JAK1抑制剂",
+      "apresentacao": "100 mg、200 mg片剂",
+      "interacaoMedicamento": "避免与活疫苗或强免疫抑制剂同用",
+      "posologia": "根据适应症和肾功能给予100–200 mg",
+      "armazenamento": "室温干燥保存",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性感染、妊娠、活动性肺结核",
+      "cuidadosMedicos": "筛查潜伏性结核、监测肝肾功能及血常规",
+      "cuidadosFarmaceuticos": "教育患者注意感染、血栓症状",
+      "cuidadosEnfermagem": "观察发热、皮疹、疼痛、VTE表现",
+      "fontesBibliograficas": "中国药典、EMA、FDA、Micromedex、UpToDate"
+    }
+  }
+}

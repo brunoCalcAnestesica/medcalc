@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Abatacepte",
+      "suspension": "Suspender 4 semanas antes de cirurgias eletivas",
+      "risk": "Risco de infecção, interferência na cicatrização e imunossupressão com anestesia",
+      "reintroduction": "Reintroduzir após recuperação tecidual e ausência de sinais infecciosos, geralmente 14 dias após cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Abatacepte",
+      "nomeComercial": "Orencia",
+      "mecanismoAcao": "Inibe a ativação de células T por ligação competitiva à CD80/CD86, bloqueando o sinal coestimulador necessário",
+      "farmacocinetica": "Administração intravenosa ou subcutânea; meia-vida de 13 dias; metabolização não completamente elucidada",
+      "farmacodinamica": "Reduz inflamação ao modular a resposta imune adaptativa; diminui citocinas inflamatórias",
+      "indicacoes": "Artrite reumatoide, artrite idiopática juvenil, artrite psoriásica",
+      "reacoesAdversas": "Infecções respiratórias, dor de cabeça, náuseas, reações no local da injeção, pneumonia, cânceres hematológicos",
+      "riscoGravidez": "Categoria C — uso apenas se benefício superar riscos",
+      "riscoLactacao": "Desconhecido; uso com cautela",
+      "administracao": "Via intravenosa ou subcutânea",
+      "doseMaxima": "125 mg por semana (SC) ou 1000 mg por dose (IV)",
+      "doseMinima": "10 mg/kg (IV) conforme protocolo",
+      "classificacao": "Imunomodulador seletivo / Biológico",
+      "apresentacao": "Frascos-ampola para infusão ou seringas preenchedas",
+      "interacaoMedicamento": "Evitar uso concomitante com outros imunobiológicos ou imunossupressores potentes",
+      "posologia": "Dose baseada no peso corporal; manutenção semanal (SC) ou mensal (IV)",
+      "armazenamento": "Refrigerado entre 2–8°C; não congelar; proteger da luz",
+      "preparo": "Diluir em solução de infusão para administração IV",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Infecção ativa grave, hipersensibilidade ao fármaco",
+      "cuidadosMedicos": "Monitorar sinais de infecção, função hepática e hematológica",
+      "cuidadosFarmaceuticos": "Assegurar cadeia de frio e integridade da solução",
+      "cuidadosEnfermagem": "Observar reações infusionais, orientar sinais de infecção",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, SBRA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Abatacept",
+      "suspension": "Discontinue 4 weeks before elective surgery",
+      "risk": "Increased risk of infection, impaired healing, immunosuppression under anesthesia",
+      "reintroduction": "Restart after adequate healing and infection-free period, typically 14 days post-operatively"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Abatacept",
+      "nomeComercial": "Orencia",
+      "mecanismoAcao": "Inhibits T-cell activation by binding CD80/CD86, blocking co-stimulatory signal",
+      "farmacocinetica": "IV or SC administration; half-life ~13 days; metabolism not fully defined",
+      "farmacodinamica": "Reduces inflammation by modulating adaptive immune response; decreases cytokine levels",
+      "indicacoes": "Rheumatoid arthritis, juvenile idiopathic arthritis, psoriatic arthritis",
+      "reacoesAdversas": "Respiratory infections, headache, nausea, injection site reactions, pneumonia, hematologic malignancies",
+      "riscoGravidez": "Category C — use only if clearly needed",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "IV or subcutaneous route",
+      "doseMaxima": "125 mg weekly (SC) or 1000 mg per dose (IV)",
+      "doseMinima": "10 mg/kg (IV) per protocol",
+      "classificacao": "Selective immunomodulator / Biologic",
+      "apresentacao": "Vials for infusion or prefilled syringes",
+      "interacaoMedicamento": "Avoid combining with other potent immunosuppressives or biologics",
+      "posologia": "Weight-based dosing; weekly (SC) or monthly (IV)",
+      "armazenamento": "Refrigerate 2–8°C; do not freeze; protect from light",
+      "preparo": "Dilute for IV infusion with appropriate solution",
+      "solucoesCompatíveis": "0.9% Sodium chloride",
+      "contraindicacoes": "Severe active infection, hypersensitivity to the drug",
+      "cuidadosMedicos": "Monitor for infections, liver and blood cell function",
+      "cuidadosFarmaceuticos": "Maintain cold chain; inspect solution clarity",
+      "cuidadosEnfermagem": "Observe for infusion reactions; educate patient on infection signs",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, SBRA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Abatacept",
+      "suspension": "Suspender 4 semanas antes de cirugías electivas",
+      "risk": "Riesgo de infección, cicatrización deficiente e inmunosupresión durante la anestesia",
+      "reintroduction": "Reintroducir después de una recuperación adecuada del tejido y ausencia de infecciones, generalmente 14 días después"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Abatacept",
+      "nomeComercial": "Orencia",
+      "mecanismoAcao": "Inhibe la activación de células T al unirse a CD80/CD86, bloqueando la señal coestimuladora necesaria",
+      "farmacocinetica": "Administración IV o SC; vida media de ~13 días; metabolismo no completamente definido",
+      "farmacodinamica": "Reduce la inflamación al modular la respuesta inmune adaptativa; disminuye las citocinas inflamatorias",
+      "indicacoes": "Artritis reumatoide, artritis idiopática juvenil, artritis psoriásica",
+      "reacoesAdversas": "Infecciones respiratorias, cefalea, náuseas, reacciones locales, neumonía, neoplasias hematológicas",
+      "riscoGravidez": "Categoría C — solo si el beneficio supera el riesgo",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Vía intravenosa o subcutánea",
+      "doseMaxima": "125 mg semanal (SC) o 1000 mg por dosis (IV)",
+      "doseMinima": "10 mg/kg (IV) según protocolo",
+      "classificacao": "Inmunomodulador selectivo / Biológico",
+      "apresentacao": "Viales o jeringas precargadas",
+      "interacaoMedicamento": "Evitar combinación con otros inmunosupresores potentes o biológicos",
+      "posologia": "Dosis según peso corporal; semanal (SC) o mensual (IV)",
+      "armazenamento": "Refrigerado 2–8°C; no congelar; proteger de la luz",
+      "preparo": "Diluir para infusión IV",
+      "solucoesCompatíveis": "Cloruro de sodio al 0,9%",
+      "contraindicacoes": "Infección activa grave, hipersensibilidad al medicamento",
+      "cuidadosMedicos": "Monitorear infecciones, función hepática y hematológica",
+      "cuidadosFarmaceuticos": "Mantener cadena de frío, inspeccionar claridad de la solución",
+      "cuidadosEnfermagem": "Observar reacciones a la infusión, educar sobre signos de infección",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, SBRA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿巴西普",
+      "suspension": "择期手术前停药4周",
+      "risk": "术中存在感染、愈合障碍和免疫抑制的风险",
+      "reintroduction": "术后组织愈合且无感染迹象时可重新使用，通常为术后14天"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿巴西普",
+      "nomeComercial": "Orencia",
+      "mecanismoAcao": "通过结合CD80/CD86抑制T细胞活化，阻断共刺激信号",
+      "farmacocinetica": "静脉注射或皮下注射；半衰期约13天；代谢机制尚未完全明确",
+      "farmacodinamica": "通过调节适应性免疫反应降低炎症，减少炎性细胞因子",
+      "indicacoes": "类风湿关节炎、幼年特发性关节炎、银屑病关节炎",
+      "reacoesAdversas": "呼吸道感染、头痛、恶心、注射部位反应、肺炎、血液系统恶性肿瘤",
+      "riscoGravidez": "C类 — 仅在收益大于风险时使用",
+      "riscoLactacao": "风险未知，应谨慎使用",
+      "administracao": "静脉或皮下注射",
+      "doseMaxima": "每周125毫克（SC）或每次1000毫克（IV）",
+      "doseMinima": "按体重10毫克/公斤（IV）",
+      "classificacao": "选择性免疫调节剂 / 生物制剂",
+      "apresentacao": "注射瓶或预灌注注射器",
+      "interacaoMedicamento": "避免与其他强效免疫抑制剂或生物制剂合用",
+      "posologia": "按体重给药；每周（SC）或每月（IV）维持",
+      "armazenamento": "2–8°C冷藏保存；不得冷冻；避光",
+      "preparo": "稀释后静脉输注",
+      "solucoesCompatíveis": "0.9%氯化钠溶液",
+      "contraindicacoes": "严重活动性感染，对药物过敏",
+      "cuidadosMedicos": "监测感染迹象、肝功能和血细胞变化",
+      "cuidadosFarmaceuticos": "确保冷链，检查药液澄清度",
+      "cuidadosEnfermagem": "观察输液反应，指导识别感染症状",
+      "fontesBibliograficas": "FDA、EMA、ANVISA、SBRA、Micromedex"
+    }
+  }
+}

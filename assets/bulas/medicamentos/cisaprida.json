@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cisaprida",
+      "suspension": "Suspender 5 dias antes de procedimentos cirúrgicos eletivos",
+      "risk": "Risco elevado de arritmias ventriculares, prolongamento do QT, interações com anestésicos e medicamentos que inibem CYP3A4",
+      "reintroduction": "Reintroduzir apenas com ECG normal e após estabilização eletrolítica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cisaprida",
+      "nomeComercial": "Prepulsid (fora do mercado na maioria dos países)",
+      "mecanismoAcao": "Agonista dos receptores serotoninérgicos 5-HT4 e antagonista fraco de 5-HT3, aumenta a liberação de acetilcolina no plexo mioentérico",
+      "farmacocinetica": "Biodisponibilidade oral de 30–40%, metabolização hepática (CYP3A4), meia-vida ~10h, excreção renal e fecal",
+      "farmacodinamica": "Estímulo direto da motilidade gastrointestinal proximal (esôfago, estômago e intestino delgado)",
+      "indicacoes": "Gastroparesia, refluxo gastroesofágico refratário, constipação crônica refratária (uso restrito ou off-label)",
+      "reacoesAdversas": "Diarreia, dor abdominal, cefaleia, QT prolongado, taquiarritmias, torsades de pointes",
+      "riscoGravidez": "Categoria C – risco não pode ser descartado",
+      "riscoLactacao": "Excreção no leite materno; evitar",
+      "administracao": "Via oral, em jejum ou antes das refeições",
+      "doseMaxima": "40 mg/dia",
+      "doseMinima": "10 mg/dose",
+      "classificacao": "Procicinético gastrointestinal – agonista 5-HT4",
+      "apresentacao": "Comprimidos de 10 mg, suspensão oral 1 mg/mL (restrita)",
+      "interacaoMedicamento": "Interações graves com antifúngicos azólicos, macrolídeos, antidepressivos tricíclicos, inibidores da CYP3A4",
+      "posologia": "5 a 10 mg, 3 a 4 vezes ao dia, conforme tolerância e resposta",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Suspensão deve ser agitada antes do uso; atenção à validade",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Histórico de arritmia, distúrbios eletrolíticos, uso concomitante de QT prolongado",
+      "cuidadosMedicos": "ECG antes de iniciar, monitorar potássio e magnésio sérico",
+      "cuidadosFarmaceuticos": "Conferir uso off-label e risco de interações",
+      "cuidadosEnfermagem": "Observar sinais de taquicardia, síncope, distúrbios do ritmo",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, UpToDate, Micromedex, PubMed"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cisapride",
+      "suspension": "Discontinue 5 days before elective procedures",
+      "risk": "High risk of ventricular arrhythmias, QT prolongation, interaction with anesthetics and CYP3A4 inhibitors",
+      "reintroduction": "Restart only if ECG is normal and electrolytes are corrected"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cisapride",
+      "nomeComercial": "Propulsid (withdrawn in many countries)",
+      "mecanismoAcao": "5-HT4 agonist and weak 5-HT3 antagonist, increases acetylcholine release in the enteric plexus",
+      "farmacocinetica": "30–40% bioavailability, metabolized by CYP3A4, half-life ~10h, renal and fecal excretion",
+      "farmacodinamica": "Stimulates upper GI motility (esophagus, stomach, small intestine)",
+      "indicacoes": "Gastroparesis, refractory GERD, chronic constipation (restricted/off-label)",
+      "reacoesAdversas": "Diarrhea, abdominal pain, headache, QT prolongation, tachyarrhythmia, torsades de pointes",
+      "riscoGravidez": "Category C – potential risk",
+      "riscoLactacao": "Excreted in breast milk; avoid",
+      "administracao": "Oral, before meals",
+      "doseMaxima": "40 mg/day",
+      "doseMinima": "10 mg/dose",
+      "classificacao": "GI prokinetic – 5-HT4 agonist",
+      "apresentacao": "10 mg tablets, 1 mg/mL suspension (restricted)",
+      "interacaoMedicamento": "Major interactions with azole antifungals, macrolides, tricyclics, CYP3A4 inhibitors",
+      "posologia": "5–10 mg 3–4x/day as tolerated",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Shake suspension before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "History of arrhythmia, electrolyte disturbance, QT-prolonging agents",
+      "cuidadosMedicos": "Baseline ECG, monitor potassium and magnesium",
+      "cuidadosFarmaceuticos": "Verify off-label use, assess for interaction risks",
+      "cuidadosEnfermagem": "Observe for tachycardia, syncope, rhythm changes",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, PubMed"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cisaprida",
+      "suspension": "Suspender 5 días antes de procedimientos quirúrgicos",
+      "risk": "Riesgo elevado de arritmias, QT prolongado, interacción con anestesia y fármacos CYP3A4",
+      "reintroduction": "Reiniciar solo con ECG normal y electrolitos corregidos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cisaprida",
+      "nomeComercial": "Prepulsid (retirado en muchos países)",
+      "mecanismoAcao": "Agonista 5-HT4, antagonista débil de 5-HT3, estimula la liberación de acetilcolina entérica",
+      "farmacocinetica": "Biodisponibilidad 30–40%, metabolizada por CYP3A4, vida media ~10h, eliminación renal y fecal",
+      "farmacodinamica": "Estimula motilidad gastrointestinal superior",
+      "indicacoes": "Gastroparesia, ERGE refractaria, estreñimiento crónico (off-label)",
+      "reacoesAdversas": "Diarrea, dolor abdominal, cefalea, QT prolongado, arritmias",
+      "riscoGravidez": "Categoría C – riesgo potencial",
+      "riscoLactacao": "Se excreta en leche materna; evitar",
+      "administracao": "Vía oral, antes de las comidas",
+      "doseMaxima": "40 mg/día",
+      "doseMinima": "10 mg/dosis",
+      "classificacao": "Procinético digestivo – agonista 5-HT4",
+      "apresentacao": "Comprimidos 10 mg, suspensión 1 mg/mL",
+      "interacaoMedicamento": "Interacciones graves con antifúngicos azólicos, macrólidos, tricíclicos",
+      "posologia": "5–10 mg 3–4 veces/día según tolerancia",
+      "armazenamento": "Temperatura ambiente, proteger de la luz",
+      "preparo": "Agitar suspensión antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Arritmia, alteraciones electrolíticas, fármacos QT",
+      "cuidadosMedicos": "ECG basal, monitor electrolitos",
+      "cuidadosFarmaceuticos": "Uso off-label, revisar interacciones",
+      "cuidadosEnfermagem": "Vigilar taquicardia, síncope, cambios en ECG",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "西沙必利",
+      "suspension": "择期手术前应停药5天",
+      "risk": "高风险：QT延长、心律失常、麻醉相互作用、CYP3A4药物联用",
+      "reintroduction": "ECG和电解质恢复正常后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "西沙必利",
+      "nomeComercial": "Propulsid（多数国家已禁用）",
+      "mecanismoAcao": "5-HT4激动剂、弱5-HT3拮抗剂，促进乙酰胆碱释放",
+      "farmacocinetica": "口服吸收率30–40%，CYP3A4代谢，半衰期约10小时，经肾及粪便排泄",
+      "farmacodinamica": "增强胃肠上段动力，包括食管、胃、小肠",
+      "indicacoes": "胃轻瘫、顽固性胃食管反流、慢性便秘（限用）",
+      "reacoesAdversas": "腹泻、腹痛、头痛、QT延长、心律失常、尖端扭转型室速",
+      "riscoGravidez": "C类 – 潜在风险",
+      "riscoLactacao": "可经乳汁排泄，避免使用",
+      "administracao": "口服，餐前服用",
+      "doseMaxima": "每日40毫克",
+      "doseMinima": "每次10毫克",
+      "classificacao": "胃肠促动力药 – 5-HT4激动剂",
+      "apresentacao": "10毫克片剂，1 mg/mL口服液",
+      "interacaoMedicamento": "与CYP3A4抑制剂（抗真菌、红霉素等）合用可致QT延长",
+      "posologia": "每次5–10毫克，每日3–4次",
+      "armazenamento": "室温避光保存",
+      "preparo": "口服液使用前摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "QT延长、电解质紊乱、心律失常病史",
+      "cuidadosMedicos": "监测ECG、电解质（K+、Mg2+）",
+      "cuidadosFarmaceuticos": "警惕与CYP3A4药物合用引发心律异常",
+      "cuidadosEnfermagem": "关注心率、晕厥、心电图变化",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

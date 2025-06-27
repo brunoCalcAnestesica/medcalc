@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Hidrocortisona (tópico)",
+      "suspension": "Não é necessário suspender em procedimentos cirúrgicos",
+      "risk": "Uso prolongado pode causar atrofia cutânea, telangiectasias, infecção secundária e supressão do eixo HHA",
+      "reintroduction": "Pode ser reintroduzida conforme condição dermatológica e integridade da pele"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidrocortisona",
+      "nomeComercial": "Hidrocortisona Teuto, Cortigen, Cortidex",
+      "mecanismoAcao": "Corticosteroide tópico de baixa potência que inibe mediadores inflamatórios e respostas imunes locais",
+      "farmacocinetica": "Absorção cutânea variável; metabolismo hepático; excreção renal",
+      "farmacodinamica": "Efeito anti-inflamatório, antipruriginoso e vasoconstritor",
+      "indicacoes": "Dermatite atópica, dermatite seborreica, eczema, psoríase leve, queimaduras solares, picadas de insetos",
+      "reacoesAdversas": "Queimação, prurido, ressecamento, infecção cutânea secundária, atrofia",
+      "riscoGravidez": "Categoria C; uso tópico pontual aceitável",
+      "riscoLactacao": "Evitar aplicar nas mamas durante a amamentação",
+      "administracao": "Uso tópico",
+      "doseMaxima": "Aplicação 2x/dia por no máximo 2 semanas em áreas pequenas",
+      "doseMinima": "1x/dia localmente",
+      "classificacao": "Corticosteroide tópico de baixa potência (classe VII)",
+      "apresentacao": "Creme ou pomada 1% (10 mg/g) em tubos de 20 g, 30 g, 60 g",
+      "interacaoMedicamento": "Sem interações relevantes em uso tópico",
+      "posologia": "Aplicar fina camada 1–2x/dia nas áreas afetadas",
+      "armazenamento": "Temperatura ambiente (15–25°C)",
+      "preparo": "Uso direto; não aplicar com curativos oclusivos sem orientação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecções virais/fúngicas não tratadas, rosácea, dermatite perioral",
+      "cuidadosMedicos": "Evitar uso prolongado em áreas extensas ou faciais",
+      "cuidadosFarmaceuticos": "Educar sobre tempo de uso e evitar oclusão",
+      "cuidadosEnfermagem": "Observar sinais de irritação, infecção ou atrofia",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hydrocortisone (topical)",
+      "suspension": "No need to suspend before surgical procedures",
+      "risk": "Prolonged use may cause skin atrophy, HPA axis suppression, secondary infections",
+      "reintroduction": "Can resume based on clinical condition and skin status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hydrocortisone",
+      "nomeComercial": "Cortizone, Preparation H Hydrocortisone, Cortaid",
+      "mecanismoAcao": "Low-potency corticosteroid that inhibits inflammatory cytokines",
+      "farmacocinetica": "Low systemic absorption unless applied on broken skin; hepatic metabolism; renal elimination",
+      "farmacodinamica": "Anti-inflammatory, antipruritic, vasoconstrictive effect",
+      "indicacoes": "Mild eczema, atopic dermatitis, contact dermatitis, insect bites, anal itching",
+      "reacoesAdversas": "Burning, itching, dryness, folliculitis, acneiform rash, secondary infection",
+      "riscoGravidez": "Category C (topical use acceptable)",
+      "riscoLactacao": "Avoid application on nipple area while breastfeeding",
+      "administracao": "Topical",
+      "doseMaxima": "Apply 1–2x/day for ≤2 weeks",
+      "doseMinima": "Apply once daily",
+      "classificacao": "Low-potency topical corticosteroid (Class VII)",
+      "apresentacao": "1% cream/ointment in 15 g, 30 g, 60 g tubes",
+      "interacaoMedicamento": "None significant topically",
+      "posologia": "Thin layer on affected area 1–2 times/day",
+      "armazenamento": "Store at room temperature (59–77°F)",
+      "preparo": "Do not occlude unless instructed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Untreated infections, rosacea, perioral dermatitis",
+      "cuidadosMedicos": "Avoid prolonged use on face or large areas",
+      "cuidadosFarmaceuticos": "Educate on limited duration and thin application",
+      "cuidadosEnfermagem": "Monitor for local reactions or skin thinning",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hidrocortisona (tópica)",
+      "suspension": "No requiere suspensión quirúrgica",
+      "risk": "Atrofia cutánea, supresión suprarrenal con uso prolongado",
+      "reintroduction": "Puede reiniciarse según condición clínica y cutánea"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidrocortisona",
+      "nomeComercial": "Cortaid, Hidrocort, Derman",
+      "mecanismoAcao": "Corticoide de baja potencia que suprime la inflamación local",
+      "farmacocinetica": "Absorción mínima; metabolizada en hígado; excreción renal",
+      "farmacodinamica": "Antiinflamatorio, vasoconstrictor, antipruriginoso",
+      "indicacoes": "Eczema leve, picaduras, dermatitis atópica o seborreica",
+      "reacoesAdversas": "Irritación local, acné, infecciones fúngicas o bacterianas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar aplicación en zona mamaria",
+      "administracao": "Tópico",
+      "doseMaxima": "Aplicar 1–2 veces/día por 1–2 semanas",
+      "doseMinima": "1 vez al día",
+      "classificacao": "Corticoide tópico de baja potencia",
+      "apresentacao": "Crema/pomada 1% en tubos 15–60 g",
+      "interacaoMedicamento": "No se reportan",
+      "posologia": "Aplicar capa fina 1–2 veces al día",
+      "armazenamento": "15–25°C",
+      "preparo": "Aplicación directa",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Rosácea, infecciones no tratadas",
+      "cuidadosMedicos": "Evitar uso prolongado en cara",
+      "cuidadosFarmaceuticos": "Educar sobre uso limitado",
+      "cuidadosEnfermagem": "Vigilar irritación, atrofia, respuesta clínica",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氢化可的松（外用）",
+      "suspension": "无需术前停药",
+      "risk": "长期使用可致皮肤萎缩、继发感染、HPA轴抑制",
+      "reintroduction": "术后根据皮肤状态可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氢化可的松",
+      "nomeComercial": "Cortizone, 可的松软膏",
+      "mecanismoAcao": "低效皮质类固醇，抑制局部炎症因子表达",
+      "farmacocinetica": "皮肤吸收少；肝代谢，肾排泄",
+      "farmacodinamica": "抗炎、止痒、血管收缩作用",
+      "indicacoes": "湿疹、轻度银屑病、特应性皮炎、虫咬等",
+      "reacoesAdversas": "皮肤变薄、刺激感、色素改变、继发感染",
+      "riscoGravidez": "C类；短期外用相对安全",
+      "riscoLactacao": "避免哺乳期涂抹乳头区域",
+      "administracao": "外用",
+      "doseMaxima": "每日2次，连用不超2周",
+      "doseMinima": "每日1次",
+      "classificacao": "低效局部糖皮质激素",
+      "apresentacao": "1%乳膏/软膏，15–60克",
+      "interacaoMedicamento": "外用无显著交互作用",
+      "posologia": "每日1–2次局部涂抹",
+      "armazenamento": "15–25°C，避光",
+      "preparo": "无需稀释，直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性感染、玫瑰痤疮",
+      "cuidadosMedicos": "面部慎用，不建议长期广泛使用",
+      "cuidadosFarmaceuticos": "宣教使用剂量和时间限制",
+      "cuidadosEnfermagem": "观察是否有感染或皮肤变薄等副作用",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，UpToDate"
+    }
+  }
+}

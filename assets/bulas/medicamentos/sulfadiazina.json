@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sulfadiazina",
+      "suspension": "Avaliar com infectologia; suspender 3 dias antes de cirurgia de grande porte",
+      "risk": "Risco de cristalúria, hematotoxicidade e interação com anestésicos; potencial de reação cutânea grave",
+      "reintroduction": "Reintroduzir após estabilização clínica e função renal normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfadiazina",
+      "nomeComercial": "Sulphatrim, Sulfadiazina Prati-Donaduzzi",
+      "mecanismoAcao": "Inibe competitivamente a síntese de ácido fólico bacteriano ao bloquear a di-hidropteroato sintetase",
+      "farmacocinetica": "Absorção oral rápida; meia-vida 10h; excreção renal",
+      "farmacodinamica": "Bacteriostático contra cocos Gram-positivos, Gram-negativos e protozoários",
+      "indicacoes": "Toxoplasmose, profilaxia de pneumonia por Pneumocystis jirovecii (em associação)",
+      "reacoesAdversas": "Rash, febre, leucopenia, nefrotoxicidade, síndrome de Stevens-Johnson",
+      "riscoGravidez": "Categoria C (1º e 2º tri); D (3º trimestre)",
+      "riscoLactacao": "Evitar durante amamentação",
+      "administracao": "Via oral ou tópica (sulfadiazina de prata)",
+      "doseMaxima": "4g/dia (VO)",
+      "doseMinima": "1g/dia (VO)",
+      "classificacao": "Sulfonamida antimicrobiana",
+      "apresentacao": "Comprimidos 500mg; creme 1% (sulfadiazina de prata)",
+      "interacaoMedicamento": "Aumenta efeito de anticoagulantes, hipoglicemiantes; risco aumentado com metotrexato",
+      "posologia": "2–4g/dia VO fracionado; tópico: 1–2x/dia",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Uso direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência hepática ou renal grave, alergia a sulfas",
+      "cuidadosMedicos": "Monitorar função renal, hepática e hemograma",
+      "cuidadosFarmaceuticos": "Orientar hidratação adequada para evitar cristalúria",
+      "cuidadosEnfermagem": "Observar sinais de hipersensibilidade, febre, rash cutâneo",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sulfadiazine",
+      "suspension": "Consider holding 3 days before major surgery; consult infectious disease",
+      "risk": "Risk of crystaluria, hematotoxicity, anesthetic interaction, severe skin reactions",
+      "reintroduction": "Restart after clinical stabilization and normal renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfadiazine",
+      "nomeComercial": "Generic only",
+      "mecanismoAcao": "Inhibits bacterial folic acid synthesis by blocking dihydropteroate synthase",
+      "farmacocinetica": "Rapid oral absorption; half-life ~10h; renal excretion",
+      "farmacodinamica": "Bacteriostatic against Gram-positive/negative bacteria and protozoa",
+      "indicacoes": "Toxoplasmosis, PCP prophylaxis (in combination)",
+      "reacoesAdversas": "Rash, fever, leukopenia, nephrotoxicity, Stevens-Johnson syndrome",
+      "riscoGravidez": "Category C (1st/2nd tri), D (3rd tri)",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "Oral or topical (silver sulfadiazine)",
+      "doseMaxima": "4g/day",
+      "doseMinima": "1g/day",
+      "classificacao": "Sulfonamide antimicrobial",
+      "apresentacao": "Tablets 500mg; cream 1% (silver sulfadiazine)",
+      "interacaoMedicamento": "Increases effect of warfarin, hypoglycemics; risk with methotrexate",
+      "posologia": "2–4g/day in divided doses; topical 1–2x/day",
+      "armazenamento": "Room temp, protect from light and moisture",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe liver/renal impairment, sulfa allergy",
+      "cuidadosMedicos": "Monitor renal, liver function, CBC",
+      "cuidadosFarmaceuticos": "Ensure hydration to prevent crystaluria",
+      "cuidadosEnfermagem": "Observe for allergic signs: fever, rash, mucosal lesions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sulfadiazina",
+      "suspension": "Suspender 3 días antes de cirugía mayor (consultar infectología)",
+      "risk": "Riesgo de cristaluria, toxicidad hematológica y cutánea; posible interacción con anestesia",
+      "reintroduction": "Reintroducir tras estabilización clínica y función renal adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfadiazina",
+      "nomeComercial": "Sulfadiazina cinfa",
+      "mecanismoAcao": "Inhibe síntesis bacteriana de ácido fólico (di-hidropteroato sintetasa)",
+      "farmacocinetica": "Absorción oral rápida; vida media ~10h; excreción renal",
+      "farmacodinamica": "Bacteriostático frente a bacterias Gram+ y Gram– y protozoos",
+      "indicacoes": "Toxoplasmosis, profilaxis PCP (asociado)",
+      "reacoesAdversas": "Erupción, fiebre, leucopenia, nefrotoxicidad, síndrome de Stevens-Johnson",
+      "riscoGravidez": "Categoría C/D",
+      "riscoLactacao": "Evitar durante lactancia",
+      "administracao": "Oral o tópica (sulfadiazina argéntica)",
+      "doseMaxima": "4g/día",
+      "doseMinima": "1g/día",
+      "classificacao": "Antimicrobiano sulfonamídico",
+      "apresentacao": "Comprimidos 500mg; crema 1%",
+      "interacaoMedicamento": "Mayor efecto con anticoagulantes, hipoglucemiantes; interacción con metotrexato",
+      "posologia": "2–4g/día VO fraccionado; tópico 1–2x/día",
+      "armazenamento": "Temperatura ambiente; protegido de luz y humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Insuficiencia hepática/renal grave, alergia a sulfas",
+      "cuidadosMedicos": "Monitorear función renal, hepática y hemograma",
+      "cuidadosFarmaceuticos": "Asegurar hidratación adecuada",
+      "cuidadosEnfermagem": "Observar reacciones alérgicas cutáneas y sistémicas",
+      "fontesBibliograficas": "Micromedex, FDA, fichas técnicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "磺胺嘧啶",
+      "suspension": "术前3天停用；建议感染科评估",
+      "risk": "可能引起晶尿、肝肾毒性及严重皮疹，与麻醉有潜在相互作用",
+      "reintroduction": "术后肾功能稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磺胺嘧啶",
+      "nomeComercial": "银磺胺嘧啶, Sulfadiazine",
+      "mecanismoAcao": "抑制二氢蝶酸合酶，干扰叶酸合成",
+      "farmacocinetica": "口服吸收快，半衰期约10小时，肾排泄",
+      "farmacodinamica": "对革兰阳性/阴性菌及某些原虫具有抑菌作用",
+      "indicacoes": "弓形虫病、PCP预防、烧伤感染（银盐型）",
+      "reacoesAdversas": "皮疹、发热、白细胞减少、肾毒性、Stevens-Johnson综合征",
+      "riscoGravidez": "C类（早中期）；D类（晚期）",
+      "riscoLactacao": "哺乳期应避免",
+      "administracao": "口服或局部",
+      "doseMaxima": "每日4克",
+      "doseMinima": "每日1克",
+      "classificacao": "磺胺类抗菌药",
+      "apresentacao": "片剂500mg；银磺胺嘧啶软膏1%",
+      "interacaoMedicamento": "与华法林、降糖药联用增强作用；与甲氨蝶呤协同毒性",
+      "posologia": "每日2–4克分次服用；局部每日1–2次",
+      "armazenamento": "室温避光干燥",
+      "preparo": "无需特殊处理",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肝肾功能障碍、磺胺类过敏",
+      "cuidadosMedicos": "监测血象、肾功能、电解质",
+      "cuidadosFarmaceuticos": "建议多饮水防晶尿",
+      "cuidadosEnfermagem": "注意过敏反应、皮疹及系统症状",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate"
+    }
+  }
+}

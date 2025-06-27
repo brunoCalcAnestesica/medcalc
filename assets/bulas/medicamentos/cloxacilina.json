@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cloxacilina",
+      "suspension": "Não requer suspensão antes de cirurgia eletiva",
+      "risk": "Baixo risco perioperatório; possíveis reações alérgicas e interações com anticoagulantes orais",
+      "reintroduction": "Pode ser mantida ou reintroduzida conforme necessidade clínica e via oral funcional"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloxacilina sódica",
+      "nomeComercial": "Orbens, Cloxiten, Tegacilin",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana por ligação às PBPs, resistente à penicilinase",
+      "farmacocinetica": "Biodisponibilidade oral ~37%; meia-vida 30–60 min; excreção renal",
+      "farmacodinamica": "Bactericida tempo-dependente, ativo contra Staphylococcus aureus sensível à meticilina (MSSA)",
+      "indicacoes": "Infecções estafilocócicas de pele, ossos, articulações, endocardite",
+      "reacoesAdversas": "Náusea, vômito, rash, diarreia, aumento de transaminases, colite pseudomembranosa (raro)",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "6g/dia VO ou 12g/dia IV (dividido)",
+      "doseMinima": "1g/dia",
+      "classificacao": "Penicilina semissintética penicilinase-resistente",
+      "apresentacao": "Cápsulas 500mg; suspensão 125mg/5mL; frasco IV 1g",
+      "interacaoMedicamento": "Pode reduzir eficácia de contraceptivos orais; interação com varfarina e metotrexato",
+      "posologia": "500mg VO 6/6h ou 1g IV 6/6h",
+      "armazenamento": "Temperatura ambiente; suspensão reconstituída refrigerada por até 14 dias",
+      "preparo": "Diluir IV em SF 0,9% ou SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade à penicilina",
+      "cuidadosMedicos": "Avaliar função hepática e renal em uso prolongado",
+      "cuidadosFarmaceuticos": "Administrar VO 1h antes ou 2h após refeições",
+      "cuidadosEnfermagem": "Observar sinais de reação alérgica e superinfecção",
+      "fontesBibliograficas": "Micromedex, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cloxacillin",
+      "suspension": "No need to stop before elective surgery",
+      "risk": "Low surgical risk; allergy possible; may interact with anticoagulants",
+      "reintroduction": "Can be continued or restarted based on clinical need and GI tolerance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloxacillin sodium",
+      "nomeComercial": "Cloxapen (genérico)",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis; beta-lactamase-resistant",
+      "farmacocinetica": "Oral bioavailability ~37%; t½ ~0.5–1h; renal excretion",
+      "farmacodinamica": "Time-dependent bactericidal activity vs MSSA",
+      "indicacoes": "MSSA skin, bone, joint infections, endocarditis",
+      "reacoesAdversas": "GI upset, rash, transaminase elevation, rare colitis",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe",
+      "administracao": "Oral or IV",
+      "doseMaxima": "6g/day PO or 12g/day IV",
+      "doseMinima": "1g/day",
+      "classificacao": "Penicillinase-resistant semisynthetic penicillin",
+      "apresentacao": "Capsules 500mg; 125mg/5mL suspension; 1g IV vials",
+      "interacaoMedicamento": "Warfarin, MTX, OCPs",
+      "posologia": "500mg PO q6h or 1g IV q6h",
+      "armazenamento": "Room temp; reconstituted suspension refrigerated",
+      "preparo": "Dilute IV in NS or D5W",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Penicillin allergy",
+      "cuidadosMedicos": "Check hepatic/renal function with prolonged use",
+      "cuidadosFarmaceuticos": "Take oral dose 1h before or 2h after meals",
+      "cuidadosEnfermagem": "Monitor for allergic reactions, GI symptoms",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cloxacilina",
+      "suspension": "No es necesario suspender antes de cirugía",
+      "risk": "Riesgo bajo; posible alergia o interacción con anticoagulantes",
+      "reintroduction": "Continuar o reiniciar según necesidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloxacilina sódica",
+      "nomeComercial": "Orbens, Tegacilin",
+      "mecanismoAcao": "Inhibe síntesis de pared celular; resistente a betalactamasas",
+      "farmacocinetica": "Biodisponibilidad oral ~37%; vida media 0,5–1h; eliminación renal",
+      "farmacodinamica": "Bactericida tiempo-dependiente contra estafilococo MSSA",
+      "indicacoes": "Infecciones cutáneas, óseas, articulares por MSSA",
+      "reacoesAdversas": "Náusea, diarrea, exantema, transaminasas elevadas",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Segura",
+      "administracao": "VO o IV",
+      "doseMaxima": "6g/día VO o 12g/día IV",
+      "doseMinima": "1g/día",
+      "classificacao": "Penicilina semisintética resistente a betalactamasa",
+      "apresentacao": "500mg cápsulas, 125mg/5mL suspensión, 1g IV",
+      "interacaoMedicamento": "Anticoagulantes, anticonceptivos, metotrexato",
+      "posologia": "500mg VO cada 6h o 1g IV cada 6h",
+      "armazenamento": "Ambiente seco; suspensión refrigerada tras reconstitución",
+      "preparo": "Diluir IV en SSF o SG5%",
+      "solucoesCompatíveis": "SSF, SG5%",
+      "contraindicacoes": "Alergia a penicilinas",
+      "cuidadosMedicos": "Evaluar hepático y renal si uso prolongado",
+      "cuidadosFarmaceuticos": "Administrar en ayunas; agitar suspensión",
+      "cuidadosEnfermagem": "Observar alergia, síntomas GI",
+      "fontesBibliograficas": "Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯唑西林",
+      "suspension": "择期手术前无需停药",
+      "risk": "过敏反应、轻度肝功能异常、抗凝剂药效影响",
+      "reintroduction": "术后感染风险存在时可继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯唑西林钠",
+      "nomeComercial": "Tegacilin",
+      "mecanismoAcao": "抑制细菌细胞壁合成，对β-内酰胺酶稳定",
+      "farmacocinetica": "口服生物利用度约37%；半衰期0.5–1小时；肾排泄",
+      "farmacodinamica": "时间依赖性杀菌作用，针对金黄色葡萄球菌MSSA",
+      "indicacoes": "皮肤软组织感染、骨关节感染、心内膜炎",
+      "reacoesAdversas": "胃肠不适、皮疹、肝酶升高、过敏反应",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期可用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日口服6克或静脉12克",
+      "doseMinima": "每日1克",
+      "classificacao": "青霉素类β-内酰胺酶稳定型抗生素",
+      "apresentacao": "片剂500mg、口服液125mg/5mL、注射剂1g",
+      "interacaoMedicamento": "与口服避孕药、华法林、甲氨蝶呤有相互作用",
+      "posologia": "每6小时500mg口服或1g静脉",
+      "armazenamento": "室温保存，混悬液冷藏",
+      "preparo": "注射前用0.9%氯化钠或5%葡萄糖稀释",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "青霉素过敏",
+      "cuidadosMedicos": "监测肝功能、过敏反应",
+      "cuidadosFarmaceuticos": "空腹服用，摇匀混悬液",
+      "cuidadosEnfermagem": "观察皮疹、腹泻、有效性",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

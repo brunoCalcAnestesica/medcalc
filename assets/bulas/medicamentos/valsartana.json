@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Valsartana",
+      "suspension": "Suspender 24 horas antes da cirurgia eletiva",
+      "risk": "Risco de hipotensão intraoperatória, especialmente com anestesia geral e hipovolemia",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e retomada da via oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Valsartana",
+      "nomeComercial": "Diovan, Tareg",
+      "mecanismoAcao": "Bloqueador seletivo dos receptores AT1 da angiotensina II, promovendo vasodilatação",
+      "farmacocinetica": "Biodisponibilidade oral ~25%; meia-vida 6h; excreção biliar",
+      "farmacodinamica": "Reduz resistência vascular sistêmica e pressão arterial sem aumentar FC",
+      "indicacoes": "Hipertensão, insuficiência cardíaca, pós-infarto do miocárdio",
+      "reacoesAdversas": "Tontura, hipotensão, hipercalemia, disfunção renal",
+      "riscoGravidez": "Categoria D (contraindicado)",
+      "riscoLactacao": "Evitar durante amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "320mg/dia",
+      "doseMinima": "40mg/dia",
+      "classificacao": "BRA (bloqueador do receptor da angiotensina II)",
+      "apresentacao": "Comprimidos de 40mg, 80mg, 160mg, 320mg",
+      "interacaoMedicamento": "Aumenta risco de hipercalemia com IECA, diuréticos poupadores de potássio e AINEs",
+      "posologia": "80–160mg/dia em dose única ou fracionada",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, estenose bilateral de artéria renal, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar PA, função renal, eletrólitos",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão e sinais de hipotensão",
+      "cuidadosEnfermagem": "Observar PA, diurese, sinais de hipercalemia",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Valsartan",
+      "suspension": "Hold 24 hours before elective surgery",
+      "risk": "Risk of intraoperative hypotension, especially with general anesthesia and hypovolemia",
+      "reintroduction": "Restart after hemodynamic stabilization and return of oral intake"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Valsartan",
+      "nomeComercial": "Diovan",
+      "mecanismoAcao": "Selective AT1 receptor blocker, inhibits angiotensin II-induced vasoconstriction",
+      "farmacocinetica": "Oral bioavailability ~25%; half-life 6h; biliary excretion",
+      "farmacodinamica": "Lowers systemic vascular resistance and BP without increasing HR",
+      "indicacoes": "Hypertension, heart failure, post-MI",
+      "reacoesAdversas": "Dizziness, hypotension, hyperkalemia, renal impairment",
+      "riscoGravidez": "Category D (contraindicated)",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "320mg/day",
+      "doseMinima": "40mg/day",
+      "classificacao": "ARB (angiotensin receptor blocker)",
+      "apresentacao": "Tablets 40mg, 80mg, 160mg, 320mg",
+      "interacaoMedicamento": "Increased hyperkalemia risk with ACEIs, K-sparing diuretics, NSAIDs",
+      "posologia": "80–160mg/day as single or divided dose",
+      "armazenamento": "Room temperature, dry place",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, bilateral renal artery stenosis, hypersensitivity",
+      "cuidadosMedicos": "Monitor BP, renal function, electrolytes",
+      "cuidadosFarmaceuticos": "Reinforce adherence and hypotension signs",
+      "cuidadosEnfermagem": "Monitor BP, urine output, potassium-related effects",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Valsartán",
+      "suspension": "Suspender 24 horas antes de cirugía electiva",
+      "risk": "Riesgo de hipotensión intraoperatoria con anestesia general y volemia baja",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica y reinicio de la vía oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Valsartán",
+      "nomeComercial": "Diovan",
+      "mecanismoAcao": "Antagonista selectivo del receptor AT1 de la angiotensina II",
+      "farmacocinetica": "Biodisponibilidad ~25%; vida media 6h; excreción biliar",
+      "farmacodinamica": "Disminuye la resistencia vascular y la PA sin aumentar FC",
+      "indicacoes": "Hipertensión, insuficiencia cardíaca, post-infarto",
+      "reacoesAdversas": "Mareos, hipotensión, hipercalemia, disfunción renal",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Evitar durante lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "320mg/día",
+      "doseMinima": "40mg/día",
+      "classificacao": "ARA II (antagonista del receptor de angiotensina)",
+      "apresentacao": "Comprimidos 40mg, 80mg, 160mg, 320mg",
+      "interacaoMedicamento": "Mayor riesgo de hipercalemia con IECA, ARA, diuréticos ahorradores de K+ y AINEs",
+      "posologia": "80–160mg/día única o dividida",
+      "armazenamento": "Ambiente seco y temperatura controlada",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, estenosis bilateral de arterias renales, hipersensibilidad",
+      "cuidadosMedicos": "Controlar PA, función renal y electrolitos",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia y síntomas de hipotensión",
+      "cuidadosEnfermagem": "Monitorizar PA, diuresis, signos de hipercalemia",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "缬沙坦",
+      "suspension": "择期手术前24小时停药",
+      "risk": "全麻期间可能导致低血压，特别是在低血容量时",
+      "reintroduction": "术后血流动力学稳定并恢复口服后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "缬沙坦",
+      "nomeComercial": "Diovan",
+      "mecanismoAcao": "选择性阻断血管紧张素II AT1受体，抑制血管收缩",
+      "farmacocinetica": "口服生物利用度约25%；半衰期6小时；胆汁排泄",
+      "farmacodinamica": "降低外周阻力和血压，不增加心率",
+      "indicacoes": "高血压、心衰、心肌梗死后",
+      "reacoesAdversas": "头晕、低血压、高钾血症、肾功能异常",
+      "riscoGravidez": "D类，妊娠期禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日320毫克",
+      "doseMinima": "每日40毫克",
+      "classificacao": "血管紧张素II受体阻断剂（ARB）",
+      "apresentacao": "片剂40mg、80mg、160mg、320mg",
+      "interacaoMedicamento": "与ACEI、保钾利尿剂、NSAIDs合用可增加高钾风险",
+      "posologia": "每日80–160mg，可分次服用",
+      "armazenamento": "常温避湿保存",
+      "preparo": "无需配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、双侧肾动脉狭窄、过敏",
+      "cuidadosMedicos": "监测血压、肾功能、电解质",
+      "cuidadosFarmaceuticos": "加强依从性教育，识别低血压症状",
+      "cuidadosEnfermagem": "观察尿量、血钾升高体征",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

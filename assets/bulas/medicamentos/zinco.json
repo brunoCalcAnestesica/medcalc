@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Zinco",
+      "suspension": "Não é necessário suspender antes da cirurgia",
+      "risk": "Risco muito baixo. Doses elevadas podem causar náusea, vômito e interferência com absorção de cobre e ferro. Em níveis fisiológicos, contribui para imunidade e cicatrização.",
+      "reintroduction": "Pode ser mantido ou reintroduzido imediatamente no pós-operatório, especialmente em pacientes com risco de má cicatrização ou desnutrição."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zinco (sulfato, gluconato, quelato)",
+      "nomeComercial": "Zincovit, Biozinc, Suplemento de Zinco, ZMA",
+      "mecanismoAcao": "Cofator enzimático essencial em mais de 300 reações metabólicas, incluindo síntese de DNA, cicatrização e função imunológica",
+      "farmacocinetica": "Absorção intestinal parcial (~20–30%); distribuição tecidual ampla; excreção fecal",
+      "farmacodinamica": "Modula expressão gênica, regulação hormonal, síntese proteica e resposta imune",
+      "indicacoes": "Suplementação em desnutrição, feridas, úlceras, diarreia aguda, alopecia, acne, TPN",
+      "reacoesAdversas": "Náusea, vômito, dor epigástrica, sabor metálico, deficiência de cobre em uso prolongado",
+      "riscoGravidez": "Categoria A",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Oral (cápsulas, solução); parenteral em TPN",
+      "doseMaxima": "40 mg/dia (nível seguro superior de ingestão)",
+      "doseMinima": "8 mg/dia (mulheres), 11 mg/dia (homens)",
+      "classificacao": "Mineral essencial – oligoelemento traço",
+      "apresentacao": "Comprimidos/cápsulas 10–50 mg; solução oral; aditivo para TPN (sulfato de zinco)",
+      "interacaoMedicamento": "Reduz absorção de tetraciclinas, quinolonas, ferro e cobre; interage com diuréticos",
+      "posologia": "10–30 mg/dia conforme indicação clínica",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Uso direto oral; solução parenteral deve ser diluída em TPN por farmacêutico",
+      "solucoesCompatíveis": "Solução de TPN com eletrólitos e vitaminas",
+      "contraindicacoes": "Hipersensibilidade ao zinco; vômitos intensos em doses altas",
+      "cuidadosMedicos": "Monitorar zinco e cobre séricos em uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar coadministração com ferro e cálcio em altas doses",
+      "cuidadosEnfermagem": "Orientar uso com alimentos leves para evitar náusea",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, NIH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Zinc",
+      "suspension": "No need to discontinue before surgery",
+      "risk": "Very low risk. High doses may cause nausea, vomiting, and interfere with copper/iron absorption. Supports immunity and healing.",
+      "reintroduction": "Can be continued or resumed immediately post-op, especially in malnourished or healing-impaired patients."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zinc (sulfate, gluconate, chelate)",
+      "nomeComercial": "Zinc Sulfate, Zinc Gluconate, ZMA, Solgar Zinc",
+      "mecanismoAcao": "Essential enzymatic cofactor in over 300 metabolic pathways",
+      "farmacocinetica": "20–30% absorbed; widespread distribution; fecal elimination",
+      "farmacodinamica": "Involved in gene expression, wound healing, immune function, hormone regulation",
+      "indicacoes": "Zinc deficiency, wound healing, diarrhea, alopecia, acne, TPN supplementation",
+      "reacoesAdversas": "GI upset, nausea, vomiting, metallic taste, copper deficiency in excess",
+      "riscoGravidez": "Category A",
+      "riscoLactacao": "Safe for breastfeeding",
+      "administracao": "Oral; IV only in TPN",
+      "doseMaxima": "40 mg/day (upper tolerable limit)",
+      "doseMinima": "8–11 mg/day (RDA)",
+      "classificacao": "Essential trace element – mineral",
+      "apresentacao": "Tablets/capsules 10–50 mg; oral solution; zinc sulfate for TPN",
+      "interacaoMedicamento": "Decreases absorption of tetracyclines, quinolones, iron, copper; interacts with diuretics",
+      "posologia": "10–30 mg/day based on clinical need",
+      "armazenamento": "Room temp; protect from light/moisture",
+      "preparo": "Direct oral use; add to TPN under sterile conditions",
+      "solucoesCompatíveis": "TPN base solutions",
+      "contraindicacoes": "Severe GI intolerance; hypersensitivity",
+      "cuidadosMedicos": "Monitor zinc and copper levels if long-term",
+      "cuidadosFarmaceuticos": "Avoid co-administration with iron/calcium",
+      "cuidadosEnfermagem": "Give with food to reduce nausea",
+      "fontesBibliograficas": "FDA, NIH, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Zinc",
+      "suspension": "No se requiere suspensión prequirúrgica",
+      "risk": "Riesgo muy bajo. Dosis altas pueden causar náuseas y alterar la absorción de hierro y cobre. Esencial para cicatrización.",
+      "reintroduction": "Puede mantenerse o reiniciarse postoperatoriamente, especialmente en riesgo nutricional"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zinc (sulfato, gluconato, quelato)",
+      "nomeComercial": "Zincofer, ZMA, Suplemento de Zinc",
+      "mecanismoAcao": "Cofactor enzimático esencial en más de 300 reacciones",
+      "farmacocinetica": "Absorción intestinal 20–30%; excreción fecal",
+      "farmacodinamica": "Apoya cicatrización, inmunidad, regulación hormonal",
+      "indicacoes": "Deficiencia de zinc, úlceras, diarrea, alopecia, TPN",
+      "reacoesAdversas": "Náuseas, vómitos, malestar abdominal, sabor metálico",
+      "riscoGravidez": "Categoría A",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "Oral o IV (solo en TPN)",
+      "doseMaxima": "40 mg/día",
+      "doseMinima": "8–11 mg/día",
+      "classificacao": "Mineral esencial – oligoelemento",
+      "apresentacao": "Tabletas, cápsulas, solución oral, TPN",
+      "interacaoMedicamento": "Disminuye absorción de antibióticos y minerales",
+      "posologia": "10–30 mg/día según necesidad clínica",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "Uso directo; IV solo en nutrición parenteral",
+      "solucoesCompatíveis": "Soluciones TPN",
+      "contraindicacoes": "Intolerancia GI severa",
+      "cuidadosMedicos": "Monitorear niveles de zinc y cobre si uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar mezcla con hierro o calcio sin control",
+      "cuidadosEnfermagem": "Administrar con alimento para evitar náuseas",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate, NIH"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "锌",
+      "suspension": "术前无需停用",
+      "risk": "低风险；高剂量可致恶心、呕吐、铜吸收障碍，支持免疫与创伤愈合",
+      "reintroduction": "术后可立即恢复口服或TPN中补充，尤其用于营养风险患者"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硫酸锌、葡萄糖酸锌、螯合锌",
+      "nomeComercial": "锌补、ZMA、Zincum",
+      "mecanismoAcao": "酶辅因子，参与DNA合成、免疫、伤口愈合等300余种反应",
+      "farmacocinetica": "小肠吸收20–30%，肠道排泄为主",
+      "farmacodinamica": "调节免疫、细胞修复、抗氧化作用",
+      "indicacoes": "缺锌、慢性腹泻、皮肤病、TPN补充",
+      "reacoesAdversas": "恶心、金属味、呕吐、大剂量致缺铜",
+      "riscoGravidez": "A类",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "口服或TPN中静脉补充",
+      "doseMaxima": "每日40毫克（耐受上限）",
+      "doseMinima": "每日8–11毫克（RDA）",
+      "classificacao": "微量元素 – 必需矿物质",
+      "apresentacao": "片剂、胶囊、口服液、TPN添加剂",
+      "interacaoMedicamento": "影响铁、铜、四环素、喹诺酮类吸收",
+      "posologia": "每日10–30毫克，根据需求调整",
+      "armazenamento": "常温避光",
+      "preparo": "口服直接使用，TPN中按处方配制",
+      "solucoesCompatíveis": "TPN基本液",
+      "contraindicacoes": "重度胃肠不耐受",
+      "cuidadosMedicos": "长期使用应监测锌铜水平",
+      "cuidadosFarmaceuticos": "注意避免与铁钙同时服用",
+      "cuidadosEnfermagem": "饭后服用以减少胃肠不适",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex、NIH"
+    }
+  }
+}

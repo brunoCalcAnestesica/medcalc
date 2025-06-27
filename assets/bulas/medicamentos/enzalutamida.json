@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Enzalutamida",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva de grande porte ou neurocirurgias",
+      "risk": "Convulsões, fadiga, hipertensão, dor lombar, ginecomastia, diarreia, queda, interação com anestésicos e anticoagulantes",
+      "reintroduction": "Reintroduzir 5–10 dias após cirurgia, com paciente clinicamente estável e ausência de neurotoxicidade"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enzalutamida",
+      "nomeComercial": "Xtandi",
+      "mecanismoAcao": "Antagonista do receptor androgênico; inibe ligação, translocação nuclear e transcrição dependente de andrógeno",
+      "farmacocinetica": "VO; biodisponibilidade elevada; T½ ~6 dias; metabolização hepática (CYP2C8/CYP3A4); excreção fecal/renal",
+      "farmacodinamica": "Inibição potente da via do receptor androgênico, promovendo regressão tumoral em câncer de próstata",
+      "indicacoes": "Câncer de próstata metastático sensível à castração (mCSPC), resistente à castração (mCRPC), doença não metastática de alto risco",
+      "reacoesAdversas": "Fadiga, hipertensão, convulsão, dor óssea, edema, diarreia, ginecomastia, fraturas, queda",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "VO, 160mg/dia (4 cápsulas de 40mg) 1x/dia, com ou sem alimentos",
+      "doseMaxima": "160mg/dia",
+      "doseMinima": "80mg/dia (ajustada por tolerabilidade)",
+      "classificacao": "Antagonista do receptor androgênico de 2ª geração",
+      "apresentacao": "Cápsulas de 40mg; comprimidos de 40mg e 80mg",
+      "interacaoMedicamento": "Indutor potente de CYP3A4 e 2C9/2C19; reduz níveis de anticoagulantes e anticonvulsivantes",
+      "posologia": "160mg VO 1x/dia contínuo, isolado ou com análogo de GnRH",
+      "armazenamento": "Temperatura ambiente; protegido da umidade",
+      "preparo": "Uso oral direto; não abrir cápsulas",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, histórico de convulsão, uso com medicamentos indutores de convulsão",
+      "cuidadosMedicos": "Monitorar PA, risco de convulsão, quedas, densidade óssea e função hepática",
+      "cuidadosFarmaceuticos": "Educar sobre adesão, interações com outros fármacos, risco de sonolência e tontura",
+      "cuidadosEnfermagem": "Observar fadiga, instabilidade postural, pressão arterial, convulsões",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Enzalutamide",
+      "suspension": "Hold 7 days prior to major surgery, especially in patients with seizure history or polypharmacy",
+      "risk": "Fatigue, hypertension, seizure, back pain, gynecomastia, diarrhea, drug interactions",
+      "reintroduction": "Restart 5–10 days postop if neurologically and hemodynamically stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enzalutamide",
+      "nomeComercial": "Xtandi",
+      "mecanismoAcao": "Androgen receptor antagonist; blocks binding, nuclear translocation, and gene activation",
+      "farmacocinetica": "Oral; T½ ~6 days; CYP2C8/3A4 metabolism; fecal/renal elimination",
+      "farmacodinamica": "Strong AR inhibition leading to PSA decline and tumor regression",
+      "indicacoes": "mCRPC, mCSPC, nmCRPC (high-risk)",
+      "reacoesAdversas": "Fatigue, HTN, seizures, hot flashes, fractures, diarrhea, falls",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Not recommended",
+      "administracao": "160mg PO once daily (4×40mg caps or 2×80mg tabs)",
+      "doseMaxima": "160mg/day",
+      "doseMinima": "80mg/day",
+      "classificacao": "2nd-generation AR antagonist",
+      "apresentacao": "40mg caps; 40mg/80mg tablets",
+      "interacaoMedicamento": "CYP inducer (3A4, 2C9, 2C19); reduces efficacy of warfarin, anticonvulsants",
+      "posologia": "160mg PO daily until progression or toxicity",
+      "armazenamento": "Store at room temperature; protect from moisture",
+      "preparo": "Do not open capsules; swallow whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, seizure disorder, known hypersensitivity",
+      "cuidadosMedicos": "Monitor BP, seizure history, bone health, cognitive status",
+      "cuidadosFarmaceuticos": "Drug-drug interaction screening, dosing education",
+      "cuidadosEnfermagem": "Assess neurologic symptoms, BP, risk of falls",
+      "fontesBibliograficas": "FDA label, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Enzalutamida",
+      "suspension": "Suspender 7 días antes de cirugía mayor con riesgo neurológico o cardiovascular",
+      "risk": "Convulsiones, fatiga, HTA, ginecomastia, diarrea, caídas, interacciones medicamentosas",
+      "reintroduction": "Reiniciar 5–10 días después si paciente estable y sin convulsiones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enzalutamida",
+      "nomeComercial": "Xtandi",
+      "mecanismoAcao": "Antagonista del receptor androgénico; inhibe señalización mediada por andrógenos",
+      "farmacocinetica": "VO; T½ ~6 días; metabolismo hepático; eliminación fecal/renal",
+      "farmacodinamica": "Bloqueo potente de AR, reduce PSA y progresión tumoral",
+      "indicacoes": "Cáncer de próstata metastásico (mCRPC, mCSPC), nmCRPC",
+      "reacoesAdversas": "Fatiga, hipertensión, convulsiones, dolor óseo, ginecomastia",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "160mg VO una vez/día",
+      "doseMaxima": "160mg/día",
+      "doseMinima": "80mg/día",
+      "classificacao": "Antagonista AR de segunda generación",
+      "apresentacao": "Cápsulas 40mg; comprimidos 40mg/80mg",
+      "interacaoMedicamento": "Inductor CYP3A4/2C8/2C19; disminuye niveles de anticoagulantes y otros",
+      "posologia": "160mg/día continuo",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "No abrir cápsulas; vía oral directa",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Convulsiones, embarazo, hipersensibilidad",
+      "cuidadosMedicos": "Control PA, historial convulsiones, riesgo de caídas",
+      "cuidadosFarmaceuticos": "Monitorear interacciones, adherencia, riesgo neurológico",
+      "cuidadosEnfermagem": "Observar fatiga, confusión, caídas, presión arterial",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "恩杂鲁胺",
+      "suspension": "术前7天停药，避免术中神经系统不良事件",
+      "risk": "癫痫、高血压、疲劳、乳房增大、跌倒、药物相互作用",
+      "reintroduction": "术后5–10天，病人稳定后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "恩杂鲁胺",
+      "nomeComercial": "Xtandi",
+      "mecanismoAcao": "第二代雄激素受体拮抗剂，抑制AR信号转导",
+      "farmacocinetica": "口服；T½约6天；CYP3A4/2C8代谢；粪便和尿排泄",
+      "farmacodinamica": "降低PSA、抑制肿瘤AR依赖性增殖",
+      "indicacoes": "前列腺癌mCRPC、mCSPC、非转移性高危CRPC",
+      "reacoesAdversas": "疲劳、高血压、癫痫、骨痛、乳腺增大、腹泻",
+      "riscoGravidez": "X类 – 妊娠期禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "每日160mg，口服整片",
+      "doseMaxima": "160mg/天",
+      "doseMinima": "80mg/天",
+      "classificacao": "二代AR拮抗剂",
+      "apresentacao": "40mg胶囊、40/80mg片剂",
+      "interacaoMedicamento": "诱导CYP3A4/2C9/2C19，注意药物浓度下降",
+      "posologia": "每日160mg口服，连续服用",
+      "armazenamento": "室温干燥保存",
+      "preparo": "整片服用，不可打开胶囊",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "癫痫史、孕期、严重过敏",
+      "cuidadosMedicos": "监测血压、电解质、癫痫症状、跌倒风险",
+      "cuidadosFarmaceuticos": "教育患者避免漏服，关注药物交互反应",
+      "cuidadosEnfermagem": "观察意识、跌倒、疲劳、腹泻、高血压",
+      "fontesBibliograficas": "中国药典、FDA、EMA、NCCN、Micromedex"
+    }
+  }
+}

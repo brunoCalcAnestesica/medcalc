@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Epirrubicina",
+      "suspension": "Suspender 7 dias antes de cirurgia de grande porte",
+      "risk": "Risco elevado de mielossupressão, cardiotoxicidade e infecção; retardo na cicatrização",
+      "reintroduction": "Reintroduzir após normalização hematológica e função cardíaca preservada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Epirrubicina",
+      "nomeComercial": "Farmorubicina",
+      "mecanismoAcao": "Intercala-se no DNA, inibindo topoisomerase II e gerando radicais livres que danificam o DNA",
+      "farmacocinetica": "Administração IV, meia-vida 30 h, metabolismo hepático, excreção biliar e renal",
+      "farmacodinamica": "Antineoplásico que interfere na síntese de DNA e RNA, com toxicidade cardíaca cumulativa",
+      "indicacoes": "Câncer de mama, estômago, bexiga, pulmão, linfomas",
+      "reacoesAdversas": "Neutropenia, alopecia, mucosite, cardiotoxicidade, extravasamento tecidual",
+      "riscoGravidez": "Categoria D – evitar uso",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intravenosa (bolus ou infusão)",
+      "doseMaxima": "900 mg/m² (dose cumulativa)",
+      "doseMinima": "30 mg/m²",
+      "classificacao": "Antineoplásico, antraciclina",
+      "apresentacao": "Frascos-ampola 10 mg, 50 mg, 100 mg",
+      "interacaoMedicamento": "Interage com trastuzumabe, paclitaxel, outros cardiotóxicos",
+      "posologia": "60–90 mg/m² IV a cada 21 dias ou esquemas divididos",
+      "armazenamento": "Refrigerado, protegido da luz",
+      "preparo": "Diluir em SF 0,9% para infusão lenta",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "ICC, gravidez, hipersensibilidade, leucopenia severa",
+      "cuidadosMedicos": "Avaliar FEVE antes e durante tratamento, monitorar hemograma",
+      "cuidadosFarmaceuticos": "Atenção à estabilidade e extravasamento",
+      "cuidadosEnfermagem": "Observar acesso venoso, sinais de toxicidade cardíaca e hematológica",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Epirubicin",
+      "suspension": "Hold 7 days before major elective surgery",
+      "risk": "High risk of myelosuppression, cardiotoxicity, delayed healing and infection",
+      "reintroduction": "Restart after hematologic recovery and preserved cardiac function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Epirubicin",
+      "nomeComercial": "Ellence",
+      "mecanismoAcao": "DNA intercalator and topoisomerase II inhibitor; generates free radicals causing DNA damage",
+      "farmacocinetica": "IV, half-life ~30 h, hepatic metabolism, biliary/renal excretion",
+      "farmacodinamica": "Cytotoxic effect via inhibition of DNA and RNA synthesis; cumulative cardiotoxicity",
+      "indicacoes": "Breast cancer, gastric cancer, lung cancer, lymphomas, bladder cancer",
+      "reacoesAdversas": "Neutropenia, alopecia, mucositis, cardiomyopathy, tissue necrosis",
+      "riscoGravidez": "Category D – avoid use",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Intravenous (bolus or infusion)",
+      "doseMaxima": "900 mg/m² cumulative",
+      "doseMinima": "30 mg/m²",
+      "classificacao": "Anthracycline antineoplastic",
+      "apresentacao": "Vials 10 mg, 50 mg, 100 mg",
+      "interacaoMedicamento": "Interacts with trastuzumab, paclitaxel, other cardiotoxics",
+      "posologia": "60–90 mg/m² IV every 21 days or split-dose protocols",
+      "armazenamento": "Refrigerated, protect from light",
+      "preparo": "Dilute in NS for slow infusion",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "CHF, pregnancy, hypersensitivity, severe neutropenia",
+      "cuidadosMedicos": "Assess LVEF before/during therapy; monitor CBC",
+      "cuidadosFarmaceuticos": "Monitor stability and prevent extravasation",
+      "cuidadosEnfermagem": "Monitor IV site, cardiac and hematologic toxicities",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Epirubicina",
+      "suspension": "Suspender 7 días antes de cirugía mayor",
+      "risk": "Alto riesgo de mielosupresión, toxicidad cardíaca y retraso en la cicatrización",
+      "reintroduction": "Reintroducir tras recuperación hematológica y función cardíaca adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Epirubicina",
+      "nomeComercial": "Farmorubicina",
+      "mecanismoAcao": "Se intercala en el ADN e inhibe topoisomerasa II, provocando roturas en el ADN",
+      "farmacocinetica": "IV, vida media ~30 h, metabolismo hepático, eliminación biliar y renal",
+      "farmacodinamica": "Inhibe la síntesis de ADN/ARN; toxicidad cardíaca acumulativa",
+      "indicacoes": "Cáncer de mama, estómago, pulmón, vejiga, linfomas",
+      "reacoesAdversas": "Neutropenia, alopecia, mucositis, miocardiopatía, extravasación",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "IV (bolo o infusión)",
+      "doseMaxima": "900 mg/m² acumulado",
+      "doseMinima": "30 mg/m²",
+      "classificacao": "Antineoplásico antraciclina",
+      "apresentacao": "Viales de 10 mg, 50 mg, 100 mg",
+      "interacaoMedicamento": "Interacciones con trastuzumab, paclitaxel, cardiotóxicos",
+      "posologia": "60–90 mg/m² IV cada 21 días o dosis divididas",
+      "armazenamento": "Refrigerar, proteger de luz",
+      "preparo": "Diluir en SF 0,9% e infundir lentamente",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "ICC, embarazo, neutropenia severa",
+      "cuidadosMedicos": "Evaluar FEVI y controlar hemograma",
+      "cuidadosFarmaceuticos": "Controlar estabilidad y evitar extravasación",
+      "cuidadosEnfermagem": "Revisar acceso venoso y signos tóxicos cardíacos y hematológicos",
+      "fontesBibliograficas": "AEMPS, EMA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "表柔比星",
+      "suspension": "大手术前7天停药",
+      "risk": "骨髓抑制、心脏毒性、伤口愈合延迟和感染风险",
+      "reintroduction": "血象恢复正常、心功能稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "表柔比星",
+      "nomeComercial": "Ellence",
+      "mecanismoAcao": "嵌入DNA并抑制拓扑异构酶II，导致DNA断裂",
+      "farmacocinetica": "静脉给药，半衰期约30小时，经肝代谢、胆汁和尿液排泄",
+      "farmacodinamica": "抑制DNA/RNA合成；具有心脏毒性",
+      "indicacoes": "乳腺癌、胃癌、肺癌、膀胱癌、淋巴瘤",
+      "reacoesAdversas": "白细胞减少、脱发、口腔炎、心肌病、药液外渗",
+      "riscoGravidez": "D类 – 孕期禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "静脉注射（推注或输注）",
+      "doseMaxima": "累计900 mg/m²",
+      "doseMinima": "每周期30 mg/m²",
+      "classificacao": "抗肿瘤药，蒽环类",
+      "apresentacao": "注射用粉针10、50、100 mg",
+      "interacaoMedicamento": "与他莫昔芬、曲妥珠单抗、紫杉醇等联合时风险增加",
+      "posologia": "每21天一次60–90 mg/m²，或分次给药",
+      "armazenamento": "冷藏保存，避光",
+      "preparo": "稀释于0.9%氯化钠中缓慢输注",
+      "solucoesCompatíveis": "0.9%氯化钠注射液",
+      "contraindicacoes": "充血性心力衰竭、妊娠、重度白细胞减少",
+      "cuidadosMedicos": "治疗前及期间监测心功能和血象",
+      "cuidadosFarmaceuticos": "注意累积剂量与药物稳定性",
+      "cuidadosEnfermagem": "观察注射部位、粘膜、心脏与骨髓抑制症状",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

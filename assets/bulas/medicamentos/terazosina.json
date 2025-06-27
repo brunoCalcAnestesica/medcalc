@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Terazosina",
+      "suspension": "Suspender 24 horas antes de procedimentos anestésicos maiores.",
+      "risk": "Risco de hipotensão ortostática grave, síncope e interação com anestésicos vasodilatadores. Potencialização de queda de pressão arterial no intraoperatório.",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica, preferencialmente em ambiente monitorado com dose inicial ajustada."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Terazosina cloridrato",
+      "nomeComercial": "Hytrin, Zayasel",
+      "mecanismoAcao": "Bloqueador seletivo dos receptores alfa-1 adrenérgicos, promove vasodilatação periférica e relaxamento do músculo liso prostático e vesical.",
+      "farmacocinetica": "Biodisponibilidade oral 90%; pico plasmático em 1–2 horas; meia-vida de 12 horas; metabolizado no fígado e excretado por via renal.",
+      "farmacodinamica": "Reduz a resistência vascular periférica e melhora sintomas urinários da HPB.",
+      "indicacoes": "Hipertensão arterial e hiperplasia prostática benigna (HPB).",
+      "reacoesAdversas": "Tontura, fadiga, hipotensão postural, congestão nasal, cefaleia, náuseas.",
+      "riscoGravidez": "Categoria C – Usar somente se benefício justificar o risco.",
+      "riscoLactacao": "Desconhecido; uso com cautela.",
+      "administracao": "Via oral, geralmente ao deitar para minimizar risco de hipotensão.",
+      "doseMaxima": "20 mg/dia",
+      "doseMinima": "1 mg/dia",
+      "classificacao": "Antagonista alfa-1 adrenérgico não seletivo para HPB e HAS",
+      "apresentacao": "Comprimidos de 1 mg, 2 mg, 5 mg e 10 mg",
+      "interacaoMedicamento": "Potencializa efeito de anti-hipertensivos e anestésicos. Interações com diuréticos e betabloqueadores.",
+      "posologia": "Iniciar com 1 mg à noite. Aumentar progressivamente até controle clínico (máx 20 mg/dia).",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade.",
+      "preparo": "Não requer preparo especial.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Hipotensão postural grave, hipersensibilidade ao fármaco.",
+      "cuidadosMedicos": "Monitorar pressão arterial, especialmente após doses iniciais e aumento de dose.",
+      "cuidadosFarmaceuticos": "Orientar administração noturna e risco de hipotensão.",
+      "cuidadosEnfermagem": "Avaliar sinais de tontura, quedas, hipotensão ortostática.",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, UpToDate, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Terazosin",
+      "suspension": "Suspend 24 hours before major anesthetic procedures.",
+      "risk": "Risk of significant orthostatic hypotension, syncope, and interaction with vasodilator anesthetics. May cause intraoperative hypotension.",
+      "reintroduction": "Reintroduce after hemodynamic stabilization, preferably under monitoring with adjusted initial dose."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Terazosin hydrochloride",
+      "nomeComercial": "Hytrin",
+      "mecanismoAcao": "Selective alpha-1 adrenergic blocker causing peripheral vasodilation and relaxation of prostatic and bladder smooth muscle.",
+      "farmacocinetica": "Oral bioavailability ~90%; peak in 1–2 h; half-life 12 h; hepatic metabolism, renal excretion.",
+      "farmacodinamica": "Decreases peripheral resistance and improves urinary symptoms from BPH.",
+      "indicacoes": "Hypertension and benign prostatic hyperplasia (BPH).",
+      "reacoesAdversas": "Dizziness, fatigue, postural hypotension, nasal congestion, headache, nausea.",
+      "riscoGravidez": "Category C – Use only if benefits outweigh risks.",
+      "riscoLactacao": "Unknown; caution advised.",
+      "administracao": "Oral, typically at bedtime to reduce hypotension risk.",
+      "doseMaxima": "20 mg/day",
+      "doseMinima": "1 mg/day",
+      "classificacao": "Nonselective alpha-1 adrenergic antagonist",
+      "apresentacao": "Tablets of 1 mg, 2 mg, 5 mg, 10 mg",
+      "interacaoMedicamento": "Enhances effect of antihypertensives and anesthetics. Interacts with diuretics and beta blockers.",
+      "posologia": "Start at 1 mg at bedtime; increase gradually up to 20 mg/day based on response.",
+      "armazenamento": "Store at 15–30°C, protect from light and moisture.",
+      "preparo": "No special preparation required.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Severe orthostatic hypotension, hypersensitivity.",
+      "cuidadosMedicos": "Monitor BP, especially after initiation or dose escalation.",
+      "cuidadosFarmaceuticos": "Advise nighttime dosing and warn about hypotension risk.",
+      "cuidadosEnfermagem": "Monitor for dizziness, falls, and postural hypotension.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Terazosina",
+      "suspension": "Suspender 24 horas antes de procedimientos anestésicos mayores.",
+      "risk": "Riesgo de hipotensión ortostática severa, síncope e interacción con anestésicos vasodilatadores.",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica, preferentemente con dosis baja en ambiente controlado."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de terazosina",
+      "nomeComercial": "Hytrin",
+      "mecanismoAcao": "Bloqueador alfa-1 adrenérgico selectivo que causa vasodilatación periférica y relajación del músculo liso prostático y vesical.",
+      "farmacocinetica": "Biodisponibilidad oral ~90%; pico 1–2 h; vida media 12 h; metabolismo hepático, excreción renal.",
+      "farmacodinamica": "Reduce la resistencia periférica y mejora los síntomas urinarios por HPB.",
+      "indicacoes": "Hipertensión y hiperplasia prostática benigna (HPB).",
+      "reacoesAdversas": "Mareos, fatiga, hipotensión postural, congestión nasal, cefalea, náuseas.",
+      "riscoGravidez": "Categoría C – Solo si el beneficio supera el riesgo.",
+      "riscoLactacao": "Desconocido; usar con precaución.",
+      "administracao": "Vía oral, preferentemente por la noche.",
+      "doseMaxima": "20 mg/día",
+      "doseMinima": "1 mg/día",
+      "classificacao": "Antagonista alfa-1 adrenérgico no selectivo",
+      "apresentacao": "Comprimidos de 1 mg, 2 mg, 5 mg, 10 mg",
+      "interacaoMedicamento": "Potencia efectos de antihipertensivos y anestésicos. Interacción con diuréticos y betabloqueadores.",
+      "posologia": "Iniciar con 1 mg por la noche, aumentar gradualmente según respuesta.",
+      "armazenamento": "Almacenar entre 15–30°C, protegido de luz y humedad.",
+      "preparo": "No requiere preparación especial.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Hipotensión ortostática grave, hipersensibilidad.",
+      "cuidadosMedicos": "Monitorizar presión arterial tras inicio o ajustes de dosis.",
+      "cuidadosFarmaceuticos": "Advertir sobre riesgo de hipotensión y administración nocturna.",
+      "cuidadosEnfermagem": "Observar mareos, caídas e hipotensión postural.",
+      "fontesBibliograficas": "AEMPS, Micromedex, EMA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "特拉唑嗪",
+      "suspension": "大型麻醉手术前应提前24小时停药。",
+      "risk": "可能引起体位性低血压、晕厥，与血管扩张类麻醉药相互作用。",
+      "reintroduction": "术后血流动力学稳定后可重新使用，初始剂量应下调并在监护下进行。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸特拉唑嗪",
+      "nomeComercial": "Hytrin",
+      "mecanismoAcao": "选择性α1肾上腺素能受体阻滞剂，扩张外周血管并放松前列腺和平滑肌。",
+      "farmacocinetica": "口服生物利用度约90%；达峰时间1–2小时；半衰期12小时；肝代谢，肾排泄。",
+      "farmacodinamica": "降低外周阻力，缓解BPH相关症状。",
+      "indicacoes": "高血压与良性前列腺增生（BPH）。",
+      "reacoesAdversas": "头晕、疲劳、体位性低血压、鼻塞、头痛、恶心。",
+      "riscoGravidez": "C类 – 仅在必要时使用。",
+      "riscoLactacao": "风险未知，慎用。",
+      "administracao": "口服，建议睡前服用以减少低血压风险。",
+      "doseMaxima": "每日20毫克",
+      "doseMinima": "每日1毫克",
+      "classificacao": "非选择性α1肾上腺素阻断剂",
+      "apresentacao": "片剂：1mg、2mg、5mg、10mg",
+      "interacaoMedicamento": "增强降压药和麻醉药效应；与利尿剂和β受体阻滞剂相互作用。",
+      "posologia": "初始1 mg/晚，根据反应逐渐增加至最大20 mg/日。",
+      "armazenamento": "15–30°C，避光避湿保存。",
+      "preparo": "无需特殊准备。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "严重体位性低血压、对本品过敏。",
+      "cuidadosMedicos": "初始剂量或调整时应监测血压。",
+      "cuidadosFarmaceuticos": "强调睡前服用，警惕低血压风险。",
+      "cuidadosEnfermagem": "观察晕厥、跌倒及体位性低血压表现。",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

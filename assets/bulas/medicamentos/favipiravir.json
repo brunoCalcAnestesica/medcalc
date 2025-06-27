@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Favipiravir",
+      "suspension": "Não é necessário suspender; uso fora de protocolos cirúrgicos padrão",
+      "risk": "Teratogênico grave; contraindicado em gestantes; monitorar função hepática",
+      "reintroduction": "Somente com nova prescrição médica; completar regime conforme indicação infecciosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Favipiravir",
+      "nomeComercial": "Avigan (Japão), FabiFlu (Índia)",
+      "mecanismoAcao": "Inibe a RNA polimerase viral dependente de RNA, impedindo a replicação do RNA viral",
+      "farmacocinetica": "Via oral; alta biodisponibilidade; metabolizado no fígado; meia-vida ~5h",
+      "farmacodinamica": "Atividade antiviral contra vírus RNA como influenza, SARS-CoV-2, Ebola",
+      "indicacoes": "Autorizado em alguns países para COVID-19 leve a moderado e influenza resistente",
+      "reacoesAdversas": "Hiperuricemia, aumento de transaminases, diarreia, náusea, leucopenia",
+      "riscoGravidez": "Categoria X; altamente teratogênico",
+      "riscoLactacao": "Contraindicado; excretado no leite",
+      "administracao": "Via oral com alimentos",
+      "doseMaxima": "1600 mg 2x/dia no primeiro dia, seguido de 600–800 mg 2x/dia por até 14 dias",
+      "doseMinima": "600 mg 2x/dia",
+      "classificacao": "Antiviral oral de amplo espectro contra vírus de RNA",
+      "apresentacao": "Comprimidos de 200 mg",
+      "interacaoMedicamento": "Evitar com pirazinamida, outros hepatotóxicos",
+      "posologia": "1600 mg 12/12h no D1; depois 600–800 mg 12/12h por até 13 dias",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso direto por via oral",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar ácido úrico e função hepática",
+      "cuidadosFarmaceuticos": "Orientar risco reprodutivo e adesão ao esquema completo",
+      "cuidadosEnfermagem": "Observar efeitos adversos gastrointestinais e sinais de toxicidade hepática",
+      "fontesBibliograficas": "PMDA Japão, DRL Índia, Micromedex, WHO"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Favipiravir",
+      "suspension": "Not used in perioperative protocols; no suspension required",
+      "risk": "Highly teratogenic; contraindicated in pregnancy; monitor liver enzymes",
+      "reintroduction": "Only if newly prescribed for viral infections"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Favipiravir",
+      "nomeComercial": "Avigan, FabiFlu",
+      "mecanismoAcao": "Inhibits viral RNA-dependent RNA polymerase, halting viral replication",
+      "farmacocinetica": "Oral bioavailability ~95%; hepatic metabolism; t1/2 ~5 hours",
+      "farmacodinamica": "Effective against various RNA viruses (e.g., influenza, SARS-CoV-2)",
+      "indicacoes": "Approved in some countries for influenza and COVID-19",
+      "reacoesAdversas": "Hyperuricemia, elevated ALT/AST, GI upset, neutropenia",
+      "riscoGravidez": "Category X; contraindicated due to fetal toxicity",
+      "riscoLactacao": "Excreted in milk; contraindicated",
+      "administracao": "Oral, preferably with food",
+      "doseMaxima": "1600 mg BID on Day 1, then 600–800 mg BID up to Day 14",
+      "doseMinima": "600 mg BID",
+      "classificacao": "Oral antiviral for RNA virus infections",
+      "apresentacao": "200 mg tablets",
+      "interacaoMedicamento": "Avoid with hepatotoxic drugs or those affecting uric acid metabolism",
+      "posologia": "Day 1: 1600 mg BID; Days 2–14: 600–800 mg BID",
+      "armazenamento": "Room temperature, moisture-free",
+      "preparo": "Oral direct use only",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, severe hepatic impairment",
+      "cuidadosMedicos": "Monitor uric acid and liver function tests",
+      "cuidadosFarmaceuticos": "Counsel on teratogenicity and full course adherence",
+      "cuidadosEnfermagem": "Monitor for GI and hepatic side effects",
+      "fontesBibliograficas": "PMDA Japan, EMA, Micromedex, WHO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Favipiravir",
+      "suspension": "No se requiere suspensión; no se usa en cirugía",
+      "risk": "Teratogénico; contraindicado en embarazo; vigilar hígado",
+      "reintroduction": "Solo bajo nueva prescripción para infecciones virales"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Favipiravir",
+      "nomeComercial": "Avigan, FabiFlu",
+      "mecanismoAcao": "Inhibe la ARN polimerasa dependiente de ARN, bloqueando la replicación viral",
+      "farmacocinetica": "Oral; buena absorción; metabolismo hepático; t1/2 ~5h",
+      "farmacodinamica": "Activo frente a virus ARN (gripe, COVID-19)",
+      "indicacoes": "COVID-19 leve/moderado, gripe resistente (según país)",
+      "reacoesAdversas": "Hiperuricemia, transaminasas elevadas, diarrea, leucopenia",
+      "riscoGravidez": "Categoría X; contraindicado",
+      "riscoLactacao": "Contraindicado; se excreta en leche",
+      "administracao": "Vía oral, preferentemente con alimentos",
+      "doseMaxima": "1600 mg cada 12h en D1; luego 600–800 mg cada 12h",
+      "doseMinima": "600 mg 2x/día",
+      "classificacao": "Antiviral oral frente a virus de ARN",
+      "apresentacao": "Comprimidos 200 mg",
+      "interacaoMedicamento": "Evitar con fármacos hepatotóxicos",
+      "posologia": "Día 1: 1600 mg 2x/día; luego 600–800 mg 2x/día",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "Administración oral directa",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, insuficiencia hepática grave",
+      "cuidadosMedicos": "Vigilar función hepática y ácido úrico",
+      "cuidadosFarmaceuticos": "Asegurar cumplimiento y prevenir embarazo",
+      "cuidadosEnfermagem": "Observar efectos adversos gastrointestinales",
+      "fontesBibliograficas": "Micromedex, PMDA Japón, WHO"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "法匹拉韦",
+      "suspension": "无需停药；术前不常用",
+      "risk": "高度致畸；孕妇禁用；肝功能需监测",
+      "reintroduction": "如需再次使用，应由医生重新开立处方"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "法匹拉韦",
+      "nomeComercial": "Avigan（日本），FabiFlu（印度）",
+      "mecanismoAcao": "抑制病毒RNA依赖的RNA聚合酶，阻断病毒复制",
+      "farmacocinetica": "口服吸收良好；肝脏代谢；半衰期约5小时",
+      "farmacodinamica": "对多种RNA病毒有效，如流感、新冠、埃博拉",
+      "indicacoes": "部分国家用于轻中度COVID-19或抗药性流感",
+      "reacoesAdversas": "尿酸升高、肝酶异常、腹泻、白细胞减少",
+      "riscoGravidez": "X类，禁用于妊娠期",
+      "riscoLactacao": "禁用于哺乳期；可排入乳汁",
+      "administracao": "口服，宜随餐服用",
+      "doseMaxima": "首日每12小时1600 mg；随后600–800 mg每12小时",
+      "doseMinima": "每日两次600 mg",
+      "classificacao": "广谱抗RNA病毒口服药物",
+      "apresentacao": "200 mg片剂",
+      "interacaoMedicamento": "避免与肝毒性药物合用",
+      "posologia": "首日1600 mg BID；随后600–800 mg BID，疗程最多14天",
+      "armazenamento": "常温干燥保存",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "孕妇、哺乳期、重度肝功能损害",
+      "cuidadosMedicos": "监测尿酸和肝功能",
+      "cuidadosFarmaceuticos": "提醒完成疗程并避孕",
+      "cuidadosEnfermagem": "关注胃肠道反应与肝功能异常",
+      "fontesBibliograficas": "PMDA日本，Micromedex，WHO"
+    }
+  }
+}

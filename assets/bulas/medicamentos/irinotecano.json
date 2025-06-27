@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Irinotecano",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas de grande porte",
+      "risk": "Diarreia grave (aguda e tardia), mielossupressão, náuseas, mucosite, hepatotoxicidade, risco infeccioso",
+      "reintroduction": "Reintroduzir após recuperação hematológica e gastrointestinal, geralmente após 10–14 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Irinotecano",
+      "nomeComercial": "Campto, Irinocam",
+      "mecanismoAcao": "Inibe topoisomerase I, impedindo religação de quebras de fita simples no DNA",
+      "farmacocinetica": "IV; pró-fármaco convertido em SN-38 (ativo); meia-vida ~6–12h; eliminação hepática e fecal",
+      "farmacodinamica": "Citotóxico fase S; promove apoptose celular por acúmulo de quebras de DNA",
+      "indicacoes": "Câncer colorretal metastático, gástrico, pulmão de pequenas células, pâncreas",
+      "reacoesAdversas": "Diarreia aguda (colinérgica) e tardia, neutropenia, alopecia, náusea, astenia",
+      "riscoGravidez": "Categoria D – contraindicado durante gestação, exceto sob risco vital",
+      "riscoLactacao": "Contraindicado; excreção no leite confirmada",
+      "administracao": "Infusão IV de 90 minutos, isolado ou combinado (ex: FOLFIRI)",
+      "doseMaxima": "350mg/m² (monoterapia); 180mg/m² em FOLFIRI",
+      "doseMinima": "100mg/m²",
+      "classificacao": "Inibidor da topoisomerase I; derivado da camptotecina",
+      "apresentacao": "Frascos de 40mg/2ml, 100mg/5ml, 500mg/25ml",
+      "interacaoMedicamento": "Potencializa toxicidade com fluorouracil, leucovorina; interação com cetoconazol, anticonvulsivantes",
+      "posologia": "180mg/m² IV a cada 2 semanas (FOLFIRI); ajustar por toxicidade e UGT1A1",
+      "armazenamento": "15–30°C; solução diluída estável por 6h a 25°C ou 24h a 2–8°C",
+      "preparo": "Diluir em SF 0,9% ou SG 5% em capela de fluxo laminar",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, glicose 5%",
+      "contraindicacoes": "Colite crônica, insuficiência hepática grave, gravidez, neutropenia <1500/mm³",
+      "cuidadosMedicos": "Avaliar polimorfismo UGT1A1*28, controle de diarreia com loperamida e atropina",
+      "cuidadosFarmaceuticos": "Atentar para estabilidade, uso imediato após diluição, orientação para manejo de diarreia",
+      "cuidadosEnfermagem": "Observar diarreia precoce, pressão, cramping, mucosite e sinais de toxicidade hematológica",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Irinotecan",
+      "suspension": "Hold 7 days prior to elective surgery; resume after hematologic and GI recovery",
+      "risk": "Severe diarrhea (acute and delayed), myelosuppression, nausea, mucositis, hepatotoxicity",
+      "reintroduction": "Restart 10–14 days post-op if CBC and GI symptoms stabilized"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Irinotecan",
+      "nomeComercial": "Camptosar",
+      "mecanismoAcao": "Inhibits topoisomerase I; prevents DNA religation during replication",
+      "farmacocinetica": "IV; converted to active metabolite SN-38; half-life 6–12h; hepatic/fecal elimination",
+      "farmacodinamica": "S-phase cytotoxic; causes DNA strand breaks and apoptosis",
+      "indicacoes": "Metastatic colorectal, gastric, pancreatic, small cell lung cancers",
+      "reacoesAdversas": "Early cholinergic diarrhea, delayed diarrhea, neutropenia, alopecia, fatigue",
+      "riscoGravidez": "Category D – avoid unless life-threatening condition",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "IV infusion over 90 minutes",
+      "doseMaxima": "350mg/m² monotherapy; 180mg/m² in FOLFIRI",
+      "doseMinima": "100mg/m²",
+      "classificacao": "Topoisomerase I inhibitor (camptothecin derivative)",
+      "apresentacao": "40mg/2ml, 100mg/5ml, 500mg/25ml vials",
+      "interacaoMedicamento": "Interacts with CYP3A4 inhibitors, UGT1A1 substrates, 5-FU",
+      "posologia": "180mg/m² q2w with FOLFIRI; adjust for UGT1A1*28 genotype and toxicity",
+      "armazenamento": "Store at 15–30°C; diluted stable 6h room temp, 24h refrigerated",
+      "preparo": "Dilute in NS or D5W under cytotoxic precautions",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Severe hepatic impairment, chronic colitis, pregnancy, low neutrophil count",
+      "cuidadosMedicos": "UGT1A1 testing, diarrhea prophylaxis, CBC monitoring",
+      "cuidadosFarmaceuticos": "Stability limits, educate on early and late diarrhea management",
+      "cuidadosEnfermagem": "Monitor cramping, bowel movements, neutropenia signs",
+      "fontesBibliograficas": "FDA label, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Irinotecán",
+      "suspension": "Suspender 7 días antes de cirugía; reiniciar tras recuperación hematológica y digestiva",
+      "risk": "Diarrea intensa, neutropenia, mucositis, hepatotoxicidad, náuseas",
+      "reintroduction": "Reintroducir 10–14 días tras cirugía si no hay toxicidad activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Irinotecán",
+      "nomeComercial": "Campto",
+      "mecanismoAcao": "Inhibidor de topoisomerasa I; bloquea la reparación de roturas en ADN",
+      "farmacocinetica": "IV; activado a SN-38; vida media 6–12h; eliminación hepática/fecal",
+      "farmacodinamica": "Citotóxico fase S; apoptosis por daño en ADN",
+      "indicacoes": "Cáncer colorrectal metastásico, gástrico, pancreático",
+      "reacoesAdversas": "Diarrea aguda y tardía, neutropenia, náusea, mucositis",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Infusión IV 90 minutos",
+      "doseMaxima": "350mg/m²; en FOLFIRI 180mg/m²",
+      "doseMinima": "100mg/m²",
+      "classificacao": "Inhibidor de topoisomerasa I; derivado de camptotecina",
+      "apresentacao": "Viales 40mg, 100mg, 500mg",
+      "interacaoMedicamento": "Interacción con 5-FU, leucovorina, CYP3A4, anticonvulsivos",
+      "posologia": "180mg/m² c/14 días; ajustar por UGT1A1 y toxicidad",
+      "armazenamento": "15–30°C; solución válida 6h ambiente o 24h refrigerada",
+      "preparo": "Diluir en glucosa 5% o SF; ambiente citotóxico",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%",
+      "contraindicacoes": "Colitis, disfunción hepática severa, neutropenia grave",
+      "cuidadosMedicos": "Evaluar UGT1A1*28, manejo precoz de diarrea con atropina/loperamida",
+      "cuidadosFarmaceuticos": "Controlar estabilidad, instruir sobre diarrea",
+      "cuidadosEnfermagem": "Vigilancia GI, signos de neutropenia, presión",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伊立替康",
+      "suspension": "术前7天停药，术后血象与胃肠道功能恢复后恢复用药",
+      "risk": "腹泻（急性和延迟型）、骨髓抑制、肝毒性、口腔炎、感染风险",
+      "reintroduction": "术后10–14天，若血象与胃肠功能正常可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伊立替康",
+      "nomeComercial": "Campto",
+      "mecanismoAcao": "抑制拓扑异构酶I，阻止DNA链断裂的修复",
+      "farmacocinetica": "静脉注射；代谢为SN-38；T½约6–12小时；经肝脏代谢和粪便排泄",
+      "farmacodinamica": "对S期细胞毒性强，诱导DNA损伤和细胞凋亡",
+      "indicacoes": "转移性结直肠癌、胃癌、胰腺癌、小细胞肺癌",
+      "reacoesAdversas": "急性腹泻（胆碱能性）、迟发性腹泻、中性粒细胞减少、脱发、虚弱",
+      "riscoGravidez": "D类 – 禁用于孕期",
+      "riscoLactacao": "禁用",
+      "administracao": "静脉输注90分钟",
+      "doseMaxima": "单药350mg/m²；联合180mg/m²",
+      "doseMinima": "100mg/m²",
+      "classificacao": "拓扑异构酶I抑制剂，喜树碱类",
+      "apresentacao": "注射剂40mg、100mg、500mg",
+      "interacaoMedicamento": "与5-FU、酮康唑、抗癫药、CYP3A4底物共用需注意",
+      "posologia": "180mg/m²，每2周一次，按毒性与UGT1A1基因调整",
+      "armazenamento": "15–30°C避光；稀释后室温6小时内用，冷藏24小时",
+      "preparo": "在无菌条件下稀释于0.9%氯化钠或5%葡萄糖",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "严重肝功能不全、慢性肠炎、严重中性粒细胞减少",
+      "cuidadosMedicos": "检测UGT1A1*28，指导腹泻用药，监测CBC",
+      "cuidadosFarmaceuticos": "控制稳定性、避免暴露、提供止泻药教育",
+      "cuidadosEnfermagem": "监测腹泻、肠鸣音、白细胞计数、体温",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、EMA、NCCN"
+    }
+  }
+}

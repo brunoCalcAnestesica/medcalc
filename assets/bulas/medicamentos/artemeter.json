@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Artemeter",
+      "suspension": "Suspender 48h antes de cirurgia eletiva com risco cardíaco",
+      "risk": "Risco de prolongamento de QT, hipotensão, interação com anestésicos e fármacos cardiotóxicos",
+      "reintroduction": "Reintroduzir após normalização eletrolítica e estabilidade hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Artemeter",
+      "nomeComercial": "Riamet (em combinação), Paluther",
+      "mecanismoAcao": "Gera radicais livres por ativação do grupo endoperóxido em contato com ferro no parasita",
+      "farmacocinetica": "Biodisponibilidade oral ~40%; meia-vida ~3–10h; metabolização hepática",
+      "farmacodinamica": "Rápida ação esquizonticida contra formas sanguíneas de Plasmodium falciparum",
+      "indicacoes": "Malária por Plasmodium falciparum não complicada (com lumefantrina) ou grave (IM)",
+      "reacoesAdversas": "Tontura, dor abdominal, náusea, palpitações, QT longo, febre",
+      "riscoGravidez": "Categoria C (1º trimestre), B (2º–3º)",
+      "riscoLactacao": "Permitido com precaução",
+      "administracao": "Oral (associado) ou intramuscular",
+      "doseMaxima": "80mg IM por dose; VO conforme combinação (20mg com 120mg lumefantrina)",
+      "doseMinima": "1,6mg/kg IM",
+      "classificacao": "Derivado da artemisinina (antimalárico)",
+      "apresentacao": "Ampola 80mg/mL; comprimidos 20mg (em combinação)",
+      "interacaoMedicamento": "Risco aumentado de arritmias com QT-prolongadores; metabolizado por CYP3A4",
+      "posologia": "IM: 1,6mg/kg dose inicial, depois 1mg/kg/dia; VO: 6 doses em 3 dias (em associação)",
+      "armazenamento": "Temperatura entre 15–30°C, protegido da luz",
+      "preparo": "IM pronto para uso; VO em combinação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "QT longo, hipersensibilidade, hepatopatia grave",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos e sinais vitais",
+      "cuidadosFarmaceuticos": "Evitar coadministração com medicamentos que prolongam QT",
+      "cuidadosEnfermagem": "Observar vômitos, tontura, alterações cardíacas",
+      "fontesBibliograficas": "WHO, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Artemether",
+      "suspension": "Hold 48h before elective surgery with cardiac risk",
+      "risk": "QT prolongation, hypotension, interaction with anesthetics and cardiotoxic drugs",
+      "reintroduction": "Restart after electrolyte and hemodynamic normalization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Artemether",
+      "nomeComercial": "Coartem, Paluther",
+      "mecanismoAcao": "Endoperoxide activation in parasite iron leads to free radical formation and parasite death",
+      "farmacocinetica": "Oral bioavailability ~40%; half-life ~3–10h; hepatic metabolism",
+      "farmacodinamica": "Rapid schizonticidal activity against Plasmodium falciparum",
+      "indicacoes": "Uncomplicated falciparum malaria (with lumefantrine) or severe malaria (IM)",
+      "reacoesAdversas": "Dizziness, nausea, abdominal pain, QT prolongation, fever",
+      "riscoGravidez": "Category C (1st tri), B (2nd–3rd)",
+      "riscoLactacao": "Use with caution",
+      "administracao": "Oral (combo) or IM injection",
+      "doseMaxima": "80mg IM; oral: 20mg per tablet (with 120mg lumefantrine)",
+      "doseMinima": "1.6mg/kg IM",
+      "classificacao": "Artemisinin derivative antimalarial",
+      "apresentacao": "80mg/mL IM ampoule; 20mg oral tablet (combo)",
+      "interacaoMedicamento": "QT-prolonging drugs, CYP3A4 substrates",
+      "posologia": "IM: 1.6mg/kg then 1mg/kg/day; PO: 6 doses over 3 days (with lumefantrine)",
+      "armazenamento": "15–30°C, protect from light",
+      "preparo": "IM ready to use; oral in combo formulation",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "QT prolongation, hepatic failure, hypersensitivity",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, vitals",
+      "cuidadosFarmaceuticos": "Avoid QT-interacting drugs",
+      "cuidadosEnfermagem": "Watch for dizziness, GI symptoms, ECG changes",
+      "fontesBibliograficas": "WHO, FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Arteméter",
+      "suspension": "Suspender 48h antes de cirugía con riesgo cardíaco",
+      "risk": "QT prolongado, hipotensión, interacción anestésica y farmacológica",
+      "reintroduction": "Reiniciar tras estabilización de electrólitos y ECG"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Arteméter",
+      "nomeComercial": "Coartem, Paluther",
+      "mecanismoAcao": "Activa radicales libres en contacto con hierro parasitario",
+      "farmacocinetica": "VO ~40%; vida media 3–10h; metabolismo hepático",
+      "farmacodinamica": "Acción rápida contra Plasmodium falciparum",
+      "indicacoes": "Malaria falciparum no complicada o grave",
+      "reacoesAdversas": "Mareos, vómitos, fiebre, prolongación QT",
+      "riscoGravidez": "Categoría C (1er tri), B (2º–3º)",
+      "riscoLactacao": "Con precaución",
+      "administracao": "Oral (en combinación) o IM",
+      "doseMaxima": "80mg IM/dosis",
+      "doseMinima": "1,6mg/kg IM",
+      "classificacao": "Derivado de artemisinina",
+      "apresentacao": "Ampolla 80mg/mL; comprimidos combinados",
+      "interacaoMedicamento": "Medicamentos QT, inductores/inhibidores de CYP3A4",
+      "posologia": "IM: 1,6mg/kg inicial, luego 1mg/kg/día; VO: 6 dosis en 3 días",
+      "armazenamento": "15–30°C, protegido de luz",
+      "preparo": "Listo para uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "QT largo, hepatopatía severa",
+      "cuidadosMedicos": "Control ECG, electrolitos",
+      "cuidadosFarmaceuticos": "Evitar interacciones cardíacas",
+      "cuidadosEnfermagem": "Observar vómitos, mareos, arritmias",
+      "fontesBibliograficas": "OMS, Micromedex, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "青蒿琥酯",
+      "suspension": "术前48小时停药（心脏风险患者）",
+      "risk": "QT延长、低血压、与麻醉药及心脏药相互作用",
+      "reintroduction": "术后心电稳定、电解质正常后可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "青蒿琥酯",
+      "nomeComercial": "Coartem, Paluther",
+      "mecanismoAcao": "在铁离子作用下释放自由基，杀死疟原虫",
+      "farmacocinetica": "口服生物利用度约40%；半衰期3–10小时；肝脏代谢",
+      "farmacodinamica": "快速杀灭红细胞期恶性疟原虫",
+      "indicacoes": "间质型疟疾（联合用药）或重型疟疾",
+      "reacoesAdversas": "头晕、胃痛、QT延长、心悸、发热",
+      "riscoGravidez": "C类（1期）/B类（2–3期）",
+      "riscoLactacao": "慎用",
+      "administracao": "口服或肌注",
+      "doseMaxima": "IM：80mg/次",
+      "doseMinima": "1.6mg/kg",
+      "classificacao": "青蒿素衍生物抗疟药",
+      "apresentacao": "80mg/mL注射液；口服联用片（如20mg与120mg lumefantrine）",
+      "interacaoMedicamento": "与QT延长药及CYP3A4相关药物联用有风险",
+      "posologia": "IM起始1.6mg/kg，后续每日1mg/kg；PO按联用方案6次/3天",
+      "armazenamento": "15–30°C避光",
+      "preparo": "IM可直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "QT延长、重度肝病、过敏",
+      "cuidadosMedicos": "监测ECG、电解质、肝功能",
+      "cuidadosFarmaceuticos": "注意药物联用，QT监控",
+      "cuidadosEnfermagem": "观察恶心、心律不齐、神志异常",
+      "fontesBibliograficas": "中国药典、Micromedex、WHO"
+    }
+  }
+}

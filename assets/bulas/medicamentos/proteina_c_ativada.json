@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Proteína C ativada (drotrecogina alfa)",
+      "suspension": "Não se aplica: uso exclusivo hospitalar em contexto crítico",
+      "risk": "Alto risco de sangramento; contraindicado em pacientes com sangramento ativo ou alto risco hemorrágico",
+      "reintroduction": "Somente em contexto intensivo e sob monitoramento rigoroso, se justificado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Drotrecogina alfa (ativada)",
+      "nomeComercial": "Xigris (descontinuado em muitos países)",
+      "mecanismoAcao": "Anticoagulante natural que inativa fatores Va e VIIIa, reduzindo formação de trombina e modulando inflamação",
+      "farmacocinetica": "Meia-vida: ~20 minutos; administração intravenosa contínua",
+      "farmacodinamica": "Efeitos anticoagulantes e anti-inflamatórios; melhora a microcirculação e reduz trombose em sepse grave",
+      "indicacoes": "Sepse grave com disfunção de múltiplos órgãos e risco elevado de morte (uso descontinuado na maioria dos países)",
+      "reacoesAdversas": "Sangramento grave, trombocitopenia, epistaxe, hemorragia GI, equimoses",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar uso; dados limitados",
+      "administracao": "Infusão intravenosa contínua",
+      "doseMaxima": "24 mcg/kg/h por até 96 horas",
+      "doseMinima": "24 mcg/kg/h",
+      "classificacao": "Anticoagulante sistêmico; proteína recombinante",
+      "apresentacao": "Frascos liofilizados para reconstituição (2,5 mg, 5 mg)",
+      "interacaoMedicamento": "Risco aumentado com anticoagulantes, heparinas, AAS, AINEs",
+      "posologia": "24 mcg/kg/h por infusão contínua durante 96h (interromper se sangramento grave)",
+      "armazenamento": "Refrigerado (2–8°C); usar imediatamente após reconstituição",
+      "preparo": "Reconstituir com água estéril para injeção; diluir em SG 5%",
+      "solucoesCompatíveis": "SG 5%",
+      "contraindicacoes": "Sangramento ativo, cirurgia recente, AVC hemorrágico, trauma craniano, coagulopatias graves",
+      "cuidadosMedicos": "Monitorar sinais de sangramento, hemograma, coagulograma; suspender se eventos hemorrágicos",
+      "cuidadosFarmaceuticos": "Preparação em ambiente estéril; rastrear validade e reconstituição correta",
+      "cuidadosEnfermagem": "Vigilância contínua de sinais de hemorragia; checar sítios de punção e sinais neurológicos",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, bula Xigris (EUA), literatura crítica de sepse"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Activated protein C (drotrecogin alfa)",
+      "suspension": "Not applicable – ICU use only in critical care settings",
+      "risk": "High risk of bleeding; contraindicated in active bleeding or high hemorrhagic risk patients",
+      "reintroduction": "Only in monitored ICU context if clinically justified"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Drotrecogin alfa (activated)",
+      "nomeComercial": "Xigris (withdrawn in many countries)",
+      "mecanismoAcao": "Natural anticoagulant that inactivates factors Va and VIIIa; reduces thrombin formation and modulates inflammation",
+      "farmacocinetica": "Half-life ~20 minutes; continuous IV infusion",
+      "farmacodinamica": "Anticoagulant and anti-inflammatory; improves microcirculation and reduces thrombosis in severe sepsis",
+      "indicacoes": "Severe sepsis with multi-organ failure and high mortality risk (discontinued in most markets)",
+      "reacoesAdversas": "Severe bleeding, thrombocytopenia, epistaxis, GI hemorrhage, ecchymosis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid; limited data",
+      "administracao": "Continuous intravenous infusion",
+      "doseMaxima": "24 mcg/kg/h for up to 96 hours",
+      "doseMinima": "24 mcg/kg/h",
+      "classificacao": "Systemic anticoagulant; recombinant protein",
+      "apresentacao": "Lyophilized vials (2.5 mg, 5 mg)",
+      "interacaoMedicamento": "Increased risk with anticoagulants, heparin, aspirin, NSAIDs",
+      "posologia": "24 mcg/kg/h continuous IV infusion for 96h (discontinue if severe bleeding occurs)",
+      "armazenamento": "Refrigerated (2–8°C); use immediately after reconstitution",
+      "preparo": "Reconstitute with sterile water; dilute in D5W",
+      "solucoesCompatíveis": "D5W",
+      "contraindicacoes": "Active bleeding, recent surgery, hemorrhagic stroke, head trauma, severe coagulopathy",
+      "cuidadosMedicos": "Monitor for bleeding, CBC, coagulation profile; discontinue if hemorrhagic complications",
+      "cuidadosFarmaceuticos": "Sterile preparation; verify reconstitution and expiration",
+      "cuidadosEnfermagem": "Continuous observation for bleeding, check puncture sites, neurologic status",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Xigris PI, sepsis literature"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Proteína C activada (drotrecogina alfa)",
+      "suspension": "No aplica – uso exclusivo en UCI",
+      "risk": "Alto riesgo de sangrado; contraindicado en sangrado activo o riesgo hemorrágico elevado",
+      "reintroduction": "Solo en cuidados intensivos y bajo estricta monitorización si se justifica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Drotrecogina alfa (activada)",
+      "nomeComercial": "Xigris (retirado del mercado en muchos países)",
+      "mecanismoAcao": "Anticoagulante natural que inactiva factores Va y VIIIa; modula inflamación y coagulación",
+      "farmacocinetica": "Vida media ~20 min; infusión IV continua",
+      "farmacodinamica": "Anticoagulante y antiinflamatorio; mejora microcirculación y reduce trombosis en sepsis grave",
+      "indicacoes": "Sepsis grave con disfunción multiorgánica y alto riesgo de muerte (uso descontinuado en la mayoría de países)",
+      "reacoesAdversas": "Hemorragias graves, trombocitopenia, epistaxis, sangrado digestivo, equimosis",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar; datos insuficientes",
+      "administracao": "Infusión intravenosa continua",
+      "doseMaxima": "24 mcg/kg/h hasta 96 horas",
+      "doseMinima": "24 mcg/kg/h",
+      "classificacao": "Anticoagulante sistémico; proteína recombinante",
+      "apresentacao": "Viales liofilizados de 2,5 mg o 5 mg",
+      "interacaoMedicamento": "Mayor riesgo con anticoagulantes, heparinas, AAS, AINEs",
+      "posologia": "24 mcg/kg/h por 96h IV continua (suspender si sangrado grave)",
+      "armazenamento": "Refrigerar (2–8°C); usar inmediatamente tras reconstitución",
+      "preparo": "Reconstituir con agua estéril, diluir en DAD 5%",
+      "solucoesCompatíveis": "DAD 5%",
+      "contraindicacoes": "Sangrado activo, cirugía reciente, AVC hemorrágico, trauma craneal",
+      "cuidadosMedicos": "Monitorizar sangrado, hemograma, coagulación; suspender si hay complicaciones",
+      "cuidadosFarmaceuticos": "Preparación estéril, controlar caducidad y dilución correcta",
+      "cuidadosEnfermagem": "Vigilancia continua, observar sangrado, sitios de punción y neurológico",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Xigris"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "激活蛋白C（drotrecogin alfa）",
+      "suspension": "不适用，仅限重症监护病房使用",
+      "risk": "高出血风险，禁用于出血活动或高风险患者",
+      "reintroduction": "仅在ICU条件下，经严密评估后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "激活蛋白C（重组drotrecogin alfa）",
+      "nomeComercial": "Xigris（多数国家已下架）",
+      "mecanismoAcao": "天然抗凝剂，灭活凝血因子Va与VIIIa，减少凝血酶形成并调节炎症反应",
+      "farmacocinetica": "半衰期约20分钟，静脉持续输注",
+      "farmacodinamica": "抗凝及抗炎作用，改善微循环，减少感染性休克相关血栓",
+      "indicacoes": "重症脓毒症合并多器官功能障碍（大多数地区已停用）",
+      "reacoesAdversas": "严重出血、血小板减少、鼻出血、胃肠道出血、瘀斑",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免使用，资料有限",
+      "administracao": "持续静脉输注",
+      "doseMaxima": "24 mcg/kg/h，最长96小时",
+      "doseMinima": "24 mcg/kg/h",
+      "classificacao": "系统抗凝药，重组蛋白",
+      "apresentacao": "冻干粉针剂：2.5 mg、5 mg",
+      "interacaoMedicamento": "与肝素、抗凝药、阿司匹林、NSAIDs合用出血风险增高",
+      "posologia": "24 mcg/kg/h持续静滴96小时，若出血应立即停药",
+      "armazenamento": "2–8°C冷藏，复溶后立即使用",
+      "preparo": "用注射用水复溶，稀释于5%葡萄糖",
+      "solucoesCompatíveis": "5%葡萄糖",
+      "contraindicacoes": "活动性出血、术后、脑出血、颅脑损伤、重度凝血障碍",
+      "cuidadosMedicos": "监测出血、血象、凝血功能，必要时立即停药",
+      "cuidadosFarmaceuticos": "无菌操作，配制准确，注意保存",
+      "cuidadosEnfermagem": "密切观察出血、穿刺点、神经系统变化",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Xigris说明书"
+    }
+  }
+}

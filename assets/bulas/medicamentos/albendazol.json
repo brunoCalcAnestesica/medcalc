@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Albendazol",
+      "suspension": "Não é necessário suspender antes da cirurgia eletiva",
+      "risk": "Risco muito baixo; pode causar discreta elevação de transaminases e desconforto GI",
+      "reintroduction": "Manter ou reintroduzir conforme tolerância oral e função hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Albendazol",
+      "nomeComercial": "Zentel, Parazin, Albentel",
+      "mecanismoAcao": "Inibe a polimerização da tubulina, levando à degeneração dos microtúbulos nos helmintos",
+      "farmacocinetica": "Absorção oral baixa (~5%); aumenta com alimentos gordurosos; metabolismo hepático",
+      "farmacodinamica": "Anti-helmíntico de amplo espectro, larvicida, ovicida",
+      "indicacoes": "Ascaridíase, enterobíase, ancilostomíase, neurocisticercose, hidatidose, giardíase",
+      "reacoesAdversas": "Dor abdominal, náusea, aumento de transaminases, urticária",
+      "riscoGravidez": "Categoria C (evitar no 1º trimestre)",
+      "riscoLactacao": "Compatível com aleitamento",
+      "administracao": "Oral",
+      "doseMaxima": "800mg/dia (neurocisticercose)",
+      "doseMinima": "200mg (dose única pediátrica)",
+      "classificacao": "Anti-helmíntico benzimidazólico",
+      "apresentacao": "Comprimidos de 200mg, 400mg; suspensão 40mg/mL",
+      "interacaoMedicamento": "Cimetidina pode aumentar níveis plasmáticos; anticonvulsivantes reduzem eficácia",
+      "posologia": "400mg dose única (helmintíases simples); 15mg/kg/dia por 8–30 dias (cisticercose)",
+      "armazenamento": "Temperatura ambiente, frasco fechado",
+      "preparo": "Uso direto (VO); não requer diluição",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, gestação precoce",
+      "cuidadosMedicos": "Monitorar função hepática em uso prolongado",
+      "cuidadosFarmaceuticos": "Orientar uso com alimentos; reforçar adesão em esquemas prolongados",
+      "cuidadosEnfermagem": "Observar sintomas GI e sinais de alergia",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, OMS"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Albendazole",
+      "suspension": "No need to stop prior to elective surgery",
+      "risk": "Very low risk; may cause mild LFT elevation or GI upset",
+      "reintroduction": "Continue or restart as tolerated orally and hepatically"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Albendazole",
+      "nomeComercial": "Albenza",
+      "mecanismoAcao": "Inhibits tubulin polymerization, leading to helminth cell disruption",
+      "farmacocinetica": "Low oral absorption (~5%), enhanced with fatty meals; hepatic metabolism",
+      "farmacodinamica": "Broad-spectrum anthelmintic; ovicidal, larvicidal",
+      "indicacoes": "Ascariasis, pinworm, hookworm, neurocysticercosis, hydatid disease, giardiasis",
+      "reacoesAdversas": "Abdominal pain, nausea, transaminase elevation, rash",
+      "riscoGravidez": "Category C (avoid in 1st trimester)",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral",
+      "doseMaxima": "800mg/day",
+      "doseMinima": "200mg single dose (pediatric)",
+      "classificacao": "Benzimidazole anthelmintic",
+      "apresentacao": "Tablets 200mg, 400mg; suspension 40mg/mL",
+      "interacaoMedicamento": "Cimetidine increases levels; anticonvulsants may reduce efficacy",
+      "posologia": "400mg single dose (simple helminth); 15mg/kg/day for 8–30 days (cysticercosis)",
+      "armazenamento": "Room temp, tightly closed bottle",
+      "preparo": "Ready to use orally",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, early pregnancy",
+      "cuidadosMedicos": "Monitor LFTs if prolonged",
+      "cuidadosFarmaceuticos": "Instruct to take with food",
+      "cuidadosEnfermagem": "Observe for GI symptoms, allergic reaction",
+      "fontesBibliograficas": "FDA, Micromedex, WHO, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Albendazol",
+      "suspension": "No requiere suspensión preoperatoria",
+      "risk": "Riesgo bajo; efectos digestivos o hepáticos leves posibles",
+      "reintroduction": "Mantener o reiniciar tras cirugía si bien tolerado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Albendazol",
+      "nomeComercial": "Zentel",
+      "mecanismoAcao": "Inhibe polimerización de tubulina, afectando microtúbulos helmínticos",
+      "farmacocinetica": "Absorción baja (~5%); mejora con comidas grasas; metabolismo hepático",
+      "farmacodinamica": "Antiparasitario amplio, ovicida, larvicida",
+      "indicacoes": "Ascariasis, enterobiasis, anquilostomiasis, cisticercosis, hidatidosis",
+      "reacoesAdversas": "Dolor abdominal, náusea, aumento transaminasas, urticaria",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral",
+      "doseMaxima": "800mg/día",
+      "doseMinima": "200mg única",
+      "classificacao": "Antiparasitario benzimidazólico",
+      "apresentacao": "Comprimidos 200mg, 400mg; suspensión 40mg/mL",
+      "interacaoMedicamento": "Cimetidina ↑ niveles; anticonvulsivos ↓ eficacia",
+      "posologia": "400mg dosis única; cisticercosis 15mg/kg/día por 8–30 días",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, embarazo temprano",
+      "cuidadosMedicos": "Control hepático si uso prolongado",
+      "cuidadosFarmaceuticos": "Tomar con alimentos",
+      "cuidadosEnfermagem": "Observar tolerancia GI, alergias",
+      "fontesBibliograficas": "Micromedex, OMS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿苯达唑",
+      "suspension": "无需术前停药",
+      "risk": "偶见胃肠不适或轻度肝酶升高",
+      "reintroduction": "术后可继续使用，如耐受良好"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿苯达唑",
+      "nomeComercial": "Zentel",
+      "mecanismoAcao": "抑制虫体微管合成，导致能量耗竭",
+      "farmacocinetica": "口服吸收差，随脂肪餐吸收↑；肝代谢",
+      "farmacodinamica": "广谱驱虫药，杀卵、杀幼虫",
+      "indicacoes": "蛔虫、钩虫、蛲虫、囊虫、包虫、贾第鞭毛虫",
+      "reacoesAdversas": "腹痛、恶心、肝酶升高、荨麻疹",
+      "riscoGravidez": "C类，早孕期禁用",
+      "riscoLactacao": "可哺乳",
+      "administracao": "口服",
+      "doseMaxima": "每日800毫克",
+      "doseMinima": "200毫克（儿童单剂）",
+      "classificacao": "苯并咪唑类抗蠕虫药",
+      "apresentacao": "片剂200mg、400mg，口服液40mg/mL",
+      "interacaoMedicamento": "西咪替丁↑药浓度；抗癫药↓疗效",
+      "posologia": "单剂400mg；囊虫病15mg/kg/天，持续8–30天",
+      "armazenamento": "室温干燥处",
+      "preparo": "直接服用，无需稀释",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠早期、过敏史",
+      "cuidadosMedicos": "长期用需查肝功能",
+      "cuidadosFarmaceuticos": "嘱随餐服用以增强吸收",
+      "cuidadosEnfermagem": "观察消化道反应及过敏症状",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate"
+    }
+  }
+}

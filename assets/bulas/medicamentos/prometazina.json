@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Prometazina",
+      "suspension": "Suspender 24 horas antes de cirurgias com necessidade de avaliação neurológica ou via espinhal",
+      "risk": "Risco de sedação intensa, hipotensão e interação com anestésicos; potencialização de efeitos anticolinérgicos",
+      "reintroduction": "Reintroduzir conforme indicação clínica no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prometazina",
+      "nomeComercial": "Fenergan",
+      "mecanismoAcao": "Antagonista dos receptores H1 da histamina com ação anticolinérgica, sedativa e antiemética",
+      "farmacocinetica": "Via oral, IM ou IV; início em 20 min, meia-vida ~12 h, metabolização hepática",
+      "farmacodinamica": "Inibe ação da histamina e bloqueia estímulos vestibulares e na zona gatilho quimiorreceptora",
+      "indicacoes": "Alergias, náuseas, vômitos, sedação pré-anestésica, enjoo por movimento",
+      "reacoesAdversas": "Sedação, boca seca, hipotensão, retenção urinária, confusão (idosos)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar; pode causar sedação no lactente",
+      "administracao": "Oral, intramuscular, intravenosa (com cautela)",
+      "doseMaxima": "100 mg/dia",
+      "doseMinima": "12,5 mg/dose",
+      "classificacao": "Antihistamínico de 1ª geração (anti-H1)",
+      "apresentacao": "Comprimidos 25 mg, solução oral 5 mg/5 mL, ampola 25 mg/mL",
+      "interacaoMedicamento": "Potencializa ação de sedativos, opioides, álcool e anticolinérgicos",
+      "posologia": "25–50 mg VO ou IM 1 a 3x/dia conforme indicação",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Diluir com SF 0,9% para uso EV lento, evitar extravasamento",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Depressão respiratória, crianças <2 anos, alergia à fenotiazina",
+      "cuidadosMedicos": "Evitar em idosos com demência ou risco cognitivo; monitorar sinais vitais",
+      "cuidadosFarmaceuticos": "Alerta para sedação e risco anticolinérgico",
+      "cuidadosEnfermagem": "Observar sedação, PA e reações adversas sistêmicas",
+      "fontesBibliograficas": "ANVISA, BNF, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Promethazine",
+      "suspension": "Discontinue 24h before procedures requiring neuro or spinal assessment",
+      "risk": "High risk of sedation, hypotension, and interaction with anesthetics; anticholinergic effects",
+      "reintroduction": "Restart post-op based on clinical need"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Promethazine",
+      "nomeComercial": "Phenergan",
+      "mecanismoAcao": "H1 receptor antagonist with anticholinergic, sedative, and antiemetic properties",
+      "farmacocinetica": "Oral, IM, IV; onset ~20 min, half-life ~12h, hepatic metabolism",
+      "farmacodinamica": "Blocks histamine action, vestibular and chemoreceptor trigger zones",
+      "indicacoes": "Allergies, nausea, vomiting, motion sickness, preoperative sedation",
+      "reacoesAdversas": "Drowsiness, dry mouth, hypotension, urinary retention, confusion (elderly)",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid; may sedate infants",
+      "administracao": "Oral, IM, IV (with caution)",
+      "doseMaxima": "100 mg/day",
+      "doseMinima": "12.5 mg/dose",
+      "classificacao": "First-generation antihistamine (H1 blocker)",
+      "apresentacao": "Tablets 25 mg, syrup 5 mg/5 mL, injection 25 mg/mL",
+      "interacaoMedicamento": "Potentiates sedatives, opioids, alcohol, anticholinergics",
+      "posologia": "25–50 mg PO or IM 1–3x/day as needed",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Dilute in NS for slow IV push, avoid extravasation",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Respiratory depression, children <2 years, phenothiazine allergy",
+      "cuidadosMedicos": "Avoid in elderly with cognitive risks; monitor vitals",
+      "cuidadosFarmaceuticos": "Warn about sedation and anticholinergic burden",
+      "cuidadosEnfermagem": "Monitor sedation, BP, and systemic side effects",
+      "fontesBibliograficas": "FDA, BNF, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Prometazina",
+      "suspension": "Suspender 24h antes de cirugías que requieren evaluación neurológica o espinal",
+      "risk": "Alto riesgo de sedación e hipotensión; interacciones con anestésicos",
+      "reintroduction": "Reintroducir según necesidad clínica en el postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prometazina",
+      "nomeComercial": "Fenergan",
+      "mecanismoAcao": "Antagonista H1 con efectos anticolinérgicos, sedantes y antieméticos",
+      "farmacocinetica": "Oral, IM o IV; inicio ~20 min, vida media ~12h, metabolismo hepático",
+      "farmacodinamica": "Bloquea acción de histamina y zonas vestibulares y quimiorreceptoras",
+      "indicacoes": "Alergias, náuseas, vómitos, cinetosis, sedación preanestésica",
+      "reacoesAdversas": "Somnolencia, boca seca, hipotensión, retención urinaria, confusión (ancianos)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar; posible sedación en el lactante",
+      "administracao": "Oral, IM, IV (precaución)",
+      "doseMaxima": "100 mg/día",
+      "doseMinima": "12.5 mg/dosis",
+      "classificacao": "Antihistamínico de primera generación (H1)",
+      "apresentacao": "Tabletas 25 mg, jarabe 5 mg/5 mL, ampolla 25 mg/mL",
+      "interacaoMedicamento": "Potencia sedantes, opioides, alcohol, anticolinérgicos",
+      "posologia": "25–50 mg VO o IM 1 a 3 veces/día según indicación",
+      "armazenamento": "Ambiente, protegido de luz",
+      "preparo": "Diluir en SF para uso IV lento",
+      "solucoesCompatíveis": "SF",
+      "contraindicacoes": "Depresión respiratoria, <2 años, alergia a fenotiazinas",
+      "cuidadosMedicos": "Evitar en ancianos con demencia; controlar signos vitales",
+      "cuidadosFarmaceuticos": "Advertir sobre sedación y carga anticolinérgica",
+      "cuidadosEnfermagem": "Monitorear PA, sedación y efectos adversos",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "异丙嗪",
+      "suspension": "术前24小时停用，如需神经或脊柱评估",
+      "risk": "强烈镇静作用，可能与麻醉剂协同致低血压、抗胆碱副作用",
+      "reintroduction": "术后根据需要重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "异丙嗪",
+      "nomeComercial": "Phenergan",
+      "mecanismoAcao": "H1受体拮抗剂，具镇静、抗胆碱及止吐作用",
+      "farmacocinetica": "口服、肌注或静注；起效约20分钟，半衰期12小时，肝代谢",
+      "farmacodinamica": "阻断组胺及前庭与催吐区信号",
+      "indicacoes": "过敏反应、术前镇静、恶心呕吐、晕动症",
+      "reacoesAdversas": "嗜睡、口干、低血压、尿潴留、老人谵妄",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免；可能使婴儿过度镇静",
+      "administracao": "口服、肌注、静注（慎用）",
+      "doseMaxima": "每日不超过100毫克",
+      "doseMinima": "每次12.5毫克",
+      "classificacao": "第一代抗组胺药（H1）",
+      "apresentacao": "片剂25毫克，口服液5 mg/5 mL，注射液25 mg/mL",
+      "interacaoMedicamento": "与镇静药、阿片、酒精、抗胆碱药联用风险增加",
+      "posologia": "每日1–3次，每次25–50毫克口服或肌注",
+      "armazenamento": "避光保存，室温",
+      "preparo": "IV使用需稀释并缓慢推注",
+      "solucoesCompatíveis": "0.9%氯化钠注射液",
+      "contraindicacoes": "呼吸抑制、2岁以下儿童、对吩噻嗪类过敏",
+      "cuidadosMedicos": "老人慎用，监测生命体征与意识状态",
+      "cuidadosFarmaceuticos": "强调镇静作用与抗胆碱负担",
+      "cuidadosEnfermagem": "观察血压、嗜睡与全身反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、FDA"
+    }
+  }
+}

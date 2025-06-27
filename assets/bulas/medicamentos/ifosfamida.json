@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ifosfamida",
+      "suspension": "Suspender 7 a 10 dias antes da cirurgia eletiva",
+      "risk": "Imunossupressão, risco de infecção, cistite hemorrágica, neurotoxicidade e retardo cicatricial",
+      "reintroduction": "Reintroduzir após recuperação hematológica, resolução de infecção e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ifosfamida",
+      "nomeComercial": "Ifex",
+      "mecanismoAcao": "Agente alquilante derivado da mostarda nitrogenada que forma ligações cruzadas no DNA, inibindo a replicação celular",
+      "farmacocinetica": "Administração IV; pró-fármaco ativado no fígado via CYP3A4; meia-vida de 7–15h",
+      "farmacodinamica": "Citotóxico para células em divisão, fase S e G2",
+      "indicacoes": "Sarcomas, câncer testicular, câncer de pulmão, câncer de mama, neuroblastoma",
+      "reacoesAdversas": "Mielossupressão, náuseas, vômitos, cistite hemorrágica, alopecia, encefalopatia, nefrotoxicidade",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "Via intravenosa",
+      "doseMaxima": "14 g/m² por ciclo (em fracionamentos)",
+      "doseMinima": "1,2–2,4 g/m² por dia (3–5 dias por ciclo)",
+      "classificacao": "Antineoplásico – agente alquilante (mostarda nitrogenada oxazafosforina)",
+      "apresentacao": "Frascos de 1 g, 2 g e 3 g para reconstituição",
+      "interacaoMedicamento": "Potencializa toxicidade com cisplatina, aumenta toxicidade renal e neurológica com aminoglicosídeos",
+      "posologia": "1,2 a 2,4 g/m²/dia IV por 3 a 5 dias a cada 21 a 28 dias",
+      "armazenamento": "Frascos sob temperatura ambiente (15–25°C), protegidos da luz",
+      "preparo": "Reconstituir em SF 0,9% ou SG 5% e administrar com MESNA para proteger bexiga",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Gravidez, infecção ativa grave, insuficiência hepática ou renal grave",
+      "cuidadosMedicos": "Monitorar função renal, hepática, urinária, hemograma e sinais neurológicos",
+      "cuidadosFarmaceuticos": "Uso em capela de fluxo laminar, obrigatoriedade de MESNA como uroprotetor",
+      "cuidadosEnfermagem": "Hidratar intensamente, observar sinais de encefalopatia e hematúria",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ifosfamide",
+      "suspension": "Discontinue 7 to 10 days before elective surgery",
+      "risk": "Immunosuppression, hemorrhagic cystitis, neurotoxicity, delayed wound healing",
+      "reintroduction": "Restart after hematologic recovery, infection control, and clinical stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ifosfamide",
+      "nomeComercial": "Ifex",
+      "mecanismoAcao": "Nitrogen mustard alkylating agent, forms DNA cross-links to inhibit replication",
+      "farmacocinetica": "IV only; prodrug activated via CYP3A4; half-life 7–15h",
+      "farmacodinamica": "Cytotoxic for S and G2 phase cells",
+      "indicacoes": "Sarcomas, testicular cancer, lung, breast cancer, neuroblastoma",
+      "reacoesAdversas": "Myelosuppression, nausea, vomiting, hemorrhagic cystitis, alopecia, encephalopathy, nephrotoxicity",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Intravenous",
+      "doseMaxima": "14 g/m² per cycle",
+      "doseMinima": "1.2–2.4 g/m²/day for 3–5 days",
+      "classificacao": "Antineoplastic – oxazaphosphorine alkylating agent",
+      "apresentacao": "Vials: 1 g, 2 g, 3 g",
+      "interacaoMedicamento": "Increased toxicity with cisplatin, nephro/neurotoxicity with aminoglycosides",
+      "posologia": "1.2–2.4 g/m²/day IV for 3–5 days every 21–28 days",
+      "armazenamento": "Store at 15–25°C, protect from light",
+      "preparo": "Reconstitute in NS or D5W, co-administer with MESNA",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Pregnancy, severe renal/hepatic impairment, active infections",
+      "cuidadosMedicos": "Monitor renal, hepatic, neurologic function, CBC, urine",
+      "cuidadosFarmaceuticos": "Use MESNA uroprotection, prepare in laminar flow hood",
+      "cuidadosEnfermagem": "Ensure hydration, monitor for CNS effects and hematuria",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ifosfamida",
+      "suspension": "Suspender 7–10 días antes de cirugía electiva",
+      "risk": "Inmunosupresión, cistitis hemorrágica, neurotoxicidad, mala cicatrización",
+      "reintroduction": "Reintroducir tras recuperación hematológica y control de infecciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ifosfamida",
+      "nomeComercial": "Ifex",
+      "mecanismoAcao": "Agente alquilante oxazafosforina, forma enlaces cruzados en el ADN",
+      "farmacocinetica": "IV; profármaco activado vía CYP3A4; vida media 7–15h",
+      "farmacodinamica": "Citotóxico en fase S y G2",
+      "indicacoes": "Sarcomas, cáncer testicular, mama, pulmón, neuroblastoma",
+      "reacoesAdversas": "Mielosupresión, náuseas, vómitos, alopecia, cistitis hemorrágica, encefalopatía, nefrotoxicidad",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía intravenosa",
+      "doseMaxima": "14 g/m² por ciclo",
+      "doseMinima": "1,2–2,4 g/m²/día por 3–5 días",
+      "classificacao": "Antineoplásico – agente alquilante tipo oxazafosforina",
+      "apresentacao": "Viales de 1 g, 2 g, 3 g",
+      "interacaoMedicamento": "Toxicidad aumentada con cisplatino, aminoglucósidos",
+      "posologia": "1,2–2,4 g/m²/día IV 3–5 días cada 21–28 días",
+      "armazenamento": "15–25°C, protegido de la luz",
+      "preparo": "Reconstituir en SF o SG 5%, siempre con MESNA",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Embarazo, disfunción hepática o renal severa, infecciones activas",
+      "cuidadosMedicos": "Controlar hemograma, función hepática/renal, orina y SNC",
+      "cuidadosFarmaceuticos": "Preparación bajo cabina, uso obligatorio de MESNA",
+      "cuidadosEnfermagem": "Hidratación intensiva, monitoreo neurológico y urinario",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "异环磷酰胺",
+      "suspension": "术前7–10天停药",
+      "risk": "免疫抑制、出血性膀胱炎、中枢神经毒性、术后愈合延迟",
+      "reintroduction": "血象恢复、感染控制及临床稳定后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "异环磷酰胺",
+      "nomeComercial": "Ifex",
+      "mecanismoAcao": "氮芥类烷化剂，通过形成DNA交联抑制细胞分裂",
+      "farmacocinetica": "静注使用，肝脏CYP3A4代谢激活，半衰期7–15小时",
+      "farmacodinamica": "主要对S期、G2期细胞毒性作用",
+      "indicacoes": "肉瘤、睾丸癌、乳腺癌、肺癌、神经母细胞瘤",
+      "reacoesAdversas": "骨髓抑制、恶心、呕吐、脱发、出血性膀胱炎、脑病、肾毒性",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉注射",
+      "doseMaxima": "每周期14 g/m²",
+      "doseMinima": "每日1.2–2.4 g/m²，共3–5天",
+      "classificacao": "抗肿瘤药 – 氧杂磷酰胺类烷化剂",
+      "apresentacao": "注射用粉剂：1 g、2 g、3 g",
+      "interacaoMedicamento": "与顺铂、氨基糖苷类药物合用增加毒性",
+      "posologia": "每日1.2–2.4 g/m²，持续3–5天，21–28天为一周期",
+      "armazenamento": "15–25°C避光保存",
+      "preparo": "稀释于NS或D5W，须配合MESNA使用",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "妊娠、严重肝肾功能障碍、活动性感染",
+      "cuidadosMedicos": "监测肾肝功能、尿液、神经系统和血象",
+      "cuidadosFarmaceuticos": "必须配合MESNA，在无菌柜中配制",
+      "cuidadosEnfermagem": "加强水化，警惕神经系统症状与血尿",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

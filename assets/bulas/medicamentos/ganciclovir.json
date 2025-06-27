@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ganciclovir",
+      "suspension": "Suspender 48 horas antes de cirurgias com risco de toxicidade renal ou hematológica",
+      "risk": "Neutropenia, trombocitopenia, insuficiência renal, convulsões; interações com imunossupressores e antivirais",
+      "reintroduction": "Reintroduzir após recuperação hematológica e função renal estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ganciclovir",
+      "nomeComercial": "Cymevene, Cytovene",
+      "mecanismoAcao": "Análogo de guanosina que inibe a DNA polimerase viral, impedindo replicação do CMV e HSV",
+      "farmacocinetica": "IV: biodisponibilidade 100%; oral: baixa; meia-vida 3–4 h; eliminação renal",
+      "farmacodinamica": "Atividade contra CMV, HSV-1, HSV-2, VZV, EBV",
+      "indicacoes": "Tratamento e profilaxia de infecções por CMV, especialmente em imunocomprometidos (transplantes, HIV)",
+      "reacoesAdversas": "Anemia, neutropenia, trombocitopenia, náusea, neuropatia, convulsões",
+      "riscoGravidez": "Categoria C – potencial teratogênico e mutagênico",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "IV lenta; oral na forma de pró-fármaco (valganciclovir)",
+      "doseMaxima": "5 mg/kg IV 2x/dia (indução); 6 mg/kg/dia (manutenção)",
+      "doseMinima": "2,5 mg/kg/dia (ajuste renal)",
+      "classificacao": "Antiviral (análogo nucleosídico)",
+      "apresentacao": "Pó liofilizado 500 mg para reconstituição IV",
+      "interacaoMedicamento": "Aumenta toxicidade de zidovudina, didanosina, imunossupressores; risco com probenecida",
+      "posologia": "Indução: 5 mg/kg IV 12/12h por 14–21 dias; manutenção: 5 mg/kg/dia",
+      "armazenamento": "Frasco: 2–8°C; solução reconstituída: usar em até 12 h (RT) ou 24 h (refrigerada)",
+      "preparo": "Diluir em 10 mL de água estéril; infundir em SF ou SG 5% em 1h",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade, gravidez, neutropenia grave",
+      "cuidadosMedicos": "Monitorar hemograma e função renal antes e durante uso",
+      "cuidadosFarmaceuticos": "Reconstituição asséptica obrigatória; atenção à estabilidade",
+      "cuidadosEnfermagem": "Observar toxicidade hematológica e sinais de infecção secundária",
+      "fontesBibliograficas": "FDA, ANVISA, UpToDate, Micromedex, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ganciclovir",
+      "suspension": "Discontinue 48 hours pre-op in patients at risk of renal or hematologic toxicity",
+      "risk": "Neutropenia, thrombocytopenia, renal toxicity, seizures; drug interactions with antivirals and immunosuppressants",
+      "reintroduction": "Restart after hematologic and renal recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ganciclovir",
+      "nomeComercial": "Cytovene, Cymevene",
+      "mecanismoAcao": "Guanosine analog inhibiting viral DNA polymerase; active against CMV and HSV",
+      "farmacocinetica": "IV bioavailability 100%; oral <10%; t½ 3–4 h; renal clearance",
+      "farmacodinamica": "Blocks replication of CMV, HSV-1/2, VZV, EBV",
+      "indicacoes": "Treatment/prophylaxis of CMV in transplant or HIV patients",
+      "reacoesAdversas": "Myelosuppression, nephrotoxicity, nausea, neuropathy, seizures",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Slow IV infusion; oral (valganciclovir prodrug)",
+      "doseMaxima": "5 mg/kg IV q12h (induction)",
+      "doseMinima": "2.5 mg/kg/day (renal adjustment)",
+      "classificacao": "Antiviral (nucleoside analog)",
+      "apresentacao": "500 mg lyophilized vial",
+      "interacaoMedicamento": "Enhances toxicity of AZT, ddI, nephrotoxic agents",
+      "posologia": "Induction: 5 mg/kg IV q12h × 14–21 days; maintenance: 5 mg/kg/day",
+      "armazenamento": "Store vial at 2–8°C; use reconstituted solution within 12 h (RT) or 24 h (refrigerated)",
+      "preparo": "Reconstitute with sterile water; dilute in NS or D5W, infuse over 1 h",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Pregnancy, severe neutropenia, hypersensitivity",
+      "cuidadosMedicos": "Monitor CBC and renal function regularly",
+      "cuidadosFarmaceuticos": "Use aseptic technique; ensure proper reconstitution and timing",
+      "cuidadosEnfermagem": "Monitor blood counts, signs of infection or renal decline",
+      "fontesBibliograficas": "FDA, Lexicomp, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ganciclovir",
+      "suspension": "Suspender 48 h antes de cirugía si hay riesgo renal o hematológico",
+      "risk": "Neutropenia, toxicidad renal, convulsiones, interacción con antivirales",
+      "reintroduction": "Reintroducir tras recuperación hematológica y renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ganciclovir",
+      "nomeComercial": "Cymevene, Cytovene",
+      "mecanismoAcao": "Análogo de guanosina que inhibe la DNA polimerasa viral",
+      "farmacocinetica": "IV biodisponibilidad 100%; t½ 3–4 h; eliminación renal",
+      "farmacodinamica": "Actúa frente a CMV, HSV, VZV, EBV",
+      "indicacoes": "CMV en pacientes inmunocomprometidos (HIV, trasplante)",
+      "reacoesAdversas": "Supresión medular, nefrotoxicidad, náuseas, convulsiones",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Infusión IV lenta; oral (valganciclovir)",
+      "doseMaxima": "5 mg/kg/12 h",
+      "doseMinima": "2,5 mg/kg/día",
+      "classificacao": "Antiviral nucleósido",
+      "apresentacao": "Vial 500 mg",
+      "interacaoMedicamento": "AZT, ddI, inmunosupresores",
+      "posologia": "Inducción: 5 mg/kg/12 h por 14–21 días",
+      "armazenamento": "Refrigerar 2–8°C; usar reconstituido <12 h (RT)",
+      "preparo": "Reconstituir en agua estéril; diluir en SSF/SG5%",
+      "solucoesCompatíveis": "SSF, SG5%",
+      "contraindicacoes": "Embarazo, neutropenia severa, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear función renal y hemograma",
+      "cuidadosFarmaceuticos": "Técnica aséptica; estabilidad post-reconstitución",
+      "cuidadosEnfermagem": "Observar toxicidad hematológica e infecciones",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "更昔洛韦",
+      "suspension": "术前48小时停药，如存在肾功能不全或血液毒性",
+      "risk": "中性粒细胞减少、肾毒性、惊厥、药物相互作用强",
+      "reintroduction": "术后血象与肾功能稳定后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "更昔洛韦",
+      "nomeComercial": "赛美韦、Cytovene",
+      "mecanismoAcao": "鸟苷类似物，抑制病毒DNA聚合酶",
+      "farmacocinetica": "静注吸收100%，半衰期3–4小时，肾排泄",
+      "farmacodinamica": "用于巨细胞病毒、单纯疱疹病毒、水痘带状疱疹病毒",
+      "indicacoes": "免疫抑制者CMV感染（HIV、移植术后）",
+      "reacoesAdversas": "骨髓抑制、肾损伤、恶心、惊厥",
+      "riscoGravidez": "C类 – 动物实验有毒性",
+      "riscoLactacao": "禁用",
+      "administracao": "静脉输注；口服使用前体药物（缬更昔洛韦）",
+      "doseMaxima": "诱导期：5 mg/kg/12 h",
+      "doseMinima": "2.5 mg/kg/d（肾功能调整）",
+      "classificacao": "核苷酸类抗病毒药",
+      "apresentacao": "500 mg冻干粉针",
+      "interacaoMedicamento": "与AZT、ddI、免疫抑制剂合用毒性增强",
+      "posologia": "诱导：5 mg/kg每12小时 × 14–21天",
+      "armazenamento": "2–8°C冷藏，重溶液限时使用",
+      "preparo": "用无菌注射水溶解，稀释于NS或D5W中",
+      "solucoesCompatíveis": "NS，5%葡萄糖",
+      "contraindicacoes": "妊娠、中性粒细胞<500、严重过敏",
+      "cuidadosMedicos": "监测血象、电解质、肾功能",
+      "cuidadosFarmaceuticos": "注意复溶方法、配伍和过期时间",
+      "cuidadosEnfermagem": "关注骨髓抑制、静脉通路及肾功能",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

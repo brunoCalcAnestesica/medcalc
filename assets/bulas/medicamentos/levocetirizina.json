@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Levocetirizina",
+      "suspension": "Não é necessário suspender antes da cirurgia",
+      "risk": "Não há impacto clínico significativo sobre anestesia ou hemodinâmica; pode causar sonolência leve",
+      "reintroduction": "Pode ser mantida sem interrupções ou reiniciada imediatamente após o procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levocetirizina dicloridrato",
+      "nomeComercial": "Zyxem, Xazal, Zilola, Rinelon, Levrix",
+      "mecanismoAcao": "Antagonista seletivo dos receptores H1 periféricos da histamina",
+      "farmacocinetica": "Alta biodisponibilidade oral (>85%), início em 1h, meia-vida de 8 a 10 horas, excreção renal",
+      "farmacodinamica": "Reduz os sintomas de alergia ao inibir a ação da histamina, sem penetrar o SNC significativamente",
+      "indicacoes": "Rinite alérgica sazonal e perene, urticária idiopática crônica",
+      "reacoesAdversas": "Sonolência, cefaleia, fadiga, boca seca",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excretado no leite materno; avaliar risco-benefício",
+      "administracao": "Via oral (comprimidos ou solução oral)",
+      "doseMaxima": "5 mg/dia em adultos",
+      "doseMinima": "1,25 mg/dia (uso pediátrico)",
+      "classificacao": "Anti-histamínico de segunda geração",
+      "apresentacao": "Comprimidos de 5 mg e solução oral 0,5 mg/mL",
+      "interacaoMedicamento": "Potencial sedativo aditivo com álcool, depressores do SNC; não inibe CYP450",
+      "posologia": "Adultos: 5 mg/dia; crianças: ajustar conforme idade e peso",
+      "armazenamento": "15–30°C, protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência renal grave (ClCr <10 mL/min), hipersensibilidade",
+      "cuidadosMedicos": "Monitorar sonolência em idosos; ajustar dose em insuficiência renal",
+      "cuidadosFarmaceuticos": "Orientar administração preferencial à noite; manter em local seco",
+      "cuidadosEnfermagem": "Observar sedação, orientar hidratação e boa higiene nasal",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Levocetirizine",
+      "suspension": "No need to suspend before surgery",
+      "risk": "No clinically significant impact on anesthesia or vital parameters; may cause mild sedation",
+      "reintroduction": "Can be continued or resumed immediately after surgery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levocetirizine dihydrochloride",
+      "nomeComercial": "Xyzal, Levrix, Zilola",
+      "mecanismoAcao": "Selective H1 receptor antagonist (peripheral action)",
+      "farmacocinetica": "Oral bioavailability >85%, onset ~1h, half-life 8–10h, renal excretion",
+      "farmacodinamica": "Reduces allergy symptoms by blocking peripheral histamine H1 receptors",
+      "indicacoes": "Allergic rhinitis (seasonal/perennial), chronic idiopathic urticaria",
+      "reacoesAdversas": "Somnolence, headache, fatigue, dry mouth",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Excreted in breast milk; use with caution",
+      "administracao": "Oral (tablets or oral solution)",
+      "doseMaxima": "5 mg/day in adults",
+      "doseMinima": "1.25 mg/day (children)",
+      "classificacao": "Second-generation antihistamine",
+      "apresentacao": "5 mg tablets and 0.5 mg/mL oral solution",
+      "interacaoMedicamento": "Caution with CNS depressants, alcohol; no CYP450 inhibition",
+      "posologia": "Adults: 5 mg daily; pediatric: weight/age-adjusted",
+      "armazenamento": "Store at 15–30°C, away from moisture",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe renal impairment (CrCl <10 mL/min), hypersensitivity",
+      "cuidadosMedicos": "Adjust dose in renal impairment; monitor sedation",
+      "cuidadosFarmaceuticos": "Recommend night dosing; protect from moisture",
+      "cuidadosEnfermagem": "Check adherence and signs of drowsiness",
+      "fontesBibliograficas": "FDA, Lexicomp, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Levocetirizina",
+      "suspension": "No requiere suspensión preoperatoria",
+      "risk": "No afecta parámetros vitales; sedación leve posible",
+      "reintroduction": "Puede mantenerse o reiniciarse tras la cirugía sin problemas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levocetirizina diclorhidrato",
+      "nomeComercial": "Xyzal, Zilola, Levrix",
+      "mecanismoAcao": "Antagonista selectivo de los receptores H1 periféricos",
+      "farmacocinetica": "Alta biodisponibilidad oral (>85%), inicio ~1h, vida media 8–10h, excreción renal",
+      "farmacodinamica": "Bloquea receptores H1, reduciendo síntomas alérgicos",
+      "indicacoes": "Rinitis alérgica, urticaria idiopática crónica",
+      "reacoesAdversas": "Somnolencia, cefalea, fatiga, boca seca",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Se excreta en la leche materna; usar con precaución",
+      "administracao": "Vía oral (comprimidos o solución)",
+      "doseMaxima": "5 mg/día en adultos",
+      "doseMinima": "1,25 mg/día (niños)",
+      "classificacao": "Antihistamínico de segunda generación",
+      "apresentacao": "Comprimidos 5 mg, solución 0,5 mg/mL",
+      "interacaoMedicamento": "Precaución con alcohol o sedantes; no inhibe CYP450",
+      "posologia": "Adultos: 5 mg/día; niños: según edad/peso",
+      "armazenamento": "15–30°C, evitar humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Insuficiencia renal grave (ClCr <10 mL/min), hipersensibilidad",
+      "cuidadosMedicos": "Ajustar dosis en insuficiencia renal",
+      "cuidadosFarmaceuticos": "Tomar preferentemente por la noche; proteger de humedad",
+      "cuidadosEnfermagem": "Observar signos de sedación y cumplimiento",
+      "fontesBibliograficas": "EMA, FDA, Vademécum, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "左西替利嗪",
+      "suspension": "术前无需停药",
+      "risk": "不会影响麻醉或生命体征，可能有轻微嗜睡",
+      "reintroduction": "可术后立即继续或重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "左西替利嗪二盐酸盐",
+      "nomeComercial": "Xyzal, 左敏, Zilola",
+      "mecanismoAcao": "选择性H1受体拮抗剂，主要作用于外周",
+      "farmacocinetica": "口服吸收好，生物利用度>85%，起效1小时，半衰期8–10小时，经肾排泄",
+      "farmacodinamica": "阻断组胺引起的过敏反应，降低过敏症状",
+      "indicacoes": "季节性/常年性过敏性鼻炎，慢性荨麻疹",
+      "reacoesAdversas": "嗜睡、头痛、乏力、口干",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可分泌入乳汁，慎用",
+      "administracao": "口服（片剂或口服液）",
+      "doseMaxima": "成人每日5毫克",
+      "doseMinima": "儿童每日1.25毫克",
+      "classificacao": "第二代抗组胺药",
+      "apresentacao": "5毫克片剂，0.5毫克/毫升口服液",
+      "interacaoMedicamento": "与酒精和中枢抑制剂有协同镇静效应",
+      "posologia": "成人每日1次5毫克，儿童依年龄/体重调整",
+      "armazenamento": "15–30°C，防潮保存",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重度肾功能障碍（ClCr<10 mL/min）",
+      "cuidadosMedicos": "肾功能不全需调整剂量，监测嗜睡",
+      "cuidadosFarmaceuticos": "建议夜间服用，保持干燥保存",
+      "cuidadosEnfermagem": "监测依从性与嗜睡情况",
+      "fontesBibliograficas": "中国药典, FDA, UpToDate, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Atorvastatina",
+      "suspension": "Não requer suspensão pré-operatória em cirurgias de baixo risco",
+      "risk": "Potencial interação com anestésicos e miopatia; avaliar em pacientes com uso de múltiplas medicações",
+      "reintroduction": "Pode ser mantida ou reintroduzida nas primeiras 24–48h do pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atorvastatina Cálcica",
+      "nomeComercial": "Lipitor, Torvast, Zarator, Citalor, Aradois, Atorlip",
+      "mecanismoAcao": "Inibe a HMG-CoA redutase, reduzindo a síntese hepática de colesterol e aumentando receptores de LDL.",
+      "farmacocinetica": "Biodisponibilidade oral ~14%; metabolização hepática (CYP3A4); meia-vida 14h; excreção fecal.",
+      "farmacodinamica": "Reduz LDL, colesterol total e triglicérides; aumenta discretamente HDL; ação anti-inflamatória endotelial.",
+      "indicacoes": "Dislipidemias, prevenção primária e secundária de eventos cardiovasculares, hipercolesterolemia familiar.",
+      "reacoesAdversas": "Mialgia, dor abdominal, elevação de transaminases, cefaleia, insônia, raramente rabdomiólise.",
+      "riscoGravidez": "Categoria X (contraindicado; risco fetal comprovado)",
+      "riscoLactacao": "Contraindicada; excreção no leite materno",
+      "administracao": "Via oral; 1x/dia com ou sem alimentos",
+      "doseMaxima": "80mg/dia",
+      "doseMinima": "10mg/dia",
+      "classificacao": "Estatina / hipolipemiante / inibidor da HMG-CoA redutase",
+      "apresentacao": "Comprimidos de 10, 20, 40 e 80mg",
+      "interacaoMedicamento": "Interage com antifúngicos azólicos, macrolídeos, ciclosporina, amiodarona, fibratos, suco de grapefruit",
+      "posologia": "Inicial: 10–20mg/dia; ajustes conforme LDL alvo",
+      "armazenamento": "Temperatura ambiente (<30°C), em blister protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença hepática ativa, gravidez, lactação, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar TGO/TGP, CPK se dor muscular, avaliar risco/benefício em cirurgia cardíaca",
+      "cuidadosFarmaceuticos": "Orientar adesão diária, evitar suco de grapefruit",
+      "cuidadosEnfermagem": "Observar queixas musculares e sinais de toxicidade hepática",
+      "fontesBibliograficas": "Micromedex, Bula Anvisa, FDA Drug Label, SBH, PubChem CID: 60823"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Atorvastatin",
+      "suspension": "No need for discontinuation before low-risk surgery",
+      "risk": "May interact with anesthetics; monitor for myopathy in polypharmacy",
+      "reintroduction": "Can be resumed within 24–48h post-op if stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atorvastatin Calcium",
+      "nomeComercial": "Lipitor, Torvast, Zarator, Atorlip, Caduet (combo)",
+      "mecanismoAcao": "Inhibits HMG-CoA reductase, decreasing hepatic cholesterol synthesis and increasing LDL receptors.",
+      "farmacocinetica": "Oral bioavailability ~14%; hepatic metabolism (CYP3A4); half-life ~14h; fecal excretion.",
+      "farmacodinamica": "Lowers LDL, total cholesterol, triglycerides; modest HDL increase; pleiotropic anti-inflammatory effects.",
+      "indicacoes": "Hyperlipidemia, cardiovascular prevention (primary and secondary), familial hypercholesterolemia.",
+      "reacoesAdversas": "Myalgia, transaminase elevation, headache, insomnia, rarely rhabdomyolysis.",
+      "riscoGravidez": "Category X (contraindicated)",
+      "riscoLactacao": "Excreted in breast milk; contraindicated",
+      "administracao": "Oral, once daily with or without food",
+      "doseMaxima": "80mg/day",
+      "doseMinima": "10mg/day",
+      "classificacao": "Statin / HMG-CoA reductase inhibitor / lipid-lowering agent",
+      "apresentacao": "Tablets: 10mg, 20mg, 40mg, 80mg",
+      "interacaoMedicamento": "Interacts with azoles, macrolides, cyclosporine, amiodarone, fibrates, grapefruit juice",
+      "posologia": "Start 10–20mg/day; titrate to goal LDL",
+      "armazenamento": "Room temp (<30°C), in light-protective packaging",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active liver disease, pregnancy, breastfeeding",
+      "cuidadosMedicos": "Monitor LFTs, CPK with muscle symptoms; evaluate perioperative benefit-risk",
+      "cuidadosFarmaceuticos": "Emphasize daily adherence, avoid grapefruit",
+      "cuidadosEnfermagem": "Monitor for myalgia, liver dysfunction signs",
+      "fontesBibliograficas": "Micromedex, FDA, NIH DailyMed, UpToDate, PubChem CID: 60823"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Atorvastatina",
+      "suspension": "No requiere suspensión antes de cirugía de bajo riesgo",
+      "risk": "Posible interacción con anestésicos; riesgo de miopatía",
+      "reintroduction": "Puede reanudarse 24–48h tras cirugía si estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atorvastatina Cálcica",
+      "nomeComercial": "Lipitor, Zarator, Atoris, Atorvaz, Aterostat",
+      "mecanismoAcao": "Inhibe la HMG-CoA reductasa, reduciendo el colesterol hepático y aumentando receptores LDL.",
+      "farmacocinetica": "Biodisponibilidad oral 14%; metabolismo hepático (CYP3A4); semivida 14h; eliminación fecal.",
+      "farmacodinamica": "Disminuye LDL, colesterol total y TG; aumenta ligeramente el HDL; efectos antiinflamatorios vasculares.",
+      "indicacoes": "Dislipidemia, prevención CV primaria y secundaria, hipercolesterolemia familiar",
+      "reacoesAdversas": "Mialgia, elevación hepática, insomnio, dolor abdominal, rabdomiólisis rara",
+      "riscoGravidez": "Categoría X (prohibido)",
+      "riscoLactacao": "Contraindicado; se excreta en leche materna",
+      "administracao": "Vía oral, 1 vez/día con o sin alimentos",
+      "doseMaxima": "80mg/día",
+      "doseMinima": "10mg/día",
+      "classificacao": "Estatina / hipolipemiante",
+      "apresentacao": "Comprimidos de 10–80mg",
+      "interacaoMedicamento": "Interacciones con antifúngicos, macrólidos, ciclosporina, zumo de toronja",
+      "posologia": "10–20mg/día; ajustar según objetivos LDL",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía activa, embarazo, lactancia",
+      "cuidadosMedicos": "Controlar enzimas hepáticas y CPK ante síntomas musculares",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia, evitar toronja",
+      "cuidadosEnfermagem": "Atención a quejas musculares o síntomas hepáticos",
+      "fontesBibliograficas": "EMA, PubChem, Micromedex, AEMPS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿托伐他汀 (Atorvastatin)",
+      "suspension": "低风险手术前无需停药",
+      "risk": "与麻醉药相互作用风险；多药联用时注意肌病",
+      "reintroduction": "术后24–48小时内可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿托伐他汀钙",
+      "nomeComercial": "立普妥（Lipitor）、Atorlip、阿妥宁",
+      "mecanismoAcao": "抑制HMG-CoA还原酶，减少肝脏胆固醇合成，提高LDL受体表达。",
+      "farmacocinetica": "口服生物利用度约14%；CYP3A4肝代谢；半衰期约14小时；粪便排泄。",
+      "farmacodinamica": "降低LDL、总胆固醇和甘油三酯，轻度升高HDL；具有抗炎内皮保护作用。",
+      "indicacoes": "高脂血症、心血管预防、家族性高胆固醇血症",
+      "reacoesAdversas": "肌痛、肝酶升高、头痛、失眠；少见横纹肌溶解",
+      "riscoGravidez": "X类（禁用）",
+      "riscoLactacao": "禁用于哺乳期，可能分泌于乳汁",
+      "administracao": "口服，每日一次，可随餐或空腹服用",
+      "doseMaxima": "每日80毫克",
+      "doseMinima": "每日10毫克",
+      "classificacao": "他汀类 / 降脂药 / HMG-CoA还原酶抑制剂",
+      "apresentacao": "10mg、20mg、40mg、80mg片剂",
+      "interacaoMedicamento": "与真菌药、红霉素、环孢素、葡萄柚汁有相互作用",
+      "posologia": "起始10–20mg/d；根据LDL目标调整剂量",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肝病、妊娠、哺乳期",
+      "cuidadosMedicos": "监测转氨酶与CPK；评估术前风险",
+      "cuidadosFarmaceuticos": "强调每日服药规律；避免葡萄柚",
+      "cuidadosEnfermagem": "观察肌痛和肝功能异常迹象",
+      "fontesBibliograficas": "Micromedex、WHO、PubChem CID: 60823、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tiopental",
+      "suspension": "Não aplicável (uso exclusivo em anestesia IV); evitar em uso crônico de depressores do SNC ou porfiria",
+      "risk": "Depressão respiratória e cardiovascular, laringoespasmo, interação com benzodiazepínicos, opioides e depressores do SNC",
+      "reintroduction": "Reintroduzir com cautela em induções subsequentes, monitorando sinais vitais e função respiratória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tiopental Sódico",
+      "nomeComercial": "Pentotal, Trapanal, Thiopental",
+      "mecanismoAcao": "Barbitúrico de ação ultracurta; agonista GABA-A, induz hipnose e anestesia via hiperpolarização neuronal",
+      "farmacocinetica": "Início: 30s; duração: 5–10min; redistribuição rápida; metabolização hepática; excreção renal",
+      "farmacodinamica": "Hipnótico de uso exclusivo hospitalar; depressor do SNC e cardiovascular potente; reduz metabolismo cerebral e pressão intracraniana",
+      "indicacoes": "Indução anestésica, controle de crises refratárias, hipertensão intracraniana, sedação neuroprotetora (uso off-label em TCE)",
+      "reacoesAdversas": "Hipotensão, apneia, laringoespasmo, náusea, vômito, dor à injeção, urticária, porfiria aguda",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Evitar uso repetido; exposição única considerada de baixo risco",
+      "administracao": "Intravenosa (IV bolus ou infusão contínua)",
+      "doseMaxima": "Indução: até 5mg/kg; sedação prolongada deve ser titulada cuidadosamente",
+      "doseMinima": "1–2mg/kg para indução",
+      "classificacao": "Barbitúrico hipnótico de ação ultracurta",
+      "apresentacao": "Frascos para reconstituição (1g, 500mg) com diluente",
+      "interacaoMedicamento": "Depressores do SNC, benzodiazepínicos, opioides, álcool, anestésicos voláteis, relaxantes musculares",
+      "posologia": "Indução: 3–5mg/kg IV; crises refratárias: infusão contínua ajustada por EEG",
+      "armazenamento": "Pó liofilizado sob refrigeração; solução reconstituída usar em até 24h",
+      "preparo": "Reconstituir com água estéril para injeção; administrar IV lento em veia calibrosa",
+      "solucoesCompatíveis": "SF 0,9%; evitar diluição em soluções alcalinas ou ácidas",
+      "contraindicacoes": "Porfiria aguda, hipersensibilidade a barbitúricos, choque circulatório grave, insuficiência respiratória não controlada",
+      "cuidadosMedicos": "Monitorar ECG, PA, FR, sedação e função hepática/renal em uso prolongado",
+      "cuidadosFarmaceuticos": "Reconstituir sob condições assépticas; descartar sobras após 24h",
+      "cuidadosEnfermagem": "Monitorar sedação, FR, padrão respiratório, reflexos, sinais vitais e nível de consciência",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate, Miller's Anesthesia, SBAR"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Thiopental",
+      "suspension": "Not applicable (used exclusively IV in anesthesia); avoid in chronic CNS depressant users or porphyria",
+      "risk": "Respiratory and cardiovascular depression, laryngospasm, interaction with opioids, benzodiazepines, and CNS depressants",
+      "reintroduction": "Reintroduce cautiously in future anesthesia with monitoring of respiratory and hemodynamic parameters"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Thiopental Sodium",
+      "nomeComercial": "Pentothal, Trapanal",
+      "mecanismoAcao": "Ultra-short-acting barbiturate; GABA-A agonist causing rapid CNS depression and hypnosis",
+      "farmacocinetica": "Onset: 30s; duration: 5–10min; hepatic metabolism; renal excretion; rapid redistribution",
+      "farmacodinamica": "IV hypnotic anesthetic; reduces cerebral metabolic rate and intracranial pressure",
+      "indicacoes": "Anesthesia induction, refractory seizures, neuroprotection in TBI, status epilepticus",
+      "reacoesAdversas": "Apnea, hypotension, nausea, vomiting, injection site pain, bronchospasm, porphyria crisis",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Avoid repeated use; single dose likely safe",
+      "administracao": "IV bolus or continuous infusion",
+      "doseMaxima": "Up to 5mg/kg for induction; adjusted for maintenance",
+      "doseMinima": "1–2mg/kg IV",
+      "classificacao": "Ultra-short-acting barbiturate IV anesthetic",
+      "apresentacao": "Lyophilized powder (1g/500mg vials), requires reconstitution",
+      "interacaoMedicamento": "CNS depressants, opioids, alcohol, volatile anesthetics, muscle relaxants",
+      "posologia": "Induction: 3–5mg/kg IV slow; seizures: continuous infusion titrated by EEG",
+      "armazenamento": "Powder: room temp; reconstituted solution: use within 24h",
+      "preparo": "Reconstitute with sterile water; inject slowly via large vein",
+      "solucoesCompatíveis": "NS 0.9%; avoid acidic or alkaline solutions",
+      "contraindicacoes": "Acute intermittent porphyria, barbiturate allergy, severe shock, uncontrolled respiratory depression",
+      "cuidadosMedicos": "Monitor ECG, BP, RR, hepatic and renal function",
+      "cuidadosFarmaceuticos": "Aseptic reconstitution; discard unused solution after 24h",
+      "cuidadosEnfermagem": "Observe RR, sedation level, reflexes, oxygen saturation, signs of apnea or hypotension",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, Miller's Anesthesia, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tiopental",
+      "suspension": "No aplica (uso exclusivamente IV en anestesia); suspender otros depresores del SNC si es necesario",
+      "risk": "Depresión respiratoria y cardiovascular, laringoespasmo, interacción con opioides, benzodiacepinas y otros depresores",
+      "reintroduction": "Reintroducir solo bajo vigilancia anestésica y monitorización estricta"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tiopental Sódico",
+      "nomeComercial": "Pentotal, Trapanal",
+      "mecanismoAcao": "Barbitúrico de acción ultracorta; agonista GABA-A que induce hipnosis rápidamente",
+      "farmacocinetica": "Inicio: 30s; duración: 5–10min; metabolismo hepático; excreción renal; redistribución rápida",
+      "farmacodinamica": "Anestésico hipnótico IV; reduce presión intracraneal y consumo cerebral de oxígeno",
+      "indicacoes": "Inducción anestésica, estatus epiléptico, sedación neuroprotectora, TCE",
+      "reacoesAdversas": "Apnea, hipotensión, náuseas, vómitos, dolor a la inyección, porfiria aguda",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Evitar uso repetido; dosis única es segura",
+      "administracao": "Intravenosa (bolo o infusión continua)",
+      "doseMaxima": "5mg/kg",
+      "doseMinima": "1–2mg/kg",
+      "classificacao": "Barbitúrico hipnótico de acción corta",
+      "apresentacao": "Viales de polvo liofilizado 1g/500mg para reconstituir",
+      "interacaoMedicamento": "Depresores del SNC, opioides, alcohol, anestésicos inhalados",
+      "posologia": "Inducción: 3–5mg/kg IV; estatus epiléptico: infusión continua guiada por EEG",
+      "armazenamento": "Polvo: ambiente seco; solución: 24h refrigerada",
+      "preparo": "Reconstituir con agua estéril; administrar lentamente",
+      "solucoesCompatíveis": "SF 0,9%; evitar soluciones ácidas o alcalinas",
+      "contraindicacoes": "Porfiria aguda, alergia a barbitúricos, shock, insuficiencia respiratoria grave",
+      "cuidadosMedicos": "Vigilar ECG, PA, FR y conciencia",
+      "cuidadosFarmaceuticos": "Reconstituir asépticamente; desechar após 24h",
+      "cuidadosEnfermagem": "Observar FR, sedación, oxigenación, reflejos, hipotensión",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, Miller, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硫喷妥钠",
+      "suspension": "不适用（仅限静脉麻醉使用）；如长期使用中枢抑制剂，术前应评估停药",
+      "risk": "呼吸抑制、心血管抑制、喉痉挛，与阿片类、苯二氮䓬类及麻醉药物相互作用",
+      "reintroduction": "可用于再次麻醉诱导；避免持续滴注或用于感染性休克患者"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硫喷妥钠",
+      "nomeComercial": "硫喷妥注射液（Pentothal, Trapanal）",
+      "mecanismoAcao": "GABA-A受体激动剂，快速诱导镇静与催眠",
+      "farmacocinetica": "起效：30秒；持续：5–10分钟；肝代谢；肾排泄；快速分布",
+      "farmacodinamica": "静脉麻醉诱导剂，降低颅内压与代谢，适用于颅脑损伤患者镇静",
+      "indicacoes": "麻醉诱导、癫痫持续状态、脑保护性镇静、颅脑损伤",
+      "reacoesAdversas": "呼吸暂停、低血压、注射痛、恶心、呕吐、喉痉挛、急性紫质症",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "一次性使用安全；避免长期滴注哺乳期使用",
+      "administracao": "静脉注射（推注或持续泵注）",
+      "doseMaxima": "诱导剂量不超过5mg/kg",
+      "doseMinima": "1–2mg/kg",
+      "classificacao": "短效巴比妥类静脉催眠药",
+      "apresentacao": "冻干粉（500mg、1g），需溶解后使用",
+      "interacaoMedicamento": "中枢抑制药、阿片类、吸入麻醉剂、肌松剂、酒精",
+      "posologia": "诱导：3–5mg/kg IV；癫痫：持续泵注并监测脑电图",
+      "armazenamento": "粉剂冷藏保存；溶液24小时内使用",
+      "preparo": "无菌配制，推荐用水溶解后静推大静脉",
+      "solucoesCompatíveis": "0.9%氯化钠，避免碱性或酸性溶液",
+      "contraindicacoes": "急性紫质症、过敏、严重休克、呼吸衰竭",
+      "cuidadosMedicos": "监测心电、血压、呼吸频率与肝肾功能",
+      "cuidadosFarmaceuticos": "按无菌技术溶解使用，剩余药液24小时内丢弃",
+      "cuidadosEnfermagem": "观察意识、呼吸、镇静、反射、血压变化",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex, UpToDate"
+    }
+  }
+}

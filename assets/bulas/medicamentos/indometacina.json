@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Indometacina",
+      "suspension": "Suspender 24 a 48 horas antes de procedimentos cirúrgicos eletivos.",
+      "risk": "Risco aumentado de sangramento por inibição plaquetária reversível. Potencial de lesão gastrointestinal, insuficiência renal perioperatória e interação com anestésicos e anticoagulantes.",
+      "reintroduction": "Reintroduzir após adequada recuperação gastrointestinal e estabilidade hemodinâmica, idealmente 48–72h após cirurgia se não houver contraindicações."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Indometacina",
+      "nomeComercial": "Indocid, Dolovin, Indocap, Indocin",
+      "mecanismoAcao": "Inibição não seletiva das isoformas COX-1 e COX-2, reduzindo a síntese de prostaglandinas envolvidas na inflamação, dor e febre.",
+      "farmacocinetica": "Boa absorção oral; pico plasmático em 1–2h; alta ligação a proteínas plasmáticas (>90%); metabolização hepática; excreção urinária e fecal.",
+      "farmacodinamica": "Potente ação anti-inflamatória, analgésica e antipirética. Reduz contratilidade uterina e fechamento do ducto arterial fetal.",
+      "indicacoes": "Artrite reumatoide, osteoartrite, espondilite anquilosante, dor aguda, dismenorreia, fechamento do canal arterial em neonatologia.",
+      "reacoesAdversas": "Epigastralgia, náusea, sangramento gastrintestinal, cefaleia, vertigem, retenção de sódio, hipertensão, insuficiência renal aguda.",
+      "riscoGravidez": "Categoria C no 1º e 2º trimestres, D no 3º (risco de fechamento prematuro do ducto arterioso).",
+      "riscoLactacao": "Pode ser excretada no leite materno; evitar uso crônico durante a amamentação.",
+      "administracao": "Oral, retal ou intravenosa (uso hospitalar neonatal).",
+      "doseMaxima": "200 mg/dia (adultos).",
+      "doseMinima": "25 mg/dose.",
+      "classificacao": "Anti-inflamatório não esteroidal (AINE) não seletivo.",
+      "apresentacao": "Comprimidos de 25 mg e 50 mg, cápsulas SR, supositórios, ampola EV (uso hospitalar).",
+      "interacaoMedicamento": "Interage com anticoagulantes, AAS, corticosteroides, lítio, metotrexato e IECAs.",
+      "posologia": "Adultos: 25–50 mg 2 a 3 vezes ao dia. Neonatos: 0,2 mg/kg IV (protocolo ducto arterioso).",
+      "armazenamento": "Conservar em temperatura ambiente (15–30°C), protegido da umidade.",
+      "preparo": "Via EV requer diluição com soro fisiológico para infusão lenta (uso neonatal).",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%.",
+      "contraindicacoes": "Úlcera péptica ativa, insuficiência hepática ou renal grave, sangramento ativo, gestação no 3º trimestre.",
+      "cuidadosMedicos": "Monitorar função renal, PA, integridade gastrointestinal e sinais de sangramento.",
+      "cuidadosFarmaceuticos": "Verificar interação medicamentosa e estado da mucosa gástrica.",
+      "cuidadosEnfermagem": "Orientar administração com alimentos, avaliar sinais de sangramento ou desconforto gástrico.",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate, BNF, Neonatal Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Indomethacin",
+      "suspension": "Discontinue 24–48 hours before elective surgery.",
+      "risk": "Increased bleeding risk due to reversible platelet inhibition. Risk of GI injury, perioperative renal dysfunction, and interaction with anesthetics or anticoagulants.",
+      "reintroduction": "Restart after hemodynamic stabilization and GI recovery, usually 48–72h post-op if no contraindications."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Indomethacin",
+      "nomeComercial": "Indocin, Tivorbex, Indocid",
+      "mecanismoAcao": "Non-selective COX-1 and COX-2 inhibitor, reducing prostaglandin synthesis involved in inflammation, fever, and pain.",
+      "farmacocinetica": "Well absorbed orally; peak in 1–2h; >90% protein binding; hepatic metabolism; renal and fecal excretion.",
+      "farmacodinamica": "Strong anti-inflammatory, antipyretic, and analgesic effects. Reduces uterine contractility and closes patent ductus arteriosus in neonates.",
+      "indicacoes": "Rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, acute pain, dysmenorrhea, PDA closure in neonates.",
+      "reacoesAdversas": "GI upset, nausea, GI bleeding, headache, dizziness, sodium retention, hypertension, acute kidney injury.",
+      "riscoGravidez": "Category C (1st and 2nd trimesters), D (3rd trimester – risk of premature ductus closure).",
+      "riscoLactacao": "Excreted in breast milk; avoid long-term use during lactation.",
+      "administracao": "Oral, rectal, intravenous (hospital use, neonatology).",
+      "doseMaxima": "200 mg/day (adults).",
+      "doseMinima": "25 mg/dose.",
+      "classificacao": "Non-steroidal anti-inflammatory drug (NSAID), non-selective.",
+      "apresentacao": "25 mg and 50 mg tablets, sustained-release capsules, suppositories, IV ampoule (neonatal use).",
+      "interacaoMedicamento": "Interacts with anticoagulants, aspirin, corticosteroids, lithium, methotrexate, and ACE inhibitors.",
+      "posologia": "Adults: 25–50 mg 2–3 times daily. Neonates: 0.2 mg/kg IV (ductus protocol).",
+      "armazenamento": "Store at 15–30°C; protect from moisture.",
+      "preparo": "IV form requires dilution in saline for slow infusion (neonatal use).",
+      "solucoesCompatíveis": "0.9% sodium chloride.",
+      "contraindicacoes": "Active peptic ulcer, severe renal/hepatic impairment, active bleeding, 3rd trimester of pregnancy.",
+      "cuidadosMedicos": "Monitor renal function, BP, GI symptoms, and bleeding risk.",
+      "cuidadosFarmaceuticos": "Evaluate drug interactions and gastric mucosa status.",
+      "cuidadosEnfermagem": "Administer with food, monitor for GI pain or bleeding signs.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Neonatal Guidelines, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Indometacina",
+      "suspension": "Suspender 24–48 horas antes de cirugía electiva.",
+      "risk": "Mayor riesgo de sangrado por inhibición plaquetaria. Posible daño gastrointestinal, disfunción renal y interacción con anestesia o anticoagulantes.",
+      "reintroduction": "Reintroducir tras recuperación gastrointestinal y estabilización, idealmente 48–72 h postoperatorias."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Indometacina",
+      "nomeComercial": "Indocid, Indomet, Tivorbex",
+      "mecanismoAcao": "Inhibidor no selectivo de COX-1 y COX-2 que reduce la síntesis de prostaglandinas.",
+      "farmacocinetica": "Buena absorción oral; pico en 1–2 h; alta unión a proteínas (>90%); metabolismo hepático; excreción renal y fecal.",
+      "farmacodinamica": "Acción antiinflamatoria potente, antipirética y analgésica. Cierre del conducto arterioso en neonatos.",
+      "indicacoes": "Artritis reumatoide, osteoartritis, espondilitis anquilosante, dolor agudo, dismenorrea, conducto arterioso persistente (neonatos).",
+      "reacoesAdversas": "Dolor gástrico, náuseas, sangrado digestivo, cefalea, vértigo, retención de sodio, hipertensión, falla renal aguda.",
+      "riscoGravidez": "Categoría C (1º y 2º trimestres), D (3º trimestre).",
+      "riscoLactacao": "Se excreta en la leche materna; evitar uso prolongado.",
+      "administracao": "Oral, rectal o IV (uso neonatal hospitalario).",
+      "doseMaxima": "200 mg/día.",
+      "doseMinima": "25 mg/dosis.",
+      "classificacao": "AINE no selectivo.",
+      "apresentacao": "Tabletas de 25 y 50 mg, cápsulas SR, supositorios, ampolla IV.",
+      "interacaoMedicamento": "Interacción con anticoagulantes, AAS, corticoides, litio, metotrexato e IECAs.",
+      "posologia": "Adultos: 25–50 mg cada 8 h. Neonatos: 0,2 mg/kg IV.",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de humedad.",
+      "preparo": "Diluir forma IV en suero fisiológico antes de infusión lenta.",
+      "solucoesCompatíveis": "Cloruro de sodio al 0,9%.",
+      "contraindicacoes": "Úlcera activa, hepatopatía o nefropatía severa, sangrado, embarazo avanzado.",
+      "cuidadosMedicos": "Monitorizar función renal, PA, síntomas digestivos y sangrado.",
+      "cuidadosFarmaceuticos": "Revisar interacciones medicamentosas y mucosa gástrica.",
+      "cuidadosEnfermagem": "Administrar con alimentos; vigilar signos de dolor o sangrado digestivo.",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, Guías Neonatales"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "消炎痛（Indomethacin）",
+      "suspension": "择期手术前24–48小时停药。",
+      "risk": "可逆性血小板抑制增加出血风险；可能引起胃肠道损伤、术中肾功能不全，与麻醉药或抗凝药相互作用。",
+      "reintroduction": "术后恢复肠胃功能和血流动力学稳定后可重新使用，建议术后48–72小时。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "吲哚美辛",
+      "nomeComercial": "Indocin、Indocid、Tivorbex",
+      "mecanismoAcao": "非选择性抑制COX-1与COX-2，减少前列腺素生成。",
+      "farmacocinetica": "口服吸收良好，1–2小时达峰，90%以上蛋白结合，经肝代谢，肾与粪便排泄。",
+      "farmacodinamica": "强效抗炎、解热、镇痛。可用于新生儿动脉导管未闭治疗。",
+      "indicacoes": "类风湿关节炎、骨关节炎、强直性脊柱炎、急性疼痛、痛经、新生儿PDA闭合。",
+      "reacoesAdversas": "胃痛、恶心、胃出血、头痛、眩晕、钠潴留、高血压、急性肾损伤。",
+      "riscoGravidez": "C类（1–2期）、D类（妊娠晚期）。",
+      "riscoLactacao": "可经乳汁排出；哺乳期避免长期使用。",
+      "administracao": "口服、直肠、静脉（新生儿住院使用）。",
+      "doseMaxima": "每日不超过200毫克（成人）。",
+      "doseMinima": "每次25毫克。",
+      "classificacao": "非选择性NSAIDs。",
+      "apresentacao": "25mg、50mg片剂、缓释胶囊、栓剂、静脉注射剂（医院）。",
+      "interacaoMedicamento": "与抗凝剂、阿司匹林、激素、锂制剂、甲氨蝶呤、ACEI有相互作用。",
+      "posologia": "成人：25–50mg每日2–3次；新生儿：0.2mg/kg静注。",
+      "armazenamento": "15–30°C，避光避湿。",
+      "preparo": "静注前需用生理盐水稀释。",
+      "solucoesCompatíveis": "0.9%氯化钠。",
+      "contraindicacoes": "活动性溃疡、重度肝肾功能不全、出血、妊娠晚期。",
+      "cuidadosMedicos": "监测肾功能、血压、胃肠症状和出血倾向。",
+      "cuidadosFarmaceuticos": "关注药物相互作用与胃黏膜保护。",
+      "cuidadosEnfermagem": "饭后服用；观察出血或胃痛体征。",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate、新生儿指南"
+    }
+  }
+}

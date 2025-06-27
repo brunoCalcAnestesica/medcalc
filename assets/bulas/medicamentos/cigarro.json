@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cigarro (nicotina)",
+      "suspension": "Suspender pelo menos 4 a 6 semanas antes de cirurgias eletivas",
+      "risk": "Aumento do risco de broncoespasmo, infecções respiratórias, má perfusão tecidual, complicações anestésicas e cardiovasculares",
+      "reintroduction": "Desencorajada; ideal manter abstinência no pós-operatório para evitar complicações"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nicotina (além de alcatrão, monóxido de carbono e milhares de toxinas)",
+      "nomeComercial": "Cigarros industrializados (Marlboro, Derby, etc.), cigarros artesanais, narguilé, fumo de rolo",
+      "mecanismoAcao": "Agonista dos receptores nicotínicos colinérgicos, com liberação de dopamina e norepinefrina no SNC",
+      "farmacocinetica": "Absorção pulmonar rápida; metabolização hepática (CYP2A6); excreção renal",
+      "farmacodinamica": "Estimulação do SNC, aumento de FC e PA, dependência química, efeito vasoconstritor e inflamatório crônico",
+      "indicacoes": "Substância legal de uso recreativo; não possui indicação terapêutica direta via fumo",
+      "reacoesAdversas": "Bronquite crônica, DPOC, aterosclerose, neoplasias, hipertensão, arritmias, infarto, AVC",
+      "riscoGravidez": "Categoria D – risco fetal comprovado, incluindo baixo peso, prematuridade e morte súbita neonatal",
+      "riscoLactacao": "Passa para o leite materno; uso contraindicado",
+      "administracao": "Inalatória (cigarro, narguilé, vaporizador)",
+      "doseMaxima": "Não há dose segura; toxicidade relacionada ao uso crônico",
+      "doseMinima": "Uma tragada ativa receptores nicotínicos no SNC",
+      "classificacao": "Droga estimulante psicoativa lícita; dependência psicológica e física",
+      "apresentacao": "Cigarros, charutos, cigarro eletrônico, tabaco natural",
+      "interacaoMedicamento": "Indução enzimática (CYP1A2), reduz efeito de clozapina, olanzapina, teofilina e propranolol",
+      "posologia": "Não aplicável; uso recreativo",
+      "armazenamento": "Produto regulado pela ANVISA; vendido legalmente",
+      "preparo": "Industrializado ou artesanal; com ou sem filtro",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Pós-operatório, doenças respiratórias, cardiopatia, gravidez, uso de medicamentos metabolizados por CYP1A2",
+      "cuidadosMedicos": "Incentivar cessação; monitorar função pulmonar, pressão arterial, frequência cardíaca e oximetria",
+      "cuidadosFarmaceuticos": "Educar sobre interações medicamentosas e efeitos crônicos",
+      "cuidadosEnfermagem": "Observar sintomas respiratórios, saturação, tosse crônica",
+      "fontesBibliograficas": "INCA, WHO, FDA, ANVISA, PubChem, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cigarette (nicotine)",
+      "suspension": "Suspend at least 4–6 weeks before elective surgeries",
+      "risk": "Increased risk of bronchospasm, wound infection, poor tissue perfusion, anesthetic and cardiovascular complications",
+      "reintroduction": "Discouraged postoperatively; ideally avoid to promote healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nicotine (plus tar, carbon monoxide, and thousands of toxins)",
+      "nomeComercial": "Cigarettes (Marlboro, Camel), roll-your-own, cigars, hookah",
+      "mecanismoAcao": "Nicotinic cholinergic receptor agonist; releases dopamine and norepinephrine in the CNS",
+      "farmacocinetica": "Rapid pulmonary absorption; hepatic metabolism (CYP2A6); renal excretion",
+      "farmacodinamica": "CNS stimulation, increased HR and BP, addiction, chronic vasoconstriction and inflammation",
+      "indicacoes": "Recreational legal substance; no therapeutic indication via smoking",
+      "reacoesAdversas": "COPD, cancer, atherosclerosis, hypertension, MI, stroke",
+      "riscoGravidez": "Category D – fetal risk: low birth weight, prematurity, SIDS",
+      "riscoLactacao": "Excreted in breast milk; not recommended",
+      "administracao": "Inhaled (cigarette, hookah, vape)",
+      "doseMaxima": "No safe dose; chronic use toxicity",
+      "doseMinima": "One puff activates CNS nicotinic receptors",
+      "classificacao": "Legal psychoactive stimulant with strong addiction potential",
+      "apresentacao": "Cigarettes, cigars, e-cigarettes, natural tobacco",
+      "interacaoMedicamento": "CYP1A2 induction: reduces levels of clozapine, olanzapine, theophylline, propranolol",
+      "posologia": "Not applicable (recreational)",
+      "armazenamento": "Legally regulated product",
+      "preparo": "Manufactured or handmade",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Postoperative recovery, respiratory disease, heart disease, pregnancy, CYP1A2 substrates",
+      "cuidadosMedicos": "Encourage cessation, monitor lung function, BP, HR, SpO2",
+      "cuidadosFarmaceuticos": "Educate about drug interactions and long-term effects",
+      "cuidadosEnfermagem": "Monitor cough, saturation, signs of pulmonary decline",
+      "fontesBibliograficas": "CDC, WHO, FDA, PubChem, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cigarrillo (nicotina)",
+      "suspension": "Suspender al menos 4–6 semanas antes de cirugía electiva",
+      "risk": "Mayor riesgo de broncoespasmo, infecciones, isquemia tisular, complicaciones cardiovasculares y anestésicas",
+      "reintroduction": "Desaconsejada en postoperatorio; mantener abstinencia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nicotina (junto a alquitrán, CO y más de 7000 toxinas)",
+      "nomeComercial": "Cigarrillos, tabaco de liar, puros, narguile",
+      "mecanismoAcao": "Agonista colinérgico nicotínico; estimula dopamina y noradrenalina",
+      "farmacocinetica": "Absorción pulmonar rápida; metabolismo hepático (CYP2A6); eliminación renal",
+      "farmacodinamica": "Estimula SNC, aumenta FC y PA, genera adicción y vasoconstricción crónica",
+      "indicacoes": "Uso recreativo legal; sin indicación médica por inhalación",
+      "reacoesAdversas": "EPOC, cáncer, aterosclerosis, hipertensión, infarto, ACV",
+      "riscoGravidez": "Categoría D – bajo peso, parto prematuro, muerte súbita",
+      "riscoLactacao": "Contraindicado – pasa a la leche",
+      "administracao": "Inhalada (cigarrillo, pipa, vape)",
+      "doseMaxima": "No existe dosis segura",
+      "doseMinima": "Una calada ya activa receptores nicotínicos",
+      "classificacao": "Estimulante psicoactivo legal y adictivo",
+      "apresentacao": "Cigarrillos, cigarros, tabaco suelto",
+      "interacaoMedicamento": "Inductor de CYP1A2 – reduce efecto de clozapina, teofilina, propranolol",
+      "posologia": "No aplica",
+      "armazenamento": "Producto regulado legalmente",
+      "preparo": "Industrial o artesanal",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Postoperatorio, EPOC, embarazo, cardiopatías",
+      "cuidadosMedicos": "Monitorear presión, oximetría, función pulmonar; recomendar abandono",
+      "cuidadosFarmaceuticos": "Educar sobre interacciones y daño crónico",
+      "cuidadosEnfermagem": "Observar disnea, tos, broncoespasmo",
+      "fontesBibliograficas": "OMS, FDA, INCA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "香烟（尼古丁）",
+      "suspension": "术前至少提前4–6周停用",
+      "risk": "增加术中支气管痉挛、创口感染、组织灌注差、心血管并发症",
+      "reintroduction": "术后不建议恢复吸烟，应继续戒烟"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "尼古丁（含焦油、一氧化碳等毒物）",
+      "nomeComercial": "香烟、雪茄、电子烟、水烟",
+      "mecanismoAcao": "激活中枢胆碱能尼古丁受体，促进多巴胺释放",
+      "farmacocinetica": "肺吸收迅速，经CYP2A6代谢，肾排泄",
+      "farmacodinamica": "中枢兴奋，心率上升，血压升高，强成瘾性，慢性炎症",
+      "indicacoes": "法律允许的娱乐用物质；无治疗用途",
+      "reacoesAdversas": "慢性支气管炎、肺气肿、癌症、动脉粥样硬化、中风",
+      "riscoGravidez": "D类 – 胎儿低体重、早产、SIDS",
+      "riscoLactacao": "禁用 – 经乳汁排泄，影响婴儿",
+      "administracao": "吸入式（香烟、水烟、电子烟）",
+      "doseMaxima": "无安全剂量，长期有害",
+      "doseMinima": "一口即激活中枢受体",
+      "classificacao": "合法成瘾性精神刺激剂",
+      "apresentacao": "香烟、烟丝、电子烟",
+      "interacaoMedicamento": "诱导CYP1A2，降低氯氮平、奥氮平、茶碱、普萘洛尔效果",
+      "posologia": "无推荐剂量（非药品）",
+      "armazenamento": "合法商品，需标签警示",
+      "preparo": "工厂生产或手工卷制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "术后恢复期、呼吸病、心脏病、妊娠",
+      "cuidadosMedicos": "建议戒烟，监测肺功能、血压、SpO₂",
+      "cuidadosFarmaceuticos": "强调药物相互作用与长期毒性",
+      "cuidadosEnfermagem": "注意慢性咳嗽、呼吸困难等症状",
+      "fontesBibliograficas": "WHO、FDA、Micromedex、PubChem、INCA"
+    }
+  }
+}

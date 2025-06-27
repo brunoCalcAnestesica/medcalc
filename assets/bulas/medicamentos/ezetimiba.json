@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ezetimiba",
+      "suspension": "Não requer suspensão pré-operatória, salvo em caso de hepatopatia ativa",
+      "risk": "Risco mínimo perioperatório; pode causar elevação de transaminases se combinada com estatinas",
+      "reintroduction": "Pode ser mantida ou reintroduzida normalmente após cirurgia com função hepática estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ezetimiba",
+      "nomeComercial": "Ezetrol, Zetia",
+      "mecanismoAcao": "Inibe seletivamente a absorção intestinal de colesterol no nível da borda em escova do enterócito (NPC1L1)",
+      "farmacocinetica": "Via oral; meia-vida ~22 h; metabolização hepática em glucuronídeos",
+      "farmacodinamica": "Reduz LDL-C, colesterol total e apoB; efeito aditivo com estatinas",
+      "indicacoes": "Hipercolesterolemia primária, hipercolesterolemia familiar, prevenção cardiovascular (em associação)",
+      "reacoesAdversas": "Elevação de transaminases (com estatinas), mialgia, cefaleia, diarreia",
+      "riscoGravidez": "Categoria C – evitar se possível",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "Oral, 1x/dia com ou sem alimentos",
+      "doseMaxima": "10 mg/dia",
+      "doseMinima": "10 mg/dia",
+      "classificacao": "Inibidor da absorção de colesterol",
+      "apresentacao": "Comprimidos de 10 mg",
+      "interacaoMedicamento": "Cautela com ciclosporina, fenofibrato, varfarina; sinergismo com estatinas",
+      "posologia": "10 mg VO 1x/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Pronto para uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hepatopatia ativa, gravidez, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar transaminases, CPK se combinada com estatina",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão, especialmente em associações",
+      "cuidadosEnfermagem": "Observar sinais de mialgia, icterícia, tolerância digestiva",
+      "fontesBibliograficas": "FDA, ANVISA, UpToDate, Micromedex, ESC Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ezetimibe",
+      "suspension": "No need to discontinue before surgery unless active liver disease",
+      "risk": "Low perioperative risk; hepatic enzyme elevation possible with statins",
+      "reintroduction": "Continue post-op if liver function stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ezetimibe",
+      "nomeComercial": "Zetia",
+      "mecanismoAcao": "Selectively inhibits intestinal absorption of cholesterol (via NPC1L1 transporter)",
+      "farmacocinetica": "Oral; t½ ~22 h; metabolized to glucuronide conjugate",
+      "farmacodinamica": "Lowers LDL-C, total cholesterol, apoB; additive to statins",
+      "indicacoes": "Primary hypercholesterolemia, familial hypercholesterolemia, CV risk reduction",
+      "reacoesAdversas": "ALT/AST rise (esp. with statins), myalgia, diarrhea, headache",
+      "riscoGravidez": "Category C – avoid",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral, once daily",
+      "doseMaxima": "10 mg/day",
+      "doseMinima": "10 mg/day",
+      "classificacao": "Cholesterol absorption inhibitor",
+      "apresentacao": "10 mg tablets",
+      "interacaoMedicamento": "Caution with cyclosporine, fibrates, warfarin",
+      "posologia": "10 mg PO daily",
+      "armazenamento": "15–30°C",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active liver disease, pregnancy, hypersensitivity",
+      "cuidadosMedicos": "Monitor LFTs and CPK if with statins",
+      "cuidadosFarmaceuticos": "Reinforce adherence in combo therapies",
+      "cuidadosEnfermagem": "Watch for myalgia, jaundice, GI tolerance",
+      "fontesBibliograficas": "FDA, AHA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ezetimiba",
+      "suspension": "No requiere suspensión preoperatoria salvo hepatopatía activa",
+      "risk": "Bajo riesgo; puede elevar transaminasas si combinada con estatinas",
+      "reintroduction": "Puede continuar si función hepática es estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ezetimiba",
+      "nomeComercial": "Ezetrol",
+      "mecanismoAcao": "Inhibe absorción intestinal de colesterol (NPC1L1)",
+      "farmacocinetica": "VO, t½ ~22 h, metabolismo hepático",
+      "farmacodinamica": "Reduce LDL-C y colesterol total",
+      "indicacoes": "Hipercolesterolemia primaria o familiar, prevención CV",
+      "reacoesAdversas": "Mialgia, elevación de transaminasas, diarrea",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Oral, 1 vez/día",
+      "doseMaxima": "10 mg/día",
+      "doseMinima": "10 mg/día",
+      "classificacao": "Inhibidor absorción colesterol",
+      "apresentacao": "Comprimidos 10 mg",
+      "interacaoMedicamento": "Precaución con ciclosporina, fenofibrato, warfarina",
+      "posologia": "10 mg/día",
+      "armazenamento": "15–30°C",
+      "preparo": "Listo para uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía activa, embarazo",
+      "cuidadosMedicos": "Monitor función hepática si combinada",
+      "cuidadosFarmaceuticos": "Reforzar adherencia",
+      "cuidadosEnfermagem": "Observar mialgia, náuseas, ictericia",
+      "fontesBibliograficas": "EMA, ESC, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "依折麦布（Ezetimibe）",
+      "suspension": "无需术前停药，除非存在活动性肝病",
+      "risk": "风险低；与他汀合用可升高肝酶",
+      "reintroduction": "术后可继续使用，若肝功能稳定"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依折麦布",
+      "nomeComercial": "Zetia",
+      "mecanismoAcao": "选择性抑制小肠胆固醇吸收（NPC1L1）",
+      "farmacocinetica": "口服，t½约22小时，经肝代谢为葡萄糖苷",
+      "farmacodinamica": "降低LDL-C、总胆固醇",
+      "indicacoes": "原发性/家族性高胆固醇血症，CV预防",
+      "reacoesAdversas": "转氨酶升高（合并他汀时），肌痛，头痛",
+      "riscoGravidez": "C类，避免",
+      "riscoLactacao": "不推荐",
+      "administracao": "口服，每日一次",
+      "doseMaxima": "10 mg/天",
+      "doseMinima": "10 mg/天",
+      "classificacao": "胆固醇吸收抑制剂",
+      "apresentacao": "10 mg片剂",
+      "interacaoMedicamento": "与环孢素、贝特类、华法林交互",
+      "posologia": "每日10 mg",
+      "armazenamento": "15–30°C常温保存",
+      "preparo": "无需稀释",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肝炎、妊娠、过敏",
+      "cuidadosMedicos": "合并使用时监测肝功能、CK",
+      "cuidadosFarmaceuticos": "加强依从性教育",
+      "cuidadosEnfermagem": "观察肌肉症状、肝毒反应",
+      "fontesBibliograficas": "FDA、ESC、UpToDate、Micromedex"
+    }
+  }
+}

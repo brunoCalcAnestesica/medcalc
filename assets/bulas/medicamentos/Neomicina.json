@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Neomicina",
+      "suspension": "Evitar uso em campo operatório 48h antes, principalmente em feridas abertas ou com risco de absorção sistêmica",
+      "risk": "Dermatite de contato, ototoxicidade em áreas extensas ou oclusão, resistência bacteriana",
+      "reintroduction": "Pode ser reintroduzida em pequenas áreas após cicatrização inicial"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Neomicina",
+      "nomeComercial": "Nebacetin, Sulfato de Neomicina, Neosporin (com bacitracina e polimixina)",
+      "mecanismoAcao": "Antibiótico aminoglicosídeo que inibe a síntese proteica bacteriana ligando-se à subunidade 30S ribossomal",
+      "farmacocinetica": "Absorção sistêmica mínima em pele íntegra; potencial absorção em queimaduras ou lesões extensas",
+      "farmacodinamica": "Bactericida contra cocos gram-positivos e bacilos gram-negativos (exceto P. aeruginosa)",
+      "indicacoes": "Infecções cutâneas superficiais, feridas contaminadas, prevenção de infecção secundária",
+      "reacoesAdversas": "Alergia, eczema de contato, prurido, ototoxicidade (uso em grandes áreas), nefrotoxicidade (raro)",
+      "riscoGravidez": "Categoria C (uso localizado com cautela)",
+      "riscoLactacao": "Seguro em uso localizado",
+      "administracao": "Tópica (pomada ou creme)",
+      "doseMaxima": "Aplicar até 3x/dia em pequenas áreas",
+      "doseMinima": "1x/dia em lesões leves",
+      "classificacao": "Antibiótico aminoglicosídeo tópico",
+      "apresentacao": "Pomada 0,5%; associação com bacitracina ou outros antibióticos",
+      "interacaoMedicamento": "Evitar uso simultâneo com outros aminoglicosídeos sistêmicos ou ototóxicos",
+      "posologia": "Aplicar fina camada na lesão 1–3x/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C), recipiente fechado",
+      "preparo": "Pronto para uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia à neomicina ou aminoglicosídeos, pele ulcerada extensa, canal auditivo com perfuração",
+      "cuidadosMedicos": "Limitar uso prolongado; evitar mucosas e ouvidos com perfuração",
+      "cuidadosFarmaceuticos": "Educar paciente sobre risco de alergia e uso em áreas pequenas",
+      "cuidadosEnfermagem": "Aplicar com técnica asséptica; observar sinais de dermatite ou falha terapêutica",
+      "fontesBibliograficas": "ANVISA, Medscape, Micromedex, bula Nebacetin"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Neomycin",
+      "suspension": "Avoid on surgical field 48h prior; especially in open wounds",
+      "risk": "Contact dermatitis, ototoxicity if absorbed, antibiotic resistance",
+      "reintroduction": "Can resume on minor wounds after reepithelialization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Neomycin",
+      "nomeComercial": "Neosporin, Bacitracin-Neomycin, Mycitracin",
+      "mecanismoAcao": "Binds to 30S ribosomal subunit inhibiting bacterial protein synthesis",
+      "farmacocinetica": "Minimal systemic absorption unless applied to broken skin",
+      "farmacodinamica": "Broad bactericidal activity (excluding Pseudomonas)",
+      "indicacoes": "Minor skin infections, abrasions, superficial wounds",
+      "reacoesAdversas": "Allergic dermatitis, redness, rash, rare ototoxicity",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Safe if used in small areas",
+      "administracao": "Topical",
+      "doseMaxima": "Up to 3x/day",
+      "doseMinima": "Once daily",
+      "classificacao": "Topical aminoglycoside antibiotic",
+      "apresentacao": "0.5% ointment; in combo with bacitracin/polymyxin B",
+      "interacaoMedicamento": "Avoid with systemic aminoglycosides or ototoxics",
+      "posologia": "Apply thin layer 1–3x/day",
+      "armazenamento": "15–30°C; closed tube",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Allergy, extensive wounds, open tympanic membrane",
+      "cuidadosMedicos": "Monitor for allergy; limit prolonged use",
+      "cuidadosFarmaceuticos": "Avoid overuse to prevent resistance",
+      "cuidadosEnfermagem": "Use sterile technique; watch for rash or failure",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Neomicina",
+      "suspension": "Evitar uso en campo quirúrgico 48h antes si hay heridas abiertas",
+      "risk": "Dermatitis, ototoxicidad, resistencia bacteriana",
+      "reintroduction": "Reanudar tras epitelización"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Neomicina",
+      "nomeComercial": "Neosporin, Nebacetin",
+      "mecanismoAcao": "Antibiótico aminoglucósido que inhibe síntesis proteica bacteriana",
+      "farmacocinetica": "Absorción mínima en piel sana; aumenta en heridas",
+      "farmacodinamica": "Actividad contra bacterias gram+ y gram-",
+      "indicacoes": "Heridas superficiales, infecciones cutáneas leves",
+      "reacoesAdversas": "Irritación, eczema, ototoxicidad (rara)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Seguro si localizado",
+      "administracao": "Tópica",
+      "doseMaxima": "3x/día",
+      "doseMinima": "1x/día",
+      "classificacao": "Antibiótico tópico aminoglucósido",
+      "apresentacao": "Pomada 0,5%, combinaciones",
+      "interacaoMedicamento": "Evitar con aminoglucósidos sistémicos",
+      "posologia": "Aplicar capa fina 1–3x/día",
+      "armazenamento": "15–30°C",
+      "preparo": "Listo para uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia, heridas extensas, tímpano perforado",
+      "cuidadosMedicos": "No usar a largo plazo; evaluar respuesta",
+      "cuidadosFarmaceuticos": "Explicar riesgo de dermatitis alérgica",
+      "cuidadosEnfermagem": "Aplicar asépticamente; vigilar tolerancia local",
+      "fontesBibliograficas": "EMA, Medscape, ficha técnica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "新霉素（外用）",
+      "suspension": "术前48小时避免用于术区或破损皮肤",
+      "risk": "接触性皮炎、耳毒性、大面积使用时系统吸收",
+      "reintroduction": "创口愈合后可局部恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "新霉素",
+      "nomeComercial": "Neosporin、Nebacetin",
+      "mecanismoAcao": "与30S核糖体结合，抑制细菌蛋白合成",
+      "farmacocinetica": "完整皮肤吸收少，破损或大面积可吸收",
+      "farmacodinamica": "抗革兰阳性和阴性菌（不含铜绿假单胞菌）",
+      "indicacoes": "轻度皮肤感染、擦伤、浅表伤口",
+      "reacoesAdversas": "局部红斑、瘙痒、过敏、耳毒性（罕见）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "小范围使用安全",
+      "administracao": "外用",
+      "doseMaxima": "每日3次，限于小面积",
+      "doseMinima": "每日1次",
+      "classificacao": "局部用氨基糖苷类抗生素",
+      "apresentacao": "0.5%软膏，常与其他抗生素合用",
+      "interacaoMedicamento": "避免与系统性耳毒性药联用",
+      "posologia": "每日1–3次薄涂患处",
+      "armazenamento": "15–30°C保存",
+      "preparo": "即用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对新霉素过敏、广泛创面、中耳炎",
+      "cuidadosMedicos": "限制使用范围与时间",
+      "cuidadosFarmaceuticos": "告知患者风险，避免滥用",
+      "cuidadosEnfermagem": "注意局部反应，指导正确用药",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape"
+    }
+  }
+}

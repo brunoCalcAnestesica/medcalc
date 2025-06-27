@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lamivudina",
+      "suspension": "Não é necessário suspender",
+      "risk": "Risco baixo; interrupção pode levar à reativação viral (HIV ou HBV)",
+      "reintroduction": "Manter continuamente; reintrodução conforme protocolo infeccioso"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lamivudina",
+      "nomeComercial": "Epivir, Zeffix, 3TC",
+      "mecanismoAcao": "Inibe a transcriptase reversa do HIV e a polimerase do HBV",
+      "farmacocinetica": "Boa biodisponibilidade oral, excreção renal, meia-vida de 5-7 horas",
+      "farmacodinamica": "Antirretroviral que inibe replicação do HIV e HBV",
+      "indicacoes": "HIV-1, hepatite B crônica",
+      "reacoesAdversas": "Cefaleia, náusea, fadiga, aumento de transaminases, acidose lática rara",
+      "riscoGravidez": "Categoria C (Brasil) / Categoria C (FDA)",
+      "riscoLactacao": "Excretado no leite, uso com cautela",
+      "administracao": "Oral",
+      "doseMaxima": "300 mg/dia (HIV); 100 mg/dia (HBV)",
+      "doseMinima": "100 mg/dia",
+      "classificacao": "Antirretroviral - Análogo de nucleosídeo (NRTI)",
+      "apresentacao": "Comprimidos de 100 mg, 150 mg, 300 mg; solução oral",
+      "interacaoMedicamento": "Interações mínimas; ajustar com zidovudina e trimetoprim",
+      "posologia": "HIV: 150 mg 2x/dia ou 300 mg 1x/dia; HBV: 100 mg 1x/dia",
+      "armazenamento": "Temperatura ambiente (15–30 °C), protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Hipersensibilidade à lamivudina",
+      "cuidadosMedicos": "Avaliar função hepática e renal periodicamente",
+      "cuidadosFarmaceuticos": "Garantir adesão e armazenar corretamente",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hepática e sintomas virais",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, WHO, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lamivudine",
+      "suspension": "No need to suspend",
+      "risk": "Low risk; stopping may lead to viral rebound (HIV or HBV)",
+      "reintroduction": "Continue uninterrupted; follow infectious disease protocol"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lamivudine",
+      "nomeComercial": "Epivir, Zeffix, 3TC",
+      "mecanismoAcao": "Inhibits HIV reverse transcriptase and HBV DNA polymerase",
+      "farmacocinetica": "Good oral bioavailability, renal excretion, half-life 5–7h",
+      "farmacodinamica": "NRTI inhibiting HIV and HBV replication",
+      "indicacoes": "HIV-1 infection, chronic hepatitis B",
+      "reacoesAdversas": "Headache, nausea, fatigue, liver enzymes increase, rare lactic acidosis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk, use with caution",
+      "administracao": "Oral",
+      "doseMaxima": "300 mg/day (HIV); 100 mg/day (HBV)",
+      "doseMinima": "100 mg/day",
+      "classificacao": "Antiretroviral - Nucleoside reverse transcriptase inhibitor (NRTI)",
+      "apresentacao": "Tablets: 100 mg, 150 mg, 300 mg; oral solution",
+      "interacaoMedicamento": "Minimal; caution with zidovudine and trimethoprim",
+      "posologia": "HIV: 150 mg BID or 300 mg QD; HBV: 100 mg QD",
+      "armazenamento": "Store at 15–30 °C, away from light",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity to lamivudine",
+      "cuidadosMedicos": "Monitor liver and renal function",
+      "cuidadosFarmaceuticos": "Ensure adherence and proper storage",
+      "cuidadosEnfermagem": "Watch for hepatic toxicity and viral symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, WHO, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lamivudina",
+      "suspension": "No requiere suspensión",
+      "risk": "Riesgo bajo; suspensión puede causar rebote viral (HIV o HBV)",
+      "reintroduction": "Mantener sin interrupción; seguir protocolo de infectología"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lamivudina",
+      "nomeComercial": "Epivir, Zeffix, 3TC",
+      "mecanismoAcao": "Inhibe la transcriptasa inversa del VIH y la polimerasa del VHB",
+      "farmacocinetica": "Buena biodisponibilidad oral, excreción renal, vida media de 5–7 h",
+      "farmacodinamica": "Inhibidor nucleósido de la transcriptasa inversa (NRTI)",
+      "indicacoes": "Infección por VIH-1, hepatitis B crónica",
+      "reacoesAdversas": "Cefalea, náuseas, fatiga, aumento de enzimas hepáticas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en la leche, usar con precaución",
+      "administracao": "Oral",
+      "doseMaxima": "300 mg/día (VIH); 100 mg/día (VHB)",
+      "doseMinima": "100 mg/día",
+      "classificacao": "Antirretroviral - NRTI",
+      "apresentacao": "Comprimidos: 100 mg, 150 mg, 300 mg; solución oral",
+      "interacaoMedicamento": "Interacciones mínimas; ajustar con zidovudina",
+      "posologia": "VIH: 150 mg cada 12h o 300 mg/día; VHB: 100 mg/día",
+      "armazenamento": "15–30 °C, protegido de la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad a la lamivudina",
+      "cuidadosMedicos": "Control de función hepática y renal",
+      "cuidadosFarmaceuticos": "Asegurar adherencia y condiciones de almacenamiento",
+      "cuidadosEnfermagem": "Vigilar toxicidad hepática y síntomas virales",
+      "fontesBibliograficas": "EMA, Micromedex, OMS, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "拉米夫定",
+      "suspension": "无需停药",
+      "risk": "风险低，停药可能导致病毒反弹（HIV或HBV）",
+      "reintroduction": "应持续使用，依照感染科方案调整"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "拉米夫定",
+      "nomeComercial": "易普韦, 泽菲, 3TC",
+      "mecanismoAcao": "抑制HIV逆转录酶和HBV聚合酶",
+      "farmacocinetica": "口服吸收好，肾排泄，半衰期5-7小时",
+      "farmacodinamica": "核苷类逆转录酶抑制剂（NRTI），抑制HIV和HBV复制",
+      "indicacoes": "HIV-1感染，慢性乙型肝炎",
+      "reacoesAdversas": "头痛、恶心、疲劳、肝酶升高、罕见乳酸中毒",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌至乳汁中，慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日300毫克（HIV）；每日100毫克（HBV）",
+      "doseMinima": "每日100毫克",
+      "classificacao": "抗逆转录病毒药物 - NRTI",
+      "apresentacao": "片剂：100/150/300mg，口服液",
+      "interacaoMedicamento": "与齐多夫定、甲氧苄氨嘧啶需注意",
+      "posologia": "HIV: 每日1次300mg或每12小时150mg；HBV: 每日100mg",
+      "armazenamento": "15–30°C，避光",
+      "preparo": "无需准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对拉米夫定过敏",
+      "cuidadosMedicos": "监测肝功能和肾功能",
+      "cuidadosFarmaceuticos": "确保依从性，妥善保存",
+      "cuidadosEnfermagem": "监测肝毒性迹象和病毒活动",
+      "fontesBibliograficas": "中国药典，FDA，EMA，Micromedex，世卫组织"
+    }
+  }
+}

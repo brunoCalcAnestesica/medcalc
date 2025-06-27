@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Mesalazina",
+      "suspension": "Manter até o dia da cirurgia, exceto em casos de obstrução intestinal ou intolerância digestiva pré-operatória",
+      "risk": "Risco de náuseas, diarreia e distensão abdominal no perioperatório; possível nefrotoxicidade em uso prolongado",
+      "reintroduction": "Reintroduzir após restabelecimento da via oral e função renal, especialmente em doenças inflamatórias intestinais ativas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mesalazina (ácido 5-aminossalicílico)",
+      "nomeComercial": "Asacol, Pentasa, Mesacol, Mezavant",
+      "mecanismoAcao": "Inibe a produção de prostaglandinas e leucotrienos na mucosa intestinal, reduzindo inflamação local",
+      "farmacocinetica": "Absorção variável conforme formulação (liberação entérica ou prolongada), metabolização hepática e intestinal, excreção renal e fecal",
+      "farmacodinamica": "Anti-inflamatório intestinal de ação tópica, eficaz em mucosa colônica inflamada",
+      "indicacoes": "Retocolite ulcerativa, Doença de Crohn leve a moderada, proctite",
+      "reacoesAdversas": "Cefaleia, náusea, cólicas, rash cutâneo, nefrotoxicidade (intersticial), pancreatite (raro)",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Pode ser utilizado com cautela; pequenas quantidades excretadas no leite",
+      "administracao": "Via oral ou retal (supositórios, enemas)",
+      "doseMaxima": "4,8g/dia (oral); 1g/dia (retal)",
+      "doseMinima": "800mg/dia",
+      "classificacao": "Anti-inflamatório intestinal não esteroidal (5-ASA)",
+      "apresentacao": "Comprimidos de liberação entérica, granulados, supositórios e enemas",
+      "interacaoMedicamento": "Potencializa nefrotoxicidade com AINEs; pode interagir com anticoagulantes e imunossupressores",
+      "posologia": "Adultos: 1,6g a 4,8g/dia em doses divididas",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Formas orais devem ser ingeridas inteiras; supositórios e enemas requerem técnica asséptica",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia a salicilatos, obstrução intestinal, disfunção renal grave",
+      "cuidadosMedicos": "Monitorar função renal (ureia, creatinina) antes e durante uso",
+      "cuidadosFarmaceuticos": "Orientar paciente sobre ingestão adequada de líquidos e adesão",
+      "cuidadosEnfermagem": "Observar sinais de intolerância digestiva ou colite agravada",
+      "fontesBibliograficas": "SBAD, ANVISA, FDA, EMA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mesalamine",
+      "suspension": "Continue until the day of surgery unless there is bowel obstruction or intolerance",
+      "risk": "Perioperative nausea, diarrhea, or cramping; long-term use may cause renal toxicity",
+      "reintroduction": "Restart after resumption of oral intake and renal function reassessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mesalamine",
+      "nomeComercial": "Asacol HD, Lialda, Pentasa, Apriso, Canasa (rectal)",
+      "mecanismoAcao": "Inhibits cyclooxygenase and lipoxygenase pathways, reducing inflammatory mediators in intestinal mucosa",
+      "farmacocinetica": "Varies with formulation; oral delayed-release and extended-release; excreted renally and fecally",
+      "farmacodinamica": "Topical anti-inflammatory effect on colon mucosa in IBD",
+      "indicacoes": "Ulcerative colitis (induction and maintenance), mild Crohn’s disease",
+      "reacoesAdversas": "Headache, nausea, abdominal pain, flatulence, renal toxicity (rare), pancreatitis (rare)",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe in breastfeeding with monitoring",
+      "administracao": "Oral or rectal (suppositories, enemas)",
+      "doseMaxima": "4.8g/day orally; 1g/day rectally",
+      "doseMinima": "800mg/day",
+      "classificacao": "5-aminosalicylic acid derivative (5-ASA)",
+      "apresentacao": "Delayed-release tablets, granules, suppositories, enemas",
+      "interacaoMedicamento": "Caution with nephrotoxic drugs (NSAIDs); possible interaction with thiopurines and anticoagulants",
+      "posologia": "1.6–4.8g/day in divided doses",
+      "armazenamento": "Room temperature; protect from moisture",
+      "preparo": "Do not crush or chew tablets; rectal forms require proper technique",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Salicylate hypersensitivity, severe renal impairment, bowel obstruction",
+      "cuidadosMedicos": "Check renal function before and during treatment",
+      "cuidadosFarmaceuticos": "Ensure hydration and correct use of dosage form",
+      "cuidadosEnfermagem": "Monitor bowel symptoms and signs of intolerance",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Mesalazina",
+      "suspension": "Mantener hasta el día de la cirugía, excepto en obstrucción intestinal o intolerancia digestiva",
+      "risk": "Riesgo de molestias abdominales en el perioperatorio; toxicidad renal en uso prolongado",
+      "reintroduction": "Reanudar tras recuperación de vía oral y función renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mesalazina",
+      "nomeComercial": "Claversal, Salofalk, Pentasa, Mezavant",
+      "mecanismoAcao": "Reduce síntesis de prostaglandinas y leucotrienos en mucosa intestinal",
+      "farmacocinetica": "Absorción variable; metabolismo hepático e intestinal; eliminación renal y fecal",
+      "farmacodinamica": "Efecto antiinflamatorio local en intestino",
+      "indicacoes": "Colitis ulcerosa, enfermedad de Crohn leve, proctitis",
+      "reacoesAdversas": "Cefalea, náuseas, dolor cólico, rash, nefritis intersticial (rara)",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Uso aceptable con precaución",
+      "administracao": "Oral o rectal",
+      "doseMaxima": "4,8g/día oral; 1g/día rectal",
+      "doseMinima": "800mg/día",
+      "classificacao": "Antiinflamatorio intestinal no esteroideo",
+      "apresentacao": "Tabletas, gránulos, supositorios, enemas",
+      "interacaoMedicamento": "Potencia toxicidad renal con AINEs; interacción con anticoagulantes",
+      "posologia": "1,6 a 4,8g diarios en dosis divididas",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "No triturar; administración rectal requiere técnica adecuada",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a salicilatos, insuficiencia renal severa, obstrucción",
+      "cuidadosMedicos": "Controlar función renal periódicamente",
+      "cuidadosFarmaceuticos": "Instruir sobre forma de administración y adherencia",
+      "cuidadosEnfermagem": "Monitorear síntomas intestinales y tolerancia",
+      "fontesBibliograficas": "EMA, Micromedex, literatura clínica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "美沙拉嗪",
+      "suspension": "除非肠梗阻或严重不耐受，否则可继续使用至手术当日",
+      "risk": "围手术期可能引起腹泻、腹胀或恶心；长期使用需注意肾毒性",
+      "reintroduction": "术后肠功能恢复并评估肾功能后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "美沙拉嗪",
+      "nomeComercial": "Pentasa、Salofalk、美克清",
+      "mecanismoAcao": "抑制肠黏膜中前列腺素和白三烯生成，减少炎症",
+      "farmacocinetica": "不同剂型吸收差异大；肝肠代谢；粪便和尿液排泄",
+      "farmacodinamica": "局部抗炎作用，用于溃疡性结肠炎和克罗恩病",
+      "indicacoes": "溃疡性结肠炎、轻中度克罗恩病、直肠炎",
+      "reacoesAdversas": "头痛、恶心、腹痛、皮疹、间质性肾炎",
+      "riscoGravidez": "B类 – 可在医生指导下使用",
+      "riscoLactacao": "少量排入乳汁，需权衡利弊",
+      "administracao": "口服或直肠给药",
+      "doseMaxima": "每日4.8克口服；直肠剂1克",
+      "doseMinima": "每日800毫克",
+      "classificacao": "5-氨基水杨酸（5-ASA）类抗炎药",
+      "apresentacao": "缓释片、颗粒、栓剂、灌肠剂",
+      "interacaoMedicamento": "与NSAIDs合用肾毒性增加；注意与抗凝药物联用",
+      "posologia": "每日1.6–4.8g，分次服用",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "口服剂需整片吞服；直肠制剂需正确操作",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "水杨酸类过敏、严重肾功能不全、肠梗阻",
+      "cuidadosMedicos": "治疗前后监测肾功能",
+      "cuidadosFarmaceuticos": "指导患者按疗程足量服用，注意水分摄入",
+      "cuidadosEnfermagem": "记录排便情况和不良反应",
+      "fontesBibliograficas": "中国药典、Micromedex、EMA、FDA"
+    }
+  }
+}

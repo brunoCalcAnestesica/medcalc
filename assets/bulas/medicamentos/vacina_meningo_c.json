@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina meningocócica C",
+      "suspension": "Não aplicável – aplicar conforme calendário vacinal; postergar se febre alta ou infecção aguda grave",
+      "risk": "Reações locais, febre, irritabilidade, reações alérgicas (raras); sem risco de meningite pela vacina",
+      "reintroduction": "Retomar conforme calendário de vacinação de rotina após resolução de impedimentos temporários"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Polissacarídeo capsular do meningococo C conjugado à proteína carreadora",
+      "nomeComercial": "NeisVac-C, Menjugate, Meningite C (Fiocruz/Butantan)",
+      "mecanismoAcao": "Estimula resposta imune contra Neisseria meningitidis do sorogrupo C, promovendo produção de anticorpos bactericidas",
+      "farmacocinetica": "Início da resposta em 10–14 dias; resposta imunológica de memória após reforço",
+      "farmacodinamica": "Previne doença meningocócica invasiva (meningite e sepse por N. meningitidis C)",
+      "indicacoes": "Imunização de rotina de crianças a partir de 3 meses; reforço em adolescentes e adultos de risco",
+      "reacoesAdversas": "Dor local, febre, irritabilidade, sonolência, perda de apetite, dor de cabeça",
+      "riscoGravidez": "Categoria B – uso permitido em situações de risco epidemiológico",
+      "riscoLactacao": "Seguro",
+      "administracao": "Intramuscular (preferencialmente músculo vasto lateral ou deltoide)",
+      "doseMaxima": "Duas doses + reforço (esquema infantil); dose única para adolescentes/adultos",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacina conjugada bacteriana",
+      "apresentacao": "0,5 mL em seringa preenchida ou frasco-ampola monodose",
+      "interacaoMedicamento": "Pode ser administrada com outras vacinas inativadas; usar locais distintos",
+      "posologia": "Esquema PNI: 2 doses (3 e 5 meses) + reforço (12 meses)",
+      "armazenamento": "Entre 2–8°C; não congelar",
+      "preparo": "Agitar antes do uso; não requer diluição",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Reação anafilática prévia a dose anterior ou componente da vacina",
+      "cuidadosMedicos": "Adiar se febre alta ou infecção grave; verificar histórico vacinal",
+      "cuidadosFarmaceuticos": "Manter cadeia de frio e validade",
+      "cuidadosEnfermagem": "Aplicar IM corretamente; observar por 15–30 minutos após vacinação",
+      "fontesBibliograficas": "SBIm, PNI/MS, ANVISA, Micromedex, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Meningococcal conjugate vaccine C",
+      "suspension": "Not applicable – delay only in case of severe illness or fever",
+      "risk": "Injection site reactions, fever, irritability, rare allergy; no meningitis risk from vaccine",
+      "reintroduction": "Resume per schedule once temporary contraindications resolve"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Meningococcal group C polysaccharide conjugated to protein carrier",
+      "nomeComercial": "Menjugate, NeisVac-C",
+      "mecanismoAcao": "Induces immune response against Neisseria meningitidis serogroup C",
+      "farmacocinetica": "Immune response in 10–14 days",
+      "farmacodinamica": "Prevents meningococcal disease (meningitis/sepsis) caused by group C",
+      "indicacoes": "Routine immunization in children and high-risk groups",
+      "reacoesAdversas": "Pain, redness, fever, irritability, headache, fatigue",
+      "riscoGravidez": "Category B – may be used if indicated",
+      "riscoLactacao": "Safe",
+      "administracao": "Intramuscular",
+      "doseMaxima": "Up to 3 doses in infancy; 1 dose in adolescents",
+      "doseMinima": "0.5 mL",
+      "classificacao": "Conjugate bacterial vaccine",
+      "apresentacao": "0.5 mL prefilled syringe or vial",
+      "interacaoMedicamento": "Can be co-administered with other inactivated vaccines",
+      "posologia": "2–3 doses + booster depending on age",
+      "armazenamento": "2–8°C; do not freeze",
+      "preparo": "Shake before use; do not dilute",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "History of severe allergic reaction",
+      "cuidadosMedicos": "Postpone if febrile illness",
+      "cuidadosFarmaceuticos": "Maintain cold chain and expiration check",
+      "cuidadosEnfermagem": "Correct IM technique; observe 15 minutes post-injection",
+      "fontesBibliograficas": "CDC, FDA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna meningocócica C conjugada",
+      "suspension": "No aplicable – posponer solo con fiebre o infección aguda",
+      "risk": "Reacciones locales, fiebre, irritabilidad, anafilaxia rara",
+      "reintroduction": "Retomar esquema una vez resuelto el impedimento temporal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Polisacárido C conjugado del meningococo",
+      "nomeComercial": "Menjugate, NeisVac-C",
+      "mecanismoAcao": "Induce anticuerpos frente a Neisseria meningitidis C",
+      "farmacocinetica": "Inmunidad a partir de 2 semanas",
+      "farmacodinamica": "Previene meningitis y sepsis meningocócica C",
+      "indicacoes": "Inmunización infantil y grupos de riesgo",
+      "reacoesAdversas": "Dolor local, fiebre, llanto, somnolencia",
+      "riscoGravidez": "Categoría B – si es necesario",
+      "riscoLactacao": "Compatible",
+      "administracao": "Intramuscular",
+      "doseMaxima": "3 dosis infantiles; 1 dosis en adolescentes",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacuna bacteriana conjugada",
+      "apresentacao": "0,5 mL jeringa precargada",
+      "interacaoMedicamento": "Compatible con otras vacunas",
+      "posologia": "2–3 dosis según edad + refuerzo",
+      "armazenamento": "2–8°C, no congelar",
+      "preparo": "Agitar antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Anafilaxia previa",
+      "cuidadosMedicos": "Valorar estado vacunal",
+      "cuidadosFarmaceuticos": "Verificar cadena de frío",
+      "cuidadosEnfermagem": "Técnica IM, vigilancia 15–30 min",
+      "fontesBibliograficas": "AEP, EMA, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "脑膜炎球菌C结合疫苗",
+      "suspension": "仅发热或手术前建议延期接种",
+      "risk": "注射部位红肿、发热、嗜睡、过敏反应（罕见）",
+      "reintroduction": "急性症状缓解后按计划继续接种"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "脑膜炎球菌C多糖蛋白结合疫苗",
+      "nomeComercial": "Menjugate、NeisVac-C",
+      "mecanismoAcao": "刺激对C群脑膜炎球菌的免疫反应",
+      "farmacocinetica": "2周起效，形成记忆免疫",
+      "farmacodinamica": "预防C群脑膜炎和菌血症",
+      "indicacoes": "婴幼儿、儿童、高风险人群",
+      "reacoesAdversas": "局部红肿、发热、烦躁、罕见过敏",
+      "riscoGravidez": "B类 – 必要时使用",
+      "riscoLactacao": "可用",
+      "administracao": "肌肉注射（上臂/大腿外侧）",
+      "doseMaxima": "3剂（儿童）",
+      "doseMinima": "0.5 mL",
+      "classificacao": "细菌结合疫苗",
+      "apresentacao": "0.5 mL预充针或瓶装",
+      "interacaoMedicamento": "可与其他灭活疫苗联合接种",
+      "posologia": "2–3剂+加强剂",
+      "armazenamento": "2–8°C冷藏",
+      "preparo": "摇匀，不稀释",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重过敏史",
+      "cuidadosMedicos": "排除急性感染/发热",
+      "cuidadosFarmaceuticos": "冷链、批号记录",
+      "cuidadosEnfermagem": "正确肌注、接种后观察",
+      "fontesBibliograficas": "中国疫苗手册、Micromedex、EMA"
+    }
+  }
+}

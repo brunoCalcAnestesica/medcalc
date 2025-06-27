@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Imipenem",
+      "suspension": "Manter até o dia da cirurgia se em uso terapêutico; ajustar se alteração de função renal",
+      "risk": "Interações com anestésicos; risco de convulsões, especialmente em pacientes com doença renal ou SNC",
+      "reintroduction": "Reintroduzir após a estabilização clínica e função renal adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imipenem + Cilastatina",
+      "nomeComercial": "Tienam, Primaxin",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana; cilastatina inibe a degradação renal do imipenem",
+      "farmacocinetica": "Administração IV; meia-vida 1h; eliminação renal; cilastatina aumenta sua biodisponibilidade",
+      "farmacodinamica": "Bactericida de amplo espectro contra Gram-positivos, Gram-negativos e anaeróbios",
+      "indicacoes": "Infecções graves: sepse, infecções respiratórias, urinárias, abdominais, ósseas, de pele",
+      "reacoesAdversas": "Náusea, diarreia, elevação de transaminases, convulsões, flebite",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite em pequenas quantidades; uso com cautela",
+      "administracao": "Via intravenosa",
+      "doseMaxima": "4g/dia",
+      "doseMinima": "250mg 6/6h",
+      "classificacao": "Antibiótico carbapenêmico",
+      "apresentacao": "Frascos-ampola de 250mg, 500mg",
+      "interacaoMedicamento": "Potencializa toxicidade com ganciclovir e ácido valpróico; cuidado com ciclosporina",
+      "posologia": "500mg a 1g IV a cada 6–8h, ajustar em disfunção renal",
+      "armazenamento": "Pó liofilizado: temperatura ambiente; solução reconstituída: refrigerada até 24h",
+      "preparo": "Reconstituir com água estéril e diluir em SF 0,9% ou SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade a carbapenêmicos ou betalactâmicos",
+      "cuidadosMedicos": "Monitorar função renal, hepática e sinais neurológicos",
+      "cuidadosFarmaceuticos": "Verificar estabilidade, reconstituição correta e compatibilidade",
+      "cuidadosEnfermagem": "Observar efeitos adversos e infundir lentamente (20–30min)",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Imipenem",
+      "suspension": "Continue until surgery day if under treatment; adjust for renal impairment",
+      "risk": "Interaction with anesthetics; risk of seizures especially in CNS or renal dysfunction",
+      "reintroduction": "Restart once clinical and renal status are stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imipenem + Cilastatin",
+      "nomeComercial": "Primaxin",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis; cilastatin prevents renal degradation of imipenem",
+      "farmacocinetica": "IV use; half-life ~1h; renal excretion; cilastatin prolongs availability",
+      "farmacodinamica": "Broad-spectrum bactericidal activity against Gram-positive, Gram-negative, anaerobes",
+      "indicacoes": "Severe infections: sepsis, respiratory, urinary, intra-abdominal, bone, skin infections",
+      "reacoesAdversas": "Nausea, diarrhea, elevated liver enzymes, seizures, phlebitis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Present in milk; caution advised",
+      "administracao": "Intravenous",
+      "doseMaxima": "4g/day",
+      "doseMinima": "250mg q6h",
+      "classificacao": "Carbapenem antibiotic",
+      "apresentacao": "Vials 250mg, 500mg",
+      "interacaoMedicamento": "Increased neurotoxicity with ganciclovir, valproic acid; caution with cyclosporine",
+      "posologia": "500mg to 1g IV q6–8h; adjust in renal dysfunction",
+      "armazenamento": "Powder: room temperature; solution: refrigerate, use within 24h",
+      "preparo": "Reconstitute with sterile water; dilute in NS or D5W",
+      "solucoesCompatíveis": "Normal saline, D5W",
+      "contraindicacoes": "Allergy to carbapenems or beta-lactams",
+      "cuidadosMedicos": "Monitor renal, hepatic, and neurological status",
+      "cuidadosFarmaceuticos": "Ensure correct reconstitution and solution stability",
+      "cuidadosEnfermagem": "Administer over 20–30min, monitor for adverse effects",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Imipenem",
+      "suspension": "Mantener hasta el día de la cirugía si en tratamiento; ajustar si hay insuficiencia renal",
+      "risk": "Interacción con anestésicos; riesgo de convulsiones en pacientes con disfunción renal o SNC",
+      "reintroduction": "Reintroducir tras estabilización clínica y función renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imipenem + Cilastatina",
+      "nomeComercial": "Tienam",
+      "mecanismoAcao": "Inhibe síntesis de la pared celular bacteriana; cilastatina evita su degradación renal",
+      "farmacocinetica": "IV; vida media 1h; excreción renal; cilastatina aumenta disponibilidad",
+      "farmacodinamica": "Bactericida amplio espectro contra Gram+, Gram– y anaerobios",
+      "indicacoes": "Infecciones graves: sepsis, respiratorias, urinarias, abdominales, óseas, piel",
+      "reacoesAdversas": "Náuseas, diarrea, transaminasas elevadas, convulsiones, flebitis",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche; usar con precaución",
+      "administracao": "Intravenosa",
+      "doseMaxima": "4g/día",
+      "doseMinima": "250mg cada 6h",
+      "classificacao": "Antibiótico carbapenémico",
+      "apresentacao": "Frascos de 250mg, 500mg",
+      "interacaoMedicamento": "Mayor toxicidad con ganciclovir, valproato; precaución con ciclosporina",
+      "posologia": "500mg–1g cada 6–8h; ajustar en falla renal",
+      "armazenamento": "Polvo: temperatura ambiente; solución: refrigerar y usar en 24h",
+      "preparo": "Reconstituir con agua estéril, diluir en SSF o SG5%",
+      "solucoesCompatíveis": "SSF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a carbapenémicos o betalactámicos",
+      "cuidadosMedicos": "Monitorear función renal, hepática y neurológica",
+      "cuidadosFarmaceuticos": "Verificar estabilidad y técnica de reconstitución",
+      "cuidadosEnfermagem": "Administrar en 20–30min; vigilar efectos adversos",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "亚胺培南",
+      "suspension": "治疗中术前继续使用；如肾功能异常应调整剂量",
+      "risk": "与麻醉药相互作用；肾病或神经系统疾病患者易发生癫痫",
+      "reintroduction": "术后病情及肾功能稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "亚胺培南 + 西司他丁",
+      "nomeComercial": "Tienam",
+      "mecanismoAcao": "抑制细菌细胞壁合成；西司他丁防止肾脏降解",
+      "farmacocinetica": "静脉给药；半衰期约1小时；经肾排泄",
+      "farmacodinamica": "广谱杀菌，对革兰阳性、阴性菌及厌氧菌有效",
+      "indicacoes": "重症感染：败血症、呼吸道、泌尿道、腹腔、骨骼、皮肤感染",
+      "reacoesAdversas": "恶心、腹泻、转氨酶升高、癫痫、静脉炎",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，慎用",
+      "administracao": "静脉注射",
+      "doseMaxima": "每日4克",
+      "doseMinima": "每6小时250毫克",
+      "classificacao": "碳青霉烯类抗生素",
+      "apresentacao": "粉针：250mg、500mg",
+      "interacaoMedicamento": "与更昔洛韦、丙戊酸同用增加神经毒性；与环孢素需谨慎",
+      "posologia": "500mg–1g 每6–8小时一次，根据肾功能调整",
+      "armazenamento": "粉剂常温保存；配制液冷藏，24小时内用完",
+      "preparo": "用注射用水重构，再稀释于生理盐水或葡萄糖注射液",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "对碳青霉烯或β内酰胺类过敏",
+      "cuidadosMedicos": "监测肾功能、肝功能及神经症状",
+      "cuidadosFarmaceuticos": "注意配伍稳定性与稀释方法",
+      "cuidadosEnfermagem": "缓慢静滴（20–30分钟），观察不良反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

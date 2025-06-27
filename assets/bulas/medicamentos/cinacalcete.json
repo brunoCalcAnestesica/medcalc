@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cinacalcete",
+      "suspension": "Suspender 3 dias antes de cirurgias eletivas se houver risco de hipocalcemia ou QT prolongado",
+      "risk": "Risco de hipocalcemia, prolongamento do intervalo QT, náuseas graves e interações com anestésicos",
+      "reintroduction": "Reintroduzir após estabilização eletrolítica, ECG e retorno da função oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cinacalcete",
+      "nomeComercial": "Mimpara, Sensipar",
+      "mecanismoAcao": "Agonista alostérico do receptor sensível ao cálcio (CaSR) nas paratireoides, reduzindo a secreção de PTH",
+      "farmacocinetica": "Alta biodisponibilidade oral, metabolismo hepático via CYP3A4, CYP2D6, excreção fecal, meia-vida de ~30–40 h",
+      "farmacodinamica": "Diminui rapidamente os níveis séricos de PTH, cálcio e fosfato em pacientes com hiperparatireoidismo",
+      "indicacoes": "Hiperparatireoidismo secundário em DRC em diálise, carcinoma de paratireoide, HPT primário não cirúrgico",
+      "reacoesAdversas": "Hipocalcemia, náusea, vômito, mialgia, tontura, anorexia, fraqueza, prolongamento de QT",
+      "riscoGravidez": "Categoria C – usar apenas se necessário",
+      "riscoLactacao": "Desconhece-se se é excretado no leite; evitar uso durante lactação",
+      "administracao": "Via oral, preferencialmente com alimentos",
+      "doseMaxima": "180 mg/dia",
+      "doseMinima": "30 mg/dia",
+      "classificacao": "Calcimimético – regulador da função paratireoide",
+      "apresentacao": "Comprimidos de 30 mg, 60 mg e 90 mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores do CYP3A4 (cetoconazol, rifampicina), varfarina, inibidores de QT",
+      "posologia": "Iniciar com 30 mg 1x/dia, ajustar conforme PTH e cálcio sérico",
+      "armazenamento": "Temperatura ambiente (15–30 °C), protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipocalcemia grave, hipersensibilidade ao cinacalcete",
+      "cuidadosMedicos": "Monitorar cálcio sérico, ECG, PTH e sinais de toxicidade neuromuscular",
+      "cuidadosFarmaceuticos": "Orientar sobre sintomas de hipocalcemia e necessidade de adesão",
+      "cuidadosEnfermagem": "Observar sintomas de parestesia, espasmos, alteração de ritmo cardíaco",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate, PubMed"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cinacalcet",
+      "suspension": "Hold 3 days prior to elective surgery if hypocalcemia or QT prolongation is a concern",
+      "risk": "Risk of hypocalcemia, QT prolongation, severe nausea, and anesthetic interaction",
+      "reintroduction": "Restart once calcium and ECG are stabilized and oral intake is resumed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cinacalcet",
+      "nomeComercial": "Sensipar",
+      "mecanismoAcao": "Allosteric modulator of the calcium-sensing receptor (CaSR), reduces PTH secretion",
+      "farmacocinetica": "High oral bioavailability, CYP3A4/CYP2D6 metabolism, fecal excretion, half-life ~30–40 h",
+      "farmacodinamica": "Rapidly lowers serum PTH, calcium, and phosphate in secondary HPT",
+      "indicacoes": "Secondary hyperparathyroidism in dialysis patients, parathyroid carcinoma, inoperable primary HPT",
+      "reacoesAdversas": "Hypocalcemia, nausea, vomiting, myalgia, dizziness, anorexia, QT prolongation",
+      "riscoGravidez": "Category C – use only if clearly needed",
+      "riscoLactacao": "Unknown if excreted in milk; breastfeeding not recommended",
+      "administracao": "Oral route, preferably with food",
+      "doseMaxima": "180 mg/day",
+      "doseMinima": "30 mg/day",
+      "classificacao": "Calcimimetic – parathyroid function regulator",
+      "apresentacao": "Tablets: 30 mg, 60 mg, 90 mg",
+      "interacaoMedicamento": "Interacts with CYP3A4 modulators, warfarin, QT-prolonging drugs",
+      "posologia": "Start at 30 mg daily, titrate based on PTH and calcium levels",
+      "armazenamento": "Store at 15–30 °C, protect from moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe hypocalcemia, hypersensitivity to cinacalcet",
+      "cuidadosMedicos": "Monitor serum calcium, ECG, PTH, neuromuscular signs",
+      "cuidadosFarmaceuticos": "Counsel on adherence, monitor for hypocalcemia",
+      "cuidadosEnfermagem": "Observe for paresthesia, spasms, arrhythmias",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cinacalcet",
+      "suspension": "Suspender 3 días antes de cirugía si hay riesgo de hipocalcemia o QT prolongado",
+      "risk": "Riesgo de hipocalcemia, prolongación de QT, náuseas severas, interacción anestésica",
+      "reintroduction": "Reintroducir tras estabilizar calcio y ECG, y reiniciar alimentación oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cinacalcet",
+      "nomeComercial": "Mimpara, Sensipar",
+      "mecanismoAcao": "Modulador alostérico del receptor sensible al calcio (CaSR), reduce PTH",
+      "farmacocinetica": "Alta biodisponibilidad, metabolizado por CYP3A4/CYP2D6, excreción fecal, t½ 30–40 h",
+      "farmacodinamica": "Disminuye PTH, calcio y fosfato séricos rápidamente",
+      "indicacoes": "Hiperparatiroidismo secundario en diálisis, carcinoma paratiroideo, HPT primario no quirúrgico",
+      "reacoesAdversas": "Hipocalcemia, náusea, vómito, mialgia, mareo, anorexia, QT largo",
+      "riscoGravidez": "Categoría C – usar sólo si es necesario",
+      "riscoLactacao": "Se desconoce excreción; evitar lactancia",
+      "administracao": "Vía oral, preferentemente con alimentos",
+      "doseMaxima": "180 mg/día",
+      "doseMinima": "30 mg/día",
+      "classificacao": "Calcimimético – regulador paratiroideo",
+      "apresentacao": "Comprimidos: 30, 60, 90 mg",
+      "interacaoMedicamento": "Interacción con CYP3A4, warfarina, fármacos que prolongan QT",
+      "posologia": "Iniciar con 30 mg/día, ajustar según PTH y calcio",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipocalcemia severa, alergia a cinacalcet",
+      "cuidadosMedicos": "Monitorear calcio, ECG, PTH, toxicidad neuromuscular",
+      "cuidadosFarmaceuticos": "Explicar síntomas de hipocalcemia, reforzar adherencia",
+      "cuidadosEnfermagem": "Observar parestesias, espasmos, arritmias",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "西那卡塞",
+      "suspension": "术前3天停药，特别是存在低钙血症或QT延长风险时",
+      "risk": "可引发低钙血症、QT延长、严重恶心、麻醉相互作用",
+      "reintroduction": "待钙水平、心电图稳定并恢复进食后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "西那卡塞",
+      "nomeComercial": "Sensipar, Mimpara",
+      "mecanismoAcao": "钙感受器(CaSR)变构激动剂，抑制PTH分泌",
+      "farmacocinetica": "口服吸收好，CYP3A4/2D6代谢，粪便排泄，半衰期30–40小时",
+      "farmacodinamica": "快速降低PTH、血钙和磷水平",
+      "indicacoes": "透析相关继发性甲状旁腺功能亢进、甲状旁腺癌、手术禁忌的原发性甲旁亢",
+      "reacoesAdversas": "低钙血症、恶心、呕吐、肌痛、头晕、食欲减退、QT延长",
+      "riscoGravidez": "C类 – 仅在明确必要时使用",
+      "riscoLactacao": "是否泌乳未知，建议哺乳期停药",
+      "administracao": "口服，建议随餐服用",
+      "doseMaxima": "每日180毫克",
+      "doseMinima": "每日30毫克",
+      "classificacao": "钙调节药 – 钙敏感受体激动剂",
+      "apresentacao": "30/60/90毫克片剂",
+      "interacaoMedicamento": "与CYP3A4调节剂、华法林、延长QT药物有相互作用",
+      "posologia": "起始30毫克每日一次，按PTH与钙水平调整",
+      "armazenamento": "常温保存，避湿",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重低钙血症、对本品过敏",
+      "cuidadosMedicos": "监测血钙、心电图、PTH、神经肌肉症状",
+      "cuidadosFarmaceuticos": "解释低钙症状、加强依从性",
+      "cuidadosEnfermagem": "注意麻木、抽搐、心律失常等体征",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

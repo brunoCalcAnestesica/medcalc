@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fosaprepitanto",
+      "suspension": "Não necessita suspensão pré-operatória; pode ser utilizado no pré-operatório para prevenção de náuseas",
+      "risk": "Reações infusionais, dor local, interações com corticosteroides e quimioterápicos metabolizados por CYP3A4",
+      "reintroduction": "Pode ser administrado conforme protocolo antiemético se necessário"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosaprepitanto dimeglumina",
+      "nomeComercial": "Emend IV",
+      "mecanismoAcao": "Antagonista do receptor NK1 da substância P; bloqueia estímulo emese induzida por quimioterapia",
+      "farmacocinetica": "Conversão rápida a aprepitanto; meia-vida ~9–13 h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Previne náuseas e vômitos agudos e tardios mediados por substância P",
+      "indicacoes": "Prevenção de náuseas e vômitos induzidos por quimioterapia (moderada/alta emetogenicidade)",
+      "reacoesAdversas": "Dor/eritema no local da infusão, fadiga, cefaleia, constipação, anafilaxia (raro)",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Evitar uso; dados limitados",
+      "administracao": "Infusão IV lenta (20–30 minutos)",
+      "doseMaxima": "150 mg como dose única (dia 1 de quimioterapia)",
+      "doseMinima": "115 mg (ajustada por protocolo)",
+      "classificacao": "Antiemético (antagonista NK1)",
+      "apresentacao": "Frasco-ampola 150 mg pó liofilizado + diluente",
+      "interacaoMedicamento": "Interage com dexametasona (ajustar dose), inibidores/indutores de CYP3A4, contraceptivos hormonais",
+      "posologia": "150 mg IV no dia 1 (30 min antes da quimio), combinado com dexametasona e antagonista 5-HT3",
+      "armazenamento": "Pó: 2–8°C; reconstituído: usar em até 24h refrigerado ou 3h em temperatura ambiente",
+      "preparo": "Reconstituir com 5 mL de água estéril, diluir em 145 mL SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9% (soro fisiológico)",
+      "contraindicacoes": "Hipersensibilidade ao aprepitanto/fosaprepitanto",
+      "cuidadosMedicos": "Monitorar reações infusionais e interações com quimioterápicos",
+      "cuidadosFarmaceuticos": "Garantir técnica asséptica na reconstituição; evitar bolus",
+      "cuidadosEnfermagem": "Observar local de infusão, sintomas alérgicos, efeitos adversos gastrointestinais",
+      "fontesBibliograficas": "FDA, ANVISA, UpToDate, Micromedex, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fosaprepitant",
+      "suspension": "No need to suspend; may be used preoperatively for PONV prophylaxis",
+      "risk": "Infusion site reactions, drug interactions via CYP3A4, possible anaphylaxis",
+      "reintroduction": "Resume per CINV protocol if needed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosaprepitant dimeglumine",
+      "nomeComercial": "Emend IV",
+      "mecanismoAcao": "Prodrug of aprepitant; NK1 receptor antagonist blocking substance P–mediated emesis",
+      "farmacocinetica": "IV conversion to aprepitant; t½ 9–13 h; CYP3A4 metabolism",
+      "farmacodinamica": "Prevents acute and delayed chemotherapy-induced nausea and vomiting (CINV)",
+      "indicacoes": "Prevention of CINV with moderately/highly emetogenic chemotherapy",
+      "reacoesAdversas": "Infusion reactions, fatigue, headache, constipation, anaphylaxis (rare)",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Use caution; limited data",
+      "administracao": "IV infusion over 20–30 minutes",
+      "doseMaxima": "150 mg once (Day 1 of chemo)",
+      "doseMinima": "115 mg (dose-adjusted)",
+      "classificacao": "NK1 receptor antagonist (antiemetic)",
+      "apresentacao": "150 mg vial for IV use",
+      "interacaoMedicamento": "CYP3A4 interactions: dexamethasone, oral contraceptives, chemotherapy agents",
+      "posologia": "150 mg IV on Day 1, 30 min prior to chemo, with dexamethasone + 5-HT3 antagonist",
+      "armazenamento": "Store powder at 2–8°C; use within 24 h (refrigerated) or 3 h (RT) after reconstitution",
+      "preparo": "Reconstitute with 5 mL sterile water, dilute in 145 mL NS",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Hypersensitivity to aprepitant/fosaprepitant",
+      "cuidadosMedicos": "Monitor for infusion reactions and hepatic metabolism interactions",
+      "cuidadosFarmaceuticos": "Ensure proper aseptic technique, do not IV bolus",
+      "cuidadosEnfermagem": "Watch for GI symptoms and allergic reactions",
+      "fontesBibliograficas": "FDA, Lexicomp, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fosaprepitanto",
+      "suspension": "No requiere suspensión preoperatoria; se puede usar como profilaxis de náuseas",
+      "risk": "Reacciones locales, interacciones con CYP3A4, posible anafilaxia",
+      "reintroduction": "Reanudar según protocolo CINV si es necesario"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosaprepitanto dimeglumina",
+      "nomeComercial": "Emend IV",
+      "mecanismoAcao": "Profármaco de aprepitanto, antagonista del receptor NK1 (sustancia P)",
+      "farmacocinetica": "Conversión IV rápida a aprepitanto; t½ 9–13 h; metabolismo hepático",
+      "farmacodinamica": "Previene náuseas y vómitos agudos y tardíos por quimioterapia",
+      "indicacoes": "Prevención de CINV con quimioterapia de riesgo moderado/alto",
+      "reacoesAdversas": "Dolor local, fatiga, cefalea, estreñimiento, anafilaxia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar uso",
+      "administracao": "Infusión IV 20–30 minutos",
+      "doseMaxima": "150 mg día 1",
+      "doseMinima": "115 mg",
+      "classificacao": "Antagonista de receptor NK1",
+      "apresentacao": "Vial 150 mg liofilizado",
+      "interacaoMedicamento": "Dexametasona, anticonceptivos orales, agentes quimioterápicos",
+      "posologia": "150 mg IV día 1 + dexametasona + antagonista 5-HT3",
+      "armazenamento": "2–8°C; reconstituido usar en 24 h o 3 h (ambiente)",
+      "preparo": "Diluir con 5 mL agua estéril y luego 145 mL SSF",
+      "solucoesCompatíveis": "SSF (0.9%)",
+      "contraindicacoes": "Alergia al aprepitanto/fosaprepitanto",
+      "cuidadosMedicos": "Vigilar interacciones, sitio de inyección",
+      "cuidadosFarmaceuticos": "Preparación aséptica obligatoria",
+      "cuidadosEnfermagem": "Vigilar signos alérgicos, molestias GI",
+      "fontesBibliograficas": "AEMPS, EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "磷阿瑞匹坦",
+      "suspension": "术前无需停药，可用于预防PONV",
+      "risk": "注射部位疼痛、CYP3A4药物相互作用、罕见过敏反应",
+      "reintroduction": "可按化疗方案继续给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磷阿瑞匹坦二甲葡胺盐",
+      "nomeComercial": "Emend 注射液",
+      "mecanismoAcao": "NK1受体拮抗剂，阻断物质P介导的呕吐通路",
+      "farmacocinetica": "IV给药，迅速转化为阿瑞匹坦，半衰期9–13小时，CYP3A4代谢",
+      "farmacodinamica": "预防急性和延迟性化疗诱发恶心呕吐",
+      "indicacoes": "中/高致吐性化疗的CINV预防",
+      "reacoesAdversas": "注射部位不适、乏力、头痛、便秘、过敏",
+      "riscoGravidez": "B类 – 动物无风险",
+      "riscoLactacao": "避免哺乳",
+      "administracao": "20–30分钟静脉输注",
+      "doseMaxima": "第1天150毫克",
+      "doseMinima": "115毫克",
+      "classificacao": "NK1受体拮抗剂（止吐药）",
+      "apresentacao": "冻干粉150 mg +溶剂",
+      "interacaoMedicamento": "影响糖皮质激素、口服避孕药及化疗药物代谢",
+      "posologia": "化疗前30分钟150 mg IV，与其他止吐药合用",
+      "armazenamento": "2–8°C冷藏；复溶后24 h内使用",
+      "preparo": "先加5 mL注射用水后稀释至150 mL 0.9%氯化钠",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对成分过敏",
+      "cuidadosMedicos": "监测过敏反应、与CYP3A4药物联用情况",
+      "cuidadosFarmaceuticos": "注意无菌操作与稀释浓度",
+      "cuidadosEnfermagem": "观察注射反应和恶心控制",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate"
+    }
+  }
+}

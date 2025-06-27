@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Valganciclovir",
+      "suspension": "Suspender 24–48h antes de procedimentos que envolvam risco de mielossupressão ou imunossupressão intensa",
+      "risk": "Risco de neutropenia grave, trombocitopenia, toxicidade renal e interações com imunossupressores e anestésicos nefrotóxicos",
+      "reintroduction": "Reintroduzir com função renal estável e contagem hematológica adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Valganciclovir",
+      "nomeComercial": "Valcyte",
+      "mecanismoAcao": "Pró-fármaco do ganciclovir; inibe a DNA polimerase viral do citomegalovírus (CMV)",
+      "farmacocinetica": "Biodisponibilidade oral ~60%; metabolizado em ganciclovir no intestino e fígado; eliminação renal",
+      "farmacodinamica": "Inibe replicação viral do CMV, especialmente em pacientes imunocomprometidos",
+      "indicacoes": "Profilaxia e tratamento de infecção por CMV em transplantados e pacientes com HIV",
+      "reacoesAdversas": "Neutropenia, anemia, trombocitopenia, náusea, diarreia, toxicidade renal, febre",
+      "riscoGravidez": "Categoria C – uso apenas se benefício justificar o risco",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "Via oral, com alimentos para melhor absorção",
+      "doseMaxima": "900 mg 2x/dia",
+      "doseMinima": "450 mg/dia (ajustada por função renal)",
+      "classificacao": "Antiviral – análogo de nucleosídeo ativo contra CMV",
+      "apresentacao": "Comprimidos de 450 mg; pó para solução oral",
+      "interacaoMedicamento": "Potencializa toxicidade de micofenolato, ciclosporina, anfotericina B e zidovudina",
+      "posologia": "900 mg 1–2x/dia conforme indicação e função renal",
+      "armazenamento": "Comprimidos em temperatura ambiente; solução oral refrigerada (2–8°C)",
+      "preparo": "Solução oral deve ser reconstituída conforme bula e mantida refrigerada por até 49 dias",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao ganciclovir/valganciclovir, neutropenia grave, anemia severa",
+      "cuidadosMedicos": "Monitorar hemograma, função renal e sinais de toxicidade",
+      "cuidadosFarmaceuticos": "Verificar ajustes de dose por ClCr e alertar para riscos hematológicos",
+      "cuidadosEnfermagem": "Observar sinais de mielossupressão e orientar sobre adesão terapêutica",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, CDC, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Valganciclovir",
+      "suspension": "Hold 24–48h before procedures involving myelosuppression or high immunosuppression",
+      "risk": "Severe neutropenia, thrombocytopenia, renal toxicity, interactions with immunosuppressants and nephrotoxic agents",
+      "reintroduction": "Restart once renal function and blood counts are stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Valganciclovir",
+      "nomeComercial": "Valcyte",
+      "mecanismoAcao": "Prodrug of ganciclovir; inhibits CMV DNA polymerase",
+      "farmacocinetica": "Oral bioavailability ~60%; converted to ganciclovir in gut/liver; renally excreted",
+      "farmacodinamica": "Inhibits CMV replication, especially in immunocompromised hosts",
+      "indicacoes": "CMV treatment/prophylaxis in transplant recipients and HIV patients",
+      "reacoesAdversas": "Neutropenia, anemia, thrombocytopenia, GI upset, renal toxicity, fever",
+      "riscoGravidez": "Category C – use if benefit outweighs risk",
+      "riscoLactacao": "Not recommended while breastfeeding",
+      "administracao": "Oral, with food to enhance absorption",
+      "doseMaxima": "900 mg BID",
+      "doseMinima": "450 mg/day (adjust for renal function)",
+      "classificacao": "Antiviral – nucleoside analog for CMV",
+      "apresentacao": "450 mg tablets; powder for oral solution",
+      "interacaoMedicamento": "Enhances toxicity of mycophenolate, cyclosporine, amphotericin B, zidovudine",
+      "posologia": "900 mg once or twice daily depending on renal function and indication",
+      "armazenamento": "Tablets at room temp; solution refrigerated (2–8°C)",
+      "preparo": "Reconstitute oral solution per label; stable up to 49 days refrigerated",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, severe neutropenia or anemia",
+      "cuidadosMedicos": "Monitor CBC, renal function, signs of toxicity",
+      "cuidadosFarmaceuticos": "Ensure renal dosing and counsel on hematologic risks",
+      "cuidadosEnfermagem": "Observe for marrow suppression; reinforce adherence",
+      "fontesBibliograficas": "FDA, Micromedex, CDC, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Valganciclovir",
+      "suspension": "Suspender 24–48h antes de procedimientos con riesgo de mielosupresión",
+      "risk": "Riesgo de neutropenia grave, anemia, toxicidad renal, interacciones con inmunosupresores",
+      "reintroduction": "Reiniciar cuando la función renal y hemograma se estabilicen"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Valganciclovir",
+      "nomeComercial": "Valcyte",
+      "mecanismoAcao": "Profármaco de ganciclovir; inhibe la ADN polimerasa del CMV",
+      "farmacocinetica": "Biodisponibilidad oral ~60%; convertido en ganciclovir; eliminación renal",
+      "farmacodinamica": "Bloquea la replicación del CMV, útil en inmunodeprimidos",
+      "indicacoes": "Prevención y tratamiento del CMV en trasplantados y VIH+",
+      "reacoesAdversas": "Neutropenia, anemia, náuseas, toxicidad renal, fiebre",
+      "riscoGravidez": "Categoría C – usar solo si es necesario",
+      "riscoLactacao": "Contraindicado en lactancia",
+      "administracao": "Vía oral, con alimentos",
+      "doseMaxima": "900 mg 2 veces/día",
+      "doseMinima": "450 mg/día (ajustado a función renal)",
+      "classificacao": "Antiviral – análogo de nucleósido anti-CMV",
+      "apresentacao": "Comprimidos de 450 mg; solución oral",
+      "interacaoMedicamento": "Toxicidad aumentada con micofenolato, ciclosporina, zidovudina",
+      "posologia": "900 mg 1–2 veces/día según función renal",
+      "armazenamento": "Comprimidos: temperatura ambiente; solución: refrigerada",
+      "preparo": "Disolver según instrucciones; conservar hasta 49 días refrigerado",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia, neutropenia grave, anemia severa",
+      "cuidadosMedicos": "Monitorear hemograma y función renal",
+      "cuidadosFarmaceuticos": "Ajustar dosis por ClCr, advertir sobre toxicidad hematológica",
+      "cuidadosEnfermagem": "Observar mielosupresión; fomentar cumplimiento",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, Guías CDC"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伐昔洛韦",
+      "suspension": "术前24–48小时停用（如伴免疫抑制或骨髓抑制风险）",
+      "risk": "可致严重粒细胞减少、肾毒性，与免疫抑制剂或肾毒性药物相互作用",
+      "reintroduction": "血象与肾功能稳定后可重启用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伐昔洛韦",
+      "nomeComercial": "Valcyte",
+      "mecanismoAcao": "为更易吸收的更昔洛韦前体药物，抑制CMV DNA聚合酶",
+      "farmacocinetica": "口服生物利用度~60%；在肝/肠转化；肾排泄",
+      "farmacodinamica": "抑制CMV复制，适用于免疫低下人群",
+      "indicacoes": "CMV感染的预防和治疗（器官移植、HIV+）",
+      "reacoesAdversas": "粒细胞减少、贫血、肾毒性、发热、恶心",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "禁用",
+      "administracao": "与食物同服口服",
+      "doseMaxima": "每日2次，每次900毫克",
+      "doseMinima": "每日450毫克（视肾功能调整）",
+      "classificacao": "抗病毒药 – 核苷类CMV抑制剂",
+      "apresentacao": "450毫克片剂、口服液粉剂",
+      "interacaoMedicamento": "与霉酚酸酯、环孢素、两性霉素、齐多夫定等联用加重毒性",
+      "posologia": "按指征与肾功能900 mg每日1–2次",
+      "armazenamento": "片剂常温；口服液冷藏（2–8°C）",
+      "preparo": "溶液需冷藏保存，稀释后49天内使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重度中性粒细胞减少、重度贫血、对药物过敏",
+      "cuidadosMedicos": "监测肾功能、血象、毒副反应",
+      "cuidadosFarmaceuticos": "指导剂量调整，警惕联用药物",
+      "cuidadosEnfermagem": "注意骨髓抑制症状，增强依从性",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

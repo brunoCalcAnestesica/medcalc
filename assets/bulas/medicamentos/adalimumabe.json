@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Adalimumabe",
+      "suspension": "Suspender 4 semanas antes de cirurgias de grande porte; manter com cautela em cirurgias menores e com risco inflamatório elevado",
+      "risk": "Imunossupressão aumenta risco de infecção, retardo na cicatrização, reativação de tuberculose latente, risco cardiovascular e hematológico",
+      "reintroduction": "Reintroduzir 10–14 dias após cirurgia, com ferida cicatrizada e sem sinais de infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Adalimumabe",
+      "nomeComercial": "Humira, Amgevita, Idacio, Hyrimoz",
+      "mecanismoAcao": "Anticorpo monoclonal que se liga especificamente ao TNF-alfa, inibindo sua ação inflamatória",
+      "farmacocinetica": "Administração subcutânea; biodisponibilidade ~64%; meia-vida de eliminação 10–20 dias; metabolismo reticuloendotelial",
+      "farmacodinamica": "Reduz inflamação sistêmica bloqueando TNF-alfa; modula resposta imune celular",
+      "indicacoes": "Artrite reumatoide, espondilite anquilosante, psoríase, Crohn, colite ulcerativa, uveíte",
+      "reacoesAdversas": "Infecções oportunistas, dor local, cefaleia, leucopenia, reações autoimunes, neoplasias (raro)",
+      "riscoGravidez": "Categoria B – uso em casos selecionados com vigilância",
+      "riscoLactacao": "Pode ser usado; excreção no leite é mínima",
+      "administracao": "Via subcutânea, geralmente no abdome ou coxa",
+      "doseMaxima": "40mg/semana (Crohn e colite ativa)",
+      "doseMinima": "40mg a cada 14 dias (artrite reumatoide)",
+      "classificacao": "Imunobiológico anti-TNF-alfa",
+      "apresentacao": "Seringas e canetas pré-cheias de 40mg/0,8ml",
+      "interacaoMedicamento": "Aumenta risco com anakinra, abatacepte; não associar com outros biológicos imunossupressores",
+      "posologia": "40mg SC a cada 2 semanas; pode ser semanal em casos graves",
+      "armazenamento": "Refrigerado (2–8°C); não congelar",
+      "preparo": "Retirar da geladeira 15–30 minutos antes da aplicação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Tuberculose ativa, infecções graves, hipersensibilidade",
+      "cuidadosMedicos": "Testar tuberculose antes de iniciar; monitorar infecção, função hepática, hemograma",
+      "cuidadosFarmaceuticos": "Verificar integridade da seringa; orientar sobre conservação e técnica asséptica",
+      "cuidadosEnfermagem": "Observar reações locais e sinais de infecção; nunca agitar",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, SBIM, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Adalimumab",
+      "suspension": "Discontinue 4 weeks prior to major surgery; may be continued in minor procedures based on risk",
+      "risk": "Increased risk of infection, impaired wound healing, latent TB reactivation, hematologic and cardiovascular risks",
+      "reintroduction": "Restart 10–14 days post-op if wound is healed and no active infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Adalimumab",
+      "nomeComercial": "Humira, Amjevita, Hadlima, Hyrimoz",
+      "mecanismoAcao": "Fully human monoclonal antibody against TNF-alpha, neutralizing its pro-inflammatory activity",
+      "farmacocinetica": "SC injection; bioavailability ~64%; half-life 10–20 days; clearance via RES",
+      "farmacodinamica": "Suppresses inflammation by neutralizing TNF-alpha; alters immune response",
+      "indicacoes": "RA, PsA, AS, plaque psoriasis, Crohn’s, ulcerative colitis, uveitis, hidradenitis suppurativa",
+      "reacoesAdversas": "Infections, injection site reactions, headache, neutropenia, malignancy (rare)",
+      "riscoGravidez": "Category B – considered safe with monitoring",
+      "riscoLactacao": "Safe – minimal transfer to breast milk",
+      "administracao": "Subcutaneous injection (abdomen or thigh)",
+      "doseMaxima": "40mg/week (severe Crohn)",
+      "doseMinima": "40mg every 2 weeks",
+      "classificacao": "Anti-TNF biologic agent",
+      "apresentacao": "Prefilled syringe or pen 40mg/0.8ml",
+      "interacaoMedicamento": "Do not combine with other biologics (e.g., anakinra, abatacept)",
+      "posologia": "40mg SC every 14 days; weekly in severe cases",
+      "armazenamento": "Refrigerate at 2–8°C; do not freeze",
+      "preparo": "Let stand at room temperature for 15–30 minutes before injection",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active TB, serious infections, hypersensitivity",
+      "cuidadosMedicos": "TB screening before use; monitor CBC, liver enzymes, infection signs",
+      "cuidadosFarmaceuticos": "Ensure cold chain; advise on injection technique and schedule",
+      "cuidadosEnfermagem": "Check for injection site reactions and systemic infection signs",
+      "fontesBibliograficas": "FDA, Micromedex, ACR Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Adalimumab",
+      "suspension": "Suspender 4 semanas antes de cirugía mayor; mantener con precaución en cirugías menores",
+      "risk": "Mayor riesgo de infección, cicatrización lenta, reactivación de TB, efectos hematológicos",
+      "reintroduction": "Reiniciar 10–14 días después de la cirugía si no hay infección ni complicaciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Adalimumab",
+      "nomeComercial": "Humira, Amgevita, Hyrimoz",
+      "mecanismoAcao": "Anticuerpo monoclonal humano que inhibe TNF-alfa",
+      "farmacocinetica": "Vía SC; biodisponibilidad 64%; semivida 10–20 días; metabolizado por sistema reticuloendotelial",
+      "farmacodinamica": "Inmunosupresor biológico anti-TNF; reduce inflamación sistémica",
+      "indicacoes": "AR, espondilitis anquilosante, psoriasis, Crohn, colitis ulcerosa, uveítis",
+      "reacoesAdversas": "Infecciones, reacción en sitio de inyección, cefalea, leucopenia, linfoma (raro)",
+      "riscoGravidez": "Categoría B – uso posible con vigilancia",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "Inyección SC (abdomen o muslo)",
+      "doseMaxima": "40mg/semana",
+      "doseMinima": "40mg cada 14 días",
+      "classificacao": "Agente biológico anti-TNF",
+      "apresentacao": "Jeringas o plumas precargadas 40mg/0.8ml",
+      "interacaoMedicamento": "Evitar combinar con otros biológicos inmunosupresores",
+      "posologia": "40mg SC cada 14 días; semanal en casos severos",
+      "armazenamento": "Refrigerado (2–8°C), no congelar",
+      "preparo": "Sacar 30 minutos antes de aplicar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Tuberculosis activa, infecciones graves",
+      "cuidadosMedicos": "Realizar prueba de TB; monitorear signos de infección",
+      "cuidadosFarmaceuticos": "Revisar cadena de frío y técnica de aplicación",
+      "cuidadosEnfermagem": "Observar sitio de aplicación y reacciones adversas",
+      "fontesBibliograficas": "EMA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿达木单抗",
+      "suspension": "重大手术前需提前4周停药；小型手术可酌情评估继续使用",
+      "risk": "术后感染风险增加，创口愈合延迟，潜伏结核激活，免疫抑制并发症",
+      "reintroduction": "术后10–14天可恢复使用，前提是无感染且切口愈合良好"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿达木单抗",
+      "nomeComercial": "修美乐（Humira）、安佑维（Amgevita）",
+      "mecanismoAcao": "人源性抗TNF-α单克隆抗体，中和TNF介导的炎症反应",
+      "farmacocinetica": "皮下注射，生物利用度64%，半衰期10–20天，经RES代谢",
+      "farmacodinamica": "抗炎作用显著，适用于自身免疫性疾病",
+      "indicacoes": "类风湿关节炎、强直性脊柱炎、银屑病、克罗恩病、溃疡性结肠炎、葡萄膜炎",
+      "reacoesAdversas": "注射部位红肿、感染、白细胞减少、恶心、肿瘤风险（极低）",
+      "riscoGravidez": "B类 – 孕期使用需权衡风险",
+      "riscoLactacao": "乳汁中极少量分泌，一般认为安全",
+      "administracao": "皮下注射（腹部或大腿）",
+      "doseMaxima": "每周40mg",
+      "doseMinima": "每两周40mg",
+      "classificacao": "抗TNF生物制剂",
+      "apresentacao": "预充式注射笔或注射器，40mg/0.8ml",
+      "interacaoMedicamento": "避免与其他免疫抑制性生物制剂联合使用",
+      "posologia": "每14天注射一次40mg；重症可每周注射一次",
+      "armazenamento": "2–8°C冷藏保存，避免冷冻",
+      "preparo": "使用前放置室温30分钟",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性结核、严重感染",
+      "cuidadosMedicos": "使用前进行结核筛查；监测感染、肝功能、血常规",
+      "cuidadosFarmaceuticos": "确保冷链完整，教育正确注射方法",
+      "cuidadosEnfermagem": "监测注射部位反应与系统性感染征象",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Interferon gamma",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas, se possível",
+      "risk": "Pode causar sintomas gripais, exacerbação inflamatória e alterações hepáticas; risco aumentado de atraso cicatricial",
+      "reintroduction": "Reintroduzir após recuperação pós-operatória e função hepática estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Interferon gamma-1b",
+      "nomeComercial": "Actimmune",
+      "mecanismoAcao": "Citocina imunorreguladora que ativa macrófagos, promove resposta Th1 e aumenta a expressão do MHC",
+      "farmacocinetica": "Administração subcutânea; meia-vida de 2–6 h; metabolismo proteico hepático e renal",
+      "farmacodinamica": "Estimula atividade fagocítica, expressão de antígenos e regulação imune celular",
+      "indicacoes": "Imunodeficiências primárias (ex: CGD), osteopetrose maligna infantil, uso experimental em infecções crônicas e câncer",
+      "reacoesAdversas": "Sintomas gripais, fadiga, náuseas, cefaleia, elevação de transaminases, leucopenia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhece-se se é excretado no leite; uso com cautela",
+      "administracao": "Via subcutânea, 3 vezes por semana",
+      "doseMaxima": "50 mcg/m² 3x/semana",
+      "doseMinima": "25 mcg/m² 3x/semana ou conforme tolerância",
+      "classificacao": "Imunomodulador biológico – interferon tipo II",
+      "apresentacao": "Solução injetável 100 mcg/mL (frascos-ampola)",
+      "interacaoMedicamento": "Potencial hepatotoxicidade com metotrexato, azatioprina; risco aumentado de mielotoxicidade com quimioterápicos",
+      "posologia": "50 mcg/m² SC, 3 vezes por semana",
+      "armazenamento": "Refrigerado entre 2–8°C; não congelar; descartar após 30 dias do uso",
+      "preparo": "Pronto para uso; aplicar em temperatura ambiente",
+      "solucoesCompatíveis": "Não aplicável (injeção direta)",
+      "contraindicacoes": "Hipersensibilidade ao interferon-gamma ou proteínas humanas recombinantes",
+      "cuidadosMedicos": "Monitorar função hepática, hemograma e sintomas de toxicidade sistêmica",
+      "cuidadosFarmaceuticos": "Manter cadeia de frio; evitar agitação excessiva",
+      "cuidadosEnfermagem": "Observar reações locais e sistêmicas; instruir aplicação domiciliar segura",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex, Actimmune bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Interferon gamma",
+      "suspension": "Suspend 7 days prior to surgery if clinically feasible",
+      "risk": "May induce flu-like symptoms, hepatic enzyme elevation, inflammatory exacerbation, and delayed healing",
+      "reintroduction": "Restart after post-op recovery and hepatic function normalization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Interferon gamma-1b",
+      "nomeComercial": "Actimmune",
+      "mecanismoAcao": "Immune-regulating cytokine that enhances macrophage activation and Th1-mediated responses",
+      "farmacocinetica": "SC route; t½ 2–6 h; hepatic and renal protein metabolism",
+      "farmacodinamica": "Stimulates phagocyte activity, MHC expression, and Th1 immunity",
+      "indicacoes": "Chronic granulomatous disease (CGD), severe malignant osteopetrosis, experimental in infections and cancer",
+      "reacoesAdversas": "Flu-like symptoms, fatigue, elevated LFTs, nausea, leukopenia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; caution advised",
+      "administracao": "Subcutaneous, three times per week",
+      "doseMaxima": "50 mcg/m² SC 3x/week",
+      "doseMinima": "25 mcg/m² SC 3x/week",
+      "classificacao": "Immunomodulator – type II interferon",
+      "apresentacao": "Injection solution 100 mcg/mL",
+      "interacaoMedicamento": "Avoid with hepatotoxic or marrow-suppressing agents",
+      "posologia": "50 mcg/m² SC three times weekly",
+      "armazenamento": "Store 2–8°C; do not freeze; use within 30 days after opening",
+      "preparo": "Ready to use; warm to room temp before injection",
+      "solucoesCompatíveis": "Not applicable (direct injection)",
+      "contraindicacoes": "Hypersensitivity to interferon gamma or human albumin",
+      "cuidadosMedicos": "Monitor LFTs, CBC, systemic response",
+      "cuidadosFarmaceuticos": "Strict refrigeration and stability control",
+      "cuidadosEnfermagem": "Monitor local/systemic reactions; instruct safe self-administration",
+      "fontesBibliograficas": "FDA, Actimmune prescribing info, Micromedex, Medscape"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Interferón gamma",
+      "suspension": "Suspender 7 días antes de cirugía si es clínicamente posible",
+      "risk": "Síntomas gripales, hepatotoxicidad, leucopenia, retraso en cicatrización",
+      "reintroduction": "Reanudar tras recuperación posoperatoria y normalización hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Interferón gamma-1b",
+      "nomeComercial": "Actimmune",
+      "mecanismoAcao": "Citocina inmunorreguladora que activa macrófagos y aumenta respuesta Th1",
+      "farmacocinetica": "SC; t½ 2–6 h; metabolismo hepático y renal",
+      "farmacodinamica": "Incrementa fagocitosis, expresión de MHC y defensa celular",
+      "indicacoes": "Inmunodeficiencias (CGD), osteopetrosis grave, infecciones y tumores (uso experimental)",
+      "reacoesAdversas": "Fiebre, astenia, náuseas, leucopenia, elevación de transaminasas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido si se excreta; usar con precaución",
+      "administracao": "Subcutánea, tres veces por semana",
+      "doseMaxima": "50 mcg/m²",
+      "doseMinima": "25 mcg/m²",
+      "classificacao": "Inmunomodulador – interferón tipo II",
+      "apresentacao": "Solución 100 mcg/mL",
+      "interacaoMedicamento": "Evitar con inmunosupresores y hepatotóxicos",
+      "posologia": "SC 3 veces/semana",
+      "armazenamento": "2–8°C, no congelar, usar en 30 días",
+      "preparo": "Lista para usar; administrar a temperatura ambiente",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad a interferón gamma",
+      "cuidadosMedicos": "Monitoreo hepático, hematológico y clínico",
+      "cuidadosFarmaceuticos": "Cadena de frío y estabilidad postapertura",
+      "cuidadosEnfermagem": "Instrucción domiciliaria, vigilar efectos sistémicos",
+      "fontesBibliograficas": "FDA, Actimmune, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "γ-干扰素",
+      "suspension": "择期手术前建议停药7天",
+      "risk": "可能引发发热、肝酶升高、免疫反应增强与术后愈合延迟",
+      "reintroduction": "术后恢复与肝功能稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "γ-干扰素-1b",
+      "nomeComercial": "Actimmune",
+      "mecanismoAcao": "增强吞噬细胞功能并促进Th1免疫应答的细胞因子",
+      "farmacocinetica": "皮下注射；半衰期2–6小时；肝肾代谢",
+      "farmacodinamica": "促进抗原提呈、MHC表达与细胞毒性激活",
+      "indicacoes": "慢性肉芽肿病（CGD）、恶性骨硬化症、实验性抗感染与肿瘤治疗",
+      "reacoesAdversas": "类流感反应、转氨酶升高、疲劳、白细胞减少",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "未知是否排入乳汁，慎用",
+      "administracao": "皮下注射，每周3次",
+      "doseMaxima": "50微克/m²",
+      "doseMinima": "25微克/m²",
+      "classificacao": "II型干扰素 – 免疫调节剂",
+      "apresentacao": "注射液，浓度100微克/mL",
+      "interacaoMedicamento": "避免与肝毒性或骨髓抑制药物联用",
+      "posologia": "每周3次皮下注射",
+      "armazenamento": "2–8°C冷藏，30天内使用，避免冷冻",
+      "preparo": "室温注射；使用前勿摇晃",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对干扰素或人源蛋白过敏者禁用",
+      "cuidadosMedicos": "监测肝酶、血象与系统性反应",
+      "cuidadosFarmaceuticos": "维持冷链；30天后弃用",
+      "cuidadosEnfermagem": "指导正确注射，观察副反应",
+      "fontesBibliograficas": "FDA，Actimmune说明书，Micromedex，Medscape"
+    }
+  }
+}

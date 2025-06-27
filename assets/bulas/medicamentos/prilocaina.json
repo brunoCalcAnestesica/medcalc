@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Prilocaína",
+      "suspension": "Suspender 24 horas antes de procedimentos com risco de metemoglobinemia ou necessidade de anestesia geral prolongada",
+      "risk": "Pode causar metemoglobinemia, especialmente em altas doses ou em pacientes com deficiência de G6PD; interações com outros anestésicos locais ou oxidantes",
+      "reintroduction": "Reintroduzir com cautela após avaliação clínica e hemodinâmica no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prilocaína",
+      "nomeComercial": "Citanest, EMLA (em combinação com lidocaína)",
+      "mecanismoAcao": "Bloqueia canais de sódio na membrana neuronal, inibindo a condução do impulso nervoso",
+      "farmacocinetica": "Início rápido (2–5 min EV); duração intermediária (1–2 h); metabolizada no fígado; excreção renal",
+      "farmacodinamica": "Bloqueio sensitivo motor reversível; menos cardiotóxica que lidocaína; risco de metemoglobinemia",
+      "indicacoes": "Anestesia local ou regional (bloqueios, infiltração, raquidiana, peridural); anestesia tópica com EMLA",
+      "reacoesAdversas": "Metemoglobinemia, parestesia, hipotensão, bradicardia, tremores, convulsões (alta dose)",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível; uso com cautela",
+      "administracao": "Infiltração, bloqueio nervoso, peridural, tópica (creme)",
+      "doseMaxima": "600 mg (sem adrenalina); até 1000 mg com vasoconstritor",
+      "doseMinima": "Dose individualizada conforme técnica e peso",
+      "classificacao": "Anestésico local tipo amida",
+      "apresentacao": "Solução injetável 1%, 2%; creme 2,5% (EMLA com lidocaína)",
+      "interacaoMedicamento": "Risco aumentado com nitratos, sulfonamidas, dapsona, fenacetina",
+      "posologia": "Variável conforme via e técnica anestésica",
+      "armazenamento": "Temperatura ambiente; proteger da luz",
+      "preparo": "Uso direto; solução deve ser clara e incolor",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a amidas, metemoglobinemia congênita, G6PD deficiência",
+      "cuidadosMedicos": "Monitorar sinais de toxicidade sistêmica e metemoglobinemia",
+      "cuidadosFarmaceuticos": "Verificar integridade da solução e compatibilidade com outros fármacos",
+      "cuidadosEnfermagem": "Observar cianose, hipóxia, convulsões, hipotensão; manter oxímetro em uso",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, Bula Citanest, Bula EMLA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Prilocaine",
+      "suspension": "Discontinue 24 hours before procedures with risk of methemoglobinemia or prolonged general anesthesia",
+      "risk": "Can cause methemoglobinemia, especially at high doses or in G6PD deficiency; interacts with other local anesthetics and oxidizing agents",
+      "reintroduction": "Restart cautiously after postoperative clinical and hemodynamic stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prilocaine",
+      "nomeComercial": "Citanest, EMLA (with lidocaine)",
+      "mecanismoAcao": "Blocks sodium channels on neuronal membranes, inhibiting nerve impulse conduction",
+      "farmacocinetica": "Rapid onset (2–5 min IV); intermediate duration (1–2 h); hepatic metabolism; renal excretion",
+      "farmacodinamica": "Reversible sensory and motor blockade; less cardiotoxic than lidocaine; methemoglobinemia risk",
+      "indicacoes": "Local/regional anesthesia (infiltration, nerve blocks, spinal, epidural); topical (EMLA)",
+      "reacoesAdversas": "Methemoglobinemia, paresthesia, hypotension, bradycardia, tremor, seizures (high dose)",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Compatible; use with caution",
+      "administracao": "Infiltration, nerve block, epidural, topical",
+      "doseMaxima": "600 mg (without vasoconstrictor); up to 1000 mg with vasoconstrictor",
+      "doseMinima": "Individualized per technique and weight",
+      "classificacao": "Amide-type local anesthetic",
+      "apresentacao": "Injection 1%, 2%; cream 2.5% (EMLA with lidocaine)",
+      "interacaoMedicamento": "Increased risk with nitrates, sulfonamides, dapsone, phenacetin",
+      "posologia": "Varies per route and anesthesia technique",
+      "armazenamento": "Room temperature; protect from light",
+      "preparo": "Ready to use; solution should be clear and colorless",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Amide allergy, congenital methemoglobinemia, G6PD deficiency",
+      "cuidadosMedicos": "Monitor for systemic toxicity and signs of methemoglobinemia",
+      "cuidadosFarmaceuticos": "Check solution integrity and compatibility",
+      "cuidadosEnfermagem": "Watch for cyanosis, hypoxia, seizures, hypotension; use pulse oximetry",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Citanest PI, EMLA PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Prilocaína",
+      "suspension": "Suspender 24 h antes de procedimientos con riesgo de metahemoglobinemia o anestesia prolongada",
+      "risk": "Riesgo de metahemoglobinemia, especialmente con dosis altas o déficit de G6PD; interacción con anestésicos locales y agentes oxidantes",
+      "reintroduction": "Reiniciar tras estabilización clínica y hemodinámica posoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prilocaína",
+      "nomeComercial": "Citanest, EMLA (con lidocaína)",
+      "mecanismoAcao": "Bloquea canales de sodio neuronales; interrumpe la conducción nerviosa",
+      "farmacocinetica": "Inicio rápido (2–5 min IV); duración intermedia (1–2 h); metabolismo hepático; excreción renal",
+      "farmacodinamica": "Bloqueo sensitivo-motor reversible; menos cardiotóxica que lidocaína; riesgo de metahemoglobinemia",
+      "indicacoes": "Anestesia local/regional (infiltración, bloqueo, espinal, epidural); tópica (EMLA)",
+      "reacoesAdversas": "Metahemoglobinemia, parestesias, hipotensión, bradicardia, temblores, convulsiones",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible; usar con precaución",
+      "administracao": "Infiltración, bloqueo, epidural, tópico",
+      "doseMaxima": "600 mg (sin vasoconstrictor); hasta 1000 mg con vasoconstrictor",
+      "doseMinima": "Individual según técnica y peso",
+      "classificacao": "Anestésico local tipo amida",
+      "apresentacao": "Solución 1%, 2%; crema 2,5% (EMLA con lidocaína)",
+      "interacaoMedicamento": "Interacción con nitratos, sulfonamidas, dapsona, fenacetina",
+      "posologia": "Variable según técnica anestésica",
+      "armazenamento": "Ambiente fresco, protegido de la luz",
+      "preparo": "Uso directo; solución clara, incolora",
+      "solucoesCompatíveis": "SF 0,9%, DAD 5%",
+      "contraindicacoes": "Alergia a amidas, metahemoglobinemia congénita, déficit de G6PD",
+      "cuidadosMedicos": "Vigilar toxicidad sistémica y metahemoglobinemia",
+      "cuidadosFarmaceuticos": "Verificar compatibilidad y apariencia de la solución",
+      "cuidadosEnfermagem": "Observar cianosis, hipoxia, convulsiones, hipotensión",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Citanest/EMLA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "普鲁卡因胺",
+      "suspension": "术前24小时停药（如有高剂量或全麻风险）",
+      "risk": "可引起高铁血红蛋白血症，特别是G6PD缺乏或大剂量时；与局麻药及氧化剂相互作用",
+      "reintroduction": "术后临床稳定后可慎重恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "普鲁卡因胺（Prilocaine）",
+      "nomeComercial": "Citanest、EMLA（与利多卡因联用）",
+      "mecanismoAcao": "阻断神经钠通道，抑制神经冲动传导",
+      "farmacocinetica": "起效快（IV 2–5分钟）；作用中等（1–2小时）；肝代谢；肾排泄",
+      "farmacodinamica": "可逆性感觉/运动神经阻滞；比利多卡因心毒性低；可致高铁血红蛋白血症",
+      "indicacoes": "局部/区域麻醉（浸润、神经阻滞、硬膜外、脊麻）；表面麻醉（EMLA）",
+      "reacoesAdversas": "高铁血红蛋白血症、感觉异常、低血压、心动过缓、抽搐",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可用但需谨慎",
+      "administracao": "皮下注射、神经阻滞、硬膜外或局部外用",
+      "doseMaxima": "无血管收缩剂：600 mg；含血管收缩剂：可达1000 mg",
+      "doseMinima": "按体重和技术个体化",
+      "classificacao": "酰胺类局麻药",
+      "apresentacao": "注射液1%、2%；EMLA乳膏2.5%",
+      "interacaoMedicamento": "与硝酸酯类、磺胺药、达普酮、非那西丁有协同毒性",
+      "posologia": "根据麻醉方式和部位决定",
+      "armazenamento": "室温，避光",
+      "preparo": "直接使用，溶液应澄清无色",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "对酰胺过敏、先天性高铁血红蛋白血症、G6PD缺乏",
+      "cuidadosMedicos": "监测全身毒性及氧合状态",
+      "cuidadosFarmaceuticos": "确认药液无色澄清，避免与氧化性药物合用",
+      "cuidadosEnfermagem": "观察青紫、低氧、抽搐及低血压症状",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Citanest说明书"
+    }
+  }
+}

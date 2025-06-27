@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fenilefrina",
+      "suspension": "Suspender 24 horas antes de anestesia geral com halogenados devido ao risco de hipertensão e arritmias.",
+      "risk": "Pode causar vasoconstrição intensa, hipertensão, bradicardia reflexa. Potencial de interação com IMAOs e anestésicos.",
+      "reintroduction": "Pode ser reintroduzida com cautela no pós-operatório conforme indicação clínica específica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenilefrina cloridrato",
+      "nomeComercial": "Neo-Synephrine, Sorine, Descon, Sanilin",
+      "mecanismoAcao": "Agonista seletivo dos receptores α1-adrenérgicos com ação vasoconstritora potente.",
+      "farmacocinetica": "Início: 15 min VO; 1–2 min IV; meia-vida: 2,5–3 h VO; excreção renal.",
+      "farmacodinamica": "Promove vasoconstrição periférica, eleva a pressão arterial e reduz edema nasal.",
+      "indicacoes": "Descongestionante nasal (tópico/oral), hipotensão perioperatória (IV), midríase em oftalmologia.",
+      "reacoesAdversas": "Hipertensão, cefaleia, bradicardia reflexa, arritmias, ansiedade, palidez.",
+      "riscoGravidez": "Categoria C – uso com cautela em indicações claras.",
+      "riscoLactacao": "Compatível com vigilância.",
+      "administracao": "Oral, nasal, intravenosa, oftálmica.",
+      "doseMaxima": "40 mg/dia VO; 180 mcg/min IV (bolus); nasal: 3x/dia.",
+      "doseMinima": "2,5 mg VO ou 30 mcg/min IV.",
+      "classificacao": "Agonista α1-adrenérgico (vasoconstritor e midriático).",
+      "apresentacao": "Comprimidos (5, 10 mg), gotas nasais (0,25–1%), solução injetável (10 mg/mL).",
+      "interacaoMedicamento": "IMAO, antidepressivos tricíclicos, β-bloqueadores, halotano.",
+      "posologia": "VO: 10 mg a cada 4 h; IV: bolus 50–200 mcg; nasal: 2 gotas 3x/dia.",
+      "armazenamento": "Temperatura ambiente, protegido da luz.",
+      "preparo": "IV: diluir antes da infusão contínua.",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%.",
+      "contraindicacoes": "Hipertensão grave, doença arterial coronariana, feocromocitoma.",
+      "cuidadosMedicos": "Monitorar PA, FC e sinais de isquemia durante uso IV ou em pacientes sensíveis.",
+      "cuidadosFarmaceuticos": "Evitar uso nasal contínuo por mais de 5 dias (efeito rebote).",
+      "cuidadosEnfermagem": "Observar resposta vasopressora, congestão nasal e efeitos adversos cardíacos.",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Phenylephrine",
+      "suspension": "Discontinue 24 h before general anesthesia with halogenated agents due to risk of hypertension and arrhythmia.",
+      "risk": "Potent vasoconstriction, reflex bradycardia, increased BP. Interacts with MAOIs and anesthetics.",
+      "reintroduction": "May be resumed post-op if clinically indicated under monitoring."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Phenylephrine hydrochloride",
+      "nomeComercial": "Neo-Synephrine, Sudafed PE, Vazculep",
+      "mecanismoAcao": "Selective α1-adrenergic agonist causing vasoconstriction.",
+      "farmacocinetica": "Onset: 15 min PO; 1–2 min IV; t½: 2.5–3 h PO; renal excretion.",
+      "farmacodinamica": "Increases BP, decreases nasal edema, causes pupil dilation (ophthalmic use).",
+      "indicacoes": "Nasal decongestion (oral/topical), hypotension (IV), mydriasis (eye drops).",
+      "reacoesAdversas": "Hypertension, headache, reflex bradycardia, arrhythmia, anxiety.",
+      "riscoGravidez": "Category C – use if clearly indicated.",
+      "riscoLactacao": "Compatible with monitoring.",
+      "administracao": "Oral, nasal, IV, ophthalmic.",
+      "doseMaxima": "40 mg/day PO; 180 mcg/min IV; nasal: 3x/day.",
+      "doseMinima": "2.5 mg PO; 30 mcg/min IV.",
+      "classificacao": "α1-adrenergic agonist (vasoconstrictor and mydriatic).",
+      "apresentacao": "Tablets (5, 10 mg), nasal drops (0.25–1%), IV (10 mg/mL).",
+      "interacaoMedicamento": "MAOIs, TCAs, β-blockers, volatile anesthetics.",
+      "posologia": "10 mg PO q4h; IV: 50–200 mcg bolus; nasal: 2 drops 3x/day.",
+      "armazenamento": "Room temp, protect from light.",
+      "preparo": "Dilute IV prior to continuous infusion.",
+      "solucoesCompatíveis": "0.9% saline, 5% dextrose.",
+      "contraindicacoes": "Severe hypertension, CAD, pheochromocytoma.",
+      "cuidadosMedicos": "Monitor BP, HR, signs of ischemia during IV use.",
+      "cuidadosFarmaceuticos": "Avoid chronic nasal use (rebound congestion).",
+      "cuidadosEnfermagem": "Monitor response, nasal relief, and cardiac effects.",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fenilefrina",
+      "suspension": "Suspender 24 h antes de anestesia general con halogenados. Riesgo de hipertensión y arritmias.",
+      "risk": "Vasoconstricción intensa, bradicardia refleja, aumento de PA.",
+      "reintroduction": "Puede reanudarse tras cirugía con vigilancia clínica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de fenilefrina",
+      "nomeComercial": "Neo-Synephrine, Sudafed PE",
+      "mecanismoAcao": "Agonista α1-adrenérgico selectivo que causa vasoconstricción.",
+      "farmacocinetica": "Inicio: 15 min VO; 1–2 min IV; t½: 2,5–3 h VO.",
+      "farmacodinamica": "Eleva PA, reduce edema nasal, induce midriasis.",
+      "indicacoes": "Descongestión nasal, hipotensión, midriasis oftálmica.",
+      "reacoesAdversas": "Hipertensión, cefalea, bradicardia, ansiedad.",
+      "riscoGravidez": "Categoría C – usar solo si es necesario.",
+      "riscoLactacao": "Compatible con vigilancia.",
+      "administracao": "Oral, nasal, IV, oftálmica.",
+      "doseMaxima": "40 mg/día VO; 180 mcg/min IV; nasal 3x/día.",
+      "doseMinima": "2,5 mg VO; 30 mcg/min IV.",
+      "classificacao": "Agonista α1-adrenérgico (vasoconstrictor/midriático).",
+      "apresentacao": "Comprimidos, gotas nasales, solución IV.",
+      "interacaoMedicamento": "IMAO, antidepresivos, anestésicos, betabloqueantes.",
+      "posologia": "10 mg VO cada 4 h; IV 50–200 mcg bolus; nasal: 2 gotas 3x/día.",
+      "armazenamento": "Ambiente seco, protegido de luz.",
+      "preparo": "Diluir antes de infusión continua.",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%.",
+      "contraindicacoes": "HTA severa, feocromocitoma, cardiopatía isquémica.",
+      "cuidadosMedicos": "Monitorear PA, FC, ECG.",
+      "cuidadosFarmaceuticos": "Evitar uso nasal crónico.",
+      "cuidadosEnfermagem": "Observar efectos cardiovasculares.",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "去氧肾上腺素（Phenylephrine）",
+      "suspension": "术前24小时停用，防止麻醉诱发高血压/心律失常。",
+      "risk": "血压升高、反射性心动过缓，慎用于冠心病患者。",
+      "reintroduction": "术后如需可重新使用，建议监测。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "去氧肾上腺素盐酸盐",
+      "nomeComercial": "Neo-Synephrine、复方感冒药中常含",
+      "mecanismoAcao": "选择性α1激动剂，收缩血管，升高血压，缩小鼻黏膜充血。",
+      "farmacocinetica": "口服起效15分钟，IV起效1–2分钟，T1/2约2.5–3小时。",
+      "farmacodinamica": "扩张瞳孔，提升血压，减轻鼻腔充血。",
+      "indicacoes": "低血压、鼻塞、眼科检查扩瞳。",
+      "reacoesAdversas": "高血压、头痛、心动过缓、心悸、焦虑。",
+      "riscoGravidez": "C类，谨慎使用。",
+      "riscoLactacao": "哺乳期可用，建议监测。",
+      "administracao": "口服、鼻用、静注、滴眼。",
+      "doseMaxima": "口服每日40 mg；IV最大180 mcg/min；鼻用每日3次。",
+      "doseMinima": "口服每次2.5 mg；IV 30 mcg/min。",
+      "classificacao": "α1肾上腺素激动剂（升压、收缩黏膜血管、扩瞳）。",
+      "apresentacao": "片剂、滴鼻液、注射剂、滴眼液。",
+      "interacaoMedicamento": "MAOI、TCA、β阻滞剂、吸入麻醉剂。",
+      "posologia": "口服10 mg每4小时；IV按需要推注50–200 mcg。",
+      "armazenamento": "避光常温保存。",
+      "preparo": "IV需稀释；连续输注需稀释后使用。",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖。",
+      "contraindicacoes": "严重高血压、冠心病、嗜铬细胞瘤。",
+      "cuidadosMedicos": "监测血压、心率、电解质。",
+      "cuidadosFarmaceuticos": "滴鼻勿连续使用超5天防止反跳。",
+      "cuidadosEnfermagem": "记录血压反应、鼻通气改善。",
+      "fontesBibliograficas": "中国药典、UpToDate、Micromedex、GINA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Toripalimabe",
+      "suspension": "Suspender 7 dias antes de cirurgias maiores eletivas.",
+      "risk": "Risco de reações autoimunes graves, como pneumonite, colite, hepatite e endocrinopatias.",
+      "reintroduction": "Reintroduzir após resolução completa dos eventos imuno-mediados e recuperação clínica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Toripalimabe",
+      "nomeComercial": "Tuoyi",
+      "mecanismoAcao": "anticorpo monoclonal IgG4 anti-PD-1 que bloqueia a ligação entre PD-1 e seus ligantes (PD-L1 e PD-L2), restaurando a atividade das células T contra células tumorais",
+      "farmacocinetica": "administração IV; meia-vida ~12–15 dias; metabolismo por catabolismo de IgG; clearance reduzido com tempo",
+      "farmacodinamica": "restaura resposta imune antitumoral mediada por linfócitos T CD8+; efeito dose-dependente na ativação imune",
+      "indicacoes": "melanoma metastático, câncer nasofaríngeo, carcinoma urotelial, câncer de pulmão de células escamosas, entre outros em investigação",
+      "reacoesAdversas": "fadiga, rash, prurido, diarreia, náuseas, aumento de transaminases, hipotiroidismo, pneumonite, colite imune",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "evitar durante o tratamento e por pelo menos 3 meses após a última dose",
+      "administracao": "intravenosa (IV)",
+      "doseMaxima": "240 mg a cada 2 semanas",
+      "doseMinima": "3 mg/kg a cada 2 semanas",
+      "classificacao": "imunoterapia – anticorpo monoclonal anti-PD-1",
+      "apresentacao": "frasco-ampola 240 mg/6 mL",
+      "interacaoMedicamento": "evitar uso concomitante com imunossupressores; pode potencializar reações adversas com outros imunoterápicos",
+      "posologia": "3 mg/kg IV a cada 2 semanas ou 240 mg IV fixo a cada 2 semanas",
+      "armazenamento": "refrigerado (2–8 ºC); não congelar",
+      "preparo": "diluir em SF 0,9% até concentração final 1–10 mg/mL; infundir em 60 minutos",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "hipersensibilidade grave a toripalimabe ou excipientes; doenças autoimunes ativas graves",
+      "cuidadosMedicos": "monitorar toxicidades imuno-mediadas; suspender em toxicidade grau ≥3",
+      "cuidadosFarmaceuticos": "armazenar sob refrigeração; garantir diluição e infusão corretas",
+      "cuidadosEnfermagem": "monitorar sinais de toxicidade imune (rash, dispneia, dor abdominal), sinais vitais, reações na infusão",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex, ANVISA, bula Tuoyi"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Toripalimab",
+      "suspension": "Suspend 7 days prior to major elective surgeries.",
+      "risk": "Risk of severe autoimmune reactions, such as pneumonitis, colitis, hepatitis, and endocrinopathies.",
+      "reintroduction": "Reintroduce after complete resolution of immune-mediated events and clinical recovery."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Toripalimab",
+      "nomeComercial": "Tuoyi",
+      "mecanismoAcao": "anti-PD-1 IgG4 monoclonal antibody that blocks the binding between PD-1 and its ligands (PD-L1 and PD-L2), restoring T-cell activity against tumor cells",
+      "farmacocinetica": "IV administration; half-life ~12–15 days; metabolized via IgG catabolism; clearance decreases over time",
+      "farmacodinamica": "restores antitumor immune response mediated by CD8+ T lymphocytes; dose-dependent effect on immune activation",
+      "indicacoes": "metastatic melanoma, nasopharyngeal cancer, urothelial carcinoma, squamous cell lung cancer, among others under investigation",
+      "reacoesAdversas": "fatigue, rash, pruritus, diarrhea, nausea, increased transaminases, hypothyroidism, pneumonitis, immune-mediated colitis",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "avoid during treatment and for at least 3 months after the last dose",
+      "administracao": "intravenous (IV)",
+      "doseMaxima": "240 mg every 2 weeks",
+      "doseMinima": "3 mg/kg every 2 weeks",
+      "classificacao": "immunotherapy – anti-PD-1 monoclonal antibody",
+      "apresentacao": "vial 240 mg/6 mL",
+      "interacaoMedicamento": "avoid concomitant use with immunosuppressants; may potentiate adverse reactions with other immunotherapies",
+      "posologia": "3 mg/kg IV every 2 weeks or 240 mg fixed IV every 2 weeks",
+      "armazenamento": "refrigerated (2–8 ºC); do not freeze",
+      "preparo": "dilute in 0.9% NaCl to a final concentration of 1–10 mg/mL; infuse over 60 minutes",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "severe hypersensitivity to toripalimab or excipients; severe active autoimmune diseases",
+      "cuidadosMedicos": "monitor for immune-mediated toxicities; discontinue in grade ≥3 toxicity",
+      "cuidadosFarmaceuticos": "store refrigerated; ensure correct dilution and infusion",
+      "cuidadosEnfermagem": "monitor for signs of immune toxicity (rash, dyspnea, abdominal pain), vital signs, infusion reactions",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex, ANVISA, Tuoyi label"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Toripalimab",
+      "suspension": "Suspender 7 días antes de cirugías mayores electivas.",
+      "risk": "Riesgo de reacciones autoinmunes graves, como neumonitis, colitis, hepatitis y endocrinopatías.",
+      "reintroduction": "Reintroducir tras la resolución completa de los eventos inmunomediados y recuperación clínica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Toripalimab",
+      "nomeComercial": "Tuoyi",
+      "mecanismoAcao": "anticuerpo monoclonal IgG4 anti-PD-1 que bloquea la unión entre PD-1 y sus ligandos (PD-L1 y PD-L2), restaurando la actividad de las células T contra células tumorales",
+      "farmacocinetica": "administración IV; vida media ~12–15 días; metabolismo por catabolismo de IgG; aclaramiento reducido con el tiempo",
+      "farmacodinamica": "restaura la respuesta inmune antitumoral mediada por linfocitos T CD8+; efecto dependiente de la dosis en la activación inmune",
+      "indicacoes": "melanoma metastásico, cáncer de nasofaringe, carcinoma urotelial, cáncer de pulmón de células escamosas, entre otros en investigación",
+      "reacoesAdversas": "fatiga, erupción, prurito, diarrea, náuseas, aumento de transaminasas, hipotiroidismo, neumonitis, colitis inmunomediada",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "evitar durante el tratamiento y por al menos 3 meses después de la última dosis",
+      "administracao": "intravenosa (IV)",
+      "doseMaxima": "240 mg cada 2 semanas",
+      "doseMinima": "3 mg/kg cada 2 semanas",
+      "classificacao": "inmunoterapia – anticuerpo monoclonal anti-PD-1",
+      "apresentacao": "frasco-ampolla 240 mg/6 mL",
+      "interacaoMedicamento": "evitar el uso concomitante con inmunosupresores; puede potenciar reacciones adversas con otras inmunoterapias",
+      "posologia": "3 mg/kg IV cada 2 semanas o 240 mg IV fijo cada 2 semanas",
+      "armazenamento": "refrigerado (2–8 ºC); no congelar",
+      "preparo": "diluir en SF 0,9% hasta concentración final de 1–10 mg/mL; infundir en 60 minutos",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "hipersensibilidad grave a toripalimab o excipientes; enfermedades autoinmunes activas graves",
+      "cuidadosMedicos": "monitorizar toxicidades inmunomediadas; suspender en toxicidad grado ≥3",
+      "cuidadosFarmaceuticos": "almacenar refrigerado; garantizar dilución e infusión correctas",
+      "cuidadosEnfermagem": "monitorizar signos de toxicidad inmune (erupción, disnea, dolor abdominal), signos vitales, reacciones a la infusión",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex, ANVISA, prospecto Tuoyi"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "托瑞帕利单抗",
+      "suspension": "择期大型手术前7天停用。",
+      "risk": "有发生严重自身免疫反应的风险，如肺炎、结肠炎、肝炎和内分泌病。",
+      "reintroduction": "免疫相关不良事件完全缓解且临床恢复后可重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "托瑞帕利单抗",
+      "nomeComercial": "Tuoyi（拓益）",
+      "mecanismoAcao": "一种抗PD-1 IgG4单克隆抗体，可阻断PD-1与其配体（PD-L1和PD-L2）的结合，恢复T细胞对肿瘤细胞的活性",
+      "farmacocinetica": "静脉注射；半衰期约12–15天；经IgG分解代谢；清除率随时间减慢",
+      "farmacodinamica": "恢复CD8+ T淋巴细胞介导的抗肿瘤免疫反应；免疫激活呈剂量依赖性",
+      "indicacoes": "转移性黑色素瘤、鼻咽癌、尿路上皮癌、鳞状细胞肺癌及其他在研适应症",
+      "reacoesAdversas": "乏力、皮疹、瘙痒、腹泻、恶心、转氨酶升高、甲状腺功能减退、肺炎、免疫性结肠炎",
+      "riscoGravidez": "D类 – 禁用",
+      "riscoLactacao": "治疗期间及末次用药后至少3个月内避免哺乳",
+      "administracao": "静脉注射（IV）",
+      "doseMaxima": "每2周240 mg",
+      "doseMinima": "每2周3 mg/kg",
+      "classificacao": "免疫治疗 – 抗PD-1单克隆抗体",
+      "apresentacao": "小瓶 240 mg/6 mL",
+      "interacaoMedicamento": "避免与免疫抑制剂同时使用；与其他免疫治疗药物合用可增强不良反应",
+      "posologia": "每2周静脉注射3 mg/kg或固定剂量240 mg",
+      "armazenamento": "冷藏（2–8 ºC）；勿冷冻",
+      "preparo": "用0.9%氯化钠稀释至终浓度1–10 mg/mL；60分钟内输注完毕",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对托瑞帕利单抗或辅料严重过敏；严重活动性自身免疫疾病",
+      "cuidadosMedicos": "监测免疫相关毒性；3级及以上毒性需停药",
+      "cuidadosFarmaceuticos": "冷藏保存；确保正确稀释和输注",
+      "cuidadosEnfermagem": "监测免疫毒性表现（皮疹、呼吸困难、腹痛）、生命体征及输注反应",
+      "fontesBibliograficas": "FDA、EMA、UpToDate、Micromedex、ANVISA、Tuoyi说明书"
+    }
+  }
+}

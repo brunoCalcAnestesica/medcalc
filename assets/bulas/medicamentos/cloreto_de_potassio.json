@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cloreto de potássio",
+      "suspension": "Não suspender em casos de hipocalemia crítica; ajustar ou suspender 12 horas antes de cirurgias eletivas em pacientes normopotassêmicos",
+      "risk": "Risco de arritmias, hipercalemia intraoperatória, irritação gástrica (via oral), necrose tissular (via EV)",
+      "reintroduction": "Reintroduzir com monitoramento de potássio sérico, ECG e função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloreto de potássio",
+      "nomeComercial": "KCl, Slow-K, Kaleorid",
+      "mecanismoAcao": "Reposição de potássio extracelular essencial para a função neuromuscular, cardíaca e ácido-básica",
+      "farmacocinetica": "Absorção oral variável; distribuição intracelular; excreção renal sob controle da aldosterona",
+      "farmacodinamica": "Mantém potencial de membrana e contração muscular, corrige distúrbios eletrolíticos e arritmias",
+      "indicacoes": "Hipocalemia leve a grave, prevenção em uso de diuréticos, alcalose metabólica, intoxicação por digitálicos",
+      "reacoesAdversas": "Dor abdominal, náuseas, irritação gástrica, hipercalemia, bloqueio cardíaco, flebite, necrose por extravasamento",
+      "riscoGravidez": "Categoria C – uso permitido sob necessidade clínica",
+      "riscoLactacao": "Considerado seguro durante lactação",
+      "administracao": "Via oral, intravenosa (diluída e infundida lentamente)",
+      "doseMaxima": "Oral: 100 mEq/dia; EV: 40 mEq/dose (máximo 10-20 mEq/h sob monitoramento)",
+      "doseMinima": "20 mEq/dia",
+      "classificacao": "Suplemento eletrolítico – agente de reposição de potássio",
+      "apresentacao": "Comprimidos de liberação prolongada, ampolas injetáveis 10% (2 mEq/mL)",
+      "interacaoMedicamento": "Risco aumentado com IECA, ARA-II, diuréticos poupadores de K+, heparina, ciclosporina",
+      "posologia": "Dose individualizada conforme potássio sérico e função renal",
+      "armazenamento": "Temperatura ambiente, evitar congelamento de ampolas",
+      "preparo": "Diluir EV em no mínimo 100 mL de SF 0,9% ou SG 5%",
+      "solucoesCompatíveis": "Soro fisiológico, glicose 5%",
+      "contraindicacoes": "Hipercalemia, insuficiência renal grave não dialítica, doença de Addison não tratada",
+      "cuidadosMedicos": "Monitorar potássio, ECG, débito urinário e sinais de toxicidade cardíaca",
+      "cuidadosFarmaceuticos": "Controlar diluição correta, tempo de infusão e compatibilidade",
+      "cuidadosEnfermagem": "Monitorar local de punção, extravasamento, ritmo cardíaco e sinais de hipo/hipercalemia",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, PubMed, Medsafe"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Potassium chloride",
+      "suspension": "Do not discontinue in critical hypokalemia; in normokalemic patients, consider pausing 12h before surgery",
+      "risk": "Risk of arrhythmias, intraoperative hyperkalemia, gastric irritation (oral), tissue necrosis (IV)",
+      "reintroduction": "Restart with serum potassium, ECG, and renal monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Potassium chloride",
+      "nomeComercial": "KCl, Slow-K, Klor-Con, K-Dur",
+      "mecanismoAcao": "Replaces potassium to restore neuromuscular, cardiac, and acid-base balance",
+      "farmacocinetica": "Variable oral absorption; intracellular distribution; renal excretion under aldosterone control",
+      "farmacodinamica": "Maintains membrane potential, muscle contraction, and corrects electrolyte disturbances",
+      "indicacoes": "Mild to severe hypokalemia, prophylaxis in diuretic use, metabolic alkalosis, digitalis toxicity",
+      "reacoesAdversas": "GI irritation, nausea, hyperkalemia, heart block, phlebitis, injection site necrosis",
+      "riscoGravidez": "Category C – use when clinically indicated",
+      "riscoLactacao": "Considered safe during breastfeeding",
+      "administracao": "Oral or intravenous (diluted and slow infusion)",
+      "doseMaxima": "Oral: 100 mEq/day; IV: 40 mEq/dose (10–20 mEq/h max with monitoring)",
+      "doseMinima": "20 mEq/day",
+      "classificacao": "Electrolyte supplement – potassium replacement",
+      "apresentacao": "Extended-release tablets, 10% injectable vials (2 mEq/mL)",
+      "interacaoMedicamento": "Increased risk with ACEIs, ARBs, K-sparing diuretics, heparin, cyclosporine",
+      "posologia": "Individualized dosing based on serum potassium and renal function",
+      "armazenamento": "Room temperature, protect from freezing",
+      "preparo": "Dilute IV in ≥100 mL of 0.9% saline or 5% dextrose",
+      "solucoesCompatíveis": "Normal saline, dextrose 5%",
+      "contraindicacoes": "Hyperkalemia, severe renal failure without dialysis, untreated Addison's disease",
+      "cuidadosMedicos": "Monitor K+, ECG, urinary output, cardiac toxicity signs",
+      "cuidadosFarmaceuticos": "Ensure proper dilution, infusion rate, and solution compatibility",
+      "cuidadosEnfermagem": "Observe infusion site, rhythm, hypo/hyperkalemia symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, PubMed"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cloruro de potasio",
+      "suspension": "No suspender si hay hipocalemia crítica; ajustar o suspender 12h antes en normocalemia",
+      "risk": "Riesgo de arritmias, hipercalemia intraoperatoria, irritación gástrica (oral), necrosis tisular (EV)",
+      "reintroduction": "Reintroducir con monitoreo de potasio, ECG y función renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloruro de potasio",
+      "nomeComercial": "KCl, K-Dur, Slow-K",
+      "mecanismoAcao": "Reposición de potasio extracelular esencial para función muscular, cardíaca y ácido-base",
+      "farmacocinetica": "Absorción oral variable, distribución intracelular, excreción renal regulada por aldosterona",
+      "farmacodinamica": "Mantiene potencial de membrana, contracción muscular y corrige desequilibrios",
+      "indicacoes": "Hipocalemia leve a grave, prevención con diuréticos, alcalosis, intoxicación digitálica",
+      "reacoesAdversas": "Irritación gastrointestinal, náusea, hipercalemia, bloqueo cardíaco, flebitis, necrosis por extravasación",
+      "riscoGravidez": "Categoría C – usar si está clínicamente indicado",
+      "riscoLactacao": "Seguro durante lactancia",
+      "administracao": "Oral o intravenosa (diluida y lenta)",
+      "doseMaxima": "Oral: 100 mEq/día; EV: 40 mEq/dosis (10–20 mEq/h máx.)",
+      "doseMinima": "20 mEq/día",
+      "classificacao": "Suplemento electrolítico – reposición de potasio",
+      "apresentacao": "Comprimidos, solución inyectable 10% (2 mEq/mL)",
+      "interacaoMedicamento": "Riesgo aumentado con IECA, ARA-II, diuréticos ahorradores de K+, heparina, ciclosporina",
+      "posologia": "Dosis individualizada según potasio sérico y función renal",
+      "armazenamento": "Ambiente seco, evitar congelación",
+      "preparo": "Diluir en al menos 100 mL de SF 0,9% o SG 5%",
+      "solucoesCompatíveis": "Solución salina, glucosa 5%",
+      "contraindicacoes": "Hipercalemia, IR grave no dializable, Addison no tratado",
+      "cuidadosMedicos": "Monitorear potasio, ECG, diuresis, toxicidad cardíaca",
+      "cuidadosFarmaceuticos": "Controlar dilución, velocidad de infusión y compatibilidad",
+      "cuidadosEnfermagem": "Vigilar zona de infusión, ritmo cardíaco, síntomas de hipo/hipercalemia",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯化钾",
+      "suspension": "重度低钾时不应停药；正常血钾患者择期手术前12小时可暂停",
+      "risk": "心律失常、术中高钾血症、口服刺激胃黏膜、静脉外渗引起坏死",
+      "reintroduction": "术后监测钾、电图和肾功能稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯化钾",
+      "nomeComercial": "KCl注射液、缓释片、Slow-K",
+      "mecanismoAcao": "补充细胞外钾维持神经肌肉和心脏功能及酸碱平衡",
+      "farmacocinetica": "口服吸收不完全，分布入细胞，肾脏排泄受醛固酮调控",
+      "farmacodinamica": "维持膜电位、肌肉收缩、纠正电解质紊乱和心律失常",
+      "indicacoes": "低钾血症、利尿剂引起钾丢失、代谢性碱中毒、洋地黄中毒",
+      "reacoesAdversas": "恶心、胃痛、高钾血症、心脏传导阻滞、静脉炎、组织坏死",
+      "riscoGravidez": "C类 – 有明确指征时可用",
+      "riscoLactacao": "哺乳期安全",
+      "administracao": "口服或静脉滴注（需稀释、缓慢）",
+      "doseMaxima": "口服：100 mEq/日；静脉：每剂不超过40 mEq，速度10–20 mEq/h",
+      "doseMinima": "20 mEq/日",
+      "classificacao": "电解质补充剂 – 钾离子补充",
+      "apresentacao": "缓释片、口服液、10%注射液（2 mEq/mL）",
+      "interacaoMedicamento": "与ACEI、ARB、保钾利尿剂、肝素、环孢素等联用增加高钾风险",
+      "posologia": "按血钾和肾功能个体化调整剂量",
+      "armazenamento": "常温避光保存，避免冷冻",
+      "preparo": "静脉用药至少稀释于100 mL生理盐水或葡萄糖5%",
+      "solucoesCompatíveis": "生理盐水，5%葡萄糖注射液",
+      "contraindicacoes": "高钾血症、严重肾衰竭、未治疗的Addison病",
+      "cuidadosMedicos": "监测血钾、电图、尿量及心脏毒性",
+      "cuidadosFarmaceuticos": "保证正确稀释和输注速度，检查兼容性",
+      "cuidadosEnfermagem": "观察输液部位、心律、低钾/高钾症状",
+      "fontesBibliograficas": "中国药典、UpToDate、Micromedex、FDA"
+    }
+  }
+}

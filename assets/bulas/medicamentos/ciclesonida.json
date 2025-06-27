@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ciclesonida",
+      "suspension": "Não é necessário suspender antes de cirurgias eletivas.",
+      "risk": "Risco sistêmico muito baixo. Possui ativação pulmonar local, minimizando efeitos adversos. Pode causar rouquidão e candidíase oral.",
+      "reintroduction": "Pode ser mantida ou reintroduzida no pós-operatório sem ajuste de dose."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ciclesonida",
+      "nomeComercial": "Alvesco (inalatório), Omnaris (nasal), Zetonna (spray nasal concentrado)",
+      "mecanismoAcao": "Corticosteroide inalatório ativado localmente nos pulmões (pró-fármaco), com potente ação anti-inflamatória e mínimo efeito sistêmico.",
+      "farmacocinetica": "Início: horas; pico: 1–2 semanas; ativação pulmonar via esterases; metabolismo hepático (CYP3A4); excreção fecal.",
+      "farmacodinamica": "Reduz inflamação brônquica, melhora função pulmonar e controle da asma com melhor tolerabilidade local.",
+      "indicacoes": "Asma persistente leve a grave; rinite alérgica (uso nasal).",
+      "reacoesAdversas": "Disfonia, candidíase oral, epistaxe, cefaleia, irritação nasal (spray).",
+      "riscoGravidez": "Categoria C – usar com cautela.",
+      "riscoLactacao": "Compatível com monitoramento.",
+      "administracao": "Inalatória (spray MDI) ou nasal.",
+      "doseMaxima": "640 mcg/dia (asma); nasal: 200 mcg/dia.",
+      "doseMinima": "80 mcg/dia.",
+      "classificacao": "Corticosteroide inalatório (ICS).",
+      "apresentacao": "Spray MDI (80, 160 mcg/jato); nasal 50 mcg/jato (Omnaris), 37 mcg/jato (Zetonna).",
+      "interacaoMedicamento": "Metabolismo via CYP3A4; interações com ritonavir, cetoconazol.",
+      "posologia": "80–320 mcg/dia inalado; 100–200 mcg/dia nasal.",
+      "armazenamento": "Temperatura ambiente, longe da luz.",
+      "preparo": "Agitar antes do uso; enxaguar a boca após inalação.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Hipersensibilidade, infecção respiratória não tratada, tuberculose pulmonar.",
+      "cuidadosMedicos": "Monitorar função pulmonar, sintomas de infecção local.",
+      "cuidadosFarmaceuticos": "Instruir sobre uso correto e reforçar adesão contínua.",
+      "cuidadosEnfermagem": "Observar eficácia, uso correto e sinais de infecção oral/nasal.",
+      "fontesBibliograficas": "GINA, GOLD, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ciclesonide",
+      "suspension": "No need to suspend before elective procedures.",
+      "risk": "Very low systemic risk due to local activation. May cause hoarseness or oral candidiasis. Well tolerated.",
+      "reintroduction": "Can be continued or resumed post-op without dose change."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ciclesonide",
+      "nomeComercial": "Alvesco (inhaled), Omnaris (nasal), Zetonna",
+      "mecanismoAcao": "Inhaled corticosteroid activated locally in the lungs. Reduces inflammation via suppression of inflammatory cytokines.",
+      "farmacocinetica": "Onset: hours; peak: 1–2 weeks; activation via lung esterases; hepatic metabolism (CYP3A4); fecal excretion.",
+      "farmacodinamica": "Controls airway inflammation with minimal systemic effects.",
+      "indicacoes": "Persistent asthma; allergic rhinitis.",
+      "reacoesAdversas": "Hoarseness, oral thrush, epistaxis, nasal irritation, headache.",
+      "riscoGravidez": "Category C – use if needed.",
+      "riscoLactacao": "Compatible with monitoring.",
+      "administracao": "Inhaled (MDI) or intranasal spray.",
+      "doseMaxima": "640 mcg/day (asthma); 200 mcg/day nasal.",
+      "doseMinima": "80 mcg/day.",
+      "classificacao": "Inhaled corticosteroid (ICS).",
+      "apresentacao": "80 or 160 mcg/dose inhaler; 50 mcg (Omnaris), 37 mcg (Zetonna) nasal sprays.",
+      "interacaoMedicamento": "Affected by CYP3A4 inhibitors (e.g., ritonavir).",
+      "posologia": "80–320 mcg/day inhaled; 100–200 mcg/day nasal.",
+      "armazenamento": "Store at room temperature, protect from light.",
+      "preparo": "Shake before use; rinse mouth after inhalation.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Hypersensitivity, active infections, TB.",
+      "cuidadosMedicos": "Monitor lung function and signs of local irritation.",
+      "cuidadosFarmaceuticos": "Educate on inhaler/spray technique and adherence.",
+      "cuidadosEnfermagem": "Observe for thrush, nasal irritation, technique.",
+      "fontesBibliograficas": "GINA, GOLD, FDA, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ciclesonida",
+      "suspension": "No se requiere suspensión antes de cirugía.",
+      "risk": "Bajo riesgo sistémico. Puede causar disfonía, candidiasis, epistaxis.",
+      "reintroduction": "Puede mantenerse o reiniciarse tras cirugía sin ajustes."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ciclesonida",
+      "nomeComercial": "Alvesco, Omnaris, Zetonna",
+      "mecanismoAcao": "Corticoide inhalado activado localmente, inhibe citocinas inflamatorias.",
+      "farmacocinetica": "Inicio: horas; pico: 1–2 semanas; metabolismo CYP3A4; excreción fecal.",
+      "farmacodinamica": "Acción antiinflamatoria efectiva con mínima absorción sistémica.",
+      "indicacoes": "Asma persistente; rinitis alérgica.",
+      "reacoesAdversas": "Candidiasis oral, disfonía, epistaxis, cefalea, irritación nasal.",
+      "riscoGravidez": "Categoría C – usar si es necesario.",
+      "riscoLactacao": "Compatible con vigilancia.",
+      "administracao": "Inhalación (MDI) o spray nasal.",
+      "doseMaxima": "640 mcg/día; nasal 200 mcg/día.",
+      "doseMinima": "80 mcg/día.",
+      "classificacao": "Corticoide inhalado (ICS).",
+      "apresentacao": "Spray 80 o 160 mcg; nasal 50 o 37 mcg.",
+      "interacaoMedicamento": "CYP3A4 inhibidores como ritonavir.",
+      "posologia": "80–320 mcg inhalado; 100–200 mcg nasal.",
+      "armazenamento": "Ambiente seco, evitar luz.",
+      "preparo": "Agitar; enjuagar boca tras inhalación.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Alergia, infección no tratada, TB activa.",
+      "cuidadosMedicos": "Controlar eficacia, síntomas locales.",
+      "cuidadosFarmaceuticos": "Verificar técnica y adherencia.",
+      "cuidadosEnfermagem": "Observar candidiasis, irritación nasal, técnica.",
+      "fontesBibliograficas": "GINA, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "环索奈德（Ciclesonide）",
+      "suspension": "无需术前停药。",
+      "risk": "系统吸收极低，局部活化。可能有声嘶、口腔霉菌、鼻刺激。",
+      "reintroduction": "术后可继续使用，无需调整剂量。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "环索奈德",
+      "nomeComercial": "Alvesco、Omnaris、Zetonna",
+      "mecanismoAcao": "吸入性糖皮质激素，在肺部局部活化，具有强效抗炎作用。",
+      "farmacocinetica": "起效需数小时；达峰1–2周；肝代谢（CYP3A4）；粪便排泄。",
+      "farmacodinamica": "有效控制哮喘及鼻炎症状，系统作用少。",
+      "indicacoes": "持续性哮喘、过敏性鼻炎。",
+      "reacoesAdversas": "声嘶、口腔念珠菌、鼻出血、咽炎、头痛。",
+      "riscoGravidez": "C类，仅必要时使用。",
+      "riscoLactacao": "哺乳期可使用，需监测。",
+      "administracao": "吸入式（MDI），鼻喷剂。",
+      "doseMaxima": "哮喘每日640微克；鼻炎200微克。",
+      "doseMinima": "每日80微克。",
+      "classificacao": "吸入性糖皮质激素（ICS）。",
+      "apresentacao": "吸入剂（80、160 mcg），鼻喷剂（50、37 mcg）。",
+      "interacaoMedicamento": "CYP3A4抑制剂如利托那韦、酮康唑。",
+      "posologia": "吸入每日80–320微克；鼻喷每日100–200微克。",
+      "armazenamento": "避光避热，常温保存。",
+      "preparo": "使用前摇匀，吸入后漱口。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "过敏、未治疗感染、活动性肺结核。",
+      "cuidadosMedicos": "观察疗效及局部副反应。",
+      "cuidadosFarmaceuticos": "确保正确使用并坚持用药。",
+      "cuidadosEnfermagem": "监测霉菌感染、鼻出血、吸入效果。",
+      "fontesBibliograficas": "GINA、中国药典、UpToDate、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cetoprofeno",
+      "suspension": "Suspender 48 a 72h antes de procedimentos cirúrgicos",
+      "risk": "Risco de sangramento perioperatório, interferência na agregação plaquetária, lesão renal e interação com anestésicos",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cetoprofeno",
+      "nomeComercial": "Profenid, Artrosil, Bi-Profenid, Fastum",
+      "mecanismoAcao": "Inibe a ciclooxigenase (COX-1 e COX-2), reduzindo a síntese de prostaglandinas inflamatórias",
+      "farmacocinetica": "Absorção oral rápida, pico em 1–2h, ligação proteica >99%, meia-vida de 2–3h, excreção renal",
+      "farmacodinamica": "Analgésico, anti-inflamatório e antipirético, com início de ação em 30 minutos e pico em 1–2 horas",
+      "indicacoes": "Dor aguda, lombalgia, artrite reumatoide, osteoartrite, dismenorreia, pós-operatório, gota",
+      "reacoesAdversas": "Dispepsia, náuseas, vômitos, cefaleia, sonolência, hipertensão, retenção hídrica, sangramento GI, insuficiência renal aguda",
+      "riscoGravidez": "Categoria C no início e D no terceiro trimestre – contraindicado no fim da gestação",
+      "riscoLactacao": "Evitar uso durante a amamentação",
+      "administracao": "Via oral, intramuscular, intravenosa ou tópica",
+      "doseMaxima": "300 mg/dia (oral ou parenteral)",
+      "doseMinima": "50 mg/dose",
+      "classificacao": "Anti-inflamatório não esteroidal (AINE)",
+      "apresentacao": "Comprimidos, cápsulas, ampola IM/IV, gel tópico",
+      "interacaoMedicamento": "Potencializa risco com anticoagulantes, anti-hipertensivos, diuréticos e lítio",
+      "posologia": "50–100 mg 2 a 3 vezes ao dia conforme via e indicação",
+      "armazenamento": "Temperatura ambiente, longe da luz e umidade",
+      "preparo": "Diluir ampola IV em 100 mL de soro fisiológico",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, Ringer lactato",
+      "contraindicacoes": "Úlcera ativa, insuficiência renal ou hepática grave, gravidez final, hipersensibilidade a AINEs",
+      "cuidadosMedicos": "Monitorar função renal, sinais de sangramento e pressão arterial",
+      "cuidadosFarmaceuticos": "Orientar sobre horários, evitar AAS e álcool",
+      "cuidadosEnfermagem": "Observar dor abdominal, hematêmese, PA e diurese",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate, PubMed"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ketoprofen",
+      "suspension": "Discontinue 48–72 hours before surgical procedures",
+      "risk": "Risk of perioperative bleeding, platelet inhibition, renal injury, and anesthetic interaction",
+      "reintroduction": "Restart after hemodynamic stability and adequate wound healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ketoprofen",
+      "nomeComercial": "Orudis, Oruvail, Fastum, Ketoflam",
+      "mecanismoAcao": "Inhibits COX-1 and COX-2, reducing prostaglandin synthesis",
+      "farmacocinetica": "Rapid oral absorption, peak 1–2h, >99% protein bound, half-life 2–3h, renal excretion",
+      "farmacodinamica": "Anti-inflammatory, analgesic, antipyretic with onset in 30 minutes, peak effect at 1–2h",
+      "indicacoes": "Acute pain, back pain, rheumatoid arthritis, osteoarthritis, dysmenorrhea, postoperative pain, gout",
+      "reacoesAdversas": "Dyspepsia, nausea, vomiting, headache, drowsiness, hypertension, fluid retention, GI bleeding, AKI",
+      "riscoGravidez": "Category C (1st/2nd trimesters), D (3rd) – contraindicated in late pregnancy",
+      "riscoLactacao": "Not recommended during breastfeeding",
+      "administracao": "Oral, intramuscular, intravenous, or topical",
+      "doseMaxima": "300 mg/day",
+      "doseMinima": "50 mg/dose",
+      "classificacao": "NSAID – Non-steroidal anti-inflammatory drug",
+      "apresentacao": "Capsules, tablets, IM/IV ampoules, topical gel",
+      "interacaoMedicamento": "Increased risk with anticoagulants, antihypertensives, diuretics, lithium",
+      "posologia": "50–100 mg 2–3x/day depending on route and indication",
+      "armazenamento": "Store at room temperature, away from moisture/light",
+      "preparo": "Dilute IV ampoule in 100 mL of saline",
+      "solucoesCompatíveis": "0.9% saline, lactated Ringer",
+      "contraindicacoes": "Active ulcer, severe renal/hepatic impairment, late pregnancy, NSAID allergy",
+      "cuidadosMedicos": "Monitor renal function, bleeding signs, BP",
+      "cuidadosFarmaceuticos": "Educate on dosing schedule, avoid aspirin/alcohol",
+      "cuidadosEnfermagem": "Monitor GI symptoms, BP, urine output",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex, PubMed"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ketoprofeno",
+      "suspension": "Suspender 48–72 horas antes de cirugía programada",
+      "risk": "Riesgo de sangrado perioperatorio, inhibición plaquetaria, lesión renal e interacción anestésica",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica y cicatrización adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ketoprofeno",
+      "nomeComercial": "Ketofén, Fastum, Oruvail, Bi-Profenid",
+      "mecanismoAcao": "Inhibe COX-1 y COX-2, disminuyendo la producción de prostaglandinas",
+      "farmacocinetica": "Absorción oral rápida, pico en 1–2h, >99% unión a proteínas, eliminación renal",
+      "farmacodinamica": "Antiinflamatorio, analgésico y antipirético con efecto en 30 minutos",
+      "indicacoes": "Dolor agudo, lumbalgia, artritis, dismenorrea, posoperatorio, gota",
+      "reacoesAdversas": "Dispepsia, náuseas, vómitos, cefalea, somnolencia, hipertensión, retención de líquidos, sangrado GI, IRA",
+      "riscoGravidez": "Categoría C (inicio) y D (final) – contraindicado al final del embarazo",
+      "riscoLactacao": "No recomendado durante la lactancia",
+      "administracao": "Oral, intramuscular, intravenosa o tópica",
+      "doseMaxima": "300 mg/día",
+      "doseMinima": "50 mg/dosis",
+      "classificacao": "AINE – Antiinflamatorio no esteroideo",
+      "apresentacao": "Comprimidos, cápsulas, ampollas IM/IV, gel tópico",
+      "interacaoMedicamento": "Interacción con anticoagulantes, diuréticos, litio, antihipertensivos",
+      "posologia": "50–100 mg 2–3 veces al día según vía y patología",
+      "armazenamento": "Temperatura ambiente, protegido de luz y humedad",
+      "preparo": "Diluir la ampolla IV en 100 mL de suero fisiológico",
+      "solucoesCompatíveis": "Suero salino 0.9%, Ringer lactato",
+      "contraindicacoes": "Úlcera activa, IR/insuficiencia hepática grave, embarazo tardío, hipersensibilidad a AINEs",
+      "cuidadosMedicos": "Monitoreo renal, PA, sangrado",
+      "cuidadosFarmaceuticos": "Evitar aspirina, alcohol, explicar cronograma de dosis",
+      "cuidadosEnfermagem": "Vigilar síntomas GI, presión arterial, diuresis",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯芬那酸酯（氯芬酸）",
+      "suspension": "术前48–72小时应停药",
+      "risk": "术中出血风险，抑制血小板聚集，肾损伤，麻醉交互作用",
+      "reintroduction": "术后血流动力学稳定和伤口愈合良好后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯芬那酸酯",
+      "nomeComercial": "凯托芬、Fastum、Oruvail",
+      "mecanismoAcao": "抑制COX-1和COX-2酶，减少前列腺素合成",
+      "farmacocinetica": "口服吸收快，1–2小时达峰，>99%血浆蛋白结合，经肾排泄，半衰期2–3小时",
+      "farmacodinamica": "具有镇痛、解热、抗炎作用，起效30分钟，峰值1–2小时",
+      "indicacoes": "急性疼痛、腰痛、风湿、月经痛、术后疼痛、痛风",
+      "reacoesAdversas": "胃肠不适、恶心、头痛、嗜睡、高血压、水钠潴留、胃肠出血、急性肾损伤",
+      "riscoGravidez": "C类（初期）、D类（孕晚期）—孕晚期禁用",
+      "riscoLactacao": "哺乳期不推荐使用",
+      "administracao": "口服、肌注、静注、外用",
+      "doseMaxima": "每日300毫克",
+      "doseMinima": "每次50毫克",
+      "classificacao": "非甾体抗炎药（NSAID）",
+      "apresentacao": "片剂、胶囊、注射液、凝胶",
+      "interacaoMedicamento": "与抗凝剂、利尿剂、锂、降压药相互作用",
+      "posologia": "每次50–100毫克，每日2–3次",
+      "armazenamento": "常温保存，避光避潮",
+      "preparo": "静注用药需稀释于100mL生理盐水",
+      "solucoesCompatíveis": "0.9%氯化钠注射液、乳酸林格",
+      "contraindicacoes": "活动性溃疡、严重肾/肝功能不全、孕晚期、NSAID过敏",
+      "cuidadosMedicos": "监测肾功能、血压、出血迹象",
+      "cuidadosFarmaceuticos": "提醒避免酒精、阿司匹林",
+      "cuidadosEnfermagem": "观察腹痛、血压、尿量",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate"
+    }
+  }
+}

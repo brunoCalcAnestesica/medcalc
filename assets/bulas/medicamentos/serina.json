@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Serina",
+      "suspension": "Não requer suspensão pré-operatória",
+      "risk": "Sem impacto significativo em anestesia; baixa toxicidade",
+      "reintroduction": "Pode ser mantida ou reintroduzida sem restrição após cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Serina",
+      "nomeComercial": "Serina, L-Serina, Serina Pura, NeuroSerin",
+      "mecanismoAcao": "Aminoácido não essencial que participa na síntese de fosfolipídios, proteínas e neurotransmissores como a glicina e a D-serina, modulando a função do receptor NMDA.",
+      "farmacocinetica": "Absorção intestinal eficiente por transporte ativo; distribuída amplamente em tecidos; atravessa a barreira hematoencefálica; metabolização hepática; excreção renal.",
+      "farmacodinamica": "Participa da formação de bainha de mielina e na sinalização neural; modula receptores NMDA e GABA; papel neurotrófico e neuroprotetor.",
+      "indicacoes": "Suporte neurológico, fadiga crônica, distúrbios do sono, doenças neurodegenerativas (estudos em esclerose lateral amiotrófica, Alzheimer e esquizofrenia).",
+      "reacoesAdversas": "Geralmente bem tolerada; efeitos adversos leves incluem náuseas, cefaleia, flatulência e sonolência.",
+      "riscoGravidez": "Categoria B (dados limitados em humanos, estudos em animais não demonstraram risco)",
+      "riscoLactacao": "Provavelmente segura; ausência de dados que indiquem toxicidade via leite materno",
+      "administracao": "Via oral; pode ser manipulada em cápsulas, sachês ou comprimidos",
+      "doseMaxima": "3g/dia em adultos, divididos em 2 a 3 doses",
+      "doseMinima": "250mg/dia para suporte cognitivo leve",
+      "classificacao": "Aminoácido funcional/nutracêutico",
+      "apresentacao": "Pó solúvel, cápsulas, comprimidos",
+      "interacaoMedicamento": "Potencial sinérgico com glicina, D-serina, NMDA moduladores e antidepressivos; não há interações medicamentosas graves descritas.",
+      "posologia": "Adultos: 500 mg a 3000 mg/dia, divididos em 2 a 3 doses. Duração conforme quadro clínico.",
+      "armazenamento": "Manter em temperatura ambiente (15–30°C), ao abrigo da luz e umidade",
+      "preparo": "Reconstituição em água se pó; agitar até dissolver totalmente",
+      "solucoesCompatíveis": "Água potável, suco de frutas, leite vegetal",
+      "contraindicacoes": "Hipersensibilidade ao composto. Usar com cautela em distúrbios do ciclo da ureia.",
+      "cuidadosMedicos": "Avaliar função renal e hepática em uso prolongado. Monitorar resposta cognitiva e neurológica.",
+      "cuidadosFarmaceuticos": "Orientar sobre posologia fracionada e ingestão hídrica adequada",
+      "cuidadosEnfermagem": "Observar sinais de intolerância gastrintestinal; checar adesão ao tratamento",
+      "fontesBibliograficas": "PubChem CID: 5951, Micromedex, NIH Dietary Supplement Label Database, FDA GRAS Notice Inventory"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Serine",
+      "suspension": "No need for preoperative suspension",
+      "risk": "No significant anesthetic interactions; low toxicity",
+      "reintroduction": "May be continued or restarted without restriction postoperatively"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Serine",
+      "nomeComercial": "Serine, L-Serine, PureSerin, NeuroSerin",
+      "mecanismoAcao": "Non-essential amino acid involved in phospholipid, protein, and neurotransmitter synthesis; modulates NMDA receptor activity via conversion to D-serine and glycine.",
+      "farmacocinetica": "Efficient intestinal absorption via active transport; wide tissue distribution; crosses the blood-brain barrier; hepatic metabolism; renal elimination.",
+      "farmacodinamica": "Involved in myelin sheath synthesis and neural signaling; modulates NMDA and GABA receptors; has neurotrophic and neuroprotective functions.",
+      "indicacoes": "Neurological support, chronic fatigue, sleep disorders, neurodegenerative diseases (ALS, Alzheimer’s, schizophrenia - under investigation).",
+      "reacoesAdversas": "Generally well tolerated; mild side effects include nausea, headache, flatulence, and drowsiness.",
+      "riscoGravidez": "Category B (no risk found in animal studies; insufficient human data)",
+      "riscoLactacao": "Likely safe; no toxic excretion observed in breast milk",
+      "administracao": "Oral route; available as capsules, powders, or tablets",
+      "doseMaxima": "3g/day for adults, divided into 2-3 doses",
+      "doseMinima": "250mg/day for mild cognitive support",
+      "classificacao": "Functional amino acid / nutraceutical",
+      "apresentacao": "Soluble powder, capsules, tablets",
+      "interacaoMedicamento": "Synergistic potential with glycine, D-serine, NMDA modulators, and antidepressants; no known major drug interactions.",
+      "posologia": "Adults: 500mg to 3000mg/day, divided into 2–3 doses. Duration depends on condition.",
+      "armazenamento": "Store at room temperature (15–30°C), away from moisture and light",
+      "preparo": "Dissolve powder in water; shake until fully dissolved",
+      "solucoesCompatíveis": "Water, juice, plant-based milk",
+      "contraindicacoes": "Hypersensitivity. Caution in urea cycle disorders.",
+      "cuidadosMedicos": "Assess renal and hepatic function in long-term use. Monitor cognitive/neurological responses.",
+      "cuidadosFarmaceuticos": "Guide on divided dosing and proper hydration",
+      "cuidadosEnfermagem": "Watch for GI intolerance and adherence",
+      "fontesBibliograficas": "PubChem CID: 5951, NIH DSLD, Micromedex, FDA GRAS Database"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Serina",
+      "suspension": "No requiere suspensión preoperatoria",
+      "risk": "Sin interacciones anestésicas relevantes; toxicidad baja",
+      "reintroduction": "Puede mantenerse o reintroducirse sin restricción después de la cirugía"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Serina",
+      "nomeComercial": "Serina, L-Serina, NeuroSerina, Serina Pura",
+      "mecanismoAcao": "Aminoácido no esencial que participa en la síntesis de fosfolípidos, proteínas y neurotransmisores; actúa como modulador de los receptores NMDA.",
+      "farmacocinetica": "Buena absorción intestinal, distribución amplia, atraviesa la barrera hematoencefálica, metabolismo hepático, excreción renal.",
+      "farmacodinamica": "Favorece la mielinización y la señalización nerviosa; modula receptores NMDA y GABA; funciones neurotróficas.",
+      "indicacoes": "Apoyo neurológico, fatiga crónica, trastornos del sueño, enfermedades neurodegenerativas en estudio.",
+      "reacoesAdversas": "Generalmente bien tolerada; posibles náuseas, cefalea, gases y somnolencia.",
+      "riscoGravidez": "Categoría B (sin riesgo en animales, datos humanos limitados)",
+      "riscoLactacao": "Probablemente segura; no se conocen riesgos en leche materna",
+      "administracao": "Vía oral, en cápsulas, polvo o tabletas",
+      "doseMaxima": "3g/día en adultos, en 2 o 3 dosis",
+      "doseMinima": "250mg/día para soporte cognitivo",
+      "classificacao": "Aminoácido funcional / nutracéutico",
+      "apresentacao": "Polvo soluble, cápsulas, tabletas",
+      "interacaoMedicamento": "Potencial sinérgico con glicina, D-serina y moduladores NMDA; sin interacciones graves conocidas.",
+      "posologia": "Adultos: 500mg a 3000mg al día, fraccionado. Duración variable.",
+      "armazenamento": "15–30°C, protegido de luz y humedad",
+      "preparo": "Disolver en agua antes de ingerir si en polvo",
+      "solucoesCompatíveis": "Agua, zumo, leche vegetal",
+      "contraindicacoes": "Hipersensibilidad; precaución en trastornos del ciclo de la urea",
+      "cuidadosMedicos": "Evaluar función renal/hepática en uso prolongado; observar función cognitiva",
+      "cuidadosFarmaceuticos": "Orientar sobre la dosis dividida y buena hidratación",
+      "cuidadosEnfermagem": "Observar tolerancia gastrointestinal y adherencia",
+      "fontesBibliograficas": "PubChem, Micromedex, NIH, Base GRAS FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "丝氨酸",
+      "suspension": "术前无需停药",
+      "risk": "无显著麻醉相互作用；毒性低",
+      "reintroduction": "术后可继续使用或重新开始使用，无需特殊限制"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "丝氨酸",
+      "nomeComercial": "丝氨酸, L-丝氨酸, NeuroSerin, 纯丝氨酸",
+      "mecanismoAcao": "非必需氨基酸，参与磷脂、蛋白质和神经递质合成，调节NMDA受体活性。",
+      "farmacocinetica": "肠道有效吸收；分布广泛；可通过血脑屏障；肝脏代谢；肾脏排泄。",
+      "farmacodinamica": "参与髓鞘形成和神经信号传导；调节NMDA和GABA受体；具有神经营养作用。",
+      "indicacoes": "神经支持，慢性疲劳，睡眠障碍，神经退行性疾病（研究中）。",
+      "reacoesAdversas": "通常耐受良好；轻度副作用包括恶心、头痛、胀气和嗜睡。",
+      "riscoGravidez": "B类（动物未见风险，人体数据不足）",
+      "riscoLactacao": "可能安全；未观察到毒性乳汁排泄",
+      "administracao": "口服；胶囊、粉末或片剂形式",
+      "doseMaxima": "成人每日最多3克，分2-3次服用",
+      "doseMinima": "每日250毫克用于轻度认知支持",
+      "classificacao": "功能性氨基酸 / 营养补充剂",
+      "apresentacao": "可溶性粉末、胶囊、片剂",
+      "interacaoMedicamento": "与甘氨酸、D-丝氨酸、NMDA调节剂协同作用；无严重相互作用报道",
+      "posologia": "成人：每日500至3000毫克，分次服用，疗程依症状而定",
+      "armazenamento": "15–30°C，避光防潮",
+      "preparo": "粉末形式需用水溶解",
+      "solucoesCompatíveis": "水、果汁、植物奶",
+      "contraindicacoes": "对成分过敏；尿素循环障碍患者慎用",
+      "cuidadosMedicos": "长期使用需评估肝肾功能，监测神经反应",
+      "cuidadosFarmaceuticos": "指导分次服用和适当饮水",
+      "cuidadosEnfermagem": "观察胃肠道反应和依从性",
+      "fontesBibliograficas": "PubChem, Micromedex, NIH, FDA GRAS数据库"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Praziquantel",
+      "suspension": "Suspender 48 horas antes de cirurgias eletivas de médio ou grande porte",
+      "risk": "Interações com anestésicos, sedativos e risco de sintomas neurológicos em neurocisticercose",
+      "reintroduction": "Reintroduzir após estabilização clínica e reinício da via oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Praziquantel",
+      "nomeComercial": "Cisticid, Biltricide",
+      "mecanismoAcao": "Aumenta a permeabilidade da membrana celular ao cálcio nos parasitas, causando paralisia e morte",
+      "farmacocinetica": "Biodisponibilidade oral 80%; meia-vida 1,5h; metabolização hepática (CYP3A4)",
+      "farmacodinamica": "Eficaz contra cestódeos e trematódeos, incluindo Schistosoma spp. e Taenia spp.",
+      "indicacoes": "Esquistossomose, teníase, cisticercose, himenolepíase, opistorquíase",
+      "reacoesAdversas": "Cefaleia, tontura, sonolência, dor abdominal, febre, erupções cutâneas",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Segurança desconhecida; evitar por 72h após dose",
+      "administracao": "Oral",
+      "doseMaxima": "75mg/kg/dia (em 3 doses)",
+      "doseMinima": "10mg/kg (dose única)",
+      "classificacao": "Antiparasitário (anti-helmíntico)",
+      "apresentacao": "Comprimidos 600mg",
+      "interacaoMedicamento": "Indutores de CYP3A4 reduzem eficácia; aumento de efeitos com cimetidina",
+      "posologia": "20–75mg/kg/dia dividido em 1–3 tomadas, conforme parasita",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso direto por via oral",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia, doença ocular ativa por cisticercose, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar efeitos neurológicos em neuroinfecção, evitar sedativos no mesmo dia",
+      "cuidadosFarmaceuticos": "Orientar jejum leve e administração com líquido",
+      "cuidadosEnfermagem": "Observar sonolência, dor abdominal, vômitos e sintomas neurológicos",
+      "fontesBibliograficas": "ANVISA, UpToDate, FDA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Praziquantel",
+      "suspension": "Stop 48h before elective surgery",
+      "risk": "Interactions with anesthetics/sedatives; CNS effects in neurocysticercosis",
+      "reintroduction": "Restart after stable recovery and oral tolerance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Praziquantel",
+      "nomeComercial": "Biltricide",
+      "mecanismoAcao": "Increases calcium permeability in parasites, causing paralysis and death",
+      "farmacocinetica": "Oral bioavailability ~80%; half-life ~1.5h; hepatic metabolism (CYP3A4)",
+      "farmacodinamica": "Active against schistosomes and tapeworms",
+      "indicacoes": "Schistosomiasis, taeniasis, cysticercosis, clonorchiasis, hymenolepiasis",
+      "reacoesAdversas": "Headache, dizziness, drowsiness, abdominal pain, fever, rash",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Avoid breastfeeding for 72h after dose",
+      "administracao": "Oral",
+      "doseMaxima": "75mg/kg/day in 3 divided doses",
+      "doseMinima": "10mg/kg single dose",
+      "classificacao": "Anthelmintic (antiparasitic)",
+      "apresentacao": "600mg tablets",
+      "interacaoMedicamento": "CYP3A4 inducers reduce effect; cimetidine increases plasma levels",
+      "posologia": "20–75mg/kg/day divided in 1–3 doses based on parasite",
+      "armazenamento": "Room temperature, dry place",
+      "preparo": "Oral use only",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Ocular cysticercosis, hepatic failure, hypersensitivity",
+      "cuidadosMedicos": "Avoid sedatives same day; monitor for CNS effects",
+      "cuidadosFarmaceuticos": "Advise fasting and full glass of water",
+      "cuidadosEnfermagem": "Check for abdominal pain, drowsiness, vomiting, neuro symptoms",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Prazicuantel",
+      "suspension": "Suspender 48h antes de cirugía electiva",
+      "risk": "Interacción con anestésicos; efectos neurológicos en cisticercosis",
+      "reintroduction": "Reintroducir tras recuperación clínica y tolerancia oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prazicuantel",
+      "nomeComercial": "Cisticid",
+      "mecanismoAcao": "Aumenta la permeabilidad del calcio en parásitos, causando parálisis",
+      "farmacocinetica": "Biodisponibilidad ~80%; metabolismo hepático; vida media 1,5h",
+      "farmacodinamica": "Activo frente a esquistosomas y tenias",
+      "indicacoes": "Esquistosomiasis, neurocisticercosis, teniasis",
+      "reacoesAdversas": "Cefalea, somnolencia, náuseas, fiebre, erupción",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar durante 72h postdosis",
+      "administracao": "Oral",
+      "doseMaxima": "75mg/kg/día",
+      "doseMinima": "10mg/kg",
+      "classificacao": "Antiparasitario",
+      "apresentacao": "Comprimidos 600mg",
+      "interacaoMedicamento": "Cimetidina aumenta niveles; inductores del CYP3A4 los disminuyen",
+      "posologia": "20–75mg/kg/día en 1–3 dosis según parásito",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Cisticercosis ocular, hepatopatía grave",
+      "cuidadosMedicos": "Evitar sedantes en el día; controlar efectos neurológicos",
+      "cuidadosFarmaceuticos": "Ingerir en ayunas con abundante agua",
+      "cuidadosEnfermagem": "Observar dolor abdominal, somnolencia, síntomas neurológicos",
+      "fontesBibliograficas": "Micromedex, OMS, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "吡喹酮",
+      "suspension": "择期手术前48小时停药",
+      "risk": "与麻醉药相互作用，神经感染时可能诱发症状",
+      "reintroduction": "术后恢复进食及肝功能稳定后可重新服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "吡喹酮",
+      "nomeComercial": "Biltricide",
+      "mecanismoAcao": "增加寄生虫膜钙通透性，引起麻痹和死亡",
+      "farmacocinetica": "口服吸收好，肝代谢，半衰期约1.5小时",
+      "farmacodinamica": "对吸虫和绦虫有效",
+      "indicacoes": "血吸虫病、猪囊虫病、绦虫病",
+      "reacoesAdversas": "头晕、嗜睡、恶心、腹痛、皮疹、QT延长",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "避免72小时哺乳",
+      "administracao": "口服",
+      "doseMaxima": "每日75毫克/公斤（分3次）",
+      "doseMinima": "10毫克/公斤单次",
+      "classificacao": "驱虫药",
+      "apresentacao": "600毫克片剂",
+      "interacaoMedicamento": "CYP3A4诱导剂降低血药浓度，西咪替丁升高血药浓度",
+      "posologia": "根据感染类型每日1–3次，总剂量20–75mg/kg",
+      "armazenamento": "室温干燥保存",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "囊虫眼病、重度肝病、过敏",
+      "cuidadosMedicos": "避免当天使用镇静药物，注意神经系统反应",
+      "cuidadosFarmaceuticos": "空腹服药，避免与CYP3A4药物共用",
+      "cuidadosEnfermagem": "观察胃肠道反应、头晕、抽搐",
+      "fontesBibliograficas": "中国药典、WHO、Micromedex"
+    }
+  }
+}

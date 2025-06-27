@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pasireotida",
+      "suspension": "Suspender 5 a 7 dias antes de cirurgias eletivas de grande porte",
+      "risk": "Risco de hiperglicemia, prolongamento do intervalo QT, disfunção hepática e bradicardia; interações com anestésicos e fármacos antiarrítmicos",
+      "reintroduction": "Reintroduzir após recuperação clínica, normalização glicêmica e estabilidade cardíaca"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pasireotida",
+      "nomeComercial": "Signifor, Signifor LAR",
+      "mecanismoAcao": "Análogo da somatostatina com alta afinidade pelos receptores SSTR1, SSTR2, SSTR3 e principalmente SSTR5, inibindo secreções hormonais, como ACTH e GH",
+      "farmacocinetica": "Administração SC (Signifor) ou IM (Signifor LAR); meia-vida SC: ~12h; LAR: 23–29 dias; metabolização hepática mínima",
+      "farmacodinamica": "Reduz secreção de ACTH na doença de Cushing e GH na acromegalia, com maior potência que octreotida",
+      "indicacoes": "Doença de Cushing resistente à cirurgia; acromegalia refratária a análogos convencionais",
+      "reacoesAdversas": "Hiperglicemia, diabetes, diarreia, náusea, dor abdominal, cefaleia, prolongamento do QT, elevação de transaminases",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar; não se sabe se é excretado no leite",
+      "administracao": "Subcutânea (Signifor) ou intramuscular (Signifor LAR)",
+      "doseMaxima": "0,9 mg SC 2x/dia ou 60 mg IM/mês",
+      "doseMinima": "0,3 mg SC 2x/dia ou 10 mg IM/mês",
+      "classificacao": "Análogo de somatostatina",
+      "apresentacao": "Signifor: 0,3/0,6/0,9 mg em frascos; Signifor LAR: 10/20/30/40/60 mg pó liofilizado para suspensão IM",
+      "interacaoMedicamento": "Interage com fármacos hipoglicemiantes, antiarrítmicos, betabloqueadores e QT-prolongadores",
+      "posologia": "0,6–0,9 mg SC 2x/dia ou 20–60 mg IM a cada 4 semanas",
+      "armazenamento": "Refrigerado (2–8°C); não congelar; proteger da luz",
+      "preparo": "Signifor: pronto para uso; LAR: reconstituir com diluente próprio, usar imediatamente",
+      "solucoesCompatíveis": "SF 0,9% (para reconstituição LAR)",
+      "contraindicacoes": "QTc >480 ms, hipersensibilidade, descompensação hepática",
+      "cuidadosMedicos": "Monitorar ECG, glicemia, função hepática e eletrólitos",
+      "cuidadosFarmaceuticos": "Orientar quanto à conservação, uso asséptico e risco de hiperglicemia",
+      "cuidadosEnfermagem": "Avaliar glicemia, ritmo cardíaco, reações locais e sintomas gastrointestinais",
+      "fontesBibliograficas": "Micromedex, UpToDate, EMA, FDA, bula Signifor"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pasireotide",
+      "suspension": "Discontinue 5–7 days before major elective surgery",
+      "risk": "Risk of hyperglycemia, QT prolongation, liver dysfunction, bradycardia; interacts with anesthetics and antiarrhythmics",
+      "reintroduction": "Restart after clinical recovery, normoglycemia, and cardiac stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pasireotide",
+      "nomeComercial": "Signifor, Signifor LAR",
+      "mecanismoAcao": "Somatostatin analog with high affinity for SSTR1–3 and especially SSTR5, inhibiting hormone secretion including ACTH and GH",
+      "farmacocinetica": "SC (Signifor) or IM (LAR); half-life: SC ~12h, LAR ~23–29 days; minimal hepatic metabolism",
+      "farmacodinamica": "Suppresses ACTH in Cushing's disease and GH in acromegaly; more potent than octreotide",
+      "indicacoes": "Cushing’s disease unresponsive to surgery; acromegaly refractory to standard therapy",
+      "reacoesAdversas": "Hyperglycemia, diabetes, diarrhea, nausea, abdominal pain, headache, QT prolongation, elevated liver enzymes",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid; unknown if excreted in milk",
+      "administracao": "Subcutaneous (Signifor) or intramuscular (Signifor LAR)",
+      "doseMaxima": "0.9 mg SC BID or 60 mg IM/month",
+      "doseMinima": "0.3 mg SC BID or 10 mg IM/month",
+      "classificacao": "Somatostatin analog",
+      "apresentacao": "Signifor: 0.3/0.6/0.9 mg vials; LAR: 10/20/30/40/60 mg IM powder",
+      "interacaoMedicamento": "Interacts with insulin, antiarrhythmics, beta-blockers, QT-prolonging agents",
+      "posologia": "0.6–0.9 mg SC BID or 20–60 mg IM every 4 weeks",
+      "armazenamento": "Refrigerate (2–8°C); protect from light; do not freeze",
+      "preparo": "SC: ready to use; LAR: reconstitute immediately with diluent provided",
+      "solucoesCompatíveis": "0.9% NaCl (for LAR)",
+      "contraindicacoes": "QTc >480 ms, hypersensitivity, decompensated liver disease",
+      "cuidadosMedicos": "Monitor ECG, glucose, liver function, electrolytes",
+      "cuidadosFarmaceuticos": "Educate on storage, aseptic handling, risk of hyperglycemia",
+      "cuidadosEnfermagem": "Monitor glucose, ECG, injection site reactions, GI symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Signifor PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pasireotida",
+      "suspension": "Suspender 5–7 días antes de cirugía mayor",
+      "risk": "Riesgo de hiperglucemia, prolongación QT, disfunción hepática, bradicardia; interacción con anestésicos y antiarrítmicos",
+      "reintroduction": "Reiniciar tras recuperación clínica, glucemia normal y estabilidad cardíaca"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pasireotida",
+      "nomeComercial": "Signifor, Signifor LAR",
+      "mecanismoAcao": "Análogo de somatostatina con afinidad por SSTR1–3 y alta afinidad por SSTR5; inhibe secreciones hormonales como ACTH y GH",
+      "farmacocinetica": "SC (Signifor) o IM (LAR); vida media: SC ~12 h, LAR ~23–29 días; metabolismo hepático mínimo",
+      "farmacodinamica": "Suprime ACTH en enfermedad de Cushing y GH en acromegalia; más potente que octreotida",
+      "indicacoes": "Enfermedad de Cushing refractaria a cirugía; acromegalia resistente",
+      "reacoesAdversas": "Hiperglucemia, diabetes, diarrea, náuseas, dolor abdominal, cefalea, QT prolongado, elevación de transaminasas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar; se desconoce excreción en leche",
+      "administracao": "Subcutánea (Signifor) o intramuscular (Signifor LAR)",
+      "doseMaxima": "0.9 mg SC BID o 60 mg IM/mes",
+      "doseMinima": "0.3 mg SC BID o 10 mg IM/mes",
+      "classificacao": "Análogo de somatostatina",
+      "apresentacao": "Signifor: 0.3/0.6/0.9 mg; LAR: 10/20/30/40/60 mg en polvo IM",
+      "interacaoMedicamento": "Interacciones con insulina, antiarrítmicos, betabloqueantes, fármacos que prolongan QT",
+      "posologia": "0.6–0.9 mg SC BID o 20–60 mg IM cada 4 semanas",
+      "armazenamento": "Refrigerar (2–8°C); proteger de la luz; no congelar",
+      "preparo": "SC listo para usar; LAR reconstituir justo antes de usar",
+      "solucoesCompatíveis": "NaCl 0,9% (para LAR)",
+      "contraindicacoes": "QTc >480 ms, hipersensibilidad, hepatopatía descompensada",
+      "cuidadosMedicos": "Monitorear ECG, glucosa, función hepática y electrolitos",
+      "cuidadosFarmaceuticos": "Educar sobre conservación, manejo aséptico y riesgo glucémico",
+      "cuidadosEnfermagem": "Observar glucemia, ritmo, reacciones locales, síntomas GI",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Signifor"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "帕西瑞肽",
+      "suspension": "择期大手术前应停药5–7天",
+      "risk": "高血糖、QT延长、肝功能异常、心动过缓；与麻醉药及抗心律失常药有相互作用",
+      "reintroduction": "术后病情稳定、血糖正常、心电恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "帕西瑞肽",
+      "nomeComercial": "Signifor、Signifor LAR",
+      "mecanismoAcao": "作用于多种生长抑素受体（SSTR1-5），尤其对SSTR5亲和力高，抑制ACTH与GH分泌",
+      "farmacocinetica": "SC（普通型）或IM（LAR）；SC半衰期约12小时，LAR约23–29天，肝代谢少",
+      "farmacodinamica": "强效抑制Cushing病ACTH与肢端肥大症GH水平，效力优于奥曲肽",
+      "indicacoes": "对手术无效的Cushing病，耐药性肢端肥大症",
+      "reacoesAdversas": "高血糖、糖尿病、腹泻、恶心、腹痛、QT延长、肝酶升高",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不明，建议停哺",
+      "administracao": "皮下注射（Signifor）或肌注（LAR）",
+      "doseMaxima": "SC 0.9 mg BID，LAR 60 mg/月",
+      "doseMinima": "SC 0.3 mg BID，LAR 10 mg/月",
+      "classificacao": "生长抑素类似物",
+      "apresentacao": "Signifor注射液0.3/0.6/0.9 mg；LAR粉针10–60 mg",
+      "interacaoMedicamento": "注意与胰岛素、QT延长药、β阻滞剂、抗心律药物相互作用",
+      "posologia": "SC每日2次，每次0.6–0.9 mg；LAR每月IM注射20–60 mg",
+      "armazenamento": "冷藏2–8°C，避光，勿冷冻",
+      "preparo": "普通型即用型；LAR需使用专用稀释液即配即用",
+      "solucoesCompatíveis": "0.9%氯化钠（仅限LAR）",
+      "contraindicacoes": "QTc＞480 ms，肝功能严重障碍，过敏者",
+      "cuidadosMedicos": "监测心电图、血糖、电解质及肝功能",
+      "cuidadosFarmaceuticos": "宣教储存要求、无菌注射技术及血糖监测",
+      "cuidadosEnfermagem": "观察局部反应、心电、胃肠症状与血糖波动",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Signifor说明书"
+    }
+  }
+}

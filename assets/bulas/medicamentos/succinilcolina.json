@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Succinilcolina",
+      "suspension": "Não suspender – uso exclusivo intraoperatório e em emergências",
+      "risk": "Hipertermia maligna, bradicardia, hipercalemia, paralisia prolongada em pacientes com colinesterase atípica",
+      "reintroduction": "Reintroduzir apenas em ambiente controlado com monitorização contínua e suporte avançado disponível"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloreto de Succinilcolina",
+      "nomeComercial": "Anectine, Suxametonio, Quelicin",
+      "mecanismoAcao": "Bloqueador neuromuscular despolarizante; mimetiza acetilcolina causando despolarização persistente e paralisia",
+      "farmacocinetica": "Início em 30–60s, duração 4–10 min, hidrolisado por pseudo-colinesterase plasmática",
+      "farmacodinamica": "Induz paralisia muscular rápida e transitória; usado para intubação de sequência rápida",
+      "indicacoes": "Facilitação de intubação de sequência rápida, controle breve de ventilação, convulsões refratárias",
+      "reacoesAdversas": "Bradicardia, arritmias, mialgia, hipercalemia, rabdomiólise, hipertermia maligna",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado em pequenas quantidades; uso único geralmente considerado seguro",
+      "administracao": "Intravenosa ou intramuscular",
+      "doseMaxima": "2 mg/kg (IV); 4 mg/kg (IM)",
+      "doseMinima": "0,3 mg/kg",
+      "classificacao": "Bloqueador neuromuscular despolarizante de ação ultracurta",
+      "apresentacao": "Solução injetável 20mg/mL – ampolas de 2mL, 5mL ou 10mL",
+      "interacaoMedicamento": "Potencializado por halotano, antibióticos, inibidores da colinesterase; incompatível com vários fármacos",
+      "posologia": "Intubação: 1–1,5 mg/kg IV em bolus; dose IM: 3–4 mg/kg (máx. 150mg)",
+      "armazenamento": "2–8°C; solução sensível ao calor e à luz",
+      "preparo": "Pronta para uso; não diluir",
+      "solucoesCompatíveis": "SF 0,9% se necessário",
+      "contraindicacoes": "Hipertermia maligna, histórico de paralisia prolongada, trauma recente, queimaduras extensas, insuficiência renal com hipercalemia",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, temperatura e sinais de paralisia prolongada",
+      "cuidadosFarmaceuticos": "Manter refrigerado, não congelar; inspecionar cor e transparência",
+      "cuidadosEnfermagem": "Observar fasciculações, garantir ventilação e suporte vital avançado",
+      "fontesBibliograficas": "SBAn, FDA, ANVISA, EMA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Succinylcholine",
+      "suspension": "Do not suspend – used only intraoperatively or in emergency intubation",
+      "risk": "Malignant hyperthermia, bradycardia, hyperkalemia, prolonged paralysis in patients with pseudocholinesterase deficiency",
+      "reintroduction": "Re-administer only with full monitoring and airway control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Succinylcholine Chloride",
+      "nomeComercial": "Anectine, Quelicin, Suxamethonium",
+      "mecanismoAcao": "Depolarizing neuromuscular blocker; mimics acetylcholine causing persistent depolarization",
+      "farmacocinetica": "Onset 30–60s, duration 4–10 min, metabolized by plasma pseudocholinesterase",
+      "farmacodinamica": "Produces rapid and short-lasting paralysis; used for rapid sequence intubation",
+      "indicacoes": "Facilitation of endotracheal intubation, short-term paralysis, refractory status epilepticus",
+      "reacoesAdversas": "Bradycardia, arrhythmias, myalgia, hyperkalemia, rhabdomyolysis, malignant hyperthermia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in small amounts; single-dose use considered safe",
+      "administracao": "Intravenous or intramuscular",
+      "doseMaxima": "2 mg/kg (IV); 4 mg/kg (IM)",
+      "doseMinima": "0.3 mg/kg",
+      "classificacao": "Ultra-short acting depolarizing neuromuscular blocker",
+      "apresentacao": "Injection 20mg/mL – 2mL, 5mL, 10mL ampoules",
+      "interacaoMedicamento": "Potentiated by halothane, aminoglycosides, cholinesterase inhibitors",
+      "posologia": "RSI: 1–1.5 mg/kg IV bolus; IM: 3–4 mg/kg (max 150mg)",
+      "armazenamento": "Store at 2–8°C; protect from light and heat",
+      "preparo": "Ready-to-use; do not dilute",
+      "solucoesCompatíveis": "0.9% saline if required",
+      "contraindicacoes": "Malignant hyperthermia, recent trauma, major burns, neuromuscular disease, renal failure with hyperkalemia",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, temperature, TOF, and prolonged paralysis signs",
+      "cuidadosFarmaceuticos": "Refrigerate; inspect visually for discoloration",
+      "cuidadosEnfermagem": "Observe fasciculations, ensure ventilation and airway support",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, ASA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Succinilcolina",
+      "suspension": "No suspender – uso exclusivo en quirófano o emergencias",
+      "risk": "Hipertermia maligna, bradicardia, hipercalemia, parálisis prolongada en pacientes con colinesterasa atípica",
+      "reintroduction": "Reintroducir solo bajo vigilancia y con soporte avanzado disponible"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloruro de Succinilcolina",
+      "nomeComercial": "Anectine, Quelicin, Suxametonio",
+      "mecanismoAcao": "Bloqueador neuromuscular despolarizante; imita la acetilcolina causando despolarización persistente",
+      "farmacocinetica": "Inicio: 30–60s, duración: 4–10 min, metabolizado por colinesterasa plasmática",
+      "farmacodinamica": "Parálisis muscular rápida y corta; se usa para intubación de secuencia rápida",
+      "indicacoes": "Intubación rápida, control ventilatorio breve, estatus epiléptico refractario",
+      "reacoesAdversas": "Bradicardia, arritmias, mialgia, hipercalemia, rabdomiólisis, hipertermia maligna",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Excreción baja; dosis única se considera segura",
+      "administracao": "Intravenosa o intramuscular",
+      "doseMaxima": "2 mg/kg (IV); 4 mg/kg (IM)",
+      "doseMinima": "0,3 mg/kg",
+      "classificacao": "Bloqueador neuromuscular despolarizante de acción ultracorta",
+      "apresentacao": "Solución inyectable 20mg/mL – ampollas 2mL, 5mL, 10mL",
+      "interacaoMedicamento": "Potenciado por halotano, antibióticos, inhibidores de colinesterasa",
+      "posologia": "Intubación: 1–1,5 mg/kg IV; IM: 3–4 mg/kg (máx. 150mg)",
+      "armazenamento": "2–8°C; sensible al calor y la luz",
+      "preparo": "Solución lista para usar; no diluir",
+      "solucoesCompatíveis": "Solución salina 0.9% si se necesita",
+      "contraindicacoes": "Hipertermia maligna, traumatismo reciente, quemaduras extensas, insuficiencia renal con hipercalemia",
+      "cuidadosMedicos": "Monitorizar ECG, electrolitos, temperatura y signos de parálisis prolongada",
+      "cuidadosFarmaceuticos": "Mantener refrigerado, no congelar, inspeccionar visualmente",
+      "cuidadosEnfermagem": "Observar fasciculaciones, asegurar vía aérea y ventilación",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, Guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "琥珀胆碱",
+      "suspension": "不需停药——术中或紧急插管时使用",
+      "risk": "恶性高热、心动过缓、高钾血症、胆碱酯酶缺乏者可致持续性肌松",
+      "reintroduction": "术后仅在有完整监护和呼吸支持下可再次使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "琥珀胆碱氯化物",
+      "nomeComercial": "Anectine, 琥珀甲胆碱注射液",
+      "mecanismoAcao": "去极化型神经肌肉阻滞剂，模拟乙酰胆碱造成持续性去极化",
+      "farmacocinetica": "起效30–60秒，持续4–10分钟，经血浆胆碱酯酶水解",
+      "farmacodinamica": "快速短效肌松，用于快速插管",
+      "indicacoes": "紧急气管插管、短时间通气控制、难治性癫痫发作",
+      "reacoesAdversas": "心动过缓、心律失常、肌肉疼痛、高钾血症、横纹肌溶解、恶性高热",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可微量分泌入乳汁，一次性使用一般安全",
+      "administracao": "静脉或肌肉注射",
+      "doseMaxima": "2 mg/kg (IV)；4 mg/kg (IM)",
+      "doseMinima": "0.3 mg/kg",
+      "classificacao": "超短效去极化型肌松剂",
+      "apresentacao": "注射液20mg/mL，2mL、5mL、10mL安瓿",
+      "interacaoMedicamento": "与氟烷、氨基糖苷类、胆碱酯酶抑制剂协同增强",
+      "posologia": "快速插管：1–1.5 mg/kg IV；肌注：3–4 mg/kg（最大150mg）",
+      "armazenamento": "2–8°C冷藏避光，不可冷冻",
+      "preparo": "无需稀释，现成注射液",
+      "solucoesCompatíveis": "0.9%生理盐水",
+      "contraindicacoes": "恶性高热史、烧伤、外伤、肾衰伴高钾血症、胆碱酯酶异常",
+      "cuidadosMedicos": "监测心电图、电解质、体温、TOF与肌松持续时间",
+      "cuidadosFarmaceuticos": "冷藏保存，避免变色，使用前检查澄清度",
+      "cuidadosEnfermagem": "观察肌束震颤，确保通气与气道管理",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

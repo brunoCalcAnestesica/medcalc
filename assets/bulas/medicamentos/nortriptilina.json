@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nortriptilina",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de arritmias, hipotensão, potencial interação com anestésicos e risco de síndrome serotoninérgica com opioides",
+      "reintroduction": "Reintroduzir somente após recuperação hemodinâmica e sob monitoramento cardiovascular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nortriptilina",
+      "nomeComercial": "Pamelor, Aventyl, Nortrilin, Notrux",
+      "mecanismoAcao": "Inibe a recaptação neuronal de noradrenalina e, em menor grau, de serotonina",
+      "farmacocinetica": "Alta biodisponibilidade oral, pico plasmático em 4-8h, meia-vida de 18-44h, metabolizado pelo fígado (CYP2D6)",
+      "farmacodinamica": "Antidepressivo tricíclico com efeito sedativo e potencial anticolinérgico",
+      "indicacoes": "Depressão maior, dor neuropática, enurese noturna, profilaxia de enxaqueca",
+      "reacoesAdversas": "Boca seca, constipação, retenção urinária, ganho de peso, taquicardia, arritmias, confusão",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Pode ser excretada no leite materno; uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "150mg/dia",
+      "doseMinima": "25mg/dia",
+      "classificacao": "Antidepressivo tricíclico",
+      "apresentacao": "Comprimidos de 10mg, 25mg, 50mg",
+      "interacaoMedicamento": "Interage com IMAO, anticolinérgicos, anestésicos halogenados, anti-hipertensivos, álcool e opioides",
+      "posologia": "Iniciar com 25mg à noite, podendo aumentar progressivamente conforme resposta",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Infarto do miocárdio recente, arritmias, glaucoma de ângulo fechado, retenção urinária",
+      "cuidadosMedicos": "Avaliar ECG pré-operatório, monitorar sinais vitais, evitar combinação com anestésicos que prolongam QT",
+      "cuidadosFarmaceuticos": "Atenção a interações CYP2D6 e validade do lote",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade cardíaca, delírio, retenção urinária",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, SBAn, NICE"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nortriptyline",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of arrhythmias, hypotension, anesthetic interactions, and serotonin syndrome with opioids",
+      "reintroduction": "Restart only after hemodynamic stability and with cardiovascular monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nortriptyline",
+      "nomeComercial": "Pamelor, Aventyl, Norpramin, Nortrilen",
+      "mecanismoAcao": "Inhibits reuptake of norepinephrine and to a lesser extent serotonin",
+      "farmacocinetica": "High oral bioavailability, peak at 4–8h, half-life 18–44h, metabolized via CYP2D6",
+      "farmacodinamica": "Tricyclic antidepressant with sedative and anticholinergic effects",
+      "indicacoes": "Major depressive disorder, neuropathic pain, enuresis, migraine prophylaxis",
+      "reacoesAdversas": "Dry mouth, constipation, urinary retention, weight gain, tachycardia, arrhythmias, confusion",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; caution advised",
+      "administracao": "Oral route",
+      "doseMaxima": "150mg/day",
+      "doseMinima": "25mg/day",
+      "classificacao": "Tricyclic antidepressant",
+      "apresentacao": "Tablets: 10mg, 25mg, 50mg",
+      "interacaoMedicamento": "Interacts with MAOIs, anticholinergics, volatile anesthetics, antihypertensives, opioids, alcohol",
+      "posologia": "Start with 25mg at bedtime; titrate gradually",
+      "armazenamento": "Store at 15–30°C, protect from light and moisture",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Recent myocardial infarction, arrhythmias, narrow-angle glaucoma, urinary retention",
+      "cuidadosMedicos": "Obtain ECG pre-op, monitor vitals, avoid QT-prolonging agents",
+      "cuidadosFarmaceuticos": "Check CYP2D6 interactions and batch expiration",
+      "cuidadosEnfermagem": "Watch for cardiac toxicity, delirium, urinary retention",
+      "fontesBibliograficas": "FDA, Micromedex, AHFS, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nortriptilina",
+      "suspension": "Suspender 7 días antes de la cirugía electiva",
+      "risk": "Riesgo de arritmias, hipotensión, interacción con anestésicos y síndrome serotoninérgico con opioides",
+      "reintroduction": "Reintroducir solo tras estabilidad hemodinámica y monitorización cardiovascular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nortriptilina",
+      "nomeComercial": "Pamelor, Aventyl, Nortrilen",
+      "mecanismoAcao": "Inhibe la recaptación de noradrenalina y en menor grado de serotonina",
+      "farmacocinetica": "Buena biodisponibilidad oral, pico 4–8h, vida media 18–44h, metabolismo hepático (CYP2D6)",
+      "farmacodinamica": "Antidepresivo tricíclico con efectos sedantes y anticolinérgicos",
+      "indicacoes": "Depresión mayor, dolor neuropático, enuresis nocturna, migraña",
+      "reacoesAdversas": "Sequedad bucal, estreñimiento, retención urinaria, taquicardia, aumento de peso, confusión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Puede excretarse en la leche; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "150mg/día",
+      "doseMinima": "25mg/día",
+      "classificacao": "Antidepresivo tricíclico",
+      "apresentacao": "Comprimidos: 10mg, 25mg, 50mg",
+      "interacaoMedicamento": "Interacción con IMAO, anticolinérgicos, anestésicos halogenados, opioides, alcohol",
+      "posologia": "Comenzar con 25mg por la noche; ajustar gradualmente",
+      "armazenamento": "Temperatura entre 15–30°C, proteger de la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infarto reciente, arritmias, glaucoma de ángulo cerrado, retención urinaria",
+      "cuidadosMedicos": "Evaluar ECG prequirúrgico, monitorizar constantes, evitar prolongadores del QT",
+      "cuidadosFarmaceuticos": "Verificar interacciones CYP2D6 y caducidad",
+      "cuidadosEnfermagem": "Observar toxicidad cardíaca, delirio, retención urinaria",
+      "fontesBibliograficas": "EMA, AEMPS, Micromedex, Guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "去甲替林",
+      "suspension": "术前7天停药",
+      "risk": "可能引起心律失常、低血压，与麻醉药相互作用，并可能与阿片类引发血清素综合征",
+      "reintroduction": "术后恢复血流动力学稳定后，可在心脏监测下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "去甲替林",
+      "nomeComercial": "帕美乐（Pamelor）, Aventyl, 诺替林片",
+      "mecanismoAcao": "抑制去甲肾上腺素和部分血清素的再摄取",
+      "farmacocinetica": "口服吸收良好，血药峰值4-8小时，半衰期18–44小时，经CYP2D6肝代谢",
+      "farmacodinamica": "三环类抗抑郁药，具镇静和抗胆碱作用",
+      "indicacoes": "重度抑郁症、神经性疼痛、夜间遗尿、偏头痛预防",
+      "reacoesAdversas": "口干、便秘、尿潴留、体重增加、心动过速、意识混乱",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，谨慎使用",
+      "administracao": "口服",
+      "doseMaxima": "每日150毫克",
+      "doseMinima": "每日25毫克",
+      "classificacao": "三环类抗抑郁药",
+      "apresentacao": "片剂：10mg、25mg、50mg",
+      "interacaoMedicamento": "与MAOI、抗胆碱药、挥发性麻醉剂、阿片类、酒精等互作",
+      "posologia": "起始剂量25mg，睡前服用，逐渐调整",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "近期心梗、心律不齐、闭角型青光眼、尿潴留",
+      "cuidadosMedicos": "术前做心电图，术中监测生命体征，避免QT延长药物",
+      "cuidadosFarmaceuticos": "注意CYP2D6酶代谢和有效期",
+      "cuidadosEnfermagem": "观察心脏毒性、谵妄、尿潴留等表现",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、UpToDate"
+    }
+  }
+}

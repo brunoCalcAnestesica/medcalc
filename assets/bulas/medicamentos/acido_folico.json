@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido fólico",
+      "suspension": "Não é necessário suspender na maioria das cirurgias",
+      "risk": "Baixo risco cirúrgico; essencial para síntese de DNA e prevenção de anemia megaloblástica; suspensões raramente indicadas, exceto em doença hepática aguda grave",
+      "reintroduction": "Manter ou reiniciar precocemente no pós-operatório, especialmente em gestantes, idosos e anêmicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido fólico (vitamina B9)",
+      "nomeComercial": "Folavit, Endofolin, Fólix, Natufolin, Folacin",
+      "mecanismoAcao": "Cofator essencial na síntese de purinas e timidilato, fundamental para proliferação celular e eritropoiese",
+      "farmacocinetica": "Absorção rápida no jejuno; armazenado no fígado; meia-vida curta; excreção renal",
+      "farmacodinamica": "Corrige deficiências nutricionais, melhora a hematopoese e reduz hiper-homocisteinemia",
+      "indicacoes": "Anemia megaloblástica, prevenção de defeitos do tubo neural, uso em gestantes, alcoolismo, doenças crônicas",
+      "reacoesAdversas": "Raras; em doses elevadas pode causar insônia, irritabilidade, distúrbios gastrointestinais",
+      "riscoGravidez": "Categoria A – seguro e recomendado",
+      "riscoLactacao": "Seguro durante a amamentação",
+      "administracao": "Oral ou intramuscular",
+      "doseMaxima": "5mg/dia (terapêutica); até 10mg/dia em casos especiais",
+      "doseMinima": "0,4mg/dia (prevenção)",
+      "classificacao": "Vitamina hidrossolúvel do complexo B",
+      "apresentacao": "Comprimidos de 0,4mg, 2,5mg e 5mg; solução injetável",
+      "interacaoMedicamento": "Interage com metotrexato, sulfassalazina, anticonvulsivantes; pode antagonizar efeitos do trimetoprim",
+      "posologia": "Prevenção: 0,4–1mg/dia; tratamento: 1–5mg/dia",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Soro fisiológico 0,9% (para uso IM)",
+      "contraindicacoes": "Hipersensibilidade ao ácido fólico ou derivados",
+      "cuidadosMedicos": "Confirmar deficiência por dosagem sérica; diferenciar de deficiência de B12",
+      "cuidadosFarmaceuticos": "Orientar uso contínuo, especialmente em gestantes e idosos",
+      "cuidadosEnfermagem": "Observar adesão ao tratamento e melhora do hemograma",
+      "fontesBibliograficas": "ANVISA, SBH, FDA, EMA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Folic acid",
+      "suspension": "Not required to suspend in most surgeries",
+      "risk": "Very low surgical risk; essential for DNA synthesis and red blood cell production; avoid only in acute liver failure",
+      "reintroduction": "Maintain or restart early postoperatively, especially in pregnant, elderly, or anemic patients"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Folic acid (vitamin B9)",
+      "nomeComercial": "Folacin, Folicet, FA-8, Nature’s Blend Folic Acid",
+      "mecanismoAcao": "Essential cofactor in nucleotide synthesis and cell proliferation",
+      "farmacocinetica": "Rapid absorption in jejunum; hepatic storage; renal excretion",
+      "farmacodinamica": "Corrects folate deficiency, supports hematopoiesis, lowers homocysteine",
+      "indicacoes": "Megaloblastic anemia, neural tube defect prevention, pregnancy, alcoholism",
+      "reacoesAdversas": "Rare; high doses may cause GI upset, insomnia, irritability",
+      "riscoGravidez": "Category A – safe and recommended",
+      "riscoLactacao": "Safe during breastfeeding",
+      "administracao": "Oral or intramuscular",
+      "doseMaxima": "5mg/day (therapeutic); up to 10mg/day in specific cases",
+      "doseMinima": "0.4mg/day (prevention)",
+      "classificacao": "Water-soluble B-complex vitamin",
+      "apresentacao": "Tablets (0.4mg, 1mg, 5mg); injectable solution",
+      "interacaoMedicamento": "Interacts with methotrexate, sulfasalazine, antiepileptics",
+      "posologia": "Prevention: 0.4–1mg/day; treatment: 1–5mg/day",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "0.9% sodium chloride (for IM use)",
+      "contraindicacoes": "Hypersensitivity to folic acid",
+      "cuidadosMedicos": "Assess serum folate; differentiate from B12 deficiency",
+      "cuidadosFarmaceuticos": "Educate on continuous use and adherence",
+      "cuidadosEnfermagem": "Monitor CBC and treatment adherence",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex, NIH"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido fólico",
+      "suspension": "No requiere suspensión en la mayoría de cirugías",
+      "risk": "Riesgo quirúrgico bajo; necesario para síntesis de ADN y eritropoyesis; se evita solo en hepatopatías agudas graves",
+      "reintroduction": "Mantener o reiniciar precozmente en el postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido fólico (vitamina B9)",
+      "nomeComercial": "Folacín, Folifer, Folvite",
+      "mecanismoAcao": "Cofactor vital para la síntesis de nucleótidos y proliferación celular",
+      "farmacocinetica": "Absorción intestinal rápida, almacenamiento hepático, eliminación renal",
+      "farmacodinamica": "Corrige deficiencia de folatos, apoya hematopoyesis y reduce homocisteína",
+      "indicacoes": "Anemia megaloblástica, prevención de defectos del tubo neural, embarazo",
+      "reacoesAdversas": "Raras; dosis altas pueden provocar molestias gastrointestinales, insomnio",
+      "riscoGravidez": "Categoría A – seguro y recomendado",
+      "riscoLactacao": "Seguro durante la lactancia",
+      "administracao": "Oral o IM",
+      "doseMaxima": "5mg/día; hasta 10mg/día en casos especiales",
+      "doseMinima": "0,4mg/día",
+      "classificacao": "Vitamina hidrosoluble del grupo B",
+      "apresentacao": "Comprimidos, solución inyectable",
+      "interacaoMedicamento": "Metotrexato, sulfasalazina, anticonvulsivos",
+      "posologia": "0,4–1mg/día (prevención); 1–5mg/día (tratamiento)",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "ClNa 0,9% (uso IM)",
+      "contraindicacoes": "Hipersensibilidad conocida",
+      "cuidadosMedicos": "Evaluar folato sérico y descartar déficit de B12",
+      "cuidadosFarmaceuticos": "Aconsejar continuidad y supervisión",
+      "cuidadosEnfermagem": "Vigilar hemograma y respuesta clínica",
+      "fontesBibliograficas": "EMA, Micromedex, Medscape, AEP"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "叶酸",
+      "suspension": "大多数手术无需停药",
+      "risk": "手术风险极低；必要用于DNA合成与红细胞生成，仅在严重肝病时需暂停",
+      "reintroduction": "术后早期可继续服用，尤其适用于孕妇及贫血患者"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "叶酸（维生素B9）",
+      "nomeComercial": "福力维、复合维B、Folinic",
+      "mecanismoAcao": "核苷酸合成的关键辅酶，促进细胞分裂与红细胞生成",
+      "farmacocinetica": "小肠迅速吸收，肝脏储存，肾脏排泄",
+      "farmacodinamica": "纠正叶酸缺乏，促进造血，降低同型半胱氨酸",
+      "indicacoes": "巨幼红细胞性贫血、神经管缺陷预防、妊娠补充",
+      "reacoesAdversas": "高剂量时可能胃肠不适、失眠、烦躁",
+      "riscoGravidez": "A类 – 安全并推荐",
+      "riscoLactacao": "哺乳期安全",
+      "administracao": "口服或肌注",
+      "doseMaxima": "每日5毫克（治疗）；特殊情况可达10毫克",
+      "doseMinima": "每日0.4毫克（预防）",
+      "classificacao": "水溶性B族维生素",
+      "apresentacao": "片剂、注射液",
+      "interacaoMedicamento": "与甲氨蝶呤、磺胺类、抗癫痫药物相互作用",
+      "posologia": "预防：0.4–1mg/日；治疗：1–5mg/日",
+      "armazenamento": "室温保存，避光",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "0.9%氯化钠（肌注）",
+      "contraindicacoes": "对叶酸过敏",
+      "cuidadosMedicos": "检测血清叶酸，排除B12缺乏",
+      "cuidadosFarmaceuticos": "教育持续服用的重要性",
+      "cuidadosEnfermagem": "监测血常规和临床反应",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex"
+    }
+  }
+}

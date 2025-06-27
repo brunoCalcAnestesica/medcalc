@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lenalidomida",
+      "suspension": "Suspender 7 a 10 dias antes de cirurgias eletivas devido ao risco de trombose e mielossupressão",
+      "risk": "Trombose venosa profunda, neutropenia, plaquetopenia, infecção, atraso na cicatrização, interação com anestésicos hematotóxicos",
+      "reintroduction": "Reintroduzir após recuperação hematológica e cicatrização satisfatória, geralmente entre 10 e 21 dias após a cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lenalidomida",
+      "nomeComercial": "Revlimid",
+      "mecanismoAcao": "Imunomodulador que inibe angiogênese, estimula citotoxicidade de células NK e T, e modula expressão de citocinas",
+      "farmacocinetica": "Biodisponibilidade oral >90%; meia-vida ~3h; excreção renal; não metabolizada significativamente por CYP450",
+      "farmacodinamica": "Reduz a proliferação tumoral, estimula resposta imune antineoplásica, efeito antiproliferativo e antiangiogênico",
+      "indicacoes": "Mieloma múltiplo, síndrome mielodisplásica (com deleção 5q), linfoma de células do manto, linfoma folicular",
+      "reacoesAdversas": "Neutropenia, trombocitopenia, constipação, prurido, rash, fadiga, eventos tromboembólicos, neuropatia",
+      "riscoGravidez": "Categoria X – altamente teratogênico; uso estritamente contraindicado durante a gestação",
+      "riscoLactacao": "Contraindicado; não se sabe se é excretado no leite humano",
+      "administracao": "Via oral",
+      "doseMaxima": "25mg/dia (em protocolos oncológicos)",
+      "doseMinima": "2,5mg/dia (ajuste em idosos ou IRC)",
+      "classificacao": "Agente imunomodulador; derivado da talidomida; antineoplásico",
+      "apresentacao": "Cápsulas de 2,5mg, 5mg, 10mg, 15mg, 25mg",
+      "interacaoMedicamento": "Aumenta risco de trombose com dexametasona; cuidado com anticoagulantes e eritropoetinas",
+      "posologia": "Mieloma múltiplo: 25mg/dia por 21 dias em ciclos de 28 dias com dexametasona; ajustar em insuficiência renal",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Manusear com luvas; evitar contato direto com cápsulas danificadas",
+      "solucoesCompatíveis": "Não aplicável (uso oral)",
+      "contraindicacoes": "Gravidez, hipersensibilidade, amamentação",
+      "cuidadosMedicos": "Avaliar risco trombótico; rastrear gravidez antes do início; monitorar hemograma a cada 2 semanas no início",
+      "cuidadosFarmaceuticos": "Dispensação controlada (Programa Lenalidomida); reforçar adesão e medidas contraceptivas",
+      "cuidadosEnfermagem": "Monitorar sinais de trombose, rash, neuropatia e citopenias",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN Guidelines, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lenalidomide",
+      "suspension": "Discontinue 7–10 days prior to elective surgery due to thrombosis and myelosuppression risk",
+      "risk": "Deep vein thrombosis, neutropenia, thrombocytopenia, infection, delayed healing, interaction with hematotoxic anesthetics",
+      "reintroduction": "Restart after hematologic recovery and proper wound healing, typically 10–21 days post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lenalidomide",
+      "nomeComercial": "Revlimid",
+      "mecanismoAcao": "Immunomodulatory agent that inhibits angiogenesis, enhances NK/T cell cytotoxicity, and alters cytokine expression",
+      "farmacocinetica": "Oral bioavailability >90%; T½ ~3h; primarily renally excreted; minimal CYP450 metabolism",
+      "farmacodinamica": "Anti-tumor, immunostimulatory, and antiangiogenic properties",
+      "indicacoes": "Multiple myeloma, myelodysplastic syndrome with del(5q), mantle cell lymphoma, follicular lymphoma",
+      "reacoesAdversas": "Neutropenia, thrombocytopenia, constipation, fatigue, rash, thromboembolism, peripheral neuropathy",
+      "riscoGravidez": "Category X – known teratogen; absolute contraindication",
+      "riscoLactacao": "Contraindicated; unknown if excreted in human milk",
+      "administracao": "Oral route",
+      "doseMaxima": "25mg/day (standard induction dosing)",
+      "doseMinima": "2.5mg/day (renal adjustment)",
+      "classificacao": "Immunomodulatory antineoplastic agent; thalidomide derivative",
+      "apresentacao": "Capsules 2.5mg, 5mg, 10mg, 15mg, 25mg",
+      "interacaoMedicamento": "Increased thrombotic risk with dexamethasone; caution with anticoagulants",
+      "posologia": "25mg daily for 21/28 days with dexamethasone; adjust for renal function",
+      "armazenamento": "Room temperature (15–30°C), protect from light/moisture",
+      "preparo": "Gloves recommended; avoid contact with broken capsules",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, hypersensitivity, breastfeeding",
+      "cuidadosMedicos": "Pregnancy testing required; CBC monitoring; thromboprophylaxis advised",
+      "cuidadosFarmaceuticos": "Dispensed under REMS program; patient education critical",
+      "cuidadosEnfermagem": "Monitor for cytopenias, thromboembolic signs, rash, neuropathy",
+      "fontesBibliograficas": "FDA label, REMS program, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lenalidomida",
+      "suspension": "Suspender 7–10 días antes de cirugías electivas por riesgo hematológico y trombótico",
+      "risk": "Trombosis, neutropenia, trombocitopenia, infección, retardo de cicatrización",
+      "reintroduction": "Reintroducir tras recuperación hematológica y buena cicatrización"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lenalidomida",
+      "nomeComercial": "Revlimid",
+      "mecanismoAcao": "Modulador inmunológico que inhibe la angiogénesis, potencia linfocitos T/NK y regula citocinas",
+      "farmacocinetica": "Alta biodisponibilidad oral; vida media ~3h; excreción renal",
+      "farmacodinamica": "Efectos antitumorales, inmunoestimulantes y antiangiogénicos",
+      "indicacoes": "Mieloma múltiple, SMD con deleción 5q, linfoma de células del manto, linfoma folicular",
+      "reacoesAdversas": "Neutropenia, trombocitopenia, fatiga, estreñimiento, erupciones, trombosis, neuropatía",
+      "riscoGravidez": "Categoría X – teratógeno; uso estrictamente prohibido",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Vía oral",
+      "doseMaxima": "25mg/día",
+      "doseMinima": "2,5mg/día",
+      "classificacao": "Agente inmunomodulador; derivado de talidomida",
+      "apresentacao": "Cápsulas 2,5–25mg",
+      "interacaoMedicamento": "Riesgo trombótico con dexametasona; precaución con anticoagulantes",
+      "posologia": "25mg/día por 21 días en ciclos de 28, junto a dexametasona",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Manipular con guantes; no abrir cápsulas",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad",
+      "cuidadosMedicos": "Pruebas de embarazo, control hematológico y prevención de trombosis",
+      "cuidadosFarmaceuticos": "Distribución restringida; educación al paciente clave",
+      "cuidadosEnfermagem": "Vigilar signos de trombosis, erupciones y recuentos celulares",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, literatura médica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "来那度胺",
+      "suspension": "择期手术前7–10天停药，因血栓与骨髓抑制风险",
+      "risk": "深静脉血栓、中性粒细胞减少、血小板减少、感染、术后愈合延迟",
+      "reintroduction": "术后血象恢复且伤口愈合良好后（一般10–21天）可重新服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "来那度胺",
+      "nomeComercial": "Revlimid（瑞复美）",
+      "mecanismoAcao": "免疫调节剂，抑制血管生成，增强NK/T细胞活性，调节炎性因子",
+      "farmacocinetica": "口服吸收好；半衰期约3小时；主要经肾排泄",
+      "farmacodinamica": "具有抗肿瘤、免疫增强和抗血管生成作用",
+      "indicacoes": "多发性骨髓瘤、5q缺失型骨髓增生异常综合征、套细胞淋巴瘤、滤泡性淋巴瘤",
+      "reacoesAdversas": "中性粒细胞减少、血小板减少、便秘、疲劳、皮疹、血栓、外周神经病变",
+      "riscoGravidez": "X类 – 强烈致畸，怀孕绝对禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日25毫克",
+      "doseMinima": "每日2.5毫克（肾功能不全需调整）",
+      "classificacao": "免疫调节抗肿瘤药物（来那度胺类）",
+      "apresentacao": "胶囊剂：2.5、5、10、15、25毫克",
+      "interacaoMedicamento": "与激素联用血栓风险↑；慎与抗凝药合用",
+      "posologia": "25mg连用21天，休药7天，为一个28天疗程",
+      "armazenamento": "室温保存，避光防潮",
+      "preparo": "避免接触破损胶囊，建议戴手套",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "孕妇、哺乳期妇女、过敏者禁用",
+      "cuidadosMedicos": "术前需评估血象、血栓风险与妊娠状态",
+      "cuidadosFarmaceuticos": "严格按专案发药；指导患者避孕与用药依从",
+      "cuidadosEnfermagem": "关注感染、血象下降、神经病变及皮肤反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、NCCN指南"
+    }
+  }
+}

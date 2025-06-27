@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lítio",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de intoxicação lítica, arritmia, interação com anestésicos, hiponatremia e hipotensão",
+      "reintroduction": "Reintroduzir após função renal estável, eletrólitos normalizados e nível sérico controlado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carbonato de lítio",
+      "nomeComercial": "Carbolitium, Plenur",
+      "mecanismoAcao": "Modula neurotransmissão dopaminérgica, glutamatérgica e inositol monofosfatase no SNC",
+      "farmacocinetica": "Biodisponibilidade oral ~100%; meia-vida 18–24 h; excreção renal",
+      "farmacodinamica": "Estabilizador do humor com efeito antimaníaco e profilático no transtorno bipolar",
+      "indicacoes": "Transtorno bipolar (fase maníaca e manutenção), depressão resistente, comportamento agressivo",
+      "reacoesAdversas": "Poliúria, tremor fino, hipotireoidismo, ganho de peso, toxicidade renal, náuseas, confusão",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Via oral",
+      "doseMaxima": "2400 mg/dia (dividido em 2–3 doses); nível sérico terapêutico: 0,6–1,2 mEq/L",
+      "doseMinima": "600 mg/dia",
+      "classificacao": "Estabilizador do humor – sais de lítio",
+      "apresentacao": "Comprimidos 300 mg, cápsulas 150/300 mg",
+      "interacaoMedicamento": "Interage com diuréticos (tiazídicos), AINEs, IECAs, anestésicos e carbamazepina",
+      "posologia": "Início 600–900 mg/dia; ajustar conforme litemia e tolerância clínica",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença renal grave, desidratação, gravidez, síndrome de Brugada",
+      "cuidadosMedicos": "Monitorar litemia, função renal, TSH, ECG, sódio e sinais de toxicidade",
+      "cuidadosFarmaceuticos": "Educar sobre hidratação, evitar dietas hipossódicas e interações",
+      "cuidadosEnfermagem": "Observar tremores, vômitos, ataxia, confusão e diurese",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Maudsley, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lithium",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of lithium toxicity, arrhythmia, anesthetic interaction, hyponatremia, hypotension",
+      "reintroduction": "Restart after renal function, sodium and serum level normalized"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lithium carbonate",
+      "nomeComercial": "Lithobid, Eskalith",
+      "mecanismoAcao": "Modulates dopaminergic and glutamatergic neurotransmission and inhibits inositol monophosphatase",
+      "farmacocinetica": "Bioavailability ~100%; half-life 18–24 h; renal excretion",
+      "farmacodinamica": "Mood stabilizer with anti-manic and maintenance effect in bipolar disorder",
+      "indicacoes": "Bipolar disorder (mania and maintenance), treatment-resistant depression, aggression",
+      "reacoesAdversas": "Polyuria, fine tremor, weight gain, hypothyroidism, renal toxicity, nausea, cognitive dulling",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "2400 mg/day (divided); therapeutic level 0.6–1.2 mEq/L",
+      "doseMinima": "600 mg/day",
+      "classificacao": "Mood stabilizer – lithium salts",
+      "apresentacao": "Tablets 300 mg; capsules 150/300 mg",
+      "interacaoMedicamento": "Interacts with thiazides, NSAIDs, ACE inhibitors, anesthesia, carbamazepine",
+      "posologia": "Start 600–900 mg/day; adjust by lithium levels",
+      "armazenamento": "15–30°C",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe renal disease, dehydration, pregnancy, Brugada syndrome",
+      "cuidadosMedicos": "Monitor lithium level, renal function, TSH, ECG, sodium",
+      "cuidadosFarmaceuticos": "Hydration essential, avoid low-sodium diet and drug interactions",
+      "cuidadosEnfermagem": "Observe tremor, nausea, ataxia, confusion, polyuria",
+      "fontesBibliograficas": "FDA, Micromedex, Maudsley, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Litio",
+      "suspension": "Suspender 5 días antes de cirugía",
+      "risk": "Riesgo de toxicidad por litio, arritmia, interacción anestésica, hiponatremia, hipotensión",
+      "reintroduction": "Reintroducir tras función renal y nivel sérico normales"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carbonato de litio",
+      "nomeComercial": "Plenur",
+      "mecanismoAcao": "Modula neurotransmisión dopaminérgica y glutamatérgica; inhibe inositol monofosfatasa",
+      "farmacocinetica": "Biodisponibilidad oral ~100%; vida media 18–24 h; eliminación renal",
+      "farmacodinamica": "Estabilizador del ánimo con efecto antimaníaco y profiláctico",
+      "indicacoes": "Trastorno bipolar, depresión resistente, agresividad",
+      "reacoesAdversas": "Temblores, poliuria, hipotiroidismo, aumento de peso, náuseas, toxicidad renal",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Vía oral",
+      "doseMaxima": "2400 mg/día; litemia terapéutica 0,6–1,2 mEq/L",
+      "doseMinima": "600 mg/día",
+      "classificacao": "Estabilizador del ánimo – sales de litio",
+      "apresentacao": "Comprimidos 300 mg; cápsulas 150/300 mg",
+      "interacaoMedicamento": "Interacción con diuréticos, AINEs, IECAs, anestesia, carbamazepina",
+      "posologia": "600–900 mg/día, ajustar según litemia",
+      "armazenamento": "15–30°C",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "IR grave, deshidratación, embarazo, síndrome de Brugada",
+      "cuidadosMedicos": "Controlar litemia, renal, ECG, TSH, sodio",
+      "cuidadosFarmaceuticos": "Hidratación, evitar dieta hiposódica, vigilar interacciones",
+      "cuidadosEnfermagem": "Observar temblores, vómitos, confusión, diuresis",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, Maudsley"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "锂盐",
+      "suspension": "术前5天停药",
+      "risk": "锂中毒、心律失常、麻醉相互作用、低钠血症、低血压",
+      "reintroduction": "术后肾功能和血锂浓度恢复正常后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "碳酸锂",
+      "nomeComercial": "Carbolitium, Plenur",
+      "mecanismoAcao": "调节多巴胺、谷氨酸递质及抑制肌醇单磷酸酶",
+      "farmacocinetica": "口服吸收良好；半衰期18–24小时；肾脏排泄",
+      "farmacodinamica": "用于躁郁症情绪稳定治疗，抗躁狂和预防复发",
+      "indicacoes": "双相障碍、难治性抑郁、攻击行为",
+      "reacoesAdversas": "多尿、细震颤、体重增加、甲减、肾毒性、意识模糊",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日2400 mg，血锂目标值0.6–1.2 mEq/L",
+      "doseMinima": "每日600 mg",
+      "classificacao": "情绪稳定剂 – 锂盐",
+      "apresentacao": "片剂300 mg，胶囊150/300 mg",
+      "interacaoMedicamento": "与利尿剂、NSAIDs、ACEI、麻醉剂、卡马西平相互作用",
+      "posologia": "起始600–900 mg/d，按血锂调整剂量",
+      "armazenamento": "15–30°C",
+      "preparo": "无需配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肾病、脱水、妊娠、Brugada综合征",
+      "cuidadosMedicos": "监测血锂、肾功能、TSH、ECG、电解质",
+      "cuidadosFarmaceuticos": "维持水化，避免低钠饮食和药物交互",
+      "cuidadosEnfermagem": "观察震颤、步态不稳、意识模糊、尿量变化",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex, Maudsley"
+    }
+  }
+}

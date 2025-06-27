@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Golimumabe",
+      "suspension": "Suspender 4 semanas antes de cirurgias de grande porte; pode ser mantido em cirurgias menores com avaliação de risco",
+      "risk": "Imunossupressão com aumento do risco de infecção, retardo na cicatrização e reativação de tuberculose ou hepatite B",
+      "reintroduction": "Reintroduzir após 14–30 dias, com ferida cicatrizada e ausência de infecção"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Golimumabe",
+      "nomeComercial": "Simponi",
+      "mecanismoAcao": "Anticorpo monoclonal humano que se liga ao TNF-alfa, bloqueando sua atividade inflamatória",
+      "farmacocinetica": "Biodisponibilidade SC ~53%; meia-vida terminal de 12–14 dias; metabolizado por catabolismo proteico",
+      "farmacodinamica": "Inibe a atividade pró-inflamatória do TNF-alfa, reduzindo inflamação crônica",
+      "indicacoes": "Artrite reumatoide, espondilite anquilosante, artrite psoriásica, colite ulcerativa",
+      "reacoesAdversas": "Infecções respiratórias, dor de cabeça, reações no local da aplicação, hepatotoxicidade, leucopenia, neoplasias (raro)",
+      "riscoGravidez": "Categoria B – usar com cautela; cruzamento placentário no 3º trimestre",
+      "riscoLactacao": "Pode ser usado com cautela; excreção no leite materno é baixa",
+      "administracao": "Via subcutânea",
+      "doseMaxima": "100mg/mês (em colite ulcerativa grave)",
+      "doseMinima": "50mg/mês",
+      "classificacao": "Imunobiológico anti-TNF-alfa",
+      "apresentacao": "Solução injetável em seringa ou caneta preenchedora de 50mg/0,5ml ou 100mg/ml",
+      "interacaoMedicamento": "Não utilizar com outros biológicos imunossupressores; atenção com vacinas vivas",
+      "posologia": "50mg SC uma vez ao mês; 100mg/mês se necessário (ex. colite ulcerativa)",
+      "armazenamento": "Refrigerado entre 2–8°C; não congelar",
+      "preparo": "Retirar da geladeira 30 minutos antes da aplicação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Tuberculose ativa, infecções graves, hipersensibilidade ao fármaco",
+      "cuidadosMedicos": "Triagem para tuberculose e hepatite B antes de iniciar; monitorar sinais de infecção, exames hepáticos e hemograma",
+      "cuidadosFarmaceuticos": "Orientar sobre conservação, técnica asséptica e nunca agitar",
+      "cuidadosEnfermagem": "Observar local da aplicação, temperatura do fármaco e sintomas infecciosos",
+      "fontesBibliograficas": "ANVISA, Micromedex, EMA, FDA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Golimumab",
+      "suspension": "Discontinue 4 weeks before major surgeries; may be continued in minor procedures with clinical judgment",
+      "risk": "Increased risk of perioperative infection, impaired healing, and reactivation of TB or hepatitis B",
+      "reintroduction": "Restart 14–30 days post-op after wound healing and absence of infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Golimumab",
+      "nomeComercial": "Simponi",
+      "mecanismoAcao": "Fully human monoclonal antibody that binds to TNF-alpha, blocking its inflammatory effects",
+      "farmacocinetica": "SC bioavailability ~53%; terminal half-life 12–14 days; degraded via proteolysis",
+      "farmacodinamica": "Suppresses TNF-alpha-mediated inflammation",
+      "indicacoes": "Rheumatoid arthritis, ankylosing spondylitis, psoriatic arthritis, ulcerative colitis",
+      "reacoesAdversas": "Infections, injection site reactions, ALT elevation, leukopenia, rare malignancies",
+      "riscoGravidez": "Category B – cross placenta in 3rd trimester",
+      "riscoLactacao": "Safe with caution – low levels in breast milk",
+      "administracao": "Subcutaneous injection",
+      "doseMaxima": "100mg/month (severe UC)",
+      "doseMinima": "50mg/month",
+      "classificacao": "Anti-TNF biologic agent",
+      "apresentacao": "Prefilled syringe or autoinjector 50mg/0.5ml or 100mg/ml",
+      "interacaoMedicamento": "Avoid live vaccines; do not combine with other biologics",
+      "posologia": "50mg SC once monthly; 100mg if clinically indicated",
+      "armazenamento": "Refrigerate 2–8°C; do not freeze",
+      "preparo": "Allow to sit at room temperature 30 minutes before injection",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active TB, serious infections, hypersensitivity",
+      "cuidadosMedicos": "Screen for TB and hepatitis B; monitor CBC and liver tests",
+      "cuidadosFarmaceuticos": "Ensure cold chain and teach proper injection technique",
+      "cuidadosEnfermagem": "Monitor injection site and systemic response",
+      "fontesBibliograficas": "FDA, Micromedex, ACR, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Golimumab",
+      "suspension": "Suspender 4 semanas antes de cirugía mayor; considerar mantener en procedimientos menores",
+      "risk": "Inmunosupresión, mayor riesgo de infección, reactivación de TB o hepatitis B, cicatrización lenta",
+      "reintroduction": "Reanudar 14–30 días después si no hay infección y la herida está cicatrizada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Golimumab",
+      "nomeComercial": "Simponi",
+      "mecanismoAcao": "Anticuerpo monoclonal que neutraliza TNF-alfa",
+      "farmacocinetica": "Biodisponibilidad SC 53%; semivida 12–14 días; metabolizado por proteólisis",
+      "farmacodinamica": "Bloquea la inflamación mediada por TNF",
+      "indicacoes": "Artritis reumatoide, espondilitis anquilosante, artritis psoriásica, colitis ulcerosa",
+      "reacoesAdversas": "Infecciones, dolor local, cefalea, leucopenia, alteraciones hepáticas",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Uso posible con precaución",
+      "administracao": "Inyección subcutánea",
+      "doseMaxima": "100mg al mes",
+      "doseMinima": "50mg al mes",
+      "classificacao": "Agente biológico anti-TNF",
+      "apresentacao": "Jeringa precargada o autoinyector de 50mg o 100mg",
+      "interacaoMedicamento": "No usar con otros biológicos; evitar vacunas vivas",
+      "posologia": "50mg SC una vez al mes",
+      "armazenamento": "2–8°C; no congelar",
+      "preparo": "Dejar a temperatura ambiente 30 minutos antes de administrar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Tuberculosis activa, infecciones graves",
+      "cuidadosMedicos": "Evaluar TB y hepatitis antes; vigilar análisis hepáticos",
+      "cuidadosFarmaceuticos": "Garantizar cadena de frío y técnica adecuada",
+      "cuidadosEnfermagem": "Observar lugar de aplicación e infecciones",
+      "fontesBibliograficas": "EMA, ficha técnica, literatura clínica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "戈利木单抗",
+      "suspension": "大型手术建议提前4周停用；小型手术可权衡风险继续使用",
+      "risk": "免疫抑制，感染风险增加，结核或乙肝复发，伤口愈合延迟",
+      "reintroduction": "术后14–30天，切口愈合且无感染后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "戈利木单抗",
+      "nomeComercial": "Simponi（欣普尼）",
+      "mecanismoAcao": "人源性抗TNF-α单克隆抗体，阻断炎症反应",
+      "farmacocinetica": "皮下注射生物利用度约53%；半衰期12–14天；蛋白代谢清除",
+      "farmacodinamica": "中和TNF-α，减轻慢性炎症",
+      "indicacoes": "类风湿关节炎、银屑病关节炎、强直性脊柱炎、溃疡性结肠炎",
+      "reacoesAdversas": "注射部位反应、感染、头痛、肝酶升高、白细胞减少",
+      "riscoGravidez": "B类 – 第三孕期可能跨胎盘",
+      "riscoLactacao": "乳汁分泌少量，使用需谨慎",
+      "administracao": "皮下注射",
+      "doseMaxima": "每月100毫克",
+      "doseMinima": "每月50毫克",
+      "classificacao": "抗TNF-α生物制剂",
+      "apresentacao": "预充注射器或注射笔 50mg/0.5ml 或 100mg/ml",
+      "interacaoMedicamento": "避免与其他生物制剂合用，慎用活疫苗",
+      "posologia": "每月一次50mg SC，可增至100mg",
+      "armazenamento": "冷藏2–8°C，避免冷冻",
+      "preparo": "注射前常温放置30分钟，不可剧烈摇晃",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性结核、严重感染",
+      "cuidadosMedicos": "用药前检测结核和乙肝；术后监测血象和感染",
+      "cuidadosFarmaceuticos": "保障冷链、正确注射操作",
+      "cuidadosEnfermagem": "监测注射反应和感染体征",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA"
+    }
+  }
+}

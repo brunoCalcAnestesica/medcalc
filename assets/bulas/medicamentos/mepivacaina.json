@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Mepivacaína",
+      "suspension": "Não aplicável; uso perioperatório conforme técnica anestésica",
+      "risk": "Risco de toxicidade sistêmica em doses altas ou administração intravascular acidental: convulsões, arritmias, depressão respiratória",
+      "reintroduction": "Utilizar sob supervisão médica conforme necessidade anestésica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Mepivacaína",
+      "nomeComercial": "Scandonest, Carbocaine",
+      "mecanismoAcao": "Bloqueia canais de sódio voltagem-dependentes, impedindo condução nervosa",
+      "farmacocinetica": "Início rápido (~3min); duração 1,5–3h; metabolismo hepático",
+      "farmacodinamica": "Anestesia local/intermediária; sem efeito vasodilatador intenso como lidocaína",
+      "indicacoes": "Anestesia local ou regional (odontologia, bloqueios nervosos, infiltração)",
+      "reacoesAdversas": "Tontura, parestesia, hipotensão, convulsões, bradicardia (em superdose)",
+      "riscoGravidez": "Categoria C – usar se necessário",
+      "riscoLactacao": "Segura em pequenas doses únicas",
+      "administracao": "Infiltração local, bloqueio nervoso, peridural",
+      "doseMaxima": "5mg/kg (sem vasoconstritor); até 400mg por sessão",
+      "doseMinima": "Dependente do procedimento",
+      "classificacao": "Anestésico local do tipo amida (ação intermediária)",
+      "apresentacao": "Solução injetável 1%, 2%, com ou sem vasoconstritor (adrenalina)",
+      "interacaoMedicamento": "Potencial com antiarrítmicos classe I/III, depressores do SNC, anestésicos gerais",
+      "posologia": "Individualizada conforme técnica, local e tipo de bloqueio",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Pronto para uso; pode ser diluído em SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Hipersensibilidade, bloqueio cardíaco grave, epilepsia não controlada",
+      "cuidadosMedicos": "Monitorar sinais neurológicos e cardiovasculares, ECG e PA",
+      "cuidadosFarmaceuticos": "Confirmar integridade da ampola, via de administração e diluição",
+      "cuidadosEnfermagem": "Observar eficácia anestésica e sinais precoces de toxicidade",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, PubMed"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mepivacaine",
+      "suspension": "Not applicable; used during perioperative period under anesthesia supervision",
+      "risk": "Risk of systemic toxicity if overdosed or injected intravascularly: seizures, arrhythmias, respiratory depression",
+      "reintroduction": "Used per clinical need under anesthetic protocols"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mepivacaine hydrochloride",
+      "nomeComercial": "Carbocaine, Polocaine",
+      "mecanismoAcao": "Blocks voltage-gated sodium channels to prevent nerve signal conduction",
+      "farmacocinetica": "Onset ~3min; duration 1.5–3h; hepatic metabolism",
+      "farmacodinamica": "Intermediate-acting local anesthetic; less vasodilation than lidocaine",
+      "indicacoes": "Local/regional anesthesia (dental, nerve blocks, infiltration)",
+      "reacoesAdversas": "Dizziness, paresthesia, hypotension, seizures, bradycardia (if overdose)",
+      "riscoGravidez": "Category C – use only if clearly needed",
+      "riscoLactacao": "Likely safe in single small doses",
+      "administracao": "Local infiltration, nerve block, epidural",
+      "doseMaxima": "5mg/kg (no vasoconstrictor); max 400mg/session",
+      "doseMinima": "Procedure-dependent",
+      "classificacao": "Amide-type local anesthetic (intermediate duration)",
+      "apresentacao": "Injectable 1%, 2% with/without epinephrine",
+      "interacaoMedicamento": "Potential with class I/III antiarrhythmics, CNS depressants, general anesthetics",
+      "posologia": "Tailored to procedure and technique",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Ready to use or dilute in 0.9% NaCl",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Hypersensitivity, severe heart block, uncontrolled epilepsy",
+      "cuidadosMedicos": "Monitor neurologic and cardiovascular signs, ECG, BP",
+      "cuidadosFarmaceuticos": "Ensure vial integrity, proper route and dilution",
+      "cuidadosEnfermagem": "Observe for anesthetic efficacy and toxicity symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Mepivacaína",
+      "suspension": "No aplica; se usa durante cirugía o bloqueos regionales bajo control anestésico",
+      "risk": "Riesgo de toxicidad sistémica si se administra IV: convulsiones, arritmias, depresión respiratoria",
+      "reintroduction": "Usar según necesidad clínica bajo supervisión anestésica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de mepivacaína",
+      "nomeComercial": "Scandonest, Carbocaine",
+      "mecanismoAcao": "Bloquea canales de sodio dependientes de voltaje; interrumpe la conducción nerviosa",
+      "farmacocinetica": "Inicio ~3min; duración 1.5–3h; metabolismo hepático",
+      "farmacodinamica": "Anestésico local de acción intermedia; menor vasodilatación que la lidocaína",
+      "indicacoes": "Anestesia local/regional (odontología, bloqueos, infiltración)",
+      "reacoesAdversas": "Mareo, parestesia, hipotensión, convulsiones, bradicardia (si sobredosis)",
+      "riscoGravidez": "Categoría C – usar si es necesario",
+      "riscoLactacao": "Segura en dosis únicas pequeñas",
+      "administracao": "Infiltración, bloqueo nervioso, epidural",
+      "doseMaxima": "5mg/kg (sin vasoconstrictor); hasta 400mg por sesión",
+      "doseMinima": "Según procedimiento",
+      "classificacao": "Anestésico local tipo amida (acción intermedia)",
+      "apresentacao": "Solución inyectable 1%, 2% con/sin epinefrina",
+      "interacaoMedicamento": "Precaución con antiarrítmicos I/III, anestésicos generales, depresores SNC",
+      "posologia": "Individualizada por técnica y área tratada",
+      "armazenamento": "Ambiente seco, protegido de la luz",
+      "preparo": "Lista para uso; puede diluirse en SSN 0,9%",
+      "solucoesCompatíveis": "SSN 0,9%",
+      "contraindicacoes": "Alergia, bloqueo cardíaco severo, epilepsia no controlada",
+      "cuidadosMedicos": "Monitorear PA, ECG, síntomas neurológicos",
+      "cuidadosFarmaceuticos": "Verificar rotulado, vía y dilución correcta",
+      "cuidadosEnfermagem": "Observar eficacia anestésica y signos de toxicidad",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甲哌卡因",
+      "suspension": "不适用于术前停药；为术中或术前区域麻醉药",
+      "risk": "如剂量过大或意外静脉注射，可致全身毒性：癫痫、心律失常、呼吸抑制",
+      "reintroduction": "术后如有麻醉需要可再次使用，需医生评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甲哌卡因",
+      "nomeComercial": "卡比卡因（Carbocaine）、斯坎多奈斯特（Scandonest）",
+      "mecanismoAcao": "阻断电压门控钠通道，抑制神经冲动传导",
+      "farmacocinetica": "起效~3分钟；作用1.5–3小时；肝代谢",
+      "farmacodinamica": "中效酰胺类局麻药，血管扩张作用小",
+      "indicacoes": "局部或区域麻醉（牙科、神经阻滞、浸润）",
+      "reacoesAdversas": "头晕、感觉异常、低血压、癫痫、心动过缓（超量时）",
+      "riscoGravidez": "C类 – 必要时使用",
+      "riscoLactacao": "单剂量使用安全",
+      "administracao": "局部注射、神经阻滞、硬膜外",
+      "doseMaxima": "5mg/kg（不含肾上腺素）；每次最多400mg",
+      "doseMinima": "视手术需要而定",
+      "classificacao": "酰胺类局麻药（中效）",
+      "apresentacao": "注射液1%、2%；含/不含肾上腺素",
+      "interacaoMedicamento": "与Ⅰ/Ⅲ类抗心律药、镇静药、麻醉剂可能相互作用",
+      "posologia": "根据术式及阻滞部位个体化设定",
+      "armazenamento": "室温避光保存",
+      "preparo": "即用或稀释于0.9%氯化钠",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "过敏、完全性房室阻滞、难治性癫痫",
+      "cuidadosMedicos": "监测血压、心电、神经系统体征",
+      "cuidadosFarmaceuticos": "确认药液完整、正确稀释与路径",
+      "cuidadosEnfermagem": "观察麻醉效果及毒性早期表现",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

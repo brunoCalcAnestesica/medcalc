@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Noradrenalina",
+      "suspension": "Não suspender; essencial em choque séptico e suporte vasopressor",
+      "risk": "Suspensão abrupta leva a colapso hemodinâmico; risco de isquemia periférica e arritmias",
+      "reintroduction": "Continuar com ajuste de dose conforme resposta clínica e hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Noradrenalina bitartarato",
+      "nomeComercial": "Levophed, Norepinefrina, Noradrenalina Hipolabor",
+      "mecanismoAcao": "Agonista alfa-1 e beta-1 adrenérgico; vasoconstrição arterial e aumento inotrópico cardíaco",
+      "farmacocinetica": "Início imediato (IV); duração 1–2 min; metabolismo hepático; excreção urinária",
+      "farmacodinamica": "Eleva pressão arterial sistêmica, débito cardíaco e resistência vascular periférica",
+      "indicacoes": "Choque séptico, hipotensão refratária, suporte vasopressor em anestesia",
+      "reacoesAdversas": "Isquemia periférica, extravasamento, arritmias, hipertensão, acidose láctica",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; usar com cautela",
+      "administracao": "Infusão intravenosa contínua com bomba",
+      "doseMaxima": "1 mcg/kg/min (individualizado)",
+      "doseMinima": "0,01 mcg/kg/min",
+      "classificacao": "Vasopressor, catecolamina endógena",
+      "apresentacao": "Ampolas 4mg/4mL, 8mg/8mL, frascos de 2mg/mL",
+      "interacaoMedicamento": "Risco com anestésicos halogenados, inibidores da MAO, antidepressivos tricíclicos",
+      "posologia": "0,01–1 mcg/kg/min, titulada conforme PAM e perfusão",
+      "armazenamento": "Ampolas protegidas da luz; solução diluída usar em 24h",
+      "preparo": "Diluir em SG5% ou SF 0,9% para infusão contínua",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Trombose vascular, hipersensibilidade à droga",
+      "cuidadosMedicos": "Monitorar PAM invasiva, ritmo cardíaco, perfusão, eletrólitos",
+      "cuidadosFarmaceuticos": "Evitar extravasamento; uso exclusivo por bomba de infusão",
+      "cuidadosEnfermagem": "Monitorar perfusão, acesso venoso central, sinais de extravasamento",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Norepinephrine",
+      "suspension": "Do not discontinue; critical in septic shock and vasopressor support",
+      "risk": "Abrupt cessation causes hemodynamic collapse; risk of ischemia and arrhythmias",
+      "reintroduction": "Continue with titration according to clinical and hemodynamic response"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Norepinephrine bitartrate",
+      "nomeComercial": "Levophed",
+      "mecanismoAcao": "Alpha-1 and beta-1 agonist; causes vasoconstriction and increased cardiac output",
+      "farmacocinetica": "Immediate onset (IV); short duration (1–2 min); hepatic metabolism",
+      "farmacodinamica": "Raises systemic BP, CO, and SVR",
+      "indicacoes": "Septic shock, refractory hypotension, vasopressor during anesthesia",
+      "reacoesAdversas": "Peripheral ischemia, extravasation injury, arrhythmias, hypertension, lactic acidosis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; use caution",
+      "administracao": "Continuous IV infusion via pump",
+      "doseMaxima": "1 mcg/kg/min",
+      "doseMinima": "0.01 mcg/kg/min",
+      "classificacao": "Vasopressor, endogenous catecholamine",
+      "apresentacao": "Ampoules 4mg/4mL, 8mg/8mL; vials 2mg/mL",
+      "interacaoMedicamento": "Risk with halogenated anesthetics, MAOIs, tricyclics",
+      "posologia": "0.01–1 mcg/kg/min titrated to MAP and perfusion",
+      "armazenamento": "Protect from light; use diluted solution within 24h",
+      "preparo": "Dilute in D5W or NS for infusion",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Vascular thrombosis, hypersensitivity",
+      "cuidadosMedicos": "Monitor invasive BP, ECG, perfusion, acid-base balance",
+      "cuidadosFarmaceuticos": "Prevent extravasation; use infusion pump only",
+      "cuidadosEnfermagem": "Check central access, peripheral perfusion, signs of infiltration",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Noradrenalina",
+      "suspension": "No suspender; esencial en shock séptico y soporte vasopresor",
+      "risk": "Suspensión abrupta puede causar colapso hemodinámico; riesgo de isquemia y arritmias",
+      "reintroduction": "Mantener o ajustar según respuesta clínica y hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Noradrenalina",
+      "nomeComercial": "Levophed",
+      "mecanismoAcao": "Agonista α1 y β1; vasoconstricción y aumento del gasto cardíaco",
+      "farmacocinetica": "Inicio inmediato (IV); duración 1–2 min; metabolismo hepático",
+      "farmacodinamica": "Aumenta la PA sistémica, el gasto cardíaco y la resistencia periférica",
+      "indicacoes": "Shock séptico, hipotensión refractaria, soporte en anestesia",
+      "reacoesAdversas": "Isquemia periférica, extravasación, arritmias, acidosis láctica",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce; usar con precaución",
+      "administracao": "Infusión IV continua mediante bomba",
+      "doseMaxima": "1 mcg/kg/min",
+      "doseMinima": "0,01 mcg/kg/min",
+      "classificacao": "Vasopresor, catecolamina endógena",
+      "apresentacao": "Ampollas 4mg/4mL, 8mg/8mL, viales 2mg/mL",
+      "interacaoMedicamento": "Mayor riesgo con anestésicos halogenados, IMAO, tricíclicos",
+      "posologia": "0,01–1 mcg/kg/min, ajustar según PAM",
+      "armazenamento": "Proteger de la luz; usar solución diluida en 24h",
+      "preparo": "Diluir en SG5% o SSF 0,9%",
+      "solucoesCompatíveis": "SG 5%, SSF 0,9%",
+      "contraindicacoes": "Trombosis, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear PA invasiva, ECG, perfusión",
+      "cuidadosFarmaceuticos": "Evitar extravasación; usar bomba de infusión",
+      "cuidadosEnfermagem": "Control de perfusión, vía central, signos de extravasación",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "去甲肾上腺素",
+      "suspension": "不应停用；为脓毒性休克和血管活性支持的重要药物",
+      "risk": "突然停药可导致血流动力学崩溃；风险包括四肢缺血、心律失常",
+      "reintroduction": "根据临床和血流动力学响应持续使用或调整剂量"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "去甲肾上腺素",
+      "nomeComercial": "Levophed",
+      "mecanismoAcao": "α1 和 β1 受体激动剂，增强血管收缩和心肌收缩",
+      "farmacocinetica": "静注起效迅速，作用持续1–2分钟，经肝代谢",
+      "farmacodinamica": "升高血压、心输出量和外周阻力",
+      "indicacoes": "脓毒性休克、难治性低血压、麻醉期间的血压支持",
+      "reacoesAdversas": "末梢缺血、外渗损伤、心律失常、高血压、乳酸酸中毒",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否排泄至乳汁尚不明确，慎用",
+      "administracao": "持续静脉输注（泵）",
+      "doseMaxima": "1微克/公斤/分钟",
+      "doseMinima": "0.01微克/公斤/分钟",
+      "classificacao": "血管加压药，内源性儿茶酚胺",
+      "apresentacao": "4mg/4mL、8mg/8mL 安瓿；2mg/mL 瓶装",
+      "interacaoMedicamento": "与MAOI、三环类药物、吸入麻醉药联用风险升高",
+      "posologia": "0.01–1微克/公斤/分钟，根据MAP和灌注状态调整",
+      "armazenamento": "避光保存，稀释后24小时内使用",
+      "preparo": "使用5%葡萄糖或0.9%氯化钠稀释",
+      "solucoesCompatíveis": "5%葡萄糖，0.9%氯化钠",
+      "contraindicacoes": "血管血栓、过敏",
+      "cuidadosMedicos": "动脉压监测、心电图、末梢灌注监测",
+      "cuidadosFarmaceuticos": "防止药液外渗，仅限泵输注",
+      "cuidadosEnfermagem": "观察中心通路、血压、灌注与外渗体征",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

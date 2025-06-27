@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Captopril",
+      "suspension": "Suspender 8 a 12 horas antes da cirurgia eletiva para evitar hipotensão intraoperatória",
+      "risk": "Hipotensão refratária à indução anestésica, hipercalemia, insuficiência renal aguda, tosse seca",
+      "reintroduction": "Reintroduzir após estabilidade hemodinâmica, geralmente 24–48h após o procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Captopril",
+      "nomeComercial": "Capoten, Hypoten, Caprilon",
+      "mecanismoAcao": "Inibe a enzima conversora da angiotensina (ECA), reduzindo a formação de angiotensina II e a degradação da bradicinina",
+      "farmacocinetica": "Boa absorção oral; início em 15–30min; meia-vida 2h; excreção renal",
+      "farmacodinamica": "Vasodilatação, redução da pós-carga e da pressão arterial; efeito natriurético e cardioprotetor",
+      "indicacoes": "Hipertensão, insuficiência cardíaca congestiva, nefropatia diabética, pós-infarto do miocárdio",
+      "reacoesAdversas": "Tosse seca, rash, hipotensão, hipercalemia, insuficiência renal, angioedema",
+      "riscoGravidez": "Categoria D (contraindicado)",
+      "riscoLactacao": "Excretado no leite materno; uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "150mg/dia",
+      "doseMinima": "6,25mg/dia",
+      "classificacao": "Inibidor da enzima conversora da angiotensina (iECA)",
+      "apresentacao": "Comprimidos de 12,5mg, 25mg, 50mg",
+      "interacaoMedicamento": "Risco aumentado com diuréticos, lítio, AINEs, potássio e outros anti-hipertensivos",
+      "posologia": "25–50mg 2x/dia; iniciar com 6,25mg em idosos ou risco de hipotensão",
+      "armazenamento": "Temperatura ambiente, proteger da umidade e luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Angioedema prévio com iECA, estenose bilateral de artéria renal, gravidez",
+      "cuidadosMedicos": "Monitorar creatinina, potássio e pressão arterial",
+      "cuidadosFarmaceuticos": "Orientar sobre risco de tosse persistente e angioedema",
+      "cuidadosEnfermagem": "Monitorar PA, sinais de tontura, edema facial ou labial",
+      "fontesBibliograficas": "SBH, Micromedex, FDA, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Captopril",
+      "suspension": "Hold 8–12 hours prior to elective surgery to prevent intraoperative hypotension",
+      "risk": "Refractory hypotension during anesthesia, hyperkalemia, acute kidney injury, dry cough",
+      "reintroduction": "Restart after hemodynamic stability, typically 24–48h post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Captopril",
+      "nomeComercial": "Capoten",
+      "mecanismoAcao": "ACE inhibitor; blocks conversion of angiotensin I to angiotensin II and inhibits bradykinin degradation",
+      "farmacocinetica": "Good oral absorption; onset 15–30min; half-life 2h; renal excretion",
+      "farmacodinamica": "Vasodilation, reduced afterload and BP, natriuretic and cardioprotective effects",
+      "indicacoes": "Hypertension, CHF, diabetic nephropathy, post-MI",
+      "reacoesAdversas": "Dry cough, rash, hypotension, hyperkalemia, renal dysfunction, angioedema",
+      "riscoGravidez": "Category D (contraindicated)",
+      "riscoLactacao": "Excreted in breast milk; use with caution",
+      "administracao": "Oral",
+      "doseMaxima": "150mg/day",
+      "doseMinima": "6.25mg/day",
+      "classificacao": "ACE inhibitor",
+      "apresentacao": "Tablets: 12.5mg, 25mg, 50mg",
+      "interacaoMedicamento": "Interacts with diuretics, lithium, NSAIDs, potassium supplements, other antihypertensives",
+      "posologia": "25–50mg BID; start with 6.25mg in elderly or high-risk",
+      "armazenamento": "Store at room temperature; protect from moisture and light",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "History of angioedema with ACEi, bilateral renal artery stenosis, pregnancy",
+      "cuidadosMedicos": "Monitor creatinine, potassium, BP",
+      "cuidadosFarmaceuticos": "Counsel on dry cough and angioedema risk",
+      "cuidadosEnfermagem": "Monitor BP, dizziness, facial/lip swelling",
+      "fontesBibliograficas": "FDA, Micromedex, AHA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Captopril",
+      "suspension": "Suspender 8–12h antes de cirugía para evitar hipotensión intraoperatoria",
+      "risk": "Hipotensión refractaria, hipercalemia, lesión renal aguda, tos seca",
+      "reintroduction": "Reintroducir 24–48h postoperatorio tras estabilidad hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Captopril",
+      "nomeComercial": "Capoten",
+      "mecanismoAcao": "Inhibidor de la ECA; bloquea la conversión de angiotensina I en II y reduce degradación de bradicinina",
+      "farmacocinetica": "Buena absorción oral; inicio en 15–30min; semivida 2h; excreción renal",
+      "farmacodinamica": "Vasodilatación, reducción de poscarga y PA, efecto cardioprotector y natriurético",
+      "indicacoes": "Hipertensión, IC, nefropatía diabética, postinfarto",
+      "reacoesAdversas": "Tos seca, rash, hipotensión, hipercalemia, disfunción renal, angioedema",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Se excreta en leche materna; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "150mg/día",
+      "doseMinima": "6,25mg/día",
+      "classificacao": "Inhibidor de la ECA",
+      "apresentacao": "Comprimidos de 12,5mg, 25mg, 50mg",
+      "interacaoMedicamento": "Interacción con diuréticos, litio, AINEs, suplementos de potasio, antihipertensivos",
+      "posologia": "25–50mg 2x/día; iniciar con 6,25mg si riesgo alto",
+      "armazenamento": "Ambiente seco y sin luz directa",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Angioedema previo, estenosis renal bilateral, embarazo",
+      "cuidadosMedicos": "Monitoreo de PA, creatinina, potasio",
+      "cuidadosFarmaceuticos": "Informar sobre tos y angioedema",
+      "cuidadosEnfermagem": "Observar PA, mareo, edema facial",
+      "fontesBibliograficas": "Micromedex, FDA, protocolos clínicos"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "卡托普利",
+      "suspension": "择期手术前8–12小时停药以避免术中低血压",
+      "risk": "麻醉下低血压、高钾、急性肾损伤、干咳",
+      "reintroduction": "术后血流动力学稳定后24–48小时可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "卡托普利",
+      "nomeComercial": "Capoten",
+      "mecanismoAcao": "ACE抑制剂，阻断血管紧张素I转化为II，抑制缓激肽降解",
+      "farmacocinetica": "口服吸收好，起效15–30分钟，半衰期2小时，肾排泄",
+      "farmacodinamica": "扩血管，降低后负荷与血压，具心脏保护与排钠作用",
+      "indicacoes": "高血压、心衰、糖尿病肾病、心梗后管理",
+      "reacoesAdversas": "干咳、皮疹、低血压、高钾、肾功能恶化、血管性水肿",
+      "riscoGravidez": "D类（妊娠期禁用）",
+      "riscoLactacao": "分泌于乳汁中，慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日150毫克",
+      "doseMinima": "每日6.25毫克",
+      "classificacao": "ACE抑制剂",
+      "apresentacao": "片剂12.5mg、25mg、50mg",
+      "interacaoMedicamento": "与利尿剂、锂、NSAIDs、钾盐等联用风险升高",
+      "posologia": "每日2次，每次25–50mg，高风险人群初始6.25mg",
+      "armazenamento": "常温，避湿避光",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "既往ACE抑制剂引起的血管性水肿、双侧肾动脉狭窄、妊娠",
+      "cuidadosMedicos": "术前监测肌酐、钾、电解质、血压",
+      "cuidadosFarmaceuticos": "告知干咳与过敏反应风险",
+      "cuidadosEnfermagem": "监测血压、头晕、面部肿胀等表现",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Suplemento de potássio",
+      "suspension": "Suspender 24 horas antes de procedimentos com risco de hipercalemia, insuficiência renal ou uso concomitante de bloqueadores do SRAA.",
+      "risk": "Risco de hipercalemia grave, arritmias, parada cardíaca, necrose tecidual (uso IV incorreto).",
+      "reintroduction": "Reintroduzir após controle da função renal, normalização do potássio e avaliação cardiológica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloreto de potássio (KCl), citrato ou bicarbonato de potássio",
+      "nomeComercial": "Slow-K, KCl Retard, KCl 600, Potassion, Kalyamon",
+      "mecanismoAcao": "Reposição do potássio corporal, essencial para a função neuromuscular, equilíbrio ácido-base e manutenção do potencial de membrana celular.",
+      "farmacocinetica": "Absorção gastrointestinal eficiente; distribuição predominantemente intracelular; excreção renal proporcional à concentração plasmática.",
+      "farmacodinamica": "Restaura gradientes eletroquímicos, reduz arritmias induzidas por hipocalemia, melhora contratilidade muscular.",
+      "indicacoes": "Hipocalemia (leve a grave), profilaxia de depleção de potássio em uso de diuréticos, alcalose metabólica, intoxicação digitálica.",
+      "reacoesAdversas": "Náuseas, dor epigástrica, vômitos, diarreia, irritação gástrica, hipercalemia (sobredosagem).",
+      "riscoGravidez": "Categoria C (uso com cautela).",
+      "riscoLactacao": "Seguro em doses terapêuticas.",
+      "administracao": "Via oral (comprimido/cápsula/sachê/solução); intravenosa em ambiente hospitalar.",
+      "doseMaxima": "100 mEq/dia VO; 20 mEq/h EV (sob monitorização).",
+      "doseMinima": "10–20 mEq/dia VO.",
+      "classificacao": "Eletrólito essencial; suplemento mineral oral/parenteral.",
+      "apresentacao": "Comprimidos de liberação prolongada 600 mg–750 mg; sachês 20 mEq; solução oral 10%; ampola 10% (10 mL = 1 g = 13,4 mEq).",
+      "interacaoMedicamento": "Risco de hipercalemia com IECA, BRA, diuréticos poupadores de potássio, AINEs, ciclosporina.",
+      "posologia": "VO: 20–60 mEq/dia divididos em 2–3 tomadas; EV: 20–40 mEq diluídos, máximo 20 mEq/h sob monitorização.",
+      "armazenamento": "Temperatura ambiente, recipiente seco e fechado.",
+      "preparo": "Diluir EV em SF 0,9% ou SG 5%; nunca aplicar em bolo.",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%.",
+      "contraindicacoes": "Hipercalemia, insuficiência renal grave, acidose metabólica não corrigida, doença de Addison sem tratamento.",
+      "cuidadosMedicos": "Monitorar eletrólitos, ECG, função renal.",
+      "cuidadosFarmaceuticos": "Garantir diluição adequada, evitar interação com medicamentos poupadores de potássio.",
+      "cuidadosEnfermagem": "Administrar com alimentos (VO); monitorar ECG, sinais de irritação venosa (EV).",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Bula Slow-K"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Potassium supplement",
+      "suspension": "Discontinue 24 hours before procedures at risk for hyperkalemia, renal impairment, or concomitant RAAS blockade.",
+      "risk": "Risk of severe hyperkalemia, arrhythmias, cardiac arrest, and tissue necrosis (with improper IV use).",
+      "reintroduction": "Restart after renal function stabilization and potassium normalization with cardiac monitoring."
+    },
+    "bulario": {
+      "activeIngredient": "Potassium chloride (KCl), potassium citrate, or potassium bicarbonate",
+      "brandNames": "Slow-K, KCl Retard, KCl 600, Potassion, Kalyamon",
+      "mechanismOfAction": "Replenishes body potassium, essential for neuromuscular function, acid-base balance, and maintenance of cellular membrane potential.",
+      "pharmacokinetics": "Efficient gastrointestinal absorption; mainly intracellular distribution; renal excretion proportional to plasma concentration.",
+      "pharmacodynamics": "Restores electrochemical gradients, reduces hypokalemia-induced arrhythmias, improves muscle contractility.",
+      "indications": "Hypokalemia (mild to severe), prevention of potassium depletion with diuretic use, metabolic alkalosis, digitalis intoxication.",
+      "adverseReactions": "Nausea, epigastric pain, vomiting, diarrhea, gastric irritation, hyperkalemia (overdose).",
+      "pregnancyRisk": "Category C (use with caution).",
+      "lactationRisk": "Safe at therapeutic doses.",
+      "administration": "Oral (tablet/capsule/powder/solution); intravenous in hospital setting.",
+      "maxDose": "100 mEq/day PO; 20 mEq/h IV (with monitoring).",
+      "minDose": "10–20 mEq/day PO.",
+      "classification": "Essential electrolyte; oral/parenteral mineral supplement.",
+      "formulation": "Extended-release tablets 600–750 mg; sachets 20 mEq; oral solution 10%; ampoule 10% (10 mL = 1 g = 13.4 mEq).",
+      "drugInteractions": "Risk of hyperkalemia with ACE inhibitors, ARBs, potassium-sparing diuretics, NSAIDs, cyclosporine.",
+      "dosage": "PO: 20–60 mEq/day divided in 2–3 doses; IV: 20–40 mEq diluted, max 20 mEq/h with monitoring.",
+      "storage": "Room temperature, dry and closed container.",
+      "preparation": "Dilute IV in 0.9% saline or 5% dextrose; never administer as IV bolus.",
+      "compatibleSolutions": "0.9% saline, 5% dextrose.",
+      "contraindications": "Hyperkalemia, severe renal impairment, uncorrected metabolic acidosis, untreated Addison's disease.",
+      "medicalCare": "Monitor electrolytes, ECG, renal function.",
+      "pharmaceuticalCare": "Ensure proper dilution, avoid interaction with potassium-sparing drugs.",
+      "nursingCare": "Administer with food (PO); monitor ECG, signs of venous irritation (IV).",
+      "references": "Micromedex, UpToDate, FDA, ANVISA, Slow-K package insert"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Suplemento de potasio",
+      "suspension": "Suspender 24 horas antes de procedimientos con riesgo de hipercalemia o insuficiencia renal.",
+      "risk": "Riesgo de hipercalemia grave, arritmias, paro cardíaco y necrosis tisular si se administra por vía IV de forma incorrecta.",
+      "reintroduction": "Reintroducir tras estabilización renal y normalización del potasio, con control cardíaco."
+    },
+    "bulario": {
+      "principioActivo": "Cloruro de potasio (KCl), citrato o bicarbonato de potasio",
+      "nombreComercial": "Slow-K, KCl Retard, KCl 600, Potassion, Kalyamon",
+      "mecanismoAccion": "Reposición del potasio corporal, esencial para la función neuromuscular, equilibrio ácido-base y mantenimiento del potencial de membrana celular.",
+      "farmacocinetica": "Absorción gastrointestinal eficiente; distribución intracelular; excreción renal proporcional a la concentración plasmática.",
+      "farmacodinamia": "Restaura gradientes electroquímicos, reduce arritmias inducidas por hipokalemia, mejora la contractilidad muscular.",
+      "indicaciones": "Hipokalemia (leve a grave), profilaxis de depleción de potasio en uso de diuréticos, alcalosis metabólica, intoxicación digitálica.",
+      "reaccionesAdversas": "Náuseas, dolor epigástrico, vómitos, diarrea, irritación gástrica, hiperkalemia (sobredosis).",
+      "riesgoEmbarazo": "Categoría C (usar con precaución).",
+      "riesgoLactancia": "Seguro en dosis terapéuticas.",
+      "administracion": "Vía oral (comprimido/cápsula/sobre/solución); intravenosa en hospital.",
+      "dosisMaxima": "100 mEq/día VO; 20 mEq/h IV (con monitorización).",
+      "dosisMinima": "10–20 mEq/día VO.",
+      "clasificacion": "Electrolito esencial; suplemento mineral oral/parenteral.",
+      "presentacion": "Comprimidos de liberación prolongada 600–750 mg; sobres 20 mEq; solución oral 10%; ampolla 10% (10 mL = 1 g = 13,4 mEq).",
+      "interaccionesMedicamentosas": "Riesgo de hiperkalemia con IECAs, ARAs, diuréticos ahorradores de potasio, AINEs, ciclosporina.",
+      "posologia": "VO: 20–60 mEq/día divididos en 2–3 tomas; IV: 20–40 mEq diluidos, máximo 20 mEq/h con monitorización.",
+      "almacenamiento": "Temperatura ambiente, recipiente seco y cerrado.",
+      "preparacion": "Diluir IV en SSF 0,9% o SG 5%; nunca administrar en bolo.",
+      "solucionesCompatibles": "SSF 0,9%, SG 5%.",
+      "contraindicaciones": "Hiperkalemia, insuficiencia renal grave, acidosis metabólica no corregida, enfermedad de Addison sin tratamiento.",
+      "cuidadosMedicos": "Monitorizar electrolitos, ECG, función renal.",
+      "cuidadosFarmaceuticos": "Asegurar dilución adecuada, evitar interacción con fármacos ahorradores de potasio.",
+      "cuidadosEnfermeria": "Administrar con alimentos (VO); monitorizar ECG, signos de irritación venosa (IV).",
+      "fuentesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Prospecto Slow-K"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "钾补充剂",
+      "suspension": "存在高钾血症或肾功能异常风险者，术前24小时停用。",
+      "risk": "可导致严重高钾血症、心律失常、心脏骤停、静脉注射不当可引起组织坏死。",
+      "reintroduction": "在肾功能稳定、血钾恢复正常且进行心电图监测后重新使用。"
+    },
+    "bulario": {
+      "有效成分": "氯化钾（KCl）、柠檬酸钾或碳酸氢钾",
+      "商品名": "Slow-K, KCl Retard, KCl 600, Potassion, Kalyamon",
+      "作用机制": "补充体内钾离子，维持神经肌肉功能、酸碱平衡及细胞膜电位。",
+      "药代动力学": "胃肠吸收良好；主要分布于细胞内；肾脏排泄，随血钾浓度变化。",
+      "药效学": "恢复电化学梯度，减少低钾性心律失常，改善肌肉收缩力。",
+      "适应症": "低钾血症（轻度至重度）、利尿剂应用导致的钾耗竭预防、代谢性碱中毒、洋地黄中毒。",
+      "不良反应": "恶心、上腹痛、呕吐、腹泻、胃刺激、高钾血症（过量）。",
+      "妊娠风险": "C类（慎用）。",
+      "哺乳期风险": "治疗剂量下安全。",
+      "用法用量": "口服（片剂/胶囊/散剂/溶液）；静脉注射仅限医院。",
+      "最大剂量": "口服100 mEq/天；静脉20 mEq/小时（需监测）。",
+      "最小剂量": "口服10–20 mEq/天。",
+      "分类": "必需电解质；口服/注射矿物质补充剂。",
+      "剂型": "缓释片600–750 mg；散剂20 mEq；口服溶液10%；安瓿10%（10 mL=1 g=13.4 mEq）。",
+      "药物相互作用": "与ACEI、ARB、保钾利尿剂、NSAIDs、环孢素同用易致高钾血症。",
+      "剂量方案": "口服20–60 mEq/天，分2–3次服用；静脉20–40 mEq稀释，最大20 mEq/小时（需监测）。",
+      "储存": "室温，干燥密封保存。",
+      "配制": "静脉用药需稀释于0.9%氯化钠或5%葡萄糖溶液，禁止静推。",
+      "兼容溶液": "0.9%氯化钠，5%葡萄糖。",
+      "禁忌症": "高钾血症、重度肾功能不全、未纠正的代谢性酸中毒、未治疗的Addison病。",
+      "医疗注意事项": "监测电解质、心电图及肾功能。",
+      "药学注意事项": "确保正确稀释，避免与保钾药物合用。",
+      "护理注意事项": "口服建议随餐服用；静脉用药监测心电图及静脉刺激。",
+      "参考文献": "Micromedex, UpToDate, FDA, ANVISA, Slow-K说明书"
+    }
+  }
+}

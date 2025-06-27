@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Racecadotrila",
+      "suspension": "Não é necessário suspender antes de cirurgias; avaliar em casos de diarreia aguda ativa",
+      "risk": "Risco de mascarar sintomas de infecção entérica grave; possível desidratação se usado sem hidratação adequada",
+      "reintroduction": "Pode ser reiniciado no pós-operatório caso haja diarreia não infecciosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Racecadotrila",
+      "nomeComercial": "Avide, Hidrasec",
+      "mecanismoAcao": "Inibidor da encefalinase, reduz secreção intestinal sem alterar motilidade",
+      "farmacocinetica": "Absorção oral rápida, metabolizado a tiorfano (ativo), excreção renal",
+      "farmacodinamica": "Antissecretor intestinal, reduz hipersecreção sem efeito antimicrobiano",
+      "indicacoes": "Tratamento sintomático da diarreia aguda em adultos e crianças",
+      "reacoesAdversas": "Rash, urticária, cefaleia, constipação (raro), dor abdominal leve",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Uso permitido com cautela; sem dados de excreção no leite",
+      "administracao": "Via oral",
+      "doseMaxima": "300mg/dia (adultos)",
+      "doseMinima": "1,5mg/kg (crianças)",
+      "classificacao": "Antidiarreico antissecretor",
+      "apresentacao": "Cápsulas de 100mg; sachês pediátricos 10mg e 30mg",
+      "interacaoMedicamento": "Sem interações significativas relatadas",
+      "posologia": "Adultos: 100mg 3x/dia; Crianças: 1,5mg/kg 3x/dia",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Sachês devem ser diluídos em líquido antes do uso",
+      "solucoesCompatíveis": "Água, leite, fórmula infantil",
+      "contraindicacoes": "Hipersensibilidade, diarreia com febre ou sangue, diarreia crônica",
+      "cuidadosMedicos": "Avaliar causa da diarreia antes de iniciar; sempre associar à reidratação oral",
+      "cuidadosFarmaceuticos": "Orientar sobre não substituir reposição hídrica",
+      "cuidadosEnfermagem": "Monitorar sinais de desidratação e evolução dos sintomas",
+      "fontesBibliograficas": "ANVISA, EMA, Micromedex, DICP"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Racecadotril",
+      "suspension": "No need to suspend before surgery; consider if active diarrhea",
+      "risk": "May mask enteric infection symptoms; dehydration risk if not combined with oral rehydration",
+      "reintroduction": "Can be restarted post-op for non-infectious diarrhea"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Racecadotril",
+      "nomeComercial": "Not FDA approved; used in Europe and Latin America",
+      "mecanismoAcao": "Enkephalinase inhibitor, reduces intestinal secretion without affecting motility",
+      "farmacocinetica": "Orally absorbed, active metabolite is thiorphan, renal excretion",
+      "farmacodinamica": "Antisecretory antidiarrheal agent, no antimicrobial activity",
+      "indicacoes": "Symptomatic treatment of acute diarrhea in adults and children",
+      "reacoesAdversas": "Skin rash, headache, abdominal pain, constipation (rare)",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Caution advised; excretion in breast milk not well studied",
+      "administracao": "Oral",
+      "doseMaxima": "300mg/day (adults)",
+      "doseMinima": "1.5mg/kg (children)",
+      "classificacao": "Antidiarrheal – antisecretory",
+      "apresentacao": "Capsules (100mg), pediatric sachets (10mg, 30mg)",
+      "interacaoMedicamento": "No significant interactions reported",
+      "posologia": "Adults: 100mg TID; Children: 1.5mg/kg TID",
+      "armazenamento": "Store at room temperature, protect from moisture",
+      "preparo": "Dissolve pediatric sachets in liquid before use",
+      "solucoesCompatíveis": "Water, milk, infant formula",
+      "contraindicacoes": "Hypersensitivity, bloody or febrile diarrhea, chronic diarrhea",
+      "cuidadosMedicos": "Rule out infectious etiology; always combine with ORS",
+      "cuidadosFarmaceuticos": "Advise not to replace rehydration therapy",
+      "cuidadosEnfermagem": "Monitor hydration status and symptom progression",
+      "fontesBibliograficas": "EMA, Micromedex, DICP, Clinical reviews"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Racecadotrilo",
+      "suspension": "No requiere suspensión previa a cirugía; considerar si hay diarrea activa",
+      "risk": "Puede enmascarar infección intestinal; riesgo de deshidratación si no se acompaña de hidratación oral",
+      "reintroduction": "Puede reiniciarse en el postoperatorio si la diarrea es no infecciosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Racecadotrilo",
+      "nomeComercial": "Hidrasec, Avide",
+      "mecanismoAcao": "Inhibidor de la encefalinasa, reduce la secreción intestinal sin afectar la motilidad",
+      "farmacocinetica": "Buena absorción oral, metabolito activo (tiorfano), eliminación renal",
+      "farmacodinamica": "Antisecretor intestinal, no tiene efecto antimicrobiano",
+      "indicacoes": "Tratamiento sintomático de la diarrea aguda en adultos y niños",
+      "reacoesAdversas": "Erupción cutánea, cefalea, estreñimiento, dolor abdominal leve",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Uso con precaución; se desconoce si se excreta en leche",
+      "administracao": "Vía oral",
+      "doseMaxima": "300mg/día (adultos)",
+      "doseMinima": "1,5mg/kg (niños)",
+      "classificacao": "Antidiarreico antisécretor",
+      "apresentacao": "Cápsulas 100mg, sobres pediátricos 10mg y 30mg",
+      "interacaoMedicamento": "No se han reportado interacciones significativas",
+      "posologia": "Adultos: 100mg cada 8h; Niños: 1,5mg/kg cada 8h",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "Disolver sobres pediátricos en líquido",
+      "solucoesCompatíveis": "Agua, leche, fórmula infantil",
+      "contraindicacoes": "Hipersensibilidad, diarrea con fiebre o sangre, diarrea crónica",
+      "cuidadosMedicos": "Evaluar etiología antes de iniciar; siempre asociar con rehidratación oral",
+      "cuidadosFarmaceuticos": "Advertir que no reemplaza la hidratación oral",
+      "cuidadosEnfermagem": "Monitorear hidratación y evolución clínica",
+      "fontesBibliograficas": "EMA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "瑞卡多曲",
+      "suspension": "术前无需停药；如有腹泻应评估病因",
+      "risk": "可能掩盖肠道感染症状，未补液时可能加重脱水",
+      "reintroduction": "术后如有非感染性腹泻，可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "瑞卡多曲",
+      "nomeComercial": "Hidrasec（部分国家）",
+      "mecanismoAcao": "抑制脑啡肽酶，减少肠道分泌，不影响蠕动",
+      "farmacocinetica": "口服吸收迅速，代谢为活性物（硫啡喃），肾排泄",
+      "farmacodinamica": "抗分泌止泻药，无抗菌活性",
+      "indicacoes": "成人及儿童急性腹泻的对症治疗",
+      "reacoesAdversas": "皮疹、头痛、轻度便秘或腹痛",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期慎用，尚无排泄资料",
+      "administracao": "口服",
+      "doseMaxima": "成人每日300毫克",
+      "doseMinima": "儿童1.5毫克/公斤/次",
+      "classificacao": "抗分泌止泻药",
+      "apresentacao": "胶囊100mg，儿童用颗粒10mg、30mg",
+      "interacaoMedicamento": "无显著药物相互作用",
+      "posologia": "成人100mg，每8小时一次；儿童1.5mg/kg，每8小时一次",
+      "armazenamento": "常温保存，防潮",
+      "preparo": "儿童剂型需溶于液体服用",
+      "solucoesCompatíveis": "水、牛奶、婴儿配方奶",
+      "contraindicacoes": "对成分过敏，有血便或发热性腹泻、慢性腹泻",
+      "cuidadosMedicos": "明确腹泻病因，始终联合补液治疗",
+      "cuidadosFarmaceuticos": "提醒不替代补液，正确使用剂量",
+      "cuidadosEnfermagem": "监测脱水征象，记录腹泻频率",
+      "fontesBibliograficas": "中国药典、EMA、Micromedex"
+    }
+  }
+}

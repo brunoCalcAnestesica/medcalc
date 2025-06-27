@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Alemtuzumabe",
+      "suspension": "Suspender 7 a 10 dias antes de procedimentos cirúrgicos maiores, principalmente em imunossuprimidos",
+      "risk": "Linfopenia prolongada, infecções oportunistas, reações infusionais graves, autoimunidade secundária (p. ex., trombocitopenia autoimune)",
+      "reintroduction": "Reintroduzir após completa recuperação clínica, hematológica e ausência de sinais de infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alemtuzumabe",
+      "nomeComercial": "Lemtrada, Campath",
+      "mecanismoAcao": "Anticorpo monoclonal anti-CD52 que induz depleção profunda de linfócitos T e B",
+      "farmacocinetica": "Administração IV; meia-vida terminal ~6 dias; eliminação por endocitose celular e clivagem proteolítica",
+      "farmacodinamica": "Imunossupressor potente com depleção linfocitária prolongada (até 12 meses); reconstituição imune gradual",
+      "indicacoes": "Esclerose múltipla remitente-recorrente (EMRR), leucemia linfocítica crônica B-CD52+ (LLC), off-label em vasculites e doenças autoimunes graves",
+      "reacoesAdversas": "Reações infusionais (90%), infecções virais, fungos, neutropenia, hepatite autoimune, púrpura trombocitopênica imune, disfunções endócrinas",
+      "riscoGravidez": "Categoria C – evitar; teratogênico em modelos animais; contracepção exigida por 4 meses após última dose",
+      "riscoLactacao": "Contraindicado durante o uso e por pelo menos 4 meses após a última dose",
+      "administracao": "Infusão IV por 4 horas; EM: 12mg/dia por 5 dias (ano 1) e 3 dias (ano 2)",
+      "doseMaxima": "12mg/dia (EM); 30mg 3x/semana por 12 semanas (LLC)",
+      "doseMinima": "10mg/dia (ajustes possíveis)",
+      "classificacao": "Anticorpo monoclonal anti-CD52; imunossupressor seletivo",
+      "apresentacao": "Frasco-ampola 12mg/1,2ml (solução concentrada)",
+      "interacaoMedicamento": "Imunossupressores aumentam risco de infecção; evitar vacinas vivas por 6 meses",
+      "posologia": "EM: 12mg/dia por 5 dias (ano 1) e 3 dias (ano 2); LLC: conforme protocolo oncológico",
+      "armazenamento": "Refrigerado (2–8°C); protegido da luz; não congelar",
+      "preparo": "Diluir em SF 0,9% até 100ml; infundir em 4h; usar filtro 0,22µm",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Infecção ativa, HIV, tuberculose não tratada, gravidez, hipersensibilidade",
+      "cuidadosMedicos": "Rastreamento de HBV, HCV, HIV, TB; monitoramento mensal de função renal, TGO/TGP e hemograma por 48 meses",
+      "cuidadosFarmaceuticos": "Armazenamento sob cadeia de frio; informar sobre risco autoimune e necessidade de monitoramento laboratorial regular",
+      "cuidadosEnfermagem": "Monitorar reações infusionais, temperatura, sinais de infecção e sintomas autoimunes",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, UpToDate, Lemtrada Bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Alemtuzumab",
+      "suspension": "Hold 7–10 days before high-risk surgery; delay if active infection or recent infusion",
+      "risk": "Prolonged lymphopenia, opportunistic infections, infusion reactions, secondary autoimmunity",
+      "reintroduction": "Restart after full clinical and hematologic recovery, with no infection signs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alemtuzumab",
+      "nomeComercial": "Lemtrada, Campath",
+      "mecanismoAcao": "Monoclonal antibody targeting CD52, leading to rapid depletion of T and B cells",
+      "farmacocinetica": "IV; T½ ~6 days; clearance via cellular uptake",
+      "farmacodinamica": "Profound immunosuppression; gradual immune reconstitution over months",
+      "indicacoes": "Relapsing MS, B-cell CLL CD52+; off-label autoimmune diseases",
+      "reacoesAdversas": "Infusion reactions, CMV reactivation, ITP, neutropenia, thyroid dysfunction, autoimmune hepatitis",
+      "riscoGravidez": "Category C – contraception required for 4 months post-dose",
+      "riscoLactacao": "Avoid during treatment and 4 months after",
+      "administracao": "IV infusion over 4h; MS: 12mg/day x5d (yr1) and x3d (yr2)",
+      "doseMaxima": "12mg/day (MS); 30mg TIW (CLL)",
+      "doseMinima": "10mg/day",
+      "classificacao": "Anti-CD52 monoclonal antibody; immunosuppressant",
+      "apresentacao": "12mg/1.2ml vial",
+      "interacaoMedicamento": "Avoid live vaccines; risk with other immunosuppressants",
+      "posologia": "MS: 12mg/day x5 days (Y1), x3 days (Y2); CLL per protocol",
+      "armazenamento": "Refrigerate 2–8°C; protect from light",
+      "preparo": "Dilute in 100ml NS; infuse over 4h; use inline 0.22µm filter",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Active infection, HIV, untreated TB, pregnancy",
+      "cuidadosMedicos": "Screen HIV/HBV/HCV/TB; monitor monthly labs for 48 months",
+      "cuidadosFarmaceuticos": "Cold-chain, educate on autoimmunity risk, ensure REMS enrollment",
+      "cuidadosEnfermagem": "Vitals, infusion reaction signs, infection or autoimmune symptoms",
+      "fontesBibliograficas": "FDA REMS, Lemtrada label, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Alemtuzumab",
+      "suspension": "Suspender 7–10 días antes de cirugía mayor o en caso de infección activa",
+      "risk": "Linfopenia prolongada, infecciones oportunistas, reacciones a la infusión, autoinmunidad secundaria",
+      "reintroduction": "Reiniciar tras recuperación clínica y hematológica, sin signos infecciosos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alemtuzumab",
+      "nomeComercial": "Lemtrada, Campath",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-CD52; depleción de linfocitos T/B",
+      "farmacocinetica": "IV; T½ ~6 días; eliminación celular",
+      "farmacodinamica": "Inmunosupresión profunda con reconstitución lenta",
+      "indicacoes": "EM remitente, LLC CD52+, vasculitis (off-label)",
+      "reacoesAdversas": "Fiebre, escalofríos, reactivación CMV, hipotiroidismo, hepatitis autoinmune, Púrpura trombocitopénica",
+      "riscoGravidez": "Categoría C – anticoncepción por 4 meses",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "12mg/día IV ×5 días (año 1); ×3 días (año 2)",
+      "doseMaxima": "12mg/día (EM); 30mg x3 semana (LLC)",
+      "doseMinima": "10mg/día",
+      "classificacao": "Anticuerpo monoclonal inmunosupresor",
+      "apresentacao": "Vial 12mg/1.2ml",
+      "interacaoMedicamento": "Evitar vacunas vivas; riesgo con otros inmunosupresores",
+      "posologia": "EM: 12mg/día x5d/año1, x3d/año2; LLC según protocolo",
+      "armazenamento": "Refrigerado; no congelar; luz protegida",
+      "preparo": "Diluir en 100ml de SF; filtrar 0,22µm; infusión 4h",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Infección activa, embarazo, VIH, TB activa",
+      "cuidadosMedicos": "Serologías virales, hemograma, pruebas tiroideas",
+      "cuidadosFarmaceuticos": "Cadena de frío, educación paciente, control postratamiento",
+      "cuidadosEnfermagem": "Vigilancia infusión, infecciones, signos de autoinmunidad",
+      "fontesBibliograficas": "EMA, ficha técnica, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿仑妥珠单抗",
+      "suspension": "术前7–10天停药，术后血象及感染风险恢复后重启",
+      "risk": "淋巴细胞减少、感染、输注反应、自身免疫性疾病",
+      "reintroduction": "术后14天，感染及血象正常后评估恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿仑妥珠单抗",
+      "nomeComercial": "Lemtrada",
+      "mecanismoAcao": "靶向CD52单抗，快速清除T/B淋巴细胞",
+      "farmacocinetica": "T½约6天；细胞摄取清除",
+      "farmacodinamica": "诱导免疫抑制，淋巴细胞重建需数月",
+      "indicacoes": "复发型多发性硬化、B细胞CLL、系统性自身免疫病（非适应证）",
+      "reacoesAdversas": "发热、寒战、CMV激活、甲状腺功能异常、ITP、自身免疫性肝炎",
+      "riscoGravidez": "C类 – 禁孕4个月",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静滴4小时，EM疗程：12mg/d×5天(首年)，×3天(次年)",
+      "doseMaxima": "12mg/d；CLL方案为30mg/次",
+      "doseMinima": "10mg/d",
+      "classificacao": "抗CD52免疫抑制性单抗",
+      "apresentacao": "12mg/1.2ml注射液",
+      "interacaoMedicamento": "避免活疫苗、慎与其他免疫抑制药共用",
+      "posologia": "MS：12mg/d×5/3天；CLL依方案",
+      "armazenamento": "2–8°C冷藏，避光，勿冻",
+      "preparo": "用0.9%氯化钠配至100ml，滤器0.22µm",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "活动性感染、妊娠、HIV、TB未治疗",
+      "cuidadosMedicos": "筛查乙肝/丙肝/结核/HIV；血象、免疫、甲状腺随访48个月",
+      "cuidadosFarmaceuticos": "冷链运输、标明用药间隔、风险沟通",
+      "cuidadosEnfermagem": "监测发热、皮疹、感染、出血、自免体征",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nabumetona",
+      "suspension": "Suspender 48 a 72 horas antes de procedimentos cirúrgicos eletivos.",
+      "risk": "Risco de sangramento gastrintestinal e toxicidade renal. Apesar de menor impacto sobre COX-1, ainda apresenta risco cardiovascular e retenção hídrica.",
+      "reintroduction": "Reintroduzir após 48–72h do procedimento, com função renal e estabilidade hemodinâmica confirmadas."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nabumetona",
+      "nomeComercial": "Relifex, Relafen",
+      "mecanismoAcao": "AINE não ácido que, após conversão hepática, inibe preferencialmente a COX-2, reduzindo prostaglandinas inflamatórias.",
+      "farmacocinetica": "Pró-droga ativada no fígado; meia-vida do metabólito ativo ~24h; pico plasmático em 2–6h; metabolização hepática; excreção renal e fecal.",
+      "farmacodinamica": "Ação anti-inflamatória, analgésica e antipirética prolongada. Menor lesão gástrica comparado a AINEs clássicos.",
+      "indicacoes": "Artrite reumatoide, osteoartrite, dor musculoesquelética crônica.",
+      "reacoesAdversas": "Dispepsia, cefaleia, tontura, edema, aumento de transaminases, rash cutâneo, lesão renal, eventos trombóticos raros.",
+      "riscoGravidez": "Categoria C (1º e 2º trimestres), D no 3º.",
+      "riscoLactacao": "Evitar uso prolongado durante a amamentação.",
+      "administracao": "Via oral.",
+      "doseMaxima": "2000 mg/dia.",
+      "doseMinima": "1000 mg/dia.",
+      "classificacao": "Anti-inflamatório não esteroidal (AINE) preferencial COX-2.",
+      "apresentacao": "Comprimidos de 500 mg e 750 mg.",
+      "interacaoMedicamento": "Interage com anticoagulantes, diuréticos, lítio, metotrexato, IECAs.",
+      "posologia": "1000 a 2000 mg/dia em dose única ou dividida.",
+      "armazenamento": "Temperatura ambiente (15–30°C).",
+      "preparo": "Não requer preparo.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Úlcera péptica ativa, insuficiência renal ou hepática grave, insuficiência cardíaca descompensada, gravidez no 3º trimestre.",
+      "cuidadosMedicos": "Monitorar função renal, PA, sintomas digestivos, risco cardiovascular.",
+      "cuidadosFarmaceuticos": "Evitar associação com outros AINEs; avaliar necessidade de gastroproteção.",
+      "cuidadosEnfermagem": "Orientar administração com alimentos; vigiar sinais de retenção hídrica ou desconforto gástrico.",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nabumetone",
+      "suspension": "Discontinue 48 to 72 hours before elective surgery.",
+      "risk": "Risk of GI bleeding, renal toxicity, and fluid retention. Although COX-2 preferential, still poses CV and renal risks.",
+      "reintroduction": "Restart 48–72h after surgery if renal function and hemodynamics are stable."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nabumetone",
+      "nomeComercial": "Relafen",
+      "mecanismoAcao": "Non-acidic NSAID that is hepatically converted to a COX-2 preferential inhibitor, reducing inflammatory prostaglandins.",
+      "farmacocinetica": "Prodrug activated in liver; active metabolite half-life ~24h; peak 2–6h; hepatic metabolism; renal/fecal excretion.",
+      "farmacodinamica": "Prolonged anti-inflammatory, analgesic and antipyretic effects. Lower gastric injury than classic NSAIDs.",
+      "indicacoes": "Rheumatoid arthritis, osteoarthritis, chronic MSK pain.",
+      "reacoesAdversas": "Dyspepsia, headache, dizziness, edema, ALT/AST elevation, rash, renal injury, rare thrombotic events.",
+      "riscoGravidez": "Category C (1st/2nd trimester), D (3rd trimester).",
+      "riscoLactacao": "Avoid prolonged use while breastfeeding.",
+      "administracao": "Oral route.",
+      "doseMaxima": "2000 mg/day.",
+      "doseMinima": "1000 mg/day.",
+      "classificacao": "COX-2 preferential NSAID.",
+      "apresentacao": "Tablets: 500 mg and 750 mg.",
+      "interacaoMedicamento": "Interacts with anticoagulants, lithium, diuretics, methotrexate, ACE inhibitors.",
+      "posologia": "1000–2000 mg/day in 1 or 2 doses.",
+      "armazenamento": "Store at 15–30°C.",
+      "preparo": "No preparation needed.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Active GI ulcer, severe renal/hepatic impairment, decompensated heart failure, 3rd trimester pregnancy.",
+      "cuidadosMedicos": "Monitor renal and hepatic function, BP, and GI tolerance.",
+      "cuidadosFarmaceuticos": "Avoid NSAID combinations; evaluate for gastroprotection.",
+      "cuidadosEnfermagem": "Take with food; monitor for GI discomfort or fluid retention.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nabutemona",
+      "suspension": "Suspender 48–72 horas antes de cirugía electiva.",
+      "risk": "Riesgo de sangrado GI y toxicidad renal. Aunque tiene preferencia por COX-2, mantiene riesgo cardiovascular.",
+      "reintroduction": "Reintroducir tras estabilización clínica y función renal recuperada (48–72h postoperatorias)."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nabutemona",
+      "nomeComercial": "Relifex, Relafen",
+      "mecanismoAcao": "AINE no ácido que se convierte en el hígado en inhibidor preferente de COX-2.",
+      "farmacocinetica": "Pró-fármaco hepático; vida media del activo ~24h; pico 2–6h; metabolismo hepático; excreción renal/fecal.",
+      "farmacodinamica": "Efecto prolongado antiinflamatorio, analgésico y antipirético. Menor daño gástrico.",
+      "indicacoes": "Artritis reumatoide, osteoartritis, dolor musculoesquelético crónico.",
+      "reacoesAdversas": "Dispepsia, cefalea, vértigo, edema, aumento de transaminasas, rash, nefrotoxicidad, trombosis rara.",
+      "riscoGravidez": "Categoría C (1º/2º trimestre), D (3º trimestre).",
+      "riscoLactacao": "Evitar uso prolongado en lactancia.",
+      "administracao": "Vía oral.",
+      "doseMaxima": "2000 mg/día.",
+      "doseMinima": "1000 mg/día.",
+      "classificacao": "AINE preferente COX-2.",
+      "apresentacao": "Comprimidos de 500 mg y 750 mg.",
+      "interacaoMedicamento": "Interacción con anticoagulantes, litio, diuréticos, metotrexato, IECAs.",
+      "posologia": "1000–2000 mg/día en 1–2 dosis.",
+      "armazenamento": "15–30°C.",
+      "preparo": "No requiere preparación.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Úlcera activa, insuficiencia renal/hepática grave, IC descompensada, embarazo avanzado.",
+      "cuidadosMedicos": "Monitorear función renal y hepática, PA y tolerancia GI.",
+      "cuidadosFarmaceuticos": "Evitar combinación con otros AINE; valorar protección gástrica.",
+      "cuidadosEnfermagem": "Administrar con alimentos; vigilar edema o malestar digestivo.",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "那布美通（Nabumetone）",
+      "suspension": "择期手术前48–72小时停药。",
+      "risk": "存在胃肠道出血、肾毒性和心血管风险。虽偏向COX-2但仍需警惕并发症。",
+      "reintroduction": "术后48–72小时、肾功能稳定后可重新用药。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "那布美通",
+      "nomeComercial": "Relafen",
+      "mecanismoAcao": "口服后在肝脏代谢为活性代谢物，主要抑制COX-2，减少前列腺素生成。",
+      "farmacocinetica": "为前药；活性成分半衰期约24小时；2–6小时达峰；肝代谢；经肾和粪便排泄。",
+      "farmacodinamica": "持久抗炎、镇痛、退热；胃损伤风险较低。",
+      "indicacoes": "类风湿、骨关节炎、慢性肌骨疼痛。",
+      "reacoesAdversas": "胃部不适、头痛、头晕、水肿、肝酶升高、皮疹、肾损伤、罕见血栓。",
+      "riscoGravidez": "妊娠1–2期为C类，晚期为D类。",
+      "riscoLactacao": "哺乳期避免长期使用。",
+      "administracao": "口服。",
+      "doseMaxima": "每日2000毫克。",
+      "doseMinima": "每日1000毫克。",
+      "classificacao": "偏向COX-2抑制的NSAID。",
+      "apresentacao": "500mg、750mg片剂。",
+      "interacaoMedicamento": "与抗凝剂、锂、利尿剂、ACEI、甲氨蝶呤等相互作用。",
+      "posologia": "每日1000–2000毫克，分1–2次服用。",
+      "armazenamento": "15–30°C。",
+      "preparo": "无需准备。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "活动性溃疡、重度肾肝功能障碍、心衰、妊娠晚期。",
+      "cuidadosMedicos": "监测肾肝功能、血压、胃肠反应。",
+      "cuidadosFarmaceuticos": "避免与其他NSAID联用，考虑胃保护。",
+      "cuidadosEnfermagem": "建议饭后服用，注意水肿和胃部不适症状。",
+      "fontesBibliograficas": "FDA、中国药典、Micromedex、UpToDate"
+    }
+  }
+}

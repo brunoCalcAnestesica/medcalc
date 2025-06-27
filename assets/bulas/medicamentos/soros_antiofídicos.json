@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Soros antiofídicos",
+      "suspension": "Não aplicável. Soros antiofídicos são indicados em caráter de urgência e não devem ser suspensos se houver indicação clínica.",
+      "risk": "Risco de reações anafiláticas, doença do soro e hipersensibilidade tardia. Monitoramento rigoroso necessário durante infusão.",
+      "reintroduction": "Reintroduzir se novos sinais de envenenamento surgirem ou houver falha na neutralização inicial, conforme protocolo."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imunoglobulina antiofídica polivalente (cavalos)",
+      "nomeComercial": "Soro antibotrópico, anticrotálico, antielapídico, antilaquético",
+      "mecanismoAcao": "Neutralização de toxinas por ligação antígeno-anticorpo; inativa frações enzimáticas e citotóxicas do veneno.",
+      "farmacocinetica": "Início de ação em minutos; meia-vida de 5–7 dias; metabolização proteica.",
+      "farmacodinamica": "Redução de efeitos neurotóxicos, miotóxicos, coagulopáticos e hemolíticos do veneno.",
+      "indicacoes": "Tratamento de envenenamentos por picada de serpentes do gênero Bothrops, Crotalus, Micrurus, Lachesis.",
+      "reacoesAdversas": "Anafilaxia, urticária, febre, calafrios, doença do soro (5–10 dias após).",
+      "riscoGravidez": "Uso permitido, risco-benefício favorável.",
+      "riscoLactacao": "Uso permitido, risco-benefício favorável.",
+      "administracao": "EV lenta, diluído em SF 0,9%.",
+      "doseMaxima": "12 ampolas conforme gravidade e tipo de acidente.",
+      "doseMinima": "4 ampolas conforme gravidade e tipo de acidente.",
+      "classificacao": "Imunoglobulina heteróloga purificada (antiveneno polivalente)",
+      "apresentacao": "Ampolas liofilizadas ou solução injetável, armazenadas sob refrigeração (2–8°C)",
+      "interacaoMedicamento": "Potencial interação com imunossupressores; pode interferir em testes sorológicos (falso-positivos)",
+      "posologia": "4 a 12 ampolas conforme gravidade e tipo de acidente.",
+      "armazenamento": "Geladeira (2–8°C), não congelar",
+      "preparo": "Reconstituir com diluente próprio (se liofilizado) ou usar diretamente (se líquido)",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%",
+      "contraindicacoes": "Não há, em caso de acidente comprovado.",
+      "cuidadosMedicos": "Manter acesso venoso, material para anafilaxia, monitorar sinais vitais.",
+      "cuidadosFarmaceuticos": "Verificar integridade do frasco, compatibilidade, validade e manter cadeia de frio",
+      "cuidadosEnfermagem": "Monitorar sinais vitais a cada 15 min, manter acesso venoso pérvio e observar reações de hipersensibilidade",
+      "fontesBibliograficas": "MS/SVS, Micromedex, UpToDate, WHO Snakebite Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Antivenom sera",
+      "suspension": "Not applicable. Antivenoms are indicated in emergency situations and should not be discontinued if clinically indicated.",
+      "risk": "Risk of anaphylactic reactions, serum sickness, and delayed hypersensitivity. Strict monitoring required during infusion.",
+      "reintroduction": "Reintroduce if new signs of envenomation appear or if initial neutralization fails, according to protocol."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Polyvalent antivenom immunoglobulin (equine)",
+      "nomeComercial": "Bothropic, Crotalic, Elapidic, Lachesis antivenom",
+      "mecanismoAcao": "Neutralization of toxins by antigen-antibody binding; inactivates enzymatic and cytotoxic venom fractions.",
+      "farmacocinetica": "Onset within minutes; half-life 5–7 days; protein metabolism.",
+      "farmacodinamica": "Reduces neurotoxic, myotoxic, coagulopathic, and hemolytic effects of the venom.",
+      "indicacoes": "Treatment of envenomation by bites from Bothrops, Crotalus, Micrurus, Lachesis genus snakes.",
+      "reacoesAdversas": "Anaphylaxis, urticaria, fever, chills, serum sickness (5–10 days after).",
+      "riscoGravidez": "Use permitted, favorable risk-benefit.",
+      "riscoLactacao": "Use permitted, favorable risk-benefit.",
+      "administracao": "Slow IV, diluted in 0.9% saline.",
+      "doseMaxima": "12 vials depending on severity and type of accident.",
+      "doseMinima": "4 vials depending on severity and type of accident.",
+      "classificacao": "Purified heterologous immunoglobulin (polyvalent antivenom)",
+      "apresentacao": "Lyophilized vials or injectable solution, stored refrigerated (2–8°C)",
+      "interacaoMedicamento": "Potential interaction with immunosuppressants; may interfere with serological tests (false-positives)",
+      "posologia": "4 to 12 vials according to severity and type of accident.",
+      "armazenamento": "Refrigerate (2–8°C), do not freeze",
+      "preparo": "Reconstitute with specific diluent (if lyophilized) or use directly (if liquid)",
+      "solucoesCompatíveis": "0.9% saline solution",
+      "contraindicacoes": "None, in case of proven envenomation.",
+      "cuidadosMedicos": "Maintain venous access, have materials for anaphylaxis, monitor vital signs.",
+      "cuidadosFarmaceuticos": "Check vial integrity, compatibility, expiration date and maintain cold chain",
+      "cuidadosEnfermagem": "Monitor vital signs every 15 min, maintain patent venous access and observe for hypersensitivity reactions",
+      "fontesBibliograficas": "MS/SVS, Micromedex, UpToDate, WHO Snakebite Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Suero antiofídico",
+      "suspension": "No aplicable. Los sueros antiofídicos se indican en situaciones de urgencia y no deben suspenderse si hay indicación clínica.",
+      "risk": "Riesgo de reacciones anafilácticas, enfermedad del suero e hipersensibilidad tardía. Monitorización rigurosa durante la infusión.",
+      "reintroduction": "Reintroducir si aparecen nuevos signos de envenenamiento o hay fallo en la neutralización inicial, según protocolo."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Inmunoglobulina antiofídica polivalente (caballos)",
+      "nomeComercial": "Suero antibotrópico, anticrotálico, antielapídico, antilaquético",
+      "mecanismoAcao": "Neutralización de toxinas por unión antígeno-anticuerpo; inactiva fracciones enzimáticas y citotóxicas del veneno.",
+      "farmacocinetica": "Inicio de acción en minutos; vida media de 5–7 días; metabolismo proteico.",
+      "farmacodinamica": "Reducción de los efectos neurotóxicos, miotóxicos, coagulopáticos y hemolíticos del veneno.",
+      "indicacoes": "Tratamiento de envenenamiento por mordedura de serpientes del género Bothrops, Crotalus, Micrurus, Lachesis.",
+      "reacoesAdversas": "Anafilaxia, urticaria, fiebre, escalofríos, enfermedad del suero (5–10 días después).",
+      "riscoGravidez": "Uso permitido, riesgo-beneficio favorable.",
+      "riscoLactacao": "Uso permitido, riesgo-beneficio favorable.",
+      "administracao": "IV lenta, diluida en SF 0,9%.",
+      "doseMaxima": "12 ampollas según la gravedad y el tipo de accidente.",
+      "doseMinima": "4 ampollas según la gravedad y el tipo de accidente.",
+      "classificacao": "Inmunoglobulina heteróloga purificada (antiveneno polivalente)",
+      "apresentacao": "Ampollas liofilizadas o solución inyectable, almacenadas bajo refrigeración (2–8°C)",
+      "interacaoMedicamento": "Potencial interacción con inmunosupresores; puede interferir en pruebas serológicas (falsos positivos)",
+      "posologia": "4 a 12 ampollas según la gravedad y el tipo de accidente.",
+      "armazenamento": "Refrigerar (2–8°C), no congelar",
+      "preparo": "Reconstituir con diluyente propio (si liofilizado) o usar directamente (si líquido)",
+      "solucoesCompatíveis": "Suero fisiológico 0,9%",
+      "contraindicacoes": "No hay, en caso de accidente comprobado.",
+      "cuidadosMedicos": "Mantener acceso venoso, material para anafilaxia, monitorizar signos vitales.",
+      "cuidadosFarmaceuticos": "Verificar integridad del frasco, compatibilidad, validez y mantener cadena de frío",
+      "cuidadosEnfermagem": "Monitorizar signos vitales cada 15 min, mantener acceso venoso permeable y observar reacciones de hipersensibilidad",
+      "fontesBibliograficas": "MS/SVS, Micromedex, UpToDate, WHO Snakebite Guidelines"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "血清抗蛇毒素",
+      "suspension": "不适用。血清抗蛇毒素用于紧急情况，如有临床指征不应中断。",
+      "risk": "存在过敏反应、血清病及迟发性超敏反应风险。输注过程中需严格监测。",
+      "reintroduction": "如出现新的中毒症状或初次中和失败，应按方案重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多价抗蛇毒免疫球蛋白（马源）",
+      "nomeComercial": "抗蝮蛇血清、抗响尾蛇血清、抗珊瑚蛇血清、抗棘蛇血清",
+      "mecanismoAcao": "通过抗原-抗体结合中和毒素；可使毒液中酶类和细胞毒性成分失活。",
+      "farmacocinetica": "起效快，数分钟内见效；半衰期5-7天；蛋白代谢。",
+      "farmacodinamica": "减少毒液的神经毒性、肌肉毒性、凝血障碍及溶血作用。",
+      "indicacoes": "用于治疗由蝮蛇、响尾蛇、珊瑚蛇、棘蛇属蛇咬伤引起的中毒。",
+      "reacoesAdversas": "过敏反应、荨麻疹、发热、寒战、血清病（5-10天后）。",
+      "riscoGravidez": "可用，利大于弊。",
+      "riscoLactacao": "可用，利大于弊。",
+      "administracao": "缓慢静脉滴注，稀释于0.9%氯化钠溶液。",
+      "doseMaxima": "根据严重程度和类型，最多12支。",
+      "doseMinima": "根据严重程度和类型，最少4支。",
+      "classificacao": "纯化的异种免疫球蛋白（多价抗毒素）",
+      "apresentacao": "冻干安瓿或注射液，冷藏保存（2–8°C）",
+      "interacaoMedicamento": "可能与免疫抑制剂相互作用；可能干扰血清学检测（假阳性）",
+      "posologia": "根据严重程度和类型，每次4至12支。",
+      "armazenamento": "冰箱保存（2–8°C），禁止冷冻",
+      "preparo": "冻干品用专用稀释液复溶，液体可直接使用",
+      "solucoesCompatíveis": "0.9%氯化钠溶液",
+      "contraindicacoes": "确诊蛇咬中毒时无禁忌症。",
+      "cuidadosMedicos": "保持静脉通道，备好抗过敏急救物品，监测生命体征。",
+      "cuidadosFarmaceuticos": "检查安瓿完整性、兼容性、有效期并保持冷链",
+      "cuidadosEnfermagem": "每15分钟监测生命体征，保持静脉通畅，观察过敏反应",
+      "fontesBibliograficas": "MS/SVS, Micromedex, UpToDate, WHO Snakebite Guidelines"
+    }
+  }
+}

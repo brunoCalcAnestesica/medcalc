@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Rivaroxabana",
+      "suspension": "Suspender 2 a 3 dias antes da cirurgia, dependendo do risco hemorrágico e função renal",
+      "risk": "Alto risco de sangramento intraoperatório; inibição do fator Xa com meia-vida prolongada",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia, conforme risco hemorrágico e estabilidade hemostática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rivaroxabana",
+      "nomeComercial": "Xarelto",
+      "mecanismoAcao": "Inibidor direto do fator Xa, impedindo a formação de trombina e coagulação",
+      "farmacocinetica": "Biodisponibilidade oral >80%; meia-vida 5–13h; metabolismo hepático e excreção renal/fecal",
+      "farmacodinamica": "Efeito anticoagulante rápido e previsível; sem necessidade de monitoramento rotineiro",
+      "indicacoes": "TEV, trombose venosa profunda, embolia pulmonar, FA não valvar, prevenção de AVC",
+      "reacoesAdversas": "Sangramento, anemia, elevação de transaminases, náusea",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar uso na lactação; excreção desconhecida",
+      "administracao": "Via oral",
+      "doseMaxima": "20mg/dia",
+      "doseMinima": "2,5mg/dia",
+      "classificacao": "Anticoagulante oral direto (DOAC)",
+      "apresentacao": "Comprimidos 2,5mg, 10mg, 15mg, 20mg",
+      "interacaoMedicamento": "Aumenta risco de sangramento com AAS, AINEs, outros anticoagulantes; metabolizado por CYP3A4 e P-gp",
+      "posologia": "10–20mg/dia; dose e duração conforme indicação clínica",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Sangramento ativo, insuficiência hepática grave, gravidez, uso concomitante com outros anticoagulantes",
+      "cuidadosMedicos": "Suspender com antecedência adequada; monitorar sinais de sangramento e função renal",
+      "cuidadosFarmaceuticos": "Orientar adesão estrita e risco de sangramentos ocultos",
+      "cuidadosEnfermagem": "Observar equimoses, sangramento gengival, melena, hematúria",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, ESC Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Rivaroxaban",
+      "suspension": "Stop 2–3 days before surgery depending on bleeding risk and renal function",
+      "risk": "High intraoperative bleeding risk due to factor Xa inhibition and long half-life",
+      "reintroduction": "Restart 24–72h post-op based on hemostasis and bleeding risk"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rivaroxaban",
+      "nomeComercial": "Xarelto",
+      "mecanismoAcao": "Direct factor Xa inhibitor, blocking thrombin formation and coagulation",
+      "farmacocinetica": "Oral bioavailability >80%; half-life 5–13h; hepatic metabolism, renal/fecal excretion",
+      "farmacodinamica": "Rapid, predictable anticoagulant effect; no routine monitoring needed",
+      "indicacoes": "VTE, DVT, PE, NVAF, stroke prevention",
+      "reacoesAdversas": "Bleeding, anemia, elevated liver enzymes, nausea",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid; unknown excretion in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "20mg/day",
+      "doseMinima": "2.5mg/day",
+      "classificacao": "Direct oral anticoagulant (DOAC)",
+      "apresentacao": "Tablets 2.5mg, 10mg, 15mg, 20mg",
+      "interacaoMedicamento": "Increased bleeding with aspirin, NSAIDs, other anticoagulants; CYP3A4 and P-gp substrate",
+      "posologia": "10–20mg/day depending on indication",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active bleeding, severe hepatic impairment, pregnancy, concomitant anticoagulants",
+      "cuidadosMedicos": "Discontinue pre-op per bleeding risk; monitor bleeding signs and renal function",
+      "cuidadosFarmaceuticos": "Educate on adherence and occult bleeding signs",
+      "cuidadosEnfermagem": "Watch for bruising, gum bleeding, melena, hematuria",
+      "fontesBibliograficas": "FDA, Micromedex, ACC/AHA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Rivaroxabán",
+      "suspension": "Suspender 2–3 días antes de cirugía según riesgo hemorrágico y función renal",
+      "risk": "Alto riesgo de sangrado intraoperatorio por inhibición del factor Xa",
+      "reintroduction": "Reintroducir 24–72h después de cirugía según estabilidad hemostática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rivaroxabán",
+      "nomeComercial": "Xarelto",
+      "mecanismoAcao": "Inhibidor directo del factor Xa; previene la formación de trombina",
+      "farmacocinetica": "Biodisponibilidad oral >80%; vida media 5–13h; metabolismo hepático; excreción renal/fecal",
+      "farmacodinamica": "Efecto anticoagulante predecible sin necesidad de monitoreo rutinario",
+      "indicacoes": "TEV, TVP, TEP, FA no valvular, prevención de ACV",
+      "reacoesAdversas": "Sangrado, anemia, enzimas hepáticas elevadas, náusea",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante lactancia; excreción desconocida",
+      "administracao": "Oral",
+      "doseMaxima": "20mg/día",
+      "doseMinima": "2,5mg/día",
+      "classificacao": "Anticoagulante oral directo (ACOD)",
+      "apresentacao": "Comprimidos 2,5mg, 10mg, 15mg, 20mg",
+      "interacaoMedicamento": "Mayor riesgo de sangrado con AAS, AINEs, anticoagulantes; sustrato de CYP3A4 y P-gp",
+      "posologia": "10–20mg/día según indicación clínica",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Sangrado activo, insuficiencia hepática severa, embarazo",
+      "cuidadosMedicos": "Suspender con tiempo adecuado; monitorizar sangrado y función renal",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia y signos de sangrado oculto",
+      "cuidadosEnfermagem": "Observar sangrado, hematomas, melena, hematuria",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利伐沙班",
+      "suspension": "术前根据出血风险及肾功能提前2–3天停药",
+      "risk": "因Xa因子抑制导致术中出血风险增加",
+      "reintroduction": "术后24–72小时，根据止血情况重新给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "利伐沙班",
+      "nomeComercial": "Xarelto",
+      "mecanismoAcao": "直接抑制Xa因子，阻断凝血级联反应",
+      "farmacocinetica": "口服生物利用度>80%；半衰期5–13小时；肝代谢，肾/粪排泄",
+      "farmacodinamica": "抗凝作用快速稳定，无需常规监测",
+      "indicacoes": "静脉血栓、肺栓塞、非瓣膜性房颤卒中预防",
+      "reacoesAdversas": "出血、贫血、肝酶升高、恶心",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日20毫克",
+      "doseMinima": "每日2.5毫克",
+      "classificacao": "口服直接抗凝药（DOAC）",
+      "apresentacao": "片剂：2.5mg、10mg、15mg、20mg",
+      "interacaoMedicamento": "与阿司匹林、NSAIDs、抗凝剂合用增加出血风险；CYP3A4及P-gp底物",
+      "posologia": "按病情每日服用10–20mg",
+      "armazenamento": "室温保存（15–30°C）",
+      "preparo": "无需特别处理",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性出血、严重肝病、妊娠、合用其他抗凝药",
+      "cuidadosMedicos": "术前停药，评估出血风险；术后观察凝血和肾功能",
+      "cuidadosFarmaceuticos": "强调依从性，警惕隐性出血",
+      "cuidadosEnfermagem": "观察瘀斑、牙龈出血、黑便、血尿等表现",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Etanol",
+      "suspension": "Suspender 72 horas antes de qualquer cirurgia eletiva para evitar interação com anestésicos e complicações hemodinâmicas",
+      "risk": "Depressão do SNC, hipotensão, arritmias, náuseas, vômitos, hipoglicemia e risco aumentado de sangramento",
+      "reintroduction": "Evitar reintrodução no pós-operatório precoce; avaliar risco-benefício em pacientes etilistas crônicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etanol",
+      "nomeComercial": "Álcool etílico (solução 70%, 96%)",
+      "mecanismoAcao": "Depressor do sistema nervoso central; inibe receptores NMDA e potencializa GABA",
+      "farmacocinetica": "Absorção rápida por via oral e pulmonar; metabolização hepática via álcool desidrogenase e CYP2E1",
+      "farmacodinamica": "Efeitos dose-dependentes: euforia, sedação, anestesia, coma",
+      "indicacoes": "Antídoto para metanol e etilenoglicol (uso hospitalar); uso tópico como antisséptico",
+      "reacoesAdversas": "Hepatotoxicidade, pancreatite, gastrite, hipoglicemia, dependência, neuropatia periférica",
+      "riscoGravidez": "Categoria X – teratogênico",
+      "riscoLactacao": "Contraindicado em consumo regular; pequenas quantidades ocasionais podem ser toleradas",
+      "administracao": "Oral (uso clínico específico), tópica, inalatória acidental",
+      "doseMaxima": "Variável; níveis > 300 mg/dL são potencialmente letais",
+      "doseMinima": "Efeitos a partir de 30–50 mg/dL em adultos",
+      "classificacao": "Depressor do SNC; antisséptico; solvente",
+      "apresentacao": "Soluções alcoólicas 70%, 96%; uso farmacológico sob prescrição hospitalar",
+      "interacaoMedicamento": "Potencializa sedativos, anticoagulantes, hipoglicemiantes; interage com metronidazol, isoniazida",
+      "posologia": "Antídoto: infusão EV controlada conforme nível de metanol/etilenoglicol",
+      "armazenamento": "Ambiente controlado, inflamável, recipiente fechado",
+      "preparo": "Pronto para uso tópico; diluição para uso EV hospitalar",
+      "solucoesCompatíveis": "SF 0,9% (em antídotos), glicose 5%",
+      "contraindicacoes": "Gravidez, doença hepática, pancreatite, epilepsia, uso com disulfiram",
+      "cuidadosMedicos": "Monitorar função hepática, glicemia, estado mental e sinais de abstinência",
+      "cuidadosFarmaceuticos": "Orientar sobre interação e risco perioperatório; uso hospitalar apenas com controle rigoroso",
+      "cuidadosEnfermagem": "Observar sinais de intoxicação, abstinência e instabilidade cardiovascular",
+      "fontesBibliograficas": "ANVISA, WHO, UpToDate, Micromedex, ASAM Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ethanol",
+      "suspension": "Discontinue 72 h prior to elective surgery to reduce interaction with anesthesia and bleeding risk",
+      "risk": "CNS depression, hypotension, arrhythmias, hypoglycemia, vomiting, bleeding",
+      "reintroduction": "Avoid early post-op; assess in alcohol-dependent patients individually"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ethanol",
+      "nomeComercial": "Ethyl alcohol (70%, 96%)",
+      "mecanismoAcao": "CNS depressant via NMDA inhibition and GABA enhancement",
+      "farmacocinetica": "Rapid GI and pulmonary absorption; hepatic metabolism via ADH/CYP2E1",
+      "farmacodinamica": "Dose-dependent effects: euphoria, sedation, coma",
+      "indicacoes": "Antidote for methanol/ethylene glycol poisoning; topical antiseptic",
+      "reacoesAdversas": "Liver toxicity, pancreatitis, gastritis, hypoglycemia, dependence",
+      "riscoGravidez": "Category X – teratogenic",
+      "riscoLactacao": "Avoid regular intake; occasional low intake may be safe",
+      "administracao": "Oral, topical, inhaled (accidental)",
+      "doseMaxima": "Toxic > 300 mg/dL; lethal > 400 mg/dL",
+      "doseMinima": "Mild effects ~30 mg/dL",
+      "classificacao": "CNS depressant, antiseptic, solvent",
+      "apresentacao": "Alcohol solutions 70%, 96%; IV for antidote only",
+      "interacaoMedicamento": "Potentiates sedatives, warfarin, hypoglycemics; reacts with disulfiram, metronidazole",
+      "posologia": "Antidote: IV infusion guided by blood levels",
+      "armazenamento": "Flammable; closed container; controlled environment",
+      "preparo": "Ready for topical; IV under clinical guidance only",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Pregnancy, liver failure, pancreatitis, epilepsy, disulfiram use",
+      "cuidadosMedicos": "Monitor glucose, LFTs, mental status, withdrawal signs",
+      "cuidadosFarmaceuticos": "Educate on perioperative risk, drug interactions",
+      "cuidadosEnfermagem": "Observe sedation, hypoglycemia, vital instability",
+      "fontesBibliograficas": "NIH, WHO, UpToDate, Micromedex, ASAM"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Etanol",
+      "suspension": "Suspender 72 h antes de cirugía para evitar interacciones con anestesia y riesgo de sangrado",
+      "risk": "Depresión SNC, arritmias, hipotensión, hipoglucemia, vómitos, sangrado",
+      "reintroduction": "Evitar en postoperatorio temprano; evaluar individualmente en alcohólicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etanol",
+      "nomeComercial": "Etanol 70%, 96%",
+      "mecanismoAcao": "Depresor del SNC por inhibición NMDA y estimulación GABA",
+      "farmacocinetica": "Absorción oral y pulmonar rápida; metabolismo hepático",
+      "farmacodinamica": "Euforia, sedación, coma según dosis",
+      "indicacoes": "Antídoto metanol, uso tópico antiséptico",
+      "reacoesAdversas": "Hepatopatía, hipoglucemia, pancreatitis, dependencia",
+      "riscoGravidez": "Categoría X",
+      "riscoLactacao": "Evitar consumo regular",
+      "administracao": "VO, tópico, inhalación accidental",
+      "doseMaxima": "> 300 mg/dL tóxico",
+      "doseMinima": "~30 mg/dL efectos leves",
+      "classificacao": "Depresor del SNC, antiséptico",
+      "apresentacao": "Soluciones 70%, 96%",
+      "interacaoMedicamento": "Potencia sedantes, hipoglucemiantes; disulfiram",
+      "posologia": "Antídoto IV según niveles",
+      "armazenamento": "Inflamable, cerrado, ventilado",
+      "preparo": "Listo para uso tópico",
+      "solucoesCompatíveis": "SF, SG 5%",
+      "contraindicacoes": "Embarazo, hepatopatía, epilepsia",
+      "cuidadosMedicos": "Control glucemia, LFT, estado mental",
+      "cuidadosFarmaceuticos": "Advertir interacción y abstinencia",
+      "cuidadosEnfermagem": "Vigilar hipoglucemia, SNC, abstinencia",
+      "fontesBibliograficas": "OMS, ASAM, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乙醇",
+      "suspension": "择期术前72小时停用，避免与麻醉药作用叠加",
+      "risk": "中枢抑制、心律紊乱、低血糖、出血风险上升",
+      "reintroduction": "术后早期避免恢复；慢性酒精者需个体评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乙醇",
+      "nomeComercial": "70%、96%酒精",
+      "mecanismoAcao": "抑制NMDA、增强GABA，产生中枢抑制",
+      "farmacocinetica": "口服/吸入吸收快，肝脏乙醇脱氢酶代谢",
+      "farmacodinamica": "剂量相关效应：欣快、镇静、昏迷",
+      "indicacoes": "甲醇中毒解毒剂、皮肤消毒剂",
+      "reacoesAdversas": "肝损、胰腺炎、低血糖、依赖、胃炎",
+      "riscoGravidez": "X类，强致畸",
+      "riscoLactacao": "慎用，避免长期",
+      "administracao": "口服、外用、吸入（偶发）",
+      "doseMaxima": ">300 mg/dL可中毒",
+      "doseMinima": "30 mg/dL有初步作用",
+      "classificacao": "中枢抑制剂、溶剂、消毒剂",
+      "apresentacao": "溶液70%、96%",
+      "interacaoMedicamento": "增强镇静药、抗凝、降糖药作用，与甲硝唑拮抗",
+      "posologia": "解毒时IV滴注，根据毒物浓度",
+      "armazenamento": "密闭、阴凉、防火",
+      "preparo": "外用直接使用；IV按处方稀释",
+      "solucoesCompatíveis": "NS、5%葡萄糖",
+      "contraindicacoes": "孕妇、肝病、癫痫、服用双硫仑",
+      "cuidadosMedicos": "监测肝酶、血糖、精神状态",
+      "cuidadosFarmaceuticos": "术前术后交代禁酒，防药物交互作用",
+      "cuidadosEnfermagem": "观察意识、血压、戒断征象",
+      "fontesBibliograficas": "WHO、NIH、UpToDate、Micromedex"
+    }
+  }
+}

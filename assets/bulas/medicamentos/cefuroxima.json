@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cefuroxima",
+      "suspension": "Não suspender; recomendada em profilaxia cirúrgica de diversas especialidades",
+      "risk": "Pode causar reações alérgicas, diarreia, disbiose e, raramente, colite pseudomembranosa",
+      "reintroduction": "Reintroduzir no intraoperatório ou conforme protocolo de profilaxia antibiótica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefuroxima sódica",
+      "nomeComercial": "Zinacef, Kefstar, Ceftin EV",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana ao se ligar às PBPs",
+      "farmacocinetica": "Meia-vida ~1,3 h; excreção renal; boa penetração em tecidos e secreções",
+      "farmacodinamica": "Bactericida contra Gram-positivos e Gram-negativos, incluindo H. influenzae e E. coli",
+      "indicacoes": "Profilaxia cirúrgica, infecções respiratórias, urinárias, de pele, tecidos moles e ósseas",
+      "reacoesAdversas": "Náuseas, vômitos, diarreia, rash, candidíase, eosinofilia, elevação de transaminases",
+      "riscoGravidez": "Categoria B; considerado seguro",
+      "riscoLactacao": "Seguro; excreção mínima no leite",
+      "administracao": "Intravenosa ou intramuscular",
+      "doseMaxima": "6 g/dia",
+      "doseMinima": "750 mg/dia",
+      "classificacao": "Cefalosporina de segunda geração",
+      "apresentacao": "Pó para solução injetável: 750 mg, 1,5 g",
+      "interacaoMedicamento": "Potencializa nefrotoxicidade com aminoglicosídeos; reduz absorção de contraceptivos orais",
+      "posologia": "750 mg a 1,5 g IV a cada 8h; na profilaxia cirúrgica: 1,5 g 30–60 min antes da incisão",
+      "armazenamento": "Manter frasco seco em temperatura ambiente; solução reconstituída refrigerar por até 24h",
+      "preparo": "Reconstituir com SF 0,9% ou SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade a cefalosporinas; cautela em alergia a penicilina",
+      "cuidadosMedicos": "Avaliar função renal e sinais de superinfecção",
+      "cuidadosFarmaceuticos": "Garantir estabilidade da solução e orientação da via de administração",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, reações alérgicas e local de infusão",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, UpToDate, SBAC"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cefuroxime",
+      "suspension": "Do not suspend; often used for surgical prophylaxis",
+      "risk": "Risk of allergic reactions, diarrhea, dysbiosis, and rarely pseudomembranous colitis",
+      "reintroduction": "Resume during surgery or as per antibiotic prophylaxis protocol"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefuroxime sodium",
+      "nomeComercial": "Zinacef, Ceftin IV",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis by binding PBPs",
+      "farmacocinetica": "Half-life ~1.3 h, renal excretion, good tissue penetration",
+      "farmacodinamica": "Bactericidal against Gram-positive and Gram-negative organisms incl. H. influenzae, E. coli",
+      "indicacoes": "Surgical prophylaxis, respiratory, urinary, skin/soft tissue, and bone infections",
+      "reacoesAdversas": "Nausea, vomiting, diarrhea, rash, candidiasis, eosinophilia, transaminase elevation",
+      "riscoGravidez": "Category B; considered safe",
+      "riscoLactacao": "Safe; minimal excretion in breast milk",
+      "administracao": "IV or IM",
+      "doseMaxima": "6 g/day",
+      "doseMinima": "750 mg/day",
+      "classificacao": "Second-generation cephalosporin",
+      "apresentacao": "Injectable powder: 750 mg, 1.5 g",
+      "interacaoMedicamento": "May enhance nephrotoxicity with aminoglycosides; reduce oral contraceptive efficacy",
+      "posologia": "750 mg to 1.5 g IV q8h; prophylaxis: 1.5 g 30–60 min pre-incision",
+      "armazenamento": "Dry vials at room temp; reconstituted solution refrigerated up to 24h",
+      "preparo": "Reconstitute with NS or D5W",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Cephalosporin allergy; caution in penicillin-sensitive patients",
+      "cuidadosMedicos": "Monitor renal function and superinfection signs",
+      "cuidadosFarmaceuticos": "Ensure solution stability and proper administration route",
+      "cuidadosEnfermagem": "Observe for allergic reaction, infusion site changes",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cefuroxima",
+      "suspension": "No suspender; recomendada como profilaxis quirúrgica",
+      "risk": "Reacciones alérgicas, diarrea, disbiosis, colitis pseudomembranosa rara",
+      "reintroduction": "Reintroducir en cirugía o según protocolo de profilaxis antibiótica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefuroxima sódica",
+      "nomeComercial": "Zinacef, Ceftin IV",
+      "mecanismoAcao": "Inhibe la síntesis de la pared bacteriana",
+      "farmacocinetica": "Vida media ~1.3 h, excreción renal, buena penetración tisular",
+      "farmacodinamica": "Bactericida frente a Gram+ y Gram– incl. H. influenzae, E. coli",
+      "indicacoes": "Profilaxis quirúrgica, infecciones respiratorias, urinarias, piel, tejidos blandos y óseas",
+      "reacoesAdversas": "Náuseas, vómitos, diarrea, erupción, candidiasis, eosinofilia",
+      "riscoGravidez": "Categoría B; generalmente seguro",
+      "riscoLactacao": "Seguro; excreción mínima",
+      "administracao": "IV o IM",
+      "doseMaxima": "6 g/día",
+      "doseMinima": "750 mg/día",
+      "classificacao": "Cefalosporina de segunda generación",
+      "apresentacao": "Polvo para inyección: 750 mg, 1,5 g",
+      "interacaoMedicamento": "Mayor toxicidad renal con aminoglucósidos; reduce anticonceptivos orales",
+      "posologia": "750 mg a 1,5 g IV cada 8h; profilaxis: 1,5 g 30–60 min antes",
+      "armazenamento": "Vial seco a temperatura ambiente; reconstituido en refrigeración por 24h",
+      "preparo": "Reconstituir con solución salina o glucosada",
+      "solucoesCompatíveis": "ClNa 0,9%, Glucosa 5%",
+      "contraindicacoes": "Alergia a cefalosporinas; precaución en alérgicos a penicilina",
+      "cuidadosMedicos": "Control de función renal y sobreinfecciones",
+      "cuidadosFarmaceuticos": "Garantizar estabilidad y vía de administración adecuada",
+      "cuidadosEnfermagem": "Vigilar reacciones alérgicas y zona de inyección",
+      "fontesBibliograficas": "FDA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "头孢呋辛",
+      "suspension": "无需停药，常用于术前抗菌预防",
+      "risk": "可能引发过敏、腹泻、菌群失调，罕见伪膜性结肠炎",
+      "reintroduction": "术中或术后根据预防方案重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "头孢呋辛钠",
+      "nomeComercial": "Zinacef, Ceftin IV",
+      "mecanismoAcao": "通过结合PBP抑制细菌细胞壁合成",
+      "farmacocinetica": "半衰期约1.3小时，肾脏排泄，组织渗透好",
+      "farmacodinamica": "对多种革兰阳性和阴性菌具有杀菌作用",
+      "indicacoes": "术前抗感染预防、呼吸道、泌尿道、皮肤软组织和骨骼感染",
+      "reacoesAdversas": "恶心、呕吐、腹泻、皮疹、念珠菌感染、嗜酸性粒细胞增多",
+      "riscoGravidez": "B类，通常安全",
+      "riscoLactacao": "安全，乳汁中排泄量少",
+      "administracao": "静脉或肌肉注射",
+      "doseMaxima": "每日6克",
+      "doseMinima": "每日750毫克",
+      "classificacao": "第二代头孢菌素",
+      "apresentacao": "注射用粉末：750毫克，1.5克",
+      "interacaoMedicamento": "与氨基糖苷类合用增强肾毒性；降低口服避孕药效果",
+      "posologia": "每8小时750毫克至1.5克静注；术前30–60分钟给予1.5克",
+      "armazenamento": "干粉室温保存；复溶后冷藏24小时内用完",
+      "preparo": "用生理盐水或5%葡萄糖溶解",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对头孢类过敏者禁用；青霉素过敏者慎用",
+      "cuidadosMedicos": "监测肾功能和继发感染风险",
+      "cuidadosFarmaceuticos": "确保溶液稳定性与合理用法",
+      "cuidadosEnfermagem": "观察过敏反应与注射部位反应",
+      "fontesBibliograficas": "FDA、Micromedex、UpToDate、中国药典"
+    }
+  }
+}

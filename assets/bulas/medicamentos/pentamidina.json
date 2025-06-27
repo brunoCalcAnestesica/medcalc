@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pentamidina",
+      "suspension": "Suspender 5 dias antes de cirurgia eletiva de grande porte se em uso IV contínuo ou inalatória",
+      "risk": "Risco de hipoglicemia, hiperglicemia, arritmias, hipotensão, pancreatite, nefrotoxicidade e broncoespasmo; atenção em anestesia geral",
+      "reintroduction": "Reintroduzir após estabilização clínica e recuperação da função hepática e renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pentamidina isetionato",
+      "nomeComercial": "Pentacarinat, Nebupent",
+      "mecanismoAcao": "Antiprotozoário que interfere com síntese de DNA, RNA, fosfolipídios e proteínas nos microrganismos",
+      "farmacocinetica": "Administração IV ou inalatória; captação tecidual extensa; excreção lenta; meia-vida longa (dias)",
+      "farmacodinamica": "Atua contra Pneumocystis jirovecii, Leishmania spp., Trypanosoma spp.",
+      "indicacoes": "Pneumocistose (P. jirovecii) em pacientes HIV+ intolerantes ao SMX-TMP, leishmaniose, tripanossomíase",
+      "reacoesAdversas": "Hipotensão, arritmias, hipoglicemia, hiperglicemia, pancreatite, nefrotoxicidade, broncoespasmo, rash, febre",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar durante o uso",
+      "administracao": "Intravenosa ou inalatória (nebulização)",
+      "doseMaxima": "4 mg/kg/dia (IV); 300 mg/semana (inalação)",
+      "doseMinima": "2 mg/kg/dia (IV); 300 mg/2 semanas (inalação)",
+      "classificacao": "Antiprotozoário e antifúngico sistêmico",
+      "apresentacao": "Pó liofilizado 300 mg para reconstituição IV ou inalatório",
+      "interacaoMedicamento": "Aumenta toxicidade com nefrotóxicos, hipoglicemiantes, QT-prolongadores; evitar com aminoglicosídeos",
+      "posologia": "4 mg/kg IV uma vez ao dia por 14–21 dias (pneumocistose); 300 mg inalatório 1x/semana (profilaxia)",
+      "armazenamento": "Refrigerado (2–8°C); proteger da luz; reconstituído usar imediatamente",
+      "preparo": "Diluir em SF ou SG 5% conforme via; uso com nebulizador ultrassônico para via inalatória",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipotensão grave, hipersensibilidade à pentamidina",
+      "cuidadosMedicos": "Monitorar ECG, glicemia, eletrólitos, função renal e hepática",
+      "cuidadosFarmaceuticos": "Garantir preparo asséptico, evitar incompatibilidades, controlar dose e estabilidade",
+      "cuidadosEnfermagem": "Monitorar sinais de toxicidade sistêmica, infusão lenta, reação respiratória à inalação",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, EMA, Pentacarinat bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pentamidine",
+      "suspension": "Discontinue 5 days before major surgery if on continuous IV or inhaled use",
+      "risk": "Risk of hypoglycemia, hyperglycemia, hypotension, arrhythmias, pancreatitis, nephrotoxicity, bronchospasm; caution with general anesthesia",
+      "reintroduction": "Restart after clinical stabilization and hepatic/renal recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pentamidine isethionate",
+      "nomeComercial": "Pentam 300, NebuPent",
+      "mecanismoAcao": "Antiprotozoal agent that disrupts DNA, RNA, phospholipid, and protein synthesis in susceptible organisms",
+      "farmacocinetica": "IV or inhaled; extensive tissue distribution; slow elimination; long half-life (days)",
+      "farmacodinamica": "Active against Pneumocystis jirovecii, Leishmania spp., Trypanosoma spp.",
+      "indicacoes": "Pneumocystis pneumonia (HIV+ patients intolerant to TMP-SMX), leishmaniasis, African trypanosomiasis",
+      "reacoesAdversas": "Hypotension, arrhythmias, hypo/hyperglycemia, pancreatitis, nephrotoxicity, bronchospasm, fever, rash",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid during use",
+      "administracao": "Intravenous or inhaled (nebulized)",
+      "doseMaxima": "4 mg/kg/day IV; 300 mg/week inhaled",
+      "doseMinima": "2 mg/kg/day IV; 300 mg biweekly inhaled",
+      "classificacao": "Systemic antiprotozoal and antifungal",
+      "apresentacao": "Lyophilized powder 300 mg for IV or nebulized reconstitution",
+      "interacaoMedicamento": "Increased toxicity with nephrotoxins, hypoglycemics, QT-prolonging drugs; avoid aminoglycosides",
+      "posologia": "4 mg/kg IV daily for 14–21 days (PCP); 300 mg inhaled weekly (prophylaxis)",
+      "armazenamento": "Refrigerate (2–8°C); protect from light; use immediately after reconstitution",
+      "preparo": "Dilute in NS or D5W per route; use ultrasonic nebulizer for inhalation",
+      "solucoesCompatíveis": "NS 0.9%, D5W",
+      "contraindicacoes": "Severe hypotension, hypersensitivity",
+      "cuidadosMedicos": "Monitor ECG, glucose, electrolytes, renal and liver function",
+      "cuidadosFarmaceuticos": "Ensure aseptic preparation, stability, compatibility",
+      "cuidadosEnfermagem": "Observe for toxicity, slow infusion, and bronchial reactivity during inhalation",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Pentamidine PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pentamidina",
+      "suspension": "Suspender 5 días antes de cirugía mayor si uso continuo IV o inhalado",
+      "risk": "Riesgo de hipo/hiperglucemia, arritmias, hipotensión, pancreatitis, toxicidad renal, broncoespasmo",
+      "reintroduction": "Reiniciar tras recuperación clínica y función hepatorrenal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pentamidina isetionato",
+      "nomeComercial": "Pentacarinat, NebuPent",
+      "mecanismoAcao": "Antiprotozoario que interfiere con síntesis de DNA, RNA, lípidos y proteínas",
+      "farmacocinetica": "IV o inhalado; distribución tisular amplia; eliminación lenta; vida media larga",
+      "farmacodinamica": "Activo frente a Pneumocystis jirovecii, Leishmania spp., Trypanosoma spp.",
+      "indicacoes": "Pneumocistosis en VIH+ (alergia a TMP-SMX), leishmaniasis, tripanosomiasis africana",
+      "reacoesAdversas": "Hipotensión, arritmias, hipo/hiperglucemia, pancreatitis, nefrotoxicidad, broncoespasmo, fiebre, exantema",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante tratamiento",
+      "administracao": "Intravenosa o inhalatoria",
+      "doseMaxima": "4 mg/kg/día IV; 300 mg/semana inhalado",
+      "doseMinima": "2 mg/kg/día IV; 300 mg cada 2 semanas inhalado",
+      "classificacao": "Antiprotozoario sistémico",
+      "apresentacao": "Polvo 300 mg para reconstituir IV o nebulización",
+      "interacaoMedicamento": "Mayor toxicidad con nefrotóxicos, hipoglucemiantes, fármacos QT; evitar aminoglucósidos",
+      "posologia": "4 mg/kg/día IV por 14–21 días; 300 mg inhalado semanal como profilaxis",
+      "armazenamento": "Refrigerar (2–8°C), protegido de luz; usar inmediatamente tras reconstituir",
+      "preparo": "Diluir en SF o SG 5%, uso con nebulizador ultrasónico",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipotensión severa, hipersensibilidad",
+      "cuidadosMedicos": "Controlar ECG, glucosa, electrolitos, función renal y hepática",
+      "cuidadosFarmaceuticos": "Asegurar preparación aséptica y compatibilidad",
+      "cuidadosEnfermagem": "Vigilar toxicidad, broncospasmo y velocidad de infusión",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Pentacarinat"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "喷他脒",
+      "suspension": "术前5天停用（如为持续IV或吸入治疗）",
+      "risk": "低/高血糖、心律失常、低血压、胰腺炎、肾毒性、支气管痉挛；需术前警惕",
+      "reintroduction": "术后稳定、肝肾功能恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "异乙酸喷他脒",
+      "nomeComercial": "Pentacarinat, NebuPent",
+      "mecanismoAcao": "干扰病原体DNA、RNA、脂质和蛋白合成的抗原体",
+      "farmacocinetica": "静脉或吸入给药，广泛分布，缓慢清除，半衰期长达数天",
+      "farmacodinamica": "有效对抗肺孢子菌、利什曼原虫、锥虫",
+      "indicacoes": "HIV患者肺孢子菌肺炎、利什曼病、锥虫病",
+      "reacoesAdversas": "低/高血糖、低血压、心律不齐、胰腺炎、肾功能损害、支气管痉挛、发热、皮疹",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不推荐哺乳期使用",
+      "administracao": "静脉注射或雾化吸入",
+      "doseMaxima": "IV每日4 mg/kg；吸入每周300 mg",
+      "doseMinima": "IV每日2 mg/kg；吸入每2周300 mg",
+      "classificacao": "抗原虫类系统用药",
+      "apresentacao": "300 mg冻干粉针用于IV或吸入",
+      "interacaoMedicamento": "与肾毒性药物、降糖药、QT延长药联用增加毒性，禁用氨基糖苷类",
+      "posologia": "PCP治疗：IV每日4 mg/kg，疗程14–21天；吸入预防：每周300 mg雾化",
+      "armazenamento": "2–8°C冷藏，避光，复溶后即用",
+      "preparo": "根据途径用SF或5%葡萄糖稀释，吸入推荐超声雾化器",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "严重低血压、对本品过敏",
+      "cuidadosMedicos": "监测心电图、血糖、电解质、肝肾功能",
+      "cuidadosFarmaceuticos": "注意配伍和稀释规范，确保冷链",
+      "cuidadosEnfermagem": "观察毒性、雾化反应、缓慢注射",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Pentacarinat说明书"
+    }
+  }
+}

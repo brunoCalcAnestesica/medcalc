@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Oxiconazol",
+      "suspension": "Não requer suspensão em cirurgias",
+      "risk": "Irritação local leve, prurido, ardor; absorção sistêmica mínima",
+      "reintroduction": "Pode ser reintroduzido após cicatrização da pele"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxiconazol nitrato",
+      "nomeComercial": "Oxistat",
+      "mecanismoAcao": "Inibe a síntese do ergosterol fúngico, alterando a integridade da membrana celular",
+      "farmacocinetica": "Absorção tópica limitada; metabolismo hepático",
+      "farmacodinamica": "Fungicida contra dermatófitos, Candida spp. e Pityrosporum",
+      "indicacoes": "Tinea pedis, Tinea corporis, Tinea cruris, candidíase cutânea, pitiríase versicolor",
+      "reacoesAdversas": "Eritema, ardor, prurido, ressecamento",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Seguro; evitar aplicação em mamas durante lactação",
+      "administracao": "Tópica cutânea",
+      "doseMaxima": "Aplicar 1–2x/dia por até 4 semanas",
+      "doseMinima": "1x/dia",
+      "classificacao": "Antifúngico imidazólico tópico",
+      "apresentacao": "Creme ou loção 1%",
+      "interacaoMedicamento": "Não há interações tópicas relevantes",
+      "posologia": "Aplicar fina camada na pele limpa e seca",
+      "armazenamento": "15–30°C",
+      "preparo": "Uso direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao oxiconazol ou outros imidazólicos",
+      "cuidadosMedicos": "Reavaliar se não houver melhora em 2–4 semanas",
+      "cuidadosFarmaceuticos": "Educar sobre continuidade do tratamento mesmo após melhora",
+      "cuidadosEnfermagem": "Observar resposta clínica e reações adversas",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Oxiconazole",
+      "suspension": "No need to suspend before surgery",
+      "risk": "Mild local irritation, dryness; negligible systemic absorption",
+      "reintroduction": "Resume once surgical site heals"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxiconazole nitrate",
+      "nomeComercial": "Oxistat",
+      "mecanismoAcao": "Inhibits fungal ergosterol synthesis by blocking membrane formation",
+      "farmacocinetica": "Minimal topical absorption; hepatic metabolism",
+      "farmacodinamica": "Fungicidal against dermatophytes and yeasts",
+      "indicacoes": "Tinea infections, cutaneous candidiasis, pityriasis versicolor",
+      "reacoesAdversas": "Redness, burning, itching, dry skin",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe if not applied on breasts",
+      "administracao": "Topical",
+      "doseMaxima": "Apply once or twice daily",
+      "doseMinima": "Once daily",
+      "classificacao": "Topical imidazole antifungal",
+      "apresentacao": "1% cream or lotion",
+      "interacaoMedicamento": "No significant interactions topically",
+      "posologia": "Apply to affected area 1–2 times/day",
+      "armazenamento": "Store at 59–86°F",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Allergy to oxiconazole or other azoles",
+      "cuidadosMedicos": "Reassess if no improvement in 2–4 weeks",
+      "cuidadosFarmaceuticos": "Emphasize adherence to full treatment course",
+      "cuidadosEnfermagem": "Monitor for response and local adverse effects",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Oxiconazol",
+      "suspension": "No se requiere suspensión quirúrgica",
+      "risk": "Irritación local leve, sequedad; absorción sistémica baja",
+      "reintroduction": "Reanudar tras recuperación de la piel"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxiconazol",
+      "nomeComercial": "Oxistat",
+      "mecanismoAcao": "Inhibe síntesis de ergosterol; altera membrana fúngica",
+      "farmacocinetica": "Absorción dérmica mínima; metabolismo hepático",
+      "farmacodinamica": "Fungicida frente a dermatofitos, Candida, Pityrosporum",
+      "indicacoes": "Tiña, candidiasis cutánea, pitiriasis",
+      "reacoesAdversas": "Picor, ardor, enrojecimiento",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Seguro si se evita mama",
+      "administracao": "Tópico",
+      "doseMaxima": "1–2 veces/día por 2–4 semanas",
+      "doseMinima": "1 vez/día",
+      "classificacao": "Antifúngico imidazólico tópico",
+      "apresentacao": "Crema o loción 1%",
+      "interacaoMedicamento": "No relevantes por vía tópica",
+      "posologia": "Aplicar sobre piel limpia 1–2 veces/día",
+      "armazenamento": "15–30°C",
+      "preparo": "Aplicación directa",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a imidazoles",
+      "cuidadosMedicos": "Evaluar si no mejora tras 4 semanas",
+      "cuidadosFarmaceuticos": "Explicar duración del tratamiento",
+      "cuidadosEnfermagem": "Vigilar tolerancia y eficacia",
+      "fontesBibliograficas": "FDA, EMA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥昔康唑（外用）",
+      "suspension": "术前无需停药",
+      "risk": "可能局部刺激、红斑，系统吸收极低",
+      "reintroduction": "术后皮肤恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥昔康唑硝酸盐",
+      "nomeComercial": "Oxistat",
+      "mecanismoAcao": "抑制真菌麦角固醇合成，破坏膜结构",
+      "farmacocinetica": "皮肤吸收极少；肝代谢",
+      "farmacodinamica": "对皮癣菌、念珠菌等真菌有效",
+      "indicacoes": "体癣、足癣、股癣、皮肤念珠菌",
+      "reacoesAdversas": "瘙痒、刺痛、皮疹",
+      "riscoGravidez": "B类；孕期可短期使用",
+      "riscoLactacao": "哺乳期避免乳房部位使用",
+      "administracao": "外用",
+      "doseMaxima": "每日1–2次，疗程2–4周",
+      "doseMinima": "每日1次",
+      "classificacao": "咪唑类抗真菌药",
+      "apresentacao": "1%乳膏或溶液",
+      "interacaoMedicamento": "外用无明显相互作用",
+      "posologia": "每日1–2次，清洁皮肤后薄涂",
+      "armazenamento": "室温（15–30°C）保存",
+      "preparo": "直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对咪唑类过敏",
+      "cuidadosMedicos": "若无改善，应停药并复诊",
+      "cuidadosFarmaceuticos": "宣教使用周期、涂抹方式",
+      "cuidadosEnfermagem": "监测皮肤反应和治疗效果",
+      "fontesBibliograficas": "FDA，UpToDate，Micromedex"
+    }
+  }
+}

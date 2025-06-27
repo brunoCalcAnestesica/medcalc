@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Amantadina",
+      "suspension": "Suspender 3 dias antes da cirurgia eletiva",
+      "risk": "Risco de confusão mental, retenção urinária, hipotensão, arritmias e interação com anestésicos",
+      "reintroduction": "Reintroduzir no pós-operatório conforme estado mental e função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amantadina",
+      "nomeComercial": "Mantidan, Parkidyl",
+      "mecanismoAcao": "Agonista dopaminérgico e antagonista do receptor NMDA; promove liberação de dopamina",
+      "farmacocinetica": "Biodisponibilidade oral >85%; meia-vida ~15 h; excreção renal inalterada",
+      "farmacodinamica": "Estabiliza neurotransmissão dopaminérgica; efeito antiviral secundário contra Influenza A",
+      "indicacoes": "Doença de Parkinson, discinesia induzida por levodopa, Influenza A (off-label)",
+      "reacoesAdversas": "Confusão, insônia, boca seca, edema, livedo reticular, alucinações, convulsões (raro)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "Via oral",
+      "doseMaxima": "400 mg/dia (ajustada por função renal)",
+      "doseMinima": "100 mg/dia",
+      "classificacao": "Antiparkinsoniano – modulador dopaminérgico e glutamatérgico",
+      "apresentacao": "Comprimidos 100 mg, solução oral 50 mg/5 mL",
+      "interacaoMedicamento": "Potencializa anticolinérgicos, interage com anestésicos, diuréticos e neurolépticos",
+      "posologia": "100–200 mg/dia VO em 1–2 doses; ajuste conforme idade e função renal",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência renal grave, epilepsia não controlada, psicose",
+      "cuidadosMedicos": "Monitorar função renal, estado mental e ECG em idosos",
+      "cuidadosFarmaceuticos": "Atenção à dose em idosos e ajuste renal; orientar sobre efeitos colaterais centrais",
+      "cuidadosEnfermagem": "Observar confusão, edema, insônia e reações comportamentais",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Amantadine",
+      "suspension": "Discontinue 3 days before elective surgery",
+      "risk": "Risk of confusion, urinary retention, hypotension, arrhythmias, anesthetic interaction",
+      "reintroduction": "Restart post-op based on mental status and renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amantadine",
+      "nomeComercial": "Gocovri, Osmolex ER",
+      "mecanismoAcao": "Dopamine agonist, NMDA antagonist; increases dopamine release",
+      "farmacocinetica": "Bioavailability >85%; half-life ~15 h; renal excretion unchanged",
+      "farmacodinamica": "Modulates dopamine and glutamate; antiviral effect against Influenza A (off-label)",
+      "indicacoes": "Parkinson’s disease, levodopa-induced dyskinesia, Influenza A (off-label)",
+      "reacoesAdversas": "Confusion, hallucinations, insomnia, dry mouth, livedo reticularis, edema",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral",
+      "doseMaxima": "400 mg/day (renal adjustment required)",
+      "doseMinima": "100 mg/day",
+      "classificacao": "Antiparkinsonian – dopaminergic and glutamatergic modulator",
+      "apresentacao": "Capsules: 100 mg; ER tablets; solution",
+      "interacaoMedicamento": "Enhances anticholinergics; interacts with anesthetics, neuroleptics, diuretics",
+      "posologia": "100–200 mg/day orally in 1–2 divided doses; adjust for age/renal",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe renal impairment, uncontrolled epilepsy, active psychosis",
+      "cuidadosMedicos": "Monitor renal function, mental status, ECG in elderly",
+      "cuidadosFarmaceuticos": "Educate on renal dosing, central side effects",
+      "cuidadosEnfermagem": "Observe for cognitive changes, edema, sleep disturbance",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Amantadina",
+      "suspension": "Suspender 3 días antes de cirugía electiva",
+      "risk": "Riesgo de confusión, retención urinaria, hipotensión, arritmias, interacción anestésica",
+      "reintroduction": "Reintroducir según función renal y estado mental postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amantadina",
+      "nomeComercial": "Mantidan",
+      "mecanismoAcao": "Agonista dopaminérgico y antagonista NMDA; aumenta liberación de dopamina",
+      "farmacocinetica": "Biodisponibilidad >85%; vida media ~15 h; eliminación renal inalterada",
+      "farmacodinamica": "Mejora síntomas motores y tiene efecto antiviral",
+      "indicacoes": "Parkinson, discinesias por levodopa, gripe A (off-label)",
+      "reacoesAdversas": "Confusión, alucinaciones, insomnio, retención urinaria, eritema reticulado, edema",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Vía oral",
+      "doseMaxima": "400 mg/día",
+      "doseMinima": "100 mg/día",
+      "classificacao": "Antiparkinsoniano – modulador dopaminérgico y NMDA",
+      "apresentacao": "Comprimidos 100 mg, solución oral",
+      "interacaoMedicamento": "Interacción con anticolinérgicos, neurolépticos, diuréticos y anestesia",
+      "posologia": "100–200 mg/día divididos; ajustar por edad y función renal",
+      "armazenamento": "15–30°C",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Psicosis activa, epilepsia no controlada, insuficiencia renal grave",
+      "cuidadosMedicos": "Monitorear PA, ECG, estado mental, función renal",
+      "cuidadosFarmaceuticos": "Explicar ajuste renal, posibles efectos neuropsiquiátricos",
+      "cuidadosEnfermagem": "Observar confusión, insomnio, edema",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "金刚烷胺",
+      "suspension": "术前3天停药",
+      "risk": "意识模糊、尿潴留、低血压、心律失常与麻醉相互作用",
+      "reintroduction": "术后根据肾功能和神志状态决定恢复时间"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "金刚烷胺",
+      "nomeComercial": "Mantidan",
+      "mecanismoAcao": "多巴胺释放促进剂、NMDA受体拮抗剂，调节神经递质",
+      "farmacocinetica": "口服吸收率高；半衰期约15小时；经肾脏排出",
+      "farmacodinamica": "改善帕金森症状并有抗流感A型病毒活性",
+      "indicacoes": "帕金森病、左旋多巴诱发的运动障碍、甲型流感（非适应证）",
+      "reacoesAdversas": "意识混乱、嗜睡、尿潴留、网状紫斑、水肿、幻觉",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不推荐",
+      "administracao": "口服",
+      "doseMaxima": "每日400毫克（需肾功能评估）",
+      "doseMinima": "每日100毫克",
+      "classificacao": "抗帕金森药 – 多巴胺/NMDA调节剂",
+      "apresentacao": "100 mg片剂、口服液",
+      "interacaoMedicamento": "与抗胆碱药、麻醉剂、利尿剂、抗精神病药相互作用",
+      "posologia": "每日100–200 mg，分1–2次服用；按肾功能调整",
+      "armazenamento": "15–30°C，避光",
+      "preparo": "无需配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肾病、精神病、癫痫未控制",
+      "cuidadosMedicos": "监测肾功能、认知、电解质与心电图",
+      "cuidadosFarmaceuticos": "教育用药调整与不良反应识别",
+      "cuidadosEnfermagem": "观察嗜睡、幻觉、失眠、行为变化",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

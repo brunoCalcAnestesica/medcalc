@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Caplacizumabe",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas",
+      "risk": "Risco de sangramento perioperatório por inibição da agregação plaquetária mediada por vWF",
+      "reintroduction": "Reintroduzir após hemostasia completa e avaliação hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Caplacizumabe",
+      "nomeComercial": "Cablivi",
+      "mecanismoAcao": "Fragmento de anticorpo biespecífico que bloqueia a interação entre o fator de von Willebrand (vWF) e as plaquetas",
+      "farmacocinetica": "Início rápido, meia-vida de eliminação ~6 a 7 dias, depuração linfática",
+      "farmacodinamica": "Inibe a formação de agregados plaquetários mediados por vWF, prevenindo microtrombos",
+      "indicacoes": "Púrpura trombocitopênica trombótica adquirida (PTTa)",
+      "reacoesAdversas": "Sangramentos, cefaleia, fadiga, epistaxe, reações no local da injeção",
+      "riscoGravidez": "Categoria não definida; uso apenas se o benefício justificar o risco",
+      "riscoLactacao": "Desconhecido se excretado no leite; evitar ou suspender amamentação",
+      "administracao": "Subcutânea e intravenosa",
+      "doseMaxima": "10 mg/dia",
+      "doseMinima": "10 mg/dia",
+      "classificacao": "Agente anti-vWF; anticorpo biespecífico",
+      "apresentacao": "Pó liofilizado 10 mg para solução injetável",
+      "interacaoMedicamento": "Potencialização de anticoagulantes e antiplaquetários",
+      "posologia": "10 mg IV antes da troca plasmática, seguido de 10 mg SC por até 30 dias após o fim da troca",
+      "armazenamento": "Refrigerado entre 2°C e 8°C, não congelar",
+      "preparo": "Reconstituir com diluente fornecido; administrar em até 2 horas",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Hemorragia ativa severa, hipersensibilidade ao princípio ativo",
+      "cuidadosMedicos": "Monitorar hemograma, função renal e sinais de sangramento",
+      "cuidadosFarmaceuticos": "Verificar reconstituição correta e cadeia de frio",
+      "cuidadosEnfermagem": "Observar sinais de sangramento e reação local",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, ANVISA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Caplacizumab",
+      "suspension": "Suspend 7 days before elective surgery",
+      "risk": "Perioperative bleeding risk due to inhibition of vWF-mediated platelet aggregation",
+      "reintroduction": "Restart after complete hemostasis and hematologic evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Caplacizumab",
+      "nomeComercial": "Cablivi",
+      "mecanismoAcao": "Bispecific nanobody targeting von Willebrand factor (vWF) to inhibit platelet adhesion",
+      "farmacocinetica": "Rapid onset, elimination half-life 6–7 days, cleared via lymphatic system",
+      "farmacodinamica": "Prevents microthrombus formation by inhibiting vWF-platelet interactions",
+      "indicacoes": "Acquired thrombotic thrombocytopenic purpura (aTTP)",
+      "reacoesAdversas": "Bleeding, headache, fatigue, epistaxis, injection site reactions",
+      "riscoGravidez": "Not classified; use only if benefit outweighs risk",
+      "riscoLactacao": "Unknown if excreted in milk; caution advised",
+      "administracao": "Subcutaneous and intravenous",
+      "doseMaxima": "10 mg/day",
+      "doseMinima": "10 mg/day",
+      "classificacao": "Anti-vWF agent; bispecific nanobody",
+      "apresentacao": "10 mg lyophilized powder for injection",
+      "interacaoMedicamento": "Potentiates effects of anticoagulants and antiplatelets",
+      "posologia": "10 mg IV before plasma exchange, then 10 mg SC daily for up to 30 days after",
+      "armazenamento": "Refrigerate at 2°C–8°C, do not freeze",
+      "preparo": "Reconstitute with provided diluent, use within 2 hours",
+      "solucoesCompatíveis": "0.9% Sodium chloride",
+      "contraindicacoes": "Active severe bleeding, hypersensitivity",
+      "cuidadosMedicos": "Monitor CBC, renal function, signs of bleeding",
+      "cuidadosFarmaceuticos": "Check reconstitution, cold chain",
+      "cuidadosEnfermagem": "Watch for bleeding and injection site reactions",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Caplacizumab",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de sangrado perioperatorio por inhibición de agregación plaquetaria mediada por vWF",
+      "reintroduction": "Reintroducir tras hemostasia completa y evaluación hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Caplacizumab",
+      "nomeComercial": "Cablivi",
+      "mecanismoAcao": "Nanocuerpo biespecífico que inhibe la interacción entre vWF y plaquetas",
+      "farmacocinetica": "Inicio rápido, vida media de 6–7 días, eliminación linfática",
+      "farmacodinamica": "Previene formación de microtrombos bloqueando vWF",
+      "indicacoes": "Púrpura trombocitopénica trombótica adquirida (PTTa)",
+      "reacoesAdversas": "Hemorragias, cefalea, fatiga, epistaxis, reacciones locales",
+      "riscoGravidez": "No clasificado; usar solo si es necesario",
+      "riscoLactacao": "Se desconoce excreción en leche; precaución",
+      "administracao": "Subcutánea e intravenosa",
+      "doseMaxima": "10 mg/día",
+      "doseMinima": "10 mg/día",
+      "classificacao": "AntivWF; nanocuerpo biespecífico",
+      "apresentacao": "Polvo liofilizado 10 mg para inyección",
+      "interacaoMedicamento": "Potencia anticoagulantes y antiplaquetarios",
+      "posologia": "10 mg IV antes del recambio plasmático, luego 10 mg SC por hasta 30 días",
+      "armazenamento": "Refrigerar 2–8°C, no congelar",
+      "preparo": "Reconstituir y usar en 2 horas",
+      "solucoesCompatíveis": "Cloruro de sodio 0.9%",
+      "contraindicacoes": "Hemorragia activa grave, hipersensibilidad",
+      "cuidadosMedicos": "Monitorizar hemograma, función renal y sangrado",
+      "cuidadosFarmaceuticos": "Verificar reconstitución y cadena de frío",
+      "cuidadosEnfermagem": "Observar signos de sangrado",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "Caplacizumab",
+      "suspension": "择期手术前7天停药",
+      "risk": "通过抑制vWF介导的血小板聚集增加术中出血风险",
+      "reintroduction": "完全止血后，在血液学评估后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Caplacizumab",
+      "nomeComercial": "Cablivi",
+      "mecanismoAcao": "双特异性纳米抗体，阻断vWF与血小板结合",
+      "farmacocinetica": "起效快，消除半衰期6–7天，经淋巴系统清除",
+      "farmacodinamica": "通过抑制血小板与vWF的结合防止微血栓形成",
+      "indicacoes": "获得性血栓性血小板减少性紫癜（aTTP）",
+      "reacoesAdversas": "出血、头痛、疲劳、鼻出血、注射部位反应",
+      "riscoGravidez": "类别未定义，仅在必要时使用",
+      "riscoLactacao": "是否分泌到乳汁未知，建议慎用",
+      "administracao": "皮下和静脉注射",
+      "doseMaxima": "每天10毫克",
+      "doseMinima": "每天10毫克",
+      "classificacao": "抗vWF生物制剂；双特异性纳米抗体",
+      "apresentacao": "10毫克冻干粉注射剂",
+      "interacaoMedicamento": "增强抗凝药和抗血小板药效应",
+      "posologia": "血浆置换前10 mg静注，随后每日10 mg皮下注射最多30天",
+      "armazenamento": "2–8°C冷藏，勿冷冻",
+      "preparo": "配制后2小时内使用",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "严重出血、过敏",
+      "cuidadosMedicos": "监测全血细胞计数、肾功能及出血情况",
+      "cuidadosFarmaceuticos": "检查冷链和配制过程",
+      "cuidadosEnfermagem": "观察出血迹象和注射部位",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex"
+    }
+  }
+}

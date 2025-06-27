@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sulfassalazina",
+      "suspension": "Suspender 1 a 2 dias antes da cirurgia, conforme risco hematológico",
+      "risk": "Pode causar leucopenia, trombocitopenia, anemia hemolítica e potencializar risco de infecção ou sangramento",
+      "reintroduction": "Reintroduzir após recuperação hematológica e função hepática estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfassalazina",
+      "nomeComercial": "Azulfidine, Salazopyrin",
+      "mecanismoAcao": "Metabolizada no cólon em ácido 5-aminossalicílico (5-ASA) e sulfapiridina; ação anti-inflamatória local e imunomoduladora",
+      "farmacocinetica": "Absorção oral parcial, meia-vida de 6–15 h, metabolismo hepático, eliminação renal",
+      "farmacodinamica": "Reduz síntese de prostaglandinas e citocinas, estabiliza membranas celulares e diminui infiltração leucocitária",
+      "indicacoes": "Retocolite ulcerativa, doença de Crohn, artrite reumatoide juvenil e adulta",
+      "reacoesAdversas": "Náuseas, vômitos, cefaleia, rash, hepatotoxicidade, discrasias sanguíneas, infertilidade reversível em homens",
+      "riscoGravidez": "Categoria B (1º e 2º trimestre); C (3º trimestre)",
+      "riscoLactacao": "Pode ser usado com monitoramento neonatal de icterícia",
+      "administracao": "Oral",
+      "doseMaxima": "4 g/dia",
+      "doseMinima": "500 mg/dia",
+      "classificacao": "Antiinflamatório intestinal e imunomodulador",
+      "apresentacao": "Comprimidos revestidos de 500 mg",
+      "interacaoMedicamento": "Potencializa toxicidade da azatioprina, metotrexato e hipoglicemiantes; antagoniza ácido fólico",
+      "posologia": "Iniciar com 500 mg 1–2x/dia, aumentar progressivamente até 2–4 g/dia conforme tolerância",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral direto; comprimido revestido não deve ser partido",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia a sulfas ou salicilatos, porfiria, obstrução intestinal",
+      "cuidadosMedicos": "Monitorar hemograma, enzimas hepáticas e creatinina periodicamente",
+      "cuidadosFarmaceuticos": "Orientar sobre ingestão com alimentos para reduzir efeitos GI",
+      "cuidadosEnfermagem": "Observar sinais de reação alérgica, icterícia ou alterações hematológicas",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, BNF, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sulfasalazine",
+      "suspension": "Hold 1–2 days preoperatively depending on hematologic status",
+      "risk": "May cause cytopenias and increase risk of perioperative bleeding or infection",
+      "reintroduction": "Restart when blood counts and liver function stabilize"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfasalazine",
+      "nomeComercial": "Azulfidine, Salazopyrin",
+      "mecanismoAcao": "Broken down in colon to 5-ASA and sulfapyridine; has local anti-inflammatory and systemic immunomodulatory effects",
+      "farmacocinetica": "Partially absorbed, half-life 6–15 h, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Decreases prostaglandins and cytokines, stabilizes cell membranes, reduces leukocyte infiltration",
+      "indicacoes": "Ulcerative colitis, Crohn’s disease, rheumatoid arthritis",
+      "reacoesAdversas": "Nausea, vomiting, headache, rash, hepatotoxicity, anemia, reversible male infertility",
+      "riscoGravidez": "Category B (1st–2nd trimester), C (3rd trimester)",
+      "riscoLactacao": "Use with caution; monitor infant for jaundice",
+      "administracao": "Oral",
+      "doseMaxima": "4 g/day",
+      "doseMinima": "500 mg/day",
+      "classificacao": "Anti-inflammatory and immunomodulatory agent",
+      "apresentacao": "Enteric-coated 500 mg tablets",
+      "interacaoMedicamento": "Increases toxicity of azathioprine, methotrexate, oral hypoglycemics; antagonizes folic acid",
+      "posologia": "Start with 500 mg once/twice daily, titrate to 2–4 g/day as tolerated",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Do not crush or split enteric-coated tablets",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Sulfa/salicylate allergy, intestinal obstruction, porphyria",
+      "cuidadosMedicos": "Monitor CBC, LFTs, and renal function regularly",
+      "cuidadosFarmaceuticos": "Advise taking with food to reduce GI effects",
+      "cuidadosEnfermagem": "Watch for rash, liver toxicity, blood count changes",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sulfasalazina",
+      "suspension": "Suspender 1–2 días antes de cirugía si hay riesgo hematológico",
+      "risk": "Puede causar citopenias, aumentando riesgo de sangrado o infección perioperatoria",
+      "reintroduction": "Reiniciar tras normalización de hematología y función hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfasalazina",
+      "nomeComercial": "Salazopyrina, Azulfidine",
+      "mecanismoAcao": "Se metaboliza en colon a 5-ASA y sulfapiridina; acción antiinflamatoria local e inmunomoduladora",
+      "farmacocinetica": "Absorción parcial, vida media 6–15 h, metabolismo hepático, eliminación renal",
+      "farmacodinamica": "Reduce prostaglandinas y citocinas, estabiliza membranas, inhibe infiltración leucocitaria",
+      "indicacoes": "Colitis ulcerosa, enfermedad de Crohn, artritis reumatoide",
+      "reacoesAdversas": "Náuseas, vómitos, erupciones, hepatotoxicidad, anemia, infertilidad reversible",
+      "riscoGravidez": "Categoría B–C",
+      "riscoLactacao": "Precaución; vigilar ictericia neonatal",
+      "administracao": "Oral",
+      "doseMaxima": "4 g/día",
+      "doseMinima": "500 mg/día",
+      "classificacao": "Antiinflamatorio intestinal e inmunomodulador",
+      "apresentacao": "Comprimidos recubiertos 500 mg",
+      "interacaoMedicamento": "Potencia toxicidad de metotrexato, azatioprina; antagoniza ácido fólico",
+      "posologia": "Iniciar con 500 mg 1–2x/día, ajustar hasta 2–4 g/día",
+      "armazenamento": "Ambiente, protegido de luz",
+      "preparo": "No triturar comprimidos recubiertos",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a sulfas o salicilatos, obstrucción intestinal",
+      "cuidadosMedicos": "Control hematológico y hepático periódico",
+      "cuidadosFarmaceuticos": "Tomar con alimentos",
+      "cuidadosEnfermagem": "Observar erupciones, signos hepáticos, anemia",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "柳氮磺吡啶",
+      "suspension": "术前1–2天停药，尤其有血液系统风险者",
+      "risk": "可引起白细胞减少、贫血、肝毒性，增加感染或出血风险",
+      "reintroduction": "术后血象和肝功能稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "柳氮磺吡啶",
+      "nomeComercial": "Salazopyrin, Azulfidine",
+      "mecanismoAcao": "在结肠代谢为5-氨基水杨酸和磺胺吡啶，具局部抗炎及免疫调节作用",
+      "farmacocinetica": "口服部分吸收，半衰期6–15小时，肝代谢，肾排泄",
+      "farmacodinamica": "抑制前列腺素和细胞因子生成，减少白细胞浸润",
+      "indicacoes": "溃疡性结肠炎、克罗恩病、类风湿关节炎",
+      "reacoesAdversas": "恶心、皮疹、肝毒性、血细胞减少、男性可逆性不育",
+      "riscoGravidez": "B类（早期），C类（晚期）",
+      "riscoLactacao": "慎用；需监测新生儿黄疸",
+      "administracao": "口服",
+      "doseMaxima": "每日4克",
+      "doseMinima": "每日500毫克",
+      "classificacao": "抗炎免疫调节药",
+      "apresentacao": "肠溶片500毫克",
+      "interacaoMedicamento": "与甲氨蝶呤、硫唑嘌呤、叶酸拮抗药存在相互作用",
+      "posologia": "初始500毫克每日1–2次，逐步增至2–4克",
+      "armazenamento": "室温避光保存",
+      "preparo": "完整吞服，不可咀嚼",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对磺胺或水杨酸过敏，肠梗阻，急性腹痛",
+      "cuidadosMedicos": "定期检查血常规和肝肾功能",
+      "cuidadosFarmaceuticos": "建议餐后服用减少胃肠不适",
+      "cuidadosEnfermagem": "观察皮疹、黄疸、血象变化",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

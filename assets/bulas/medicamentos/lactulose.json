@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lactulose",
+      "suspension": "Manter até o dia da cirurgia; ajustar se risco de distensão abdominal ou preparo intestinal",
+      "risk": "Distensão abdominal, flatulência intensa, aumento do trânsito intestinal durante o ato anestésico",
+      "reintroduction": "Reintroduzir no pós-operatório conforme trânsito intestinal e função hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lactulose",
+      "nomeComercial": "Lactulona, Duphalac",
+      "mecanismoAcao": "Disacarídeo sintético que promove acidificação do cólon, favorecendo retenção de amônia e aumento do peristaltismo",
+      "farmacocinetica": "Absorção oral mínima, metabolismo por flora colônica, excreção fecal",
+      "farmacodinamica": "Efeito osmótico e laxativo, reduz amônia plasmática em pacientes com encefalopatia hepática",
+      "indicacoes": "Constipação crônica, encefalopatia hepática",
+      "reacoesAdversas": "Flatulência, cólicas, diarreia, desequilíbrio eletrolítico em altas doses",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Seguro durante a amamentação",
+      "administracao": "Via oral ou por sonda nasogástrica",
+      "doseMaxima": "60ml/dia (ajustada individualmente)",
+      "doseMinima": "10ml/dia",
+      "classificacao": "Laxativo osmótico, agente redutor de amônia",
+      "apresentacao": "Solução oral 667mg/ml (ou 66,7%)",
+      "interacaoMedicamento": "Pode reduzir eficácia de medicamentos de liberação entérica",
+      "posologia": "Constipação: 15–30ml/dia; Encefalopatia: 30–45ml 2–4x/dia até 2 evacuações moles",
+      "armazenamento": "Temperatura ambiente, não refrigerar",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Pode ser diluído em água",
+      "contraindicacoes": "Obstrução intestinal, galactosemia",
+      "cuidadosMedicos": "Monitorar eletrólitos e resposta clínica",
+      "cuidadosFarmaceuticos": "Orientar sobre tempo de início (24–48h), uso contínuo e hidratação",
+      "cuidadosEnfermagem": "Observar frequência e consistência das evacuações",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lactulose",
+      "suspension": "Continue until surgery day; adjust if risk of bloating or bowel prep required",
+      "risk": "Abdominal distension, gas, risk of increased bowel transit during anesthesia",
+      "reintroduction": "Restart post-op depending on bowel function and hepatic status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lactulose",
+      "nomeComercial": "Kristalose, Constulose, Enulose",
+      "mecanismoAcao": "Synthetic disaccharide that acidifies colonic contents, traps ammonia, and promotes peristalsis",
+      "farmacocinetica": "Minimally absorbed orally, metabolized by colonic bacteria, excreted in feces",
+      "farmacodinamica": "Osmotic laxative and ammonia reducer",
+      "indicacoes": "Chronic constipation, hepatic encephalopathy",
+      "reacoesAdversas": "Gas, cramping, diarrhea, electrolyte imbalance at high doses",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "Oral or via nasogastric tube",
+      "doseMaxima": "60ml/day (individualized)",
+      "doseMinima": "10ml/day",
+      "classificacao": "Osmotic laxative, ammonia-lowering agent",
+      "apresentacao": "Oral solution 667mg/ml (66.7%)",
+      "interacaoMedicamento": "May reduce efficacy of enteric-coated medications",
+      "posologia": "Constipation: 15–30ml/day; HE: 30–45ml 2–4x/day to 2 soft stools",
+      "armazenamento": "Room temp, do not refrigerate",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Can be diluted in water",
+      "contraindicacoes": "Bowel obstruction, galactosemia",
+      "cuidadosMedicos": "Monitor electrolytes and bowel response",
+      "cuidadosFarmaceuticos": "Educate on onset (24–48h), hydration, and continuous use",
+      "cuidadosEnfermagem": "Monitor stool frequency and consistency",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lactulosa",
+      "suspension": "Mantener hasta el día de la cirugía; ajustar si hay riesgo de distensión o preparación intestinal",
+      "risk": "Distensión abdominal, gases, posible aumento del tránsito intestinal bajo anestesia",
+      "reintroduction": "Reintroducir según función intestinal y estado hepático postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lactulosa",
+      "nomeComercial": "Duphalac, Lactulosa Normon",
+      "mecanismoAcao": "Disacárido sintético que acidifica el contenido del colon, atrapa amoníaco y estimula el peristaltismo",
+      "farmacocinetica": "Absorción oral mínima, metabolización bacteriana, excreción fecal",
+      "farmacodinamica": "Laxante osmótico, reductor de amoníaco",
+      "indicacoes": "Estreñimiento crónico, encefalopatía hepática",
+      "reacoesAdversas": "Flatulencia, calambres, diarrea, desequilibrio electrolítico",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Apto para lactancia",
+      "administracao": "Vía oral o sonda nasogástrica",
+      "doseMaxima": "60ml/día",
+      "doseMinima": "10ml/día",
+      "classificacao": "Laxante osmótico, antihiperamoniémico",
+      "apresentacao": "Solución oral 667mg/ml (66,7%)",
+      "interacaoMedicamento": "Puede disminuir la eficacia de medicamentos entéricos",
+      "posologia": "Estreñimiento: 15–30ml/día; EH: 30–45ml 2–4 veces al día",
+      "armazenamento": "Temperatura ambiente, no refrigerar",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "Agua",
+      "contraindicacoes": "Obstrucción intestinal, galactosemia",
+      "cuidadosMedicos": "Monitorear electrolitos y función intestinal",
+      "cuidadosFarmaceuticos": "Aconsejar sobre hidratación y uso continuo",
+      "cuidadosEnfermagem": "Observar consistencia y frecuencia de las deposiciones",
+      "fontesBibliograficas": "Micromedex, EMA, literatura clínica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乳果糖",
+      "suspension": "术前可继续使用，如存在腹胀或需肠道准备则评估",
+      "risk": "可能导致腹胀、排气、术中肠蠕动活跃",
+      "reintroduction": "术后根据肠道功能和肝功能可重新给予"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乳果糖",
+      "nomeComercial": "Duphalac（部分国家）",
+      "mecanismoAcao": "合成双糖，在肠道内酸化内容物，保留氨并促进肠蠕动",
+      "farmacocinetica": "口服吸收差，主要经肠道细菌代谢，经粪便排泄",
+      "farmacodinamica": "渗透性泻药，降低血氨作用",
+      "indicacoes": "慢性便秘，肝性脑病",
+      "reacoesAdversas": "腹胀、腹泻、电解质紊乱",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期可用",
+      "administracao": "口服或鼻胃管",
+      "doseMaxima": "每日60毫升",
+      "doseMinima": "每日10毫升",
+      "classificacao": "渗透性泻药，降氨药物",
+      "apresentacao": "口服溶液667mg/ml",
+      "interacaoMedicamento": "可能降低肠溶制剂药效",
+      "posologia": "便秘：15–30ml/d；脑病：30–45ml 每日2–4次至软便",
+      "armazenamento": "室温保存，不可冷藏",
+      "preparo": "无需准备，可直接使用",
+      "solucoesCompatíveis": "水",
+      "contraindicacoes": "肠梗阻、半乳糖血症",
+      "cuidadosMedicos": "监测电解质与肠功能",
+      "cuidadosFarmaceuticos": "提醒补液与作用起效延迟",
+      "cuidadosEnfermagem": "记录排便频率与性状",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

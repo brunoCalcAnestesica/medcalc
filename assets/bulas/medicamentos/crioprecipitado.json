@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Crioprecipitado",
+      "suspension": "Não aplicável – uso pontual conforme necessidade transfusional",
+      "risk": "Risco de reação transfusional, sobrecarga circulatória, TRALI, infecção viral residual (muito rara)",
+      "reintroduction": "Pode ser reintroduzido conforme necessidade de reposição de fibrinogênio, fator VIII ou doença de von Willebrand"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Crioprecipitado de plasma humano",
+      "nomeComercial": "Crioprecipitado Hemorrede / Hemonúcleo",
+      "mecanismoAcao": "Reforça fatores de coagulação como fibrinogênio, fator VIII, fator XIII, fibronectina e fator von Willebrand",
+      "farmacocinetica": "Efeito imediato após infusão; duração depende do fator específico e meia-vida plasmática",
+      "farmacodinamica": "Corrige hipofibrinogenemia e distúrbios de coagulação hereditários ou adquiridos",
+      "indicacoes": "Hipofibrinogenemia (<100 mg/dL), coagulopatia com sangramento, doença de von Willebrand, deficiência de fator XIII, reversão de coagulopatia em sangramento massivo",
+      "reacoesAdversas": "Febre, urticária, TRALI, TACO, infecção viral (rara), anafilaxia (rara)",
+      "riscoGravidez": "Pode ser usado em casos de hemorragia obstétrica com coagulopatia",
+      "riscoLactacao": "Permitido conforme necessidade clínica",
+      "administracao": "Infusão intravenosa com filtro para hemocomponentes",
+      "doseMaxima": "10 unidades (bolsas) por dia; cada unidade ≈ 150–250 mg de fibrinogênio",
+      "doseMinima": "1 unidade por 5–10 kg de peso (em hipofibrinogenemia leve)",
+      "classificacao": "Hemocomponente rico em fatores de coagulação",
+      "apresentacao": "Bolsas de 15–20 mL descongeladas (até 5 unidades agrupadas)",
+      "interacaoMedicamento": "Potencializa risco com anticoagulantes; não misturar com medicamentos EV",
+      "posologia": "3–6 unidades em adultos; 1 unidade por 10 kg em pediatria",
+      "armazenamento": "–30°C por até 1 ano; após descongelamento, usar em até 6h",
+      "preparo": "Descongelar em banho-maria a 30–37°C, não agitar",
+      "solucoesCompatíveis": "Não deve ser misturado com outras soluções",
+      "contraindicacoes": "Ausência de coagulopatia, hipersensibilidade a proteínas plasmáticas",
+      "cuidadosMedicos": "Avaliar fibrinogênio, TP, TTPa, perfil de coagulação antes e após uso",
+      "cuidadosFarmaceuticos": "Garantir compatibilidade ABO se possível; verificar rastreabilidade e integridade do produto",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, reações transfusionais, volume infundido e tempo máximo de uso após descongelamento",
+      "fontesBibliograficas": "SBHH, AABB, ANVISA, Medscape, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cryoprecipitate",
+      "suspension": "Not applicable – administered per clinical indication",
+      "risk": "Risk of transfusion reaction, TACO, TRALI, infection (very rare)",
+      "reintroduction": "Can be re-administered as needed based on fibrinogen and coagulation profile"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cryoprecipitated antihemophilic factor",
+      "nomeComercial": "Cryoprecipitate (Blood Bank)",
+      "mecanismoAcao": "Provides fibrinogen, factor VIII, von Willebrand factor, factor XIII, fibronectin",
+      "farmacocinetica": "Immediate effect; duration varies by coagulation factor",
+      "farmacodinamica": "Corrects coagulopathies and supports hemostasis",
+      "indicacoes": "Hypofibrinogenemia, DIC, massive bleeding, von Willebrand disease, factor XIII deficiency",
+      "reacoesAdversas": "Fever, urticaria, TRALI, TACO, infection, rare anaphylaxis",
+      "riscoGravidez": "Used in obstetric hemorrhage when indicated",
+      "riscoLactacao": "Permitted if clinically required",
+      "administracao": "Slow IV infusion with blood filter",
+      "doseMaxima": "10 units/day (each unit ≈ 150–250 mg fibrinogen)",
+      "doseMinima": "1 unit per 5–10 kg body weight",
+      "classificacao": "Coagulation factor concentrate (blood component)",
+      "apresentacao": "15–20 mL per unit; pooled bags of 5 units common",
+      "interacaoMedicamento": "Do not co-infuse with IV drugs; monitor anticoagulant effects",
+      "posologia": "3–6 units in adults; 1 unit/10 kg in pediatrics",
+      "armazenamento": "–30°C up to 1 year; use within 6h after thawing",
+      "preparo": "Thaw in 30–37°C water bath; do not shake",
+      "solucoesCompatíveis": "Do not mix with IV medications",
+      "contraindicacoes": "Absence of coagulopathy; known plasma protein allergy",
+      "cuidadosMedicos": "Monitor fibrinogen, PT, aPTT, coagulation profile",
+      "cuidadosFarmaceuticos": "Ensure ABO compatibility and traceability",
+      "cuidadosEnfermagem": "Monitor vitals, transfusion reactions, infusion timing",
+      "fontesBibliograficas": "AABB, FDA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Crioprecipitado",
+      "suspension": "No aplica – se administra según necesidad clínica",
+      "risk": "Riesgo de TRALI, TACO, reacción alérgica, infección (muy raro)",
+      "reintroduction": "Reanudar si hay necesidad de reposición de fibrinógeno"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Crioprecipitado humano",
+      "nomeComercial": "Crioprecipitado (banco de sangre)",
+      "mecanismoAcao": "Aporta fibrinógeno, FVIII, FvW, FXIII, fibronectina",
+      "farmacocinetica": "Inicio inmediato; duración depende del factor",
+      "farmacodinamica": "Corrige coagulopatías e hipofibrinogenemia",
+      "indicacoes": "CID, sangrado masivo, enfermedad de von Willebrand, déficit de fibrinógeno",
+      "reacoesAdversas": "Fiebre, urticaria, TRALI, TACO, infección viral (rara)",
+      "riscoGravidez": "Se puede usar en hemorragia obstétrica",
+      "riscoLactacao": "Permitido si está indicado",
+      "administracao": "IV lenta con filtro de transfusión",
+      "doseMaxima": "10 unidades/día",
+      "doseMinima": "1 unidad por cada 5–10 kg",
+      "classificacao": "Concentrado de factores de coagulación",
+      "apresentacao": "Bolsas descongeladas 15–20 mL (agrupadas en 5u)",
+      "interacaoMedicamento": "No mezclar con fármacos IV",
+      "posologia": "3–6 unidades en adultos",
+      "armazenamento": "–30°C; usar en 6h postdescongelación",
+      "preparo": "Descongelar a 30–37°C, usar inmediatamente",
+      "solucoesCompatíveis": "No compatible con otras soluciones",
+      "contraindicacoes": "Sin coagulopatía o alergia conocida",
+      "cuidadosMedicos": "Control de fibrinógeno y coagulación",
+      "cuidadosFarmaceuticos": "Verificar trazabilidad y compatibilidad ABO",
+      "cuidadosEnfermagem": "Supervisar signos vitales, reacciones",
+      "fontesBibliograficas": "AABB, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "冷沉淀（冷沉淀血浆）",
+      "suspension": "非长期药物，无停药必要",
+      "risk": "输血相关急性肺损伤（TRALI）、TACO、过敏反应、感染（极罕见）",
+      "reintroduction": "根据纤维蛋白原与凝血状态可再次使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "冷沉淀",
+      "nomeComercial": "血站冷沉淀制品",
+      "mecanismoAcao": "富含纤维蛋白原、FVIII、vWF、FXIII、纤连蛋白",
+      "farmacocinetica": "即刻起效，效应维持数小时",
+      "farmacodinamica": "纠正低纤维蛋白原血症与凝血障碍",
+      "indicacoes": "DIC、出血、von Willebrand病、低纤维蛋白原",
+      "reacoesAdversas": "发热、荨麻疹、过敏、TRALI、感染",
+      "riscoGravidez": "产科出血时可用",
+      "riscoLactacao": "临床指征下可用",
+      "administracao": "经血滤器缓慢静滴",
+      "doseMaxima": "10袋/日",
+      "doseMinima": "每5–10kg 1袋",
+      "classificacao": "血液成分 / 凝血因子浓缩物",
+      "apresentacao": "15–20 mL/袋（常5袋混合）",
+      "interacaoMedicamento": "不可与其他IV药物共用",
+      "posologia": "成人3–6袋；儿童按10kg 1袋",
+      "armazenamento": "–30°C保存，解冻后6小时内使用",
+      "preparo": "30–37°C水浴解冻，勿剧烈振荡",
+      "solucoesCompatíveis": "不混用",
+      "contraindicacoes": "无出血倾向、对血浆蛋白过敏者",
+      "cuidadosMedicos": "监测凝血功能、纤维蛋白原",
+      "cuidadosFarmaceuticos": "确认血型配合，确保无溶血污染",
+      "cuidadosEnfermagem": "观察输注反应、记录使用量",
+      "fontesBibliograficas": "中国输血指南、Micromedex、Medscape"
+    }
+  }
+}

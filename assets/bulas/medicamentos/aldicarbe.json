@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Aldicarbe",
+      "suspension": "Não se aplica – substância altamente tóxica, sem uso médico aprovado",
+      "risk": "Altamente tóxico; risco de colapso respiratório, bradicardia grave, convulsões, coma e morte",
+      "reintroduction": "Proibido para uso humano; nunca deve ser reintroduzido em qualquer contexto clínico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aldicarbe",
+      "nomeComercial": "Temik (uso agrícola proibido em vários países)",
+      "mecanismoAcao": "Inibe irreversivelmente a acetilcolinesterase, provocando acúmulo de acetilcolina nas sinapses",
+      "farmacocinetica": "Absorção rápida por via oral, respiratória e dérmica; metabolização hepática; excreção urinária",
+      "farmacodinamica": "Estimulação colinérgica intensa com efeitos muscarínicos e nicotínicos generalizados",
+      "indicacoes": "Sem indicação médica – agrotóxico de uso agrícola anteriormente autorizado como nematicida e inseticida",
+      "reacoesAdversas": "Sialorreia, broncorreia, miose, vômitos, diarreia, fasciculações, paralisia respiratória, convulsões",
+      "riscoGravidez": "Categoria X – absolutamente contraindicado",
+      "riscoLactacao": "Extremamente tóxico; pode ser excretado no leite",
+      "administracao": "Proibida em humanos",
+      "doseMaxima": "Letal em doses muito baixas (~1 mg/kg)",
+      "doseMinima": "Sem dose segura estabelecida",
+      "classificacao": "Carbamato altamente tóxico – inibidor de colinesterase",
+      "apresentacao": "Grânulos, pó ou líquido para aplicação agrícola",
+      "interacaoMedicamento": "Potencializa toxicidade com outros anticolinesterásicos ou organofosforados",
+      "posologia": "Não aplicável",
+      "armazenamento": "Controle rigoroso; proibido para comercialização ou posse civil",
+      "preparo": "Não aplicável; manipulação perigosa",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Todo e qualquer uso em humanos",
+      "cuidadosMedicos": "Emergência médica: suporte respiratório, atropina EV, pralidoxima; descontaminação urgente",
+      "cuidadosFarmaceuticos": "Substância fora de uso; vedado o manuseio em ambientes clínicos",
+      "cuidadosEnfermagem": "Isolamento, suporte vital, uso de EPI em intoxicações acidentais",
+      "fontesBibliograficas": "WHO, ANVISA, EPA, ECHA, Micromedex, Toxicology Data Network"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Aldicarb",
+      "suspension": "Not applicable – highly toxic compound with no medical use",
+      "risk": "Extremely toxic; risk of respiratory failure, severe bradycardia, seizures, coma, and death",
+      "reintroduction": "Prohibited in clinical settings; must never be used in humans"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aldicarb",
+      "nomeComercial": "Temik (banned in many countries)",
+      "mecanismoAcao": "Irreversibly inhibits acetylcholinesterase, causing acetylcholine accumulation",
+      "farmacocinetica": "Rapid absorption via oral, dermal, and inhalation routes; hepatic metabolism; urinary excretion",
+      "farmacodinamica": "Causes massive cholinergic overstimulation (muscarinic + nicotinic effects)",
+      "indicacoes": "No approved human use; formerly used as agricultural pesticide (nematicide/insecticide)",
+      "reacoesAdversas": "Salivation, bronchorrhea, miosis, vomiting, diarrhea, fasciculations, respiratory paralysis, seizures",
+      "riscoGravidez": "Category X – extremely teratogenic and toxic",
+      "riscoLactacao": "Likely excreted in milk; absolutely contraindicated",
+      "administracao": "Prohibited in humans",
+      "doseMaxima": "Lethal in very small doses (~1 mg/kg)",
+      "doseMinima": "No safe dose",
+      "classificacao": "Highly toxic carbamate – cholinesterase inhibitor",
+      "apresentacao": "Granules, powder or liquid for agricultural use",
+      "interacaoMedicamento": "Additive toxicity with organophosphates or other cholinesterase inhibitors",
+      "posologia": "Not applicable",
+      "armazenamento": "Strict regulatory control; banned for general public",
+      "preparo": "Extremely hazardous to handle",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "All human use",
+      "cuidadosMedicos": "Medical emergency: airway support, IV atropine, pralidoxime; decontamination",
+      "cuidadosFarmaceuticos": "Not for clinical handling",
+      "cuidadosEnfermagem": "Isolate patient, use PPE, support vitals",
+      "fontesBibliograficas": "EPA, WHO, CDC, Micromedex, ToxNet"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Aldicarb",
+      "suspension": "No aplicable – compuesto altamente tóxico sin uso médico autorizado",
+      "risk": "Tóxico extremo; riesgo de fallo respiratorio, bradicardia, convulsiones y muerte",
+      "reintroduction": "Prohibido para uso humano; nunca debe usarse en entornos clínicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aldicarb",
+      "nomeComercial": "Temik (prohibido en múltiples países)",
+      "mecanismoAcao": "Inhibidor irreversible de la acetilcolinesterasa; acumula acetilcolina en sinapsis",
+      "farmacocinetica": "Absorción rápida oral, dérmica y por inhalación; metabolismo hepático; excreción urinaria",
+      "farmacodinamica": "Estimulación colinérgica masiva (efectos muscarínicos y nicotínicos)",
+      "indicacoes": "Ninguna médica; previamente usado como pesticida agrícola",
+      "reacoesAdversas": "Sialorrea, vómitos, diarrea, fasciculaciones, miosis, parálisis respiratoria, convulsiones",
+      "riscoGravidez": "Categoría X – altamente teratogénico",
+      "riscoLactacao": "Probable excreción en leche; contraindicado",
+      "administracao": "Prohibida en humanos",
+      "doseMaxima": "Letal con dosis bajas (~1 mg/kg)",
+      "doseMinima": "No existe dosis segura",
+      "classificacao": "Carbamato tóxico – inhibidor de colinesterasa",
+      "apresentacao": "Gránulos, polvo o líquido agrícola",
+      "interacaoMedicamento": "Toxicidad aditiva con organofosforados",
+      "posologia": "No aplica",
+      "armazenamento": "Control oficial estricto; prohibido al público general",
+      "preparo": "Altamente peligroso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Todo uso humano",
+      "cuidadosMedicos": "Emergencia: atropina EV, pralidoxima, soporte respiratorio",
+      "cuidadosFarmaceuticos": "Prohibido en entornos médicos",
+      "cuidadosEnfermagem": "Aislamiento, soporte vital, uso de EPP",
+      "fontesBibliograficas": "OMS, EPA, ECHA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿尔地卡（Aldicarb）",
+      "suspension": "不适用 – 高毒性农药，禁止医疗使用",
+      "risk": "极度毒性，可能导致呼吸衰竭、心动过缓、癫痫、昏迷甚至死亡",
+      "reintroduction": "禁止用于人体；绝不可在临床中重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿尔地卡",
+      "nomeComercial": "Temik（多国已禁用）",
+      "mecanismoAcao": "不可逆抑制乙酰胆碱酯酶，导致神经突触乙酰胆碱积聚",
+      "farmacocinetica": "可经口、皮肤、吸入快速吸收；肝代谢；尿液排出",
+      "farmacodinamica": "强烈毒性胆碱能刺激（烟碱样和毒蕈碱样作用）",
+      "indicacoes": "无医学用途；曾作为杀线虫剂使用于农业",
+      "reacoesAdversas": "流涎、支气管分泌物增多、缩瞳、呕吐、腹泻、肌肉颤搐、呼吸麻痹、抽搐",
+      "riscoGravidez": "X类 – 严重致畸，绝对禁用",
+      "riscoLactacao": "可能排入乳汁，严禁哺乳期使用",
+      "administracao": "禁止用于人体",
+      "doseMaxima": "极低剂量即致命（约1 mg/kg）",
+      "doseMinima": "无安全剂量",
+      "classificacao": "高毒性氨基甲酸酯类 – 胆碱酯酶抑制剂",
+      "apresentacao": "颗粒、粉末或液体（农业用途）",
+      "interacaoMedicamento": "与有机磷类等胆碱酯酶抑制剂协同毒性",
+      "posologia": "不适用",
+      "armazenamento": "严格监管，公众禁用",
+      "preparo": "操作极危险",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "所有人体使用场景",
+      "cuidadosMedicos": "急救处理：静脉阿托品、解磷定、维持呼吸",
+      "cuidadosFarmaceuticos": "医疗环境严禁接触",
+      "cuidadosEnfermagem": "隔离，使用防护设备，支持生命体征",
+      "fontesBibliograficas": "WHO、FDA、Micromedex、中国农药数据中心"
+    }
+  }
+}

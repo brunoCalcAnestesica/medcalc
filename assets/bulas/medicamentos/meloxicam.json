@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Meloxicam",
+      "suspension": "Suspender 48 a 72 horas antes de procedimentos cirúrgicos eletivos.",
+      "risk": "Risco moderado de sangramento, toxicidade renal e gastrintestinal. Meia-vida longa pode prolongar efeitos perioperatórios.",
+      "reintroduction": "Reintroduzir após estabilização clínica, idealmente 48–72h após a cirurgia, com função renal preservada e sem sangramento ativo."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Meloxicam",
+      "nomeComercial": "Mobic, Movalis, Melox, Tenaron",
+      "mecanismoAcao": "Inibidor preferencial da COX-2 com leve atividade sobre COX-1, reduzindo a síntese de prostaglandinas inflamatórias com menor toxicidade gástrica.",
+      "farmacocinetica": "Boa absorção oral; pico em 4–5h; meia-vida ~15–20h; alta ligação proteica (>99%); metabolização hepática; excreção renal e fecal.",
+      "farmacodinamica": "Efeito anti-inflamatório, analgésico e antipirético. Menor impacto na mucosa gástrica e função plaquetária.",
+      "indicacoes": "Osteoartrite, artrite reumatoide, espondilite anquilosante, dor musculoesquelética crônica.",
+      "reacoesAdversas": "Dispepsia, náusea, cefaleia, tontura, edema, elevação de transaminases, rash cutâneo, eventos trombóticos raros.",
+      "riscoGravidez": "Categoria C (1º e 2º trimestres), D no 3º.",
+      "riscoLactacao": "Evitar uso prolongado durante a amamentação.",
+      "administracao": "Oral, intramuscular (uso restrito hospitalar).",
+      "doseMaxima": "15 mg/dia.",
+      "doseMinima": "7,5 mg/dia.",
+      "classificacao": "Anti-inflamatório não esteroidal (AINE) preferencial COX-2.",
+      "apresentacao": "Comprimidos 7,5 mg e 15 mg, solução injetável 15 mg/mL.",
+      "interacaoMedicamento": "Interage com anticoagulantes, diuréticos, IECA, lítio, metotrexato.",
+      "posologia": "7,5 a 15 mg/dia, dose única diária.",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz.",
+      "preparo": "Forma injetável deve ser administrada por via IM profunda.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Úlcera ativa, insuficiência renal/hepática grave, insuficiência cardíaca descompensada, gravidez no 3º trimestre.",
+      "cuidadosMedicos": "Monitorar função renal, PA, sintomas gastrintestinais e risco cardiovascular.",
+      "cuidadosFarmaceuticos": "Evitar coadministração com outros AINEs e monitorar interações.",
+      "cuidadosEnfermagem": "Orientar ingestão com alimentos; aplicar IM profunda com vigilância de reações locais.",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, UpToDate, Micromedex, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Meloxicam",
+      "suspension": "Discontinue 48 to 72 hours before elective surgery.",
+      "risk": "Moderate risk of GI bleeding and renal injury. Long half-life may prolong perioperative effects. Lower GI toxicity compared to non-selective NSAIDs.",
+      "reintroduction": "Restart 48–72h post-op after clinical stabilization and renal function recovery."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Meloxicam",
+      "nomeComercial": "Mobic, Vivlodex, Qmiiz, Melox",
+      "mecanismoAcao": "Preferential COX-2 inhibitor, reducing inflammatory prostaglandins with minimal gastric and platelet effects.",
+      "farmacocinetica": "Good oral absorption; peak in 4–5h; half-life 15–20h; >99% protein binding; hepatic metabolism; renal/fecal excretion.",
+      "farmacodinamica": "Anti-inflammatory, analgesic, antipyretic. Lower GI side effects, preserves platelet function.",
+      "indicacoes": "Osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, chronic musculoskeletal pain.",
+      "reacoesAdversas": "Dyspepsia, nausea, dizziness, headache, edema, transaminase elevation, rash, rare thrombotic events.",
+      "riscoGravidez": "Category C (1st/2nd trimester), D (3rd trimester – ductus risk).",
+      "riscoLactacao": "Avoid prolonged use during lactation.",
+      "administracao": "Oral or deep intramuscular (hospital use).",
+      "doseMaxima": "15 mg/day.",
+      "doseMinima": "7.5 mg/day.",
+      "classificacao": "Preferential COX-2 NSAID.",
+      "apresentacao": "Tablets 7.5 mg, 15 mg; injectable solution 15 mg/mL.",
+      "interacaoMedicamento": "Interacts with warfarin, diuretics, ACEIs, lithium, methotrexate.",
+      "posologia": "7.5–15 mg once daily.",
+      "armazenamento": "Store at 15–30°C, protect from light.",
+      "preparo": "Inject IM deeply; not for IV use.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Active ulcer, severe hepatic/renal impairment, decompensated heart failure, 3rd trimester pregnancy.",
+      "cuidadosMedicos": "Monitor BP, renal function, GI tolerance, CV risk.",
+      "cuidadosFarmaceuticos": "Avoid other NSAIDs; assess for drug interactions.",
+      "cuidadosEnfermagem": "Administer with food; IM form: deep gluteal injection.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Meloxicam",
+      "suspension": "Suspender 48–72 horas antes de cirugía programada.",
+      "risk": "Riesgo moderado de sangrado digestivo y toxicidad renal. Vida media larga prolonga efectos perioperatorios.",
+      "reintroduction": "Reintroducir 48–72h después de cirugía con función renal y estabilidad clínica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Meloxicam",
+      "nomeComercial": "Mobic, Movalis, Meloxican",
+      "mecanismoAcao": "Inhibidor preferente de COX-2, con menor efecto sobre mucosa gástrica y plaquetas.",
+      "farmacocinetica": "Buena absorción oral; pico 4–5h; vida media 15–20h; unión a proteínas >99%; metabolismo hepático; excreción renal/fecal.",
+      "farmacodinamica": "Acción antiinflamatoria, analgésica, antipirética. Mejor tolerancia GI.",
+      "indicacoes": "Artritis reumatoide, artrosis, espondilitis anquilosante, dolor musculoesquelético.",
+      "reacoesAdversas": "Dispepsia, náusea, cefalea, edema, vértigo, enzimas hepáticas elevadas, rash, eventos trombóticos raros.",
+      "riscoGravidez": "Categoría C (1º/2º trimestre), D (3º trimestre).",
+      "riscoLactacao": "Evitar uso prolongado durante lactancia.",
+      "administracao": "Oral o intramuscular profunda.",
+      "doseMaxima": "15 mg/día.",
+      "doseMinima": "7.5 mg/día.",
+      "classificacao": "AINE preferente COX-2.",
+      "apresentacao": "Comprimidos 7.5 mg y 15 mg; solución inyectable 15 mg/mL.",
+      "interacaoMedicamento": "Interacción con warfarina, diuréticos, IECAs, litio, MTX.",
+      "posologia": "7.5–15 mg una vez al día.",
+      "armazenamento": "15–30°C, protegido de la luz.",
+      "preparo": "IM profundo (glúteo); no IV.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Úlcera activa, insuficiencia renal/hepática severa, IC descompensada, embarazo 3º trimestre.",
+      "cuidadosMedicos": "Monitorear función renal, PA, tolerancia digestiva, riesgo CV.",
+      "cuidadosFarmaceuticos": "Evitar combinación con otros AINE; revisar interacciones.",
+      "cuidadosEnfermagem": "Administrar con comida; IM profunda; observar edema o molestia GI.",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "美洛昔康（Meloxicam）",
+      "suspension": "术前48–72小时停药。",
+      "risk": "中等胃肠和肾毒性风险，半衰期长可能延长术中风险，较COX-1抑制剂安全性高。",
+      "reintroduction": "术后48–72小时在肾功能稳定后可恢复用药。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "美洛昔康",
+      "nomeComercial": "Mobic、Movalis",
+      "mecanismoAcao": "优先选择性抑制COX-2，减少炎性前列腺素合成，对胃黏膜影响小。",
+      "farmacocinetica": "吸收良好，4–5小时达峰，半衰期15–20小时，蛋白结合>99%，肝代谢，肾/粪排。",
+      "farmacodinamica": "抗炎、镇痛、退热，胃肠耐受性较好。",
+      "indicacoes": "骨关节炎、类风湿关节炎、强直性脊柱炎、慢性肌骨疼痛。",
+      "reacoesAdversas": "胃痛、恶心、头晕、头痛、水肿、肝酶升高、皮疹、罕见血栓事件。",
+      "riscoGravidez": "C类（早期）、D类（妊娠晚期）。",
+      "riscoLactacao": "避免长期哺乳期使用。",
+      "administracao": "口服或肌肉注射（限医院）。",
+      "doseMaxima": "每日15毫克。",
+      "doseMinima": "每日7.5毫克。",
+      "classificacao": "优先COX-2抑制NSAID。",
+      "apresentacao": "7.5mg、15mg片剂；15mg/mL注射液。",
+      "interacaoMedicamento": "与华法林、利尿剂、ACEI、锂、甲氨蝶呤相互作用。",
+      "posologia": "每日一次7.5–15毫克。",
+      "armazenamento": "15–30°C避光保存。",
+      "preparo": "深部肌注；禁静脉注射。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "活动性溃疡、严重肝肾功能障碍、心衰、妊娠晚期。",
+      "cuidadosMedicos": "监测血压、肾功能、胃肠反应和心血管风险。",
+      "cuidadosFarmaceuticos": "避免与其他NSAID合用；检查药物相互作用。",
+      "cuidadosEnfermagem": "建议饭后服用或深部肌注；注意水肿与消化不良。",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

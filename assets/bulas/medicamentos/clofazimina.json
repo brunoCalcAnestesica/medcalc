@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clofazimina",
+      "suspension": "Não é necessário suspender antes da cirurgia",
+      "risk": "Pode causar alterações cutâneas, desconforto gastrointestinal e interação com anestésicos QT-prolongadores",
+      "reintroduction": "Manter ou reintroduzir após cirurgia conforme tolerância digestiva e status eletrolítico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clofazimina",
+      "nomeComercial": "Lamprene",
+      "mecanismoAcao": "Liga-se ao DNA micobacteriano e interfere na replicação e transcrição",
+      "farmacocinetica": "Alta biodisponibilidade oral; meia-vida longa (~70 dias); eliminação biliar",
+      "farmacodinamica": "Bactericida lento contra Mycobacterium leprae; atividade anti-inflamatória",
+      "indicacoes": "Hanseníase multibacilar, eritema nodoso hansênico",
+      "reacoesAdversas": "Pigmentação da pele, prurido, dor abdominal, náusea, enteropatia cristalina (uso prolongado)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar se possível",
+      "administracao": "Via oral",
+      "doseMaxima": "300mg/dia (uso agudo em reações)",
+      "doseMinima": "50mg/dia (uso crônico)",
+      "classificacao": "Antibiótico antimicobacteriano fenazínico",
+      "apresentacao": "Cápsulas 50mg, 100mg",
+      "interacaoMedicamento": "Aumenta risco de QT longo com antiarrítmicos e fluoroquinolonas",
+      "posologia": "50mg/dia por 12 meses + 300mg 1x/mês (esquema padrão hanseníase OMS)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar ECG em pacientes de risco, observar reações cutâneas intensas",
+      "cuidadosFarmaceuticos": "Orientar sobre pigmentação esperada da pele e duração do tratamento",
+      "cuidadosEnfermagem": "Observar coloração da pele, sintomas GI e adesão terapêutica",
+      "fontesBibliograficas": "ANVISA, Micromedex, OMS, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Clofazimine",
+      "suspension": "No need to stop before surgery",
+      "risk": "Skin discoloration, GI intolerance, QT prolongation risk with anesthesia",
+      "reintroduction": "Continue or restart after surgery as tolerated"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clofazimine",
+      "nomeComercial": "Lamprene",
+      "mecanismoAcao": "Binds to mycobacterial DNA, inhibiting replication and transcription",
+      "farmacocinetica": "High oral bioavailability; long half-life (~70 days); biliary elimination",
+      "farmacodinamica": "Slow bactericidal against M. leprae; anti-inflammatory",
+      "indicacoes": "Multibacillary leprosy, erythema nodosum leprosum",
+      "reacoesAdversas": "Skin pigmentation, itching, GI discomfort, crystalline enteropathy (long-term)",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid if possible",
+      "administracao": "Oral",
+      "doseMaxima": "300mg/day",
+      "doseMinima": "50mg/day",
+      "classificacao": "Antimycobacterial phenazine dye",
+      "apresentacao": "Capsules 50mg, 100mg",
+      "interacaoMedicamento": "May prolong QT with antiarrhythmics, fluoroquinolones",
+      "posologia": "50mg daily + 300mg monthly (WHO standard MDT)",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, severe hepatic impairment",
+      "cuidadosMedicos": "Monitor ECG in high-risk patients, assess for severe skin/GI reactions",
+      "cuidadosFarmaceuticos": "Counsel on skin discoloration and long treatment duration",
+      "cuidadosEnfermagem": "Check for GI side effects, pigment changes, adherence",
+      "fontesBibliograficas": "FDA, WHO, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clofazimina",
+      "suspension": "No requiere suspensión preoperatoria",
+      "risk": "Pigmentación cutánea, molestias digestivas, riesgo de QT prolongado",
+      "reintroduction": "Continuar tras cirugía si es bien tolerada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clofazimina",
+      "nomeComercial": "Lamprene",
+      "mecanismoAcao": "Se une al ADN micobacteriano, inhibiendo replicación/transcripción",
+      "farmacocinetica": "Alta biodisponibilidad oral; vida media ~70 días; eliminación biliar",
+      "farmacodinamica": "Bactericida lento contra M. leprae; efecto antiinflamatorio",
+      "indicacoes": "Lepra multibacilar, eritema nudoso leproso",
+      "reacoesAdversas": "Pigmentación cutánea, prurito, náuseas, enteropatía cristalina",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral",
+      "doseMaxima": "300mg/día",
+      "doseMinima": "50mg/día",
+      "classificacao": "Antimicobacteriano (fenazina)",
+      "apresentacao": "Cápsulas 50mg, 100mg",
+      "interacaoMedicamento": "Riesgo de QT largo con antiarrítmicos, fluoroquinolonas",
+      "posologia": "50mg/día + 300mg mensual (esquema OMS)",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, hepatopatía severa",
+      "cuidadosMedicos": "ECG si riesgo cardíaco, vigilar piel y síntomas digestivos",
+      "cuidadosFarmaceuticos": "Educar sobre pigmentación y duración del tratamiento",
+      "cuidadosEnfermagem": "Observar tolerancia digestiva y pigmentación",
+      "fontesBibliograficas": "Micromedex, OMS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯法齐明",
+      "suspension": "无需术前停药",
+      "risk": "皮肤色素沉着、QT延长、胃肠不适，可能与麻醉药相互作用",
+      "reintroduction": "术后病情稳定即可继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯法齐明",
+      "nomeComercial": "Lamprene",
+      "mecanismoAcao": "与分枝杆菌DNA结合，抑制其复制和转录",
+      "farmacocinetica": "口服吸收好，半衰期约70天，经胆汁排泄",
+      "farmacodinamica": "对麻风杆菌有杀菌作用，具抗炎活性",
+      "indicacoes": "多菌型麻风、麻风反应（结节性红斑）",
+      "reacoesAdversas": "皮肤变色、瘙痒、腹痛、晶体性小肠病",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日300毫克",
+      "doseMinima": "每日50毫克",
+      "classificacao": "抗分枝杆菌药物（苯嗪类）",
+      "apresentacao": "胶囊50mg、100mg",
+      "interacaoMedicamento": "与延长QT药物（抗心律失常、氟喹诺酮）联用需谨慎",
+      "posologia": "每日50mg + 每月300mg（WHO推荐方案）",
+      "armazenamento": "常温避光保存",
+      "preparo": "无需配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重度肝功能不全、过敏",
+      "cuidadosMedicos": "观察QT、皮肤变化和胃肠症状",
+      "cuidadosFarmaceuticos": "说明色素沉着属常见现象，需长期坚持",
+      "cuidadosEnfermagem": "关注皮肤、胃肠耐受性及依从性",
+      "fontesBibliograficas": "中国药典、Micromedex、WHO、UpToDate"
+    }
+  }
+}

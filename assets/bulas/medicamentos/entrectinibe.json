@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Entrectinibe",
+      "suspension": "Suspender 5 dias antes de cirurgias eletivas com anestesia geral",
+      "risk": "Risco de toxicidade cardíaca, prolongamento de QT, tontura, interações com CYP3A4",
+      "reintroduction": "Reintroduzir após recuperação neurológica e estabilidade cardíaca"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Entrectinibe",
+      "nomeComercial": "Rozlytrek",
+      "mecanismoAcao": "Inibidor de TRK, ROS1 e ALK; bloqueia a sinalização oncogênica mediada por fusões gênicas",
+      "farmacocinetica": "Biodisponibilidade oral elevada, Tmáx ~6 h, meia-vida ~20 h, metabolização hepática via CYP3A4",
+      "farmacodinamica": "Inibe a proliferação celular tumoral e promove apoptose em células com fusão de NTRK, ROS1 ou ALK",
+      "indicacoes": "Tumores sólidos com fusão NTRK, câncer de pulmão não pequenas células ROS1+",
+      "reacoesAdversas": "Tontura, fadiga, constipação, ganho de peso, disgeusia, prolongamento de QT, neuropatia periférica",
+      "riscoGravidez": "Categoria D – risco fetal",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral, 1x/dia com alimentos",
+      "doseMaxima": "600 mg/dia (adultos)",
+      "doseMinima": "100 mg/m²/dia (pediátrico)",
+      "classificacao": "Inibidor seletivo de tirosina quinase TRK/ROS1/ALK",
+      "apresentacao": "Cápsulas de 100 mg e 200 mg",
+      "interacaoMedicamento": "Evitar com inibidores ou indutores potentes do CYP3A4, cuidado com fármacos que prolongam QT",
+      "posologia": "600 mg/dia em adultos; pediátrico baseado em m²",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, SNC, sinais de ICC",
+      "cuidadosFarmaceuticos": "Evitar sucos de frutas cítricas (CYP3A4), observar interações",
+      "cuidadosEnfermagem": "Observar tontura, alterações cognitivas, ganho de peso abrupto",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Entrectinib",
+      "suspension": "Discontinue 5 days before surgery with general anesthesia",
+      "risk": "QT prolongation, CNS effects, CYP3A4 drug interactions, cardiotoxicity",
+      "reintroduction": "Resume after cardiac and neurologic stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Entrectinib",
+      "nomeComercial": "Rozlytrek",
+      "mecanismoAcao": "Inhibits TRK, ROS1, and ALK kinases; targets gene fusion-driven tumors",
+      "farmacocinetica": "High oral bioavailability, Tmax ~6 h, t½ ~20 h, metabolized via CYP3A4",
+      "farmacodinamica": "Induces apoptosis and inhibits proliferation in NTRK/ROS1/ALK fusion-positive cancers",
+      "indicacoes": "NTRK fusion-positive solid tumors, ROS1-positive NSCLC",
+      "reacoesAdversas": "Fatigue, dizziness, weight gain, constipation, neuropathy, QT prolongation",
+      "riscoGravidez": "Category D – fetal harm",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral, once daily with food",
+      "doseMaxima": "600 mg/day (adults)",
+      "doseMinima": "100 mg/m²/day (pediatric)",
+      "classificacao": "Selective TRK/ROS1/ALK tyrosine kinase inhibitor",
+      "apresentacao": "Capsules: 100 mg, 200 mg",
+      "interacaoMedicamento": "Avoid strong CYP3A4 modulators and QT-prolonging drugs",
+      "posologia": "600 mg/day; pediatric based on BSA",
+      "armazenamento": "Store at 15–30°C, protect from light",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, hypersensitivity",
+      "cuidadosMedicos": "Monitor ECG, CNS function, weight, cardiac symptoms",
+      "cuidadosFarmaceuticos": "Educate on interaction risks and side effects",
+      "cuidadosEnfermagem": "Monitor dizziness, CNS signs, edema, QT",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Entrectinib",
+      "suspension": "Suspender 5 días antes de cirugía general",
+      "risk": "Prolongación de QT, toxicidad cardíaca, mareo, interacción con CYP3A4",
+      "reintroduction": "Reintroducir tras estabilización neurológica y cardíaca"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Entrectinib",
+      "nomeComercial": "Rozlytrek",
+      "mecanismoAcao": "Inhibidor de TRK, ROS1 y ALK; actúa en tumores con fusiones génicas",
+      "farmacocinetica": "Biodisponibilidad alta, Tmax ~6 h, T½ ~20 h, metabolismo hepático",
+      "farmacodinamica": "Induce apoptosis e inhibe proliferación tumoral con fusiones de NTRK/ROS1/ALK",
+      "indicacoes": "Tumores sólidos con fusión NTRK, CPNM con ROS1 positivo",
+      "reacoesAdversas": "Fatiga, mareo, neuropatía, aumento de peso, estreñimiento, QT largo",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral con alimentos",
+      "doseMaxima": "600 mg/día",
+      "doseMinima": "100 mg/m²/día",
+      "classificacao": "Inhibidor de tirosina quinasa TRK/ROS1/ALK",
+      "apresentacao": "Cápsulas: 100 mg y 200 mg",
+      "interacaoMedicamento": "Evitar CYP3A4 y fármacos que prolonguen QT",
+      "posologia": "600 mg/día, pediátrico según SC",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear ECG, SNC, peso, signos cardíacos",
+      "cuidadosFarmaceuticos": "Advertir sobre interacciones y signos de toxicidad",
+      "cuidadosEnfermagem": "Observar mareos, alteraciones neurológicas y cardiacas",
+      "fontesBibliograficas": "EMA, FDA, NCCN, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "恩曲替尼",
+      "suspension": "术前5天停用，尤其全麻时",
+      "risk": "QT延长、中枢神经症状、心毒性，与CYP3A4药物互作",
+      "reintroduction": "术后心电稳定后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "恩曲替尼",
+      "nomeComercial": "Rozlytrek",
+      "mecanismoAcao": "TRK、ROS1、ALK酪氨酸激酶抑制剂，阻断融合基因信号",
+      "farmacocinetica": "口服生物利用度高，Tmax约6小时，半衰期约20小时，CYP3A4代谢",
+      "farmacodinamica": "诱导肿瘤细胞凋亡，阻止突变融合基因引发的信号",
+      "indicacoes": "NTRK融合阳性实体瘤，ROS1阳性非小细胞肺癌",
+      "reacoesAdversas": "疲劳、头晕、体重增加、QT延长、便秘、周围神经病",
+      "riscoGravidez": "D类 – 存在胎儿风险",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服，随餐",
+      "doseMaxima": "成人每日600毫克",
+      "doseMinima": "儿童按体表面积100 mg/m²",
+      "classificacao": "TRK/ROS1/ALK靶向酪氨酸激酶抑制剂",
+      "apresentacao": "胶囊：100毫克、200毫克",
+      "interacaoMedicamento": "避免与CYP3A4强抑制剂、QT延长药合用",
+      "posologia": "成人600 mg/d，儿童依BSA调整",
+      "armazenamento": "15–30°C，避光",
+      "preparo": "无需特殊处理",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、对药物过敏",
+      "cuidadosMedicos": "监测QT、体重、中枢神经状态",
+      "cuidadosFarmaceuticos": "指导识别不良反应与相互作用",
+      "cuidadosEnfermagem": "观察神经系统、心脏表现",
+      "fontesBibliograficas": "FDA、NCCN、UpToDate、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Talazoparibe",
+      "suspension": "Suspender 5 dias antes de cirurgias com risco hematológico significativo ou em casos de toxicidade grau ≥3.",
+      "risk": "Risco de mielossupressão grave, sangramento, infecções oportunistas e retardo na cicatrização.",
+      "reintroduction": "Reintroduzir após normalização hematológica e estabilização clínica, com monitoramento de hemograma."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Talazoparibe",
+      "nomeComercial": "Talzenna",
+      "mecanismoAcao": "Inibidor potente da enzima poli(ADP-ribose) polimerase (PARP), envolvida na reparação de quebras de fita simples do DNA; promove morte celular por colapso da replicação em células com mutações em BRCA1/2.",
+      "farmacocinetica": "Absorção oral com Tmax em 1–2 h; biodisponibilidade alta; meia-vida ~90 h; metabolismo hepático mínimo; excreção principalmente fecal.",
+      "farmacodinamica": "Efeito citotóxico seletivo em células com deficiência na recombinação homóloga (ex. BRCA mutado); promove sinergismo com quimioterápicos.",
+      "indicacoes": "Tratamento de câncer de mama metastático HER2-negativo com mutação germinativa BRCA, em pacientes previamente tratados com quimioterapia.",
+      "reacoesAdversas": "Anemia, fadiga, náusea, neutropenia, trombocitopenia, cefaleia, vômitos.",
+      "riscoGravidez": "Categoria D; contraindicado (risco teratogênico).",
+      "riscoLactacao": "Contraindicado; risco de toxicidade hematológica no lactente.",
+      "administracao": "Oral, uma vez ao dia.",
+      "doseMaxima": "1 mg/dia.",
+      "doseMinima": "0,25 mg/dia (ajuste por toxicidade ou função renal).",
+      "classificacao": "Inibidor de PARP (antineoplásico oral).",
+      "apresentacao": "Cápsulas 0,25 mg e 1 mg.",
+      "interacaoMedicamento": "Substrato da P-gp e BCRP; evitar uso com inibidores fortes de P-gp; risco aumentado de toxicidade hematológica com quimioterápicos mielossupressores.",
+      "posologia": "1 mg VO 1x/dia; reduzir para 0,75–0,25 mg conforme toxicidade.",
+      "armazenamento": "Temperatura ambiente (15–30°C), em embalagem original.",
+      "preparo": "Uso direto, sem necessidade de manipulação especial.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Hipersensibilidade, gravidez, lactação.",
+      "cuidadosMedicos": "Monitorar hemograma completo, função renal, sinais de mielossupressão.",
+      "cuidadosFarmaceuticos": "Orientar adesão, sinais de anemia e neutropenia, risco na gravidez.",
+      "cuidadosEnfermagem": "Observar sinais de sangramento, cansaço extremo, febre persistente.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, ANVISA, bula Talzenna"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Talazoparib",
+      "suspension": "Suspend 5 days prior to surgeries with significant hematologic risk or in cases of grade ≥3 toxicity.",
+      "risk": "Risk of severe myelosuppression, bleeding, opportunistic infections, and delayed wound healing.",
+      "reintroduction": "Reintroduce after hematologic normalization and clinical stabilization, with complete blood count monitoring."
+    },
+    "bulario": {
+      "activeIngredientName": "Talazoparib",
+      "brandName": "Talzenna",
+      "mechanismOfAction": "Potent inhibitor of poly(ADP-ribose) polymerase (PARP), involved in single-strand DNA break repair; induces cell death by replication collapse in cells with BRCA1/2 mutations.",
+      "pharmacokinetics": "Oral absorption with Tmax 1–2 h; high bioavailability; half-life ~90 h; minimal hepatic metabolism; primarily fecal excretion.",
+      "pharmacodynamics": "Selective cytotoxic effect in cells with homologous recombination deficiency (e.g., BRCA mutated); synergistic with chemotherapeutics.",
+      "indications": "Treatment of HER2-negative metastatic breast cancer with germline BRCA mutation in patients previously treated with chemotherapy.",
+      "adverseReactions": "Anemia, fatigue, nausea, neutropenia, thrombocytopenia, headache, vomiting.",
+      "pregnancyRisk": "Category D; contraindicated (teratogenic risk).",
+      "lactationRisk": "Contraindicated; risk of hematologic toxicity in the infant.",
+      "administration": "Oral, once daily.",
+      "maximumDose": "1 mg/day.",
+      "minimumDose": "0.25 mg/day (adjust for toxicity or renal function).",
+      "classification": "PARP inhibitor (oral antineoplastic).",
+      "presentation": "Capsules 0.25 mg and 1 mg.",
+      "drugInteractions": "Substrate of P-gp and BCRP; avoid strong P-gp inhibitors; increased risk of hematologic toxicity with myelosuppressive chemotherapeutics.",
+      "posology": "1 mg PO once daily; reduce to 0.75–0.25 mg as per toxicity.",
+      "storage": "Room temperature (15–30°C), in original packaging.",
+      "preparation": "Direct use, no special handling required.",
+      "compatibleSolutions": "Not applicable.",
+      "contraindications": "Hypersensitivity, pregnancy, lactation.",
+      "medicalCare": "Monitor complete blood count, renal function, signs of myelosuppression.",
+      "pharmaceuticalCare": "Educate on adherence, signs of anemia and neutropenia, pregnancy risk.",
+      "nursingCare": "Observe for bleeding, extreme fatigue, persistent fever.",
+      "bibliographicSources": "FDA, Micromedex, UpToDate, Talzenna prescribing information"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Talazoparib",
+      "suspension": "Suspender 5 días antes de cirugías con riesgo hematológico significativo o en casos de toxicidad grado ≥3.",
+      "risk": "Riesgo de mielosupresión grave, hemorragia, infecciones oportunistas y retraso en la cicatrización.",
+      "reintroduction": "Reintroducir tras normalización hematológica y estabilización clínica, con monitoreo de hemograma."
+    },
+    "bulario": {
+      "nombrePrincipioActivo": "Talazoparib",
+      "nombreComercial": "Talzenna",
+      "mecanismoAccion": "Inhibidor potente de la enzima poli(ADP-ribosa) polimerasa (PARP), involucrada en la reparación de rupturas de cadena sencilla de ADN; promueve la muerte celular por colapso de replicación en células con mutaciones en BRCA1/2.",
+      "farmacocinetica": "Absorción oral con Tmax de 1–2 h; alta biodisponibilidad; vida media ~90 h; metabolismo hepático mínimo; excreción principalmente fecal.",
+      "farmacodinamia": "Efecto citotóxico selectivo en células con deficiencia en recombinación homóloga (ej. BRCA mutado); sinergismo con quimioterápicos.",
+      "indicaciones": "Tratamiento de cáncer de mama metastásico HER2-negativo con mutación germinal BRCA, en pacientes previamente tratados con quimioterapia.",
+      "reaccionesAdversas": "Anemia, fatiga, náuseas, neutropenia, trombocitopenia, cefalea, vómitos.",
+      "riesgoEmbarazo": "Categoría D; contraindicado (riesgo teratogénico).",
+      "riesgoLactancia": "Contraindicado; riesgo de toxicidad hematológica en el lactante.",
+      "administracion": "Oral, una vez al día.",
+      "dosisMaxima": "1 mg/día.",
+      "dosisMinima": "0,25 mg/día (ajuste por toxicidad o función renal).",
+      "clasificacion": "Inhibidor de PARP (antineoplásico oral).",
+      "presentacion": "Cápsulas de 0,25 mg y 1 mg.",
+      "interaccionMedicamentos": "Sustrato de P-gp y BCRP; evitar uso con inhibidores fuertes de P-gp; riesgo aumentado de toxicidad hematológica con quimioterápicos mielosupresores.",
+      "posologia": "1 mg VO 1x/día; reducir a 0,75–0,25 mg según toxicidad.",
+      "almacenamiento": "Temperatura ambiente (15–30°C), en envase original.",
+      "preparacion": "Uso directo, sin necesidad de manipulación especial.",
+      "solucionesCompatibles": "No aplica.",
+      "contraindicaciones": "Hipersensibilidad, embarazo, lactancia.",
+      "cuidadosMedicos": "Monitorear hemograma completo, función renal, signos de mielosupresión.",
+      "cuidadosFarmaceuticos": "Orientar sobre adherencia, signos de anemia y neutropenia, riesgo en embarazo.",
+      "cuidadosEnfermeria": "Observar signos de sangrado, fatiga extrema, fiebre persistente.",
+      "fuentesBibliograficas": "FDA, Micromedex, UpToDate, AEMPS, prospecto Talzenna"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "Talazoparib",
+      "suspension": "Vor Operationen mit signifikantem hämatologischem Risiko oder bei Toxizität Grad ≥3 mindestens 5 Tage vorher absetzen.",
+      "risk": "Risiko schwerer Myelosuppression, Blutungen, opportunistischer Infektionen und verzögerter Wundheilung.",
+      "reintroduction": "Wiedereinführung nach hämatologischer Normalisierung und klinischer Stabilisierung unter Kontrolle des Blutbilds."
+    },
+    "bulario": {
+      "wirkstoffname": "Talazoparib",
+      "handelsname": "Talzenna",
+      "wirkmechanismus": "Potenter Inhibitor der Poly(ADP-Ribose)-Polymerase (PARP), beteiligt an der Reparatur von Einzelstrangbrüchen der DNA; induziert Zelltod durch Replikationskollaps bei Zellen mit BRCA1/2-Mutationen.",
+      "pharmakokinetik": "Orale Absorption mit Tmax 1–2 h; hohe Bioverfügbarkeit; Halbwertszeit ~90 h; minimaler hepatischer Metabolismus; überwiegend fäkale Ausscheidung.",
+      "pharmakodynamik": "Selektive zytotoxische Wirkung bei Zellen mit Defekt in der homologen Rekombination (z.B. BRCA-mutiert); synergistisch mit Chemotherapeutika.",
+      "indikationen": "Behandlung von HER2-negativem metastasiertem Mammakarzinom mit Keimbahn-BRCA-Mutation bei zuvor mit Chemotherapie behandelten Patienten.",
+      "nebenwirkungen": "Anämie, Fatigue, Übelkeit, Neutropenie, Thrombozytopenie, Kopfschmerzen, Erbrechen.",
+      "schwangerschaftsrisiko": "Kategorie D; kontraindiziert (teratogenes Risiko).",
+      "stillzeitRisiko": "Kontraindiziert; Risiko hämatologischer Toxizität beim Säugling.",
+      "anwendung": "Oral, einmal täglich.",
+      "maximaldosis": "1 mg/Tag.",
+      "minimaldosis": "0,25 mg/Tag (Anpassung bei Toxizität oder Nierenfunktion).",
+      "klassifikation": "PARP-Inhibitor (orales Antineoplastikum).",
+      "darreichungsform": "Kapseln zu 0,25 mg und 1 mg.",
+      "wechselwirkungen": "Substrat von P-gp und BCRP; starke P-gp-Inhibitoren vermeiden; erhöhtes Risiko hämatologischer Toxizität mit myelosuppressiven Chemotherapeutika.",
+      "dosierung": "1 mg p.o. 1x/Tag; Reduktion auf 0,75–0,25 mg je nach Toxizität.",
+      "lagerung": "Raumtemperatur (15–30°C), in Originalverpackung.",
+      "zubereitung": "Direkte Anwendung, keine spezielle Handhabung erforderlich.",
+      "kompatibleLösungen": "Nicht anwendbar.",
+      "kontraindikationen": "Überempfindlichkeit, Schwangerschaft, Stillzeit.",
+      "ärztlicheÜberwachung": "Kontrolle des Blutbilds, Nierenfunktion, Anzeichen von Myelosuppression.",
+      "pharmazeutischeHinweise": "Aufklärung zu Adhärenz, Anzeichen von Anämie und Neutropenie, Risiko in der Schwangerschaft.",
+      "pflegehinweise": "Beobachtung auf Blutungen, extreme Müdigkeit, persistierendes Fieber.",
+      "quellen": "FDA, Micromedex, UpToDate, Swissmedic, Fachinformation Talzenna"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Famotidina",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Baixo risco; útil para reduzir acidez gástrica e prevenir broncoaspiração em anestesia geral",
+      "reintroduction": "Pode ser mantida no pós-operatório; especialmente indicada em pacientes com risco de úlcera de estresse"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Famotidina",
+      "nomeComercial": "Famox, Pepofor, Fluxid",
+      "mecanismoAcao": "Antagonista seletivo dos receptores H2 da histamina nas células parietais gástricas, inibindo a secreção ácida basal e estimulada",
+      "farmacocinetica": "Biodisponibilidade 40–45%, início de ação 1 hora, meia-vida ~2,5 a 3,5 horas, excreção renal predominante",
+      "farmacodinamica": "Reduz a concentração e o volume de ácido gástrico secretado, favorecendo cicatrização de lesões da mucosa e alívio da pirose",
+      "indicacoes": "Úlcera gástrica e duodenal, refluxo gastroesofágico, esofagite erosiva, profilaxia de úlcera por estresse e broncoaspiração",
+      "reacoesAdversas": "Cefaleia, tontura, constipação, diarreia, fadiga, raramente alterações hematológicas",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível; excreção mínima no leite",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "40 mg 2x/dia",
+      "doseMinima": "10 mg/dia",
+      "classificacao": "Antagonista H2 da histamina",
+      "apresentacao": "Comprimidos 20 mg e 40 mg; solução injetável 10 mg/mL",
+      "interacaoMedicamento": "Pode reduzir absorção de fármacos dependentes de pH gástrico (ex: cetoconazol, atazanavir)",
+      "posologia": "20–40 mg VO à noite ou 2x/dia; IV 20 mg a cada 12h",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Solução injetável pode ser administrada em bolus ou diluída em 100 mL de SF para infusão em 15 a 30 min",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade a famotidina ou outros antagonistas H2",
+      "cuidadosMedicos": "Ajustar dose em insuficiência renal; avaliar resposta terapêutica em uso crônico",
+      "cuidadosFarmaceuticos": "Evitar administração simultânea com fármacos cuja absorção dependa de pH ácido",
+      "cuidadosEnfermagem": "Observar efeitos adversos e eficácia no alívio dos sintomas gastrointestinais",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Famotidine",
+      "suspension": "Continue until the day of surgery",
+      "risk": "Low risk; reduces gastric acidity and helps prevent aspiration during anesthesia",
+      "reintroduction": "May be continued post-op, particularly in stress ulcer prophylaxis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Famotidine",
+      "nomeComercial": "Pepcid, Fluxid, Pepcid AC",
+      "mecanismoAcao": "Selective H2 receptor antagonist that inhibits basal and stimulated gastric acid secretion",
+      "farmacocinetica": "Bioavailability 40–45%, onset ~1 h, half-life ~2.5–3.5 h, primarily renal excretion",
+      "farmacodinamica": "Decreases volume and acidity of gastric secretions, promoting healing and symptom relief",
+      "indicacoes": "Peptic ulcers, GERD, erosive esophagitis, aspiration prophylaxis",
+      "reacoesAdversas": "Headache, dizziness, constipation, diarrhea, fatigue, rare hematologic changes",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Compatible; minimal excretion in milk",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "40 mg BID",
+      "doseMinima": "10 mg/day",
+      "classificacao": "H2 receptor antagonist",
+      "apresentacao": "Tablets 20 mg, 40 mg; injection 10 mg/mL",
+      "interacaoMedicamento": "May decrease absorption of drugs needing acidic pH (e.g. ketoconazole, atazanavir)",
+      "posologia": "20–40 mg PO once or twice daily; IV 20 mg q12h",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Injectable may be given as bolus or diluted in 100 mL NS over 15–30 min",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hypersensitivity to famotidine or H2 blockers",
+      "cuidadosMedicos": "Adjust dose in renal impairment; reassess if chronic use",
+      "cuidadosFarmaceuticos": "Avoid coadministration with drugs requiring acidic pH for absorption",
+      "cuidadosEnfermagem": "Monitor efficacy and GI side effects",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Famotidina",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Bajo riesgo; reduce acidez gástrica y previene aspiración durante anestesia",
+      "reintroduction": "Puede continuarse en el postoperatorio, útil en profilaxis de úlcera por estrés"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Famotidina",
+      "nomeComercial": "Famox, Pepcid, Fluxid",
+      "mecanismoAcao": "Antagonista H2 que inhibe secreción ácida gástrica basal y estimulada",
+      "farmacocinetica": "Biodisponibilidad 40–45%, inicio ~1 h, vida media ~2,5–3,5 h, excreción renal",
+      "farmacodinamica": "Reduce volumen y acidez gástrica, favorece cicatrización y mejora síntomas",
+      "indicacoes": "Úlcera péptica, ERGE, esofagitis erosiva, profilaxis por broncoaspiración",
+      "reacoesAdversas": "Cefalea, mareo, estreñimiento, diarrea, fatiga, cambios hematológicos raros",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "40 mg 2x/día",
+      "doseMinima": "10 mg/día",
+      "classificacao": "Antagonista H2 de histamina",
+      "apresentacao": "Tabletas 20 mg y 40 mg; inyectable 10 mg/mL",
+      "interacaoMedicamento": "Reduce absorción de fármacos pH-dependientes",
+      "posologia": "20–40 mg VO 1–2x/día; IV 20 mg cada 12h",
+      "armazenamento": "Ambiente, protegido de la luz",
+      "preparo": "Diluir en 100 mL de SF; infundir en 15–30 min",
+      "solucoesCompatíveis": "SF, SG 5%",
+      "contraindicacoes": "Hipersensibilidad a famotidina o bloqueadores H2",
+      "cuidadosMedicos": "Ajustar dosis si insuficiencia renal",
+      "cuidadosFarmaceuticos": "Evitar con fármacos que requieren pH ácido",
+      "cuidadosEnfermagem": "Observar síntomas GI y respuesta terapéutica",
+      "fontesBibliograficas": "AEMPS, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "法莫替丁",
+      "suspension": "术前可继续使用",
+      "risk": "风险低；有助于减少胃酸分泌，降低麻醉中误吸风险",
+      "reintroduction": "术后可继续用于防治应激性溃疡或胃酸过多"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "法莫替丁",
+      "nomeComercial": "Pepcid, 法莫欣",
+      "mecanismoAcao": "选择性H2受体拮抗剂，抑制胃酸分泌",
+      "farmacocinetica": "生物利用度40–45%，起效约1小时，半衰期2.5–3.5小时，肾排泄为主",
+      "farmacodinamica": "减少胃酸浓度与分泌体积，有助于溃疡愈合及缓解胃酸症状",
+      "indicacoes": "消化性溃疡、反流性食管炎、术前误吸预防、上消化道出血预防",
+      "reacoesAdversas": "头痛、便秘、腹泻、头晕、罕见血象异常",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "兼容，乳汁中分泌少",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日最多40毫克两次",
+      "doseMinima": "每日10毫克",
+      "classificacao": "H2受体拮抗剂",
+      "apresentacao": "片剂20mg、40mg；注射液10 mg/mL",
+      "interacaoMedicamento": "可减少需酸性环境药物的吸收",
+      "posologia": "口服每日1–2次，每次20–40mg；静注20mg每12小时",
+      "armazenamento": "避光，室温保存",
+      "preparo": "注射前稀释于100mL生理盐水，15–30分钟静滴",
+      "solucoesCompatíveis": "生理盐水、5%葡萄糖",
+      "contraindicacoes": "对法莫替丁或其他H2拮抗剂过敏",
+      "cuidadosMedicos": "肾功能不全者需减量",
+      "cuidadosFarmaceuticos": "避免与酸性依赖吸收药物同服",
+      "cuidadosEnfermagem": "监测疗效及胃肠道症状",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

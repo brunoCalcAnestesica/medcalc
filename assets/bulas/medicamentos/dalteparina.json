@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Dalteparina",
+      "suspension": "Suspender 12 horas antes de cirurgias eletivas de risco moderado e 24 horas antes de alto risco de sangramento",
+      "risk": "Risco de sangramento perioperatório; interação com antiagregantes e outros anticoagulantes",
+      "reintroduction": "Reintroduzir 12–24 horas após cirurgia, se hemostasia estiver garantida"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dalteparina sódica",
+      "nomeComercial": "Fragmin",
+      "mecanismoAcao": "Heparina de baixo peso molecular (HBPM) que inibe fator Xa e IIa (trombina) de forma preferencial",
+      "farmacocinetica": "Administração subcutânea; meia-vida ~3–5 h; excreção renal",
+      "farmacodinamica": "Anticoagulante eficaz na profilaxia e tratamento de tromboembolismo venoso",
+      "indicacoes": "Profilaxia e tratamento de TEV, tromboprofilaxia em câncer, angina instável e IAM",
+      "reacoesAdversas": "Sangramentos, trombocitopenia induzida por heparina (TIH), hematoma no local da aplicação",
+      "riscoGravidez": "Categoria B – geralmente seguro; preferido entre anticoagulantes",
+      "riscoLactacao": "Seguro",
+      "administracao": "Subcutânea",
+      "doseMaxima": "18.000 UI/dia (ajustada por peso)",
+      "doseMinima": "2.500 UI/dia (profilaxia)",
+      "classificacao": "Anticoagulante HBPM",
+      "apresentacao": "Solução injetável: seringas pré-cheias de 2.500, 5.000, 7.500, 10.000 e 12.500 UI",
+      "interacaoMedicamento": "Aumenta risco com AINEs, AAS, varfarina, trombolíticos",
+      "posologia": "Profilaxia: 2.500–5.000 UI SC 1x/dia; tratamento: 100 UI/kg SC 2x/dia",
+      "armazenamento": "Temperatura ambiente (15–30 °C)",
+      "preparo": "Pronto para uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Sangramento ativo, história de TIH, cirurgia recente de SNC ou ocular",
+      "cuidadosMedicos": "Monitorar plaquetas, sinais de sangramento, função renal",
+      "cuidadosFarmaceuticos": "Conferir dose por peso e integridade do produto",
+      "cuidadosEnfermagem": "Observar hematomas, sangramento e local da aplicação",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, ACCP Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Dalteparin",
+      "suspension": "Hold 12–24 h before surgery depending on bleeding risk",
+      "risk": "Perioperative bleeding risk; interacts with antiplatelets and anticoagulants",
+      "reintroduction": "Restart 12–24 h post-op if hemostasis is secured"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dalteparin sodium",
+      "nomeComercial": "Fragmin",
+      "mecanismoAcao": "Low molecular weight heparin (LMWH); inhibits factor Xa and thrombin (IIa)",
+      "farmacocinetica": "SC injection; half-life 3–5 h; renal clearance",
+      "farmacodinamica": "Anticoagulant used in VTE prevention and treatment",
+      "indicacoes": "VTE prophylaxis and treatment, cancer-associated thrombosis, unstable angina, MI",
+      "reacoesAdversas": "Bleeding, heparin-induced thrombocytopenia (HIT), injection site bruising",
+      "riscoGravidez": "Category B – generally safe",
+      "riscoLactacao": "Safe",
+      "administracao": "Subcutaneous",
+      "doseMaxima": "18,000 IU/day (weight-based)",
+      "doseMinima": "2,500 IU/day",
+      "classificacao": "Anticoagulant – LMWH",
+      "apresentacao": "Prefilled syringes: 2,500–12,500 IU",
+      "interacaoMedicamento": "Increased bleeding with NSAIDs, aspirin, warfarin, thrombolytics",
+      "posologia": "Prophylaxis: 2,500–5,000 IU SC daily; treatment: 100 IU/kg SC BID",
+      "armazenamento": "Room temp (15–30 °C)",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active bleeding, HIT history, recent CNS/eye surgery",
+      "cuidadosMedicos": "Monitor platelets, renal function, bleeding signs",
+      "cuidadosFarmaceuticos": "Verify dose and product integrity",
+      "cuidadosEnfermagem": "Watch for bleeding, bruising, injection reactions",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, ACCP Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Dalteparina",
+      "suspension": "Suspender 12–24 h antes de cirugía según riesgo de sangrado",
+      "risk": "Riesgo de sangrado perioperatorio; interacción con AINEs, anticoagulantes",
+      "reintroduction": "Reintroducir 12–24 h tras cirugía si hay hemostasia estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dalteparina sódica",
+      "nomeComercial": "Fragmin",
+      "mecanismoAcao": "Heparina de bajo peso molecular que inhibe factores Xa y IIa",
+      "farmacocinetica": "SC; vida media 3–5 h; eliminación renal",
+      "farmacodinamica": "Anticoagulante para profilaxis y tratamiento del TEV",
+      "indicacoes": "TEV, trombosis en cáncer, angina inestable, infarto",
+      "reacoesAdversas": "Sangrado, trombocitopenia inducida por heparina, hematomas",
+      "riscoGravidez": "Categoría B – segura",
+      "riscoLactacao": "Compatible",
+      "administracao": "Subcutánea",
+      "doseMaxima": "18.000 UI/día",
+      "doseMinima": "2.500 UI/día",
+      "classificacao": "Anticoagulante HBPM",
+      "apresentacao": "Jeringas precargadas de 2.500–12.500 UI",
+      "interacaoMedicamento": "Aumenta sangrado con AINEs, AAS, warfarina, trombolíticos",
+      "posologia": "Profilaxis: 2.500–5.000 UI/día; tratamiento: 100 UI/kg 2x/día",
+      "armazenamento": "Ambiente (15–30 °C)",
+      "preparo": "Lista para usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Sangrado activo, TIH, neurocirugía reciente",
+      "cuidadosMedicos": "Monitorear plaquetas, función renal, sangrado",
+      "cuidadosFarmaceuticos": "Confirmar dosis y conservación",
+      "cuidadosEnfermagem": "Observar sangrado y reacción en punto de inyección",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate, ACCP"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "达肝素",
+      "suspension": "术前12–24小时停药，根据出血风险决定",
+      "risk": "出血风险增加，与抗血小板药、NSAIDs有相互作用",
+      "reintroduction": "术后12–24小时在确保止血稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "达肝素钠",
+      "nomeComercial": "Fragmin",
+      "mecanismoAcao": "低分子肝素，抑制Xa和IIa因子，抗凝",
+      "farmacocinetica": "皮下注射，半衰期3–5小时，肾排泄",
+      "farmacodinamica": "用于预防与治疗静脉血栓、癌症相关血栓",
+      "indicacoes": "TEV预防/治疗、肿瘤性血栓、急性冠脉综合征",
+      "reacoesAdversas": "出血、血小板减少、注射部位瘀斑",
+      "riscoGravidez": "B类，通常安全",
+      "riscoLactacao": "安全",
+      "administracao": "皮下注射",
+      "doseMaxima": "每日18,000 IU（按体重）",
+      "doseMinima": "每日2,500 IU",
+      "classificacao": "抗凝剂，低分子肝素",
+      "apresentacao": "预充注射器：2,500–12,500 IU",
+      "interacaoMedicamento": "与NSAIDs、阿司匹林、华法林联用出血风险高",
+      "posologia": "预防：每日1次2,500–5,000 IU；治疗：每公斤100 IU，每日2次",
+      "armazenamento": "室温保存（15–30 °C）",
+      "preparo": "即用型",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性出血、肝素相关血小板减少症、近期神经外科手术",
+      "cuidadosMedicos": "监测血小板、肾功能、出血症状",
+      "cuidadosFarmaceuticos": "核对剂量、产品稳定性",
+      "cuidadosEnfermagem": "观察注射部位、出血和不良反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate、ACCP"
+    }
+  }
+}

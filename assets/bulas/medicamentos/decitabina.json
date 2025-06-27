@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Decitabina",
+      "suspension": "Suspender 2 a 4 semanas antes de cirurgias eletivas devido à mielossupressão significativa",
+      "risk": "Risco elevado de neutropenia, trombocitopenia e infecções graves; potencial atraso na cicatrização e risco hemorrágico",
+      "reintroduction": "Reintroduzir após recuperação hematológica completa e cicatrização satisfatória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Decitabina",
+      "nomeComercial": "Dacogen",
+      "mecanismoAcao": "Análogo da citidina que inibe a DNA-metiltransferase, promovendo hipometilação do DNA e reativação de genes supressores tumorais",
+      "farmacocinetica": "Administração IV; meia-vida ~0,5 h; rápida desaminação por CDA hepática",
+      "farmacodinamica": "Induz diferenciação e apoptose celular; ativo em síndromes mielodisplásicas e LMA",
+      "indicacoes": "Síndromes mielodisplásicas (SMD), leucemia mieloide aguda (LMA) em idosos não candidatos à quimioterapia intensiva",
+      "reacoesAdversas": "Neutropenia, anemia, trombocitopenia, febre, infecções, náuseas, mucosite",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intravenosa",
+      "doseMaxima": "20 mg/m²/dia por 5 dias (ciclo)",
+      "doseMinima": "15 mg/m²/dia por 3 dias (ajustes)",
+      "classificacao": "Agente hipometilante; antineoplásico",
+      "apresentacao": "Frasco-ampola liofilizado 50 mg",
+      "interacaoMedicamento": "Potencialização da toxicidade hematológica com outros citotóxicos ou radioterapia",
+      "posologia": "20 mg/m² IV por 5 dias consecutivos a cada 4 semanas",
+      "armazenamento": "Refrigerado 2–8°C; solução reconstituída válida por 3h (temperatura ambiente)",
+      "preparo": "Reconstituir com 10 mL de água estéril e diluir em 100 mL de SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade, mielossupressão severa não controlada",
+      "cuidadosMedicos": "Monitorar hemograma, sinais de infecção, função renal e hepática",
+      "cuidadosFarmaceuticos": "Preparação em ambiente com cabine de segurança biológica",
+      "cuidadosEnfermagem": "Uso exclusivo venoso; observar febre, sangramento e mucosite",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, NCCN Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Decitabine",
+      "suspension": "Hold 2–4 weeks before elective surgery due to severe myelosuppression",
+      "risk": "High risk of neutropenia, thrombocytopenia, infection, delayed healing and bleeding",
+      "reintroduction": "Resume after full hematologic recovery and proper wound healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Decitabine",
+      "nomeComercial": "Dacogen",
+      "mecanismoAcao": "Cytidine analog inhibiting DNA methyltransferase; induces DNA hypomethylation and gene reactivation",
+      "farmacocinetica": "IV administration; half-life ~0.5 h; hepatic deamination (CDA)",
+      "farmacodinamica": "Induces differentiation and apoptosis; used in MDS and AML",
+      "indicacoes": "Myelodysplastic syndromes (MDS), AML in elderly non-intensive candidates",
+      "reacoesAdversas": "Neutropenia, anemia, thrombocytopenia, fever, infections, mucositis",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Intravenous",
+      "doseMaxima": "20 mg/m²/day x 5 days per cycle",
+      "doseMinima": "15 mg/m²/day (adjusted)",
+      "classificacao": "Hypomethylating agent; antineoplastic",
+      "apresentacao": "Lyophilized vial 50 mg",
+      "interacaoMedicamento": "Enhances toxicity with cytotoxic agents or radiation",
+      "posologia": "20 mg/m² IV daily for 5 days every 4 weeks",
+      "armazenamento": "Refrigerated 2–8°C; reconstituted solution stable for 3h",
+      "preparo": "Reconstitute in 10 mL sterile water; dilute in 100 mL NS",
+      "solucoesCompatíveis": "Normal saline (NS)",
+      "contraindicacoes": "Pregnancy, breastfeeding, hypersensitivity, uncontrolled myelosuppression",
+      "cuidadosMedicos": "Monitor CBC, renal/liver function, infections",
+      "cuidadosFarmaceuticos": "Prepare under biological safety cabinet",
+      "cuidadosEnfermagem": "IV use only; monitor for fever, bleeding, mucositis",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, NCCN Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Decitabina",
+      "suspension": "Suspender 2–4 semanas antes de cirugía programada",
+      "risk": "Riesgo alto de pancitopenia, infección, sangrado y mala cicatrización",
+      "reintroduction": "Reiniciar tras recuperación hematológica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Decitabina",
+      "nomeComercial": "Dacogen",
+      "mecanismoAcao": "Análogo de citidina que inhibe DNA metiltransferasa y reactiva genes",
+      "farmacocinetica": "IV; t½ ~0.5 h; metabolización hepática (CDA)",
+      "farmacodinamica": "Promueve diferenciación/apoptosis celular; útil en SMD y LMA",
+      "indicacoes": "Síndromes mielodisplásicos, leucemia mieloide aguda en ancianos",
+      "reacoesAdversas": "Neutropenia, anemia, trombocitopenia, mucositis, fiebre",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intravenosa",
+      "doseMaxima": "20 mg/m²/día x 5 días",
+      "doseMinima": "15 mg/m²/día",
+      "classificacao": "Agente hipometilante antineoplásico",
+      "apresentacao": "Vial liofilizado 50 mg",
+      "interacaoMedicamento": "Mayor toxicidad con citotóxicos o radioterapia",
+      "posologia": "20 mg/m²/día por 5 días cada 4 semanas",
+      "armazenamento": "2–8 °C; solución reconstituida 3 h estable",
+      "preparo": "Diluir con agua estéril y luego en SF",
+      "solucoesCompatíveis": "ClNa 0,9%",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad, mielosupresión",
+      "cuidadosMedicos": "Monitorizar hemograma, renal, hepático",
+      "cuidadosFarmaceuticos": "Preparación en cabina de bioseguridad",
+      "cuidadosEnfermagem": "Monitorear fiebre, sangrado, mucositis",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "地西他滨",
+      "suspension": "术前2–4周停药，以避免骨髓抑制引发术后并发症",
+      "risk": "显著抑制血细胞，感染、出血与愈合延迟风险高",
+      "reintroduction": "待血象恢复且切口愈合良好后再评估重新开始"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "地西他滨",
+      "nomeComercial": "Dacogen",
+      "mecanismoAcao": "胞苷类似物，抑制DNA甲基转移酶，诱导去甲基化",
+      "farmacocinetica": "静脉注射，半衰期约0.5小时，经肝脱氨作用代谢",
+      "farmacodinamica": "诱导肿瘤细胞分化或凋亡，用于MDS和AML",
+      "indicacoes": "骨髓增生异常综合征、高龄AML患者",
+      "reacoesAdversas": "中性粒细胞减少、贫血、血小板减少、发热、口腔炎",
+      "riscoGravidez": "D类，禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "静脉输注",
+      "doseMaxima": "20 mg/m²/d ×5天/周期",
+      "doseMinima": "15 mg/m²/d",
+      "classificacao": "抗肿瘤去甲基化药物",
+      "apresentacao": "50 mg 冻干粉瓶装",
+      "interacaoMedicamento": "与其他细胞毒药/放疗联用增强毒性",
+      "posologia": "20 mg/m²每天5天，每4周重复",
+      "armazenamento": "2–8°C冷藏，溶液室温下3小时稳定",
+      "preparo": "先用10 mL灭菌水溶解，再用生理盐水稀释",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "妊娠、哺乳、严重骨髓抑制、过敏",
+      "cuidadosMedicos": "监测血常规、肝肾功能、感染迹象",
+      "cuidadosFarmaceuticos": "在生物安全柜中操作制备",
+      "cuidadosEnfermagem": "注意输注部位、体温变化、口腔症状",
+      "fontesBibliograficas": "FDA、UpToDate、Micromedex、NCCN指南"
+    }
+  }
+}

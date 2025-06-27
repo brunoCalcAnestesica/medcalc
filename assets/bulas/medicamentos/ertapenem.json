@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ertapeném",
+      "suspension": "Suspender 24h antes de procedimentos eletivos se possível",
+      "risk": "Interação com anestésicos em pacientes com insuficiência renal; risco de convulsões e resistência microbiana",
+      "reintroduction": "Reintroduzir 24–48h após cirurgia, conforme função renal e controle da infecção"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ertapeném sódico",
+      "nomeComercial": "Invanz",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana ligando-se às PBPs (proteínas ligadoras de penicilina)",
+      "farmacocinetica": "Administração IV ou IM; meia-vida ~4h; excreção renal; alta ligação proteica",
+      "farmacodinamica": "Bactericida com amplo espectro contra Gram-positivos, Gram-negativos e anaeróbios",
+      "indicacoes": "Infecções abdominais, pélvicas, urinárias, de pele e tecidos moles, pneumonia",
+      "reacoesAdversas": "Diarreia, náusea, cefaleia, rash, elevação de transaminases",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Desconhecido; usar com cautela",
+      "administracao": "Intravenosa ou intramuscular",
+      "doseMaxima": "1g/dia",
+      "doseMinima": "500mg/dia (ajustada em insuficiência renal)",
+      "classificacao": "Antibiótico carbapenêmico",
+      "apresentacao": "Frascos-ampola de 1g para reconstituição",
+      "interacaoMedicamento": "Probenecida (aumenta meia-vida), anticonvulsivantes",
+      "posologia": "1g EV 1x/dia por 3 a 14 dias, conforme infecção",
+      "armazenamento": "Pó liofilizado: temperatura ambiente; solução reconstituída: refrigerada por até 6h (IM) ou 24h (EV)",
+      "preparo": "Reconstituir com água estéril (IM) ou SF 0,9% (EV)",
+      "solucoesCompatíveis": "SF 0,9%, glicose 5%",
+      "contraindicacoes": "Hipersensibilidade a carbapenêmicos, uso cauteloso em convulsivantes",
+      "cuidadosMedicos": "Ajustar dose em insuficiência renal; observar sinais neurológicos",
+      "cuidadosFarmaceuticos": "Reconstituir conforme orientação; não utilizar solução turva",
+      "cuidadosEnfermagem": "Administrar em infusão lenta; observar sinais de reação alérgica",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, Sanford Guide"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ertapenem",
+      "suspension": "Discontinue 24h prior to elective surgeries when possible",
+      "risk": "Risk of seizures in renal impairment, interaction with anesthetics, microbial resistance",
+      "reintroduction": "Restart 24–48h after surgery based on renal function and infection status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ertapenem sodium",
+      "nomeComercial": "Invanz",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis via PBP binding",
+      "farmacocinetica": "IV or IM administration; half-life ~4h; renal excretion; highly protein bound",
+      "farmacodinamica": "Bactericidal with broad-spectrum activity against Gram-positive, Gram-negative, and anaerobic bacteria",
+      "indicacoes": "Intra-abdominal, pelvic, urinary, skin/soft tissue infections, pneumonia",
+      "reacoesAdversas": "Diarrhea, nausea, headache, rash, elevated liver enzymes",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "Intravenous or intramuscular",
+      "doseMaxima": "1g/day",
+      "doseMinima": "500mg/day (adjusted for renal impairment)",
+      "classificacao": "Carbapenem antibiotic",
+      "apresentacao": "1g vials for reconstitution",
+      "interacaoMedicamento": "Probenecid (prolongs half-life), anticonvulsants",
+      "posologia": "1g IV once daily for 3–14 days depending on infection",
+      "armazenamento": "Powder: room temp; reconstituted solution: refrigerate (IM: 6h, IV: 24h)",
+      "preparo": "Reconstitute with sterile water (IM) or NS 0.9% (IV)",
+      "solucoesCompatíveis": "NS 0.9%, D5W",
+      "contraindicacoes": "Hypersensitivity to carbapenems, caution in seizure disorders",
+      "cuidadosMedicos": "Adjust dose in renal impairment; monitor neurologic status",
+      "cuidadosFarmaceuticos": "Follow reconstitution guidelines; discard cloudy solutions",
+      "cuidadosEnfermagem": "Administer slowly; monitor for allergic reactions",
+      "fontesBibliograficas": "FDA, Micromedex, Sanford Guide"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ertapenem",
+      "suspension": "Suspender 24h antes de cirugías programadas si es posible",
+      "risk": "Riesgo de convulsiones en insuficiencia renal, interacción con anestésicos y resistencia bacteriana",
+      "reintroduction": "Reintroducir 24–48h después de la cirugía según función renal y control de la infección"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ertapenem sódico",
+      "nomeComercial": "Invanz",
+      "mecanismoAcao": "Inhibe la síntesis de la pared celular bacteriana al unirse a las PBPs",
+      "farmacocinetica": "Administración IV o IM; semivida ~4h; excreción renal; alta unión a proteínas",
+      "farmacodinamica": "Bactericida de amplio espectro contra Gram positivos, negativos y anaerobios",
+      "indicacoes": "Infecciones abdominales, urinarias, pélvicas, piel, tejidos blandos, neumonía",
+      "reacoesAdversas": "Diarrea, náuseas, cefalea, rash, elevación de enzimas hepáticas",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Vía intravenosa o intramuscular",
+      "doseMaxima": "1g/día",
+      "doseMinima": "500mg/día (ajustada por función renal)",
+      "classificacao": "Antibiótico carbapenémico",
+      "apresentacao": "Viales de 1g para reconstitución",
+      "interacaoMedicamento": "Probenecid, anticonvulsivantes",
+      "posologia": "1g IV 1 vez/día por 3 a 14 días según infección",
+      "armazenamento": "Polvo: temperatura ambiente; solución: refrigerar (IM: 6h, IV: 24h)",
+      "preparo": "Reconstituir con agua estéril (IM) o SSF 0,9% (IV)",
+      "solucoesCompatíveis": "SSF 0,9%, glucosa 5%",
+      "contraindicacoes": "Hipersensibilidad a carbapenémicos, epilepsia",
+      "cuidadosMedicos": "Ajustar dosis en IR; observar signos neurológicos",
+      "cuidadosFarmaceuticos": "No usar si hay turbidez; seguir guía de dilución",
+      "cuidadosEnfermagem": "Infundir lentamente; vigilar reacciones alérgicas",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "厄他培南",
+      "suspension": "择期手术前24小时停药",
+      "risk": "肾功能不全者有癫痫风险，与麻醉药物可能相互作用，可能引发细菌耐药",
+      "reintroduction": "术后24–48小时根据感染控制和肾功能恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "厄他培南钠",
+      "nomeComercial": "Invanz",
+      "mecanismoAcao": "通过与青霉素结合蛋白结合抑制细菌细胞壁合成",
+      "farmacocinetica": "静脉或肌肉注射，半衰期约4小时，经肾排泄，高蛋白结合率",
+      "farmacodinamica": "广谱杀菌剂，对革兰阳性、阴性及厌氧菌均有效",
+      "indicacoes": "腹腔、泌尿、生殖、皮肤软组织感染及肺炎",
+      "reacoesAdversas": "腹泻、恶心、头痛、皮疹、肝酶升高",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期慎用，安全性未知",
+      "administracao": "静脉或肌肉注射",
+      "doseMaxima": "每日1克",
+      "doseMinima": "每日500毫克（肾功能不全调整）",
+      "classificacao": "碳青霉烯类抗生素",
+      "apresentacao": "1克粉针剂瓶装",
+      "interacaoMedicamento": "丙磺舒、抗癫药",
+      "posologia": "每日1克，疗程3–14天依感染而定",
+      "armazenamento": "粉末常温保存，配液后冷藏（IM:6小时，IV:24小时）",
+      "preparo": "用灭菌水（IM）或生理盐水（IV）溶解",
+      "solucoesCompatíveis": "生理盐水、5%葡萄糖注射液",
+      "contraindicacoes": "对碳青霉烯过敏、有癫痫史",
+      "cuidadosMedicos": "肾功能不全需调整剂量；警惕神经系统症状",
+      "cuidadosFarmaceuticos": "严格按规范配液，勿用混浊液体",
+      "cuidadosEnfermagem": "缓慢静脉滴注，注意过敏反应",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

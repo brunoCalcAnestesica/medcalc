@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Naltrexona",
+      "suspension": "Suspender 3 dias antes da cirurgia eletiva (oral) ou 30 dias (injeção de liberação prolongada)",
+      "risk": "Reduz eficácia de opioides utilizados em anestesia; risco de dor refratária e crise de abstinência em pacientes dependentes",
+      "reintroduction": "Reintroduzir após estabilidade analgésica e ausência de opioides por pelo menos 7 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Naltrexona",
+      "nomeComercial": "Revia, Vivitrol, Naltrex, Contrave (em associação com bupropiona)",
+      "mecanismoAcao": "Antagonista competitivo dos receptores opioides µ, κ e δ, bloqueando seus efeitos e reduzindo reforço positivo",
+      "farmacocinetica": "Boa absorção oral (~96%), metabolismo hepático, meia-vida plasmática de 4h (oral), efeito prolongado em formulações IM (~1 mês)",
+      "farmacodinamica": "Reduz desejo e efeito prazeroso dos opioides e do álcool; sem atividade agonista ou potencial de abuso",
+      "indicacoes": "Tratamento da dependência de álcool e opioides; compulsão alimentar (off-label com bupropiona)",
+      "reacoesAdversas": "Náusea, cefaleia, fadiga, insônia, hepatotoxicidade (doses elevadas), dor no local da aplicação (IM)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite materno em pequenas quantidades; usar com cautela",
+      "administracao": "Via oral ou intramuscular (liberação prolongada)",
+      "doseMaxima": "50mg/dia (oral); 380mg/mês (IM)",
+      "doseMinima": "25mg/dia (teste de tolerância oral)",
+      "classificacao": "Antagonista opioide puro",
+      "apresentacao": "Comprimidos de 50mg; suspensão injetável de liberação prolongada 380mg",
+      "interacaoMedicamento": "Interage com opioides, buprenorfina, metadona e medicamentos hepatotóxicos",
+      "posologia": "Oral: 25mg/dia (1º dia), seguido de 50mg/dia; IM: 380mg/mês em glúteo",
+      "armazenamento": "Oral: temperatura ambiente; IM: refrigerado (2–8°C)",
+      "preparo": "Injeção deve ser preparada conforme instrução do fabricante e aplicada por profissional treinado",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência hepática grave, uso atual de opioides, síndrome de abstinência aguda, hipersensibilidade",
+      "cuidadosMedicos": "Avaliar função hepática, rastrear opioides no organismo antes da introdução, observar sintomas de abstinência",
+      "cuidadosFarmaceuticos": "Orientar sobre riscos da combinação com opioides; manter monitoramento hepático",
+      "cuidadosEnfermagem": "Observar sinais de abstinência, dor local (IM), alterações de humor e hepáticas",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, NICE, SAMHSA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Naltrexone",
+      "suspension": "Discontinue 3 days before surgery (oral) or 30 days (extended-release injection)",
+      "risk": "Reduces efficacy of opioids used in anesthesia; risk of withdrawal and opioid resistance",
+      "reintroduction": "Restart 7 days after surgery, only after opioid clearance and pain stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Naltrexone Hydrochloride",
+      "nomeComercial": "Revia, Vivitrol, Contrave (with bupropion)",
+      "mecanismoAcao": "Pure opioid receptor antagonist (µ, κ, δ); blocks euphoric and sedative effects",
+      "farmacocinetica": "Oral bioavailability ~5–40%, hepatic metabolism, half-life ~4h (oral), sustained IM ~30 days",
+      "farmacodinamica": "Reduces craving and reward of opioids and alcohol; no agonist activity or abuse potential",
+      "indicacoes": "Opioid and alcohol dependence; obesity (in combination with bupropion)",
+      "reacoesAdversas": "Nausea, headache, insomnia, fatigue, injection site reactions (IM), liver enzyme elevation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; use with caution",
+      "administracao": "Oral or intramuscular (extended-release)",
+      "doseMaxima": "50mg/day (oral); 380mg/month (IM)",
+      "doseMinima": "25mg/day (test dose)",
+      "classificacao": "Opioid receptor antagonist",
+      "apresentacao": "Tablets 50mg; extended-release injection 380mg",
+      "interacaoMedicamento": "Interacts with opioids, buprenorphine, methadone, hepatotoxic drugs",
+      "posologia": "Oral: start 25mg, then 50mg/day; IM: 380mg monthly in gluteal muscle",
+      "armazenamento": "Oral: room temperature; IM: refrigerated (2–8°C)",
+      "preparo": "IM injection must be prepared according to protocol and administered by trained professional",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Acute opioid use, liver failure, hypersensitivity, opioid withdrawal",
+      "cuidadosMedicos": "Check liver function and opioid-free status prior to use; monitor for withdrawal",
+      "cuidadosFarmaceuticos": "Educate on avoiding opioids; monitor hepatic safety",
+      "cuidadosEnfermagem": "Observe for local pain (IM), mood shifts, and withdrawal symptoms",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, SAMHSA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Naltrexona",
+      "suspension": "Suspender 3 días antes de cirugía (oral) o 30 días (inyección de liberación prolongada)",
+      "risk": "Bloquea opioides utilizados en anestesia; riesgo de abstinencia y analgesia insuficiente",
+      "reintroduction": "Reintroducir tras 7 días de cirugía, sin opioides en sangre y con control del dolor"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Naltrexona",
+      "nomeComercial": "Revia, Vivitrol, Contrave (con bupropiona)",
+      "mecanismoAcao": "Antagonista competitivo de receptores opioides µ, κ y δ",
+      "farmacocinetica": "Buena absorción oral (~40%), metabolismo hepático, vida media ~4h (oral); 1 mes (IM)",
+      "farmacodinamica": "Bloquea efectos placenteros de opioides y alcohol; sin efectos agonistas ni dependencia",
+      "indicacoes": "Tratamiento del alcoholismo y adicción a opioides; obesidad (combinado con bupropiona)",
+      "reacoesAdversas": "Náuseas, cefalea, insomnio, fatiga, aumento de enzimas hepáticas, dolor en zona de inyección (IM)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche materna; usar con precaución",
+      "administracao": "Vía oral o intramuscular (liberación prolongada)",
+      "doseMaxima": "50mg/día (oral); 380mg/mes (IM)",
+      "doseMinima": "25mg/día (dosis de prueba)",
+      "classificacao": "Antagonista de receptores opioides",
+      "apresentacao": "Comprimidos de 50mg; inyección IM de liberación prolongada 380mg",
+      "interacaoMedicamento": "Opioides, metadona, buprenorfina, fármacos hepatotóxicos",
+      "posologia": "Oral: 25mg día 1, luego 50mg/día; IM: 380mg cada mes (glúteo)",
+      "armazenamento": "Oral: temperatura ambiente; IM: refrigerado (2–8°C)",
+      "preparo": "Administración IM solo por profesionales; seguir protocolo de reconstitución",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatitis aguda, dependencia activa de opioides, abstinencia en curso",
+      "cuidadosMedicos": "Evaluar función hepática y abstinencia antes de uso; vigilar efectos adversos",
+      "cuidadosFarmaceuticos": "Educar sobre evitar opioides y monitoreo hepático",
+      "cuidadosEnfermagem": "Observar síntomas de abstinencia, dolor en zona IM y alteraciones del ánimo",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE, SAMHSA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "纳曲酮",
+      "suspension": "术前口服剂需停药3天，长效注射剂停药30天",
+      "risk": "拮抗麻醉用阿片类药物作用，可能引发戒断反应和术中镇痛失败",
+      "reintroduction": "术后7天内无阿片类药物残留时可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸纳曲酮",
+      "nomeComercial": "Revia, Vivitrol, Contrave（与安非他酮联用）",
+      "mecanismoAcao": "选择性阿片受体（µ、κ、δ）拮抗剂，无激动作用",
+      "farmacocinetica": "口服生物利用度中等，肝代谢，半衰期4小时；IM注射效应持续约30天",
+      "farmacodinamica": "减少阿片和酒精的快感和渴求，无成瘾性；适用于成瘾控制和复发预防",
+      "indicacoes": "阿片类成瘾、酗酒者的长期维持治疗；与安非他酮合用用于肥胖管理",
+      "reacoesAdversas": "恶心、乏力、头痛、失眠、肝功能异常、注射部位不适（IM）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌至乳汁中，慎用",
+      "administracao": "口服或肌注（缓释）",
+      "doseMaxima": "口服每日50mg；肌注每月380mg",
+      "doseMinima": "25mg/日（口服试验剂量）",
+      "classificacao": "阿片受体拮抗剂",
+      "apresentacao": "片剂50mg；缓释注射剂380mg",
+      "interacaoMedicamento": "阿片类药物、甲哌啶、美沙酮、肝毒性药物",
+      "posologia": "口服：第1天25mg，后50mg/日；IM：每月一次380mg肌注于臀部",
+      "armazenamento": "口服常温；IM剂型冷藏（2–8°C）",
+      "preparo": "注射需遵循厂商说明并由专业人员操作",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肝功能损害、正在使用阿片类药、正在经历戒断反应",
+      "cuidadosMedicos": "评估阿片清除与肝功能，监测戒断风险",
+      "cuidadosFarmaceuticos": "避免联合阿片药物，监控肝功能指标",
+      "cuidadosEnfermagem": "关注情绪状态、局部反应和戒断体征",
+      "fontesBibliograficas": "NMPA, FDA, WHO, SAMHSA, Micromedex"
+    }
+  }
+}

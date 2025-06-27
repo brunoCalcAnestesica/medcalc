@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sucralfato",
+      "suspension": "Manter até o dia da cirurgia; suspender apenas em jejum prolongado ou risco de broncoaspiração",
+      "risk": "Risco de broncoaspiração se administrado próximo à indução anestésica; pode interferir na absorção de outros fármacos",
+      "reintroduction": "Reintroduzir após reestabelecimento da via oral, com intervalo adequado de outros medicamentos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sucralfato",
+      "nomeComercial": "Sucrafilm, Ulsanic, Ulcerin",
+      "mecanismoAcao": "Forma complexo com proteínas e mucopolissacarídeos da úlcera, criando barreira protetora contra ácido e pepsina",
+      "farmacocinetica": "Absorção sistêmica mínima (<5%); ação tópica; excreção fecal",
+      "farmacodinamica": "Citoprotetor gástrico, protege mucosa contra agressões químicas e físicas",
+      "indicacoes": "Úlcera gástrica e duodenal, esofagite de refluxo, prevenção de lesões gástricas induzidas por AINEs ou estresse",
+      "reacoesAdversas": "Constipação, boca seca, náusea, desconforto gástrico",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Oral ou por sonda enteral",
+      "doseMaxima": "4g/dia",
+      "doseMinima": "1g/dia",
+      "classificacao": "Antiulceroso local, protetor de mucosa gástrica",
+      "apresentacao": "Comprimidos de 1g, suspensão oral 1g/5ml",
+      "interacaoMedicamento": "Reduz absorção de fluoroquinolonas, tetraciclinas, digoxina, fenitoína e levotiroxina",
+      "posologia": "1g, 4 vezes ao dia (antes das refeições e ao deitar); ou 2g 2 vezes ao dia",
+      "armazenamento": "Conservar entre 15–30°C, frascos bem fechados",
+      "preparo": "Agitar frasco de suspensão antes do uso; comprimido pode ser mastigado ou dissolvido",
+      "solucoesCompatíveis": "Água potável para suspensão",
+      "contraindicacoes": "Obstrução intestinal, hipersensibilidade",
+      "cuidadosMedicos": "Administrar com 2h de intervalo de outros medicamentos",
+      "cuidadosFarmaceuticos": "Orientar sobre tempo e frequência de administração; reforçar uso em jejum",
+      "cuidadosEnfermagem": "Observar melhora dos sintomas e adesão ao jejum relativo",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sucralfate",
+      "suspension": "Continue until the day of surgery; hold if prolonged fasting or aspiration risk",
+      "risk": "May increase risk of aspiration during anesthesia; interferes with drug absorption",
+      "reintroduction": "Restart once oral intake resumes; administer separately from other medications"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sucralfate",
+      "nomeComercial": "Carafate",
+      "mecanismoAcao": "Binds to ulcer base forming a protective barrier against acid, pepsin, and bile salts",
+      "farmacocinetica": "Minimal systemic absorption (<5%); acts locally; excreted in feces",
+      "farmacodinamica": "Mucosal protectant, enhances healing by physical barrier",
+      "indicacoes": "Gastric and duodenal ulcers, GERD, NSAID-induced gastritis, stress ulcer prophylaxis",
+      "reacoesAdversas": "Constipation, dry mouth, nausea, gastric discomfort",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Considered safe during breastfeeding",
+      "administracao": "Oral or via feeding tube",
+      "doseMaxima": "4g/day",
+      "doseMinima": "1g/day",
+      "classificacao": "Local antiulcer agent, mucosal protectant",
+      "apresentacao": "1g tablets, 1g/5ml suspension",
+      "interacaoMedicamento": "Decreases absorption of fluoroquinolones, tetracyclines, digoxin, phenytoin, levothyroxine",
+      "posologia": "1g QID (before meals and at bedtime); or 2g BID",
+      "armazenamento": "Store at 15–30°C, keep bottle tightly closed",
+      "preparo": "Shake suspension well; tablets can be crushed or dissolved",
+      "solucoesCompatíveis": "Water for dilution if needed",
+      "contraindicacoes": "GI obstruction, known hypersensitivity",
+      "cuidadosMedicos": "Administer 2h apart from other drugs",
+      "cuidadosFarmaceuticos": "Reinforce administration timing and fasting condition",
+      "cuidadosEnfermagem": "Monitor for symptom relief and bowel function",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sucralfato",
+      "suspension": "Mantener hasta el día de la cirugía; suspender si hay ayuno prolongado o riesgo de aspiración",
+      "risk": "Riesgo de aspiración si se administra cerca de la anestesia; interfiere con absorción de medicamentos",
+      "reintroduction": "Reintroducir tras reinicio de la vía oral; administrar separado de otros fármacos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sucralfato",
+      "nomeComercial": "Ulsanic, Sucralmax",
+      "mecanismoAcao": "Forma una barrera protectora en la mucosa gástrica adherida a las lesiones",
+      "farmacocinetica": "Absorción sistémica mínima; acción tópica local; excreción fecal",
+      "farmacodinamica": "Protector gástrico físico; facilita la curación de úlceras",
+      "indicacoes": "Úlcera gástrica y duodenal, reflujo, gastritis inducida por AINEs",
+      "reacoesAdversas": "Estreñimiento, boca seca, náuseas, molestias gástricas",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "Vía oral o sonda",
+      "doseMaxima": "4g/día",
+      "doseMinima": "1g/día",
+      "classificacao": "Antiulceroso local",
+      "apresentacao": "Tabletas 1g, suspensión 1g/5ml",
+      "interacaoMedicamento": "Interfiere con absorción de digoxina, levotiroxina, antibióticos",
+      "posologia": "1g 4 veces al día (antes de comidas y al acostarse)",
+      "armazenamento": "Temperatura ambiente; agitar antes de usar",
+      "preparo": "Suspensión lista para uso; tabletas se pueden disolver",
+      "solucoesCompatíveis": "Agua",
+      "contraindicacoes": "Obstrucción intestinal, alergia al fármaco",
+      "cuidadosMedicos": "Separar su administración de otros fármacos",
+      "cuidadosFarmaceuticos": "Educar sobre uso en ayunas y agitación de la suspensión",
+      "cuidadosEnfermagem": "Evaluar alivio sintomático y adherencia",
+      "fontesBibliograficas": "Micromedex, EMA, literatura médica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "蔗糖铝",
+      "suspension": "手术当天可继续使用；如需长时间禁食或有误吸风险则暂停使用",
+      "risk": "诱导期误吸风险增加；干扰其他药物吸收",
+      "reintroduction": "术后恢复经口进食后可重新使用，需与其他药物间隔给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "蔗糖铝（Sucralfate）",
+      "nomeComercial": "Carafate（卡拉福特）",
+      "mecanismoAcao": "与胃黏膜病灶结合，形成保护膜，阻挡酸和消化酶侵蚀",
+      "farmacocinetica": "几乎不被吸收；主要局部作用；经粪便排出",
+      "farmacodinamica": "胃黏膜保护剂，促进溃疡愈合",
+      "indicacoes": "胃溃疡、十二指肠溃疡、胃食管反流、应激性胃病预防",
+      "reacoesAdversas": "便秘、口干、恶心、胃胀",
+      "riscoGravidez": "B类 – 可短期使用",
+      "riscoLactacao": "哺乳期安全",
+      "administracao": "口服或鼻胃管注入",
+      "doseMaxima": "每日4克",
+      "doseMinima": "每日1克",
+      "classificacao": "局部抗溃疡药，胃黏膜保护剂",
+      "apresentacao": "片剂（1g），口服悬液（1g/5ml）",
+      "interacaoMedicamento": "影响甲状腺素、地高辛、抗生素等药物吸收",
+      "posologia": "每次1克，每日4次，餐前及睡前服用",
+      "armazenamento": "室温保存，避免光照",
+      "preparo": "使用前摇匀，片剂可碾碎服用",
+      "solucoesCompatíveis": "清水",
+      "contraindicacoes": "肠道梗阻、对蔗糖铝过敏",
+      "cuidadosMedicos": "与其他药物服用间隔2小时",
+      "cuidadosFarmaceuticos": "指导患者空腹使用，正确摇匀悬液",
+      "cuidadosEnfermagem": "观察缓解情况及胃肠反应",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、UpToDate"
+    }
+  }
+}

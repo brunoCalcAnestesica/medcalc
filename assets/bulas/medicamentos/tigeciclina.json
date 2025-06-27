@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tigeciclina",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Sem risco hemodinâmico significativo; importante manter em infecções graves",
+      "reintroduction": "Reintroduzir ou manter conforme controle infeccioso e avaliação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tigeciclina",
+      "nomeComercial": "Tygacil",
+      "mecanismoAcao": "Liga-se à subunidade 30S ribossomal, inibindo a síntese proteica bacteriana",
+      "farmacocinetica": "Administração IV, meia-vida ~42h, eliminação biliar e renal",
+      "farmacodinamica": "Bacteriostático contra Gram-positivos, Gram-negativos e anaeróbios, incluindo multirresistentes",
+      "indicacoes": "Infecções complicadas de pele, partes moles, intra-abdominais e pneumonia hospitalar (exceto Pseudomonas)",
+      "reacoesAdversas": "Náuseas, vômitos, diarreia, hepatotoxicidade, hipocoagulação",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Evitar; dados limitados sobre excreção no leite",
+      "administracao": "Intravenosa",
+      "doseMaxima": "100 mg de ataque + 50 mg a cada 12h",
+      "doseMinima": "50 mg a cada 12h",
+      "classificacao": "Glicilciclina (derivado da tetraciclina)",
+      "apresentacao": "Frasco-ampola com 50 mg (pó liofilizado)",
+      "interacaoMedicamento": "Pode potencializar anticoagulantes; reduzir eficácia de contraceptivos orais",
+      "posologia": "Dose de ataque 100 mg IV seguida de 50 mg IV a cada 12h",
+      "armazenamento": "Pó: temperatura ambiente. Solução reconstituída: refrigerada por até 24h",
+      "preparo": "Reconstituir com SF 0,9% ou SG 5%; infusão em 30–60 min",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade a tigeciclina ou tetraciclinas",
+      "cuidadosMedicos": "Monitorar função hepática e sinais de superinfecção",
+      "cuidadosFarmaceuticos": "Usar solução reconstituída imediatamente ou refrigerar",
+      "cuidadosEnfermagem": "Observar sinais gastrointestinais e hepáticos",
+      "fontesBibliograficas": "ANVISA, FDA, BNF, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tigecycline",
+      "suspension": "Continue until the day of surgery",
+      "risk": "No significant hemodynamic risk; essential in severe infections",
+      "reintroduction": "Maintain or restart based on infectious disease and clinical evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tigecycline",
+      "nomeComercial": "Tygacil",
+      "mecanismoAcao": "Binds to the 30S ribosomal subunit, inhibiting bacterial protein synthesis",
+      "farmacocinetica": "IV, half-life ~42h, biliary and renal elimination",
+      "farmacodinamica": "Bacteriostatic against Gram-positive, Gram-negative, and anaerobes including MDR organisms",
+      "indicacoes": "Complicated skin, intra-abdominal infections and hospital-acquired pneumonia (excluding Pseudomonas)",
+      "reacoesAdversas": "Nausea, vomiting, diarrhea, hepatotoxicity, coagulopathy",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Avoid; limited data on milk excretion",
+      "administracao": "Intravenous",
+      "doseMaxima": "100 mg loading + 50 mg q12h",
+      "doseMinima": "50 mg q12h",
+      "classificacao": "Glycylcycline (tetracycline derivative)",
+      "apresentacao": "50 mg vials (lyophilized powder)",
+      "interacaoMedicamento": "May potentiate anticoagulants; reduce oral contraceptive efficacy",
+      "posologia": "Loading dose 100 mg IV then 50 mg IV q12h",
+      "armazenamento": "Powder at room temp; reconstituted solution refrigerated for up to 24h",
+      "preparo": "Reconstitute with NS or D5W; infuse over 30–60 min",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hypersensitivity to tigecycline or tetracyclines",
+      "cuidadosMedicos": "Monitor liver function and superinfection signs",
+      "cuidadosFarmaceuticos": "Use reconstituted solution immediately or refrigerate",
+      "cuidadosEnfermagem": "Watch for GI and hepatic adverse effects",
+      "fontesBibliograficas": "FDA, BNF, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tigeciclina",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Sin riesgo hemodinámico significativo; mantener en infecciones graves",
+      "reintroduction": "Reintroducir según evolución clínica y control infeccioso"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tigeciclina",
+      "nomeComercial": "Tygacil",
+      "mecanismoAcao": "Se une a la subunidad ribosomal 30S e inhibe la síntesis proteica bacteriana",
+      "farmacocinetica": "IV, vida media ~42h, eliminación biliar y renal",
+      "farmacodinamica": "Bacteriostático frente a Gram positivos, Gram negativos y anaerobios incluyendo multirresistentes",
+      "indicacoes": "Infecciones complicadas de piel, tejidos blandos, intraabdominales y neumonía nosocomial (excepto Pseudomonas)",
+      "reacoesAdversas": "Náuseas, vómitos, diarrea, hepatotoxicidad, hipocoagulabilidad",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Evitar; datos limitados",
+      "administracao": "Intravenosa",
+      "doseMaxima": "100 mg inicial + 50 mg cada 12h",
+      "doseMinima": "50 mg cada 12h",
+      "classificacao": "Glicilciclina (derivado de tetraciclina)",
+      "apresentacao": "Vial con 50 mg en polvo liofilizado",
+      "interacaoMedicamento": "Potencia anticoagulantes, reduce eficacia anticonceptiva oral",
+      "posologia": "100 mg inicial IV, luego 50 mg IV cada 12h",
+      "armazenamento": "Polvo a temperatura ambiente. Solución: refrigerar hasta 24h",
+      "preparo": "Diluir en SF 0,9% o SG 5%, infundir en 30–60 min",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a tigeciclina o tetraciclinas",
+      "cuidadosMedicos": "Control de función hepática y signos de sobreinfección",
+      "cuidadosFarmaceuticos": "Usar solución recién preparada o conservar refrigerada",
+      "cuidadosEnfermagem": "Observar efectos GI y hepáticos",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "替加环素",
+      "suspension": "术前可继续使用",
+      "risk": "无显著血流动力学风险；用于严重感染非常重要",
+      "reintroduction": "术后根据感染控制和临床评估继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "替加环素",
+      "nomeComercial": "泰嘉",
+      "mecanismoAcao": "结合细菌30S核糖体亚基，抑制蛋白合成",
+      "farmacocinetica": "静脉注射，半衰期约42小时，经胆汁和肾脏排泄",
+      "farmacodinamica": "对耐药革兰阳性菌、阴性菌及厌氧菌具抑菌作用",
+      "indicacoes": "复杂性皮肤、腹腔感染及医院获得性肺炎（不含铜绿假单胞菌）",
+      "reacoesAdversas": "恶心、呕吐、腹泻、肝毒性、凝血功能异常",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "慎用；乳汁中分泌数据有限",
+      "administracao": "静脉注射",
+      "doseMaxima": "首剂100毫克，维持剂量每12小时50毫克",
+      "doseMinima": "每12小时50毫克",
+      "classificacao": "甘氨酰环素类抗生素（四环素衍生物）",
+      "apresentacao": "50毫克冻干粉瓶装",
+      "interacaoMedicamento": "增强抗凝药作用，降低口服避孕药效力",
+      "posologia": "首剂100 mg，后每12小时50 mg，静脉滴注30–60分钟",
+      "armazenamento": "原粉室温保存，溶液可冷藏24小时",
+      "preparo": "用0.9%氯化钠或5%葡萄糖稀释，30–60分钟输注",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "对本品或四环素类过敏者禁用",
+      "cuidadosMedicos": "监测肝功能和继发感染",
+      "cuidadosFarmaceuticos": "配好后立即使用或冷藏",
+      "cuidadosEnfermagem": "关注胃肠道反应及肝功能异常",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、FDA"
+    }
+  }
+}

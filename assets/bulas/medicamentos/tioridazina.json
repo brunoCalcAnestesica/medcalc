@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tioridazina",
+      "suspension": "Suspender 7 dias antes de cirurgias com anestesia geral ou risco cardiovascular.",
+      "risk": "Risco de prolongamento do intervalo QT, arritmias graves, sedação excessiva e interações com anestésicos e antidepressivos.",
+      "reintroduction": "Reintroduzir após ECG normal, estabilização cardiovascular e ausência de interação medicamentosa relevante."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tioridazina",
+      "nomeComercial": "Melleril",
+      "mecanismoAcao": "Antipsicótico típico fenotiazínico; bloqueia receptores dopaminérgicos D2 no SNC, além de efeitos anticolinérgicos, anti-histamínicos e adrenolíticos.",
+      "farmacocinetica": "Absorção oral rápida; biodisponibilidade aproximadamente 30%; metabolização hepática (CYP2D6); meia-vida de 6 a 8 horas; excreção renal e fecal.",
+      "farmacodinamica": "Antipsicótico de baixa potência com efeito sedativo, antiemético e ansiolítico; reduz sintomas psicóticos e agitação.",
+      "indicacoes": "Esquizofrenia refratária, agitação psicomotora, demência com agressividade, psicoses crônicas.",
+      "reacoesAdversas": "Sedação, hipotensão, boca seca, visão turva, constipação, discinesia tardia, parkinsonismo, prolongamento do QT.",
+      "riscoGravidez": "Categoria C – evitar uso, salvo indicação precisa.",
+      "riscoLactacao": "Contraindicado.",
+      "administracao": "Oral.",
+      "doseMaxima": "800 mg/dia.",
+      "doseMinima": "25 mg/dia.",
+      "classificacao": "Antipsicótico típico fenotiazínico (baixa potência).",
+      "apresentacao": "Comprimidos de 25 mg e 100 mg.",
+      "interacaoMedicamento": "Prolongamento do QT com antiarrítmicos e antidepressivos tricíclicos; risco de toxicidade com inibidores do CYP2D6.",
+      "posologia": "Iniciar com 50–100 mg/dia, ajustar até 400–800 mg/dia divididos em 2–3 doses.",
+      "armazenamento": "Temperatura ambiente, protegido da luz.",
+      "preparo": "Não se aplica.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Demência com risco cardiovascular, arritmia, glaucoma, depressão grave, uso com depressores do SNC.",
+      "cuidadosMedicos": "Monitorar ECG (QT), efeitos extrapiramidais e status mental.",
+      "cuidadosFarmaceuticos": "Verificar interações com antidepressivos e antiarrítmicos; orientar sobre adesão.",
+      "cuidadosEnfermagem": "Observar sedação excessiva, sinais de efeitos extrapiramidais e pressão arterial.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Bula Melleril."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Thioridazine",
+      "suspension": "Discontinue 7 days before surgeries involving general anesthesia or cardiovascular risk.",
+      "risk": "Risk of QT interval prolongation, severe arrhythmias, excessive sedation, and interactions with anesthetics and antidepressants.",
+      "reintroduction": "Restart after normal ECG, cardiovascular stabilization, and absence of relevant drug interactions."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Thioridazine",
+      "nomeComercial": "Melleril",
+      "mecanismoAcao": "Typical phenothiazine antipsychotic; blocks D2 dopaminergic receptors in the CNS, also has anticholinergic, antihistaminic, and adrenolytic effects.",
+      "farmacocinetica": "Rapid oral absorption; bioavailability approximately 30%; hepatic metabolism (CYP2D6); half-life 6–8 hours; renal and fecal excretion.",
+      "farmacodinamica": "Low-potency antipsychotic with sedative, antiemetic, and anxiolytic effects; reduces psychotic symptoms and agitation.",
+      "indicacoes": "Refractory schizophrenia, psychomotor agitation, dementia with aggression, chronic psychoses.",
+      "reacoesAdversas": "Sedation, hypotension, dry mouth, blurred vision, constipation, tardive dyskinesia, parkinsonism, QT prolongation.",
+      "riscoGravidez": "Category C – avoid use unless clearly indicated.",
+      "riscoLactacao": "Contraindicated.",
+      "administracao": "Oral.",
+      "doseMaxima": "800 mg/day.",
+      "doseMinima": "25 mg/day.",
+      "classificacao": "Typical phenothiazine antipsychotic (low potency).",
+      "apresentacao": "Tablets of 25 mg and 100 mg.",
+      "interacaoMedicamento": "QT prolongation with antiarrhythmics and tricyclic antidepressants; toxicity risk with CYP2D6 inhibitors.",
+      "posologia": "Start with 50–100 mg/day, adjust up to 400–800 mg/day divided into 2–3 doses.",
+      "armazenamento": "Store at room temperature, protected from light.",
+      "preparo": "Not applicable.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Dementia with cardiovascular risk, arrhythmia, glaucoma, severe depression, use with CNS depressants.",
+      "cuidadosMedicos": "Monitor ECG (QT), extrapyramidal effects, and mental status.",
+      "cuidadosFarmaceuticos": "Check for interactions with antidepressants and antiarrhythmics; counsel on adherence.",
+      "cuidadosEnfermagem": "Observe for excessive sedation, signs of extrapyramidal effects, and blood pressure.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Melleril Prescribing Information."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tioridazina",
+      "suspension": "Suspender 7 días antes de cirugías con anestesia general o riesgo cardiovascular.",
+      "risk": "Riesgo de prolongación del intervalo QT, arritmias graves, sedación excesiva e interacciones con anestésicos y antidepresivos.",
+      "reintroduction": "Reintroducir tras ECG normal, estabilización cardiovascular y ausencia de interacción medicamentosa relevante."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tioridazina",
+      "nomeComercial": "Melleril",
+      "mecanismoAcao": "Antipsicótico típico fenotiazínico; bloquea receptores dopaminérgicos D2 en el SNC, además de efectos anticolinérgicos, antihistamínicos y adrenolíticos.",
+      "farmacocinetica": "Absorción oral rápida; biodisponibilidad aproximadamente 30%; metabolismo hepático (CYP2D6); vida media 6–8 horas; excreción renal y fecal.",
+      "farmacodinamica": "Antipsicótico de baja potencia con efecto sedante, antiemético y ansiolítico; reduce síntomas psicóticos y agitación.",
+      "indicacoes": "Esquizofrenia refractaria, agitación psicomotora, demencia con agresividad, psicosis crónicas.",
+      "reacoesAdversas": "Sedación, hipotensión, sequedad bucal, visión borrosa, estreñimiento, discinesia tardía, parkinsonismo, prolongación del QT.",
+      "riscoGravidez": "Categoría C – evitar uso salvo indicación precisa.",
+      "riscoLactacao": "Contraindicado.",
+      "administracao": "Oral.",
+      "doseMaxima": "800 mg/día.",
+      "doseMinima": "25 mg/día.",
+      "classificacao": "Antipsicótico típico fenotiazínico (baja potencia).",
+      "apresentacao": "Comprimidos de 25 mg y 100 mg.",
+      "interacaoMedicamento": "Prolongación del QT con antiarrítmicos y antidepresivos tricíclicos; riesgo de toxicidad con inhibidores de CYP2D6.",
+      "posologia": "Iniciar con 50–100 mg/día, ajustar hasta 400–800 mg/día divididos en 2–3 dosis.",
+      "armazenamento": "Temperatura ambiente, protegido de la luz.",
+      "preparo": "No aplica.",
+      "solucoesCompatíveis": "No aplicable.",
+      "contraindicacoes": "Demencia con riesgo cardiovascular, arritmia, glaucoma, depresión grave, uso con depresores del SNC.",
+      "cuidadosMedicos": "Monitorizar ECG (QT), efectos extrapiramidales y estado mental.",
+      "cuidadosFarmaceuticos": "Verificar interacciones con antidepresivos y antiarrítmicos; orientar sobre adherencia.",
+      "cuidadosEnfermagem": "Observar sedación excesiva, signos de efectos extrapiramidales y presión arterial.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Prospecto Melleril."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硫利达嗪",
+      "suspension": "在全身麻醉或心血管风险手术前7天停用。",
+      "risk": "有QT间期延长、严重心律失常、过度镇静及与麻醉剂和抗抑郁药相互作用的风险。",
+      "reintroduction": "在心电图正常、心血管稳定且无相关药物相互作用后重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硫利达嗪",
+      "nomeComercial": "Melleril",
+      "mecanismoAcao": "典型的苯噻嗪类抗精神病药；阻断中枢神经系统D2多巴胺受体，同时具有抗胆碱、抗组胺和肾上腺素能拮抗作用。",
+      "farmacocinetica": "口服吸收快；生物利用度约30%；肝脏代谢（CYP2D6）；半衰期6–8小时；经肾和粪便排泄。",
+      "farmacodinamica": "低效力抗精神病药，具有镇静、止吐和抗焦虑作用；减少精神病症状和激动。",
+      "indicacoes": "难治性精神分裂症、精神运动性激越、伴攻击性的痴呆、慢性精神病。",
+      "reacoesAdversas": "镇静、低血压、口干、视力模糊、便秘、迟发性运动障碍、帕金森综合征、QT间期延长。",
+      "riscoGravidez": "C类——除非明确指征，否则避免使用。",
+      "riscoLactacao": "禁用。",
+      "administracao": "口服。",
+      "doseMaxima": "800毫克/天。",
+      "doseMinima": "25毫克/天。",
+      "classificacao": "典型苯噻嗪类抗精神病药（低效力）。",
+      "apresentacao": "片剂25毫克、100毫克。",
+      "interacaoMedicamento": "与抗心律失常药和三环类抗抑郁药合用可延长QT间期；与CYP2D6抑制剂合用有毒性风险。",
+      "posologia": "起始剂量50–100毫克/天，可调整至400–800毫克/天，分2–3次服用。",
+      "armazenamento": "室温保存，避光。",
+      "preparo": "不适用。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "伴心血管风险的痴呆、心律失常、青光眼、重度抑郁、与中枢神经抑制药合用。",
+      "cuidadosMedicos": "监测心电图（QT）、锥体外系反应和精神状态。",
+      "cuidadosFarmaceuticos": "检查与抗抑郁药和抗心律失常药的相互作用；指导依从性。",
+      "cuidadosEnfermagem": "观察过度镇静、锥体外系反应及血压变化。",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Melleril说明书。"
+    }
+  }
+}

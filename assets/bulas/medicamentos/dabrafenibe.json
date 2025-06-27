@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Dabrafenibe",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas com risco de toxicidade cutânea ou febre",
+      "risk": "Pirexia, rash cutâneo, artralgia, elevação de transaminases, prolongamento de QT, eventos tromboembólicos",
+      "reintroduction": "Reintroduzir após resolução de toxicidades e estabilização clínica, geralmente 10–14 dias após cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dabrafenibe",
+      "nomeComercial": "Tafinlar",
+      "mecanismoAcao": "Inibidor seletivo da quinase BRAF V600E, bloqueando a via MAPK/ERK",
+      "farmacocinetica": "VO; biodisponibilidade ~95%; T½ ~8h; metabolizado via CYP2C8 e CYP3A4; excreção fecal",
+      "farmacodinamica": "Inibe crescimento de células tumorais com mutação BRAF V600E/V600K",
+      "indicacoes": "Melanoma metastático BRAF V600+, câncer de pulmão de não pequenas células BRAF+, câncer anaplásico de tireoide",
+      "reacoesAdversas": "Febre, erupção cutânea, dor articular, fadiga, cefaleia, uveíte, hiperglicemia, elevação de TGO/TGP",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado durante e por 2 semanas após o tratamento",
+      "administracao": "VO, 150mg 2x/dia, em jejum (1h antes ou 2h após alimentos)",
+      "doseMaxima": "300mg/dia",
+      "doseMinima": "100mg/dia (ajustada por toxicidade)",
+      "classificacao": "Inibidor oral seletivo de BRAF",
+      "apresentacao": "Cápsulas 50mg e 75mg",
+      "interacaoMedicamento": "Indutor enzimático (CYP3A4, CYP2C8); reduz níveis de contraceptivos, warfarina, midazolam",
+      "posologia": "150mg VO 2x/dia, isolado ou com trametinibe",
+      "armazenamento": "Temperatura ambiente; protegido da luz e umidade",
+      "preparo": "Uso oral direto; não abrir cápsulas",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, hipersensibilidade, uso com inibidores fortes de CYP3A4",
+      "cuidadosMedicos": "Monitorar temperatura, ECG, função hepática, glicemia, pele e olhos",
+      "cuidadosFarmaceuticos": "Educar sobre risco de febre e necessidade de suspensão temporária; interações medicamentosas",
+      "cuidadosEnfermagem": "Observar febre, rash, visão turva, dor nas articulações, sinais de infecção",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Dabrafenib",
+      "suspension": "Hold 7 days before major surgery if febrile episodes or skin toxicity present",
+      "risk": "Fever, rash, arthralgia, liver enzyme elevation, QT prolongation, thromboembolism",
+      "reintroduction": "Restart 10–14 days after surgery when stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dabrafenib",
+      "nomeComercial": "Tafinlar",
+      "mecanismoAcao": "Selective BRAF V600E kinase inhibitor blocking MAPK/ERK pathway",
+      "farmacocinetica": "PO; T½ ~8h; CYP2C8/CYP3A4 metabolism; fecal elimination",
+      "farmacodinamica": "Inhibits tumor cell proliferation in BRAF-mutant cancers",
+      "indicacoes": "BRAF V600E+ melanoma, NSCLC, anaplastic thyroid cancer",
+      "reacoesAdversas": "Fever, skin rash, joint pain, fatigue, liver toxicity, uveitis, hyperglycemia",
+      "riscoGravidez": "Category D – avoid during pregnancy",
+      "riscoLactacao": "Not recommended during and for 2 weeks post-treatment",
+      "administracao": "Oral, 150mg twice daily fasting",
+      "doseMaxima": "300mg/day",
+      "doseMinima": "100mg/day (if dose-adjusted)",
+      "classificacao": "Oral BRAF inhibitor",
+      "apresentacao": "50mg and 75mg capsules",
+      "interacaoMedicamento": "Induces CYP3A4, 2C8; reduces efficacy of hormonal contraceptives, warfarin",
+      "posologia": "150mg PO BID alone or with trametinib",
+      "armazenamento": "Store at room temp; protect from moisture/light",
+      "preparo": "Oral only; do not open capsules",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, hypersensitivity, concurrent strong CYP3A4 inhibitors",
+      "cuidadosMedicos": "Monitor fever, ECG, liver tests, glucose, skin, vision",
+      "cuidadosFarmaceuticos": "Inform about contraceptive interaction, risk of fever, adherence",
+      "cuidadosEnfermagem": "Monitor skin, joint pain, vision, fever, LFTs",
+      "fontesBibliograficas": "FDA label, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Dabrafenib",
+      "suspension": "Suspender 7 días antes de cirugía si hay fiebre o toxicidad dérmica",
+      "risk": "Fiebre, rash, artralgias, hepatotoxicidad, prolongación QT, trombosis",
+      "reintroduction": "Reiniciar tras recuperación clínica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dabrafenib",
+      "nomeComercial": "Tafinlar",
+      "mecanismoAcao": "Inhibidor de BRAF V600E; bloquea la vía MAPK/ERK",
+      "farmacocinetica": "VO; T½ ~8h; metabolismo hepático; eliminación fecal",
+      "farmacodinamica": "Bloquea proliferación celular en tumores con BRAF mutado",
+      "indicacoes": "Melanoma BRAF+, CPNCP, cáncer tiroideo anaplásico",
+      "reacoesAdversas": "Erupción, fiebre, dolor articular, hiperglucemia, uveítis, enzimas hepáticas elevadas",
+      "riscoGravidez": "Categoría D – evitar",
+      "riscoLactacao": "No recomendado",
+      "administracao": "150mg dos veces al día en ayunas",
+      "doseMaxima": "300mg/día",
+      "doseMinima": "100mg/día",
+      "classificacao": "Inhibidor oral BRAF",
+      "apresentacao": "Cápsulas 50mg, 75mg",
+      "interacaoMedicamento": "CYP3A4/2C8; disminuye eficacia anticonceptiva",
+      "posologia": "150mg VO BID, solo o con trametinib",
+      "armazenamento": "Ambiente seco; luz protegida",
+      "preparo": "Ingerir entera",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, hipersensibilidad",
+      "cuidadosMedicos": "Vigilar fiebre, hepático, ECG, piel",
+      "cuidadosFarmaceuticos": "Educación sobre toxicidad y adhesión",
+      "cuidadosEnfermagem": "Observar fiebre, piel, visión, fatiga",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "达拉非尼",
+      "suspension": "术前7天停药，如有皮疹或发热应更早停用",
+      "risk": "发热、皮疹、关节痛、肝毒性、QT延长、肺毒性",
+      "reintroduction": "术后10–14天，恢复稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "达拉非尼",
+      "nomeComercial": "Tafinlar",
+      "mecanismoAcao": "BRAF V600E激酶抑制剂，阻断MAPK通路",
+      "farmacocinetica": "口服；T½约8小时；CYP3A4/2C8代谢；粪便排泄",
+      "farmacodinamica": "选择性抑制BRAF突变细胞生长",
+      "indicacoes": "BRAF阳性黑色素瘤、肺癌、甲状腺癌",
+      "reacoesAdversas": "皮疹、发热、肝酶升高、QT延长、疲劳、糖尿病",
+      "riscoGravidez": "D类 – 孕期禁用",
+      "riscoLactacao": "用药期间及2周内禁哺乳",
+      "administracao": "每日2次，空腹服用，每次150mg",
+      "doseMaxima": "每日300mg",
+      "doseMinima": "每日100mg",
+      "classificacao": "BRAF靶向抑制剂",
+      "apresentacao": "胶囊50mg、75mg",
+      "interacaoMedicamento": "CYP3A4诱导剂，与激素、抗癫药等有交互作用",
+      "posologia": "150mg BID，合用或单用",
+      "armazenamento": "避光干燥，室温保存",
+      "preparo": "整粒吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、QT延长、肝功能严重异常",
+      "cuidadosMedicos": "监测体温、肝功能、电解质、QT间期",
+      "cuidadosFarmaceuticos": "服药教育、管理发热、注意相互作用",
+      "cuidadosEnfermagem": "观察皮疹、发热、疲劳、血糖异常",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、NCCN"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Trametinibe",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de rash, diarreia, disfunção ventricular esquerda, retardo na cicatrização e eventos tromboembólicos",
+      "reintroduction": "Reintroduzir após cicatrização adequada e estabilização cardiovascular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trametinibe",
+      "nomeComercial": "Mekinist",
+      "mecanismoAcao": "Inibidor seletivo da MEK1/2, componente da via de sinalização MAPK/ERK",
+      "farmacocinetica": "Biodisponibilidade oral ~72%; meia-vida de 4,5 dias; metabolizado por hidrólise e glicuronidação",
+      "farmacodinamica": "Bloqueia a proliferação de células tumorais com mutações BRAF V600E ou V600K",
+      "indicacoes": "Melanoma metastático BRAF V600+, câncer de pulmão, tumor anaplásico de tireoide (em combinação com dabrafenibe)",
+      "reacoesAdversas": "Erupção cutânea, diarreia, edema, hipertensão, fadiga, insuficiência cardíaca, hemorragia",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via oral",
+      "doseMaxima": "2 mg/dia",
+      "doseMinima": "1 mg/dia (ajustada por toxicidade)",
+      "classificacao": "Antineoplásico – inibidor da MEK1/2",
+      "apresentacao": "Comprimidos de 0,5 mg e 2 mg",
+      "interacaoMedicamento": "Cuidado com medicamentos que afetam fração de ejeção ou aumentam risco hemorrágico",
+      "posologia": "2 mg 1x/dia em jejum (1h antes ou 2h após refeição)",
+      "armazenamento": "Refrigerado entre 2–8°C; proteger da umidade e luz",
+      "preparo": "Não requer preparo; comprimidos devem ser ingeridos inteiros",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, insuficiência cardíaca, hemorragia ativa",
+      "cuidadosMedicos": "Avaliar função cardíaca (ecocardiograma), PA, integridade cutânea, hemograma",
+      "cuidadosFarmaceuticos": "Orientar sobre jejum, toxicidade cutânea e sinais de IC",
+      "cuidadosEnfermagem": "Observar edema, dispneia, hemorragias e alterações de pele",
+      "fontesBibliograficas": "INCA, FDA, EMA, ANVISA, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Trametinib",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of rash, diarrhea, left ventricular dysfunction, delayed healing, thromboembolism",
+      "reintroduction": "Restart after full healing and cardiovascular stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trametinib",
+      "nomeComercial": "Mekinist",
+      "mecanismoAcao": "Selective MEK1/2 inhibitor in MAPK/ERK pathway",
+      "farmacocinetica": "Oral bioavailability ~72%; half-life ~4.5 days; metabolized via hydrolysis and glucuronidation",
+      "farmacodinamica": "Inhibits cell growth in BRAF V600E/K-mutant tumors",
+      "indicacoes": "BRAF V600+ metastatic melanoma, NSCLC, anaplastic thyroid cancer (with dabrafenib)",
+      "reacoesAdversas": "Rash, diarrhea, edema, hypertension, fatigue, heart failure, bleeding",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "2 mg/day",
+      "doseMinima": "1 mg/day (dose adjusted for toxicity)",
+      "classificacao": "Antineoplastic – MEK1/2 inhibitor",
+      "apresentacao": "Tablets: 0.5 mg, 2 mg",
+      "interacaoMedicamento": "Caution with drugs affecting LVEF or bleeding risk",
+      "posologia": "2 mg once daily on empty stomach (1h before or 2h after meals)",
+      "armazenamento": "Store refrigerated at 2–8°C, protect from light/moisture",
+      "preparo": "No preparation required; swallow whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, active bleeding, heart failure",
+      "cuidadosMedicos": "Monitor LVEF (echocardiogram), BP, skin, CBC",
+      "cuidadosFarmaceuticos": "Educate on fasting intake, cardiac and skin toxicity",
+      "cuidadosEnfermagem": "Monitor for edema, dyspnea, bleeding, rash",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Trametinib",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de erupción, diarrea, disfunción ventricular, cicatrización lenta y trombosis",
+      "reintroduction": "Reintroducir tras cicatrización y estabilización cardiovascular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trametinib",
+      "nomeComercial": "Mekinist",
+      "mecanismoAcao": "Inhibidor selectivo de MEK1/2 en la vía MAPK/ERK",
+      "farmacocinetica": "Biodisponibilidad oral ~72%; vida media ~4,5 días; metabolizado por hidrólisis y glucuronidación",
+      "farmacodinamica": "Bloquea proliferación en tumores con mutaciones BRAF V600E/K",
+      "indicacoes": "Melanoma metastásico BRAF V600+, cáncer de pulmón, tiroides (con dabrafenib)",
+      "reacoesAdversas": "Erupción, diarrea, edema, hipertensión, fatiga, insuficiencia cardíaca, sangrado",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "2 mg/día",
+      "doseMinima": "1 mg/día (ajustable)",
+      "classificacao": "Antineoplásico – inhibidor de MEK1/2",
+      "apresentacao": "Comprimidos: 0,5 mg y 2 mg",
+      "interacaoMedicamento": "Precaución con fármacos que afectan FEVI o aumentan sangrado",
+      "posologia": "2 mg/día en ayunas (1h antes o 2h después de comer)",
+      "armazenamento": "Refrigerar 2–8°C, protegido de luz y humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, sangrado activo, insuficiencia cardíaca",
+      "cuidadosMedicos": "Controlar FEVI, PA, piel y hemograma",
+      "cuidadosFarmaceuticos": "Educar sobre toxicidad cardíaca y dérmica",
+      "cuidadosEnfermagem": "Vigilar edema, disnea, hemorragia y erupción",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "曲美替尼",
+      "suspension": "术前5天停药",
+      "risk": "皮疹、腹泻、心功能下降、术后愈合延迟及血栓风险",
+      "reintroduction": "术后愈合及心功能稳定后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "曲美替尼",
+      "nomeComercial": "Mekinist",
+      "mecanismoAcao": "选择性MEK1/2抑制剂，作用于MAPK/ERK通路",
+      "farmacocinetica": "口服生物利用度72%；半衰期4.5天；水解和葡糖醛酸化代谢",
+      "farmacodinamica": "抑制BRAF V600E/K突变型肿瘤的细胞增殖",
+      "indicacoes": "BRAF突变黑色素瘤、肺癌、甲状腺癌（联合达拉非尼）",
+      "reacoesAdversas": "皮疹、腹泻、水肿、高血压、乏力、心衰、出血",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日2毫克",
+      "doseMinima": "每日1毫克",
+      "classificacao": "抗肿瘤药 – MEK1/2抑制剂",
+      "apresentacao": "片剂：0.5 mg, 2 mg",
+      "interacaoMedicamento": "与心功能药物、抗凝药有相互作用",
+      "posologia": "每日一次2 mg，空腹服用（饭前1小时或饭后2小时）",
+      "armazenamento": "2–8°C冷藏，避光避湿",
+      "preparo": "无需配制，整片吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、心衰、出血",
+      "cuidadosMedicos": "监测心脏功能、血压、皮肤和血液指标",
+      "cuidadosFarmaceuticos": "教育患者识别皮肤和心脏毒性",
+      "cuidadosEnfermagem": "关注水肿、呼吸困难、出血和皮疹",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

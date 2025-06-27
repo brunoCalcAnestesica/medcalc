@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Metformina",
+      "suspension": "Suspender 24–48 horas antes da cirurgia com risco de hipoperfusão ou uso de contraste iodado",
+      "risk": "Risco de acidose lática em casos de hipóxia, disfunção renal ou hepática, e uso de contraste iodado",
+      "reintroduction": "Reintroduzir após normalização da função renal e estado hemodinâmico, geralmente 48h após o procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Metformina",
+      "nomeComercial": "Glifage, Glucophage, Dimefor, Diaformin",
+      "mecanismoAcao": "Reduz a produção hepática de glicose e melhora a sensibilidade periférica à insulina",
+      "farmacocinetica": "Absorção gastrointestinal incompleta (~50-60%), não metabolizada, excreção renal inalterada",
+      "farmacodinamica": "Antidiabético oral que não estimula liberação de insulina; reduz glicemia basal e pós-prandial",
+      "indicacoes": "Diabetes tipo 2, SOP (off-label)",
+      "reacoesAdversas": "Distúrbios gastrointestinais, acidose lática (raro e grave), deficiência de vitamina B12",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "2550 mg/dia",
+      "doseMinima": "500 mg/dia",
+      "classificacao": "Biguanida",
+      "apresentacao": "Comprimidos 500 mg, 850 mg, 1000 mg",
+      "interacaoMedicamento": "Contraste iodado, IECA, AINEs, diuréticos, cimetidina, etanol",
+      "posologia": "Iniciar com 500–850 mg/dia e ajustar conforme tolerância e resposta",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência renal moderada a grave, insuficiência hepática, acidose metabólica, alcoolismo",
+      "cuidadosMedicos": "Suspender em caso de jejum prolongado, contraste iodado, insuficiência renal ou hipóxia",
+      "cuidadosFarmaceuticos": "Verificar função renal antes de reintroduzir",
+      "cuidadosEnfermagem": "Observar sinais de acidose láctica: hiperventilação, dor abdominal, confusão",
+      "fontesBibliograficas": "SBEM, ANVISA, FDA, Micromedex, NICE, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Metformin",
+      "suspension": "Suspend 24–48 hours prior to surgery involving contrast or risk of hypoperfusion",
+      "risk": "Risk of lactic acidosis in renal/hepatic impairment or hypoxia",
+      "reintroduction": "Restart after renal function and hemodynamics normalize, usually 48h post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metformin Hydrochloride",
+      "nomeComercial": "Glucophage, Riomet, Fortamet, Glumetza",
+      "mecanismoAcao": "Decreases hepatic glucose production and increases peripheral insulin sensitivity",
+      "farmacocinetica": "GI absorption ~50-60%, not metabolized, excreted unchanged by kidneys",
+      "farmacodinamica": "Antihyperglycemic that does not increase insulin secretion; lowers fasting and postprandial glucose",
+      "indicacoes": "Type 2 Diabetes Mellitus, PCOS (off-label)",
+      "reacoesAdversas": "GI upset, lactic acidosis (rare but fatal), B12 deficiency",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "2550 mg/day",
+      "doseMinima": "500 mg/day",
+      "classificacao": "Biguanide",
+      "apresentacao": "Tablets 500 mg, 850 mg, 1000 mg",
+      "interacaoMedicamento": "Iodinated contrast, ACE inhibitors, NSAIDs, diuretics, cimetidine, alcohol",
+      "posologia": "Start at 500–850 mg/day; titrate based on tolerance and glycemic control",
+      "armazenamento": "Room temperature, protect from moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Moderate/severe renal impairment, hepatic failure, metabolic acidosis, alcoholism",
+      "cuidadosMedicos": "Suspend if fasting, using contrast, or renal dysfunction present",
+      "cuidadosFarmaceuticos": "Assess renal function before resuming",
+      "cuidadosEnfermagem": "Monitor for signs of lactic acidosis: hyperventilation, abdominal pain, confusion",
+      "fontesBibliograficas": "FDA, ADA, Micromedex, UpToDate, NICE"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Metformina",
+      "suspension": "Suspender 24–48 horas antes de cirugía con riesgo de hipoperfusión o contraste yodado",
+      "risk": "Riesgo de acidosis láctica si hay hipoxia, insuficiencia renal o hepática",
+      "reintroduction": "Reintroducir tras normalización de función renal y estabilidad hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Metformina",
+      "nomeComercial": "Glucophage, Glifage, Riomet, Diaformin",
+      "mecanismoAcao": "Disminuye la producción hepática de glucosa y mejora la sensibilidad a la insulina",
+      "farmacocinetica": "Absorción intestinal incompleta (~50-60%), no se metaboliza, se elimina sin cambios por el riñón",
+      "farmacodinamica": "Hipoglucemiante oral sin efecto sobre la secreción de insulina",
+      "indicacoes": "Diabetes tipo 2, SOP (uso no aprobado)",
+      "reacoesAdversas": "Síntomas gastrointestinales, acidosis láctica, deficiencia de vitamina B12",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible con la lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "2550 mg/día",
+      "doseMinima": "500 mg/día",
+      "classificacao": "Biguanida",
+      "apresentacao": "Tabletas de 500 mg, 850 mg, 1000 mg",
+      "interacaoMedicamento": "Contraste yodado, IECAs, AINEs, diuréticos, cimetidina, alcohol",
+      "posologia": "Iniciar con 500–850 mg/día y ajustar según respuesta",
+      "armazenamento": "A temperatura ambiente, protegido de la humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Insuficiencia renal/hepática, acidosis metabólica, alcoholismo",
+      "cuidadosMedicos": "Suspender en casos de ayuno, uso de contraste, hipoperfusión",
+      "cuidadosFarmaceuticos": "Evaluar función renal antes de reiniciar",
+      "cuidadosEnfermagem": "Observar signos de acidosis láctica: hiperventilación, dolor abdominal, confusión",
+      "fontesBibliograficas": "AEMPS, NICE, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "二甲双胍 (Metformin)",
+      "suspension": "手术前24–48小时停用，尤其涉及碘造影剂或低灌注风险",
+      "risk": "存在肝肾功能不全或缺氧时，可能导致乳酸性酸中毒",
+      "reintroduction": "术后肾功能和血流动力学恢复后48小时可重新开始使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸二甲双胍",
+      "nomeComercial": "格华止, Glucophage, 迪化林",
+      "mecanismoAcao": "抑制肝脏葡萄糖生成，增强外周组织对胰岛素的敏感性",
+      "farmacocinetica": "胃肠吸收不完全（50-60%），不被代谢，经肾脏原形排泄",
+      "farmacodinamica": "不促进胰岛素分泌的降糖药，降低空腹和餐后血糖",
+      "indicacoes": "2型糖尿病，多囊卵巢综合征（非适应症使用）",
+      "reacoesAdversas": "胃肠不适、乳酸性酸中毒、维生素B12缺乏",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可在哺乳期间使用",
+      "administracao": "口服",
+      "doseMaxima": "每日2550毫克",
+      "doseMinima": "每日500毫克",
+      "classificacao": "双胍类",
+      "apresentacao": "500毫克, 850毫克, 1000毫克片剂",
+      "interacaoMedicamento": "碘造影剂、ACEI、NSAIDs、利尿剂、甲氰咪胍、酒精",
+      "posologia": "起始剂量为500–850毫克/天，根据耐受和血糖控制调整",
+      "armazenamento": "常温保存，防潮",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "中重度肾功能不全、肝功能障碍、代谢性酸中毒、酗酒",
+      "cuidadosMedicos": "术前禁食、使用造影剂或肾功能异常时应暂停",
+      "cuidadosFarmaceuticos": "恢复前评估肾功能",
+      "cuidadosEnfermagem": "警惕乳酸性酸中毒体征：过度换气、腹痛、意识障碍",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、NMPA"
+    }
+  }
+}

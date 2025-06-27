@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Dexametasona oftálmica",
+      "suspension": "Suspender 1 dia antes de cirurgias oftálmicas eletivas, salvo prescrição explícita",
+      "risk": "Risco de aumento da pressão intraocular, retardo na cicatrização e infecção ocular silenciosa",
+      "reintroduction": "Reintroduzir com acompanhamento oftalmológico após cicatrização inicial"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dexametasona",
+      "nomeComercial": "Maxidex, Dexafree, Decadron Oftálmico",
+      "mecanismoAcao": "Glicocorticoide que inibe a resposta inflamatória mediada por prostaglandinas e leucotrienos",
+      "farmacocinetica": "Absorção local com distribuição intraocular; metabolismo hepático e excreção renal",
+      "farmacodinamica": "Reduz sinais de inflamação como edema, dor, eritema e reatividade imune ocular",
+      "indicacoes": "Inflamações oculares não infecciosas, uveítes, pós-operatório de cirurgias oculares",
+      "reacoesAdversas": "Aumento de PIO, infecção ocular latente, turvação visual, ardor, olho seco",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhece-se se é excretado no leite; usar com cautela",
+      "administracao": "Uso oftálmico",
+      "doseMaxima": "1 gota a cada hora durante crises agudas",
+      "doseMinima": "1 gota 2x ao dia",
+      "classificacao": "Corticosteroide oftálmico",
+      "apresentacao": "Solução oftálmica 0,1%",
+      "interacaoMedicamento": "Potencializa risco de infecção com imunossupressores; pode mascarar sintomas em infecções concomitantes",
+      "posologia": "Instilar 1 gota no(s) olho(s) afetado(s), 2–4x ao dia ou conforme prescrição",
+      "armazenamento": "Conservar entre 15–25°C, protegido da luz",
+      "preparo": "Agitar bem antes do uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecções virais, fúngicas ou bacterianas oculares não tratadas; glaucoma",
+      "cuidadosMedicos": "Monitorar PIO, sinais de infecção e tempo de uso",
+      "cuidadosFarmaceuticos": "Orientar sobre uso correto e não interromper abruptamente",
+      "cuidadosEnfermagem": "Observar efeitos adversos e técnica de instilação",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, Medscape, Bula do fabricante"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ophthalmic Dexamethasone",
+      "suspension": "Suspend 1 day prior to elective eye surgeries unless otherwise prescribed",
+      "risk": "Risk of increased IOP, delayed wound healing, and silent ocular infection",
+      "reintroduction": "Reintroduce after initial healing and under ophthalmic supervision"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dexamethasone",
+      "nomeComercial": "Maxidex, Dexafree, Decadron Ophthalmic",
+      "mecanismoAcao": "Corticosteroid that inhibits inflammatory responses mediated by prostaglandins and leukotrienes",
+      "farmacocinetica": "Local absorption and intraocular distribution; hepatic metabolism and renal excretion",
+      "farmacodinamica": "Reduces ocular inflammation signs such as swelling, pain, redness and immune reactivity",
+      "indicacoes": "Non-infectious ocular inflammation, uveitis, postoperative eye care",
+      "reacoesAdversas": "Raised IOP, latent infections, visual disturbance, burning, dry eye",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown if excreted in breast milk; use with caution",
+      "administracao": "Ophthalmic use",
+      "doseMaxima": "1 drop hourly in acute phases",
+      "doseMinima": "1 drop twice a day",
+      "classificacao": "Ophthalmic corticosteroid",
+      "apresentacao": "Ophthalmic solution 0.1%",
+      "interacaoMedicamento": "May mask infections; increased risk with immunosuppressants",
+      "posologia": "Instill 1 drop in affected eye(s), 2–4x daily or as prescribed",
+      "armazenamento": "Store at 15–25°C, protect from light",
+      "preparo": "Shake well before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active untreated ocular infections (viral, fungal, bacterial); glaucoma",
+      "cuidadosMedicos": "Monitor IOP, infection signs, and duration of therapy",
+      "cuidadosFarmaceuticos": "Educate on proper use and tapering schedule",
+      "cuidadosEnfermagem": "Monitor instillation technique and adverse effects",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, Manufacturer insert"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Dexametasona oftálmica",
+      "suspension": "Suspender 1 día antes de cirugías oculares electivas salvo indicación médica",
+      "risk": "Riesgo de aumento de PIO, retraso en cicatrización e infección ocular silente",
+      "reintroduction": "Reintroducir tras cicatrización inicial con control oftalmológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dexametasona",
+      "nomeComercial": "Maxidex, Dexafree, Decadron Oftálmico",
+      "mecanismoAcao": "Corticosteroide que inhibe mediadores inflamatorios como prostaglandinas y leucotrienos",
+      "farmacocinetica": "Absorción ocular local, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Reduce signos de inflamación ocular: edema, dolor, hiperemia, respuesta inmune",
+      "indicacoes": "Inflamaciones oculares no infecciosas, uveítis, postoperatorio ocular",
+      "reacoesAdversas": "Aumento de PIO, infección latente, visión borrosa, ardor, ojo seco",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Puede excretarse en la leche materna; usar con precaución",
+      "administracao": "Uso oftálmico",
+      "doseMaxima": "1 gota cada hora en fase aguda",
+      "doseMinima": "1 gota 2 veces al día",
+      "classificacao": "Corticosteroide oftálmico",
+      "apresentacao": "Solución oftálmica al 0,1%",
+      "interacaoMedicamento": "Riesgo aumentado con inmunosupresores; puede enmascarar infecciones",
+      "posologia": "Instilar 1 gota en ojo(s) afectado(s) 2–4 veces al día o según indicación",
+      "armazenamento": "Conservar a 15–25°C, protegido de la luz",
+      "preparo": "Agitar bien antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infecciones oculares activas no tratadas, glaucoma",
+      "cuidadosMedicos": "Controlar PIO y signos infecciosos",
+      "cuidadosFarmaceuticos": "Educar sobre uso correcto y retirada gradual",
+      "cuidadosEnfermagem": "Observar técnica y efectos adversos",
+      "fontesBibliograficas": "FDA, ANVISA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "地塞米松滴眼液",
+      "suspension": "除非明确处方，择期眼科手术前1天停药",
+      "risk": "眼压升高、伤口愈合延迟、隐性感染风险",
+      "reintroduction": "术后初步愈合后在眼科医生监督下恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "地塞米松",
+      "nomeComercial": "Maxidex，Dexafree，Decadron",
+      "mecanismoAcao": "糖皮质激素，抑制前列腺素与白三烯等炎症介质",
+      "farmacocinetica": "局部吸收，经肝代谢，肾脏排泄",
+      "farmacodinamica": "减少眼部炎症反应如水肿、充血、疼痛与免疫活性",
+      "indicacoes": "非感染性眼部炎症、葡萄膜炎、术后用药",
+      "reacoesAdversas": "眼压升高、潜伏性感染、视物模糊、灼热感、干眼",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否排泄至乳汁尚不明确，慎用",
+      "administracao": "滴眼使用",
+      "doseMaxima": "急性期每小时1滴",
+      "doseMinima": "每日2次各1滴",
+      "classificacao": "眼科糖皮质激素",
+      "apresentacao": "滴眼液0.1%",
+      "interacaoMedicamento": "与免疫抑制剂合用增加感染风险；可掩盖感染症状",
+      "posologia": "按需滴入患眼，每日2–4次",
+      "armazenamento": "15–25°C避光保存",
+      "preparo": "使用前摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "未经治疗的病毒性、真菌性或细菌性感染；青光眼",
+      "cuidadosMedicos": "监测眼压与感染迹象，限制使用时间",
+      "cuidadosFarmaceuticos": "指导正确使用，避免突然停药",
+      "cuidadosEnfermagem": "观察滴眼方法与不良反应",
+      "fontesBibliograficas": "中国药典，FDA，Micromedex，Medscape"
+    }
+  }
+}

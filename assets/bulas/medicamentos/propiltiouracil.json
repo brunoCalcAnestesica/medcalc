@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Propiltiouracil",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Risco de crise tireotóxica se suspenso abruptamente; pode causar hepatotoxicidade e agranulocitose",
+      "reintroduction": "Manter continuamente; reintroduzir apenas se houver interrupção não planejada com controle hormonal e função hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Propiltiouracil",
+      "nomeComercial": "Propilacil, PTU",
+      "mecanismoAcao": "Inibe a síntese de hormônios tireoidianos por bloqueio da peroxidase e inibição periférica da conversão de T4 em T3",
+      "farmacocinetica": "Absorção oral rápida, ampla ligação a proteínas plasmáticas, metabolização hepática e excreção renal",
+      "farmacodinamica": "Redução gradual da concentração plasmática de T3 e T4 com efeito em 1-2 semanas",
+      "indicacoes": "Hipertireoidismo, Doença de Graves, preparação pré-operatória em tireoidectomia",
+      "reacoesAdversas": "Hepatite, agranulocitose, rash cutâneo, artralgia",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Compatível com aleitamento em doses menores (≤300 mg/dia)",
+      "administracao": "Via oral",
+      "doseMaxima": "1200mg/dia",
+      "doseMinima": "50mg/dia",
+      "classificacao": "Antitireoidiano",
+      "apresentacao": "Comprimidos 50 mg",
+      "interacaoMedicamento": "Pode potencializar anticoagulantes; interação com iodo radiativo",
+      "posologia": "Dose ajustada conforme TSH e T4 livre; geralmente 100–300 mg/dia em 2–3 doses",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao composto; disfunção hepática grave",
+      "cuidadosMedicos": "Monitorar função hepática e hemograma regularmente",
+      "cuidadosFarmaceuticos": "Garantir armazenamento adequado e observar validade",
+      "cuidadosEnfermagem": "Observar sinais de hepatotoxicidade e infecções",
+      "fontesBibliograficas": "SBEM, FDA, Micromedex, Uptodate, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Propylthiouracil",
+      "suspension": "Continue until the day of surgery",
+      "risk": "Risk of thyroid storm if abruptly discontinued; hepatotoxicity and agranulocytosis",
+      "reintroduction": "Should be continued; reintroduce only with hormonal and liver monitoring if interrupted"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Propylthiouracil",
+      "nomeComercial": "PTU",
+      "mecanismoAcao": "Blocks thyroid peroxidase and peripheral T4 to T3 conversion",
+      "farmacocinetica": "Rapid oral absorption, protein-bound, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Gradual reduction of serum T3 and T4; clinical effect in 1–2 weeks",
+      "indicacoes": "Hyperthyroidism, Graves' disease, preoperative thyroid surgery prep",
+      "reacoesAdversas": "Hepatitis, agranulocytosis, skin rash, arthralgia",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Compatible at doses ≤300 mg/day",
+      "administracao": "Oral route",
+      "doseMaxima": "1200mg/day",
+      "doseMinima": "50mg/day",
+      "classificacao": "Antithyroid agent",
+      "apresentacao": "50 mg tablets",
+      "interacaoMedicamento": "May enhance effect of anticoagulants; interaction with radioactive iodine",
+      "posologia": "100–300 mg/day divided into 2–3 doses based on TSH and free T4",
+      "armazenamento": "Store at room temperature, avoid moisture",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity; severe hepatic dysfunction",
+      "cuidadosMedicos": "Monitor liver function and CBC routinely",
+      "cuidadosFarmaceuticos": "Ensure proper storage and check expiration",
+      "cuidadosEnfermagem": "Monitor for hepatic and infection signs",
+      "fontesBibliograficas": "FDA, Micromedex, Uptodate, NICE"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Propiltiouracilo",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Riesgo de tormenta tiroidea si se suspende; puede causar hepatotoxicidad y agranulocitosis",
+      "reintroduction": "Reintroducir solo con control hormonal y hepático si hubo interrupción"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Propiltiouracilo",
+      "nomeComercial": "PTU",
+      "mecanismoAcao": "Inhibe la peroxidasa tiroidea y la conversión de T4 en T3",
+      "farmacocinetica": "Buena absorción oral, unión a proteínas, metabolismo hepático y excreción renal",
+      "farmacodinamica": "Disminuye los niveles plasmáticos de T3 y T4 en 1-2 semanas",
+      "indicacoes": "Hipertiroidismo, enfermedad de Graves, preparación prequirúrgica",
+      "reacoesAdversas": "Hepatitis, agranulocitosis, erupción cutánea, artralgia",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Compatible con lactancia en dosis ≤300 mg/día",
+      "administracao": "Vía oral",
+      "doseMaxima": "1200mg/día",
+      "doseMinima": "50mg/día",
+      "classificacao": "Antitiroideo",
+      "apresentacao": "Comprimidos de 50 mg",
+      "interacaoMedicamento": "Potencia anticoagulantes; interacción con yodo radioactivo",
+      "posologia": "100–300 mg/día en 2–3 dosis según TSH y T4 libre",
+      "armazenamento": "Temperatura ambiente, protegido de la humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad; insuficiencia hepática grave",
+      "cuidadosMedicos": "Monitorear función hepática y hemograma",
+      "cuidadosFarmaceuticos": "Observar almacenamiento y validez",
+      "cuidadosEnfermagem": "Observar signos de hepatotoxicidad e infecciones",
+      "fontesBibliograficas": "ANMAT, FDA, Micromedex, Uptodate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "丙硫氧嘧啶",
+      "suspension": "手术当天继续使用",
+      "risk": "突然停药可能导致甲状腺危象；有肝毒性和粒细胞缺乏风险",
+      "reintroduction": "应持续使用；若中断，应在激素和肝功能监测下重新开始"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "丙硫氧嘧啶",
+      "nomeComercial": "PTU",
+      "mecanismoAcao": "抑制甲状腺过氧化物酶和T4向T3的转化",
+      "farmacocinetica": "口服吸收快，与血浆蛋白结合，肝代谢，经肾排泄",
+      "farmacodinamica": "降低血浆T3和T4浓度，1–2周起效",
+      "indicacoes": "甲亢、Graves病、术前准备",
+      "reacoesAdversas": "肝炎、粒细胞缺乏、皮疹、关节痛",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "小剂量（≤300 mg/天）可用于哺乳",
+      "administracao": "口服",
+      "doseMaxima": "每日1200毫克",
+      "doseMinima": "每日50毫克",
+      "classificacao": "抗甲状腺药",
+      "apresentacao": "50毫克片剂",
+      "interacaoMedicamento": "增强抗凝药作用；与放射性碘互作",
+      "posologia": "根据TSH与游离T4调整，每日100–300毫克，分2–3次服用",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对药物过敏，严重肝病",
+      "cuidadosMedicos": "监测肝功能和血常规",
+      "cuidadosFarmaceuticos": "确保储存条件和有效期",
+      "cuidadosEnfermagem": "观察肝毒性和感染症状",
+      "fontesBibliograficas": "中国药典, FDA, Micromedex, Uptodate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ibandronato",
+      "suspension": "Suspender 60 a 90 dias antes de procedimentos odontológicos invasivos em pacientes com uso prolongado (>5 anos) e fatores de risco; não suspender rotineiramente antes de anestesia geral ou cirurgia ortopédica",
+      "risk": "Risco de osteonecrose de mandíbula (MRONJ), principalmente em uso EV prolongado ou pacientes com múltiplos fatores de risco; risco aumentado após extrações dentárias e implantes; risco também relacionado a fraturas de fêmur atípicas com uso crônico",
+      "reintroduction": "Reintroduzir após completa cicatrização óssea e mucosa; avaliar função renal antes de reiniciar"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Ibandrônico",
+      "nomeComercial": "Bonviva, Bondronat",
+      "mecanismoAcao": "Inibe a reabsorção óssea mediada por osteoclastos, aumentando a densidade mineral óssea",
+      "farmacocinetica": "Biodisponibilidade oral <1%, excreção renal, meia-vida plasmática longa (~10–60 horas)",
+      "farmacodinamica": "Reduz a taxa de remodelação óssea, prevenindo perda óssea em osteoporose e metástases ósseas",
+      "indicacoes": "Osteoporose pós-menopausa, prevenção de eventos ósseos em câncer metastático",
+      "reacoesAdversas": "Dispepsia, esofagite, dor musculoesquelética, osteonecrose de mandíbula (MRONJ), especialmente após cirurgia oral em uso EV prolongado, hipocalcemia, fraturas femorais atípicas",
+      "riscoGravidez": "Categoria C – contraindicado na gravidez",
+      "riscoLactacao": "Desconhecido se excretado no leite materno",
+      "administracao": "Oral (mensal) ou intravenosa (mensal ou trimestral)",
+      "doseMaxima": "150mg/mês VO ou 6mg EV a cada 3 meses",
+      "doseMinima": "2mg EV mensal (em oncologia)",
+      "classificacao": "Bisfosfonato anti-reabsortivo",
+      "apresentacao": "Comprimidos de 150mg, solução injetável de 1mg/mL",
+      "interacaoMedicamento": "Redução de absorção com alimentos, cálcio, ferro e antiácidos",
+      "posologia": "150mg VO/mês ou 3mg EV a cada 3 meses (osteoporose); 6mg EV/mês (oncologia)",
+      "armazenamento": "15–30°C, protegido da luz, refrigerado se EV",
+      "preparo": "EV deve ser administrado por 15–30s (bolus lento), sem diluição",
+      "solucoesCompatíveis": "Soro fisiológico 0,9% (em casos específicos)",
+      "contraindicacoes": "Hipocalcemia, disfunção renal grave (ClCr <30mL/min), incapacidade de manter-se em pé/sentado e cirurgia odontológica invasiva iminente em pacientes com uso EV crônico sem avaliação odontológica especializada",
+      "cuidadosMedicos": "Avaliar função renal, cálcio sérico, vitamina D e saúde bucal antes de iniciar e durante o uso prolongado; considerar suspensão apenas em procedimentos odontológicos invasivos e alto risco odontológico",
+      "cuidadosFarmaceuticos": "Orientar jejum absoluto VO e conservação EV Orientar pacientes quanto à necessidade de avaliação odontológica prévia se uso prolongado (>5 anos) ou via intravenosa",
+      "cuidadosEnfermagem": "Observar sinais de hipocalcemia e reação no local da infusão",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, Medscape"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ibandronate",
+      "suspension": "Suspend 7 days before general anesthesia or invasive bone procedures",
+      "risk": "Risk of jaw osteonecrosis, GI side effects, and IV anesthetic interactions; extra caution in dental and orthopedic surgeries",
+      "reintroduction": "Restart only after full bone and mucosal healing; assess renal function before resuming"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ibandronate sodium",
+      "nomeComercial": "Boniva",
+      "mecanismoAcao": "Inhibits osteoclast-mediated bone resorption, increasing bone mineral density",
+      "farmacocinetica": "Oral bioavailability <1%, renal excretion, long half-life (~10–60 hours)",
+      "farmacodinamica": "Slows bone turnover, preventing loss in osteoporosis and bone metastases",
+      "indicacoes": "Postmenopausal osteoporosis, skeletal metastasis-related events",
+      "reacoesAdversas": "Dyspepsia, esophagitis, musculoskeletal pain, jaw osteonecrosis (IV use), hypocalcemia",
+      "riscoGravidez": "Category C – contraindicated in pregnancy",
+      "riscoLactacao": "Unknown if excreted in breast milk",
+      "administracao": "Oral (monthly) or intravenous (monthly or quarterly)",
+      "doseMaxima": "150mg/month PO or 6mg IV every 3 months",
+      "doseMinima": "2mg IV monthly (oncology)",
+      "classificacao": "Bisphosphonate antiresorptive agent",
+      "apresentacao": "150mg tablets, 1mg/mL IV solution",
+      "interacaoMedicamento": "Reduced absorption with food, calcium, iron, antacids",
+      "posologia": "150mg PO/month or 3mg IV every 3 months (osteoporosis); 6mg IV/month (oncology)",
+      "armazenamento": "15–30°C, protect from light, refrigerate if IV",
+      "preparo": "IV form given undiluted over 15–30 seconds",
+      "solucoesCompatíveis": "0.9% NaCl (in specific protocols)",
+      "contraindicacoes": "Hypocalcemia, severe renal impairment (CrCl <30mL/min), inability to sit or stand upright",
+      "cuidadosMedicos": "Monitor renal function, serum calcium, dental evaluation prior to therapy",
+      "cuidadosFarmaceuticos": "Educate on fasting PO use and IV storage",
+      "cuidadosEnfermagem": "Watch for hypocalcemia signs and IV reaction",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ibandronato",
+      "suspension": "Suspender 7 días antes de cirugía con anestesia general o intervención ósea",
+      "risk": "Riesgo de osteonecrosis mandibular, efectos GI, interacción con anestesia IV; precaución en cirugía oral y ortopédica",
+      "reintroduction": "Reintroducir tras cicatrización ósea y mucosa completa; evaluar función renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido ibandrónico",
+      "nomeComercial": "Bonviva, Bondronat",
+      "mecanismoAcao": "Inhibe la reabsorción ósea de osteoclastos, aumentando la densidad ósea",
+      "farmacocinetica": "Biodisponibilidad <1%, eliminación renal, vida media larga (~10–60 h)",
+      "farmacodinamica": "Reduce la remodelación ósea, previene fracturas y eventos metastásicos óseos",
+      "indicacoes": "Osteoporosis posmenopáusica, metástasis ósea",
+      "reacoesAdversas": "Dispepsia, esofagitis, dolor musculoesquelético, hipocalcemia, osteonecrosis mandibular",
+      "riscoGravidez": "Categoría C – contraindicado",
+      "riscoLactacao": "Se desconoce si se excreta en leche materna",
+      "administracao": "Oral mensual o IV mensual/trimestral",
+      "doseMaxima": "150mg/mes VO o 6mg IV cada 3 meses",
+      "doseMinima": "2mg IV mensual (oncología)",
+      "classificacao": "Bisfosfonato antiresortivo",
+      "apresentacao": "Tabletas 150mg, solución IV 1mg/mL",
+      "interacaoMedicamento": "Disminuye con comida, calcio, hierro, antiácidos",
+      "posologia": "150mg VO/mes o 3mg IV cada 3 meses; 6mg IV/mes (oncología)",
+      "armazenamento": "15–30°C, protegido de la luz, refrigerado si es IV",
+      "preparo": "Administrar IV sin diluir en bolo lento (15–30 seg)",
+      "solucoesCompatíveis": "ClNa 0,9% (en protocolos específicos)",
+      "contraindicacoes": "Hipocalcemia, insuficiencia renal grave, incapacidad de estar erguido",
+      "cuidadosMedicos": "Evaluar función renal, calcio sérico, salud bucal",
+      "cuidadosFarmaceuticos": "Educar sobre administración en ayunas y almacenamiento IV",
+      "cuidadosEnfermagem": "Observar hipocalcemia y reacciones IV",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伊班膦酸钠",
+      "suspension": "全身麻醉或骨手术前7天停药",
+      "risk": "下颌骨坏死、胃肠不适、静脉麻醉药物相互作用风险；需特别注意牙科及骨科手术",
+      "reintroduction": "骨和黏膜组织愈合后再使用，评估肾功能"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伊班膦酸钠",
+      "nomeComercial": "Bonviva, Bondronat",
+      "mecanismoAcao": "抑制破骨细胞的骨吸收，提高骨密度",
+      "farmacocinetica": "口服生物利用度<1%，肾排泄，半衰期长（~10–60小时）",
+      "farmacodinamica": "降低骨转换速率，预防骨质疏松和骨转移",
+      "indicacoes": "绝经后骨质疏松，骨转移相关事件",
+      "reacoesAdversas": "消化不良、食管炎、肌骨疼痛、低钙血症、下颌骨坏死",
+      "riscoGravidez": "C类 – 禁用",
+      "riscoLactacao": "是否分泌至乳汁尚不明确",
+      "administracao": "每月口服或静脉注射",
+      "doseMaxima": "每月150mg口服或每三个月6mg静脉注射",
+      "doseMinima": "每月2mg静脉注射（肿瘤）",
+      "classificacao": "双膦酸盐抗骨吸收药",
+      "apresentacao": "150mg片剂，1mg/mL注射液",
+      "interacaoMedicamento": "食物、钙、铁、抗酸药会降低吸收",
+      "posologia": "骨质疏松：每月150mg口服或每三月3mg静脉；肿瘤：每月6mg静脉",
+      "armazenamento": "15–30°C，避光，静脉制剂需冷藏",
+      "preparo": "静脉注射时不稀释，缓慢推注15–30秒",
+      "solucoesCompatíveis": "0.9%氯化钠（特定方案）",
+      "contraindicacoes": "低钙血症、严重肾功能不全、无法直立者",
+      "cuidadosMedicos": "评估肾功能、血钙、牙齿健康",
+      "cuidadosFarmaceuticos": "指导空腹口服、静脉储存",
+      "cuidadosEnfermagem": "监测低钙症状和注射反应",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex"
+    }
+  }
+}

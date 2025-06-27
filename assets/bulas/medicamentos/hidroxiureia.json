@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Hidroxiureia",
+      "suspension": "Suspender 5 dias antes de cirurgia eletiva se leucopenia ou plaquetopenia presentes",
+      "risk": "Mielossupressão, náusea, ulceração oral, alopecia, hepatotoxicidade; risco aumentado de infecção e sangramento",
+      "reintroduction": "Reintroduzir após estabilização hematológica e ausência de infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidroxiureia",
+      "nomeComercial": "Hydrea, Droxia",
+      "mecanismoAcao": "Inibe a ribonucleotídeo redutase, bloqueando a síntese de DNA",
+      "farmacocinetica": "Via oral; pico em 1–4 h; meia-vida ~2–4 h; excreção renal",
+      "farmacodinamica": "Citotóxico seletivo em fase S do ciclo celular; reduz crises em anemia falciforme ao aumentar HbF",
+      "indicacoes": "Anemia falciforme, leucemia mieloide crônica, carcinoma de cabeça e pescoço",
+      "reacoesAdversas": "Neutropenia, plaquetopenia, anemia, náusea, úlceras orais, hiperpigmentação, alopecia",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "35 mg/kg/dia (ajustada conforme hematologia)",
+      "doseMinima": "15 mg/kg/dia",
+      "classificacao": "Antineoplásico – antimetabólito",
+      "apresentacao": "Cápsulas 500 mg",
+      "interacaoMedicamento": "Potencializa efeito mielotóxico de agentes quimioterápicos; cuidado com antirretrovirais",
+      "posologia": "15–35 mg/kg/dia VO, ajuste conforme resposta e toxicidade hematológica",
+      "armazenamento": "Temperatura ambiente, recipiente fechado",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, mielossupressão grave, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar hemograma semanal, função renal e hepática",
+      "cuidadosFarmaceuticos": "Orientar sobre sinais de toxicidade e uso regular",
+      "cuidadosEnfermagem": "Observar sinais de infecção, mucosite, alterações cutâneas",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, ASH Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hydroxyurea",
+      "suspension": "Hold 5 days before surgery if cytopenias are present",
+      "risk": "Bone marrow suppression, oral ulcers, GI upset, hepatotoxicity, increased infection risk",
+      "reintroduction": "Resume when hematologic stability and no infection are confirmed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hydroxyurea",
+      "nomeComercial": "Hydrea, Droxia",
+      "mecanismoAcao": "Inhibits ribonucleotide reductase, blocking DNA synthesis",
+      "farmacocinetica": "Oral; Tmax 1–4 h; t½ ~2–4 h; renal excretion",
+      "farmacodinamica": "Cytotoxic S-phase specific; increases HbF in sickle cell disease",
+      "indicacoes": "Sickle cell anemia, CML, head and neck cancer",
+      "reacoesAdversas": "Neutropenia, thrombocytopenia, anemia, nausea, mucositis",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "35 mg/kg/day",
+      "doseMinima": "15 mg/kg/day",
+      "classificacao": "Antimetabolite – cytotoxic",
+      "apresentacao": "500 mg capsules",
+      "interacaoMedicamento": "Myelotoxic synergy with chemo agents; caution with ARTs",
+      "posologia": "15–35 mg/kg/day PO; titrate to response",
+      "armazenamento": "Room temp, closed container",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, lactation, severe cytopenias",
+      "cuidadosMedicos": "Monitor CBC, LFTs, renal function",
+      "cuidadosFarmaceuticos": "Educate on adherence and side effects",
+      "cuidadosEnfermagem": "Check for mucositis, fever, rashes",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, ASH"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hidroxiurea",
+      "suspension": "Suspender 5 días antes de cirugía si hay citopenias",
+      "risk": "Neutropenia, anemia, mucositis, hepatotoxicidad, náuseas",
+      "reintroduction": "Reiniciar tras estabilidad hematológica y sin infección"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidroxiurea",
+      "nomeComercial": "Hydrea",
+      "mecanismoAcao": "Inhibe ribonucleótido reductasa; bloquea síntesis de ADN",
+      "farmacocinetica": "VO; t½ ~2–4 h",
+      "farmacodinamica": "Citoestático en fase S; aumenta HbF en drepanocitosis",
+      "indicacoes": "Drepanocitosis, LMC, carcinoma cabeza y cuello",
+      "reacoesAdversas": "Citopenias, mucositis, vómito, erupción, fiebre",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Prohibido",
+      "administracao": "VO",
+      "doseMaxima": "35 mg/kg/día",
+      "doseMinima": "15 mg/kg/día",
+      "classificacao": "Antineoplásico",
+      "apresentacao": "500 mg cápsulas",
+      "interacaoMedicamento": "Cuidado con QT y retrovirales",
+      "posologia": "15–35 mg/kg/día",
+      "armazenamento": "Ambiente seco",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, neutropenia severa",
+      "cuidadosMedicos": "Control hemograma, renal y hepático",
+      "cuidadosFarmaceuticos": "Informar sobre toxicidad",
+      "cuidadosEnfermagem": "Observar fiebre, mucositis, eritema",
+      "fontesBibliograficas": "EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "羟基脲（Hydroxyurea）",
+      "suspension": "术前5天停药，若白细胞或血小板明显低下",
+      "risk": "骨髓抑制、口腔溃疡、肝毒性、感染风险",
+      "reintroduction": "术后血象恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "羟基脲",
+      "nomeComercial": "Hydrea",
+      "mecanismoAcao": "抑制核苷酸还原酶，阻断DNA合成",
+      "farmacocinetica": "口服吸收快，t½ 2–4小时，经肾排泄",
+      "farmacodinamica": "作用于S期细胞；升高HbF抑制镰状危象",
+      "indicacoes": "镰状细胞病、CML、头颈部癌",
+      "reacoesAdversas": "白细胞减少、贫血、口腔炎、皮疹、胃肠不适",
+      "riscoGravidez": "D类，禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日35 mg/kg",
+      "doseMinima": "每日15 mg/kg",
+      "classificacao": "抗代谢类抗癌药",
+      "apresentacao": "500 mg胶囊",
+      "interacaoMedicamento": "与放疗、抗病毒药物增强毒性",
+      "posologia": "每日15–35 mg/kg，个体化调整",
+      "armazenamento": "常温干燥",
+      "preparo": "无需稀释",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、重度骨髓抑制",
+      "cuidadosMedicos": "监测CBC、肝肾功能",
+      "cuidadosFarmaceuticos": "教育患者遵守剂量，警惕骨髓抑制",
+      "cuidadosEnfermagem": "关注感染征象、皮疹、口腔改变",
+      "fontesBibliograficas": "FDA、UpToDate、ASH、Micromedex"
+    }
+  }
+}

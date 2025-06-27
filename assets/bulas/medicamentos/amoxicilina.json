@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Amoxicilina",
+      "suspension": "Não é necessário suspender",
+      "risk": "Baixo risco anestésico; pode ser mantido para profilaxia ou tratamento de infecção",
+      "reintroduction": "Manter no perioperatório conforme prescrição infectológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amoxicilina",
+      "nomeComercial": "Amoxil, Velamox, Novocilin, Amoxicilina Genérico",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana ligando-se às PBPs",
+      "farmacocinetica": "Boa absorção oral, não sofre metabolismo hepático significativo, excreção renal",
+      "farmacodinamica": "Bactericida de amplo espectro (gram-positivos e gram-negativos)",
+      "indicacoes": "Infecções respiratórias, urinárias, odontológicas, profilaxia de endocardite",
+      "reacoesAdversas": "Rash, náuseas, diarreia, reações alérgicas, colite pseudomembranosa",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excretado no leite, mas considerado seguro",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "3000 mg/dia (adultos)",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Antibiótico beta-lactâmico (penicilina semissintética)",
+      "apresentacao": "Cápsulas, suspensão oral, comprimidos, injetável",
+      "interacaoMedicamento": "Potencializa ação de anticoagulantes, reduz eficácia de anticoncepcionais orais",
+      "posologia": "500 mg a cada 8h ou 875 mg a cada 12h, conforme gravidade",
+      "armazenamento": "Temperatura ambiente ou refrigerado se suspensão reconstituída",
+      "preparo": "Diluir pó injetável conforme orientação da bula",
+      "solucoesCompatíveis": "SF 0,9%, Ringer lactato (uso EV)",
+      "contraindicacoes": "Alergia à penicilina ou cefalosporinas",
+      "cuidadosMedicos": "Monitorar sinais de reação alérgica e função renal em uso prolongado",
+      "cuidadosFarmaceuticos": "Reconstituir corretamente suspensão e respeitar validade",
+      "cuidadosEnfermagem": "Observar reações adversas e adesão ao horário das doses",
+      "fontesBibliograficas": "ANVISA, Micromedex, SBAn, FDA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Amoxicillin",
+      "suspension": "No need to suspend",
+      "risk": "Low anesthetic risk; can be maintained for prophylaxis or infection treatment",
+      "reintroduction": "Continue perioperatively as per infectious disease guidance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amoxicillin",
+      "nomeComercial": "Amoxil, Trimox, Moxatag, Generic Amoxicillin",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis by binding PBPs",
+      "farmacocinetica": "Well absorbed orally, minimal hepatic metabolism, renal excretion",
+      "farmacodinamica": "Broad-spectrum bactericidal (gram-positive and gram-negative)",
+      "indicacoes": "Respiratory, urinary, dental infections; endocarditis prophylaxis",
+      "reacoesAdversas": "Rash, nausea, diarrhea, allergic reactions, pseudomembranous colitis",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Excreted in breast milk, considered safe",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "3000 mg/day (adults)",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Beta-lactam antibiotic (semisynthetic penicillin)",
+      "apresentacao": "Capsules, oral suspension, tablets, injection",
+      "interacaoMedicamento": "May increase anticoagulant effect; may reduce oral contraceptive efficacy",
+      "posologia": "500 mg every 8h or 875 mg every 12h",
+      "armazenamento": "Room temperature or refrigerated if suspension is reconstituted",
+      "preparo": "Reconstitute injectable powder as per label instructions",
+      "solucoesCompatíveis": "Normal Saline, Lactated Ringer’s (IV use)",
+      "contraindicacoes": "Allergy to penicillins or cephalosporins",
+      "cuidadosMedicos": "Monitor for allergy and renal function if prolonged use",
+      "cuidadosFarmaceuticos": "Ensure proper reconstitution and expiration adherence",
+      "cuidadosEnfermagem": "Watch for adverse reactions and ensure timing adherence",
+      "fontesBibliograficas": "FDA, Micromedex, SBAn, ANVISA, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Amoxicilina",
+      "suspension": "No requiere suspensión",
+      "risk": "Riesgo anestésico bajo; puede mantenerse para profilaxis o infección",
+      "reintroduction": "Continuar en el perioperatorio según indicación infectológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amoxicilina",
+      "nomeComercial": "Amoxil, Clamoxyl, Amoxicilina Genérico",
+      "mecanismoAcao": "Inhibe la síntesis de la pared celular bacteriana",
+      "farmacocinetica": "Buena absorción oral, excreción renal sin metabolismo hepático importante",
+      "farmacodinamica": "Bactericida de amplio espectro (gram+ y gram−)",
+      "indicacoes": "Infecciones respiratorias, urinarias, odontológicas, profilaxis de endocarditis",
+      "reacoesAdversas": "Erupción cutánea, náuseas, diarrea, reacciones alérgicas, colitis pseudomembranosa",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Se excreta en leche materna, pero es seguro",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "3000 mg/día (adultos)",
+      "doseMinima": "250 mg/dosis",
+      "classificacao": "Antibiótico betalactámico (penicilina semisintética)",
+      "apresentacao": "Cápsulas, suspensión oral, comprimidos, inyectable",
+      "interacaoMedicamento": "Potencia anticoagulantes, reduce anticonceptivos orales",
+      "posologia": "500 mg cada 8h o 875 mg cada 12h",
+      "armazenamento": "Ambiente o refrigerado si es suspensión reconstituida",
+      "preparo": "Diluir el polvo inyectable según la ficha técnica",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%, Ringer lactato (uso IV)",
+      "contraindicacoes": "Alergia a penicilinas o cefalosporinas",
+      "cuidadosMedicos": "Monitorear alergias y función renal si uso prolongado",
+      "cuidadosFarmaceuticos": "Reconstituir correctamente y respetar la fecha de caducidad",
+      "cuidadosEnfermagem": "Observar reacciones y cumplimiento de horario",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿莫西林",
+      "suspension": "无需停药",
+      "risk": "麻醉风险低，可用于围手术期感染控制",
+      "reintroduction": "按感染科建议继续使用，无需中断"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿莫西林",
+      "nomeComercial": "阿莫西林胶囊, 阿莫西林颗粒, 阿莫西林注射液",
+      "mecanismoAcao": "通过结合PBP抑制细菌细胞壁合成",
+      "farmacocinetica": "口服吸收良好，肝代谢少，经肾排泄",
+      "farmacodinamica": "广谱杀菌剂（革兰氏阳性与阴性）",
+      "indicacoes": "呼吸道、泌尿道、牙科感染，心内膜炎预防",
+      "reacoesAdversas": "皮疹、恶心、腹泻、过敏、伪膜性肠炎",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "少量排入乳汁，通常安全",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日3000毫克（成人）",
+      "doseMinima": "每次250毫克",
+      "classificacao": "β-内酰胺类抗生素（半合成青霉素）",
+      "apresentacao": "胶囊、口服混悬液、片剂、注射剂",
+      "interacaoMedicamento": "增强抗凝药作用，可能降低口服避孕药效果",
+      "posologia": "每8小时500毫克或每12小时875毫克",
+      "armazenamento": "常温保存，混悬液需冷藏",
+      "preparo": "注射剂按说明书稀释",
+      "solucoesCompatíveis": "0.9%氯化钠，乳酸林格氏液（IV）",
+      "contraindicacoes": "对青霉素或头孢菌素过敏",
+      "cuidadosMedicos": "监测过敏反应及肾功能",
+      "cuidadosFarmaceuticos": "正确重构并注意有效期",
+      "cuidadosEnfermagem": "观察不良反应，确保按时服药",
+      "fontesBibliograficas": "中国药典, Micromedex, FDA, EMA"
+    }
+  }
+}

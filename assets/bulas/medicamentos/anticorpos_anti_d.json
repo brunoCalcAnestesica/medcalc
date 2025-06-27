@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Imunoglobulina anti-D (Rh0[D])",
+      "suspension": "Não suspender; uso indicado profilaticamente em gestantes Rh- ou em situações de isoimunização",
+      "risk": "Reações locais, febre, raramente hemólise. Necessário compatibilização e registro preciso da indicação obstétrica ou transfusional.",
+      "reintroduction": "Reaplicar conforme protocolos obstétricos (28 semanas e até 72 h pós-parto ou eventos sensibilizantes)."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imunoglobulina humana anti-D (Rh0[D])",
+      "nomeComercial": "Rhophylac, RhoGAM, Rhogamma",
+      "mecanismoAcao": "Liga-se a eritrócitos Rh+ fetais no sangue materno, evitando sensibilização e formação de anticorpos anti-D pela mãe",
+      "farmacocinetica": "Meia-vida de 21–30 dias; distribuição extravascular; metabolismo hepático",
+      "farmacodinamica": "Previne aloimunização materna em gestantes Rh- expostas a sangue fetal Rh+",
+      "indicacoes": "Profilaxia em gestantes Rh- com feto Rh+, aborto, amniocentese, transfusão incompatível",
+      "reacoesAdversas": "Febre, cefaleia, mialgia, reação local, hemólise (raro), reação anafilática (muito raro)",
+      "riscoGravidez": "Categoria C (uso indicado exclusivamente para prevenção fetal)",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "IM ou IV, conforme formulação e protocolo clínico",
+      "doseMaxima": "300 mcg (1500 UI) por dose IM ou IV",
+      "doseMinima": "50 mcg (250 UI) em aborto precoce",
+      "classificacao": "Imunoglobulina específica – anticorpo monoclonal anti-D",
+      "apresentacao": "Seringas pré-cheias de 50–300 mcg (250–1500 UI)",
+      "interacaoMedicamento": "Interfere com vacinas de vírus vivos (ex: sarampo, rubéola); intervalo mínimo de 3 semanas",
+      "posologia": "300 mcg IM/IV entre 28–30 semanas e até 72 h após parto/aborto/amniocentese",
+      "armazenamento": "2–8 °C; não congelar; proteger da luz",
+      "preparo": "Pronto para uso; administrar conforme técnica asséptica",
+      "solucoesCompatíveis": "Não aplicável (administração única IM/IV)",
+      "contraindicacoes": "Hipersensibilidade a imunoglobulinas humanas, anemia hemolítica ativa",
+      "cuidadosMedicos": "Monitorar reações imediatas, histórico de sensibilização Rh",
+      "cuidadosFarmaceuticos": "Conferir data, lote e tipagem materna",
+      "cuidadosEnfermagem": "Observar por reações nos primeiros 30 minutos; aplicar via correta (IM ou IV)",
+      "fontesBibliograficas": "ANVISA, ACOG, SBH, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Anti-D Immunoglobulin (Rh0[D])",
+      "suspension": "Not suspended; indicated in Rh- pregnant women or transfusion mismatches",
+      "risk": "Local reactions, fever, rare hemolysis. Monitor after injection. Prevents maternal alloimmunization.",
+      "reintroduction": "Re-administer per obstetric protocol at 28 weeks and within 72h of delivery/exposure."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rh0(D) Immune Globulin",
+      "nomeComercial": "RhoGAM, Rhophylac, MICRhoGAM",
+      "mecanismoAcao": "Binds fetal Rh+ RBCs in maternal circulation, preventing maternal anti-D antibody formation",
+      "farmacocinetica": "T½ 21–30 days; hepatic clearance",
+      "farmacodinamica": "Prevents maternal sensitization and hemolytic disease of newborn",
+      "indicacoes": "Rh- mothers with Rh+ fetus, abortion, amniocentesis, transfusion mismatch",
+      "reacoesAdversas": "Fever, injection site pain, myalgia, rare hemolysis or anaphylaxis",
+      "riscoGravidez": "Category C (used for fetal benefit)",
+      "riscoLactacao": "Safe during breastfeeding",
+      "administracao": "IM or IV",
+      "doseMaxima": "300 mcg (1500 IU)",
+      "doseMinima": "50 mcg (250 IU)",
+      "classificacao": "Specific immunoglobulin – Anti-D monoclonal antibody",
+      "apresentacao": "Prefilled syringe 50–300 mcg",
+      "interacaoMedicamento": "Delays live vaccine responses; space MMR/varicella by 3 weeks",
+      "posologia": "300 mcg at 28 weeks and within 72h postpartum or after sensitizing events",
+      "armazenamento": "2–8 °C; do not freeze; protect from light",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "IgA deficiency with antibodies, severe anemia",
+      "cuidadosMedicos": "Verify Rh typing and prior sensitization",
+      "cuidadosFarmaceuticos": "Keep cold chain; confirm expiration",
+      "cuidadosEnfermagem": "Observe 30 min post-injection; route IM or IV per label",
+      "fontesBibliograficas": "ACOG, FDA, CDC, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Inmunoglobulina anti-D (Rh0[D])",
+      "suspension": "No se suspende; se indica en embarazos Rh- con feto Rh+ o exposición",
+      "risk": "Reacciones locales, fiebre, hemólisis rara. Controlar antecedentes de sensibilización Rh.",
+      "reintroduction": "Aplicar a las 28 semanas y dentro de 72h postparto o exposición fetal Rh+"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Inmunoglobulina anti-D",
+      "nomeComercial": "Rhophylac, RhoGAM",
+      "mecanismoAcao": "Bloquea eritrocitos fetales Rh+ en sangre materna, evitando inmunización",
+      "farmacocinetica": "t½ 21–30 días",
+      "farmacodinamica": "Previene enfermedad hemolítica del recién nacido",
+      "indicacoes": "Profilaxis Rh en embarazo, aborto, procedimientos invasivos",
+      "reacoesAdversas": "Dolor local, fiebre, eritema, hemólisis leve",
+      "riscoGravidez": "Categoría C (uso profiláctico)",
+      "riscoLactacao": "Compatible",
+      "administracao": "IM o IV según producto",
+      "doseMaxima": "300 mcg (1500 UI)",
+      "doseMinima": "50 mcg (250 UI)",
+      "classificacao": "Inmunoglobulina específica anti-D",
+      "apresentacao": "Jeringas precargadas 50–300 mcg",
+      "interacaoMedicamento": "Interfiere vacunas vivas (sarampión, varicela)",
+      "posologia": "300 mcg IM/IV a semana 28 y postparto",
+      "armazenamento": "2–8 °C, no congelar",
+      "preparo": "Uso directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Deficiencia de IgA, anemia hemolítica",
+      "cuidadosMedicos": "Verificar grupo Rh y exposiciones previas",
+      "cuidadosFarmaceuticos": "Cadena de frío, verificar caducidad",
+      "cuidadosEnfermagem": "Observar reacción 30 min post dosis",
+      "fontesBibliograficas": "AEMPS, OMS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "抗D免疫球蛋白",
+      "suspension": "术前无需停用；在Rh阴性孕妇中按产科方案使用",
+      "risk": "局部反应、发热、罕见溶血；须Rh配型准确",
+      "reintroduction": "按孕周28和产后72小时内再次给予"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "人抗D免疫球蛋白",
+      "nomeComercial": "Rhophylac、RhoGAM",
+      "mecanismoAcao": "结合胎儿Rh+红细胞，阻断母体免疫识别，预防致敏",
+      "farmacocinetica": "半衰期约21–30天",
+      "farmacodinamica": "防止母体产生抗D抗体，避免新生儿溶血",
+      "indicacoes": "Rh阴性孕妇暴露Rh+胎儿血，如分娩、流产、穿刺等",
+      "reacoesAdversas": "注射部位红肿、低热、轻微溶血",
+      "riscoGravidez": "C类（为胎儿指征使用）",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "肌注或静注（视制剂）",
+      "doseMaxima": "300 mcg（1500 IU）",
+      "doseMinima": "50 mcg（250 IU）",
+      "classificacao": "特异性免疫球蛋白 – 抗D抗体",
+      "apresentacao": "50–300 mcg预充注射器",
+      "interacaoMedicamento": "影响活疫苗效果，应间隔3周",
+      "posologia": "妊娠28周一次，产后72小时内再注",
+      "armazenamento": "2–8°C冷藏，避免冷冻",
+      "preparo": "即用型",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "IgA缺陷合并抗IgA抗体，重度贫血",
+      "cuidadosMedicos": "核查母体Rh血型及抗体史",
+      "cuidadosFarmaceuticos": "保持冷链，避免震荡",
+      "cuidadosEnfermagem": "注射后30分钟观察反应",
+      "fontesBibliograficas": "中国妇产科学会、UpToDate、Micromedex"
+    }
+  }
+}

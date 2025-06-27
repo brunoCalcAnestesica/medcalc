@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Colistina",
+      "suspension": "Manter até o dia da cirurgia se houver infecção ativa",
+      "risk": "Potencial nefrotoxicidade e interação com anestésicos; risco de bloqueio neuromuscular",
+      "reintroduction": "Reintroduzir com monitorização renal e avaliação clínica pós-operatória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Colistimetato de sódio (colistina)",
+      "nomeComercial": "Coly-Mycin, Promixin",
+      "mecanismoAcao": "Disrupta a membrana celular bacteriana por interação com lipopolissacarídeos",
+      "farmacocinetica": "Administração IV ou inalatória; pró-fármaco convertido em colistina ativa; excreção renal",
+      "farmacodinamica": "Bactericida contra Gram-negativos multirresistentes, incluindo Pseudomonas e Acinetobacter",
+      "indicacoes": "Infecções por bacilos Gram-negativos MDR, pneumonia hospitalar, infecções urinárias complicadas",
+      "reacoesAdversas": "Nefrotoxicidade, neurotoxicidade, parestesias, broncoespasmo (inalatório)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; usar com cautela",
+      "administracao": "Intravenosa ou inalatória",
+      "doseMaxima": "9 MIU/dia (3 MIU a cada 8h)",
+      "doseMinima": "2 MIU a cada 8h",
+      "classificacao": "Polimixina (antibiótico polipeptídico)",
+      "apresentacao": "Frascos-ampola 1, 2 ou 4,5 MIU para reconstituição",
+      "interacaoMedicamento": "Potencializa bloqueadores neuromusculares; cuidado com outros nefrotóxicos",
+      "posologia": "2,5–5 mg/kg/dia de colistina base divididos a cada 8h",
+      "armazenamento": "Pó: temperatura ambiente; solução: refrigerar por até 24h",
+      "preparo": "Reconstituir com água estéril ou SF 0,9%; administrar lentamente",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Miastenia grave, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar função renal, sinais neurológicos e respiratórios",
+      "cuidadosFarmaceuticos": "Preparar imediatamente antes do uso, respeitar estabilidade",
+      "cuidadosEnfermagem": "Observar sinais de neurotoxicidade e função renal",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Colistin",
+      "suspension": "Continue until surgery if treating active infection",
+      "risk": "Risk of nephrotoxicity and neuromuscular blockade with anesthetics",
+      "reintroduction": "Restart post-op with renal monitoring and clinical evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Colistimethate sodium",
+      "nomeComercial": "Coly-Mycin M, Promixin",
+      "mecanismoAcao": "Disrupts bacterial membranes by interacting with lipopolysaccharides",
+      "farmacocinetica": "IV or inhaled; prodrug converted to colistin; renal excretion",
+      "farmacodinamica": "Bactericidal against MDR Gram-negative bacteria, including Pseudomonas and Acinetobacter",
+      "indicacoes": "MDR Gram-negative infections, HAP, complicated UTIs",
+      "reacoesAdversas": "Nephrotoxicity, neurotoxicity, paresthesia, bronchospasm (inhaled)",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "Intravenous or inhaled",
+      "doseMaxima": "9 MIU/day (3 MIU q8h)",
+      "doseMinima": "2 MIU q8h",
+      "classificacao": "Polymyxin antibiotic",
+      "apresentacao": "Vials of 1, 2, or 4.5 MIU for reconstitution",
+      "interacaoMedicamento": "Enhances neuromuscular blockers; caution with nephrotoxins",
+      "posologia": "2.5–5 mg/kg/day of colistin base in 3 divided doses",
+      "armazenamento": "Powder: room temp; solution: refrigerate up to 24h",
+      "preparo": "Reconstitute with sterile water or NS; infuse slowly",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Myasthenia gravis, hypersensitivity",
+      "cuidadosMedicos": "Monitor renal, neurologic and respiratory function",
+      "cuidadosFarmaceuticos": "Prepare immediately prior to use; follow stability guidelines",
+      "cuidadosEnfermagem": "Watch for neurotoxicity and renal dysfunction",
+      "fontesBibliograficas": "FDA, BNF, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Colistina",
+      "suspension": "Mantener hasta el día de la cirugía si hay infección activa",
+      "risk": "Riesgo de nefrotoxicidad y bloqueo neuromuscular con anestesia",
+      "reintroduction": "Reintroducir con control renal y evaluación clínica postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Colistimetato de sodio",
+      "nomeComercial": "Coly-Mycin, Promixin",
+      "mecanismoAcao": "Disrupta la membrana bacteriana por interacción con lipopolisacáridos",
+      "farmacocinetica": "IV o inhalada; profármaco convertido en colistina; excreción renal",
+      "farmacodinamica": "Bactericida contra Gram-negativos MDR incluyendo Pseudomonas y Acinetobacter",
+      "indicacoes": "Infecciones por Gram-negativos MDR, neumonía nosocomial, ITU complicadas",
+      "reacoesAdversas": "Nefrotoxicidad, neurotoxicidad, parestesias, broncoespasmo (inhalado)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Intravenosa o inhalatoria",
+      "doseMaxima": "9 MIU/día (3 MIU cada 8h)",
+      "doseMinima": "2 MIU cada 8h",
+      "classificacao": "Polimixina (antibiótico polipeptídico)",
+      "apresentacao": "Viales de 1, 2 o 4.5 MIU",
+      "interacaoMedicamento": "Potencia bloqueadores neuromusculares; precaución con nefrotóxicos",
+      "posologia": "2.5–5 mg/kg/día de base dividida cada 8h",
+      "armazenamento": "Polvo a temperatura ambiente; solución refrigerada hasta 24h",
+      "preparo": "Reconstituir con agua estéril o SF 0,9%; administrar lentamente",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Miastenia grave, hipersensibilidad",
+      "cuidadosMedicos": "Monitorizar función renal, neurológica y respiratoria",
+      "cuidadosFarmaceuticos": "Preparar antes de usar; respetar estabilidad",
+      "cuidadosEnfermagem": "Observar toxicidad neurológica y función renal",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "多粘菌素E（黏菌素）",
+      "suspension": "术前如感染活动，可继续使用至手术日",
+      "risk": "麻醉中可能出现肾毒性和神经肌肉阻断",
+      "reintroduction": "术后在监测肾功能和临床评估后重新给予"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磺酸钠粘菌素（CMS）",
+      "nomeComercial": "Coly-Mycin M, Promixin",
+      "mecanismoAcao": "与细菌脂多糖结合，破坏细胞膜通透性",
+      "farmacocinetica": "静脉或吸入给药，CMS转化为活性粘菌素，经肾排泄",
+      "farmacodinamica": "对多药耐药革兰阴性菌具有杀菌作用，如鲍曼不动杆菌和铜绿假单胞菌",
+      "indicacoes": "耐药革兰阴性菌感染、医院获得性肺炎、复杂性尿路感染",
+      "reacoesAdversas": "肾毒性、神经毒性、感觉异常、支气管痉挛（吸入）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期使用需谨慎",
+      "administracao": "静脉注射或吸入",
+      "doseMaxima": "每日9百万国际单位（每8小时3百万单位）",
+      "doseMinima": "每8小时2百万单位",
+      "classificacao": "多粘菌素类抗生素",
+      "apresentacao": "1、2或4.5百万单位注射用粉末",
+      "interacaoMedicamento": "增强神经肌肉阻滞药效，应避免与肾毒性药物合用",
+      "posologia": "以粘菌素基质计，每日2.5–5 mg/kg，分3次给药",
+      "armazenamento": "粉剂常温保存，配制后冷藏24小时内使用",
+      "preparo": "用无菌水或0.9%氯化钠注射液溶解，缓慢注射",
+      "solucoesCompatíveis": "0.9%氯化钠注射液",
+      "contraindicacoes": "重症肌无力、已知过敏史",
+      "cuidadosMedicos": "密切监测肾功能、神经及呼吸状况",
+      "cuidadosFarmaceuticos": "现配现用，遵循药液稳定性要求",
+      "cuidadosEnfermagem": "监测神经毒性和肾功能变化",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

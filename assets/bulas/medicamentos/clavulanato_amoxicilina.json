@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clavulanato de Amoxicilina",
+      "suspension": "Não suspender em cirurgias eletivas; pode ser mantido se em uso por infecção ativa",
+      "risk": "Pode causar reações alérgicas, diarreia e interação com anticoagulantes orais; risco baixo de sangramento",
+      "reintroduction": "Pode ser mantido ou reintroduzido conforme indicação clínica pós-operatória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amoxicilina + Ácido Clavulânico",
+      "nomeComercial": "Clavulin, Augmentin, Amoxil BD",
+      "mecanismoAcao": "Amoxicilina inibe a síntese da parede celular bacteriana; ácido clavulânico inibe beta-lactamases",
+      "farmacocinetica": "Boa absorção oral, meia-vida ~1h (amoxicilina) e ~1h (clavulânico); excreção renal",
+      "farmacodinamica": "Amplo espectro contra Gram-positivos, Gram-negativos e anaeróbios produtores de beta-lactamase",
+      "indicacoes": "Infecções de vias respiratórias, urinárias, odontológicas, pele, tecidos moles e infecções abdominais",
+      "reacoesAdversas": "Diarreia, náusea, rash, candidíase oral ou vaginal, hepatite colestática rara",
+      "riscoGravidez": "Categoria B – seguro na gravidez",
+      "riscoLactacao": "Seguro; excreção pequena no leite materno",
+      "administracao": "Via oral ou intravenosa",
+      "doseMaxima": "Amoxicilina: 3000 mg/dia; Clavulânico: 375 mg/dia",
+      "doseMinima": "500/125 mg duas vezes ao dia",
+      "classificacao": "Antibiótico penicilínico com inibidor de beta-lactamase",
+      "apresentacao": "Comprimidos, suspensão oral, frascos EV",
+      "interacaoMedicamento": "Potencializa ação da varfarina; pode reduzir eficácia de contraceptivos orais",
+      "posologia": "Adultos: 875/125 mg VO a cada 12h; IV: 1,2 g a cada 8h",
+      "armazenamento": "Suspensão oral sob refrigeração após preparo; comprimidos e frascos secos em temperatura ambiente",
+      "preparo": "Suspensão oral: agitar antes de usar; EV: reconstituir com água estéril",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a penicilinas, história de colestase por amoxicilina/clavulânico",
+      "cuidadosMedicos": "Monitorar função hepática em uso prolongado ou em idosos",
+      "cuidadosFarmaceuticos": "Observar estabilidade da suspensão após preparo",
+      "cuidadosEnfermagem": "Administrar com alimentos para reduzir efeitos GI; monitorar rash e diarreia",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Amoxicillin-Clavulanate",
+      "suspension": "Do not discontinue in elective surgery if used for active infection",
+      "risk": "Risk of GI upset, allergic reactions, increased INR with warfarin; low bleeding risk",
+      "reintroduction": "May be maintained or resumed as needed post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amoxicillin + Clavulanic acid",
+      "nomeComercial": "Augmentin",
+      "mecanismoAcao": "Amoxicillin inhibits bacterial cell wall synthesis; clavulanate blocks beta-lactamase enzymes",
+      "farmacocinetica": "Well absorbed orally, half-life ~1h; renal excretion",
+      "farmacodinamica": "Broad spectrum including beta-lactamase producing organisms",
+      "indicacoes": "Respiratory, urinary, dental, skin, soft tissue, and abdominal infections",
+      "reacoesAdversas": "Diarrhea, nausea, rash, candidiasis, rare hepatotoxicity",
+      "riscoGravidez": "Category B – considered safe",
+      "riscoLactacao": "Safe; low milk excretion",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "Amoxicillin: 3000 mg/day; Clavulanate: 375 mg/day",
+      "doseMinima": "500/125 mg BID",
+      "classificacao": "Beta-lactam antibiotic + beta-lactamase inhibitor",
+      "apresentacao": "Tablets, oral suspension, IV vials",
+      "interacaoMedicamento": "Potentiates warfarin; may reduce oral contraceptive efficacy",
+      "posologia": "875/125 mg PO every 12h; 1.2 g IV every 8h",
+      "armazenamento": "Oral suspension: refrigerate after mixing; dry tablets at room temp",
+      "preparo": "Shake suspension well; reconstitute IV with sterile water",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Penicillin allergy, prior cholestatic hepatitis with this combo",
+      "cuidadosMedicos": "Monitor liver enzymes in prolonged use",
+      "cuidadosFarmaceuticos": "Observe suspension stability",
+      "cuidadosEnfermagem": "Give with food; monitor for GI symptoms or rash",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Amoxicilina-Clavulanato",
+      "suspension": "No suspender si se utiliza por infección activa",
+      "risk": "Reacciones alérgicas, diarrea, aumento de INR con warfarina; bajo riesgo hemorrágico",
+      "reintroduction": "Mantener o reintroducir según indicación clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amoxicilina + Ácido clavulánico",
+      "nomeComercial": "Augmentin, Clavulin",
+      "mecanismoAcao": "Amoxicilina inhibe la pared celular; clavulánico inhibe beta-lactamasas",
+      "farmacocinetica": "Buena absorción oral, vida media ~1h; excreción renal",
+      "farmacodinamica": "Espectro amplio incluyendo bacterias beta-lactamasas",
+      "indicacoes": "Infecciones respiratorias, urinarias, dentales, piel y abdomen",
+      "reacoesAdversas": "Diarrea, náuseas, candidiasis, rash, hepatotoxicidad rara",
+      "riscoGravidez": "Categoría B – seguro",
+      "riscoLactacao": "Seguro; excreción mínima",
+      "administracao": "VO o IV",
+      "doseMaxima": "Amoxicilina: 3000 mg/día; Clavulánico: 375 mg/día",
+      "doseMinima": "500/125 mg cada 12h",
+      "classificacao": "Penicilina + inhibidor de beta-lactamasas",
+      "apresentacao": "Comprimidos, suspensión, viales IV",
+      "interacaoMedicamento": "Potencia warfarina; reduce anticonceptivos orales",
+      "posologia": "875/125 mg VO cada 12h; 1,2 g IV cada 8h",
+      "armazenamento": "Suspensión: refrigerar; comprimidos: ambiente",
+      "preparo": "Agitar bien; IV: reconstituir con agua estéril",
+      "solucoesCompatíveis": "ClNa 0,9%, Glucosa 5%",
+      "contraindicacoes": "Alergia a penicilinas, hepatitis colestásica previa",
+      "cuidadosMedicos": "Control hepático si uso prolongado",
+      "cuidadosFarmaceuticos": "Estabilidad de suspensión",
+      "cuidadosEnfermagem": "Administrar con comida; vigilar efectos GI",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿莫西林/克拉维酸",
+      "suspension": "如因感染使用，择期手术前可继续使用",
+      "risk": "过敏、腹泻、INR升高（联用华法林）；出血风险低",
+      "reintroduction": "术后根据感染情况决定是否继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿莫西林 + 克拉维酸",
+      "nomeComercial": "Augmentin, 克拉维林",
+      "mecanismoAcao": "阿莫西林抑制细胞壁合成；克拉维酸抑制β-内酰胺酶",
+      "farmacocinetica": "口服吸收良好，半衰期约1小时，肾排泄",
+      "farmacodinamica": "广谱抗菌，覆盖产酶菌株",
+      "indicacoes": "呼吸道、泌尿道、皮肤、口腔、腹腔感染",
+      "reacoesAdversas": "腹泻、恶心、皮疹、念珠菌感染、肝损伤（少见）",
+      "riscoGravidez": "B类 – 安全",
+      "riscoLactacao": "安全，少量分泌",
+      "administracao": "口服或静脉",
+      "doseMaxima": "阿莫西林：每日3000毫克；克拉维酸：每日375毫克",
+      "doseMinima": "每日2次500/125毫克",
+      "classificacao": "青霉素类 + β-内酰胺酶抑制剂",
+      "apresentacao": "片剂、口服混悬液、注射用粉末",
+      "interacaoMedicamento": "增强华法林；可能降低避孕药效果",
+      "posologia": "875/125 毫克口服每12小时；IV: 每8小时1.2克",
+      "armazenamento": "混悬液需冷藏；干片室温保存",
+      "preparo": "混悬液使用前摇匀；注射液需稀释",
+      "solucoesCompatíveis": "氯化钠0.9%、葡萄糖5%",
+      "contraindicacoes": "青霉素过敏、曾有胆汁性肝炎史",
+      "cuidadosMedicos": "长期用药需监测肝功能",
+      "cuidadosFarmaceuticos": "混悬液开封后保质期短，需冷藏",
+      "cuidadosEnfermagem": "与食物同服可减少胃肠不适",
+      "fontesBibliograficas": "中国药典、UpToDate、Micromedex、WHO"
+    }
+  }
+}

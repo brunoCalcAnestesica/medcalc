@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vitamina B6 (Piridoxina)",
+      "suspension": "Não requer suspensão em cirurgias eletivas de rotina",
+      "risk": "Segura em doses fisiológicas; uso crônico em megadoses pode causar neuropatia periférica",
+      "reintroduction": "Pode ser mantida ou reintroduzida 24h após o procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piridoxina (Vitamina B6)",
+      "nomeComercial": "Benerva B6, Lavitan B6, Natrol B6, Centum B",
+      "mecanismoAcao": "Cofator enzimático na transaminação de aminoácidos, metabolismo do triptofano, síntese de neurotransmissores (GABA, serotonina)",
+      "farmacocinetica": "Absorção intestinal eficiente; metabolização hepática; excreção renal",
+      "farmacodinamica": "Atua em funções neurológicas, hematopoiéticas, imunes e hormonais",
+      "indicacoes": "Náuseas na gestação, TPM, síndrome do túnel do carpo, neuropatias, anemia sideroblástica",
+      "reacoesAdversas": "Formigamento, ataxia (doses >200 mg/dia crônicas), sonolência",
+      "riscoGravidez": "Categoria A – seguro em doses até 50 mg/dia",
+      "riscoLactacao": "Seguro em doses até 20 mg/dia",
+      "administracao": "Oral ou IM/IV (uso clínico)",
+      "doseMaxima": "100 mg/dia por via oral; até 200 mg/dia com supervisão",
+      "doseMinima": "1,3–1,7 mg/dia (IDR adulto)",
+      "classificacao": "Vitamina hidrossolúvel essencial do complexo B",
+      "apresentacao": "Comprimidos, cápsulas, gotas, ampolas",
+      "interacaoMedicamento": "Isoniazida, hidralazina e anticoncepcionais orais reduzem B6 ativa",
+      "posologia": "25–50 mg/dia; até 100 mg/dia para TPM ou náusea gestacional",
+      "armazenamento": "Ambiente seco, fresco, protegido da luz",
+      "preparo": "Estável em pH neutro; incompatível com luz direta",
+      "solucoesCompatíveis": "B12, magnésio, zinco, B2, triptofano",
+      "contraindicacoes": "Alergia, neuropatia ativa induzida por megadoses prévias",
+      "cuidadosMedicos": "Evitar uso contínuo acima de 100 mg/dia sem controle neurológico",
+      "cuidadosFarmaceuticos": "Esclarecer diferença entre suplementação e terapia farmacológica",
+      "cuidadosEnfermagem": "Observar resposta em náuseas, TPM, parestesias",
+      "fontesBibliograficas": "PubMed, UpToDate, Medscape, Natural Medicines, NIH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vitamin B6 (Pyridoxine)",
+      "suspension": "No need to suspend before elective procedures",
+      "risk": "Generally safe; long-term high doses (>200 mg/day) may cause neuropathy",
+      "reintroduction": "Can be continued or restarted 24h after surgery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pyridoxine (Vitamin B6)",
+      "nomeComercial": "Nature’s Bounty B6, NOW B6, Solgar B6, Benerva B6",
+      "mecanismoAcao": "Coenzyme for amino acid metabolism, neurotransmitter synthesis, and hemoglobin production",
+      "farmacocinetica": "Well absorbed orally; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Supports neurological function, mood regulation, immunity, hormone balance",
+      "indicacoes": "Morning sickness, PMS, peripheral neuropathy, sideroblastic anemia, depression",
+      "reacoesAdversas": "Neuropathy at high doses, sedation, photosensitivity (rare)",
+      "riscoGravidez": "Category A – safe up to 50 mg/day",
+      "riscoLactacao": "Safe up to 20 mg/day",
+      "administracao": "Oral or parenteral",
+      "doseMaxima": "100 mg/day; up to 200 mg/day under supervision",
+      "doseMinima": "1.3–1.7 mg/day (RDA)",
+      "classificacao": "Essential water-soluble B-complex vitamin",
+      "apresentacao": "Capsules, tablets, liquids, ampoules",
+      "interacaoMedicamento": "Affected by isoniazid, hydralazine, oral contraceptives",
+      "posologia": "25–100 mg/day depending on indication",
+      "armazenamento": "Store in a cool, dry, light-protected place",
+      "preparo": "Stable at neutral pH; light-sensitive",
+      "solucoesCompatíveis": "Magnesium, zinc, tryptophan, B2, B12",
+      "contraindicacoes": "Known allergy or B6-induced neuropathy",
+      "cuidadosMedicos": "Avoid long-term megadoses without neurological monitoring",
+      "cuidadosFarmaceuticos": "Distinguish RDA supplementation from pharmacologic dosing",
+      "cuidadosEnfermagem": "Monitor improvement in nausea, mood, neuropathic symptoms",
+      "fontesBibliograficas": "NIH, Medscape, UpToDate, Natural Medicines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vitamina B6 (Piridoxina)",
+      "suspension": "No requiere suspensión antes de cirugía rutinaria",
+      "risk": "Segura; riesgo de neuropatía con uso crónico a altas dosis",
+      "reintroduction": "Puede mantenerse o reiniciar 24h después de la cirugía"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piridoxina (Vitamina B6)",
+      "nomeComercial": "Benerva B6, Solgar B6, Vitamina B6 Now",
+      "mecanismoAcao": "Cofactor en metabolismo de aminoácidos, neurotransmisores y síntesis de hemoglobina",
+      "farmacocinetica": "Buena absorción oral, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Función neurológica, hormonal e inmune",
+      "indicacoes": "Náuseas gestacionales, síndrome premenstrual, anemia, neuropatía periférica",
+      "reacoesAdversas": "Neuropatía por dosis crónica alta (>200 mg/día), somnolencia leve",
+      "riscoGravidez": "Categoría A – segura hasta 50 mg/día",
+      "riscoLactacao": "Segura hasta 20 mg/día",
+      "administracao": "Oral o parenteral",
+      "doseMaxima": "100 mg/día sin control; hasta 200 mg/día bajo supervisión",
+      "doseMinima": "1,3–1,7 mg/día (IDR)",
+      "classificacao": "Vitamina hidrosoluble esencial para metabolismo nervioso y hormonal",
+      "apresentacao": "Comprimidos, cápsulas, soluciones, ampollas",
+      "interacaoMedicamento": "Isoniacida, hidralazina y anticonceptivos reducen su biodisponibilidad",
+      "posologia": "25–100 mg/día según indicación",
+      "armazenamento": "Lugar seco, fresco, sin luz directa",
+      "preparo": "Fotosensible, estable a pH neutro",
+      "solucoesCompatíveis": "Zinc, magnesio, B2, triptófano",
+      "contraindicacoes": "Alergia o neuropatía por B6 previa",
+      "cuidadosMedicos": "Evitar uso prolongado en dosis altas sin control",
+      "cuidadosFarmaceuticos": "Diferenciar entre suplementación y terapia",
+      "cuidadosEnfermagem": "Observar síntomas neurológicos y de náuseas",
+      "fontesBibliograficas": "PubMed, EMA, Medscape, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "维生素B6（吡哆醇）",
+      "suspension": "常规手术无需停用",
+      "risk": "长期大剂量可能导致周围神经病变",
+      "reintroduction": "术后24小时可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "吡哆醇（维生素B6）",
+      "nomeComercial": "维B6片、贝纳维、Solgar维B6",
+      "mecanismoAcao": "辅酶作用，参与氨基酸代谢、神经递质合成、红细胞生成",
+      "farmacocinetica": "口服吸收好，经肝代谢，肾排出",
+      "farmacodinamica": "神经调节、免疫功能支持、孕期抗恶心",
+      "indicacoes": "早孕呕吐、经前综合征、神经炎、贫血",
+      "reacoesAdversas": "大剂量可能手麻、共济失调、嗜睡",
+      "riscoGravidez": "A类 – ≤50毫克/天安全",
+      "riscoLactacao": "≤20毫克/天安全",
+      "administracao": "口服或注射",
+      "doseMaxima": "每日不超100毫克，无监督不宜长期>200毫克",
+      "doseMinima": "1.3–1.7毫克/天（RDA）",
+      "classificacao": "水溶性B族维生素，神经支持因子",
+      "apresentacao": "片剂、胶囊、注射液、维生素复合剂",
+      "interacaoMedicamento": "异烟肼、口服避孕药、肼屈嗪降低B6水平",
+      "posologia": "每日25–100毫克，按需调整",
+      "armazenamento": "避光干燥保存",
+      "preparo": "对光敏感，需避光配制",
+      "solucoesCompatíveis": "镁、锌、维B2、色氨酸",
+      "contraindicacoes": "B6过敏，既往B6诱发神经病",
+      "cuidadosMedicos": "长期使用建议监测神经症状",
+      "cuidadosFarmaceuticos": "强调营养剂量与药用剂量差异",
+      "cuidadosEnfermagem": "记录恶心缓解、手脚麻木变化",
+      "fontesBibliograficas": "中国药典、PubMed、NIH、UpToDate、Natural Medicines"
+    }
+  }
+}

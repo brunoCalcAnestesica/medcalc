@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pegaspargase",
+      "suspension": "Suspender 2 a 4 semanas antes de cirurgia eletiva se possível",
+      "risk": "Risco de trombose, pancreatite, hepatotoxicidade, hiperglicemia e reações alérgicas graves; potencial interação com anestesia e coagulopatias",
+      "reintroduction": "Reintroduzir após resolução de toxicidades agudas e completa recuperação cirúrgica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pegaspargase",
+      "nomeComercial": "Oncaspar",
+      "mecanismoAcao": "Enzima L-asparaginase peguilada que degrada asparagina circulante, levando à inibição da síntese proteica em células leucêmicas deficientes em asparagina sintetase",
+      "farmacocinetica": "Administração IM ou IV; meia-vida prolongada (~5,5 dias); metabolismo por hidrólise enzimática",
+      "farmacodinamica": "Induz apoptose em células neoplásicas dependentes de asparagina",
+      "indicacoes": "Leucemia linfoblástica aguda (LLA), principalmente em pacientes hipersensíveis à asparaginase nativa",
+      "reacoesAdversas": "Trombose, pancreatite, hiperglicemia, hepatotoxicidade, mielossupressão, reações anafiláticas, coagulopatia",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Desconhecido; evitar uso",
+      "administracao": "Intramuscular ou intravenosa",
+      "doseMaxima": "2500 UI/m² por dose",
+      "doseMinima": "2500 UI/m² por dose (única)",
+      "classificacao": "Agente antineoplásico enzimático (L-asparaginase peguilada)",
+      "apresentacao": "Frasco-ampola 3750 UI/5 mL (750 UI/mL)",
+      "interacaoMedicamento": "Interage com anticoagulantes, corticoides, vincristina e outros mielotóxicos",
+      "posologia": "2500 UI/m² IM ou IV a cada 14 dias",
+      "armazenamento": "Refrigerado (2–8°C); não congelar; proteger da luz",
+      "preparo": "Administrar sem diluição ou conforme protocolo hospitalar; evitar agitação",
+      "solucoesCompatíveis": "SF 0,9% (se diluído)",
+      "contraindicacoes": "Hipersensibilidade grave prévia, pancreatite ativa, sangramento grave, hepatopatia severa",
+      "cuidadosMedicos": "Monitorar amilase, lipase, glicemia, TP, TTPA, bilirrubinas e sinais de hipersensibilidade",
+      "cuidadosFarmaceuticos": "Garantir cadeia fria, verificar integridade do produto e prazo de validade",
+      "cuidadosEnfermagem": "Monitorar sinais de anafilaxia, dor abdominal, alterações hepáticas e glicemia",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, EMA, Oncaspar bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pegaspargase",
+      "suspension": "Discontinue 2–4 weeks prior to elective surgery when possible",
+      "risk": "Risk of thrombosis, pancreatitis, hepatotoxicity, hyperglycemia, severe allergic reactions; potential interaction with anesthesia and coagulopathy",
+      "reintroduction": "Restart after resolution of acute toxicities and full surgical recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pegaspargase",
+      "nomeComercial": "Oncaspar",
+      "mecanismoAcao": "Pegylated L-asparaginase enzyme that depletes circulating asparagine, inhibiting protein synthesis in leukemic cells deficient in asparagine synthetase",
+      "farmacocinetica": "IM or IV; prolonged half-life (~5.5 days); metabolized by enzymatic hydrolysis",
+      "farmacodinamica": "Induces apoptosis in asparagine-dependent neoplastic cells",
+      "indicacoes": "Acute lymphoblastic leukemia (ALL), particularly in patients with hypersensitivity to native asparaginase",
+      "reacoesAdversas": "Thrombosis, pancreatitis, hyperglycemia, hepatotoxicity, myelosuppression, anaphylaxis, coagulopathy",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Unknown; avoid",
+      "administracao": "Intramuscular or intravenous",
+      "doseMaxima": "2500 IU/m² per dose",
+      "doseMinima": "2500 IU/m² per dose",
+      "classificacao": "Pegylated L-asparaginase antineoplastic enzyme",
+      "apresentacao": "Vial: 3750 IU/5 mL (750 IU/mL)",
+      "interacaoMedicamento": "Caution with anticoagulants, corticosteroids, vincristine, myelosuppressives",
+      "posologia": "2500 IU/m² IM or IV every 14 days",
+      "armazenamento": "Refrigerate (2–8°C); do not freeze; protect from light",
+      "preparo": "Administer undiluted or per hospital protocol; avoid shaking",
+      "solucoesCompatíveis": "0.9% NaCl (if diluted)",
+      "contraindicacoes": "Severe hypersensitivity, active pancreatitis, severe hepatic disease, major bleeding",
+      "cuidadosMedicos": "Monitor amylase, lipase, glucose, PT, aPTT, bilirubins, hypersensitivity",
+      "cuidadosFarmaceuticos": "Ensure cold chain, check vial integrity and expiration",
+      "cuidadosEnfermagem": "Watch for anaphylaxis, abdominal pain, liver and glucose disturbances",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Oncaspar PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pegaspargasa",
+      "suspension": "Suspender 2–4 semanas antes de cirugía electiva cuando sea posible",
+      "risk": "Riesgo de trombosis, pancreatitis, hepatotoxicidad, hiperglucemia, reacciones alérgicas graves; interacción con anestesia y coagulación",
+      "reintroduction": "Reiniciar tras resolución de toxicidades agudas y recuperación quirúrgica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pegaspargasa",
+      "nomeComercial": "Oncaspar",
+      "mecanismoAcao": "Enzima L-asparaginasa pegilada que degrada la asparagina, inhibiendo síntesis proteica en células leucémicas",
+      "farmacocinetica": "IM o IV; vida media prolongada (~5,5 días); metabolismo enzimático",
+      "farmacodinamica": "Induce apoptosis en células tumorales dependientes de asparagina",
+      "indicacoes": "Leucemia linfoblástica aguda (LLA), especialmente con alergia a asparaginasa nativa",
+      "reacoesAdversas": "Trombosis, pancreatitis, hiperglucemia, toxicidad hepática, mielosupresión, anafilaxia, coagulopatía",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Se desconoce; evitar",
+      "administracao": "Intramuscular o intravenosa",
+      "doseMaxima": "2500 UI/m² por dosis",
+      "doseMinima": "2500 UI/m² por dosis",
+      "classificacao": "Enzima antineoplásica pegilada (L-asparaginasa)",
+      "apresentacao": "Frasco 3750 UI/5 mL (750 UI/mL)",
+      "interacaoMedicamento": "Precaución con anticoagulantes, corticoides, vincristina, mielotóxicos",
+      "posologia": "2500 UI/m² IM o IV cada 14 días",
+      "armazenamento": "Refrigerar (2–8°C); no congelar; proteger de la luz",
+      "preparo": "Administrar sin diluir o según protocolo; no agitar",
+      "solucoesCompatíveis": "NaCl 0,9% (si se diluye)",
+      "contraindicacoes": "Hipersensibilidad, pancreatitis activa, hepatopatía severa, sangrado importante",
+      "cuidadosMedicos": "Controlar amilasa, lipasa, glucosa, TP, TTPA, bilirrubina, reacciones alérgicas",
+      "cuidadosFarmaceuticos": "Cadena de frío, verificación del vial y vencimiento",
+      "cuidadosEnfermagem": "Observar anafilaxia, dolor abdominal, glucemia, hepáticas",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Oncaspar"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "聚乙二醇天冬酰胺酶",
+      "suspension": "择期手术前2–4周停药",
+      "risk": "血栓、胰腺炎、肝毒性、高血糖、过敏反应风险，影响麻醉及凝血功能",
+      "reintroduction": "术后急性毒性消退、恢复后可恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "聚乙二醇化天冬酰胺酶",
+      "nomeComercial": "Oncaspar",
+      "mecanismoAcao": "通过降解血浆天冬氨酸抑制依赖性白血病细胞蛋白合成",
+      "farmacocinetica": "肌注或静注，半衰期~5.5天，经酶水解代谢",
+      "farmacodinamica": "对白血病细胞具选择性凋亡诱导作用",
+      "indicacoes": "急性淋巴细胞白血病，适用于对天然天冬酰胺酶过敏者",
+      "reacoesAdversas": "血栓、胰腺炎、高血糖、肝毒性、骨髓抑制、过敏反应、凝血障碍",
+      "riscoGravidez": "D类，禁用于妊娠",
+      "riscoLactacao": "不明，建议禁用",
+      "administracao": "肌注或静注",
+      "doseMaxima": "每次2500 IU/m²",
+      "doseMinima": "2500 IU/m²",
+      "classificacao": "PEG化L-天冬酰胺酶类抗肿瘤酶剂",
+      "apresentacao": "注射液3750 IU/5 mL",
+      "interacaoMedicamento": "与抗凝、糖皮质激素、长春新碱及其他骨髓抑制药有协同毒性",
+      "posologia": "每14天2500 IU/m² IM或IV",
+      "armazenamento": "2–8°C冷藏，避光保存，勿冷冻",
+      "preparo": "不需稀释或根据院内方案操作，避免剧烈振摇",
+      "solucoesCompatíveis": "0.9%氯化钠（如需稀释）",
+      "contraindicacoes": "严重过敏、活动性胰腺炎、重度肝损、严重出血",
+      "cuidadosMedicos": "监测淀粉酶、脂肪酶、血糖、PT、APTT、肝功能",
+      "cuidadosFarmaceuticos": "确保冷链、核对有效期与药液性状",
+      "cuidadosEnfermagem": "关注过敏、腹痛、肝毒性及血糖异常",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Oncaspar说明书"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fisostigmina",
+      "suspension": "Não suspender – uso emergencial ou hospitalar sob supervisão",
+      "risk": "Bradicardia, convulsões, broncoespasmo, risco aumentado se administração rápida IV",
+      "reintroduction": "Somente em ambiente monitorado com antídoto disponível (atropina)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Salicilato de Fisostigmina",
+      "nomeComercial": "Antilirium",
+      "mecanismoAcao": "Inibidor reversível da acetilcolinesterase com ação central e periférica; atravessa a barreira hematoencefálica",
+      "farmacocinetica": "Início 3–8 min IV, duração 30–60 min, metabolização hepática, eliminação renal",
+      "farmacodinamica": "Reverte efeitos de anticolinérgicos centrais como atropina, escopolamina e antidepressivos tricíclicos; melhora o nível de consciência",
+      "indicacoes": "Intoxicação por anticolinérgicos, síndrome anticolinérgica central, reversão de delirium farmacológico",
+      "reacoesAdversas": "Bradicardia, náuseas, vômitos, broncoespasmo, convulsões, salivação excessiva",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excreção desconhecida; usar com precaução",
+      "administracao": "Intravenosa lenta",
+      "doseMaxima": "2 mg/dose; repetir até 4 mg/hora conforme resposta",
+      "doseMinima": "0,02 mg/kg (pediátrico)",
+      "classificacao": "Anticolinesterásico com ação central e periférica",
+      "apresentacao": "Solução injetável 1mg/mL – ampola de 2mL",
+      "interacaoMedicamento": "Antagoniza efeitos de anticolinérgicos; potencializa colinérgicos; risco com depressores do SNC",
+      "posologia": "Adultos: 0,5–2 mg IV lento (1 mg/min máx); crianças: 0,02 mg/kg IV lento",
+      "armazenamento": "Conservar entre 2–8°C, protegido da luz",
+      "preparo": "Não requer diluição; administrar lentamente com monitorização",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Asma, doença cardíaca severa, bloqueios AV de 2º/3º grau, alergia conhecida",
+      "cuidadosMedicos": "Manter atropina disponível; monitorar ECG e nível de consciência",
+      "cuidadosFarmaceuticos": "Armazenar refrigerado; inspecionar coloração da solução",
+      "cuidadosEnfermagem": "Observar secreções, bradicardia e resposta clínica ao tóxico",
+      "fontesBibliograficas": "FDA, Micromedex, SBAn, ANVISA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Physostigmine",
+      "suspension": "Do not suspend – emergency antidote used in monitored settings",
+      "risk": "Bradycardia, seizures, bronchospasm, risk of asystole with rapid IV administration",
+      "reintroduction": "Only re-administer in ICU or ER with cardiac monitoring and atropine ready"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Physostigmine Salicylate",
+      "nomeComercial": "Antilirium",
+      "mecanismoAcao": "Reversible acetylcholinesterase inhibitor; crosses blood-brain barrier to restore acetylcholine centrally",
+      "farmacocinetica": "Onset 3–8 min IV, duration 30–60 min, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Reverses central anticholinergic toxicity; restores cognition, resolves delirium",
+      "indicacoes": "Anticholinergic toxicity (e.g., TCA overdose, atropine/scopolamine poisoning), central delirium reversal",
+      "reacoesAdversas": "Bradycardia, nausea, vomiting, seizures, bronchospasm, excessive secretions",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; caution advised",
+      "administracao": "Slow IV push",
+      "doseMaxima": "2 mg/dose; repeat up to 4 mg/hour as needed",
+      "doseMinima": "0.02 mg/kg (pediatric)",
+      "classificacao": "Central and peripheral acetylcholinesterase inhibitor",
+      "apresentacao": "Injection 1mg/mL – 2mL ampoule",
+      "interacaoMedicamento": "Antagonizes anticholinergics; potentiates cholinergic effects; caution with CNS depressants",
+      "posologia": "Adults: 0.5–2 mg IV over 5 min; pediatrics: 0.02 mg/kg IV slowly",
+      "armazenamento": "2–8°C; protect from light",
+      "preparo": "Ready-to-use; administer slowly",
+      "solucoesCompatíveis": "0.9% saline",
+      "contraindicacoes": "Asthma, severe heart disease, AV block without pacemaker, hypersensitivity",
+      "cuidadosMedicos": "Keep atropine ready; monitor ECG and neurologic status",
+      "cuidadosFarmaceuticos": "Store refrigerated; inspect solution clarity and expiration",
+      "cuidadosEnfermagem": "Observe for reversal, bradycardia, bronchial secretions, seizures",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, ASA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fisostigmina",
+      "suspension": "No suspender – antídoto en emergencias y UCI",
+      "risk": "Bradicardia, convulsiones, broncoespasmo, asistolia con administración rápida",
+      "reintroduction": "Reintroducir solo con monitoreo cardiaco y atropina disponible"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Salicilato de Fisostigmina",
+      "nomeComercial": "Antilirium",
+      "mecanismoAcao": "Inhibidor reversible de la acetilcolinesterasa con acción central; atraviesa la barrera hematoencefálica",
+      "farmacocinetica": "Inicio 3–8 min IV, duración 30–60 min, metabolismo hepático, eliminación renal",
+      "farmacodinamica": "Revierte la toxicidad anticolinérgica central; mejora el estado mental y el delirio",
+      "indicacoes": "Intoxicación por anticolinérgicos, síndrome anticolinérgico central, delirio farmacológico",
+      "reacoesAdversas": "Bradicardia, vómitos, convulsiones, broncoespasmo, hipersecreciones",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce; usar con precaución",
+      "administracao": "IV lenta",
+      "doseMaxima": "2 mg/dosis; repetir hasta 4 mg/h si necesario",
+      "doseMinima": "0,02 mg/kg",
+      "classificacao": "Inhibidor colinesterásico central y periférico",
+      "apresentacao": "Solución inyectable 1mg/mL – ampolla de 2mL",
+      "interacaoMedicamento": "Antagoniza anticolinérgicos; potencia efectos colinérgicos; precaución con depresores del SNC",
+      "posologia": "Adultos: 0,5–2 mg IV en 5 minutos; pediátricos: 0,02 mg/kg IV lento",
+      "armazenamento": "2–8°C; proteger de la luz",
+      "preparo": "Listo para usar; no diluir",
+      "solucoesCompatíveis": "Solución salina 0,9%",
+      "contraindicacoes": "Asma, enfermedad cardíaca severa, bloqueo AV 2º/3º sin marcapasos, alergia conocida",
+      "cuidadosMedicos": "Tener atropina disponible; monitorizar ECG y respuesta neurológica",
+      "cuidadosFarmaceuticos": "Conservar refrigerado; verificar solución",
+      "cuidadosEnfermagem": "Observar reversión, bradicardia, secreciones y convulsiones",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, Guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "毒扁豆碱",
+      "suspension": "不需停药——用于中毒逆转时应急使用",
+      "risk": "心动过缓、癫痫、支气管痉挛，快速静推可致心脏骤停",
+      "reintroduction": "仅在ICU或急诊环境下、具备抢救条件时使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "水杨酸毒扁豆碱",
+      "nomeComercial": "Antilirium",
+      "mecanismoAcao": "可逆性胆碱酯酶抑制剂，作用于中枢和外周，能穿透血脑屏障",
+      "farmacocinetica": "起效3–8分钟，持续30–60分钟，肝代谢，经肾排泄",
+      "farmacodinamica": "用于中枢抗胆碱毒性逆转；改善谵妄和意识障碍",
+      "indicacoes": "阿托品、东莨菪碱、三环类抗抑郁药等中毒所致的抗胆碱综合征",
+      "reacoesAdversas": "心动过缓、恶心、呕吐、支气管痉挛、分泌增多、癫痫发作",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "尚不明确，需权衡风险",
+      "administracao": "静脉缓慢注射",
+      "doseMaxima": "2 mg/次，最多4 mg/小时",
+      "doseMinima": "儿童：0.02 mg/kg",
+      "classificacao": "中枢-外周型可逆性胆碱酯酶抑制剂",
+      "apresentacao": "注射液1mg/mL，2mL安瓿",
+      "interacaoMedicamento": "拮抗抗胆碱药；与胆碱激动剂协同，慎与镇静药联用",
+      "posologia": "成人：0.5–2 mg缓慢IV注射（1 mg/min）；儿童：0.02 mg/kg缓慢IV",
+      "armazenamento": "2–8°C冷藏避光保存",
+      "preparo": "即用型，无需稀释",
+      "solucoesCompatíveis": "0.9%生理盐水",
+      "contraindicacoes": "哮喘、严重心脏病、房室传导阻滞、高敏人群禁用",
+      "cuidadosMedicos": "备阿托品备用，监测心电图与意识水平",
+      "cuidadosFarmaceuticos": "使用前检查效期与澄清度",
+      "cuidadosEnfermagem": "观察逆转效果、心率、癫痫发作与腺体分泌",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

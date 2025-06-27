@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Norfloxacino",
+      "suspension": "Suspender 24 horas antes de cirurgias eletivas de médio ou grande porte",
+      "risk": "Risco de prolongamento de QT, interação com anestésicos, tendinite e toxicidade neurológica em idosos",
+      "reintroduction": "Reintroduzir após estabilização clínica e normalização da função renal e eletrolítica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Norfloxacino",
+      "nomeComercial": "Floxacin, Norflox, Urotracin",
+      "mecanismoAcao": "Inibe a DNA girase bacteriana e a topoisomerase IV, impedindo a replicação do DNA",
+      "farmacocinetica": "Biodisponibilidade ~30–40%; excreção renal; meia-vida 3–4h",
+      "farmacodinamica": "Bactericida concentração-dependente contra Gram-negativos, especialmente trato urinário",
+      "indicacoes": "ITU complicada ou recorrente, prostatite bacteriana crônica, diarreia infecciosa",
+      "reacoesAdversas": "Náusea, cefaleia, tontura, fotossensibilidade, tendinite, QT longo",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "800mg/dia",
+      "doseMinima": "400mg/dia",
+      "classificacao": "Fluoroquinolona",
+      "apresentacao": "Comprimidos de 400mg",
+      "interacaoMedicamento": "Antiácidos, ferro, zinco reduzem absorção; risco de arritmias com antiarrítmicos",
+      "posologia": "400mg 1 a 2x/dia por 3 a 10 dias, conforme indicação",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Histórico de tendinopatia por quinolonas, arritmia, miastenia grave",
+      "cuidadosMedicos": "Evitar uso com outros QT-prolongadores; avaliar função renal",
+      "cuidadosFarmaceuticos": "Orientar ingestão longe de refeições ricas em cálcio/ferro",
+      "cuidadosEnfermagem": "Observar tendinite, arritmias, confusão mental em idosos",
+      "fontesBibliograficas": "Micromedex, ANVISA, UpToDate, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Norfloxacin",
+      "suspension": "Discontinue 24 hours before major elective surgery",
+      "risk": "QT prolongation, CNS toxicity, tendon rupture especially in elderly",
+      "reintroduction": "Restart after clinical stabilization and electrolyte/renal recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Norfloxacin",
+      "nomeComercial": "Noroxin",
+      "mecanismoAcao": "Inhibits bacterial DNA gyrase and topoisomerase IV",
+      "farmacocinetica": "Bioavailability ~30–40%; renal excretion; half-life 3–4h",
+      "farmacodinamica": "Concentration-dependent bactericidal against Gram-negatives (UTI focus)",
+      "indicacoes": "Complicated UTI, chronic prostatitis, infectious diarrhea",
+      "reacoesAdversas": "Nausea, headache, dizziness, photosensitivity, tendonitis, QT prolongation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral",
+      "doseMaxima": "800mg/day",
+      "doseMinima": "400mg/day",
+      "classificacao": "Fluoroquinolone",
+      "apresentacao": "Tablets 400mg",
+      "interacaoMedicamento": "Reduced absorption with antacids, iron, zinc; arrhythmia risk with QT drugs",
+      "posologia": "400mg 1–2x/day for 3–10 days",
+      "armazenamento": "15–30°C, protect from light",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Tendon disorders, arrhythmias, myasthenia gravis",
+      "cuidadosMedicos": "Avoid with QT drugs; monitor renal and CNS status",
+      "cuidadosFarmaceuticos": "Advise separation from dairy and minerals",
+      "cuidadosEnfermagem": "Watch for tendon pain, confusion, ECG changes",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Norfloxacino",
+      "suspension": "Suspender 24 horas antes de cirugía electiva",
+      "risk": "Prolongación del QT, toxicidad neurológica, tendinitis en mayores",
+      "reintroduction": "Reiniciar tras estabilización clínica y recuperación renal/electrolítica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Norfloxacino",
+      "nomeComercial": "Noroxin",
+      "mecanismoAcao": "Inhibe DNA girasa y topoisomerasa IV bacterianas",
+      "farmacocinetica": "Biodisponibilidad 30–40%; excreción renal; vida media 3–4h",
+      "farmacodinamica": "Bactericida concentración-dependiente frente a Gram negativos",
+      "indicacoes": "ITU complicada, prostatitis crónica, diarrea infecciosa",
+      "reacoesAdversas": "Náuseas, mareos, fotosensibilidad, tendinopatía, QT prolongado",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "800mg/día",
+      "doseMinima": "400mg/día",
+      "classificacao": "Fluoroquinolona",
+      "apresentacao": "Comprimidos de 400mg",
+      "interacaoMedicamento": "Disminuye absorción con antiácidos, hierro; riesgo de arritmia con antiarrítmicos",
+      "posologia": "400mg 1–2x/día por 3–10 días",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Tendinopatía previa, arritmia, miastenia grave",
+      "cuidadosMedicos": "Evitar con otros prolongadores QT; vigilar renal y neurológico",
+      "cuidadosFarmaceuticos": "Evitar lácteos y minerales simultáneos",
+      "cuidadosEnfermagem": "Observar dolor tendinoso, arritmia, alteración cognitiva",
+      "fontesBibliograficas": "Micromedex, guías clínicas, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "诺氟沙星",
+      "suspension": "择期手术前24小时停药",
+      "risk": "延长QT、神经毒性、老年患者肌腱损伤风险增加",
+      "reintroduction": "术后稳定后根据肾功能和电解质状况决定重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "诺氟沙星",
+      "nomeComercial": "Noroxin",
+      "mecanismoAcao": "抑制细菌DNA旋转酶与拓扑异构酶IV",
+      "farmacocinetica": "口服生物利用度约30–40%；经肾排泄；半衰期3–4小时",
+      "farmacodinamica": "浓度依赖性杀菌，主要作用于阴性杆菌",
+      "indicacoes": "复杂尿路感染、慢性前列腺炎、感染性腹泻",
+      "reacoesAdversas": "恶心、头晕、光敏反应、肌腱炎、QT延长",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日800毫克",
+      "doseMinima": "每日400毫克",
+      "classificacao": "氟喹诺酮类抗生素",
+      "apresentacao": "400mg片剂",
+      "interacaoMedicamento": "与抗酸药、铁剂、钙剂共服降低吸收；与抗心律失常药物合用QT风险上升",
+      "posologia": "每日1–2次，每次400mg，疗程3–10天",
+      "armazenamento": "常温避光保存",
+      "preparo": "无需特殊处理",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "肌腱病史、QT延长、重症肌无力",
+      "cuidadosMedicos": "避免与延长QT药物同用，监测肾功能",
+      "cuidadosFarmaceuticos": "避免与乳制品、补锌补铁合用",
+      "cuidadosEnfermagem": "关注肌腱疼痛、认知变化、电解质紊乱",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

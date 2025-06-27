@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "N-acetilcisteína (NAC)",
+      "suspension": "Não requer suspensão para cirurgias eletivas",
+      "risk": "Segura; em altas doses pode causar náusea, refluxo ou cefaleia leve",
+      "reintroduction": "Pode ser mantida ou reintroduzida 24h após o procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "N-acetilcisteína (NAC)",
+      "nomeComercial": "Fluimucil, Expec, Mucomucil, Lavitan NAC, NOW NAC",
+      "mecanismoAcao": "Precursor da glutationa; atua como mucolítico, antioxidante e quelante de radicais livres; modula citoquinas inflamatórias",
+      "farmacocinetica": "Boa absorção oral (~10% biodisponibilidade); metabolização hepática; eliminação renal e pulmonar",
+      "farmacodinamica": "Reduz viscosidade do muco, protege contra estresse oxidativo e toxinas hepáticas (paracetamol)",
+      "indicacoes": "Doenças respiratórias com hipersecreção, proteção hepática, desintoxicação, suporte imunológico, fertilidade masculina",
+      "reacoesAdversas": "Náusea, diarreia, gosto metálico, cefaleia, dor abdominal leve",
+      "riscoGravidez": "Categoria B – seguro quando indicado",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral, inalatório ou intravenoso (hospitalar)",
+      "doseMaxima": "2400 mg/dia oral; até 300 mg/kg EV (intoxicação)",
+      "doseMinima": "600 mg/dia",
+      "classificacao": "Aminoácido derivado com propriedades mucolíticas, antioxidantes e detoxificantes",
+      "apresentacao": "Comprimidos efervescentes, cápsulas, sachês, solução oral",
+      "interacaoMedicamento": "Potencializa glutationa, antagoniza nitroglicerina, cuidado com antibióticos em uso conjunto",
+      "posologia": "600–1200 mg/dia via oral, 1–2 vezes/dia",
+      "armazenamento": "Local seco, fresco, protegido da luz",
+      "preparo": "Efervescente ou solução pronta; dissolver em água antes do uso",
+      "solucoesCompatíveis": "Vitamina C, glutationa, selênio",
+      "contraindicacoes": "Úlcera péptica ativa, hipersensibilidade a NAC",
+      "cuidadosMedicos": "Evitar uso com agentes vasodilatadores sem monitoramento",
+      "cuidadosFarmaceuticos": "Orientar sobre odor sulfuroso característico",
+      "cuidadosEnfermagem": "Observar melhora respiratória e tolerância gastrintestinal",
+      "fontesBibliograficas": "PubMed, Medscape, UpToDate, Natural Medicines, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "N-acetylcysteine (NAC)",
+      "suspension": "No need to suspend before elective procedures",
+      "risk": "Safe; high doses may cause nausea, reflux, or mild headache",
+      "reintroduction": "Can be resumed 24h after surgery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "N-acetylcysteine (NAC)",
+      "nomeComercial": "NOW NAC, Jarrow NAC, Mucomyst, Fluimucil",
+      "mecanismoAcao": "Glutathione precursor; antioxidant and mucolytic; detoxifies free radicals and acetaminophen",
+      "farmacocinetica": "10% oral bioavailability; hepatic metabolism; renal/pulmonary excretion",
+      "farmacodinamica": "Breaks disulfide bonds in mucus, restores glutathione, reduces oxidative stress",
+      "indicacoes": "Respiratory mucus, acetaminophen overdose, liver protection, fertility, immune support",
+      "reacoesAdversas": "GI upset, metallic taste, diarrhea, headache",
+      "riscoGravidez": "Category B – safe when indicated",
+      "riscoLactacao": "Safe",
+      "administracao": "Oral, inhaled, or IV (clinical)",
+      "doseMaxima": "2400 mg/day oral; up to 300 mg/kg IV",
+      "doseMinima": "600 mg/day",
+      "classificacao": "Amino acid derivative with mucolytic, antioxidant, detox properties",
+      "apresentacao": "Capsules, tablets, powder, oral solution",
+      "interacaoMedicamento": "Boosts glutathione, interacts with nitroglycerin; monitor with antibiotics",
+      "posologia": "600–1200 mg/day, 1–2 times/day",
+      "armazenamento": "Cool, dry place away from light",
+      "preparo": "Effervescent or solution; dissolve in water if needed",
+      "solucoesCompatíveis": "Vitamin C, glutathione, selenium",
+      "contraindicacoes": "Active ulcers, known allergy to NAC",
+      "cuidadosMedicos": "Caution with vasodilators; monitor hepatic patients",
+      "cuidadosFarmaceuticos": "Warn about sulfur-like smell",
+      "cuidadosEnfermagem": "Monitor respiratory improvement and GI tolerance",
+      "fontesBibliograficas": "NIH, PubMed, Medscape, Natural Medicines, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "N-acetilcisteína (NAC)",
+      "suspension": "No requiere suspensión para cirugía rutinaria",
+      "risk": "Segura; altas dosis pueden causar náuseas o molestias digestivas",
+      "reintroduction": "Puede reanudarse 24h después de la cirugía"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "N-acetilcisteína (NAC)",
+      "nomeComercial": "Fluimucil, Mucomyst, Lavitan NAC, Now NAC",
+      "mecanismoAcao": "Precursor de glutatión; antioxidante, mucolítico y detoxificador hepático",
+      "farmacocinetica": "Biodisponibilidad oral ~10%; metabolismo hepático, excreción renal y pulmonar",
+      "farmacodinamica": "Rompe puentes disulfuro del moco, restaura glutatión y neutraliza radicales libres",
+      "indicacoes": "Enfermedades respiratorias, toxicidad por paracetamol, fertilidad, hígado graso, inmunidad",
+      "reacoesAdversas": "Sabor metálico, dispepsia, cefalea leve",
+      "riscoGravidez": "Categoría B – seguro cuando está indicado",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral, nebulizado, intravenoso (clínico)",
+      "doseMaxima": "2400 mg/día oral; hasta 300 mg/kg IV",
+      "doseMinima": "600 mg/día",
+      "classificacao": "Derivado aminoacídico antioxidante, mucolítico y hepatoprotector",
+      "apresentacao": "Cápsulas, sobres, jarabe, solución oral",
+      "interacaoMedicamento": "Sinérgico con vitamina C y glutatión; precaución con nitroglicerina",
+      "posologia": "600–1200 mg/día divididos",
+      "armazenamento": "Lugar fresco, seco y sin luz directa",
+      "preparo": "Formas efervescentes o solución lista",
+      "solucoesCompatíveis": "Vitamina C, glutatión, ácido alfa-lipoico",
+      "contraindicacoes": "Úlcera activa, alergia conocida",
+      "cuidadosMedicos": "Evitar en pacientes con hemorragias digestivas",
+      "cuidadosFarmaceuticos": "Advertir sobre olor sulfurado",
+      "cuidadosEnfermagem": "Controlar función respiratoria y digestiva",
+      "fontesBibliograficas": "EMA, Natural Medicines, Medscape, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "N-乙酰半胱氨酸（NAC）",
+      "suspension": "无需术前停药",
+      "risk": "常规剂量安全；大剂量可引起胃肠不适或头痛",
+      "reintroduction": "术后24小时可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "N-乙酰半胱氨酸（NAC）",
+      "nomeComercial": "福鲁美欣（Fluimucil）、NAC胶囊、肝泰乐、Now NAC",
+      "mecanismoAcao": "为谷胱甘肽前体，具抗氧化、祛痰、肝脏解毒作用",
+      "farmacocinetica": "口服生物利用度约10%，肝代谢，肾及肺排泄",
+      "farmacodinamica": "分解痰液粘稠结构，清除自由基，提升免疫和肝脏排毒能力",
+      "indicacoes": "呼吸道粘液症、解毒（对乙酰氨基酚）、免疫疲劳、男性生育支持",
+      "reacoesAdversas": "轻度恶心、胃胀、金属味、头痛",
+      "riscoGravidez": "B类 – 医生指导下可用",
+      "riscoLactacao": "安全",
+      "administracao": "口服、吸入或静脉注射（临床）",
+      "doseMaxima": "口服每日2400毫克；中毒解救时IV达300毫克/公斤",
+      "doseMinima": "每日600毫克",
+      "classificacao": "含硫氨基酸衍生物，抗氧化与清痰成分",
+      "apresentacao": "泡腾片、胶囊、糖浆、粉剂",
+      "interacaoMedicamento": "可增强谷胱甘肽、维生素C；避免与硝酸甘油合用",
+      "posologia": "每日600–1200毫克，分1–2次服用",
+      "armazenamento": "避光干燥储存",
+      "preparo": "溶解于水口服或雾化吸入",
+      "solucoesCompatíveis": "维C、辅酶Q10、谷胱甘肽",
+      "contraindicacoes": "活动性胃溃疡、对NAC过敏者禁用",
+      "cuidadosMedicos": "密切监测重度肝损或哮喘患者使用反应",
+      "cuidadosFarmaceuticos": "解释硫味为正常特征",
+      "cuidadosEnfermagem": "观察祛痰效果与肝功能指标改善",
+      "fontesBibliograficas": "中国药典、PubMed、UpToDate、Medscape、Natural Medicines"
+    }
+  }
+}

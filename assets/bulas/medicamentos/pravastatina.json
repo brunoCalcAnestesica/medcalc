@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pravastatina",
+      "suspension": "Não requer suspensão rotineira em cirurgias eletivas",
+      "risk": "Menor risco de interações; avaliar em hepatopatia ativa ou sintomas musculares prévios",
+      "reintroduction": "Pode ser reintroduzida no pós-operatório conforme tolerância hepática/muscular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pravastatina Sódica",
+      "nomeComercial": "Pravachol, Elisor, Lipostat, Prevencor, Pravastin",
+      "mecanismoAcao": "Inibe a HMG-CoA redutase, reduzindo a síntese hepática de colesterol e promovendo a remoção de LDL do plasma.",
+      "farmacocinetica": "Biodisponibilidade oral ~17%; não metabolizada pelo CYP450; excreção renal e fecal; meia-vida ~1.8h.",
+      "farmacodinamica": "Reduz LDL, colesterol total e triglicérides; aumento modesto de HDL; efeito anti-inflamatório endotelial leve.",
+      "indicacoes": "Hipercolesterolemia, dislipidemia mista, prevenção primária e secundária de eventos cardiovasculares",
+      "reacoesAdversas": "Cefaleia, náusea, mialgia, dispepsia, elevação de transaminases, rara rabdomiólise",
+      "riscoGravidez": "Categoria X (contraindicado)",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via oral, à noite ou conforme orientação",
+      "doseMaxima": "80mg/dia",
+      "doseMinima": "10mg/dia",
+      "classificacao": "Estatina / hipolipemiante / inibidor da HMG-CoA redutase",
+      "apresentacao": "Comprimidos de 10, 20, 40 e 80mg",
+      "interacaoMedicamento": "Baixo risco de interação; cautela com ciclosporina, colchicina e niacina em altas doses",
+      "posologia": "10–40mg/dia; dose ajustada conforme perfil lipídico",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença hepática ativa, gravidez, lactação",
+      "cuidadosMedicos": "Monitorar transaminases e CPK em caso de dor muscular",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão diária e sinais de toxicidade hepática/muscular",
+      "cuidadosEnfermagem": "Observar queixas musculares, icterícia, colúria",
+      "fontesBibliograficas": "Micromedex, FDA, EMA, PubChem CID: 54687"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pravastatin",
+      "suspension": "Routine perioperative discontinuation not required",
+      "risk": "Low interaction risk; monitor in hepatic disease or prior myopathy",
+      "reintroduction": "Resume postoperatively if clinically stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pravastatin Sodium",
+      "nomeComercial": "Pravachol, Lipostat, Pravastatin Sandoz",
+      "mecanismoAcao": "HMG-CoA reductase inhibitor; decreases cholesterol synthesis and increases LDL clearance.",
+      "farmacocinetica": "Oral bioavailability ~17%; not CYP450 metabolized; half-life ~1.8h; renal and fecal excretion.",
+      "farmacodinamica": "Lowers LDL, total cholesterol, TG; slight HDL increase; endothelium-stabilizing effect.",
+      "indicacoes": "Hyperlipidemia, dyslipidemia, CV event prevention",
+      "reacoesAdversas": "Myalgia, nausea, headache, liver enzyme elevation, rare rhabdomyolysis",
+      "riscoGravidez": "Category X (contraindicated)",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral, once daily at night or as directed",
+      "doseMaxima": "80mg/day",
+      "doseMinima": "10mg/day",
+      "classificacao": "Statin / HMG-CoA reductase inhibitor",
+      "apresentacao": "Tablets: 10mg, 20mg, 40mg, 80mg",
+      "interacaoMedicamento": "Low interaction profile; caution with cyclosporine, colchicine, niacin",
+      "posologia": "10–40mg/day, adjusted to LDL goal",
+      "armazenamento": "Store at 15–30°C, away from light",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active liver disease, pregnancy, breastfeeding",
+      "cuidadosMedicos": "Monitor LFTs and CPK if muscle symptoms occur",
+      "cuidadosFarmaceuticos": "Emphasize adherence and safety in polytherapy",
+      "cuidadosEnfermagem": "Check for myalgia, jaundice, dark urine",
+      "fontesBibliograficas": "FDA, NIH, Micromedex, PubChem CID: 54687"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pravastatina",
+      "suspension": "No requiere suspensión perioperatoria de rutina",
+      "risk": "Bajo riesgo de interacción; evaluar en hepatopatía o mialgia previa",
+      "reintroduction": "Puede reiniciarse tras cirugía si clínicamente estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pravastatina Sódica",
+      "nomeComercial": "Pravachol, Elisor, Lipostat, Prevencor",
+      "mecanismoAcao": "Inhibe la HMG-CoA reductasa; disminuye la síntesis de colesterol y mejora la depuración de LDL.",
+      "farmacocinetica": "Biodisponibilidad ~17%; no metabolizada por CYP450; semivida ~1.8h; eliminación renal y fecal.",
+      "farmacodinamica": "Reduce LDL y TG, aumenta levemente el HDL",
+      "indicacoes": "Dislipidemia, hipercolesterolemia familiar, prevención cardiovascular",
+      "reacoesAdversas": "Mialgia, náusea, dolor de cabeza, elevación de transaminasas, rabdomiólisis rara",
+      "riscoGravidez": "Categoría X (prohibido)",
+      "riscoLactacao": "Prohibido; se excreta en leche",
+      "administracao": "Vía oral, por la noche o como se indique",
+      "doseMaxima": "80mg/día",
+      "doseMinima": "10mg/día",
+      "classificacao": "Estatina / hipolipemiante / HMG-CoA reductasa",
+      "apresentacao": "Comprimidos 10, 20, 40 y 80mg",
+      "interacaoMedicamento": "Bajo perfil de interacción; precaución con ciclosporina, colchicina, niacina",
+      "posologia": "10–40mg/día ajustado según perfil lipídico",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía activa, embarazo, lactancia",
+      "cuidadosMedicos": "Controlar enzimas hepáticas y CPK",
+      "cuidadosFarmaceuticos": "Asegurar adherencia; bajo riesgo de interacción",
+      "cuidadosEnfermagem": "Observar signos musculares y hepáticos",
+      "fontesBibliograficas": "EMA, Micromedex, PubChem CID: 54687"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "普伐他汀（Pravastatin）",
+      "suspension": "无需常规术前停药，除非肝病或严重肌病",
+      "risk": "交互作用低；术前仅在高风险状态考虑停用",
+      "reintroduction": "术后如肝功能正常，可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "普伐他汀钠",
+      "nomeComercial": "Pravachol、力普畅、Lipostat",
+      "mecanismoAcao": "抑制HMG-CoA还原酶，减少胆固醇合成并促进LDL受体介导清除",
+      "farmacocinetica": "生物利用度约17%；不依赖CYP450代谢；半衰期1.8小时；经肾与粪便排泄",
+      "farmacodinamica": "降低LDL与甘油三酯，轻度升高HDL",
+      "indicacoes": "高脂血症、动脉粥样硬化、冠心病一级与二级预防",
+      "reacoesAdversas": "肌痛、头痛、胃肠不适、肝酶升高、极少肌溶解",
+      "riscoGravidez": "X类（禁用）",
+      "riscoLactacao": "禁用于哺乳期",
+      "administracao": "每日一次，夜间服用或依医嘱",
+      "doseMaxima": "每日80毫克",
+      "doseMinima": "每日10毫克",
+      "classificacao": "他汀类 / 降脂药 / HMG-CoA还原酶抑制剂",
+      "apresentacao": "片剂：10mg、20mg、40mg、80mg",
+      "interacaoMedicamento": "与环孢素、秋水仙碱、高剂量烟酸需慎用",
+      "posologia": "每日10~40mg，依据血脂调整",
+      "armazenamento": "15–30°C，避光干燥",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肝病、妊娠、哺乳",
+      "cuidadosMedicos": "监测肝功能与肌酸激酶，评估肌痛症状",
+      "cuidadosFarmaceuticos": "强调规律服药，交互风险低",
+      "cuidadosEnfermagem": "注意肌肉不适、黄疸、深色尿",
+      "fontesBibliograficas": "PubChem CID: 54687、Micromedex、WHO、FDA"
+    }
+  }
+}

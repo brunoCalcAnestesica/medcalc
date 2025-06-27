@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Upadacitinibe",
+      "suspension": "Suspender 3 a 5 dias antes da cirurgia eletiva, conforme risco infeccioso e de cicatrização",
+      "risk": "Risco aumentado de infecção, trombose e retardo de cicatrização; supressão imune relevante",
+      "reintroduction": "Reintroduzir após cicatrização adequada e ausência de infecção ativa, com avaliação médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Upadacitinibe",
+      "nomeComercial": "Rinvoq",
+      "mecanismoAcao": "Inibidor seletivo da Janus quinase 1 (JAK1), bloqueando vias de citocinas pró-inflamatórias",
+      "farmacocinetica": "Biodisponibilidade oral >80%, meia-vida de ~9–14h, metabolização hepática (CYP3A4)",
+      "farmacodinamica": "Reduz atividade inflamatória e resposta autoimune ao modular sinalização JAK-STAT",
+      "indicacoes": "Artrite reumatoide, artrite psoriásica, dermatite atópica, espondilite anquilosante, colite ulcerativa",
+      "reacoesAdversas": "Infecção do trato respiratório, herpes zoster, náusea, aumento de CPK, trombose venosa profunda",
+      "riscoGravidez": "Categoria não definida; evitar uso",
+      "riscoLactacao": "Desconhecido; uso não recomendado durante amamentação",
+      "administracao": "Oral",
+      "doseMaxima": "30 mg/dia",
+      "doseMinima": "15 mg/dia",
+      "classificacao": "Imunomodulador, inibidor seletivo de JAK1",
+      "apresentacao": "Comprimidos de liberação prolongada de 15 mg e 30 mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores de CYP3A4; não associar a imunobiológicos",
+      "posologia": "15 mg a 30 mg VO uma vez ao dia, dependendo da indicação",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecção ativa grave, TB ativa, gravidez, imunossupressão severa",
+      "cuidadosMedicos": "Avaliar risco de infecção/trombose, rastrear TB e hepatite antes do início",
+      "cuidadosFarmaceuticos": "Atenção a interações medicamentosas; reforçar sinais de infecção",
+      "cuidadosEnfermagem": "Monitorar febre, dor em membros inferiores, sintomas infecciosos",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Upadacitinib",
+      "suspension": "Hold 3–5 days before elective surgery depending on infection and healing risk",
+      "risk": "Elevated risk of infection, thrombosis, delayed healing due to immunosuppression",
+      "reintroduction": "Restart post-op after adequate healing and infection clearance per clinician assessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Upadacitinib",
+      "nomeComercial": "Rinvoq",
+      "mecanismoAcao": "Selective JAK1 inhibitor that blocks pro-inflammatory cytokine signaling",
+      "farmacocinetica": "Oral bioavailability >80%, half-life 9–14h, CYP3A4 metabolism",
+      "farmacodinamica": "Modulates JAK-STAT pathway to reduce inflammatory and autoimmune activity",
+      "indicacoes": "Rheumatoid arthritis, psoriatic arthritis, atopic dermatitis, ankylosing spondylitis, ulcerative colitis",
+      "reacoesAdversas": "Upper respiratory infections, herpes zoster, nausea, CPK elevation, DVT",
+      "riscoGravidez": "Avoid in pregnancy; category not assigned",
+      "riscoLactacao": "Not recommended; unknown excretion in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "30 mg/day",
+      "doseMinima": "15 mg/day",
+      "classificacao": "Immunomodulator, selective JAK1 inhibitor",
+      "apresentacao": "Extended-release tablets: 15 mg, 30 mg",
+      "interacaoMedicamento": "Interacts with CYP3A4 inhibitors/inducers; avoid with biologics",
+      "posologia": "15–30 mg PO once daily based on indication",
+      "armazenamento": "Room temperature (15–30°C), keep dry",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active serious infection, active TB, pregnancy, severe immunosuppression",
+      "cuidadosMedicos": "Screen for TB/hepatitis; assess thrombosis/infection risks",
+      "cuidadosFarmaceuticos": "Educate on drug interactions and signs of infection",
+      "cuidadosEnfermagem": "Monitor for fever, leg swelling, infection symptoms",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Upadacitinib",
+      "suspension": "Suspender 3–5 días antes de cirugía electiva según riesgo de infección y cicatrización",
+      "risk": "Aumenta el riesgo de infección, trombosis y retardo en la cicatrización",
+      "reintroduction": "Reintroducir tras cicatrización adecuada y ausencia de infección activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Upadacitinib",
+      "nomeComercial": "Rinvoq",
+      "mecanismoAcao": "Inhibidor selectivo de JAK1 que bloquea la señalización de citocinas proinflamatorias",
+      "farmacocinetica": "Biodisponibilidad oral >80%, vida media 9–14h, metabolismo hepático por CYP3A4",
+      "farmacodinamica": "Modula la vía JAK-STAT reduciendo actividad inflamatoria y autoinmune",
+      "indicacoes": "Artritis reumatoide, artritis psoriásica, dermatitis atópica, espondilitis anquilosante, colitis ulcerosa",
+      "reacoesAdversas": "Infecciones respiratorias, herpes zóster, náusea, CPK elevada, trombosis venosa profunda",
+      "riscoGravidez": "Evitar durante el embarazo",
+      "riscoLactacao": "No se recomienda durante la lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "30 mg/día",
+      "doseMinima": "15 mg/día",
+      "classificacao": "Inmunomodulador, inhibidor selectivo de JAK1",
+      "apresentacao": "Comprimidos de liberación prolongada: 15 mg, 30 mg",
+      "interacaoMedicamento": "Interacción con inductores/inhibidores de CYP3A4; evitar con biológicos",
+      "posologia": "15 a 30 mg VO una vez al día",
+      "armazenamento": "Temperatura ambiente, lugar seco",
+      "preparo": "Sin preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infección grave activa, TB activa, embarazo, inmunodeficiencia severa",
+      "cuidadosMedicos": "Tamizaje para TB y hepatitis; evaluar riesgo trombótico e infeccioso",
+      "cuidadosFarmaceuticos": "Informar sobre signos de infección e interacciones",
+      "cuidadosEnfermagem": "Vigilar fiebre, hinchazón de piernas, signos de infección",
+      "fontesBibliograficas": "EMA, AEMPS, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乌帕达替尼",
+      "suspension": "择期手术前建议停药3–5天，依据感染与伤口愈合风险",
+      "risk": "免疫抑制作用增加感染、血栓及愈合延迟风险",
+      "reintroduction": "术后伤口愈合良好且无活动性感染时可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乌帕达替尼",
+      "nomeComercial": "Rinvoq",
+      "mecanismoAcao": "选择性抑制JAK1，阻断炎性细胞因子信号传导",
+      "farmacocinetica": "口服生物利用度>80%，半衰期9–14小时，CYP3A4代谢",
+      "farmacodinamica": "调节JAK-STAT信号通路，抑制免疫系统异常活性",
+      "indicacoes": "类风湿关节炎、银屑病关节炎、特应性皮炎、强直性脊柱炎、溃疡性结肠炎",
+      "reacoesAdversas": "上呼吸道感染、带状疱疹、恶心、CPK升高、深静脉血栓",
+      "riscoGravidez": "不建议怀孕期使用",
+      "riscoLactacao": "不建议哺乳期使用",
+      "administracao": "口服",
+      "doseMaxima": "每日30毫克",
+      "doseMinima": "每日15毫克",
+      "classificacao": "免疫调节剂，JAK1选择性抑制剂",
+      "apresentacao": "缓释片：15 mg、30 mg",
+      "interacaoMedicamento": "与CYP3A4诱导剂/抑制剂相互作用；避免与生物制剂联用",
+      "posologia": "每日一次口服15–30毫克，按病情调整",
+      "armazenamento": "室温干燥保存",
+      "preparo": "无需特殊处理",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性感染、活动性肺结核、妊娠、严重免疫抑制",
+      "cuidadosMedicos": "使用前筛查结核与病毒性肝炎；评估血栓与感染风险",
+      "cuidadosFarmaceuticos": "警示药物相互作用与感染迹象",
+      "cuidadosEnfermagem": "监测发热、下肢肿胀、感染症状",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex、EMA"
+    }
+  }
+}

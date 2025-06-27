@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bacitracina",
+      "suspension": "Manter até o momento da cirurgia quando uso tópico; evitar via IM/IV pela nefrotoxicidade",
+      "risk": "Uso sistêmico pode causar nefrotoxicidade grave; tópico com risco mínimo",
+      "reintroduction": "Reintroduzir uso tópico conforme necessidade; evitar uso sistêmico no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bacitracina",
+      "nomeComercial": "Bacitracil, Nebacetin (com neomicina)",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana em Gram-positivos",
+      "farmacocinetica": "Uso tópico: absorção sistêmica mínima; IM: excreção renal",
+      "farmacodinamica": "Bactericida contra Gram-positivos, especialmente estafilococos e estreptococos",
+      "indicacoes": "Infecções cutâneas superficiais (uso tópico)",
+      "reacoesAdversas": "Dermatite de contato, nefrotoxicidade (uso parenteral), reações alérgicas",
+      "riscoGravidez": "Categoria C (tópico geralmente seguro)",
+      "riscoLactacao": "Compatível (uso tópico)",
+      "administracao": "Tópica; uso IM reservado e restrito",
+      "doseMaxima": "Uso tópico 2–3x/dia; IM: 10.000 UI/kg/dia (com controle)",
+      "doseMinima": "Conforme necessidade tópica",
+      "classificacao": "Polipeptídeo antibacteriano",
+      "apresentacao": "Pomada 400–500 UI/g; pó liofilizado IM (restrito)",
+      "interacaoMedicamento": "Potencial nefrotoxicidade com outros nefrotóxicos (via IM)",
+      "posologia": "Aplicar fina camada na área afetada 2–3 vezes ao dia",
+      "armazenamento": "Pomada em temperatura ambiente; pó sob refrigeração",
+      "preparo": "Não requer preparo (tópico); IM requer diluição cautelosa",
+      "solucoesCompatíveis": "SF 0,9% (IM, se necessário)",
+      "contraindicacoes": "Hipersensibilidade à bacitracina ou veículos",
+      "cuidadosMedicos": "Evitar uso parenteral devido à nefrotoxicidade",
+      "cuidadosFarmaceuticos": "Orientar aplicação tópica e duração do tratamento",
+      "cuidadosEnfermagem": "Observar sinais de alergia ou irritação local",
+      "fontesBibliograficas": "ANVISA, BNF, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bacitracin",
+      "suspension": "Continue topical use until surgery; avoid IM/IV due to nephrotoxicity",
+      "risk": "Systemic use is highly nephrotoxic; topical use has minimal risk",
+      "reintroduction": "Restart topical use as needed; avoid systemic use postoperatively"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bacitracin",
+      "nomeComercial": "Bacitracin, Neosporin (with neomycin)",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis in Gram-positive organisms",
+      "farmacocinetica": "Topical: minimal systemic absorption; IM: renal excretion",
+      "farmacodinamica": "Bactericidal against Gram-positive cocci including Staph and Strep",
+      "indicacoes": "Superficial skin infections (topical)",
+      "reacoesAdversas": "Contact dermatitis, nephrotoxicity (IM), hypersensitivity",
+      "riscoGravidez": "Category C (topical considered safe)",
+      "riscoLactacao": "Compatible (topical)",
+      "administracao": "Topical; IM use restricted",
+      "doseMaxima": "Topical 2–3x/day; IM: 10,000 IU/kg/day (carefully monitored)",
+      "doseMinima": "As needed for topical",
+      "classificacao": "Polypeptide antibiotic",
+      "apresentacao": "Ointment 400–500 IU/g; powder for injection (rare)",
+      "interacaoMedicamento": "May increase nephrotoxicity with other nephrotoxic drugs (IM)",
+      "posologia": "Apply thin layer 2–3 times daily",
+      "armazenamento": "Ointment at room temperature; IM powder refrigerated",
+      "preparo": "No prep needed for topical; IM must be carefully diluted",
+      "solucoesCompatíveis": "NS (for IM)",
+      "contraindicacoes": "Allergy to bacitracin or ointment base",
+      "cuidadosMedicos": "Avoid systemic use due to nephrotoxicity",
+      "cuidadosFarmaceuticos": "Advise on proper topical application and duration",
+      "cuidadosEnfermagem": "Monitor for signs of allergy or local irritation",
+      "fontesBibliograficas": "FDA, BNF, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bacitracina",
+      "suspension": "Mantener uso tópico hasta la cirugía; evitar IM por nefrotoxicidad",
+      "risk": "Uso sistémico puede causar daño renal severo; tópico tiene bajo riesgo",
+      "reintroduction": "Reintroducir uso tópico según necesidad clínica; evitar sistémico postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bacitracina",
+      "nomeComercial": "Bacitracina, Neosporin (con neomicina)",
+      "mecanismoAcao": "Inhibe la síntesis de pared celular bacteriana en Gram positivos",
+      "farmacocinetica": "Tópico: mínima absorción sistémica; IM: excreción renal",
+      "farmacodinamica": "Bactericida contra cocos Gram positivos (Staph, Strep)",
+      "indicacoes": "Infecciones cutáneas superficiales",
+      "reacoesAdversas": "Dermatitis, nefrotoxicidad (IM), alergias",
+      "riscoGravidez": "Categoría C (uso tópico generalmente seguro)",
+      "riscoLactacao": "Compatible (uso tópico)",
+      "administracao": "Tópico; IM reservado",
+      "doseMaxima": "Tópico 2–3 veces/día; IM: 10.000 UI/kg/día",
+      "doseMinima": "Según necesidad (tópico)",
+      "classificacao": "Antibiótico polipeptídico",
+      "apresentacao": "Pomada 400–500 UI/g; polvo inyectable (raro)",
+      "interacaoMedicamento": "Nefrotoxicidad aumentada con otros nefrotóxicos (IM)",
+      "posologia": "Aplicar capa fina 2–3 veces por día",
+      "armazenamento": "Pomada a temperatura ambiente; polvo IM refrigerado",
+      "preparo": "No requiere preparación (tópico); diluir IM con cuidado",
+      "solucoesCompatíveis": "SF 0,9% (IM)",
+      "contraindicacoes": "Alergia a bacitracina o excipientes",
+      "cuidadosMedicos": "Evitar uso sistémico por toxicidad renal",
+      "cuidadosFarmaceuticos": "Informar sobre uso correcto y duración del tratamiento",
+      "cuidadosEnfermagem": "Observar signos de alergia o irritación local",
+      "fontesBibliograficas": "AEMPS, WHO, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "杆菌肽",
+      "suspension": "局部使用可持续至术前；避免IM注射以防肾毒性",
+      "risk": "系统用药会引发严重肾毒性；局部使用风险极低",
+      "reintroduction": "术后根据需要继续局部用药，避免系统使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "杆菌肽",
+      "nomeComercial": "杆菌肽软膏、杆菌肽注射液",
+      "mecanismoAcao": "抑制革兰阳性细菌细胞壁合成",
+      "farmacocinetica": "外用吸收少；肌注后经肾排泄",
+      "farmacodinamica": "对葡萄球菌和链球菌具杀菌作用",
+      "indicacoes": "表浅皮肤感染（外用）",
+      "reacoesAdversas": "接触性皮炎、肾毒性（肌注）、过敏反应",
+      "riscoGravidez": "C类（外用安全）",
+      "riscoLactacao": "外用可用",
+      "administracao": "局部使用；肌注限特殊情况",
+      "doseMaxima": "外用每日2–3次；IM：每日不超10,000 IU/kg",
+      "doseMinima": "按需局部使用",
+      "classificacao": "多肽类抗生素",
+      "apresentacao": "软膏400–500 IU/g；注射粉针",
+      "interacaoMedicamento": "与其他肾毒性药物合用增强肾毒性",
+      "posologia": "局部涂抹薄层，每日2–3次",
+      "armazenamento": "软膏常温保存，注射粉剂冷藏",
+      "preparo": "局部使用无需准备；IM需稀释",
+      "solucoesCompatíveis": "生理盐水（IM）",
+      "contraindicacoes": "对杆菌肽或辅料过敏",
+      "cuidadosMedicos": "避免系统使用以防肾损伤",
+      "cuidadosFarmaceuticos": "指导正确外用方法和使用期限",
+      "cuidadosEnfermagem": "观察局部反应和过敏体征",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、WHO"
+    }
+  }
+}

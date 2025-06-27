@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Claritromicina",
+      "suspension": "Suspender 1 dia antes da cirurgia se uso eletivo",
+      "risk": "Prolonga QT, risco de hepatotoxicidade e interações com anestésicos metabolizados por CYP3A4",
+      "reintroduction": "Reintroduzir com monitoramento hepático e cardíaco"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Claritromicina",
+      "nomeComercial": "Klaricid, Biaxin, Claritros",
+      "mecanismoAcao": "Liga-se à subunidade 50S ribossomal, inibindo a síntese proteica bacteriana",
+      "farmacocinetica": "Via oral ou IV, meia-vida de 3–7h, metabolização hepática (CYP3A4), excreção renal e biliar",
+      "farmacodinamica": "Bacteriostático contra Gram-positivos, Gram-negativos e atípicos",
+      "indicacoes": "Infecções respiratórias, otite, faringite, infecção por H. pylori, DSTs",
+      "reacoesAdversas": "Náuseas, disgeusia, hepatite, prolongamento de QT, rash",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar durante lactação",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "1 g/dia",
+      "doseMinima": "250 mg/dia",
+      "classificacao": "Antibiótico macrolídeo",
+      "apresentacao": "Comprimidos de 250 e 500 mg; suspensão; pó para injeção",
+      "interacaoMedicamento": "Interage com estatinas, benzodiazepínicos, anticoagulantes e digoxina",
+      "posologia": "250–500 mg 2x/dia por 7–14 dias",
+      "armazenamento": "Temperatura ambiente; suspensão reconstituída deve ser refrigerada",
+      "preparo": "Diluir pó injetável conforme bula; suspensão oral com água filtrada",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Hepatopatia grave, prolongamento de QT, uso concomitante com cisaprida ou pimozida",
+      "cuidadosMedicos": "Monitorar ECG, enzimas hepáticas e interações medicamentosas",
+      "cuidadosFarmaceuticos": "Verificar reconstituição correta e estabilidade da suspensão",
+      "cuidadosEnfermagem": "Observar sinais de hepatotoxicidade e arritmias",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Clarithromycin",
+      "suspension": "Hold 1 day before surgery if elective use",
+      "risk": "QT prolongation, hepatotoxicity, and CYP3A4-related anesthetic interactions",
+      "reintroduction": "Restart with hepatic and ECG monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clarithromycin",
+      "nomeComercial": "Biaxin",
+      "mecanismoAcao": "Binds to 50S ribosomal subunit, inhibiting bacterial protein synthesis",
+      "farmacocinetica": "Oral/IV, half-life 3–7h, hepatic metabolism (CYP3A4), renal/biliary excretion",
+      "farmacodinamica": "Bacteriostatic against Gram-positive, Gram-negative and atypicals",
+      "indicacoes": "Respiratory infections, otitis, pharyngitis, H. pylori, STIs",
+      "reacoesAdversas": "Nausea, taste disturbance, hepatitis, QT prolongation, rash",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid while breastfeeding",
+      "administracao": "Oral or IV",
+      "doseMaxima": "1 g/day",
+      "doseMinima": "250 mg/day",
+      "classificacao": "Macrolide antibiotic",
+      "apresentacao": "Tablets 250/500 mg, suspension, injection powder",
+      "interacaoMedicamento": "Interacts with statins, benzodiazepines, anticoagulants, digoxin",
+      "posologia": "250–500 mg BID for 7–14 days",
+      "armazenamento": "Room temp; reconstituted suspension refrigerated",
+      "preparo": "Reconstitute injection per label; mix suspension with filtered water",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Severe liver disease, QT prolongation, use with cisapride/pimozide",
+      "cuidadosMedicos": "Monitor ECG, liver enzymes, and drug interactions",
+      "cuidadosFarmaceuticos": "Check proper reconstitution and suspension stability",
+      "cuidadosEnfermagem": "Watch for hepatotoxicity and arrhythmia signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Claritromicina",
+      "suspension": "Suspender 1 día antes de la cirugía si se usa de forma electiva",
+      "risk": "Prolongación del QT, riesgo de hepatotoxicidad e interacciones con anestésicos metabolizados por CYP3A4",
+      "reintroduction": "Reintroducir con control hepático y cardíaco"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Claritromicina",
+      "nomeComercial": "Klaricid, Biaxin",
+      "mecanismoAcao": "Se une a la subunidad 50S ribosomal, inhibiendo la síntesis proteica bacteriana",
+      "farmacocinetica": "Vía oral o IV, vida media 3–7 h, metabolismo hepático (CYP3A4), excreción renal y biliar",
+      "farmacodinamica": "Bacteriostático frente a Gram positivos, negativos y bacterias atípicas",
+      "indicacoes": "Infecciones respiratorias, otitis, faringitis, H. pylori, ITS",
+      "reacoesAdversas": "Náuseas, disgeusia, hepatitis, QT prolongado, erupción",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante la lactancia",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "1 g/día",
+      "doseMinima": "250 mg/día",
+      "classificacao": "Antibiótico macrólido",
+      "apresentacao": "Tabletas 250 y 500 mg; suspensión; polvo inyectable",
+      "interacaoMedicamento": "Interacciones con estatinas, benzodiacepinas, anticoagulantes y digoxina",
+      "posologia": "250–500 mg dos veces al día por 7–14 días",
+      "armazenamento": "Temperatura ambiente; suspensión reconstituida en refrigeración",
+      "preparo": "Diluir polvo inyectable según ficha técnica; suspensión con agua purificada",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Hepatopatía grave, QT prolongado, uso concomitante con cisaprida o pimozida",
+      "cuidadosMedicos": "Controlar ECG, enzimas hepáticas e interacciones",
+      "cuidadosFarmaceuticos": "Verificar reconstitución y estabilidad de la suspensión",
+      "cuidadosEnfermagem": "Observar signos de hepatotoxicidad y arritmias",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "克拉霉素",
+      "suspension": "择期手术应于术前1天停药",
+      "risk": "可延长QT间期，可能导致肝毒性，与CYP3A4代谢的麻醉药相互作用",
+      "reintroduction": "术后在监测肝功能和心电图下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "克拉霉素",
+      "nomeComercial": "克拉仙, Biaxin",
+      "mecanismoAcao": "结合细菌核糖体50S亚基，抑制蛋白质合成",
+      "farmacocinetica": "口服或静脉使用，半衰期3–7小时，肝脏代谢，经胆汁和尿液排泄",
+      "farmacodinamica": "对革兰氏阳性、阴性菌及非典型病原体具抑菌作用",
+      "indicacoes": "呼吸道感染、中耳炎、咽炎、幽门螺杆菌、性传播感染",
+      "reacoesAdversas": "恶心、味觉异常、肝炎、QT间期延长、皮疹",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期避免使用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日1克",
+      "doseMinima": "每日250毫克",
+      "classificacao": "大环内酯类抗生素",
+      "apresentacao": "250mg/500mg片剂、混悬液、注射用粉末",
+      "interacaoMedicamento": "与他汀类、苯二氮䓬类、抗凝剂和地高辛相互作用",
+      "posologia": "每12小时250–500mg，疗程7–14天",
+      "armazenamento": "室温保存，重构后冷藏",
+      "preparo": "注射剂需稀释，口服混悬剂用纯化水配制",
+      "solucoesCompatíveis": "5%葡萄糖、0.9%氯化钠",
+      "contraindicacoes": "重度肝病、QT延长、同时使用西沙必利或匹莫齐特",
+      "cuidadosMedicos": "监测心电图、肝功能和药物相互作用",
+      "cuidadosFarmaceuticos": "确保正确配制和悬液稳定性",
+      "cuidadosEnfermagem": "观察肝毒性及心律失常表现",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate、BNF"
+    }
+  }
+}

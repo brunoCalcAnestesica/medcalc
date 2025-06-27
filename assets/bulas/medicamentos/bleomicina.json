@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bleomicina",
+      "suspension": "Suspender 10 dias antes de cirurgia eletiva devido ao risco pulmonar; manter em oncologia com avaliação individual",
+      "risk": "Fibrose pulmonar, pneumonite, reações alérgicas, febre, calafrios, estomatite, extravasamento",
+      "reintroduction": "Reintroduzir após recuperação clínica e função pulmonar estável; idealmente ≥14 dias após cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bleomicina",
+      "nomeComercial": "Blenoxane",
+      "mecanismoAcao": "Ligação ao DNA, causando quebras de fita simples e dupla via espécies reativas de oxigênio",
+      "farmacocinetica": "Administração IV, IM, SC ou intralesional; eliminação renal; meia-vida ~2h",
+      "farmacodinamica": "Citotóxico seletivo para células em fase G2 e M do ciclo celular; risco pulmonar dose-dependente",
+      "indicacoes": "Câncer de testículo, linfoma de Hodgkin, carcinoma de cérvice, cabeça e pescoço, sarcoma de Kaposi, escleroterapia de cistos linfáticos",
+      "reacoesAdversas": "Pneumonite intersticial, dermatite, hiperpigmentação, estomatite, febre, alopecia",
+      "riscoGravidez": "Categoria D – contraindicado salvo urgência oncológica",
+      "riscoLactacao": "Contraindicado; risco de toxicidade neonatal",
+      "administracao": "IV, IM, SC, intrapleural ou intralesional",
+      "doseMaxima": "20–30 unidades/m²/semana; dose cumulativa pulmonar limite: 400 unidades",
+      "doseMinima": "5–10 unidades por dose",
+      "classificacao": "Antibiótico glicopeptídico antineoplásico",
+      "apresentacao": "Frascos de 15UI ou 30UI (pó liofilizado)",
+      "interacaoMedicamento": "Aumenta toxicidade com oxigênio em altas concentrações; risco com filgrastim e radioterapia pulmonar",
+      "posologia": "10–20 UI 1–2x/semana; esquema varia por indicação",
+      "armazenamento": "Refrigerado (2–8°C); solução reconstituída válida por 24h refrigerada",
+      "preparo": "Reconstituir com água estéril, diluir em SF 0,9% se necessário",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Fibrose pulmonar prévia, hipersensibilidade, função renal gravemente comprometida",
+      "cuidadosMedicos": "Monitorar função pulmonar (espirometria), radiografia de tórax, creatinina",
+      "cuidadosFarmaceuticos": "Proteger da luz; orientar sobre dose acumulada e vias de uso",
+      "cuidadosEnfermagem": "Observar dispneia, febre, reações cutâneas e local de aplicação",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bleomycin",
+      "suspension": "Hold 10 days before elective surgery due to pulmonary risk; resume based on individual assessment",
+      "risk": "Pulmonary fibrosis, hypersensitivity reactions, fever, mucositis, local skin reactions, extravasation",
+      "reintroduction": "Restart after recovery and stable pulmonary function, typically ≥14 days post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bleomycin",
+      "nomeComercial": "Blenoxane",
+      "mecanismoAcao": "Binds DNA, causing strand breaks via oxygen radical formation",
+      "farmacocinetica": "IV, IM, SC, intrapleural; T½ ~2h; renal clearance",
+      "farmacodinamica": "Active in G2 and M phase; cumulative pulmonary toxicity",
+      "indicacoes": "Testicular cancer, Hodgkin lymphoma, squamous cell carcinoma, Kaposi sarcoma, lymphatic cyst sclerotherapy",
+      "reacoesAdversas": "Pneumonitis, fever, skin toxicity, hyperpigmentation, mucositis",
+      "riscoGravidez": "Category D – use only when benefits outweigh risks",
+      "riscoLactacao": "Not recommended",
+      "administracao": "IV, IM, SC, intrapleural, or intralesional",
+      "doseMaxima": "30 units/m²/week; lifetime dose ~400 units",
+      "doseMinima": "5 units/dose",
+      "classificacao": "Glycopeptide antibiotic antineoplastic",
+      "apresentacao": "Vials 15U, 30U (lyophilized)",
+      "interacaoMedicamento": "Increased risk with high FiO2, radiation; caution with G-CSF",
+      "posologia": "10–20 units 1–2x weekly depending on protocol",
+      "armazenamento": "Refrigerate (2–8°C); reconstituted solution stable 24h",
+      "preparo": "Reconstitute with sterile water; dilute as needed",
+      "solucoesCompatíveis": "Normal saline",
+      "contraindicacoes": "Preexisting pulmonary fibrosis, renal failure, hypersensitivity",
+      "cuidadosMedicos": "Pulmonary function tests, chest X-ray, renal monitoring",
+      "cuidadosFarmaceuticos": "Cytotoxic handling, protect from light",
+      "cuidadosEnfermagem": "Monitor for dyspnea, rash, fever, mucositis",
+      "fontesBibliograficas": "FDA, Blenoxane label, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bleomicina",
+      "suspension": "Suspender 10 días antes de cirugía; evaluar función pulmonar antes de reintroducir",
+      "risk": "Fibrosis pulmonar, reacciones cutáneas, fiebre, mucositis, toxicidad renal",
+      "reintroduction": "Reintroducir ≥14 días después de recuperación y con función pulmonar estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bleomicina",
+      "nomeComercial": "Blenoxane",
+      "mecanismoAcao": "Se une al ADN y genera radicales libres que provocan roturas de cadenas",
+      "farmacocinetica": "Vía IV, IM, SC; vida media ~2h; eliminación renal",
+      "farmacodinamica": "Actúa en G2/M; toxicidad pulmonar acumulativa",
+      "indicacoes": "Cáncer testicular, linfoma de Hodgkin, carcinomas escamosos, sarcoma de Kaposi",
+      "reacoesAdversas": "Neumonitis, fiebre, hiperpigmentación, alopecia, mucositis",
+      "riscoGravidez": "Categoría D – contraindicado salvo urgencia",
+      "riscoLactacao": "No recomendado",
+      "administracao": "IV, IM, SC, intrapleural, intralesional",
+      "doseMaxima": "30 UI/m² por semana; total acumulada: 400 UI",
+      "doseMinima": "5 UI/dosis",
+      "classificacao": "Antibiótico antitumoral glucopéptido",
+      "apresentacao": "Viales de 15UI, 30UI",
+      "interacaoMedicamento": "Mayor riesgo con oxígeno, radioterapia o G-CSF",
+      "posologia": "10–20 UI 1–2 veces por semana",
+      "armazenamento": "Refrigerado 2–8°C; solución válida 24h",
+      "preparo": "Bajo condiciones estériles; protección adecuada",
+      "solucoesCompatíveis": "Cloruro sódico 0,9%",
+      "contraindicacoes": "Fibrosis pulmonar, fallo renal, hipersensibilidad",
+      "cuidadosMedicos": "Evaluar capacidad pulmonar, creatinina y cuadro hemático",
+      "cuidadosFarmaceuticos": "Proteger de la luz, monitorear dosis acumulativa",
+      "cuidadosEnfermagem": "Observar dificultad respiratoria, fiebre, lesiones cutáneas",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "博来霉素",
+      "suspension": "术前10天停药，术后肺功能恢复后再评估使用",
+      "risk": "肺毒性、间质性肺炎、发热、口腔炎、皮疹、肾毒性、局部坏死",
+      "reintroduction": "术后14天以上，肺功能稳定后可重新开始"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "博来霉素",
+      "nomeComercial": "Blenoxane",
+      "mecanismoAcao": "结合DNA，通过氧自由基引发DNA断裂",
+      "farmacocinetica": "IV/IM/SC注射；半衰期2小时；经肾排泄",
+      "farmacodinamica": "作用于G2/M期；肺毒性与累积剂量相关",
+      "indicacoes": "睾丸癌、霍奇金淋巴瘤、鳞癌、卡波西肉瘤、淋巴囊肿硬化治疗",
+      "reacoesAdversas": "肺炎、皮肤色素沉着、脱发、粘膜炎、发热、寒战",
+      "riscoGravidez": "D类 – 孕期禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉、肌肉、皮下注射、胸腔内或局部注射",
+      "doseMaxima": "每周30单位/平方米；累积不超400单位",
+      "doseMinima": "每次5单位",
+      "classificacao": "抗生素类抗肿瘤药",
+      "apresentacao": "15单位、30单位/瓶",
+      "interacaoMedicamento": "高浓度氧气、放疗、粒细胞生长因子增强肺毒性",
+      "posologia": "10–20单位，每周1–2次，根据方案调整",
+      "armazenamento": "2–8°C冷藏；稀释后24小时内使用",
+      "preparo": "无菌条件下配药，穿戴个人防护",
+      "solucoesCompatíveis": "0.9%氯化钠注射液",
+      "contraindicacoes": "既往肺纤维化、严重肾功能障碍",
+      "cuidadosMedicos": "肺功能、影像、肾功能、血象监测",
+      "cuidadosFarmaceuticos": "注意剂量累积、光照、防污染",
+      "cuidadosEnfermagem": "观察呼吸情况、皮肤反应、注射部位、体温",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、NCCN"
+    }
+  }
+}

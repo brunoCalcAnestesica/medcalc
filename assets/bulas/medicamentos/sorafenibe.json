@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sorafenibe",
+      "suspension": "Suspender pelo menos 7 dias antes de cirurgias odontológicas invasivas ou procedimentos com risco de sangramento ou cicatrização prejudicada",
+      "risk": "Risco de atraso na cicatrização, sangramento, hipertensão, perfuração gastrointestinal e osteonecrose de mandíbula (MRONJ) especialmente quando associado a bifosfonatos ou após procedimentos odontológicos invasivos",
+      "reintroduction": "Reintroduzir após cicatrização adequada e estabilização da PA"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sorafenibe",
+      "nomeComercial": "Nexavar",
+      "mecanismoAcao": "Inibidor multiquinase que bloqueia RAF, VEGFR, PDGFR e outras vias proliferativas e angiogênicas",
+      "farmacocinetica": "Biodisponibilidade oral ~38–49%; meia-vida de 25–48h; metabolização hepática (CYP3A4, UGT1A9)",
+      "farmacodinamica": "Inibição da angiogênese e proliferação tumoral por múltiplas vias",
+      "indicacoes": "Carcinoma hepatocelular, carcinoma de células renais avançado, carcinoma diferenciado de tireoide refratário a radioiodo",
+      "reacoesAdversas": "Erupção cutânea, diarreia, fadiga, hipertensão, disfunção hepática, síndrome mão-pé, osteonecrose de mandíbula (MRONJ) em contextos odontológicos",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via oral",
+      "doseMaxima": "800 mg/dia (dividida 2x/dia)",
+      "doseMinima": "400 mg/dia (ajustada conforme tolerância)",
+      "classificacao": "Antineoplásico – inibidor de tirosina quinase multialvo",
+      "apresentacao": "Comprimidos de 200 mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores do CYP3A4; risco aumentado com anticoagulantes e anti-hipertensivos",
+      "posologia": "400 mg 2x/dia, sem alimentos (1h antes ou 2h após refeições)",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo; comprimidos inteiros",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, hipertensão grave, sangramento ativo, perfuração GI",
+      "cuidadosMedicos": "Monitorar PA, função hepática, sinais de sangramento e toxicidade cutânea Avaliar previamente a saúde oral se o paciente for submetido a cirurgia odontológica invasiva ou estiver em uso concomitante de bifosfonatos.",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão, interação alimentar e sintomas adversos Informar equipe cirúrgica e odontológica sobre uso do medicamento e planejar suspensão adequada se aplicável.",
+      "cuidadosEnfermagem": "Avaliar integridade da pele, PA e sintomas GI",
+      "fontesBibliograficas": "INCA, FDA, EMA, ANVISA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sorafenib",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of delayed wound healing, bleeding, hypertension, GI perforation",
+      "reintroduction": "Restart after proper wound healing and blood pressure control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sorafenib",
+      "nomeComercial": "Nexavar",
+      "mecanismoAcao": "Multikinase inhibitor targeting RAF, VEGFR, PDGFR and others, blocking angiogenesis and proliferation",
+      "farmacocinetica": "Oral bioavailability ~38–49%; half-life 25–48h; metabolism via CYP3A4 and UGT1A9",
+      "farmacodinamica": "Suppresses tumor growth via multiple signaling pathways",
+      "indicacoes": "Hepatocellular carcinoma, advanced renal cell carcinoma, RAI-refractory thyroid cancer",
+      "reacoesAdversas": "Rash, diarrhea, fatigue, hypertension, liver dysfunction, hand-foot syndrome",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "800 mg/day (400 mg twice daily)",
+      "doseMinima": "400 mg/day (adjusted if needed)",
+      "classificacao": "Antineoplastic – multikinase tyrosine kinase inhibitor",
+      "apresentacao": "200 mg tablets",
+      "interacaoMedicamento": "CYP3A4 interactions; monitor with anticoagulants and antihypertensives",
+      "posologia": "400 mg twice daily without food (1h before or 2h after meals)",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "No reconstitution needed; swallow tablets whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, uncontrolled hypertension, active bleeding, GI perforation",
+      "cuidadosMedicos": "Monitor BP, LFTs, bleeding signs, skin toxicity",
+      "cuidadosFarmaceuticos": "Educate on adherence, fasting intake, side effects",
+      "cuidadosEnfermagem": "Monitor skin, BP, and GI symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, NCCN, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sorafenib",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de mala cicatrización, sangrado, hipertensión, perforación gastrointestinal",
+      "reintroduction": "Reintroducir tras cicatrización completa y presión arterial estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sorafenib",
+      "nomeComercial": "Nexavar",
+      "mecanismoAcao": "Inhibidor multiquinasa que actúa sobre RAF, VEGFR, PDGFR, bloqueando proliferación y angiogénesis",
+      "farmacocinetica": "Biodisponibilidad oral ~38–49%; vida media 25–48h; metabolizado por CYP3A4 y UGT1A9",
+      "farmacodinamica": "Inhibe crecimiento tumoral mediante múltiples vías",
+      "indicacoes": "Carcinoma hepatocelular, carcinoma renal avanzado, cáncer diferenciado de tiroides resistente a radioyodo",
+      "reacoesAdversas": "Erupción, diarrea, fatiga, hipertensión, disfunción hepática, síndrome mano-pie",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "800 mg/día (400 mg 2 veces al día)",
+      "doseMinima": "400 mg/día (ajustable)",
+      "classificacao": "Antineoplásico – inhibidor de tirosina quinasa multiquinasa",
+      "apresentacao": "Comprimidos de 200 mg",
+      "interacaoMedicamento": "Interacciones con CYP3A4, anticoagulantes y antihipertensivos",
+      "posologia": "400 mg 2 veces al día sin alimentos (1h antes o 2h después)",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de la humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, hipertensión no controlada, sangrado activo, perforación GI",
+      "cuidadosMedicos": "Controlar PA, función hepática, signos de sangrado y toxicidad dérmica",
+      "cuidadosFarmaceuticos": "Orientar sobre ingesta en ayunas y adherencia",
+      "cuidadosEnfermagem": "Observar piel, PA y síntomas GI",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "索拉非尼",
+      "suspension": "术前7天停药",
+      "risk": "伤口愈合延迟、出血、高血压和胃肠穿孔风险",
+      "reintroduction": "术后愈合完成且血压稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "索拉非尼",
+      "nomeComercial": "Nexavar",
+      "mecanismoAcao": "多靶点酪氨酸激酶抑制剂，抑制RAF、VEGFR、PDGFR等信号通路",
+      "farmacocinetica": "口服生物利用度38–49%；半衰期25–48小时；CYP3A4代谢",
+      "farmacodinamica": "抑制肿瘤增殖和血管生成",
+      "indicacoes": "肝细胞癌、肾癌、难治性分化型甲状腺癌",
+      "reacoesAdversas": "皮疹、腹泻、乏力、高血压、肝功能异常、手足综合征",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日800毫克（400毫克早晚各一次）",
+      "doseMinima": "每日400毫克（可根据耐受性调整）",
+      "classificacao": "抗肿瘤药 – 多靶点酪氨酸激酶抑制剂",
+      "apresentacao": "200毫克片剂",
+      "interacaoMedicamento": "与CYP3A4相关药物、抗凝剂、降压药有相互作用",
+      "posologia": "每日2次，每次400 mg，空腹服用",
+      "armazenamento": "15–30°C室温避湿保存",
+      "preparo": "无需制备，整片吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、未控制高血压、活动性出血、胃肠穿孔",
+      "cuidadosMedicos": "监测血压、肝功能、出血及皮肤毒性",
+      "cuidadosFarmaceuticos": "指导按时服药并避开进食",
+      "cuidadosEnfermagem": "观察皮肤、血压及胃肠道症状",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Selegilina (transdérmica)",
+      "suspension": "Suspender 10 dias antes da cirurgia eletiva",
+      "risk": "Risco de crise hipertensiva, arritmias, hipertermia e interação grave com anestésicos voláteis e opioides",
+      "reintroduction": "Reintroduzir 5 dias após cirurgia, com paciente hemodinamicamente estável e sem uso de serotoninérgicos ou simpatomiméticos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Selegilina",
+      "nomeComercial": "Emsam (patch transdérmico)",
+      "mecanismoAcao": "Inibidor seletivo e irreversível da monoamina oxidase tipo B (IMAO-B) em baixas doses; inibe MAO-A em doses transdérmicas mais altas",
+      "farmacocinetica": "Evita metabolismo de primeira passagem, absorção lenta transcutânea, meia-vida ~24h, metabolização hepática via CYP2B6, CYP2A6",
+      "farmacodinamica": "Antidepressivo e antiparkinsoniano; reduz metabolismo de dopamina, noradrenalina e serotonina aumentando sua disponibilidade sináptica",
+      "indicacoes": "Transtorno depressivo maior (MDD) em adultos (uso transdérmico); doença de Parkinson (uso oral)",
+      "reacoesAdversas": "Eritema no local, insônia, vertigem, hipertensão, cefaleia, agitação, delírios, crise serotoninérgica (com ISRS/SNRI)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido se excretado no leite; evitar uso",
+      "administracao": "Via transdérmica (adesivo)",
+      "doseMaxima": "12mg/24h",
+      "doseMinima": "6mg/24h",
+      "classificacao": "Inibidor seletivo da MAO-B (transdérmico: seletividade reduzida)",
+      "apresentacao": "Adesivos de 6mg/24h, 9mg/24h e 12mg/24h",
+      "interacaoMedicamento": "Interage com ISRS, IRSN, triptanos, opioides (especialmente meperidina), descongestionantes e alimentos ricos em tiramina",
+      "posologia": "1 adesivo por 24h, aplicado na parte superior do tronco ou coxa, alternando locais diariamente",
+      "armazenamento": "Temperatura ambiente (15–30°C), na embalagem original até o uso",
+      "preparo": "Não cortar adesivo; aplicar em pele intacta e seca, pressionando por 30 segundos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso com ISRS/IRSN, meperidina, tramadol, anestésicos halogenados, feocromocitoma, alergia a selegilina",
+      "cuidadosMedicos": "Monitorar PA, temperatura, estado mental, sinais autonômicos e interações medicamentosas",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão correta, evitar alimentos com tiramina, lavar as mãos após aplicação",
+      "cuidadosEnfermagem": "Observar reações cutâneas, pressão arterial, confusão mental ou sinais serotoninérgicos",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, Lexicomp, NICE"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Selegiline (transdermal)",
+      "suspension": "Discontinue 10 days prior to elective surgery",
+      "risk": "Risk of hypertensive crisis, arrhythmia, serotonin syndrome, and interaction with volatile anesthetics and opioids",
+      "reintroduction": "Restart 5 days post-op if patient is stable and off serotonergic or sympathomimetic agents"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Selegiline",
+      "nomeComercial": "Emsam",
+      "mecanismoAcao": "Selective MAO-B inhibitor at low doses; higher transdermal doses inhibit both MAO-A and MAO-B",
+      "farmacocinetica": "Avoids first-pass metabolism; transdermal absorption; CYP2B6 and CYP2A6 metabolism; half-life ~24h",
+      "farmacodinamica": "Increases central dopamine, norepinephrine, and serotonin; antidepressant and antiparkinsonian effects",
+      "indicacoes": "Major depressive disorder (MDD) – transdermal; Parkinson’s disease – oral (not covered here)",
+      "reacoesAdversas": "Site reaction, insomnia, dizziness, agitation, hypertensive episodes, serotonin syndrome",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown if excreted in milk; caution advised",
+      "administracao": "Transdermal patch",
+      "doseMaxima": "12mg/24h",
+      "doseMinima": "6mg/24h",
+      "classificacao": "Monoamine oxidase inhibitor (MAOI) – transdermal formulation",
+      "apresentacao": "Patches: 6mg/24h, 9mg/24h, 12mg/24h",
+      "interacaoMedicamento": "Interacts with SSRIs, SNRIs, TCAs, meperidine, tramadol, decongestants, and tyramine-rich foods",
+      "posologia": "Apply 1 patch daily to upper torso or thigh; rotate site",
+      "armazenamento": "Store at 15–30°C in original packaging until use",
+      "preparo": "Apply to clean, dry, hairless skin; press for 30s; do not cut patch",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Concomitant use of serotonergic drugs, opioids, anesthetics; pheochromocytoma; hypersensitivity",
+      "cuidadosMedicos": "Monitor BP, mental status, temperature, serotonin toxicity, drug interactions",
+      "cuidadosFarmaceuticos": "Educate on patch handling, tyramine restrictions, hand hygiene",
+      "cuidadosEnfermagem": "Monitor skin site, autonomic signs, orientation, and sedation",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, APA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Selegilina (transdérmica)",
+      "suspension": "Suspender 10 días antes de cirugía electiva",
+      "risk": "Riesgo de crisis hipertensiva, arritmias, hipertermia e interacción con anestesia volátil y opioides",
+      "reintroduction": "Reintroducir 5 días después de la cirugía si el paciente está estable y sin serotonérgicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Selegilina",
+      "nomeComercial": "Emsam",
+      "mecanismoAcao": "Inhibidor selectivo de la MAO-B (oral) y no selectivo en dosis transdérmicas altas",
+      "farmacocinetica": "Evita metabolismo hepático inicial; absorción lenta; vida media ~24h; metabolismo CYP2B6 y CYP2A6",
+      "farmacodinamica": "Aumenta dopamina y otras monoaminas cerebrales; efecto antidepresivo y antiparkinsoniano",
+      "indicacoes": "Trastorno depresivo mayor (uso transdérmico); Parkinson (forma oral)",
+      "reacoesAdversas": "Reacciones en piel, insomnio, cefalea, crisis hipertensiva, delirio, síndrome serotoninérgico",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido si se excreta; evitar durante lactancia",
+      "administracao": "Parche transdérmico",
+      "doseMaxima": "12mg/24h",
+      "doseMinima": "6mg/24h",
+      "classificacao": "Inhibidor de la monoaminooxidasa (IMAO) – vía transdérmica",
+      "apresentacao": "Parches: 6mg/24h, 9mg/24h, 12mg/24h",
+      "interacaoMedicamento": "Interacciones con ISRS, IRSN, triptanos, opioides, alimentos con tiramina",
+      "posologia": "Aplicar 1 parche diario en torso o muslo, alternar ubicación",
+      "armazenamento": "15–30°C en empaque original hasta su uso",
+      "preparo": "No cortar parche; aplicar sobre piel limpia y seca, presionar 30 segundos",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Uso con ISRS/IRSN, tramadol, meperidina, feocromocitoma",
+      "cuidadosMedicos": "Vigilar PA, temperatura, confusión, interacciones farmacológicas",
+      "cuidadosFarmaceuticos": "Explicar uso correcto del parche, evitar alimentos ricos en tiramina",
+      "cuidadosEnfermagem": "Observar piel, PA, signos autonómicos y cognición",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "司来吉兰（透皮贴）",
+      "suspension": "术前10天停药",
+      "risk": "与麻醉剂、阿片类合用可引起高血压危象、心律失常、体温升高和严重药物相互作用",
+      "reintroduction": "术后5天、患者稳定、未使用血清素药物后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "司来吉兰",
+      "nomeComercial": "Emsam透皮贴",
+      "mecanismoAcao": "低剂量为选择性MAO-B抑制剂，高剂量贴剂抑制MAO-A和MAO-B",
+      "farmacocinetica": "绕过首过效应，缓慢透皮吸收，CYP2B6、CYP2A6代谢，半衰期约24小时",
+      "farmacodinamica": "通过抑制单胺氧化酶提高中枢多巴胺、去甲肾上腺素和5-HT，具抗抑郁与抗帕金森作用",
+      "indicacoes": "重度抑郁症（贴剂）；帕金森病（口服剂型）",
+      "reacoesAdversas": "局部红斑、失眠、头晕、高血压、躁动、幻觉、5-羟色胺综合征",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否分泌未知，建议哺乳期慎用",
+      "administracao": "透皮贴剂",
+      "doseMaxima": "每日12毫克",
+      "doseMinima": "每日6毫克",
+      "classificacao": "单胺氧化酶抑制剂（MAOI）",
+      "apresentacao": "透皮贴片：6mg、9mg、12mg（每日）",
+      "interacaoMedicamento": "与ISRS、SNRI、三环类、曲马多、麻黄碱和高酪胺食物相互作用",
+      "posologia": "每日更换一次，贴于上身或大腿部干燥区域，每次更换位置",
+      "armazenamento": "15–30°C，贴片置于原包装中储存",
+      "preparo": "贴于干净、无毛皮肤表面，按压30秒，勿剪裁",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "与ISRS/IRSN合用、嗜铬细胞瘤、对司来吉兰过敏者禁用",
+      "cuidadosMedicos": "监测血压、体温、认知状态和药物相互作用",
+      "cuidadosFarmaceuticos": "注意饮食中酪胺含量，避免同时使用抑郁药和麻醉剂",
+      "cuidadosEnfermagem": "观察局部反应、自主神经体征和精神状态",
+      "fontesBibliograficas": "NMPA, FDA, WHO, Micromedex"
+    }
+  }
+}

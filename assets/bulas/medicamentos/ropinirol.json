@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ropinirol",
+      "suspension": "Suspender 24h antes de neurocirurgias ou anestesia geral prolongada",
+      "risk": "Náuseas, hipotensão ortostática, sonolência, alucinações, compulsões, síncope, confusão",
+      "reintroduction": "Reintroduzir 12–24h após estabilização clínica e retorno da via oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ropinirol",
+      "nomeComercial": "Requip, Requip-Modutab",
+      "mecanismoAcao": "Agonista seletivo de receptores dopaminérgicos D2/D3; modula transmissão dopaminérgica no estriado",
+      "farmacocinetica": "VO; biodisponibilidade ~50%; T½ ~6h (IR), ~8h (LP); metabolizado via CYP1A2; excreção renal",
+      "farmacodinamica": "Atividade dopaminérgica central → melhora rigidez, bradicinesia, tremor e sintomas motores",
+      "indicacoes": "Doença de Parkinson, síndrome das pernas inquietas (SPI)",
+      "reacoesAdversas": "Náusea, tontura, sonolência, compulsões (jogo, sexo, compras), alucinações, hipotensão postural",
+      "riscoGravidez": "Categoria C – usar se benefício justificar o risco",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "VO; IR: 3x/dia; LP: 1x/dia, preferencialmente com alimentos",
+      "doseMaxima": "24mg/dia (LP); 8mg/dia (SPI)",
+      "doseMinima": "0,25mg/dia",
+      "classificacao": "Agonista dopaminérgico não-ergolínico",
+      "apresentacao": "Comprimidos 0,25mg, 0,5mg, 1mg, 2mg, 4mg, 8mg",
+      "interacaoMedicamento": "CYP1A2 (fluvoxamina ↑, ciprofloxacino ↑); interações com álcool, outros dopaminérgicos",
+      "posologia": "Parkinson: iniciar com 0,25mg 3x/dia, titular até 9–24mg/dia; SPI: iniciar com 0,25mg 1–2h antes de dormir",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso oral direto; não mastigar LP",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade à fórmula",
+      "cuidadosMedicos": "Avaliar sinais de compulsividade, sonolência, PA em pé, ajustes por IR",
+      "cuidadosFarmaceuticos": "Educar sobre titulação lenta, não parar abruptamente, evitar álcool",
+      "cuidadosEnfermagem": "Monitorar PA ortostática, alterações comportamentais, sonolência",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ropinirole",
+      "suspension": "Discontinue 24h before neurosurgery or long anesthesia procedures",
+      "risk": "Nausea, hypotension, somnolence, hallucinations, impulse control disorders",
+      "reintroduction": "Restart 12–24h postop with oral intake tolerance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ropinirole",
+      "nomeComercial": "Requip",
+      "mecanismoAcao": "Selective D2/D3 dopamine receptor agonist; mimics endogenous dopamine",
+      "farmacocinetica": "Oral; T½ 6h (IR), 8h (ER); CYP1A2 metabolism; renal clearance",
+      "farmacodinamica": "Dopaminergic modulation in basal ganglia",
+      "indicacoes": "Parkinson’s disease, restless legs syndrome (RLS)",
+      "reacoesAdversas": "Drowsiness, dizziness, hallucinations, nausea, behavioral disorders",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not advised",
+      "administracao": "IR: TID; ER: once daily",
+      "doseMaxima": "24mg/day (ER); 4mg/day (RLS)",
+      "doseMinima": "0.25mg/day",
+      "classificacao": "Non-ergot dopamine agonist",
+      "apresentacao": "Tablets 0.25–8mg",
+      "interacaoMedicamento": "CYP1A2 inhibitors (fluvoxamine ↑); alcohol, dopaminergics",
+      "posologia": "Start 0.25mg TID (PD); 0.25mg QHS (RLS); titrate",
+      "armazenamento": "Room temp; dry place",
+      "preparo": "Swallow whole (ER); do not crush",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Known allergy",
+      "cuidadosMedicos": "Assess BP, hallucinations, behavior, renal dosing",
+      "cuidadosFarmaceuticos": "Counsel on adherence, side effect warning",
+      "cuidadosEnfermagem": "Observe postural BP, alertness, compulsions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, NCCN"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ropinirol",
+      "suspension": "Suspender 24h antes de cirugía neurológica o anestesia prolongada",
+      "risk": "Náuseas, hipotensión, alucinaciones, compulsiones, somnolencia",
+      "reintroduction": "Reanudar 12–24h después si estable y con vía oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ropinirol",
+      "nomeComercial": "Requip",
+      "mecanismoAcao": "Agonista dopaminérgico D2/D3; estimula ganglios basales",
+      "farmacocinetica": "VO; T½ 6–8h; metabolismo hepático (CYP1A2)",
+      "farmacodinamica": "Restablece neurotransmisión dopaminérgica",
+      "indicacoes": "Parkinson, síndrome de piernas inquietas",
+      "reacoesAdversas": "Somnolencia, náuseas, alucinaciones, trastornos conductuales",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No se recomienda",
+      "administracao": "IR 3×/día; LP 1×/día",
+      "doseMaxima": "24mg/día; 4mg/día (SPI)",
+      "doseMinima": "0,25mg/día",
+      "classificacao": "Agonista dopaminérgico no ergótico",
+      "apresentacao": "0,25–8mg comprimidos",
+      "interacaoMedicamento": "CYP1A2 (ciprofloxacino, fluvoxamina), alcohol",
+      "posologia": "0,25mg inicio; ajustar lentamente",
+      "armazenamento": "Ambiente seco y fresco",
+      "preparo": "Oral; no triturar LP",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia conocida",
+      "cuidadosMedicos": "PA ortostática, conducta, renal",
+      "cuidadosFarmaceuticos": "Educación sobre ajuste gradual",
+      "cuidadosEnfermagem": "Observar caídas, compulsiones, somnolencia",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "罗匹尼罗",
+      "suspension": "术前24小时停药，尤其神经外科或全麻术式",
+      "risk": "恶心、低血压、幻觉、嗜睡、冲动控制障碍",
+      "reintroduction": "术后12–24小时稳定后恢复口服"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "罗匹尼罗",
+      "nomeComercial": "Requip",
+      "mecanismoAcao": "选择性D2/D3多巴胺受体激动剂",
+      "farmacocinetica": "口服；T½ 6–8小时；CYP1A2代谢；肾排泄",
+      "farmacodinamica": "增强基底节多巴胺通路功能",
+      "indicacoes": "帕金森病、RLS",
+      "reacoesAdversas": "头晕、低血压、幻觉、行为异常、恶心",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "不建议",
+      "administracao": "普通片每日3次；缓释片每日1次",
+      "doseMaxima": "24mg/天；RLS 4mg/天",
+      "doseMinima": "0.25mg/天",
+      "classificacao": "非麦角类多巴胺激动剂",
+      "apresentacao": "0.25–8mg片剂",
+      "interacaoMedicamento": "CYP1A2抑制剂如环丙沙星，酒精",
+      "posologia": "起始0.25mg，缓慢加量",
+      "armazenamento": "室温干燥处",
+      "preparo": "整片口服，缓释片不可咀嚼",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "已知过敏",
+      "cuidadosMedicos": "血压、精神症状、肾功能",
+      "cuidadosFarmaceuticos": "指导剂量递增、避免酒精",
+      "cuidadosEnfermagem": "监测跌倒、嗜睡、冲动行为",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Colchicina",
+      "suspension": "Suspender 24 horas antes de cirurgias maiores ou em pacientes com disfunção renal ou hepática",
+      "risk": "Risco de toxicidade gastrointestinal, hematológica e neuromuscular; potencial interação com anestésicos e imunossupressores",
+      "reintroduction": "Reintroduzir após reestabelecimento da função hepatorrenal e ausência de sinais de toxicidade"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Colchicina",
+      "nomeComercial": "Coltrax, Colchis, Coltramine",
+      "mecanismoAcao": "Inibe a polimerização da tubulina, interferindo na migração leucocitária e inflamação",
+      "farmacocinetica": "Biodisponibilidade 45%; meia-vida 26–31h; metabolização hepática e excreção renal/biliar",
+      "farmacodinamica": "Efeito anti-inflamatório agudo em gota e doenças auto-inflamatórias",
+      "indicacoes": "Crise aguda de gota, prevenção de gota recorrente, febre mediterrânea familiar, pericardite",
+      "reacoesAdversas": "Diarreia, náusea, dor abdominal, pancitopenia, rabdomiólise (em IR)",
+      "riscoGravidez": "Categoria C – uso com cautela",
+      "riscoLactacao": "Evitar uso prolongado; excreção desconhecida",
+      "administracao": "Via oral",
+      "doseMaxima": "2,4 mg/dia (aguda); 1 mg/dia (profilaxia)",
+      "doseMinima": "0,5 mg/dia",
+      "classificacao": "Anti-inflamatório específico para gota; alcaloide vegetal",
+      "apresentacao": "Comprimidos de 0,5 mg ou 1 mg",
+      "interacaoMedicamento": "Toxicidade aumentada com macrolídeos, ciclosporina, estatinas, antifúngicos",
+      "posologia": "Crise aguda: 1–1,2 mg início, depois 0,5 mg a cada 1–2h até 2,4 mg/dia; prevenção: 0,5–1 mg/dia",
+      "armazenamento": "Temperatura ambiente, frasco fechado",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência renal ou hepática grave, distúrbios hematológicos, alergia",
+      "cuidadosMedicos": "Monitorar função renal, hepática e hemograma",
+      "cuidadosFarmaceuticos": "Orientar sobre sinais de toxicidade e interações",
+      "cuidadosEnfermagem": "Observar dor abdominal, fraqueza muscular, diarreia e sangramento",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, EULAR Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Colchicine",
+      "suspension": "Hold 24 hours prior to major surgery or in patients with renal/hepatic dysfunction",
+      "risk": "Risk of GI, hematologic, neuromuscular toxicity; interacts with anesthetics and immunosuppressants",
+      "reintroduction": "Restart after hepatic/renal recovery and absence of toxicity"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Colchicine",
+      "nomeComercial": "Colcrys, Mitigare",
+      "mecanismoAcao": "Disrupts tubulin polymerization, impairs neutrophil migration and inflammatory response",
+      "farmacocinetica": "Bioavailability ~45%; half-life 26–31h; hepatic metabolism, renal and biliary excretion",
+      "farmacodinamica": "Anti-inflammatory effect in gout and autoinflammatory syndromes",
+      "indicacoes": "Acute gout, gout prophylaxis, familial Mediterranean fever, pericarditis",
+      "reacoesAdversas": "Diarrhea, nausea, abdominal pain, pancytopenia, rhabdomyolysis (in renal impairment)",
+      "riscoGravidez": "Category C – use with caution",
+      "riscoLactacao": "Avoid long-term use; unknown excretion",
+      "administracao": "Oral",
+      "doseMaxima": "2.4 mg/day (acute); 1 mg/day (prophylaxis)",
+      "doseMinima": "0.5 mg/day",
+      "classificacao": "Antigout, anti-inflammatory alkaloid",
+      "apresentacao": "Tablets 0.6 mg (US standard)",
+      "interacaoMedicamento": "Increased toxicity with macrolides, cyclosporine, statins, antifungals",
+      "posologia": "Acute gout: 1.2 mg at onset, then 0.6 mg 1 hour later; prophylaxis: 0.6–1.2 mg/day",
+      "armazenamento": "Room temp, tightly closed",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe renal/hepatic impairment, blood dyscrasias, hypersensitivity",
+      "cuidadosMedicos": "Monitor CBC, renal/hepatic function",
+      "cuidadosFarmaceuticos": "Warn about drug interactions and toxicity signs",
+      "cuidadosEnfermagem": "Monitor for GI upset, weakness, and bleeding signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, ACR Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Colchicina",
+      "suspension": "Suspender 24 h antes de cirugía mayor o si hay disfunción renal/hepática",
+      "risk": "Riesgo de toxicidad digestiva, hematológica y neuromuscular; interacciones relevantes",
+      "reintroduction": "Reintroducir tras recuperación hepatorrenal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Colchicina",
+      "nomeComercial": "Colchimax, Colcrys",
+      "mecanismoAcao": "Inhibe microtúbulos e inflamación mediada por neutrófilos",
+      "farmacocinetica": "Biodisponibilidad ~45%, t½ 26–31 h, metabolismo hepático, eliminación renal/biliar",
+      "farmacodinamica": "Efecto antiinflamatorio en gota, fiebre mediterránea y pericarditis",
+      "indicacoes": "Gota aguda, profilaxis, fiebre mediterránea, pericarditis",
+      "reacoesAdversas": "Diarrea, dolor abdominal, pancitopenia, rabdomiólisis",
+      "riscoGravidez": "Categoría C – con precaución",
+      "riscoLactacao": "Evitar uso crónico",
+      "administracao": "Oral",
+      "doseMaxima": "2,4 mg/día",
+      "doseMinima": "0,5 mg/día",
+      "classificacao": "Antiinflamatorio específico para gota",
+      "apresentacao": "Comprimidos 0,5 mg o 1 mg",
+      "interacaoMedicamento": "Macrólidos, estatinas, ciclosporina, antifúngicos",
+      "posologia": "Gota aguda: 1–1,2 mg inicial, luego 0,5 mg c/1–2 h; prevención: 0,5–1 mg/día",
+      "armazenamento": "Ambiente seco",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "IR/insuficiencia hepática grave, discrasias sanguíneas",
+      "cuidadosMedicos": "Monitorizar hemograma y función renal/hepática",
+      "cuidadosFarmaceuticos": "Advertir sobre signos de toxicidad",
+      "cuidadosEnfermagem": "Vigilar síntomas digestivos, debilidad y sangrado",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "秋水仙碱",
+      "suspension": "重大手术或肝肾功能障碍者术前24小时停药",
+      "risk": "胃肠道、血液及肌肉毒性风险高；与麻醉药及免疫抑制剂可能相互作用",
+      "reintroduction": "术后肝肾功能恢复且无毒性表现后再服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "秋水仙碱",
+      "nomeComercial": "Colcrys, Colchicine片",
+      "mecanismoAcao": "抑制微管聚合，减少中性粒细胞迁移与炎症反应",
+      "farmacocinetica": "口服吸收好，半衰期26–31小时，肝代谢，肾/胆排泄",
+      "farmacodinamica": "治疗痛风急性发作、家族性地中海热、心包炎等炎症病",
+      "indicacoes": "痛风、家族性地中海热、心包炎",
+      "reacoesAdversas": "腹泻、恶心、骨髓抑制、横纹肌溶解（肾功能不全时）",
+      "riscoGravidez": "C类，慎用",
+      "riscoLactacao": "不推荐长期使用",
+      "administracao": "口服",
+      "doseMaxima": "每日2.4毫克",
+      "doseMinima": "每日0.5毫克",
+      "classificacao": "抗痛风植物碱",
+      "apresentacao": "0.5或1毫克片剂",
+      "interacaoMedicamento": "红霉素、他汀类、环孢素、抗真菌药",
+      "posologia": "急性发作：1–1.2 mg起始，随后每1–2小时0.5 mg，最多2.4 mg/日；预防：0.5–1 mg/日",
+      "armazenamento": "干燥常温保存",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肝肾功能损害、血液病、过敏史",
+      "cuidadosMedicos": "监测血象、肝肾功能",
+      "cuidadosFarmaceuticos": "告知毒性及相互作用",
+      "cuidadosEnfermagem": "注意腹泻、肌肉无力、出血等不良反应",
+      "fontesBibliograficas": "中国药典、UpToDate、Micromedex、EULAR指南"
+    }
+  }
+}

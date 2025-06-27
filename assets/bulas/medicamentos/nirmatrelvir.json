@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nirmatrelvir",
+      "suspension": "Não suspender em cirurgias eletivas; avaliar em função renal grave",
+      "risk": "Interações medicamentosas significativas via ritonavir; risco de toxicidade com imunossupressores, benzodiazepínicos, antiarrítmicos",
+      "reintroduction": "Reintroduzir conforme prescrição após 5 dias de tratamento; não reutilizar sem nova indicação"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nirmatrelvir + Ritonavir",
+      "nomeComercial": "Paxlovid",
+      "mecanismoAcao": "Nirmatrelvir inibe a protease Mpro do SARS-CoV-2; ritonavir aumenta sua biodisponibilidade ao inibir o CYP3A",
+      "farmacocinetica": "Via oral; t1/2 ~6h; nirmatrelvir excretado pelos rins; ritonavir pelo fígado",
+      "farmacodinamica": "Impede replicação viral nas fases iniciais da infecção por SARS-CoV-2",
+      "indicacoes": "COVID-19 leve a moderado em adultos com risco de progressão (dentro de 5 dias dos sintomas)",
+      "reacoesAdversas": "Disgeusia, diarreia, aumento de transaminases, hipertensão, interações medicamentosas",
+      "riscoGravidez": "Categoria C; não recomendado salvo risco-benefício",
+      "riscoLactacao": "Ritonavir é excretado no leite; usar com cautela",
+      "administracao": "Via oral com ou sem alimentos",
+      "doseMaxima": "300 mg nirmatrelvir + 100 mg ritonavir 2x/dia por 5 dias",
+      "doseMinima": "150 mg nirmatrelvir + 100 mg ritonavir 2x/dia (ajuste em insuficiência renal moderada)",
+      "classificacao": "Antiviral oral protease-inibidor com booster farmacocinético",
+      "apresentacao": "Cartela com 5 dias: 30 comprimidos (20 nirmatrelvir 150 mg + 10 ritonavir 100 mg)",
+      "interacaoMedicamento": "Inibe CYP3A4; interage com anticoagulantes, imunossupressores, benzodiazepínicos, anticonvulsivantes",
+      "posologia": "1 comprimido de ritonavir 100 mg + 2 comprimidos de nirmatrelvir 150 mg VO 2x/dia por 5 dias",
+      "armazenamento": "Temperatura ambiente (<25°C)",
+      "preparo": "Uso direto por via oral; não partir nem triturar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso concomitante com medicamentos altamente dependentes do CYP3A",
+      "cuidadosMedicos": "Avaliar função renal e interações antes do uso; contraindicado se ClCr <30 mL/min",
+      "cuidadosFarmaceuticos": "Verificar interações e dose renal; atenção a medicamentos suspensos",
+      "cuidadosEnfermagem": "Orientar adesão rigorosa por 5 dias e não repetir tratamento sem avaliação",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, BNF, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nirmatrelvir",
+      "suspension": "Do not suspend; consider renal function and drug interactions",
+      "risk": "Major CYP3A4 interactions via ritonavir; risk with immunosuppressants, antiarrhythmics, sedatives",
+      "reintroduction": "Not reused without new prescription; complete full 5-day course"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nirmatrelvir + Ritonavir",
+      "nomeComercial": "Paxlovid",
+      "mecanismoAcao": "Nirmatrelvir inhibits SARS-CoV-2 Mpro; ritonavir boosts levels via CYP3A4 inhibition",
+      "farmacocinetica": "Oral route; t1/2 ~6h; renal excretion of nirmatrelvir, hepatic for ritonavir",
+      "farmacodinamica": "Inhibits viral replication early in COVID-19 course",
+      "indicacoes": "Mild-to-moderate COVID-19 in high-risk adults (within 5 days of symptom onset)",
+      "reacoesAdversas": "Dysgeusia, diarrhea, hypertension, liver enzyme elevation, drug interactions",
+      "riscoGravidez": "Category C; use only if benefit > risk",
+      "riscoLactacao": "Ritonavir is secreted in breast milk; caution advised",
+      "administracao": "Oral, with or without food",
+      "doseMaxima": "300 mg nirmatrelvir + 100 mg ritonavir BID x 5 days",
+      "doseMinima": "150 mg nirmatrelvir + 100 mg ritonavir BID (moderate renal impairment)",
+      "classificacao": "Oral protease inhibitor with pharmacokinetic booster",
+      "apresentacao": "Blister pack for 5-day course (30 tablets: 20 nirmatrelvir + 10 ritonavir)",
+      "interacaoMedicamento": "Strong CYP3A4 inhibitor; interacts with anticoagulants, antiepileptics, sedatives, immunosuppressants",
+      "posologia": "2 tablets nirmatrelvir 150 mg + 1 tablet ritonavir 100 mg PO BID for 5 days",
+      "armazenamento": "Store below 77°F (25°C)",
+      "preparo": "Do not crush or split tablets",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Drugs highly dependent on CYP3A for clearance",
+      "cuidadosMedicos": "Assess renal function; avoid if eGFR <30 mL/min",
+      "cuidadosFarmaceuticos": "Verify drug interactions and renal dosing",
+      "cuidadosEnfermagem": "Instruct strict adherence; avoid restarting without evaluation",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, NIH"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nirmatrelvir",
+      "suspension": "No suspender; revisar función renal e interacciones medicamentosas",
+      "risk": "Interacciones por ritonavir (inhibidor del CYP3A4); riesgo de toxicidad con inmunosupresores y sedantes",
+      "reintroduction": "No reiniciar sin nueva prescripción; completar ciclo de 5 días"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nirmatrelvir + Ritonavir",
+      "nomeComercial": "Paxlovid",
+      "mecanismoAcao": "Nirmatrelvir inhibe proteasa Mpro del SARS-CoV-2; ritonavir aumenta su concentración plasmática",
+      "farmacocinetica": "Vía oral; t1/2 ~6h; eliminación renal/hepática",
+      "farmacodinamica": "Inhibe replicación viral si se administra temprano",
+      "indicacoes": "COVID-19 leve/moderado en adultos con riesgo alto (inicio <5 días)",
+      "reacoesAdversas": "Disgeusia, diarrea, hipertensión, elevación de transaminasas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche; precaución",
+      "administracao": "Oral, con o sin alimentos",
+      "doseMaxima": "300 mg nirmatrelvir + 100 mg ritonavir 2x/día",
+      "doseMinima": "150 mg nirmatrelvir + 100 mg ritonavir 2x/día (si función renal reducida)",
+      "classificacao": "Antiviral oral con potenciador farmacocinético",
+      "apresentacao": "Blister de 5 días (30 comprimidos)",
+      "interacaoMedicamento": "Evitar con inmunosupresores, benzodiacepinas, anticonvulsivos",
+      "posologia": "2 comprimidos de nirmatrelvir + 1 de ritonavir 2x/día durante 5 días",
+      "armazenamento": "Hasta 25°C",
+      "preparo": "No triturar ni dividir",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Medicamentos con alta dependencia de CYP3A",
+      "cuidadosMedicos": "Evaluar función renal y medicación concomitante",
+      "cuidadosFarmaceuticos": "Verificar interacciones y dosificación renal",
+      "cuidadosEnfermagem": "Educar sobre adherencia y evitar reinicio sin indicación médica",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奈玛特韦",
+      "suspension": "无需停药；应评估肾功能与药物相互作用",
+      "risk": "利托那韦抑制CYP3A4，易引起严重药物相互作用",
+      "reintroduction": "不应重复使用；如需再次治疗须重新评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奈玛特韦 + 利托那韦",
+      "nomeComercial": "Paxlovid",
+      "mecanismoAcao": "奈玛特韦抑制病毒主蛋白酶Mpro；利托那韦抑制代谢提高血药浓度",
+      "farmacocinetica": "口服；半衰期约6小时；肾/肝排泄",
+      "farmacodinamica": "阻止SARS-CoV-2复制，适用于感染早期",
+      "indicacoes": "高风险成人COVID-19轻中度（发病5日内）",
+      "reacoesAdversas": "味觉异常、腹泻、血压升高、转氨酶升高",
+      "riscoGravidez": "C类；权衡利弊",
+      "riscoLactacao": "利托那韦可分泌至乳汁；慎用",
+      "administracao": "口服，可与食物同服",
+      "doseMaxima": "奈玛特韦300 mg + 利托那韦100 mg 每日两次",
+      "doseMinima": "奈玛特韦150 mg + 利托那韦100 mg（中度肾功能不全）",
+      "classificacao": "口服抗病毒蛋白酶抑制剂",
+      "apresentacao": "5日包装（30片）",
+      "interacaoMedicamento": "与免疫抑制剂、抗癫痫药、镇静剂等相互作用显著",
+      "posologia": "每日两次，每次2粒奈玛特韦+1粒利托那韦，共5天",
+      "armazenamento": "低于25°C储存",
+      "preparo": "不建议碾碎或分割",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "禁止与CYP3A代谢相关药物合用",
+      "cuidadosMedicos": "评估肾功能与合并用药；eGFR<30时禁用",
+      "cuidadosFarmaceuticos": "重点检查处方药物相互作用",
+      "cuidadosEnfermagem": "强调连续服药5天；不自行复用",
+      "fontesBibliograficas": "中国药典，FDA，Micromedex，EMA"
+    }
+  }
+}

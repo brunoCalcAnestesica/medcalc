@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Alisquireno",
+      "suspension": "Suspender 24h antes da cirurgia",
+      "risk": "Risco de hipotensão intraoperatória, hiperpotassemia e interação com anestésicos e IECAs/BRAs",
+      "reintroduction": "Reintroduzir após estabilidade hemodinâmica e função renal normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alisquireno",
+      "nomeComercial": "Rasilez, Tekturna",
+      "mecanismoAcao": "Inibidor direto da renina, bloqueia a conversão de angiotensinogênio em angiotensina I",
+      "farmacocinetica": "Baixa biodisponibilidade oral (~2.5%), pico em 1–3h, meia-vida ~24–40h, excreção biliar",
+      "farmacodinamica": "Reduz pressão arterial sistêmica, atividade da renina plasmática e volume extracelular",
+      "indicacoes": "Hipertensão arterial sistêmica, geralmente em monoterapia ou combinação com outros anti-hipertensivos",
+      "reacoesAdversas": "Hipotensão, diarreia, hiperpotassemia, rash cutâneo, tosse seca, edema",
+      "riscoGravidez": "Categoria D – contraindicado em gestantes",
+      "riscoLactacao": "Desconhecido se excretado no leite; evitar durante lactação",
+      "administracao": "Via oral, preferencialmente em jejum",
+      "doseMaxima": "300 mg/dia",
+      "doseMinima": "150 mg/dia",
+      "classificacao": "Anti-hipertensivo – inibidor direto da renina",
+      "apresentacao": "Comprimidos de 150 mg e 300 mg",
+      "interacaoMedicamento": "Interage com IECAs, BRAs, diuréticos poupadores de potássio, furosemida e ciclosporina",
+      "posologia": "Iniciar com 150 mg/dia; pode ser aumentada para 300 mg/dia conforme resposta",
+      "armazenamento": "Temperatura ambiente (<30°C), protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, insuficiência renal grave, hipercalemia",
+      "cuidadosMedicos": "Monitorar potássio sérico, creatinina e pressão arterial",
+      "cuidadosFarmaceuticos": "Orientar sobre interações e uso com alimentação",
+      "cuidadosEnfermagem": "Aferir PA regularmente, observar sinais de hipotensão e edema",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Aliskiren",
+      "suspension": "Discontinue 24h before surgery",
+      "risk": "Risk of intraoperative hypotension, hyperkalemia, interaction with ACEIs/ARBs and anesthetics",
+      "reintroduction": "Restart when hemodynamically stable and renal function is normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aliskiren",
+      "nomeComercial": "Tekturna, Rasilez",
+      "mecanismoAcao": "Direct renin inhibitor; blocks conversion of angiotensinogen to angiotensin I",
+      "farmacocinetica": "Low oral bioavailability (~2.5%), peak 1–3h, half-life 24–40h, biliary excretion",
+      "farmacodinamica": "Lowers systemic BP, plasma renin activity and extracellular volume",
+      "indicacoes": "Essential hypertension, alone or with other antihypertensives",
+      "reacoesAdversas": "Hypotension, diarrhea, hyperkalemia, rash, dry cough, peripheral edema",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Unknown excretion in milk; avoid during lactation",
+      "administracao": "Oral, preferably on an empty stomach",
+      "doseMaxima": "300 mg/day",
+      "doseMinima": "150 mg/day",
+      "classificacao": "Direct renin inhibitor – antihypertensive",
+      "apresentacao": "Tablets 150 mg and 300 mg",
+      "interacaoMedicamento": "Interacts with ACEIs, ARBs, potassium-sparing diuretics, furosemide, cyclosporine",
+      "posologia": "Start at 150 mg/day; may increase to 300 mg/day",
+      "armazenamento": "Room temperature (<30°C), dry place",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, severe renal impairment, hyperkalemia",
+      "cuidadosMedicos": "Monitor potassium, creatinine, BP regularly",
+      "cuidadosFarmaceuticos": "Counsel on drug interactions and timing with meals",
+      "cuidadosEnfermagem": "Monitor BP and signs of edema or hypotension",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, ACC guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Aliskireno",
+      "suspension": "Suspender 24h antes de cirugía",
+      "risk": "Riesgo de hipotensión, hiperpotasemia, interacción con IECA/ARA-II y anestesia",
+      "reintroduction": "Reintroducir tras estabilidad hemodinámica y función renal normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aliskireno",
+      "nomeComercial": "Rasilez, Tekturna",
+      "mecanismoAcao": "Inhibidor directo de la renina; impide la formación de angiotensina I",
+      "farmacocinetica": "Biodisponibilidad oral ~2.5%, pico 1–3h, t½ 24–40h, excreción biliar",
+      "farmacodinamica": "Reduce presión arterial, actividad de renina plasmática y volumen extracelular",
+      "indicacoes": "Hipertensión arterial esencial, solo o en combinación",
+      "reacoesAdversas": "Hipotensión, diarrea, hiperpotasemia, rash, tos seca, edema",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Evitar durante la lactancia",
+      "administracao": "Vía oral, preferiblemente en ayunas",
+      "doseMaxima": "300 mg/día",
+      "doseMinima": "150 mg/día",
+      "classificacao": "Antihipertensivo – inhibidor directo de la renina",
+      "apresentacao": "Comprimidos de 150 mg y 300 mg",
+      "interacaoMedicamento": "Interacciones con IECAs, ARA-II, diuréticos ahorradores de potasio, ciclosporina",
+      "posologia": "150 mg/día inicialmente; hasta 300 mg si es necesario",
+      "armazenamento": "Temperatura ambiente <30°C, protegido de humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, insuficiencia renal severa, hipercalemia",
+      "cuidadosMedicos": "Monitorear potasio, creatinina, presión arterial",
+      "cuidadosFarmaceuticos": "Aconsejar sobre interacciones y toma con alimentos",
+      "cuidadosEnfermagem": "Controlar PA y signos de hipotensión o edema",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿利司他（Aliskiren）",
+      "suspension": "术前24小时停药",
+      "risk": "术中低血压、高钾血症风险，与ACEI/ARB及麻醉剂存在相互作用",
+      "reintroduction": "术后血流动力学稳定且肾功能正常后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿利司他",
+      "nomeComercial": "Tekturna、Rasilez",
+      "mecanismoAcao": "直接抑制肾素，阻止血管紧张素原转化为血管紧张素I",
+      "farmacocinetica": "口服生物利用度低（约2.5%），达峰1–3小时，半衰期24–40小时，胆汁排泄",
+      "farmacodinamica": "降低血压、血浆肾素活性和细胞外容量",
+      "indicacoes": "原发性高血压，单药或联合治疗",
+      "reacoesAdversas": "低血压、腹泻、高钾血症、皮疹、干咳、水肿",
+      "riscoGravidez": "D类 – 妊娠禁用",
+      "riscoLactacao": "是否进入乳汁未知；哺乳期禁用",
+      "administracao": "口服，建议空腹服用",
+      "doseMaxima": "每日300毫克",
+      "doseMinima": "每日150毫克",
+      "classificacao": "抗高血压药 – 直接肾素抑制剂",
+      "apresentacao": "150mg与300mg片剂",
+      "interacaoMedicamento": "与ACEI、ARB、保钾利尿剂、环孢素等有相互作用",
+      "posologia": "起始150 mg/d，可增至300 mg/d",
+      "armazenamento": "不高于30°C，干燥保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、重度肾功能不全、高钾血症",
+      "cuidadosMedicos": "监测血钾、肌酐、血压",
+      "cuidadosFarmaceuticos": "提醒空腹服用及药物相互作用",
+      "cuidadosEnfermagem": "监测血压，警惕水肿或低血压反应",
+      "fontesBibliograficas": "FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

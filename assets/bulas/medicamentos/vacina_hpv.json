@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina HPV (Papilomavírus Humano)",
+      "suspension": "Não suspender; recomendada para adolescentes antes da exposição sexual, mesmo em contextos cirúrgicos",
+      "risk": "Vacina inativada; efeitos adversos leves como dor no local, febre, cefaleia. Não indicada em gestantes, mas segura se administrada inadvertidamente.",
+      "reintroduction": "Reiniciar após cirurgia se calendário estiver incompleto, preferencialmente após alta hospitalar e recuperação clínica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Partículas semelhantes ao vírus (VLP) dos tipos 6, 11, 16, 18, 31, 33, 45, 52, 58 (conforme formulação)",
+      "nomeComercial": "Gardasil 9, Cervarix, Gardasil",
+      "mecanismoAcao": "Estimula imunidade humoral contra sorotipos oncogênicos e condilomatosos do HPV por meio de VLPs recombinantes",
+      "farmacocinetica": "Resposta sorológica a partir de 2–4 semanas; anticorpos mantidos por anos",
+      "farmacodinamica": "Previne lesões precursoras do câncer de colo uterino, ânus, orofaringe e verrugas genitais",
+      "indicacoes": "Imunização de adolescentes de 9 a 14 anos, e adultos até 45 anos conforme risco",
+      "reacoesAdversas": "Dor local, febre, náusea, síncope vasovagal, linfadenopatia",
+      "riscoGravidez": "Categoria B (não indicada durante gestação, mas segura se inadvertida)",
+      "riscoLactacao": "Compatível",
+      "administracao": "Via intramuscular (região deltoide)",
+      "doseMaxima": "0,5 mL",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacina recombinante inativada (subunidade VLP)",
+      "apresentacao": "0,5 mL seringa preenchedida (monodose)",
+      "interacaoMedicamento": "Pode ser administrada com outras vacinas inativadas em locais distintos",
+      "posologia": "2 doses (0 e 6 meses) se <15 anos; 3 doses (0, 2, 6 meses) se >15 anos ou imunodeprimido",
+      "armazenamento": "2–8 °C; não congelar",
+      "preparo": "Agitar suavemente antes da aplicação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia grave a componentes da vacina (alumínio, levedura)",
+      "cuidadosMedicos": "Verificar estado vacinal, risco de infecção por HPV e histórico de reação prévia",
+      "cuidadosFarmaceuticos": "Manter cadeia do frio e agitação adequada antes do uso",
+      "cuidadosEnfermagem": "Aplicar IM em deltoide; manter paciente deitado por 15 min para evitar síncope",
+      "fontesBibliograficas": "SBIm, ANVISA, CDC, EMA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "HPV Vaccine (Human Papillomavirus)",
+      "suspension": "Not suspended; may be given pre- or post-operatively as per vaccination schedule",
+      "risk": "Inactivated vaccine; low risk of adverse events. Not recommended in pregnancy but safe if accidentally given.",
+      "reintroduction": "Resume after surgical recovery if series is incomplete."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "HPV virus-like particles (types 6, 11, 16, 18, 31, 33, 45, 52, 58)",
+      "nomeComercial": "Gardasil 9, Cervarix",
+      "mecanismoAcao": "Induces neutralizing antibodies to prevent infection by high-risk HPV types",
+      "farmacocinetica": "Antibody response begins in 2–4 weeks; protection long-lasting",
+      "farmacodinamica": "Prevents cervical, anal, throat cancers and genital warts",
+      "indicacoes": "Routine vaccination age 9–14; catch-up through age 45 if unvaccinated",
+      "reacoesAdversas": "Injection site pain, fever, syncope, nausea",
+      "riscoGravidez": "Category B; not recommended during pregnancy",
+      "riscoLactacao": "Safe",
+      "administracao": "Intramuscular (deltoid)",
+      "doseMaxima": "0.5 mL",
+      "doseMinima": "0.5 mL",
+      "classificacao": "Recombinant VLP subunit vaccine",
+      "apresentacao": "0.5 mL prefilled syringe",
+      "interacaoMedicamento": "Can be co-administered with other inactivated vaccines",
+      "posologia": "2-dose schedule (<15 y): 0, 6 mo; 3-dose: 0, 2, 6 mo (>15 y or immunocompromised)",
+      "armazenamento": "2–8 °C; do not freeze",
+      "preparo": "Gently shake before administration",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Anaphylaxis to yeast or vaccine components",
+      "cuidadosMedicos": "Review vaccine history, allergy risk",
+      "cuidadosFarmaceuticos": "Cold chain; gently mix before use",
+      "cuidadosEnfermagem": "Administer IM; monitor 15 min for syncope",
+      "fontesBibliograficas": "CDC, ACIP, FDA, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna VPH (Virus del Papiloma Humano)",
+      "suspension": "No se suspende; puede aplicarse pre/postoperatoriamente según esquema",
+      "risk": "Vacuna recombinante; efectos leves y transitorios; no recomendada en embarazo",
+      "reintroduction": "Reanudar posoperatorio si esquema incompleto"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Partículas similares al virus de HPV (tipos 6, 11, 16, 18, etc.)",
+      "nomeComercial": "Gardasil 9, Cervarix",
+      "mecanismoAcao": "Genera anticuerpos neutralizantes frente a VPH oncogénico y no oncogénico",
+      "farmacocinetica": "Respuesta inmune en 2–4 semanas",
+      "farmacodinamica": "Previene lesiones precancerosas y verrugas",
+      "indicacoes": "9–14 años; hasta 45 años según riesgo",
+      "reacoesAdversas": "Dolor, fiebre, síncope, linfadenopatía",
+      "riscoGravidez": "Categoría B; no recomendada",
+      "riscoLactacao": "Compatible",
+      "administracao": "Intramuscular (deltoides)",
+      "doseMaxima": "0,5 mL",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacuna recombinante inactivada",
+      "apresentacao": "0,5 mL jeringa precargada",
+      "interacaoMedicamento": "Co-administrable con otras vacunas",
+      "posologia": "2 dosis (<15 años); 3 dosis (>15 o inmunodeprimidos)",
+      "armazenamento": "2–8 °C, no congelar",
+      "preparo": "Agitar suave antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a levaduras o componentes",
+      "cuidadosMedicos": "Historial vacunal y alergias",
+      "cuidadosFarmaceuticos": "Cadena frío y inspección",
+      "cuidadosEnfermagem": "Vigilar 15 min por síncope",
+      "fontesBibliograficas": "OMS, AEP, CDC, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "HPV疫苗（人乳头瘤病毒）",
+      "suspension": "术前无需停用；9–14岁可按计划接种",
+      "risk": "灭活疫苗；局部不良反应轻微，孕期禁用",
+      "reintroduction": "术后稳定可按程序完成未种剂次"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "重组病毒样颗粒（HPV 6、11、16、18等）",
+      "nomeComercial": "九价HPV疫苗（Gardasil 9）、二价（Cervarix）",
+      "mecanismoAcao": "诱导机体产生中和抗体，防止HPV感染",
+      "farmacocinetica": "2–4周产生抗体，免疫持久",
+      "farmacodinamica": "预防宫颈癌、肛癌、喉癌、尖锐湿疣",
+      "indicacoes": "9–14岁女孩优先接种；15岁以上或高危人群也推荐",
+      "reacoesAdversas": "注射部位红肿、发热、晕厥",
+      "riscoGravidez": "B类；孕期不推荐",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "三角肌肌肉注射",
+      "doseMaxima": "0.5 mL",
+      "doseMinima": "0.5 mL",
+      "classificacao": "重组亚单位疫苗",
+      "apresentacao": "0.5 mL预充注射器",
+      "interacaoMedicamento": "可与灭活疫苗同打，分部位",
+      "posologia": "2剂：0、6月；3剂：0、2、6月",
+      "armazenamento": "2–8°C，避免冷冻",
+      "preparo": "轻摇，现开现用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对酵母、佐剂过敏史",
+      "cuidadosMedicos": "评估免疫史与月经周期",
+      "cuidadosFarmaceuticos": "冷链配送、检查批号",
+      "cuidadosEnfermagem": "注射后留观15分钟防晕厥",
+      "fontesBibliograficas": "中国CDC、WHO、Micromedex、UpToDate"
+    }
+  }
+}

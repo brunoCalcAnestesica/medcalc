@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Citalopram",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de síndrome serotoninérgica com opioides e anestésicos; pode causar prolongamento do intervalo QT, arritmias e instabilidade autonômica",
+      "reintroduction": "Reintroduzir após 72h com ECG normal, estabilidade clínica e ausência de drogas serotoninérgicas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromidrato de Citalopram",
+      "nomeComercial": "Cipramil, Citalopram Genérico, Città, Procimax",
+      "mecanismoAcao": "Inibidor seletivo da recaptação de serotonina (ISRS), sem ação significativa sobre noradrenalina ou dopamina",
+      "farmacocinetica": "Absorção oral elevada, metabolizado por CYP2C19, CYP3A4 e CYP2D6; meia-vida de ~35h",
+      "farmacodinamica": "Antidepressivo com ação ansiolítica, sem efeito sedativo ou estimulante significativo",
+      "indicacoes": "Transtorno depressivo maior, ansiedade generalizada (off-label), fobia social (off-label)",
+      "reacoesAdversas": "Boca seca, náusea, sonolência, disfunção sexual, prolongamento do QT, sudorese",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite materno; uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "40mg/dia (20mg/dia em idosos ou risco cardíaco)",
+      "doseMinima": "10mg/dia",
+      "classificacao": "Inibidor seletivo da recaptação de serotonina (ISRS)",
+      "apresentacao": "Comprimidos de 10mg, 20mg e 40mg; solução oral 2mg/mL",
+      "interacaoMedicamento": "Interage com IMAOs, antiarrítmicos, antipsicóticos, outros ISRS, anticoagulantes",
+      "posologia": "Início com 20mg/dia, podendo ser ajustado conforme resposta clínica e tolerância",
+      "armazenamento": "Conservar entre 15–30°C, protegido da umidade e luz",
+      "preparo": "Solução oral deve ser agitada antes do uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso concomitante com IMAO, QT longo congênito, hipersensibilidade conhecida",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, sinais de síndrome serotoninérgica e risco de suicídio",
+      "cuidadosFarmaceuticos": "Evitar combinações com fármacos que prolongam o QT; orientar início gradual",
+      "cuidadosEnfermagem": "Observar alterações de humor, ritmo cardíaco e efeitos adversos gastrintestinais",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, NICE"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Citalopram",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of serotonin syndrome with opioids and anesthetics; potential QT prolongation, arrhythmias, and autonomic instability",
+      "reintroduction": "Restart after 72h with normal ECG, clinical stability and no serotonergic agents"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Citalopram Hydrobromide",
+      "nomeComercial": "Celexa, Citalopram Accord, Citalopram Teva",
+      "mecanismoAcao": "Selective serotonin reuptake inhibitor (SSRI), with minimal effect on norepinephrine or dopamine",
+      "farmacocinetica": "High oral absorption, hepatic metabolism via CYP2C19, CYP3A4, CYP2D6; half-life ~35h",
+      "farmacodinamica": "Antidepressant with anxiolytic action; low sedative or stimulant properties",
+      "indicacoes": "Major depressive disorder; off-label for anxiety disorders and panic disorder",
+      "reacoesAdversas": "Dry mouth, nausea, somnolence, sexual dysfunction, QT prolongation, sweating",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; caution recommended",
+      "administracao": "Oral route",
+      "doseMaxima": "40mg/day (20mg/day in elderly or cardiac risk patients)",
+      "doseMinima": "10mg/day",
+      "classificacao": "Selective serotonin reuptake inhibitor (SSRI)",
+      "apresentacao": "Tablets: 10mg, 20mg, 40mg; Oral solution: 2mg/mL",
+      "interacaoMedicamento": "Interacts with MAOIs, antiarrhythmics, antipsychotics, SSRIs, anticoagulants",
+      "posologia": "Start with 20mg/day; adjust based on clinical response and tolerance",
+      "armazenamento": "Store at 15–30°C, protected from moisture and light",
+      "preparo": "Shake oral solution before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Concurrent MAOI use, congenital long QT syndrome, known hypersensitivity",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, serotonin syndrome signs, and suicide risk",
+      "cuidadosFarmaceuticos": "Avoid QT-prolonging drugs; advise on delayed onset",
+      "cuidadosEnfermagem": "Monitor mood, cardiac rhythm, and GI effects",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, APA, NICE"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Citalopram",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de síndrome serotoninérgico con opioides y anestésicos; puede causar prolongación del QT, arritmias e inestabilidad autonómica",
+      "reintroduction": "Reintroducir después de 72h si ECG es normal y el paciente está estable y sin serotonérgicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromhidrato de Citalopram",
+      "nomeComercial": "Cipramil, Citalopram Normon, Zentius",
+      "mecanismoAcao": "ISRS – Inhibidor selectivo de la recaptación de serotonina; sin efecto significativo en noradrenalina o dopamina",
+      "farmacocinetica": "Alta absorción oral, metabolismo hepático (CYP2C19, CYP3A4, CYP2D6); vida media ~35h",
+      "farmacodinamica": "Antidepresivo con acción ansiolítica; sin propiedades sedantes marcadas",
+      "indicacoes": "Trastorno depresivo mayor, ansiedad generalizada (off-label), fobia social (off-label)",
+      "reacoesAdversas": "Sequedad bucal, náuseas, somnolencia, disfunción sexual, prolongación del QT, sudoración",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche materna; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "40mg/día (20mg/día en ancianos o con riesgo cardíaco)",
+      "doseMinima": "10mg/día",
+      "classificacao": "ISRS – Inhibidor selectivo de la recaptación de serotonina",
+      "apresentacao": "Tabletas de 10mg, 20mg, 40mg; solución oral 2mg/mL",
+      "interacaoMedicamento": "Interacciones con IMAO, antiarrítmicos, antipsicóticos, anticoagulantes",
+      "posologia": "Dosis inicial 20mg/día; ajustar según respuesta",
+      "armazenamento": "15–30°C, protegido de luz y humedad",
+      "preparo": "Agitar solución oral antes de usar",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Uso con IMAO, síndrome de QT largo congénito, hipersensibilidad",
+      "cuidadosMedicos": "Controlar ECG, electrolitos, riesgo de suicidio",
+      "cuidadosFarmaceuticos": "Evitar fármacos que prolonguen QT; reforzar adherencia",
+      "cuidadosEnfermagem": "Monitorear estado anímico, ritmo cardíaco y efectos gastrointestinales",
+      "fontesBibliograficas": "AEMPS, FDA, EMA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "西酞普兰",
+      "suspension": "择期手术前7天停药",
+      "risk": "与麻醉剂和阿片类联用可能导致血清素综合征，QT间期延长和自主神经不稳定",
+      "reintroduction": "术后72小时内，如患者稳定且心电图正常，可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "西酞普兰氢溴酸盐",
+      "nomeComercial": "喜太乐, Cipramil, 西酞普兰片",
+      "mecanismoAcao": "选择性5-羟色胺再摄取抑制剂（SSRI），对其他神经递质无显著作用",
+      "farmacocinetica": "口服吸收高，经CYP2C19、CYP3A4、CYP2D6代谢，半衰期约35小时",
+      "farmacodinamica": "抗抑郁药，具有轻微抗焦虑作用，无明显镇静效果",
+      "indicacoes": "重度抑郁障碍、广泛性焦虑障碍（非注册适应证）",
+      "reacoesAdversas": "口干、恶心、嗜睡、性功能障碍、QT延长、出汗",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，使用时需谨慎",
+      "administracao": "口服",
+      "doseMaxima": "每日40毫克（老年人或心脏风险患者每日不超过20毫克）",
+      "doseMinima": "每日10毫克",
+      "classificacao": "选择性5-羟色胺再摄取抑制剂（SSRI）",
+      "apresentacao": "片剂：10mg、20mg、40mg；口服液：2mg/mL",
+      "interacaoMedicamento": "与MAOI、抗心律失常药、抗精神病药、抗凝剂等相互作用",
+      "posologia": "起始剂量20mg/日，根据耐受性和疗效可调高",
+      "armazenamento": "15–30°C，避光干燥保存",
+      "preparo": "口服液需摇匀后使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "同时使用MAOI、先天性QT延长、已知过敏",
+      "cuidadosMedicos": "监测心电图、电解质、自杀倾向",
+      "cuidadosFarmaceuticos": "避免使用延长QT的药物，指导延迟起效特征",
+      "cuidadosEnfermagem": "观察情绪、心率和胃肠道反应",
+      "fontesBibliograficas": "NMPA, WHO, EMA, FDA, Micromedex"
+    }
+  }
+}

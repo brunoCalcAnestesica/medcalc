@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pimozida",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva",
+      "risk": "Risco elevado de prolongamento de QT, arritmias ventriculares (torsades de pointes), interação com anestésicos, depressores do SNC e inibidores do CYP3A4",
+      "reintroduction": "Reintroduzir após ECG normalizado e ausência de interações medicamentosas relevantes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pimozida",
+      "nomeComercial": "Orap",
+      "mecanismoAcao": "Antipsicótico típico com alta afinidade por receptores dopaminérgicos D2 e atividade sobre canais iônicos cardíacos (HERG)",
+      "farmacocinetica": "Boa biodisponibilidade oral; metabolismo hepático (CYP3A4, CYP1A2); meia-vida prolongada (~55h)",
+      "farmacodinamica": "Reduz impulsos psicóticos e tiques motores através do bloqueio dopaminérgico",
+      "indicacoes": "Síndrome de Tourette, tiques motores e vocais graves, psicoses crônicas",
+      "reacoesAdversas": "Prolongamento QT, parkinsonismo, acatisia, discinesia tardia, sedação, hiperprolactinemia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite; uso não recomendado",
+      "administracao": "Oral",
+      "doseMaxima": "10 mg/dia (Tourette); 16 mg/dia (psicoses crônicas)",
+      "doseMinima": "1–2 mg/dia",
+      "classificacao": "Antipsicótico típico (butirofenona)",
+      "apresentacao": "Comprimidos 1 mg, 2 mg, 4 mg",
+      "interacaoMedicamento": "Contraindicado com cetoconazol, eritromicina, inibidores de CYP3A4; interage com anestésicos e QT-prolongadores",
+      "posologia": "Tourette: iniciar com 1–2 mg/dia, ajustar até 10 mg; psicoses: até 16 mg/dia",
+      "armazenamento": "Temperatura ambiente, proteger da umidade e luz",
+      "preparo": "Uso direto; não partir comprimidos sem orientação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "QTc > 500 ms, arritmias, uso concomitante com inibidores potentes do CYP3A4, hipocalemia",
+      "cuidadosMedicos": "Monitorar ECG, potássio, magnésio, sintomas extrapiramidais",
+      "cuidadosFarmaceuticos": "Evitar combinações com medicamentos QT-prolongadores e CYP3A4",
+      "cuidadosEnfermagem": "Observar sedação, rigidez muscular, alterações de humor e ECG",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, bula Orap"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pimozide",
+      "suspension": "Discontinue 7 days prior to elective surgery",
+      "risk": "High risk of QT prolongation, torsades de pointes, interaction with anesthetics, CNS depressants, and CYP3A4 inhibitors",
+      "reintroduction": "Restart only after ECG normalization and absence of drug interactions"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pimozide",
+      "nomeComercial": "Orap",
+      "mecanismoAcao": "Typical antipsychotic with strong D2 receptor antagonism and cardiac HERG channel blockade",
+      "farmacocinetica": "Oral; hepatic metabolism via CYP3A4/CYP1A2; long half-life (~55h)",
+      "farmacodinamica": "Suppresses psychotic impulses and motor/vocal tics via dopaminergic blockade",
+      "indicacoes": "Tourette syndrome, chronic psychoses",
+      "reacoesAdversas": "QT prolongation, parkinsonism, akathisia, tardive dyskinesia, sedation, hyperprolactinemia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; not recommended",
+      "administracao": "Oral",
+      "doseMaxima": "10 mg/day (Tourette); 16 mg/day (psychosis)",
+      "doseMinima": "1–2 mg/day",
+      "classificacao": "Typical antipsychotic (butyrophenone)",
+      "apresentacao": "Tablets 1 mg, 2 mg, 4 mg",
+      "interacaoMedicamento": "Contraindicated with CYP3A4 inhibitors (e.g. ketoconazole, erythromycin); additive QT risk",
+      "posologia": "Start at 1–2 mg/day, adjust to response; max 10–16 mg/day",
+      "armazenamento": "Room temperature, dry and protected from light",
+      "preparo": "Use whole tablets unless instructed otherwise",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "QTc >500 ms, cardiac arrhythmias, CYP3A4 inhibitors, hypokalemia",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, extrapyramidal effects",
+      "cuidadosFarmaceuticos": "Avoid QT-prolonging/CYP3A4 drugs; confirm medication history",
+      "cuidadosEnfermagem": "Check ECG, mood, extrapyramidal signs, alert for sedation",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Orap PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pimozida",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Alto riesgo de prolongación del QT, torsades de pointes, interacción con anestésicos, depresores del SNC e inhibidores del CYP3A4",
+      "reintroduction": "Reiniciar tras ECG normal y ausencia de interacciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pimozida",
+      "nomeComercial": "Orap",
+      "mecanismoAcao": "Antipsicótico típico con fuerte antagonismo D2 y acción sobre canales HERG cardíacos",
+      "farmacocinetica": "Oral; metabolismo hepático por CYP3A4/CYP1A2; vida media prolongada (~55h)",
+      "farmacodinamica": "Disminuye impulsos psicóticos y tics a través del bloqueo dopaminérgico",
+      "indicacoes": "Síndrome de Tourette, psicosis crónicas",
+      "reacoesAdversas": "Prolongación QT, parkinsonismo, acatisia, discinesia tardía, sedación, hiperprolactinemia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en la leche; no se recomienda",
+      "administracao": "Oral",
+      "doseMaxima": "10 mg/día (Tourette); 16 mg/día (psicosis)",
+      "doseMinima": "1–2 mg/día",
+      "classificacao": "Antipsicótico típico (butirofenona)",
+      "apresentacao": "Comprimidos 1 mg, 2 mg, 4 mg",
+      "interacaoMedicamento": "Contraindicado con inhibidores del CYP3A4; riesgo QT aumentado con anestésicos",
+      "posologia": "Iniciar con 1–2 mg/día, ajustar según respuesta; máx. 10–16 mg/día",
+      "armazenamento": "Temperatura ambiente, protegido de humedad y luz",
+      "preparo": "Uso directo; no partir sin indicación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "QT >500 ms, arritmias, hipocalemia, uso concomitante con CYP3A4 potentes",
+      "cuidadosMedicos": "Controlar ECG, electrólitos, síntomas extrapiramidales",
+      "cuidadosFarmaceuticos": "Evitar interacciones QT y CYP3A4",
+      "cuidadosEnfermagem": "Observar ECG, estado neurológico y signos extrapiramidales",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Orap"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "匹莫齐特",
+      "suspension": "术前7天停药",
+      "risk": "QT延长、室性心律失常、与麻醉药物和CYP3A4抑制剂有相互作用",
+      "reintroduction": "心电图恢复正常且无药物相互作用后方可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "匹莫齐特",
+      "nomeComercial": "Orap",
+      "mecanismoAcao": "D2受体拮抗剂，抑制中枢多巴胺活动，并作用于HERG心脏钾通道",
+      "farmacocinetica": "口服吸收良好，经CYP3A4/CYP1A2代谢，半衰期约55小时",
+      "farmacodinamica": "缓解慢性精神病及Tourette综合征相关抽动和妄想症状",
+      "indicacoes": "Tourette综合征、慢性精神病",
+      "reacoesAdversas": "QT延长、锥体外系症状、迟发性运动障碍、嗜睡、高催乳素血症",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可排入乳汁，哺乳期慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日10 mg（Tourette）；精神病可达16 mg",
+      "doseMinima": "1–2 mg/日",
+      "classificacao": "典型抗精神病药（丁酰苯类）",
+      "apresentacao": "1、2、4 mg片剂",
+      "interacaoMedicamento": "禁与CYP3A4强抑制剂合用；QT延长药物慎用",
+      "posologia": "初始1–2 mg/d，逐步调整，最大剂量不超16 mg/d",
+      "armazenamento": "室温保存，避光避潮",
+      "preparo": "整片服用，不建议掰片",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "QTc >500 ms、严重心律失常、低钾血症、CYP3A4抑制剂联用",
+      "cuidadosMedicos": "监测ECG、电解质、锥体外症状",
+      "cuidadosFarmaceuticos": "避免QT延长药物及CYP3A4相互作用",
+      "cuidadosEnfermagem": "关注镇静、锥体外反应及心电图变化",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Orap说明书"
+    }
+  }
+}

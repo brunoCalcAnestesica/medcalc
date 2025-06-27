@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Rosuvastatina",
+      "suspension": "Não requer suspensão em cirurgias de baixo a moderado risco",
+      "risk": "Potencial hepatotoxicidade e miopatia em interações com anestésicos ou antibióticos",
+      "reintroduction": "Pode ser mantida ou reintroduzida após reavaliação hepática e muscular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rosuvastatina Cálcica",
+      "nomeComercial": "Crestor, Rosucor, Rosuvax, Pravacol-R, Ezavast",
+      "mecanismoAcao": "Inibe seletivamente a HMG-CoA redutase, reduzindo a síntese de colesterol no fígado e aumentando a captação de LDL.",
+      "farmacocinetica": "Biodisponibilidade ~20%; metabolismo hepático mínimo (CYP2C9); meia-vida ~19h; excreção fecal.",
+      "farmacodinamica": "Reduz LDL até 55%, triglicérides e apoB; discreto aumento de HDL; reduz inflamação vascular.",
+      "indicacoes": "Dislipidemia primária, hipercolesterolemia familiar, prevenção cardiovascular, síndrome metabólica",
+      "reacoesAdversas": "Mialgia, cefaleia, constipação, elevação de CPK, hepatotoxicidade rara",
+      "riscoGravidez": "Categoria X (contraindicado)",
+      "riscoLactacao": "Contraindicado; excretado no leite",
+      "administracao": "Via oral, 1 vez/dia, com ou sem alimentos",
+      "doseMaxima": "40mg/dia",
+      "doseMinima": "5mg/dia",
+      "classificacao": "Estatina / hipolipemiante / inibidor da HMG-CoA redutase",
+      "apresentacao": "Comprimidos de 5, 10, 20 e 40mg",
+      "interacaoMedicamento": "Ciclosporina, varfarina, gemfibrozila, antiácidos, álcool, niacina",
+      "posologia": "Inicial: 10–20mg/dia; até 40mg conforme objetivo terapêutico",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença hepática ativa, miopatia, gravidez e lactação",
+      "cuidadosMedicos": "Monitorar transaminases e CPK; avaliar em caso de dor muscular ou colúria",
+      "cuidadosFarmaceuticos": "Orientar uso regular e evitar álcool em excesso",
+      "cuidadosEnfermagem": "Observar sinais de hepatite ou rabdomiólise",
+      "fontesBibliograficas": "Micromedex, Bula Crestor Anvisa, FDA Label, PubChem CID: 446157"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Rosuvastatin",
+      "suspension": "No need to suspend for low/moderate-risk surgeries",
+      "risk": "Hepatic and muscle toxicity possible with anesthetic or antibiotic interactions",
+      "reintroduction": "May be resumed after hepatic/muscle evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rosuvastatin Calcium",
+      "nomeComercial": "Crestor, Ezallor, Rosuvast, Rosulip",
+      "mecanismoAcao": "Selectively inhibits HMG-CoA reductase, lowering hepatic cholesterol synthesis and increasing LDL uptake.",
+      "farmacocinetica": "Bioavailability ~20%; minimal hepatic metabolism (CYP2C9); half-life ~19h; fecal excretion.",
+      "farmacodinamica": "Lowers LDL (up to 55%), TG and ApoB; modest HDL increase; anti-inflammatory vascular effects.",
+      "indicacoes": "Primary hyperlipidemia, familial hypercholesterolemia, CV prevention, metabolic syndrome",
+      "reacoesAdversas": "Myalgia, headache, constipation, CPK elevation, rare hepatitis",
+      "riscoGravidez": "Category X (contraindicated)",
+      "riscoLactacao": "Contraindicated; excreted in milk",
+      "administracao": "Oral once daily with or without food",
+      "doseMaxima": "40mg/day",
+      "doseMinima": "5mg/day",
+      "classificacao": "Statin / lipid-lowering / HMG-CoA reductase inhibitor",
+      "apresentacao": "Tablets: 5mg, 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Cyclosporine, warfarin, gemfibrozil, alcohol, antacids, niacin",
+      "posologia": "Start 10–20mg/day; titrate based on LDL target",
+      "armazenamento": "Store at 15–30°C, protected from light",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active liver disease, myopathy, pregnancy, breastfeeding",
+      "cuidadosMedicos": "Monitor LFTs and CPK if muscle pain or urine discoloration",
+      "cuidadosFarmaceuticos": "Ensure adherence; avoid alcohol overuse",
+      "cuidadosEnfermagem": "Check for hepatitis or rhabdomyolysis signs",
+      "fontesBibliograficas": "FDA, Micromedex, PubChem CID: 446157"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Rosuvastatina",
+      "suspension": "No requiere suspensión en cirugías de bajo riesgo",
+      "risk": "Potencial hepatotoxicidad o miopatía en combinación con anestesia o antibióticos",
+      "reintroduction": "Puede reanudarse tras evaluación hepática y muscular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rosuvastatina Cálcica",
+      "nomeComercial": "Crestor, Rosuvast, Rosucor, Ezavast",
+      "mecanismoAcao": "Inhibe selectivamente la HMG-CoA reductasa; reduce colesterol hepático y aumenta captación de LDL.",
+      "farmacocinetica": "Biodisponibilidad ~20%; metabolismo hepático mínimo; semivida ~19h; eliminación fecal.",
+      "farmacodinamica": "Disminuye LDL, TG, ApoB; aumenta HDL; efecto antiinflamatorio vascular",
+      "indicacoes": "Dislipidemia, hipercolesterolemia familiar, prevención CV",
+      "reacoesAdversas": "Mialgias, cefalea, elevación de CPK, constipación, hepatotoxicidad rara",
+      "riscoGravidez": "Categoría X (prohibido)",
+      "riscoLactacao": "Prohibido; se excreta en leche",
+      "administracao": "Oral, 1 vez/día, con o sin alimentos",
+      "doseMaxima": "40mg/día",
+      "doseMinima": "5mg/día",
+      "classificacao": "Estatina / hipolipemiante",
+      "apresentacao": "Tabletas de 5, 10, 20 y 40mg",
+      "interacaoMedicamento": "Ciclosporina, warfarina, gemfibrozilo, alcohol, antiácidos, niacina",
+      "posologia": "10–20mg/día al inicio; ajustar según objetivos LDL",
+      "armazenamento": "15–30°C, protegido de luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía activa, miopatía, embarazo y lactancia",
+      "cuidadosMedicos": "Monitorear transaminasas y CPK ante síntomas musculares",
+      "cuidadosFarmaceuticos": "Reforzar adherencia, evitar alcohol",
+      "cuidadosEnfermagem": "Observar signos de rabdomiólisis o hepatitis",
+      "fontesBibliograficas": "EMA, Micromedex, AEMPS, PubChem CID: 446157"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "瑞舒伐他汀（Rosuvastatin）",
+      "suspension": "中低风险手术前无需停药",
+      "risk": "与麻醉药或抗生素合用可能引发肝毒性或肌病",
+      "reintroduction": "术后评估肝酶与肌酶后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "瑞舒伐他汀钙",
+      "nomeComercial": "Crestor、瑞舒佳、瑞他乐",
+      "mecanismoAcao": "选择性抑制HMG-CoA还原酶，降低肝脏合成胆固醇，增加LDL受体清除。",
+      "farmacocinetica": "生物利用度~20%；肝代谢少；半衰期19小时；粪便排出。",
+      "farmacodinamica": "降低LDL最多达55%，轻度升高HDL，抗动脉粥样硬化",
+      "indicacoes": "高脂血症、家族性高胆固醇血症、心血管预防",
+      "reacoesAdversas": "肌痛、便秘、头痛、肝酶升高、罕见肝炎",
+      "riscoGravidez": "X类（禁用）",
+      "riscoLactacao": "禁用于哺乳期，排泄于乳汁",
+      "administracao": "口服每日一次，可与食物同服",
+      "doseMaxima": "每日40毫克",
+      "doseMinima": "每日5毫克",
+      "classificacao": "他汀类 / 降脂药 / HMG-CoA还原酶抑制剂",
+      "apresentacao": "5mg、10mg、20mg、40mg片剂",
+      "interacaoMedicamento": "与环孢素、华法林、非诺贝特、酒精、抗酸药相互作用",
+      "posologia": "初始10–20mg/d，按LDL目标调整",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "无需准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肝病、妊娠、哺乳期",
+      "cuidadosMedicos": "监测肝酶、CPK，肌肉疼痛应注意横纹肌溶解",
+      "cuidadosFarmaceuticos": "提醒规律服药，避免饮酒",
+      "cuidadosEnfermagem": "观察肌肉无力、尿变色等不良反应",
+      "fontesBibliograficas": "Micromedex、PubChem CID: 446157、FDA、WHO"
+    }
+  }
+}

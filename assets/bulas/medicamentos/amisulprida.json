@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Amisulprida",
+      "suspension": "Suspender 72 horas antes da cirurgia eletiva",
+      "risk": "Risco de prolongamento do QT, interação com anestésicos, hipotensão e sedação profunda",
+      "reintroduction": "Reintroduzir com ECG de controle e estabilidade hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amisulprida",
+      "nomeComercial": "Solian, Deniban",
+      "mecanismoAcao": "Bloqueio seletivo dos receptores dopaminérgicos D2 e D3 pré e pós-sinápticos",
+      "farmacocinetica": "Biodisponibilidade 48%, pico plasmático em 1–2h, excreção renal inalterada, meia-vida ~12h",
+      "farmacodinamica": "Antipsicótico atípico com ação dose-dependente sobre sintomas positivos e negativos da esquizofrenia",
+      "indicacoes": "Esquizofrenia, distimia, transtornos depressivos resistentes (uso off-label)",
+      "reacoesAdversas": "Prolongamento do QT, acatisia, hiperprolactinemia, galactorreia, constipação, ansiedade",
+      "riscoGravidez": "Categoria C – usar se benefício justificar o risco",
+      "riscoLactacao": "Excretado no leite; evitar uso",
+      "administracao": "Oral ou parenteral (uso hospitalar)",
+      "doseMaxima": "800 mg/dia (esquizofrenia); 300 mg/dia (distimia)",
+      "doseMinima": "50 mg/dia",
+      "classificacao": "Antipsicótico atípico – benzamida substituída",
+      "apresentacao": "Comprimidos de 50, 100, 200, 400 mg; solução oral; injetável IM",
+      "interacaoMedicamento": "Interage com fármacos que prolongam QT, benzodiazepínicos, anestésicos gerais",
+      "posologia": "Esquizofrenia: 400–800 mg/dia; distimia: 50–150 mg/dia",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Solução oral pronta para uso; ampola IM requer assepsia",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9% para IM",
+      "contraindicacoes": "Feocromocitoma, prolactinoma, prolongamento do QT congênito, lactação",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos e sinais extrapiramidais",
+      "cuidadosFarmaceuticos": "Atenção à posologia individualizada e risco QT",
+      "cuidadosEnfermagem": "Observar sedação, sinais motores, PA e ECG quando indicado",
+      "fontesBibliograficas": "EMA, ANSM, Micromedex, UpToDate, Vidal"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Amisulpride",
+      "suspension": "Discontinue 72 hours prior to elective surgery",
+      "risk": "Risk of QT prolongation, anesthetic interaction, hypotension, and deep sedation",
+      "reintroduction": "Restart after hemodynamic stability and ECG monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amisulpride",
+      "nomeComercial": "Solian (not FDA approved, used in Europe and Asia)",
+      "mecanismoAcao": "Selective D2/D3 dopamine receptor antagonist (pre- and postsynaptic)",
+      "farmacocinetica": "48% oral bioavailability, Tmax 1–2h, renal elimination, T½ ~12h",
+      "farmacodinamica": "Atypical antipsychotic with dose-dependent effect on positive and negative symptoms",
+      "indicacoes": "Schizophrenia, dysthymia, treatment-resistant depression (off-label)",
+      "reacoesAdversas": "QT prolongation, akathisia, hyperprolactinemia, galactorrhea, anxiety",
+      "riscoGravidez": "Category C – use only if benefits outweigh risks",
+      "riscoLactacao": "Excreted in milk; avoid use",
+      "administracao": "Oral and IM injectable (hospital use)",
+      "doseMaxima": "800 mg/day (schizophrenia); 300 mg/day (dysthymia)",
+      "doseMinima": "50 mg/day",
+      "classificacao": "Atypical antipsychotic – substituted benzamide",
+      "apresentacao": "Tablets (50–400 mg), oral solution, IM ampoule",
+      "interacaoMedicamento": "Caution with QT-prolonging drugs, benzodiazepines, general anesthetics",
+      "posologia": "Schizophrenia: 400–800 mg/day; dysthymia: 50–150 mg/day",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Oral solution ready to use; IM ampoule requires asepsis",
+      "solucoesCompatíveis": "0.9% sodium chloride for IM",
+      "contraindicacoes": "Pheochromocytoma, prolactinoma, congenital QT prolongation, lactation",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, extrapyramidal signs",
+      "cuidadosFarmaceuticos": "Adjust dose, monitor QT risk",
+      "cuidadosEnfermagem": "Observe sedation, motor signs, BP, and ECG if needed",
+      "fontesBibliograficas": "EMA, Micromedex, UpToDate, NICE"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Amisulpirida",
+      "suspension": "Suspender 72 horas antes de cirugía electiva",
+      "risk": "Riesgo de prolongación del QT, interacción con anestesia, hipotensión y sedación profunda",
+      "reintroduction": "Reintroducir tras estabilidad hemodinámica y control de ECG"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amisulpirida",
+      "nomeComercial": "Solian, Deniban",
+      "mecanismoAcao": "Antagonista selectivo de receptores dopaminérgicos D2 y D3",
+      "farmacocinetica": "Biodisponibilidad 48%, Tmax 1–2h, eliminación renal, T½ ~12h",
+      "farmacodinamica": "Antipsicótico atípico con efectos sobre síntomas positivos y negativos",
+      "indicacoes": "Esquizofrenia, distimia, depresión resistente (off-label)",
+      "reacoesAdversas": "QT prolongado, acatisia, hiperprolactinemia, ansiedad, estreñimiento",
+      "riscoGravidez": "Categoría C – usar si beneficio > riesgo",
+      "riscoLactacao": "Se excreta en leche; evitar",
+      "administracao": "Oral o IM hospitalario",
+      "doseMaxima": "800 mg/día (esquizofrenia); 300 mg/día (distimia)",
+      "doseMinima": "50 mg/día",
+      "classificacao": "Antipsicótico atípico – benzamida sustituida",
+      "apresentacao": "Comprimidos, solución oral, ampollas IM",
+      "interacaoMedicamento": "Cuidado con fármacos que prolongan QT, benzodiacepinas, anestésicos",
+      "posologia": "Esquizofrenia: 400–800 mg/día; distimia: 50–150 mg/día",
+      "armazenamento": "Ambiente seco y sin luz directa",
+      "preparo": "Solución oral lista; ampolla IM requiere asepsia",
+      "solucoesCompatíveis": "ClNa 0,9% para IM",
+      "contraindicacoes": "Feocromocitoma, prolongación congénita QT, lactancia",
+      "cuidadosMedicos": "ECG y vigilancia de síntomas extrapiramidales",
+      "cuidadosFarmaceuticos": "Ajustar dosis y prevenir interacciones",
+      "cuidadosEnfermagem": "Observar sedación y parámetros cardiovasculares",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿米舒必利",
+      "suspension": "择期手术前72小时停药",
+      "risk": "可能引起QT延长、麻醉相互作用、低血压及深度镇静",
+      "reintroduction": "术后血流动力学稳定且心电图正常后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿米舒必利",
+      "nomeComercial": "Solian、Deniban",
+      "mecanismoAcao": "选择性拮抗多巴胺D2/D3受体（突触前后）",
+      "farmacocinetica": "口服生物利用度48%，达峰1–2h，肾排泄，半衰期约12小时",
+      "farmacodinamica": "非典型抗精神病药，对阳性与阴性症状有剂量依赖性作用",
+      "indicacoes": "精神分裂症、心境障碍、难治性抑郁症（超适应证）",
+      "reacoesAdversas": "QT延长、静坐不能、高泌乳素血症、焦虑、便秘",
+      "riscoGravidez": "C类 – 权衡利弊后使用",
+      "riscoLactacao": "可分泌至乳汁，应避免使用",
+      "administracao": "口服或医院肌注",
+      "doseMaxima": "精神分裂症800 mg/d；心境障碍300 mg/d",
+      "doseMinima": "50 mg/d",
+      "classificacao": "非典型抗精神病药 – 苯胺类",
+      "apresentacao": "片剂（50–400 mg）、口服液、注射液",
+      "interacaoMedicamento": "与延长QT药、苯二氮䓬类、麻醉剂协同作用",
+      "posologia": "精神分裂症：400–800 mg/d；心境障碍：50–150 mg/d",
+      "armazenamento": "避光常温保存",
+      "preparo": "口服液可直接使用，注射剂需无菌操作",
+      "solucoesCompatíveis": "肌注使用0.9%氯化钠",
+      "contraindicacoes": "嗜铬细胞瘤、QT延长综合征、哺乳期禁用",
+      "cuidadosMedicos": "监测ECG、电解质及运动副作用",
+      "cuidadosFarmaceuticos": "注意个体化剂量与QT风险",
+      "cuidadosEnfermagem": "监测镇静程度、运动反应与血压",
+      "fontesBibliograficas": "EMA、Micromedex、UpToDate、中国药典"
+    }
+  }
+}

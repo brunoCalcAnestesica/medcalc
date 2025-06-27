@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Idarrubicina",
+      "suspension": "Suspender 10 dias antes de cirurgias eletivas; retomar após recuperação hematológica",
+      "risk": "Mielossupressão profunda, cardiotoxicidade cumulativa, mucosite, risco infeccioso alto, extravasamento com necrose tecidual",
+      "reintroduction": "Reintroduzir após 14–21 dias, com função cardíaca e hematológica restabelecidas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Idarrubicina",
+      "nomeComercial": "Zavedos",
+      "mecanismoAcao": "Intercalante do DNA, inibidor da topoisomerase II, gera radicais livres e quebras no DNA",
+      "farmacocinetica": "IV; alta penetração tecidual; meia-vida terminal ~22h; metabolizado em idarrubicinol ativo",
+      "farmacodinamica": "Ação citotóxica na fase S; potente efeito sobre linhagens hematológicas",
+      "indicacoes": "Leucemia mieloide aguda (LMA), leucemia linfoblástica aguda (LLA), tratamento de indução e consolidação",
+      "reacoesAdversas": "Neutropenia, trombocitopenia, estomatite, alopecia, cardiomiopatia, toxicidade hepática",
+      "riscoGravidez": "Categoria D – teratogênico; uso apenas sob risco-benefício em oncologia",
+      "riscoLactacao": "Contraindicado; possível excreção no leite humano",
+      "administracao": "Intravenosa lenta (3–10 minutos) ou infusão contínua",
+      "doseMaxima": "12mg/m²/dia por até 3 dias; cumulativa cardíaca 150mg/m²",
+      "doseMinima": "8mg/m²",
+      "classificacao": "Antibiótico antraciclina; antineoplásico",
+      "apresentacao": "Frascos-ampola liofilizados 5mg, 10mg, 20mg",
+      "interacaoMedicamento": "Toxicidade aumentada com outras antraciclinas, radioterapia ou hepatotóxicos",
+      "posologia": "LMA: 12mg/m²/dia por 3 dias em indução; ajustes por idade e função hepática",
+      "armazenamento": "Refrigerado 2–8°C; solução reconstituída usar em até 24h",
+      "preparo": "Diluir em solução compatível; manipular em capela com EPI",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, dextrose 5%",
+      "contraindicacoes": "Insuficiência hepática grave, cardiomiopatia, contagens hematológicas muito baixas",
+      "cuidadosMedicos": "Monitorar ECG, ECO, hemograma, bilirrubinas, sinais de extravasamento",
+      "cuidadosFarmaceuticos": "Cuidado na reconstituição, evitar exposição à luz, controle rigoroso da dose acumulada",
+      "cuidadosEnfermagem": "Observar dor local, sinais de infiltração, febre, mucosite e cansaço extremo",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Idarubicin",
+      "suspension": "Hold 10 days prior to elective procedures; resume after hematologic recovery",
+      "risk": "Profound myelosuppression, cardiotoxicity, mucositis, high infection risk, tissue necrosis from extravasation",
+      "reintroduction": "Restart 14–21 days post-op with stable cardiac and hematologic status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Idarubicin",
+      "nomeComercial": "Idamycin",
+      "mecanismoAcao": "Intercalates DNA, inhibits topoisomerase II, causes DNA strand breaks via free radical formation",
+      "farmacocinetica": "IV; T½ ~22h; metabolized to idarubicinol (active); hepatic and renal elimination",
+      "farmacodinamica": "Phase S cytotoxic activity; potent against hematologic malignancies",
+      "indicacoes": "Acute myeloid leukemia (AML), acute lymphoblastic leukemia (ALL)",
+      "reacoesAdversas": "Neutropenia, thrombocytopenia, alopecia, mucositis, cardiomyopathy, hepatic toxicity",
+      "riscoGravidez": "Category D – use only in life-threatening conditions",
+      "riscoLactacao": "Not recommended; likely secreted in milk",
+      "administracao": "Slow IV push or infusion over several minutes",
+      "doseMaxima": "12mg/m²/day for 3 days; lifetime cardiac limit ~150mg/m²",
+      "doseMinima": "8mg/m²",
+      "classificacao": "Anthracycline antitumor antibiotic",
+      "apresentacao": "Vials 5mg, 10mg, 20mg",
+      "interacaoMedicamento": "Additive cardiotoxicity with anthracyclines/radiation; caution with hepatotoxins",
+      "posologia": "AML: 12mg/m²/day x 3 days; dosing adjustments per age/liver function",
+      "armazenamento": "Refrigerate 2–8°C; reconstituted solution stable 24h",
+      "preparo": "Use PPE; reconstitute under sterile conditions",
+      "solucoesCompatíveis": "Normal saline, D5W",
+      "contraindicacoes": "Severe hepatic impairment, heart disease, active infection",
+      "cuidadosMedicos": "Monitor CBC, liver function, cardiac enzymes, ECHO/ECG",
+      "cuidadosFarmaceuticos": "Dose calculation must consider lifetime limit; handle as cytotoxic",
+      "cuidadosEnfermagem": "Check for extravasation, infection, oral ulcers, fatigue",
+      "fontesBibliograficas": "FDA label, Micromedex, UpToDate, NCCN guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Idarrubicina",
+      "suspension": "Suspender 10 días antes de cirugías programadas; reanudar tras recuperación hematológica",
+      "risk": "Mielosupresión profunda, cardiotoxicidad acumulativa, mucositis, extravasación tisular grave",
+      "reintroduction": "Reintroducir 14–21 días después si recuento y función cardíaca son estables"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Idarrubicina",
+      "nomeComercial": "Zavedos",
+      "mecanismoAcao": "Intercalante del ADN, inhibidor de topoisomerasa II, produce roturas y radicales libres",
+      "farmacocinetica": "IV; T½ ~22h; metabolito activo: idarrubicinol; eliminación hepática y renal",
+      "farmacodinamica": "Células en fase S; potente contra leucemias",
+      "indicacoes": "LMA, LLA; terapia de inducción",
+      "reacoesAdversas": "Leucopenia, anemia, estomatitis, alopecia, toxicidad hepática, cardiomiopatía",
+      "riscoGravidez": "Categoría D – contraindicado salvo riesgo vital",
+      "riscoLactacao": "No recomendado; posible excreción en leche",
+      "administracao": "IV lenta (3–10 minutos)",
+      "doseMaxima": "12mg/m²/día; acumulada cardíaca 150mg/m²",
+      "doseMinima": "8mg/m²",
+      "classificacao": "Antraciclina antitumoral",
+      "apresentacao": "Viales 5mg, 10mg, 20mg",
+      "interacaoMedicamento": "Radioterapia y otras antraciclinas potencian toxicidad",
+      "posologia": "12mg/m²/día x 3 días (LMA)",
+      "armazenamento": "2–8°C; solución 24h",
+      "preparo": "Condiciones estériles, bajo cabina",
+      "solucoesCompatíveis": "Cloruro sódico 0,9%, glucosa 5%",
+      "contraindicacoes": "Disfunción hepática severa, cardiopatía, infección activa",
+      "cuidadosMedicos": "Monitorear ECG, ecocardiograma, recuentos y bilirrubinas",
+      "cuidadosFarmaceuticos": "Calcular dosis acumulada total; evitar luz directa",
+      "cuidadosEnfermagem": "Vigilar extravasación, fiebre, úlceras orales",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伊达柔比星",
+      "suspension": "择期手术前10天停用；术后血象稳定方可重新使用",
+      "risk": "重度骨髓抑制、心脏毒性、口腔炎、感染风险、外渗导致坏死",
+      "reintroduction": "术后14–21天，如心功能和血象稳定可恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伊达柔比星",
+      "nomeComercial": "Zavedos",
+      "mecanismoAcao": "DNA嵌入、抑制拓扑异构酶II，产生自由基造成DNA断裂",
+      "farmacocinetica": "IV注射；半衰期约22小时；肝代谢为活性代谢物；肾/胆排泄",
+      "farmacodinamica": "在S期活性高，对急性白血病细胞毒性强",
+      "indicacoes": "AML、ALL，诱导治疗方案中使用",
+      "reacoesAdversas": "白细胞减少、贫血、脱发、口腔炎、肝功能异常、心肌病",
+      "riscoGravidez": "D类 – 禁用于妊娠期，具致畸风险",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉推注（3–10分钟）或短时输注",
+      "doseMaxima": "12mg/m²/d，最多3天；累积心脏剂量不超150mg/m²",
+      "doseMinima": "8mg/m²",
+      "classificacao": "蒽环类抗肿瘤抗生素",
+      "apresentacao": "5mg、10mg、20mg冻干粉",
+      "interacaoMedicamento": "与其他蒽环类、放疗、肝毒药物联用增强毒性",
+      "posologia": "按方案使用：12mg/m²/d×3天（LMA诱导）",
+      "armazenamento": "冷藏2–8°C；复溶液24小时内使用",
+      "preparo": "无菌操作，穿戴防护装备",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "严重肝损伤、心肌病、活动性感染",
+      "cuidadosMedicos": "心电图、心超、血常规、肝功能监测",
+      "cuidadosFarmaceuticos": "累积剂量核算；避光保存；细胞毒废物妥善处理",
+      "cuidadosEnfermagem": "注意外渗、发热、口腔黏膜溃疡、疲劳",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA"
+    }
+  }
+}

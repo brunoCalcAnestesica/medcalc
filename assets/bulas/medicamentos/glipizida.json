@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Glipizida",
+      "suspension": "Suspender 24 horas antes de cirurgias eletivas com jejum prolongado",
+      "risk": "Risco de hipoglicemia perioperatória, especialmente em jejum prolongado; interações com beta-bloqueadores e álcool",
+      "reintroduction": "Reintroduzir após retorno da alimentação oral e controle glicêmico estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glipizida",
+      "nomeComercial": "Minidiab, Glibenese, Glucotrol",
+      "mecanismoAcao": "Estimula a liberação de insulina pelas células beta pancreáticas via bloqueio dos canais de potássio ATP-dependentes",
+      "farmacocinetica": "Biodisponibilidade ~90%; Tmáx 1–3 h; meia-vida 2–4 h; metabolismo hepático; excreção renal",
+      "farmacodinamica": "Reduz a glicemia basal e pós-prandial por aumento da secreção de insulina",
+      "indicacoes": "Diabetes mellitus tipo 2 em pacientes que não controlam apenas com dieta/exercício",
+      "reacoesAdversas": "Hipoglicemia, náusea, dor abdominal, erupções cutâneas, ganho de peso",
+      "riscoGravidez": "Categoria C – usar com cautela",
+      "riscoLactacao": "Evitar; pode passar para o leite materno",
+      "administracao": "Oral, 30 minutos antes da primeira refeição",
+      "doseMaxima": "40 mg/dia",
+      "doseMinima": "2,5 mg/dia",
+      "classificacao": "Sulfonilureia de 2ª geração",
+      "apresentacao": "Comprimidos de 5 mg e 10 mg",
+      "interacaoMedicamento": "Potencial hipoglicemia com AINEs, álcool, beta-bloqueadores; redução de efeito com corticosteroides, diuréticos",
+      "posologia": "Iniciar com 5 mg/dia; ajustar até 40 mg/dia dividido em 2 doses",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "DM tipo 1, cetoacidose diabética, disfunção hepática ou renal grave",
+      "cuidadosMedicos": "Monitorar glicemia, função hepática e renal periodicamente",
+      "cuidadosFarmaceuticos": "Educar sobre risco de hipoglicemia e horários de administração",
+      "cuidadosEnfermagem": "Observar sinais de hipoglicemia e aderência ao tratamento",
+      "fontesBibliograficas": "FDA, ANVISA, UpToDate, Micromedex, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Glipizide",
+      "suspension": "Hold 24 hours prior to surgery due to hypoglycemia risk",
+      "risk": "Perioperative hypoglycemia, especially with fasting; interacts with beta-blockers, alcohol",
+      "reintroduction": "Restart after stable oral intake and blood glucose"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glipizide",
+      "nomeComercial": "Glucotrol, Glucotrol XL",
+      "mecanismoAcao": "Stimulates insulin secretion by closing ATP-dependent potassium channels in pancreatic beta cells",
+      "farmacocinetica": "Bioavailability ~90%, Tmax 1–3 h, half-life 2–4 h, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Lowers blood glucose by enhancing insulin release",
+      "indicacoes": "Type 2 diabetes inadequately controlled by diet/exercise",
+      "reacoesAdversas": "Hypoglycemia, nausea, rash, weight gain, GI upset",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid if possible",
+      "administracao": "Oral, 30 minutes before breakfast",
+      "doseMaxima": "40 mg/day (20 mg/day XL)",
+      "doseMinima": "2.5 mg/day",
+      "classificacao": "Second-generation sulfonylurea",
+      "apresentacao": "5 mg, 10 mg tablets (immediate or extended-release)",
+      "interacaoMedicamento": "Hypoglycemia with NSAIDs, alcohol, beta-blockers; hyperglycemia with steroids, diuretics",
+      "posologia": "Start at 5 mg/day; adjust to max 40 mg/day in divided doses",
+      "armazenamento": "Store at room temperature",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Type 1 DM, DKA, significant hepatic/renal impairment",
+      "cuidadosMedicos": "Monitor glucose, liver/renal function",
+      "cuidadosFarmaceuticos": "Counsel on food timing and signs of hypoglycemia",
+      "cuidadosEnfermagem": "Watch for hypo signs and ensure treatment adherence",
+      "fontesBibliograficas": "FDA, Lexicomp, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Glipizida",
+      "suspension": "Suspender 24 h antes de cirugía por riesgo de hipoglucemia",
+      "risk": "Hipoglucemia perioperatoria; interacciones con alcohol, betabloqueantes",
+      "reintroduction": "Reanudar tras reinicio de alimentación oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glipizida",
+      "nomeComercial": "Glucotrol",
+      "mecanismoAcao": "Estimula liberación de insulina al inhibir canales K+ dependientes de ATP",
+      "farmacocinetica": "VO, Tmax 1–3 h, t½ 2–4 h, metabolismo hepático",
+      "farmacodinamica": "Reduce glucosa basal y postprandial",
+      "indicacoes": "Diabetes tipo 2 sin buen control con dieta y ejercicio",
+      "reacoesAdversas": "Hipoglucemia, náuseas, rash, ganancia de peso",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar si es posible",
+      "administracao": "Oral antes del desayuno",
+      "doseMaxima": "40 mg/día",
+      "doseMinima": "2,5 mg/día",
+      "classificacao": "Sulfonilurea de 2ª generación",
+      "apresentacao": "Comprimidos 5 mg y 10 mg",
+      "interacaoMedicamento": "Alcohol, AINEs, corticoides, diuréticos",
+      "posologia": "Iniciar con 5 mg/día; ajustar hasta 40 mg/día",
+      "armazenamento": "Lugar fresco y seco",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "DM tipo 1, cetoacidosis, insuficiencia hepática o renal severa",
+      "cuidadosMedicos": "Controlar glucemia, función hepática y renal",
+      "cuidadosFarmaceuticos": "Aconsejar sobre hipoglucemia y comidas",
+      "cuidadosEnfermagem": "Observar signos de hipoglucemia",
+      "fontesBibliograficas": "AEMPS, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "格列吡嗪",
+      "suspension": "术前24小时停药以避免术中低血糖",
+      "risk": "低血糖、体重增加、与酒精和β阻滞剂有交互作用",
+      "reintroduction": "术后恢复饮食后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "格列吡嗪",
+      "nomeComercial": "Glucotrol",
+      "mecanismoAcao": "关闭胰岛β细胞ATP敏感性钾通道，刺激胰岛素释放",
+      "farmacocinetica": "口服吸收好，Tmax 1–3小时，t½ 2–4小时，肝代谢",
+      "farmacodinamica": "增强胰岛素分泌，降低空腹与餐后血糖",
+      "indicacoes": "2型糖尿病",
+      "reacoesAdversas": "低血糖、恶心、皮疹、体重增加",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "餐前30分钟口服",
+      "doseMaxima": "40毫克/天",
+      "doseMinima": "2.5毫克/天",
+      "classificacao": "第二代磺酰脲类降糖药",
+      "apresentacao": "5毫克、10毫克片剂",
+      "interacaoMedicamento": "NSAIDs、酒精、β受体阻断剂、糖皮质激素",
+      "posologia": "起始5 mg/天，根据血糖调整至最大40 mg",
+      "armazenamento": "常温避光保存",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "1型糖尿病、酮症酸中毒、重度肝肾功能障碍",
+      "cuidadosMedicos": "监测血糖、电解质、肝肾功能",
+      "cuidadosFarmaceuticos": "告知低血糖风险及用餐时间配合",
+      "cuidadosEnfermagem": "观察意识变化、出汗、心率等低血糖表现",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Guanfacina",
+      "suspension": "Suspender 3 dias antes de cirurgias eletivas com risco hemodinâmico, com desmame progressivo para evitar hipertensão rebote",
+      "risk": "Sedação, bradicardia, hipotensão, boca seca, síndrome de retirada (hipertensão severa)",
+      "reintroduction": "Reintroduzir com monitoramento da pressão arterial e vigilância de sintomas autonômicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Guanfacina",
+      "nomeComercial": "Intuniv, Tenex",
+      "mecanismoAcao": "Agonista α2-adrenérgico central; reduz descarga simpática e melhora regulação do córtex pré-frontal",
+      "farmacocinetica": "Via oral; Tmáx ~5 h; t½ ~17 h; metabolismo hepático (CYP3A4); excreção renal",
+      "farmacodinamica": "Reduz pressão arterial, melhora impulsividade e atenção em TDAH",
+      "indicacoes": "TDAH em crianças e adolescentes; hipertensão resistente (off-label)",
+      "reacoesAdversas": "Sonolência, tontura, cefaleia, fadiga, constipação, bradicardia",
+      "riscoGravidez": "Categoria B – uso com cautela",
+      "riscoLactacao": "Desconhecido – evitar",
+      "administracao": "Oral, 1x/dia (preferencialmente à noite)",
+      "doseMaxima": "7 mg/dia (TDAH); 3 mg/dia (hipertensão)",
+      "doseMinima": "1 mg/dia",
+      "classificacao": "Agonista adrenérgico α2 de ação central",
+      "apresentacao": "Comprimidos 1, 2, 3, 4 mg (liberação prolongada ou imediata)",
+      "interacaoMedicamento": "Potencializa sedativos, anti-hipertensivos; metabolizado por CYP3A4",
+      "posologia": "Iniciar com 1 mg/dia; ajustar semanalmente conforme resposta",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, bradicardia grave, hipotensão sintomática",
+      "cuidadosMedicos": "Monitorar PA, FC, sintomas neurovegetativos, função hepática",
+      "cuidadosFarmaceuticos": "Evitar suspensão abrupta; orientar sobre sono e sedação",
+      "cuidadosEnfermagem": "Observar pressão, sedação, confusão, ritmo cardíaco",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, AAP Guidelines TDAH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Guanfacine",
+      "suspension": "Taper 3 days before elective surgery to avoid rebound hypertension",
+      "risk": "Sedation, bradycardia, hypotension, rebound hypertension if abruptly stopped",
+      "reintroduction": "Restart with monitoring of BP and autonomic symptoms"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Guanfacine",
+      "nomeComercial": "Intuniv, Tenex",
+      "mecanismoAcao": "Central α2A-adrenergic receptor agonist; decreases sympathetic outflow",
+      "farmacocinetica": "PO; Tmax ~5 h; t½ ~17 h; metabolized by CYP3A4",
+      "farmacodinamica": "Lowers BP; improves executive function and attention in ADHD",
+      "indicacoes": "ADHD in pediatric patients; resistant hypertension (off-label)",
+      "reacoesAdversas": "Somnolence, fatigue, bradycardia, dry mouth, hypotension",
+      "riscoGravidez": "Category B – use if needed",
+      "riscoLactacao": "Unknown – avoid",
+      "administracao": "Oral, once daily (preferably bedtime)",
+      "doseMaxima": "7 mg/day (ADHD); 3 mg/day (HTN)",
+      "doseMinima": "1 mg/day",
+      "classificacao": "Central α2-adrenergic agonist",
+      "apresentacao": "1–4 mg tablets (ER or IR)",
+      "interacaoMedicamento": "CNS depressants, CYP3A4 inhibitors/inducers, antihypertensives",
+      "posologia": "Start 1 mg/day; titrate weekly",
+      "armazenamento": "Room temp",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, symptomatic hypotension, advanced heart block",
+      "cuidadosMedicos": "Monitor BP, HR, LFTs, signs of CNS depression",
+      "cuidadosFarmaceuticos": "Warn against abrupt withdrawal; educate on sedation",
+      "cuidadosEnfermagem": "Observe BP, sedation, HR, CNS signs",
+      "fontesBibliograficas": "FDA, AAP, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Guanfacina",
+      "suspension": "Reducir dosis 3 días antes de cirugía; evitar retiro brusco",
+      "risk": "Hipotensión, bradicardia, sedación, hipertensión rebote",
+      "reintroduction": "Reiniciar tras estabilización hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Guanfacina",
+      "nomeComercial": "Intuniv",
+      "mecanismoAcao": "Agonista central α2A; reduce tono simpático",
+      "farmacocinetica": "Oral; t½ ~17 h; CYP3A4",
+      "farmacodinamica": "Baja PA y mejora atención en TDAH",
+      "indicacoes": "TDAH pediátrico; HTA resistente",
+      "reacoesAdversas": "Somnolencia, sequedad oral, hipotensión, bradicardia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO diaria",
+      "doseMaxima": "7 mg/día",
+      "doseMinima": "1 mg/día",
+      "classificacao": "Agonista α2 central",
+      "apresentacao": "1–4 mg tabletas (liberación prolongada)",
+      "interacaoMedicamento": "Sedantes, CYP3A4, antihipertensivos",
+      "posologia": "1 mg/día, ajustar semanalmente",
+      "armazenamento": "Ambiente",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Bradicardia sintomática, hipotensión severa",
+      "cuidadosMedicos": "Control PA, FC, síntomas autonómicos",
+      "cuidadosFarmaceuticos": "Evitar suspensión brusca",
+      "cuidadosEnfermagem": "Observar sedación, PA, confusión",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "胍法辛（Guanfacine）",
+      "suspension": "术前三天逐步停药，避免反跳性高血压",
+      "risk": "镇静、低血压、心动过缓、停药后高血压",
+      "reintroduction": "术后血流动力学稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "胍法辛",
+      "nomeComercial": "Intuniv",
+      "mecanismoAcao": "中枢α2受体激动剂，减少交感输出",
+      "farmacocinetica": "口服；达峰5小时；t½约17小时，经CYP3A4代谢",
+      "farmacodinamica": "降低血压，改善ADHD注意力与执行功能",
+      "indicacoes": "儿童ADHD，难治性高血压（非适应症）",
+      "reacoesAdversas": "嗜睡、乏力、口干、低血压、心动过缓",
+      "riscoGravidez": "B类，可慎用",
+      "riscoLactacao": "未知，避免使用",
+      "administracao": "每日1次，睡前服用",
+      "doseMaxima": "每日7 mg（ADHD）",
+      "doseMinima": "1 mg",
+      "classificacao": "中枢性α2激动剂",
+      "apresentacao": "1–4 mg缓释片",
+      "interacaoMedicamento": "与镇静药、CYP3A4抑制剂、降压药相互作用",
+      "posologia": "起始1 mg，每周增加1 mg至最大耐受剂量",
+      "armazenamento": "室温保存",
+      "preparo": "无需稀释",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重低血压、心动过缓、对药物过敏",
+      "cuidadosMedicos": "监测血压、心率、肝酶、停药反应",
+      "cuidadosFarmaceuticos": "不可突然停药，指导正确服用时间",
+      "cuidadosEnfermagem": "观察镇静、头晕、血压与心率变化",
+      "fontesBibliograficas": "FDA、UpToDate、Micromedex、AAP指南"
+    }
+  }
+}

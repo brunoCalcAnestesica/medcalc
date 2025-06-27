@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pegvisomanto",
+      "suspension": "Suspender 3 a 5 dias antes de cirurgia eletiva de grande porte",
+      "risk": "Risco de alteração da resposta ao GH, disfunção hepática, hipoglicemia e aumento da sensibilidade à insulina; possível interferência com o metabolismo perioperatório",
+      "reintroduction": "Reintroduzir após normalização da função hepática e estabilização do estado metabólico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pegvisomanto",
+      "nomeComercial": "Somavert",
+      "mecanismoAcao": "Antagonista do receptor do hormônio do crescimento (GH), bloqueando a sinalização do IGF-1",
+      "farmacocinetica": "Administração subcutânea; meia-vida ~6 dias; metabolização hepática e renal lenta",
+      "farmacodinamica": "Reduz níveis séricos de IGF-1 em pacientes com acromegalia refratária",
+      "indicacoes": "Tratamento de acromegalia resistente a cirurgia e análogos da somatostatina",
+      "reacoesAdversas": "Alterações hepáticas, reações no local da injeção, lipodistrofia, cefaleia, diarreia, sintomas de deficiência de GH",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Desconhecido; evitar durante uso",
+      "administracao": "Subcutânea",
+      "doseMaxima": "30 mg/dia",
+      "doseMinima": "10 mg/dia",
+      "classificacao": "Antagonista do receptor do GH (antiacromegálico)",
+      "apresentacao": "Frascos de 10 mg, 15 mg, 20 mg em pó para solução injetável",
+      "interacaoMedicamento": "Pode interferir na ação da insulina, hipoglicemiantes e GH exógeno",
+      "posologia": "Início com 10 mg SC/dia; ajustar conforme IGF-1 (até 30 mg/dia)",
+      "armazenamento": "Refrigerado (2–8°C); após reconstituição usar em até 6 horas",
+      "preparo": "Reconstituir com diluente fornecido; agitar suavemente sem formar espuma",
+      "solucoesCompatíveis": "Diluente específico do fabricante",
+      "contraindicacoes": "Hipersensibilidade ao pegvisomanto",
+      "cuidadosMedicos": "Monitorar transaminases, IGF-1, glicemia e sinais de deficiência hormonal",
+      "cuidadosFarmaceuticos": "Orientar reconstituição correta e técnica de aplicação SC",
+      "cuidadosEnfermagem": "Observar lipodistrofia, reações locais e sintomas metabólicos",
+      "fontesBibliograficas": "Micromedex, UpToDate, EMA, FDA, bula Somavert"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pegvisomant",
+      "suspension": "Discontinue 3–5 days prior to major elective surgery",
+      "risk": "Risk of altered GH signaling, hepatic dysfunction, hypoglycemia, and increased insulin sensitivity; may interfere with perioperative metabolic regulation",
+      "reintroduction": "Restart after hepatic stabilization and full metabolic recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pegvisomant",
+      "nomeComercial": "Somavert",
+      "mecanismoAcao": "GH receptor antagonist that blocks IGF-1 production and downstream GH signaling",
+      "farmacocinetica": "SC administration; half-life ~6 days; slowly cleared via liver and kidney",
+      "farmacodinamica": "Lowers serum IGF-1 levels in patients with acromegaly",
+      "indicacoes": "Treatment of acromegaly in patients resistant to surgery or somatostatin analogs",
+      "reacoesAdversas": "Liver enzyme elevation, injection site reactions, lipodystrophy, headache, diarrhea, GH deficiency symptoms",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Unknown; avoid during use",
+      "administracao": "Subcutaneous",
+      "doseMaxima": "30 mg/day",
+      "doseMinima": "10 mg/day",
+      "classificacao": "GH receptor antagonist (anti-acromegalic)",
+      "apresentacao": "Lyophilized vials: 10 mg, 15 mg, 20 mg with diluent",
+      "interacaoMedicamento": "May interfere with insulin, oral hypoglycemics, and exogenous GH",
+      "posologia": "Start with 10 mg SC daily, titrate up to 30 mg/day based on IGF-1",
+      "armazenamento": "Refrigerate (2–8°C); use within 6 hours after reconstitution",
+      "preparo": "Reconstitute with manufacturer’s diluent; swirl gently, do not shake",
+      "solucoesCompatíveis": "Manufacturer’s diluent only",
+      "contraindicacoes": "Hypersensitivity to pegvisomant",
+      "cuidadosMedicos": "Monitor IGF-1, liver enzymes, glucose, and signs of hormone deficiency",
+      "cuidadosFarmaceuticos": "Educate on reconstitution and SC injection technique",
+      "cuidadosEnfermagem": "Monitor injection site, glucose, liver function, and lipodystrophy",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Somavert PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pegvisomanto",
+      "suspension": "Suspender 3–5 días antes de cirugía electiva mayor",
+      "risk": "Riesgo de alteración del eje GH, disfunción hepática, hipoglucemia y aumento de sensibilidad a insulina",
+      "reintroduction": "Reiniciar tras normalización hepática y recuperación metabólica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pegvisomanto",
+      "nomeComercial": "Somavert",
+      "mecanismoAcao": "Antagonista del receptor de GH que bloquea la producción de IGF-1",
+      "farmacocinetica": "SC; vida media ~6 días; metabolizado lentamente por hígado y riñones",
+      "farmacodinamica": "Reduce IGF-1 sérico en pacientes con acromegalia",
+      "indicacoes": "Acromegalia refractaria a cirugía y análogos de somatostatina",
+      "reacoesAdversas": "Alteración hepática, reacciones en sitio de inyección, lipodistrofia, cefalea, diarrea, síntomas de déficit de GH",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Desconocido; evitar uso",
+      "administracao": "Subcutánea",
+      "doseMaxima": "30 mg/día",
+      "doseMinima": "10 mg/día",
+      "classificacao": "Antagonista del receptor de GH (antiacromegálico)",
+      "apresentacao": "Viales 10 mg, 15 mg, 20 mg liofilizados + diluyente",
+      "interacaoMedicamento": "Interfiere con insulina, hipoglucemiantes y GH exógeno",
+      "posologia": "Iniciar con 10 mg SC/día; ajustar según IGF-1 hasta 30 mg/día",
+      "armazenamento": "Refrigerar (2–8°C); usar en 6h tras reconstitución",
+      "preparo": "Reconstituir con diluyente del fabricante; agitar suavemente",
+      "solucoesCompatíveis": "Solo diluyente original",
+      "contraindicacoes": "Hipersensibilidad al pegvisomanto",
+      "cuidadosMedicos": "Monitorear transaminasas, IGF-1, glucosa y signos de déficit hormonal",
+      "cuidadosFarmaceuticos": "Educar sobre reconstitución y técnica de SC",
+      "cuidadosEnfermagem": "Observar sitio de inyección, lipodistrofia, función hepática y glucemia",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Somavert"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "派格维索蒙",
+      "suspension": "择期大手术前3–5天停药",
+      "risk": "干扰GH轴、肝功能异常、低血糖、胰岛素敏感性增强，术中代谢紊乱风险",
+      "reintroduction": "术后肝功能稳定、代谢恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "派格维索蒙",
+      "nomeComercial": "Somavert",
+      "mecanismoAcao": "GH受体拮抗剂，阻断IGF-1合成及下游信号通路",
+      "farmacocinetica": "皮下注射，半衰期6天，肝肾缓慢代谢",
+      "farmacodinamica": "降低IGF-1水平，治疗对标准疗法无效的肢端肥大症",
+      "indicacoes": "对手术和生长抑素类似物无效的肢端肥大症",
+      "reacoesAdversas": "肝酶升高、注射部位反应、脂肪营养不良、头痛、腹泻、GH缺乏相关症状",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "不明，慎用或停哺",
+      "administracao": "皮下注射",
+      "doseMaxima": "每日30 mg",
+      "doseMinima": "每日10 mg",
+      "classificacao": "GH受体拮抗剂",
+      "apresentacao": "冻干粉针10/15/20 mg，配备稀释液",
+      "interacaoMedicamento": "可影响胰岛素、口服降糖药及外源性GH效果",
+      "posologia": "起始每日10 mg SC，根据IGF-1调整至最多30 mg",
+      "armazenamento": "2–8°C冷藏，配好后6小时内使用",
+      "preparo": "用专用稀释液重溶，轻摇混匀，勿剧烈摇晃",
+      "solucoesCompatíveis": "仅限原厂稀释液",
+      "contraindicacoes": "对本品过敏者禁用",
+      "cuidadosMedicos": "监测IGF-1、肝功能、血糖及激素缺乏表现",
+      "cuidadosFarmaceuticos": "指导储存、重配及注射操作",
+      "cuidadosEnfermagem": "观察注射部位、脂肪萎缩、肝功能和血糖变化",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Somavert说明书"
+    }
+  }
+}

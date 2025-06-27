@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Famciclovir",
+      "suspension": "Não requer suspensão pré-operatória; considerar ajuste em caso de insuficiência renal",
+      "risk": "Risco baixo; pode causar náusea, cefaleia, diarreia e raramente alucinações em idosos ou disfunção renal",
+      "reintroduction": "Pode ser mantido no pós-operatório; ajustar dose conforme função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Famciclovir",
+      "nomeComercial": "Famvir",
+      "mecanismoAcao": "Pró-fármaco do penciclovir; inibe a DNA polimerase viral após fosforilação em células infectadas",
+      "farmacocinetica": "Via oral; biodisponibilidade ~77%; excreção renal; meia-vida intracelular do penciclovir ~10–20 h",
+      "farmacodinamica": "Atividade contra HSV-1, HSV-2, VZV e HBV; reduz replicação viral e sintomas clínicos",
+      "indicacoes": "Herpes zoster, herpes genital, herpes labial, supressão crônica em imunocomprometidos",
+      "reacoesAdversas": "Cefaleia, náusea, tontura, fadiga, erupção cutânea",
+      "riscoGravidez": "Categoria B – pode ser usado se benefício superar risco",
+      "riscoLactacao": "Cautela; excreção no leite não bem estabelecida",
+      "administracao": "Oral",
+      "doseMaxima": "1.500 mg/dia",
+      "doseMinima": "125 mg/dia",
+      "classificacao": "Antiviral – análogo de nucleosídeo",
+      "apresentacao": "Comprimidos 125 mg, 250 mg, 500 mg",
+      "interacaoMedicamento": "Ajuste com probenecida e em disfunção renal; sem interações graves conhecidas",
+      "posologia": "250–500 mg VO 2–3x/dia, conforme indicação e gravidade",
+      "armazenamento": "Temperatura ambiente (15–30 °C)",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade a famciclovir ou penciclovir",
+      "cuidadosMedicos": "Avaliar função renal e presença de sintomas neurológicos em idosos",
+      "cuidadosFarmaceuticos": "Orientar adesão e ajustar em insuficiência renal",
+      "cuidadosEnfermagem": "Observar confusão mental, exantema, tolerância digestiva",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, Acyclovir/Valacyclovir Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Famciclovir",
+      "suspension": "No pre-op suspension needed; adjust dose in renal impairment",
+      "risk": "Low; GI upset, headache, rare CNS symptoms in elderly with renal impairment",
+      "reintroduction": "Continue post-op; monitor renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Famciclovir",
+      "nomeComercial": "Famvir",
+      "mecanismoAcao": "Prodrug of penciclovir; inhibits viral DNA polymerase after activation",
+      "farmacocinetica": "PO; ~77% bioavailability; renal excretion; penciclovir t½ ~10–20 h",
+      "farmacodinamica": "Active against HSV-1/2, VZV, HBV; suppresses viral replication",
+      "indicacoes": "Genital herpes, zoster, herpes labialis, chronic suppression in HIV",
+      "reacoesAdversas": "Headache, nausea, diarrhea, fatigue, rash",
+      "riscoGravidez": "Category B – acceptable if needed",
+      "riscoLactacao": "Use with caution",
+      "administracao": "Oral",
+      "doseMaxima": "1,500 mg/day",
+      "doseMinima": "125 mg/day",
+      "classificacao": "Antiviral – nucleoside analog",
+      "apresentacao": "Tablets: 125 mg, 250 mg, 500 mg",
+      "interacaoMedicamento": "Renal adjustment; minimal drug interactions",
+      "posologia": "250–500 mg PO 2–3x/day depending on indication",
+      "armazenamento": "Room temperature (15–30 °C)",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Allergy to penciclovir/famciclovir",
+      "cuidadosMedicos": "Assess renal function; watch CNS effects in elderly",
+      "cuidadosFarmaceuticos": "Check adherence; dose adjust in CKD",
+      "cuidadosEnfermagem": "Monitor rash, GI tolerance, confusion in elderly",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, AAN Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Famciclovir",
+      "suspension": "No requiere suspensión preoperatoria salvo IR grave",
+      "risk": "Bien tolerado; rara confusión o efectos GI",
+      "reintroduction": "Puede mantenerse en el postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Famciclovir",
+      "nomeComercial": "Famvir",
+      "mecanismoAcao": "Profármaco de penciclovir; inhibe polimerasa de ADN viral",
+      "farmacocinetica": "VO; buena biodisponibilidad; renal",
+      "farmacodinamica": "Activo contra HSV, VZV, HBV",
+      "indicacoes": "Herpes genital, zóster, supresión crónica",
+      "reacoesAdversas": "Cefalea, náusea, diarrea, erupción",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Con precaución",
+      "administracao": "Oral",
+      "doseMaxima": "1.500 mg/día",
+      "doseMinima": "125 mg/día",
+      "classificacao": "Antiviral – análogo nucleósido",
+      "apresentacao": "Tabletas 125, 250, 500 mg",
+      "interacaoMedicamento": "Pocas; ajustar en IRC",
+      "posologia": "250–500 mg 2–3 veces/día",
+      "armazenamento": "15–30 °C",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a penciclovir/famciclovir",
+      "cuidadosMedicos": "Evaluar función renal",
+      "cuidadosFarmaceuticos": "Ajuste dosis en IR",
+      "cuidadosEnfermagem": "Observar efectos GI y neurológicos",
+      "fontesBibliograficas": "EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "泛昔洛韦（Famciclovir）",
+      "suspension": "术前无需停药，肾功能异常者需调整剂量",
+      "risk": "轻度不良反应，偶见中枢症状（老年人）",
+      "reintroduction": "术后可继续使用，注意肾功能"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "泛昔洛韦",
+      "nomeComercial": "Famvir",
+      "mecanismoAcao": "前药转化为喷昔洛韦，抑制病毒DNA聚合酶",
+      "farmacocinetica": "口服吸收好，肾排，t½~10–20 h",
+      "farmacodinamica": "抑制HSV、VZV、HBV等复制",
+      "indicacoes": "生殖器疱疹、带状疱疹、复发预防",
+      "reacoesAdversas": "头痛、恶心、疲倦、皮疹",
+      "riscoGravidez": "B类，可用",
+      "riscoLactacao": "慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日1500 mg",
+      "doseMinima": "每日125 mg",
+      "classificacao": "核苷类抗病毒药",
+      "apresentacao": "125, 250, 500 mg片剂",
+      "interacaoMedicamento": "与丙磺舒合用需减量，少交互作用",
+      "posologia": "每日2–3次，每次250–500 mg",
+      "armazenamento": "室温保存（15–30°C）",
+      "preparo": "无需稀释",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对泛昔洛韦/喷昔洛韦过敏",
+      "cuidadosMedicos": "关注肾功能，老年患者警惕意识障碍",
+      "cuidadosFarmaceuticos": "告知依从性及剂量调整",
+      "cuidadosEnfermagem": "观察皮疹、胃肠反应、头晕",
+      "fontesBibliograficas": "FDA、WHO、UpToDate、Micromedex"
+    }
+  }
+}

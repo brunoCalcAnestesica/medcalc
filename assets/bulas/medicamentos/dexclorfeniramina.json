@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Dexclorfeniramina",
+      "suspension": "Suspender 24 horas antes de procedimentos cirúrgicos com anestesia geral devido ao risco de sedação e potencial depressão respiratória.",
+      "risk": "Sedação significativa, boca seca, retenção urinária, constipação, efeitos anticolinérgicos. Potencial de interação com opioides e anestésicos.",
+      "reintroduction": "Pode ser reintroduzida no pós-operatório com vigilância dos efeitos sedativos e anticolinérgicos."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Maleato de dexclorfeniramina",
+      "nomeComercial": "Polaramine, Histamin, Dexmine",
+      "mecanismoAcao": "Antagonista competitivo dos receptores H1 da histamina, com efeito antialérgico, sedativo e anticolinérgico.",
+      "farmacocinetica": "Início: 15–30 min; pico: 2–3 h; meia-vida: 20–24 h; metabolização hepática; excreção renal.",
+      "farmacodinamica": "Reduz prurido, rinorreia, urticária, espirros. Efeito sedativo significativo e duração prolongada.",
+      "indicacoes": "Rinite alérgica, urticária, dermatites, conjuntivite alérgica, alergias medicamentosas.",
+      "reacoesAdversas": "Sonolência, boca seca, tontura, constipação, visão turva, retenção urinária, taquicardia.",
+      "riscoGravidez": "Categoria C – evitar, especialmente no 1º trimestre.",
+      "riscoLactacao": "Contraindicada – excreta no leite e pode causar sedação neonatal.",
+      "administracao": "Oral (comprimidos, solução).",
+      "doseMaxima": "12 mg/dia (adultos); 6 mg/dia (crianças).",
+      "doseMinima": "2 mg/dose.",
+      "classificacao": "Anti-histamínico H1 de 1ª geração.",
+      "apresentacao": "Comprimidos (2 mg), solução oral (0,4 mg/mL), gotas pediátricas.",
+      "interacaoMedicamento": "Potencializa sedação com opioides, benzodiazepínicos, álcool. Cautela com antidepressivos tricíclicos.",
+      "posologia": "Adultos: 2 mg VO a cada 6–8h; crianças: 0,35 mg/kg/dia divididos.",
+      "armazenamento": "Temperatura ambiente, protegido da luz.",
+      "preparo": "Não requer preparo especial.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Glaucoma, retenção urinária, hipersensibilidade, gravidez 1º trimestre.",
+      "cuidadosMedicos": "Monitorar sedação, sinais de toxicidade anticolinérgica e função urinária.",
+      "cuidadosFarmaceuticos": "Evitar em pacientes idosos ou com risco cardiovascular.",
+      "cuidadosEnfermagem": "Observar sonolência, confusão, secura de mucosas, efeitos colaterais sistêmicos.",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Dexchlorpheniramine",
+      "suspension": "Discontinue 24 h before surgery with general anesthesia due to sedation risk.",
+      "risk": "Significant drowsiness, anticholinergic effects, respiratory depression with opioids/anesthetics.",
+      "reintroduction": "May resume post-op under clinical monitoring."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dexchlorpheniramine maleate",
+      "nomeComercial": "Polaramine, Dexchlor, Dexalergen",
+      "mecanismoAcao": "First-generation H1 receptor antagonist with sedative, antiallergic, and anticholinergic properties.",
+      "farmacocinetica": "Onset: 15–30 min; peak: 2–3 h; t½: 20–24 h; hepatic metabolism; renal elimination.",
+      "farmacodinamica": "Relieves itching, sneezing, urticaria. Long-lasting sedative effects.",
+      "indicacoes": "Allergic rhinitis, urticaria, dermatitis, conjunctivitis, drug allergies.",
+      "reacoesAdversas": "Drowsiness, dry mouth, constipation, blurred vision, urinary retention, tachycardia.",
+      "riscoGravidez": "Category C – avoid in first trimester.",
+      "riscoLactacao": "Contraindicated – excreted in milk and sedates infants.",
+      "administracao": "Oral (tablet, solution).",
+      "doseMaxima": "12 mg/day (adults); 6 mg/day (children).",
+      "doseMinima": "2 mg/dose.",
+      "classificacao": "First-generation antihistamine (H1).",
+      "apresentacao": "Tablets (2 mg), oral solution (0.4 mg/mL), pediatric drops.",
+      "interacaoMedicamento": "Enhances CNS depression with opioids, alcohol, benzos. Caution with TCAs.",
+      "posologia": "Adults: 2 mg every 6–8h; children: 0.35 mg/kg/day in divided doses.",
+      "armazenamento": "Room temp, protect from light.",
+      "preparo": "No preparation needed.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Glaucoma, urinary retention, hypersensitivity, first trimester pregnancy.",
+      "cuidadosMedicos": "Monitor sedation, anticholinergic toxicity, voiding.",
+      "cuidadosFarmaceuticos": "Avoid in elderly or cardiac patients.",
+      "cuidadosEnfermagem": "Watch for drowsiness, mucosal dryness, confusion.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Dexclorfeniramina",
+      "suspension": "Suspender 24 h antes de cirugía con anestesia general por sedación.",
+      "risk": "Sedación marcada, efectos anticolinérgicos, riesgo con opioides y anestésicos.",
+      "reintroduction": "Puede reiniciarse tras cirugía bajo vigilancia clínica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Maleato de dexclorfeniramina",
+      "nomeComercial": "Polaramine, Dexmine, Histaplus",
+      "mecanismoAcao": "Antihistamínico H1 sedante de 1ª generación, con efectos anticolinérgicos.",
+      "farmacocinetica": "Inicio: 15–30 min; pico: 2–3 h; t½: 20–24 h; metabolismo hepático.",
+      "farmacodinamica": "Alivia prurito, estornudos, urticaria. Efecto prolongado y sedante.",
+      "indicacoes": "Rinitis alérgica, urticaria, dermatitis, alergia ocular o a fármacos.",
+      "reacoesAdversas": "Somnolencia, boca seca, estreñimiento, visión borrosa, retención urinaria.",
+      "riscoGravidez": "Categoría C – evitar en el primer trimestre.",
+      "riscoLactacao": "Contraindicado – sedación neonatal.",
+      "administracao": "Oral (comprimidos, solución).",
+      "doseMaxima": "12 mg/día (adultos); 6 mg/día (niños).",
+      "doseMinima": "2 mg/dosis.",
+      "classificacao": "Antihistamínico H1 sedante.",
+      "apresentacao": "Comprimidos (2 mg), solución (0,4 mg/mL), gotas pediátricas.",
+      "interacaoMedicamento": "Potencia efectos sedantes con alcohol, opioides, BZD, tricíclicos.",
+      "posologia": "Adultos: 2 mg cada 6–8h; niños: 0,35 mg/kg/día.",
+      "armazenamento": "Ambiente, proteger de la luz.",
+      "preparo": "No requiere preparación especial.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Glaucoma, retención urinaria, embarazo 1T, lactancia.",
+      "cuidadosMedicos": "Monitorear sedación y síntomas anticolinérgicos.",
+      "cuidadosFarmaceuticos": "Evitar en ancianos o pacientes cardiovasculares.",
+      "cuidadosEnfermagem": "Observar somnolencia, sequedad, visión.",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "右氯苯那敏（Dexchlorpheniramine）",
+      "suspension": "术前24小时停用以避免过度镇静与术中风险。",
+      "risk": "明显嗜睡、抗胆碱副作用、与麻醉药协同呼吸抑制。",
+      "reintroduction": "术后可在监测下恢复使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "右氯苯那敏马来酸盐",
+      "nomeComercial": "Polaramine、Dexmine",
+      "mecanismoAcao": "第一代H1拮抗剂，具镇静、抗过敏和抗胆碱作用。",
+      "farmacocinetica": "起效15–30分钟，达峰2–3小时，半衰期约20–24小时，肝代谢，肾排泄。",
+      "farmacodinamica": "缓解过敏症状如瘙痒、喷嚏、荨麻疹。作用持久，镇静显著。",
+      "indicacoes": "过敏性鼻炎、荨麻疹、皮炎、结膜炎、药物过敏。",
+      "reacoesAdversas": "嗜睡、口干、便秘、视物模糊、排尿困难、心动过速。",
+      "riscoGravidez": "C类，避免孕早期使用。",
+      "riscoLactacao": "禁用，可致婴儿镇静。",
+      "administracao": "口服（片剂、糖浆）。",
+      "doseMaxima": "成人12 mg/日，儿童6 mg/日。",
+      "doseMinima": "每次2 mg。",
+      "classificacao": "第一代镇静型H1抗组胺药。",
+      "apresentacao": "片剂（2 mg）、糖浆（0.4 mg/mL）、滴剂。",
+      "interacaoMedicamento": "酒精、阿片、苯二氮䓬类、TCA等增强镇静。",
+      "posologia": "成人每6–8小时2 mg；儿童每日0.35 mg/kg，分次服用。",
+      "armazenamento": "常温避光保存。",
+      "preparo": "无需特殊处理。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "青光眼、尿潴留、孕早期、哺乳期。",
+      "cuidadosMedicos": "监测镇静、排尿困难、QT间期延长等。",
+      "cuidadosFarmaceuticos": "老年及心脏病患者慎用。",
+      "cuidadosEnfermagem": "记录嗜睡、视力模糊、口干反应。",
+      "fontesBibliograficas": "中国药典、UpToDate、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tocilizumabe",
+      "suspension": "Suspender 4 semanas antes de cirurgias maiores; pode ser mantido em procedimentos menores com monitoramento clínico",
+      "risk": "Imunossupressão aumenta risco de infecção cirúrgica, atraso na cicatrização e neutropenia; possível reativação de hepatite B ou TB",
+      "reintroduction": "Reintroduzir 10–30 dias após cirurgia, com ferida cicatrizada e sem sinais de infecção"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tocilizumabe",
+      "nomeComercial": "Actemra",
+      "mecanismoAcao": "Anticorpo monoclonal humanizado que bloqueia os receptores de IL-6, reduzindo a resposta inflamatória",
+      "farmacocinetica": "Administração IV ou SC; meia-vida de 11 a 13 dias; metabolismo proteolítico",
+      "farmacodinamica": "Modula citocinas pró-inflamatórias, especialmente IL-6, atuando na inflamação sistêmica crônica",
+      "indicacoes": "Artrite reumatoide, arterite de células gigantes, COVID-19 grave, artrite idiopática juvenil, síndrome de liberação de citocinas",
+      "reacoesAdversas": "Infecções, aumento de transaminases, dislipidemia, neutropenia, perfuração intestinal (raro)",
+      "riscoGravidez": "Categoria C – uso se benefícios superarem riscos",
+      "riscoLactacao": "Desconhecido; evitar ou usar com cautela",
+      "administracao": "Via intravenosa (IV) ou subcutânea (SC)",
+      "doseMaxima": "800mg IV por infusão (RA); 162mg SC semanal ou quinzenal",
+      "doseMinima": "162mg SC a cada 2 semanas",
+      "classificacao": "Imunobiológico – anti-IL-6",
+      "apresentacao": "Frascos-ampola para infusão ou seringas/canetas SC",
+      "interacaoMedicamento": "Reduz metabolismo hepático de substratos do CYP450; cuidado com anticoagulantes e estatinas",
+      "posologia": "RA: 8mg/kg IV a cada 4 semanas; ou 162mg SC semanal",
+      "armazenamento": "Refrigerado entre 2–8°C; não congelar",
+      "preparo": "IV: diluir em 100ml de SF 0,9%; SC: aguardar 30min fora da geladeira",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Infecção ativa grave, hipersensibilidade",
+      "cuidadosMedicos": "Testar TB e hepatite B antes de iniciar; monitorar hemograma, enzimas hepáticas e perfil lipídico",
+      "cuidadosFarmaceuticos": "Confirmar dose, diluição correta e conservação adequada",
+      "cuidadosEnfermagem": "Observar sinais de reação à infusão e infecção",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tocilizumab",
+      "suspension": "Discontinue 4 weeks prior to major surgeries; may continue with caution in minor interventions",
+      "risk": "Increased risk of surgical infection, delayed wound healing, neutropenia, and TB/hepatitis B reactivation",
+      "reintroduction": "Restart 10–30 days post-op if no infection and wound healed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tocilizumab",
+      "nomeComercial": "Actemra",
+      "mecanismoAcao": "IL-6 receptor monoclonal antibody that inhibits IL-6 signaling",
+      "farmacocinetica": "IV or SC; half-life 11–13 days; proteolytic metabolism",
+      "farmacodinamica": "Blocks pro-inflammatory IL-6 effects; systemic immunomodulation",
+      "indicacoes": "RA, systemic juvenile idiopathic arthritis, giant cell arteritis, COVID-19, cytokine release syndrome",
+      "reacoesAdversas": "Infections, ALT/AST elevation, lipid changes, neutropenia, rare GI perforation",
+      "riscoGravidez": "Category C – use only if clearly needed",
+      "riscoLactacao": "Unknown – caution advised",
+      "administracao": "IV infusion or SC injection",
+      "doseMaxima": "800mg IV (RA); 162mg SC weekly",
+      "doseMinima": "162mg SC every 2 weeks",
+      "classificacao": "Biologic – anti-IL-6",
+      "apresentacao": "Vials for infusion; prefilled syringes or pens for SC",
+      "interacaoMedicamento": "Modulates CYP450 activity – caution with warfarin, statins",
+      "posologia": "RA: 8mg/kg IV q4w; or 162mg SC q1w",
+      "armazenamento": "Store at 2–8°C; do not freeze",
+      "preparo": "IV: dilute in 100ml NS; SC: warm to room temperature before use",
+      "solucoesCompatíveis": "Normal saline",
+      "contraindicacoes": "Active infection, hypersensitivity",
+      "cuidadosMedicos": "Screen for TB and HBV; monitor CBC, LFTs, lipids",
+      "cuidadosFarmaceuticos": "Ensure dose, preparation, cold chain",
+      "cuidadosEnfermagem": "Monitor for infusion reactions and infection signs",
+      "fontesBibliograficas": "FDA, Micromedex, ACR guidelines, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tocilizumab",
+      "suspension": "Suspender 4 semanas antes de cirugía mayor; valorar continuidad en cirugía menor",
+      "risk": "Riesgo de infección quirúrgica, cicatrización lenta, neutropenia, reactivación de hepatitis B o TB",
+      "reintroduction": "Reintroducir 10–30 días después si no hay infección y la herida está cicatrizada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tocilizumab",
+      "nomeComercial": "Actemra",
+      "mecanismoAcao": "Anticuerpo monoclonal contra el receptor de IL-6",
+      "farmacocinetica": "Vía IV o SC; vida media 11–13 días; metabolismo proteico",
+      "farmacodinamica": "Bloquea IL-6; modula inflamación sistémica",
+      "indicacoes": "AR, arteritis de células gigantes, COVID-19, artritis idiopática juvenil",
+      "reacoesAdversas": "Infecciones, elevación de transaminasas, neutropenia, dislipidemia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce; precaución recomendada",
+      "administracao": "IV o SC",
+      "doseMaxima": "800mg IV o 162mg SC semanal",
+      "doseMinima": "162mg SC cada 2 semanas",
+      "classificacao": "Biológico – inhibidor de IL-6",
+      "apresentacao": "Viales, jeringas o plumas precargadas",
+      "interacaoMedicamento": "CYP450 reducido; precaución con anticoagulantes, estatinas",
+      "posologia": "8mg/kg IV c/4 semanas o 162mg SC semanal",
+      "armazenamento": "2–8°C; no congelar",
+      "preparo": "IV: diluir en 100ml de SSF; SC: atemperar antes de aplicar",
+      "solucoesCompatíveis": "Suero fisiológico",
+      "contraindicacoes": "Infección activa, hipersensibilidad",
+      "cuidadosMedicos": "Cribado de TB y hepatitis; control de hemograma y lípidos",
+      "cuidadosFarmaceuticos": "Cadena de frío, dilución y aplicación correctas",
+      "cuidadosEnfermagem": "Observar reacciones a la infusión e infecciones",
+      "fontesBibliograficas": "EMA, Micromedex, literatura médica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "托珠单抗",
+      "suspension": "重大手术建议提前4周停药；小手术可权衡后继续使用",
+      "risk": "免疫抑制增加术后感染和伤口愈合障碍风险，可诱发乙肝或结核再活化",
+      "reintroduction": "术后10–30天，切口愈合无感染时可重新开始用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "托珠单抗",
+      "nomeComercial": "Actemra（安柯瑞）",
+      "mecanismoAcao": "IL-6受体单克隆抗体，阻断IL-6信号",
+      "farmacocinetica": "IV或SC给药；半衰期11–13天；蛋白质分解代谢",
+      "farmacodinamica": "阻断促炎性IL-6通路，降低慢性炎症反应",
+      "indicacoes": "类风湿关节炎、大动脉炎、COVID-19重症、幼年特发性关节炎、细胞因子风暴",
+      "reacoesAdversas": "感染、转氨酶升高、血脂异常、中性粒细胞减少、肠穿孔（罕见）",
+      "riscoGravidez": "C类 – 权衡后使用",
+      "riscoLactacao": "尚无数据；哺乳期慎用",
+      "administracao": "静脉注射或皮下注射",
+      "doseMaxima": "800mg IV或每周162mg SC",
+      "doseMinima": "每2周162mg SC",
+      "classificacao": "抗IL-6生物制剂",
+      "apresentacao": "注射液，预充式注射器或注射笔",
+      "interacaoMedicamento": "影响CYP450酶；注意抗凝、降脂药物",
+      "posologia": "RA：每4周8mg/kg IV 或每周162mg SC",
+      "armazenamento": "冷藏2–8°C，不可冷冻",
+      "preparo": "IV需稀释，SC注射前室温放置30分钟",
+      "solucoesCompatíveis": "生理盐水",
+      "contraindicacoes": "活动性感染、过敏",
+      "cuidadosMedicos": "用药前筛查结核和乙肝，术后监测感染、血常规和肝功能",
+      "cuidadosFarmaceuticos": "冷链管理、剂量确认、注射操作培训",
+      "cuidadosEnfermagem": "监测不良反应、注射部位、感染表现",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex"
+    }
+  }
+}

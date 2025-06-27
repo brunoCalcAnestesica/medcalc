@@ -1,0 +1,142 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido valproico",
+      "suspension": "Suspender 48h antes de neurocirurgias ou procedimentos com risco hemorrágico",
+      "risk": "Hepatotoxicidade, pancreatite, trombocitopenia, hiperamonemia, sedação, náusea, alopecia, ganho de peso",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com função hepática e hemostática estáveis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido valproico",
+      "nomeComercial": "Depakene, Valpakine",
+      "mecanismoAcao": "Inibe canais de sódio e cálcio, aumenta GABA, modula glutamato e outros neurotransmissores excitatórios",
+      "farmacocinetica": "VO/EV; biodisponibilidade ~100%; T½ 9–16h; metabolismo hepático; excreção renal como conjugado glicuronídeo",
+      "farmacodinamica": "Estabiliza a membrana neuronal e reduz atividade excitatória no SNC",
+      "indicacoes": "Epilepsia, transtorno bipolar, enxaqueca, controle da agressividade (off-label)",
+      "reacoesAdversas": "Letargia, tremor, alterações GI, hepatotoxicidade, aumento de peso, encefalopatia por hiperamonemia",
+      "riscoGravidez": "Categoria D/X – alto risco de teratogenicidade e atraso no desenvolvimento",
+      "riscoLactacao": "Com cautela",
+      "administracao": "VO em 2–3 doses diárias ou EV em bolus/infusão",
+      "doseMaxima": "60mg/kg/dia",
+      "doseMinima": "250mg/dia",
+      "classificacao": "Antiepiléptico e estabilizador do humor de amplo espectro",
+      "apresentacao": "Comprimidos 250mg/500mg; solução oral 250mg/5ml; ampola 400mg/4ml",
+      "interacaoMedicamento": "Interage com lamotrigina, carbamazepina, anticoagulantes, anticoncepcionais hormonais",
+      "posologia": "10–15mg/kg/dia com ajuste gradual até 60mg/kg/dia conforme tolerância clínica",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "EV: diluir em SF ou SG5%; infusão lenta em 60 minutos",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hepatopatia grave, porfiria, gravidez sem contracepção eficaz, distúrbios do ciclo da ureia",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas, amônia, INR, função tireoidiana e hematológica",
+      "cuidadosFarmaceuticos": "Atenção a duplicidade com valproato de sódio; garantir formulação correta",
+      "cuidadosEnfermagem": "Observar letargia, vômito, distensão abdominal, sangramentos",
+      "comentarioFarmacologico": "O ácido valproico é considerado um antiepiléptico de amplo espectro com eficácia contra crises de ausência, tônico-clônicas generalizadas e mioclônicas. Também é utilizado em transtornos de humor, especialmente em episódios de mania aguda e transtorno bipolar de ciclo rápido. Possui perfil neuroquímico versátil, atuando em múltiplas vias excitatórias e inibitórias.",
+      "comentarioSeguranca": "O uso em mulheres em idade fértil é desencorajado pela alta taxa de malformações congênitas e efeitos neurocomportamentais fetais. A encefalopatia hiperamonêmica pode ocorrer mesmo com testes hepáticos normais. Requer vigilância em uso com outros anticonvulsivantes e deve ser introduzido gradualmente para reduzir efeitos adversos iniciais."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Valproic acid",
+      "suspension": "Suspender 48h antes de neurocirurgias ou procedimentos com risco hemorrágico",
+      "risk": "Hepatotoxicidade, pancreatite, trombocitopenia, hiperamonemia, sedação, náusea, alopecia, ganho de peso",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com função hepática e hemostática estáveis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido valproico",
+      "nomeComercial": "Depakene, Valpakine",
+      "mecanismoAcao": "Inibe canais de sódio e cálcio, aumenta GABA, modula glutamato e outros neurotransmissores excitatórios",
+      "farmacocinetica": "VO/EV; biodisponibilidade ~100%; T½ 9–16h; metabolismo hepático; excreção renal como conjugado glicuronídeo",
+      "farmacodinamica": "Estabiliza a membrana neuronal e reduz atividade excitatória no SNC",
+      "indicacoes": "Epilepsia, transtorno bipolar, enxaqueca, controle da agressividade (off-label)",
+      "reacoesAdversas": "Letargia, tremor, alterações GI, hepatotoxicidade, aumento de peso, encefalopatia por hiperamonemia",
+      "riscoGravidez": "Categoria D/X – alto risco de teratogenicidade e atraso no desenvolvimento",
+      "riscoLactacao": "Com cautela",
+      "administracao": "VO em 2–3 doses diárias ou EV em bolus/infusão",
+      "doseMaxima": "60mg/kg/dia",
+      "doseMinima": "250mg/dia",
+      "classificacao": "Antiepiléptico e estabilizador do humor de amplo espectro",
+      "apresentacao": "Comprimidos 250mg/500mg; solução oral 250mg/5ml; ampola 400mg/4ml",
+      "interacaoMedicamento": "Interage com lamotrigina, carbamazepina, anticoagulantes, anticoncepcionais hormonais",
+      "posologia": "10–15mg/kg/dia com ajuste gradual até 60mg/kg/dia conforme tolerância clínica",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "EV: diluir em SF ou SG5%; infusão lenta em 60 minutos",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hepatopatia grave, porfiria, gravidez sem contracepção eficaz, distúrbios do ciclo da ureia",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas, amônia, INR, função tireoidiana e hematológica",
+      "cuidadosFarmaceuticos": "Atenção a duplicidade com valproato de sódio; garantir formulação correta",
+      "cuidadosEnfermagem": "Observar letargia, vômito, distensão abdominal, sangramentos",
+      "comentarioFarmacologico": "O ácido valproico é considerado um antiepiléptico de amplo espectro com eficácia contra crises de ausência, tônico-clônicas generalizadas e mioclônicas. Também é utilizado em transtornos de humor, especialmente em episódios de mania aguda e transtorno bipolar de ciclo rápido. Possui perfil neuroquímico versátil, atuando em múltiplas vias excitatórias e inibitórias.",
+      "comentarioSeguranca": "O uso em mulheres em idade fértil é desencorajado pela alta taxa de malformações congênitas e efeitos neurocomportamentais fetais. A encefalopatia hiperamonêmica pode ocorrer mesmo com testes hepáticos normais. Requer vigilância em uso com outros anticonvulsivantes e deve ser introduzido gradualmente para reduzir efeitos adversos iniciais."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido valproico",
+      "suspension": "Suspender 48h antes de neurocirurgias ou procedimentos com risco hemorrágico",
+      "risk": "Hepatotoxicidade, pancreatite, trombocitopenia, hiperamonemia, sedação, náusea, alopecia, ganho de peso",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com função hepática e hemostática estáveis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido valproico",
+      "nomeComercial": "Depakene, Valpakine",
+      "mecanismoAcao": "Inibe canais de sódio e cálcio, aumenta GABA, modula glutamato e outros neurotransmissores excitatórios",
+      "farmacocinetica": "VO/EV; biodisponibilidade ~100%; T½ 9–16h; metabolismo hepático; excreção renal como conjugado glicuronídeo",
+      "farmacodinamica": "Estabiliza a membrana neuronal e reduz atividade excitatória no SNC",
+      "indicacoes": "Epilepsia, transtorno bipolar, enxaqueca, controle da agressividade (off-label)",
+      "reacoesAdversas": "Letargia, tremor, alterações GI, hepatotoxicidade, aumento de peso, encefalopatia por hiperamonemia",
+      "riscoGravidez": "Categoria D/X – alto risco de teratogenicidade e atraso no desenvolvimento",
+      "riscoLactacao": "Com cautela",
+      "administracao": "VO em 2–3 doses diárias ou EV em bolus/infusão",
+      "doseMaxima": "60mg/kg/dia",
+      "doseMinima": "250mg/dia",
+      "classificacao": "Antiepiléptico e estabilizador do humor de amplo espectro",
+      "apresentacao": "Comprimidos 250mg/500mg; solução oral 250mg/5ml; ampola 400mg/4ml",
+      "interacaoMedicamento": "Interage com lamotrigina, carbamazepina, anticoagulantes, anticoncepcionais hormonais",
+      "posologia": "10–15mg/kg/dia com ajuste gradual até 60mg/kg/dia conforme tolerância clínica",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "EV: diluir em SF ou SG5%; infusão lenta em 60 minutos",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hepatopatia grave, porfiria, gravidez sem contracepção eficaz, distúrbios do ciclo da ureia",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas, amônia, INR, função tireoidiana e hematológica",
+      "cuidadosFarmaceuticos": "Atenção a duplicidade com valproato de sódio; garantir formulação correta",
+      "cuidadosEnfermagem": "Observar letargia, vômito, distensão abdominal, sangramentos",
+      "comentarioFarmacologico": "O ácido valproico é considerado um antiepiléptico de amplo espectro com eficácia contra crises de ausência, tônico-clônicas generalizadas e mioclônicas. Também é utilizado em transtornos de humor, especialmente em episódios de mania aguda e transtorno bipolar de ciclo rápido. Possui perfil neuroquímico versátil, atuando em múltiplas vias excitatórias e inibitórias.",
+      "comentarioSeguranca": "O uso em mulheres em idade fértil é desencorajado pela alta taxa de malformações congênitas e efeitos neurocomportamentais fetais. A encefalopatia hiperamonêmica pode ocorrer mesmo com testes hepáticos normais. Requer vigilância em uso com outros anticonvulsivantes e deve ser introduzido gradualmente para reduzir efeitos adversos iniciais."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "丙戊酸",
+      "suspension": "Suspender 48h antes de neurocirurgias ou procedimentos com risco hemorrágico",
+      "risk": "Hepatotoxicidade, pancreatite, trombocitopenia, hiperamonemia, sedação, náusea, alopecia, ganho de peso",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com função hepática e hemostática estáveis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido valproico",
+      "nomeComercial": "Depakene, Valpakine",
+      "mecanismoAcao": "Inibe canais de sódio e cálcio, aumenta GABA, modula glutamato e outros neurotransmissores excitatórios",
+      "farmacocinetica": "VO/EV; biodisponibilidade ~100%; T½ 9–16h; metabolismo hepático; excreção renal como conjugado glicuronídeo",
+      "farmacodinamica": "Estabiliza a membrana neuronal e reduz atividade excitatória no SNC",
+      "indicacoes": "Epilepsia, transtorno bipolar, enxaqueca, controle da agressividade (off-label)",
+      "reacoesAdversas": "Letargia, tremor, alterações GI, hepatotoxicidade, aumento de peso, encefalopatia por hiperamonemia",
+      "riscoGravidez": "Categoria D/X – alto risco de teratogenicidade e atraso no desenvolvimento",
+      "riscoLactacao": "Com cautela",
+      "administracao": "VO em 2–3 doses diárias ou EV em bolus/infusão",
+      "doseMaxima": "60mg/kg/dia",
+      "doseMinima": "250mg/dia",
+      "classificacao": "Antiepiléptico e estabilizador do humor de amplo espectro",
+      "apresentacao": "Comprimidos 250mg/500mg; solução oral 250mg/5ml; ampola 400mg/4ml",
+      "interacaoMedicamento": "Interage com lamotrigina, carbamazepina, anticoagulantes, anticoncepcionais hormonais",
+      "posologia": "10–15mg/kg/dia com ajuste gradual até 60mg/kg/dia conforme tolerância clínica",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "EV: diluir em SF ou SG5%; infusão lenta em 60 minutos",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hepatopatia grave, porfiria, gravidez sem contracepção eficaz, distúrbios do ciclo da ureia",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas, amônia, INR, função tireoidiana e hematológica",
+      "cuidadosFarmaceuticos": "Atenção a duplicidade com valproato de sódio; garantir formulação correta",
+      "cuidadosEnfermagem": "Observar letargia, vômito, distensão abdominal, sangramentos",
+      "comentarioFarmacologico": "O ácido valproico é considerado um antiepiléptico de amplo espectro com eficácia contra crises de ausência, tônico-clônicas generalizadas e mioclônicas. Também é utilizado em transtornos de humor, especialmente em episódios de mania aguda e transtorno bipolar de ciclo rápido. Possui perfil neuroquímico versátil, atuando em múltiplas vias excitatórias e inibitórias.",
+      "comentarioSeguranca": "O uso em mulheres em idade fértil é desencorajado pela alta taxa de malformações congênitas e efeitos neurocomportamentais fetais. A encefalopatia hiperamonêmica pode ocorrer mesmo com testes hepáticos normais. Requer vigilância em uso com outros anticonvulsivantes e deve ser introduzido gradualmente para reduzir efeitos adversos iniciais."
+    }
+  }
+}

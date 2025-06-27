@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Luspatercepte",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva em pacientes com trombose ativa ou eventos adversos graves",
+      "risk": "Pode causar hipertensão, tromboembolismo, dor óssea, fadiga, diarreia",
+      "reintroduction": "Reintroduzir após avaliação clínica e estabilidade hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Luspatercepte",
+      "nomeComercial": "Reblozyl",
+      "mecanismoAcao": "Ligante de TGF-β que estimula maturação eritroide em estágios tardios",
+      "farmacocinetica": "Administração SC; meia-vida ~11 dias; metabolismo proteico",
+      "farmacodinamica": "Aumenta hemoglobina e reduz necessidade de transfusão em anemias crônicas",
+      "indicacoes": "Síndromes mielodisplásicas (MDS) de baixo risco, β-talassemia dependente de transfusão",
+      "reacoesAdversas": "Fadiga, dor de cabeça, dor óssea, diarreia, náusea, hipertensão, trombose",
+      "riscoGravidez": "Categoria X – contraindicado (embriotoxicidade)",
+      "riscoLactacao": "Desconhecido; não recomendado",
+      "administracao": "Subcutânea (abdome, coxa, braço)",
+      "doseMaxima": "1,75mg/kg a cada 3 semanas",
+      "doseMinima": "1mg/kg",
+      "classificacao": "Agente estimulador da eritropoiese (ligando do TGF-β)",
+      "apresentacao": "Pó liofilizado para reconstituição: 25mg, 75mg",
+      "interacaoMedicamento": "Não há interações medicamentosas relevantes descritas",
+      "posologia": "Inicial 1mg/kg SC a cada 3 semanas; ajustar conforme resposta e Hb",
+      "armazenamento": "Refrigerado (2–8°C); reconstituído usar em até 8h",
+      "preparo": "Reconstituir com água estéril; girar frasco suavemente; não agitar",
+      "solucoesCompatíveis": "Água estéril para injeção",
+      "contraindicacoes": "Gravidez, hipersensibilidade, trombose não controlada",
+      "cuidadosMedicos": "Monitorar hemoglobina, PA e sinais de eventos trombóticos",
+      "cuidadosFarmaceuticos": "Verificar reconstituição adequada e estabilidade",
+      "cuidadosEnfermagem": "Observar reações locais e sinais de trombose ou hipertensão",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Luspatercept",
+      "suspension": "Discontinue 7 days before surgery in patients with active thrombosis or severe AEs",
+      "risk": "May cause hypertension, thrombosis, bone pain, fatigue, diarrhea",
+      "reintroduction": "Restart after clinical and hematologic stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Luspatercept",
+      "nomeComercial": "Reblozyl",
+      "mecanismoAcao": "TGF-β ligand trap that enhances late-stage erythroid maturation",
+      "farmacocinetica": "SC administration; half-life ~11 days; proteolytic metabolism",
+      "farmacodinamica": "Increases hemoglobin and reduces transfusion in chronic anemia",
+      "indicacoes": "Low-risk MDS with ring sideroblasts, transfusion-dependent β-thalassemia",
+      "reacoesAdversas": "Fatigue, headache, bone pain, diarrhea, nausea, hypertension, thrombosis",
+      "riscoGravidez": "Category X – contraindicated (embryotoxic)",
+      "riscoLactacao": "Unknown; not recommended",
+      "administracao": "Subcutaneous (abdomen, thigh, upper arm)",
+      "doseMaxima": "1.75mg/kg every 3 weeks",
+      "doseMinima": "1mg/kg",
+      "classificacao": "Erythroid maturation agent (TGF-β ligand trap)",
+      "apresentacao": "Lyophilized powder for reconstitution: 25mg, 75mg vials",
+      "interacaoMedicamento": "No major interactions reported",
+      "posologia": "Initial 1mg/kg SC every 3 weeks; adjust based on Hb response",
+      "armazenamento": "Refrigerate (2–8°C); use reconstituted product within 8h",
+      "preparo": "Reconstitute with sterile water; swirl gently; do not shake",
+      "solucoesCompatíveis": "Sterile water for injection",
+      "contraindicacoes": "Pregnancy, hypersensitivity, uncontrolled thrombosis",
+      "cuidadosMedicos": "Monitor Hb, BP, thrombotic events",
+      "cuidadosFarmaceuticos": "Ensure proper reconstitution and stability",
+      "cuidadosEnfermagem": "Observe for local reactions, thrombosis, hypertension",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Luspatercept",
+      "suspension": "Suspender 7 días antes de cirugía en pacientes con trombosis activa o efectos adversos graves",
+      "risk": "Puede causar hipertensión, trombosis, dolor óseo, fatiga, diarrea",
+      "reintroduction": "Reiniciar tras estabilización clínica y hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Luspatercept",
+      "nomeComercial": "Reblozyl",
+      "mecanismoAcao": "Ligando del TGF-β que estimula la maduración eritroide tardía",
+      "farmacocinetica": "Administración SC; vida media ~11 días; metabolismo proteolítico",
+      "farmacodinamica": "Aumenta Hb y reduce necesidad transfusional en anemia crónica",
+      "indicacoes": "Síndromes mielodisplásicos (MDS) de bajo riesgo, β-talasemia dependiente de transfusión",
+      "reacoesAdversas": "Fatiga, cefalea, dolor óseo, diarrea, náuseas, hipertensión, trombosis",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "Desconocido; no recomendado",
+      "administracao": "Subcutánea (abdomen, muslo, brazo)",
+      "doseMaxima": "1,75mg/kg cada 3 semanas",
+      "doseMinima": "1mg/kg",
+      "classificacao": "Agente estimulante de maduración eritroide",
+      "apresentacao": "Polvo liofilizado para reconstitución: 25mg, 75mg",
+      "interacaoMedicamento": "No se han reportado interacciones relevantes",
+      "posologia": "1mg/kg cada 3 semanas; ajustar según Hb",
+      "armazenamento": "Refrigerado (2–8°C); usar en 8h tras reconstitución",
+      "preparo": "Reconstituir con agua estéril; girar suavemente, no agitar",
+      "solucoesCompatíveis": "Agua estéril para inyección",
+      "contraindicacoes": "Embarazo, hipersensibilidad, trombosis no controlada",
+      "cuidadosMedicos": "Controlar Hb, PA y eventos trombóticos",
+      "cuidadosFarmaceuticos": "Verificar reconstitución y estabilidad",
+      "cuidadosEnfermagem": "Observar reacciones locales, trombosis, hipertensión",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "鲁帕特赛普",
+      "suspension": "手术前7天停药，如有血栓或严重不良反应史",
+      "risk": "可引起高血压、血栓、骨痛、疲劳、腹泻",
+      "reintroduction": "术后稳定后可由医生评估恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "鲁帕特赛普",
+      "nomeComercial": "Reblozyl",
+      "mecanismoAcao": "TGF-β配体陷阱，促进晚期红系成熟",
+      "farmacocinetica": "皮下注射；半衰期约11天；蛋白水解代谢",
+      "farmacodinamica": "提高血红蛋白，减少慢性贫血患者输血需求",
+      "indicacoes": "低危MDS伴铁粒幼红细胞、输血依赖性β地中海贫血",
+      "reacoesAdversas": "乏力、头痛、骨痛、腹泻、恶心、高血压、血栓",
+      "riscoGravidez": "X类 – 禁用（致畸性）",
+      "riscoLactacao": "不推荐，安全性未知",
+      "administracao": "皮下注射（腹部、大腿或上臂）",
+      "doseMaxima": "每3周1.75mg/kg",
+      "doseMinima": "1mg/kg",
+      "classificacao": "红系成熟刺激剂（TGF-β调节剂）",
+      "apresentacao": "冻干粉针：25mg、75mg",
+      "interacaoMedicamento": "暂无重要药物相互作用报告",
+      "posologia": "初始剂量1mg/kg，每3周一次，根据Hb调整",
+      "armazenamento": "2–8°C冷藏，复溶后8小时内使用",
+      "preparo": "注入无菌水轻轻旋转混匀，不可摇晃",
+      "solucoesCompatíveis": "注射用无菌水",
+      "contraindicacoes": "妊娠、过敏、活动性血栓",
+      "cuidadosMedicos": "监测血红蛋白、血压及血栓风险",
+      "cuidadosFarmaceuticos": "确保正确重构并核查有效期",
+      "cuidadosEnfermagem": "观察注射反应、高血压和血栓症状",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

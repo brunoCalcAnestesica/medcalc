@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Terbinafina",
+      "suspension": "Suspender 48 horas antes de cirurgia eletiva de médio/grande porte",
+      "risk": "Hepatotoxicidade, alteração no paladar e interação com anestésicos metabolizados por CYP2D6",
+      "reintroduction": "Reintroduzir após normalização da função hepática e tolerância oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Terbinafina",
+      "nomeComercial": "Zalain, Lamisil",
+      "mecanismoAcao": "Inibe a esqualeno epoxidase, levando à depleção de ergosterol e acúmulo de esqualeno tóxico à célula fúngica",
+      "farmacocinetica": "Alta biodisponibilidade oral (~40%); metabolização hepática; meia-vida de eliminação ~36h",
+      "farmacodinamica": "Fungicida contra dermatófitos; fungistático contra leveduras",
+      "indicacoes": "Tinea corporis, pedis, cruris, onicomicose, pitiríase versicolor",
+      "reacoesAdversas": "Náusea, alteração no paladar, hepatite, rash, urticária",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Evitar durante uso sistêmico",
+      "administracao": "Oral ou tópica",
+      "doseMaxima": "250mg/dia (oral)",
+      "doseMinima": "125mg/dia (ajuste em idosos ou hepatopatas)",
+      "classificacao": "Alilamina antifúngica",
+      "apresentacao": "Comprimidos 250mg; creme 1%",
+      "interacaoMedicamento": "Inibe CYP2D6; interage com antidepressivos tricíclicos, beta-bloqueadores e tamoxifeno",
+      "posologia": "250mg/dia por 2–12 semanas (VO); 1x/dia por 1–4 semanas (tópico)",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, hepatopatia ativa ou crônica descompensada",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas se uso prolongado",
+      "cuidadosFarmaceuticos": "Orientar início com função hepática basal normal",
+      "cuidadosEnfermagem": "Observar icterícia, urina escura, fezes claras, prurido",
+      "fontesBibliograficas": "Micromedex, ANVISA, FDA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Terbinafine",
+      "suspension": "Discontinue 48h prior to elective surgery",
+      "risk": "Hepatotoxicity, taste disturbances, interaction with CYP2D6 substrates",
+      "reintroduction": "Restart after hepatic recovery and oral tolerance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Terbinafine hydrochloride",
+      "nomeComercial": "Lamisil",
+      "mecanismoAcao": "Inhibits squalene epoxidase, depleting ergosterol and accumulating toxic squalene",
+      "farmacocinetica": "40% oral bioavailability; hepatic metabolism; t½ ~36h",
+      "farmacodinamica": "Fungicidal vs dermatophytes; fungistatic vs yeasts",
+      "indicacoes": "Tinea, onychomycosis, pityriasis versicolor",
+      "reacoesAdversas": "Nausea, taste loss, liver injury, rash, urticaria",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Avoid during systemic use",
+      "administracao": "Oral or topical",
+      "doseMaxima": "250mg/day",
+      "doseMinima": "125mg/day (elderly/liver impaired)",
+      "classificacao": "Allylamine antifungal",
+      "apresentacao": "250mg tablets; 1% cream",
+      "interacaoMedicamento": "Inhibits CYP2D6; interacts with tricyclics, beta-blockers, tamoxifen",
+      "posologia": "250mg daily for 2–12 weeks (PO); topical 1x/d for 1–4 weeks",
+      "armazenamento": "Store at room temperature",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active/chronic liver disease, hypersensitivity",
+      "cuidadosMedicos": "Monitor LFTs during prolonged therapy",
+      "cuidadosFarmaceuticos": "Ensure hepatic function prior to therapy",
+      "cuidadosEnfermagem": "Watch for jaundice, dark urine, pale stools, itching",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Terbinafina",
+      "suspension": "Suspender 48h antes de cirugía electiva",
+      "risk": "Hepatotoxicidad, alteraciones gustativas, interacción con fármacos CYP2D6",
+      "reintroduction": "Reiniciar tras recuperación hepática y tolerancia oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Terbinafina",
+      "nomeComercial": "Lamisil",
+      "mecanismoAcao": "Inhibe escualeno epoxidasa, disminuyendo ergosterol y acumulando escualeno tóxico",
+      "farmacocinetica": "Biodisponibilidad oral 40%; metabolismo hepático; vida media ~36h",
+      "farmacodinamica": "Fungicida frente a dermatofitos, fungistático en levaduras",
+      "indicacoes": "Tinea, onicomicosis, pitiriasis versicolor",
+      "reacoesAdversas": "Náusea, pérdida del gusto, hepatitis, exantema",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar en uso sistémico",
+      "administracao": "Oral o tópica",
+      "doseMaxima": "250mg/día",
+      "doseMinima": "125mg/día",
+      "classificacao": "Antifúngico alilamina",
+      "apresentacao": "Comprimidos 250mg; crema 1%",
+      "interacaoMedicamento": "Inhibe CYP2D6; interactúa con beta-bloqueadores, tricíclicos, tamoxifeno",
+      "posologia": "250mg/día durante 2–12 semanas VO; 1 vez/día tópico",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía activa, hipersensibilidad",
+      "cuidadosMedicos": "Monitorizar hepatograma si uso prolongado",
+      "cuidadosFarmaceuticos": "Verificar función hepática antes de iniciar",
+      "cuidadosEnfermagem": "Observar ictericia, prurito, síntomas digestivos",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "特比萘芬",
+      "suspension": "择期手术前48小时停药",
+      "risk": "肝毒性、味觉障碍、CYP2D6药物相互作用",
+      "reintroduction": "术后肝功能稳定、可口服后再用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "特比萘芬",
+      "nomeComercial": "Lamisil",
+      "mecanismoAcao": "抑制角鲨烯环氧化酶，减少真菌膜中麦角固醇合成",
+      "farmacocinetica": "口服生物利用度约40%；肝代谢；半衰期约36小时",
+      "farmacodinamica": "对皮肤癣菌有杀菌作用，对酵母菌具抑菌性",
+      "indicacoes": "手足癣、股癣、甲癣、花斑癣",
+      "reacoesAdversas": "恶心、味觉障碍、肝酶升高、皮疹、荨麻疹",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "系统使用应避免",
+      "administracao": "口服或外用",
+      "doseMaxima": "每日250mg",
+      "doseMinima": "每日125mg",
+      "classificacao": "丙烯胺类抗真菌药",
+      "apresentacao": "250mg片剂、1%乳膏",
+      "interacaoMedicamento": "抑制CYP2D6，与β阻滞剂、三环类抗抑郁药、他莫昔芬等有相互作用",
+      "posologia": "口服每日250mg，疗程2–12周；外用每日1次",
+      "armazenamento": "室温保存",
+      "preparo": "无需配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肝病、过敏",
+      "cuidadosMedicos": "使用前监测肝功能",
+      "cuidadosFarmaceuticos": "教育患者遵循疗程，避免同时用抑制/诱导CYP2D6药物",
+      "cuidadosEnfermagem": "注意黄疸、肝区痛、消化道症状、皮肤反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

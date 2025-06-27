@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido Ferroso (Sulfato Ferroso)",
+      "suspension": "Suspender 1 dia antes de cirurgia digestiva ou se houver intolerância gástrica significativa",
+      "risk": "Pode causar náuseas, irritação gástrica, constipação e escurecimento das fezes. Risco mínimo em cirurgias sem manipulação gastrointestinal.",
+      "reintroduction": "Reintroduzir após normalização da dieta oral e ausência de náuseas/vômitos. Preferir reinício após 48h se via digestiva estiver íntegra."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato Ferroso",
+      "nomeComercial": "Noripurum, Ferronat, Neutrofer, Hemofol",
+      "mecanismoAcao": "Fornece ferro elementar para síntese de hemoglobina, mioglobina e enzimas oxidativas",
+      "farmacocinetica": "Absorção no duodeno e jejuno proximal; biodisponibilidade aumenta com jejum e acidez gástrica; excreção fecal",
+      "farmacodinamica": "Corrige deficiência de ferro e estimula eritropoiese",
+      "indicacoes": "Anemia ferropriva por carência nutricional, perdas crônicas ou gestação",
+      "reacoesAdversas": "Náuseas, dor abdominal, escurecimento das fezes, constipação, diarreia, vômitos",
+      "riscoGravidez": "Categoria A (uso seguro na gestação)",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Via oral, de preferência em jejum ou com suco cítrico",
+      "doseMaxima": "200 mg de ferro elementar por dia",
+      "doseMinima": "30–60 mg de ferro elementar/dia",
+      "classificacao": "Repositor oral de ferro – sais ferrosos",
+      "apresentacao": "Comprimidos ou cápsulas com 40–65 mg de ferro elementar",
+      "interacaoMedicamento": "Interage com antiácidos, laticínios, tetraciclinas, fluoroquinolonas e levodopa",
+      "posologia": "Dose usual: 2 a 3 vezes ao dia por 3–6 meses ou até normalizar ferritina",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hemocromatose, anemias não ferroprivas, intolerância severa ao ferro oral",
+      "cuidadosMedicos": "Monitorar hemograma, ferritina e TSAT durante o uso",
+      "cuidadosFarmaceuticos": "Orientar para não tomar com leite, chá ou antiácidos",
+      "cuidadosEnfermagem": "Observar efeitos gastrointestinais e adesão terapêutica",
+      "fontesBibliograficas": "ANVISA, SBH, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ferrous Sulfate",
+      "suspension": "Hold 1 day prior to GI surgery or if significant gastric intolerance",
+      "risk": "May cause GI upset, dark stools, constipation. Minimal risk in surgeries without GI manipulation.",
+      "reintroduction": "Resume once oral intake is stable and nausea/vomiting resolved (usually after 48h)."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ferrous Sulfate",
+      "nomeComercial": "Feosol, Slow Fe, Fer-In-Sol, FeroSul",
+      "mecanismoAcao": "Provides elemental iron for hemoglobin and enzymatic functions",
+      "farmacocinetica": "Absorbed in duodenum/jejunum; increased with acidity and fasting; fecal elimination",
+      "farmacodinamica": "Restores iron stores and stimulates red blood cell production",
+      "indicacoes": "Iron deficiency anemia due to diet, bleeding, or pregnancy",
+      "reacoesAdversas": "Nausea, constipation, abdominal pain, vomiting, dark stools",
+      "riscoGravidez": "Category A (safe in pregnancy)",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "Oral; best on empty stomach or with vitamin C",
+      "doseMaxima": "200 mg elemental iron/day",
+      "doseMinima": "30–60 mg/day",
+      "classificacao": "Oral iron supplement – ferrous salt",
+      "apresentacao": "Tablets or capsules (40–65 mg elemental iron)",
+      "interacaoMedicamento": "Interacts with antacids, dairy, tetracyclines, fluoroquinolones, levodopa",
+      "posologia": "Typically 1–3 doses daily for 3–6 months or until ferritin normalizes",
+      "armazenamento": "Store at 15–30°C, protect from light/moisture",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hemochromatosis, non-iron deficiency anemias, intolerance to oral iron",
+      "cuidadosMedicos": "Monitor CBC, ferritin, and TSAT",
+      "cuidadosFarmaceuticos": "Avoid use with dairy or antacids; ensure adherence",
+      "cuidadosEnfermagem": "Watch for GI side effects; encourage hydration",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, ASH"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sulfato Ferroso",
+      "suspension": "Suspender 1 día antes de cirugía digestiva o si hay intolerancia gastrointestinal",
+      "risk": "Puede causar náuseas, dolor abdominal, constipación y heces oscuras. Riesgo bajo si no hay manipulación gastrointestinal.",
+      "reintroduction": "Reanudar tras recuperación de la vía oral (habitualmente 48h postoperatorio)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato Ferroso",
+      "nomeComercial": "Ferogradumet, Ferrosanol, Tardyferon",
+      "mecanismoAcao": "Aporta hierro para síntesis de hemoglobina y mioglobina",
+      "farmacocinetica": "Absorción intestinal proximal; mayor en ayunas; excreción fecal",
+      "farmacodinamica": "Reconstituye reservas férricas y corrige anemia ferropénica",
+      "indicacoes": "Anemia ferropénica por deficiencia, embarazo o sangrados crónicos",
+      "reacoesAdversas": "Náuseas, constipación, vómitos, dolor epigástrico, heces negras",
+      "riscoGravidez": "Categoría A (seguro en embarazo)",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "Oral, preferentemente con jugo cítrico o en ayunas",
+      "doseMaxima": "200 mg/día hierro elemental",
+      "doseMinima": "30–60 mg/día",
+      "classificacao": "Suplemento oral de hierro – sal ferrosa",
+      "apresentacao": "Comprimidos 40–65 mg hierro elemental",
+      "interacaoMedicamento": "Disminuye absorción con leche, antiácidos, tetraciclinas, quinolonas",
+      "posologia": "1 a 3 tomas al día por 3–6 meses o hasta normalizar ferritina",
+      "armazenamento": "15–30°C, protegido de luz y humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hemocromatosis, anemias no ferropénicas, intolerancia severa",
+      "cuidadosMedicos": "Controlar hemograma, ferritina y saturación de transferrina",
+      "cuidadosFarmaceuticos": "Evitar tomar con leche o antiácidos",
+      "cuidadosEnfermagem": "Observar efectos gastrointestinales",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硫酸亚铁",
+      "suspension": "消化道手术或胃肠不适时术前一天停药",
+      "risk": "可能引起胃肠道不适、便秘、黑便；术中风险极低",
+      "reintroduction": "术后恢复进食后（约48小时）即可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硫酸亚铁",
+      "nomeComercial": "Feosol, Fer-In-Sol, 铁之缘",
+      "mecanismoAcao": "提供可利用铁用于合成血红蛋白",
+      "farmacocinetica": "空腹吸收较好，小肠上段吸收，粪便排泄",
+      "farmacodinamica": "补充铁储备，纠正缺铁性贫血",
+      "indicacoes": "缺铁性贫血、妊娠、慢性失血后贫血",
+      "reacoesAdversas": "恶心、便秘、呕吐、腹痛、黑便",
+      "riscoGravidez": "A类（孕期安全）",
+      "riscoLactacao": "哺乳期可用",
+      "administracao": "口服，建议空腹或与维C同服",
+      "doseMaxima": "每日200毫克元素铁",
+      "doseMinima": "每日30–60毫克",
+      "classificacao": "口服补铁剂 – 亚铁盐类",
+      "apresentacao": "片剂或胶囊，每片含40–65毫克元素铁",
+      "interacaoMedicamento": "与牛奶、抗酸药、四环素类、喹诺酮类相互作用",
+      "posologia": "每日1–3次，疗程3–6个月",
+      "armazenamento": "15–30°C，避光避湿",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "血色病、非缺铁性贫血、严重胃肠不耐受",
+      "cuidadosMedicos": "监测CBC、铁蛋白、转铁饱和度",
+      "cuidadosFarmaceuticos": "避免与乳制品和抗酸药同服",
+      "cuidadosEnfermagem": "观察胃肠不适及患者依从性",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、WHO"
+    }
+  }
+}

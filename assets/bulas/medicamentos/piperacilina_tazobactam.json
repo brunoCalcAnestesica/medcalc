@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Piperacilina + Tazobactam",
+      "suspension": "Não requer suspensão antes de cirurgia eletiva",
+      "risk": "Antibiótico seguro perioperatoriamente; risco de reação alérgica, diarreia, disfunção renal e trombocitopenia em uso prolongado",
+      "reintroduction": "Pode ser mantido ou reintroduzido conforme indicação clínica e função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piperacilina + Tazobactam",
+      "nomeComercial": "Tazocin, Pipzo, Zerbaxa",
+      "mecanismoAcao": "Piperacilina inibe síntese da parede bacteriana (penicilina de amplo espectro) e tazobactam inibe β-lactamases, ampliando o espectro de ação",
+      "farmacocinetica": "Administração IV; meia-vida ~1h; excreção renal predominante",
+      "farmacodinamica": "Bactericida contra Gram-positivos, Gram-negativos e anaeróbios; eficaz em infecções graves polimicrobianas",
+      "indicacoes": "Pneumonia hospitalar, infecções intra-abdominais, ITU complicadas, sepse, neutropenia febril",
+      "reacoesAdversas": "Diarréia, náuseas, rash, trombocitopenia, aumento de creatinina, hipocalemia, reação anafilática (rara)",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excretado em pequenas quantidades; uso permitido com cautela",
+      "administracao": "Intravenosa",
+      "doseMaxima": "4,5 g a cada 6h (18 g/dia)",
+      "doseMinima": "2,25 g a cada 8h",
+      "classificacao": "Antibiótico β-lactâmico com inibidor de β-lactamase",
+      "apresentacao": "Frascos de 2,25 g (2 g + 0,25 g) ou 4,5 g (4 g + 0,5 g) para reconstituição IV",
+      "interacaoMedicamento": "Cautela com vancomicina, aminoglicosídeos, anticoagulantes e fármacos nefrotóxicos",
+      "posologia": "3,375–4,5 g IV a cada 6–8h por 30 min; ajustar em insuficiência renal",
+      "armazenamento": "Pó armazenado à temperatura ambiente; solução reconstituída deve ser usada em até 24h refrigerada",
+      "preparo": "Diluir com água estéril e diluente compatível (SG 5% ou SF 0,9%)",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Alergia a penicilinas ou cefalosporinas",
+      "cuidadosMedicos": "Monitorar função renal, eletrólitos, sinais de superinfecção",
+      "cuidadosFarmaceuticos": "Verificar compatibilidade e estabilidade; atentar a diluição e tempo de infusão",
+      "cuidadosEnfermagem": "Observar reações infusionais, rash, balanço hídrico e eletrólitos",
+      "fontesBibliograficas": "Micromedex, UpToDate, ANVISA, bula Tazocin"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Piperacillin + Tazobactam",
+      "suspension": "No need to suspend before elective surgery",
+      "risk": "Safe perioperatively; risks include allergic reaction, diarrhea, renal dysfunction, and thrombocytopenia with prolonged use",
+      "reintroduction": "Can be continued or resumed based on clinical indication and renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piperacillin + Tazobactam",
+      "nomeComercial": "Zosyn, Tazocin",
+      "mecanismoAcao": "Piperacillin inhibits bacterial cell wall synthesis; tazobactam inhibits β-lactamases, broadening spectrum",
+      "farmacocinetica": "IV administration; half-life ~1h; mainly renal excretion",
+      "farmacodinamica": "Bactericidal against Gram-positive, Gram-negative, and anaerobes; used in polymicrobial infections",
+      "indicacoes": "Hospital-acquired pneumonia, intra-abdominal infections, complicated UTIs, sepsis, febrile neutropenia",
+      "reacoesAdversas": "Diarrhea, nausea, rash, thrombocytopenia, elevated creatinine, hypokalemia, rare anaphylaxis",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Excreted in small amounts; considered safe",
+      "administracao": "Intravenous",
+      "doseMaxima": "4.5 g q6h (18 g/day)",
+      "doseMinima": "2.25 g q8h",
+      "classificacao": "β-lactam antibiotic with β-lactamase inhibitor",
+      "apresentacao": "Vials: 2.25 g (2+0.25), 4.5 g (4+0.5) for IV use",
+      "interacaoMedicamento": "Caution with vancomycin, aminoglycosides, anticoagulants, nephrotoxics",
+      "posologia": "3.375–4.5 g IV q6–8h over 30 min; adjust for renal impairment",
+      "armazenamento": "Room temperature as powder; reconstituted: refrigerate and use within 24h",
+      "preparo": "Dilute with sterile water and compatible diluent (D5W or NS)",
+      "solucoesCompatíveis": "D5W, 0.9% NaCl",
+      "contraindicacoes": "Allergy to penicillins or cephalosporins",
+      "cuidadosMedicos": "Monitor renal function, electrolytes, signs of superinfection",
+      "cuidadosFarmaceuticos": "Verify stability and compatibility; ensure correct dilution and infusion time",
+      "cuidadosEnfermagem": "Monitor for infusion reactions, rash, fluid balance, electrolytes",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Zosyn PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Piperacilina + Tazobactam",
+      "suspension": "No requiere suspensión antes de cirugía electiva",
+      "risk": "Seguro en el perioperatorio; riesgo de alergia, diarrea, disfunción renal y trombocitopenia si uso prolongado",
+      "reintroduction": "Puede mantenerse o reiniciarse según función renal y condición clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piperacilina + Tazobactam",
+      "nomeComercial": "Tazocin, Zosyn",
+      "mecanismoAcao": "Piperacilina inhibe la síntesis de la pared bacteriana; tazobactam inhibe β-lactamasas",
+      "farmacocinetica": "IV; vida media ~1h; excreción renal",
+      "farmacodinamica": "Bactericida frente a Gram+, Gram− y anaerobios; útil en infecciones mixtas graves",
+      "indicacoes": "Neumonía nosocomial, infecciones intraabdominales, ITU complicadas, sepsis, neutropenia febril",
+      "reacoesAdversas": "Diarrea, náuseas, rash, trombocitopenia, creatinina elevada, hipopotasemia, anafilaxia rara",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Se excreta en pequeñas cantidades; uso seguro",
+      "administracao": "Intravenosa",
+      "doseMaxima": "4.5 g cada 6 h (18 g/día)",
+      "doseMinima": "2.25 g cada 8 h",
+      "classificacao": "Antibiótico β-lactámico + inhibidor de β-lactamasa",
+      "apresentacao": "Frascos de 2.25 g (2+0.25) y 4.5 g (4+0.5) IV",
+      "interacaoMedicamento": "Precaución con vancomicina, aminoglucósidos, anticoagulantes y nefrotóxicos",
+      "posologia": "3.375–4.5 g IV cada 6–8 h por 30 min; ajustar en IR",
+      "armazenamento": "Polvo a temperatura ambiente; reconstituido: refrigerar y usar en 24 h",
+      "preparo": "Diluir en agua estéril + DAD 5% o SF 0,9%",
+      "solucoesCompatíveis": "DAD 5%, SF 0,9%",
+      "contraindicacoes": "Alergia a penicilinas o cefalosporinas",
+      "cuidadosMedicos": "Monitorear función renal, electrolitos e infecciones secundarias",
+      "cuidadosFarmaceuticos": "Verificar compatibilidad y dilución correcta",
+      "cuidadosEnfermagem": "Vigilar reacciones locales, equilibrio hídrico, electrolitos",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Tazocin"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "哌拉西林/他唑巴坦",
+      "suspension": "择期手术前无需停药",
+      "risk": "围手术期安全；可能引起过敏、腹泻、肾功能异常和血小板减少（长期使用）",
+      "reintroduction": "术后根据肾功能和感染情况决定是否继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "哌拉西林 + 他唑巴坦",
+      "nomeComercial": "Tazocin, Zosyn",
+      "mecanismoAcao": "哌拉西林为广谱青霉素类抗生素；他唑巴坦抑制β-内酰胺酶",
+      "farmacocinetica": "静脉注射；半衰期~1小时；主要经肾排泄",
+      "farmacodinamica": "抗革兰阳性、阴性及厌氧菌；适用于重症混合感染",
+      "indicacoes": "医院获得性肺炎、腹腔感染、复杂性尿感、脓毒症、中性粒细胞减少伴热",
+      "reacoesAdversas": "腹泻、皮疹、血小板减少、肌酐升高、低钾血症、罕见过敏",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "少量分泌入乳汁，可慎用",
+      "administracao": "静脉注射",
+      "doseMaxima": "每6小时4.5克（每日最大18克）",
+      "doseMinima": "每8小时2.25克",
+      "classificacao": "β-内酰胺类抗生素联合β-内酰胺酶抑制剂",
+      "apresentacao": "粉针：2.25g（2+0.25）/4.5g（4+0.5）",
+      "interacaoMedicamento": "与万古霉素、氨基糖苷、抗凝药、肾毒性药物合用需谨慎",
+      "posologia": "每6–8小时静滴3.375–4.5克30分钟；肾功能不全需调整剂量",
+      "armazenamento": "粉剂常温；复溶液冷藏可保存24小时",
+      "preparo": "用注射用水稀释，配合D5W或NS使用",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "青霉素/头孢菌素过敏者禁用",
+      "cuidadosMedicos": "监测肾功能、电解质、继发感染",
+      "cuidadosFarmaceuticos": "稀释后及时使用，注意药物配伍",
+      "cuidadosEnfermagem": "观察输液反应、液体出入量、电解质",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Tazocin说明书"
+    }
+  }
+}

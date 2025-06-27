@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Baricitinibe",
+      "suspension": "Suspender 3 a 5 dias antes da cirurgia eletiva, conforme risco infeccioso e de cicatrização",
+      "risk": "Risco aumentado de infecção, trombose e atraso na cicatrização; pode interagir com corticoterapia",
+      "reintroduction": "Reintroduzir após adequada cicatrização e ausência de infecção ativa, com avaliação reumatológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Baricitinibe",
+      "nomeComercial": "Olumiant",
+      "mecanismoAcao": "Inibidor seletivo da Janus quinase 1 e 2 (JAK1/JAK2), bloqueando sinalização de citocinas inflamatórias",
+      "farmacocinetica": "Biodisponibilidade oral ~80%, pico plasmático em ~1h, meia-vida 12 h, excreção renal e hepática",
+      "farmacodinamica": "Reduz atividade inflamatória e respostas autoimunes ao modular vias JAK-STAT",
+      "indicacoes": "Artrite reumatoide, dermatite atópica, COVID-19 grave (uso hospitalar), alopecia areata",
+      "reacoesAdversas": "Infecções respiratórias, herpes zoster, trombose venosa, linfopenia, aumento de transaminases, dislipidemia",
+      "riscoGravidez": "Categoria C – evitar uso; dados limitados em humanos",
+      "riscoLactacao": "Desconhecido; não recomendado durante lactação",
+      "administracao": "Oral",
+      "doseMaxima": "4 mg/dia",
+      "doseMinima": "1 mg/dia (ajustada por função renal e comorbidades)",
+      "classificacao": "Imunomodulador, inibidor de JAK",
+      "apresentacao": "Comprimidos revestidos de 1 mg, 2 mg e 4 mg",
+      "interacaoMedicamento": "Evitar uso concomitante com outros imunossupressores potentes (biológicos, metotrexato em altas doses); interação com probenecida, inibidores da OAT3",
+      "posologia": "2 a 4 mg/dia VO, dose única diária; ajuste conforme função renal e perfil de risco",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecção ativa grave, gravidez, imunodeficiência grave não controlada, tuberculose ativa",
+      "cuidadosMedicos": "Avaliar risco trombótico e infeccioso antes da introdução; rastreio de TB e hepatite; suspender em cirurgias maiores",
+      "cuidadosFarmaceuticos": "Atenção a interações medicamentosas; orientação quanto à adesão e sinais de infecção",
+      "cuidadosEnfermagem": "Observar sinais de infecção, dor em panturrilhas (trombose), febre persistente",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, UpToDate, BSR Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Baricitinib",
+      "suspension": "Hold 3 to 5 days before elective surgery depending on infection and healing risk",
+      "risk": "Increased risk of infection, thrombosis, and delayed healing; interaction with corticosteroids possible",
+      "reintroduction": "Restart after complete wound healing and absence of active infection with rheumatology guidance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Baricitinib",
+      "nomeComercial": "Olumiant",
+      "mecanismoAcao": "Selective JAK1 and JAK2 inhibitor that blocks cytokine signaling through the JAK-STAT pathway",
+      "farmacocinetica": "Oral bioavailability ~80%, Tmax ~1h, half-life 12h, renal and hepatic excretion",
+      "farmacodinamica": "Reduces inflammatory and autoimmune responses by modulating cytokine signaling",
+      "indicacoes": "Rheumatoid arthritis, severe COVID-19 (in hospitalized patients), atopic dermatitis, alopecia areata",
+      "reacoesAdversas": "Upper respiratory infections, herpes zoster, DVT/PE, lymphopenia, elevated liver enzymes, hyperlipidemia",
+      "riscoGravidez": "Category C – avoid use, limited human data",
+      "riscoLactacao": "Not recommended; unknown excretion in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "4 mg/day",
+      "doseMinima": "1 mg/day (renal-adjusted)",
+      "classificacao": "Immunomodulator, JAK inhibitor",
+      "apresentacao": "Film-coated tablets: 1 mg, 2 mg, 4 mg",
+      "interacaoMedicamento": "Avoid with biologics or potent immunosuppressants; interacts with OAT3 inhibitors like probenecid",
+      "posologia": "2–4 mg PO once daily; dose adjustment for renal impairment or risk profile",
+      "armazenamento": "Store at room temperature (15–30°C), protect from moisture and light",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active serious infection, pregnancy, uncontrolled immunodeficiency, active TB",
+      "cuidadosMedicos": "Screen for TB, hepatitis, and thrombotic risks before initiating; discontinue for major surgery",
+      "cuidadosFarmaceuticos": "Monitor drug interactions and adherence; educate on infection signs",
+      "cuidadosEnfermagem": "Monitor for fever, infection, DVT symptoms (leg swelling/pain)",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, ACR Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Baricitinib",
+      "suspension": "Suspender de 3 a 5 días antes de cirugía electiva según riesgo infeccioso y de cicatrización",
+      "risk": "Riesgo elevado de infección, trombosis y mala cicatrización; puede interactuar con corticosteroides",
+      "reintroduction": "Reintroducir tras cicatrización adecuada y sin infección activa, idealmente con reumatología"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Baricitinib",
+      "nomeComercial": "Olumiant",
+      "mecanismoAcao": "Inhibidor selectivo de JAK1 y JAK2 que bloquea la señalización de citoquinas",
+      "farmacocinetica": "Biodisponibilidad oral ~80%, Tmax ~1h, vida media 12h, excreción renal y hepática",
+      "farmacodinamica": "Reduce la inflamación y la autoinmunidad al modular las vías de señalización de citoquinas",
+      "indicacoes": "Artritis reumatoide, COVID-19 severo, dermatitis atópica, alopecia areata",
+      "reacoesAdversas": "Infecciones respiratorias, herpes zóster, trombosis venosa, linfopenia, dislipidemia, aumento de enzimas hepáticas",
+      "riscoGravidez": "Categoría C – evitar su uso",
+      "riscoLactacao": "Desaconsejado; se desconoce si se excreta por leche",
+      "administracao": "Oral",
+      "doseMaxima": "4 mg/día",
+      "doseMinima": "1 mg/día (ajustada por función renal)",
+      "classificacao": "Inmunomodulador, inhibidor de JAK",
+      "apresentacao": "Comprimidos recubiertos de 1, 2 y 4 mg",
+      "interacaoMedicamento": "Evitar con inmunosupresores potentes; interacción con inhibidores de OAT3",
+      "posologia": "2–4 mg VO 1 vez al día; ajustar según perfil de riesgo",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de luz y humedad",
+      "preparo": "Sin preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infección activa grave, embarazo, inmunosupresión severa, TB activa",
+      "cuidadosMedicos": "Evaluar riesgos infecciosos y trombóticos antes de iniciar",
+      "cuidadosFarmaceuticos": "Educación sobre adherencia y signos de infección",
+      "cuidadosEnfermagem": "Observar fiebre persistente, dolor en piernas, signos de infección",
+      "fontesBibliograficas": "EMA, AEMPS, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "巴瑞替尼",
+      "suspension": "择期手术前应停药3–5天，依据感染与愈合风险",
+      "risk": "增加感染、血栓与愈合延迟风险；与糖皮质激素可能协同",
+      "reintroduction": "术后伤口愈合良好且无活动性感染后，在风湿科评估下恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "巴瑞替尼",
+      "nomeComercial": "Olumiant",
+      "mecanismoAcao": "选择性抑制JAK1/JAK2，阻断细胞因子JAK-STAT信号通路",
+      "farmacocinetica": "口服生物利用度约80%，达峰约1小时，半衰期12小时，经肾与肝排泄",
+      "farmacodinamica": "通过抑制炎症通路减少免疫系统活性",
+      "indicacoes": "类风湿关节炎、重症COVID-19、特应性皮炎、斑秃",
+      "reacoesAdversas": "上呼吸道感染、带状疱疹、血栓、淋巴细胞减少、转氨酶升高、血脂异常",
+      "riscoGravidez": "C类 – 不推荐怀孕期使用",
+      "riscoLactacao": "不推荐哺乳期使用",
+      "administracao": "口服",
+      "doseMaxima": "每日4毫克",
+      "doseMinima": "每日1毫克（根据肾功能调整）",
+      "classificacao": "免疫调节剂，JAK抑制剂",
+      "apresentacao": "片剂：1 mg, 2 mg, 4 mg",
+      "interacaoMedicamento": "避免与生物制剂或强免疫抑制剂合用；与OAT3抑制剂（如丙磺舒）相互作用",
+      "posologia": "每日口服2–4毫克，个体化调整",
+      "armazenamento": "室温保存（15–30°C），避光避潮",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性感染、妊娠、严重免疫缺陷、活动性结核",
+      "cuidadosMedicos": "治疗前筛查TB和肝炎，评估血栓风险",
+      "cuidadosFarmaceuticos": "注意药物相互作用与依从性",
+      "cuidadosEnfermagem": "监测感染迹象、持续发热、下肢肿胀",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex、EMA"
+    }
+  }
+}

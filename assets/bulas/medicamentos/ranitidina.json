@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ranitidina",
+      "suspension": "Suspender 24h antes de cirurgias gastrintestinais eletivas",
+      "risk": "Potencial risco de interações com anestésicos e alteração do pH gástrico; alguns lotes retirados do mercado por impurezas (NDMA)",
+      "reintroduction": "Reintroduzir apenas se necessário e após avaliação de risco-benefício"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ranitidina",
+      "nomeComercial": "Antak, Label, Ranitil",
+      "mecanismoAcao": "Antagonista do receptor H2 da histamina; reduz a secreção ácida gástrica",
+      "farmacocinetica": "Boa absorção oral; início de ação: 1–3h; T½: 2–3h; excreção renal",
+      "farmacodinamica": "Diminui acidez gástrica basal e induzida; alívio de sintomas e cicatrização de úlceras",
+      "indicacoes": "Úlcera gástrica/duodenal, esofagite de refluxo, dispepsia funcional, prevenção de úlceras por AINEs",
+      "reacoesAdversas": "Cefaleia, diarreia, constipação, exantema, alterações hepáticas, raramente bradicardia ou ginecomastia",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excreta-se no leite; uso com cautela",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "300 mg/dia",
+      "doseMinima": "75 mg/dia",
+      "classificacao": "Antagonista H2 – antiácido",
+      "apresentacao": "Comprimidos 75 mg, 150 mg, 300 mg; solução injetável 25 mg/mL",
+      "interacaoMedicamento": "Reduz absorção de cetoconazol, atazanavir, e outros fármacos dependentes de pH ácido",
+      "posologia": "150 mg 2x/dia ou 300 mg à noite; IV: 50 mg a cada 6–8h",
+      "armazenamento": "Temperatura ambiente, ao abrigo da luz",
+      "preparo": "Uso direto ou diluição para IV",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade à ranitidina, porfiria aguda",
+      "cuidadosMedicos": "Monitorar função hepática em uso prolongado",
+      "cuidadosFarmaceuticos": "Verificar validade e estabilidade de lotes antigos",
+      "cuidadosEnfermagem": "Observar resposta clínica e eventos adversos",
+      "fontesBibliograficas": "Micromedex, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ranitidine",
+      "suspension": "Discontinue 24h before elective gastrointestinal procedures",
+      "risk": "Potential interaction with anesthetics and altered gastric pH; withdrawn in US due to NDMA contamination concerns",
+      "reintroduction": "Use only after benefit-risk evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ranitidine",
+      "nomeComercial": "Zantac (withdrawn), generics",
+      "mecanismoAcao": "H2-receptor antagonist; decreases gastric acid secretion",
+      "farmacocinetica": "Oral bioavailability ~50%; onset: 1–3h; T½: 2–3h; renal clearance",
+      "farmacodinamica": "Inhibits basal and stimulated acid secretion; promotes ulcer healing",
+      "indicacoes": "Duodenal/gastric ulcers, GERD, Zollinger-Ellison syndrome, dyspepsia",
+      "reacoesAdversas": "Headache, diarrhea, rash, liver enzyme alterations, rare bradycardia or gynecomastia",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Caution; excreted in milk",
+      "administracao": "Oral or IV",
+      "doseMaxima": "300 mg/day",
+      "doseMinima": "75 mg/day",
+      "classificacao": "H2 antagonist – antacid",
+      "apresentacao": "Tablets 75, 150, 300 mg; IV 25 mg/mL",
+      "interacaoMedicamento": "Decreases absorption of ketoconazole, atazanavir, others",
+      "posologia": "150 mg BID or 300 mg QHS; IV: 50 mg q6–8h",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Direct or diluted IV use",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Allergy to ranitidine, acute porphyria",
+      "cuidadosMedicos": "Monitor liver function in prolonged use",
+      "cuidadosFarmaceuticos": "Do not dispense recalled lots",
+      "cuidadosEnfermagem": "Observe symptom relief and adverse reactions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ranitidina",
+      "suspension": "Suspender 24 h antes de procedimientos gastrointestinales programados",
+      "risk": "Interacción con anestesia; retirado del mercado en varios países por presencia de NDMA",
+      "reintroduction": "Solo tras evaluación riesgo-beneficio individual"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ranitidina",
+      "nomeComercial": "Zantac, genéricos",
+      "mecanismoAcao": "Antagonista de receptores H2; reduce secreción ácida gástrica",
+      "farmacocinetica": "Buena absorción; inicio: 1–3 h; T½: 2–3 h; eliminación renal",
+      "farmacodinamica": "Inhibe secreción ácida basal y estimulada; favorece cicatrización de úlceras",
+      "indicacoes": "Úlcera péptica, ERGE, dispepsia, síndrome de Zollinger-Ellison",
+      "reacoesAdversas": "Cefalea, diarrea, rash, alteraciones hepáticas, raramente bradicardia o ginecomastia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Precaución; se excreta en leche",
+      "administracao": "Oral o IV",
+      "doseMaxima": "300 mg/día",
+      "doseMinima": "75 mg/día",
+      "classificacao": "Anti-H2 – antiácido",
+      "apresentacao": "Comprimidos 75, 150, 300 mg; solución inyectable 25 mg/mL",
+      "interacaoMedicamento": "Disminuye absorción de ketoconazol, atazanavir, etc.",
+      "posologia": "150 mg 2x/día o 300 mg noche; IV: 50 mg c/6–8 h",
+      "armazenamento": "Ambiente fresco, protegido de luz",
+      "preparo": "Uso directo o diluido para IV",
+      "solucoesCompatíveis": "SF, SG 5%",
+      "contraindicacoes": "Alergia, porfiria aguda",
+      "cuidadosMedicos": "Controlar función hepática en tratamientos largos",
+      "cuidadosFarmaceuticos": "Verificar integridad y procedencia de lotes",
+      "cuidadosEnfermagem": "Monitorear alivio sintomático y reacciones adversas",
+      "fontesBibliograficas": "Micromedex, AEMPS, ficha técnica Zantac"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "雷尼替丁",
+      "suspension": "择期消化道手术前24小时停药",
+      "risk": "影响胃酸环境，可能干扰麻醉药代谢；部分批次含NDMA被召回",
+      "reintroduction": "术后评估风险后再决定是否重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "雷尼替丁（Ranitidine）",
+      "nomeComercial": "Zantac（已停售）",
+      "mecanismoAcao": "H2受体拮抗剂，抑制胃酸分泌",
+      "farmacocinetica": "口服吸收良好，Tmax 1–3h，T½约2–3小时，肾排泄",
+      "farmacodinamica": "降低胃酸，促进溃疡愈合",
+      "indicacoes": "胃溃疡、十二指肠溃疡、反流性食管炎、消化不良",
+      "reacoesAdversas": "头痛、腹泻、肝酶异常、皮疹、少见心动过缓或男性乳房发育",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "慎用，可能分泌入乳",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日300 mg",
+      "doseMinima": "每日75 mg",
+      "classificacao": "H2受体拮抗剂",
+      "apresentacao": "片剂75、150、300 mg；注射液25 mg/mL",
+      "interacaoMedicamento": "降低某些药物如酮康唑的吸收",
+      "posologia": "150 mg每日2次或300 mg睡前；IV每6–8小时50 mg",
+      "armazenamento": "室温避光保存",
+      "preparo": "直接使用或稀释后静推",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "对本品过敏、急性紫质症",
+      "cuidadosMedicos": "长期用药需监测肝功能",
+      "cuidadosFarmaceuticos": "核对批号与召回批次，避免使用问题批次",
+      "cuidadosEnfermagem": "观察症状缓解及不良反应",
+      "fontesBibliograficas": "Micromedex、UpToDate、国家药监局"
+    }
+  }
+}

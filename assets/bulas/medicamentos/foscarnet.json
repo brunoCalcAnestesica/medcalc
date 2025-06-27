@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Foscarnet",
+      "suspension": "Suspender 24 horas antes de cirurgia de grande porte se houver disfunção renal ou distúrbios eletrolíticos",
+      "risk": "Nefrotoxicidade grave, distúrbios de cálcio, fosfato e magnésio, convulsões, úlceras genitais",
+      "reintroduction": "Reintroduzir após recuperação da função renal e correção eletrolítica, com monitoramento intensivo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Foscarnet sódico",
+      "nomeComercial": "Foscavir",
+      "mecanismoAcao": "Inibe diretamente a DNA polimerase viral sem necessidade de ativação por timidina quinase",
+      "farmacocinetica": "Administração IV; baixa ligação proteica; meia-vida terminal ~3–7 h; eliminação renal",
+      "farmacodinamica": "Atividade antiviral contra CMV, HSV resistentes e VZV; bloqueia elongação do DNA viral",
+      "indicacoes": "Retinite por CMV, HSV resistente ao aciclovir, infecção por VZV resistente",
+      "reacoesAdversas": "Nefrotoxicidade, hipocalcemia, hipomagnesemia, convulsões, parestesia, náusea, ulceração genital",
+      "riscoGravidez": "Categoria C – usar apenas se benefício superar o risco",
+      "riscoLactacao": "Desconhecido – evitar",
+      "administracao": "Intravenosa",
+      "doseMaxima": "180 mg/kg/dia em 3 doses",
+      "doseMinima": "60 mg/kg/dia",
+      "classificacao": "Antiviral inorgânico",
+      "apresentacao": "Frasco-ampola 24 mg/mL (250 mL = 6 g)",
+      "interacaoMedicamento": "Aumenta toxicidade com aminoglicosídeos, anfotericina B, ciclosporina",
+      "posologia": "Indução: 60 mg/kg IV a cada 8 h por 2–3 semanas; manutenção: 90–120 mg/kg/dia",
+      "armazenamento": "Temperatura ambiente; protegido da luz; solução pronta usar em 24 h",
+      "preparo": "Infundir em SF 0,9% ou SG 5%; controle rigoroso da infusão",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade, insuficiência renal sem controle, distúrbios eletrolíticos graves",
+      "cuidadosMedicos": "Monitorar função renal, eletrólitos (Mg, Ca, P), ECG e sinais neurológicos",
+      "cuidadosFarmaceuticos": "Garantir infusão lenta e compatibilidade com sistema de bomba",
+      "cuidadosEnfermagem": "Observar diurese, parestesias, convulsões e efeitos locais",
+      "fontesBibliograficas": "FDA, CDC, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Foscarnet",
+      "suspension": "Hold 24 h before major surgery if renal impairment or electrolyte imbalance",
+      "risk": "Severe nephrotoxicity, hypocalcemia, hypomagnesemia, seizures, genital ulcers",
+      "reintroduction": "Resume only after renal recovery and electrolyte correction"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Foscarnet sodium",
+      "nomeComercial": "Foscavir",
+      "mecanismoAcao": "Non-competitive DNA polymerase inhibitor that doesn't require phosphorylation",
+      "farmacocinetica": "IV; t½ ~3–7 h; renal excretion",
+      "farmacodinamica": "Broad antiviral activity (CMV, HSV, VZV); inhibits viral DNA elongation",
+      "indicacoes": "CMV retinitis, acyclovir-resistant HSV, resistant VZV infections",
+      "reacoesAdversas": "Nephrotoxicity, seizures, electrolyte shifts, genital ulcers, nausea",
+      "riscoGravidez": "Category C – use if benefit outweighs risk",
+      "riscoLactacao": "Unknown – avoid",
+      "administracao": "Intravenous",
+      "doseMaxima": "180 mg/kg/day",
+      "doseMinima": "60 mg/kg/day",
+      "classificacao": "Inorganic antiviral",
+      "apresentacao": "24 mg/mL solution, 250 mL vials (6 g total)",
+      "interacaoMedicamento": "Caution with nephrotoxic agents (aminoglycosides, amphotericin B)",
+      "posologia": "60 mg/kg IV q8h (induction); 90–120 mg/kg/day (maintenance)",
+      "armazenamento": "Room temp, light protected; use within 24 h",
+      "preparo": "Dilute in NS or D5W; administer via pump",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Renal failure, electrolyte disorders, hypersensitivity",
+      "cuidadosMedicos": "Monitor renal function, electrolytes, neurologic signs",
+      "cuidadosFarmaceuticos": "Verify slow infusion, proper dilution",
+      "cuidadosEnfermagem": "Watch for paresthesias, urine output, seizures",
+      "fontesBibliograficas": "FDA, CDC, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Foscarnet",
+      "suspension": "Suspender 24 h antes de cirugía mayor si IR o desequilibrio electrolítico",
+      "risk": "Nefrotoxicidad, convulsiones, hipocalcemia, úlceras genitales",
+      "reintroduction": "Reiniciar tras normalizar función renal y electrólitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Foscarnet sódico",
+      "nomeComercial": "Foscavir",
+      "mecanismoAcao": "Inhibidor directo de la DNA polimerasa viral",
+      "farmacocinetica": "IV; t½ 3–7 h; eliminación renal",
+      "farmacodinamica": "Activo contra CMV, HSV resistente, VZV",
+      "indicacoes": "Retinitis CMV, HSV y VZV resistentes",
+      "reacoesAdversas": "Toxicidad renal, convulsiones, náuseas, úlceras",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar",
+      "administracao": "IV",
+      "doseMaxima": "180 mg/kg/día",
+      "doseMinima": "60 mg/kg/día",
+      "classificacao": "Antiviral inorgánico",
+      "apresentacao": "Solución 24 mg/mL, 250 mL",
+      "interacaoMedicamento": "Evitar nefrotóxicos simultáneos",
+      "posologia": "60 mg/kg/8h; mantenimiento 90–120 mg/kg/día",
+      "armazenamento": "Ambiente, protegido luz, usar en 24 h",
+      "preparo": "Diluir en SF 0,9% o SG 5%",
+      "solucoesCompatíveis": "SF, SG 5%",
+      "contraindicacoes": "Insuficiencia renal, alteraciones electrolíticas",
+      "cuidadosMedicos": "Control renal, Mg, Ca, convulsiones",
+      "cuidadosFarmaceuticos": "Infusión lenta, dilución correcta",
+      "cuidadosEnfermagem": "Vigilar diuresis, alteraciones neurológicas",
+      "fontesBibliograficas": "CDC, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "磷甲酸钠（Foscarnet）",
+      "suspension": "术前24小时停用，如伴肾功能损害或电解质异常",
+      "risk": "肾毒性、电解质紊乱、癫痫、生殖道溃疡",
+      "reintroduction": "术后肾功能稳定、电解质纠正后可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磷甲酸钠",
+      "nomeComercial": "Foscavir",
+      "mecanismoAcao": "非竞争性DNA聚合酶抑制剂，不依赖激酶活化",
+      "farmacocinetica": "静注，t½ 3–7小时，肾排泄",
+      "farmacodinamica": "抗CMV、HSV耐药株、带状疱疹",
+      "indicacoes": "CMV视网膜炎、耐药HSV/VZV感染",
+      "reacoesAdversas": "肾损、低钙低镁、抽搐、生殖器溃疡",
+      "riscoGravidez": "C类，慎用",
+      "riscoLactacao": "不推荐",
+      "administracao": "静脉滴注",
+      "doseMaxima": "每日180 mg/kg",
+      "doseMinima": "每日60 mg/kg",
+      "classificacao": "无机抗病毒药",
+      "apresentacao": "250 mL瓶，24 mg/mL",
+      "interacaoMedicamento": "与氨基糖苷类、两性霉素B、环孢素同用慎重",
+      "posologia": "诱导期60 mg/kg Q8h，维持期90–120 mg/kg/d",
+      "armazenamento": "避光，室温，稀释后24小时内用完",
+      "preparo": "用0.9%氯化钠或5%葡萄糖稀释",
+      "solucoesCompatíveis": "NS、D5W",
+      "contraindicacoes": "肾衰、电解质紊乱、过敏",
+      "cuidadosMedicos": "肾功能、电解质、脑电图监测",
+      "cuidadosFarmaceuticos": "缓慢滴注，核对浓度与兼容性",
+      "cuidadosEnfermagem": "注意尿量、神志、局部反应",
+      "fontesBibliograficas": "FDA、CDC、UpToDate、Micromedex"
+    }
+  }
+}

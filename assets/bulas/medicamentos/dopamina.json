@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Dopamina",
+      "suspension": "Não se aplica – uso exclusivo hospitalar, geralmente em contexto intraoperatório ou UTI",
+      "risk": "Risco de arritmias, isquemia miocárdica, vasoconstrição periférica em doses altas",
+      "reintroduction": "Uso conforme necessidade clínica, geralmente sob monitorização contínua"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dopamina",
+      "nomeComercial": "Dopacard, Revimine",
+      "mecanismoAcao": "Agonista dopaminérgico dose-dependente: dopamina (1–5 mcg/kg/min), beta-1 (5–10), alfa-1 (>10)",
+      "farmacocinetica": "Início rápido (5 min), meia-vida curta (~2 min), metabolização hepática e renal",
+      "farmacodinamica": "Aumenta débito cardíaco, perfusão renal e pressão arterial conforme dose",
+      "indicacoes": "Choque séptico, cardiogênico ou hipovolêmico; bradicardia refratária",
+      "reacoesAdversas": "Taquiarritmias, hipertensão, angina, necrose tecidual se extravasamento",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; uso apenas se necessário",
+      "administracao": "Infusão intravenosa contínua",
+      "doseMaxima": "20 mcg/kg/min (geralmente); doses superiores com precaução",
+      "doseMinima": "2 mcg/kg/min",
+      "classificacao": "Agente inotrópico, vasopressor, agonista dopaminérgico",
+      "apresentacao": "Ampola 200mg/5mL, frascos-ampola 400mg/5mL",
+      "interacaoMedicamento": "Potencializa arritmias com anestésicos halogenados, antagonizado por betabloqueadores",
+      "posologia": "2–20 mcg/kg/min em bomba de infusão, ajustada conforme resposta hemodinâmica",
+      "armazenamento": "Refrigerado ou temperatura ambiente (até 25°C), protegido da luz após diluição",
+      "preparo": "Diluir em SG 5% ou SF 0,9% até 250–500mL",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Feocromocitoma, taquiarritmias não controladas",
+      "cuidadosMedicos": "Monitorar FC, PA, ritmo cardíaco, débito urinário e sinais de extravasamento",
+      "cuidadosFarmaceuticos": "Garantir correta diluição e compatibilidade de solução",
+      "cuidadosEnfermagem": "Checar acesso venoso central; observar extremidades quanto à perfusão",
+      "fontesBibliograficas": "SBHCI, ANVISA, FDA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Dopamine",
+      "suspension": "Not applicable – hospital-use only; typically used intraoperatively or in ICU",
+      "risk": "Risk of arrhythmias, myocardial ischemia, peripheral vasoconstriction at high doses",
+      "reintroduction": "Used as needed, under continuous monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dopamine",
+      "nomeComercial": "Intropin",
+      "mecanismoAcao": "Dose-dependent agonist: dopamine (1–5 mcg/kg/min), beta-1 (5–10), alpha-1 (>10)",
+      "farmacocinetica": "Rapid onset (~5 min), short half-life (~2 min), hepatic and renal metabolism",
+      "farmacodinamica": "Increases cardiac output, renal perfusion, and BP depending on dose",
+      "indicacoes": "Septic, cardiogenic or hypovolemic shock; refractory bradycardia",
+      "reacoesAdversas": "Tachyarrhythmias, hypertension, angina, tissue necrosis if extravasated",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; use only if clearly needed",
+      "administracao": "Continuous intravenous infusion",
+      "doseMaxima": "20 mcg/kg/min (typical); higher doses with caution",
+      "doseMinima": "2 mcg/kg/min",
+      "classificacao": "Inotropic agent, vasopressor, dopaminergic agonist",
+      "apresentacao": "Ampoules 200mg/5mL, vials 400mg/5mL",
+      "interacaoMedicamento": "Increased arrhythmia risk with halogenated anesthetics; blocked by beta-blockers",
+      "posologia": "2–20 mcg/kg/min via infusion pump, titrated to response",
+      "armazenamento": "Store refrigerated or at room temp (≤25°C), protect from light after dilution",
+      "preparo": "Dilute in D5W or NS to 250–500mL",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Pheochromocytoma, uncorrected tachyarrhythmias",
+      "cuidadosMedicos": "Monitor HR, BP, ECG, urine output, and extravasation signs",
+      "cuidadosFarmaceuticos": "Ensure correct dilution and solution compatibility",
+      "cuidadosEnfermagem": "Use central line if possible; assess limb perfusion regularly",
+      "fontesBibliograficas": "FDA, Micromedex, ACLS guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Dopamina",
+      "suspension": "No aplicable – uso hospitalario exclusivo, generalmente en UCI o cirugía",
+      "risk": "Riesgo de arritmias, isquemia, vasoconstricción periférica en altas dosis",
+      "reintroduction": "Administrar según necesidad clínica bajo monitorización continua"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dopamina",
+      "nomeComercial": "Revimine, Intropin",
+      "mecanismoAcao": "Agonista dopaminérgico dependiente de dosis: dopaminérgico (1–5), beta-1 (5–10), alfa-1 (>10)",
+      "farmacocinetica": "Inicio rápido (~5 min), vida media ~2 min, metabolismo hepático y renal",
+      "farmacodinamica": "Aumenta gasto cardíaco, perfusión renal y PA según dosis",
+      "indicacoes": "Shock séptico, cardiogénico o hipovolémico; bradicardia refractaria",
+      "reacoesAdversas": "Taquiarritmias, hipertensión, angina, necrosis tisular si hay extravasación",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; usar sólo si es necesario",
+      "administracao": "Infusión intravenosa continua",
+      "doseMaxima": "20 mcg/kg/min (habitual)",
+      "doseMinima": "2 mcg/kg/min",
+      "classificacao": "Agente inotrópico, vasopresor, agonista dopaminérgico",
+      "apresentacao": "Ampollas 200mg/5mL, frascos 400mg/5mL",
+      "interacaoMedicamento": "Riesgo de arritmias con anestésicos halogenados; inhibido por betabloqueantes",
+      "posologia": "2–20 mcg/kg/min según respuesta hemodinámica",
+      "armazenamento": "Refrigerado o a temperatura ambiente, protegido de la luz",
+      "preparo": "Diluir en SG 5% o SF 0,9%",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Feocromocitoma, taquiarritmias no tratadas",
+      "cuidadosMedicos": "Monitorizar PA, FC, ECG, diuresis y extravasación",
+      "cuidadosFarmaceuticos": "Asegurar correcta dilución y compatibilidad",
+      "cuidadosEnfermagem": "Evaluar perfusión distal; preferir vía central",
+      "fontesBibliograficas": "Micromedex, FDA, guías de soporte vital avanzado"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "多巴胺",
+      "suspension": "不适用 – 限医院使用，常用于术中或重症监护",
+      "risk": "高剂量可致心律失常、心肌缺血、外周血管收缩",
+      "reintroduction": "根据临床需要重新使用，需持续监测"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多巴胺",
+      "nomeComercial": "Intropin",
+      "mecanismoAcao": "剂量依赖性激动多巴胺、β1和α1受体",
+      "farmacocinetica": "起效快（~5分钟），半衰期约2分钟，肝肾代谢",
+      "farmacodinamica": "增强心输出量、肾灌注及血压（依剂量）",
+      "indicacoes": "感染性、心源性或低血容量性休克；难治性心动过缓",
+      "reacoesAdversas": "心律失常、高血压、心绞痛、渗漏致组织坏死",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不明确，仅限必要时使用",
+      "administracao": "持续静脉滴注",
+      "doseMaxima": "20微克/公斤/分钟",
+      "doseMinima": "2微克/公斤/分钟",
+      "classificacao": "正性肌力药、升压药、多巴胺受体激动剂",
+      "apresentacao": "200mg/5mL 或 400mg/5mL注射剂",
+      "interacaoMedicamento": "与麻醉剂合用可致心律失常；β阻滞剂拮抗其作用",
+      "posologia": "2–20微克/公斤/分钟，按反应调整",
+      "armazenamento": "避光，冷藏或25°C以下保存",
+      "preparo": "用5%葡萄糖或0.9%氯化钠稀释至250–500mL",
+      "solucoesCompatíveis": "5%葡萄糖，0.9%氯化钠",
+      "contraindicacoes": "嗜铬细胞瘤，未控制心律失常",
+      "cuidadosMedicos": "监测心率、血压、心电图、尿量与渗漏",
+      "cuidadosFarmaceuticos": "确保配比准确，兼容性检查",
+      "cuidadosEnfermagem": "优选中心静脉通道，监测末梢灌注",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

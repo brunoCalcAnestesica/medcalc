@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Alteplase",
+      "suspension": "Não se aplica – uso hospitalar em situações específicas e urgentes",
+      "risk": "Risco elevado de sangramento, incluindo hemorragia intracraniana; contraindicado em cirurgias recentes",
+      "reintroduction": "Usar apenas conforme critérios rigorosos de elegibilidade e após avaliação de risco-benefício"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alteplase",
+      "nomeComercial": "Activase, Actilyse",
+      "mecanismoAcao": "Ativa o plasminogênio a plasmina, promovendo a lise do trombo por degradação da fibrina",
+      "farmacocinetica": "Administração IV, início rápido de ação, meia-vida de 4–6 minutos; metabolização hepática",
+      "farmacodinamica": "Trombolítico fibrinoespecífico, dissolve coágulos sanguíneos em local de formação",
+      "indicacoes": "Acidente vascular cerebral isquêmico agudo, infarto agudo do miocárdio com supra de ST, embolia pulmonar maciça",
+      "reacoesAdversas": "Hemorragia (inclusive intracraniana), hipotensão, febre, arritmias",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; usar com cautela",
+      "administracao": "Intravenosa (bolus seguido de infusão contínua)",
+      "doseMaxima": "100mg (IAM e TEP); 0,9mg/kg no AVC (máximo 90mg)",
+      "doseMinima": "15mg (bolus inicial em protocolos)",
+      "classificacao": "Trombolítico (ativador do plasminogênio tecidual - tPA)",
+      "apresentacao": "Frascos-ampola de 10mg, 20mg, 50mg, 100mg para reconstituição",
+      "interacaoMedicamento": "Aumenta risco de sangramento com anticoagulantes e antiagregantes",
+      "posologia": "IAM: 15mg IV bolus + infusão; AVC: 0,9mg/kg (10% bolus, 90% em 60min)",
+      "armazenamento": "Manter sob refrigeração (2–8°C); usar em até 8h após reconstituição",
+      "preparo": "Reconstituir com água estéril; não agitar vigorosamente",
+      "solucoesCompatíveis": "SF 0,9% (não usar com dextrose)",
+      "contraindicacoes": "Hemorragia ativa, AVC hemorrágico prévio, cirurgia ou trauma recente, neoplasia cerebral",
+      "cuidadosMedicos": "Avaliar contraindicações absolutas e relativas antes do uso",
+      "cuidadosFarmaceuticos": "Verificar técnica asséptica e tempo de validade após reconstituição",
+      "cuidadosEnfermagem": "Monitorar sinais neurológicos, sangramentos e pressão arterial continuamente",
+      "fontesBibliograficas": "SBAVC, FDA, ANVISA, Micromedex, ESC"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Alteplase",
+      "suspension": "Not applicable – hospital use only in emergency thrombolytic situations",
+      "risk": "High bleeding risk including intracranial hemorrhage; contraindicated after recent surgery",
+      "reintroduction": "Use only after strict eligibility assessment and risk-benefit evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alteplase",
+      "nomeComercial": "Activase",
+      "mecanismoAcao": "Converts plasminogen to plasmin, leading to fibrin clot dissolution",
+      "farmacocinetica": "IV administration, rapid onset, half-life 4–6 minutes; hepatic metabolism",
+      "farmacodinamica": "Fibrin-specific thrombolytic, acts at clot site",
+      "indicacoes": "Acute ischemic stroke, ST-elevation myocardial infarction (STEMI), massive pulmonary embolism",
+      "reacoesAdversas": "Bleeding, intracranial hemorrhage, hypotension, fever, arrhythmias",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; caution advised",
+      "administracao": "Intravenous (bolus + infusion)",
+      "doseMaxima": "100mg (MI and PE); 0.9mg/kg for stroke (max 90mg)",
+      "doseMinima": "15mg (initial bolus)",
+      "classificacao": "Thrombolytic (tissue plasminogen activator - tPA)",
+      "apresentacao": "Vials 10mg, 20mg, 50mg, 100mg for reconstitution",
+      "interacaoMedicamento": "Increased bleeding with anticoagulants and antiplatelets",
+      "posologia": "MI: 15mg IV bolus + infusion; Stroke: 0.9mg/kg (10% bolus, 90% over 60 min)",
+      "armazenamento": "Refrigerate at 2–8°C; use within 8h after reconstitution",
+      "preparo": "Reconstitute with sterile water; do not shake vigorously",
+      "solucoesCompatíveis": "0.9% NaCl only (avoid dextrose)",
+      "contraindicacoes": "Active bleeding, prior hemorrhagic stroke, recent surgery or trauma, brain tumor",
+      "cuidadosMedicos": "Evaluate absolute and relative contraindications",
+      "cuidadosFarmaceuticos": "Ensure aseptic technique and timely reconstitution",
+      "cuidadosEnfermagem": "Monitor neurologic signs, bleeding, and BP continuously",
+      "fontesBibliograficas": "FDA, AHA/ASA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Alteplasa",
+      "suspension": "No aplica – uso hospitalario urgente en situaciones trombolíticas",
+      "risk": "Riesgo alto de sangrado, incluida hemorragia cerebral; contraindicado tras cirugía reciente",
+      "reintroduction": "Usar solo tras evaluación estricta de elegibilidad y riesgo-beneficio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alteplasa",
+      "nomeComercial": "Actilyse",
+      "mecanismoAcao": "Convierte plasminógeno en plasmina, degradando fibrina y disolviendo el trombo",
+      "farmacocinetica": "Inicio rápido IV, semivida 4–6 minutos; metabolismo hepático",
+      "farmacodinamica": "Trombolítico fibrinoespecífico",
+      "indicacoes": "ACV isquémico agudo, IAM con supradesnivel del ST, embolia pulmonar masiva",
+      "reacoesAdversas": "Hemorragias, hipotensión, fiebre, arritmias",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Intravenosa (bolo + infusión)",
+      "doseMaxima": "100mg (IAM y TEP); 0,9mg/kg en ACV (máx 90mg)",
+      "doseMinima": "15mg (bolo inicial)",
+      "classificacao": "Trombolítico (activador del plasminógeno tisular - tPA)",
+      "apresentacao": "Viales de 10mg, 20mg, 50mg, 100mg",
+      "interacaoMedicamento": "Mayor riesgo de sangrado con anticoagulantes y antiagregantes",
+      "posologia": "IAM: 15mg bolo + infusión; ACV: 0,9mg/kg (10% bolo, 90% en 60 min)",
+      "armazenamento": "Refrigerar entre 2–8°C; usar en 8h tras reconstituir",
+      "preparo": "Reconstituir con agua estéril, no agitar",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%; evitar dextrosa",
+      "contraindicacoes": "Sangrado activo, ACV hemorrágico, cirugía o trauma recientes, tumor cerebral",
+      "cuidadosMedicos": "Evaluar criterios de exclusión rigurosamente",
+      "cuidadosFarmaceuticos": "Preparación aséptica, control de estabilidad",
+      "cuidadosEnfermagem": "Vigilar signos neurológicos, PA y sangrado",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿替普酶",
+      "suspension": "不适用 – 医院紧急溶栓使用",
+      "risk": "严重出血风险，包括颅内出血；近期手术者禁用",
+      "reintroduction": "仅在严格评估获益风险后使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿替普酶",
+      "nomeComercial": "Actilyse",
+      "mecanismoAcao": "激活纤溶酶原为纤溶酶，溶解血栓",
+      "farmacocinetica": "静脉注射起效快，半衰期4–6分钟，肝代谢",
+      "farmacodinamica": "纤维蛋白特异性溶栓药",
+      "indicacoes": "急性缺血性脑卒中、心肌梗死、肺栓塞",
+      "reacoesAdversas": "出血、低血压、发热、心律失常",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不明；慎用",
+      "administracao": "静脉注射（推注+持续输注）",
+      "doseMaxima": "100mg（心梗/肺栓）；卒中：0.9mg/kg（最多90mg）",
+      "doseMinima": "15mg初始推注",
+      "classificacao": "溶栓药（tPA）",
+      "apresentacao": "冻干粉针：10mg、20mg、50mg、100mg",
+      "interacaoMedicamento": "与抗凝药、抗血小板药合用出血风险增高",
+      "posologia": "心梗：15mg推注+输注；卒中：0.9mg/kg（10%推注，90%60分钟内输注）",
+      "armazenamento": "2–8°C冷藏，复溶后8小时内使用",
+      "preparo": "注射用水复溶，避免剧烈摇晃",
+      "solucoesCompatíveis": "仅可用0.9%氯化钠，禁用葡萄糖",
+      "contraindicacoes": "活动性出血、既往出血性卒中、近期手术或创伤、脑肿瘤",
+      "cuidadosMedicos": "严格评估禁忌证",
+      "cuidadosFarmaceuticos": "严格无菌操作，记录复溶时间",
+      "cuidadosEnfermagem": "持续观察神经体征、出血及血压",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、卒中指南"
+    }
+  }
+}

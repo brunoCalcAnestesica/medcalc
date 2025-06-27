@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Espiramicina",
+      "suspension": "Suspender 72 horas antes de cirurgia eletiva apenas em caso de reações adversas ou alteração hepática significativa.",
+      "risk": "Risco de colestase intra-hepática, náuseas e reações cutâneas. Pode ocorrer resistência cruzada com outros macrolídeos.",
+      "reintroduction": "Reintroduzir após normalização das enzimas hepáticas e resolução completa de efeitos adversos."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Espiramicina",
+      "nomeComercial": "Rovamicina",
+      "mecanismoAcao": "Macrolídeo que inibe a síntese proteica bacteriana por ligação à subunidade 50S ribossômica",
+      "farmacocinetica": "absorção oral incompleta; concentração tecidual elevada; eliminação predominantemente biliar; meia-vida de 5–8 horas",
+      "farmacodinamica": "ação bacteriostática contra cocos Gram-positivos e Toxoplasma gondii; atividade prolongada nos tecidos",
+      "indicacoes": "toxoplasmose (gestação e imunocompetentes), infecções respiratórias por cocos Gram-positivos, profilaxia de meningite",
+      "reacoesAdversas": "náuseas, dor abdominal, diarreia, erupções cutâneas, colestase intra-hepática (rara)",
+      "riscoGravidez": "Categoria B (uso seguro na toxoplasmose gestacional)",
+      "riscoLactacao": "Excreta-se no leite; evitar uso",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "9 milhões UI/dia",
+      "doseMinima": "3 milhões UI/dia",
+      "classificacao": "Macrolídeo (bacteriostático)",
+      "apresentacao": "Comprimidos 1,5 MI UI; injetável 1,5 MI UI/frasco",
+      "interacaoMedicamento": "pode aumentar efeito de anticoagulantes orais; evitar uso concomitante com alcaloides do ergot",
+      "posologia": "1,5 a 3 MI UI VO 2 a 3x/dia ou 1 a 3 MI UI EV 2x/dia",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Reconstituir pó com diluente específico para uso EV",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "alergia a macrolídeos, insuficiência hepática grave",
+      "cuidadosMedicos": "monitorar função hepática e resposta clínica",
+      "cuidadosFarmaceuticos": "garantir estabilidade da solução e orientação sobre administração",
+      "cuidadosEnfermagem": "observar reações adversas gastrointestinais e sinais alérgicos",
+      "fontesBibliograficas": "Micromedex, UpToDate, Vidal, bula Rovamicina"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Spiramycin",
+      "suspension": "Discontinue 72 hours before elective surgery only if significant hepatic impairment or adverse reactions occur.",
+      "risk": "Risk of intrahepatic cholestasis, nausea, and skin rash. Cross-resistance with other macrolides may occur.",
+      "reintroduction": "Restart after normalization of liver enzymes and full resolution of adverse effects."
+    },
+    "bulario": {
+      "activeIngredient": "Spiramycin",
+      "brandName": "Rovamycin",
+      "mechanismOfAction": "Macrolide that inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit",
+      "pharmacokinetics": "incomplete oral absorption; high tissue concentration; predominantly biliary elimination; half-life of 5–8 hours",
+      "pharmacodynamics": "bacteriostatic action against Gram-positive cocci and Toxoplasma gondii; prolonged tissue activity",
+      "indications": "toxoplasmosis (pregnancy and immunocompetent), respiratory infections caused by Gram-positive cocci, meningitis prophylaxis",
+      "adverseReactions": "nausea, abdominal pain, diarrhea, skin rashes, intrahepatic cholestasis (rare)",
+      "pregnancyRisk": "Category B (safe use in gestational toxoplasmosis)",
+      "lactationRisk": "Excreted in milk; avoid use",
+      "administration": "Oral or intravenous",
+      "maxDose": "9 million IU/day",
+      "minDose": "3 million IU/day",
+      "classification": "Macrolide (bacteriostatic)",
+      "presentation": "Tablets 1.5 MIU; injectable 1.5 MIU/vial",
+      "drugInteractions": "may increase effect of oral anticoagulants; avoid concomitant use with ergot alkaloids",
+      "dosage": "1.5 to 3 MIU PO 2 to 3 times/day or 1 to 3 MIU IV 2 times/day",
+      "storage": "Room temperature, protected from light",
+      "preparation": "Reconstitute powder with specific diluent for IV use",
+      "compatibleSolutions": "0.9% saline solution",
+      "contraindications": "allergy to macrolides, severe hepatic insufficiency",
+      "medicalCare": "monitor liver function and clinical response",
+      "pharmaceuticalCare": "ensure solution stability and administration guidance",
+      "nursingCare": "monitor gastrointestinal adverse reactions and allergic signs",
+      "bibliographicSources": "Micromedex, UpToDate, Vidal, Rovamycin package insert"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Espiramicina",
+      "suspension": "Suspender 72 horas antes de cirugía electiva solo en caso de alteración hepática o reacciones adversas graves.",
+      "risk": "Riesgo de colestasis intrahepática, náuseas y erupciones cutáneas. Posible resistencia cruzada con otros macrólidos.",
+      "reintroduction": "Reintroducir tras normalización de enzimas hepáticas y resolución de efectos adversos."
+    },
+    "bulario": {
+      "principioActivo": "Espiramicina",
+      "nombreComercial": "Rovamicina",
+      "mecanismoAccion": "Macrólido que inhibe la síntesis proteica bacteriana por unión a la subunidad 50S ribosómica",
+      "farmacocinetica": "absorción oral incompleta; alta concentración tisular; eliminación predominantemente biliar; vida media de 5–8 horas",
+      "farmacodinamica": "acción bacteriostática contra cocos Gram-positivos y Toxoplasma gondii; actividad prolongada en tejidos",
+      "indicaciones": "toxoplasmosis (embarazo e inmunocompetentes), infecciones respiratorias por cocos Gram-positivos, profilaxis de meningitis",
+      "reaccionesAdversas": "náuseas, dolor abdominal, diarrea, erupciones cutáneas, colestasis intrahepática (rara)",
+      "riesgoEmbarazo": "Categoría B (uso seguro en toxoplasmosis gestacional)",
+      "riesgoLactancia": "Se excreta en la leche; evitar uso",
+      "administracion": "Oral o intravenosa",
+      "dosisMaxima": "9 millones UI/día",
+      "dosisMinima": "3 millones UI/día",
+      "clasificacion": "Macrólido (bacteriostático)",
+      "presentacion": "Comprimidos 1,5 MI UI; inyectable 1,5 MI UI/vial",
+      "interaccionMedicamentos": "puede aumentar el efecto de anticoagulantes orales; evitar uso concomitante con alcaloides del ergot",
+      "posologia": "1,5 a 3 MI UI VO 2 a 3 veces/día o 1 a 3 MI UI IV 2 veces/día",
+      "almacenamiento": "Temperatura ambiente, protegido de la luz",
+      "preparacion": "Reconstituir polvo con diluyente específico para uso IV",
+      "solucionesCompatibles": "SF 0,9%",
+      "contraindicaciones": "alergia a macrólidos, insuficiencia hepática grave",
+      "cuidadosMedicos": "monitorizar función hepática y respuesta clínica",
+      "cuidadosFarmaceuticos": "garantizar estabilidad de la solución y orientación sobre administración",
+      "cuidadosEnfermeria": "observar reacciones adversas gastrointestinales y signos alérgicos",
+      "fuentesBibliograficas": "Micromedex, UpToDate, Vidal, bula Rovamicina"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "螺旋霉素",
+      "suspension": "择期手术前72小时仅在肝功能异常或严重不良反应时停药。",
+      "risk": "可能引起肝内胆汁淤积、恶心、皮疹；可与其他大环内酯类产生交叉耐药。",
+      "reintroduction": "在肝酶恢复正常且不良反应完全缓解后重新使用。"
+    },
+    "bulario": {
+      "有效成分": "螺旋霉素",
+      "商品名": "罗瓦霉素",
+      "作用机制": "大环内酯类，通过结合50S核糖体亚基抑制细菌蛋白质合成",
+      "药代动力学": "口服吸收不完全；组织浓度高；主要经胆汁排泄；半衰期5-8小时",
+      "药效学": "对革兰氏阳性球菌和弓形虫具有抑菌作用；在组织中活性持久",
+      "适应症": "弓形虫病（孕期及免疫正常者）、革兰氏阳性球菌呼吸道感染、脑膜炎预防",
+      "不良反应": "恶心、腹痛、腹泻、皮疹、肝内胆汁淤积（罕见）",
+      "孕期风险": "B类（孕期弓形虫病安全使用）",
+      "哺乳期风险": "通过乳汁排泄；避免使用",
+      "给药途径": "口服或静脉注射",
+      "最大剂量": "每日900万单位",
+      "最小剂量": "每日300万单位",
+      "分类": "大环内酯类（抑菌剂）",
+      "剂型": "片剂1.5百万单位；注射剂1.5百万单位/瓶",
+      "药物相互作用": "可能增强口服抗凝剂作用；避免与麦角生物碱合用",
+      "用法用量": "口服1.5至3百万单位，每日2至3次，或静脉注射1至3百万单位，每日2次",
+      "储存": "室温，避光保存",
+      "制备": "用专用稀释液重构粉末用于静脉注射",
+      "兼容溶液": "0.9%生理盐水",
+      "禁忌症": "大环内酯类过敏，严重肝功能不全",
+      "医疗护理": "监测肝功能及临床反应",
+      "药学护理": "确保溶液稳定性并指导给药",
+      "护理措施": "观察胃肠道不良反应及过敏症状",
+      "参考文献": "Micromedex, UpToDate, Vidal, 罗瓦霉素说明书"
+    }
+  }
+}

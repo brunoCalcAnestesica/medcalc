@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Imunoglobulina Antirrábica",
+      "suspension": "Não suspender; indicada em exposição de alto risco à raiva antes do desenvolvimento de anticorpos vacinais",
+      "risk": "Risco de reações locais, febre, anafilaxia (raro); pode interferir em vacinas de vírus vivos",
+      "reintroduction": "Reintroduzir apenas em nova exposição sem anticorpos protetores detectáveis; uso é limitado a uma aplicação por ciclo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imunoglobulina humana antirrábica (HRIG) ou equina (ERIG)",
+      "nomeComercial": "Berirab, Imogam Rabies HT, Favirab",
+      "mecanismoAcao": "Fornece anticorpos neutralizantes passivos contra o vírus da raiva durante o período de incubação da resposta vacinal",
+      "farmacocinetica": "Meia-vida ~21 dias; ação imediata ao redor do local da mordedura e distribuição sistêmica lenta",
+      "farmacodinamica": "Bloqueia o vírus da raiva no local da inoculação até que a resposta ativa da vacina se desenvolva",
+      "indicacoes": "Pós-exposição à raiva em indivíduos não previamente vacinados; feridas profundas, mucosas, exposição a morcegos ou animais desconhecidos",
+      "reacoesAdversas": "Eritema, dor local, febre, reações alérgicas, anafilaxia (muito raro)",
+      "riscoGravidez": "Categoria C – pode ser administrada diante de risco real de infecção rábica",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Infiltração IM ao redor da ferida + IM restante (diferente do local da vacina)",
+      "doseMaxima": "20 UI/kg (HRIG); 40 UI/kg (ERIG)",
+      "doseMinima": "Conforme peso corporal",
+      "classificacao": "Imunoglobulina passiva – antirrábica",
+      "apresentacao": "Solução injetável em ampolas de 150 UI/mL (HRIG); 300 UI/mL (ERIG)",
+      "interacaoMedicamento": "Interfere com eficácia de vacinas de vírus vivos; evitar MMR e varicela por 4 semanas",
+      "posologia": "Dose única de 20 UI/kg até o 7º dia da 1ª dose da vacina",
+      "armazenamento": "2–8 °C; não congelar",
+      "preparo": "Pronto para uso; não diluir; uso único",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Histórico de anafilaxia a imunoglobulina humana; precaução em deficiências IgA",
+      "cuidadosMedicos": "Infiltrar ao redor da lesão se possível; nunca na mesma seringa ou local da vacina",
+      "cuidadosFarmaceuticos": "Garantir uso imediato após abertura; seguir técnicas assépticas rigorosas",
+      "cuidadosEnfermagem": "Observar paciente por 30 minutos após aplicação",
+      "fontesBibliograficas": "PNI/MS, SBIm, WHO, CDC, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Rabies Immune Globulin (RIG)",
+      "suspension": "Do not suspend; critical for post-exposure prophylaxis in unvaccinated individuals",
+      "risk": "Risk of local pain, fever, rare anaphylaxis; may interfere with live vaccines",
+      "reintroduction": "Do not re-administer in same cycle; use only if antibody titers are insufficient"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Human Rabies Immune Globulin (HRIG)",
+      "nomeComercial": "HyperRAB, Imogam Rabies HT",
+      "mecanismoAcao": "Provides immediate passive immunity until active response to rabies vaccine develops",
+      "farmacocinetica": "T½ ~21 days; localized effect with systemic absorption",
+      "farmacodinamica": "Neutralizes rabies virus at exposure site",
+      "indicacoes": "Post-exposure prophylaxis in non-immunized individuals with high-risk exposure",
+      "reacoesAdversas": "Pain, swelling, fever, headache, rare hypersensitivity",
+      "riscoGravidez": "Category C; use if indicated due to high fatality of rabies",
+      "riscoLactacao": "Safe",
+      "administracao": "Infiltrate wound + IM remainder distant from vaccine site",
+      "doseMaxima": "20 IU/kg (HRIG); single dose",
+      "doseMinima": "Weight-based",
+      "classificacao": "Passive immunization – anti-rabies Ig",
+      "apresentacao": "150 IU/mL vials or syringes",
+      "interacaoMedicamento": "Avoid MMR and varicella vaccines within 4 weeks",
+      "posologia": "Single 20 IU/kg dose at start of post-exposure prophylaxis (day 0–7)",
+      "armazenamento": "2–8 °C; do not freeze",
+      "preparo": "Do not dilute; use aseptically",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Anaphylaxis to Ig or excipients; use caution in IgA deficiency",
+      "cuidadosMedicos": "Infiltrate entire dose in wound if feasible",
+      "cuidadosFarmaceuticos": "Cold chain integrity; use immediately after opening",
+      "cuidadosEnfermagem": "Observe 30 min post-administration",
+      "fontesBibliograficas": "CDC, WHO, ACIP, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Inmunoglobulina Antirrábica",
+      "suspension": "No suspender; uso esencial tras exposición de alto riesgo",
+      "risk": "Reacciones leves; interfiere con vacunas vivas si administradas próximas",
+      "reintroduction": "No repetir en el mismo ciclo de vacunación"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Inmunoglobulina humana antirrábica (HRIG) / equina (ERIG)",
+      "nomeComercial": "Favirab, Imogam, Berirab",
+      "mecanismoAcao": "Neutraliza virus de la rabia en el sitio de exposición",
+      "farmacocinetica": "t½ ~21 días",
+      "farmacodinamica": "Inmunidad pasiva hasta que vacuna surta efecto",
+      "indicacoes": "Exposición sin vacunación previa",
+      "reacoesAdversas": "Dolor, fiebre, eritema, anafilaxia (raro)",
+      "riscoGravidez": "Categoría C; se puede aplicar si indicado",
+      "riscoLactacao": "Compatible",
+      "administracao": "Infiltrar lesión + IM restante lejos del sitio vacunal",
+      "doseMaxima": "20 UI/kg (HRIG), 40 UI/kg (ERIG)",
+      "doseMinima": "Según peso",
+      "classificacao": "Inmunoglobulina pasiva antirrábica",
+      "apresentacao": "Ampollas 150 o 300 UI/mL",
+      "interacaoMedicamento": "Interfiere con MMR y varicela (diferir 1 mes)",
+      "posologia": "Dosis única al iniciar el esquema (día 0–7)",
+      "armazenamento": "2–8 °C; no congelar",
+      "preparo": "Listo para uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a Ig; precaución en IgA deficitarios",
+      "cuidadosMedicos": "Infiltrar toda la dosis en la herida si posible",
+      "cuidadosFarmaceuticos": "Uso inmediato tras apertura; cadena frío",
+      "cuidadosEnfermagem": "Observar 30 min; vigilancia de reacción local",
+      "fontesBibliograficas": "OMS, CDC, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "抗狂犬病免疫球蛋白",
+      "suspension": "不可术前停用；用于暴露后早期阻断",
+      "risk": "可致轻度不适；影响活疫苗接种效果",
+      "reintroduction": "原则上每次暴露仅注射一次"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "人用/马源抗狂犬病免疫球蛋白",
+      "nomeComercial": "Berirab、Imogam、Favirab",
+      "mecanismoAcao": "提供特异性抗体，阻断狂犬病毒在伤口复制",
+      "farmacocinetica": "半衰期21天左右",
+      "farmacodinamica": "为疫苗产生抗体前提供即时保护",
+      "indicacoes": "暴露者（狗咬/蝙蝠/疫源动物）无疫苗接种史",
+      "reacoesAdversas": "局部红肿、发热、过敏反应（罕见）",
+      "riscoGravidez": "C类；暴露高风险时必须使用",
+      "riscoLactacao": "可用",
+      "administracao": "伤口周围浸润+IM注射（远离疫苗位点）",
+      "doseMaxima": "HRIG 20 IU/kg，ERIG 40 IU/kg",
+      "doseMinima": "按体重计算",
+      "classificacao": "被动免疫制剂 – 抗狂犬病毒IgG",
+      "apresentacao": "150 IU/mL、300 IU/mL安瓿",
+      "interacaoMedicamento": "干扰麻疹、风疹等活疫苗；至少间隔1个月",
+      "posologia": "暴露当日或第3天前注射；与疫苗并用",
+      "armazenamento": "2–8°C冷藏，勿冷冻",
+      "preparo": "开瓶即用，勿稀释",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "Ig严重过敏，IgA缺陷慎用",
+      "cuidadosMedicos": "优先局部浸润，必要时分次IM注射",
+      "cuidadosFarmaceuticos": "确保冷链完整，用后弃安瓿",
+      "cuidadosEnfermagem": "注射后观察30分钟",
+      "fontesBibliograficas": "WHO、中国疾控中心、UpToDate、Micromedex"
+    }
+  }
+}

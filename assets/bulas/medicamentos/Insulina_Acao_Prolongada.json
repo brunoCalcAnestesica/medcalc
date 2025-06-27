@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Insulina de ação prolongada",
+      "suspension": "Não suspender antes de cirurgias; manter dose basal com ajustes se necessário conforme jejum e risco de hipoglicemia",
+      "risk": "Hipoglicemia se jejum prolongado sem correção; risco de hiperglicemia se omitida",
+      "reintroduction": "Manter ou reintroduzir conforme esquema basal, ajustado ao retorno da dieta e glicemias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Insulina glargina, insulina detemir, insulina degludeca",
+      "nomeComercial": "Lantus, Toujeo, Levemir, Tresiba",
+      "mecanismoAcao": "Análogos de insulina com absorção lenta e perfil de liberação prolongado, mimetizando secreção basal fisiológica",
+      "farmacocinetica": "Início em 1–2 h; pico ausente ou mínimo; duração ≥24 h (glargina/detemir), até 42 h (degludeca)",
+      "farmacodinamica": "Controla glicemia basal ao longo do dia com mínimo risco de pico hipoglicêmico",
+      "indicacoes": "Diabetes tipo 1 e tipo 2; componente basal de regimes intensivos",
+      "reacoesAdversas": "Hipoglicemia, lipodistrofia, reações locais",
+      "riscoGravidez": "Categoria B ou C conforme análogo (glargina e degludeca: C; detemir: B)",
+      "riscoLactacao": "Considerada segura",
+      "administracao": "Subcutânea, 1x/dia (ou 2x/dia no caso da detemir)",
+      "doseMaxima": "Individualizada conforme sensibilidade à insulina e peso",
+      "doseMinima": "Ajustada conforme esquema basal e controle glicêmico",
+      "classificacao": "Insulina basal de ação prolongada",
+      "apresentacao": "Caneta ou frasco 100–300 UI/mL",
+      "interacaoMedicamento": "Interage com corticoides, betabloqueadores, álcool, contraceptivos",
+      "posologia": "1 vez ao dia (Tresiba, Lantus, Toujeo) ou 2 vezes (Levemir)",
+      "armazenamento": "Refrigerado 2–8°C; após aberto, manter até 28 dias à temperatura ambiente (<30°C)",
+      "preparo": "Transparente; não agitar vigorosamente",
+      "solucoesCompatíveis": "Não aplicar IV; não misturar com outras insulinas",
+      "contraindicacoes": "Hipoglicemia ativa, alergia à formulação",
+      "cuidadosMedicos": "Monitorar glicemias no perioperatório e ajustar conforme necessidade de jejum",
+      "cuidadosFarmaceuticos": "Instruir paciente sobre horário fixo, conservação e técnica de aplicação",
+      "cuidadosEnfermagem": "Observar sinais de hipoglicemia e garantir administração conforme prescrição",
+      "fontesBibliograficas": "ADA, ANVISA, Medscape, Micromedex, bulas oficiais"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Long-acting insulin",
+      "suspension": "Do not suspend before surgery; maintain with careful adjustments for fasting",
+      "risk": "Hypoglycemia if fasting prolonged; hyperglycemia if omitted",
+      "reintroduction": "Continue as basal component or adjust with resumed nutrition"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Insulin glargine, detemir, degludec",
+      "nomeComercial": "Lantus, Toujeo, Levemir, Tresiba",
+      "mecanismoAcao": "Basal insulin analogs with prolonged absorption for steady release",
+      "farmacocinetica": "Onset: 1–2 h; Peak: minimal/none; Duration: ≥24 h (glargine/detemir), up to 42 h (degludec)",
+      "farmacodinamica": "Provides basal glucose control without peaks",
+      "indicacoes": "Type 1 and type 2 diabetes; basal part of insulin regimen",
+      "reacoesAdversas": "Hypoglycemia, lipodystrophy, injection site reactions",
+      "riscoGravidez": "Category B or C (detemir: B; glargine/degludec: C)",
+      "riscoLactacao": "Safe",
+      "administracao": "SC, 1x/day (or 2x/day for detemir)",
+      "doseMaxima": "Individualized by weight and glucose needs",
+      "doseMinima": "As per basal insulin needs",
+      "classificacao": "Long-acting basal insulin",
+      "apresentacao": "Pen or vial 100–300 IU/mL",
+      "interacaoMedicamento": "Corticosteroids, beta-blockers, alcohol, OCPs",
+      "posologia": "Once daily (Tresiba, Lantus, Toujeo) or twice (Levemir)",
+      "armazenamento": "2–8°C refrigerated; up to 28 days at <30°C once opened",
+      "preparo": "Clear solution; do not shake",
+      "solucoesCompatíveis": "Not for IV use; do not mix",
+      "contraindicacoes": "Active hypoglycemia, allergy",
+      "cuidadosMedicos": "Monitor perioperative glucose; adjust if NPO",
+      "cuidadosFarmaceuticos": "Educate on consistent timing and storage",
+      "cuidadosEnfermagem": "Watch for hypoglycemia; administer per protocol",
+      "fontesBibliograficas": "ADA, FDA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Insulina de acción prolongada",
+      "suspension": "No suspender antes de cirugía; mantener con ajustes por ayuno",
+      "risk": "Hipoglucemia por ayuno prolongado; hiperglucemia si se omite",
+      "reintroduction": "Reiniciar según esquema basal al retomar alimentación"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Insulina glargina, detemir, degludec",
+      "nomeComercial": "Lantus, Toujeo, Levemir, Tresiba",
+      "mecanismoAcao": "Análogos basales con absorción lenta y prolongada",
+      "farmacocinetica": "Inicio: 1–2 h; Pico: mínimo; Duración: ≥24 h (hasta 42 h degludec)",
+      "farmacodinamica": "Control basal estable de glucosa",
+      "indicacoes": "Diabetes tipo 1 y 2; componente basal",
+      "reacoesAdversas": "Hipoglucemia, lipoatrofia, reacciones locales",
+      "riscoGravidez": "Categoría B (detemir); C (glargina, degludec)",
+      "riscoLactacao": "Segura",
+      "administracao": "SC 1 vez al día (2 veces con Levemir)",
+      "doseMaxima": "Individualizar según peso y necesidad",
+      "doseMinima": "Según necesidad basal",
+      "classificacao": "Insulina basal de larga duración",
+      "apresentacao": "Plumas o frascos 100–300 UI/mL",
+      "interacaoMedicamento": "Alcohol, betabloqueantes, corticoides, ACO",
+      "posologia": "1 vez/día (Lantus, Tresiba); 2 veces/día (Levemir)",
+      "armazenamento": "2–8°C; 28 días a <30°C tras abierto",
+      "preparo": "Solución clara; no agitar",
+      "solucoesCompatíveis": "No IV; no mezclar",
+      "contraindicacoes": "Hipoglucemia activa, alergia",
+      "cuidadosMedicos": "Ajustar según ayuno y control glucémico",
+      "cuidadosFarmaceuticos": "Educar sobre horario, conservación, aplicación",
+      "cuidadosEnfermagem": "Controlar hipoglucemia y administrar según pauta",
+      "fontesBibliograficas": "ADA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "长效胰岛素",
+      "suspension": "术前不应停药；根据禁食情况调整剂量",
+      "risk": "禁食时可能低血糖，停药可引起高血糖",
+      "reintroduction": "术后根据进食与血糖水平重新调整使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甘精胰岛素、地特胰岛素、德谷胰岛素",
+      "nomeComercial": "Lantus、Toujeo、Levemir、Tresiba",
+      "mecanismoAcao": "模拟基础胰岛素分泌的长效胰岛素类似物",
+      "farmacocinetica": "起效1–2小时；无明显峰值；持续时间≥24小时，德谷胰岛素可达42小时",
+      "farmacodinamica": "维持全天稳定的基础血糖控制",
+      "indicacoes": "1型/2型糖尿病基础胰岛素控制",
+      "reacoesAdversas": "低血糖、注射部位反应、脂肪萎缩",
+      "riscoGravidez": "B类（地特），C类（甘精、德谷）",
+      "riscoLactacao": "哺乳期可用",
+      "administracao": "皮下注射，每日1次（或2次，地特）",
+      "doseMaxima": "根据体重和胰岛素敏感性个体化调整",
+      "doseMinima": "按基础需求计算",
+      "classificacao": "长效基础胰岛素",
+      "apresentacao": "100–300单位/mL 注射笔或瓶装",
+      "interacaoMedicamento": "酒精、糖皮质激素、β受体阻滞剂等",
+      "posologia": "每日1次（Tresiba、Lantus），或每日2次（Levemir）",
+      "armazenamento": "冷藏2–8°C，启用后室温28天内使用",
+      "preparo": "澄清溶液，不可混合其他胰岛素",
+      "solucoesCompatíveis": "不可静注，不可混合",
+      "contraindicacoes": "低血糖、过敏史",
+      "cuidadosMedicos": "术前后密切监测血糖并调整剂量",
+      "cuidadosFarmaceuticos": "强调时间一致性与冷链储存",
+      "cuidadosEnfermagem": "监测低血糖并按处方准确用药",
+      "fontesBibliograficas": "ADA、Micromedex、Medscape、中国药典"
+    }
+  }
+}

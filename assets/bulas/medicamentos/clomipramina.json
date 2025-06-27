@@ -1,0 +1,142 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clomipramina",
+      "suspension": "Suspender 48h antes de cirurgias com anestesia geral, especialmente se uso de opioides, anestésicos halogenados ou risco cardiovascular",
+      "risk": "Sedação, hipotensão ortostática, arritmias, boca seca, constipação, retenção urinária, convulsões, síndrome serotoninérgica",
+      "reintroduction": "Reintroduzir 48–72h após a cirurgia, com estabilidade clínica e ECG normalizado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clomipramina",
+      "nomeComercial": "Anafranil",
+      "mecanismoAcao": "Inibe a recaptação de serotonina e noradrenalina; antagoniza receptores muscarínicos, H1 e alfa1-adrenérgicos",
+      "farmacocinetica": "VO/IM; biodisponibilidade ~50%; T½ ~32h; metabolização hepática (CYP2D6); excreção renal e fecal",
+      "farmacodinamica": "Aumenta neurotransmissão serotoninérgica e noradrenérgica; ação ansiolítica, antidepressiva e antiobsessiva",
+      "indicacoes": "Transtorno obsessivo-compulsivo (TOC), depressão, fobia social, cataplexia, enurese noturna (off-label)",
+      "reacoesAdversas": "Tontura, xerostomia, ganho de peso, sudorese, disfunção sexual, hipotensão, convulsões, arritmia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO 1–3x/dia; pode ser IM em casos graves",
+      "doseMaxima": "250mg/dia",
+      "doseMinima": "25mg/dia",
+      "classificacao": "Antidepressivo tricíclico (ADT)",
+      "apresentacao": "Comprimidos 10mg, 25mg, 75mg; solução injetável 25mg/ml",
+      "interacaoMedicamento": "ISRS, IMAO, lítio, antipsicóticos, carbamazepina, antiarrítmicos, anestésicos",
+      "posologia": "Iniciar com 25mg/dia; aumentar gradualmente até 100–200mg/dia",
+      "armazenamento": "Temperatura ambiente; evitar umidade e luz",
+      "preparo": "Uso oral ou IM conforme prescrição",
+      "solucoesCompatíveis": "SF 0,9% (IM)",
+      "contraindicacoes": "IAM recente, arritmias, glaucoma de ângulo fechado, retenção urinária grave",
+      "cuidadosMedicos": "Monitorar ECG, PA, frequência cardíaca, efeitos anticolinérgicos, convulsões",
+      "cuidadosFarmaceuticos": "Evitar interrupção abrupta; atenção à síndrome de descontinuação",
+      "cuidadosEnfermagem": "Observar sonolência, confusão, constipação, sinais de toxicidade cardiovascular",
+      "comentarioFarmacologico": "Clomipramina é o antidepressivo tricíclico mais eficaz para TOC, com eficácia superior a ISRS em alguns estudos. Sua ação potente sobre serotonina justifica seu uso também em fobias, dor crônica e transtornos ansiosos refratários.",
+      "comentarioSeguranca": "Apresenta risco significativo de toxicidade cardíaca em superdose. A retirada abrupta pode causar sintomas de descontinuação. Deve-se evitar em pacientes com epilepsia mal controlada, arritmias ou comorbidades cardiológicas sem avaliação prévia."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Clomipramine",
+      "suspension": "Suspender 48h antes de cirurgias com anestesia geral, especialmente se uso de opioides, anestésicos halogenados ou risco cardiovascular",
+      "risk": "Sedação, hipotensão ortostática, arritmias, boca seca, constipação, retenção urinária, convulsões, síndrome serotoninérgica",
+      "reintroduction": "Reintroduzir 48–72h após a cirurgia, com estabilidade clínica e ECG normalizado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clomipramina",
+      "nomeComercial": "Anafranil",
+      "mecanismoAcao": "Inibe a recaptação de serotonina e noradrenalina; antagoniza receptores muscarínicos, H1 e alfa1-adrenérgicos",
+      "farmacocinetica": "VO/IM; biodisponibilidade ~50%; T½ ~32h; metabolização hepática (CYP2D6); excreção renal e fecal",
+      "farmacodinamica": "Aumenta neurotransmissão serotoninérgica e noradrenérgica; ação ansiolítica, antidepressiva e antiobsessiva",
+      "indicacoes": "Transtorno obsessivo-compulsivo (TOC), depressão, fobia social, cataplexia, enurese noturna (off-label)",
+      "reacoesAdversas": "Tontura, xerostomia, ganho de peso, sudorese, disfunção sexual, hipotensão, convulsões, arritmia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO 1–3x/dia; pode ser IM em casos graves",
+      "doseMaxima": "250mg/dia",
+      "doseMinima": "25mg/dia",
+      "classificacao": "Antidepressivo tricíclico (ADT)",
+      "apresentacao": "Comprimidos 10mg, 25mg, 75mg; solução injetável 25mg/ml",
+      "interacaoMedicamento": "ISRS, IMAO, lítio, antipsicóticos, carbamazepina, antiarrítmicos, anestésicos",
+      "posologia": "Iniciar com 25mg/dia; aumentar gradualmente até 100–200mg/dia",
+      "armazenamento": "Temperatura ambiente; evitar umidade e luz",
+      "preparo": "Uso oral ou IM conforme prescrição",
+      "solucoesCompatíveis": "SF 0,9% (IM)",
+      "contraindicacoes": "IAM recente, arritmias, glaucoma de ângulo fechado, retenção urinária grave",
+      "cuidadosMedicos": "Monitorar ECG, PA, frequência cardíaca, efeitos anticolinérgicos, convulsões",
+      "cuidadosFarmaceuticos": "Evitar interrupção abrupta; atenção à síndrome de descontinuação",
+      "cuidadosEnfermagem": "Observar sonolência, confusão, constipação, sinais de toxicidade cardiovascular",
+      "comentarioFarmacologico": "Clomipramina é o antidepressivo tricíclico mais eficaz para TOC, com eficácia superior a ISRS em alguns estudos. Sua ação potente sobre serotonina justifica seu uso também em fobias, dor crônica e transtornos ansiosos refratários.",
+      "comentarioSeguranca": "Apresenta risco significativo de toxicidade cardíaca em superdose. A retirada abrupta pode causar sintomas de descontinuação. Deve-se evitar em pacientes com epilepsia mal controlada, arritmias ou comorbidades cardiológicas sem avaliação prévia."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clomipramina",
+      "suspension": "Suspender 48h antes de cirurgias com anestesia geral, especialmente se uso de opioides, anestésicos halogenados ou risco cardiovascular",
+      "risk": "Sedação, hipotensão ortostática, arritmias, boca seca, constipação, retenção urinária, convulsões, síndrome serotoninérgica",
+      "reintroduction": "Reintroduzir 48–72h após a cirurgia, com estabilidade clínica e ECG normalizado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clomipramina",
+      "nomeComercial": "Anafranil",
+      "mecanismoAcao": "Inibe a recaptação de serotonina e noradrenalina; antagoniza receptores muscarínicos, H1 e alfa1-adrenérgicos",
+      "farmacocinetica": "VO/IM; biodisponibilidade ~50%; T½ ~32h; metabolização hepática (CYP2D6); excreção renal e fecal",
+      "farmacodinamica": "Aumenta neurotransmissão serotoninérgica e noradrenérgica; ação ansiolítica, antidepressiva e antiobsessiva",
+      "indicacoes": "Transtorno obsessivo-compulsivo (TOC), depressão, fobia social, cataplexia, enurese noturna (off-label)",
+      "reacoesAdversas": "Tontura, xerostomia, ganho de peso, sudorese, disfunção sexual, hipotensão, convulsões, arritmia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO 1–3x/dia; pode ser IM em casos graves",
+      "doseMaxima": "250mg/dia",
+      "doseMinima": "25mg/dia",
+      "classificacao": "Antidepressivo tricíclico (ADT)",
+      "apresentacao": "Comprimidos 10mg, 25mg, 75mg; solução injetável 25mg/ml",
+      "interacaoMedicamento": "ISRS, IMAO, lítio, antipsicóticos, carbamazepina, antiarrítmicos, anestésicos",
+      "posologia": "Iniciar com 25mg/dia; aumentar gradualmente até 100–200mg/dia",
+      "armazenamento": "Temperatura ambiente; evitar umidade e luz",
+      "preparo": "Uso oral ou IM conforme prescrição",
+      "solucoesCompatíveis": "SF 0,9% (IM)",
+      "contraindicacoes": "IAM recente, arritmias, glaucoma de ângulo fechado, retenção urinária grave",
+      "cuidadosMedicos": "Monitorar ECG, PA, frequência cardíaca, efeitos anticolinérgicos, convulsões",
+      "cuidadosFarmaceuticos": "Evitar interrupção abrupta; atenção à síndrome de descontinuação",
+      "cuidadosEnfermagem": "Observar sonolência, confusão, constipação, sinais de toxicidade cardiovascular",
+      "comentarioFarmacologico": "Clomipramina é o antidepressivo tricíclico mais eficaz para TOC, com eficácia superior a ISRS em alguns estudos. Sua ação potente sobre serotonina justifica seu uso também em fobias, dor crônica e transtornos ansiosos refratários.",
+      "comentarioSeguranca": "Apresenta risco significativo de toxicidade cardíaca em superdose. A retirada abrupta pode causar sintomas de descontinuação. Deve-se evitar em pacientes com epilepsia mal controlada, arritmias ou comorbidades cardiológicas sem avaliação prévia."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯米帕明",
+      "suspension": "Suspender 48h antes de cirurgias com anestesia geral, especialmente se uso de opioides, anestésicos halogenados ou risco cardiovascular",
+      "risk": "Sedação, hipotensão ortostática, arritmias, boca seca, constipação, retenção urinária, convulsões, síndrome serotoninérgica",
+      "reintroduction": "Reintroduzir 48–72h após a cirurgia, com estabilidade clínica e ECG normalizado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clomipramina",
+      "nomeComercial": "Anafranil",
+      "mecanismoAcao": "Inibe a recaptação de serotonina e noradrenalina; antagoniza receptores muscarínicos, H1 e alfa1-adrenérgicos",
+      "farmacocinetica": "VO/IM; biodisponibilidade ~50%; T½ ~32h; metabolização hepática (CYP2D6); excreção renal e fecal",
+      "farmacodinamica": "Aumenta neurotransmissão serotoninérgica e noradrenérgica; ação ansiolítica, antidepressiva e antiobsessiva",
+      "indicacoes": "Transtorno obsessivo-compulsivo (TOC), depressão, fobia social, cataplexia, enurese noturna (off-label)",
+      "reacoesAdversas": "Tontura, xerostomia, ganho de peso, sudorese, disfunção sexual, hipotensão, convulsões, arritmia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO 1–3x/dia; pode ser IM em casos graves",
+      "doseMaxima": "250mg/dia",
+      "doseMinima": "25mg/dia",
+      "classificacao": "Antidepressivo tricíclico (ADT)",
+      "apresentacao": "Comprimidos 10mg, 25mg, 75mg; solução injetável 25mg/ml",
+      "interacaoMedicamento": "ISRS, IMAO, lítio, antipsicóticos, carbamazepina, antiarrítmicos, anestésicos",
+      "posologia": "Iniciar com 25mg/dia; aumentar gradualmente até 100–200mg/dia",
+      "armazenamento": "Temperatura ambiente; evitar umidade e luz",
+      "preparo": "Uso oral ou IM conforme prescrição",
+      "solucoesCompatíveis": "SF 0,9% (IM)",
+      "contraindicacoes": "IAM recente, arritmias, glaucoma de ângulo fechado, retenção urinária grave",
+      "cuidadosMedicos": "Monitorar ECG, PA, frequência cardíaca, efeitos anticolinérgicos, convulsões",
+      "cuidadosFarmaceuticos": "Evitar interrupção abrupta; atenção à síndrome de descontinuação",
+      "cuidadosEnfermagem": "Observar sonolência, confusão, constipação, sinais de toxicidade cardiovascular",
+      "comentarioFarmacologico": "Clomipramina é o antidepressivo tricíclico mais eficaz para TOC, com eficácia superior a ISRS em alguns estudos. Sua ação potente sobre serotonina justifica seu uso também em fobias, dor crônica e transtornos ansiosos refratários.",
+      "comentarioSeguranca": "Apresenta risco significativo de toxicidade cardíaca em superdose. A retirada abrupta pode causar sintomas de descontinuação. Deve-se evitar em pacientes com epilepsia mal controlada, arritmias ou comorbidades cardiológicas sem avaliação prévia."
+    }
+  }
+}

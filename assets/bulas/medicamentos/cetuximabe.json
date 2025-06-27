@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cetuximabe",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva com risco de infecção ou toxicidade mucocutânea grave",
+      "risk": "Reações infusionais, rash acneiforme, hipomagnesemia, toxicidade pulmonar, diarreia, nefrotoxicidade indireta",
+      "reintroduction": "Reintroduzir após cicatrização e estabilização clínica, geralmente após 10–14 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cetuximabe",
+      "nomeComercial": "Erbitux",
+      "mecanismoAcao": "Anticorpo monoclonal quimérico IgG1 que se liga ao domínio extracelular do receptor EGFR (HER1), inibindo sua ativação",
+      "farmacocinetica": "Administração IV; meia-vida ~114h; clearance não linear; não requer ajuste renal/hepático",
+      "farmacodinamica": "Bloqueia proliferação celular mediada por EGFR; promove citotoxicidade mediada por células NK",
+      "indicacoes": "Câncer colorretal metastático RAS wild-type, câncer de cabeça e pescoço escamoso localmente avançado ou metastático",
+      "reacoesAdversas": "Rash, calafrios, febre, diarreia, hipomagnesemia, náusea, toxicidade cutânea, infecção secundária",
+      "riscoGravidez": "Categoria C – uso deve ser evitado, exceto sob risco oncológico",
+      "riscoLactacao": "Contraindicado; desconhece-se excreção no leite",
+      "administracao": "Infusão IV lenta; ataque 400mg/m² em 120 min, manutenção 250mg/m² semanal",
+      "doseMaxima": "400mg/m² (dose de ataque)",
+      "doseMinima": "250mg/m² semanal (manutenção)",
+      "classificacao": "Anticorpo monoclonal anti-EGFR",
+      "apresentacao": "Frascos de 100mg/20ml e 500mg/100ml",
+      "interacaoMedicamento": "Potencial aumento de toxicidade cutânea com irinotecano ou radioterapia; evitar vacinas vivas",
+      "posologia": "Ataque 400mg/m², seguido de 250mg/m²/semana IV",
+      "armazenamento": "Refrigerado (2–8°C); não congelar; proteger da luz",
+      "preparo": "Não diluir; infundir diretamente; administrar com filtro de 0,22μm",
+      "solucoesCompatíveis": "Administrar sem diluição; SF 0,9% para flush",
+      "contraindicacoes": "Hipersensibilidade severa, pneumonite ativa, RAS mutado (colorretal)",
+      "cuidadosMedicos": "Avaliar mutação RAS antes de iniciar; monitorar eletrólitos (Mg, Ca, K), sinais respiratórios e dermatológicos",
+      "cuidadosFarmaceuticos": "Não agitar frascos; estabilidade 48h pós-abertura em 2–8°C",
+      "cuidadosEnfermagem": "Monitorar reação infusional, rash, hidratação e distúrbios eletrolíticos",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cetuximab",
+      "suspension": "Hold 7 days before surgery with risk of infection or EGFR-related skin/mucosal toxicity",
+      "risk": "Infusion reactions, acneiform rash, hypomagnesemia, diarrhea, pulmonary toxicity",
+      "reintroduction": "Restart 10–14 days post-op upon wound healing and clinical stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cetuximab",
+      "nomeComercial": "Erbitux",
+      "mecanismoAcao": "Chimeric IgG1 monoclonal antibody targeting EGFR, blocking ligand binding and downstream signaling",
+      "farmacocinetica": "IV; T½ ~114h; non-linear PK; no renal/hepatic dose adjustment needed",
+      "farmacodinamica": "Inhibits EGFR-mediated cell proliferation; induces NK-mediated cytotoxicity",
+      "indicacoes": "KRAS wild-type metastatic colorectal cancer, squamous cell head and neck cancer",
+      "reacoesAdversas": "Rash, fever, chills, hypomagnesemia, nausea, diarrhea, infection, infusion reaction",
+      "riscoGravidez": "Category C – use only if potential benefit justifies fetal risk",
+      "riscoLactacao": "Avoid; unknown if excreted in human milk",
+      "administracao": "IV: loading dose 400mg/m² over 2h; then 250mg/m² weekly over 1h",
+      "doseMaxima": "400mg/m² (loading)",
+      "doseMinima": "250mg/m² (maintenance)",
+      "classificacao": "Anti-EGFR monoclonal antibody",
+      "apresentacao": "100mg/20ml, 500mg/100ml vials",
+      "interacaoMedicamento": "Increased toxicity with irinotecan; avoid live vaccines",
+      "posologia": "400mg/m² loading IV → 250mg/m² weekly",
+      "armazenamento": "Refrigerate 2–8°C; protect from light; do not freeze",
+      "preparo": "Do not dilute; infuse via 0.22μm inline filter",
+      "solucoesCompatíveis": "Administer undiluted; NS flush",
+      "contraindicacoes": "Severe hypersensitivity, interstitial lung disease, KRAS mutation",
+      "cuidadosMedicos": "RAS testing mandatory; monitor Mg, Ca, K, dermatologic and respiratory status",
+      "cuidadosFarmaceuticos": "Avoid shaking; stable 48h at 2–8°C post-opening",
+      "cuidadosEnfermagem": "Watch for infusion reactions, electrolyte imbalance, rash",
+      "fontesBibliograficas": "FDA label, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cetuximab",
+      "suspension": "Suspender 7 días antes de cirugía con riesgo infeccioso o toxicidad dérmica",
+      "risk": "Reacciones infusionais, rash acneiforme, hipomagnesemia, toxicidad pulmonar",
+      "reintroduction": "Reiniciar tras 10–14 días con recuperación clínica y cicatrización"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cetuximab",
+      "nomeComercial": "Erbitux",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-EGFR que bloquea proliferación y activa citotoxicidad",
+      "farmacocinetica": "IV; T½ ~114h; excreción no renal; sin ajuste hepático",
+      "farmacodinamica": "Bloqueo EGFR; efecto ADCC",
+      "indicacoes": "Cáncer colorrectal KRAS wt, cáncer de cabeza y cuello",
+      "reacoesAdversas": "Rash, escalofríos, fiebre, hipomagnesemia, diarrea, toxicidad pulmonar",
+      "riscoGravidez": "Categoría C – evitar",
+      "riscoLactacao": "No se recomienda",
+      "administracao": "Infusión IV lenta: ataque 400mg/m², mantenimiento 250mg/m²/semana",
+      "doseMaxima": "400mg/m²",
+      "doseMinima": "250mg/m²",
+      "classificacao": "Anticuerpo monoclonal anti-EGFR",
+      "apresentacao": "Viales 100mg/20ml, 500mg/100ml",
+      "interacaoMedicamento": "Irinotecán aumenta toxicidad; evitar vacunas vivas",
+      "posologia": "400mg/m² seguido de 250mg/m²/semana",
+      "armazenamento": "2–8°C; no congelar; 48h estable",
+      "preparo": "No diluir; usar filtro 0.22μm",
+      "solucoesCompatíveis": "Sin diluir; usar SF para enjuague",
+      "contraindicacoes": "Mutación RAS, neumonitis activa, alergia severa",
+      "cuidadosMedicos": "Evaluar estado RAS, Mg, síntomas respiratorios y dérmicos",
+      "cuidadosFarmaceuticos": "No agitar; etiquetado claro; controlar estabilidad",
+      "cuidadosEnfermagem": "Observar rash, diarrea, reacciones a infusión",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "西妥昔单抗",
+      "suspension": "术前7天停药；如存在皮肤毒性或肺部不适更应暂停",
+      "risk": "输注反应、皮疹、低镁血症、肺毒性、腹泻",
+      "reintroduction": "术后10–14天，症状缓解可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "西妥昔单抗",
+      "nomeComercial": "Erbitux",
+      "mecanismoAcao": "与EGFR结合，抑制其激活并激发ADCC效应",
+      "farmacocinetica": "T½约114小时；IV给药；非线性清除；不需肝肾调整",
+      "farmacodinamica": "抗EGFR抗体；抑制肿瘤生长，促进免疫杀伤",
+      "indicacoes": "KRAS野生型转移性结直肠癌、头颈部鳞癌",
+      "reacoesAdversas": "皮疹、发热、低镁血症、输注反应、肺部毒性",
+      "riscoGravidez": "C类 – 非紧急不推荐使用",
+      "riscoLactacao": "禁用",
+      "administracao": "IV输注：首次400mg/m²，后每周250mg/m²",
+      "doseMaxima": "400mg/m²",
+      "doseMinima": "250mg/m²",
+      "classificacao": "抗EGFR单抗药物",
+      "apresentacao": "100mg/20ml、500mg/100ml瓶",
+      "interacaoMedicamento": "与伊立替康或放疗联合毒性↑，禁用活疫苗",
+      "posologia": "初次400mg/m²，维持250mg/m²每周",
+      "armazenamento": "2–8°C冷藏，避光；稀释后48h有效",
+      "preparo": "原液不稀释，直接输注，需0.22μm滤器",
+      "solucoesCompatíveis": "不稀释；使用生理盐水冲洗",
+      "contraindicacoes": "严重过敏反应、RAS突变、活动性肺炎",
+      "cuidadosMedicos": "RAS检测、Mg监测、肺部影像、皮肤评估",
+      "cuidadosFarmaceuticos": "不摇晃、不稀释、按细胞毒规范贮存",
+      "cuidadosEnfermagem": "监测输注反应、皮疹、腹泻与肺功能",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA、NCCN"
+    }
+  }
+}

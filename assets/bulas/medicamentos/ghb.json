@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "GHB (ácido gama-hidroxibutírico)",
+      "suspension": "Suspender 72 horas antes de qualquer cirurgia eletiva",
+      "risk": "Depressão respiratória, bradicardia, coma, interações letais com álcool e anestésicos",
+      "reintroduction": "Contraindicado no pós-operatório imediato; só sob vigilância especializada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido gama-hidroxibutírico",
+      "nomeComercial": "Xyrem (prescrição controlada)",
+      "mecanismoAcao": "Age como neurotransmissor e agonista do GABA-B e do receptor específico GHB; inibe neurônios excitatórios",
+      "farmacocinetica": "Absorção rápida VO, Tmáx 30–60 min, meia-vida 30–50 min, metabolização hepática; excreção renal <5%",
+      "farmacodinamica": "Sedativo hipnótico, anticonvulsivante, promove sono profundo e amnésia",
+      "indicacoes": "Narcolepsia com cataplexia; uso ilícito como droga de abuso (club drug ou 'date rape drug')",
+      "reacoesAdversas": "Náusea, vômito, sonolência intensa, delírio, dependência, depressão respiratória",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral, dividido em duas doses noturnas",
+      "doseMaxima": "9 g/dia (uso médico)",
+      "doseMinima": "4,5 g/dia",
+      "classificacao": "Depressor do SNC (psicotrópico controlado)",
+      "apresentacao": "Solução oral 500 mg/mL (frasco de 180 mL)",
+      "interacaoMedicamento": "Interage com álcool, benzodiazepínicos, opioides e barbitúricos",
+      "posologia": "Inicial 2,25 g VO à noite + 2,25 g após 4 h; ajustar até 9 g conforme resposta",
+      "armazenamento": "Temperatura ambiente, recipiente à prova de violação",
+      "preparo": "Diluir com água conforme bula; preparar 2 doses separadas",
+      "solucoesCompatíveis": "Água potável",
+      "contraindicacoes": "Uso com álcool, distúrbios respiratórios, psicose, crianças",
+      "cuidadosMedicos": "Monitorar nível de consciência, padrão respiratório, sinais de abuso",
+      "cuidadosFarmaceuticos": "Uso sob prescrição e controle especial; reconstituição exata",
+      "cuidadosEnfermagem": "Supervisão rigorosa após uso; avaliar sedação e resposta neurológica",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Erowid, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "GHB (gamma-hydroxybutyric acid)",
+      "suspension": "Discontinue at least 72 hours preoperatively",
+      "risk": "Respiratory depression, bradycardia, coma, fatal if combined with alcohol or CNS depressants",
+      "reintroduction": "Only under clinical supervision post-op, if medically indicated"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gamma-hydroxybutyrate (sodium oxybate)",
+      "nomeComercial": "Xyrem (CIII), illicit use as G (G, Liquid Ecstasy, Georgia Home Boy)",
+      "mecanismoAcao": "CNS depressant acting on GABA-B and GHB receptors, mimics inhibitory neurotransmission",
+      "farmacocinetica": "Tmax ~30–60 min, half-life ~30–50 min, metabolized in liver; <5% excreted unchanged",
+      "farmacodinamica": "Produces sedation, amnesia, anticonvulsant effects; sleep regulation in narcoleptics",
+      "indicacoes": "Cataplexy and excessive daytime sleepiness in narcolepsy; illicit as a recreational or date rape drug",
+      "reacoesAdversas": "Vomiting, dizziness, confusion, hallucination, seizures, addiction",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral, split into two nightly doses",
+      "doseMaxima": "9 g/day",
+      "doseMinima": "4.5 g/day",
+      "classificacao": "CNS depressant (Schedule III medical / Schedule I illicit)",
+      "apresentacao": "Oral solution 500 mg/mL",
+      "interacaoMedicamento": "Dangerous with alcohol, benzos, opioids, barbiturates",
+      "posologia": "2.25 g before bed + 2.25 g after 4 h; titrate per response",
+      "armazenamento": "Secure container at room temperature",
+      "preparo": "Dilute each dose with water as per package",
+      "solucoesCompatíveis": "Water only",
+      "contraindicacoes": "Alcohol use, respiratory illness, history of abuse, pediatric use",
+      "cuidadosMedicos": "Monitor mental status, breathing, signs of misuse",
+      "cuidadosFarmaceuticos": "Strict regulation, education about dual risks (therapeutic and abuse)",
+      "cuidadosEnfermagem": "Assess sedation, airway, behavior post-dose",
+      "fontesBibliograficas": "FDA, DEA, Micromedex, Lexicomp, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "GHB (ácido gamma-hidroxibutírico)",
+      "suspension": "Suspender 72 h antes de cirugía programada",
+      "risk": "Depresión respiratoria, coma, sinergia letal con alcohol y depresores",
+      "reintroduction": "Solo bajo control médico tras cirugía"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxybato de sodio",
+      "nomeComercial": "Xyrem (uso legal); Éxtasis líquido (uso ilegal)",
+      "mecanismoAcao": "Agonista GABA-B y receptor GHB; inhibidor SNC potente",
+      "farmacocinetica": "Tmax 30–60 min, vida media 30–50 min; eliminación hepática",
+      "farmacodinamica": "Induce sueño profundo, efectos hipnóticos y sedantes potentes",
+      "indicacoes": "Narcolepsia con cataplejía; uso recreativo y criminal",
+      "reacoesAdversas": "Somnolencia, alucinaciones, vómitos, dependencia, sobredosis letal",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desaconsejado",
+      "administracao": "Oral nocturna, 2 tomas",
+      "doseMaxima": "9 g/día",
+      "doseMinima": "4,5 g/día",
+      "classificacao": "Depresor SNC; CIII legal / CI ilegal",
+      "apresentacao": "Solución 500 mg/mL",
+      "interacaoMedicamento": "Alcohol, opioides, benzodiacepinas",
+      "posologia": "2.25 g antes de dormir + 2.25 g 4 h después",
+      "armazenamento": "Ambiente cerrado, protegido",
+      "preparo": "Diluir con agua como indica el envase",
+      "solucoesCompatíveis": "Agua",
+      "contraindicacoes": "Alcoholismo, psicosis, apnea, niños",
+      "cuidadosMedicos": "Monitoreo estricto posdosis",
+      "cuidadosFarmaceuticos": "Distribución restringida; etiqueta de riesgo doble",
+      "cuidadosEnfermagem": "Observar conciencia, respiración, signos de abuso",
+      "fontesBibliograficas": "AEMPS, EMA, FDA, UpToDate, Erowid"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "γ-羟基丁酸（GHB）",
+      "suspension": "术前72小时停药",
+      "risk": "中枢抑制、呼吸抑制、与乙醇合用致命",
+      "reintroduction": "术后仅在严格监护下恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "γ-羟基丁酸钠",
+      "nomeComercial": "Xyrem（医疗）；液体迷药（非法）",
+      "mecanismoAcao": "激动GABA-B和GHB受体，强抑制中枢神经",
+      "farmacocinetica": "口服吸收快，Tmax 30–60分，t½约30–50分，肝代谢",
+      "farmacodinamica": "诱导深睡、镇静、抗痉挛、短时记忆缺失",
+      "indicacoes": "发作性嗜睡症，非法用于俱乐部和犯罪",
+      "reacoesAdversas": "昏睡、呕吐、错乱、成瘾、呼吸抑制",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "禁用",
+      "administracao": "口服，每晚2次",
+      "doseMaxima": "9克/日",
+      "doseMinima": "4.5克/日",
+      "classificacao": "中枢抑制剂，III类处方/非法I类毒品",
+      "apresentacao": "500 mg/mL口服液",
+      "interacaoMedicamento": "乙醇、阿片、镇静药联用高风险",
+      "posologia": "2.25克睡前+2.25克4小时后",
+      "armazenamento": "防篡改容器，室温",
+      "preparo": "按说明加水稀释",
+      "solucoesCompatíveis": "饮用水",
+      "contraindicacoes": "饮酒、呼吸疾病、精神病、儿童",
+      "cuidadosMedicos": "监测意识、呼吸、误用征象",
+      "cuidadosFarmaceuticos": "配药严格，使用需登记",
+      "cuidadosEnfermagem": "警惕镇静过度与呼吸骤停",
+      "fontesBibliograficas": "FDA、DEA、中国药典、Micromedex、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Octreotida",
+      "suspension": "Manter até a véspera da cirurgia; ajustar dose em função da condição clínica e rota (SC ou IV)",
+      "risk": "Risco de hiperglicemia, hipoglicemia, dismotilidade intestinal e alterações eletrolíticas; interações com anestésicos, insulina e medicamentos GI",
+      "reintroduction": "Reintroduzir o mais breve possível conforme condição clínica e tolerância digestiva"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Octreotida",
+      "nomeComercial": "Sandostatin, Sandostatin LAR",
+      "mecanismoAcao": "Análogo sintético da somatostatina que inibe a secreção de hormônios gastrointestinais, GH, insulina e glucagon; reduz motilidade e fluxo sanguíneo entérico",
+      "farmacocinetica": "Administração SC/IV; início em minutos; meia-vida 1,5–2h (SC), 3–4 semanas (LAR IM); metabolização hepática parcial; excreção renal",
+      "farmacodinamica": "Reduz secreções GI, controla sintomas de tumores neuroendócrinos e sangramentos digestivos",
+      "indicacoes": "Acromegalia, tumores neuroendócrinos funcionantes (VIPoma, carcinoide), fístulas pancreáticas, sangramento varicoso esofágico",
+      "reacoesAdversas": "Dor no local da injeção, náusea, diarreia, flatulência, cálculos biliares, hiperglicemia, bradicardia",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excreção desconhecida; usar com cautela",
+      "administracao": "Subcutânea, intravenosa ou intramuscular (LAR)",
+      "doseMaxima": "600 mcg/dia (SC contínuo); 30 mg/mês (LAR)",
+      "doseMinima": "50 mcg 2x/dia SC",
+      "classificacao": "Análogo de somatostatina",
+      "apresentacao": "Ampolas SC/IV 50/100/500 mcg/mL; LAR: 10/20/30 mg frasco-ampola IM",
+      "interacaoMedicamento": "Pode interferir com insulina, ciclosporina, betabloqueadores e diuréticos",
+      "posologia": "50–200 mcg SC 2–3x/dia; LAR: 20–30 mg IM a cada 4 semanas",
+      "armazenamento": "Refrigerar (2–8°C); LAR: reconstituir com diluente próprio e aplicar imediatamente",
+      "preparo": "Ampolas: uso direto; LAR: seguir técnica asséptica rigorosa na reconstituição",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Hipersensibilidade à octreotida ou derivados da somatostatina",
+      "cuidadosMedicos": "Monitorar glicemia, eletrólitos, função hepática e ultrassonografia biliar a longo prazo",
+      "cuidadosFarmaceuticos": "Orientar técnica de aplicação e conservação adequada",
+      "cuidadosEnfermagem": "Observar hiperglicemia, dor local, diarreia e sinais de intolerância GI",
+      "fontesBibliograficas": "Micromedex, UpToDate, ANVISA, Sandostatin bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Octreotide",
+      "suspension": "Continue until the day before surgery; adjust dose based on clinical status and administration route",
+      "risk": "Risk of hyperglycemia, hypoglycemia, GI dysmotility, electrolyte imbalance; interacts with anesthetics, insulin, and GI agents",
+      "reintroduction": "Reintroduce as soon as tolerated orally or via SC/IM route post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Octreotide",
+      "nomeComercial": "Sandostatin, Sandostatin LAR",
+      "mecanismoAcao": "Synthetic somatostatin analog that inhibits secretion of GI hormones, GH, insulin, and glucagon; reduces splanchnic blood flow and motility",
+      "farmacocinetica": "SC/IV onset within minutes; half-life 1.5–2h (SC), 3–4 weeks (LAR IM); partial hepatic metabolism; renal excretion",
+      "farmacodinamica": "Reduces GI secretions, controls symptoms of neuroendocrine tumors and GI bleeding",
+      "indicacoes": "Acromegaly, functional NETs (carcinoid, VIPoma), pancreatic fistulas, variceal bleeding",
+      "reacoesAdversas": "Injection site pain, nausea, diarrhea, flatulence, gallstones, hyperglycemia, bradycardia",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "Subcutaneous, intravenous, intramuscular (LAR)",
+      "doseMaxima": "600 mcg/day (SC); 30 mg/month (LAR)",
+      "doseMinima": "50 mcg SC BID",
+      "classificacao": "Somatostatin analog",
+      "apresentacao": "SC/IV ampoules: 50/100/500 mcg/mL; LAR IM: 10/20/30 mg vials",
+      "interacaoMedicamento": "May affect insulin, cyclosporine, beta-blockers, diuretics",
+      "posologia": "SC: 50–200 mcg 2–3x/day; LAR: 20–30 mg IM every 4 weeks",
+      "armazenamento": "Refrigerate (2–8°C); reconstitute LAR just before use",
+      "preparo": "Ampoules: ready to use; LAR: strict aseptic reconstitution required",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Hypersensitivity to octreotide or somatostatin analogs",
+      "cuidadosMedicos": "Monitor glucose, liver function, electrolytes, and biliary ultrasound in long-term use",
+      "cuidadosFarmaceuticos": "Educate on injection technique and cold chain preservation",
+      "cuidadosEnfermagem": "Monitor for GI intolerance, injection reactions, glucose changes",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Sandostatin PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Octreotida",
+      "suspension": "Mantener hasta la víspera de cirugía; ajustar según vía (SC o IV) y condición clínica",
+      "risk": "Riesgo de hiperglucemia, hipoglucemia, dismotilidad intestinal y desequilibrio electrolítico; interacción con anestésicos e insulina",
+      "reintroduction": "Reiniciar lo antes posible según estado clínico y tolerancia digestiva"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Octreotida",
+      "nomeComercial": "Sandostatin, Sandostatin LAR",
+      "mecanismoAcao": "Análogo sintético de la somatostatina que inhibe secreción hormonal GI, GH, insulina y glucagón; reduce motilidad y flujo esplácnico",
+      "farmacocinetica": "SC/IV inicio rápido; vida media 1.5–2 h (SC), 3–4 semanas (LAR); metabolismo hepático parcial; excreción renal",
+      "farmacodinamica": "Reduce secreciones digestivas, controla síntomas de tumores neuroendocrinos y hemorragia digestiva",
+      "indicacoes": "Acromegalia, NETs funcionantes (carcinoide, VIPoma), fístulas pancreáticas, hemorragia variceal",
+      "reacoesAdversas": "Dolor en el sitio de inyección, náuseas, diarrea, flatulencia, litiasis biliar, hiperglucemia, bradicardia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Excreción desconocida; usar con precaución",
+      "administracao": "Subcutánea, intravenosa, intramuscular (LAR)",
+      "doseMaxima": "600 mcg/día (SC); 30 mg/mes (LAR)",
+      "doseMinima": "50 mcg SC BID",
+      "classificacao": "Análogo de somatostatina",
+      "apresentacao": "Ampollas SC/IV: 50/100/500 mcg/mL; LAR IM: 10/20/30 mg",
+      "interacaoMedicamento": "Interacción con insulina, ciclosporina, betabloqueantes, diuréticos",
+      "posologia": "50–200 mcg SC 2–3 veces/día; LAR: 20–30 mg IM cada 4 semanas",
+      "armazenamento": "Refrigerar (2–8°C); reconstituir LAR justo antes de usar",
+      "preparo": "Ampollas listas para uso; LAR requiere técnica aséptica",
+      "solucoesCompatíveis": "NaCl 0,9%",
+      "contraindicacoes": "Hipersensibilidad a octreotida o derivados",
+      "cuidadosMedicos": "Monitorizar glucosa, función hepática, electrolitos y vesícula en uso crónico",
+      "cuidadosFarmaceuticos": "Educar sobre aplicación e importancia de la cadena de frío",
+      "cuidadosEnfermagem": "Observar tolerancia digestiva, reacciones locales, alteraciones glucémicas",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Sandostatin"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥曲肽",
+      "suspension": "术前可维持使用，根据病情及用药途径调整剂量",
+      "risk": "可能引起血糖异常、胃肠动力减弱、电解质紊乱；与麻醉药和胰岛素等有相互作用",
+      "reintroduction": "术后可尽早恢复皮下注射或口服耐受后开始"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥曲肽",
+      "nomeComercial": "Sandostatin、Sandostatin LAR",
+      "mecanismoAcao": "合成生长抑素类似物，抑制胃肠激素、GH、胰岛素和胰高血糖素分泌，降低内脏血流和蠕动",
+      "farmacocinetica": "皮下/静脉起效快，SC半衰期1.5–2小时，LAR 3–4周，经肝代谢，肾排泄",
+      "farmacodinamica": "减少胃肠分泌，控制神经内分泌瘤症状和胃肠出血",
+      "indicacoes": "肢端肥大症、功能性神经内分泌瘤（类癌、VIP瘤）、胰瘘、食管静脉出血",
+      "reacoesAdversas": "注射部位疼痛、恶心、腹泻、胀气、胆结石、高血糖、心动过缓",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "是否分泌乳汁中未知，慎用",
+      "administracao": "皮下、静脉、LAR为肌注",
+      "doseMaxima": "600 mcg/天（SC）；30 mg/月（LAR）",
+      "doseMinima": "每日50 mcg皮下注射2次",
+      "classificacao": "生长抑素类似物",
+      "apresentacao": "SC/IV注射液：50/100/500 mcg/mL；LAR针剂：10/20/30 mg",
+      "interacaoMedicamento": "影响胰岛素、环孢素、β阻滞剂、利尿剂等药效",
+      "posologia": "皮下注射每日2–3次，每次50–200 mcg；LAR每4周肌注20–30 mg",
+      "armazenamento": "冷藏保存（2–8°C）；LAR现配现用",
+      "preparo": "安瓿可直接使用；LAR严格无菌配药",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对奥曲肽或生长抑素类过敏者禁用",
+      "cuidadosMedicos": "监测血糖、电解质、肝功能及长期胆囊超声",
+      "cuidadosFarmaceuticos": "指导注射技术及冷链保存",
+      "cuidadosEnfermagem": "监测注射部位反应、胃肠不适及血糖波动",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Sandostatin说明书"
+    }
+  }
+}

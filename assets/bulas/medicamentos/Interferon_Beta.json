@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Interferon beta",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas, se possível",
+      "risk": "Risco de exacerbação de sintomas gripais, alteração da imunidade, hepatotoxicidade e interferência na cicatrização",
+      "reintroduction": "Reintroduzir após recuperação pós-operatória e estabilização hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Interferon beta-1a ou beta-1b",
+      "nomeComercial": "Avonex, Rebif, Betaferon, Extavia",
+      "mecanismoAcao": "Modulador imunológico que reduz inflamação e proliferação celular ao interferir na sinalização de citocinas",
+      "farmacocinetica": "Administração subcutânea ou intramuscular; meia-vida ~10 horas; metabolismo proteico hepático",
+      "farmacodinamica": "Reduz surtos e lesões inflamatórias na esclerose múltipla e modula resposta antiviral e inflamatória",
+      "indicacoes": "Esclerose múltipla remitente-recorrente e tratamento adjuvante em infecções virais graves (uso experimental)",
+      "reacoesAdversas": "Sintomas gripais, depressão, elevação de transaminases, anemia, linfopenia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Pode ser usado com cautela em aleitamento, sob supervisão",
+      "administracao": "Via intramuscular (1x/semana) ou subcutânea (3x/semana)",
+      "doseMaxima": "44 mcg 3x/semana (subcutâneo); 30 mcg 1x/semana (IM)",
+      "doseMinima": "22 mcg 3x/semana ou conforme titulação",
+      "classificacao": "Imunomodulador biológico – interferon tipo I",
+      "apresentacao": "Solução injetável (frascos ou seringas prontas); liofilizado",
+      "interacaoMedicamento": "Potencial hepatotoxicidade com paracetamol, antirretrovirais, metotrexato",
+      "posologia": "IM: 30 mcg/semana; SC: 22 a 44 mcg 3x/semana",
+      "armazenamento": "Refrigerado (2–8°C); proteger da luz; não congelar",
+      "preparo": "Pronto para uso (seringa) ou reconstituir conforme bula (liofilizado)",
+      "solucoesCompatíveis": "Não aplicável (injeção direta)",
+      "contraindicacoes": "Depressão grave, insuficiência hepática, hipersensibilidade à albumina humana (se presente)",
+      "cuidadosMedicos": "Monitorar função hepática, hemograma e sintomas psiquiátricos",
+      "cuidadosFarmaceuticos": "Armazenamento refrigerado rigoroso; orientar estabilidade após reconstituição",
+      "cuidadosEnfermagem": "Observar reações no local de aplicação e sinais de síndrome gripal",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Medscape, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Interferon beta",
+      "suspension": "Suspend 7 days before elective surgery if possible",
+      "risk": "Risk of flu-like symptoms, immune modulation, liver enzyme elevation, impaired wound healing",
+      "reintroduction": "Restart after post-op recovery and hepatic stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Interferon beta-1a or beta-1b",
+      "nomeComercial": "Avonex, Rebif, Betaferon, Extavia",
+      "mecanismoAcao": "Immunomodulator that alters cytokine signaling to reduce inflammation and cellular activation",
+      "farmacocinetica": "IM or SC; t½ ~10 h; hepatic protein metabolism",
+      "farmacodinamica": "Reduces relapse and MRI lesion activity in MS; antiviral and anti-inflammatory effects",
+      "indicacoes": "Relapsing multiple sclerosis; experimental in viral infections",
+      "reacoesAdversas": "Flu-like symptoms, depression, LFT elevation, anemia, lymphopenia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "May be used cautiously under supervision",
+      "administracao": "Intramuscular (1x/week) or subcutaneous (3x/week)",
+      "doseMaxima": "44 mcg SC 3x/week; 30 mcg IM weekly",
+      "doseMinima": "22 mcg SC 3x/week",
+      "classificacao": "Biological immunomodulator – type I interferon",
+      "apresentacao": "Prefilled syringes or lyophilized injection vials",
+      "interacaoMedicamento": "Hepatotoxic potential with methotrexate, antiretrovirals, acetaminophen",
+      "posologia": "IM: 30 mcg/week; SC: 22–44 mcg 3x/week",
+      "armazenamento": "Store at 2–8°C; protect from light; do not freeze",
+      "preparo": "Use prefilled or reconstitute lyophilized per label",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe depression, hepatic impairment, allergy to albumin",
+      "cuidadosMedicos": "Monitor CBC, LFTs, mental status",
+      "cuidadosFarmaceuticos": "Maintain cold chain; ensure reconstitution compliance",
+      "cuidadosEnfermagem": "Observe injection site and systemic response",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Interferón beta",
+      "suspension": "Suspender 7 días antes de cirugía programada si es posible",
+      "risk": "Síntomas gripales, hepatotoxicidad, inmunomodulación, retraso en cicatrización",
+      "reintroduction": "Reanudar tras estabilización hepática y recuperación posquirúrgica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Interferón beta-1a o beta-1b",
+      "nomeComercial": "Avonex, Rebif, Betaferon, Extavia",
+      "mecanismoAcao": "Modulador inmunológico que regula citocinas e inhibe inflamación",
+      "farmacocinetica": "IM o SC; t½ ~10 h; metabolismo hepático",
+      "farmacodinamica": "Reduce recaídas y lesiones en EM; efecto antiviral experimental",
+      "indicacoes": "Esclerosis múltiple remitente-recurrente; infecciones virales graves (experimental)",
+      "reacoesAdversas": "Síntomas gripales, depresión, elevación de enzimas hepáticas, anemia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Usar con precaución bajo supervisión médica",
+      "administracao": "Intramuscular semanal o subcutánea 3x/semana",
+      "doseMaxima": "44 mcg SC; 30 mcg IM",
+      "doseMinima": "22 mcg SC",
+      "classificacao": "Inmunomodulador biológico – interferón tipo I",
+      "apresentacao": "Solución inyectable o liofilizado",
+      "interacaoMedicamento": "Interacción con fármacos hepatotóxicos (metotrexato, retrovirales)",
+      "posologia": "IM: 30 mcg/semana; SC: 22–44 mcg 3x/semana",
+      "armazenamento": "2–8°C; no congelar; proteger de la luz",
+      "preparo": "Listo para usar o reconstituir según instrucciones",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Depresión grave, insuficiencia hepática, alergia a albúmina",
+      "cuidadosMedicos": "Monitorear función hepática, hemograma y estado mental",
+      "cuidadosFarmaceuticos": "Garantizar cadena de frío y correcta reconstitución",
+      "cuidadosEnfermagem": "Vigilar reacciones locales y sistémicas",
+      "fontesBibliograficas": "EMA, FDA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "干扰素β",
+      "suspension": "择期手术前建议停药7天",
+      "risk": "可能引发类似流感症状、肝毒性、免疫调节和术后愈合延迟",
+      "reintroduction": "术后恢复与肝功能稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "干扰素β-1a或β-1b",
+      "nomeComercial": "Avonex，Rebif，Betaferon，Extavia",
+      "mecanismoAcao": "通过调控细胞因子信号抑制炎症反应的免疫调节剂",
+      "farmacocinetica": "肌注或皮下注射；t½约10小时；经肝代谢",
+      "farmacodinamica": "减缓多发性硬化病情进展，具有抗病毒及免疫调节效应",
+      "indicacoes": "复发型多发性硬化症；重症病毒感染的实验性用途",
+      "reacoesAdversas": "流感样症状、抑郁、肝酶升高、贫血、白细胞减少",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可在医生监督下谨慎使用",
+      "administracao": "肌注每周1次或皮下注射每周3次",
+      "doseMaxima": "SC：44微克，IM：30微克",
+      "doseMinima": "SC：22微克",
+      "classificacao": "免疫调节剂 – I型干扰素",
+      "apresentacao": "预充注射器或冻干粉",
+      "interacaoMedicamento": "与对肝脏有毒药物（如甲氨蝶呤、抗病毒药）有相互作用",
+      "posologia": "IM：30微克/周；SC：22–44微克，每周3次",
+      "armazenamento": "冷藏（2–8°C），避免冷冻与光照",
+      "preparo": "使用前根据类型注射或重溶",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重抑郁、肝功能衰竭、对白蛋白过敏者禁用",
+      "cuidadosMedicos": "监测肝功能、血象及心理状态",
+      "cuidadosFarmaceuticos": "确保冷链管理与用药有效期",
+      "cuidadosEnfermagem": "观察注射部位和全身反应",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，Medscape"
+    }
+  }
+}

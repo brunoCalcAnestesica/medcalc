@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Desmopressina nasal",
+      "suspension": "Suspender 24 a 48 horas antes de cirurgias, especialmente em pacientes com risco de hiponatremia.",
+      "risk": "Risco de retenção hídrica, hiponatremia e convulsões, especialmente em procedimentos com restrição hídrica.",
+      "reintroduction": "Reintroduzir após normalização do sódio sérico e estabilidade hemodinâmica e eletrolítica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Desmopressina acetato",
+      "nomeComercial": "Minurin, DDAVP, Octim",
+      "mecanismoAcao": "Análogo sintético da vasopressina com ação antidiurética por estímulo de receptores V2 renais.",
+      "farmacocinetica": "Biodisponibilidade nasal ~3–5%; início 15–60 min; duração 6–14 h; metabolização hepática parcial.",
+      "farmacodinamica": "Reduz diurese, aumenta reabsorção de água nos túbulos renais e prolonga o tempo de sangramento por aumento de fator de von Willebrand.",
+      "indicacoes": "Diabetes insipidus central, enurese noturna primária, polidipsia, e distúrbios hemorrágicos leves como doença de von Willebrand tipo 1.",
+      "reacoesAdversas": "Hiponatremia, cefaleia, congestão nasal, irritação local, náuseas.",
+      "riscoGravidez": "Categoria B – Usar se necessário.",
+      "riscoLactacao": "Excreção no leite desconhecida; usar com cautela.",
+      "administracao": "Via intranasal",
+      "doseMaxima": "40 mcg/dose",
+      "doseMinima": "5 mcg/dose",
+      "classificacao": "Análogo da vasopressina / antidiurético e hemostático",
+      "apresentacao": "Spray nasal: 10 mcg/dose; solução nasal: 100 mcg/mL",
+      "interacaoMedicamento": "Interage com AINEs, antidepressivos tricíclicos, carbamazepina e ISRS (aumentam risco de hiponatremia).",
+      "posologia": "5–40 mcg por dia conforme indicação; dose dividida em 1–3 administrações.",
+      "armazenamento": "Refrigerado (2–8°C) antes de aberto; temperatura ambiente até 4 semanas após aberto.",
+      "preparo": "Agitar suavemente e limpar a ponta aplicadora antes e após o uso.",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hiponatremia pré-existente, insuficiência cardíaca descompensada, SIADH.",
+      "cuidadosMedicos": "Monitorar sódio sérico, peso corporal e volume urinário.",
+      "cuidadosFarmaceuticos": "Orientar sobre risco de ingestão excessiva de água durante o uso.",
+      "cuidadosEnfermagem": "Observar sinais de hiponatremia como cefaleia, confusão, náusea, convulsões.",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, SBEM, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Intranasal desmopressin",
+      "suspension": "Discontinue 24–48 hours prior to surgery, especially in patients at risk of hyponatremia.",
+      "risk": "Risk of water retention, hyponatremia, and seizures—particularly with perioperative fluid restriction.",
+      "reintroduction": "Reintroduce only after normalization of serum sodium and stable fluid/electrolyte status."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Desmopressin acetate",
+      "nomeComercial": "DDAVP, Stimate (nasal), Noctiva",
+      "mecanismoAcao": "Synthetic analog of vasopressin acting on renal V2 receptors to promote antidiuretic effect.",
+      "farmacocinetica": "Nasal bioavailability ~3–5%; onset 15–60 min; duration 6–14 h; hepatic metabolism.",
+      "farmacodinamica": "Decreases urine output, increases water reabsorption, raises von Willebrand factor levels.",
+      "indicacoes": "Central diabetes insipidus, nocturnal enuresis, mild hemophilia A or von Willebrand disease type 1.",
+      "reacoesAdversas": "Hyponatremia, headache, nasal congestion, local irritation, nausea.",
+      "riscoGravidez": "Category B – Use only if clearly needed.",
+      "riscoLactacao": "Unknown if excreted in milk; use with caution.",
+      "administracao": "Intranasal",
+      "doseMaxima": "40 mcg/dose",
+      "doseMinima": "5 mcg/dose",
+      "classificacao": "Vasopressin analog / Antidiuretic and hemostatic agent",
+      "apresentacao": "Nasal spray: 10 mcg/dose; solution: 100 mcg/mL",
+      "interacaoMedicamento": "Interacts with NSAIDs, TCAs, SSRIs, carbamazepine—increased hyponatremia risk.",
+      "posologia": "5–40 mcg/day depending on indication, divided 1–3x daily.",
+      "armazenamento": "Refrigerate before opening; store at room temperature for up to 4 weeks after opening.",
+      "preparo": "Shake gently; clean spray nozzle before and after use.",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hyponatremia, decompensated heart failure, SIADH.",
+      "cuidadosMedicos": "Monitor sodium levels, weight, and urine output.",
+      "cuidadosFarmaceuticos": "Warn against excess water intake during treatment.",
+      "cuidadosEnfermagem": "Monitor for hyponatremia: headache, confusion, nausea, seizures.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, NIH"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Desmopresina nasal",
+      "suspension": "Suspender 24–48 horas antes de cirugía, especialmente en pacientes con riesgo de hiponatremia.",
+      "risk": "Riesgo de retención hídrica, hiponatremia y convulsiones, especialmente con restricción hídrica perioperatoria.",
+      "reintroduction": "Reintroducir una vez normalizado el sodio y estabilizado el estado hidroelectrolítico."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetato de desmopresina",
+      "nomeComercial": "Minurin, DDAVP, Octim",
+      "mecanismoAcao": "Análogo sintético de vasopresina con efecto antidiurético al actuar sobre receptores V2 renales.",
+      "farmacocinetica": "Biodisponibilidad nasal ~3–5%; inicio 15–60 min; duración 6–14 h; metabolismo hepático.",
+      "farmacodinamica": "Disminuye la diuresis, aumenta la reabsorción de agua y eleva factor von Willebrand.",
+      "indicacoes": "Diabetes insípida central, enuresis nocturna primaria, hemofilia A leve y enfermedad de von Willebrand tipo 1.",
+      "reacoesAdversas": "Hiponatremia, cefalea, congestión nasal, irritación local, náuseas.",
+      "riscoGravidez": "Categoría B – Usar solo si es necesario.",
+      "riscoLactacao": "Se desconoce su excreción; usar con precaución.",
+      "administracao": "Vía intranasal",
+      "doseMaxima": "40 mcg/dosis",
+      "doseMinima": "5 mcg/dosis",
+      "classificacao": "Análogo de vasopresina / Antidiurético y hemostático",
+      "apresentacao": "Spray nasal: 10 mcg/dosis; solución: 100 mcg/mL",
+      "interacaoMedicamento": "Interacción con AINEs, tricíclicos, ISRS, carbamazepina.",
+      "posologia": "5–40 mcg/día según indicación, divididos 1–3 aplicaciones.",
+      "armazenamento": "Refrigerado antes de abrir; temperatura ambiente hasta 4 semanas tras apertura.",
+      "preparo": "Agitar suavemente; limpiar el aplicador nasal antes y después del uso.",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hiponatremia, IC descompensada, SIADH.",
+      "cuidadosMedicos": "Control de sodio, diuresis y peso.",
+      "cuidadosFarmaceuticos": "Advertir sobre riesgo de sobrehidratación.",
+      "cuidadosEnfermagem": "Vigilar síntomas de hiponatremia: cefalea, confusión, convulsiones.",
+      "fontesBibliograficas": "EMA, AEMPS, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "去氨加压素鼻用",
+      "suspension": "术前24–48小时停用，特别是有低钠血症风险者。",
+      "risk": "可能导致水潴留、低钠血症及癫痫，尤其在术中限液者。",
+      "reintroduction": "术后钠水平恢复正常、水电解质平衡稳定后可重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "去氨加压素",
+      "nomeComercial": "DDAVP、Minirin、Octim",
+      "mecanismoAcao": "作用于肾脏V2受体的合成抗利尿激素，减少水排出。",
+      "farmacocinetica": "鼻吸收率3–5%，起效时间15–60分钟，作用持续6–14小时，肝脏部分代谢。",
+      "farmacodinamica": "减少尿量，增加水重吸收，提高血管性血友病因子。",
+      "indicacoes": "中枢性尿崩症、夜间遗尿、1型vWF病、轻度血友病A。",
+      "reacoesAdversas": "低钠血症、头痛、鼻塞、局部刺激、恶心。",
+      "riscoGravidez": "B类 – 如需使用需权衡利弊。",
+      "riscoLactacao": "可能进入乳汁，慎用。",
+      "administracao": "鼻用",
+      "doseMaxima": "40微克/次",
+      "doseMinima": "5微克/次",
+      "classificacao": "加压素类似物 / 抗利尿药和止血药",
+      "apresentacao": "鼻喷剂：10微克/喷；滴鼻液：100微克/mL",
+      "interacaoMedicamento": "与NSAIDs、TCA、SSRI、卡马西平合用增加低钠风险。",
+      "posologia": "每日5–40微克，分1–3次用药。",
+      "armazenamento": "未开封冷藏（2–8°C）；开封后常温保存不超过4周。",
+      "preparo": "使用前轻摇，喷嘴清洁后再用。",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "低钠血症、充血性心衰、SIADH。",
+      "cuidadosMedicos": "监测血钠、尿量与体重。",
+      "cuidadosFarmaceuticos": "告知不可饮水过多，防止水中毒。",
+      "cuidadosEnfermagem": "观察嗜睡、呕吐、抽搐等低钠表现。",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、EMA"
+    }
+  }
+}

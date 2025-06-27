@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Insulina",
+      "suspension": "Não suspender antes de cirurgias; ajustar dose conforme jejum e tipo de insulina",
+      "risk": "Hipoglicemia perioperatória (insulinas de ação rápida ou intermediária), hiperglicemia de rebote, necessidade de insulina endovenosa em cirurgias prolongadas",
+      "reintroduction": "Ajustar individualmente no pós-operatório conforme dieta, glicemia e via de administração"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Insulina humana ou análogos (lispro, aspart, glulisina, detemir, glargina, degludeca)",
+      "nomeComercial": "Humulin, Novolin, Lantus, Levemir, Tresiba, NovoRapid, Humalog",
+      "mecanismoAcao": "Hormônio que promove captação celular de glicose e regula metabolismo de carboidratos, proteínas e lipídios",
+      "farmacocinetica": "Início de ação e duração variam conforme formulação (rápida, ultrarrápida, intermediária, basal)",
+      "farmacodinamica": "Reduz glicemia plasmática; atua em receptores de membrana promovendo absorção de glicose e inibição de lipólise e glicogenólise",
+      "indicacoes": "Diabetes mellitus tipo 1 e 2, cetoacidose diabética, controle glicêmico hospitalar",
+      "reacoesAdversas": "Hipoglicemia, lipodistrofia no local de aplicação, edema, reações alérgicas",
+      "riscoGravidez": "Categoria B (segura na gravidez)",
+      "riscoLactacao": "Segura durante a lactação",
+      "administracao": "Subcutânea, intravenosa (regular), intraperitoneal (uso avançado)",
+      "doseMaxima": "Individualizada conforme peso e sensibilidade; em geral até 1–2 UI/kg/dia",
+      "doseMinima": "Dose mínima eficaz ajustada conforme glicemia e tipo de insulina",
+      "classificacao": "Hormônio antidiabético",
+      "apresentacao": "Frascos, canetas pré-cheias, seringas, bombas de infusão contínua",
+      "interacaoMedicamento": "Corticoides, betabloqueadores, tiazídicos, contraceptivos hormonais, álcool (potencializa hipoglicemia)",
+      "posologia": "Varia conforme tipo de insulina e regime (basal-bolus, correção, bomba)",
+      "armazenamento": "Refrigerado entre 2–8°C; frascos em uso podem ser mantidos até 28 dias à temperatura ambiente (<30°C)",
+      "preparo": "Verificar aspecto (transparente ou homogêneo); não agitar vigorosamente",
+      "solucoesCompatíveis": "Soro fisiológico 0,9% (via IV); não misturar análogos com outras insulinas",
+      "contraindicacoes": "Hipoglicemia, alergia à insulina ou excipientes",
+      "cuidadosMedicos": "Monitorar glicemia capilar e sinais de hipoglicemia durante o perioperatório",
+      "cuidadosFarmaceuticos": "Orientar paciente quanto à rotação de locais de aplicação e validade",
+      "cuidadosEnfermagem": "Observar sinais de hipo/hiperglicemia, administrar conforme prescrição e jejum cirúrgico",
+      "fontesBibliograficas": "ADA, SBEM, ANVISA, Medscape, Micromedex, bulas oficiais"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Insulin",
+      "suspension": "Do not suspend; adjust perioperative dose based on fasting status and insulin type",
+      "risk": "Risk of perioperative hypoglycemia (rapid/intermediate types), hyperglycemia rebound, IV insulin may be required",
+      "reintroduction": "Tailor reintroduction based on nutrition, blood glucose, and insulin delivery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Human insulin or analogs (lispro, aspart, glulisine, detemir, glargine, degludec)",
+      "nomeComercial": "Humulin, Novolin, Lantus, Levemir, Tresiba, NovoLog, Humalog",
+      "mecanismoAcao": "Hormone that promotes cellular glucose uptake and regulates carbohydrate, protein, and lipid metabolism",
+      "farmacocinetica": "Onset and duration vary by formulation (rapid, short, intermediate, long-acting)",
+      "farmacodinamica": "Lowers plasma glucose by enhancing peripheral uptake and inhibiting hepatic glucose output",
+      "indicacoes": "Type 1 and type 2 diabetes, diabetic ketoacidosis, hospital glucose control",
+      "reacoesAdversas": "Hypoglycemia, lipodystrophy, allergic reactions, edema",
+      "riscoGravidez": "Category B – considered safe",
+      "riscoLactacao": "Safe in breastfeeding",
+      "administracao": "SC, IV (regular), IP (advanced pump therapy)",
+      "doseMaxima": "Individualized; generally up to 1–2 IU/kg/day",
+      "doseMinima": "Minimum effective dose as per blood glucose response",
+      "classificacao": "Antidiabetic hormone",
+      "apresentacao": "Vials, prefilled pens, syringes, infusion pumps",
+      "interacaoMedicamento": "Interacts with corticosteroids, beta-blockers, diuretics, alcohol",
+      "posologia": "Depends on insulin type and regimen (basal-bolus, correction, pump)",
+      "armazenamento": "Refrigerate 2–8°C; in-use vials stable for 28 days at <30°C",
+      "preparo": "Check clarity or uniform suspension; do not shake vigorously",
+      "solucoesCompatíveis": "0.9% NaCl (IV); avoid mixing analogs with others",
+      "contraindicacoes": "Hypoglycemia, allergy to insulin or additives",
+      "cuidadosMedicos": "Monitor capillary glucose and symptoms perioperatively",
+      "cuidadosFarmaceuticos": "Educate on site rotation and expiration dates",
+      "cuidadosEnfermagem": "Observe for hypo/hyperglycemia; dose per fasting protocol",
+      "fontesBibliograficas": "ADA, FDA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Insulina",
+      "suspension": "No suspender; ajustar dosis preoperatoria según ayuno y tipo de insulina",
+      "risk": "Hipoglucemia perioperatoria, hiperglucemia rebote, posible necesidad de insulina IV",
+      "reintroduction": "Reintroducir según dieta, glucemia y tipo de administración"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Insulina humana o análogos (lispro, aspart, glulisina, detemir, glargina, degludec)",
+      "nomeComercial": "Humulina, Novolina, Lantus, Levemir, Tresiba, NovoRapid, Humalog",
+      "mecanismoAcao": "Hormona que facilita el uso de glucosa celular y regula metabolismo de CHO, lípidos y proteínas",
+      "farmacocinetica": "Inicio y duración dependen del tipo de insulina",
+      "farmacodinamica": "Disminuye glucemia por captación celular y reducción de gluconeogénesis hepática",
+      "indicacoes": "Diabetes tipo 1 y 2, cetoacidosis, control en hospital",
+      "reacoesAdversas": "Hipoglucemia, lipodistrofia, edema, alergias",
+      "riscoGravidez": "Categoría B – segura",
+      "riscoLactacao": "Segura durante lactancia",
+      "administracao": "Subcutánea, intravenosa (regular)",
+      "doseMaxima": "1–2 UI/kg/día según sensibilidad",
+      "doseMinima": "Dosis efectiva individualizada",
+      "classificacao": "Hormona antidiabética",
+      "apresentacao": "Frascos, plumas, bombas de insulina",
+      "interacaoMedicamento": "Corticoides, tiazidas, betabloqueantes, alcohol",
+      "posologia": "Según régimen basal-bolo, corrección o bomba",
+      "armazenamento": "2–8°C; abierta hasta 28 días a <30°C",
+      "preparo": "Verificar aspecto, agitar con suavidad si necesario",
+      "solucoesCompatíveis": "NaCl 0,9% (IV)",
+      "contraindicacoes": "Hipoglucemia, alergia",
+      "cuidadosMedicos": "Control glucémico intra y postoperatorio",
+      "cuidadosFarmaceuticos": "Instruir en conservación y técnica",
+      "cuidadosEnfermagem": "Aplicar según ayuno; controlar hipo/hiperglucemia",
+      "fontesBibliograficas": "ADA, Medscape, ANMAT, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "胰岛素",
+      "suspension": "术前不应停药，按术前禁食与种类调整剂量",
+      "risk": "快速型和中效型胰岛素可能引起术中低血糖或术后高血糖反跳",
+      "reintroduction": "术后根据饮食与血糖情况调整恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "人胰岛素及其类似物（利普罗、门冬、谷赖、德谷、地特、甘精）",
+      "nomeComercial": "诺和灵、优泌林、甘精胰岛素、德谷胰岛素、诺和锐、优泌乐",
+      "mecanismoAcao": "促进葡萄糖摄取并调节脂肪与蛋白代谢的激素",
+      "farmacocinetica": "不同类型胰岛素起效与持续时间各异",
+      "farmacodinamica": "降低血糖，抑制肝糖输出与脂肪分解",
+      "indicacoes": "1型和2型糖尿病、糖尿病酮症酸中毒、围术期血糖控制",
+      "reacoesAdversas": "低血糖、注射部位脂肪萎缩、水肿、过敏",
+      "riscoGravidez": "B类 – 安全",
+      "riscoLactacao": "可安全用于哺乳期",
+      "administracao": "皮下注射、静脉（常规型）、腹膜注射（胰岛素泵）",
+      "doseMaxima": "通常不超过2单位/公斤/天",
+      "doseMinima": "根据个体血糖水平调整",
+      "classificacao": "抗高血糖激素",
+      "apresentacao": "瓶装、笔芯、笔式注射器、胰岛素泵",
+      "interacaoMedicamento": "糖皮质激素、酒精、利尿剂、β阻滞剂等",
+      "posologia": "根据基础-餐时、泵注或修正方案制定",
+      "armazenamento": "2–8°C冷藏；启用后室温保存不超过28天",
+      "preparo": "使用前检查澄清或均匀度",
+      "solucoesCompatíveis": "0.9%氯化钠（静脉用）",
+      "contraindicacoes": "低血糖、对本品过敏",
+      "cuidadosMedicos": "围术期密切监测血糖变化",
+      "cuidadosFarmaceuticos": "教育患者轮换注射部位与保存方法",
+      "cuidadosEnfermagem": "评估低血糖症状并根据禁食情况调剂",
+      "fontesBibliograficas": "ADA，Micromedex，国家药典"
+    }
+  }
+}

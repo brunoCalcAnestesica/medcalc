@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Gefitinibe",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas com risco de toxicidade pulmonar ou atraso de cicatrização",
+      "risk": "Diarreia, rash cutâneo, hepatotoxicidade, toxicidade pulmonar (pneumonite intersticial), elevação de transaminases, náuseas",
+      "reintroduction": "Reintroduzir após recuperação hepática e ausência de sinais de pneumonite ou infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gefitinibe",
+      "nomeComercial": "Iressa",
+      "mecanismoAcao": "Inibidor oral da tirosina quinase do EGFR, bloqueando vias de sinalização proliferativa",
+      "farmacocinetica": "Biodisponibilidade oral ~60%; metabolismo hepático (CYP3A4); meia-vida ~48h",
+      "farmacodinamica": "Bloqueia ativação de EGFR mutado (ex: del19, L858R), promovendo apoptose tumoral",
+      "indicacoes": "Câncer de pulmão de não pequenas células (NSCLC) metastático com mutação sensível de EGFR",
+      "reacoesAdversas": "Rash acneiforme, diarreia, anorexia, hepatotoxicidade, estomatite, pneumonite (rara, porém grave)",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Via oral, 250mg 1x/dia com ou sem alimentos",
+      "doseMaxima": "250mg/dia (doses maiores não aumentam eficácia)",
+      "doseMinima": "250mg/dia (dose fixa padrão)",
+      "classificacao": "Inibidor seletivo da tirosina quinase do EGFR (1ª geração)",
+      "apresentacao": "Comprimidos de 250mg",
+      "interacaoMedicamento": "Redução de eficácia com IBPs e antiácidos; interação com cetoconazol, rifampicina, varfarina",
+      "posologia": "250mg/dia VO contínuo até progressão ou toxicidade",
+      "armazenamento": "Temperatura ambiente; protegido da umidade",
+      "preparo": "Uso oral direto; pode ser disperso em água se dificuldade de deglutição",
+      "solucoesCompatíveis": "Não aplicável (uso oral)",
+      "contraindicacoes": "Doença hepática grave, gravidez, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar função hepática, sintomas respiratórios, exames cutâneos, diarréia",
+      "cuidadosFarmaceuticos": "Educar paciente sobre administração contínua e sinais precoces de toxicidade",
+      "cuidadosEnfermagem": "Observar rash, diarreia, anorexia, dispneia e alteração hepática",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Gefitinib",
+      "suspension": "Hold 7 days before surgery if risk of pulmonary or hepatic toxicity is present",
+      "risk": "Rash, diarrhea, hepatotoxicity, interstitial lung disease, elevated liver enzymes",
+      "reintroduction": "Restart once hepatic function normalizes and no signs of pneumonitis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gefitinib",
+      "nomeComercial": "Iressa",
+      "mecanismoAcao": "EGFR-TKI; inhibits phosphorylation of EGFR, halting tumor cell proliferation",
+      "farmacocinetica": "Oral bioavailability ~60%; CYP3A4 metabolism; T½ ~48h",
+      "farmacodinamica": "Targeted apoptosis in EGFR mutation-positive NSCLC",
+      "indicacoes": "EGFR-mutated metastatic NSCLC",
+      "reacoesAdversas": "Acneiform rash, diarrhea, anorexia, liver toxicity, rare pneumonitis",
+      "riscoGravidez": "Category D – avoid",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral, 250mg once daily with or without food",
+      "doseMaxima": "250mg/day",
+      "doseMinima": "250mg/day",
+      "classificacao": "1st-generation EGFR TKI",
+      "apresentacao": "250mg tablets",
+      "interacaoMedicamento": "Reduced absorption with PPIs/antacids; interacts with warfarin, CYP3A4 inducers/inhibitors",
+      "posologia": "250mg PO daily until progression or toxicity",
+      "armazenamento": "Store at room temperature, dry environment",
+      "preparo": "Swallow whole or disperse in water if needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe hepatic impairment, pregnancy",
+      "cuidadosMedicos": "Monitor LFTs, respiratory symptoms, rash, diarrhea",
+      "cuidadosFarmaceuticos": "Patient education on adherence, rash management, diarrhea control",
+      "cuidadosEnfermagem": "Assess for rash, fatigue, GI symptoms, dyspnea",
+      "fontesBibliograficas": "FDA label, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Gefitinib",
+      "suspension": "Suspender 7 días antes de cirugía si hay riesgo hepático o pulmonar",
+      "risk": "Rash, diarrea, hepatotoxicidad, neumonitis, anorexia",
+      "reintroduction": "Reiniciar tras recuperación hepática y resolución de neumonitis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gefitinib",
+      "nomeComercial": "Iressa",
+      "mecanismoAcao": "Inhibidor oral del EGFR; bloquea proliferación tumoral por señalización TK",
+      "farmacocinetica": "VO; biodisponibilidad ~60%; metabolismo hepático; T½ ~48h",
+      "farmacodinamica": "Induce apoptosis en células con mutación EGFR",
+      "indicacoes": "Cáncer de pulmón no microcítico EGFR+",
+      "reacoesAdversas": "Erupción, diarrea, hepatotoxicidad, neumonitis intersticial, náusea",
+      "riscoGravidez": "Categoría D – evitar",
+      "riscoLactacao": "No recomendado",
+      "administracao": "250mg/día VO continuo",
+      "doseMaxima": "250mg/día",
+      "doseMinima": "250mg/día",
+      "classificacao": "ITK del EGFR de primera generación",
+      "apresentacao": "Tabletas 250mg",
+      "interacaoMedicamento": "Antiácidos reducen absorción; CYP3A4; warfarina",
+      "posologia": "250mg/día hasta progresión o toxicidad",
+      "armazenamento": "Ambiente seco y fresco",
+      "preparo": "Ingerir entera o dispersar en agua",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía severa, embarazo",
+      "cuidadosMedicos": "Control hepático, síntomas pulmonares, cutáneos y digestivos",
+      "cuidadosFarmaceuticos": "Educación sobre signos de toxicidad, interacciones",
+      "cuidadosEnfermagem": "Vigilar erupciones, disnea, náuseas",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "吉非替尼",
+      "suspension": "术前7天停药；如伴肝功能异常或肺炎需更谨慎",
+      "risk": "皮疹、腹泻、肝酶升高、间质性肺炎、厌食",
+      "reintroduction": "术后肝功能及肺部症状缓解后再用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "吉非替尼",
+      "nomeComercial": "Iressa",
+      "mecanismoAcao": "选择性EGFR酪氨酸激酶抑制剂，抑制EGFR突变驱动信号",
+      "farmacocinetica": "口服；生物利用度约60%；CYP3A4代谢；T½约48小时",
+      "farmacodinamica": "抑制EGFR信号通路，诱导凋亡",
+      "indicacoes": "EGFR突变阳性的晚期非小细胞肺癌",
+      "reacoesAdversas": "痤疮样皮疹、腹泻、肝功能异常、口腔炎、肺炎",
+      "riscoGravidez": "D类 – 妊娠期禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "每日口服一次250mg",
+      "doseMaxima": "250mg/天",
+      "doseMinima": "250mg/天",
+      "classificacao": "EGFR-TKI一代靶向药",
+      "apresentacao": "250mg片剂",
+      "interacaoMedicamento": "与抗酸药、CYP3A4抑制剂/诱导剂及华法林有相互作用",
+      "posologia": "250mg每日1次，持续至进展或毒性",
+      "armazenamento": "室温干燥处",
+      "preparo": "整片服用或溶于水",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重度肝功能损害、妊娠",
+      "cuidadosMedicos": "监测肝酶、皮肤、肺部、腹泻反应",
+      "cuidadosFarmaceuticos": "教育患者注意药物相互作用及毒性识别",
+      "cuidadosEnfermagem": "评估皮疹、呼吸、食欲、排便",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、NCCN"
+    }
+  }
+}

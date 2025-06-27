@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Levosimendana",
+      "suspension": "Desnecessária; seu uso é hospitalar e indicado em insuficiência cardíaca aguda ou descompensada",
+      "risk": "Pode causar hipotensão, taquicardia, arritmias e efeitos vasodilatadores potentes",
+      "reintroduction": "Uso conforme avaliação cardiológica em ambiente monitorado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levosimendana",
+      "nomeComercial": "Simdax",
+      "mecanismoAcao": "Sensibilizador de cálcio e vasodilatador; aumenta contratilidade cardíaca sem aumentar consumo de oxigênio",
+      "farmacocinetica": "Administração IV; início em 5–10min; meia-vida do metabólito ativo ~80h; metabolismo hepático",
+      "farmacodinamica": "Melhora débito cardíaco e reduz pressões de enchimento ventricular",
+      "indicacoes": "Insuficiência cardíaca aguda descompensada; choque cardiogênico; ponte para transplante",
+      "reacoesAdversas": "Hipotensão, cefaleia, hipocalemia, arritmias ventriculares, taquicardia",
+      "riscoGravidez": "Categoria C – não recomendado sem necessidade absoluta",
+      "riscoLactacao": "Desconhecido; evitar uso",
+      "administracao": "Infusão intravenosa contínua (com ou sem dose de ataque)",
+      "doseMaxima": "0,2 mcg/kg/min (infusão); 24 mcg/kg (dose de ataque)",
+      "doseMinima": "0,05 mcg/kg/min",
+      "classificacao": "Inotrópico positivo e vasodilatador",
+      "apresentacao": "Frasco-ampola 2,5mg/mL (5mL), para diluição em SG5% ou SF0,9%",
+      "interacaoMedicamento": "Potencializa efeito de outros vasodilatadores, β-bloqueadores e diuréticos",
+      "posologia": "Infusão contínua de 0,1 mcg/kg/min por 24h; pode iniciar com 6–12 mcg/kg em 10min",
+      "armazenamento": "Temperatura ambiente (<25°C), protegido da luz",
+      "preparo": "Diluir em 100mL–250mL de SF 0,9% ou SG 5%; usar bomba de infusão",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipotensão grave, taquicardia significativa, estenose valvar crítica, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar PA, FC, ritmo cardíaco e eletrólitos",
+      "cuidadosFarmaceuticos": "Verificar estabilidade após diluição e compatibilidade",
+      "cuidadosEnfermagem": "Monitorar parâmetros hemodinâmicos e sinais de toxicidade",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Levosimendan",
+      "suspension": "Not applicable; used in acute settings (e.g., ICU for decompensated heart failure)",
+      "risk": "Risk of hypotension, tachycardia, arrhythmias, and strong vasodilatory effects",
+      "reintroduction": "Use based on cardiology assessment in monitored setting"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levosimendan",
+      "nomeComercial": "Simdax",
+      "mecanismoAcao": "Calcium sensitizer and vasodilator; increases contractility without raising oxygen demand",
+      "farmacocinetica": "IV administration; onset 5–10min; active metabolite half-life ~80h; hepatic metabolism",
+      "farmacodinamica": "Increases cardiac output and lowers filling pressures",
+      "indicacoes": "Acute decompensated heart failure, cardiogenic shock, bridge to transplant",
+      "reacoesAdversas": "Hypotension, headache, hypokalemia, ventricular arrhythmias, tachycardia",
+      "riscoGravidez": "Category C – avoid unless essential",
+      "riscoLactacao": "Unknown; avoid use",
+      "administracao": "IV infusion (with or without loading dose)",
+      "doseMaxima": "0.2 mcg/kg/min infusion; 24 mcg/kg bolus",
+      "doseMinima": "0.05 mcg/kg/min",
+      "classificacao": "Inotropic and vasodilator agent",
+      "apresentacao": "2.5mg/mL (5mL vial); dilute in D5W or NS",
+      "interacaoMedicamento": "Enhances effects of vasodilators, beta-blockers, diuretics",
+      "posologia": "Continuous infusion 0.1 mcg/kg/min for 24h; optional 6–12 mcg/kg over 10min loading dose",
+      "armazenamento": "Store <25°C, protect from light",
+      "preparo": "Dilute in 100–250mL D5W or NS; administer via infusion pump",
+      "solucoesCompatíveis": "D5W, 0.9% NaCl",
+      "contraindicacoes": "Severe hypotension, significant tachycardia, critical valvular stenosis, hepatic failure",
+      "cuidadosMedicos": "Monitor BP, HR, rhythm, and electrolytes",
+      "cuidadosFarmaceuticos": "Ensure stability post-dilution and compatibility",
+      "cuidadosEnfermagem": "Monitor hemodynamic status and toxicity signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Levosimendán",
+      "suspension": "No aplica; se usa en entornos hospitalarios (ICU, falla cardíaca aguda)",
+      "risk": "Riesgo de hipotensión, taquicardia, arritmias y potente vasodilatación",
+      "reintroduction": "Según indicación cardiológica en ambiente monitorizado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levosimendán",
+      "nomeComercial": "Simdax",
+      "mecanismoAcao": "Sensibilizador del calcio y vasodilatador; mejora la contractilidad sin aumentar el consumo de oxígeno",
+      "farmacocinetica": "IV; inicio 5–10 min; vida media del metabolito activo ~80h; metabolismo hepático",
+      "farmacodinamica": "Mejora el gasto cardíaco y reduce la presión de llenado ventricular",
+      "indicacoes": "Insuficiencia cardíaca aguda, shock cardiogénico, puente a trasplante",
+      "reacoesAdversas": "Hipotensión, cefalea, hipopotasemia, arritmias ventriculares, taquicardia",
+      "riscoGravidez": "Categoría C – evitar salvo necesidad",
+      "riscoLactacao": "Desconocido; evitar uso",
+      "administracao": "Infusión IV (con o sin bolo inicial)",
+      "doseMaxima": "0,2 mcg/kg/min; 24 mcg/kg bolo",
+      "doseMinima": "0,05 mcg/kg/min",
+      "classificacao": "Inotrópico y vasodilatador",
+      "apresentacao": "Ampolla 2,5mg/mL (5mL); diluir en SG5% o SSN 0,9%",
+      "interacaoMedicamento": "Potencia efectos de vasodilatadores, betabloqueantes y diuréticos",
+      "posologia": "0,1 mcg/kg/min por 24h; bolo opcional de 6–12 mcg/kg en 10min",
+      "armazenamento": "Ambiente <25°C, proteger de la luz",
+      "preparo": "Diluir en 100–250mL y administrar por bomba",
+      "solucoesCompatíveis": "SG5%, SSN 0,9%",
+      "contraindicacoes": "Hipotensión severa, taquicardia significativa, estenosis valvular crítica, insuficiencia hepática",
+      "cuidadosMedicos": "Monitorear PA, FC, ritmo, electrolitos",
+      "cuidadosFarmaceuticos": "Verificar compatibilidad y estabilidad",
+      "cuidadosEnfermagem": "Observar estado hemodinámico y signos de toxicidad",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "左西孟旦",
+      "suspension": "不适用；用于重症心力衰竭的住院患者",
+      "risk": "可能引起低血压、心律失常、钾低及强效扩血管反应",
+      "reintroduction": "术后稳定后在心脏专科医生指导下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "左西孟旦",
+      "nomeComercial": "Simdax",
+      "mecanismoAcao": "钙敏感剂和血管扩张剂，提高心肌收缩力且不增加氧耗",
+      "farmacocinetica": "静注给药，起效5–10分钟；活性代谢物半衰期约80小时；肝脏代谢",
+      "farmacodinamica": "增加心输出量，降低心室充盈压",
+      "indicacoes": "急性失代偿性心衰、心源性休克、心脏移植桥接治疗",
+      "reacoesAdversas": "低血压、头痛、低钾、室性心律失常、心动过速",
+      "riscoGravidez": "C类 – 非必要时禁用",
+      "riscoLactacao": "未知，避免使用",
+      "administracao": "连续静脉输注，可选加载剂量",
+      "doseMaxima": "0.2微克/公斤/分钟；加载剂量24微克/公斤",
+      "doseMinima": "0.05微克/公斤/分钟",
+      "classificacao": "正性肌力药，扩血管药",
+      "apresentacao": "5mL安瓿，浓度2.5mg/mL，稀释于5%葡萄糖或0.9%氯化钠",
+      "interacaoMedicamento": "与其他血管扩张药、β阻滞剂、利尿剂协同增强",
+      "posologia": "0.1微克/公斤/分钟×24小时；可先用6–12微克/公斤 10分钟内加载",
+      "armazenamento": "避光储存，温度<25°C",
+      "preparo": "稀释至100–250mL，输注泵输注",
+      "solucoesCompatíveis": "5%葡萄糖，0.9%氯化钠",
+      "contraindicacoes": "严重低血压、显著性心动过速、瓣膜重度狭窄、肝衰竭",
+      "cuidadosMedicos": "监测血压、心率、心律、电解质",
+      "cuidadosFarmaceuticos": "检查稀释后稳定性与兼容性",
+      "cuidadosEnfermagem": "关注血流动力学与毒副反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

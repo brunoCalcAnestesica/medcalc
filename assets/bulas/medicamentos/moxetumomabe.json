@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Moxetumomabe pasudotox",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva ou se sinais de toxicidade capilar ou renal estiverem presentes",
+      "risk": "Síndrome de extravasamento capilar, toxicidade renal, hipoproteinemia, hipotensão, febre",
+      "reintroduction": "Reintroduzir apenas após estabilidade clínica, função renal normalizada e liberação oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Moxetumomabe pasudotox-tdfk",
+      "nomeComercial": "Lumoxiti",
+      "mecanismoAcao": "Imunotoxina que liga-se ao CD22 em células B e inibe síntese proteica via exotoxina A",
+      "farmacocinetica": "IV; meia-vida ~1,4h; metabolismo proteico; não requer ajuste renal/hepático",
+      "farmacodinamica": "Citotóxico específico para células B CD22+, induz apoptose em neoplasias hematológicas",
+      "indicacoes": "Leucemia de células pilosas (HCL) recidivante/refratária após ≥2 terapias prévias",
+      "reacoesAdversas": "Edema, náusea, cefaleia, febre, hipoproteinemia, IRA, síndrome de extravasamento capilar",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intravenosa em 30 minutos, dias 1, 3 e 5 do ciclo",
+      "doseMaxima": "40mcg/kg/dose (total 120mcg/kg/ciclo)",
+      "doseMinima": "40mcg/kg/dose",
+      "classificacao": "Imunotoxina anti-CD22 recombinante",
+      "apresentacao": "Frascos 1mg liofilizado",
+      "interacaoMedicamento": "Não há interações medicamentosas clinicamente relevantes descritas",
+      "posologia": "40mcg/kg IV dias 1, 3 e 5 a cada 28 dias por até 6 ciclos",
+      "armazenamento": "Refrigerado (2–8°C); proteger da luz; usar após reconstituição em até 4h",
+      "preparo": "Reconstituir em água estéril; diluir em SF 0,9%; infundir em 30min",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Gravidez, hipersensibilidade, instabilidade hemodinâmica",
+      "cuidadosMedicos": "Monitorar peso, creatinina, albumina, PA e sinais de extravasamento capilar",
+      "cuidadosFarmaceuticos": "Orientar sobre profilaxia com hidratação e albumina",
+      "cuidadosEnfermagem": "Observar edema, hipotensão, alterações renais e infusão",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Moxetumomab pasudotox",
+      "suspension": "Discontinue 7 days before elective surgery or if signs of capillary leak or renal toxicity are present",
+      "risk": "Capillary leak syndrome, renal toxicity, hypoproteinemia, hypotension, fever",
+      "reintroduction": "Restart only after clinical stability and oncologic clearance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Moxetumomab pasudotox-tdfk",
+      "nomeComercial": "Lumoxiti",
+      "mecanismoAcao": "Recombinant anti-CD22 immunotoxin that inhibits protein synthesis via PE38 exotoxin",
+      "farmacocinetica": "IV; half-life ~1.4h; protein metabolism; no dose adjustment needed",
+      "farmacodinamica": "Induces apoptosis in CD22+ B cells in hematologic malignancies",
+      "indicacoes": "Relapsed/refractory hairy cell leukemia after ≥2 prior therapies",
+      "reacoesAdversas": "Edema, nausea, headache, fever, hypoproteinemia, AKI, capillary leak syndrome",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "IV over 30 minutes on days 1, 3, and 5 of each cycle",
+      "doseMaxima": "40mcg/kg/dose (120mcg/kg/cycle)",
+      "doseMinima": "40mcg/kg/dose",
+      "classificacao": "Anti-CD22 recombinant immunotoxin",
+      "apresentacao": "1mg lyophilized vials",
+      "interacaoMedicamento": "No major drug interactions reported",
+      "posologia": "40mcg/kg IV on days 1, 3, 5 of 28-day cycles (up to 6 cycles)",
+      "armazenamento": "Refrigerate (2–8°C), protect from light, use within 4h post-reconstitution",
+      "preparo": "Reconstitute with sterile water, dilute in 0.9% NaCl, infuse over 30 min",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Pregnancy, hypersensitivity, hemodynamic instability",
+      "cuidadosMedicos": "Monitor weight, creatinine, albumin, BP, signs of capillary leak",
+      "cuidadosFarmaceuticos": "Advise hydration and albumin prophylaxis",
+      "cuidadosEnfermagem": "Observe for edema, hypotension, renal changes, infusion reactions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Moxetumomab pasudotox",
+      "suspension": "Suspender 7 días antes de cirugía si hay toxicidad renal o síndrome de fuga capilar",
+      "risk": "Síndrome de fuga capilar, toxicidad renal, hipoproteinemia, hipotensión, fiebre",
+      "reintroduction": "Reiniciar tras estabilidad clínica y aprobación oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Moxetumomab pasudotox-tdfk",
+      "nomeComercial": "Lumoxiti",
+      "mecanismoAcao": "Inmunotoxina recombinante anti-CD22 con exotoxina PE38 que inhibe síntesis proteica",
+      "farmacocinetica": "IV; vida media ~1.4h; metabolismo proteico; sin ajuste por función renal/hepática",
+      "farmacodinamica": "Induce apoptosis en células B CD22+",
+      "indicacoes": "Leucemia de células pilosas refractaria/recidivante tras ≥2 líneas",
+      "reacoesAdversas": "Edema, náuseas, cefalea, fiebre, hipoproteinemia, IRA, fuga capilar",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "IV 30 minutos los días 1, 3 y 5 de cada ciclo",
+      "doseMaxima": "40mcg/kg/dosis (total 120mcg/kg/ciclo)",
+      "doseMinima": "40mcg/kg/dosis",
+      "classificacao": "Inmunotoxina anti-CD22 recombinante",
+      "apresentacao": "Viales de 1mg liofilizado",
+      "interacaoMedicamento": "No se han reportado interacciones significativas",
+      "posologia": "40mcg/kg IV días 1, 3 y 5 en ciclos de 28 días (hasta 6 ciclos)",
+      "armazenamento": "Refrigerar (2–8°C), proteger de luz, usar en 4h tras reconstitución",
+      "preparo": "Reconstituir con agua estéril, diluir en SSN 0.9%, infundir en 30 minutos",
+      "solucoesCompatíveis": "SSN 0,9%",
+      "contraindicacoes": "Embarazo, hipersensibilidad, inestabilidad hemodinámica",
+      "cuidadosMedicos": "Monitorear peso, creatinina, albúmina, PA, signos de fuga capilar",
+      "cuidadosFarmaceuticos": "Indicar profilaxis con hidratación y albúmina",
+      "cuidadosEnfermagem": "Observar edema, hipotensión, cambios renales y reacción infusional",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "莫塞妥妥昔单抗（Moxetumomab pasudotox）",
+      "suspension": "术前7天停药，若存在毛细血管渗漏或肾毒性风险",
+      "risk": "毛细血管渗漏综合征、肾毒性、低蛋白血症、低血压、发热",
+      "reintroduction": "术后稳定、肿瘤专科评估后方可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "莫塞妥妥昔单抗",
+      "nomeComercial": "Lumoxiti",
+      "mecanismoAcao": "重组抗CD22免疫毒素，携带白喉毒素片段，抑制蛋白合成",
+      "farmacocinetica": "静脉注射；半衰期1.4小时；蛋白代谢；不需肝肾剂量调整",
+      "farmacodinamica": "靶向CD22+ B细胞，诱导细胞凋亡",
+      "indicacoes": "多线治疗失败的毛细胞白血病",
+      "reacoesAdversas": "水肿、恶心、发热、头痛、低蛋白、急性肾损伤、毛细血管渗漏",
+      "riscoGravidez": "D类 – 孕期禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "静注30分钟，第1、3、5天为一个周期",
+      "doseMaxima": "每次40mcg/kg（每周期最大120mcg/kg）",
+      "doseMinima": "40mcg/kg/次",
+      "classificacao": "抗CD22重组免疫毒素",
+      "apresentacao": "1mg冻干粉",
+      "interacaoMedicamento": "暂无重要药物相互作用报告",
+      "posologia": "每28天给药周期，1、3、5天各静注40mcg/kg，最多6周期",
+      "armazenamento": "2–8°C冷藏避光，配好后4小时内使用",
+      "preparo": "无菌水复溶后稀释于0.9%氯化钠，30分钟内输注",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "妊娠、严重过敏、血流动力学不稳定",
+      "cuidadosMedicos": "监测体重、肾功能、白蛋白、血压、渗漏症征象",
+      "cuidadosFarmaceuticos": "建议预防性补液和使用白蛋白",
+      "cuidadosEnfermagem": "观察水肿、低血压、肾功能变化和输注反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

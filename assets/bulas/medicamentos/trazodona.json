@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Trazodona",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de sedação profunda, hipotensão, arritmias, priapismo e interação com anestésicos e opioides",
+      "reintroduction": "Reintroduzir após 48–72h com paciente alerta, ECG normal e sem uso de depressores do SNC"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Trazodona",
+      "nomeComercial": "Donaren, Trittico, Deprax, Molipaxin",
+      "mecanismoAcao": "Antagonista serotoninérgico e inibidor da recaptação de serotonina (SARI); também antagoniza receptores H1 e alfa-1 adrenérgicos",
+      "farmacocinetica": "Absorção oral elevada, metabolização hepática (CYP3A4), meia-vida bifásica ~6–11h",
+      "farmacodinamica": "Antidepressivo com propriedades ansiolíticas e sedativas, indicado para depressão com insônia e agitação",
+      "indicacoes": "Transtorno depressivo maior, insônia (off-label), transtornos ansiosos, dor crônica (off-label)",
+      "reacoesAdversas": "Sonolência, boca seca, tontura, hipotensão, priapismo, arritmias, náusea",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite materno; usar com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "400mg/dia (ambulatorial); 600mg/dia (internação)",
+      "doseMinima": "25mg/dia (insônia leve)",
+      "classificacao": "Antidepressivo serotoninérgico (SARI)",
+      "apresentacao": "Comprimidos de 25mg, 50mg, 100mg, 150mg; comprimidos de liberação prolongada",
+      "interacaoMedicamento": "Interage com IMAOs, álcool, anti-hipertensivos, benzodiazepínicos, antipsicóticos e antiarrítmicos",
+      "posologia": "Depressão: 150–300mg/dia; insônia: 25–100mg à noite; titulação individualizada",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não partir comprimidos de liberação prolongada; administrar preferencialmente com alimentos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infarto recente do miocárdio, hipersensibilidade, uso com IMAO, risco de prolongamento do QT",
+      "cuidadosMedicos": "Monitorar ECG, PA, sinais de sedação e risco de priapismo",
+      "cuidadosFarmaceuticos": "Orientar sobre início gradual do efeito, sedação e evitar álcool",
+      "cuidadosEnfermagem": "Observar PA, estado mental, sonolência e queixas urogenitais",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, NICE"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Trazodone",
+      "suspension": "Discontinue 5 days prior to elective surgery",
+      "risk": "Risk of profound sedation, hypotension, QT prolongation, arrhythmia, and respiratory depression with anesthetics and opioids",
+      "reintroduction": "Restart after 48–72h once patient is stable, alert and ECG is normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trazodone Hydrochloride",
+      "nomeComercial": "Desyrel, Oleptro, Trittico",
+      "mecanismoAcao": "Serotonin antagonist and reuptake inhibitor (SARI); also blocks H1 and alpha-1 receptors",
+      "farmacocinetica": "Well absorbed orally, metabolized in liver (CYP3A4), biphasic half-life ~6–11h",
+      "farmacodinamica": "Antidepressant and sedative; effective in depression with insomnia or anxiety",
+      "indicacoes": "Major depressive disorder, insomnia (off-label), anxiety, chronic pain (off-label)",
+      "reacoesAdversas": "Drowsiness, dizziness, dry mouth, hypotension, nausea, priapism, arrhythmia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; use caution",
+      "administracao": "Oral route",
+      "doseMaxima": "400mg/day (outpatient); 600mg/day (inpatient)",
+      "doseMinima": "25mg/day (for insomnia)",
+      "classificacao": "Serotonin antagonist and reuptake inhibitor (SARI)",
+      "apresentacao": "Tablets: 25mg, 50mg, 100mg, 150mg; extended-release tablets",
+      "interacaoMedicamento": "Interacts with MAOIs, CNS depressants, antihypertensives, antipsychotics, antiarrhythmics",
+      "posologia": "Depression: 150–300mg/day; insomnia: 25–100mg at bedtime",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "Do not crush ER tablets; take with food",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Recent MI, MAOI use, QT prolongation, hypersensitivity",
+      "cuidadosMedicos": "Monitor ECG, blood pressure, mental status, risk of priapism",
+      "cuidadosFarmaceuticos": "Educate on titration, sedation, avoid alcohol",
+      "cuidadosEnfermagem": "Monitor drowsiness, BP, mental state, urinary symptoms",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, APA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Trazodona",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de sedación profunda, hipotensión, arritmias y prolongación del QT; interacción con anestesia y opioides",
+      "reintroduction": "Reintroducir tras 48–72h si el ECG es normal y el paciente está alerta y estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Trazodona",
+      "nomeComercial": "Deprax, Trittico, Molipaxin",
+      "mecanismoAcao": "Antagonista serotoninérgico e inhibidor de la recaptación de serotonina (SARI); también bloquea receptores H1 y alfa-1",
+      "farmacocinetica": "Buena absorción oral, metabolizada por el hígado (CYP3A4), vida media bifásica de 6–11h",
+      "farmacodinamica": "Antidepresivo sedante útil para insomnio, ansiedad o depresión agitada",
+      "indicacoes": "Depresión mayor, insomnio (uso no aprobado), ansiedad, dolor crónico (off-label)",
+      "reacoesAdversas": "Somnolencia, hipotensión, náuseas, sequedad bucal, priapismo, arritmias",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche materna; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "400mg/día (ambulatorio); 600mg/día (hospitalizado)",
+      "doseMinima": "25mg/día (para insomnio)",
+      "classificacao": "Antidepresivo serotoninérgico (SARI)",
+      "apresentacao": "Comprimidos: 25mg, 50mg, 100mg, 150mg; liberación prolongada",
+      "interacaoMedicamento": "Interacciones con IMAO, alcohol, neurolépticos, antihipertensivos, antiarrítmicos",
+      "posologia": "Depresión: 150–300mg/día; insomnio: 25–100mg antes de dormir",
+      "armazenamento": "15–30°C, protegido de la humedad",
+      "preparo": "No partir comprimidos de liberación prolongada; tomar con alimentos",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infarto reciente, uso de IMAO, QT largo, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear ECG, PA, estado mental, priapismo",
+      "cuidadosFarmaceuticos": "Evitar alcohol, explicar sedación y necesidad de ajuste gradual",
+      "cuidadosEnfermagem": "Observar somnolencia, síntomas urinarios y presión arterial",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "曲唑酮",
+      "suspension": "术前5天停药",
+      "risk": "镇静作用强，可能导致低血压、QT延长、心律失常，与麻醉药物和阿片类联用风险增加",
+      "reintroduction": "术后48–72小时，在心电图正常且患者清醒稳定时可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸曲唑酮",
+      "nomeComercial": "曲唑酮片, Trittico, 曲坦平",
+      "mecanismoAcao": "选择性5-羟色胺再摄取抑制剂及拮抗剂（SARI），拮抗H1和α1肾上腺素能受体",
+      "farmacocinetica": "口服吸收良好，经CYP3A4代谢，双相半衰期6–11小时",
+      "farmacodinamica": "镇静型抗抑郁药，适用于伴失眠、焦虑或激越的抑郁症",
+      "indicacoes": "重度抑郁症、失眠（超说明书）、焦虑障碍、慢性疼痛（非适应症）",
+      "reacoesAdversas": "嗜睡、头晕、低血压、口干、恶心、勃起异常（如阴茎异常勃起）、心律不齐",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌至乳汁中，建议慎用",
+      "administracao": "口服",
+      "doseMaxima": "门诊每日400mg，住院每日600mg",
+      "doseMinima": "每日25mg（用于轻度失眠）",
+      "classificacao": "5-羟色胺拮抗剂和再摄取抑制剂（SARI）",
+      "apresentacao": "片剂：25mg、50mg、100mg、150mg；缓释片可选",
+      "interacaoMedicamento": "与MAOI、酒精、中枢抑制剂、抗精神病药、降压药、抗心律失常药有相互作用",
+      "posologia": "抑郁：150–300mg/日；失眠：睡前25–100mg",
+      "armazenamento": "15–30°C，避光防潮保存",
+      "preparo": "缓释片不得掰开，应与食物同服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "近期心梗、QT延长、MAOI联用史、过敏史",
+      "cuidadosMedicos": "监测ECG、血压、镇静程度及勃起异常",
+      "cuidadosFarmaceuticos": "避免酒精并说明起效延迟，避免突然停药",
+      "cuidadosEnfermagem": "观察镇静、情绪状态及泌尿系统症状",
+      "fontesBibliograficas": "NMPA, FDA, WHO, Micromedex"
+    }
+  }
+}

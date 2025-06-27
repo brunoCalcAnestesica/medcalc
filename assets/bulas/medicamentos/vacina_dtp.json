@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina DTP (Difteria, Tétano e Pertussis)",
+      "suspension": "Não suspender; recomendada no pré-operatório de pacientes não vacinados ou com calendário incompleto",
+      "risk": "Vacina inativada; pode causar febre, dor local, irritabilidade. Risco muito baixo no perioperatório.",
+      "reintroduction": "Pode ser reiniciada ou mantida após cirurgia conforme calendário vacinal. Preferir em ambiente ambulatorial se paciente estiver estável."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Toxoides diftérico e tetânico + componentes de Bordetella pertussis (inativados ou acelulares)",
+      "nomeComercial": "DTP, DTPa, Pentavalente, Hexavalente",
+      "mecanismoAcao": "Induz resposta imune ativa contra difteria, tétano e coqueluche",
+      "farmacocinetica": "Resposta imune inicial em 1–2 semanas; anticorpos protetores após 2ª–3ª dose",
+      "farmacodinamica": "Induz imunidade humoral prolongada; necessidade de reforço periódico",
+      "indicacoes": "Imunização primária e reforço em crianças, gestantes e adultos não vacinados",
+      "reacoesAdversas": "Febre, dor local, irritabilidade, sonolência, choro persistente, convulsão febril (raro)",
+      "riscoGravidez": "Categoria B; altamente recomendada no 2º–3º trimestre (DTPa)",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Via intramuscular (preferência vasto lateral da coxa <2 anos; deltoide >2 anos)",
+      "doseMaxima": "0,5 mL por aplicação",
+      "doseMinima": "0,5 mL por aplicação",
+      "classificacao": "Vacina combinada inativada (toxoide e subunidade)",
+      "apresentacao": "0,5 mL monodose (ampola ou seringa preenchedida); parte de vacinas combinadas (ex: pentavalente)",
+      "interacaoMedicamento": "Pode ser administrada com outras vacinas inativadas; usar locais diferentes",
+      "posologia": "3 doses (2, 4, 6 meses) + reforços aos 15 meses, 4–5 anos e na gestação",
+      "armazenamento": "2–8 °C; não congelar",
+      "preparo": "Agitar antes de aplicar; uso imediato após abertura",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Reação anafilática prévia; encefalopatia nas 7 dias após dose anterior",
+      "cuidadosMedicos": "Avaliar febre alta, reações adversas anteriores e uso de anticonvulsivantes",
+      "cuidadosFarmaceuticos": "Checar validade, aspecto e cadeia do frio",
+      "cuidadosEnfermagem": "Observar criança por 15–30 min após a aplicação; orientar sinais de febre",
+      "fontesBibliograficas": "PNI/MS, SBIm, CDC, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "DTP Vaccine (Diphtheria, Tetanus, Pertussis)",
+      "suspension": "Not suspended; ensure coverage pre-op if incomplete or unvaccinated",
+      "risk": "Low risk; inactivated vaccine. Local pain, fever, irritability are common. Rare seizures.",
+      "reintroduction": "Resume post-op as per schedule; safe in stable patients."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diphtheria and tetanus toxoids + acellular pertussis antigens",
+      "nomeComercial": "DTaP, Tdap, Pentacel, Infanrix, Boostrix",
+      "mecanismoAcao": "Stimulates active immune response to diphtheria, tetanus and pertussis toxins",
+      "farmacocinetica": "Onset ~1–2 weeks; full protection after 3 doses",
+      "farmacodinamica": "Induces long-lasting humoral immunity; booster required",
+      "indicacoes": "Childhood immunization, pregnant women, adults with incomplete series",
+      "reacoesAdversas": "Fever, local pain, irritability, drowsiness, rare febrile seizures",
+      "riscoGravidez": "Category B; Tdap recommended in 3rd trimester",
+      "riscoLactacao": "Safe",
+      "administracao": "Intramuscular (thigh or deltoid)",
+      "doseMaxima": "0.5 mL",
+      "doseMinima": "0.5 mL",
+      "classificacao": "Inactivated combined toxoid/subunit vaccine",
+      "apresentacao": "0.5 mL prefilled syringe or vial",
+      "interacaoMedicamento": "Can be co-administered with other vaccines",
+      "posologia": "Primary series: 2, 4, 6 months + boosters (15–18 months, 4–6 yrs, pregnancy)",
+      "armazenamento": "2–8 °C; do not freeze",
+      "preparo": "Shake well; use immediately",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Anaphylaxis or encephalopathy after prior dose",
+      "cuidadosMedicos": "Evaluate prior adverse events, seizure risk",
+      "cuidadosFarmaceuticos": "Maintain cold chain; inspect before use",
+      "cuidadosEnfermagem": "IM injection; observe for 15 min post-vaccination",
+      "fontesBibliograficas": "CDC, ACIP, FDA, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna DTP (Difteria, Tétanos, Tosferina)",
+      "suspension": "No se suspende; completar esquema si no vacunado",
+      "risk": "Vacuna inactivada; bajo riesgo; puede dar fiebre o reacción local",
+      "reintroduction": "Reiniciar tras cirugía si el paciente está estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Toxoides diftérico y tetánico + pertussis acelular",
+      "nomeComercial": "DTaP, Infanrix, Pentavac",
+      "mecanismoAcao": "Inmunización activa frente a toxinas bacterianas",
+      "farmacocinetica": "Anticuerpos en 1–2 semanas; pico tras 3 dosis",
+      "farmacodinamica": "Inmunidad prolongada; refuerzos periódicos",
+      "indicacoes": "Lactantes, gestantes, adultos no vacunados",
+      "reacoesAdversas": "Fiebre, dolor, llanto, somnolencia, convulsiones febriles raras",
+      "riscoGravidez": "Categoría B; Tdap recomendada trimestre 3",
+      "riscoLactacao": "Segura",
+      "administracao": "IM muslo (<2 años) o deltoides",
+      "doseMaxima": "0,5 mL",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacuna combinada inactivada",
+      "apresentacao": "0,5 mL monodosis",
+      "interacaoMedicamento": "Compatible con otras vacunas",
+      "posologia": "2, 4, 6 meses + refuerzos (15 meses, 4 años, embarazo)",
+      "armazenamento": "2–8 °C; no congelar",
+      "preparo": "Agitar; uso inmediato",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Anafilaxia o encefalopatía previa",
+      "cuidadosMedicos": "Revisar antecedentes de convulsiones",
+      "cuidadosFarmaceuticos": "Cadena de frío y inspección",
+      "cuidadosEnfermagem": "Observar 15–30 min tras vacuna",
+      "fontesBibliograficas": "OMS, AEP, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "百白破三联疫苗（DTP）",
+      "suspension": "术前无需停用；术前补种适用于未完成免疫者",
+      "risk": "灭活疫苗，低风险；常见反应为发热或注射部位红肿",
+      "reintroduction": "术后病情稳定可按计划继续接种"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "白喉、破伤风类毒素 + 无细胞百日咳抗原",
+      "nomeComercial": "五联疫苗、Hexaxim、Infanrix",
+      "mecanismoAcao": "刺激机体产生针对毒素的免疫应答",
+      "farmacocinetica": "1–2周起效，3剂后形成有效免疫",
+      "farmacodinamica": "提供对百白破三病的长期免疫",
+      "indicacoes": "婴幼儿免疫计划，孕妇加强针",
+      "reacoesAdversas": "发热、局部肿痛、嗜睡、少数惊厥",
+      "riscoGravidez": "B类；妊娠晚期推荐Tdap",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "肌肉注射（大腿/三角肌）",
+      "doseMaxima": "0.5 mL",
+      "doseMinima": "0.5 mL",
+      "classificacao": "灭活类联合疫苗",
+      "apresentacao": "0.5 mL预充注射器或小瓶",
+      "interacaoMedicamento": "可与灭活疫苗同时接种",
+      "posologia": "2、4、6月龄+15月、4岁加强；孕晚期接种Tdap",
+      "armazenamento": "2–8°C冷藏，勿冷冻",
+      "preparo": "摇匀即用，限时使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重过敏反应史、疫苗相关脑病",
+      "cuidadosMedicos": "接种前体温检查，留观15分钟",
+      "cuidadosFarmaceuticos": "核查批号、摇匀后检查液体状态",
+      "cuidadosEnfermagem": "IM注射后观察，嘱家长防热惊厥",
+      "fontesBibliograficas": "中国免疫指南、CDC、WHO、UpToDate"
+    }
+  }
+}

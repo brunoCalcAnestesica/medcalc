@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Palonosetrona",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Baixo risco; potente antiemético de longa duração; observar risco de QT prolongado",
+      "reintroduction": "Pode ser administrado no intra ou pós-operatório se necessário"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Palonosetrona",
+      "nomeComercial": "Aloxi",
+      "mecanismoAcao": "Antagonista seletivo dos receptores 5-HT3 com alta afinidade e longa meia-vida",
+      "farmacocinetica": "IV, início em 30 min, meia-vida ~40 h, metabolização hepática (CYP2D6, CYP3A4)",
+      "farmacodinamica": "Bloqueia o estímulo serotoninérgico no trato GI e SNC, prevenindo náuseas e vômitos",
+      "indicacoes": "Prevenção de náuseas e vômitos induzidos por quimioterapia e cirurgia",
+      "reacoesAdversas": "Cefaleia, constipação, fadiga, aumento de QT, tontura",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Uso cauteloso; dados limitados",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0,25 mg/dose (EV única)",
+      "doseMinima": "0,075 mg (em cirurgia)",
+      "classificacao": "Antiemético (antagonista 5-HT3 de segunda geração)",
+      "apresentacao": "Ampola 0,25 mg/5 mL",
+      "interacaoMedicamento": "Potencialização de QT com outros fármacos cardiotóxicos",
+      "posologia": "0,25 mg IV 30 minutos antes de cirurgia ou quimioterapia",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso direto ou diluído em 50 mL SF 0,9% para infusão",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade à palonosetrona ou outros antagonistas 5-HT3",
+      "cuidadosMedicos": "Monitorar ECG se houver histórico de arritmia",
+      "cuidadosFarmaceuticos": "Proteger da luz; observar prazo após abertura",
+      "cuidadosEnfermagem": "Observar eficácia e sinais de reação adversa",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Palonosetron",
+      "suspension": "Continue until the day of surgery",
+      "risk": "Low risk; long-acting potent antiemetic; monitor QT if combined with other drugs",
+      "reintroduction": "May be administered intra- or postoperatively if needed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Palonosetron",
+      "nomeComercial": "Aloxi",
+      "mecanismoAcao": "High-affinity selective 5-HT3 receptor antagonist with extended duration",
+      "farmacocinetica": "IV, onset 30 min, half-life ~40 h, hepatic metabolism (CYP2D6, CYP3A4)",
+      "farmacodinamica": "Blocks serotonergic signals in GI tract and CNS, preventing nausea/vomiting",
+      "indicacoes": "Prevention of chemotherapy- and surgery-induced nausea and vomiting",
+      "reacoesAdversas": "Headache, constipation, fatigue, QT prolongation, dizziness",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Use with caution; limited data",
+      "administracao": "Intravenous",
+      "doseMaxima": "0.25 mg/dose (single IV)",
+      "doseMinima": "0.075 mg (perioperative use)",
+      "classificacao": "Antiemetic (second-generation 5-HT3 antagonist)",
+      "apresentacao": "Ampoule 0.25 mg/5 mL",
+      "interacaoMedicamento": "May prolong QT with cardiotoxic drugs",
+      "posologia": "0.25 mg IV 30 min before surgery or chemotherapy",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Administer directly or dilute in 50 mL NS",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hypersensitivity to palonosetron or other 5-HT3 antagonists",
+      "cuidadosMedicos": "Monitor ECG in patients with arrhythmia history",
+      "cuidadosFarmaceuticos": "Protect from light; use promptly after opening",
+      "cuidadosEnfermagem": "Observe efficacy and adverse reactions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Palonosetrón",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Bajo riesgo; antiemético potente y duradero; controlar QT si se combina",
+      "reintroduction": "Puede administrarse intra o postoperatoriamente si se requiere"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Palonosetrón",
+      "nomeComercial": "Aloxi",
+      "mecanismoAcao": "Antagonista selectivo de receptores 5-HT3 con alta afinidad y duración prolongada",
+      "farmacocinetica": "IV, inicio 30 min, vida media ~40 h, metabolismo hepático (CYP2D6, CYP3A4)",
+      "farmacodinamica": "Bloquea señales serotoninérgicas en TGI y SNC, previniendo náuseas/vómitos",
+      "indicacoes": "Prevención de náuseas y vómitos por quimioterapia o cirugía",
+      "reacoesAdversas": "Cefalea, estreñimiento, fatiga, QT prolongado, mareos",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Uso con precaución; datos limitados",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0.25 mg/dosis (única)",
+      "doseMinima": "0.075 mg (uso perioperatorio)",
+      "classificacao": "Antiemético (antagonista 5-HT3 de segunda generación)",
+      "apresentacao": "Ampolla 0.25 mg/5 mL",
+      "interacaoMedicamento": "Puede prolongar QT con fármacos cardiotóxicos",
+      "posologia": "0.25 mg IV 30 min antes de cirugía o quimioterapia",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "Administrar directamente o diluir en 50 mL SF",
+      "solucoesCompatíveis": "SF, SG 5%",
+      "contraindicacoes": "Hipersensibilidad a palonosetrón o antagonistas 5-HT3",
+      "cuidadosMedicos": "Controlar ECG si hay riesgo de arritmia",
+      "cuidadosFarmaceuticos": "Proteger de la luz; usar tras apertura",
+      "cuidadosEnfermagem": "Observar eficacia y reacciones adversas",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "帕洛诺司琼",
+      "suspension": "术前可继续使用",
+      "risk": "低风险；长效止吐药；与其他药物合用时需监测QT",
+      "reintroduction": "术中或术后可按需使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "帕洛诺司琼",
+      "nomeComercial": "Aloxi",
+      "mecanismoAcao": "高亲和力5-HT3受体拮抗剂，作用持久",
+      "farmacocinetica": "静脉注射，起效30分钟，半衰期约40小时，经肝代谢（CYP2D6、CYP3A4）",
+      "farmacodinamica": "阻断胃肠道及中枢的5-HT3信号，预防恶心呕吐",
+      "indicacoes": "预防化疗及手术引起的恶心呕吐",
+      "reacoesAdversas": "头痛、便秘、乏力、QT延长、头晕",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "慎用；数据有限",
+      "administracao": "静脉注射",
+      "doseMaxima": "0.25毫克/次（单剂量）",
+      "doseMinima": "0.075毫克（术中使用）",
+      "classificacao": "止吐药（第二代5-HT3拮抗剂）",
+      "apresentacao": "注射液0.25毫克/5毫升",
+      "interacaoMedicamento": "与其他致心律失常药物合用可延长QT",
+      "posologia": "术前或化疗前30分钟静注0.25毫克",
+      "armazenamento": "室温，避光",
+      "preparo": "可直接使用或稀释于50毫升0.9%氯化钠注射液",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "对帕洛诺司琼或5-HT3拮抗剂过敏者禁用",
+      "cuidadosMedicos": "如有心律史需监测心电图",
+      "cuidadosFarmaceuticos": "避光保存，开瓶后尽快使用",
+      "cuidadosEnfermagem": "关注疗效与不良反应",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

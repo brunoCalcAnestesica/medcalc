@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Atracúrio",
+      "suspension": "Não suspender – uso intraoperatório sob supervisão anestésica",
+      "risk": "Bloqueio neuromuscular intermediário, liberação de histamina, hipotensão, interação com anestésicos e aminoglicosídeos",
+      "reintroduction": "Reintroduzir sob monitorização de TOF, com ventilação assistida e plano de reversão com neostigmina"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Besilato de Atracúrio",
+      "nomeComercial": "Tracurium",
+      "mecanismoAcao": "Bloqueador neuromuscular não despolarizante; antagonista competitivo dos receptores nicotínicos musculares da acetilcolina",
+      "farmacocinetica": "Início em 2–3 min, duração 20–35 min, eliminação independente da função hepática ou renal (hidrólise de Hofmann e esterases plasmáticas)",
+      "farmacodinamica": "Induz paralisia muscular reversível para facilitar intubação, ventilação mecânica e relaxamento cirúrgico",
+      "indicacoes": "Intubação traqueal, cirurgias com necessidade de relaxamento muscular, ventilação mecânica",
+      "reacoesAdversas": "Hipotensão, rubor, taquicardia reflexa, broncoespasmo, bloqueio prolongado",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Uso único geralmente seguro; baixa transferência para leite materno",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0,6 mg/kg",
+      "doseMinima": "0,3 mg/kg",
+      "classificacao": "Bloqueador neuromuscular não despolarizante de ação intermediária",
+      "apresentacao": "Solução injetável 10mg/mL – ampolas de 2,5mL ou 5mL",
+      "interacaoMedicamento": "Potencializado por anestésicos inalatórios, aminoglicosídeos, bloqueadores de cálcio, lítio",
+      "posologia": "Indução: 0,3–0,6 mg/kg IV; manutenção: 0,1–0,2 mg/kg conforme monitorização",
+      "armazenamento": "2–8°C; solução pronta para uso imediato, sensível à luz",
+      "preparo": "Não requer diluição; usar em bolus lento ou infusão contínua",
+      "solucoesCompatíveis": "SF 0,9%, ringer lactato",
+      "contraindicacoes": "Hipersensibilidade, histórico de resposta anafilática a bloqueadores musculares",
+      "cuidadosMedicos": "Monitorar TOF, hemodinâmica, reversão com anticolinesterásicos (neostigmina + atropina)",
+      "cuidadosFarmaceuticos": "Manter refrigerado, proteger da luz, verificar integridade da solução",
+      "cuidadosEnfermagem": "Assegurar ventilação, observar sinais de bloqueio residual ou recurarização",
+      "fontesBibliograficas": "SBAn, FDA, ANVISA, EMA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Atracurium",
+      "suspension": "Do not suspend – intraoperative use only under anesthesiologist supervision",
+      "risk": "Intermediate neuromuscular blockade, histamine release, hypotension, interaction with anesthetics and aminoglycosides",
+      "reintroduction": "Re-administer only under TOF monitoring and proper reversal plan with neostigmine"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atracurium Besylate",
+      "nomeComercial": "Tracrium",
+      "mecanismoAcao": "Non-depolarizing neuromuscular blocker; competitive antagonist at nicotinic acetylcholine receptors",
+      "farmacocinetica": "Onset 2–3 min, duration 20–35 min, metabolized via Hofmann elimination and plasma esterases, independent of liver/kidney",
+      "farmacodinamica": "Provides controlled muscle relaxation for intubation and surgery; reversible blockade",
+      "indicacoes": "Tracheal intubation, muscle relaxation in surgery, mechanical ventilation in ICU",
+      "reacoesAdversas": "Hypotension, flushing, reflex tachycardia, bronchospasm, prolonged block",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Single dose generally safe; low transfer into breast milk",
+      "administracao": "Intravenous",
+      "doseMaxima": "0.6 mg/kg",
+      "doseMinima": "0.3 mg/kg",
+      "classificacao": "Intermediate-acting non-depolarizing neuromuscular blocker",
+      "apresentacao": "Injection 10mg/mL – ampoules 2.5mL or 5mL",
+      "interacaoMedicamento": "Potentiated by volatile anesthetics, aminoglycosides, calcium channel blockers, lithium",
+      "posologia": "Induction: 0.3–0.6 mg/kg IV; maintenance: 0.1–0.2 mg/kg",
+      "armazenamento": "2–8°C; protect from light; use immediately",
+      "preparo": "No dilution required; slow IV bolus or infusion",
+      "solucoesCompatíveis": "Normal saline, lactated Ringer’s",
+      "contraindicacoes": "Hypersensitivity, history of anaphylaxis to muscle relaxants",
+      "cuidadosMedicos": "Monitor TOF, hemodynamics, plan reversal with neostigmine and atropine",
+      "cuidadosFarmaceuticos": "Refrigerate and protect from light; check solution clarity",
+      "cuidadosEnfermagem": "Ensure ventilation; monitor for residual block or recurarization",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, ASA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Atracurio",
+      "suspension": "No suspender – uso intraoperatorio bajo control anestésico",
+      "risk": "Bloqueo neuromuscular intermedio, liberación de histamina, hipotensión, interacción con anestésicos y aminoglucósidos",
+      "reintroduction": "Reintroducir solo con monitorización de TOF y plan de reversión con neostigmina"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Besilato de Atracurio",
+      "nomeComercial": "Tracrium",
+      "mecanismoAcao": "Bloqueador neuromuscular no despolarizante; antagonista competitivo de receptores nicotínicos musculares",
+      "farmacocinetica": "Inicio: 2–3 min, duración: 20–35 min, metabolismo por hidrólisis de Hofmann y esterasa plasmática",
+      "farmacodinamica": "Relajación muscular controlada reversible durante cirugía o ventilación asistida",
+      "indicacoes": "Intubación, relajación quirúrgica, ventilación en UCI",
+      "reacoesAdversas": "Hipotensión, enrojecimiento, taquicardia refleja, broncoespasmo, bloqueo prolongado",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Dosis única generalmente segura; baja transferencia a leche materna",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0,6 mg/kg",
+      "doseMinima": "0,3 mg/kg",
+      "classificacao": "Bloqueador neuromuscular no despolarizante de acción intermedia",
+      "apresentacao": "Solución inyectable 10mg/mL – ampollas de 2,5mL o 5mL",
+      "interacaoMedicamento": "Potenciado por anestésicos inhalados, aminoglucósidos, bloqueadores de calcio, litio",
+      "posologia": "Inducción: 0,3–0,6 mg/kg IV; mantenimiento: 0,1–0,2 mg/kg",
+      "armazenamento": "2–8°C; proteger de la luz; uso inmediato",
+      "preparo": "No requiere dilución; administrar en bolo lento o infusión",
+      "solucoesCompatíveis": "Solución salina, Ringer lactato",
+      "contraindicacoes": "Hipersensibilidad, antecedentes de anafilaxia a relajantes musculares",
+      "cuidadosMedicos": "Monitorear TOF, estabilidad hemodinámica, plan de reversión con neostigmina + atropina",
+      "cuidadosFarmaceuticos": "Mantener refrigerado y protegido de la luz",
+      "cuidadosEnfermagem": "Asegurar ventilación; vigilar bloqueo residual o recurarización",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, Guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿曲库铵",
+      "suspension": "术前无需停药——术中在麻醉师监护下使用",
+      "risk": "中效神经肌肉阻滞、组胺释放、低血压、与麻醉剂和氨基糖苷类相互作用",
+      "reintroduction": "术后仅在有TOF监测与拮抗药物（如新斯的明）情况下可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿曲库铵贝西酸盐",
+      "nomeComercial": "Tracrium",
+      "mecanismoAcao": "非去极化型肌松剂，通过竞争性阻断乙酰胆碱对神经肌肉接头的作用",
+      "farmacocinetica": "起效2–3分钟，作用持续20–35分钟，通过霍夫曼降解和血浆酯酶代谢，与肝肾功能无关",
+      "farmacodinamica": "诱导可逆肌肉松弛，适用于插管和外科手术",
+      "indicacoes": "气管插管、手术肌松、ICU通气",
+      "reacoesAdversas": "低血压、面部潮红、反射性心动过速、支气管痉挛、肌松延长",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "术中单次使用安全；母乳中分泌量低",
+      "administracao": "静脉注射",
+      "doseMaxima": "0.6 mg/kg",
+      "doseMinima": "0.3 mg/kg",
+      "classificacao": "中效非去极化肌松剂",
+      "apresentacao": "注射液10mg/mL，2.5mL或5mL安瓿",
+      "interacaoMedicamento": "与吸入麻醉剂、氨基糖苷类、钙通道阻滞剂、锂剂协同作用",
+      "posologia": "诱导：0.3–0.6 mg/kg；维持：0.1–0.2 mg/kg",
+      "armazenamento": "2–8°C，避光保存；即用型",
+      "preparo": "无需稀释，可缓慢静推或持续输注",
+      "solucoesCompatíveis": "生理盐水、乳酸林格液",
+      "contraindicacoes": "对药物过敏、有过肌松药过敏史",
+      "cuidadosMedicos": "监测TOF、血流动力学，使用新斯的明+阿托品逆转",
+      "cuidadosFarmaceuticos": "冷藏避光保存，使用前检查溶液",
+      "cuidadosEnfermagem": "确保通气充分，观察是否有残余阻滞或再阻滞现象",
+      "fontesBibliograficas": "NMPA, FDA, WHO, Micromedex"
+    }
+  }
+}

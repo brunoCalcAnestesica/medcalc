@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vitamina B3 (Niacina / Niacinamida)",
+      "suspension": "Suspender 2 dias antes de cirurgias com risco cardiovascular ou hepático",
+      "risk": "Pode causar vasodilatação, hipotensão e sobrecarga hepática em altas doses",
+      "reintroduction": "Reintroduzir após 48h, com função hepática estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Niacina (ácido nicotínico) / Niacinamida (nicotinamida)",
+      "nomeComercial": "Endur-acin, Niacor, Lavitan B3, Solgar B3",
+      "mecanismoAcao": "Precursora de NAD+/NADP+ em reações redox celulares, modula metabolismo energético e DNA repair",
+      "farmacocinetica": "Absorção oral excelente, excreção renal; meia-vida curta",
+      "farmacodinamica": "Melhora função mitocondrial, lipídica, vascular e imunológica; anti-inflamatório cutâneo",
+      "indicacoes": "Dislipidemia, pelagra, suporte cognitivo, dermatites, acne inflamatória, prevenção de câncer cutâneo (uso tópico)",
+      "reacoesAdversas": "Rubor cutâneo, prurido, tontura, náusea, hepatotoxicidade (alta dose)",
+      "riscoGravidez": "Categoria B – seguro em doses fisiológicas",
+      "riscoLactacao": "Seguro em doses usuais (≤35 mg/dia)",
+      "administracao": "Oral ou tópica (niacinamida)",
+      "doseMaxima": "2000 mg/dia (niacina sob supervisão); 500 mg/dia niacinamida",
+      "doseMinima": "14–16 mg/dia (IDR)",
+      "classificacao": "Vitamina hidrossolúvel, coenzimática e vasodilatadora",
+      "apresentacao": "Cápsulas, comprimidos, cremes, soluções tópicas",
+      "interacaoMedicamento": "Potencializa efeito de estatinas, antidiabéticos; risco com álcool e paracetamol",
+      "posologia": "Niacina: 250–2000 mg/dia; Niacinamida: 250–500 mg/dia",
+      "armazenamento": "Lugar seco, fresco, protegido da luz",
+      "preparo": "Formas de liberação lenta reduzem rubor",
+      "solucoesCompatíveis": "Zinco, B6, selênio, riboflavina",
+      "contraindicacoes": "Doença hepática ativa, úlcera péptica ativa, hipotensão grave",
+      "cuidadosMedicos": "Monitorar transaminases e glicemia em altas doses",
+      "cuidadosFarmaceuticos": "Orientar para não confundir niacina com niacinamida em hipercolesterolemia",
+      "cuidadosEnfermagem": "Observar rubor, tolerância digestiva e resposta dermatológica",
+      "fontesBibliograficas": "NIH, PubMed, Medscape, UpToDate, Natural Medicines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vitamin B3 (Niacin / Niacinamide)",
+      "suspension": "Discontinue 2 days before surgeries with hepatic or vascular risk",
+      "risk": "High-dose niacin may cause flushing, hypotension, liver stress",
+      "reintroduction": "Restart after 48h with stable liver function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Niacin (nicotinic acid) / Niacinamide (nicotinamide)",
+      "nomeComercial": "Niacor, Endur-acin, Nature’s Bounty B3, Solgar Niacin",
+      "mecanismoAcao": "Precursor of NAD/NADP coenzymes; regulates energy metabolism, lipid synthesis, DNA repair",
+      "farmacocinetica": "Excellent oral absorption; rapid renal excretion",
+      "farmacodinamica": "Lipid-lowering (niacin), anti-inflammatory, supports skin, brain and immune function",
+      "indicacoes": "Dyslipidemia, pellagra, cognitive support, acne, photoaging, skin cancer prevention (topical)",
+      "reacoesAdversas": "Flushing, headache, dizziness, nausea, liver toxicity (high dose)",
+      "riscoGravidez": "Category B – safe at RDA levels",
+      "riscoLactacao": "Safe at ≤35 mg/day",
+      "administracao": "Oral or topical",
+      "doseMaxima": "2000 mg/day (niacin); 500 mg/day niacinamide",
+      "doseMinima": "14–16 mg/day (RDA)",
+      "classificacao": "Water-soluble coenzyme vitamin with vascular and dermatologic benefits",
+      "apresentacao": "Tablets, capsules, creams, serums",
+      "interacaoMedicamento": "Potentiates statins, antidiabetics; avoid with alcohol or acetaminophen",
+      "posologia": "Niacin: 250–2000 mg/day; Niacinamide: 250–500 mg/day",
+      "armazenamento": "Store in a cool, dry, dark place",
+      "preparo": "Extended-release formulations reduce flushing",
+      "solucoesCompatíveis": "Zinc, selenium, B6, B2",
+      "contraindicacoes": "Active liver disease, active peptic ulcers, severe hypotension",
+      "cuidadosMedicos": "Monitor ALT/AST and fasting glucose in high doses",
+      "cuidadosFarmaceuticos": "Clarify niacin vs niacinamide purpose before dispensing",
+      "cuidadosEnfermagem": "Assess for flushing, digestive tolerance, skin improvements",
+      "fontesBibliograficas": "NIH, Medscape, Natural Medicines, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vitamina B3 (Niacina / Niacinamida)",
+      "suspension": "Suspender 2 días antes de cirugía con riesgo hepático o vascular",
+      "risk": "Niacina en altas dosis puede causar rubor, hipotensión o toxicidad hepática",
+      "reintroduction": "Reanudar 48h después si función hepática es normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Niacina / Niacinamida",
+      "nomeComercial": "Niacor, B3 Complex, Lavitan B3, Solgar B3",
+      "mecanismoAcao": "Precursora de NAD/NADP; modula metabolismo energético, lípidos, reparación celular",
+      "farmacocinetica": "Buena absorción oral; eliminación renal",
+      "farmacodinamica": "Reduce colesterol, mejora piel, función inmune y cerebral",
+      "indicacoes": "Pelagra, dislipidemia, rosácea, acné, fotoenvejecimiento",
+      "reacoesAdversas": "Rubor facial, náuseas, mareos, hepatotoxicidad (dosis altas)",
+      "riscoGravidez": "Categoría B – segura a dosis nutricionales",
+      "riscoLactacao": "Segura ≤35 mg/día",
+      "administracao": "Oral o tópica",
+      "doseMaxima": "2000 mg/día (niacina); 500 mg/día (niacinamida)",
+      "doseMinima": "14–16 mg/día",
+      "classificacao": "Vitamina hidrosoluble con beneficios vasculares y dérmicos",
+      "apresentacao": "Cápsulas, tabletas, cremas, sueros",
+      "interacaoMedicamento": "Precaución con estatinas, antidiabéticos, alcohol",
+      "posologia": "Niacina: 250–2000 mg/día; Niacinamida: 250–500 mg/día",
+      "armazenamento": "Lugar seco y oscuro",
+      "preparo": "Formulaciones de liberación lenta reducen rubor",
+      "solucoesCompatíveis": "Zinc, B6, selenio",
+      "contraindicacoes": "Hepatopatía activa, úlcera, hipotensión",
+      "cuidadosMedicos": "Monitorear función hepática y glucemia",
+      "cuidadosFarmaceuticos": "Diferenciar niacina vs niacinamida en dislipidemia vs uso tópico",
+      "cuidadosEnfermagem": "Observar efectos dérmicos y rubor",
+      "fontesBibliograficas": "PubMed, EMA, UpToDate, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "维生素B3（烟酸 / 烟酰胺）",
+      "suspension": "术前2天停用（大剂量者）",
+      "risk": "高剂量烟酸可引起面红、低血压、肝毒性",
+      "reintroduction": "术后48小时，如肝功能稳定可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "烟酸（Niacin）/ 烟酰胺（Niacinamide）",
+      "nomeComercial": "烟酸B3片、Solgar烟酸、B族维生素复合片",
+      "mecanismoAcao": "NAD/NADP前体，参与能量代谢与DNA修复",
+      "farmacocinetica": "口服吸收好，肾排泄，半衰期短",
+      "farmacodinamica": "调脂、抗炎、改善神经功能、抗衰老皮肤功效",
+      "indicacoes": "癞皮病、血脂异常、痤疮、皮肤衰老",
+      "reacoesAdversas": "潮红、头痛、肝功能异常、大剂量致胃肠刺激",
+      "riscoGravidez": "B类 – 推荐剂量下安全",
+      "riscoLactacao": "每日≤35毫克安全",
+      "administracao": "口服或外用",
+      "doseMaxima": "烟酸每日不超2000毫克；烟酰胺每日不超500毫克",
+      "doseMinima": "14–16毫克/天（RDA）",
+      "classificacao": "水溶性维生素，调脂与皮肤支持剂",
+      "apresentacao": "片剂、胶囊、乳膏、血脂调节片",
+      "interacaoMedicamento": "与他汀、酒精、降糖药联用时需监测",
+      "posologia": "烟酸250–2000毫克/天；烟酰胺250–500毫克/天",
+      "armazenamento": "避光干燥储存",
+      "preparo": "缓释片可减轻潮红",
+      "solucoesCompatíveis": "锌、维B6、硒、维B2",
+      "contraindicacoes": "活动性肝病、消化性溃疡、重度低血压",
+      "cuidadosMedicos": "高剂量需定期肝功能和血糖监测",
+      "cuidadosFarmaceuticos": "区分烟酸与烟酰胺适应症",
+      "cuidadosEnfermagem": "监测潮红、肠胃反应与皮肤改善",
+      "fontesBibliograficas": "PubMed、中国药典、UpToDate、Medscape、NIH"
+    }
+  }
+}

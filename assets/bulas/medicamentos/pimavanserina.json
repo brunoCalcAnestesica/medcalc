@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pimavanserina",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva de médio ou grande porte",
+      "risk": "Risco de prolongamento do intervalo QT, sedação, hipotensão e interação com anestésicos e outros antipsicóticos; risco aumentado em idosos com demência",
+      "reintroduction": "Reintroduzir após estabilização clínica e ECG normalizado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pimavanserina",
+      "nomeComercial": "Nuplazid",
+      "mecanismoAcao": "Antagonista e inverso agonista seletivo dos receptores 5-HT2A, sem afinidade dopaminérgica significativa",
+      "farmacocinetica": "Absorção oral; pico em 6 horas; meia-vida de 57 horas; metabolismo hepático (CYP3A4, CYP3A5)",
+      "farmacodinamica": "Reduz alucinações e delírios em psicose associada à doença de Parkinson sem bloquear receptores dopaminérgicos",
+      "indicacoes": "Psicose relacionada à doença de Parkinson",
+      "reacoesAdversas": "Edema periférico, náuseas, confusão, alucinações, prolongamento do QT",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; evitar ou suspender amamentação",
+      "administracao": "Oral",
+      "doseMaxima": "34 mg/dia",
+      "doseMinima": "17 mg/dia",
+      "classificacao": "Antipsicótico atípico seletivo para 5-HT2A",
+      "apresentacao": "Comprimidos 17 mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores do CYP3A4; risco aumentado com QT-prolongadores",
+      "posologia": "34 mg VO 1x/dia (2 comprimidos de 17 mg); ajuste necessário com inibidores fortes do CYP3A4",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Uso direto; não partir comprimidos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, QTc prolongado, uso com inibidores fortes do CYP3A4 sem ajuste",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos e sintomas psiquiátricos",
+      "cuidadosFarmaceuticos": "Evitar uso concomitante com QT-prolongadores; atenção a interações via CYP3A4",
+      "cuidadosEnfermagem": "Avaliar estado mental, edema, ECG e possíveis efeitos extrapiramidais",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, bula Nuplazid"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pimavanserin",
+      "suspension": "Discontinue 7 days before medium or major elective surgery",
+      "risk": "Risk of QT prolongation, sedation, hypotension, interaction with anesthetics and antipsychotics; increased mortality in elderly with dementia",
+      "reintroduction": "Restart after clinical stabilization and normal ECG"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pimavanserin",
+      "nomeComercial": "Nuplazid",
+      "mecanismoAcao": "Selective 5-HT2A receptor inverse agonist and antagonist with minimal dopaminergic activity",
+      "farmacocinetica": "Oral absorption; peak ~6 h; half-life ~57 h; hepatic metabolism (CYP3A4, CYP3A5)",
+      "farmacodinamica": "Reduces hallucinations and delusions in Parkinson’s disease psychosis without dopamine receptor blockade",
+      "indicacoes": "Parkinson’s disease psychosis",
+      "reacoesAdversas": "Peripheral edema, nausea, confusion, hallucinations, QT prolongation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; avoid or discontinue breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "34 mg/day",
+      "doseMinima": "17 mg/day",
+      "classificacao": "Selective 5-HT2A antipsychotic",
+      "apresentacao": "Tablets: 17 mg",
+      "interacaoMedicamento": "Interacts with CYP3A4 inhibitors/inducers; risk with QT-prolonging drugs",
+      "posologia": "34 mg orally once daily (2 x 17 mg); adjust if using strong CYP3A4 inhibitors",
+      "armazenamento": "Room temperature (15–30°C); protect from light",
+      "preparo": "Direct use; do not split tablets",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, prolonged QT, use with strong CYP3A4 inhibitors without adjustment",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, psychiatric symptoms",
+      "cuidadosFarmaceuticos": "Avoid QT-prolonging combinations; check CYP3A4 drug interactions",
+      "cuidadosEnfermagem": "Monitor mental status, edema, ECG, extrapyramidal symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Nuplazid PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pimavanserina",
+      "suspension": "Suspender 7 días antes de cirugía media o mayor",
+      "risk": "Riesgo de QT prolongado, sedación, hipotensión, interacción con anestésicos y antipsicóticos; riesgo aumentado en ancianos con demencia",
+      "reintroduction": "Reiniciar tras estabilización clínica y ECG normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pimavanserina",
+      "nomeComercial": "Nuplazid",
+      "mecanismoAcao": "Antagonista/inverso agonista selectivo de receptores 5-HT2A sin afinidad dopaminérgica significativa",
+      "farmacocinetica": "Vía oral; pico en 6 h; vida media ~57 h; metabolismo hepático (CYP3A4, CYP3A5)",
+      "farmacodinamica": "Reduce alucinaciones y delirios en la psicosis por Parkinson sin bloquear receptores dopaminérgicos",
+      "indicacoes": "Psicosis asociada a enfermedad de Parkinson",
+      "reacoesAdversas": "Edema periférico, náuseas, confusión, alucinaciones, prolongación del QT",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; evitar o suspender lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "34 mg/día",
+      "doseMinima": "17 mg/día",
+      "classificacao": "Antipsicótico atípico selectivo 5-HT2A",
+      "apresentacao": "Comprimidos: 17 mg",
+      "interacaoMedicamento": "Interacción con inhibidores/inductores CYP3A4; riesgo con otros QT-prolongadores",
+      "posologia": "34 mg VO 1 vez/día (2 x 17 mg); ajustar si se usa con inhibidores fuertes de CYP3A4",
+      "armazenamento": "Ambiente seco, 15–30°C, protegido de la luz",
+      "preparo": "Uso directo; no partir comprimidos",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "QT prolongado, hipersensibilidad, uso sin ajuste con inhibidores potentes CYP3A4",
+      "cuidadosMedicos": "Monitorear ECG, electrolitos y síntomas psiquiátricos",
+      "cuidadosFarmaceuticos": "Revisar interacciones CYP3A4 y riesgo QT",
+      "cuidadosEnfermagem": "Observar estado mental, ECG, síntomas extrapiramidales",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Nuplazid"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "匹马苯林",
+      "suspension": "中到大型择期手术前7天停药",
+      "risk": "QT延长、镇静、低血压，与麻醉药和其他抗精神病药物有相互作用；老年痴呆患者死亡率上升",
+      "reintroduction": "术后病情稳定且心电图正常后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "匹马苯林（Pimavanserin）",
+      "nomeComercial": "Nuplazid",
+      "mecanismoAcao": "选择性5-HT2A受体逆激动剂，无明显多巴胺受体亲和力",
+      "farmacocinetica": "口服吸收好，Tmax约6小时，T1/2约57小时，经CYP3A4/3A5代谢",
+      "farmacodinamica": "缓解帕金森病精神病相关幻觉和妄想，无阻断多巴胺受体副作用",
+      "indicacoes": "帕金森病相关精神病（幻觉、妄想）",
+      "reacoesAdversas": "外周水肿、恶心、意识混乱、QT延长、幻觉",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "分泌与否未知，建议停哺或慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日34 mg",
+      "doseMinima": "每日17 mg",
+      "classificacao": "5-HT2A选择性非典型抗精神病药",
+      "apresentacao": "17 mg片剂",
+      "interacaoMedicamento": "与CYP3A4强抑制剂/诱导剂、QT延长药物合用有风险",
+      "posologia": "每日1次34 mg（2片17 mg）；与强CYP3A4抑制剂合用需减量",
+      "armazenamento": "15–30°C，避光储存",
+      "preparo": "直接口服，不可掰片",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "QT延长、CYP3A4强抑制剂合用未调整者、过敏",
+      "cuidadosMedicos": "监测心电图、血清电解质、精神状态",
+      "cuidadosFarmaceuticos": "检查QT风险和CYP3A4药物联用",
+      "cuidadosEnfermagem": "评估精神状态、水肿、心电图、锥体外反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Nuplazid说明书"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Linezolida",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Risco de interação com anestésicos serotoninérgicos; atenção à síndrome serotoninérgica",
+      "reintroduction": "Pode ser reintroduzido no pós-operatório conforme indicação infecciosa e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Linezolida",
+      "nomeComercial": "Zyvox, Zyvoxid, Linezolid Genérico",
+      "mecanismoAcao": "Inibe a síntese proteica bacteriana ao se ligar à subunidade 50S do ribossomo",
+      "farmacocinetica": "Boa biodisponibilidade oral, metabolismo hepático, excreção renal e fecal",
+      "farmacodinamica": "Bacteriostático contra estafilococos e enterococos; bactericida contra estreptococos",
+      "indicacoes": "Infecções por Gram-positivos resistentes, incluindo MRSA e VRE",
+      "reacoesAdversas": "Náuseas, cefaleia, trombocitopenia, neuropatia periférica, síndrome serotoninérgica",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excreção no leite desconhecida, usar com cautela",
+      "administracao": "Oral e intravenosa",
+      "doseMaxima": "1200 mg/dia",
+      "doseMinima": "600 mg/dia",
+      "classificacao": "Oxazolidinona antibacteriana",
+      "apresentacao": "Comprimidos, suspensão oral e solução injetável",
+      "interacaoMedicamento": "Risco de síndrome serotoninérgica com ISRS, IMAO, opioides, triptanos",
+      "posologia": "600 mg a cada 12 horas por 10 a 14 dias",
+      "armazenamento": "Temperatura ambiente, proteger da luz",
+      "preparo": "Solução IV pronta para uso; agitar frascos orais",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, glicose 5%",
+      "contraindicacoes": "Hipersensibilidade à linezolida, uso com IMAO irreversíveis",
+      "cuidadosMedicos": "Monitorar hemograma em tratamentos >10 dias",
+      "cuidadosFarmaceuticos": "Avaliar interações serotoninérgicas e estabilidade da solução",
+      "cuidadosEnfermagem": "Observar sinais de mielossupressão, neuropatia, interações medicamentosas",
+      "fontesBibliograficas": "Micromedex, FDA, SBAn, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Linezolid",
+      "suspension": "Continue until the day of surgery",
+      "risk": "Risk of serotonin syndrome with serotonergic anesthetics",
+      "reintroduction": "Can be reintroduced postoperatively based on infection status and stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Linezolid",
+      "nomeComercial": "Zyvox, Zyvoxid, Generic Linezolid",
+      "mecanismoAcao": "Inhibits bacterial protein synthesis by binding to 50S ribosomal subunit",
+      "farmacocinetica": "High oral bioavailability, hepatic metabolism, renal and fecal excretion",
+      "farmacodinamica": "Bacteriostatic vs staph and enterococci; bactericidal vs streptococci",
+      "indicacoes": "Infections caused by Gram-positive resistant organisms including MRSA and VRE",
+      "reacoesAdversas": "Nausea, headache, thrombocytopenia, peripheral neuropathy, serotonin syndrome",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excretion in milk unknown, use with caution",
+      "administracao": "Oral and IV",
+      "doseMaxima": "1200 mg/day",
+      "doseMinima": "600 mg/day",
+      "classificacao": "Oxazolidinone antibiotic",
+      "apresentacao": "Tablets, oral suspension, IV solution",
+      "interacaoMedicamento": "Risk of serotonin syndrome with SSRIs, MAOIs, opioids, triptans",
+      "posologia": "600 mg every 12 hours for 10–14 days",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "IV solution ready to use; shake oral suspension",
+      "solucoesCompatíveis": "0.9% sodium chloride, 5% dextrose",
+      "contraindicacoes": "Hypersensitivity to linezolid, concurrent use with irreversible MAOIs",
+      "cuidadosMedicos": "Monitor CBC in treatments >10 days",
+      "cuidadosFarmaceuticos": "Evaluate serotonergic interactions and solution stability",
+      "cuidadosEnfermagem": "Observe for myelosuppression, neuropathy, drug interactions",
+      "fontesBibliograficas": "FDA, Micromedex, SBAn, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Linezolid",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Riesgo de síndrome serotoninérgico con anestésicos serotoninérgicos",
+      "reintroduction": "Puede reintroducirse tras la cirugía según evolución clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Linezolid",
+      "nomeComercial": "Zyvox, Zyvoxid, Linezolid Genérico",
+      "mecanismoAcao": "Inhibe la síntesis de proteínas bacterianas al unirse a la subunidad 50S del ribosoma",
+      "farmacocinetica": "Buena biodisponibilidad oral, metabolismo hepático, excreción renal y fecal",
+      "farmacodinamica": "Bacteriostático frente a estafilococos y enterococos; bactericida frente a estreptococos",
+      "indicacoes": "Infecciones por Gram positivos resistentes como MRSA y VRE",
+      "reacoesAdversas": "Náuseas, cefalea, trombocitopenia, neuropatía periférica, síndrome serotoninérgico",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce excreción en leche; usar con precaución",
+      "administracao": "Oral e intravenosa",
+      "doseMaxima": "1200 mg/día",
+      "doseMinima": "600 mg/día",
+      "classificacao": "Antibiótico oxazolidinona",
+      "apresentacao": "Comprimidos, suspensión oral, solución IV",
+      "interacaoMedicamento": "Riesgo de síndrome serotoninérgico con ISRS, IMAO, opioides, triptanos",
+      "posologia": "600 mg cada 12 horas durante 10-14 días",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Solución IV lista; agitar suspensión oral",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%, glucosa 5%",
+      "contraindicacoes": "Hipersensibilidad, uso concomitante con IMAO irreversibles",
+      "cuidadosMedicos": "Monitorear hemograma si duración >10 días",
+      "cuidadosFarmaceuticos": "Revisar interacciones serotoninérgicas y estabilidad",
+      "cuidadosEnfermagem": "Observar mielosupresión, neuropatía e interacciones",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, SBAn"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利奈唑胺",
+      "suspension": "手术当天可继续使用",
+      "risk": "与麻醉药物存在血清素综合征风险",
+      "reintroduction": "术后可根据感染情况和稳定性重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "利奈唑胺",
+      "nomeComercial": "Zyvox, Zyvoxid, 利奈唑胺仿制药",
+      "mecanismoAcao": "通过与核糖体50S亚基结合抑制细菌蛋白质合成",
+      "farmacocinetica": "口服生物利用度高，肝脏代谢，经肾和粪便排泄",
+      "farmacodinamica": "对葡萄球菌和肠球菌为抑菌作用，对链球菌为杀菌作用",
+      "indicacoes": "耐药革兰阳性菌感染，如MRSA和VRE",
+      "reacoesAdversas": "恶心、头痛、血小板减少、周围神经病变、血清素综合征",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否分泌到乳汁尚不明确，慎用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日1200毫克",
+      "doseMinima": "每日600毫克",
+      "classificacao": "噁唑烷酮类抗生素",
+      "apresentacao": "片剂、口服混悬液、注射液",
+      "interacaoMedicamento": "与SSRI、MAOI、阿片类药物、曲坦类联用可致血清素综合征",
+      "posologia": "每12小时600毫克，疗程10–14天",
+      "armazenamento": "常温保存，避光",
+      "preparo": "注射液可直接使用，口服液需摇匀",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对本品过敏、不可逆MAOI联用禁忌",
+      "cuidadosMedicos": "使用超过10天需监测血象",
+      "cuidadosFarmaceuticos": "注意药物相互作用与溶液稳定性",
+      "cuidadosEnfermagem": "监测骨髓抑制、神经毒性及血清素综合征",
+      "fontesBibliograficas": "中国药典, Micromedex, FDA, EMA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Amicacina",
+      "suspension": "Suspender 24h antes de cirurgias eletivas, exceto em uso crítico com vigilância de função renal e auditiva",
+      "risk": "Ototoxicidade, nefrotoxicidade, bloqueio neuromuscular; risco aumentado com anestésicos ou bloqueadores neuromusculares",
+      "reintroduction": "Reintroduzir com cautela após avaliação da função renal e eletrolítica no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amicacina",
+      "nomeComercial": "Amikin, Amikacil, Amicin",
+      "mecanismoAcao": "Liga-se irreversivelmente à subunidade 30S ribossomal bacteriana, inibindo a síntese proteica",
+      "farmacocinetica": "Administração IM ou IV; não é metabolizada; excreção renal; meia-vida de 2 a 3h em função renal normal",
+      "farmacodinamica": "Bactericida; efeito dependente de concentração; ação prolongada pós-antibiótica",
+      "indicacoes": "Infecções graves por bacilos gram-negativos, incluindo sepse, pielonefrite, infecções respiratórias e intra-abdominais",
+      "reacoesAdversas": "Vertigem, zumbido, insuficiência renal, bloqueio neuromuscular, rash cutâneo",
+      "riscoGravidez": "Categoria D (risco fetal conhecido)",
+      "riscoLactacao": "Excretado em pequenas quantidades; usar com cautela",
+      "administracao": "Intramuscular ou intravenosa",
+      "doseMaxima": "15–20mg/kg/dia",
+      "doseMinima": "5mg/kg/dia",
+      "classificacao": "Aminoglicosídeo",
+      "apresentacao": "Frascos-ampola de 500mg/2mL ou 100mg/mL",
+      "interacaoMedicamento": "Aumenta toxicidade com outros nefrotóxicos ou ototóxicos; interação com anestésicos e bloqueadores neuromusculares",
+      "posologia": "15mg/kg/dia dividido a cada 8–12h ou dose única diária",
+      "armazenamento": "Temperatura ambiente (15–30°C); proteger da luz",
+      "preparo": "Diluir em SF 0,9% para infusão IV lenta (30 a 60 minutos)",
+      "solucoesCompatíveis": "SF 0,9%; Ringer Lactato não recomendado",
+      "contraindicacoes": "Miastenia gravis, hipersensibilidade a aminoglicosídeos",
+      "cuidadosMedicos": "Monitorar creatinina, ureia, audição e equilíbrio",
+      "cuidadosFarmaceuticos": "Observar estabilidade após diluição; verificar dose renal",
+      "cuidadosEnfermagem": "Monitorar diurese, sinais de toxicidade auditiva e renal",
+      "fontesBibliograficas": "ANVISA, Micromedex, SBRAFH, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Amikacin",
+      "suspension": "Hold 24h before elective surgery unless critically needed with renal/auditory monitoring",
+      "risk": "Ototoxicity, nephrotoxicity, neuromuscular blockade; risk increased with anesthetics and muscle relaxants",
+      "reintroduction": "Reintroduce post-op with renal and electrolyte monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amikacin",
+      "nomeComercial": "Amikin",
+      "mecanismoAcao": "Binds irreversibly to bacterial 30S ribosomal subunit, inhibiting protein synthesis",
+      "farmacocinetica": "IM or IV administration; not metabolized; renal excretion; 2–3h half-life with normal renal function",
+      "farmacodinamica": "Concentration-dependent bactericidal effect with post-antibiotic activity",
+      "indicacoes": "Serious gram-negative infections, including sepsis, respiratory, urinary, and intra-abdominal infections",
+      "reacoesAdversas": "Tinnitus, vertigo, renal failure, neuromuscular blockade, rash",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Excreted in low levels; caution advised",
+      "administracao": "Intramuscular or intravenous",
+      "doseMaxima": "15–20mg/kg/day",
+      "doseMinima": "5mg/kg/day",
+      "classificacao": "Aminoglycoside antibiotic",
+      "apresentacao": "Vials: 500mg/2mL or 100mg/mL",
+      "interacaoMedicamento": "Increased toxicity with other nephrotoxic or ototoxic drugs; interaction with anesthetics and muscle relaxants",
+      "posologia": "15mg/kg/day divided every 8–12h or as single daily dose",
+      "armazenamento": "Room temperature (15–30°C); protect from light",
+      "preparo": "Dilute in 0.9% NaCl for slow IV infusion (30–60 min)",
+      "solucoesCompatíveis": "0.9% NaCl; avoid Lactated Ringer",
+      "contraindicacoes": "Myasthenia gravis, hypersensitivity to aminoglycosides",
+      "cuidadosMedicos": "Monitor renal function, hearing, balance",
+      "cuidadosFarmaceuticos": "Ensure stability after dilution; dose adjustment for renal function",
+      "cuidadosEnfermagem": "Monitor urine output, ototoxicity and nephrotoxicity signs",
+      "fontesBibliograficas": "FDA, Micromedex, AHFS"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Amikacina",
+      "suspension": "Suspender 24h antes de cirugía electiva salvo necesidad crítica con monitoreo renal",
+      "risk": "Ototoxicidad, nefrotoxicidad, bloqueo neuromuscular; mayor riesgo con anestésicos y bloqueadores musculares",
+      "reintroduction": "Reintroducir tras evaluar función renal y electrolitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amikacina",
+      "nomeComercial": "Amikin, Amikacil",
+      "mecanismoAcao": "Se une irreversiblemente a la subunidad ribosomal 30S bacteriana, inhibiendo la síntesis proteica",
+      "farmacocinetica": "Administración IM o IV; no se metaboliza; eliminación renal; semivida 2–3h",
+      "farmacodinamica": "Efecto bactericida dependiente de concentración",
+      "indicacoes": "Infecciones graves por gram-negativos: sepsis, urinarias, pulmonares, abdominales",
+      "reacoesAdversas": "Vértigo, zumbido, fallo renal, bloqueo neuromuscular, erupción",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Se excreta en leche; usar con precaución",
+      "administracao": "Intramuscular o intravenosa",
+      "doseMaxima": "15–20mg/kg/día",
+      "doseMinima": "5mg/kg/día",
+      "classificacao": "Aminoglucósido",
+      "apresentacao": "Viales de 500mg/2mL o 100mg/mL",
+      "interacaoMedicamento": "Aumenta toxicidad con otros nefrotóxicos u ototóxicos; interacción con anestésicos",
+      "posologia": "15mg/kg/día dividido cada 8–12h o dosis única diaria",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Diluir en SSF 0,9% para infusión IV lenta (30–60 min)",
+      "solucoesCompatíveis": "SSF 0,9%; evitar Ringer Lactato",
+      "contraindicacoes": "Miastenia gravis, alergia a aminoglucósidos",
+      "cuidadosMedicos": "Monitorear creatinina, audición y equilibrio",
+      "cuidadosFarmaceuticos": "Observar estabilidad tras dilución y ajustar dosis",
+      "cuidadosEnfermagem": "Monitorear diuresis y signos de toxicidad auditiva y renal",
+      "fontesBibliograficas": "FDA, Micromedex, protocolos clínicos"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿米卡星",
+      "suspension": "择期手术前24小时停用，除非必要并密切监测肾功能与听力",
+      "risk": "耳毒性、肾毒性、神经肌肉阻滞；与麻醉剂和肌松药联用风险加剧",
+      "reintroduction": "术后评估肾功能及电解质后谨慎重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿米卡星",
+      "nomeComercial": "阿米卡星注射液",
+      "mecanismoAcao": "不可逆结合30S核糖体亚基，抑制细菌蛋白合成",
+      "farmacocinetica": "IM/IV给药，不代谢，经肾排泄；半衰期2–3小时",
+      "farmacodinamica": "浓度依赖型杀菌作用，具抗生素后效应",
+      "indicacoes": "严重革兰阴性菌感染：败血症、泌尿、肺部、腹腔感染",
+      "reacoesAdversas": "耳鸣、头晕、肾功能不全、神经肌阻滞、皮疹",
+      "riscoGravidez": "D类（对胎儿有潜在风险）",
+      "riscoLactacao": "微量分泌，慎用",
+      "administracao": "肌注或静脉注射",
+      "doseMaxima": "每日15–20mg/kg",
+      "doseMinima": "每日5mg/kg",
+      "classificacao": "氨基糖苷类抗生素",
+      "apresentacao": "注射液：500mg/2mL 或 100mg/mL",
+      "interacaoMedicamento": "与其他耳毒/肾毒药物及麻醉剂、肌松药联用风险升高",
+      "posologia": "15mg/kg/日，分2–3次注射或每日一次",
+      "armazenamento": "室温（15–30°C），避光保存",
+      "preparo": "以0.9%氯化钠稀释，静脉缓慢输注30–60分钟",
+      "solucoesCompatíveis": "仅限0.9%氯化钠，禁用乳酸林格",
+      "contraindicacoes": "重症肌无力，对氨基糖苷类过敏",
+      "cuidadosMedicos": "监测肾功能、听力和平衡功能",
+      "cuidadosFarmaceuticos": "稀释后注意稳定性，按肾功能调整剂量",
+      "cuidadosEnfermagem": "监测尿量、听力变化及毒性表现",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

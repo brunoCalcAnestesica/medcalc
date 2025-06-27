@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "L-Asparaginase",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva em pacientes com toxicidade hepática ou pancreática ativa",
+      "risk": "Risco de hipersensibilidade grave, pancreatite, trombose e toxicidade hepática",
+      "reintroduction": "Reintroduzir após estabilização clínica e sob supervisão oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "L-Asparaginase",
+      "nomeComercial": "Leunase, Kidrolase, Elspar",
+      "mecanismoAcao": "Catalisa a hidrólise da asparagina em ácido aspártico e amônia, privando células tumorais dessa substância essencial",
+      "farmacocinetica": "Administração IV ou IM; meia-vida depende da formulação (8h a 5 dias); metabolismo hepático parcial",
+      "farmacodinamica": "Causa apoptose em células leucêmicas por depleção de asparagina",
+      "indicacoes": "Leucemia linfoblástica aguda (LLA), linfoma linfoblástico",
+      "reacoesAdversas": "Alergia, anafilaxia, pancreatite, trombose, hepatotoxicidade, hiperglicemia",
+      "riscoGravidez": "Categoria D – risco fetal",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intramuscular ou intravenosa",
+      "doseMaxima": "6.000 UI/m² por dose (padrão); até 25.000 UI/m² (PEG-asparaginase)",
+      "doseMinima": "1.000 UI/m²",
+      "classificacao": "Enzima antineoplásica",
+      "apresentacao": "Pó liofilizado para reconstituição (ampolas de 10.000 UI)",
+      "interacaoMedicamento": "Aumenta risco de sangramento com anticoagulantes; potencializa toxicidade hepática com outras drogas",
+      "posologia": "6.000 UI/m² 3x/semana por 2–3 semanas (ajustável)",
+      "armazenamento": "Refrigerado entre 2–8°C, proteger da luz",
+      "preparo": "Reconstituir com diluente apropriado e usar imediatamente",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Pancreatite ativa, hemorragia grave, hipersensibilidade prévia",
+      "cuidadosMedicos": "Monitorar amilase/lipase, função hepática, glicemia e sinais de alergia",
+      "cuidadosFarmaceuticos": "Verificar estabilidade, reconstituir corretamente, orientar sobre reações adversas",
+      "cuidadosEnfermagem": "Monitorar reações infusionais, glicemia e dor abdominal",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "L-Asparaginase",
+      "suspension": "Discontinue 7 days before elective surgery in patients with active hepatic or pancreatic toxicity",
+      "risk": "Risk of severe hypersensitivity, pancreatitis, thrombosis, and hepatotoxicity",
+      "reintroduction": "Restart only after clinical stabilization and oncologist evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "L-Asparaginase",
+      "nomeComercial": "Elspar, Kidrolase",
+      "mecanismoAcao": "Catalyzes hydrolysis of asparagine to deprive tumor cells of this essential amino acid",
+      "farmacocinetica": "IV or IM administration; half-life varies by formulation (8h to 5 days); partial hepatic metabolism",
+      "farmacodinamica": "Induces apoptosis in leukemic cells through asparagine depletion",
+      "indicacoes": "Acute lymphoblastic leukemia (ALL), lymphoblastic lymphoma",
+      "reacoesAdversas": "Allergy, anaphylaxis, pancreatitis, thrombosis, hepatotoxicity, hyperglycemia",
+      "riscoGravidez": "Category D – fetal risk",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Intramuscular or intravenous",
+      "doseMaxima": "6,000 IU/m² per dose (standard); up to 25,000 IU/m² (PEG-asparaginase)",
+      "doseMinima": "1,000 IU/m²",
+      "classificacao": "Antineoplastic enzyme",
+      "apresentacao": "Lyophilized powder for reconstitution (10,000 IU vials)",
+      "interacaoMedicamento": "Increased bleeding risk with anticoagulants; hepatic toxicity with other agents",
+      "posologia": "6,000 IU/m² 3x/week for 2–3 weeks (adjustable)",
+      "armazenamento": "Refrigerated (2–8°C), protect from light",
+      "preparo": "Reconstitute with suitable diluent and use immediately",
+      "solucoesCompatíveis": "0.9% sodium chloride",
+      "contraindicacoes": "Active pancreatitis, severe bleeding, known hypersensitivity",
+      "cuidadosMedicos": "Monitor lipase, liver function, glucose, and allergic reactions",
+      "cuidadosFarmaceuticos": "Check stability, reconstitute properly, counsel on adverse effects",
+      "cuidadosEnfermagem": "Monitor infusion reactions, blood glucose, and abdominal pain",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "L-Asparaginasa",
+      "suspension": "Suspender 7 días antes de cirugía en pacientes con toxicidad hepática o pancreática activa",
+      "risk": "Riesgo de hipersensibilidad grave, pancreatitis, trombosis y hepatotoxicidad",
+      "reintroduction": "Reintroducir tras estabilización y evaluación oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "L-Asparaginasa",
+      "nomeComercial": "Kidrolase, Leunase",
+      "mecanismoAcao": "Hidrólisis de asparagina, reduciendo la disponibilidad para células tumorales",
+      "farmacocinetica": "IV o IM; vida media según formulación (8h–5 días); metabolismo hepático parcial",
+      "farmacodinamica": "Induce apoptosis en células leucémicas por depleción de asparagina",
+      "indicacoes": "Leucemia linfoblástica aguda (LLA), linfoma linfoblástico",
+      "reacoesAdversas": "Alergia, anafilaxia, pancreatitis, trombosis, hepatotoxicidad, hiperglucemia",
+      "riscoGravidez": "Categoría D – riesgo fetal",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intramuscular o intravenosa",
+      "doseMaxima": "6.000 UI/m²/dosis estándar; hasta 25.000 UI/m² (PEG)",
+      "doseMinima": "1.000 UI/m²",
+      "classificacao": "Enzima antineoplásica",
+      "apresentacao": "Polvo liofilizado (viales de 10.000 UI)",
+      "interacaoMedicamento": "Mayor riesgo de sangrado con anticoagulantes; toxicidad hepática",
+      "posologia": "6.000 UI/m² tres veces por semana durante 2–3 semanas",
+      "armazenamento": "Refrigerado (2–8°C), proteger de la luz",
+      "preparo": "Reconstituir antes del uso con diluyente adecuado",
+      "solucoesCompatíveis": "Cloruro de sodio al 0,9%",
+      "contraindicacoes": "Pancreatitis activa, hemorragia severa, hipersensibilidad previa",
+      "cuidadosMedicos": "Controlar enzimas pancreáticas, función hepática, glucosa, alergia",
+      "cuidadosFarmaceuticos": "Verificar reconstitución, estabilidad y efectos adversos",
+      "cuidadosEnfermagem": "Vigilar reacciones, glucosa y dolor abdominal",
+      "fontesBibliograficas": "EMA, Micromedex, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "L-天冬酰胺酶",
+      "suspension": "术前7天停药，特别是有肝毒性或胰腺炎风险的患者",
+      "risk": "严重过敏、胰腺炎、血栓形成、肝毒性风险",
+      "reintroduction": "待临床恢复并经肿瘤科医师评估后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "L-天冬酰胺酶",
+      "nomeComercial": "Leunase、Kidrolase",
+      "mecanismoAcao": "水解血清天冬酰胺，导致肿瘤细胞缺乏该氨基酸",
+      "farmacocinetica": "IV或IM给药；半衰期取决于制剂（8小时至5天），部分肝代谢",
+      "farmacodinamica": "通过耗尽天冬酰胺诱导白血病细胞凋亡",
+      "indicacoes": "急性淋巴细胞白血病（ALL）、淋巴母细胞性淋巴瘤",
+      "reacoesAdversas": "过敏、胰腺炎、血栓、肝毒性、高血糖",
+      "riscoGravidez": "D类 – 已知对胎儿有害",
+      "riscoLactacao": "禁用",
+      "administracao": "肌注或静注",
+      "doseMaxima": "标准剂量：6,000 IU/m²；PEG制剂可达25,000 IU/m²",
+      "doseMinima": "1,000 IU/m²",
+      "classificacao": "抗肿瘤酶类",
+      "apresentacao": "10,000 IU冻干粉注射剂",
+      "interacaoMedicamento": "与抗凝药合用增加出血风险，与其他药物共用可能增强肝毒性",
+      "posologia": "每周三次，每次6,000 IU/m²，疗程2–3周",
+      "armazenamento": "冷藏（2–8°C），避光保存",
+      "preparo": "使用前重构，立即使用",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "活动性胰腺炎、严重出血、过敏史",
+      "cuidadosMedicos": "监测胰酶、肝功能、血糖和过敏反应",
+      "cuidadosFarmaceuticos": "检查溶解稳定性，正确重构并教育患者",
+      "cuidadosEnfermagem": "注意输注反应、腹痛和血糖变化",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

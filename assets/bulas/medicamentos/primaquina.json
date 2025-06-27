@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Primaquina",
+      "suspension": "Suspender 48 horas antes da cirurgia",
+      "risk": "Risco de hemólise em pacientes com deficiência de G6PD e metemoglobinemia; interações com anestésicos oxidantes",
+      "reintroduction": "Reintroduzir apenas após avaliação hematológica no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Primaquina",
+      "nomeComercial": "Primaquina fosfato",
+      "mecanismoAcao": "Interfere na função mitocondrial do parasita e na cadeia de transporte de elétrons",
+      "farmacocinetica": "Oral, rápida absorção, meia-vida 4–7h, metabolização hepática",
+      "farmacodinamica": "Atividade esquizonticida hepática e gametocida contra Plasmodium",
+      "indicacoes": "Erradicação de formas hepáticas de P. vivax e P. ovale; prevenção de recaídas",
+      "reacoesAdversas": "Hemólise, metemoglobinemia, náuseas, dor abdominal",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado durante lactação se G6PD do lactente desconhecida",
+      "administracao": "Oral",
+      "doseMaxima": "30 mg/dia",
+      "doseMinima": "15 mg/dia",
+      "classificacao": "Antimalárico (8-aminoquinolina)",
+      "apresentacao": "Comprimidos de 5 mg e 15 mg",
+      "interacaoMedicamento": "Interage com agentes oxidantes, anestésicos voláteis, sulfonamidas",
+      "posologia": "15–30 mg/dia por 14 dias (P. vivax)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral direto, não fracionar sem prescrição",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Deficiência de G6PD, gravidez, lactação sem triagem enzimática",
+      "cuidadosMedicos": "Confirmar G6PD antes de iniciar; monitorar Hb e sinais de hemólise",
+      "cuidadosFarmaceuticos": "Orientar sobre risco de urina escura, icterícia e fraqueza",
+      "cuidadosEnfermagem": "Observar palidez, cianose, dispneia e dor abdominal",
+      "fontesBibliograficas": "ANVISA, WHO, BNF, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Primaquine",
+      "suspension": "Discontinue 48 hours before surgery",
+      "risk": "Risk of hemolysis in G6PD deficiency and methemoglobinemia; interacts with oxidizing anesthetics",
+      "reintroduction": "Restart only after postoperative hematologic assessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Primaquine phosphate",
+      "nomeComercial": "Primaquine",
+      "mecanismoAcao": "Disrupts mitochondrial function and electron transport in parasites",
+      "farmacocinetica": "Oral, rapid absorption, half-life 4–7h, hepatic metabolism",
+      "farmacodinamica": "Liver schizonticide and gametocytocidal activity against Plasmodium",
+      "indicacoes": "Radical cure of P. vivax and P. ovale malaria; relapse prevention",
+      "reacoesAdversas": "Hemolysis, methemoglobinemia, nausea, abdominal pain",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Avoid during lactation unless G6PD in infant confirmed",
+      "administracao": "Oral",
+      "doseMaxima": "30 mg/day",
+      "doseMinima": "15 mg/day",
+      "classificacao": "Antimalarial (8-aminoquinoline)",
+      "apresentacao": "Tablets 5 mg and 15 mg",
+      "interacaoMedicamento": "Interacts with oxidizing agents, volatile anesthetics, sulfonamides",
+      "posologia": "15–30 mg/day for 14 days (P. vivax)",
+      "armazenamento": "Room temp, protect from light",
+      "preparo": "Direct oral use, do not split unless prescribed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "G6PD deficiency, pregnancy, lactation without enzyme screening",
+      "cuidadosMedicos": "Test G6PD before starting; monitor Hb and signs of hemolysis",
+      "cuidadosFarmaceuticos": "Counsel on dark urine, jaundice, fatigue",
+      "cuidadosEnfermagem": "Watch for pallor, cyanosis, dyspnea, abdominal pain",
+      "fontesBibliograficas": "FDA, WHO, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Primaquina",
+      "suspension": "Suspender 48 horas antes de cirugía",
+      "risk": "Riesgo de hemólisis en déficit de G6PD y metahemoglobinemia; interacciones anestésicas",
+      "reintroduction": "Reintroducir sólo tras evaluación hematológica postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Primaquina fosfato",
+      "nomeComercial": "Primaquina",
+      "mecanismoAcao": "Interfiere con la función mitocondrial y transporte de electrones en el parásito",
+      "farmacocinetica": "Oral, absorción rápida, vida media 4–7 h, metabolismo hepático",
+      "farmacodinamica": "Acción esquizonticida hepática y gametocida contra Plasmodium",
+      "indicacoes": "Tratamiento radical de P. vivax y P. ovale; prevención de recaídas",
+      "reacoesAdversas": "Hemólisis, metahemoglobinemia, náuseas, dolor abdominal",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado si estado G6PD del lactante es desconocido",
+      "administracao": "Oral",
+      "doseMaxima": "30 mg/día",
+      "doseMinima": "15 mg/día",
+      "classificacao": "Antipalúdico (8-aminoquinolina)",
+      "apresentacao": "Comprimidos de 5 y 15 mg",
+      "interacaoMedicamento": "Interacción con oxidantes, anestésicos, sulfonamidas",
+      "posologia": "15–30 mg/día por 14 días",
+      "armazenamento": "Ambiente, protegido de la luz",
+      "preparo": "Oral directo, no fraccionar sin indicación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Déficit de G6PD, embarazo, lactancia sin cribado",
+      "cuidadosMedicos": "Evaluar G6PD antes; monitorizar hemoglobina",
+      "cuidadosFarmaceuticos": "Informar sobre orina oscura, ictericia, fatiga",
+      "cuidadosEnfermagem": "Observar palidez, disnea, dolor abdominal",
+      "fontesBibliograficas": "AEMPS, WHO, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伯氨喹",
+      "suspension": "术前48小时停药",
+      "risk": "G6PD缺乏者有溶血和高铁血红蛋白血症风险；可与麻醉剂相互作用",
+      "reintroduction": "术后经血液评估后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伯氨喹",
+      "nomeComercial": "磷酸伯氨喹",
+      "mecanismoAcao": "破坏线粒体功能，干扰疟原虫电子传递链",
+      "farmacocinetica": "口服吸收快，半衰期4–7小时，肝脏代谢",
+      "farmacodinamica": "对肝脏裂殖体和配子体有效的抗疟药",
+      "indicacoes": "根治P. vivax和P. ovale；防止复发",
+      "reacoesAdversas": "溶血、高铁血红蛋白血症、恶心、腹痛",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "如婴儿G6PD状态未知，禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日30毫克",
+      "doseMinima": "每日15毫克",
+      "classificacao": "抗疟药（8-氨基喹啉类）",
+      "apresentacao": "片剂5毫克、15毫克",
+      "interacaoMedicamento": "与氧化性药物、麻醉剂、磺胺类药相互作用",
+      "posologia": "每日15–30毫克，连续14天",
+      "armazenamento": "室温，避光保存",
+      "preparo": "直接口服，勿擅自分片",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "G6PD缺乏、妊娠、哺乳期（婴儿未筛查）",
+      "cuidadosMedicos": "治疗前检测G6PD；监测溶血和血红蛋白",
+      "cuidadosFarmaceuticos": "提示尿色变化、黄疸、虚弱等溶血体征",
+      "cuidadosEnfermagem": "观察苍白、紫绀、呼吸困难、腹痛",
+      "fontesBibliograficas": "中国药典、WHO、Micromedex、UpToDate"
+    }
+  }
+}

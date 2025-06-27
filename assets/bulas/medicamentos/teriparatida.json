@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Teriparatida",
+      "suspension": "Suspender 1 dia antes da cirurgia eletiva",
+      "risk": "Risco muito baixo no intraoperatório, mas pode alterar cálcio sérico e interferir em procedimentos que envolvem metabolismo ósseo. Pode causar hipotensão ortostática em alguns pacientes.",
+      "reintroduction": "Reintroduzir no segundo ou terceiro dia pós-operatório, após retorno à dieta habitual e estabilidade clínica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Teriparatida",
+      "nomeComercial": "Forteo, Terrosa, Bonviva SC, Forsteo",
+      "mecanismoAcao": "Fragmento ativo do hormônio paratireoideano (PTH 1-34) que estimula formação óssea por ativação de osteoblastos",
+      "farmacocinetica": "Administração subcutânea; absorção rápida; pico plasmático em 30 minutos; meia-vida ~1 hora; metabolização hepática mínima",
+      "farmacodinamica": "Aumenta a densidade mineral óssea, reduz o risco de fraturas vertebrais e não vertebrais; efeito anabólico no osso",
+      "indicacoes": "Osteoporose grave em mulheres pós-menopáusicas, homens com risco elevado de fratura, osteoporose induzida por glicocorticoides",
+      "reacoesAdversas": "Hipotensão postural, náuseas, hipercalcemia transitória, tontura, dor muscular, cefaleia, reação no local da injeção",
+      "riscoGravidez": "Categoria C (não recomendado; dados limitados)",
+      "riscoLactacao": "Evitar durante amamentação por ausência de dados",
+      "administracao": "Injeção subcutânea diária, geralmente na coxa ou abdômen",
+      "doseMaxima": "20 mcg/dia",
+      "doseMinima": "20 mcg/dia",
+      "classificacao": "Análogo do hormônio paratireoideano – agente anabólico ósseo",
+      "apresentacao": "Caneta injetora com 600 mcg/2,4 mL (30 doses de 20 mcg)",
+      "interacaoMedicamento": "Pode interagir com digoxina e diuréticos; monitorar cálcio",
+      "posologia": "20 mcg SC 1x/dia por até 24 meses",
+      "armazenamento": "Refrigerado entre 2–8 °C mesmo após o primeiro uso; não congelar",
+      "preparo": "Pronto para uso; não agitar a caneta",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipercalcemia, doença óssea de Paget, metástase óssea, histórico de radioterapia esquelética, gravidez",
+      "cuidadosMedicos": "Avaliar cálcio sérico antes de iniciar; não utilizar por mais de 2 anos",
+      "cuidadosFarmaceuticos": "Instruir o paciente quanto à técnica de aplicação e conservação da caneta",
+      "cuidadosEnfermagem": "Monitorar sinais de hipotensão postural após as primeiras doses",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Teriparatide",
+      "suspension": "Hold 1 day prior to elective surgery",
+      "risk": "Very low intraoperative risk. May alter calcium levels and interfere in bone-related procedures. Some risk of postural hypotension.",
+      "reintroduction": "Resume on postoperative day 2 or 3 after return to oral intake and clinical stability."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Teriparatide",
+      "nomeComercial": "Forteo, Bonsity, Terrosa, Forsteo",
+      "mecanismoAcao": "Recombinant human PTH (1-34) fragment that stimulates osteoblast activity and new bone formation",
+      "farmacocinetica": "SC injection; rapid absorption; peak at ~30 minutes; short half-life (~1 hour); hepatic metabolism minimal",
+      "farmacodinamica": "Increases bone mineral density and reduces fracture risk; anabolic effect on bone",
+      "indicacoes": "Severe osteoporosis in postmenopausal women and men; glucocorticoid-induced osteoporosis",
+      "reacoesAdversas": "Orthostatic hypotension, nausea, dizziness, hypercalcemia, leg cramps, injection site pain",
+      "riscoGravidez": "Category C (not recommended)",
+      "riscoLactacao": "Avoid during breastfeeding (insufficient data)",
+      "administracao": "Daily subcutaneous injection (abdomen or thigh)",
+      "doseMaxima": "20 mcg/day",
+      "doseMinima": "20 mcg/day",
+      "classificacao": "PTH analog – anabolic osteoporosis treatment",
+      "apresentacao": "Prefilled pen with 600 mcg/2.4 mL (30 doses)",
+      "interacaoMedicamento": "May interact with digoxin and diuretics; monitor calcium",
+      "posologia": "20 mcg SC once daily up to 24 months",
+      "armazenamento": "Refrigerate 2–8°C; do not freeze",
+      "preparo": "Ready to use; do not shake",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypercalcemia, bone metastases, Paget’s disease, skeletal radiation, pregnancy",
+      "cuidadosMedicos": "Check serum calcium prior to start; limit therapy to 2 years",
+      "cuidadosFarmaceuticos": "Instruct on injection technique and pen storage",
+      "cuidadosEnfermagem": "Observe for postural hypotension after initial doses",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Endocrine Society"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Teriparatida",
+      "suspension": "Suspender 1 día antes de cirugía programada",
+      "risk": "Riesgo muy bajo; puede modificar calcio sérico y generar hipotensión ortostática. Precaución en cirugías óseas.",
+      "reintroduction": "Reanudar tras recuperación oral y estabilidad clínica (día 2–3 postoperatorio)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Teriparatida",
+      "nomeComercial": "Forsteo, Forteo, Terrosa",
+      "mecanismoAcao": "Análogo recombinante de PTH (1-34) que estimula formación ósea",
+      "farmacocinetica": "SC, rápida absorción, pico a los 30 min, t½ 1 h, metabolismo hepático mínimo",
+      "farmacodinamica": "Incrementa DMO, reduce fracturas, efecto anabólico óseo",
+      "indicacoes": "Osteoporosis severa posmenopáusica, inducida por esteroides, osteoporosis masculina",
+      "reacoesAdversas": "Hipotensión ortostática, náuseas, hipercalcemia, dolor muscular, mareos",
+      "riscoGravidez": "Categoría C (evitar en embarazo)",
+      "riscoLactacao": "Evitar en lactancia",
+      "administracao": "Inyección SC diaria (abdomen o muslo)",
+      "doseMaxima": "20 mcg/día",
+      "doseMinima": "20 mcg/día",
+      "classificacao": "Análogo de PTH – tratamiento anabólico de osteoporosis",
+      "apresentacao": "Caneta con 600 mcg/2,4 mL (30 dosis)",
+      "interacaoMedicamento": "Interacción con digoxina, diuréticos; vigilar calcio",
+      "posologia": "20 mcg SC 1x/día hasta 24 meses",
+      "armazenamento": "2–8°C, no congelar",
+      "preparo": "Lista para usar; no agitar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipercalcemia, metástasis óseas, enfermedad de Paget, embarazo",
+      "cuidadosMedicos": "Verificar calcio antes de iniciar; limitar uso a 2 años",
+      "cuidadosFarmaceuticos": "Instrucción sobre conservación y técnica de inyección",
+      "cuidadosEnfermagem": "Observar hipotensión postural en dosis iniciales",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "特立帕肽",
+      "suspension": "择期手术前1天停药",
+      "risk": "术中风险极低，但可影响血钙水平并诱发体位性低血压",
+      "reintroduction": "术后第2–3天恢复使用，需患者能进食且状态稳定"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "特立帕肽",
+      "nomeComercial": "Forteo, Forsteo, Terrosa",
+      "mecanismoAcao": "重组人PTH（1-34）片段，刺激成骨细胞活性并促进新骨形成",
+      "farmacocinetica": "皮下注射，30分钟达峰值，半衰期1小时，肝代谢极少",
+      "farmacodinamica": "增加骨密度，降低骨折风险，具有骨同化作用",
+      "indicacoes": "绝经后骨质疏松、类固醇相关性骨质疏松、男性严重骨质疏松",
+      "reacoesAdversas": "体位性低血压、恶心、高钙血症、注射部位不适、头晕",
+      "riscoGravidez": "C类（孕期禁用）",
+      "riscoLactacao": "哺乳期不推荐使用",
+      "administracao": "每日皮下注射一次（腹部或大腿）",
+      "doseMaxima": "每日20微克",
+      "doseMinima": "每日20微克",
+      "classificacao": "PTH类似物 – 骨同化治疗药物",
+      "apresentacao": "600 mcg/2.4 mL预充式注射笔（30剂）",
+      "interacaoMedicamento": "与洋地黄、利尿剂有相互作用；需监测血钙",
+      "posologia": "每日SC 20微克，疗程不超24个月",
+      "armazenamento": "2–8°C冷藏保存，不可冷冻",
+      "preparo": "可直接使用，不可摇晃",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "高钙血症、骨转移、佩吉特病、怀孕",
+      "cuidadosMedicos": "开始前检查血钙，限制使用不超过2年",
+      "cuidadosFarmaceuticos": "指导患者正确保存与注射方式",
+      "cuidadosEnfermagem": "注意首剂后的低血压症状",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

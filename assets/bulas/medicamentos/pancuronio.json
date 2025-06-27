@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pancurônio",
+      "suspension": "Não suspender – uso exclusivo intraoperatório sob controle anestésico",
+      "risk": "Bloqueio neuromuscular profundo, taquicardia, aumento da pressão arterial, interação com anestésicos voláteis e digitálicos",
+      "reintroduction": "Reintroduzir somente com monitorização de TOF e ventilação mecânica disponível"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Brometo de Pancurônio",
+      "nomeComercial": "Pavulon",
+      "mecanismoAcao": "Bloqueador neuromuscular não despolarizante; antagonista competitivo dos receptores nicotínicos na junção neuromuscular",
+      "farmacocinetica": "Início em 2–3 minutos, duração de 60–100 minutos, excreção renal predominante, baixa metabolização hepática",
+      "farmacodinamica": "Induz paralisia muscular prolongada para procedimentos cirúrgicos longos ou uso em UTI com ventilação mecânica",
+      "indicacoes": "Relaxamento muscular em cirurgias longas, intubação, ventilação mecânica prolongada",
+      "reacoesAdversas": "Taquicardia, aumento da PA, apneia, broncoespasmo, paralisia prolongada",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; uso único sob vigilância anestésica é geralmente seguro",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0,1 mg/kg",
+      "doseMinima": "0,02 mg/kg",
+      "classificacao": "Bloqueador neuromuscular não despolarizante de ação prolongada",
+      "apresentacao": "Solução injetável 2mg/mL – ampolas de 2mL ou 5mL",
+      "interacaoMedicamento": "Potencializa com halotano, aminoglicosídeos, bloqueadores de cálcio, lítio",
+      "posologia": "Dose inicial: 0,04–0,1 mg/kg IV; manutenção: 0,01 mg/kg conforme resposta clínica",
+      "armazenamento": "Conservar entre 2–8°C; solução pronta para uso imediato",
+      "preparo": "Não requer diluição; usar em bolus lento",
+      "solucoesCompatíveis": "SF 0,9%, Ringer lactato",
+      "contraindicacoes": "Miastenia grave, hipersensibilidade ao pancurônio ou a bloqueadores não despolarizantes",
+      "cuidadosMedicos": "Monitorar TOF, ECG, função respiratória e reversão com neostigmina",
+      "cuidadosFarmaceuticos": "Armazenar sob refrigeração, verificar coloração da solução",
+      "cuidadosEnfermagem": "Assegurar ventilação, observar sinais de recurarização ou bloqueio prolongado",
+      "fontesBibliograficas": "SBAn, FDA, Micromedex, EMA, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pancuronium",
+      "suspension": "Do not suspend – intraoperative use only under anesthetic supervision",
+      "risk": "Deep neuromuscular blockade, tachycardia, hypertension, interaction with volatile anesthetics and digitalis",
+      "reintroduction": "Readminister only under TOF monitoring with ventilatory support available"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pancuronium Bromide",
+      "nomeComercial": "Pavulon",
+      "mecanismoAcao": "Non-depolarizing neuromuscular blocker; competitively blocks nicotinic receptors at neuromuscular junction",
+      "farmacocinetica": "Onset in 2–3 min, duration 60–100 min, renal excretion, minimal hepatic metabolism",
+      "farmacodinamica": "Provides prolonged skeletal muscle paralysis during surgery or ICU ventilation",
+      "indicacoes": "Surgical relaxation, tracheal intubation, long-term mechanical ventilation",
+      "reacoesAdversas": "Tachycardia, hypertension, apnea, bronchospasm, prolonged paralysis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; single-dose use under anesthesia generally safe",
+      "administracao": "Intravenous",
+      "doseMaxima": "0.1 mg/kg",
+      "doseMinima": "0.02 mg/kg",
+      "classificacao": "Long-acting non-depolarizing neuromuscular blocker",
+      "apresentacao": "Injection 2mg/mL – 2mL or 5mL ampoules",
+      "interacaoMedicamento": "Potentiated by halothane, aminoglycosides, calcium channel blockers, lithium",
+      "posologia": "Initial: 0.04–0.1 mg/kg IV; maintenance: 0.01 mg/kg as needed",
+      "armazenamento": "Store at 2–8°C; use immediately after opening",
+      "preparo": "No dilution required; administer via slow IV bolus",
+      "solucoesCompatíveis": "Normal saline, lactated Ringer's",
+      "contraindicacoes": "Myasthenia gravis, hypersensitivity to pancuronium or non-depolarizing blockers",
+      "cuidadosMedicos": "Monitor TOF, ECG, respiration; plan reversal with neostigmine",
+      "cuidadosFarmaceuticos": "Keep refrigerated; inspect for discoloration",
+      "cuidadosEnfermagem": "Ensure ventilation; watch for recurarization or prolonged block",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, ASA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pancuronio",
+      "suspension": "No suspender – uso exclusivo intraoperatorio bajo control anestésico",
+      "risk": "Bloqueo neuromuscular profundo, taquicardia, hipertensión, interacción con anestésicos volátiles y digitálicos",
+      "reintroduction": "Reintroducir solo bajo monitorización TOF y soporte ventilatorio disponible"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromuro de Pancuronio",
+      "nomeComercial": "Pavulon",
+      "mecanismoAcao": "Bloqueador neuromuscular no despolarizante; antagonista competitivo de receptores nicotínicos",
+      "farmacocinetica": "Inicio 2–3 min, duración 60–100 min, eliminación renal, escaso metabolismo hepático",
+      "farmacodinamica": "Parálisis muscular prolongada para cirugía o ventilación prolongada en UCI",
+      "indicacoes": "Relajación quirúrgica, intubación, ventilación mecánica prolongada",
+      "reacoesAdversas": "Taquicardia, hipertensión, apnea, broncoespasmo, parálisis prolongada",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; uso único generalmente seguro bajo anestesia",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0,1 mg/kg",
+      "doseMinima": "0,02 mg/kg",
+      "classificacao": "Bloqueador neuromuscular no despolarizante de acción prolongada",
+      "apresentacao": "Solución inyectable 2mg/mL – ampollas de 2mL o 5mL",
+      "interacaoMedicamento": "Potenciado por halotano, aminoglucósidos, bloqueadores de calcio, litio",
+      "posologia": "Inicial: 0,04–0,1 mg/kg IV; mantenimiento: 0,01 mg/kg según necesidad",
+      "armazenamento": "2–8°C; usar inmediatamente después de abrir",
+      "preparo": "No requiere dilución; administrar en bolo IV lento",
+      "solucoesCompatíveis": "Solución salina, Ringer lactato",
+      "contraindicacoes": "Miastenia grave, hipersensibilidad a pancuronio o bloqueadores no despolarizantes",
+      "cuidadosMedicos": "Monitorear TOF, ECG, respiración; planear reversión con neostigmina",
+      "cuidadosFarmaceuticos": "Conservar refrigerado; verificar coloración de la solución",
+      "cuidadosEnfermagem": "Garantizar ventilación; vigilar recurarización o bloqueo prolongado",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, Guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "潘库溴铵",
+      "suspension": "不需停药——术中麻醉监护下使用",
+      "risk": "肌松过深、心动过速、高血压、与挥发性麻醉剂和洋地黄类相互作用",
+      "reintroduction": "术后仅在具备TOF监测与通气支持情况下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "潘库溴铵",
+      "nomeComercial": "Pavulon",
+      "mecanismoAcao": "非去极化型神经肌肉阻滞剂；通过竞争性抑制乙酰胆碱在运动终板的作用",
+      "farmacocinetica": "起效2–3分钟，持续60–100分钟，肾排泄为主，肝代谢极少",
+      "farmacodinamica": "提供长时间骨骼肌松弛，用于外科手术或ICU通气辅助",
+      "indicacoes": "术中肌松、插管、ICU机械通气",
+      "reacoesAdversas": "心动过速、高血压、呼吸暂停、支气管痉挛、肌松延长",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "尚不明确；术中一次性使用通常安全",
+      "administracao": "静脉注射",
+      "doseMaxima": "0.1 mg/kg",
+      "doseMinima": "0.02 mg/kg",
+      "classificacao": "长效非去极化神经肌肉阻滞剂",
+      "apresentacao": "注射液2mg/mL，2mL或5mL安瓿",
+      "interacaoMedicamento": "与氟烷、氨基糖苷类、钙通道阻滞剂、锂剂协同增强作用",
+      "posologia": "初始剂量0.04–0.1 mg/kg，维持剂量0.01 mg/kg酌情使用",
+      "armazenamento": "2–8°C冷藏保存，开封后立即使用",
+      "preparo": "无需稀释，缓慢静推",
+      "solucoesCompatíveis": "生理盐水、乳酸林格液",
+      "contraindicacoes": "重症肌无力、对药物过敏",
+      "cuidadosMedicos": "监测TOF、心电图、呼吸，必要时用新斯的明逆转",
+      "cuidadosFarmaceuticos": "冷藏保存，使用前检查溶液外观",
+      "cuidadosEnfermagem": "确保有效通气，警惕残余肌松或复发",
+      "fontesBibliograficas": "NMPA, FDA, WHO, Micromedex"
+    }
+  }
+}

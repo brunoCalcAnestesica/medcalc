@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cloridrato de Betaína",
+      "suspension": "Suspender 48 horas antes de cirurgias digestivas ou em pacientes com refluxo grave",
+      "risk": "Risco de irritação gástrica, azia, hiperacidez e interferência com anestésicos gástricos",
+      "reintroduction": "Reintroduzir com cautela após reavaliação da integridade gástrica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Betaína",
+      "nomeComercial": "Betaine HCl, Betacid, Cloridrate",
+      "mecanismoAcao": "Fornece ácido clorídrico exógeno para acidificação gástrica em pacientes com hipocloridria",
+      "farmacocinetica": "Ação local no estômago; não absorvido sistemicamente; metabolizado pelas enzimas digestivas",
+      "farmacodinamica": "Aumenta a acidez gástrica, facilitando digestão de proteínas e absorção de micronutrientes",
+      "indicacoes": "Hipocloridria, dispepsia funcional, deficiência de B12 por má absorção gástrica",
+      "reacoesAdversas": "Azia, dor epigástrica, náusea, refluxo, risco de úlcera gástrica se mal utilizado",
+      "riscoGravidez": "Categoria C – evitar uso sem clara indicação",
+      "riscoLactacao": "Segurança desconhecida; evitar uso contínuo",
+      "administracao": "Via oral",
+      "doseMaxima": "2 g por refeição (dividido)",
+      "doseMinima": "250 mg por refeição",
+      "classificacao": "Suplemento ácido digestivo; auxiliar enzimático",
+      "apresentacao": "Cápsulas de 250 mg, 500 mg e 750 mg",
+      "interacaoMedicamento": "Contraindicado com AINEs, corticosteroides e IBP; pode afetar absorção de ferro e B12",
+      "posologia": "250–750 mg VO com as principais refeições, até 3x/dia",
+      "armazenamento": "Manter em local seco, arejado, protegido da luz",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Úlcera péptica ativa, refluxo grave, esofagite erosiva",
+      "cuidadosMedicos": "Avaliar pH gástrico e sintomas de hiperacidez",
+      "cuidadosFarmaceuticos": "Orientar para uso apenas sob prescrição e com refeições",
+      "cuidadosEnfermagem": "Observar sinais de intolerância gástrica ou dor abdominal",
+      "fontesBibliograficas": "PubChem, Natural Medicines, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Betaine Hydrochloride",
+      "suspension": "Discontinue 48 hours before gastric surgery or in GERD patients",
+      "risk": "May worsen acid reflux, gastric irritation, and affect anesthetic absorption",
+      "reintroduction": "Resume cautiously after gastric healing is confirmed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Betaine hydrochloride",
+      "nomeComercial": "Betaine HCl, Betacid",
+      "mecanismoAcao": "Provides exogenous HCl to assist gastric acidification in hypochlorhydria",
+      "farmacocinetica": "Acts locally in stomach; not systemically absorbed",
+      "farmacodinamica": "Increases gastric acidity, aiding protein digestion and nutrient absorption",
+      "indicacoes": "Hypochlorhydria, indigestion, B12 malabsorption",
+      "reacoesAdversas": "Heartburn, epigastric pain, reflux, nausea",
+      "riscoGravidez": "Category C – avoid unless clearly indicated",
+      "riscoLactacao": "Unknown safety – avoid chronic use",
+      "administracao": "Oral",
+      "doseMaxima": "2 g per meal",
+      "doseMinima": "250 mg per meal",
+      "classificacao": "Digestive acidifier",
+      "apresentacao": "Capsules 250 mg, 500 mg, 750 mg",
+      "interacaoMedicamento": "Contraindicated with NSAIDs, steroids, PPIs; alters absorption of iron and B12",
+      "posologia": "250–750 mg orally with meals, up to 3x/day",
+      "armazenamento": "Store in a cool, dry place away from light",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active ulcer, severe GERD, erosive esophagitis",
+      "cuidadosMedicos": "Evaluate gastric pH and signs of irritation",
+      "cuidadosFarmaceuticos": "Advise use only with meals and under supervision",
+      "cuidadosEnfermagem": "Monitor for GI intolerance and pain",
+      "fontesBibliograficas": "Micromedex, Natural Medicines, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clorhidrato de Betaína",
+      "suspension": "Suspender 48 h antes de cirugía digestiva o reflujo severo",
+      "risk": "Irritación gástrica, acidez, úlceras si se usa incorrectamente",
+      "reintroduction": "Reintroducir solo tras control de la mucosa gástrica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de betaína",
+      "nomeComercial": "Betaine HCl, Betacid",
+      "mecanismoAcao": "Aporta HCl exógeno para compensar hipoclorhidria",
+      "farmacocinetica": "Acción local en el estómago; no absorbido sistémicamente",
+      "farmacodinamica": "Aumenta la acidez gástrica, mejora digestión y absorción de nutrientes",
+      "indicacoes": "Hipoclorhidria, dispepsia, deficiencia de B12",
+      "reacoesAdversas": "Acidez, dolor epigástrico, reflujo, náuseas",
+      "riscoGravidez": "Categoría C – evitar uso crónico",
+      "riscoLactacao": "Evitar; seguridad no definida",
+      "administracao": "Oral",
+      "doseMaxima": "2 g por comida",
+      "doseMinima": "250 mg por comida",
+      "classificacao": "Acidificante digestivo",
+      "apresentacao": "Cápsulas de 250, 500 y 750 mg",
+      "interacaoMedicamento": "Evitar con AINEs, IBP, corticoides; afecta hierro y B12",
+      "posologia": "250–750 mg con comidas, 2–3 veces al día",
+      "armazenamento": "Lugar fresco y seco",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Úlcera activa, ERGE grave, esofagitis erosiva",
+      "cuidadosMedicos": "Evaluar mucosa gástrica y acidez",
+      "cuidadosFarmaceuticos": "Uso bajo control médico",
+      "cuidadosEnfermagem": "Vigilar signos de intolerancia gástrica",
+      "fontesBibliograficas": "Micromedex, UpToDate, PubChem"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甜菜碱盐酸盐",
+      "suspension": "术前48小时停用，特别是胃食管反流患者",
+      "risk": "可引发胃部刺激、胃酸过多、溃疡、影响麻醉药吸收",
+      "reintroduction": "术后胃黏膜恢复后谨慎重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甜菜碱盐酸盐",
+      "nomeComercial": "Betaine HCl, 贝他酸",
+      "mecanismoAcao": "提供外源性盐酸，增强胃酸浓度，改善消化",
+      "farmacocinetica": "局部作用于胃；不被全身吸收",
+      "farmacodinamica": "提高胃酸，有助于蛋白质消化与营养吸收",
+      "indicacoes": "胃酸不足、消化不良、维生素B12缺乏",
+      "reacoesAdversas": "烧心、胃痛、恶心、反酸",
+      "riscoGravidez": "C类，除非必要不推荐",
+      "riscoLactacao": "不推荐长期使用",
+      "administracao": "口服",
+      "doseMaxima": "每餐2克",
+      "doseMinima": "每餐250毫克",
+      "classificacao": "胃酸补充剂",
+      "apresentacao": "胶囊250、500、750毫克",
+      "interacaoMedicamento": "避免与NSAIDs、PPI、糖皮质激素联用；影响铁与B12吸收",
+      "posologia": "每餐250–750毫克，最多每日3次",
+      "armazenamento": "干燥避光保存",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性胃溃疡、严重反流、侵蚀性食管炎",
+      "cuidadosMedicos": "监测胃酸、胃黏膜状况",
+      "cuidadosFarmaceuticos": "需医生指导使用",
+      "cuidadosEnfermagem": "观察胃部不适、反酸等反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、PubChem"
+    }
+  }
+}

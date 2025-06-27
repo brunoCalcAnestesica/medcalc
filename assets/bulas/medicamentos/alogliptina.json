@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Alogliptina",
+      "suspension": "Suspender 1 dia antes da cirurgia",
+      "risk": "Pode causar hipoglicemia (especialmente com sulfonilureias ou insulina) e efeitos gastrointestinais leves",
+      "reintroduction": "Reintroduzir quando alimentação oral for restabelecida e glicemia estiver controlada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alogliptina",
+      "nomeComercial": "Nesina",
+      "mecanismoAcao": "Inibe a enzima DPP-4, aumentando os níveis de GLP-1 e GIP, estimulando secreção de insulina e inibindo glucagon",
+      "farmacocinetica": "Biodisponibilidade oral > 100%, pico em 1–2h, meia-vida ~21h, excreção renal",
+      "farmacodinamica": "Melhora controle glicêmico sem causar hipoglicemia significativa isoladamente",
+      "indicacoes": "Diabetes mellitus tipo 2, em monoterapia ou em combinação com outros antidiabéticos",
+      "reacoesAdversas": "Nasofaringite, cefaleia, dor abdominal, rash, pancreatite rara",
+      "riscoGravidez": "Categoria B – usar somente se necessário",
+      "riscoLactacao": "Desconhecido se excretado no leite; evitar ou usar com cautela",
+      "administracao": "Via oral, 1 vez ao dia, com ou sem alimentos",
+      "doseMaxima": "25 mg/dia",
+      "doseMinima": "6,25 mg/dia (ajustada para insuficiência renal)",
+      "classificacao": "Antidiabético oral – inibidor da DPP-4",
+      "apresentacao": "Comprimidos de 6,25 mg, 12,5 mg e 25 mg",
+      "interacaoMedicamento": "Risco aumentado de hipoglicemia com insulina/sulfonilureias; interações renais com AINEs e inibidores da ECA",
+      "posologia": "25 mg 1x/dia; ajustar em insuficiência renal",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "DM tipo 1, cetoacidose diabética, hipersensibilidade à substância",
+      "cuidadosMedicos": "Monitorar função renal e sinais de pancreatite",
+      "cuidadosFarmaceuticos": "Conferir ajuste de dose em DRC; reforçar adesão",
+      "cuidadosEnfermagem": "Observar sintomas de hipoglicemia ou dor abdominal aguda",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Alogliptin",
+      "suspension": "Discontinue 1 day prior to surgery",
+      "risk": "May cause hypoglycemia when combined with insulin/sulfonylureas; mild GI effects",
+      "reintroduction": "Restart once oral intake is resumed and glycemic control is stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alogliptin",
+      "nomeComercial": "Nesina",
+      "mecanismoAcao": "DPP-4 inhibitor; increases GLP-1 and GIP, enhancing insulin secretion and suppressing glucagon",
+      "farmacocinetica": "Bioavailability >100%, peak 1–2h, half-life ~21h, renal excretion",
+      "farmacodinamica": "Improves glycemic control with low risk of hypoglycemia",
+      "indicacoes": "Type 2 diabetes mellitus, monotherapy or add-on",
+      "reacoesAdversas": "Nasopharyngitis, headache, abdominal pain, rash, rare pancreatitis",
+      "riscoGravidez": "Category B – use only if clearly needed",
+      "riscoLactacao": "Unknown excretion; use caution",
+      "administracao": "Oral, once daily with or without food",
+      "doseMaxima": "25 mg/day",
+      "doseMinima": "6.25 mg/day (renal adjustment)",
+      "classificacao": "Oral antidiabetic – DPP-4 inhibitor",
+      "apresentacao": "Tablets: 6.25 mg, 12.5 mg, 25 mg",
+      "interacaoMedicamento": "Increased hypoglycemia risk with insulin/SUs; caution with NSAIDs, ACEIs (renal effect)",
+      "posologia": "25 mg once daily; adjust for renal function",
+      "armazenamento": "Store at room temperature (15–30°C)",
+      "preparo": "No special preparation",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Type 1 diabetes, DKA, hypersensitivity",
+      "cuidadosMedicos": "Monitor renal function and pancreatitis symptoms",
+      "cuidadosFarmaceuticos": "Verify renal dosing; reinforce adherence",
+      "cuidadosEnfermagem": "Watch for hypoglycemia or acute abdominal symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, ADA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Alogliptina",
+      "suspension": "Suspender 1 día antes de cirugía",
+      "risk": "Puede causar hipoglucemia con insulina/sulfonilureas; efectos gastrointestinales leves",
+      "reintroduction": "Reintroducir tras reanudar ingesta oral y estabilizar glucemia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alogliptina",
+      "nomeComercial": "Nesina",
+      "mecanismoAcao": "Inhibidor de DPP-4; aumenta GLP-1 y GIP, mejora secreción de insulina e inhibe glucagón",
+      "farmacocinetica": "Biodisponibilidad >100%, pico 1–2h, t½ ~21h, excreción renal",
+      "farmacodinamica": "Mejora el control glucémico sin hipoglucemia significativa por sí sola",
+      "indicacoes": "Diabetes tipo 2, en monoterapia o combinación",
+      "reacoesAdversas": "Nasofaringitis, cefalea, dolor abdominal, rash, pancreatitis rara",
+      "riscoGravidez": "Categoría B – usar solo si es necesario",
+      "riscoLactacao": "Se desconoce excreción; usar con precaución",
+      "administracao": "Oral, 1 vez al día, con o sin alimentos",
+      "doseMaxima": "25 mg/día",
+      "doseMinima": "6,25 mg/día (ajuste renal)",
+      "classificacao": "Antidiabético oral – inhibidor de DPP-4",
+      "apresentacao": "Comprimidos de 6,25 mg, 12,5 mg y 25 mg",
+      "interacaoMedicamento": "Mayor riesgo de hipoglucemia con insulina/SU; precaución con AINEs, IECAs",
+      "posologia": "25 mg/día; ajustar en insuficiencia renal",
+      "armazenamento": "15–30°C, ambiente seco",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "DM tipo 1, cetoacidosis, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear función renal y signos de pancreatitis",
+      "cuidadosFarmaceuticos": "Revisar dosis según función renal, reforzar adherencia",
+      "cuidadosEnfermagem": "Observar signos de hipoglucemia y dolor abdominal",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿格列汀（Alogliptin）",
+      "suspension": "术前1天停药",
+      "risk": "与胰岛素或磺脲类合用时可致低血糖，可能有轻度胃肠不适",
+      "reintroduction": "术后恢复进食并血糖稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿格列汀",
+      "nomeComercial": "Nesina",
+      "mecanismoAcao": "DPP-4抑制剂；增加GLP-1和GIP水平，促进胰岛素分泌并抑制胰高血糖素",
+      "farmacocinetica": "口服生物利用度>100%，达峰1–2小时，半衰期约21小时，肾排泄",
+      "farmacodinamica": "改善血糖控制，单用低风险低血糖",
+      "indicacoes": "2型糖尿病，单药或联合治疗",
+      "reacoesAdversas": "鼻咽炎、头痛、腹痛、皮疹、罕见胰腺炎",
+      "riscoGravidez": "B类 – 必要时可用",
+      "riscoLactacao": "是否排入乳汁不明；慎用",
+      "administracao": "口服，每日1次，可与食物同服或空腹",
+      "doseMaxima": "每日25毫克",
+      "doseMinima": "每日6.25毫克（肾功能减退者调整）",
+      "classificacao": "口服降糖药 – DPP-4抑制剂",
+      "apresentacao": "6.25、12.5、25毫克片剂",
+      "interacaoMedicamento": "与胰岛素或磺脲类联用易低血糖；注意NSAIDs与ACEI对肾脏的协同作用",
+      "posologia": "常规25 mg/d，肾损时调整",
+      "armazenamento": "15–30°C干燥保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "1型糖尿病、酮症酸中毒、过敏",
+      "cuidadosMedicos": "监测肾功能与胰腺炎症状",
+      "cuidadosFarmaceuticos": "依据肾功能调整剂量，提醒坚持用药",
+      "cuidadosEnfermagem": "注意低血糖及腹痛症状",
+      "fontesBibliograficas": "FDA、Micromedex、UpToDate、中国药典"
+    }
+  }
+}

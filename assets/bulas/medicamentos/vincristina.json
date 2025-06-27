@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vincristina",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva, se possível",
+      "risk": "Risco de neurotoxicidade e interação com anestésicos; pode causar íleo paralítico e neuropatia",
+      "reintroduction": "Reintroduzir após recuperação neurológica e aval oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vincristina",
+      "nomeComercial": "Oncovin",
+      "mecanismoAcao": "Liga-se à tubulina, inibindo a formação do fuso mitótico e interrompendo a mitose",
+      "farmacocinetica": "IV, meia-vida trifásica (2–155 h), metabolismo hepático (CYP3A)",
+      "farmacodinamica": "Citotóxico, atua na fase M do ciclo celular",
+      "indicacoes": "Leucemias, linfomas, sarcomas, neuroblastoma, tumor de Wilms",
+      "reacoesAdversas": "Neuropatia periférica, constipação, íleo paralítico, alopecia, leucopenia",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Somente intravenosa",
+      "doseMaxima": "2 mg/semana (independente da superfície corporal)",
+      "doseMinima": "0,5 mg/m²",
+      "classificacao": "Antineoplásico (alcaloide da vinca)",
+      "apresentacao": "Frasco-ampola 1 mg/mL ou 2 mg/2 mL",
+      "interacaoMedicamento": "Interage com antifúngicos azólicos, inibidores CYP3A, vinblastina",
+      "posologia": "1,4 mg/m² IV uma vez por semana",
+      "armazenamento": "Refrigerado (2–8°C); proteger da luz",
+      "preparo": "Diluir em SF 0,9%; infusão lenta; uso exclusivo IV (NÃO intratecal)",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Bloqueio neuromuscular, gravidez, administração intratecal (fatal)",
+      "cuidadosMedicos": "Monitorar sinais neurológicos, evitar constipação, verificar função hepática",
+      "cuidadosFarmaceuticos": "Rotulagem de segurança obrigatória: uso exclusivo IV",
+      "cuidadosEnfermagem": "Monitorar reflexos, evacuação, parestesias",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate, INCA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vincristine",
+      "suspension": "Hold 7 days before elective surgery if possible",
+      "risk": "Neurotoxicity risk, potential for ileus and anesthetic interaction",
+      "reintroduction": "Restart only after neuro evaluation and oncology clearance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vincristine",
+      "nomeComercial": "Oncovin",
+      "mecanismoAcao": "Binds to tubulin and inhibits mitotic spindle formation, blocking mitosis",
+      "farmacocinetica": "IV, tri-phasic half-life (2–155 h), hepatic metabolism (CYP3A)",
+      "farmacodinamica": "Cytotoxic agent acting in M phase",
+      "indicacoes": "Leukemias, lymphomas, sarcomas, neuroblastoma, Wilms tumor",
+      "reacoesAdversas": "Peripheral neuropathy, constipation, paralytic ileus, alopecia, leukopenia",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Intravenous only",
+      "doseMaxima": "2 mg/week (regardless of BSA)",
+      "doseMinima": "0.5 mg/m²",
+      "classificacao": "Antineoplastic (vinca alkaloid)",
+      "apresentacao": "1 mg/mL or 2 mg/2 mL vials",
+      "interacaoMedicamento": "Interacts with azole antifungals, CYP3A inhibitors, vinblastine",
+      "posologia": "1.4 mg/m² IV weekly",
+      "armazenamento": "Refrigerate (36–46°F); protect from light",
+      "preparo": "Dilute in NS; slow IV infusion; NEVER intrathecal (fatal)",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Neuromuscular block, pregnancy, intrathecal use (fatal)",
+      "cuidadosMedicos": "Monitor neuro status, constipation, liver function",
+      "cuidadosFarmaceuticos": "Mandatory IV-only labeling; fatal if intrathecal",
+      "cuidadosEnfermagem": "Monitor reflexes, bowel habits, paresthesias",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, NCI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vincristina",
+      "suspension": "Suspender 7 días antes de la cirugía electiva si es posible",
+      "risk": "Riesgo de neurotoxicidad, íleo paralítico e interacción con anestésicos",
+      "reintroduction": "Reintroducir tras recuperación neurológica y evaluación oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vincristina",
+      "nomeComercial": "Oncovin",
+      "mecanismoAcao": "Se une a la tubulina inhibiendo el huso mitótico",
+      "farmacocinetica": "IV, vida media trifásica (2–155 h), metabolismo hepático (CYP3A)",
+      "farmacodinamica": "Citotóxico, actúa en fase M del ciclo celular",
+      "indicacoes": "Leucemias, linfomas, sarcomas, neuroblastoma, tumor de Wilms",
+      "reacoesAdversas": "Neuropatía, estreñimiento, íleo, alopecia, leucopenia",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Solo intravenosa",
+      "doseMaxima": "2 mg/semana",
+      "doseMinima": "0,5 mg/m²",
+      "classificacao": "Antineoplásico (alcaloide de la vinca)",
+      "apresentacao": "Vial 1 mg/mL o 2 mg/2 mL",
+      "interacaoMedicamento": "Interacción con antifúngicos azólicos, inhibidores de CYP3A",
+      "posologia": "1,4 mg/m² IV semanalmente",
+      "armazenamento": "Refrigerado (2–8°C), proteger de la luz",
+      "preparo": "Diluir en SF 0,9%, infusión lenta IV, NO intratecal",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Bloqueo neuromuscular, embarazo, uso intratecal",
+      "cuidadosMedicos": "Monitorizar neurología, función hepática",
+      "cuidadosFarmaceuticos": "Etiqueta: solo IV; letal si intratecal",
+      "cuidadosEnfermagem": "Control de reflejos, tránsito intestinal, parestesias",
+      "fontesBibliograficas": "AEMPS, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "长春新碱",
+      "suspension": "择期手术前7天停药",
+      "risk": "存在神经毒性风险，可致肠梗阻，与麻醉剂相互作用",
+      "reintroduction": "术后神经功能恢复并肿瘤科评估后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "长春新碱",
+      "nomeComercial": "Oncovin",
+      "mecanismoAcao": "结合微管蛋白，抑制有丝分裂纺锤体形成",
+      "farmacocinetica": "静脉注射，三相半衰期（2–155小时），肝脏代谢（CYP3A）",
+      "farmacodinamica": "细胞毒药物，作用于细胞周期M期",
+      "indicacoes": "白血病、淋巴瘤、肉瘤、神经母细胞瘤、肾母细胞瘤",
+      "reacoesAdversas": "外周神经病、便秘、麻痹性肠梗阻、脱发、白细胞减少",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用",
+      "administracao": "仅限静脉注射",
+      "doseMaxima": "每周不超过2毫克",
+      "doseMinima": "0.5 毫克/平方米",
+      "classificacao": "抗肿瘤植物碱（长春类）",
+      "apresentacao": "注射液1 mg/mL 或 2 mg/2 mL",
+      "interacaoMedicamento": "与CYP3A抑制剂、抗真菌药物联用增加毒性",
+      "posologia": "每周1.4 mg/m²静注",
+      "armazenamento": "冷藏（2–8°C），避光",
+      "preparo": "用0.9%氯化钠稀释，静脉缓慢滴注，严禁鞘内注射",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "神经肌阻滞、妊娠、鞘内注射（致命）",
+      "cuidadosMedicos": "监测神经功能、肝功能",
+      "cuidadosFarmaceuticos": "必须贴明“仅限静脉注射”标签",
+      "cuidadosEnfermagem": "监测反射、排便和感觉异常",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

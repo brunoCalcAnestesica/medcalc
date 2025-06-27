@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tramadol",
+      "suspension": "Suspender 24h antes da cirurgia eletiva se uso crônico; uso intraoperatório requer ajuste e monitoramento",
+      "risk": "Risco de depressão respiratória, sedação, náusea, convulsões (especialmente com antidepressivos), síndrome serotoninérgica com ISRS/IRSN",
+      "reintroduction": "Reintroduzir no pós-operatório se necessário, com vigilância neurológica e respiratória, especialmente em idosos e pacientes com epilepsia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Tramadol",
+      "nomeComercial": "Tramal, Dorless, Paracetamol + Tramadol (Zaldiar, Ultracet)",
+      "mecanismoAcao": "Agonista µ-opioide fraco + inibidor da recaptação de noradrenalina e serotonina (dual-action)",
+      "farmacocinetica": "Biodisponibilidade oral: 68–72%; metabolismo hepático (CYP2D6, CYP3A4); meia-vida ~6h",
+      "farmacodinamica": "Analgésico de ação central usado em dor moderada a intensa; menos depressão respiratória que morfina, mas com risco neurológico aumentado",
+      "indicacoes": "Dor moderada a intensa aguda ou crônica, dor pós-operatória, lombalgia, dor musculoesquelética",
+      "reacoesAdversas": "Náusea, tontura, constipação, sonolência, sudorese, confusão, convulsões, síndrome serotoninérgica",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar; excretado no leite materno e pode causar apneia ou sedação no lactente",
+      "administracao": "Oral, IV, IM, SC, retal",
+      "doseMaxima": "400mg/dia (oral ou IV); 300mg/dia em idosos",
+      "doseMinima": "50mg VO ou IV",
+      "classificacao": "Opioide atípico (µ-agonista + SNRI leve)",
+      "apresentacao": "Comprimidos IR/ER, solução oral, gotas, ampolas IV/IM, supositórios",
+      "interacaoMedicamento": "ISRS, IRSN, TCA, antipsicóticos, inibidores/indutores de CYP2D6, benzodiazepínicos, álcool",
+      "posologia": "Oral: 50–100mg cada 6–8h; IV: 50–100mg a cada 6h; ER: 100–300mg 1x/dia",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "Ampola pode ser diluída em SF 0,9% para infusão lenta; comprimidos ER não devem ser partidos",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Epilepsia não controlada, intoxicação alcoólica ou por opioides, uso recente de IMAO",
+      "cuidadosMedicos": "Avaliar risco convulsivo, uso de antidepressivos, monitorar FR e sedação",
+      "cuidadosFarmaceuticos": "Evitar duplicidade com outros opioides ou antidepressivos; controlar dose total diária",
+      "cuidadosEnfermagem": "Observar dor, confusão, RR, sonolência, náuseas e eliminação intestinal",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, Lexicomp, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tramadol",
+      "suspension": "Discontinue 24h before elective surgery if on chronic use; may continue intraoperatively with caution",
+      "risk": "Risk of respiratory depression, serotonin syndrome, seizures (especially with antidepressants), and CNS depression",
+      "reintroduction": "Restart post-op if needed, monitor for neurological and respiratory adverse effects"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tramadol Hydrochloride",
+      "nomeComercial": "Ultram, ConZip, Qdolo, Ultracet (w/ acetaminophen)",
+      "mecanismoAcao": "Weak µ-opioid receptor agonist + norepinephrine/serotonin reuptake inhibitor (SNRI-like)",
+      "farmacocinetica": "Oral bioavailability ~70%; peak: 2h; half-life ~6h; hepatic metabolism via CYP2D6, CYP3A4",
+      "farmacodinamica": "Used for moderate-to-severe pain; risk of seizures and serotonin syndrome with antidepressants",
+      "indicacoes": "Acute and chronic pain; alternative to NSAIDs or stronger opioids",
+      "reacoesAdversas": "Nausea, dizziness, constipation, somnolence, sweating, confusion, serotonin syndrome, seizures",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid; may cause sedation/apnea in infants",
+      "administracao": "Oral, IV, IM, SC, rectal",
+      "doseMaxima": "400mg/day (IR); 300mg/day (elderly)",
+      "doseMinima": "50mg PO or IV",
+      "classificacao": "Atypical opioid (µ-agonist + SNRI)",
+      "apresentacao": "IR/ER tablets, oral drops, solution, IV ampoules",
+      "interacaoMedicamento": "SSRIs, SNRIs, TCAs, MAOIs, alcohol, antipsychotics, CYP2D6 inhibitors",
+      "posologia": "IR: 50–100mg q6h; IV: 50–100mg q6h; ER: 100–300mg/day",
+      "armazenamento": "Room temp, protect from light",
+      "preparo": "IV solution diluted with NS for slow infusion; do not split ER tablets",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Uncontrolled epilepsy, alcohol intoxication, recent MAOI use",
+      "cuidadosMedicos": "Monitor for sedation, seizure risk, RR and mental status",
+      "cuidadosFarmaceuticos": "Avoid concurrent serotonergic agents; watch total daily dose",
+      "cuidadosEnfermagem": "Monitor pain, sedation, nausea, RR, bowel/bladder function",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, CDC"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tramadol",
+      "suspension": "Suspender 24h antes de cirugía si uso crónico; posible mantener con vigilancia intraoperatoria",
+      "risk": "Riesgo de depresión respiratoria, sedación, convulsiones (con antidepresivos), síndrome serotoninérgico",
+      "reintroduction": "Reintroducir tras cirugía según necesidad y vigilancia neurológica y respiratoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Tramadol",
+      "nomeComercial": "Tramal, Tradonal, Dolpar, Zaldiar (con paracetamol)",
+      "mecanismoAcao": "Agonista µ-opioide débil + inhibidor de recaptación de serotonina y noradrenalina (acción dual)",
+      "farmacocinetica": "Biodisponibilidad oral 68–72%; metabolismo hepático (CYP2D6, CYP3A4); vida media ~6h",
+      "farmacodinamica": "Analgesia moderada a intensa; menor depresión respiratoria que morfina pero mayor riesgo neurológico",
+      "indicacoes": "Dolor moderado a severo, postoperatorio, musculoesquelético",
+      "reacoesAdversas": "Náuseas, mareo, somnolencia, sudoración, estreñimiento, confusión, convulsiones, síndrome serotoninérgico",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante lactancia; riesgo de apnea en lactantes",
+      "administracao": "Vía oral, IV, IM, SC, rectal",
+      "doseMaxima": "400mg/día (IR); 300mg/día en ancianos",
+      "doseMinima": "50mg VO o IV",
+      "classificacao": "Opioide atípico (agonista µ + ISRS leve)",
+      "apresentacao": "Comprimidos IR/ER, solución oral, gotas, inyectables",
+      "interacaoMedicamento": "ISRS, IRSN, TCA, antipsicóticos, alcohol, CYP2D6",
+      "posologia": "VO: 50–100mg cada 6–8h; IV: 50–100mg cada 6h; ER: 100–300mg/día",
+      "armazenamento": "15–30°C, protegido de luz",
+      "preparo": "Diluir ampolla para infusión lenta IV; no partir comprimidos ER",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Epilepsia no controlada, intoxicación alcohólica, uso reciente de IMAO",
+      "cuidadosMedicos": "Vigilar FR, sedación, estado mental, riesgo convulsivo",
+      "cuidadosFarmaceuticos": "Control de dosis total, evitar combinación con ISRS/IRSN",
+      "cuidadosEnfermagem": "Observar dolor, somnolencia, confusión, RR y digestivo",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "曲马多",
+      "suspension": "慢性使用者术前24小时停药；术中慎用并密切监测",
+      "risk": "呼吸抑制、镇静、与抗抑郁药共用时可能诱发癫痫或血清素综合征",
+      "reintroduction": "术后如需用药，需个体化滴定并监测神经及呼吸反应"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸曲马多",
+      "nomeComercial": "Tramal, 曲马丁, Ultracet（含对乙酰氨基酚）",
+      "mecanismoAcao": "弱μ阿片受体激动剂 + 去甲肾上腺素/5-羟色胺再摄取抑制（双机制）",
+      "farmacocinetica": "口服生物利用度约70%；达峰2小时；半衰期约6小时；CYP2D6、CYP3A4代谢",
+      "farmacodinamica": "适用于中度至重度疼痛；癫痫和血清素毒性风险高于传统阿片类",
+      "indicacoes": "术后疼痛、慢性疼痛、肌肉骨骼疼痛等",
+      "reacoesAdversas": "恶心、头晕、便秘、出汗、困倦、意识混乱、癫痫、血清素综合征",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "分泌入乳汁中，哺乳期不建议使用",
+      "administracao": "口服、静脉、肌注、皮下、直肠",
+      "doseMaxima": "每日400mg（IR）；老年人每日300mg",
+      "doseMinima": "50mg（口服或注射）",
+      "classificacao": "非典型阿片类（弱µ激动剂 + SNRI）",
+      "apresentacao": "片剂、缓释片、口服液、注射液",
+      "interacaoMedicamento": "SSRIs、SNRIs、三环类、抗精神病药、CYP2D6抑制剂、酒精",
+      "posologia": "口服：50–100mg每6–8小时；IV：50–100mg每6小时；ER：每日100–300mg",
+      "armazenamento": "室温，避光干燥保存",
+      "preparo": "IV须缓慢推注或稀释滴注；缓释片禁止掰开",
+      "solucoesCompatíveis": "NS, 葡萄糖5%",
+      "contraindicacoes": "癫痫控制不良、酒精或阿片中毒、MAOI联用史",
+      "cuidadosMedicos": "监测呼吸、镇静、意识状态，防止过量和癫痫发作",
+      "cuidadosFarmaceuticos": "说明不可与抗抑郁药联用，避免过量",
+      "cuidadosEnfermagem": "评估疼痛、镇静程度、胃肠反应、呼吸和神志",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

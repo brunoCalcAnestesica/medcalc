@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Canakinumabe",
+      "suspension": "Suspender 2 a 4 semanas antes de cirurgias eletivas",
+      "risk": "Imunossupressão, risco aumentado de infecção e interferência na resposta inflamatória cirúrgica",
+      "reintroduction": "Reintroduzir após adequada cicatrização e ausência de sinais infecciosos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Canakinumabe",
+      "nomeComercial": "Ilaris",
+      "mecanismoAcao": "Anticorpo monoclonal humano que bloqueia a interleucina-1β (IL-1β)",
+      "farmacocinetica": "Meia-vida longa (~26 dias), metabolismo proteico via degradação em pequenos peptídeos e aminoácidos",
+      "farmacodinamica": "Reduz a inflamação ao neutralizar a IL-1β, implicada em doenças auto-inflamatórias",
+      "indicacoes": "Síndromes periódicas associadas à criopirina, febre familiar do Mediterrâneo, artrite idiopática juvenil sistêmica, doença de Still",
+      "reacoesAdversas": "Infecções do trato respiratório, cefaleia, dor abdominal, reações no local da injeção",
+      "riscoGravidez": "Categoria C (FDA); evitar uso a menos que os benefícios superem os riscos",
+      "riscoLactacao": "Desconhecido se excretado no leite materno; cautela recomendada",
+      "administracao": "Subcutânea",
+      "doseMaxima": "600 mg por dose (em indicações específicas, como doença de Still)",
+      "doseMinima": "150 mg por dose (ajustada por peso)",
+      "classificacao": "Imunobiológico; anticorpo monoclonal anti-IL-1β",
+      "apresentacao": "Solução injetável 150 mg/ml em frasco-ampola",
+      "interacaoMedicamento": "Evitar uso concomitante com outros imunossupressores potentes (ex: TNF-alfa inibidores)",
+      "posologia": "150 mg SC a cada 4 a 8 semanas, ajustado conforme peso e resposta clínica",
+      "armazenamento": "Refrigerado entre 2°C e 8°C, não congelar, proteger da luz",
+      "preparo": "Agitar suavemente se necessário; inspecionar visualmente antes da administração",
+      "solucoesCompatíveis": "Não aplicável; uso direto",
+      "contraindicacoes": "Infecção ativa grave, hipersensibilidade ao princípio ativo",
+      "cuidadosMedicos": "Monitorar sinais de infecção, função hepática e contagem leucocitária",
+      "cuidadosFarmaceuticos": "Assegurar cadeia de frio e validade",
+      "cuidadosEnfermagem": "Observar reações locais, sinais infecciosos e febre",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate, SBIm"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Canakinumab",
+      "suspension": "Suspend 2 to 4 weeks before elective surgery",
+      "risk": "Immunosuppression, increased risk of infections, altered inflammatory response",
+      "reintroduction": "Reintroduce after complete wound healing and no signs of infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Canakinumab",
+      "nomeComercial": "Ilaris",
+      "mecanismoAcao": "Fully human monoclonal antibody that targets interleukin-1β (IL-1β)",
+      "farmacocinetica": "Long half-life (~26 days), degraded via proteolysis into peptides and amino acids",
+      "farmacodinamica": "Suppresses inflammation by neutralizing IL-1β involved in auto-inflammatory disorders",
+      "indicacoes": "Cryopyrin-associated periodic syndromes, familial Mediterranean fever, systemic juvenile idiopathic arthritis, Still's disease",
+      "reacoesAdversas": "Respiratory infections, headache, abdominal pain, injection site reactions",
+      "riscoGravidez": "Pregnancy Category C; use only if benefits outweigh risks",
+      "riscoLactacao": "Unknown if excreted in breast milk; use caution",
+      "administracao": "Subcutaneous",
+      "doseMaxima": "600 mg per dose (for Still’s disease)",
+      "doseMinima": "150 mg per dose (adjusted by weight)",
+      "classificacao": "Biologic; anti-IL-1β monoclonal antibody",
+      "apresentacao": "Injectable solution 150 mg/ml in vial",
+      "interacaoMedicamento": "Avoid with strong immunosuppressants (e.g., TNF-alpha blockers)",
+      "posologia": "150 mg SC every 4 to 8 weeks, adjusted by clinical response",
+      "armazenamento": "Store refrigerated at 2°C to 8°C, do not freeze, protect from light",
+      "preparo": "Gently swirl if needed; visually inspect before administration",
+      "solucoesCompatíveis": "Not applicable; direct use",
+      "contraindicacoes": "Active serious infection, hypersensitivity to the drug",
+      "cuidadosMedicos": "Monitor for infections, liver function, and white cell count",
+      "cuidadosFarmaceuticos": "Ensure cold chain and validity",
+      "cuidadosEnfermagem": "Observe local reactions, fever, and signs of infection",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, SBIm"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Canakinumab",
+      "suspension": "Suspender 2 a 4 semanas antes de cirugías electivas",
+      "risk": "Inmunosupresión, mayor riesgo de infección y respuesta inflamatoria alterada",
+      "reintroduction": "Reintroducir tras cicatrización adecuada y ausencia de infección"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Canakinumab",
+      "nomeComercial": "Ilaris",
+      "mecanismoAcao": "Anticuerpo monoclonal humano dirigido a interleucina-1β (IL-1β)",
+      "farmacocinetica": "Vida media prolongada (~26 días), degradación proteica",
+      "farmacodinamica": "Reduce la inflamación al bloquear IL-1β en enfermedades autoinflamatorias",
+      "indicacoes": "Síndromes periódicos asociados a criopirina, fiebre mediterránea familiar, artritis idiopática juvenil sistémica, enfermedad de Still",
+      "reacoesAdversas": "Infecciones respiratorias, cefalea, dolor abdominal, reacciones locales",
+      "riscoGravidez": "Categoría C; usar solo si es estrictamente necesario",
+      "riscoLactacao": "Se desconoce si se excreta en la leche materna; precaución",
+      "administracao": "Subcutánea",
+      "doseMaxima": "600 mg por dosis (en enfermedad de Still)",
+      "doseMinima": "150 mg por dosis (según peso)",
+      "classificacao": "Biológico; anticuerpo monoclonal anti-IL-1β",
+      "apresentacao": "Solución inyectable 150 mg/ml en vial",
+      "interacaoMedicamento": "Evitar con inmunosupresores potentes (ej. anti-TNF)",
+      "posologia": "150 mg SC cada 4–8 semanas, según respuesta clínica",
+      "armazenamento": "Refrigerar entre 2°C y 8°C, no congelar, proteger de la luz",
+      "preparo": "Agitar suavemente si es necesario; inspección visual previa",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Infección activa grave, hipersensibilidad",
+      "cuidadosMedicos": "Monitoreo de infecciones, función hepática, leucocitos",
+      "cuidadosFarmaceuticos": "Mantener cadena de frío y control de caducidad",
+      "cuidadosEnfermagem": "Observar reacciones locales e infecciones",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, SBIm, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "卡那单抗",
+      "suspension": "择期手术前2至4周停药",
+      "risk": "免疫抑制、感染风险增加、术后炎症反应干扰",
+      "reintroduction": "创口愈合良好且无感染征象后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "卡那单抗",
+      "nomeComercial": "Ilaris",
+      "mecanismoAcao": "靶向白细胞介素-1β (IL-1β) 的人源单克隆抗体",
+      "farmacocinetica": "半衰期长（约26天），经蛋白降解代谢",
+      "farmacodinamica": "通过中和IL-1β控制自体炎症性疾病的炎症",
+      "indicacoes": "低温素相关周期综合征、家族性地中海热、系统性幼年特发性关节炎、Still病",
+      "reacoesAdversas": "呼吸道感染、头痛、腹痛、注射部位反应",
+      "riscoGravidez": "C类；仅在权衡利弊后使用",
+      "riscoLactacao": "尚不清楚是否排泄至乳汁；需谨慎使用",
+      "administracao": "皮下注射",
+      "doseMaxima": "每次600毫克（如Still病）",
+      "doseMinima": "每次150毫克（根据体重）",
+      "classificacao": "生物制剂；抗IL-1β单抗",
+      "apresentacao": "注射液150 mg/ml，瓶装",
+      "interacaoMedicamento": "避免与强免疫抑制剂合用（如抗TNF药物）",
+      "posologia": "每4至8周皮下注射150 mg，按反应调整",
+      "armazenamento": "2–8°C冷藏，勿冷冻，避光",
+      "preparo": "如有需要轻轻摇匀，注射前需目检",
+      "solucoesCompatíveis": "不适用，直接使用",
+      "contraindicacoes": "严重活动性感染，对本药过敏",
+      "cuidadosMedicos": "监测感染、肝功能、白细胞计数",
+      "cuidadosFarmaceuticos": "确保冷链运输，检查有效期",
+      "cuidadosEnfermagem": "观察局部反应和感染迹象",
+      "fontesBibliograficas": "中国药典, FDA, EMA, UpToDate, Micromedex"
+    }
+  }
+}

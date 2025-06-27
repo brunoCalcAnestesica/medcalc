@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nitroprussiato de sódio",
+      "suspension": "Manter durante cirurgia com monitorização contínua se estiver em uso; ajustar dose conforme necessidade hemodinâmica",
+      "risk": "Risco de hipotensão severa, toxicidade por cianeto/tiocianato, acidose láctica e interação com anestésicos",
+      "reintroduction": "Infusão pode ser mantida intra e pós-operatório, com ajuste por PA e sinais de toxicidade"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nitroprussiato de sódio",
+      "nomeComercial": "Nipride, Nitropress",
+      "mecanismoAcao": "Libera óxido nítrico (NO), ativando guanilato ciclase e aumentando GMPc, promovendo relaxamento do músculo liso vascular",
+      "farmacocinetica": "Ação imediata (30s); duração curta (<3 min); metabolização hepática e eritrocitária com formação de cianeto e tiocianato; excreção renal",
+      "farmacodinamica": "Vasodilatador arterial e venoso potente; reduz pré e pós-carga; efeito rápido e titulado",
+      "indicacoes": "Crises hipertensivas, controle da PA em cirurgia, ICC descompensada, dissecção de aorta",
+      "reacoesAdversas": "Hipotensão, rubor, náusea, sudorese, taquicardia, toxicidade por cianeto/tiocianato (alta dose ou infusão prolongada)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; usar com cautela",
+      "administracao": "Infusão intravenosa contínua",
+      "doseMaxima": "10 mcg/kg/min (máx. 30 min); preferir <2 mcg/kg/min",
+      "doseMinima": "0,3 mcg/kg/min",
+      "classificacao": "Vasodilatador parenteral",
+      "apresentacao": "Frascos-ampola 50 mg/2 mL (pó ou solução concentrada)",
+      "interacaoMedicamento": "Potencializa efeitos de outros anti-hipertensivos e anestésicos; incompatível com luz",
+      "posologia": "Diluir 50 mg em 250 mL SG 5%; iniciar com 0,3 mcg/kg/min, ajustar conforme resposta",
+      "armazenamento": "Proteger da luz (frascos e equipo); solução estável por 24h",
+      "preparo": "Diluir somente em SG 5%; usar equipo protegido da luz; monitorizar cor da solução",
+      "solucoesCompatíveis": "Somente SG 5%",
+      "contraindicacoes": "Hipotensão grave, anemia grave, hipoxemia, hipertensão intracraniana, deficiência de vitamina B12",
+      "cuidadosMedicos": "Monitorizar PA invasiva, dosar níveis de tiocianato se uso prolongado ou IR",
+      "cuidadosFarmaceuticos": "Preparo rigoroso sob proteção da luz; uso exclusivo com bomba de infusão",
+      "cuidadosEnfermagem": "Monitorar PA, FC, sinais de toxicidade (confusão, acidose, dispneia)",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, Nipride bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sodium Nitroprusside",
+      "suspension": "Continue infusion intraoperatively with hemodynamic monitoring; titrate dose based on BP response",
+      "risk": "Risk of profound hypotension, cyanide/thiocyanate toxicity, lactic acidosis, and interaction with anesthetics",
+      "reintroduction": "Can be continued during and after surgery; adjust based on BP and toxicity signs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sodium Nitroprusside",
+      "nomeComercial": "Nipride, Nitropress",
+      "mecanismoAcao": "Releases nitric oxide (NO), activating guanylate cyclase and increasing cGMP, leading to vascular smooth muscle relaxation",
+      "farmacocinetica": "Onset within 30s; short duration (<3 min); hepatic and erythrocyte metabolism with cyanide and thiocyanate formation; renal excretion",
+      "farmacodinamica": "Potent arterial and venous vasodilator; decreases preload and afterload; rapid, titratable effect",
+      "indicacoes": "Hypertensive crisis, perioperative BP control, acute decompensated heart failure, aortic dissection",
+      "reacoesAdversas": "Hypotension, flushing, nausea, sweating, tachycardia, cyanide/thiocyanate toxicity (high dose or prolonged use)",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "Continuous IV infusion",
+      "doseMaxima": "10 mcg/kg/min (max 30 min); recommended <2 mcg/kg/min",
+      "doseMinima": "0.3 mcg/kg/min",
+      "classificacao": "Parenteral vasodilator",
+      "apresentacao": "50 mg/2 mL vials (powder or concentrate)",
+      "interacaoMedicamento": "Potentiates other antihypertensives and anesthetics; photosensitive",
+      "posologia": "Dilute 50 mg in 250 mL D5W; start at 0.3 mcg/kg/min and titrate",
+      "armazenamento": "Protect from light; stable 24h after preparation",
+      "preparo": "Dilute only in D5W; use light-protected infusion sets; monitor solution color",
+      "solucoesCompatíveis": "Only D5W",
+      "contraindicacoes": "Severe hypotension, severe anemia, hypoxemia, increased ICP, B12 deficiency",
+      "cuidadosMedicos": "Invasive BP monitoring; check thiocyanate levels with prolonged use or renal failure",
+      "cuidadosFarmaceuticos": "Strict light protection; infusion pump only",
+      "cuidadosEnfermagem": "Monitor BP, HR, toxicity signs (confusion, acidosis, dyspnea)",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Nitropress PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nitroprusiato de sodio",
+      "suspension": "Mantener infusión durante cirugía con monitoreo hemodinámico; ajustar según PA",
+      "risk": "Riesgo de hipotensión grave, toxicidad por cianuro/tiocianato, acidosis láctica, interacción con anestésicos",
+      "reintroduction": "Continuar en el postoperatorio según PA y signos de toxicidad"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nitroprusiato de sodio",
+      "nomeComercial": "Nipride, Nitropress",
+      "mecanismoAcao": "Libera NO que activa guanilato ciclasa y eleva GMPc, causando relajación del músculo liso vascular",
+      "farmacocinetica": "Inicio inmediato (30s); duración <3 min; metabolizado en hígado y eritrocitos; eliminación renal",
+      "farmacodinamica": "Vasodilatador potente arterial y venoso; reduce precarga y poscarga; efecto rápido y ajustable",
+      "indicacoes": "Crisis hipertensiva, control de PA perioperatoria, IC descompensada, disección aórtica",
+      "reacoesAdversas": "Hipotensión, rubor, náuseas, sudoración, taquicardia, toxicidad por cianuro/tiocianato (uso prolongado)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Infusión IV continua",
+      "doseMaxima": "10 mcg/kg/min (máx. 30 min); preferido <2 mcg/kg/min",
+      "doseMinima": "0.3 mcg/kg/min",
+      "classificacao": "Vasodilatador parenteral",
+      "apresentacao": "Frascos 50 mg/2 mL (polvo o concentrado)",
+      "interacaoMedicamento": "Potencia otros antihipertensivos y anestésicos; fotosensible",
+      "posologia": "Diluir 50 mg en 250 mL glucosa 5%; iniciar en 0.3 mcg/kg/min",
+      "armazenamento": "Proteger de la luz; estable por 24h",
+      "preparo": "Diluir solo en glucosa 5%; usar equipos opacos; controlar color",
+      "solucoesCompatíveis": "Solo glucosa 5%",
+      "contraindicacoes": "Hipotensión severa, anemia grave, hipoxemia, HIC, deficiencia de B12",
+      "cuidadosMedicos": "Monitoreo PA invasivo; tiocianato si uso prolongado o IR",
+      "cuidadosFarmaceuticos": "Protección estricta contra luz; bomba de infusión",
+      "cuidadosEnfermagem": "Monitorear PA, FC, toxicidad (confusión, disnea, acidosis)",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Nitropress"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硝普钠",
+      "suspension": "术中可持续输注，需血流动力学监测；根据血压调节剂量",
+      "risk": "严重低血压、氰化物/硫氰酸盐中毒、乳酸酸中毒风险，与麻醉药相互作用显著",
+      "reintroduction": "术后可继续使用，按血压与毒性情况调整"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硝普钠",
+      "nomeComercial": "Nipride、Nitropress",
+      "mecanismoAcao": "释放NO，激活鸟苷酸环化酶，升高cGMP，松弛血管平滑肌",
+      "farmacocinetica": "起效30秒内，作用持续<3分钟，经肝与红细胞代谢，产氰化物与硫氰酸盐，肾排泄",
+      "farmacodinamica": "动静脉扩张剂，迅速降低前后负荷；反应迅速，可精细调节",
+      "indicacoes": "高血压危象、术中控压、急性心衰、大动脉夹层",
+      "reacoesAdversas": "低血压、面红、恶心、出汗、心动过速、氰化物中毒（大剂量/长时间）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不明，慎用",
+      "administracao": "静脉持续输注",
+      "doseMaxima": "10 μg/kg/min（不超30分钟）；常用<2 μg/kg/min",
+      "doseMinima": "0.3 μg/kg/min",
+      "classificacao": "注射用血管扩张剂",
+      "apresentacao": "50 mg/2 mL（粉末或浓缩液）",
+      "interacaoMedicamento": "增强降压药、麻醉药作用；需避光",
+      "posologia": "50 mg溶于250 mL葡萄糖5%；起始0.3 μg/kg/min",
+      "armazenamento": "避光保存，配好后24小时内使用",
+      "preparo": "仅用5%葡萄糖稀释，使用避光输液装置，注意颜色变化",
+      "solucoesCompatíveis": "仅葡萄糖5%",
+      "contraindicacoes": "严重低血压、严重贫血、缺氧、高颅压、维生素B12缺乏",
+      "cuidadosMedicos": "动脉血压监测，长期使用或肾功能不全需测硫氰酸盐浓度",
+      "cuidadosFarmaceuticos": "配药避光、使用输注泵",
+      "cuidadosEnfermagem": "观察血压、心率、毒性表现（意识、代谢性酸中毒）",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Nipride说明书"
+    }
+  }
+}

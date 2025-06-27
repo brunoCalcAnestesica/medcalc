@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lopinavir/Ritonavir",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Potenciais interações com anestésicos e benzodiazepínicos; risco de prolongamento do intervalo QT/PR e toxicidade hepática",
+      "reintroduction": "Reintroduzir após avaliação de função hepática e ECG se alterado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lopinavir + Ritonavir",
+      "nomeComercial": "Kaletra",
+      "mecanismoAcao": "Inibidores da protease do HIV-1; ritonavir potencializa lopinavir ao inibir seu metabolismo",
+      "farmacocinetica": "Biodisponibilidade aumentada com alimentos; metabolismo hepático (CYP3A4), meia-vida 5–6h",
+      "farmacodinamica": "Inibe a clivagem proteica do HIV, bloqueando sua maturação",
+      "indicacoes": "Infecção por HIV-1 em combinação com outros antirretrovirais",
+      "reacoesAdversas": "Náusea, diarreia, hepatotoxicidade, pancreatite, dislipidemia, prolongamento QT/PR",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Não recomendado durante amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "800/200 mg/dia",
+      "doseMinima": "400/100 mg/dia",
+      "classificacao": "Antirretroviral - Inibidor da protease",
+      "apresentacao": "Comprimidos (200/50mg), solução oral",
+      "interacaoMedicamento": "Interage com anestésicos, benzodiazepínicos, antiarrítmicos, anticonvulsivantes",
+      "posologia": "400/100 mg 2x/dia ou 800/200 mg 1x/dia com alimento",
+      "armazenamento": "Comprimidos: ambiente; solução oral: refrigerada",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência hepática grave, uso com amiodarona, ergotamina, midazolam oral",
+      "cuidadosMedicos": "Monitorar transaminases, ECG, interações medicamentosas",
+      "cuidadosFarmaceuticos": "Atenção às interações com medicações pré-anestésicas",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hepática e arritmias",
+      "fontesBibliograficas": "FDA, ANVISA, WHO HIV Guidelines, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lopinavir/Ritonavir",
+      "suspension": "Continue until the day of surgery",
+      "risk": "May interact with anesthetics and sedatives; risk of QT/PR prolongation and liver toxicity",
+      "reintroduction": "Restart after liver function and ECG assessment if altered"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lopinavir + Ritonavir",
+      "nomeComercial": "Kaletra",
+      "mecanismoAcao": "HIV-1 protease inhibitors; ritonavir boosts lopinavir by inhibiting metabolism",
+      "farmacocinetica": "Increased absorption with food; hepatic metabolism (CYP3A4), half-life 5–6h",
+      "farmacodinamica": "Blocks HIV maturation by inhibiting polyprotein cleavage",
+      "indicacoes": "HIV-1 infection with other antiretrovirals",
+      "reacoesAdversas": "Nausea, diarrhea, liver toxicity, pancreatitis, dyslipidemia, QT/PR prolongation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "800/200 mg/day",
+      "doseMinima": "400/100 mg/day",
+      "classificacao": "Antiretroviral - Protease inhibitor",
+      "apresentacao": "Tablets (200/50mg), oral solution",
+      "interacaoMedicamento": "Interacts with anesthetics, benzodiazepines, antiarrhythmics, anticonvulsants",
+      "posologia": "400/100 mg twice daily or 800/200 mg once daily with food",
+      "armazenamento": "Tablets: room temp; oral solution: refrigerate",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe hepatic impairment, use with amiodarone, ergotamine, oral midazolam",
+      "cuidadosMedicos": "Monitor LFTs, ECG, drug interactions",
+      "cuidadosFarmaceuticos": "Check for drug interactions with pre-anesthetic medications",
+      "cuidadosEnfermagem": "Watch for liver toxicity and arrhythmias",
+      "fontesBibliograficas": "FDA, WHO, Micromedex, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lopinavir/Ritonavir",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Riesgo de interacciones con anestésicos y benzodiacepinas; posible toxicidad hepática y prolongación del QT/PR",
+      "reintroduction": "Reintroducir tras evaluación de la función hepática y ECG si alterado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lopinavir + Ritonavir",
+      "nomeComercial": "Kaletra",
+      "mecanismoAcao": "Inhibidores de la proteasa del VIH; ritonavir potencia lopinavir",
+      "farmacocinetica": "Mayor biodisponibilidad con alimentos, metabolismo hepático (CYP3A4), vida media 5–6h",
+      "farmacodinamica": "Inhibe la maduración del VIH al impedir la clivaje de poliproteínas",
+      "indicacoes": "Infección por VIH-1 con otros antirretrovirales",
+      "reacoesAdversas": "Náuseas, diarrea, hepatotoxicidad, pancreatitis, dislipidemia, prolongación QT/PR",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado durante la lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "800/200 mg/día",
+      "doseMinima": "400/100 mg/día",
+      "classificacao": "Antirretroviral - Inhibidor de la proteasa",
+      "apresentacao": "Comprimidos (200/50mg), solución oral",
+      "interacaoMedicamento": "Interacciones con anestésicos, benzodiacepinas, antiarrítmicos, anticonvulsivos",
+      "posologia": "400/100 mg 2 veces al día o 800/200 mg 1 vez al día con alimentos",
+      "armazenamento": "Comprimidos: temperatura ambiente; solución: refrigerada",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Insuficiencia hepática grave, uso con amiodarona, ergotamina, midazolam oral",
+      "cuidadosMedicos": "Monitorear enzimas hepáticas, ECG, interacciones medicamentosas",
+      "cuidadosFarmaceuticos": "Evitar interacciones con medicamentos anestésicos",
+      "cuidadosEnfermagem": "Vigilar toxicidad hepática y arritmias",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, OMS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "洛匹那韦/利托那韦",
+      "suspension": "手术当天可继续使用",
+      "risk": "与麻醉药物、苯二氮卓类相互作用，可能导致QT/PR间期延长和肝毒性",
+      "reintroduction": "术后肝功能及心电图评估后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "洛匹那韦 + 利托那韦",
+      "nomeComercial": "Kaletra",
+      "mecanismoAcao": "HIV蛋白酶抑制剂；利托那韦通过抑制代谢增强洛匹那韦作用",
+      "farmacocinetica": "随餐服用吸收好，经CYP3A4代谢，半衰期5–6小时",
+      "farmacodinamica": "抑制病毒多肽裂解，阻止HIV成熟",
+      "indicacoes": "与其他抗逆转录病毒药物联合治疗HIV-1感染",
+      "reacoesAdversas": "恶心、腹泻、肝毒性、胰腺炎、血脂异常、QT/PR延长",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不推荐哺乳期使用",
+      "administracao": "口服",
+      "doseMaxima": "800/200毫克/天",
+      "doseMinima": "400/100毫克/天",
+      "classificacao": "抗逆转录病毒药 - 蛋白酶抑制剂",
+      "apresentacao": "片剂（200/50mg）、口服溶液",
+      "interacaoMedicamento": "与麻醉剂、苯二氮䓬类、抗心律失常药、抗癫痫药物相互作用",
+      "posologia": "每日2次400/100毫克，或每日1次800/200毫克，随餐服用",
+      "armazenamento": "片剂室温保存，口服液冷藏",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肝功能损害，禁与胺碘酮、麦角胺、口服咪达唑仑同用",
+      "cuidadosMedicos": "监测肝功能、电解质和心电图",
+      "cuidadosFarmaceuticos": "注意与麻醉药物的相互作用",
+      "cuidadosEnfermagem": "观察肝毒性及心律失常迹象",
+      "fontesBibliograficas": "FDA，Micromedex，WHO指南，ANVISA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Mebendazol",
+      "suspension": "Suspender 1 dia antes da cirurgia se uso eletivo",
+      "risk": "Baixo risco anestésico; possíveis interações hepáticas em uso prolongado",
+      "reintroduction": "Reintroduzir com função hepática estável e tolerância digestiva"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mebendazol",
+      "nomeComercial": "Pantelmin, Helmiben, Vermox",
+      "mecanismoAcao": "Inibe a formação de microtúbulos nas células intestinais dos helmintos, levando à morte do parasita",
+      "farmacocinetica": "Baixa absorção oral (<10%), metabolização hepática, excreção fecal",
+      "farmacodinamica": "Efeito anti-helmíntico amplo (Ascaris, Enterobius, Trichuris, Ancylostoma, Taenia)",
+      "indicacoes": "Infecções por vermes intestinais: ascaridíase, oxiuríase, tricuríase, ancilostomíase, teníase",
+      "reacoesAdversas": "Dor abdominal, flatulência, náuseas, urticária, elevação de transaminases em uso prolongado",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Compatível",
+      "administracao": "Oral",
+      "doseMaxima": "1 g/dia (uso prolongado)",
+      "doseMinima": "100 mg/dose",
+      "classificacao": "Anti-helmíntico benzimidazólico",
+      "apresentacao": "Comprimidos de 100 mg, suspensão oral 20 mg/mL",
+      "interacaoMedicamento": "Carbamazepina e fenitoína podem reduzir eficácia; cimetidina pode aumentar níveis séricos",
+      "posologia": "100 mg dose única (oxiurus); 100 mg 2x/dia por 3 dias (vermes múltiplos)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral direto, não precisa jejum nem laxante",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, gravidez (1º trimestre), doença hepática ativa",
+      "cuidadosMedicos": "Avaliar função hepática se uso prolongado; tratar contatos domiciliares",
+      "cuidadosFarmaceuticos": "Orientar repetição de dose em 2 semanas se necessário (oxiurus)",
+      "cuidadosEnfermagem": "Observar tolerância digestiva e adesão ao esquema",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mebendazole",
+      "suspension": "Hold 1 day before surgery if used electively",
+      "risk": "Low anesthetic risk; hepatic metabolism may affect prolonged use",
+      "reintroduction": "Restart after surgery when liver function and GI tolerance are stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mebendazole",
+      "nomeComercial": "Vermox",
+      "mecanismoAcao": "Disrupts microtubule synthesis in intestinal helminths, leading to parasite death",
+      "farmacocinetica": "Poor oral absorption (<10%), hepatic metabolism, fecal excretion",
+      "farmacodinamica": "Broad-spectrum antihelmintic (Ascaris, Enterobius, Trichuris, Ancylostoma, Taenia)",
+      "indicacoes": "Intestinal helminth infections: ascariasis, pinworm, whipworm, hookworm, tapeworm",
+      "reacoesAdversas": "Abdominal pain, flatulence, nausea, rash, elevated transaminases (long-term)",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral",
+      "doseMaxima": "1 g/day (long-term use)",
+      "doseMinima": "100 mg/dose",
+      "classificacao": "Benzimidazole antihelminthic",
+      "apresentacao": "100 mg tablets, 20 mg/mL oral suspension",
+      "interacaoMedicamento": "Carbamazepine and phenytoin reduce efficacy; cimetidine increases levels",
+      "posologia": "100 mg single dose (pinworm); 100 mg BID for 3 days (mixed infections)",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Oral use only, no need for fasting or laxative",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, pregnancy (1st trimester), active liver disease",
+      "cuidadosMedicos": "Monitor liver function with prolonged use; treat household contacts",
+      "cuidadosFarmaceuticos": "Advise repeat dose in 2 weeks if needed (pinworm)",
+      "cuidadosEnfermagem": "Monitor GI tolerance and adherence",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Mebendazol",
+      "suspension": "Suspender 1 día antes de la cirugía si es uso electivo",
+      "risk": "Bajo riesgo anestésico; posible hepatotoxicidad con uso prolongado",
+      "reintroduction": "Reintroducir cuando función hepática y tolerancia digestiva sean estables"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mebendazol",
+      "nomeComercial": "Vermox, Pantelmin",
+      "mecanismoAcao": "Inhibe la síntesis de microtúbulos en parásitos intestinales, causando su muerte",
+      "farmacocinetica": "Absorción oral baja (<10%), metabolismo hepático, excreción fecal",
+      "farmacodinamica": "Antiparasitario de amplio espectro (Ascaris, Enterobius, Trichuris, Taenia, Ancylostoma)",
+      "indicacoes": "Helmintiasis intestinales: ascariasis, oxiuriasis, tricuriasis, anquilostomiasis, teniasis",
+      "reacoesAdversas": "Dolor abdominal, gases, náuseas, erupciones, transaminasas elevadas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral",
+      "doseMaxima": "1 g/día (uso prolongado)",
+      "doseMinima": "100 mg/dosis",
+      "classificacao": "Antiparasitario benzimidazólico",
+      "apresentacao": "Comprimidos 100 mg, suspensión 20 mg/mL",
+      "interacaoMedicamento": "Carbamazepina/fenitoína reducen eficacia; cimetidina aumenta niveles",
+      "posologia": "100 mg dosis única (oxiuriasis); 100 mg 2x/día por 3 días (infecciones múltiples)",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Administración oral directa, no requiere ayuno ni laxante",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, embarazo (1° trimestre), enfermedad hepática activa",
+      "cuidadosMedicos": "Control hepático si uso prolongado; tratar contactos domiciliarios",
+      "cuidadosFarmaceuticos": "Aconsejar repetición de dosis a los 14 días si es necesario",
+      "cuidadosEnfermagem": "Observar tolerancia gastrointestinal y adherencia",
+      "fontesBibliograficas": "AEMPS, BNF, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甲苯咪唑",
+      "suspension": "择期使用者建议术前1天停药",
+      "risk": "麻醉风险低，长期使用可能肝毒性",
+      "reintroduction": "术后肝功能和消化道耐受良好时可重新服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甲苯咪唑",
+      "nomeComercial": "Vermox, 祛蛔灵",
+      "mecanismoAcao": "抑制寄生虫微管蛋白合成，使虫体死亡",
+      "farmacocinetica": "口服吸收差（<10%），肝代谢，粪便排泄",
+      "farmacodinamica": "广谱驱虫药，针对蛔虫、蛲虫、鞭虫、钩虫、绦虫等",
+      "indicacoes": "肠道蠕虫感染：蛔虫、蛲虫、鞭虫、钩虫、绦虫",
+      "reacoesAdversas": "腹痛、胀气、恶心、皮疹、肝酶升高（长期使用）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "口服",
+      "doseMaxima": "每日1克（长期用药）",
+      "doseMinima": "每剂100毫克",
+      "classificacao": "苯并咪唑类驱虫药",
+      "apresentacao": "100毫克片剂，20毫克/毫升口服混悬液",
+      "interacaoMedicamento": "卡马西平/苯妥英降低疗效；西咪替丁升高血药浓度",
+      "posologia": "蛲虫单次100毫克；混合感染100毫克每日2次×3天",
+      "armazenamento": "室温保存，避光",
+      "preparo": "直接口服，无需空腹或泻药",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "过敏、妊娠初期、活动性肝病",
+      "cuidadosMedicos": "长期使用监测肝功能，家庭成员应同步治疗",
+      "cuidadosFarmaceuticos": "必要时2周重复一次剂量（蛲虫）",
+      "cuidadosEnfermagem": "关注消化耐受性与服药依从性",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

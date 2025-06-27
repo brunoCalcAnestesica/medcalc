@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Atazanavir",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Interações com midazolam, fentanil e anestésicos; risco de hiperbilirrubinemia e prolongamento do intervalo PR",
+      "reintroduction": "Reintroduzir após avaliação da função hepática e ECG se necessário"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atazanavir",
+      "nomeComercial": "Reyataz",
+      "mecanismoAcao": "Inibidor da protease do HIV-1, impede a clivagem de precursores virais",
+      "farmacocinetica": "Biodisponibilidade aumentada com alimentos, metabolismo hepático (CYP3A4), meia-vida 7h",
+      "farmacodinamica": "Reduz carga viral ao inibir replicação do HIV",
+      "indicacoes": "Infecção por HIV-1 em combinação com outros antirretrovirais",
+      "reacoesAdversas": "Icterícia, náusea, dor abdominal, hiperbilirrubinemia, arritmias",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Não recomendado durante a amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "400mg/dia (sem ritonavir) ou 300mg/dia (com ritonavir)",
+      "doseMinima": "300mg/dia (com ritonavir)",
+      "classificacao": "Antirretroviral - Inibidor da protease",
+      "apresentacao": "Cápsulas de 150mg, 200mg e 300mg",
+      "interacaoMedicamento": "Interage com benzodiazepínicos, antiácidos, estatinas, anestésicos",
+      "posologia": "300mg + 100mg ritonavir 1x/dia com alimento",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso com alfuzosina, triazolam, pimozida, pacientes com hepatopatia grave",
+      "cuidadosMedicos": "Monitorar bilirrubinas, ECG e função hepática",
+      "cuidadosFarmaceuticos": "Evitar uso com antiácidos e inibidores da bomba de prótons",
+      "cuidadosEnfermagem": "Observar sinais de icterícia, arritmias ou efeitos adversos hepáticos",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, WHO Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Atazanavir",
+      "suspension": "Continue until the day of surgery",
+      "risk": "Interacts with midazolam, fentanyl, anesthetics; risk of hyperbilirubinemia and PR interval prolongation",
+      "reintroduction": "Restart after liver function and ECG assessment if needed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atazanavir",
+      "nomeComercial": "Reyataz",
+      "mecanismoAcao": "HIV-1 protease inhibitor, blocks viral polyprotein cleavage",
+      "farmacocinetica": "Better absorption with food, hepatic metabolism via CYP3A4, half-life ~7h",
+      "farmacodinamica": "Inhibits HIV replication by blocking viral maturation",
+      "indicacoes": "HIV-1 infection in combination with other antiretrovirals",
+      "reacoesAdversas": "Jaundice, nausea, abdominal pain, hyperbilirubinemia, arrhythmia",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Not recommended during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "400mg/day (without ritonavir), 300mg/day (with ritonavir)",
+      "doseMinima": "300mg/day (with ritonavir)",
+      "classificacao": "Antiretroviral - Protease inhibitor",
+      "apresentacao": "Capsules: 150mg, 200mg, 300mg",
+      "interacaoMedicamento": "Interacts with benzodiazepines, antacids, statins, anesthetics",
+      "posologia": "300mg + 100mg ritonavir once daily with food",
+      "armazenamento": "Store at room temperature, avoid moisture",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Use with alfuzosin, triazolam, pimozide, severe hepatic impairment",
+      "cuidadosMedicos": "Monitor bilirubin, ECG, liver function",
+      "cuidadosFarmaceuticos": "Avoid PPIs and antacids around dosing time",
+      "cuidadosEnfermagem": "Watch for jaundice, arrhythmias or hepatic issues",
+      "fontesBibliograficas": "FDA, WHO, Micromedex, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Atazanavir",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Interacciones con midazolam, fentanilo y anestésicos; riesgo de hiperbilirrubinemia y prolongación del intervalo PR",
+      "reintroduction": "Reintroducir tras evaluación hepática y del ECG si necesario"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atazanavir",
+      "nomeComercial": "Reyataz",
+      "mecanismoAcao": "Inhibidor de la proteasa del VIH-1, bloquea la maduración viral",
+      "farmacocinetica": "Mayor absorción con alimentos, metabolismo hepático (CYP3A4), vida media ~7h",
+      "farmacodinamica": "Reduce la replicación del VIH al inhibir su maduración",
+      "indicacoes": "Infección por VIH-1 en combinación con otros antirretrovirales",
+      "reacoesAdversas": "Ictericia, náuseas, dolor abdominal, hiperbilirrubinemia, arritmias",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "No recomendado durante la lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "400mg/día (sin ritonavir), 300mg/día (con ritonavir)",
+      "doseMinima": "300mg/día (con ritonavir)",
+      "classificacao": "Antirretroviral - Inhibidor de la proteasa",
+      "apresentacao": "Cápsulas: 150mg, 200mg, 300mg",
+      "interacaoMedicamento": "Interacciones con benzodiacepinas, antiácidos, estatinas, anestésicos",
+      "posologia": "300mg + 100mg ritonavir 1 vez/día con alimento",
+      "armazenamento": "Temperatura ambiente, protegido de la humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Uso con alfuzosina, triazolam, pimozida, insuficiencia hepática grave",
+      "cuidadosMedicos": "Monitorear bilirrubinas, ECG y función hepática",
+      "cuidadosFarmaceuticos": "Evitar uso simultáneo con antiácidos o IBPs",
+      "cuidadosEnfermagem": "Observar signos de ictericia o arritmias",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, OMS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿扎那韦",
+      "suspension": "可持续至手术当日",
+      "risk": "与咪达唑仑、芬太尼、麻醉剂相互作用，可能引起高胆红素血症和PR间期延长",
+      "reintroduction": "术后根据肝功能和心电图评估结果重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿扎那韦",
+      "nomeComercial": "Reyataz",
+      "mecanismoAcao": "HIV-1蛋白酶抑制剂，阻止病毒多肽裂解",
+      "farmacocinetica": "随餐服用吸收更好，经肝CYP3A4代谢，半衰期约7小时",
+      "farmacodinamica": "抑制HIV复制，阻止病毒成熟",
+      "indicacoes": "与其他抗病毒药联合用于HIV-1感染治疗",
+      "reacoesAdversas": "黄疸、恶心、腹痛、高胆红素血症、心律失常",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期不推荐使用",
+      "administracao": "口服",
+      "doseMaxima": "每日400毫克（不合用利托那韦）",
+      "doseMinima": "每日300毫克（合用利托那韦）",
+      "classificacao": "抗逆转录病毒药 - 蛋白酶抑制剂",
+      "apresentacao": "胶囊：150mg、200mg、300mg",
+      "interacaoMedicamento": "与苯二氮卓类、抗酸药、他汀类、麻醉剂相互作用",
+      "posologia": "每日一次300mg + 100mg利托那韦，随餐服用",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "与阿氟唑嗪、三唑仑、匹莫齐特同用，重度肝病患者禁用",
+      "cuidadosMedicos": "监测胆红素水平、心电图和肝功能",
+      "cuidadosFarmaceuticos": "避免与抗酸药或质子泵抑制剂同时使用",
+      "cuidadosEnfermagem": "观察黄疸、心律失常等不良反应",
+      "fontesBibliograficas": "FDA，Micromedex，WHO指南，ANVISA"
+    }
+  }
+}

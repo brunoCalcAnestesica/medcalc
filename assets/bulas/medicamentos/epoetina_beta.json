@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Epoetina beta",
+      "suspension": "Suspender 5 a 7 dias antes de cirurgias eletivas se Hb > 12 g/dL ou em pacientes com alto risco trombótico",
+      "risk": "Risco aumentado de eventos tromboembólicos, hipertensão e crises convulsivas, especialmente com aumento rápido de Hb",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica, Hb < 12 g/dL e sem eventos trombóticos ativos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Epoetina beta",
+      "nomeComercial": "NeoRecormon, Recormon",
+      "mecanismoAcao": "Glicoproteína recombinante que estimula eritropoiese por ligação a receptores de eritropoietina",
+      "farmacocinetica": "Administração SC ou IV; meia-vida SC: 12–28 h; eliminação por metabolismo e excreção renal",
+      "farmacodinamica": "Estimula produção de eritrócitos; aumenta hemoglobina e reduz necessidade de transfusões",
+      "indicacoes": "Anemia por insuficiência renal crônica, quimioterapia, pacientes em pré-operatório com anemia",
+      "reacoesAdversas": "Hipertensão, cefaleia, trombose, PRCA (anemia pura aplásica), hipersensibilidade",
+      "riscoGravidez": "Categoria C – usar com cautela",
+      "riscoLactacao": "Provavelmente seguro",
+      "administracao": "Subcutânea ou intravenosa",
+      "doseMaxima": "900 UI/kg/semana",
+      "doseMinima": "30 UI/kg 3x/semana",
+      "classificacao": "Agente estimulador da eritropoiese (ESA)",
+      "apresentacao": "Seringa preenchida 1.000 a 60.000 UI/mL",
+      "interacaoMedicamento": "Potencializa efeito de agentes anti-hipertensivos; cuidado com imunossupressores e ferro",
+      "posologia": "30–150 UI/kg 3x/semana SC ou IV; ajuste conforme Hb",
+      "armazenamento": "2–8 °C; não congelar; proteger da luz",
+      "preparo": "Pronto para uso; não agitar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipertensão descontrolada, hipersensibilidade, PRCA induzida por EPO",
+      "cuidadosMedicos": "Monitorar Hb, PA, ferritina, função renal",
+      "cuidadosFarmaceuticos": "Manter cadeia de frio e prescrição individualizada",
+      "cuidadosEnfermagem": "Observar pressão arterial e reações no local de aplicação",
+      "fontesBibliograficas": "EMA, ANVISA, UpToDate, KDIGO, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Epoetin beta",
+      "suspension": "Hold 5–7 days before surgery if Hb > 12 g/dL or thrombotic risk exists",
+      "risk": "Thrombosis, hypertension, seizure, rapid Hb rise risk",
+      "reintroduction": "Resume when Hb < 12 g/dL and hemodynamically stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Epoetin beta",
+      "nomeComercial": "NeoRecormon",
+      "mecanismoAcao": "Recombinant erythropoietin analog stimulating erythropoiesis via bone marrow receptors",
+      "farmacocinetica": "SC/IV; SC t½ 12–28 h; renal and hepatic elimination",
+      "farmacodinamica": "Stimulates red cell production; raises Hb and reduces transfusions",
+      "indicacoes": "Anemia due to CKD, chemotherapy, or perioperative anemia",
+      "reacoesAdversas": "Hypertension, headache, thrombosis, PRCA, hypersensitivity",
+      "riscoGravidez": "Category C – use with caution",
+      "riscoLactacao": "Likely safe",
+      "administracao": "SC or IV",
+      "doseMaxima": "900 IU/kg/week",
+      "doseMinima": "30 IU/kg 3x/week",
+      "classificacao": "ESA (erythropoiesis-stimulating agent)",
+      "apresentacao": "Prefilled syringe 1,000–60,000 IU/mL",
+      "interacaoMedicamento": "May increase BP; use caution with immunosuppressants",
+      "posologia": "30–150 IU/kg SC/IV 3x/week; titrate by Hb",
+      "armazenamento": "Refrigerate 2–8 °C; protect from light; do not freeze",
+      "preparo": "Ready to use; do not shake",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Uncontrolled HTN, EPO-induced PRCA, allergy",
+      "cuidadosMedicos": "Monitor Hb, BP, iron, renal function",
+      "cuidadosFarmaceuticos": "Cold chain required; individual dosing",
+      "cuidadosEnfermagem": "Assess BP and injection site",
+      "fontesBibliograficas": "EMA, KDIGO, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Epoetina beta",
+      "suspension": "Suspender 5–7 días antes de cirugía si Hb > 12 g/dL o alto riesgo trombótico",
+      "risk": "Trombosis, hipertensión, convulsiones, eritropoyesis excesiva",
+      "reintroduction": "Reiniciar cuando Hb < 12 g/dL y paciente estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Epoetina beta",
+      "nomeComercial": "NeoRecormon",
+      "mecanismoAcao": "Estimula eritropoyesis al unirse a receptores EPO",
+      "farmacocinetica": "SC/IV, t½ SC: 12–28 h",
+      "farmacodinamica": "Aumenta Hb, reduce transfusiones",
+      "indicacoes": "Anemia renal, oncológica, preoperatoria",
+      "reacoesAdversas": "HTA, trombosis, cefalea, PRCA",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Probablemente segura",
+      "administracao": "Subcutánea o IV",
+      "doseMaxima": "900 UI/kg/semana",
+      "doseMinima": "30 UI/kg 3x/semana",
+      "classificacao": "Agente estimulante de eritropoyesis",
+      "apresentacao": "Jeringas 1.000–60.000 UI/mL",
+      "interacaoMedicamento": "Precaución con hipertensivos, inmunosupresores",
+      "posologia": "30–150 UI/kg SC/IV 3x/semana",
+      "armazenamento": "2–8 °C, no congelar, proteger de luz",
+      "preparo": "Listo para usar, no agitar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "HTA no controlada, PRCA, hipersensibilidad",
+      "cuidadosMedicos": "Hb, PA, hierro, función renal",
+      "cuidadosFarmaceuticos": "Cadena frío, dosis individual",
+      "cuidadosEnfermagem": "Controlar PA y sitio inyección",
+      "fontesBibliograficas": "EMA, UpToDate, KDIGO, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "促红素β（Epoetin beta）",
+      "suspension": "术前5–7天停药（Hb>12或血栓高风险）",
+      "risk": "血栓、血压升高、癫痫、红细胞过度生成",
+      "reintroduction": "Hb<12，血流动力学稳定后再用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "促红素β",
+      "nomeComercial": "NeoRecormon",
+      "mecanismoAcao": "结合EPO受体，促进红系生成",
+      "farmacocinetica": "SC/IV，SC t½ 12–28小时，肾肝代谢",
+      "farmacodinamica": "提升Hb，减少输血",
+      "indicacoes": "慢性肾病、化疗相关贫血、术前贫血",
+      "reacoesAdversas": "高血压、血栓、头痛、PRCA",
+      "riscoGravidez": "C类，慎用",
+      "riscoLactacao": "基本安全",
+      "administracao": "皮下注射或静脉",
+      "doseMaxima": "900 IU/kg/周",
+      "doseMinima": "30 IU/kg，周3次",
+      "classificacao": "红细胞生成刺激剂（ESA）",
+      "apresentacao": "1,000–60,000 IU/mL注射器",
+      "interacaoMedicamento": "慎与降压药、免疫抑制剂共用",
+      "posologia": "30–150 IU/kg，SC或IV，每周3次",
+      "armazenamento": "2–8°C冷藏，避光，勿冻",
+      "preparo": "即用型，不可摇晃",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "失控高血压、EPO引起的PRCA、过敏",
+      "cuidadosMedicos": "监测Hb、PA、铁、肾功能",
+      "cuidadosFarmaceuticos": "冷链运输，单剂分装",
+      "cuidadosEnfermagem": "监测血压、注射部位",
+      "fontesBibliograficas": "KDIGO、EMA、UpToDate、Micromedex"
+    }
+  }
+}

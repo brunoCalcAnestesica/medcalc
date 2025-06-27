@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fenoldopam",
+      "suspension": "Suspender ao término da infusão controlada; não possui uso prolongado pré-operatório",
+      "risk": "Hipotensão abrupta, taquicardia reflexa, aumento da pressão intraocular",
+      "reintroduction": "Reintroduzir apenas em UTI ou centro cirúrgico com monitorização contínua da PA"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenoldopam mesilato",
+      "nomeComercial": "Corlopam",
+      "mecanismoAcao": "Agonista seletivo dos receptores dopaminérgicos D1; promove vasodilatação renal, mesentérica e coronariana",
+      "farmacocinetica": "Início de ação: 5 min; meia-vida: 5 min; metabolismo hepático",
+      "farmacodinamica": "Reduz rapidamente a pressão arterial; aumenta fluxo renal e natriurese",
+      "indicacoes": "Crise hipertensiva, hipertensão perioperatória, proteção renal em cirurgia de alto risco",
+      "reacoesAdversas": "Hipotensão, taquicardia reflexa, náusea, dor de cabeça, aumento da PIO",
+      "riscoGravidez": "Categoria B – usar se necessário",
+      "riscoLactacao": "Desconhecido – evitar",
+      "administracao": "Intravenosa contínua",
+      "doseMaxima": "1,6 mcg/kg/min",
+      "doseMinima": "0,01 mcg/kg/min",
+      "classificacao": "Vasodilatador dopaminérgico",
+      "apresentacao": "Ampola 10 mg/mL (1 mL)",
+      "interacaoMedicamento": "Cautela com betabloqueadores, diuréticos e antipertensivos",
+      "posologia": "Iniciar com 0,1 mcg/kg/min; titular até PA desejada",
+      "armazenamento": "Temperatura ambiente; proteger da luz",
+      "preparo": "Diluir em SG 5% ou SF 0,9%; usar bomba de infusão",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Glaucoma de ângulo fechado, hipersensibilidade, hipotensão grave",
+      "cuidadosMedicos": "Monitorar PA invasiva, débito urinário, frequência cardíaca",
+      "cuidadosFarmaceuticos": "Preparar com técnica asséptica; uso exclusivo hospitalar",
+      "cuidadosEnfermagem": "Observar sinais de hipotensão, PIO e resposta terapêutica",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, ACC/AHA Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fenoldopam",
+      "suspension": "Discontinue after IV titration ends; not used as pre-op maintenance drug",
+      "risk": "Abrupt hypotension, reflex tachycardia, increased intraocular pressure",
+      "reintroduction": "Restart only in ICU or OR with continuous BP monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenoldopam mesylate",
+      "nomeComercial": "Corlopam",
+      "mecanismoAcao": "Selective dopamine D1 receptor agonist; vasodilation in renal, mesenteric, coronary beds",
+      "farmacocinetica": "Onset ~5 min; t½ ~5 min; hepatic metabolism",
+      "farmacodinamica": "Rapid BP reduction with renal vasodilation and natriuresis",
+      "indicacoes": "Hypertensive emergencies, perioperative HTN, renal protection",
+      "reacoesAdversas": "Hypotension, reflex tachycardia, nausea, headache, increased IOP",
+      "riscoGravidez": "Category B – use if necessary",
+      "riscoLactacao": "Unknown – avoid",
+      "administracao": "Continuous IV infusion",
+      "doseMaxima": "1.6 mcg/kg/min",
+      "doseMinima": "0.01 mcg/kg/min",
+      "classificacao": "Peripheral dopamine agonist",
+      "apresentacao": "10 mg/mL ampoule",
+      "interacaoMedicamento": "Caution with beta-blockers, diuretics, antihypertensives",
+      "posologia": "Start at 0.1 mcg/kg/min, titrate to goal BP",
+      "armazenamento": "Room temp, protect from light",
+      "preparo": "Dilute in D5W or NS, use infusion pump",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Closed-angle glaucoma, hypotension, allergy",
+      "cuidadosMedicos": "Monitor invasive BP, HR, urine output",
+      "cuidadosFarmaceuticos": "Hospital use only, aseptic prep required",
+      "cuidadosEnfermagem": "Watch for hypotension, IOP signs, BP targets",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, AHA/ACC"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fenoldopam",
+      "suspension": "Suspender al final de la infusión IV; no se usa como preoperatorio crónico",
+      "risk": "Hipotensión, taquicardia refleja, PIO aumentada",
+      "reintroduction": "Reintroducir solo con monitorización continua"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mesilato de fenoldopam",
+      "nomeComercial": "Corlopam",
+      "mecanismoAcao": "Agonista selectivo de D1; vasodilatación renal y esplácnica",
+      "farmacocinetica": "Inicio 5 min; t½ 5 min; metabolismo hepático",
+      "farmacodinamica": "Disminuye PA y mejora perfusión renal",
+      "indicacoes": "Emergencia hipertensiva, HTA perioperatoria",
+      "reacoesAdversas": "Hipotensión, cefalea, náuseas, aumento PIO",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar",
+      "administracao": "IV continua",
+      "doseMaxima": "1,6 mcg/kg/min",
+      "doseMinima": "0,01 mcg/kg/min",
+      "classificacao": "Agonista dopaminérgico periférico",
+      "apresentacao": "Ampolla 10 mg/mL",
+      "interacaoMedicamento": "Cuidado con betabloqueantes y diuréticos",
+      "posologia": "0,1–1,6 mcg/kg/min",
+      "armazenamento": "Ambiente, proteger luz",
+      "preparo": "Diluir en SG 5% o SF 0,9%",
+      "solucoesCompatíveis": "SF, SG 5%",
+      "contraindicacoes": "Glaucoma, hipotensión, alergia",
+      "cuidadosMedicos": "PA invasiva, diuresis, FC",
+      "cuidadosFarmaceuticos": "Preparación aséptica hospitalaria",
+      "cuidadosEnfermagem": "Observar PA y respuesta",
+      "fontesBibliograficas": "FDA, AHA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "非诺多泮（Fenoldopam）",
+      "suspension": "输注停止后即停用，术前无维持作用",
+      "risk": "急性低血压、反射性心动过速、眼压升高",
+      "reintroduction": "仅在ICU或术中血压监测下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "非诺多泮",
+      "nomeComercial": "Corlopam",
+      "mecanismoAcao": "选择性D1多巴胺受体激动剂，外周扩血管",
+      "farmacocinetica": "起效5分钟，t½约5分钟，经肝代谢",
+      "farmacodinamica": "降压同时保护肾脏血流和排钠",
+      "indicacoes": "高血压危象、术中血压控制、肾保护",
+      "reacoesAdversas": "低血压、心动过速、恶心、头痛、眼压高",
+      "riscoGravidez": "B类，必要时使用",
+      "riscoLactacao": "不推荐",
+      "administracao": "持续静脉输注",
+      "doseMaxima": "1.6 mcg/kg/min",
+      "doseMinima": "0.01 mcg/kg/min",
+      "classificacao": "外周D1激动剂，降压药",
+      "apresentacao": "10 mg/mL安瓿",
+      "interacaoMedicamento": "与降压药协同，警惕β阻滞剂",
+      "posologia": "起始0.1 mcg/kg/min，按需调速",
+      "armazenamento": "常温避光",
+      "preparo": "用5%葡萄糖或生理盐水稀释",
+      "solucoesCompatíveis": "5%葡萄糖，0.9%氯化钠",
+      "contraindicacoes": "闭角型青光眼、低血压、过敏",
+      "cuidadosMedicos": "持续血压、尿量和心率监测",
+      "cuidadosFarmaceuticos": "医院配药，避免光照",
+      "cuidadosEnfermagem": "注意低灌注、心动过速、眼压变化",
+      "fontesBibliograficas": "FDA、AHA指南、Micromedex、UpToDate"
+    }
+  }
+}

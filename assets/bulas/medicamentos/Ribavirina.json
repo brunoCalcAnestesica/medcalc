@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ribavirina",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas, especialmente em esquemas com interferons",
+      "risk": "Risco de anemia hemolítica, depressão da medula óssea e toxicidade hepática; interações com anestésicos hematotóxicos",
+      "reintroduction": "Reintroduzir após estabilização hematológica e função hepática adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ribavirina",
+      "nomeComercial": "Copegus, Rebetol, Virazole",
+      "mecanismoAcao": "Análogo de nucleosídeo que interfere na síntese do RNA e DNA viral, com atividade antiviral de amplo espectro",
+      "farmacocinetica": "Biodisponibilidade oral ~45–65%; meia-vida terminal prolongada (~300h); eliminação renal",
+      "farmacodinamica": "Potencializa resposta imunológica e inibe replicação de vírus RNA (VSR, HCV, SARS-CoV-1)",
+      "indicacoes": "Hepatite C crônica (com interferon-alfa), infecção por VSR grave, uso experimental em coronavírus",
+      "reacoesAdversas": "Anemia hemolítica, fadiga, cefaleia, náuseas, rash, disfunção hepática, alterações psiquiátricas",
+      "riscoGravidez": "Categoria X – contraindicado (teratogênico)",
+      "riscoLactacao": "Contraindicado – risco de toxicidade hematológica no lactente",
+      "administracao": "Oral (comprimidos), inalatória (aerosol), ou intravenosa (uso hospitalar)",
+      "doseMaxima": "1200 mg/dia (oral); até 20 mg/mL em nebulização (hospitalar)",
+      "doseMinima": "800 mg/dia (oral); conforme protocolo inalatório",
+      "classificacao": "Antiviral de amplo espectro – inibidor de síntese de RNA viral",
+      "apresentacao": "Comprimidos de 200 mg; solução inalatória 100 mg/mL",
+      "interacaoMedicamento": "Evitar com zidovudina, didanosina, estavudina, interferons e anticoagulantes",
+      "posologia": "800–1200 mg/dia por via oral, dividido em 2 doses; inalação hospitalar sob prescrição específica",
+      "armazenamento": "Comprimidos: temperatura ambiente; solução inalatória: refrigerada 2–8°C",
+      "preparo": "Inalação deve ser preparada em cabine apropriada com solução estéril",
+      "solucoesCompatíveis": "Água estéril para nebulização (inalação); NaCl 0,9% (IV)",
+      "contraindicacoes": "Gravidez, lactação, insuficiência renal grave, hemoglobinopatias",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática e estado psiquiátrico",
+      "cuidadosFarmaceuticos": "Atenção a estabilidade da forma nebulizável; dispensação rigorosa por risco fetal",
+      "cuidadosEnfermagem": "Uso com EPI em formulações inalatórias; monitorar anemia e sintomas colaterais",
+      "fontesBibliograficas": "FDA, Medscape, WHO, EMA, Micromedex, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ribavirin",
+      "suspension": "Discontinue 7 days prior to surgery, especially in combo with interferons",
+      "risk": "Risk of hemolytic anemia, hepatic toxicity, bone marrow suppression; interactions with anesthetic agents",
+      "reintroduction": "Restart after hematologic and hepatic stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ribavirin",
+      "nomeComercial": "Copegus, Rebetol, Virazole",
+      "mecanismoAcao": "Nucleoside analog that interferes with viral RNA and DNA synthesis; broad-spectrum antiviral",
+      "farmacocinetica": "Oral bioavailability 45–65%; half-life ~300h; renal excretion",
+      "farmacodinamica": "Inhibits viral replication and enhances immune response",
+      "indicacoes": "Chronic HCV (with interferon), severe RSV infection, experimental use in coronaviruses",
+      "reacoesAdversas": "Hemolytic anemia, fatigue, nausea, rash, liver dysfunction, psychiatric symptoms",
+      "riscoGravidez": "Category X – contraindicated (teratogenic)",
+      "riscoLactacao": "Contraindicated – potential hematologic toxicity in infant",
+      "administracao": "Oral, inhalation (aerosolized), intravenous (hospital use)",
+      "doseMaxima": "1200 mg/day orally; up to 20 mg/mL nebulized",
+      "doseMinima": "800 mg/day orally",
+      "classificacao": "Broad-spectrum antiviral – RNA synthesis inhibitor",
+      "apresentacao": "200 mg tablets; 100 mg/mL inhalation solution",
+      "interacaoMedicamento": "Avoid with AZT, ddI, stavudine, interferons, anticoagulants",
+      "posologia": "800–1200 mg/day orally divided BID; inhaled per hospital protocol",
+      "armazenamento": "Tablets: room temp; Inhaled: 2–8°C",
+      "preparo": "Nebulization must be done in negative pressure rooms using sterile technique",
+      "solucoesCompatíveis": "Sterile water (inhalation); 0.9% NaCl (IV)",
+      "contraindicacoes": "Pregnancy, breastfeeding, renal failure, hemoglobinopathies",
+      "cuidadosMedicos": "Monitor CBC, liver function, and mental status",
+      "cuidadosFarmaceuticos": "Ensure proper dispensing and avoid fetal exposure",
+      "cuidadosEnfermagem": "Use PPE during aerosol administration; monitor anemia",
+      "fontesBibliograficas": "FDA, WHO, Medscape, Micromedex, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ribavirina",
+      "suspension": "Suspender 7 días antes de cirugía, especialmente si se usa con interferón",
+      "risk": "Anemia hemolítica, hepatotoxicidad y depresión medular; interacciones con anestésicos",
+      "reintroduction": "Reintroducir tras estabilización hepática y hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ribavirina",
+      "nomeComercial": "Copegus, Rebetol, Virazole",
+      "mecanismoAcao": "Análogo de nucleósido que inhibe la síntesis de ARN viral; antiviral de amplio espectro",
+      "farmacocinetica": "Biodisponibilidad 45–65%; t½ ~300h; eliminación renal",
+      "farmacodinamica": "Inhibe la replicación viral y modula la respuesta inmune",
+      "indicacoes": "Hepatitis C (con interferón), VSR grave, uso experimental en coronavirus",
+      "reacoesAdversas": "Anemia, náuseas, hepatotoxicidad, rash, síntomas psiquiátricos",
+      "riscoGravidez": "Categoría X",
+      "riscoLactacao": "Contraindicado por toxicidad hematológica",
+      "administracao": "Oral, inhalatoria o intravenosa",
+      "doseMaxima": "1200 mg/día VO; solución 20 mg/mL en hospital",
+      "doseMinima": "800 mg/día VO",
+      "classificacao": "Antiviral de amplio espectro",
+      "apresentacao": "Comprimidos 200 mg; solución inhalada 100 mg/mL",
+      "interacaoMedicamento": "Evitar con AZT, ddI, anticoagulantes, interferón",
+      "posologia": "800–1200 mg/día por VO; solución según protocolo",
+      "armazenamento": "VO: temperatura ambiente; solución: refrigerada",
+      "preparo": "Nebulizar con técnica estéril y bajo presión negativa",
+      "solucoesCompatíveis": "Agua estéril (inhalación); NaCl 0,9% (IV)",
+      "contraindicacoes": "Embarazo, lactancia, anemia, insuficiencia renal",
+      "cuidadosMedicos": "Monitorear hemograma, hígado y estado mental",
+      "cuidadosFarmaceuticos": "Requiere manejo riguroso; riesgo fetal alto",
+      "cuidadosEnfermagem": "EPI para aerosol; observar anemia y colaterales",
+      "fontesBibliograficas": "FDA, EMA, Medscape, WHO"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利巴韦林",
+      "suspension": "择期手术前应停药7天，尤其与干扰素联用时",
+      "risk": "可引起溶血性贫血、肝毒性、骨髓抑制，与麻醉药物存在相互作用",
+      "reintroduction": "术后肝肾功能恢复稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "利巴韦林",
+      "nomeComercial": "Virazole，Copegus，Rebetol",
+      "mecanismoAcao": "核苷类似物，干扰病毒RNA/DNA合成，具有广谱抗病毒作用",
+      "farmacocinetica": "口服生物利用度45–65%；终末半衰期约300小时；肾排泄",
+      "farmacodinamica": "抑制病毒复制，增强免疫应答",
+      "indicacoes": "慢性丙肝（联合干扰素）、重症RSV、冠状病毒实验用药",
+      "reacoesAdversas": "溶血性贫血、乏力、恶心、皮疹、肝损害、精神异常",
+      "riscoGravidez": "X类，禁用",
+      "riscoLactacao": "禁用，可能导致新生儿毒性",
+      "administracao": "口服、雾化吸入或静脉注射",
+      "doseMaxima": "口服1200 mg/d；雾化20 mg/mL",
+      "doseMinima": "口服800 mg/d",
+      "classificacao": "广谱抗病毒药",
+      "apresentacao": "200 mg片剂；100 mg/mL雾化液",
+      "interacaoMedicamento": "避免与AZT、干扰素、抗凝药联用",
+      "posologia": "每日2次口服；雾化根据方案",
+      "armazenamento": "片剂常温保存；液体冷藏",
+      "preparo": "雾化需在负压室使用无菌操作",
+      "solucoesCompatíveis": "雾化用水；IV用0.9%氯化钠",
+      "contraindicacoes": "妊娠、哺乳、严重贫血、肾功能不全",
+      "cuidadosMedicos": "监测肝肾功能、精神状态和血象",
+      "cuidadosFarmaceuticos": "严格分发，防止孕妇接触",
+      "cuidadosEnfermagem": "佩戴EPI，监测全身反应",
+      "fontesBibliograficas": "FDA，WHO，Micromedex，Medscape"
+    }
+  }
+}

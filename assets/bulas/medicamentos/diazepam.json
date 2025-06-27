@@ -1,0 +1,142 @@
+{
+  "PT": {
+    "external": {
+      "name": "Diazepam",
+      "suspension": "Suspender 24h antes de cirurgia com anestesia geral ou risco de depressão respiratória",
+      "risk": "Sedação prolongada, confusão, hipotensão, depressão respiratória, tolerância, dependência, queda em idosos",
+      "reintroduction": "Reintroduzir 12–24h após cirurgia com via oral ou retal disponível e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diazepam",
+      "nomeComercial": "Valium, Diazepax, Dienpax",
+      "mecanismoAcao": "Agonista GABA-A, aumenta abertura do canal de cloro, potencializando neurotransmissão inibitória no SNC",
+      "farmacocinetica": "VO, EV, IM, retal; biodisponibilidade ~90%; T½ 20–70h; metabólitos ativos; excreção renal",
+      "farmacodinamica": "Ansiolítico, sedativo, relaxante muscular, anticonvulsivante e hipnótico com início rápido e longa duração",
+      "indicacoes": "Ansiedade, epilepsia (estado de mal), espasmos musculares, pré-medicação anestésica, abstinência alcoólica",
+      "reacoesAdversas": "Sonolência, amnésia anterógrada, confusão, fala pastosa, fraqueza, depressão respiratória, constipação",
+      "riscoGravidez": "Categoria D – risco de malformações e depressão neonatal",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO, IM, EV, retal (gel ou solução); ajustar pela via e idade",
+      "doseMaxima": "40mg/dia VO; EV até 10mg por dose",
+      "doseMinima": "2–5mg/dia",
+      "classificacao": "Benzodiazepínico de longa duração",
+      "apresentacao": "Comprimidos 2mg, 5mg, 10mg; solução oral 2mg/ml; ampola EV 5mg/ml; gel retal 5mg/ml",
+      "interacaoMedicamento": "Depressores do SNC, álcool, opioides, inibidores CYP3A4, anticonvulsivantes",
+      "posologia": "Ansiedade: 2–10mg VO 2–4x/dia; crises convulsivas: 5–10mg EV ou 0,3–0,5mg/kg retal",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Uso direto por via prescrita; EV diluir em SF se necessário",
+      "solucoesCompatíveis": "SF 0,9% para EV",
+      "contraindicacoes": "Miastenia, glaucoma de ângulo fechado, apneia do sono, insuficiência respiratória grave",
+      "cuidadosMedicos": "Monitorar sinais vitais, sedação, FR, risco de dependência, nível de consciência",
+      "cuidadosFarmaceuticos": "Educar sobre uso curto; evitar combinação com álcool ou opioides; risco de tolerância",
+      "cuidadosEnfermagem": "Observar nível de consciência, PA, FR, sinais de abstinência ou intoxicação",
+      "comentarioFarmacologico": "Diazepam tem meia-vida longa e metabólitos ativos que o tornam útil em situações de abstinência alcoólica e convulsões recorrentes. Seu uso crônico é desaconselhado devido à dependência, mas é essencial como fármaco de emergência em status epiléptico e crises de ansiedade aguda.",
+      "comentarioSeguranca": "Altamente lipofílico, se acumula em idosos e obesos. Potencializa depressão respiratória com outros depressores. Descontinuar gradualmente após uso prolongado. Uso retal é eficaz em crianças e adultos para abortar crises convulsivas fora do ambiente hospitalar."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Diazepam",
+      "suspension": "Suspender 24h antes de cirurgia com anestesia geral ou risco de depressão respiratória",
+      "risk": "Sedação prolongada, confusão, hipotensão, depressão respiratória, tolerância, dependência, queda em idosos",
+      "reintroduction": "Reintroduzir 12–24h após cirurgia com via oral ou retal disponível e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diazepam",
+      "nomeComercial": "Valium, Diazepax, Dienpax",
+      "mecanismoAcao": "Agonista GABA-A, aumenta abertura do canal de cloro, potencializando neurotransmissão inibitória no SNC",
+      "farmacocinetica": "VO, EV, IM, retal; biodisponibilidade ~90%; T½ 20–70h; metabólitos ativos; excreção renal",
+      "farmacodinamica": "Ansiolítico, sedativo, relaxante muscular, anticonvulsivante e hipnótico com início rápido e longa duração",
+      "indicacoes": "Ansiedade, epilepsia (estado de mal), espasmos musculares, pré-medicação anestésica, abstinência alcoólica",
+      "reacoesAdversas": "Sonolência, amnésia anterógrada, confusão, fala pastosa, fraqueza, depressão respiratória, constipação",
+      "riscoGravidez": "Categoria D – risco de malformações e depressão neonatal",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO, IM, EV, retal (gel ou solução); ajustar pela via e idade",
+      "doseMaxima": "40mg/dia VO; EV até 10mg por dose",
+      "doseMinima": "2–5mg/dia",
+      "classificacao": "Benzodiazepínico de longa duração",
+      "apresentacao": "Comprimidos 2mg, 5mg, 10mg; solução oral 2mg/ml; ampola EV 5mg/ml; gel retal 5mg/ml",
+      "interacaoMedicamento": "Depressores do SNC, álcool, opioides, inibidores CYP3A4, anticonvulsivantes",
+      "posologia": "Ansiedade: 2–10mg VO 2–4x/dia; crises convulsivas: 5–10mg EV ou 0,3–0,5mg/kg retal",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Uso direto por via prescrita; EV diluir em SF se necessário",
+      "solucoesCompatíveis": "SF 0,9% para EV",
+      "contraindicacoes": "Miastenia, glaucoma de ângulo fechado, apneia do sono, insuficiência respiratória grave",
+      "cuidadosMedicos": "Monitorar sinais vitais, sedação, FR, risco de dependência, nível de consciência",
+      "cuidadosFarmaceuticos": "Educar sobre uso curto; evitar combinação com álcool ou opioides; risco de tolerância",
+      "cuidadosEnfermagem": "Observar nível de consciência, PA, FR, sinais de abstinência ou intoxicação",
+      "comentarioFarmacologico": "Diazepam tem meia-vida longa e metabólitos ativos que o tornam útil em situações de abstinência alcoólica e convulsões recorrentes. Seu uso crônico é desaconselhado devido à dependência, mas é essencial como fármaco de emergência em status epiléptico e crises de ansiedade aguda.",
+      "comentarioSeguranca": "Altamente lipofílico, se acumula em idosos e obesos. Potencializa depressão respiratória com outros depressores. Descontinuar gradualmente após uso prolongado. Uso retal é eficaz em crianças e adultos para abortar crises convulsivas fora do ambiente hospitalar."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Diazepam",
+      "suspension": "Suspender 24h antes de cirurgia com anestesia geral ou risco de depressão respiratória",
+      "risk": "Sedação prolongada, confusão, hipotensão, depressão respiratória, tolerância, dependência, queda em idosos",
+      "reintroduction": "Reintroduzir 12–24h após cirurgia com via oral ou retal disponível e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diazepam",
+      "nomeComercial": "Valium, Diazepax, Dienpax",
+      "mecanismoAcao": "Agonista GABA-A, aumenta abertura do canal de cloro, potencializando neurotransmissão inibitória no SNC",
+      "farmacocinetica": "VO, EV, IM, retal; biodisponibilidade ~90%; T½ 20–70h; metabólitos ativos; excreção renal",
+      "farmacodinamica": "Ansiolítico, sedativo, relaxante muscular, anticonvulsivante e hipnótico com início rápido e longa duração",
+      "indicacoes": "Ansiedade, epilepsia (estado de mal), espasmos musculares, pré-medicação anestésica, abstinência alcoólica",
+      "reacoesAdversas": "Sonolência, amnésia anterógrada, confusão, fala pastosa, fraqueza, depressão respiratória, constipação",
+      "riscoGravidez": "Categoria D – risco de malformações e depressão neonatal",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO, IM, EV, retal (gel ou solução); ajustar pela via e idade",
+      "doseMaxima": "40mg/dia VO; EV até 10mg por dose",
+      "doseMinima": "2–5mg/dia",
+      "classificacao": "Benzodiazepínico de longa duração",
+      "apresentacao": "Comprimidos 2mg, 5mg, 10mg; solução oral 2mg/ml; ampola EV 5mg/ml; gel retal 5mg/ml",
+      "interacaoMedicamento": "Depressores do SNC, álcool, opioides, inibidores CYP3A4, anticonvulsivantes",
+      "posologia": "Ansiedade: 2–10mg VO 2–4x/dia; crises convulsivas: 5–10mg EV ou 0,3–0,5mg/kg retal",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Uso direto por via prescrita; EV diluir em SF se necessário",
+      "solucoesCompatíveis": "SF 0,9% para EV",
+      "contraindicacoes": "Miastenia, glaucoma de ângulo fechado, apneia do sono, insuficiência respiratória grave",
+      "cuidadosMedicos": "Monitorar sinais vitais, sedação, FR, risco de dependência, nível de consciência",
+      "cuidadosFarmaceuticos": "Educar sobre uso curto; evitar combinação com álcool ou opioides; risco de tolerância",
+      "cuidadosEnfermagem": "Observar nível de consciência, PA, FR, sinais de abstinência ou intoxicação",
+      "comentarioFarmacologico": "Diazepam tem meia-vida longa e metabólitos ativos que o tornam útil em situações de abstinência alcoólica e convulsões recorrentes. Seu uso crônico é desaconselhado devido à dependência, mas é essencial como fármaco de emergência em status epiléptico e crises de ansiedade aguda.",
+      "comentarioSeguranca": "Altamente lipofílico, se acumula em idosos e obesos. Potencializa depressão respiratória com outros depressores. Descontinuar gradualmente após uso prolongado. Uso retal é eficaz em crianças e adultos para abortar crises convulsivas fora do ambiente hospitalar."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "地西泮",
+      "suspension": "Suspender 24h antes de cirurgia com anestesia geral ou risco de depressão respiratória",
+      "risk": "Sedação prolongada, confusão, hipotensão, depressão respiratória, tolerância, dependência, queda em idosos",
+      "reintroduction": "Reintroduzir 12–24h após cirurgia com via oral ou retal disponível e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diazepam",
+      "nomeComercial": "Valium, Diazepax, Dienpax",
+      "mecanismoAcao": "Agonista GABA-A, aumenta abertura do canal de cloro, potencializando neurotransmissão inibitória no SNC",
+      "farmacocinetica": "VO, EV, IM, retal; biodisponibilidade ~90%; T½ 20–70h; metabólitos ativos; excreção renal",
+      "farmacodinamica": "Ansiolítico, sedativo, relaxante muscular, anticonvulsivante e hipnótico com início rápido e longa duração",
+      "indicacoes": "Ansiedade, epilepsia (estado de mal), espasmos musculares, pré-medicação anestésica, abstinência alcoólica",
+      "reacoesAdversas": "Sonolência, amnésia anterógrada, confusão, fala pastosa, fraqueza, depressão respiratória, constipação",
+      "riscoGravidez": "Categoria D – risco de malformações e depressão neonatal",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO, IM, EV, retal (gel ou solução); ajustar pela via e idade",
+      "doseMaxima": "40mg/dia VO; EV até 10mg por dose",
+      "doseMinima": "2–5mg/dia",
+      "classificacao": "Benzodiazepínico de longa duração",
+      "apresentacao": "Comprimidos 2mg, 5mg, 10mg; solução oral 2mg/ml; ampola EV 5mg/ml; gel retal 5mg/ml",
+      "interacaoMedicamento": "Depressores do SNC, álcool, opioides, inibidores CYP3A4, anticonvulsivantes",
+      "posologia": "Ansiedade: 2–10mg VO 2–4x/dia; crises convulsivas: 5–10mg EV ou 0,3–0,5mg/kg retal",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Uso direto por via prescrita; EV diluir em SF se necessário",
+      "solucoesCompatíveis": "SF 0,9% para EV",
+      "contraindicacoes": "Miastenia, glaucoma de ângulo fechado, apneia do sono, insuficiência respiratória grave",
+      "cuidadosMedicos": "Monitorar sinais vitais, sedação, FR, risco de dependência, nível de consciência",
+      "cuidadosFarmaceuticos": "Educar sobre uso curto; evitar combinação com álcool ou opioides; risco de tolerância",
+      "cuidadosEnfermagem": "Observar nível de consciência, PA, FR, sinais de abstinência ou intoxicação",
+      "comentarioFarmacologico": "Diazepam tem meia-vida longa e metabólitos ativos que o tornam útil em situações de abstinência alcoólica e convulsões recorrentes. Seu uso crônico é desaconselhado devido à dependência, mas é essencial como fármaco de emergência em status epiléptico e crises de ansiedade aguda.",
+      "comentarioSeguranca": "Altamente lipofílico, se acumula em idosos e obesos. Potencializa depressão respiratória com outros depressores. Descontinuar gradualmente após uso prolongado. Uso retal é eficaz em crianças e adultos para abortar crises convulsivas fora do ambiente hospitalar."
+    }
+  }
+}

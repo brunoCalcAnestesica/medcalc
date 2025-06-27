@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Perindopril",
+      "suspension": "Suspender 24 horas antes de cirurgia eletiva de médio ou grande porte",
+      "risk": "Risco de hipotensão refratária à indução anestésica devido à inibição da cascata da angiotensina; atenção em cirurgias com risco hemodinâmico",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e reinício da alimentação oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Perindopril erbumina",
+      "nomeComercial": "Coversyl, Preterax (com indapamida)",
+      "mecanismoAcao": "Inibidor da ECA que bloqueia a conversão de angiotensina I em angiotensina II, promovendo vasodilatação e redução da pressão arterial",
+      "farmacocinetica": "Pró-fármaco ativado no fígado a perindoprilato; meia-vida de eliminação ~3–10h; excreção renal",
+      "farmacodinamica": "Reduz pressão arterial sistêmica, pós-carga e remodelamento cardíaco; melhora complacência vascular",
+      "indicacoes": "Hipertensão arterial, insuficiência cardíaca congestiva, prevenção secundária em doença arterial coronariana",
+      "reacoesAdversas": "Tosse seca, tontura, hiperpotassemia, insuficiência renal, angioedema, hipotensão",
+      "riscoGravidez": "Categoria D (2º e 3º trimestres)",
+      "riscoLactacao": "Excreção baixa no leite; evitar em prematuros ou neonatos com função renal imatura",
+      "administracao": "Oral",
+      "doseMaxima": "8 mg/dia",
+      "doseMinima": "2 mg/dia",
+      "classificacao": "Inibidor da enzima conversora de angiotensina (IECA)",
+      "apresentacao": "Comprimidos 2 mg, 4 mg, 8 mg",
+      "interacaoMedicamento": "Risco aumentado com diuréticos poupadores de potássio, AINEs, lítio; potencializa hipotensão com anestésicos",
+      "posologia": "4–8 mg VO 1x/dia; iniciar com 2 mg em idosos ou pacientes com risco de hipotensão",
+      "armazenamento": "Temperatura ambiente, proteger da umidade",
+      "preparo": "Uso direto; não partir comprimidos sem orientação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Angioedema prévio com IECA, estenose bilateral de artéria renal, gravidez, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar pressão, função renal, potássio sérico; atenção em diabéticos e idosos",
+      "cuidadosFarmaceuticos": "Evitar uso concomitante com AINEs e potássio; reforçar adesão ao uso crônico",
+      "cuidadosEnfermagem": "Avaliar PA, sinais de angioedema, náuseas, função renal",
+      "fontesBibliograficas": "Micromedex, UpToDate, ANVISA, EMA, bula Coversyl"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Perindopril",
+      "suspension": "Discontinue 24 hours before medium or major elective surgery",
+      "risk": "Risk of refractory hypotension during induction due to RAAS inhibition; caution in surgeries with hemodynamic instability",
+      "reintroduction": "Restart after hemodynamic stabilization and oral intake"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Perindopril erbumine",
+      "nomeComercial": "Aceon, Coversyl",
+      "mecanismoAcao": "ACE inhibitor that blocks angiotensin I to angiotensin II conversion, leading to vasodilation and BP reduction",
+      "farmacocinetica": "Prodrug converted to perindoprilat; half-life 3–10h; renal elimination",
+      "farmacodinamica": "Lowers systemic BP, reduces afterload, improves vascular compliance and prevents cardiac remodeling",
+      "indicacoes": "Hypertension, heart failure, secondary prevention in coronary artery disease",
+      "reacoesAdversas": "Dry cough, dizziness, hyperkalemia, renal dysfunction, angioedema, hypotension",
+      "riscoGravidez": "Category D (2nd/3rd trimester)",
+      "riscoLactacao": "Low levels in milk; avoid in preterm or renal-impaired neonates",
+      "administracao": "Oral",
+      "doseMaxima": "8 mg/day",
+      "doseMinima": "2 mg/day",
+      "classificacao": "ACE inhibitor",
+      "apresentacao": "Tablets: 2 mg, 4 mg, 8 mg",
+      "interacaoMedicamento": "Interacts with potassium-sparing diuretics, NSAIDs, lithium; enhances hypotension with anesthetics",
+      "posologia": "4–8 mg PO daily; initiate at 2 mg in elderly or hypotension-prone patients",
+      "armazenamento": "Room temperature, protect from moisture",
+      "preparo": "Direct use; do not split tablets unless instructed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "History of angioedema, bilateral renal artery stenosis, pregnancy, hypersensitivity",
+      "cuidadosMedicos": "Monitor BP, renal function, potassium; caution in elderly and diabetics",
+      "cuidadosFarmaceuticos": "Avoid with NSAIDs or potassium supplements; reinforce adherence",
+      "cuidadosEnfermagem": "Monitor BP, signs of angioedema, renal labs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Aceon PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Perindopril",
+      "suspension": "Suspender 24 horas antes de cirugía electiva media o mayor",
+      "risk": "Riesgo de hipotensión refractaria por inhibición del sistema renina-angiotensina; precaución en procedimientos inestables",
+      "reintroduction": "Reiniciar tras estabilización hemodinámica y reanudación de la vía oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Perindopril erbumina",
+      "nomeComercial": "Coversyl, Preterax",
+      "mecanismoAcao": "IECA que bloquea la conversión de angiotensina I en II, promoviendo vasodilatación y descenso de la PA",
+      "farmacocinetica": "Pró-fármaco activado a perindoprilato; vida media 3–10 h; eliminación renal",
+      "farmacodinamica": "Disminuye la PA, la poscarga y mejora la distensibilidad arterial y función ventricular",
+      "indicacoes": "Hipertensión, insuficiencia cardíaca, prevención secundaria en cardiopatía isquémica",
+      "reacoesAdversas": "Tos seca, mareo, hiperpotasemia, insuficiencia renal, angioedema, hipotensión",
+      "riscoGravidez": "Categoría D (2°/3° trimestre)",
+      "riscoLactacao": "Excreción baja; evitar en neonatos con función renal inmadura",
+      "administracao": "Oral",
+      "doseMaxima": "8 mg/día",
+      "doseMinima": "2 mg/día",
+      "classificacao": "Inhibidor de la ECA",
+      "apresentacao": "Comprimidos 2 mg, 4 mg, 8 mg",
+      "interacaoMedicamento": "Evitar con diuréticos ahorradores de K+, AINEs, litio; potencia hipotensión con anestesia",
+      "posologia": "4–8 mg VO/día; iniciar con 2 mg en ancianos o riesgo de hipotensión",
+      "armazenamento": "Ambiente seco y protegido",
+      "preparo": "Uso directo; no partir sin indicación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Angioedema previo, estenosis bilateral de arteria renal, embarazo, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear PA, función renal, potasio; precaución en diabéticos y ancianos",
+      "cuidadosFarmaceuticos": "Advertir sobre interacciones y adherencia",
+      "cuidadosEnfermagem": "Control de PA, angioedema, función renal",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Coversyl"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "培哚普利",
+      "suspension": "择期手术前24小时停药",
+      "risk": "术中诱导期易致低血压，与麻醉药协同抑制RAAS；注意术中血流动力学管理",
+      "reintroduction": "术后血流稳定并恢复口服后重新启用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "培哚普利",
+      "nomeComercial": "Coversyl（可悦维）",
+      "mecanismoAcao": "ACEI，阻断Ang I转化为Ang II，促进血管扩张、降低血压",
+      "farmacocinetica": "为前体药物，肝转化为活性代谢物，半衰期3–10小时，肾排泄",
+      "farmacodinamica": "降低外周阻力、左室后负荷，改善血管顺应性",
+      "indicacoes": "高血压、慢性心力衰竭、冠心病二级预防",
+      "reacoesAdversas": "干咳、头晕、高钾、肾功能损害、血管性水肿、低血压",
+      "riscoGravidez": "D类（孕中晚期禁用）",
+      "riscoLactacao": "乳汁排泄少，新生儿/早产儿慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日8 mg",
+      "doseMinima": "每日2 mg",
+      "classificacao": "血管紧张素转换酶抑制剂（ACEI）",
+      "apresentacao": "片剂：2 mg、4 mg、8 mg",
+      "interacaoMedicamento": "与钾保留利尿剂、NSAIDs、锂、麻醉药联用需注意",
+      "posologia": "每日一次4–8 mg，老年人或高风险患者起始2 mg",
+      "armazenamento": "常温干燥避光处保存",
+      "preparo": "整片吞服，勿擅自掰开",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "既往ACEI诱发血管性水肿、双侧肾动脉狭窄、妊娠期禁用",
+      "cuidadosMedicos": "监测血压、肾功能、电解质",
+      "cuidadosFarmaceuticos": "避免与高钾药或NSAIDs合用，强化依从性",
+      "cuidadosEnfermagem": "观察低血压、肾功能、咳嗽或水肿反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Coversyl说明书"
+    }
+  }
+}

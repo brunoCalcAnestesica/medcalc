@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ticarcilina",
+      "suspension": "Manter até a indução anestésica",
+      "risk": "Pode causar alterações eletrolíticas e reações alérgicas; observar em altas doses EV",
+      "reintroduction": "Reintroduzir no pós-operatório conforme avaliação infecciosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ticarcilina sódica",
+      "nomeComercial": "Ticarpen, Timentin (com ácido clavulânico)",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana; sensível à penicilinase",
+      "farmacocinetica": "Administração IV, meia-vida ~1h, excreção renal",
+      "farmacodinamica": "Bactericida contra Gram-negativos (incluindo Pseudomonas) e Gram-positivos sensíveis",
+      "indicacoes": "Infecções respiratórias, urinárias, intra-abdominais, ósseas e articulares",
+      "reacoesAdversas": "Distúrbios eletrolíticos (hipernatremia), rash, náuseas, flebite",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Intravenosa",
+      "doseMaxima": "24 g/dia",
+      "doseMinima": "3 g/dia",
+      "classificacao": "Antibiótico betalactâmico (carboxipenicilina)",
+      "apresentacao": "Frascos de 3 g, 5 g (ou 3 g + 100 mg de ácido clavulânico)",
+      "interacaoMedicamento": "Reduz eficácia de contraceptivos orais; antagonismo com bacteriostáticos",
+      "posologia": "3 g IV a cada 4–6h (adulto)",
+      "armazenamento": "Refrigerar após reconstituição; usar em até 24h",
+      "preparo": "Diluir em SF 0,9% ou SG 5% para infusão lenta",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a penicilinas",
+      "cuidadosMedicos": "Monitorar eletrólitos e função renal em uso prolongado",
+      "cuidadosFarmaceuticos": "Reconstituir conforme orientação; garantir estabilidade",
+      "cuidadosEnfermagem": "Observar sinais de hipersensibilidade e monitorar sódio sérico",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ticarcillin",
+      "suspension": "Continue until anesthesia induction",
+      "risk": "May cause electrolyte imbalances and allergic reactions, especially with high IV doses",
+      "reintroduction": "Restart post-op as clinically indicated for infection control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ticarcillin disodium",
+      "nomeComercial": "Ticar, Timentin (with clavulanic acid)",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis; beta-lactam susceptible to penicillinase",
+      "farmacocinetica": "IV, half-life ~1h, renal excretion",
+      "farmacodinamica": "Bactericidal against Gram-negative (including Pseudomonas) and some Gram-positive organisms",
+      "indicacoes": "Respiratory, urinary, intra-abdominal, bone and joint infections",
+      "reacoesAdversas": "Electrolyte disturbances (hypernatremia), rash, nausea, phlebitis",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "IV",
+      "doseMaxima": "24 g/day",
+      "doseMinima": "3 g/day",
+      "classificacao": "Beta-lactam antibiotic (carboxypenicillin)",
+      "apresentacao": "Vials 3 g, 5 g (or 3 g + 100 mg clavulanate)",
+      "interacaoMedicamento": "Reduces efficacy of oral contraceptives; antagonistic with bacteriostatics",
+      "posologia": "3 g IV every 4–6h (adult)",
+      "armazenamento": "Refrigerate after reconstitution; use within 24h",
+      "preparo": "Dilute in NS or D5W for slow IV infusion",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Penicillin allergy",
+      "cuidadosMedicos": "Monitor serum electrolytes and renal function with prolonged use",
+      "cuidadosFarmaceuticos": "Reconstitute properly; ensure solution stability",
+      "cuidadosEnfermagem": "Monitor for hypersensitivity and sodium levels",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ticarcilina",
+      "suspension": "Mantener hasta la inducción anestésica",
+      "risk": "Puede causar hipernatremia y reacciones alérgicas en dosis altas IV",
+      "reintroduction": "Reintroducir tras cirugía según evolución infecciosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ticarcilina disódica",
+      "nomeComercial": "Ticarpen, Timentin (con ácido clavulánico)",
+      "mecanismoAcao": "Inhibe síntesis de la pared celular; sensible a penicilinasas",
+      "farmacocinetica": "IV, vida media ~1h, excreción renal",
+      "farmacodinamica": "Bactericida frente a Gram-negativos (incluyendo Pseudomonas) y Gram-positivos sensibles",
+      "indicacoes": "Infecciones respiratorias, urinarias, abdominales, óseas y articulares",
+      "reacoesAdversas": "Hipernatremia, erupciones, náuseas, flebitis",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "IV",
+      "doseMaxima": "24 g/día",
+      "doseMinima": "3 g/día",
+      "classificacao": "Antibiótico betalactámico (carboxipenicilina)",
+      "apresentacao": "Viales de 3 g, 5 g (o con clavulánico)",
+      "interacaoMedicamento": "Reduce eficacia anticonceptiva; antagonismo con bacteriostáticos",
+      "posologia": "3 g IV cada 4–6h",
+      "armazenamento": "Refrigerar tras reconstitución; usar en 24h",
+      "preparo": "Diluir en SF 0,9% o SG 5% para infusión lenta",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a penicilinas",
+      "cuidadosMedicos": "Monitorear sodio y función renal",
+      "cuidadosFarmaceuticos": "Asegurar correcta reconstitución y compatibilidad",
+      "cuidadosEnfermagem": "Vigilar hipersensibilidad y electrolitos",
+      "fontesBibliograficas": "AEMPS, WHO, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "替卡西林",
+      "suspension": "可持续使用至麻醉诱导前",
+      "risk": "大剂量可导致高钠血症和过敏反应",
+      "reintroduction": "术后根据感染情况重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "替卡西林钠",
+      "nomeComercial": "替卡西林（Ticar）",
+      "mecanismoAcao": "抑制细菌细胞壁合成，对β-内酰胺酶不稳定",
+      "farmacocinetica": "静脉注射，半衰期约1小时，经肾排泄",
+      "farmacodinamica": "对绿脓杆菌及部分革兰阳性菌有效",
+      "indicacoes": "呼吸道、泌尿道、腹腔、骨和关节感染",
+      "reacoesAdversas": "高钠血症、皮疹、恶心、静脉炎",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "静脉注射",
+      "doseMaxima": "每日24克",
+      "doseMinima": "每日3克",
+      "classificacao": "β-内酰胺类抗生素（羧基青霉素类）",
+      "apresentacao": "3克、5克瓶装（或与克拉维酸合用）",
+      "interacaoMedicamento": "减少口服避孕药效果，与抑菌药拮抗",
+      "posologia": "每4–6小时给予3克",
+      "armazenamento": "配制后冷藏，24小时内使用",
+      "preparo": "用0.9%氯化钠或5%葡萄糖稀释缓慢输注",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "青霉素过敏史",
+      "cuidadosMedicos": "长期使用需监测电解质和肾功能",
+      "cuidadosFarmaceuticos": "按规范稀释和保存",
+      "cuidadosEnfermagem": "关注高钠反应和过敏症状",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、FDA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ocitocina",
+      "suspension": "Suspender 24 horas antes do procedimento eletivo, salvo uso obstétrico planejado.",
+      "risk": "Risco de hipotensão, taquicardia reflexa, retenção hídrica e interações com anestésicos, especialmente halogenados. Potencial de causar ruptura uterina em grávidas.",
+      "reintroduction": "Reintroduzir sob monitoramento hemodinâmico em ambiente hospitalar, conforme necessidade obstétrica ou indicação médica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ocitocina",
+      "nomeComercial": "Syntocinon, Oxitocil, Ocitoplus, Pitocin (EUA), Syntocin",
+      "mecanismoAcao": "Hormônio peptídico que atua em receptores específicos no músculo uterino, promovendo contrações uterinas rítmicas e contração de células mioepiteliais da mama.",
+      "farmacocinetica": "Meia-vida de 3-5 minutos; início rápido por via EV; metabolização hepática e renal; excreção na urina.",
+      "farmacodinamica": "Estimula o trabalho de parto e a ejeção de leite. Potencial de induzir vasodilatação sistêmica e efeitos antidiuréticos em altas doses.",
+      "indicacoes": "Indução e condução do trabalho de parto, controle de hemorragia pós-parto, estímulo à lactação.",
+      "reacoesAdversas": "Hipotensão, náuseas, taquicardia, retenção hídrica, arritmias, anafilaxia, ruptura uterina.",
+      "riscoGravidez": "Categoria C - Utilização restrita a cenários obstétricos com monitoramento.",
+      "riscoLactacao": "Seguro em doses fisiológicas para ejeção láctea.",
+      "administracao": "Via endovenosa ou intramuscular.",
+      "doseMaxima": "40 U em 24h para indução; até 80 U para hemorragia pós-parto (sob supervisão).",
+      "doseMinima": "0,5 a 1 U (IV lenta ou IM) em protocolos obstétricos.",
+      "classificacao": "Hormônio peptídico; uterotônico.",
+      "apresentacao": "Ampolas com 5 U/mL ou 10 U/mL.",
+      "interacaoMedicamento": "Potencializa efeito com prostaglandinas; interage com anestésicos voláteis (risco de hipotensão); risco de intoxicação hídrica com fluidos hipotônicos.",
+      "posologia": "Infusão contínua iniciada com 0,5–1 mU/min, titulada conforme resposta.",
+      "armazenamento": "Refrigerado (2–8°C), protegido da luz.",
+      "preparo": "Diluir em soro glicosado ou fisiológico conforme protocolo obstétrico.",
+      "solucoesCompatíveis": "Soro glicosado a 5%, soro fisiológico.",
+      "contraindicacoes": "Desproporção cefalopélvica, sofrimento fetal, cirurgia uterina prévia recente, hipersensibilidade.",
+      "cuidadosMedicos": "Monitorar frequência uterina, vitalidade fetal e status hemodinâmico materno.",
+      "cuidadosFarmaceuticos": "Checar estabilidade da solução e temperatura de conservação.",
+      "cuidadosEnfermagem": "Observar sinais de hiperestimulação uterina, sangramento e reações adversas.",
+      "fontesBibliograficas": "SBRA, ANVISA, FDA, WHO, Micromedex, UpToDate, Obstetric Guidelines ACOG"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Oxytocin",
+      "suspension": "Discontinue 24 hours before elective surgery, unless obstetrically indicated.",
+      "risk": "Risk of hypotension, reflex tachycardia, water retention, and interaction with volatile anesthetics. May cause uterine rupture if used improperly in pregnancy.",
+      "reintroduction": "Reintroduce under hospital supervision with hemodynamic monitoring when clinically indicated."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxytocin",
+      "nomeComercial": "Pitocin, Syntocinon, Oxytocil",
+      "mecanismoAcao": "Peptide hormone that binds to uterine receptors, causing rhythmic contractions and promoting milk ejection via myoepithelial contraction.",
+      "farmacocinetica": "Half-life 3–5 minutes; rapid onset IV; hepatic and renal metabolism; urinary excretion.",
+      "farmacodinamica": "Stimulates uterine contractions and milk ejection; may cause systemic vasodilation and antidiuretic effects in high doses.",
+      "indicacoes": "Labor induction/augmentation, postpartum hemorrhage control, milk ejection support.",
+      "reacoesAdversas": "Hypotension, tachycardia, nausea, water retention, uterine rupture, anaphylaxis.",
+      "riscoGravidez": "Category C – Use only with obstetric indication and monitoring.",
+      "riscoLactacao": "Safe for milk ejection at physiologic doses.",
+      "administracao": "IV or IM injection.",
+      "doseMaxima": "Up to 40 U/24h for induction; up to 80 U for hemorrhage management.",
+      "doseMinima": "0.5–1 U (slow IV or IM) depending on obstetric protocol.",
+      "classificacao": "Peptide hormone; uterotonic agent.",
+      "apresentacao": "Ampoules of 5 U/mL or 10 U/mL.",
+      "interacaoMedicamento": "Enhances prostaglandin effects; interacts with volatile anesthetics (hypotension risk); risk of hyponatremia with hypotonic IV fluids.",
+      "posologia": "Continuous IV infusion starting at 0.5–1 mU/min, adjusted to response.",
+      "armazenamento": "Refrigerate (2–8°C), protect from light.",
+      "preparo": "Dilute in D5W or saline per obstetric protocol.",
+      "solucoesCompatíveis": "D5W, normal saline.",
+      "contraindicacoes": "Cephalopelvic disproportion, fetal distress, recent uterine surgery, hypersensitivity.",
+      "cuidadosMedicos": "Monitor uterine activity, fetal status, and maternal hemodynamics.",
+      "cuidadosFarmaceuticos": "Check solution stability and cold chain integrity.",
+      "cuidadosEnfermagem": "Observe for uterine hyperstimulation, bleeding, and side effects.",
+      "fontesBibliograficas": "FDA, ACOG, WHO, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Oxitocina",
+      "suspension": "Suspender 24 horas antes de cirugía electiva, salvo indicación obstétrica.",
+      "risk": "Riesgo de hipotensión, taquicardia, retención hídrica e interacción con anestésicos. Posibilidad de ruptura uterina si se usa indebidamente.",
+      "reintroduction": "Reintroducir bajo vigilancia hospitalaria con monitoreo hemodinámico si está indicado."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxitocina",
+      "nomeComercial": "Syntocinon, Pitocin, Oxitoplus, Syntocin",
+      "mecanismoAcao": "Hormona que se une a receptores en el útero y las mamas, provocando contracciones y eyección de leche.",
+      "farmacocinetica": "Vida media 3–5 min; inicio rápido IV; metabolismo hepático y renal; excreción urinaria.",
+      "farmacodinamica": "Estimula el trabajo de parto y la eyección láctea. Efectos antidiuréticos a altas dosis.",
+      "indicacoes": "Inducción del parto, control del sangrado postparto, eyección de leche.",
+      "reacoesAdversas": "Hipotensión, náuseas, taquicardia, retención de líquidos, ruptura uterina, anafilaxia.",
+      "riscoGravidez": "Categoría C – Solo con indicación obstétrica.",
+      "riscoLactacao": "Seguro en dosis fisiológicas.",
+      "administracao": "Vía IV o IM.",
+      "doseMaxima": "40 U/día para inducción; hasta 80 U para hemorragias.",
+      "doseMinima": "0,5–1 U IV lenta o IM.",
+      "classificacao": "Hormona peptídica; uterotónica.",
+      "apresentacao": "Ampollas de 5 U/mL o 10 U/mL.",
+      "interacaoMedicamento": "Potencia prostaglandinas; interacción con anestésicos halogenados; riesgo de intoxicación hídrica.",
+      "posologia": "Infusión IV continua desde 0,5 mU/min, ajustar según respuesta.",
+      "armazenamento": "Refrigerar (2–8°C), proteger de la luz.",
+      "preparo": "Diluir en DAD o solución salina según protocolo.",
+      "solucoesCompatíveis": "DAD al 5%, solución salina.",
+      "contraindicacoes": "Desproporción pélvico-cefálica, sufrimiento fetal, cirugía uterina reciente.",
+      "cuidadosMedicos": "Monitorear contracciones, estado fetal y hemodinámica materna.",
+      "cuidadosFarmaceuticos": "Verificar estabilidad y cadena de frío.",
+      "cuidadosEnfermagem": "Vigilar hiperestimulación, sangrado y eventos adversos.",
+      "fontesBibliograficas": "OMS, Micromedex, FDA, ACOG"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "催产素",
+      "suspension": "择期手术前24小时停药，除非有产科指征。",
+      "risk": "可能导致低血压、反射性心动过速、水潴留，与麻醉剂相互作用。在妊娠晚期误用可能造成子宫破裂。",
+      "reintroduction": "需在医院中进行血流动力学监测下重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "催产素",
+      "nomeComercial": "催产素注射液，Pitocin，Syntocinon（进口名）",
+      "mecanismoAcao": "与子宫和平滑肌细胞受体结合，引起子宫收缩及乳腺肌上皮细胞挤压反应。",
+      "farmacocinetica": "半衰期3–5分钟；静脉起效快；肝肾代谢，经尿排泄。",
+      "farmacodinamica": "促进宫缩和泌乳反射；高剂量可致抗利尿作用和血管扩张。",
+      "indicacoes": "引产、助产、产后出血控制、促进泌乳。",
+      "reacoesAdversas": "低血压、恶心、心动过速、水中毒、子宫破裂、过敏反应。",
+      "riscoGravidez": "C类 – 仅用于产科医疗场景。",
+      "riscoLactacao": "适量使用可安全促进泌乳。",
+      "administracao": "静脉或肌肉注射。",
+      "doseMaxima": "24小时内不超过40 U；大出血时最多可用至80 U。",
+      "doseMinima": "0.5–1 U（IV或IM），依产科方案定。",
+      "classificacao": "激素类；子宫收缩药。",
+      "apresentacao": "5或10单位/mL安瓿。",
+      "interacaoMedicamento": "增强前列腺素效应；与挥发性麻醉剂合用可致低血压；稀释液不宜选低渗性液体。",
+      "posologia": "静脉滴注初始为0.5–1 mU/分钟，根据反应调整。",
+      "armazenamento": "2–8°C冷藏，避光保存。",
+      "preparo": "根据产科指引稀释于葡萄糖或生理盐水。",
+      "solucoesCompatíveis": "5%葡萄糖、0.9%生理盐水。",
+      "contraindicacoes": "胎儿盆腔不适、胎儿窘迫、近期剖宫产、对药物过敏。",
+      "cuidadosMedicos": "监测宫缩频率、胎儿心率和母体生命体征。",
+      "cuidadosFarmaceuticos": "确保药液稳定性和冷链存储。",
+      "cuidadosEnfermagem": "监控子宫过度刺激、阴道出血和药物反应。",
+      "fontesBibliograficas": "中国药典、FDA、WHO、Micromedex、ACOG指南"
+    }
+  }
+}

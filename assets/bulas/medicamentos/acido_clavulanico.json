@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido Clavulânico",
+      "suspension": "Não requer suspensão antes de cirurgia eletiva",
+      "risk": "Baixo risco perioperatório; pode causar desconforto gastrointestinal e aumento de transaminases",
+      "reintroduction": "Reintroduzir conforme controle infeccioso e função hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Clavulânico",
+      "nomeComercial": "Clavulin, Amoxiclav",
+      "mecanismoAcao": "Inibidor irreversível de β-lactamase; protege a amoxicilina da degradação",
+      "farmacocinetica": "Boa absorção oral; meia-vida ~1h; excreção renal",
+      "farmacodinamica": "Potencializa antibacteriano β-lactâmico contra produtores de β-lactamase",
+      "indicacoes": "Infecções respiratórias, urinárias, cutâneas, odontológicas",
+      "reacoesAdversas": "Diarreia, náusea, rash, elevação de TGO/TGP, colestase",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral ou intravenosa (com amoxicilina)",
+      "doseMaxima": "500mg/dose (clavulânico); 1g/dose (com amoxicilina)",
+      "doseMinima": "125mg/dia",
+      "classificacao": "Inibidor de β-lactamase",
+      "apresentacao": "Comprimidos (875/125mg, 500/125mg); suspensão 250/62,5mg; frasco IV",
+      "interacaoMedicamento": "Potencializa toxicidade hepática com metotrexato; reduz ação de contraceptivos orais",
+      "posologia": "500/125mg a 875/125mg VO 8/8h ou 12/12h; IV 1,2g a cada 8h",
+      "armazenamento": "Comprimido: ambiente; suspensão reconstituída: refrigerada por até 7 dias",
+      "preparo": "Reconstituir com água (VO); IV diluir em SF ou SG5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Icterícia colestática prévia por penicilinas, hipersensibilidade",
+      "cuidadosMedicos": "Avaliar função hepática e renal se uso prolongado",
+      "cuidadosFarmaceuticos": "Orientar sobre agitação da suspensão; administrar com alimentos",
+      "cuidadosEnfermagem": "Observar sintomas gastrointestinais e hepatotoxicidade",
+      "fontesBibliograficas": "Micromedex, ANVISA, UpToDate, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Clavulanic Acid",
+      "suspension": "No need to stop prior to surgery",
+      "risk": "Low; GI upset, mild liver enzyme elevation, rare allergic reaction",
+      "reintroduction": "Restart based on infection control and liver tolerance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clavulanate potassium",
+      "nomeComercial": "Augmentin (with amoxicillin)",
+      "mecanismoAcao": "Irreversibly inhibits β-lactamase; restores amoxicillin activity",
+      "farmacocinetica": "Oral absorption; t½ ~1h; renal excretion",
+      "farmacodinamica": "Enhances spectrum of amoxicillin",
+      "indicacoes": "Respiratory, urinary, skin, dental infections",
+      "reacoesAdversas": "Diarrhea, nausea, ALT/AST rise, cholestatic jaundice",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe",
+      "administracao": "Oral or IV (with amoxicillin)",
+      "doseMaxima": "500mg/dose (clavulanate)",
+      "doseMinima": "125mg/day",
+      "classificacao": "β-lactamase inhibitor",
+      "apresentacao": "875/125mg, 500/125mg tablets; 250/62.5mg susp; IV vial",
+      "interacaoMedicamento": "Affects methotrexate, OCPs",
+      "posologia": "PO: 875/125mg q12h or 500/125mg q8h; IV: 1.2g q8h",
+      "armazenamento": "Tabs: room temp; suspension: refrigerate after reconstitution",
+      "preparo": "Dilute IV in NS or D5W; shake oral suspension",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "History of cholestatic jaundice or penicillin allergy",
+      "cuidadosMedicos": "Monitor LFTs in prolonged therapy",
+      "cuidadosFarmaceuticos": "Counsel on food intake and GI symptoms",
+      "cuidadosEnfermagem": "Observe GI and allergic symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido Clavulánico",
+      "suspension": "No requiere suspensión antes de cirugía",
+      "risk": "Riesgo bajo; posibles efectos GI o hepáticos leves",
+      "reintroduction": "Reanudar según estado clínico y función hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido clavulánico",
+      "nomeComercial": "Augmentin, Clavulin",
+      "mecanismoAcao": "Inhibe β-lactamasas, protegiendo a la amoxicilina",
+      "farmacocinetica": "Absorción oral buena; vida media ~1h; eliminación renal",
+      "farmacodinamica": "Amplía espectro de la amoxicilina",
+      "indicacoes": "Infecciones respiratorias, urinarias, odontológicas, piel",
+      "reacoesAdversas": "Diarrea, náusea, ictericia colestásica (raro)",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Seguro",
+      "administracao": "VO o IV (con amoxicilina)",
+      "doseMaxima": "500mg/dosis (clavulánico)",
+      "doseMinima": "125mg/día",
+      "classificacao": "Inhibidor de β-lactamasa",
+      "apresentacao": "875/125mg, 500/125mg comprimidos, suspensión 250/62,5mg",
+      "interacaoMedicamento": "Anticonceptivos orales, metotrexato",
+      "posologia": "VO: 875/125mg cada 12h; IV: 1,2g cada 8h",
+      "armazenamento": "Suspensión: refrigerar tras mezclar",
+      "preparo": "Agitar suspensión; diluir IV en SSF o SG5%",
+      "solucoesCompatíveis": "SSF, SG5%",
+      "contraindicacoes": "Ictericia colestásica previa, alergia a penicilinas",
+      "cuidadosMedicos": "Control hepático si tratamiento prolongado",
+      "cuidadosFarmaceuticos": "Indicar toma con comida y agitación de suspensión",
+      "cuidadosEnfermagem": "Observar náuseas, rash, ictericia",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "克拉维酸",
+      "suspension": "手术前无需停药",
+      "risk": "胃肠道反应、轻度肝酶升高可能发生",
+      "reintroduction": "术后根据感染和肝功能情况继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "克拉维酸钾",
+      "nomeComercial": "Augmentin",
+      "mecanismoAcao": "不可逆抑制β-内酰胺酶",
+      "farmacocinetica": "口服吸收良好，半衰期约1小时，经肾排泄",
+      "farmacodinamica": "增强阿莫西林对产酶细菌活性",
+      "indicacoes": "呼吸道、泌尿道、皮肤、牙科感染",
+      "reacoesAdversas": "腹泻、恶心、转氨酶升高、皮疹",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可哺乳",
+      "administracao": "口服或静脉（与阿莫西林合用）",
+      "doseMaxima": "每次克拉维酸500mg",
+      "doseMinima": "每日125mg",
+      "classificacao": "β-内酰胺酶抑制剂",
+      "apresentacao": "875/125mg、500/125mg片剂，口服液250/62.5mg，注射剂",
+      "interacaoMedicamento": "影响口服避孕药、甲氨蝶呤代谢",
+      "posologia": "口服每8–12小时1次，静脉1.2g每8小时",
+      "armazenamento": "重配后口服液冷藏保存",
+      "preparo": "加水摇匀或用0.9%氯化钠/5%葡萄糖稀释注射",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "青霉素过敏、胆汁淤积史",
+      "cuidadosMedicos": "监测肝功能和肾功能",
+      "cuidadosFarmaceuticos": "随餐服用、摇匀混悬液",
+      "cuidadosEnfermagem": "注意恶心、皮疹、黄疸",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

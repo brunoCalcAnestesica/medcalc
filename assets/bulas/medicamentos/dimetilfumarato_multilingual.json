@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Dimetilfumarato",
+      "suspension": "Suspender 3 dias antes da cirurgia eletiva",
+      "risk": "Risco de imunossupressão, linfopenia, infecções oportunistas e possível piora na cicatrização; atenção redobrada se houver uso concomitante de corticosteroides ou risco infeccioso elevado",
+      "reintroduction": "Reintroduzir somente após cicatrização adequada e ausência de sinais infecciosos, com monitoramento laboratorial (leucograma e linfócitos)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dimetilfumarato",
+      "nomeComercial": "Tecfidera, Skilarence",
+      "mecanismoAcao": "Atua via via da via do fator nuclear eritroide 2 (Nrf2), promovendo efeitos antioxidantes e imunomodulatórios",
+      "farmacocinetica": "Absorção rápida oral, metabolizado por hidrólise e excretado principalmente como CO₂ na respiração",
+      "farmacodinamica": "Reduz a inflamação e o estresse oxidativo, modulando a resposta imune em esclerose múltipla",
+      "indicacoes": "Tratamento da esclerose múltipla remitente-recorrente",
+      "reacoesAdversas": "Rubor, distúrbios gastrointestinais, linfopenia, aumento de enzimas hepáticas",
+      "riscoGravidez": "Categoria C – usar apenas se o benefício justificar o risco fetal",
+      "riscoLactacao": "Desconhecido se excretado no leite; cautela recomendada",
+      "administracao": "Via oral",
+      "doseMaxima": "480mg/dia",
+      "doseMinima": "120mg/dia",
+      "classificacao": "Imunomodulador oral",
+      "apresentacao": "Cápsulas de 120mg e 240mg",
+      "interacaoMedicamento": "Potencial interação com imunossupressores, antivirais, medicamentos hepatotóxicos",
+      "posologia": "Inicial 120mg 2x/dia por 7 dias, depois 240mg 2x/dia",
+      "armazenamento": "Manter em temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao fármaco, linfopenia severa, infecção ativa grave",
+      "cuidadosMedicos": "Monitorar contagem de linfócitos, função hepática e sinais infecciosos",
+      "cuidadosFarmaceuticos": "Verificar validade e integridade das cápsulas",
+      "cuidadosEnfermagem": "Observar sinais de infecção, rubor e efeitos gastrointestinais",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, ANVISA, SBEM, Medscape"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Dimethyl fumarate",
+      "suspension": "Suspend 3 days before elective surgery",
+      "risk": "Risk of immunosuppression, lymphopenia, opportunistic infections, and delayed wound healing; special caution if combined with corticosteroids or high infection risk",
+      "reintroduction": "Reintroduce only after proper wound healing and absence of infection signs, with lab monitoring (CBC and lymphocytes)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dimethyl fumarate",
+      "nomeComercial": "Tecfidera, Skilarence",
+      "mecanismoAcao": "Activates the Nrf2 pathway, exerting antioxidant and immunomodulatory effects",
+      "farmacocinetica": "Rapid oral absorption, metabolized by esterases, exhaled as CO₂",
+      "farmacodinamica": "Reduces oxidative stress and modulates immune response in multiple sclerosis",
+      "indicacoes": "Treatment of relapsing-remitting multiple sclerosis",
+      "reacoesAdversas": "Flushing, gastrointestinal upset, lymphopenia, elevated liver enzymes",
+      "riscoGravidez": "Category C – use only if potential benefit outweighs fetal risk",
+      "riscoLactacao": "Unknown if excreted in breast milk; use with caution",
+      "administracao": "Oral route",
+      "doseMaxima": "480mg/day",
+      "doseMinima": "120mg/day",
+      "classificacao": "Oral immunomodulatory agent",
+      "apresentacao": "Capsules of 120mg and 240mg",
+      "interacaoMedicamento": "May interact with immunosuppressants, antivirals, hepatotoxic drugs",
+      "posologia": "Start with 120mg BID for 7 days, then 240mg BID",
+      "armazenamento": "Store at 15–30°C, protected from light and moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, severe lymphopenia, active serious infections",
+      "cuidadosMedicos": "Monitor lymphocyte counts, liver function, and signs of infection",
+      "cuidadosFarmaceuticos": "Check capsule integrity and expiration",
+      "cuidadosEnfermagem": "Watch for infections, flushing, and GI side effects",
+      "fontesBibliograficas": "FDA, EMA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fumarato de dimetilo",
+      "suspension": "Suspender 3 días antes de cirugía electiva",
+      "risk": "Riesgo de inmunosupresión, linfopenia, infecciones oportunistas y mala cicatrización; precaución si hay uso de corticosteroides o riesgo infeccioso",
+      "reintroduction": "Reintroducir solo tras cicatrización adecuada y sin signos de infección, con control de laboratorio (leucocitos y linfocitos)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fumarato de dimetilo",
+      "nomeComercial": "Tecfidera, Skilarence",
+      "mecanismoAcao": "Activa la vía Nrf2, generando efectos antioxidantes e inmunomoduladores",
+      "farmacocinetica": "Absorción rápida oral, metabolizado por esterasas, eliminado como CO₂",
+      "farmacodinamica": "Disminuye la inflamación y el estrés oxidativo, modulando la inmunidad",
+      "indicacoes": "Esclerosis múltiple remitente-recurrente",
+      "reacoesAdversas": "Rubor, molestias gastrointestinales, linfopenia, enzimas hepáticas elevadas",
+      "riscoGravidez": "Categoría C – solo si el beneficio supera el riesgo fetal",
+      "riscoLactacao": "Se desconoce si se excreta en la leche; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "480mg/día",
+      "doseMinima": "120mg/día",
+      "classificacao": "Agente inmunomodulador oral",
+      "apresentacao": "Cápsulas de 120mg y 240mg",
+      "interacaoMedicamento": "Interacción posible con inmunosupresores, antivirales, hepatotóxicos",
+      "posologia": "Inicio con 120mg 2 veces/día por 7 días, luego 240mg 2 veces/día",
+      "armazenamento": "15–30°C, protegido de luz y humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, linfopenia severa, infecciones graves activas",
+      "cuidadosMedicos": "Monitoreo de linfocitos, función hepática, infecciones",
+      "cuidadosFarmaceuticos": "Revisar cápsulas y vencimiento",
+      "cuidadosEnfermagem": "Observar infecciones, rubor y molestias GI",
+      "fontesBibliograficas": "EMA, FDA, Medscape, ANMAT, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "富马酸二甲酯",
+      "suspension": "术前3天停药",
+      "risk": "存在免疫抑制、淋巴细胞减少、机会性感染及伤口愈合延迟的风险；如合用糖皮质激素或感染风险高，应特别注意",
+      "reintroduction": "在伤口愈合良好且无感染迹象后可重新使用，并监测血液学参数（白细胞和淋巴细胞）"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "富马酸二甲酯",
+      "nomeComercial": "Tecfidera, Skilarence",
+      "mecanismoAcao": "通过激活Nrf2通路，发挥抗氧化和免疫调节作用",
+      "farmacocinetica": "口服迅速吸收，经酯酶代谢，通过呼吸道排出CO₂",
+      "farmacodinamica": "减少氧化应激和免疫活性，改善多发性硬化症症状",
+      "indicacoes": "复发缓解型多发性硬化症",
+      "reacoesAdversas": "潮红、胃肠道反应、淋巴细胞减少、肝酶升高",
+      "riscoGravidez": "C类 – 仅在利益大于胎儿风险时使用",
+      "riscoLactacao": "是否经乳汁排泄尚不明确，建议谨慎使用",
+      "administracao": "口服",
+      "doseMaxima": "每日480毫克",
+      "doseMinima": "每日120毫克",
+      "classificacao": "口服免疫调节剂",
+      "apresentacao": "120毫克与240毫克胶囊",
+      "interacaoMedicamento": "可能与免疫抑制剂、抗病毒药、肝毒性药物相互作用",
+      "posologia": "起始剂量120mg每日两次，7天后增加至240mg每日两次",
+      "armazenamento": "15–30°C，避光避潮保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "过敏、严重淋巴细胞减少、严重感染",
+      "cuidadosMedicos": "监测淋巴细胞计数、肝功能和感染迹象",
+      "cuidadosFarmaceuticos": "检查胶囊完整性与有效期",
+      "cuidadosEnfermagem": "观察感染症状、潮红及消化道反应",
+      "fontesBibliograficas": "中国药典、EMA、FDA、Micromedex"
+    }
+  }
+}

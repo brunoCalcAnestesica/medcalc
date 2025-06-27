@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tolcapona",
+      "suspension": "Suspender 24 a 48 horas antes de cirurgias eletivas com risco hepático ou necessidade de jejum prolongado",
+      "risk": "Hepatotoxicidade grave, discinesia, hipotensão ortostática, coloração escura da urina, diarreia, sonolência, confusão",
+      "reintroduction": "Reintroduzir após estabilização hepática e disponibilidade de via oral, em até 24–48h"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tolcapona",
+      "nomeComercial": "Tasmar",
+      "mecanismoAcao": "Inibidor seletivo e reversível da COMT; prolonga meia-vida e ação da levodopa no SNC",
+      "farmacocinetica": "VO; biodisponibilidade ~65%; T½ ~2–3h; metabolizado no fígado (glucuronidação); excreção renal/fecal",
+      "farmacodinamica": "Inibe metabolismo periférico de levodopa, aumentando sua biodisponibilidade cerebral",
+      "indicacoes": "Doença de Parkinson com flutuações motoras não controladas com levodopa/carbidopa",
+      "reacoesAdversas": "Discinesia, náusea, sonolência, hepatite fulminante, confusão, diarreia, hipotensão postural",
+      "riscoGravidez": "Categoria C – usar apenas se necessário",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "VO, 100mg 3x/dia, administrado junto à levodopa/carbidopa",
+      "doseMaxima": "300mg/dia (100mg 3x/dia)",
+      "doseMinima": "100mg/dia",
+      "classificacao": "Inibidor da catecol-O-metiltransferase (COMT)",
+      "apresentacao": "Comprimidos de 100mg",
+      "interacaoMedicamento": "Aumenta efeito de levodopa; pode interagir com drogas hepatotóxicas e inibidores da MAO",
+      "posologia": "100mg VO 3x/dia com levodopa/carbidopa",
+      "armazenamento": "Temperatura ambiente, proteger da umidade",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença hepática ativa, aumento persistente de transaminases, história de hepatotoxicidade com tolcapona",
+      "cuidadosMedicos": "Monitorar TGO/TGP semanal nos primeiros 6 meses; suspender se TGP >2x LSN",
+      "cuidadosFarmaceuticos": "Educar sobre hepatotoxicidade, reforçar adesão, manter comidamento da levodopa",
+      "cuidadosEnfermagem": "Observar coloração da urina, sonolência, sinais de hepatotoxicidade",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tolcapone",
+      "suspension": "Hold 24–48h before surgery if liver stress or prolonged fasting is expected",
+      "risk": "Severe hepatotoxicity, dyskinesia, hypotension, sleepiness, hallucinations, urine discoloration",
+      "reintroduction": "Restart after LFTs stable and oral route available (24–48h postop)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tolcapone",
+      "nomeComercial": "Tasmar",
+      "mecanismoAcao": "Reversible COMT inhibitor; enhances levodopa levels in CNS",
+      "farmacocinetica": "Oral; T½ ~2–3h; hepatic glucuronidation; fecal and renal excretion",
+      "farmacodinamica": "Prevents peripheral degradation of levodopa; increases duration of effect",
+      "indicacoes": "Parkinson’s disease with motor fluctuations",
+      "reacoesAdversas": "Liver failure, dyskinesia, diarrhea, nausea, sleepiness, confusion",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not advised",
+      "administracao": "100mg PO TID with levodopa/carbidopa",
+      "doseMaxima": "300mg/day",
+      "doseMinima": "100mg/day",
+      "classificacao": "COMT inhibitor",
+      "apresentacao": "100mg tablets",
+      "interacaoMedicamento": "MAO inhibitors, hepatotoxic agents, enhances levodopa",
+      "posologia": "100mg TID with levodopa",
+      "armazenamento": "Store at room temp, avoid humidity",
+      "preparo": "No prep needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active liver disease, ALT/AST >2× ULN, prior tolcapone liver toxicity",
+      "cuidadosMedicos": "Weekly LFTs for 6 months; discontinue if ALT/AST ↑",
+      "cuidadosFarmaceuticos": "Educate on liver risk, coadmin timing with levodopa",
+      "cuidadosEnfermagem": "Watch for jaundice, dark urine, GI symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tolcapona",
+      "suspension": "Suspender 24–48h antes si hay riesgo hepático o ayuno prolongado",
+      "risk": "Hepatotoxicidad, discinesia, hipotensión, confusión, diarrea, coloración urinaria",
+      "reintroduction": "Reiniciar tras función hepática estable y vía oral disponible"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tolcapona",
+      "nomeComercial": "Tasmar",
+      "mecanismoAcao": "Inhibidor reversible de COMT; aumenta biodisponibilidad de levodopa",
+      "farmacocinetica": "VO; T½ 2–3h; metabolismo hepático; excreción renal/fecal",
+      "farmacodinamica": "Inhibe degradación periférica de levodopa",
+      "indicacoes": "Parkinson con fluctuaciones motoras",
+      "reacoesAdversas": "Discinesia, hepatotoxicidad, diarrea, alucinaciones, sedación",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "100mg VO 3×/día con levodopa/carbidopa",
+      "doseMaxima": "300mg/día",
+      "doseMinima": "100mg/día",
+      "classificacao": "Inhibidor COMT",
+      "apresentacao": "Comprimidos 100mg",
+      "interacaoMedicamento": "IMAO, levodopa, hepatotóxicos",
+      "posologia": "100mg tres veces al día con levodopa",
+      "armazenamento": "Ambiente seco y fresco",
+      "preparo": "Oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Enfermedad hepática activa, transaminasas elevadas",
+      "cuidadosMedicos": "Control semanal TGO/TGP durante 6 meses",
+      "cuidadosFarmaceuticos": "Explicar riesgo hepático, horario de toma",
+      "cuidadosEnfermagem": "Observar ictericia, confusión, diarrea",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "托卡朋",
+      "suspension": "术前24–48小时停药，特别是肝功能异常或术中禁食",
+      "risk": "肝毒性、异动症、低血压、嗜睡、幻觉、尿液变色",
+      "reintroduction": "术后口服恢复且肝酶正常后再用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "托卡朋",
+      "nomeComercial": "Tasmar",
+      "mecanismoAcao": "可逆COMT抑制剂，延长左旋多巴作用时间",
+      "farmacocinetica": "口服；T½ 2–3小时；肝代谢；肾/粪排泄",
+      "farmacodinamica": "抑制COMT，延缓左旋多巴降解",
+      "indicacoes": "帕金森病运动波动患者",
+      "reacoesAdversas": "肝酶升高、运动障碍、腹泻、嗜睡、尿黄、幻觉",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "不推荐",
+      "administracao": "每日三次100mg，需与左旋多巴同服",
+      "doseMaxima": "每日300mg",
+      "doseMinima": "每日100mg",
+      "classificacao": "COMT抑制剂",
+      "apresentacao": "100mg片剂",
+      "interacaoMedicamento": "MAOI、左旋多巴、肝毒药物",
+      "posologia": "100mg TID口服，与左旋多巴同步",
+      "armazenamento": "室温干燥保存",
+      "preparo": "口服使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "肝病、转氨酶升高、对药物过敏",
+      "cuidadosMedicos": "每周监测肝功能×6个月",
+      "cuidadosFarmaceuticos": "强调肝毒风险，指导联合用药时间",
+      "cuidadosEnfermagem": "观察黄疸、恶心、运动过度、意识改变",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

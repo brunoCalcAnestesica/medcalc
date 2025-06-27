@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lumefantrina",
+      "suspension": "Suspender 48 horas antes da cirurgia eletiva",
+      "risk": "Risco de prolongamento do intervalo QT e interação com anestésicos",
+      "reintroduction": "Reintroduzir após a cirurgia, com ECG normal e ausência de arritmias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lumefantrina",
+      "nomeComercial": "Coartem (em associação com artemeter)",
+      "mecanismoAcao": "Interfere na detoxificação da hemoglobina no parasita, causando acúmulo de heme tóxico",
+      "farmacocinetica": "Via oral, absorção aumentada com alimentos gordurosos, meia-vida de 3–6 dias",
+      "farmacodinamica": "Antimalárico esquizonticida eficaz contra Plasmodium falciparum",
+      "indicacoes": "Tratamento da malária não complicada por P. falciparum",
+      "reacoesAdversas": "Cefaleia, tontura, prolongamento de QT, náusea",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar durante a lactação; sem dados suficientes",
+      "administracao": "Oral, sempre com alimento gorduroso",
+      "doseMaxima": "480 mg (em combinação com artemeter) por dose",
+      "doseMinima": "240 mg (com artemeter) por dose",
+      "classificacao": "Antimalárico (em combinação com artemeter)",
+      "apresentacao": "Comprimidos contendo 20 mg de artemeter + 120 mg de lumefantrina",
+      "interacaoMedicamento": "Interage com fármacos que prolongam QT (halotano, amiodarona)",
+      "posologia": "6 doses divididas ao longo de 3 dias",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso oral direto, não fracionar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Prolongamento de QT, arritmias, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos e sinais de toxicidade cardíaca",
+      "cuidadosFarmaceuticos": "Administrar com alimentos ricos em gordura para melhor absorção",
+      "cuidadosEnfermagem": "Observar sinais de arritmia, tontura, náuseas",
+      "fontesBibliograficas": "ANVISA, WHO, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lumefantrine",
+      "suspension": "Discontinue 48 hours before elective surgery",
+      "risk": "Risk of QT prolongation and anesthetic interactions",
+      "reintroduction": "Restart postoperatively with normal ECG and no arrhythmias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lumefantrine",
+      "nomeComercial": "Coartem (with artemether)",
+      "mecanismoAcao": "Disrupts heme detoxification in parasite leading to toxic heme accumulation",
+      "farmacocinetica": "Oral, absorption increased with fatty food, half-life 3–6 days",
+      "farmacodinamica": "Schizonticidal antimalarial effective against Plasmodium falciparum",
+      "indicacoes": "Treatment of uncomplicated P. falciparum malaria",
+      "reacoesAdversas": "Headache, dizziness, QT prolongation, nausea",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid while breastfeeding; insufficient data",
+      "administracao": "Oral, always with fatty meal",
+      "doseMaxima": "480 mg per dose (with artemether)",
+      "doseMinima": "240 mg per dose",
+      "classificacao": "Antimalarial (combined with artemether)",
+      "apresentacao": "Tablets containing 20 mg artemether + 120 mg lumefantrine",
+      "interacaoMedicamento": "Interacts with QT-prolonging agents (halothane, amiodarone)",
+      "posologia": "6 divided doses over 3 days",
+      "armazenamento": "Room temperature, protect from moisture",
+      "preparo": "Direct oral use, do not split tablets",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "QT prolongation, arrhythmias, hypersensitivity",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, cardiac signs",
+      "cuidadosFarmaceuticos": "Administer with fatty foods to enhance absorption",
+      "cuidadosEnfermagem": "Watch for arrhythmias, dizziness, nausea",
+      "fontesBibliograficas": "FDA, WHO, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lumefantrina",
+      "suspension": "Suspender 48 horas antes de cirugía electiva",
+      "risk": "Riesgo de prolongación de QT e interacción con anestésicos",
+      "reintroduction": "Reintroducir después de cirugía si ECG es normal y sin arritmias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lumefantrina",
+      "nomeComercial": "Coartem (con arteméter)",
+      "mecanismoAcao": "Interfiere en la detoxificación del hemo en el parásito",
+      "farmacocinetica": "Oral, mayor absorción con alimentos grasos, vida media 3–6 días",
+      "farmacodinamica": "Antipalúdico esquizonticida eficaz contra P. falciparum",
+      "indicacoes": "Malaria no complicada por P. falciparum",
+      "reacoesAdversas": "Cefalea, mareos, QT largo, náuseas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante lactancia; datos limitados",
+      "administracao": "Oral con alimentos grasos",
+      "doseMaxima": "480 mg por dosis (con arteméter)",
+      "doseMinima": "240 mg por dosis",
+      "classificacao": "Antipalúdico (en combinación con arteméter)",
+      "apresentacao": "Tabletas con 20 mg arteméter + 120 mg lumefantrina",
+      "interacaoMedicamento": "Interacción con fármacos que prolongan QT",
+      "posologia": "6 dosis divididas en 3 días",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "Uso directo, no fraccionar",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "QT prolongado, arritmias, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear ECG, electrolitos, función cardíaca",
+      "cuidadosFarmaceuticos": "Dar con alimentos grasos para mejorar absorción",
+      "cuidadosEnfermagem": "Observar arritmias, náuseas, mareos",
+      "fontesBibliograficas": "AEMPS, WHO, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "卢美芬特林",
+      "suspension": "择期手术前48小时停药",
+      "risk": "可能延长QT间期，与麻醉药物相互作用",
+      "reintroduction": "术后若心电图正常，可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "卢美芬特林",
+      "nomeComercial": "可阿特（与青蒿琥酯联合）",
+      "mecanismoAcao": "干扰疟原虫内血红素的解毒机制，导致毒性血红素积聚",
+      "farmacocinetica": "口服，脂肪食物可增加吸收，半衰期3–6天",
+      "farmacodinamica": "对恶性疟原虫有效的裂殖体抑制剂",
+      "indicacoes": "治疗恶性疟原虫引起的非复杂性疟疾",
+      "reacoesAdversas": "头痛、头晕、QT延长、恶心",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期应避免使用",
+      "administracao": "口服，随脂肪食物服用",
+      "doseMaxima": "每次480毫克（与青蒿琥酯合用）",
+      "doseMinima": "每次240毫克",
+      "classificacao": "抗疟药（与青蒿琥酯联合）",
+      "apresentacao": "每片含青蒿琥酯20mg + 卢美芬特林120mg",
+      "interacaoMedicamento": "与延长QT的药物（如胺碘酮）相互作用",
+      "posologia": "3天6次服用方案",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "整片口服，不可分割",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "QT延长、心律失常、过敏",
+      "cuidadosMedicos": "监测ECG、电解质及心脏毒性",
+      "cuidadosFarmaceuticos": "建议与富含脂肪的食物一起服用以增加吸收",
+      "cuidadosEnfermagem": "观察是否有心律紊乱、恶心、头晕等反应",
+      "fontesBibliograficas": "中国药典、WHO、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tisagenlecleucel",
+      "suspension": "Não aplicável; tratamento único, administrado em ambiente hospitalar sob prescrição oncológica.",
+      "risk": "Risco de SRC grave, neurotoxicidade, pancitopenia e infecções oportunistas. Pode requerer internação prolongada e suporte intensivo.",
+      "reintroduction": "Não aplicável; re-administração fora do protocolo padrão deve ser avaliada em estudos clínicos."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tisagenlecleucel",
+      "nomeComercial": "Kymriah",
+      "mecanismoAcao": "Terapia celular CAR-T composta por linfócitos T autólogos geneticamente modificados para expressar um receptor quimérico (CAR) que reconhece o antígeno CD19 em células B tumorais.",
+      "farmacocinetica": "Após infusão única IV, a expansão celular é observada em 3–14 dias; a persistência pode durar meses; depuração depende da resposta imune e carga tumoral.",
+      "farmacodinamica": "Lise dirigida de células B CD19+ por citotoxicidade mediada por células T ativadas.",
+      "indicacoes": "Leucemia linfoblástica aguda (LLA) B refratária ou recidivada em pacientes até 25 anos; linfoma difuso de grandes células B recidivado/refratário em adultos.",
+      "reacoesAdversas": "Síndrome de liberação de citocinas (SRC), neurotoxicidade, infecções graves, hipogamaglobulinemia, anemia, plaquetopenia.",
+      "riscoGravidez": "Categoria D – contraindicado.",
+      "riscoLactacao": "Contraindicado.",
+      "administracao": "Infusão IV única, precedida de linfodepleção com fludarabina + ciclofosfamida.",
+      "doseMaxima": "Baseada no peso: 0,2 a 5 × 10^8 células viáveis.",
+      "doseMinima": "Individualizada conforme protocolo.",
+      "classificacao": "Imunoterapia celular autóloga (CAR-T anti-CD19).",
+      "apresentacao": "Suspensão celular congelada em criobolsa.",
+      "interacaoMedicamento": "Evitar uso concomitante de imunossupressores (como corticosteroides) imediatamente antes ou após a infusão.",
+      "posologia": "Infusão única IV, após linfodepleção, com pré-medicação antitérmica/antihistamínica.",
+      "armazenamento": "Congelado em vapor de nitrogênio ≤ -150 ºC; não recongelar após descongelamento.",
+      "preparo": "Descongelar imediatamente antes da infusão; uso exclusivo hospitalar com equipe treinada.",
+      "solucoesCompatíveis": "Não se aplica.",
+      "contraindicacoes": "Infecção ativa grave, gravidez, lactação, hipersensibilidade a qualquer componente.",
+      "cuidadosMedicos": "Monitorar por ≥10 dias após infusão para SRC e neurotoxicidade; manter tocilizumabe disponível.",
+      "cuidadosFarmaceuticos": "Conferir identidade do paciente e produto; garantir rastreabilidade e cadeia de frio.",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, sintomas neurológicos, infecções e eventos hematológicos.",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, UpToDate, Micromedex, bula Kymriah."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tisagenlecleucel",
+      "suspension": "Not applicable; single treatment administered in a hospital setting under oncologist prescription.",
+      "risk": "Risk of severe CRS, neurotoxicity, pancytopenia, and opportunistic infections. May require prolonged hospitalization and intensive support.",
+      "reintroduction": "Not applicable; re-administration outside standard protocol should be evaluated in clinical trials."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tisagenlecleucel",
+      "nomeComercial": "Kymriah",
+      "mecanismoAcao": "CAR-T cell therapy composed of autologous T lymphocytes genetically modified to express a chimeric antigen receptor (CAR) that recognizes CD19 antigen on tumor B cells.",
+      "farmacocinetica": "After a single IV infusion, cellular expansion is observed in 3–14 days; persistence can last for months; clearance depends on immune response and tumor burden.",
+      "farmacodinamica": "Targeted lysis of CD19+ B cells via cytotoxicity mediated by activated T-cells.",
+      "indicacoes": "Refractory or relapsed B-cell acute lymphoblastic leukemia (ALL) in patients up to 25 years; relapsed/refractory diffuse large B-cell lymphoma in adults.",
+      "reacoesAdversas": "Cytokine release syndrome (CRS), neurotoxicity, severe infections, hypogammaglobulinemia, anemia, thrombocytopenia.",
+      "riscoGravidez": "Category D – contraindicated.",
+      "riscoLactacao": "Contraindicated.",
+      "administracao": "Single IV infusion, preceded by lymphodepletion with fludarabine + cyclophosphamide.",
+      "doseMaxima": "Weight-based: 0.2 to 5 × 10^8 viable cells.",
+      "doseMinima": "Individualized per protocol.",
+      "classificacao": "Autologous cellular immunotherapy (anti-CD19 CAR-T).",
+      "apresentacao": "Frozen cell suspension in cryobag.",
+      "interacaoMedicamento": "Avoid concomitant use of immunosuppressants (such as corticosteroids) immediately before or after infusion.",
+      "posologia": "Single IV infusion after lymphodepletion, with premedication (antipyretic/antihistamine).",
+      "armazenamento": "Store frozen in nitrogen vapor ≤ -150 ºC; do not refreeze after thawing.",
+      "preparo": "Thaw immediately before infusion; hospital use only with trained staff.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Severe active infection, pregnancy, lactation, hypersensitivity to any component.",
+      "cuidadosMedicos": "Monitor for ≥10 days after infusion for CRS and neurotoxicity; keep tocilizumab available.",
+      "cuidadosFarmaceuticos": "Verify patient and product identity; ensure traceability and cold chain.",
+      "cuidadosEnfermagem": "Monitor vital signs, neurological symptoms, infections, and hematologic events.",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, UpToDate, Micromedex, Kymriah package insert."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tisagenlecleucel",
+      "suspension": "No aplicable; tratamiento único, administrado en entorno hospitalario bajo prescripción oncológica.",
+      "risk": "Riesgo de síndrome de liberación de citocinas grave, neurotoxicidad, pancitopenia e infecciones oportunistas. Puede requerir hospitalización prolongada y soporte intensivo.",
+      "reintroduction": "No aplicable; la readministración fuera del protocolo estándar debe evaluarse en estudios clínicos."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tisagenlecleucel",
+      "nomeComercial": "Kymriah",
+      "mecanismoAcao": "Terapia celular CAR-T compuesta por linfocitos T autólogos modificados genéticamente para expresar un receptor quimérico (CAR) que reconoce el antígeno CD19 en células B tumorales.",
+      "farmacocinetica": "Tras una infusión única IV, se observa expansión celular en 3-14 días; la persistencia puede durar meses; la depuración depende de la respuesta inmune y la carga tumoral.",
+      "farmacodinamica": "Lisis dirigida de células B CD19+ por citotoxicidad mediada por células T activadas.",
+      "indicacoes": "Leucemia linfoblástica aguda (LLA) B refractaria o recidivante en pacientes hasta 25 años; linfoma difuso de células B grandes recidivante/refractario en adultos.",
+      "reacoesAdversas": "Síndrome de liberación de citocinas (SRC), neurotoxicidad, infecciones graves, hipogammaglobulinemia, anemia, trombocitopenia.",
+      "riscoGravidez": "Categoría D – contraindicado.",
+      "riscoLactacao": "Contraindicado.",
+      "administracao": "Infusión IV única, precedida de linfodepleción con fludarabina + ciclofosfamida.",
+      "doseMaxima": "Basada en el peso: 0,2 a 5 × 10^8 células viables.",
+      "doseMinima": "Individualizada según protocolo.",
+      "classificacao": "Inmunoterapia celular autóloga (CAR-T anti-CD19).",
+      "apresentacao": "Suspensión celular congelada en criobolsa.",
+      "interacaoMedicamento": "Evitar el uso concomitante de inmunosupresores (como corticosteroides) inmediatamente antes o después de la infusión.",
+      "posologia": "Infusión IV única, tras linfodepleción, con premedicación antipirética/antihistamínica.",
+      "armazenamento": "Congelado en vapor de nitrógeno ≤ -150 ºC; no volver a congelar tras la descongelación.",
+      "preparo": "Descongelar inmediatamente antes de la infusión; uso exclusivo hospitalario con personal capacitado.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Infección activa grave, embarazo, lactancia, hipersensibilidad a cualquier componente.",
+      "cuidadosMedicos": "Monitorizar durante ≥10 días tras la infusión para SRC y neurotoxicidad; mantener tocilizumab disponible.",
+      "cuidadosFarmaceuticos": "Verificar la identidad del paciente y del producto; garantizar trazabilidad y cadena de frío.",
+      "cuidadosEnfermagem": "Monitorizar signos vitales, síntomas neurológicos, infecciones y eventos hematológicos.",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, UpToDate, Micromedex, prospecto de Kymriah."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "Tisagenlecleucel",
+      "suspension": "不适用；为单次治疗，仅在肿瘤科医生处方下于医院环境中给药。",
+      "risk": "有严重细胞因子释放综合征（CRS）、神经毒性、全血细胞减少和机会性感染的风险。可能需要长期住院和强化支持。",
+      "reintroduction": "不适用；标准方案外的再次给药应在临床试验中评估。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tisagenlecleucel",
+      "nomeComercial": "Kymriah",
+      "mecanismoAcao": "CAR-T细胞疗法，由自体T淋巴细胞经基因修饰表达嵌合抗原受体（CAR），可识别肿瘤B细胞表面的CD19抗原。",
+      "farmacocinetica": "单次静脉输注后，3-14天内可观察到细胞扩增；持续时间可达数月；清除取决于免疫反应和肿瘤负荷。",
+      "farmacodinamica": "通过激活T细胞介导的细胞毒作用，靶向裂解CD19+ B细胞。",
+      "indicacoes": "25岁以下难治性或复发性B急性淋巴细胞白血病（ALL）；成人复发/难治性弥漫性大B细胞淋巴瘤。",
+      "reacoesAdversas": "细胞因子释放综合征（CRS）、神经毒性、严重感染、低丙种球蛋白血症、贫血、血小板减少。",
+      "riscoGravidez": "D类 – 禁忌。",
+      "riscoLactacao": "禁忌。",
+      "administracao": "单次静脉输注，输注前给予氟达拉滨+环磷酰胺进行淋巴细胞清除。",
+      "doseMaxima": "按体重：0.2至5 × 10^8 活细胞。",
+      "doseMinima": "根据方案个体化调整。",
+      "classificacao": "自体细胞免疫治疗（抗CD19 CAR-T）。",
+      "apresentacao": "冷冻细胞悬液，置于冷冻袋中。",
+      "interacaoMedicamento": "输注前后应避免同时使用免疫抑制剂（如糖皮质激素）。",
+      "posologia": "淋巴细胞清除后单次静脉输注，预先给予退热药/抗组胺药。",
+      "armazenamento": "在≤-150 ºC的液氮蒸汽中冷冻保存；解冻后不得再次冷冻。",
+      "preparo": "输注前立即解冻；仅限有培训的医院团队使用。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "严重活动性感染、妊娠、哺乳、对任何成分过敏。",
+      "cuidadosMedicos": "输注后至少监测10天，以防CRS和神经毒性；需备妥托珠单抗。",
+      "cuidadosFarmaceuticos": "核查患者和产品身份；确保可追溯性及冷链管理。",
+      "cuidadosEnfermagem": "监测生命体征、神经症状、感染及血液学事件。",
+      "fontesBibliograficas": "FDA、EMA、ANVISA、UpToDate、Micromedex、Kymriah说明书。"
+    }
+  }
+}

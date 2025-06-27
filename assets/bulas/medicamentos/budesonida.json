@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Budesonida",
+      "suspension": "Não é necessário suspender antes de cirurgias eletivas.",
+      "risk": "Risco sistêmico mínimo. Pode causar candidíase oral, disfonia e irritação local. Seguro no perioperatório para manutenção do controle da asma e DPOC.",
+      "reintroduction": "Pode ser mantida ou reintroduzida no pós-operatório sem necessidade de ajuste imediato."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Budesonida",
+      "nomeComercial": "Pulmicort, Rhinocort, Symbicort (com formoterol), Busonid, Neobroncort",
+      "mecanismoAcao": "Corticosteroide inalatório (ICS) que reduz a inflamação das vias aéreas através da inibição de mediadores inflamatórios e diminuição da hiperresponsividade brônquica.",
+      "farmacocinetica": "Início de ação: horas; pico: dias; metabolismo hepático (CYP3A4); excreção: principalmente fecal.",
+      "farmacodinamica": "Efeito anti-inflamatório local potente. Reduz sintomas, frequência de exacerbações e melhora a função pulmonar em asma e DPOC.",
+      "indicacoes": "Asma persistente (leve a grave), DPOC (moderada a grave, com LABA), rinite alérgica (nasal).",
+      "reacoesAdversas": "Candidíase oral, disfonia, irritação orofaríngea, tosse, epistaxe (uso nasal), supressão adrenal rara.",
+      "riscoGravidez": "Categoria B – considerada segura durante a gestação.",
+      "riscoLactacao": "Compatível com a amamentação.",
+      "administracao": "Inalatória (spray, DPI, nebulização) ou nasal.",
+      "doseMaxima": "Asma: até 1600 mcg/dia (em casos graves).",
+      "doseMinima": "100 mcg/dia.",
+      "classificacao": "Corticosteroide inalatório (ICS).",
+      "apresentacao": "Suspensão para nebulização (0,25; 0,5; 1 mg/mL), spray dosador (50, 100, 200 mcg/jato), cápsulas inaláveis (DPI), solução nasal.",
+      "interacaoMedicamento": "Metabolismo afetado por inibidores do CYP3A4 (ex: cetoconazol, ritonavir).",
+      "posologia": "100–400 mcg 2x/dia; ajuste conforme resposta clínica.",
+      "armazenamento": "Temperatura ambiente, longe da luz. Suspensão deve ser usada após abertura.",
+      "preparo": "Agitar antes do uso. Após inalação, enxaguar a boca.",
+      "solucoesCompatíveis": "SF 0,9% para nebulização.",
+      "contraindicacoes": "Hipersensibilidade, infecções não tratadas das vias aéreas, tuberculose pulmonar ativa.",
+      "cuidadosMedicos": "Avaliar eficácia clínica, sinais de infecção oral e controle dos sintomas respiratórios.",
+      "cuidadosFarmaceuticos": "Reforçar técnica correta de uso e necessidade de adesão contínua.",
+      "cuidadosEnfermagem": "Observar resposta ao tratamento, sinais de candidíase e efeitos locais.",
+      "fontesBibliograficas": "GINA, GOLD, ANVISA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Budesonide",
+      "suspension": "No need to suspend before elective procedures.",
+      "risk": "Minimal systemic effect. May cause oral candidiasis, hoarseness, and throat irritation. Safe for asthma/COPD maintenance perioperatively.",
+      "reintroduction": "Can be continued or restarted post-op without dose adjustment."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Budesonide",
+      "nomeComercial": "Pulmicort, Rhinocort, Symbicort (with formoterol), Entocort (GI), Uceris",
+      "mecanismoAcao": "Inhaled corticosteroid (ICS) that suppresses airway inflammation and hyperresponsiveness via intracellular receptor binding.",
+      "farmacocinetica": "Onset: hours; peak: 1–2 weeks; hepatic metabolism (CYP3A4); fecal excretion.",
+      "farmacodinamica": "Reduces airway inflammation, improves asthma control, decreases exacerbations.",
+      "indicacoes": "Persistent asthma, COPD (with LABA), allergic rhinitis (nasal use).",
+      "reacoesAdversas": "Oral candidiasis, dysphonia, throat irritation, cough, adrenal suppression (rare).",
+      "riscoGravidez": "Category B – considered safe during pregnancy.",
+      "riscoLactacao": "Compatible with breastfeeding.",
+      "administracao": "Inhaled (MDI, DPI, nebulized) or intranasal.",
+      "doseMaxima": "1600 mcg/day (in severe asthma).",
+      "doseMinima": "100 mcg/day.",
+      "classificacao": "Inhaled corticosteroid (ICS).",
+      "apresentacao": "Nebulizer suspension (0.25, 0.5, 1 mg/mL), MDI/DPI (50, 100, 200 mcg), nasal spray.",
+      "interacaoMedicamento": "Affected by CYP3A4 inhibitors like ketoconazole, ritonavir.",
+      "posologia": "100–400 mcg BID; adjust as needed.",
+      "armazenamento": "Room temp; protect from light. Use suspension promptly after opening.",
+      "preparo": "Shake before use; rinse mouth after inhalation.",
+      "solucoesCompatíveis": "0.9% saline for nebulization.",
+      "contraindicacoes": "Hypersensitivity, active pulmonary infection, untreated TB.",
+      "cuidadosMedicos": "Monitor oral health, asthma control, adrenal suppression if high dose.",
+      "cuidadosFarmaceuticos": "Verify inhaler use and adherence to chronic therapy.",
+      "cuidadosEnfermagem": "Watch for efficacy, candidiasis, throat irritation.",
+      "fontesBibliograficas": "GINA, GOLD, FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Budesonida",
+      "suspension": "No se requiere suspensión antes de cirugía.",
+      "risk": "Riesgo sistémico mínimo. Puede causar candidiasis oral y disfonía. Seguro en asma/EPOC.",
+      "reintroduction": "Puede mantenerse o reintroducirse después de cirugía sin ajustes."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Budesonida",
+      "nomeComercial": "Pulmicort, Rhinocort, Symbicort",
+      "mecanismoAcao": "Corticoide inhalado que reduce inflamación y respuesta bronquial vía unión intracelular.",
+      "farmacocinetica": "Inicio: horas; máximo efecto: 1–2 semanas; metabolismo hepático (CYP3A4); excreción fecal.",
+      "farmacodinamica": "Reduce síntomas, mejora función pulmonar y evita exacerbaciones.",
+      "indicacoes": "Asma persistente, EPOC (con LABA), rinitis alérgica.",
+      "reacoesAdversas": "Candidiasis oral, disfonía, tos, irritación faríngea, supresión suprarrenal (raro).",
+      "riscoGravidez": "Categoría B – segura durante embarazo.",
+      "riscoLactacao": "Compatible con lactancia.",
+      "administracao": "Inhalación (spray, DPI, nebulización) o nasal.",
+      "doseMaxima": "Hasta 1600 mcg/día.",
+      "doseMinima": "100 mcg/día.",
+      "classificacao": "Corticoide inhalado (ICS).",
+      "apresentacao": "Nebulización (0.25–1 mg/mL), spray (50–200 mcg), nasal.",
+      "interacaoMedicamento": "Afectado por inhibidores de CYP3A4 (ritonavir, ketoconazol).",
+      "posologia": "100–400 mcg 2x/día según necesidad.",
+      "armazenamento": "Ambiente, protegido de luz.",
+      "preparo": "Agitar; enjuagar boca tras uso.",
+      "solucoesCompatíveis": "ClNa 0.9% para nebulizar.",
+      "contraindicacoes": "Alergia, TB activa, infección pulmonar sin tratar.",
+      "cuidadosMedicos": "Monitorear control clínico y salud bucal.",
+      "cuidadosFarmaceuticos": "Revisar técnica y adherencia.",
+      "cuidadosEnfermagem": "Observar candidiasis, uso correcto, eficacia.",
+      "fontesBibliograficas": "GINA, GOLD, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "布地奈德（Budesonide）",
+      "suspension": "术前无需停药。",
+      "risk": "系统吸收小，可能引起口腔念珠菌、声音嘶哑等。安全用于术中控制哮喘和慢阻肺。",
+      "reintroduction": "术后可继续或重新使用，无需调整剂量。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "布地奈德",
+      "nomeComercial": "普米克（Pulmicort）、Rhinocort、信必可（Symbicort）",
+      "mecanismoAcao": "吸入性糖皮质激素，通过核受体抑制气道炎症和过敏反应。",
+      "farmacocinetica": "起效数小时，最大效应1–2周，经肝CYP3A4代谢，粪便排泄。",
+      "farmacodinamica": "显著减少气道炎症，改善肺功能，防止急性发作。",
+      "indicacoes": "持续性哮喘、与LABA联合治疗慢阻肺、过敏性鼻炎。",
+      "reacoesAdversas": "口腔真菌感染、声嘶、咽痛、头痛、肾上腺抑制（长期高剂量）。",
+      "riscoGravidez": "B类，可在孕期使用。",
+      "riscoLactacao": "哺乳期安全使用。",
+      "administracao": "吸入（雾化、干粉、气雾），鼻喷。",
+      "doseMaxima": "哮喘严重者每日不超1600微克。",
+      "doseMinima": "100微克/天。",
+      "classificacao": "吸入性糖皮质激素（ICS）。",
+      "apresentacao": "雾化液（0.25–1 mg/mL）、气雾剂（50–200 mcg）、鼻喷剂。",
+      "interacaoMedicamento": "受CYP3A4抑制剂影响（如酮康唑）。",
+      "posologia": "每日2次，每次100–400微克。",
+      "armazenamento": "常温避光；雾化液开封后尽快使用。",
+      "preparo": "使用前摇匀，吸入后漱口。",
+      "solucoesCompatíveis": "0.9%氯化钠。",
+      "contraindicacoes": "对药物过敏、活动性肺结核或感染。",
+      "cuidadosMedicos": "长期使用监测肾上腺功能及肺部控制。",
+      "cuidadosFarmaceuticos": "指导吸入方法，强化依从性。",
+      "cuidadosEnfermagem": "观察口腔感染、吸入是否有效。",
+      "fontesBibliograficas": "中国药典、GINA、Micromedex、UpToDate"
+    }
+  }
+}

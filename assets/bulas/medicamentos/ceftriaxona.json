@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ceftriaxona",
+      "suspension": "Não é necessário suspender",
+      "risk": "Baixo risco anestésico; frequentemente utilizada em ambiente perioperatório",
+      "reintroduction": "Manter conforme protocolo clínico ou infectológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ceftriaxona sódica",
+      "nomeComercial": "Rocefin, Ceftril, Ceftriax, Ceftriaxona Genérico",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana por ligação às PBPs",
+      "farmacocinetica": "Administração IV ou IM, meia-vida longa, excreção renal e biliar",
+      "farmacodinamica": "Bactericida de amplo espectro, eficaz contra gram-positivos e negativos",
+      "indicacoes": "Infecções graves: sepse, meningite, pneumonia, pielonefrite, infecções abdominais, osteomielite",
+      "reacoesAdversas": "Diarreia, colite pseudomembranosa, rash, eosinofilia, cálculos biliares",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excretada em pequenas quantidades; geralmente segura",
+      "administracao": "Intramuscular ou intravenosa",
+      "doseMaxima": "4000 mg/dia",
+      "doseMinima": "500 mg/dose",
+      "classificacao": "Cefalosporina de 3ª geração",
+      "apresentacao": "Pó para solução injetável (IV ou IM)",
+      "interacaoMedicamento": "Precipitação com cálcio IV, antagonismo com aminoglicosídeos se juntos na mesma seringa",
+      "posologia": "1-2 g ao dia, podendo chegar a 2g 12/12h em casos graves",
+      "armazenamento": "Pó seco sob temperatura ambiente; solução reconstituída sob refrigeração",
+      "preparo": "Diluir em água para injeção (IM) ou SF 0,9% (IV)",
+      "solucoesCompatíveis": "SF 0,9%, Dextrose 5%",
+      "contraindicacoes": "Hipersensibilidade a cefalosporinas; uso com soluções contendo cálcio em neonatos",
+      "cuidadosMedicos": "Monitorar função hepática, renal e sinais de superinfecção",
+      "cuidadosFarmaceuticos": "Evitar mistura com cálcio IV; respeitar reconstituição correta",
+      "cuidadosEnfermagem": "Observar dor no local da aplicação IM, sinais de alergia e resposta clínica",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, SBAn"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ceftriaxone",
+      "suspension": "No need to suspend",
+      "risk": "Low anesthetic risk; commonly used in the perioperative setting",
+      "reintroduction": "Maintain as per clinical or infectious disease protocol"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ceftriaxone sodium",
+      "nomeComercial": "Rocephin, Generic Ceftriaxone",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis via PBP binding",
+      "farmacocinetica": "IV or IM administration, long half-life, renal and biliary excretion",
+      "farmacodinamica": "Broad-spectrum bactericidal activity",
+      "indicacoes": "Sepsis, meningitis, pneumonia, pyelonephritis, abdominal infections, osteomyelitis",
+      "reacoesAdversas": "Diarrhea, pseudomembranous colitis, rash, eosinophilia, biliary sludge",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Excreted in small amounts; generally safe",
+      "administracao": "Intramuscular or intravenous",
+      "doseMaxima": "4000 mg/day",
+      "doseMinima": "500 mg/dose",
+      "classificacao": "Third-generation cephalosporin",
+      "apresentacao": "Powder for injection (IV or IM)",
+      "interacaoMedicamento": "Precipitates with calcium-containing IV solutions; avoid mixing with aminoglycosides in same syringe",
+      "posologia": "1–2 g daily; up to 2 g every 12h in severe cases",
+      "armazenamento": "Store powder at room temp; refrigerate reconstituted solution",
+      "preparo": "Reconstitute with sterile water (IM) or NS 0.9% (IV)",
+      "solucoesCompatíveis": "Normal Saline 0.9%, Dextrose 5%",
+      "contraindicacoes": "Hypersensitivity to cephalosporins; calcium-containing IV in neonates",
+      "cuidadosMedicos": "Monitor liver and kidney function and for superinfection",
+      "cuidadosFarmaceuticos": "Avoid mixing with calcium IV; follow correct reconstitution protocol",
+      "cuidadosEnfermagem": "Watch for injection site pain, allergic reactions, clinical improvement",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, ANVISA, SBAn"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ceftriaxona",
+      "suspension": "No requiere suspensión",
+      "risk": "Riesgo anestésico bajo; de uso común en el perioperatorio",
+      "reintroduction": "Continuar según protocolo clínico o infectológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ceftriaxona sódica",
+      "nomeComercial": "Rocephin, Ceftriaxona Genérico",
+      "mecanismoAcao": "Inhibe la síntesis de la pared celular bacteriana mediante unión a PBPs",
+      "farmacocinetica": "Administración IV o IM, vida media prolongada, excreción renal y biliar",
+      "farmacodinamica": "Bactericida de amplio espectro",
+      "indicacoes": "Sepsis, meningitis, neumonía, pielonefritis, infecciones abdominales, osteomielitis",
+      "reacoesAdversas": "Diarrea, colitis pseudomembranosa, erupción, eosinofilia, barro biliar",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Excretada en pequeñas cantidades; considerada segura",
+      "administracao": "Intramuscular o intravenosa",
+      "doseMaxima": "4000 mg/día",
+      "doseMinima": "500 mg/dosis",
+      "classificacao": "Cefalosporina de tercera generación",
+      "apresentacao": "Polvo para inyección IV o IM",
+      "interacaoMedicamento": "Precipita con soluciones IV con calcio; evitar mezclar con aminoglucósidos en la misma jeringa",
+      "posologia": "1–2 g diarios; hasta 2 g cada 12h en casos graves",
+      "armazenamento": "Polvo a temperatura ambiente; solución reconstituida refrigerada",
+      "preparo": "Diluir con agua estéril (IM) o SF 0,9% (IV)",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%, glucosa 5%",
+      "contraindicacoes": "Alergia a cefalosporinas; neonatos con soluciones IV con calcio",
+      "cuidadosMedicos": "Controlar función hepática, renal y signos de sobreinfección",
+      "cuidadosFarmaceuticos": "Evitar mezcla con calcio IV; reconstituir adecuadamente",
+      "cuidadosEnfermagem": "Observar dolor en sitio de inyección, alergias, evolución clínica",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "头孢曲松",
+      "suspension": "无需停药",
+      "risk": "麻醉风险低，围手术期常用抗生素",
+      "reintroduction": "根据感染控制方案维持使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "头孢曲松钠",
+      "nomeComercial": "罗氏芬, 头孢曲松注射液, 通用头孢曲松",
+      "mecanismoAcao": "通过结合PBP抑制细菌细胞壁合成",
+      "farmacocinetica": "静脉或肌注给药，半衰期长，经肝肾排泄",
+      "farmacodinamica": "广谱杀菌作用，针对革兰阳性和阴性菌",
+      "indicacoes": "败血症、脑膜炎、肺炎、肾盂肾炎、腹腔感染、骨髓炎",
+      "reacoesAdversas": "腹泻、伪膜性结肠炎、皮疹、嗜酸性粒细胞增多、胆泥症",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可分泌入乳汁，通常认为安全",
+      "administracao": "肌肉注射或静脉注射",
+      "doseMaxima": "每日4000毫克",
+      "doseMinima": "每次500毫克",
+      "classificacao": "第三代头孢菌素",
+      "apresentacao": "注射用粉针剂（IV或IM）",
+      "interacaoMedicamento": "与钙离子形成沉淀；不可与氨基糖苷类混合",
+      "posologia": "每日1–2克，重症可2克每12小时",
+      "armazenamento": "干粉常温保存；重构后需冷藏",
+      "preparo": "IM用注射用水稀释，IV用生理盐水稀释",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "对头孢菌素过敏；新生儿禁与含钙液共用",
+      "cuidadosMedicos": "监测肝肾功能和继发感染迹象",
+      "cuidadosFarmaceuticos": "避免与钙类混合注射，按规定重构",
+      "cuidadosEnfermagem": "注意注射部位反应，过敏表现及疗效",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex"
+    }
+  }
+}

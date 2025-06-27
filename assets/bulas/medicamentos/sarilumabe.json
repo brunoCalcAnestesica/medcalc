@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sarilumabe",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas com risco infeccioso elevado",
+      "risk": "Imunossupressor potente; aumenta risco de infecções graves, reativação de tuberculose e alterações hepáticas",
+      "reintroduction": "Reintroduzir após cicatrização completa e exclusão de infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sarilumabe",
+      "nomeComercial": "Kevzara",
+      "mecanismoAcao": "Anticorpo monoclonal humanizado que bloqueia o receptor de interleucina-6 (IL-6R), inibindo a via inflamatória",
+      "farmacocinetica": "Administração subcutânea; Tmáx ~2–4 dias; meia-vida ~10 dias; metabolismo proteico",
+      "farmacodinamica": "Reduz marcadores inflamatórios (PCR, IL-6); suprime resposta imune exacerbada na artrite reumatoide",
+      "indicacoes": "Artrite reumatoide moderada a grave em adultos que não responderam a DMARDs convencionais",
+      "reacoesAdversas": "Neutropenia, aumento de transaminases, infecções respiratórias, dor abdominal, reações no local da injeção",
+      "riscoGravidez": "Categoria C – usar com cautela se necessário",
+      "riscoLactacao": "Desconhece-se se é excretado; evitar uso durante a amamentação",
+      "administracao": "Subcutânea",
+      "doseMaxima": "200 mg a cada 2 semanas",
+      "doseMinima": "150 mg a cada 2 semanas",
+      "classificacao": "Imunobiológico – anti-IL-6R",
+      "apresentacao": "Seringa ou caneta preenchida com 150 mg/1,14 mL ou 200 mg/1,14 mL",
+      "interacaoMedicamento": "Pode diminuir eficácia de CYP450-dependentes; evitar com outros imunossupressores potentes",
+      "posologia": "200 mg SC a cada 2 semanas; reduzir para 150 mg se alterações laboratoriais significativas",
+      "armazenamento": "Refrigerado (2–8 °C); proteger da luz; não congelar",
+      "preparo": "Retirar da geladeira 30 minutos antes; não agitar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecção ativa grave, hipersensibilidade ao sarilumabe",
+      "cuidadosMedicos": "Avaliar status infeccioso antes de iniciar; monitorar hemograma e enzimas hepáticas",
+      "cuidadosFarmaceuticos": "Orientar retirada refrigerada pré-aplicação; não reutilizar seringas",
+      "cuidadosEnfermagem": "Observar sinais de infecção, reações locais e sintomas sistêmicos",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, Bula Kevzara"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sarilumab",
+      "suspension": "Discontinue 7 days before elective procedures with high infection risk",
+      "risk": "Increased risk of serious infections, neutropenia, liver enzyme elevation; TB reactivation possible",
+      "reintroduction": "Restart after wound healing and clearance of infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sarilumab",
+      "nomeComercial": "Kevzara",
+      "mecanismoAcao": "Human monoclonal antibody targeting IL-6 receptor; blocks inflammatory signaling",
+      "farmacocinetica": "SC administration; Tmax ~2–4 days; half-life ~10 days; proteolytic metabolism",
+      "farmacodinamica": "Decreases CRP and systemic inflammation; modulates immune response in RA",
+      "indicacoes": "Moderate to severe rheumatoid arthritis in adults with inadequate response to conventional DMARDs",
+      "reacoesAdversas": "Neutropenia, elevated transaminases, URTI, injection site reactions, abdominal pain",
+      "riscoGravidez": "Category C – use if clearly needed",
+      "riscoLactacao": "Unknown; avoid during breastfeeding",
+      "administracao": "Subcutaneous",
+      "doseMaxima": "200 mg every 2 weeks",
+      "doseMinima": "150 mg every 2 weeks",
+      "classificacao": "Anti-IL-6R immunomodulator",
+      "apresentacao": "Prefilled syringe or pen: 150 mg/1.14 mL, 200 mg/1.14 mL",
+      "interacaoMedicamento": "May reduce CYP450 substrate activity; caution with other immunosuppressants",
+      "posologia": "200 mg SC q2w; reduce to 150 mg for lab abnormalities",
+      "armazenamento": "Refrigerate (2–8 °C); do not freeze; protect from light",
+      "preparo": "Warm to room temperature 30 min before use; do not shake",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active serious infections, known hypersensitivity",
+      "cuidadosMedicos": "Screen for TB; monitor CBC and liver enzymes",
+      "cuidadosFarmaceuticos": "Educate on storage and injection technique",
+      "cuidadosEnfermagem": "Assess for infections, injection site issues",
+      "fontesBibliograficas": "FDA, Micromedex, Kevzara PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sarilumab",
+      "suspension": "Suspender 7 días antes de cirugías con riesgo elevado de infección",
+      "risk": "Riesgo aumentado de infecciones graves, neutropenia, reactivación de tuberculosis, alteraciones hepáticas",
+      "reintroduction": "Reiniciar tras cicatrización completa y descartar infección activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sarilumab",
+      "nomeComercial": "Kevzara",
+      "mecanismoAcao": "Anticuerpo monoclonal humanizado anti-IL-6R; bloquea la señalización inflamatoria",
+      "farmacocinetica": "SC; Tmax ~2–4 días; t½ ~10 días; metabolismo proteico",
+      "farmacodinamica": "Reduce la PCR y otros marcadores de inflamación; mejora síntomas en AR",
+      "indicacoes": "Artritis reumatoide moderada o grave con respuesta inadecuada a DMARDs",
+      "reacoesAdversas": "Neutropenia, infecciones respiratorias, aumento de transaminasas, reacciones en zona de inyección",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No se recomienda durante lactancia",
+      "administracao": "Subcutánea",
+      "doseMaxima": "200 mg cada 2 semanas",
+      "doseMinima": "150 mg cada 2 semanas",
+      "classificacao": "Inmunomodulador – anti-IL-6R",
+      "apresentacao": "Plumas o jeringas precargadas: 150/1,14 mL, 200/1,14 mL",
+      "interacaoMedicamento": "Reduce metabolismo de fármacos por CYP450; evitar con otros inmunosupresores",
+      "posologia": "200 mg SC c/2 semanas; reducir si hay anomalías de laboratorio",
+      "armazenamento": "2–8 °C; no congelar; proteger de luz",
+      "preparo": "Retirar del refrigerador 30 min antes; no agitar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infección activa grave, hipersensibilidad",
+      "cuidadosMedicos": "Control de CBC, enzimas hepáticas, pesquisa de TB",
+      "cuidadosFarmaceuticos": "Instruir técnica de administración y conservación",
+      "cuidadosEnfermagem": "Vigilar signos infecciosos y locales",
+      "fontesBibliograficas": "AEMPS, ficha técnica Kevzara, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "沙利鲁单抗（Sarilumab）",
+      "suspension": "择期手术前7天停药，尤其存在感染风险时",
+      "risk": "可能导致严重感染、中性粒细胞减少、肝酶升高、结核复发",
+      "reintroduction": "术后伤口愈合、感染排除后可恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "沙利鲁单抗",
+      "nomeComercial": "Kevzara",
+      "mecanismoAcao": "靶向IL-6受体的人源化单克隆抗体，抑制炎症信号传导",
+      "farmacocinetica": "皮下注射；Tmax约2–4天；半衰期约10天；蛋白降解代谢",
+      "farmacodinamica": "显著降低CRP，缓解风湿炎症反应",
+      "indicacoes": "对DMARD无效的中重度活动性类风湿关节炎成人患者",
+      "reacoesAdversas": "中性粒细胞减少、转氨酶升高、感染、注射部位反应",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "哺乳期不建议使用",
+      "administracao": "皮下注射",
+      "doseMaxima": "每2周200 mg",
+      "doseMinima": "每2周150 mg",
+      "classificacao": "免疫抑制剂 – 抗IL-6R单抗",
+      "apresentacao": "预充注射器或自动注射笔（150或200 mg）",
+      "interacaoMedicamento": "可能影响CYP450代谢药物浓度；避免合用强免疫抑制剂",
+      "posologia": "每2周200 mg；如不耐受，可减至150 mg",
+      "armazenamento": "2–8°C冷藏，避光，不可冷冻",
+      "preparo": "注射前置室温30分钟，勿摇晃",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性感染、过敏史",
+      "cuidadosMedicos": "用药前排除活动感染，定期检查血象和肝功能",
+      "cuidadosFarmaceuticos": "教育患者储存与注射规范",
+      "cuidadosEnfermagem": "监测注射部位及感染症状",
+      "fontesBibliograficas": "中国药典、Micromedex、Kevzara说明书"
+    }
+  }
+}

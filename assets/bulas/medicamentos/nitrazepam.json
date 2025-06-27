@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nitrazepam",
+      "suspension": "Suspender 5–7 dias antes de cirurgia eletiva; avaliar risco de abstinência em uso crônico",
+      "risk": "Risco de sedação prolongada, depressão respiratória e interação com anestésicos e opioides; risco de abstinência com suspensão abrupta",
+      "reintroduction": "Reintroduzir com cautela no pós-operatório, preferencialmente após 48h, com monitoramento respiratório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nitrazepam",
+      "nomeComercial": "Nitrazepam, Mogadon (fora do Brasil)",
+      "mecanismoAcao": "Benzodiazepínico que potencializa a ação do GABA no SNC, aumentando a frequência de abertura dos canais de cloro nos receptores GABA-A",
+      "farmacocinetica": "Boa absorção oral; pico plasmático em 2–3h; meia-vida longa (16–38h); metabolização hepática; excreção renal",
+      "farmacodinamica": "Ação hipnótica, ansiolítica, anticonvulsivante e relaxante muscular central",
+      "indicacoes": "Insônia grave de curta duração, distúrbios do sono associados à ansiedade, coadjuvante no tratamento da epilepsia",
+      "reacoesAdversas": "Sonolência, sedação, tontura, confusão, ataxia, depressão respiratória, dependência, efeitos paradoxais (agitação)",
+      "riscoGravidez": "Categoria D (risco de toxicidade neonatal e abstinência)",
+      "riscoLactacao": "Excretado no leite; contraindicado durante amamentação",
+      "administracao": "Oral",
+      "doseMaxima": "10 mg/dia (adultos); 0,3 mg/kg/dia (crianças, sob avaliação)",
+      "doseMinima": "5 mg/dia (adultos)",
+      "classificacao": "Benzodiazepínico hipnótico",
+      "apresentacao": "Comprimidos de 5 mg e 10 mg",
+      "interacaoMedicamento": "Potencializa efeitos sedativos com opioides, álcool, antipsicóticos e anestésicos; metabolizado por CYP3A4",
+      "posologia": "5–10 mg ao deitar por períodos curtos; ajustar em idosos e hepatopatas",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não partir os comprimidos de liberação controlada",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Miastenia gravis, insuficiência respiratória grave, apneia do sono, hipersensibilidade a benzodiazepínicos",
+      "cuidadosMedicos": "Avaliar risco de sedação excessiva e depressão respiratória; evitar uso prolongado",
+      "cuidadosFarmaceuticos": "Orientar quanto ao risco de dependência e suspensão gradual",
+      "cuidadosEnfermagem": "Monitorar nível de consciência, padrão respiratório e sinais de abstinência",
+      "fontesBibliograficas": "Micromedex, UpToDate, ANVISA, BNF, Mogadon bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nitrazepam",
+      "suspension": "Discontinue 5–7 days before elective surgery; assess risk of withdrawal in chronic users",
+      "risk": "Risk of prolonged sedation, respiratory depression, and interaction with anesthetics and opioids; abrupt cessation may lead to withdrawal",
+      "reintroduction": "Reintroduce cautiously after 48h post-op with respiratory monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nitrazepam",
+      "nomeComercial": "Mogadon",
+      "mecanismoAcao": "Benzodiazepine that enhances GABAergic neurotransmission via GABA-A receptor, increasing chloride channel opening frequency",
+      "farmacocinetica": "Well absorbed orally; peak plasma in 2–3h; long half-life (16–38h); hepatic metabolism; renal excretion",
+      "farmacodinamica": "Hypnotic, anxiolytic, anticonvulsant, and central muscle relaxant",
+      "indicacoes": "Severe short-term insomnia, sleep disturbances with anxiety, adjunct in epilepsy management",
+      "reacoesAdversas": "Drowsiness, sedation, dizziness, confusion, ataxia, respiratory depression, dependence, paradoxical agitation",
+      "riscoGravidez": "Category D (neonatal toxicity and withdrawal risk)",
+      "riscoLactacao": "Excreted in breast milk; contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "10 mg/day (adults); 0.3 mg/kg/day (pediatric, with supervision)",
+      "doseMinima": "5 mg/day",
+      "classificacao": "Hypnotic benzodiazepine",
+      "apresentacao": "Tablets: 5 mg, 10 mg",
+      "interacaoMedicamento": "Potentiates sedatives (opioids, alcohol, antipsychotics, anesthetics); metabolized by CYP3A4",
+      "posologia": "5–10 mg at bedtime for short duration; adjust in elderly/hepatic impairment",
+      "armazenamento": "Store at room temperature, protected from light",
+      "preparo": "Do not split extended-release tablets",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Myasthenia gravis, severe respiratory failure, sleep apnea syndrome, hypersensitivity",
+      "cuidadosMedicos": "Monitor for excessive sedation, respiratory depression; avoid long-term use",
+      "cuidadosFarmaceuticos": "Counsel on dependence risk and gradual discontinuation",
+      "cuidadosEnfermagem": "Monitor consciousness level, respiratory pattern, and withdrawal signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF, Mogadon PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nitrazepam",
+      "suspension": "Suspender 5–7 días antes de cirugía electiva; evaluar riesgo de abstinencia si uso crónico",
+      "risk": "Riesgo de sedación prolongada, depresión respiratoria, interacción con anestésicos y opioides; suspensión brusca puede causar abstinencia",
+      "reintroduction": "Reintroducir con precaución después de 48h posoperatorio con control respiratorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nitrazepam",
+      "nomeComercial": "Mogadon",
+      "mecanismoAcao": "Benzodiacepina que potencia la acción del GABA en receptores GABA-A aumentando la frecuencia de apertura del canal de cloro",
+      "farmacocinetica": "Buena absorción oral; pico en 2–3h; vida media larga (16–38h); metabolismo hepático; excreción renal",
+      "farmacodinamica": "Acción hipnótica, ansiolítica, anticonvulsiva y relajante muscular central",
+      "indicacoes": "Insomnio severo a corto plazo, trastornos del sueño por ansiedad, coadyuvante en epilepsia",
+      "reacoesAdversas": "Somnolencia, sedación, vértigo, confusión, ataxia, depresión respiratoria, dependencia, agitación paradójica",
+      "riscoGravidez": "Categoría D (riesgo neonatal)",
+      "riscoLactacao": "Se excreta en leche materna; contraindicado",
+      "administracao": "Vía oral",
+      "doseMaxima": "10 mg/día adultos; 0.3 mg/kg/día niños (bajo control)",
+      "doseMinima": "5 mg/día",
+      "classificacao": "Benzodiacepina hipnótica",
+      "apresentacao": "Comprimidos: 5 mg, 10 mg",
+      "interacaoMedicamento": "Potencia sedantes, opioides, alcohol, antipsicóticos y anestésicos; metabolizado por CYP3A4",
+      "posologia": "5–10 mg antes de dormir en tratamiento breve; ajustar en ancianos y hepatopatías",
+      "armazenamento": "Almacenar a temperatura ambiente, protegido de la luz",
+      "preparo": "No partir comprimidos de liberación prolongada",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Miastenia grave, insuficiencia respiratoria grave, apnea del sueño, hipersensibilidad",
+      "cuidadosMedicos": "Controlar sedación excesiva, respiración; evitar uso prolongado",
+      "cuidadosFarmaceuticos": "Advertir sobre dependencia y retiro gradual",
+      "cuidadosEnfermagem": "Vigilar conciencia, respiración y síntomas de abstinencia",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Mogadon"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硝西泮",
+      "suspension": "择期手术前5–7天停药；慢性用药者应评估戒断风险",
+      "risk": "可致术后镇静延长、呼吸抑制，与麻醉药和阿片类联用有协同抑制作用；突然停药可引起戒断症状",
+      "reintroduction": "术后48小时后可在监测下谨慎恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硝西泮",
+      "nomeComercial": "Mogadon",
+      "mecanismoAcao": "苯二氮䓬类药物，通过GABA-A受体增强氯通道开放频率，增强GABA抑制作用",
+      "farmacocinetica": "口服吸收良好，2–3小时达峰，半衰期16–38小时，经肝代谢，肾排泄",
+      "farmacodinamica": "具有催眠、抗焦虑、抗惊厥和中枢肌松作用",
+      "indicacoes": "严重短期失眠、焦虑相关睡眠障碍、癫痫辅助治疗",
+      "reacoesAdversas": "嗜睡、镇静、头晕、意识混乱、共济失调、呼吸抑制、依赖、激动反应",
+      "riscoGravidez": "D类（可致新生儿毒性和戒断）",
+      "riscoLactacao": "排入乳汁，哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "成人10 mg/天；儿童0.3 mg/kg/天",
+      "doseMinima": "成人5 mg/天",
+      "classificacao": "催眠类苯二氮䓬类",
+      "apresentacao": "片剂5 mg、10 mg",
+      "interacaoMedicamento": "与阿片类、酒精、抗精神病药、麻醉药协同镇静；经CYP3A4代谢",
+      "posologia": "睡前服5–10 mg，短期使用；老年人和肝功能减退者减量",
+      "armazenamento": "常温避光保存",
+      "preparo": "缓释片不可掰片或咀嚼",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重症肌无力、重度呼吸衰竭、睡眠呼吸暂停综合征、过敏者禁用",
+      "cuidadosMedicos": "监测镇静程度、呼吸；避免长期使用",
+      "cuidadosFarmaceuticos": "说明依赖性与停药需逐渐减量",
+      "cuidadosEnfermagem": "观察意识状态、呼吸、戒断表现",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Mogadon说明书"
+    }
+  }
+}

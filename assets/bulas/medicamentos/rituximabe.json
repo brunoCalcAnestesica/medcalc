@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Rituximabe",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva com risco infeccioso elevado ou em pacientes linfopênicos",
+      "risk": "Imunossupressão, reativação viral (HBV, CMV), reações infusionais, linfopenia, neutropenia tardia, pneumonite intersticial",
+      "reintroduction": "Reintroduzir após cicatrização adequada e estabilização hematológica, geralmente após 14 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rituximabe",
+      "nomeComercial": "MabThera, Truxima, Ruxience, Rituxan",
+      "mecanismoAcao": "Anticorpo monoclonal quimérico anti-CD20 que promove depleção de linfócitos B",
+      "farmacocinetica": "Meia-vida inicial 76h; terminal 22 dias; eliminação reticuloendotelial",
+      "farmacodinamica": "Depleta CD20+ B-células via apoptose, ADCC e CDC",
+      "indicacoes": "Linfoma não Hodgkin CD20+, leucemia linfocítica crônica, artrite reumatoide, vasculites ANCA, esclerose múltipla (off-label)",
+      "reacoesAdversas": "Febre, calafrios, hipotensão, broncoespasmo, rash, hipogamaglobulinemia, reativação de hepatite B",
+      "riscoGravidez": "Categoria C – risco teórico; evitar uso",
+      "riscoLactacao": "Contraindicado; pode estar presente no leite",
+      "administracao": "Infusão IV lenta com pré-medicação (paracetamol e anti-histamínico ± corticoide)",
+      "doseMaxima": "1000mg IV por dose (AR, esclerose múltipla)",
+      "doseMinima": "100mg/m² (linfoma)",
+      "classificacao": "Anticorpo monoclonal anti-CD20; imunossupressor",
+      "apresentacao": "Frascos 100mg/10ml, 500mg/50ml",
+      "interacaoMedicamento": "Imunossupressores aumentam risco infeccioso; contraindicado com vacinas vivas",
+      "posologia": "Linfoma: 375mg/m² IV semanal x 4–8 doses; AR: 1000mg IV dias 1 e 15 a cada 6 meses",
+      "armazenamento": "Refrigerado 2–8°C; diluição válida por 24h",
+      "preparo": "Diluir em SF 0,9% até 250ml; usar filtro 0,22μm",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Infecção ativa grave, alergia murina, HBV não tratado",
+      "cuidadosMedicos": "Rastrear HBV/HCV/CMV; monitorar linfócitos e imunoglobulinas",
+      "cuidadosFarmaceuticos": "Instruir sobre atraso vacinal; garantir estabilidade e proteção de infusão",
+      "cuidadosEnfermagem": "Monitorar reações infusionais, pressão arterial, dispneia e sinais de infecção",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Rituximab",
+      "suspension": "Discontinue 7 days before elective surgery in patients with infection risk or significant B-cell depletion",
+      "risk": "Immunosuppression, HBV reactivation, infusion reactions, interstitial pneumonitis, cytopenias",
+      "reintroduction": "Restart after hematologic and wound healing recovery, typically after 14 days"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rituximab",
+      "nomeComercial": "Rituxan, Truxima, Ruxience",
+      "mecanismoAcao": "Anti-CD20 monoclonal antibody depleting B cells via apoptosis, ADCC, CDC",
+      "farmacocinetica": "Initial T½ 76h; terminal T½ ~22 days",
+      "farmacodinamica": "B cell depletion; impacts humoral immunity",
+      "indicacoes": "CD20+ NHL, CLL, RA, GPA/MPA vasculitis, MS (off-label)",
+      "reacoesAdversas": "Infusion reaction, fever, chills, HBV reactivation, rash, hypotension, infection",
+      "riscoGravidez": "Category C – avoid unless benefit outweighs risk",
+      "riscoLactacao": "Not recommended",
+      "administracao": "IV infusion with premedication; SC in some protocols",
+      "doseMaxima": "1000mg/dose (RA, MS)",
+      "doseMinima": "375mg/m² (lymphoma)",
+      "classificacao": "Anti-CD20 monoclonal antibody",
+      "apresentacao": "100mg/10ml, 500mg/50ml vials",
+      "interacaoMedicamento": "Live vaccines contraindicated; enhanced risk with immunosuppressants",
+      "posologia": "NHL: 375mg/m² weekly x 4–8; RA: 1000mg days 1, 15 q6m",
+      "armazenamento": "Refrigerate 2–8°C; diluted stable 24h",
+      "preparo": "Dilute in NS 250ml; infuse via 0.22μm filter",
+      "solucoesCompatíveis": "Normal saline",
+      "contraindicacoes": "Active infection, murine protein allergy, HBV",
+      "cuidadosMedicos": "Screen HBV/CMV; monitor CBC, immunoglobulins",
+      "cuidadosFarmaceuticos": "Handle cold chain; educate on infusion reaction signs",
+      "cuidadosEnfermagem": "Vitals during infusion, allergic symptoms, delayed cytopenia signs",
+      "fontesBibliograficas": "FDA label, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Rituximab",
+      "suspension": "Suspender 7 días antes de cirugía si hay riesgo infeccioso o linfopenia",
+      "risk": "Reactivación viral, reacciones infusionais, linfopenia, neumonitis intersticial, citopenias",
+      "reintroduction": "Reiniciar tras recuperación hematológica y estabilidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rituximab",
+      "nomeComercial": "MabThera, Truxima",
+      "mecanismoAcao": "Anticuerpo anti-CD20 que induce apoptosis y citotoxicidad en células B",
+      "farmacocinetica": "T½ inicial 76h; terminal 22 días; IV o SC",
+      "farmacodinamica": "Depleción de linfocitos B, afecta inmunidad humoral",
+      "indicacoes": "Linfoma, LLC, AR, vasculitis ANCA, esclerosis múltiple (off-label)",
+      "reacoesAdversas": "Fiebre, escalofríos, hipotensión, exantema, infección, reactivación de hepatitis B",
+      "riscoGravidez": "Categoría C – evitar",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Infusión IV lenta; SC en algunos casos",
+      "doseMaxima": "1000mg/dosis",
+      "doseMinima": "375mg/m²",
+      "classificacao": "Anticuerpo monoclonal anti-CD20",
+      "apresentacao": "100mg/10ml, 500mg/50ml",
+      "interacaoMedicamento": "Evitar vacunas vivas; cuidado con inmunosupresores",
+      "posologia": "375mg/m² semanal x 4–8; 1000mg días 1 y 15 cada 6 meses",
+      "armazenamento": "2–8°C refrigerado; estable 24h tras dilución",
+      "preparo": "Diluir en SF 250ml; administrar con filtro 0,22μm",
+      "solucoesCompatíveis": "ClNa 0,9%",
+      "contraindicacoes": "Infección activa, hipersensibilidad murina, VHB no tratado",
+      "cuidadosMedicos": "Rastrear VHB, monitoreo inmunológico y CBC",
+      "cuidadosFarmaceuticos": "Mantener cadena de frío, educar paciente",
+      "cuidadosEnfermagem": "Observar reacciones infusionais, fiebre, linfopenia",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利妥昔单抗",
+      "suspension": "术前7天停药，如有感染风险或B细胞显著下降应评估",
+      "risk": "免疫抑制、病毒激活（乙肝、巨细胞病毒）、输注反应、肺间质炎、迟发性粒细胞减少",
+      "reintroduction": "术后14天，血象恢复且临床稳定后可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "利妥昔单抗",
+      "nomeComercial": "美罗华（MabThera）",
+      "mecanismoAcao": "抗CD20单抗，诱导B细胞凋亡与ADCC/CDC",
+      "farmacocinetica": "初期T½约76小时，末期T½约22天；IV为主",
+      "farmacodinamica": "清除CD20+B细胞，影响体液免疫",
+      "indicacoes": "CD20+淋巴瘤、CLL、RA、ANCA血管炎、MS（非适应证）",
+      "reacoesAdversas": "发热、寒战、低血压、皮疹、感染、肝炎激活",
+      "riscoGravidez": "C类 – 孕期慎用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉滴注；部分适应证可皮下注射",
+      "doseMaxima": "1000mg",
+      "doseMinima": "375mg/m²",
+      "classificacao": "抗CD20单克隆抗体",
+      "apresentacao": "100mg/10ml、500mg/50ml注射剂",
+      "interacaoMedicamento": "禁用活疫苗，免疫抑制剂合用风险↑",
+      "posologia": "375mg/m²每周，RA方案1000mg日1和15，每6月重复",
+      "armazenamento": "2–8°C冷藏；稀释后24小时内使用",
+      "preparo": "用0.9%氯化钠稀释至250ml，使用0.22μm过滤器",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "活动性感染、过敏反应史、HBV未控制",
+      "cuidadosMedicos": "HBV、CMV筛查，监测免疫球蛋白与CBC",
+      "cuidadosFarmaceuticos": "保持冷链运输，患者知情教育",
+      "cuidadosEnfermagem": "观察过敏反应、体温、延迟性粒细胞减少",
+      "fontesBibliograficas": "中国药典、Micromedex、EMA、FDA、UpToDate"
+    }
+  }
+}

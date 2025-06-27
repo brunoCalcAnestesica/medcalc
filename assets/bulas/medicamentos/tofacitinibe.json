@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tofacitinibe",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas de grande porte ou com risco infeccioso elevado",
+      "risk": "Imunossupressão, risco aumentado de infecção oportunista, atraso na cicatrização tecidual, reativação viral (especialmente herpes zoster), eventos trombóticos em pacientes de risco",
+      "reintroduction": "Reintroduzir 14 dias após a cirurgia, se sem sinais de infecção, com função hepática/renal estável e cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tofacitinibe",
+      "nomeComercial": "Xeljanz",
+      "mecanismoAcao": "Inibidor seletivo das Janus quinases JAK1 e JAK3, modulando vias intracelulares ativadas por citocinas inflamatórias",
+      "farmacocinetica": "Alta biodisponibilidade oral (~74%), pico plasmático em 0,5 a 1h, metabolizado predominantemente por CYP3A4 (e menor por CYP2C19), meia-vida terminal ~3 horas",
+      "farmacodinamica": "Reduz a expressão de genes pró-inflamatórios ao inibir a sinalização de IL-2, IL-4, IL-6, IL-7, IL-15, IFN-γ e outros fatores hematopoiéticos",
+      "indicacoes": "Artrite reumatoide moderada a grave, artrite psoriásica, colite ulcerativa ativa, alopecia areata (uso off-label em estudo)",
+      "reacoesAdversas": "Infecções respiratórias, reativação de herpes zoster, linfopenia, aumento de transaminases, dislipidemia, eventos trombóticos e cardiovasculares (uso prolongado em idosos)",
+      "riscoGravidez": "Categoria C – contraindicado; estudos em animais revelam teratogenicidade",
+      "riscoLactacao": "Contraindicado durante a amamentação; presença detectada no leite em estudos pré-clínicos",
+      "administracao": "Via oral",
+      "doseMaxima": "10mg duas vezes ao dia por até 8 semanas (colite ulcerativa)",
+      "doseMinima": "5mg/dia em artrite reumatoide com função renal/hepática comprometida",
+      "classificacao": "Imunomodulador seletivo; inibidor de tirosina quinase da família JAK",
+      "apresentacao": "Comprimidos de 5mg, 10mg; Xeljanz XR 11mg liberação prolongada",
+      "interacaoMedicamento": "Interage com inibidores/indutores de CYP3A4 (cetoconazol, rifampicina), aumenta risco de mielotoxicidade com metotrexato ou azatioprina",
+      "posologia": "AR e AP: 5mg 2x/dia; CU: 10mg 2x/dia por 8 semanas, após 5mg 2x/dia; XR: 11mg 1x/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade e luz direta",
+      "preparo": "Não requer preparo; administração com ou sem alimentos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecção ativa grave, hepatite B/C ativa, histórico de trombose venosa profunda, linfoma ativo, uso simultâneo com biológicos",
+      "cuidadosMedicos": "Rastreamento para tuberculose latente, hepatite viral; monitorar exames hematológicos e função hepática/lipídica a cada 4–8 semanas",
+      "cuidadosFarmaceuticos": "Atenção a interações com anticoagulantes, imunobiológicos e antifúngicos; assegurar regularidade na dispensação",
+      "cuidadosEnfermagem": "Verificar sinais infecciosos, realizar triagem vacinal antes do início, acompanhar sintomas de dor torácica ou parestesias",
+      "fontesBibliograficas": "ANVISA Bula Xeljanz, EMA EPAR, FDA label, UpToDate, Micromedex, JAKi Safety Consortium"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tofacitinib",
+      "suspension": "Discontinue 7 days prior to major surgery or high-infection-risk procedures",
+      "risk": "Immunosuppression, delayed wound healing, increased risk of tuberculosis, opportunistic infections, viral reactivation (zoster), thrombosis",
+      "reintroduction": "Restart 14 days after surgery if wound healing is satisfactory and no active infection is present"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tofacitinib",
+      "nomeComercial": "Xeljanz",
+      "mecanismoAcao": "JAK1/JAK3 inhibitor that blocks signaling of pro-inflammatory cytokines (e.g., IL-6, IFN-γ, IL-2)",
+      "farmacocinetica": "Oral bioavailability ~74%; T max ~1h; metabolized by CYP3A4/CYP2C19; half-life ~3h",
+      "farmacodinamica": "Suppresses immune function by interfering with STAT activation and cytokine transcription",
+      "indicacoes": "Moderate-to-severe rheumatoid arthritis, psoriatic arthritis, ulcerative colitis, alopecia areata (investigational)",
+      "reacoesAdversas": "URTI, herpes zoster, neutropenia, ALT/AST elevation, lipid increase, VTE events",
+      "riscoGravidez": "Category C – avoid; fetal harm observed in animals",
+      "riscoLactacao": "Use not recommended; excretion in milk demonstrated",
+      "administracao": "Oral",
+      "doseMaxima": "10mg BID (UC induction)",
+      "doseMinima": "5mg/day",
+      "classificacao": "Selective JAK inhibitor; immunosuppressive agent",
+      "apresentacao": "5mg, 10mg tablets; Xeljanz XR 11mg",
+      "interacaoMedicamento": "CYP3A4 interactions (ketoconazole ↑, rifampin ↓); avoid with biologics",
+      "posologia": "RA: 5mg BID; UC: 10mg BID ×8 weeks then 5mg BID or 11mg XR",
+      "armazenamento": "Store at 15–30°C; avoid moisture",
+      "preparo": "No reconstitution required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe infection, hepatic impairment, concurrent use of other JAK inhibitors or biologics",
+      "cuidadosMedicos": "Screen for TB/hepatitis; monitor CBC, lipids, LFTs regularly",
+      "cuidadosFarmaceuticos": "Counsel on infection risk, missed dose management, drug interactions",
+      "cuidadosEnfermagem": "Monitor for fever, bleeding, neurological changes (stroke/VTE signs)",
+      "fontesBibliograficas": "FDA label, UpToDate, Micromedex, ACR guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tofacitinib",
+      "suspension": "Suspender 7 días antes de cirugías mayores o intervenciones con riesgo infeccioso elevado",
+      "risk": "Inmunosupresión, retraso en cicatrización, infecciones oportunistas, reactivación de virus latentes (herpes zóster), eventos trombóticos",
+      "reintroduction": "Reiniciar 14 días después si no hay infección y la cicatrización es adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tofacitinib",
+      "nomeComercial": "Xeljanz",
+      "mecanismoAcao": "Inhibidor de JAK1/JAK3 que bloquea señales de citocinas como IL-2, IL-6, IFN-γ",
+      "farmacocinetica": "Biodisponibilidad ~74%; C máx ~1h; metabolismo hepático (CYP3A4/CYP2C19); vida media ~3h",
+      "farmacodinamica": "Modula respuesta inmune reduciendo activación de STAT y transcripción de genes inflamatorios",
+      "indicacoes": "AR moderada a grave, artritis psoriásica, colitis ulcerosa, alopecia (uso investigacional)",
+      "reacoesAdversas": "Infecciones respiratorias, zóster, neutropenia, aumento de transaminasas y lípidos, trombosis",
+      "riscoGravidez": "Categoría C – evitar; daño fetal observado en animales",
+      "riscoLactacao": "No recomendado; se excreta en leche (datos animales)",
+      "administracao": "Vía oral",
+      "doseMaxima": "10mg BID (inducción CU)",
+      "doseMinima": "5mg/día",
+      "classificacao": "Inmunomodulador selectivo – inhibidor de JAK",
+      "apresentacao": "Comprimidos 5mg, 10mg, XR 11mg",
+      "interacaoMedicamento": "Interacciones con CYP3A4; evitar uso simultáneo con biológicos",
+      "posologia": "AR: 5mg BID; CU: 10mg BID 8 semanas, luego 5mg BID o XR 11mg/día",
+      "armazenamento": "15–30°C, evitar humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infección activa grave, hepatopatía grave, tratamiento inmunobiológico simultáneo",
+      "cuidadosMedicos": "Evaluar TB/virus hepáticos antes de iniciar; control periódico de analíticas",
+      "cuidadosFarmaceuticos": "Advertir sobre signos de infección, efectos adversos hematológicos",
+      "cuidadosEnfermagem": "Controlar temperatura, síntomas respiratorios y signos de trombosis",
+      "fontesBibliograficas": "EMA, ficha técnica, UpToDate, literatura científica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "托法替尼",
+      "suspension": "术前7天停止服用，特别是大手术或感染风险高者",
+      "risk": "免疫抑制，感染风险升高，术后愈合延迟，带状疱疹复发，静脉血栓事件",
+      "reintroduction": "术后14天，若无感染或并发症，可在医生评估后恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "托法替尼",
+      "nomeComercial": "Xeljanz（赛可赞）",
+      "mecanismoAcao": "抑制JAK1与JAK3信号通路，阻断多种炎性细胞因子介导的免疫信号",
+      "farmacocinetica": "口服生物利用度74%；Tmax约1小时；通过CYP3A4代谢，半衰期3小时",
+      "farmacodinamica": "减少STAT磷酸化，抑制炎症因子表达和免疫细胞活性",
+      "indicacoes": "中重度类风湿关节炎、银屑病关节炎、溃疡性结肠炎，研究中用于斑秃",
+      "reacoesAdversas": "感染、贫血、中性粒细胞减少、肝酶升高、血脂异常、静脉血栓形成",
+      "riscoGravidez": "C类；禁用于妊娠期",
+      "riscoLactacao": "哺乳期禁用；动物实验显示乳汁中排泄",
+      "administracao": "口服",
+      "doseMaxima": "每日20mg（分两次）用于溃疡性结肠炎初始治疗",
+      "doseMinima": "每日5mg",
+      "classificacao": "选择性JAK抑制剂，免疫调节药物",
+      "apresentacao": "片剂5mg、10mg，缓释11mg",
+      "interacaoMedicamento": "与CYP3A4抑制剂/诱导剂显著相互作用，禁与其他免疫抑制剂合用",
+      "posologia": "RA：5mg一日两次；UC：10mg一日两次8周，后5mg BID或11mg XR",
+      "armazenamento": "室温干燥保存（15–30°C）",
+      "preparo": "无需配置",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重感染、活动性肝炎、近期血栓史、生物制剂治疗中",
+      "cuidadosMedicos": "评估感染风险，检查结核/乙肝/丙肝，定期监测血液/肝功能",
+      "cuidadosFarmaceuticos": "提醒患者注意感染症状与血栓风险，遵医嘱规范用药",
+      "cuidadosEnfermagem": "观察皮疹、发热、血压、四肢肿胀及神经系统症状",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

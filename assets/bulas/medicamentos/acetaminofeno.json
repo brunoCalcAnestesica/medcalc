@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Paracetamol",
+      "suspension": "Não é necessário suspender",
+      "risk": "Baixo risco anestésico, pode ser mantido para controle de dor e febre",
+      "reintroduction": "Pode ser mantido no perioperatório sem restrição"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paracetamol",
+      "nomeComercial": "Tylenol, Panadol, Paracetamol Genérico",
+      "mecanismoAcao": "Inibe a síntese de prostaglandinas no sistema nervoso central",
+      "farmacocinetica": "Absorção oral rápida, metabolização hepática, excreção renal",
+      "farmacodinamica": "Analgésico e antipirético, sem ação anti-inflamatória significativa",
+      "indicacoes": "Dor leve a moderada, febre",
+      "reacoesAdversas": "Hepatotoxicidade em doses elevadas, rash cutâneo, náuseas",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Seguro, excretado em pequenas quantidades no leite",
+      "administracao": "Oral, intravenosa ou retal",
+      "doseMaxima": "4000 mg/dia",
+      "doseMinima": "500 mg/dose",
+      "classificacao": "Analgésico não opioide",
+      "apresentacao": "Comprimidos, gotas, solução oral, supositórios, solução injetável",
+      "interacaoMedicamento": "Potencial aumento de toxicidade com álcool e isoniazida",
+      "posologia": "500-1000 mg a cada 6-8 horas, conforme necessidade",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Requer diluição para uso IV",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%, Glicose 5%",
+      "contraindicacoes": "Doença hepática grave, hipersensibilidade ao paracetamol",
+      "cuidadosMedicos": "Monitorar função hepática em uso prolongado ou doses elevadas",
+      "cuidadosFarmaceuticos": "Evitar uso com outros produtos contendo paracetamol",
+      "cuidadosEnfermagem": "Verificar dosagem cumulativa, observar sinais de hepatotoxicidade",
+      "fontesBibliograficas": "SBAn, FDA, Micromedex, ANVISA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Acetaminophen",
+      "suspension": "No need to suspend",
+      "risk": "Low anesthetic risk, can be maintained for pain and fever control",
+      "reintroduction": "May be continued perioperatively without restriction"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetaminophen",
+      "nomeComercial": "Tylenol, Panadol, Generic Acetaminophen",
+      "mecanismoAcao": "Inhibits prostaglandin synthesis in the CNS",
+      "farmacocinetica": "Rapid oral absorption, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Analgesic and antipyretic, minimal anti-inflammatory effect",
+      "indicacoes": "Mild to moderate pain, fever",
+      "reacoesAdversas": "Hepatotoxicity at high doses, rash, nausea",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe, excreted in small amounts in breast milk",
+      "administracao": "Oral, intravenous or rectal",
+      "doseMaxima": "4000 mg/day",
+      "doseMinima": "500 mg/dose",
+      "classificacao": "Non-opioid analgesic",
+      "apresentacao": "Tablets, drops, oral solution, suppositories, IV solution",
+      "interacaoMedicamento": "Increased risk of liver toxicity with alcohol, isoniazid",
+      "posologia": "500-1000 mg every 6-8 hours as needed",
+      "armazenamento": "Room temperature, protect from light and moisture",
+      "preparo": "Dilution required for IV use",
+      "solucoesCompatíveis": "Normal Saline 0.9%, Dextrose 5%",
+      "contraindicacoes": "Severe liver disease, hypersensitivity to acetaminophen",
+      "cuidadosMedicos": "Monitor liver function if prolonged or high-dose use",
+      "cuidadosFarmaceuticos": "Avoid combination with other acetaminophen products",
+      "cuidadosEnfermagem": "Check cumulative dose, watch for hepatotoxicity signs",
+      "fontesBibliograficas": "FDA, SBAn, Micromedex, EMA, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Paracetamol",
+      "suspension": "No requiere suspensión",
+      "risk": "Riesgo anestésico bajo, útil para control de dolor y fiebre",
+      "reintroduction": "Puede mantenerse sin restricción en el perioperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paracetamol",
+      "nomeComercial": "Tylenol, Panadol, Paracetamol Genérico",
+      "mecanismoAcao": "Inhibe la síntesis de prostaglandinas en el SNC",
+      "farmacocinetica": "Absorción rápida por vía oral, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Analgésico y antipirético, sin acción antiinflamatoria significativa",
+      "indicacoes": "Dolor leve a moderado, fiebre",
+      "reacoesAdversas": "Hepatotoxicidad a dosis altas, erupción, náuseas",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Seguro, se excreta en pequeñas cantidades en la leche",
+      "administracao": "Vía oral, intravenosa o rectal",
+      "doseMaxima": "4000 mg/día",
+      "doseMinima": "500 mg/dosis",
+      "classificacao": "Analgésico no opioide",
+      "apresentacao": "Comprimidos, gotas, solución oral, supositorios, solución IV",
+      "interacaoMedicamento": "Mayor riesgo de toxicidad hepática con alcohol e isoniazida",
+      "posologia": "500-1000 mg cada 6-8 horas según necesidad",
+      "armazenamento": "Temperatura ambiente, protegido de luz y humedad",
+      "preparo": "Requiere dilución para administración IV",
+      "solucoesCompatíveis": "Cloruro de sodio 0.9%, glucosa 5%",
+      "contraindicacoes": "Enfermedad hepática grave, hipersensibilidad al paracetamol",
+      "cuidadosMedicos": "Monitorear función hepática si uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar combinaciones con otros productos que contengan paracetamol",
+      "cuidadosEnfermagem": "Controlar la dosis acumulada, vigilar signos de toxicidad hepática",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, EMA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "对乙酰氨基酚",
+      "suspension": "无需停药",
+      "risk": "麻醉风险低，可用于控制术前术后疼痛和发热",
+      "reintroduction": "可在围手术期持续使用，无需中断"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "对乙酰氨基酚",
+      "nomeComercial": "泰诺, 必理通, 对乙酰氨基酚通用名",
+      "mecanismoAcao": "抑制中枢神经系统前列腺素合成",
+      "farmacocinetica": "口服吸收快，肝脏代谢，肾脏排泄",
+      "farmacodinamica": "解热镇痛，抗炎作用弱",
+      "indicacoes": "轻度至中度疼痛，发热",
+      "reacoesAdversas": "大剂量可能引起肝毒性、皮疹、恶心",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可少量分泌入乳汁，属安全用药",
+      "administracao": "口服、静脉注射或直肠使用",
+      "doseMaxima": "每日4000毫克",
+      "doseMinima": "每次500毫克",
+      "classificacao": "非阿片类镇痛药",
+      "apresentacao": "片剂、滴剂、口服液、栓剂、注射液",
+      "interacaoMedicamento": "与酒精、异烟肼合用可增加肝毒性",
+      "posologia": "每6-8小时服用500-1000毫克",
+      "armazenamento": "常温保存，避光避潮",
+      "preparo": "静脉注射需稀释",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "严重肝病，对本品过敏",
+      "cuidadosMedicos": "长期或大剂量使用应监测肝功能",
+      "cuidadosFarmaceuticos": "避免与含对乙酰氨基酚的其他药物联合使用",
+      "cuidadosEnfermagem": "注意累计剂量，观察肝毒性表现",
+      "fontesBibliograficas": "中国药典，FDA，Micromedex，EMA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Toremifeno",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de trombose venosa profunda, prolongamento do QT e retardo na cicatrização",
+      "reintroduction": "Reintroduzir após mobilização completa e normalização do ECG"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Toremifeno",
+      "nomeComercial": "Fareston",
+      "mecanismoAcao": "Modulador seletivo do receptor de estrogênio (SERM), com ação antagônica em tecido mamário",
+      "farmacocinetica": "Biodisponibilidade oral elevada; meia-vida ~5 dias; metabolização hepática via CYP3A4",
+      "farmacodinamica": "Bloqueia estímulo estrogênico em tumores de mama ER+, com possível atividade agonista parcial em outros tecidos",
+      "indicacoes": "Câncer de mama metastático em mulheres pós-menopáusicas com receptor hormonal positivo",
+      "reacoesAdversas": "Fogachos, leucorreia, náuseas, trombose venosa profunda, prolongamento do QT, edema",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado durante a lactação",
+      "administracao": "Via oral",
+      "doseMaxima": "60 mg/dia",
+      "doseMinima": "20 mg/dia (ajustável conforme tolerância)",
+      "classificacao": "Antineoplásico – modulador seletivo do receptor de estrogênio",
+      "apresentacao": "Comprimidos de 60 mg",
+      "interacaoMedicamento": "Interage com fármacos que prolongam QT, anticoagulantes, inibidores do CYP3A4",
+      "posologia": "60 mg VO 1x/dia, com ou sem alimentos",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Prolongamento do QT, hipocalemia, gravidez, lactação",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, sinais de trombose",
+      "cuidadosFarmaceuticos": "Orientar adesão e evitar medicamentos QT-prolongadores",
+      "cuidadosEnfermagem": "Observar edema, alterações cardíacas e sintomas trombóticos",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Toremifene",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of DVT, QT prolongation, and delayed healing",
+      "reintroduction": "Restart after full mobilization and ECG normalization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Toremifene",
+      "nomeComercial": "Fareston",
+      "mecanismoAcao": "Selective estrogen receptor modulator (SERM) acting as anti-estrogen in breast tissue",
+      "farmacocinetica": "High oral bioavailability; half-life ~5 days; metabolized by CYP3A4",
+      "farmacodinamica": "Blocks estrogenic stimulation in ER+ breast tumors; partial agonist elsewhere",
+      "indicacoes": "Metastatic breast cancer in postmenopausal women with ER+ tumors",
+      "reacoesAdversas": "Hot flashes, leukorrhea, nausea, DVT, QT prolongation, edema",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "60 mg/day",
+      "doseMinima": "20 mg/day (adjustable)",
+      "classificacao": "Antineoplastic – selective estrogen receptor modulator",
+      "apresentacao": "Tablets: 60 mg",
+      "interacaoMedicamento": "Interacts with QT-prolonging drugs, anticoagulants, CYP3A4 inhibitors",
+      "posologia": "60 mg once daily, with or without food",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "QT prolongation, hypokalemia, pregnancy, breastfeeding",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, thrombotic events",
+      "cuidadosFarmaceuticos": "Educate on adherence, avoid QT-prolonging drugs",
+      "cuidadosEnfermagem": "Watch for edema, cardiac changes, thrombosis symptoms",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Toremifeno",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de trombosis venosa profunda, prolongación del QT, cicatrización lenta",
+      "reintroduction": "Reintroducir tras movilización y normalización del ECG"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Toremifeno",
+      "nomeComercial": "Fareston",
+      "mecanismoAcao": "Modulador selectivo del receptor de estrógeno con acción antiestrogénica mamaria",
+      "farmacocinetica": "Buena biodisponibilidad oral; vida media ~5 días; metabolizado por CYP3A4",
+      "farmacodinamica": "Bloquea acción estrogénica en mama, agonista parcial en otros tejidos",
+      "indicacoes": "Cáncer de mama metastásico en mujeres posmenopáusicas ER+",
+      "reacoesAdversas": "Sofocos, leucorrea, náuseas, trombosis, QT prolongado, edema",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "60 mg/día",
+      "doseMinima": "20 mg/día (ajustable)",
+      "classificacao": "Antineoplásico – modulador selectivo del receptor de estrógeno",
+      "apresentacao": "Comprimidos de 60 mg",
+      "interacaoMedicamento": "Interacción con fármacos que prolongan QT, anticoagulantes, CYP3A4",
+      "posologia": "60 mg/día con o sin alimentos",
+      "armazenamento": "15–30°C",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Prolongación del QT, hipocalemia, embarazo, lactancia",
+      "cuidadosMedicos": "Monitorear ECG, electrolitos, eventos trombóticos",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia y evitar fármacos QT",
+      "cuidadosEnfermagem": "Observar edema, cambios cardíacos y trombosis",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "托瑞米芬",
+      "suspension": "术前5天停药",
+      "risk": "深静脉血栓、QT延长、术后愈合延迟",
+      "reintroduction": "术后恢复并ECG正常后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "托瑞米芬",
+      "nomeComercial": "Fareston",
+      "mecanismoAcao": "选择性雌激素受体调节剂（SERM），拮抗乳腺组织的雌激素作用",
+      "farmacocinetica": "口服生物利用度高；半衰期约5天；CYP3A4代谢",
+      "farmacodinamica": "在乳腺组织抗雌激素，在其他组织部分激动作用",
+      "indicacoes": "绝经后ER阳性乳腺癌转移期治疗",
+      "reacoesAdversas": "潮热、白带增多、恶心、静脉血栓、QT延长、水肿",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日60毫克",
+      "doseMinima": "每日20毫克",
+      "classificacao": "抗肿瘤药 – 选择性雌激素受体调节剂",
+      "apresentacao": "片剂60 mg",
+      "interacaoMedicamento": "与延长QT药物、抗凝剂、CYP3A4抑制剂相互作用",
+      "posologia": "每日60 mg，餐前或餐后服用均可",
+      "armazenamento": "15–30°C，避光",
+      "preparo": "无需配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "QT延长、低钾血症、妊娠、哺乳",
+      "cuidadosMedicos": "监测心电图、电解质、血栓体征",
+      "cuidadosFarmaceuticos": "避免与QT延长药物同用，强调依从性",
+      "cuidadosEnfermagem": "关注水肿、心律异常和静脉血栓表现",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

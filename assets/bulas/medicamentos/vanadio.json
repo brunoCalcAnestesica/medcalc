@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vanádio",
+      "suspension": "Suspender 2 dias antes de cirurgias com risco de hipoglicemia ou disfunção renal",
+      "risk": "Pode induzir hipoglicemia e toxicidade renal em altas doses",
+      "reintroduction": "Reintroduzir após 48h, com função renal e glicêmica monitorada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vanadil Sulfato (forma mais comum de vanádio suplementar)",
+      "nomeComercial": "Vanadyl Sulfate, Vanadium Complex, Trace Minerals Vanadium",
+      "mecanismoAcao": "Mimetiza ação da insulina, aumenta captação de glicose e sensibilidade insulínica em tecidos periféricos",
+      "farmacocinetica": "Baixa absorção oral (~1%); acumulação em fígado, rins e ossos; excreção renal",
+      "farmacodinamica": "Potencial hipoglicemiante e modulador de metabolismo de carboidratos e lipídios",
+      "indicacoes": "Investigacional em diabetes tipo 2, síndrome metabólica, resistência à insulina",
+      "reacoesAdversas": "Náusea, cólica, fezes esverdeadas, cefaleia, toxicidade renal em megadoses",
+      "riscoGravidez": "Categoria C – contraindicado na gestação",
+      "riscoLactacao": "Evitar; potencial tóxico em lactentes",
+      "administracao": "Oral",
+      "doseMaxima": "50 mcg/kg/dia (máximo 1–1,2 mg/dia sob supervisão)",
+      "doseMinima": "10 mcg/dia",
+      "classificacao": "Mineral traço com ação insulinomimética experimental",
+      "apresentacao": "Cápsulas, comprimidos (1–10 mg)",
+      "interacaoMedicamento": "Potencializa hipoglicemiantes, insulina e metformina",
+      "posologia": "10–50 mcg/dia dividido em 1–2 tomadas com refeições",
+      "armazenamento": "Local seco, fresco, fora da luz solar direta",
+      "preparo": "Forma estável como sulfato de vanadil",
+      "solucoesCompatíveis": "Inositol, cromo, ácido alfa-lipóico (uso clínico combinado)",
+      "contraindicacoes": "Insuficiência renal, gestação, lactação, uso concomitante com insulina não ajustada",
+      "cuidadosMedicos": "Monitorar creatinina e glicemia em uso prolongado",
+      "cuidadosFarmaceuticos": "Orientar para não ultrapassar dose fisiológica sem prescrição",
+      "cuidadosEnfermagem": "Observar sintomas de hipoglicemia e sinais de nefrotoxicidade",
+      "fontesBibliograficas": "PubMed, Natural Medicines, NIH, Medscape, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vanadium",
+      "suspension": "Discontinue 2 days prior to surgery due to hypoglycemia and renal concerns",
+      "risk": "May induce hypoglycemia and nephrotoxicity at high doses",
+      "reintroduction": "Restart 48h post-op with renal and glucose monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vanadyl Sulfate",
+      "nomeComercial": "Vanadyl Sulfate, Vanadium Complex, Trace Minerals Research",
+      "mecanismoAcao": "Insulin-mimetic; enhances glucose uptake and insulin sensitivity",
+      "farmacocinetica": "Oral absorption ~1%; accumulates in liver, kidney, bone; renal excretion",
+      "farmacodinamica": "Hypoglycemic activity and metabolic modulator (experimental)",
+      "indicacoes": "Type 2 diabetes (experimental), insulin resistance, metabolic syndrome",
+      "reacoesAdversas": "GI upset, green stools, nausea, cramping, renal toxicity (high dose)",
+      "riscoGravidez": "Category C – contraindicated",
+      "riscoLactacao": "Avoid due to infant toxicity risk",
+      "administracao": "Oral",
+      "doseMaxima": "50 mcg/kg/day (~1 mg/day max)",
+      "doseMinima": "10 mcg/day",
+      "classificacao": "Experimental trace mineral with insulin-mimetic activity",
+      "apresentacao": "Capsules, tablets (1–10 mg)",
+      "interacaoMedicamento": "Enhances insulin and oral hypoglycemics",
+      "posologia": "10–50 mcg/day in 1–2 divided doses with meals",
+      "armazenamento": "Cool, dry, dark place",
+      "preparo": "Stable as vanadyl sulfate",
+      "solucoesCompatíveis": "Combined with chromium, ALA, inositol",
+      "contraindicacoes": "Kidney disease, pregnancy, lactation, insulin therapy without adjustment",
+      "cuidadosMedicos": "Monitor renal markers and glucose",
+      "cuidadosFarmaceuticos": "Do not exceed physiological dose without supervision",
+      "cuidadosEnfermagem": "Monitor for hypoglycemia and renal signs",
+      "fontesBibliograficas": "NIH, Natural Medicines, PubMed, Medscape, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vanadio",
+      "suspension": "Suspender 2 días antes de cirugía por riesgo de hipoglucemia y nefrotoxicidad",
+      "risk": "Puede inducir hipoglucemia y toxicidad renal en altas dosis",
+      "reintroduction": "Reiniciar 48h después si función renal y glucosa son estables"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato de vanadilo",
+      "nomeComercial": "Vanadyl Sulfate, Vanadium Complex, Vanadio Trace",
+      "mecanismoAcao": "Mimetiza la acción de la insulina; mejora la captación de glucosa",
+      "farmacocinetica": "Baja absorción oral (~1%); acumulación en hígado, riñón y hueso",
+      "farmacodinamica": "Potencial hipoglucemiante; mejora metabolismo glucídico",
+      "indicacoes": "Diabetes tipo 2 (experimental), síndrome metabólico",
+      "reacoesAdversas": "Náuseas, cólicos, heces verdes, toxicidad renal",
+      "riscoGravidez": "Categoría C – contraindicado",
+      "riscoLactacao": "Evitar en lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "50 mcg/kg/día (1 mg/día máx.)",
+      "doseMinima": "10 mcg/día",
+      "classificacao": "Mineral traza con acción insulinomimética experimental",
+      "apresentacao": "Cápsulas, comprimidos (1–10 mg)",
+      "interacaoMedicamento": "Potencia insulina, metformina",
+      "posologia": "10–50 mcg/día con las comidas",
+      "armazenamento": "Lugar seco, fresco, sin luz directa",
+      "preparo": "Estable como sulfato de vanadilo",
+      "solucoesCompatíveis": "Cromo, ALA, inositol",
+      "contraindicacoes": "Insuficiencia renal, embarazo, lactancia, insulina no ajustada",
+      "cuidadosMedicos": "Monitorear creatinina y glucosa",
+      "cuidadosFarmaceuticos": "No superar la dosis sin control médico",
+      "cuidadosEnfermagem": "Vigilar signos de hipoglucemia o toxicidad renal",
+      "fontesBibliograficas": "EMA, PubMed, Natural Medicines, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "钒（Vanadium）",
+      "suspension": "术前2天停用，避免低血糖及肾毒性",
+      "risk": "高剂量可致低血糖及肾损害",
+      "reintroduction": "术后48小时，肾功能与血糖稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硫酸钒（Vanadyl Sulfate）",
+      "nomeComercial": "Vanadyl胶囊、Vanadium Trace、矿物营养片",
+      "mecanismoAcao": "模拟胰岛素作用，增强葡萄糖摄取和敏感性",
+      "farmacocinetica": "口服吸收率低（~1%），蓄积于肝肾骨，肾排出",
+      "farmacodinamica": "降糖作用与糖脂代谢调节",
+      "indicacoes": "2型糖尿病（实验性）、胰岛素抵抗",
+      "reacoesAdversas": "恶心、腹痛、绿色粪便、肾毒性",
+      "riscoGravidez": "C类 – 禁用于妊娠期",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日50微克/公斤（最多1–1.2毫克）",
+      "doseMinima": "10微克/天",
+      "classificacao": "实验性胰岛素模拟微量元素",
+      "apresentacao": "片剂、胶囊（1–10毫克）",
+      "interacaoMedicamento": "增强胰岛素与降糖药效应",
+      "posologia": "每日1–2次，每次10–50微克，随餐服",
+      "armazenamento": "避光、阴凉、干燥保存",
+      "preparo": "常见形式为硫酸钒，稳定",
+      "solucoesCompatíveis": "可与铬、肌醇、ALA联合使用",
+      "contraindicacoes": "肾功能不全、孕期、哺乳期、未调整胰岛素治疗",
+      "cuidadosMedicos": "监测肾功能与血糖波动",
+      "cuidadosFarmaceuticos": "建议低剂量起始，避免超量",
+      "cuidadosEnfermagem": "记录低血糖症状与肾功能指标",
+      "fontesBibliograficas": "中国药典、PubMed、NIH、UpToDate、Natural Medicines"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Candesartana",
+      "suspension": "Suspender 24 horas antes da cirurgia",
+      "risk": "Risco de hipotensão intraoperatória acentuada, especialmente com anestesia geral e uso de anestésicos venosos",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e função renal preservada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Candesartana cilexetila",
+      "nomeComercial": "Atacand, Blopress, Candez",
+      "mecanismoAcao": "Bloqueia seletivamente os receptores AT1 da angiotensina II, reduzindo a vasoconstrição e secreção de aldosterona",
+      "farmacocinetica": "Biodisponibilidade ~15%, metabolizado em candesartana ativa no fígado, meia-vida de 9h",
+      "farmacodinamica": "Efeito anti-hipertensivo sustentado, reduz pós-carga e melhora a função ventricular",
+      "indicacoes": "Hipertensão arterial, insuficiência cardíaca congestiva com disfunção sistólica",
+      "reacoesAdversas": "Tontura, hipotensão, hipercalemia, disfunção renal, cefaleia",
+      "riscoGravidez": "Categoria D; contraindicado",
+      "riscoLactacao": "Contraindicado, pode afetar função renal neonatal",
+      "administracao": "Via oral",
+      "doseMaxima": "32 mg/dia",
+      "doseMinima": "4 mg/dia",
+      "classificacao": "Antagonista dos receptores da angiotensina II (BRA)",
+      "apresentacao": "Comprimidos de 4 mg, 8 mg, 16 mg e 32 mg",
+      "interacaoMedicamento": "Interação com AINEs, lítio, diuréticos poupadores de potássio",
+      "posologia": "Dose única diária ajustada conforme resposta clínica",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, estenose bilateral da artéria renal, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar função renal, eletrólitos e pressão arterial",
+      "cuidadosFarmaceuticos": "Orientar sobre horários e adesão terapêutica",
+      "cuidadosEnfermagem": "Aferir PA regularmente, observar sinais de hipotensão",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, ESC Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Candesartan",
+      "suspension": "Suspend 24 hours before surgery",
+      "risk": "Risk of significant intraoperative hypotension, especially with general anesthesia",
+      "reintroduction": "Restart after hemodynamic stabilization and preserved renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Candesartan cilexetil",
+      "nomeComercial": "Atacand, Blopress, Candez",
+      "mecanismoAcao": "Selectively blocks angiotensin II AT1 receptors, lowering vasoconstriction and aldosterone secretion",
+      "farmacocinetica": "Bioavailability ~15%, hepatic conversion to active candesartan, half-life ~9h",
+      "farmacodinamica": "Provides sustained blood pressure control, reduces afterload and improves ventricular performance",
+      "indicacoes": "Hypertension, heart failure with systolic dysfunction",
+      "reacoesAdversas": "Dizziness, hypotension, hyperkalemia, renal dysfunction, headache",
+      "riscoGravidez": "Category D; contraindicated",
+      "riscoLactacao": "Contraindicated, risk of neonatal renal effects",
+      "administracao": "Oral route",
+      "doseMaxima": "32 mg/day",
+      "doseMinima": "4 mg/day",
+      "classificacao": "Angiotensin II receptor blocker (ARB)",
+      "apresentacao": "Tablets of 4 mg, 8 mg, 16 mg, and 32 mg",
+      "interacaoMedicamento": "Interactions with NSAIDs, lithium, potassium-sparing diuretics",
+      "posologia": "Once-daily dosing, titrated by clinical response",
+      "armazenamento": "Room temperature, protected from moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, bilateral renal artery stenosis, hypersensitivity",
+      "cuidadosMedicos": "Monitor renal function, electrolytes, blood pressure",
+      "cuidadosFarmaceuticos": "Ensure adherence and proper administration timing",
+      "cuidadosEnfermagem": "Check blood pressure regularly, watch for hypotension",
+      "fontesBibliograficas": "FDA, ANVISA, ESC, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Candesartán",
+      "suspension": "Suspender 24 horas antes de la cirugía",
+      "risk": "Riesgo de hipotensión significativa durante la cirugía con anestesia general",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica y función renal adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Candesartán cilexetilo",
+      "nomeComercial": "Atacand, Blopress, Candez",
+      "mecanismoAcao": "Bloquea selectivamente los receptores AT1 de la angiotensina II",
+      "farmacocinetica": "Biodisponibilidad ~15%, conversión hepática a candesartán activo, vida media ~9h",
+      "farmacodinamica": "Control antihipertensivo sostenido, reduce la poscarga y mejora la función cardíaca",
+      "indicacoes": "Hipertensión, insuficiencia cardíaca sistólica",
+      "reacoesAdversas": "Mareos, hipotensión, hipercalemia, disfunción renal, cefalea",
+      "riscoGravidez": "Categoría D; contraindicado",
+      "riscoLactacao": "Contraindicado, riesgo para el neonato",
+      "administracao": "Oral",
+      "doseMaxima": "32 mg/día",
+      "doseMinima": "4 mg/día",
+      "classificacao": "Bloqueador del receptor de angiotensina II (ARA-II)",
+      "apresentacao": "Comprimidos de 4 mg, 8 mg, 16 mg y 32 mg",
+      "interacaoMedicamento": "Interacciones con AINEs, litio, diuréticos ahorradores de potasio",
+      "posologia": "Dosis diaria única, ajustada clínicamente",
+      "armazenamento": "Temperatura ambiente, protegido de la humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Embarazo, estenosis bilateral de arteria renal, hipersensibilidad",
+      "cuidadosMedicos": "Control de función renal, electrolitos y PA",
+      "cuidadosFarmaceuticos": "Asegurar adherencia al tratamiento",
+      "cuidadosEnfermagem": "Control de PA y síntomas de hipotensión",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, Guías ESC"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "坎地沙坦",
+      "suspension": "术前24小时停药",
+      "risk": "在全身麻醉下有显著低血压风险",
+      "reintroduction": "血流动力学稳定并肾功能恢复后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "坎地沙坦酯",
+      "nomeComercial": "Atacand, Blopress, Candez",
+      "mecanismoAcao": "选择性阻断血管紧张素II AT1受体，降低血管收缩和醛固酮分泌",
+      "farmacocinetica": "生物利用度约15%，肝脏转化为活性药物，半衰期约9小时",
+      "farmacodinamica": "稳定控制血压，减少心后负荷，提高心脏功能",
+      "indicacoes": "高血压，收缩性心力衰竭",
+      "reacoesAdversas": "头晕、低血压、高钾血症、肾功能障碍、头痛",
+      "riscoGravidez": "D类，禁用",
+      "riscoLactacao": "禁用，可能影响新生儿肾功能",
+      "administracao": "口服",
+      "doseMaxima": "每日32毫克",
+      "doseMinima": "每日4毫克",
+      "classificacao": "血管紧张素II受体拮抗剂 (ARB类)",
+      "apresentacao": "4、8、16、32毫克片剂",
+      "interacaoMedicamento": "与NSAIDs、锂、保钾利尿剂相互作用",
+      "posologia": "每日一次，根据临床反应调整",
+      "armazenamento": "常温保存，避免潮湿",
+      "preparo": "不需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、双侧肾动脉狭窄、过敏史",
+      "cuidadosMedicos": "监测肾功能、电解质、血压",
+      "cuidadosFarmaceuticos": "确保患者遵循用药方案",
+      "cuidadosEnfermagem": "定期监测血压，观察低血压症状",
+      "fontesBibliograficas": "FDA, 中国药典, ESC指南, Micromedex"
+    }
+  }
+}

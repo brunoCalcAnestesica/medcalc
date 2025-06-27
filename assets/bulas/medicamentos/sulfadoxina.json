@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sulfadoxina + Pirimetamina",
+      "suspension": "Suspender 72 horas antes da cirurgia eletiva",
+      "risk": "Potencial para toxicidade hematológica, hepática e interação com anestésicos",
+      "reintroduction": "Reintroduzir após cirurgia com função hepática e hematológica estáveis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfadoxina + Pirimetamina",
+      "nomeComercial": "Fansidar",
+      "mecanismoAcao": "Bloqueiam sequencialmente enzimas da via do ácido fólico do parasita",
+      "farmacocinetica": "Via oral, meia-vida longa (100–200 h), metabolização hepática",
+      "farmacodinamica": "Antimalárico sinérgico com ação esquizonticida em P. falciparum",
+      "indicacoes": "Tratamento e profilaxia de malária por P. falciparum",
+      "reacoesAdversas": "Reações cutâneas graves (Síndrome de Stevens-Johnson), anemia, hepatotoxicidade",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar; excreção no leite e risco hematológico",
+      "administracao": "Oral",
+      "doseMaxima": "3 comprimidos em dose única (adultos)",
+      "doseMinima": "1 comprimido (profilaxia)",
+      "classificacao": "Antimalárico (sulfonamida + antifólico)",
+      "apresentacao": "Comprimidos com 500 mg de sulfadoxina + 25 mg de pirimetamina",
+      "interacaoMedicamento": "Interage com metotrexato, sulfonilureias, fármacos hepatotóxicos",
+      "posologia": "1 dose única (3 comprimidos adultos)",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Discrasias sanguíneas, disfunção hepática grave, hipersensibilidade a sulfonamidas",
+      "cuidadosMedicos": "Monitorar função hepática, hemograma e sinais cutâneos",
+      "cuidadosFarmaceuticos": "Orientar sobre risco de reações graves e evitar exposição solar intensa",
+      "cuidadosEnfermagem": "Observar sinais de alergia, icterícia, anemia",
+      "fontesBibliograficas": "ANVISA, WHO, Micromedex, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sulfadoxine + Pyrimethamine",
+      "suspension": "Discontinue 72 hours prior to elective surgery",
+      "risk": "Potential hematologic and hepatic toxicity; anesthetic interactions",
+      "reintroduction": "Restart after surgery with stable hepatic and hematologic parameters"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfadoxine + Pyrimethamine",
+      "nomeComercial": "Fansidar",
+      "mecanismoAcao": "Sequential blockade of folate synthesis pathway enzymes in parasite",
+      "farmacocinetica": "Oral, long half-life (100–200 h), hepatic metabolism",
+      "farmacodinamica": "Synergistic antimalarial with schizonticidal activity against P. falciparum",
+      "indicacoes": "Treatment and prophylaxis of P. falciparum malaria",
+      "reacoesAdversas": "Severe skin reactions (SJS), anemia, hepatotoxicity",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid; excreted in milk, hematologic risk",
+      "administracao": "Oral",
+      "doseMaxima": "3 tablets single dose (adult)",
+      "doseMinima": "1 tablet (prophylaxis)",
+      "classificacao": "Antimalarial (sulfonamide + antifolate)",
+      "apresentacao": "Tablets with 500 mg sulfadoxine + 25 mg pyrimethamine",
+      "interacaoMedicamento": "Interacts with methotrexate, sulfonylureas, hepatotoxic agents",
+      "posologia": "Single dose (3 tablets for adults)",
+      "armazenamento": "Room temperature, protect from moisture",
+      "preparo": "Direct oral administration",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Blood dyscrasias, severe hepatic impairment, sulfonamide allergy",
+      "cuidadosMedicos": "Monitor liver function, CBC, and skin reactions",
+      "cuidadosFarmaceuticos": "Warn about serious skin reactions and avoid sun exposure",
+      "cuidadosEnfermagem": "Monitor for allergy, jaundice, anemia",
+      "fontesBibliograficas": "FDA, WHO, BNF, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sulfadoxina + Pirimetamina",
+      "suspension": "Suspender 72 horas antes de cirugía",
+      "risk": "Toxicidad hepática y hematológica; interacción con anestesia",
+      "reintroduction": "Reintroducir tras la cirugía si pruebas hepáticas y hematológicas normales"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfadoxina + Pirimetamina",
+      "nomeComercial": "Fansidar",
+      "mecanismoAcao": "Bloqueo secuencial de la vía del ácido fólico del parásito",
+      "farmacocinetica": "Oral, vida media prolongada (100–200 h), metabolismo hepático",
+      "farmacodinamica": "Antipalúdico sinérgico con acción esquizonticida contra P. falciparum",
+      "indicacoes": "Tratamiento y profilaxis de malaria por P. falciparum",
+      "reacoesAdversas": "SJS, anemia, hepatotoxicidad",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar en lactancia; riesgo hematológico",
+      "administracao": "Oral",
+      "doseMaxima": "3 comprimidos en dosis única",
+      "doseMinima": "1 comprimido",
+      "classificacao": "Antipalúdico (sulfonamida + antifólico)",
+      "apresentacao": "Tabletas con 500 mg sulfadoxina + 25 mg pirimetamina",
+      "interacaoMedicamento": "Interacción con metotrexato, sulfonilureas y hepatotóxicos",
+      "posologia": "Dosis única (3 comprimidos en adultos)",
+      "armazenamento": "Temperatura ambiente, protegido de la humedad",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Discrasias sanguíneas, insuficiencia hepática grave, alergia a sulfas",
+      "cuidadosMedicos": "Control hepático, hemograma y reacciones cutáneas",
+      "cuidadosFarmaceuticos": "Advertir sobre reacciones graves y evitar el sol",
+      "cuidadosEnfermagem": "Observar alergias, ictericia, anemia",
+      "fontesBibliograficas": "AEMPS, WHO, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "磺胺多辛 + 乙胺嘧啶",
+      "suspension": "术前72小时停药",
+      "risk": "潜在肝毒性和血液毒性；可能与麻醉药相互作用",
+      "reintroduction": "术后肝功能和血象正常后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磺胺多辛 + 乙胺嘧啶",
+      "nomeComercial": "Fansidar",
+      "mecanismoAcao": "联合抑制疟原虫叶酸合成酶通路",
+      "farmacocinetica": "口服，半衰期长（100–200小时），肝脏代谢",
+      "farmacodinamica": "对恶性疟具有协同杀裂殖体作用",
+      "indicacoes": "治疗和预防恶性疟",
+      "reacoesAdversas": "严重皮疹（SJS）、贫血、肝损伤",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免哺乳期使用，有血液毒性风险",
+      "administracao": "口服",
+      "doseMaxima": "单次3片（成人）",
+      "doseMinima": "1片（预防）",
+      "classificacao": "抗疟药（磺胺类+抗叶酸药）",
+      "apresentacao": "每片含磺胺多辛500mg + 乙胺嘧啶25mg",
+      "interacaoMedicamento": "与甲氨蝶呤、磺脲类、肝毒性药物相互作用",
+      "posologia": "成人单次服3片",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "血液病、重度肝功能损害、对磺胺类过敏",
+      "cuidadosMedicos": "监测肝功能、血常规及皮肤症状",
+      "cuidadosFarmaceuticos": "提示皮疹风险及避免日晒",
+      "cuidadosEnfermagem": "注意过敏、黄疸、贫血表现",
+      "fontesBibliograficas": "中国药典、WHO、Micromedex、UpToDate"
+    }
+  }
+}

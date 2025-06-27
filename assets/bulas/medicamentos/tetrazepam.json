@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tetrazepam",
+      "suspension": "Retirado do mercado em vários países devido a reações cutâneas graves; uso descontinuado",
+      "risk": "Reações anafiláticas, síndrome de Stevens-Johnson, sedação excessiva, dependência, depressão respiratória",
+      "reintroduction": "Não recomendado – considerar alternativas como ciclobenzaprina ou baclofeno"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tetrazepam",
+      "nomeComercial": "Myolastan, Musaril",
+      "mecanismoAcao": "Benzodiazepínico com afinidade pelo receptor GABA-A; exerce efeito miorrelaxante central",
+      "farmacocinetica": "Início ~1h, meia-vida 10–16h, metabolização hepática, excreção renal",
+      "farmacodinamica": "Relaxante muscular com propriedades ansiolíticas, sedativas e anticonvulsivantes leves",
+      "indicacoes": "Espasmos musculares dolorosos, distúrbios músculo-esqueléticos agudos (uso histórico)",
+      "reacoesAdversas": "Sedação, tontura, boca seca, fraqueza, exantema, urticária, SJS, TEN",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via oral",
+      "doseMaxima": "50 mg/dia",
+      "doseMinima": "25 mg/dia",
+      "classificacao": "Benzodiazepínico miorrelaxante central",
+      "apresentacao": "Comprimidos de 50mg",
+      "interacaoMedicamento": "Potencializa álcool, opioides, outros depressores; contraindicado com cetoconazol",
+      "posologia": "25–50 mg VO à noite ou dividido em 2 doses",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Miastenia grave, insuficiência respiratória severa, apneia do sono, hipersensibilidade",
+      "cuidadosMedicos": "Contraindicado na UE desde 2013; monitorar reações cutâneas graves",
+      "cuidadosFarmaceuticos": "Evitar prescrição; substituir por alternativa mais segura",
+      "cuidadosEnfermagem": "Observar sedação, respiração e manifestações alérgicas cutâneas",
+      "fontesBibliograficas": "EMA, FDA, ANSM, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tetrazepam",
+      "suspension": "Withdrawn from market in US and EU due to severe skin reactions; not recommended",
+      "risk": "Stevens-Johnson syndrome, toxic epidermal necrolysis, excessive sedation, dependence, respiratory depression",
+      "reintroduction": "Not recommended – consider safer alternatives like baclofen or cyclobenzaprine"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tetrazepam",
+      "nomeComercial": "Myolastan (discontinued)",
+      "mecanismoAcao": "Benzodiazepine acting on GABA-A receptors; produces central muscle relaxation",
+      "farmacocinetica": "Onset ~1h, half-life 10–16h, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Centrally acting muscle relaxant with mild anxiolytic and sedative effects",
+      "indicacoes": "Historically for painful muscle spasms; withdrawn due to safety concerns",
+      "reacoesAdversas": "Drowsiness, rash, dizziness, allergic skin reactions, SJS, TEN",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated – excreted in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "50 mg/day",
+      "doseMinima": "25 mg/day",
+      "classificacao": "Benzodiazepine; centrally acting muscle relaxant",
+      "apresentacao": "Tablets 50mg (no longer marketed)",
+      "interacaoMedicamento": "Potentiates opioids, alcohol, other depressants; contraindicated with CYP3A4 inhibitors",
+      "posologia": "25–50 mg once daily or in divided doses",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Direct oral use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Myasthenia gravis, severe respiratory failure, sleep apnea, hypersensitivity",
+      "cuidadosMedicos": "Banned in EU; avoid due to risk of severe skin reactions",
+      "cuidadosFarmaceuticos": "Do not dispense; recommend alternative",
+      "cuidadosEnfermagem": "Monitor for rash, sedation, respiratory depression",
+      "fontesBibliograficas": "EMA, FDA, Lexicomp, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tetrazepam",
+      "suspension": "Retirado del mercado en la UE por reacciones cutáneas graves",
+      "risk": "Síndrome de Stevens-Johnson, necrólisis epidérmica tóxica, sedación, dependencia",
+      "reintroduction": "No recomendado – considerar alternativas más seguras"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tetrazepam",
+      "nomeComercial": "Myolastan (retirado)",
+      "mecanismoAcao": "Benzodiacepina con acción relajante muscular central sobre receptores GABA-A",
+      "farmacocinetica": "Inicio ~1h, vida media 10–16h, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Relajante muscular de acción central con efectos sedantes suaves",
+      "indicacoes": "Espasmos musculares dolorosos (uso histórico)",
+      "reacoesAdversas": "Somnolencia, erupciones cutáneas, urticaria, SJS, TEN",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado; se excreta en leche materna",
+      "administracao": "Oral",
+      "doseMaxima": "50 mg/día",
+      "doseMinima": "25 mg/día",
+      "classificacao": "Benzodiacepina relajante muscular central",
+      "apresentacao": "Comprimidos 50mg (no disponible actualmente)",
+      "interacaoMedicamento": "Potencia efectos de opioides, alcohol, BZD; contraindicado con inhibidores del CYP3A4",
+      "posologia": "25–50 mg VO una vez al día o dividido",
+      "armazenamento": "Ambiente, protegido de luz",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Miastenia grave, insuficiencia respiratoria, apnea del sueño",
+      "cuidadosMedicos": "Retirado en UE por riesgos cutáneos graves",
+      "cuidadosFarmaceuticos": "No dispensar; sugerir alternativa",
+      "cuidadosEnfermagem": "Vigilar sedación, reacciones alérgicas, depresión respiratoria",
+      "fontesBibliograficas": "AEMPS, EMA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "替曲西泮",
+      "suspension": "因严重皮肤反应已在欧美停售，不建议继续使用",
+      "risk": "严重皮疹、SJS、TEN、镇静、成瘾、呼吸抑制",
+      "reintroduction": "不建议重新使用，应选用更安全替代药物"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "替曲西泮",
+      "nomeComercial": "Myolastan（已停售）",
+      "mecanismoAcao": "苯二氮䓬类药物，激活GABA-A受体产生中枢肌肉松弛",
+      "farmacocinetica": "起效约1小时，半衰期10–16小时，肝代谢，肾排泄",
+      "farmacodinamica": "中枢性肌肉松弛剂，具有轻度镇静与抗焦虑作用",
+      "indicacoes": "肌肉痉挛、肌肉疼痛（历史使用）",
+      "reacoesAdversas": "嗜睡、皮疹、荨麻疹、SJS、TEN",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用；可分泌入乳汁",
+      "administracao": "口服",
+      "doseMaxima": "每日50毫克",
+      "doseMinima": "每日25毫克",
+      "classificacao": "苯二氮䓬类中枢性肌松药",
+      "apresentacao": "50mg片剂（已停售）",
+      "interacaoMedicamento": "与酒精、阿片类、中枢抑制药有协同作用；与CYP3A4抑制剂禁用",
+      "posologia": "25–50mg每日1次或分次口服",
+      "armazenamento": "常温避光保存",
+      "preparo": "口服直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重症肌无力、严重呼吸衰竭、睡眠呼吸暂停、过敏史",
+      "cuidadosMedicos": "因皮肤不良反应已在欧盟禁用，避免使用",
+      "cuidadosFarmaceuticos": "不推荐使用，建议更安全替代方案",
+      "cuidadosEnfermagem": "观察镇静、皮疹、呼吸状况",
+      "fontesBibliograficas": "EMA, WHO, FDA, Micromedex"
+    }
+  }
+}

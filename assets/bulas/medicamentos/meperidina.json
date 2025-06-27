@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Meperidina",
+      "suspension": "Suspender 72h antes da cirurgia eletiva se uso crônico; evitar uso intraoperatório devido ao risco de toxicidade neurológica",
+      "risk": "Risco de convulsões, síndrome serotoninérgica, hipotensão, interações graves com IMAO, ISRS e antidepressivos tricíclicos",
+      "reintroduction": "Evitar reintrodução pós-operatória; considerar opioides alternativos mais seguros"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Meperidina",
+      "nomeComercial": "Dolosal, Demerol, Petidina",
+      "mecanismoAcao": "Agonista µ-opioide; também possui efeitos anticolinérgicos e estimulatórios centrais (via metabolito normeperidina)",
+      "farmacocinetica": "Início IV: 5min; pico: 20min; meia-vida: 3–5h (meperidina), 15–30h (normeperidina); metabolização hepática (CYP450)",
+      "farmacodinamica": "Analgésico opioide de curta duração e toxicidade cumulativa com uso prolongado; indicado apenas em situações específicas",
+      "indicacoes": "Dor aguda moderada a intensa (uso limitado), calafrios pós-anestésicos (off-label)",
+      "reacoesAdversas": "Náusea, tontura, sedação, confusão, taquicardia, convulsões, depressão respiratória, retenção urinária",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar; excretado no leite materno e potencialmente tóxico",
+      "administracao": "IV, IM, SC",
+      "doseMaxima": "600mg/dia (em pacientes sem insuficiência renal/hepática)",
+      "doseMinima": "25–50mg por via IV ou IM cada 4–6h",
+      "classificacao": "Opioide sintético (fenilpiperidina) de curta ação",
+      "apresentacao": "Ampolas injetáveis de 50mg/mL ou 100mg/mL",
+      "interacaoMedicamento": "ISRS, IMAO, TCA, antipsicóticos, benzodiazepínicos, álcool, tramadol",
+      "posologia": "IV: 25–50mg a cada 4–6h; IM: 50–100mg a cada 4h; ajustar em idosos e IR",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Diluir em SF para infusão lenta IV; IM profunda ou SC",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Uso com IMAO (últimos 14 dias), epilepsia, insuficiência renal/hepática grave, hipersensibilidade",
+      "cuidadosMedicos": "Evitar uso repetido; monitorar convulsões, sedação e toxicidade neuropsiquiátrica",
+      "cuidadosFarmaceuticos": "Evitar em idosos, ajustar dose por função renal/hepática, limitar duração do uso",
+      "cuidadosEnfermagem": "Monitorar sedação, FR, confusão, convulsões, náusea e eliminação urinária",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, Lexicomp, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Meperidine",
+      "suspension": "Discontinue 72h prior to elective surgery if on chronic use; avoid intraoperative use due to neurotoxicity risk",
+      "risk": "Seizures, serotonin syndrome, hypotension, interaction with MAOIs, SSRIs, TCAs, and CNS depressants",
+      "reintroduction": "Avoid postoperative reintroduction; consider safer opioid alternatives"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Meperidine Hydrochloride",
+      "nomeComercial": "Demerol",
+      "mecanismoAcao": "Full µ-opioid receptor agonist with central anticholinergic effects and neurotoxic metabolite (normeperidine)",
+      "farmacocinetica": "IV onset: 5min; peak: 20min; half-life: 3–5h (meperidine), 15–30h (normeperidine); hepatic metabolism via CYP450",
+      "farmacodinamica": "Short-acting opioid analgesic with limited use due to seizure risk; used for specific indications only",
+      "indicacoes": "Moderate to severe acute pain (short-term); postoperative shivering (off-label)",
+      "reacoesAdversas": "Nausea, dizziness, sedation, confusion, tachycardia, respiratory depression, seizures",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid during breastfeeding due to risk of infant sedation/toxicity",
+      "administracao": "IV, IM, SC",
+      "doseMaxima": "600mg/day in normal renal/hepatic function",
+      "doseMinima": "25–50mg IV or IM q4–6h",
+      "classificacao": "Synthetic opioid (phenylpiperidine)",
+      "apresentacao": "Injection ampoules: 50mg/mL, 100mg/mL",
+      "interacaoMedicamento": "SSRIs, MAOIs, TCAs, antipsychotics, CNS depressants, alcohol, tramadol",
+      "posologia": "IV: 25–50mg q4–6h; IM: 50–100mg q4h",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Dilute in NS for slow IV infusion; administer IM deep or SC",
+      "solucoesCompatíveis": "NS 0.9%",
+      "contraindicacoes": "MAOI use (within 14 days), epilepsy, severe renal/hepatic impairment, hypersensitivity",
+      "cuidadosMedicos": "Avoid repeat dosing; monitor for neurotoxicity, sedation, seizures",
+      "cuidadosFarmaceuticos": "Avoid in elderly; adjust for renal/liver function; limit duration",
+      "cuidadosEnfermagem": "Monitor sedation, RR, confusion, convulsions, GI and urinary effects",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Meperidina",
+      "suspension": "Suspender 72h antes de cirugía electiva si uso crónico; evitar uso intraoperatorio por toxicidad neurológica",
+      "risk": "Convulsiones, síndrome serotoninérgico, hipotensión, interacción con IMAO, ISRS y antidepresivos tricíclicos",
+      "reintroduction": "Evitar reintroducción postoperatoria; preferir opioides alternativos más seguros"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Meperidina",
+      "nomeComercial": "Dolosal, Demerol",
+      "mecanismoAcao": "Agonista µ-opioide con propiedades anticolinérgicas y metabolito neurotóxico (normeperidina)",
+      "farmacocinetica": "Inicio IV: 5min; pico: 20min; vida media: 3–5h (meperidina), 15–30h (normeperidina); metabolismo hepático",
+      "farmacodinamica": "Analgésico opioide de corta duración con riesgo de toxicidad; uso restringido a indicaciones específicas",
+      "indicacoes": "Dolor agudo moderado a severo, escalofríos postanestésicos (off-label)",
+      "reacoesAdversas": "Náuseas, mareo, sedación, confusión, taquicardia, convulsiones, depresión respiratoria",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante lactancia; riesgo de toxicidad en lactantes",
+      "administracao": "IV, IM, SC",
+      "doseMaxima": "600mg/día en pacientes con función renal/hepática normal",
+      "doseMinima": "25–50mg IV o IM cada 4–6h",
+      "classificacao": "Opioide sintético (fenilpiperidina) de acción corta",
+      "apresentacao": "Ampollas inyectables: 50mg/mL, 100mg/mL",
+      "interacaoMedicamento": "ISRS, IMAO, tricíclicos, antipsicóticos, depresores del SNC, alcohol, tramadol",
+      "posologia": "IV: 25–50mg cada 4–6h; IM: 50–100mg cada 4h",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "Diluir en SF para infusión lenta IV; IM profunda o SC",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Uso reciente de IMAO, epilepsia, insuficiencia renal/hepática grave, hipersensibilidad",
+      "cuidadosMedicos": "Evitar dosis repetidas; vigilar neurotoxicidad, sedación, convulsiones",
+      "cuidadosFarmaceuticos": "Evitar en ancianos; ajustar por función renal/hepática; limitar duración",
+      "cuidadosEnfermagem": "Vigilar sedación, FR, confusión, convulsiones, efectos digestivos y urinarios",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "哌替啶",
+      "suspension": "术前72小时停用慢性使用者；术中应避免使用，因神经毒性风险较高",
+      "risk": "癫痫发作、5-HT综合征、低血压、与MAOI、抗抑郁药、中枢抑制药相互作用显著",
+      "reintroduction": "术后应避免重新使用；推荐改用更安全的阿片类药物"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸哌替啶",
+      "nomeComercial": "Demerol, 哌替啶注射液",
+      "mecanismoAcao": "µ受体激动剂，具抗胆碱作用；代谢产物去甲哌替啶有神经毒性",
+      "farmacocinetica": "IV起效5分钟，达峰20分钟；半衰期3–5小时（母药），15–30小时（代谢物）；肝代谢",
+      "farmacodinamica": "短效阿片类镇痛药，使用受限；长期使用累积毒性高",
+      "indicacoes": "中重度急性疼痛、术后寒战（非适应症）",
+      "reacoesAdversas": "恶心、头晕、镇静、谵妄、心动过速、呼吸抑制、癫痫",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "分泌入乳汁，避免哺乳期使用",
+      "administracao": "静脉、肌注、皮下注射",
+      "doseMaxima": "每日不超过600mg（肝肾功能正常者）",
+      "doseMinima": "每次25–50mg，IV或IM，每4–6小时",
+      "classificacao": "短效合成阿片类镇痛药（苯哌啶类）",
+      "apresentacao": "注射液：50mg/mL 或 100mg/mL",
+      "interacaoMedicamento": "SSRIs、MAOIs、三环类、抗精神病药、酒精、曲马多",
+      "posologia": "IV：25–50mg每4–6小时；IM：50–100mg每4小时",
+      "armazenamento": "室温避光",
+      "preparo": "稀释于0.9%氯化钠，缓慢滴注；肌注需深层注射",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "近期使用MAOI、癫痫、重度肝肾功能不全、过敏史",
+      "cuidadosMedicos": "避免反复用药；监测神经毒性、镇静与癫痫发作",
+      "cuidadosFarmaceuticos": "老年人慎用；限制用药时间；监控肝肾功能",
+      "cuidadosEnfermagem": "评估意识状态、RR、疼痛、癫痫风险、泌尿消化功能",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Daunorrubicina",
+      "suspension": "Suspender 10 dias antes de cirurgia eletiva ou após recuperação hematológica completa",
+      "risk": "Mielossupressão, risco de infecção grave, cardiotoxicidade cumulativa, mucosite severa, extravasamento com necrose tecidual",
+      "reintroduction": "Reintroduzir após completa recuperação hematológica e avaliação cardiológica (geralmente após 14–21 dias da cirurgia)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Daunorrubicina",
+      "nomeComercial": "Daunoblastina, Cerubidine",
+      "mecanismoAcao": "Antibiótico antraciclínico; inibe topoisomerase II e interage com DNA causando quebras e inibição da replicação",
+      "farmacocinetica": "Administração IV, meia-vida bifásica (fase terminal 30h), metabolismo hepático, excreção biliar/renal",
+      "farmacodinamica": "Citotóxico potente com ação máxima em fase S; efeito cumulativo na função cardíaca",
+      "indicacoes": "Leucemia mieloide aguda (LMA), leucemia linfoblástica aguda (LLA), em esquemas combinados de indução",
+      "reacoesAdversas": "Leucopenia, anemia, trombocitopenia, alopecia, estomatite, náuseas, cardiomiopatia, extravasamento",
+      "riscoGravidez": "Categoria D – teratogênico, uso com risco avaliado em oncologia",
+      "riscoLactacao": "Contraindicado; excreção no leite materno desconhecida, mas provável",
+      "administracao": "Via intravenosa em bolus lento ou infusão",
+      "doseMaxima": "60mg/m² por dose; dose cumulativa cardíaca 550mg/m²",
+      "doseMinima": "30mg/m² por dose",
+      "classificacao": "Antibiótico citotóxico antraciclina",
+      "apresentacao": "Frascos-ampola 20mg, 50mg (pó liofilizado para reconstituição)",
+      "interacaoMedicamento": "Aumenta risco de cardiotoxicidade com outras antraciclinas; atenção à função hepática",
+      "posologia": "45–60mg/m²/dia IV por 1 a 3 dias em esquemas de indução, conforme protocolo",
+      "armazenamento": "Pó liofilizado refrigerado (2–8°C); solução reconstituída usar em até 24h sob refrigeração",
+      "preparo": "Reconstituir com água estéril; diluir em solução compatível sob capela de fluxo laminar",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, glicose 5%",
+      "contraindicacoes": "Supressão medular grave, cardiomiopatia, função hepática gravemente alterada",
+      "cuidadosMedicos": "Monitorar ECG, ecocardiograma seriado, hemograma, função hepática e sinais de extravasamento",
+      "cuidadosFarmaceuticos": "Proteger da luz; descartar resíduos como material citotóxico",
+      "cuidadosEnfermagem": "Observar sinais de infiltração, monitorar sinais vitais, toxicidade oral e hematológica",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Daunorubicin",
+      "suspension": "Discontinue 10 days before elective surgery or after complete blood count recovery",
+      "risk": "Myelosuppression, infection, cumulative cardiotoxicity, severe mucositis, tissue necrosis from extravasation",
+      "reintroduction": "Restart 14–21 days post-op if hematologic and cardiac status are stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Daunorubicin",
+      "nomeComercial": "Cerubidine",
+      "mecanismoAcao": "Intercalates into DNA, inhibits topoisomerase II, generates free radicals leading to DNA damage",
+      "farmacocinetica": "IV only; T½ terminal ~30h; hepatic metabolism; biliary and renal excretion",
+      "farmacodinamica": "Active during S-phase; dose-dependent cardiomyopathy with cumulative exposure",
+      "indicacoes": "AML, ALL – typically in combination chemotherapy regimens",
+      "reacoesAdversas": "Neutropenia, thrombocytopenia, alopecia, nausea, cardiotoxicity, vesicant extravasation injury",
+      "riscoGravidez": "Category D – potential teratogen",
+      "riscoLactacao": "Not recommended; likely excreted in breast milk",
+      "administracao": "IV slow push or short infusion",
+      "doseMaxima": "60mg/m²/day; lifetime cardiac cumulative dose 550mg/m²",
+      "doseMinima": "30mg/m²",
+      "classificacao": "Anthracycline cytotoxic antibiotic",
+      "apresentacao": "Vials 20mg, 50mg (lyophilized powder)",
+      "interacaoMedicamento": "Additive cardiotoxicity with other anthracyclines or radiation",
+      "posologia": "Typically 45–60mg/m²/day x 3 days in AML protocols",
+      "armazenamento": "Store powder at 2–8°C; use reconstituted solution within 24h if refrigerated",
+      "preparo": "Reconstitute with sterile water, handle in cytotoxic safety cabinet",
+      "solucoesCompatíveis": "Normal saline, D5W",
+      "contraindicacoes": "Severe hepatic dysfunction, active infection, preexisting cardiomyopathy",
+      "cuidadosMedicos": "Cardiac monitoring (ECHO, ECG), CBC, LFTs, extravasation surveillance",
+      "cuidadosFarmaceuticos": "Cytotoxic handling procedures; protect from light",
+      "cuidadosEnfermagem": "Infusion site monitoring; mucositis and blood count surveillance",
+      "fontesBibliograficas": "FDA, Cerubidine label, Micromedex, UpToDate, NCCN guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Daunorrubicina",
+      "suspension": "Suspender 10 días antes de cirugía o reanudar tras recuperación hematológica completa",
+      "risk": "Mielosupresión, cardiotoxicidad, mucositis, extravasación con necrosis tisular, riesgo infeccioso alto",
+      "reintroduction": "Reiniciar 14–21 días postoperatorio si recuperación hematológica y cardíaca es adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Daunorrubicina",
+      "nomeComercial": "Cerubidine, DaunoXome (liposomal)",
+      "mecanismoAcao": "Intercalante de ADN que inhibe topoisomerasa II, promoviendo roturas y muerte celular",
+      "farmacocinetica": "IV; metabolismo hepático; eliminación renal y biliar; T½ ~30h",
+      "farmacodinamica": "Fase S del ciclo celular; cardiotoxicidad dosis dependiente y acumulativa",
+      "indicacoes": "Leucemias agudas LMA y LLA; esquemas de inducción",
+      "reacoesAdversas": "Leucopenia, anemia, alopecia, náusea, cardiotoxicidad, necrosis por extravasación",
+      "riscoGravidez": "Categoría D – teratogénico",
+      "riscoLactacao": "No recomendado; posible excreción en leche",
+      "administracao": "Vía IV lenta o infusión corta",
+      "doseMaxima": "60mg/m²; dosis acumulada límite 550mg/m²",
+      "doseMinima": "30mg/m²",
+      "classificacao": "Antibiótico antraciclina antineoplásico",
+      "apresentacao": "Viales 20mg, 50mg",
+      "interacaoMedicamento": "Mayor toxicidad con radioterapia o antraciclinas",
+      "posologia": "45–60mg/m²/día por 3 días según protocolo",
+      "armazenamento": "Refrigerado (2–8°C), solución reconstituida válida 24h",
+      "preparo": "Ambiente estéril; bajo campana de bioseguridad",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%",
+      "contraindicacoes": "Disfunción hepática severa, infección activa, miocardiopatía previa",
+      "cuidadosMedicos": "Vigilancia cardiaca, hemograma, función hepática, signos de extravasación",
+      "cuidadosFarmaceuticos": "Manipulación citotóxica; proteger de la luz",
+      "cuidadosEnfermagem": "Monitorear sitio de infusión y recuentos celulares",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "柔红霉素",
+      "suspension": "择期手术前10天停用，或等血象恢复后再使用",
+      "risk": "骨髓抑制、感染、高累积剂量引发心脏毒性、严重口腔炎、外渗导致局部坏死",
+      "reintroduction": "术后14–21天，如心功能与血象稳定可恢复治疗"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "柔红霉素",
+      "nomeComercial": "Cerubidine（进口）、国产柔红霉素",
+      "mecanismoAcao": "插入DNA链、抑制拓扑异构酶II、引起DNA断裂",
+      "farmacocinetica": "静脉注射；肝脏代谢；半衰期30小时；胆汁和肾脏排泄",
+      "farmacodinamica": "S期活性强；随累计剂量增加心脏毒性风险升高",
+      "indicacoes": "急性髓系白血病（AML）、急性淋巴细胞白血病（ALL）",
+      "reacoesAdversas": "白细胞减少、口腔炎、脱发、恶心、心肌病、外渗坏死",
+      "riscoGravidez": "D类 – 禁用于孕期，具致畸性",
+      "riscoLactacao": "不推荐；可能分泌入乳汁",
+      "administracao": "静脉缓慢推注或短时输注",
+      "doseMaxima": "每日60mg/m²；累积剂量不超550mg/m²",
+      "doseMinima": "30mg/m²",
+      "classificacao": "蒽环类抗肿瘤抗生素",
+      "apresentacao": "20mg、50mg冻干粉",
+      "interacaoMedicamento": "与其他蒽环类药物或放疗联用增心脏毒性",
+      "posologia": "45–60mg/m²/d，连续3天，根据方案调整",
+      "armazenamento": "2–8°C冷藏；复溶液24h内使用",
+      "preparo": "无菌条件下配药；注意防护",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "重度肝功能障碍、心肌病、活动性感染",
+      "cuidadosMedicos": "心电图、心超、血常规、肝功能监测",
+      "cuidadosFarmaceuticos": "注意避光、防外渗、正确报废处理",
+      "cuidadosEnfermagem": "观察注射部位、水肿、口腔炎及心功能变化",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA、临床治疗指南"
+    }
+  }
+}

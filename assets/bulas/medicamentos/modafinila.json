@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Modafinila",
+      "suspension": "Suspender 2 dias antes de cirurgia eletiva devido a risco de interações com anestésicos e alterações cardiovasculares",
+      "risk": "Risco de insônia, cefaleia, taquicardia, ansiedade, hipertensão, erupções cutâneas graves",
+      "reintroduction": "Reintroduzir após retorno da via oral e estabilização cardiovascular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Modafinila",
+      "nomeComercial": "Modiodal, Provigil",
+      "mecanismoAcao": "Estimulante do SNC que aumenta liberação de dopamina e norepinefrina; mecanismo exato não totalmente esclarecido",
+      "farmacocinetica": "Oral; início em 1h; meia-vida ~12–15h; metabolização hepática (CYP3A4, CYP2C19)",
+      "farmacodinamica": "Promove vigília sem efeito euforizante típico de anfetaminas",
+      "indicacoes": "Narcolepsia, apneia obstrutiva do sono com sonolência residual, transtorno de sono por turnos",
+      "reacoesAdversas": "Insônia, dor de cabeça, ansiedade, náusea, hipertensão, erupções cutâneas",
+      "riscoGravidez": "Categoria C – evitar, potencial teratogenicidade",
+      "riscoLactacao": "Evitar uso contínuo; excreção desconhecida",
+      "administracao": "Oral, preferencialmente pela manhã",
+      "doseMaxima": "400mg/dia",
+      "doseMinima": "100mg/dia",
+      "classificacao": "Estimulante do SNC / agente promotor da vigília",
+      "apresentacao": "Comprimidos 100mg, 200mg",
+      "interacaoMedicamento": "Induz e inibe CYPs; interage com anticoncepcionais, benzodiazepínicos, antidepressivos",
+      "posologia": "200mg/dia pela manhã ou 1h antes do turno; dividir se necessário",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, arritmias não controladas, gravidez",
+      "cuidadosMedicos": "Monitorar PA, frequência cardíaca, sono e humor",
+      "cuidadosFarmaceuticos": "Educar sobre riscos cardiovasculares e interação com anticoncepcionais",
+      "cuidadosEnfermagem": "Observar ansiedade, distúrbios do sono, sinais cutâneos",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Modafinil",
+      "suspension": "Discontinue 2 days prior to surgery due to potential interactions with anesthetics and cardiovascular effects",
+      "risk": "Insomnia, headache, tachycardia, anxiety, hypertension, serious skin reactions",
+      "reintroduction": "Restart after oral intake and cardiovascular stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Modafinil",
+      "nomeComercial": "Provigil",
+      "mecanismoAcao": "CNS stimulant that increases dopamine and norepinephrine levels; exact mechanism unknown",
+      "farmacocinetica": "Oral; onset ~1h; half-life ~12–15h; hepatic metabolism (CYP3A4, CYP2C19)",
+      "farmacodinamica": "Promotes wakefulness without typical amphetamine euphoria",
+      "indicacoes": "Narcolepsy, obstructive sleep apnea with residual sleepiness, shift work disorder",
+      "reacoesAdversas": "Insomnia, headache, nausea, anxiety, hypertension, rash",
+      "riscoGravidez": "Category C – avoid if possible (potential teratogenicity)",
+      "riscoLactacao": "Avoid chronic use; unknown excretion",
+      "administracao": "Oral, preferably in the morning",
+      "doseMaxima": "400mg/day",
+      "doseMinima": "100mg/day",
+      "classificacao": "CNS stimulant / wakefulness-promoting agent",
+      "apresentacao": "Tablets 100mg, 200mg",
+      "interacaoMedicamento": "Induces/inhibits CYP enzymes; interacts with contraceptives, benzodiazepines, antidepressants",
+      "posologia": "200mg/day in the morning or 1h before shift; split dose if needed",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Oral use only",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, uncontrolled arrhythmias, pregnancy",
+      "cuidadosMedicos": "Monitor BP, HR, mood, sleep pattern",
+      "cuidadosFarmaceuticos": "Educate on contraceptive interactions and cardiovascular risks",
+      "cuidadosEnfermagem": "Monitor anxiety, insomnia, skin rash",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Modafinilo",
+      "suspension": "Suspender 2 días antes de cirugía por interacción con anestesia y efectos cardiovasculares",
+      "risk": "Insomnio, cefalea, ansiedad, hipertensión, taquicardia, erupciones graves",
+      "reintroduction": "Reiniciar tras estabilidad hemodinámica y oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Modafinilo",
+      "nomeComercial": "Provigil",
+      "mecanismoAcao": "Estimulante del SNC que aumenta dopamina y noradrenalina; mecanismo exacto no claro",
+      "farmacocinetica": "Oral; inicio ~1h; vida media 12–15h; metabolismo hepático (CYP3A4, CYP2C19)",
+      "farmacodinamica": "Promueve la vigilia sin euforia típica de anfetaminas",
+      "indicacoes": "Narcolepsia, apnea obstructiva del sueño, trastorno de sueño por turnos",
+      "reacoesAdversas": "Insomnio, cefalea, náuseas, ansiedad, hipertensión, rash cutáneo",
+      "riscoGravidez": "Categoría C – evitar si es posible",
+      "riscoLactacao": "Evitar uso crónico; excreción desconocida",
+      "administracao": "Oral, preferentemente por la mañana",
+      "doseMaxima": "400mg/día",
+      "doseMinima": "100mg/día",
+      "classificacao": "Estimulante del SNC / promotor de la vigilia",
+      "apresentacao": "Comprimidos 100mg, 200mg",
+      "interacaoMedicamento": "Interfiere con CYP; reduce eficacia anticonceptiva",
+      "posologia": "200mg por la mañana o 1h antes del turno; dividir si necesario",
+      "armazenamento": "Ambiente seco, protegido de luz",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipertensión, arritmias, embarazo",
+      "cuidadosMedicos": "Vigilar TA, frecuencia cardíaca, estado de ánimo y sueño",
+      "cuidadosFarmaceuticos": "Educar sobre interacciones hormonales y efectos CV",
+      "cuidadosEnfermagem": "Observar ansiedad, insomnio, erupciones cutáneas",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "莫达非尼（Modafinil）",
+      "suspension": "术前应提前2天停用，因可能与麻醉药相互作用并影响血压",
+      "risk": "可致失眠、头痛、心动过速、焦虑、高血压、皮疹",
+      "reintroduction": "术后血流动力学稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "莫达非尼",
+      "nomeComercial": "Provigil（普唯治）",
+      "mecanismoAcao": "中枢神经兴奋剂，提高多巴胺和去甲肾上腺素；机制尚不明确",
+      "farmacocinetica": "口服；起效1小时；半衰期12–15小时；肝脏CYP3A4代谢",
+      "farmacodinamica": "提升清醒度而无典型兴奋剂欣快感",
+      "indicacoes": "嗜睡症、阻塞性睡眠呼吸暂停综合征、轮班工作障碍",
+      "reacoesAdversas": "失眠、头痛、焦虑、恶心、高血压、重度皮疹",
+      "riscoGravidez": "C类 – 孕期慎用",
+      "riscoLactacao": "不推荐长期使用；排泄情况未知",
+      "administracao": "每日一次早晨口服",
+      "doseMaxima": "每日400mg",
+      "doseMinima": "每日100mg",
+      "classificacao": "中枢神经兴奋剂 / 清醒促进剂",
+      "apresentacao": "100mg、200mg片剂",
+      "interacaoMedicamento": "诱导或抑制CYP酶；影响避孕药、抗抑郁药、安眠药代谢",
+      "posologia": "200mg早晨服或轮班前1小时；可分次服",
+      "armazenamento": "室温干燥避光保存",
+      "preparo": "口服使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "心律失常、妊娠、高敏",
+      "cuidadosMedicos": "监测心率、血压、睡眠与情绪变化",
+      "cuidadosFarmaceuticos": "说明药物作用、避孕影响与可能皮疹",
+      "cuidadosEnfermagem": "观察焦虑、失眠及皮肤不良反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

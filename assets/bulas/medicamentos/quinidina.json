@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Quinidina",
+      "suspension": "Suspender 3–5 dias antes de cirurgias eletivas com risco de arritmias, interações anestésicas ou uso de bloqueadores do nó AV",
+      "risk": "Risco de prolongamento de QT, torsades de pointes, hipotensão e interações com anestésicos, betabloqueadores e digoxina",
+      "reintroduction": "Reintroduzir após estabilização eletrocardiográfica e função renal/hepática adequadas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Quinidina",
+      "nomeComercial": "Quiniduran, Quinaglute",
+      "mecanismoAcao": "Bloqueador dos canais rápidos de sódio (classe Ia) com ação anticolinérgica moderada; prolonga o potencial de ação e o intervalo QT",
+      "farmacocinetica": "Boa absorção oral; metabolização hepática (CYP3A4); meia-vida: 6–8h; excreção renal e biliar",
+      "farmacodinamica": "Aumenta o período refratário miocárdico; suprime arritmias supraventriculares e ventriculares",
+      "indicacoes": "Fibrilação e flutter atrial, taquicardias ventriculares, prevenção de arritmias recorrentes (uso limitado atualmente)",
+      "reacoesAdversas": "Torsades de pointes, prolongamento de QT, náuseas, cinconismo (tontura, zumbido, visão turva), hipotensão, bloqueios AV",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar; excreção no leite e potencial tóxico desconhecido",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "2000 mg/dia (oral); 10 mg/kg IV com monitoramento",
+      "doseMinima": "200 mg 2x/dia (oral, manutenção)",
+      "classificacao": "Antiarrítmico classe Ia",
+      "apresentacao": "Comprimidos 200 mg, solução IV 80 mg/mL",
+      "interacaoMedicamento": "Potencializa efeitos da digoxina, anticoagulantes; interage com amiodarona, verapamil, bloqueadores do nó AV",
+      "posologia": "Início: 200–400 mg VO 2–3x/dia; ajuste por resposta clínica e ECG",
+      "armazenamento": "Temperatura ambiente (15–30 °C); evitar umidade",
+      "preparo": "Uso direto; IV diluído em SG 5%, infundir lentamente com ECG contínuo",
+      "solucoesCompatíveis": "SG 5%",
+      "contraindicacoes": "Bloqueio AV completo sem marcapasso, prolongamento de QT, insuficiência cardíaca descompensada, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, função renal e hepática; precaução com fármacos que prolongam QT",
+      "cuidadosFarmaceuticos": "Confirmar compatibilidade IV; evitar coadministração com medicamentos QT-prolongadores",
+      "cuidadosEnfermagem": "Monitorar sinais de toxicidade: zumbido, tontura, arritmia, PA; uso com ECG contínuo",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, Bula Quiniduran"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Quinidine",
+      "suspension": "Discontinue 3–5 days prior to elective surgeries with arrhythmia or anesthetic interaction risk",
+      "risk": "Risk of QT prolongation, torsades de pointes, hypotension; interacts with anesthetics, beta-blockers, digoxin",
+      "reintroduction": "Restart after ECG stabilization and renal/hepatic reassessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Quinidine",
+      "nomeComercial": "Quinidex, Quinaglute",
+      "mecanismoAcao": "Class Ia sodium channel blocker with anticholinergic activity; prolongs action potential and QT interval",
+      "farmacocinetica": "Oral absorption; CYP3A4 metabolism; half-life: 6–8h; renal and biliary excretion",
+      "farmacodinamica": "Increases myocardial refractory period; suppresses atrial and ventricular arrhythmias",
+      "indicacoes": "Atrial fibrillation/flutter, ventricular tachycardia, arrhythmia prophylaxis (limited current use)",
+      "reacoesAdversas": "QT prolongation, torsades, cinchonism (tinnitus, dizziness), nausea, AV block, hypotension",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid; excretion and toxicity unknown",
+      "administracao": "Oral or IV",
+      "doseMaxima": "2000 mg/day (oral); 10 mg/kg IV under monitoring",
+      "doseMinima": "200 mg BID (maintenance)",
+      "classificacao": "Class Ia antiarrhythmic",
+      "apresentacao": "Tablets 200 mg; IV solution 80 mg/mL",
+      "interacaoMedicamento": "Enhances digoxin and warfarin effects; interacts with amiodarone, verapamil, AV blockers",
+      "posologia": "Start: 200–400 mg PO 2–3x/day; titrate to ECG and symptoms",
+      "armazenamento": "Room temperature (15–30 °C); avoid moisture",
+      "preparo": "Use directly; IV diluted in D5W; slow infusion with continuous ECG",
+      "solucoesCompatíveis": "D5W",
+      "contraindicacoes": "Complete AV block without pacemaker, QT prolongation, decompensated heart failure, hypersensitivity",
+      "cuidadosMedicos": "Monitor ECG, renal/liver function, electrolytes; avoid other QT-prolonging agents",
+      "cuidadosFarmaceuticos": "Verify IV compatibility; avoid polypharmacy with QT-risk drugs",
+      "cuidadosEnfermagem": "Observe for dizziness, tinnitus, hypotension, arrhythmias; use continuous ECG monitoring",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Quinidex Prescribing Info"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Quinidina",
+      "suspension": "Suspender 3–5 días antes de cirugía electiva con riesgo de arritmia o interacción anestésica",
+      "risk": "Prolongación del QT, torsades de pointes, hipotensión; interacción con anestésicos, digoxina, betabloqueadores",
+      "reintroduction": "Reiniciar tras estabilidad ECG y función hepatorrenal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Quinidina",
+      "nomeComercial": "Quiniduran, Quinaglute",
+      "mecanismoAcao": "Bloqueador de canales rápidos de sodio (clase Ia), acción anticolinérgica; prolonga el QT y el potencial de acción",
+      "farmacocinetica": "Absorción oral, metabolismo hepático (CYP3A4); T½: 6–8 h; eliminación renal y biliar",
+      "farmacodinamica": "Aumenta el período refractario; suprime arritmias auriculares y ventriculares",
+      "indicacoes": "Fibrilación auricular, taquicardia ventricular, profilaxis antiarrítmica (uso limitado hoy)",
+      "reacoesAdversas": "Torsades, QT largo, cinconismo (zumbidos, vértigo), náuseas, bloqueo AV, hipotensión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar; excreción y toxicidad no claras",
+      "administracao": "Oral o IV",
+      "doseMaxima": "2000 mg/día (oral); 10 mg/kg IV con monitorización",
+      "doseMinima": "200 mg 2x/día (mantenimiento)",
+      "classificacao": "Antiarrítmico clase Ia",
+      "apresentacao": "Comprimidos 200 mg; solución IV 80 mg/mL",
+      "interacaoMedicamento": "Potencia digoxina, anticoagulantes; interacción con amiodarona, verapamilo, bloqueadores AV",
+      "posologia": "Inicio: 200–400 mg VO 2–3x/día; ajustar según ECG",
+      "armazenamento": "Ambiente seco, 15–30 °C",
+      "preparo": "Uso directo; IV diluir en DAD 5%, infusión lenta con ECG",
+      "solucoesCompatíveis": "DAD 5%",
+      "contraindicacoes": "Bloqueo AV completo sin marcapasos, QT prolongado, IC descompensada, hipersensibilidad",
+      "cuidadosMedicos": "Monitoreo de ECG, electrólitos, función hepática y renal; evitar fármacos con riesgo de QT",
+      "cuidadosFarmaceuticos": "Confirmar compatibilidad IV y riesgos de interacción",
+      "cuidadosEnfermagem": "Observar arritmias, PA, tinnitus, mareos; usar ECG continuo",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Quiniduran"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奎尼丁（Quinidine）",
+      "suspension": "择期手术前3–5天停用，尤其合并心律失常或麻醉风险者",
+      "risk": "QT延长、尖端扭转型室速、低血压；与麻醉药、地高辛、β阻滞剂相互作用",
+      "reintroduction": "术后心电图稳定，肝肾功能评估后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奎尼丁",
+      "nomeComercial": "Quinidex、Quinaglute",
+      "mecanismoAcao": "Ia类抗心律失常药，阻断钠通道并延长动作电位，具一定抗胆碱作用",
+      "farmacocinetica": "口服吸收好；CYP3A4代谢；T½约6–8小时；肾和胆汁排泄",
+      "farmacodinamica": "延长心肌有效不应期，抑制心房与心室性心律失常",
+      "indicacoes": "房颤/房扑、室性心律失常、抗心律失常复律维持（现临床使用有限）",
+      "reacoesAdversas": "QT延长、尖端扭转、金鸡纳反应（耳鸣、头晕）、恶心、房室传导阻滞、低血压",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "禁用；分泌及毒性未知",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "口服每日不超2000 mg；IV最大10 mg/kg",
+      "doseMinima": "口服维持200 mg，每日2次",
+      "classificacao": "Ia类抗心律失常药",
+      "apresentacao": "200 mg片剂，80 mg/mL注射液",
+      "interacaoMedicamento": "增强地高辛、华法林作用；与胺碘酮、维拉帕米、房室阻滞剂同用需谨慎",
+      "posologia": "起始200–400 mg，每日2–3次，依ECG调整",
+      "armazenamento": "15–30°C，干燥保存",
+      "preparo": "IV用D5W稀释，缓慢滴注，需连续心电监护",
+      "solucoesCompatíveis": "5%葡萄糖",
+      "contraindicacoes": "无起搏器房室阻滞、QT延长、失代偿心衰、过敏史",
+      "cuidadosMedicos": "监测心电、肝肾功能、电解质；避免合用QT延长药物",
+      "cuidadosFarmaceuticos": "核对药物兼容性，避免联用风险药物",
+      "cuidadosEnfermagem": "关注耳鸣、眩晕、低血压、心律异常；使用心电图持续监测",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Quinidex说明书"
+    }
+  }
+}

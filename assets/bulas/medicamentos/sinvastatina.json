@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sinvastatina",
+      "suspension": "Manter ou suspender apenas em caso de rabdomiólise prévia ou insuficiência hepática",
+      "risk": "Miopatia, rabdomiólise, hepatotoxicidade; interage com anestésicos e medicamentos usados no perioperatório",
+      "reintroduction": "Reintroduzir após estabilização clínica e função hepática/muscular normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sinvastatina",
+      "nomeComercial": "Zocor, Sinvalip, Sinvatrox, Simvast, Vaslip",
+      "mecanismoAcao": "Inibe competitivamente a HMG-CoA redutase, reduzindo a síntese hepática de colesterol e aumentando a captação de LDL.",
+      "farmacocinetica": "Pró-fármaco inativo convertido no fígado; meia-vida ~2h; metabolização CYP3A4; excreção fecal.",
+      "farmacodinamica": "Redução de LDL, colesterol total e TG; modesto aumento de HDL; efeitos anti-inflamatórios vasculares.",
+      "indicacoes": "Hiperlipidemia, dislipidemia mista, prevenção primária e secundária de eventos cardiovasculares",
+      "reacoesAdversas": "Mialgia, cefaleia, constipação, elevação de TGO/TGP, rabdomiólise rara",
+      "riscoGravidez": "Categoria X (contraindicado)",
+      "riscoLactacao": "Contraindicado; excretado no leite",
+      "administracao": "Via oral, à noite, com ou sem alimentos",
+      "doseMaxima": "40mg/dia (60mg descontinuado por risco de rabdomiólise)",
+      "doseMinima": "10mg/dia",
+      "classificacao": "Estatina / inibidor da HMG-CoA redutase / hipolipemiante",
+      "apresentacao": "Comprimidos de 10, 20 e 40mg",
+      "interacaoMedicamento": "Interage com ciclosporina, amiodarona, verapamil, diltiazem, suco de grapefruit, fibratos, macrolídeos",
+      "posologia": "Inicial 10–20mg/dia, preferencialmente à noite",
+      "armazenamento": "Temperatura ambiente (<30°C), protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença hepática ativa, gravidez, lactação, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar TGO, TGP e CPK se dor muscular; ajustar dose com base em risco CV",
+      "cuidadosFarmaceuticos": "Orientar administração noturna e evitar uso com suco de toranja",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hepática e muscular",
+      "fontesBibliograficas": "Micromedex, Bula Zocor Anvisa, FDA Label, PubChem CID: 54454"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Simvastatin",
+      "suspension": "Continue unless myopathy or hepatic dysfunction is present",
+      "risk": "Risk of myopathy, rhabdomyolysis and hepatotoxicity; interacts with anesthesia and perioperative drugs",
+      "reintroduction": "Resume after clinical and hepatic/muscle stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Simvastatin",
+      "nomeComercial": "Zocor, Simlup, Vytorin (combo), Simcor",
+      "mecanismoAcao": "HMG-CoA reductase inhibitor; reduces cholesterol biosynthesis and increases hepatic LDL receptor activity.",
+      "farmacocinetica": "Prodrug activated in the liver; CYP3A4 metabolism; half-life ~2h; fecal elimination.",
+      "farmacodinamica": "Lowers LDL, total cholesterol and triglycerides; modest HDL increase; vascular anti-inflammatory effect.",
+      "indicacoes": "Hyperlipidemia, mixed dyslipidemia, CV risk reduction (primary/secondary)",
+      "reacoesAdversas": "Myalgia, liver enzyme elevation, headache, constipation, rare rhabdomyolysis",
+      "riscoGravidez": "Category X (contraindicated)",
+      "riscoLactacao": "Excreted in breast milk; contraindicated",
+      "administracao": "Oral, preferably at bedtime",
+      "doseMaxima": "40mg/day (80mg withdrawn due to rhabdomyolysis)",
+      "doseMinima": "10mg/day",
+      "classificacao": "Statin / HMG-CoA reductase inhibitor / lipid-lowering",
+      "apresentacao": "Tablets: 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Interacts with cyclosporine, amiodarone, verapamil, diltiazem, grapefruit juice, fibrates, macrolides",
+      "posologia": "Start 10–20mg/day at night; adjust based on lipid target",
+      "armazenamento": "Store at room temp (<30°C), protect from light",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active liver disease, pregnancy, lactation, hypersensitivity",
+      "cuidadosMedicos": "Monitor LFTs, CPK if muscle symptoms occur",
+      "cuidadosFarmaceuticos": "Advise bedtime dosing; avoid grapefruit juice",
+      "cuidadosEnfermagem": "Watch for muscle pain, liver dysfunction signs",
+      "fontesBibliograficas": "FDA, Micromedex, PubChem CID: 54454"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Simvastatina",
+      "suspension": "Mantener excepto si hay miopatía o hepatopatía",
+      "risk": "Miopatía, hepatotoxicidad; interacciones anestésicas",
+      "reintroduction": "Reanudar tras recuperación clínica hepática/muscular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Simvastatina",
+      "nomeComercial": "Zocor, Simval, Vytorin, Lipocor",
+      "mecanismoAcao": "Inhibidor de la HMG-CoA reductasa; reduce colesterol hepático y aumenta receptores LDL.",
+      "farmacocinetica": "Pró-fármaco activado en hígado; CYP3A4; vida media 2h; eliminación fecal.",
+      "farmacodinamica": "Reduce LDL, colesterol total y TG; aumento leve de HDL",
+      "indicacoes": "Dislipidemia, prevención CV primaria/secundaria",
+      "reacoesAdversas": "Mialgia, cefalea, estreñimiento, rabdomiólisis rara",
+      "riscoGravidez": "Categoría X (prohibido)",
+      "riscoLactacao": "Prohibido; se excreta en leche",
+      "administracao": "Vía oral, por la noche",
+      "doseMaxima": "40mg/día",
+      "doseMinima": "10mg/día",
+      "classificacao": "Estatina / hipolipemiante / HMG-CoA",
+      "apresentacao": "Comprimidos 10, 20 y 40mg",
+      "interacaoMedicamento": "Ciclosporina, amiodarona, verapamilo, zumo de toronja, fibratos, macrólidos",
+      "posologia": "10–20mg/día, preferentemente nocturna",
+      "armazenamento": "15–30°C, protegido de luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Enfermedad hepática, embarazo, lactancia",
+      "cuidadosMedicos": "Controlar TGO/TGP y CPK si síntomas musculares",
+      "cuidadosFarmaceuticos": "Evitar zumo de toronja, educar posología nocturna",
+      "cuidadosEnfermagem": "Vigilar quejas musculares, signos de hepatitis",
+      "fontesBibliograficas": "EMA, Micromedex, AEMPS, PubChem CID: 54454"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "辛伐他汀（Simvastatin）",
+      "suspension": "若无肌病或肝损伤，可继续使用",
+      "risk": "可能引发肌病、肝毒性，与麻醉剂有相互作用",
+      "reintroduction": "术后肝功能和肌酶恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "辛伐他汀",
+      "nomeComercial": "Zocor、信达宁、辛伐乐、瑞平脂",
+      "mecanismoAcao": "HMG-CoA还原酶抑制剂；减少胆固醇合成，提高LDL清除。",
+      "farmacocinetica": "为前药，经肝激活；CYP3A4代谢；半衰期2小时；粪便排泄。",
+      "farmacodinamica": "降低LDL、总胆固醇、甘油三酯，轻度升高HDL",
+      "indicacoes": "高脂血症、心血管病预防",
+      "reacoesAdversas": "肌痛、肝酶升高、头痛、便秘、极罕见横纹肌溶解",
+      "riscoGravidez": "X类（禁用）",
+      "riscoLactacao": "禁用于哺乳期",
+      "administracao": "口服，睡前服用效果最佳",
+      "doseMaxima": "每日40毫克",
+      "doseMinima": "每日10毫克",
+      "classificacao": "他汀类 / 降脂药 / HMG-CoA抑制剂",
+      "apresentacao": "10mg、20mg、40mg片剂",
+      "interacaoMedicamento": "与环孢素、胺碘酮、维拉帕米、葡萄柚汁等交互",
+      "posologia": "每晚一次10–20mg，根据需要调整",
+      "armazenamento": "15–30°C，避光",
+      "preparo": "不需要特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肝病、妊娠、哺乳",
+      "cuidadosMedicos": "监测肝功能和CPK；注意肌肉症状",
+      "cuidadosFarmaceuticos": "避免与葡萄柚同服，强调晚间服药",
+      "cuidadosEnfermagem": "关注肌肉无力、黄疸等征象",
+      "fontesBibliograficas": "FDA、Micromedex、PubChem CID: 54454"
+    }
+  }
+}

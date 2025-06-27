@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Gilteritinibe",
+      "suspension": "Suspender 5 dias antes de cirurgia eletiva em pacientes com prolongamento de QT ou risco cardiovascular significativo",
+      "risk": "Prolongamento de QT, síndrome de diferenciação, elevação de transaminases, pancreatite",
+      "reintroduction": "Reintroduzir após estabilização eletrocardiográfica e função hepática normalizada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gilteritinibe",
+      "nomeComercial": "Xospata",
+      "mecanismoAcao": "Inibidor da tirosina quinase FLT3, bloqueando a sinalização de proliferação celular em leucemias FLT3-mutadas",
+      "farmacocinetica": "Via oral; pico em 4–6 h; meia-vida ~113 h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Atividade antileucêmica em LMA com mutação FLT3, induz apoptose de células neoplásicas",
+      "indicacoes": "Leucemia mieloide aguda recidivada ou refratária com mutação FLT3",
+      "reacoesAdversas": "Síndrome de diferenciação, QT prolongado, náusea, transaminases elevadas, pancreatite",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral, 1x/dia",
+      "doseMaxima": "120 mg/dia",
+      "doseMinima": "80 mg/dia",
+      "classificacao": "Inibidor seletivo de tirosina quinase (FLT3)",
+      "apresentacao": "Comprimidos de 40 mg",
+      "interacaoMedicamento": "Evitar inibidores/indutores fortes de CYP3A4; risco com fármacos que prolongam QT",
+      "posologia": "120 mg VO 1x/dia até progressão ou toxicidade",
+      "armazenamento": "Temperatura ambiente (15–30 °C)",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, QTc > 500 ms, hepatite ativa, pancreatite aguda",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, transaminases, amilase/lipase",
+      "cuidadosFarmaceuticos": "Verificar interações e orientar sobre sinais de toxicidade",
+      "cuidadosEnfermagem": "Observar sinais de síndrome de diferenciação, hepatotoxicidade e sintomas abdominais",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, NCCN Guidelines AML"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Gilteritinib",
+      "suspension": "Discontinue 5 days before elective surgery if QT prolongation or cardiac risk is present",
+      "risk": "QT prolongation, differentiation syndrome, hepatotoxicity, pancreatitis",
+      "reintroduction": "Resume once ECG and liver function normalize"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gilteritinib",
+      "nomeComercial": "Xospata",
+      "mecanismoAcao": "FLT3 tyrosine kinase inhibitor targeting FLT3-ITD and TKD mutations",
+      "farmacocinetica": "Oral; Tmax 4–6 h; t½ ~113 h; metabolized by CYP3A4",
+      "farmacodinamica": "Induces apoptosis in FLT3-mutated AML cells",
+      "indicacoes": "R/R AML with FLT3 mutation",
+      "reacoesAdversas": "Differentiation syndrome, QTc prolongation, ALT/AST rise, GI effects",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral, once daily",
+      "doseMaxima": "120 mg/day",
+      "doseMinima": "80 mg/day",
+      "classificacao": "FLT3-selective TKI",
+      "apresentacao": "40 mg tablets",
+      "interacaoMedicamento": "Avoid strong CYP3A4 modulators; caution with QT-prolonging drugs",
+      "posologia": "120 mg PO daily until progression or toxicity",
+      "armazenamento": "15–30 °C",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, prolonged QTc, active hepatitis or pancreatitis",
+      "cuidadosMedicos": "Monitor ECG, LFTs, amylase, electrolytes",
+      "cuidadosFarmaceuticos": "Check drug interactions; advise on toxicity symptoms",
+      "cuidadosEnfermagem": "Observe for differentiation syndrome and GI/liver signs",
+      "fontesBibliograficas": "FDA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Gilteritinib",
+      "suspension": "Suspender 5 días antes de cirugía si QT largo o riesgo CV",
+      "risk": "Síndrome de diferenciación, hepatotoxicidad, pancreatitis, QT prolongado",
+      "reintroduction": "Reiniciar cuando ECG y función hepática se normalicen"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gilteritinib",
+      "nomeComercial": "Xospata",
+      "mecanismoAcao": "Inhibidor FLT3 tirosina quinasa",
+      "farmacocinetica": "Oral; Tmax 4–6 h; t½ ~113 h",
+      "farmacodinamica": "Induce apoptosis en células LMA FLT3+",
+      "indicacoes": "LMA R/R con mutación FLT3",
+      "reacoesAdversas": "Diferenciación, QTc, transaminasas, dolor GI",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "VO, 1x/día",
+      "doseMaxima": "120 mg/día",
+      "doseMinima": "80 mg/día",
+      "classificacao": "ITK selectivo FLT3",
+      "apresentacao": "40 mg comprimidos",
+      "interacaoMedicamento": "Evitar inhibidores/inductores CYP3A4",
+      "posologia": "120 mg VO diario",
+      "armazenamento": "15–30 °C",
+      "preparo": "Listo para usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, QT prolongado, hepatitis activa",
+      "cuidadosMedicos": "ECG, transaminasas, electrólitos",
+      "cuidadosFarmaceuticos": "Advertir sobre interacciones y toxicidad",
+      "cuidadosEnfermagem": "Vigilar síndrome diferenciación y toxicidad hepática",
+      "fontesBibliograficas": "EMA, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "吉尔替替尼（Gilteritinib）",
+      "suspension": "QT延长或心脏风险者术前5天停药",
+      "risk": "QT延长、分化综合征、肝毒性、胰腺炎",
+      "reintroduction": "术后心电与肝功能恢复后可重用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "吉尔替替尼",
+      "nomeComercial": "Xospata",
+      "mecanismoAcao": "FLT3酪氨酸激酶抑制剂，抑制肿瘤细胞增殖",
+      "farmacocinetica": "口服，达峰4–6小时，t½约113小时，经CYP3A4代谢",
+      "farmacodinamica": "诱导FLT3突变AML细胞凋亡",
+      "indicacoes": "FLT3突变型复发/难治AML",
+      "reacoesAdversas": "QT延长、分化综合征、转氨酶升高、胃肠不适",
+      "riscoGravidez": "D类，禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "口服，每日1次",
+      "doseMaxima": "每日120 mg",
+      "doseMinima": "每日80 mg",
+      "classificacao": "选择性FLT3激酶抑制剂",
+      "apresentacao": "40 mg片剂",
+      "interacaoMedicamento": "避免强CYP3A4抑制剂/诱导剂",
+      "posologia": "120 mg每日口服",
+      "armazenamento": "室温15–30°C",
+      "preparo": "无需配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "QT延长、活动性肝病、妊娠、急性胰腺炎",
+      "cuidadosMedicos": "监测ECG、电解质、肝酶、胰酶",
+      "cuidadosFarmaceuticos": "说明QT风险与药物交互",
+      "cuidadosEnfermagem": "观察分化综合征症状、胃肠不适",
+      "fontesBibliograficas": "FDA、NCCN、Micromedex、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Memantina",
+      "suspension": "Suspender 2 dias antes da cirurgia eletiva",
+      "risk": "Risco de agitação, hipertensão, interações com anestésicos e alterações cognitivas no pós-operatório",
+      "reintroduction": "Reintroduzir gradualmente após estabilização hemodinâmica e cognitiva"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Memantina",
+      "nomeComercial": "Ebixa, Namenda",
+      "mecanismoAcao": "Antagonista não competitivo do receptor NMDA, modulando a atividade glutamatérgica excessiva",
+      "farmacocinetica": "Biodisponibilidade oral ~100%; meia-vida ~60–80 h; excreção renal",
+      "farmacodinamica": "Reduz excitotoxicidade glutamatérgica, melhorando cognição e função em demência moderada a grave",
+      "indicacoes": "Demência moderada a grave por doença de Alzheimer",
+      "reacoesAdversas": "Tontura, cefaleia, constipação, hipertensão, alucinações, sonolência, confusão",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "Via oral",
+      "doseMaxima": "20 mg/dia",
+      "doseMinima": "5 mg/dia",
+      "classificacao": "Antidemencial – antagonista do receptor NMDA",
+      "apresentacao": "Comprimidos 5 mg e 10 mg; solução oral 10 mg/mL",
+      "interacaoMedicamento": "Interage com amantadina, cetamina, dextrometorfano, diuréticos tiazídicos",
+      "posologia": "Início com 5 mg/dia, aumentar semanalmente até 20 mg/dia em dose única ou dividida",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, insuficiência renal grave não ajustada",
+      "cuidadosMedicos": "Monitorar PA, função renal, estado mental e efeitos comportamentais",
+      "cuidadosFarmaceuticos": "Orientar sobre titulação gradual e horários regulares",
+      "cuidadosEnfermagem": "Observar agitação, alterações de humor e PA",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Memantine",
+      "suspension": "Discontinue 2 days before elective surgery",
+      "risk": "Risk of agitation, hypertension, anesthetic interaction, cognitive fluctuation post-op",
+      "reintroduction": "Restart post-op gradually after cognitive and hemodynamic stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Memantine",
+      "nomeComercial": "Namenda",
+      "mecanismoAcao": "Non-competitive NMDA receptor antagonist, modulating glutamate-mediated excitotoxicity",
+      "farmacocinetica": "Oral bioavailability ~100%; half-life ~60–80 h; renal excretion",
+      "farmacodinamica": "Protects neurons from glutamate toxicity; improves cognition in Alzheimer’s dementia",
+      "indicacoes": "Moderate to severe Alzheimer’s disease",
+      "reacoesAdversas": "Dizziness, headache, constipation, hypertension, hallucinations, somnolence, confusion",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral",
+      "doseMaxima": "20 mg/day",
+      "doseMinima": "5 mg/day",
+      "classificacao": "Antidementia – NMDA receptor antagonist",
+      "apresentacao": "Tablets 5 mg, 10 mg; oral solution 10 mg/mL",
+      "interacaoMedicamento": "Interacts with amantadine, ketamine, dextromethorphan, thiazide diuretics",
+      "posologia": "Start at 5 mg/day; increase weekly to 20 mg/day as tolerated",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, severe renal impairment without dose adjustment",
+      "cuidadosMedicos": "Monitor BP, renal function, mental status, behavior",
+      "cuidadosFarmaceuticos": "Educate on titration and adherence",
+      "cuidadosEnfermagem": "Observe agitation, mood changes, BP",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Memantina",
+      "suspension": "Suspender 2 días antes de cirugía electiva",
+      "risk": "Riesgo de agitación, hipertensión, interacción con anestesia y alteraciones cognitivas",
+      "reintroduction": "Reintroducir tras estabilidad hemodinámica y mental postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Memantina",
+      "nomeComercial": "Ebixa",
+      "mecanismoAcao": "Antagonista no competitivo de receptores NMDA, regula toxicidad por glutamato",
+      "farmacocinetica": "Biodisponibilidad oral ~100%; vida media 60–80 h; eliminación renal",
+      "farmacodinamica": "Protege neuronas de excitotoxicidad; mejora cognición en Alzheimer",
+      "indicacoes": "Demencia moderada a severa por enfermedad de Alzheimer",
+      "reacoesAdversas": "Mareos, cefalea, estreñimiento, hipertensión, alucinaciones, confusión",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Vía oral",
+      "doseMaxima": "20 mg/día",
+      "doseMinima": "5 mg/día",
+      "classificacao": "Antidemencia – antagonista NMDA",
+      "apresentacao": "Comprimidos 5 y 10 mg; solución 10 mg/mL",
+      "interacaoMedicamento": "Interacción con amantadina, ketamina, dextrometorfano, diuréticos tiazídicos",
+      "posologia": "Iniciar 5 mg/día; aumentar semanalmente hasta 20 mg/día",
+      "armazenamento": "15–30°C",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, insuficiencia renal severa sin ajuste",
+      "cuidadosMedicos": "Controlar PA, función renal, estado mental y conducta",
+      "cuidadosFarmaceuticos": "Educación sobre escalado y adherencia",
+      "cuidadosEnfermagem": "Vigilar agitación, presión arterial, conducta",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "美金刚（盐酸美金刚）",
+      "suspension": "术前2天停药",
+      "risk": "术后激动、高血压、麻醉药物相互作用、认知波动",
+      "reintroduction": "术后认知和血流动力学稳定后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "美金刚",
+      "nomeComercial": "Ebixa, Namenda",
+      "mecanismoAcao": "非竞争性NMDA受体拮抗剂，调节谷氨酸兴奋毒性",
+      "farmacocinetica": "口服生物利用度100%；半衰期60–80小时；肾排泄",
+      "farmacodinamica": "减少谷氨酸毒性，改善中重度阿尔茨海默病认知功能",
+      "indicacoes": "中重度阿尔茨海默型痴呆",
+      "reacoesAdversas": "头晕、便秘、高血压、幻觉、嗜睡、困惑",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "不推荐",
+      "administracao": "口服",
+      "doseMaxima": "每日20毫克",
+      "doseMinima": "每日5毫克",
+      "classificacao": "抗痴呆药 – NMDA受体拮抗剂",
+      "apresentacao": "片剂5/10 mg，口服液10 mg/mL",
+      "interacaoMedicamento": "与金刚烷胺、氯胺酮、右美沙芬、噻嗪类利尿剂相互作用",
+      "posologia": "起始每日5 mg，逐周增加至20 mg",
+      "armazenamento": "15–30°C，避光",
+      "preparo": "无需配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重度肾功能不全未调整剂量",
+      "cuidadosMedicos": "监测血压、肾功能、认知状态",
+      "cuidadosFarmaceuticos": "教育按时服药，逐步增加剂量",
+      "cuidadosEnfermagem": "观察激动、便秘、血压升高及幻觉",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex"
+    }
+  }
+}

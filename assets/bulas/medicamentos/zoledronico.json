@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido Zoledrônico",
+      "suspension": "Suspender 60 a 90 dias antes de procedimentos odontológicos invasivos em pacientes com uso prolongado (>5 anos) e fatores de risco. Não suspender rotineiramente antes de cirurgia ortopédica ou anestesia geral",
+      "risk": "Risco elevado de osteonecrose de mandíbula (MRONJ), principalmente após extrações dentárias e implantes em pacientes com uso prolongado por via EV. Também há risco de fraturas atípicas de fêmur e retardo na cicatrização óssea. Requer avaliação odontológica e ortopédica prévia nos casos selecionados",
+      "reintroduction": "Reintroduzir somente após completa cicatrização óssea e avaliação odontológica ou ortopédica rigorosa. Monitorar função renal e marcadores ósseos."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Zoledrônico",
+      "nomeComercial": "Aclasta, Zometa, Zolena, Zomibone",
+      "mecanismoAcao": "Inibe a reabsorção óssea por inibição da atividade dos osteoclastos, ligando-se à hidroxiapatita do osso",
+      "farmacocinetica": "Administração IV, captação rápida pelos ossos, meia-vida óssea superior a 10 anos, eliminação renal",
+      "farmacodinamica": "Reduz o remodelamento ósseo, aumenta densidade mineral e reduz fraturas em pacientes com osteoporose e metástases ósseas",
+      "indicacoes": "Osteoporose, doença de Paget, hipercalcemia maligna, prevenção de eventos esqueléticos em neoplasias ósseas",
+      "reacoesAdversas": "Febre, dor óssea, mialgia, hipocalcemia, osteonecrose de mandíbula (MRONJ), especialmente após procedimentos odontológicos invasivos em uso EV prolongado, fraturas atípicas de fêmur, insuficiência renal",
+      "riscoGravidez": "Categoria D (risco fetal estabelecido)",
+      "riscoLactacao": "Contraindicado durante a lactação",
+      "administracao": "Infusão intravenosa lenta (15 minutos)",
+      "doseMaxima": "5 mg/ano (osteoporose) ou 4 mg/mês (onco-hematologia)",
+      "doseMinima": "4 mg a cada 3 meses (em prevenção)",
+      "classificacao": "Bifosfonato – potente inibidor da reabsorção óssea",
+      "apresentacao": "Frascos de 5 mg/100 mL ou 4 mg/5 mL (concentrado para diluição)",
+      "interacaoMedicamento": "Aumenta risco de nefrotoxicidade com AINEs, aminoglicosídeos e diuréticos de alça; evitar uso simultâneo com cálcio IV",
+      "posologia": "5 mg IV anual (osteoporose); 4 mg IV mensal (metástases)",
+      "armazenamento": "Temperatura entre 2–8 °C; proteger da luz",
+      "preparo": "Pronto para uso ou diluir conforme protocolo institucional",
+      "solucoesCompatíveis": "Soro fisiológico ou glicose 5%",
+      "contraindicacoes": "Hipocalcemia, disfunção renal (ClCr < 35 mL/min), gravidez, hipersensibilidade e cirurgia odontológica invasiva iminente sem avaliação especializada em pacientes com uso EV crônico",
+      "cuidadosMedicos": "Avaliar função renal, cálcio e vitamina D antes de cada dose; investigar e tratar condições odontológicas antes do início; considerar suspensão temporária apenas se cirurgia odontológica de alto risco for planejada e houver uso prolongado (>5 anos)",
+      "cuidadosFarmaceuticos": "Usar com bomba de infusão lenta; evitar extravasamento Alertar sobre a necessidade de avaliação odontológica antes de cirurgias em pacientes em uso prolongado ou EV.",
+      "cuidadosEnfermagem": "Hidratar o paciente antes da infusão; monitorar sintomas gripais pós-dose",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex, SBEM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Zoledronic Acid",
+      "suspension": "Discontinue at least 30 days prior to surgery involving bone or invasive dental procedures",
+      "risk": "High risk of jaw osteonecrosis, delayed bone healing, and renal complications. Requires specialized evaluation before reinitiation.",
+      "reintroduction": "Reintroduce only after complete bone healing and dental/orthopedic assessment. Monitor renal function and bone markers."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zoledronic Acid",
+      "nomeComercial": "Zometa, Reclast, Aclasta",
+      "mecanismoAcao": "Inhibits osteoclast-mediated bone resorption by binding to hydroxyapatite in bone",
+      "farmacocinetica": "IV administration; rapid skeletal uptake; bone half-life >10 years; renal excretion",
+      "farmacodinamica": "Reduces bone turnover, increases BMD, prevents skeletal-related events in cancer and osteoporosis",
+      "indicacoes": "Osteoporosis, Paget’s disease, malignancy-related hypercalcemia, prevention of bone metastasis complications",
+      "reacoesAdversas": "Fever, bone pain, myalgia, hypocalcemia, jaw osteonecrosis, renal impairment",
+      "riscoGravidez": "Category D (positive evidence of fetal risk)",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "IV infusion over at least 15 minutes",
+      "doseMaxima": "5 mg/year (osteoporosis), 4 mg/month (oncology)",
+      "doseMinima": "4 mg every 3 months (prevention)",
+      "classificacao": "Bisphosphonate – potent antiresorptive agent",
+      "apresentacao": "Vials 5 mg/100 mL or 4 mg/5 mL (concentrate)",
+      "interacaoMedicamento": "Nephrotoxicity risk with NSAIDs, aminoglycosides, loop diuretics; avoid IV calcium simultaneously",
+      "posologia": "5 mg/year IV (osteoporosis); 4 mg/month IV (bone metastasis)",
+      "armazenamento": "Store 2–8°C, protect from light",
+      "preparo": "Ready-to-use or dilute according to protocol",
+      "solucoesCompatíveis": "Normal saline or D5W",
+      "contraindicacoes": "Hypocalcemia, CrCl <35 mL/min, pregnancy, hypersensitivity",
+      "cuidadosMedicos": "Check renal function and calcium levels before administration",
+      "cuidadosFarmaceuticos": "Use infusion pump; avoid extravasation",
+      "cuidadosEnfermagem": "Ensure adequate hydration; monitor post-dose flu-like symptoms",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex, AACE"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido Zoledrónico",
+      "suspension": "Suspender al menos 30 días antes de cirugía ósea o procedimiento dental invasivo",
+      "risk": "Alto riesgo de osteonecrosis mandibular, retardo en la cicatrización ósea y disfunción renal. Evaluación especializada requerida.",
+      "reintroduction": "Reintroducir tras cicatrización completa y evaluación médica dental u ortopédica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Zoledrónico",
+      "nomeComercial": "Zometa, Aclasta, Zoledronato Sandoz",
+      "mecanismoAcao": "Inhibe la resorción ósea mediada por osteoclastos, uniéndose a hidroxiapatita ósea",
+      "farmacocinetica": "IV, rápida captación ósea, vida media >10 años, excreción renal",
+      "farmacodinamica": "Disminuye el recambio óseo, aumenta la densidad mineral y previene eventos esqueléticos",
+      "indicacoes": "Osteoporosis, enfermedad de Paget, hipercalcemia maligna, metástasis óseas",
+      "reacoesAdversas": "Fiebre, dolor óseo, mialgia, hipocalcemia, osteonecrosis mandibular, nefropatía",
+      "riscoGravidez": "Categoría D (evidencia de riesgo fetal)",
+      "riscoLactacao": "Contraindicado en lactancia",
+      "administracao": "Infusión IV lenta (mínimo 15 min)",
+      "doseMaxima": "5 mg/año o 4 mg/mes",
+      "doseMinima": "4 mg cada 3 meses",
+      "classificacao": "Bifosfonato – potente antiresortivo",
+      "apresentacao": "Frasco 5 mg/100 mL o 4 mg/5 mL",
+      "interacaoMedicamento": "Mayor toxicidad renal con AINEs, aminoglucósidos y diuréticos de asa; evitar calcio IV simultáneo",
+      "posologia": "5 mg IV anual (osteoporosis), 4 mg mensual (metástasis)",
+      "armazenamento": "2–8°C, proteger de la luz",
+      "preparo": "Listo para uso o diluir según protocolo",
+      "solucoesCompatíveis": "SF o glucosa al 5%",
+      "contraindicacoes": "Hipocalcemia, ClCr < 35 mL/min, embarazo, alergia",
+      "cuidadosMedicos": "Controlar función renal y calcio antes de administrar",
+      "cuidadosFarmaceuticos": "Infusión lenta con bomba, evitar extravasación",
+      "cuidadosEnfermagem": "Hidratar previamente; vigilar síntomas gripales post-infusión",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "唑来膦酸",
+      "suspension": "涉及骨组织或牙科手术前至少停药30天",
+      "risk": "高风险下颌骨坏死、骨愈合延迟与肾毒性，需术前专科评估",
+      "reintroduction": "骨愈合后且牙科或骨科医生确认后方可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "唑来膦酸",
+      "nomeComercial": "Zometa, Aclasta, 唑来膦酸注射液",
+      "mecanismoAcao": "通过结合骨羟磷灰石抑制破骨细胞活性，降低骨吸收",
+      "farmacocinetica": "静脉注射，快速分布于骨组织，骨中半衰期 >10年，经肾排泄",
+      "farmacodinamica": "减少骨转换，增强骨密度，防止癌症相关骨事件",
+      "indicacoes": "骨质疏松、佩吉特病、高钙血症、骨转移相关并发症",
+      "reacoesAdversas": "发热、骨痛、低钙血症、下颌骨坏死、肾损伤",
+      "riscoGravidez": "D类（已知胎儿风险）",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉输注，时间不少于15分钟",
+      "doseMaxima": "每年5毫克（骨质疏松）；每月4毫克（肿瘤）",
+      "doseMinima": "每3个月4毫克",
+      "classificacao": "双膦酸盐 – 强效骨吸收抑制剂",
+      "apresentacao": "5 mg/100 mL 或 4 mg/5 mL小瓶",
+      "interacaoMedicamento": "与NSAIDs、氨基糖苷类、袢利尿剂合用增加肾毒性；避免同时使用IV钙剂",
+      "posologia": "骨质疏松每年5mg；骨转移每月4mg",
+      "armazenamento": "2–8°C保存，避光",
+      "preparo": "可即用，也可按机构规定稀释",
+      "solucoesCompatíveis": "0.9%氯化钠或5%葡萄糖",
+      "contraindicacoes": "低钙血症、严重肾功能不全、妊娠、过敏史",
+      "cuidadosMedicos": "使用前监测肾功能和钙水平",
+      "cuidadosFarmaceuticos": "使用泵缓慢输注，避免外渗",
+      "cuidadosEnfermagem": "提前补液，监测输注后不适症状",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

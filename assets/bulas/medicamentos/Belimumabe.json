@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Belimumabe",
+      "suspension": "Suspender 10 dias antes de cirurgias eletivas",
+      "risk": "Imunossupressão prolongada, risco de infecção cirúrgica, atraso na cicatrização e risco de reativação viral",
+      "reintroduction": "Reintroduzir após avaliação imunológica e cicatrização completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Belimumabe",
+      "nomeComercial": "Benlysta",
+      "mecanismoAcao": "Anticorpo monoclonal IgG1 que inibe a proteína solúvel BLyS (B-lymphocyte stimulator), reduzindo a sobrevivência dos linfócitos B autorreativos",
+      "farmacocinetica": "Meia-vida ~19 dias; metabolismo proteico; eliminação não renal",
+      "farmacodinamica": "Diminui a autoimunidade B-dependente, com redução da produção de autoanticorpos",
+      "indicacoes": "Lúpus eritematoso sistêmico ativo (LES), nefrite lúpica (uso IV), em pacientes refratários a imunossupressores convencionais",
+      "reacoesAdversas": "Infecções do trato respiratório, náuseas, diarreia, reações infusionais, depressão",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhece-se se é excretado no leite; evitar se possível",
+      "administracao": "Intravenosa (infusão) ou subcutânea (injeção semanal)",
+      "doseMaxima": "10 mg/kg IV a cada 4 semanas; 200 mg SC semanal",
+      "doseMinima": "200 mg SC semanal",
+      "classificacao": "Imunobiológico – anticorpo anti-BLyS (anti-BAFF)",
+      "apresentacao": "Pó liofilizado 120 mg ou 400 mg para infusão; seringa ou caneta pré-cheia SC 200 mg",
+      "interacaoMedicamento": "Evitar uso com outras terapias biológicas ou ciclofosfamida IV concomitante",
+      "posologia": "IV: 10 mg/kg nos dias 0, 14, 28, e a cada 4 semanas; SC: 200 mg/semana",
+      "armazenamento": "Refrigerado 2–8°C; não congelar; solução reconstituída deve ser usada em até 8 h",
+      "preparo": "Reconstituir em água estéril e diluir em NaCl 0,9% (para infusão); SC pronto para uso",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Hipersensibilidade ao belimumabe; infecções graves ativas",
+      "cuidadosMedicos": "Monitorar sinais de infecção, função imunológica e sinais psiquiátricos",
+      "cuidadosFarmaceuticos": "Conferir diluição asséptica, tempo de uso e validade pós-reconstituição",
+      "cuidadosEnfermagem": "Monitorar reações infusionais e instruir aplicação subcutânea segura",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Medscape, Micromedex, Benlysta bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Belimumab",
+      "suspension": "Discontinue 10 days prior to elective surgery",
+      "risk": "Prolonged immunosuppression; increased infection and wound healing risks",
+      "reintroduction": "Restart after surgical recovery and immune reassessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Belimumab",
+      "nomeComercial": "Benlysta",
+      "mecanismoAcao": "IgG1λ monoclonal antibody targeting soluble BLyS, reducing B-cell survival",
+      "farmacocinetica": "t½ ~19 days; protein metabolism; non-renal elimination",
+      "farmacodinamica": "Decreases autoreactive B-cell activity and autoantibody production",
+      "indicacoes": "Systemic lupus erythematosus, lupus nephritis (IV), in refractory patients",
+      "reacoesAdversas": "Infections, nausea, diarrhea, infusion reactions, depression",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown if excreted in milk; avoid if possible",
+      "administracao": "IV infusion or subcutaneous injection",
+      "doseMaxima": "10 mg/kg IV every 4 weeks; 200 mg SC weekly",
+      "doseMinima": "200 mg SC weekly",
+      "classificacao": "Biologic – anti-BLyS monoclonal antibody",
+      "apresentacao": "120 mg or 400 mg lyophilized powder (IV); 200 mg prefilled syringe/pen (SC)",
+      "interacaoMedicamento": "Avoid concurrent use with biologics or IV cyclophosphamide",
+      "posologia": "IV: 10 mg/kg on days 0, 14, 28, then q4wk; SC: 200 mg weekly",
+      "armazenamento": "Store at 2–8°C; do not freeze; use reconstituted solution within 8h",
+      "preparo": "Reconstitute with sterile water, dilute in 0.9% NaCl; SC ready-to-use",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Hypersensitivity, serious active infections",
+      "cuidadosMedicos": "Monitor infection, immune function, and psychiatric symptoms",
+      "cuidadosFarmaceuticos": "Check aseptic reconstitution, shelf-life, stability",
+      "cuidadosEnfermagem": "Watch for infusion reactions; instruct safe SC injection",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex, Benlysta prescribing info"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Belimumab",
+      "suspension": "Suspender 10 días antes de cirugía electiva",
+      "risk": "Inmunosupresión prolongada, mayor riesgo de infección y retraso cicatricial",
+      "reintroduction": "Reintroducir tras recuperación y evaluación inmunológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Belimumab",
+      "nomeComercial": "Benlysta",
+      "mecanismoAcao": "Anticuerpo monoclonal IgG1 que inhibe BLyS, reduciendo linfocitos B autorreactivos",
+      "farmacocinetica": "t½ ~19 días; metabolismo proteico",
+      "farmacodinamica": "Reduce la autoinmunidad B-dependiente y producción de autoanticuerpos",
+      "indicacoes": "Lupus eritematoso sistémico, nefritis lúpica (IV)",
+      "reacoesAdversas": "Infecciones, náuseas, diarrea, reacciones a la infusión, depresión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido si se excreta; evitar si es posible",
+      "administracao": "IV o subcutánea",
+      "doseMaxima": "10 mg/kg IV c/4 semanas; 200 mg SC/semana",
+      "doseMinima": "200 mg SC/semana",
+      "classificacao": "Biológico – anticuerpo monoclonal anti-BLyS",
+      "apresentacao": "Polvo liofilizado 120 mg o 400 mg; jeringa SC 200 mg",
+      "interacaoMedicamento": "Evitar con otros biológicos o ciclofosfamida IV",
+      "posologia": "IV días 0, 14, 28, luego mensual; SC semanal",
+      "armazenamento": "2–8°C; no congelar; solución usar en 8 h",
+      "preparo": "Diluir con agua estéril y luego en NaCl 0,9%",
+      "solucoesCompatíveis": "ClNa 0,9%",
+      "contraindicacoes": "Hipersensibilidad, infecciones graves activas",
+      "cuidadosMedicos": "Vigilar infecciones, función inmunitaria, depresión",
+      "cuidadosFarmaceuticos": "Controlar técnica aséptica y estabilidad",
+      "cuidadosEnfermagem": "Supervisar reacciones y uso domiciliario SC",
+      "fontesBibliograficas": "FDA, EMA, Benlysta, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "贝利尤单抗",
+      "suspension": "择期手术前10天停药",
+      "risk": "免疫抑制时间长，术后感染与愈合延迟风险增高",
+      "reintroduction": "术后恢复与免疫评估正常后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "贝利尤单抗",
+      "nomeComercial": "Benlysta",
+      "mecanismoAcao": "IgG1型单克隆抗体，靶向BLyS，降低B细胞活性与自身抗体",
+      "farmacocinetica": "半衰期约19天，蛋白代谢",
+      "farmacodinamica": "抑制自身免疫B细胞反应，减轻SLE活动",
+      "indicacoes": "系统性红斑狼疮，狼疮性肾炎",
+      "reacoesAdversas": "感染、恶心、腹泻、输注反应、抑郁",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "未知是否排泄至乳汁，建议避免",
+      "administracao": "静脉输注或皮下注射",
+      "doseMaxima": "IV：10 mg/kg；SC：每周200 mg",
+      "doseMinima": "每周200 mg SC",
+      "classificacao": "生物制剂 – 抗BLyS抗体",
+      "apresentacao": "120/400 mg冻干粉；200 mg预充注射笔",
+      "interacaoMedicamento": "避免与其他生物制剂或IV环磷酰胺联用",
+      "posologia": "IV首月3次，之后每4周；SC每周1次",
+      "armazenamento": "2–8°C，稀释后8小时内使用",
+      "preparo": "注射液稀释至0.9%氯化钠",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对本品或感染活动期者禁用",
+      "cuidadosMedicos": "监测感染征象与抑郁症状",
+      "cuidadosFarmaceuticos": "冷链管理与稀释无菌操作",
+      "cuidadosEnfermagem": "监督SC注射与不良反应",
+      "fontesBibliograficas": "FDA，Benlysta说明书，Micromedex，Medscape"
+    }
+  }
+}

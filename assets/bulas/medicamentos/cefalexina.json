@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cefalexina",
+      "suspension": "Não é necessário suspender",
+      "risk": "Baixo risco anestésico; segura em procedimentos cirúrgicos",
+      "reintroduction": "Manter ou reintroduzir conforme tratamento vigente"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefalexina",
+      "nomeComercial": "Keflex, Cefacimed, Ceflexin, Cefalexina Genérico",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana ligando-se às proteínas ligadoras de penicilina (PBPs)",
+      "farmacocinetica": "Boa absorção oral, distribuição ampla, excreção renal inalterada",
+      "farmacodinamica": "Bactericida, principalmente contra gram-positivos e alguns gram-negativos",
+      "indicacoes": "Infecções de pele, vias respiratórias, trato urinário e tecidos moles",
+      "reacoesAdversas": "Náuseas, diarreia, rash, prurido, colite pseudomembranosa",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excretada no leite em pequenas quantidades; considerada segura",
+      "administracao": "Oral",
+      "doseMaxima": "4000 mg/dia",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Antibiótico cefalosporina de 1ª geração",
+      "apresentacao": "Cápsulas, comprimidos, suspensão oral",
+      "interacaoMedicamento": "Pode interferir com anticoagulantes, pode reduzir eficácia de anticoncepcionais orais",
+      "posologia": "500 mg a cada 6–12h por 7–14 dias",
+      "armazenamento": "Temperatura ambiente; suspensão reconstituída sob refrigeração",
+      "preparo": "Reconstituir suspensão com água conforme prescrição",
+      "solucoesCompatíveis": "Não aplicável (uso oral)",
+      "contraindicacoes": "Alergia a cefalosporinas ou penicilinas",
+      "cuidadosMedicos": "Monitorar função renal em tratamentos prolongados",
+      "cuidadosFarmaceuticos": "Reconstituir corretamente a suspensão e observar validade",
+      "cuidadosEnfermagem": "Observar reações alérgicas e efeitos gastrintestinais",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, SBAn, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cephalexin",
+      "suspension": "No need to suspend",
+      "risk": "Low anesthetic risk; safe for perioperative use",
+      "reintroduction": "Maintain or resume according to current treatment plan"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cephalexin",
+      "nomeComercial": "Keflex, Daxbia, Generic Cephalexin",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis by binding to PBPs",
+      "farmacocinetica": "Well absorbed orally, wide distribution, excreted unchanged in urine",
+      "farmacodinamica": "Bactericidal, mostly against gram-positive and some gram-negative bacteria",
+      "indicacoes": "Skin, respiratory, urinary tract and soft tissue infections",
+      "reacoesAdversas": "Nausea, diarrhea, rash, itching, pseudomembranous colitis",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Excreted in breast milk in small amounts; considered safe",
+      "administracao": "Oral",
+      "doseMaxima": "4000 mg/day",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "First-generation cephalosporin antibiotic",
+      "apresentacao": "Capsules, tablets, oral suspension",
+      "interacaoMedicamento": "May interact with anticoagulants and oral contraceptives",
+      "posologia": "500 mg every 6–12h for 7–14 days",
+      "armazenamento": "Room temperature; refrigerate reconstituted suspension",
+      "preparo": "Reconstitute suspension with prescribed amount of water",
+      "solucoesCompatíveis": "Not applicable (oral use)",
+      "contraindicacoes": "Allergy to cephalosporins or penicillins",
+      "cuidadosMedicos": "Monitor renal function during prolonged use",
+      "cuidadosFarmaceuticos": "Ensure proper reconstitution and expiration date",
+      "cuidadosEnfermagem": "Observe for allergic and GI reactions",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, SBAn"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cefalexina",
+      "suspension": "No requiere suspensión",
+      "risk": "Riesgo anestésico bajo; segura en procedimientos quirúrgicos",
+      "reintroduction": "Mantener según el tratamiento en curso"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefalexina",
+      "nomeComercial": "Keflex, Cefalexina Genérico",
+      "mecanismoAcao": "Inhibe la síntesis de la pared celular bacteriana",
+      "farmacocinetica": "Buena absorción oral, distribución amplia, excreción renal",
+      "farmacodinamica": "Bactericida frente a grampositivos y algunos gramnegativos",
+      "indicacoes": "Infecciones de piel, respiratorias, urinarias y tejidos blandos",
+      "reacoesAdversas": "Náuseas, diarrea, erupción, prurito, colitis pseudomembranosa",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Excretada en leche materna; considerada segura",
+      "administracao": "Oral",
+      "doseMaxima": "4000 mg/día",
+      "doseMinima": "250 mg/dosis",
+      "classificacao": "Cefalosporina de primera generación",
+      "apresentacao": "Cápsulas, comprimidos, suspensión oral",
+      "interacaoMedicamento": "Interacción posible con anticoagulantes y anticonceptivos orales",
+      "posologia": "500 mg cada 6–12h por 7–14 días",
+      "armazenamento": "Temperatura ambiente; refrigerar suspensión reconstituida",
+      "preparo": "Reconstituir con agua según indicación",
+      "solucoesCompatíveis": "No aplicable (uso oral)",
+      "contraindicacoes": "Alergia a cefalosporinas o penicilinas",
+      "cuidadosMedicos": "Controlar función renal si uso prolongado",
+      "cuidadosFarmaceuticos": "Reconstituir correctamente y verificar caducidad",
+      "cuidadosEnfermagem": "Observar reacciones alérgicas y gastrointestinales",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "头孢氨苄",
+      "suspension": "无需停药",
+      "risk": "麻醉风险低，可安全用于手术期",
+      "reintroduction": "根据治疗方案继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "头孢氨苄",
+      "nomeComercial": "头孢氨苄胶囊, Keflex, 通用头孢氨苄",
+      "mecanismoAcao": "通过结合PBP抑制细菌细胞壁合成",
+      "farmacocinetica": "口服吸收良好，分布广，经尿液排出",
+      "farmacodinamica": "广谱杀菌剂，尤其对革兰阳性菌有效",
+      "indicacoes": "皮肤、呼吸道、泌尿道和软组织感染",
+      "reacoesAdversas": "恶心、腹泻、皮疹、瘙痒、伪膜性肠炎",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可少量排入乳汁，被认为是安全的",
+      "administracao": "口服",
+      "doseMaxima": "每日4000毫克",
+      "doseMinima": "每次250毫克",
+      "classificacao": "第一代头孢菌素抗生素",
+      "apresentacao": "胶囊、片剂、口服混悬液",
+      "interacaoMedicamento": "可能与抗凝药和避孕药发生相互作用",
+      "posologia": "每6–12小时一次500毫克，疗程7–14天",
+      "armazenamento": "常温保存；混悬液需冷藏",
+      "preparo": "按说明加水重构",
+      "solucoesCompatíveis": "不适用（口服）",
+      "contraindicacoes": "对头孢菌素或青霉素过敏者禁用",
+      "cuidadosMedicos": "长期使用时监测肾功能",
+      "cuidadosFarmaceuticos": "正确重构混悬液并注意有效期",
+      "cuidadosEnfermagem": "观察过敏反应和胃肠症状",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex"
+    }
+  }
+}

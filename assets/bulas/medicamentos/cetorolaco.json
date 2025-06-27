@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cetorolaco",
+      "suspension": "Suspender 24 horas antes de cirurgias com risco de sangramento",
+      "risk": "Risco elevado de sangramento por inibição da agregação plaquetária; potencial nefrotoxicidade e gastrite aguda",
+      "reintroduction": "Somente após recuperação hemostática e função renal estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cetorolaco trometamol",
+      "nomeComercial": "Toradol, Ketorolac, Dolac",
+      "mecanismoAcao": "Inibidor não seletivo da COX-1 e COX-2, reduzindo prostaglandinas inflamatórias",
+      "farmacocinetica": "Início de ação em 30 min; meia-vida de ~5–6 h; metabolizado no fígado, excreção renal",
+      "farmacodinamica": "Potente efeito analgésico não opioide; anti-inflamatório e antipirético moderado",
+      "indicacoes": "Dor moderada a intensa em pós-operatório, trauma, dor musculoesquelética, cólica renal",
+      "reacoesAdversas": "Náusea, dispepsia, sonolência, sangramento gastrointestinal, insuficiência renal aguda",
+      "riscoGravidez": "Categoria C no início da gestação e D no terceiro trimestre (risco de fechamento do ductus arteriosus)",
+      "riscoLactacao": "Excreção em pequenas quantidades no leite; uso com cautela",
+      "administracao": "Oral, intramuscular ou intravenosa",
+      "doseMaxima": "90 mg/dia (IM/EV); 40 mg/dia (VO)",
+      "doseMinima": "10 mg por dose",
+      "classificacao": "AINE derivado do ácido acético",
+      "apresentacao": "Comprimidos 10 mg; ampola 30 mg/mL",
+      "interacaoMedicamento": "Aumenta risco com anticoagulantes, outros AINEs, corticosteroides; potencializa toxicidade de lítio e metotrexato",
+      "posologia": "10 mg VO a cada 4–6 h (máx. 40 mg/dia); 30–60 mg IM ou IV inicial, seguido de 15–30 mg a cada 6 h",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não requer diluição para administração IM; EV pode ser diluído em SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Úlcera péptica ativa, insuficiência renal, sangramento ativo, cirurgia cardíaca, alergia a AINEs",
+      "cuidadosMedicos": "Avaliar função renal, hemograma e sinais de sangramento",
+      "cuidadosFarmaceuticos": "Verificar prazo de validade e integridade do frasco",
+      "cuidadosEnfermagem": "Observar PA, dor, sinais de sangramento gastrointestinal",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, ANVISA, SBRAFH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ketorolac",
+      "suspension": "Suspend 24 hours before surgeries with bleeding risk",
+      "risk": "High bleeding risk due to platelet inhibition; possible nephrotoxicity and GI ulcers",
+      "reintroduction": "Only after hemostatic recovery and stable renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ketorolac tromethamine",
+      "nomeComercial": "Toradol",
+      "mecanismoAcao": "Non-selective COX inhibitor reducing prostaglandin synthesis",
+      "farmacocinetica": "Onset ~30 min; half-life ~5–6 h; hepatic metabolism, renal elimination",
+      "farmacodinamica": "Strong analgesic effect; moderate anti-inflammatory and antipyretic",
+      "indicacoes": "Moderate to severe pain post-op, trauma, musculoskeletal pain, renal colic",
+      "reacoesAdversas": "Nausea, dyspepsia, drowsiness, GI bleeding, acute renal failure",
+      "riscoGravidez": "Category C (1st/2nd trimester), D (3rd trimester)",
+      "riscoLactacao": "Excreted in low amounts in milk; use with caution",
+      "administracao": "Oral, IM, or IV",
+      "doseMaxima": "90 mg/day (IM/IV); 40 mg/day (oral)",
+      "doseMinima": "10 mg per dose",
+      "classificacao": "NSAID – acetic acid derivative",
+      "apresentacao": "Tablets 10 mg; ampoules 30 mg/mL",
+      "interacaoMedicamento": "Increased risk with anticoagulants, other NSAIDs, corticosteroids; potentiates lithium/methotrexate toxicity",
+      "posologia": "10 mg PO every 4–6 h (max 40 mg/day); 30–60 mg IV/IM initially, then 15–30 mg every 6 h",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "No dilution required for IM; IV can be diluted in NS",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Active ulcers, renal impairment, bleeding, cardiac surgery, NSAID allergy",
+      "cuidadosMedicos": "Monitor renal function, blood counts, bleeding signs",
+      "cuidadosFarmaceuticos": "Check expiration date and vial integrity",
+      "cuidadosEnfermagem": "Monitor BP, pain, GI bleeding signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ketorolaco",
+      "suspension": "Suspender 24 horas antes de cirugías con riesgo hemorrágico",
+      "risk": "Alto riesgo de sangrado, toxicidad renal y úlcera gástrica",
+      "reintroduction": "Reintroducir solo tras estabilización hemostática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ketorolaco trometamina",
+      "nomeComercial": "Toradol, Dolac",
+      "mecanismoAcao": "Inhibidor no selectivo de la COX, reduce prostaglandinas",
+      "farmacocinetica": "Inicio ~30 min, t½ ~5–6 h, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Analgésico potente no opioide; antiinflamatorio moderado",
+      "indicacoes": "Dolor postoperatorio, traumatismos, dolor muscular, cólico renal",
+      "reacoesAdversas": "Náuseas, dispepsia, somnolencia, hemorragia digestiva, insuficiencia renal",
+      "riscoGravidez": "Categoría C (1º/2º trimestre), D (3º trimestre)",
+      "riscoLactacao": "Uso con precaución; mínima excreción",
+      "administracao": "VO, IM o IV",
+      "doseMaxima": "90 mg/día (IM/IV), 40 mg/día (VO)",
+      "doseMinima": "10 mg por dosis",
+      "classificacao": "AINE derivado del ácido acético",
+      "apresentacao": "Comprimidos 10 mg; ampollas 30 mg/mL",
+      "interacaoMedicamento": "Aumenta riesgo con anticoagulantes, AINEs, corticoides; potencializa litio/metotrexato",
+      "posologia": "10 mg VO cada 4–6 h (máx. 40 mg/día); IM/IV: 30–60 mg inicial, luego 15–30 mg cada 6 h",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "IM sin diluir; IV diluir en SF",
+      "solucoesCompatíveis": "ClNa 0,9%, Glucosa 5%",
+      "contraindicacoes": "Úlcera, sangrado activo, insuficiencia renal, alergia a AINEs",
+      "cuidadosMedicos": "Monitorear función renal, signos de sangrado",
+      "cuidadosFarmaceuticos": "Verificar estabilidad y caducidad",
+      "cuidadosEnfermagem": "Vigilar PA, dolor y síntomas GI",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "酮咯酸",
+      "suspension": "术前24小时停用，避免术中出血",
+      "risk": "抑制血小板聚集，出血风险高；可致胃溃疡与肾毒性",
+      "reintroduction": "术后血流动力学与肾功能稳定后再用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "酮咯酸氨丁三醇",
+      "nomeComercial": "托瑞多 Toradol",
+      "mecanismoAcao": "非选择性COX抑制剂，减少前列腺素合成",
+      "farmacocinetica": "起效30分钟，半衰期5–6小时，肝代谢，肾排泄",
+      "farmacodinamica": "强力止痛，适度抗炎解热",
+      "indicacoes": "术后疼痛、外伤痛、肌肉疼痛、肾绞痛",
+      "reacoesAdversas": "恶心、消化不良、嗜睡、胃肠出血、急性肾衰",
+      "riscoGravidez": "C类（早期）、D类（三期）",
+      "riscoLactacao": "少量分泌，慎用",
+      "administracao": "口服、肌注或静注",
+      "doseMaxima": "90毫克/天（注射），40毫克/天（口服）",
+      "doseMinima": "每次10毫克",
+      "classificacao": "乙酸类NSAID",
+      "apresentacao": "片剂10毫克；注射液30毫克/毫升",
+      "interacaoMedicamento": "与抗凝药、AINE、糖皮质激素联用增加风险；增强锂/甲氨蝶呤毒性",
+      "posologia": "口服：每4–6小时10毫克，最多40毫克/天；肌注/静注：30–60毫克起始，随后15–30毫克/6小时",
+      "armazenamento": "避光室温保存",
+      "preparo": "肌注无需稀释，静注可稀释于NS",
+      "solucoesCompatíveis": "生理盐水，5%葡萄糖",
+      "contraindicacoes": "活动性溃疡、肾功能不全、出血、心脏手术、NSAID过敏",
+      "cuidadosMedicos": "监测肾功能、全血细胞计数与出血征象",
+      "cuidadosFarmaceuticos": "检查药瓶完整性与效期",
+      "cuidadosEnfermagem": "监测血压、疼痛控制与消化道反应",
+      "fontesBibliograficas": "FDA、中国药典、Micromedex、UpToDate"
+    }
+  }
+}

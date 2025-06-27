@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lidocaína",
+      "suspension": "Não suspender se uso for anestésico local ou antiarrítmico necessário",
+      "risk": "Pode causar toxicidade neurológica e cardiovascular; interação com anestésicos gerais",
+      "reintroduction": "Reintroduzir conforme indicação clínica com monitoramento adequado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lidocaína",
+      "nomeComercial": "Xylocaína, Lidovet, Dencorub",
+      "mecanismoAcao": "Bloqueia canais de sódio voltagem-dependentes, impedindo condução do impulso nervoso",
+      "farmacocinetica": "Início rápido (1–5 min); meia-vida ~1,5–2h; metabolização hepática",
+      "farmacodinamica": "Ação anestésica local e antiarrítmica classe 1B",
+      "indicacoes": "Anestesia local, arritmias ventriculares, intubação em pacientes com reflexo aumentado",
+      "reacoesAdversas": "Sonolência, tontura, convulsões, bradicardia, depressão respiratória",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excreção mínima no leite, uso permitido com cautela",
+      "administracao": "Tópica, subcutânea, intravenosa, intradérmica",
+      "doseMaxima": "300mg (sem epinefrina), 500mg (com epinefrina)",
+      "doseMinima": "Depende da via e peso",
+      "classificacao": "Anestésico local e antiarrítmico classe 1B",
+      "apresentacao": "Gel, creme, spray, ampolas injetáveis 1%, 2%, 10%",
+      "interacaoMedicamento": "Potencializa toxicidade com outros antiarrítmicos; cuidado com sedativos e betabloqueadores",
+      "posologia": "Variável por via e peso (1–4mg/kg EV em arritmia, até 5mg/kg SC)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso direto ou diluição conforme via",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Bloqueio AV completo, alergia a amidas, síndrome de Stokes-Adams sem marcapasso",
+      "cuidadosMedicos": "Monitorar ECG, PA e sinais de toxicidade sistêmica",
+      "cuidadosFarmaceuticos": "Verificar concentração, integridade da ampola, compatibilidade com diluentes",
+      "cuidadosEnfermagem": "Observar sinais de neurotoxicidade e efeitos cardiovasculares",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lidocaine",
+      "suspension": "Do not suspend if needed for local anesthesia or arrhythmia control",
+      "risk": "Neurotoxicity and cardiotoxicity if systemic absorption high; interaction with general anesthetics",
+      "reintroduction": "Reintroduce as clinically indicated with proper monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lidocaine",
+      "nomeComercial": "Xylocaine, Lidoderm, LMX",
+      "mecanismoAcao": "Blocks voltage-gated sodium channels, preventing nerve impulse conduction",
+      "farmacocinetica": "Rapid onset (1–5 min); half-life ~1.5–2h; hepatic metabolism",
+      "farmacodinamica": "Local anesthetic and class 1B antiarrhythmic",
+      "indicacoes": "Local anesthesia, ventricular arrhythmias, airway procedures with hyperreflexia",
+      "reacoesAdversas": "Drowsiness, dizziness, seizures, bradycardia, respiratory depression",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Low excretion in milk; generally safe",
+      "administracao": "Topical, SC, IV, ID",
+      "doseMaxima": "300mg (plain), 500mg (with epinephrine)",
+      "doseMinima": "Depends on route and weight",
+      "classificacao": "Local anesthetic and class 1B antiarrhythmic",
+      "apresentacao": "Gel, cream, spray, injectable vials 1%, 2%, 10%",
+      "interacaoMedicamento": "Increased toxicity with other antiarrhythmics; caution with sedatives and beta-blockers",
+      "posologia": "Varies by route/weight (1–4mg/kg IV for arrhythmias, up to 5mg/kg SC)",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Use directly or dilute as appropriate for the route",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Complete heart block, amide allergy, Stokes-Adams syndrome without pacemaker",
+      "cuidadosMedicos": "Monitor ECG, BP, systemic toxicity signs",
+      "cuidadosFarmaceuticos": "Check ampoule integrity, concentration, compatibility",
+      "cuidadosEnfermagem": "Observe for neuro/cardio toxicity signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lidocaína",
+      "suspension": "No suspender si se usa como anestesia local o antiarrítmico",
+      "risk": "Puede causar toxicidad neurológica y cardíaca; interacción con anestésicos generales",
+      "reintroduction": "Reintroducir según necesidad clínica con monitoreo adecuado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lidocaína",
+      "nomeComercial": "Xylocaína, Lidoderm",
+      "mecanismoAcao": "Bloquea canales de sodio dependientes de voltaje, inhibiendo la conducción nerviosa",
+      "farmacocinetica": "Inicio rápido (1–5 min); vida media 1,5–2h; metabolismo hepático",
+      "farmacodinamica": "Anestésico local y antiarrítmico clase 1B",
+      "indicacoes": "Anestesia local, arritmias ventriculares, intubación con reflejo aumentado",
+      "reacoesAdversas": "Somnolencia, mareo, convulsiones, bradicardia, depresión respiratoria",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Excreción mínima en leche, uso generalmente seguro",
+      "administracao": "Tópica, SC, IV, ID",
+      "doseMaxima": "300mg sin epinefrina, 500mg con epinefrina",
+      "doseMinima": "Depende de la vía y del peso",
+      "classificacao": "Anestésico local y antiarrítmico clase 1B",
+      "apresentacao": "Gel, crema, spray, ampollas inyectables 1%, 2%, 10%",
+      "interacaoMedicamento": "Mayor toxicidad con antiarrítmicos; precaución con sedantes y betabloqueantes",
+      "posologia": "1–4mg/kg IV para arritmias; hasta 5mg/kg SC",
+      "armazenamento": "Temperatura ambiente, proteger de la luz",
+      "preparo": "Usar directamente o diluir según vía",
+      "solucoesCompatíveis": "SSF, SG5%",
+      "contraindicacoes": "Bloqueo AV completo, alergia a amidas, síndrome de Stokes-Adams sin marcapasos",
+      "cuidadosMedicos": "Monitorizar ECG, PA, signos de toxicidad",
+      "cuidadosFarmaceuticos": "Verificar concentración, integridad, compatibilidad",
+      "cuidadosEnfermagem": "Observar signos de toxicidad neurológica y cardiovascular",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利多卡因",
+      "suspension": "若用于局麻或抗心律失常，不建议术前停用",
+      "risk": "可能导致神经毒性、心脏毒性，与全麻药物存在相互作用",
+      "reintroduction": "术后根据临床指征重新使用，需监测心电图和生命体征"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "利多卡因",
+      "nomeComercial": "赛洛卡因（Xylocaine）",
+      "mecanismoAcao": "阻断钠通道，抑制神经冲动传导",
+      "farmacocinetica": "起效快（1–5分钟），半衰期1.5–2小时，肝代谢",
+      "farmacodinamica": "局麻药与ⅠB类抗心律失常药",
+      "indicacoes": "局部麻醉、心室性心律失常、高反射气道插管",
+      "reacoesAdversas": "嗜睡、眩晕、抽搐、心动过缓、呼吸抑制",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "乳汁中排泄少，可慎用",
+      "administracao": "局部、皮下、静注、皮内",
+      "doseMaxima": "300毫克（不含肾上腺素），500毫克（含肾上腺素）",
+      "doseMinima": "依体重和途径而定",
+      "classificacao": "局部麻醉药和ⅠB类抗心律失常药",
+      "apresentacao": "凝胶、乳膏、喷雾、注射液（1%、2%、10%）",
+      "interacaoMedicamento": "与其他抗心律失常药、镇静药或β阻滞剂合用需谨慎",
+      "posologia": "按体重和适应症调整（IV 1–4mg/kg；SC最多5mg/kg）",
+      "armazenamento": "常温避光保存",
+      "preparo": "可直接使用或根据需要稀释",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "完全性房室传导阻滞、酰胺类过敏、无起搏器的Stokes-Adams综合征",
+      "cuidadosMedicos": "持续监测心电、血压及毒性反应",
+      "cuidadosFarmaceuticos": "注意浓度、配伍、安瓿完整性",
+      "cuidadosEnfermagem": "监测神经系统和心血管系统反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

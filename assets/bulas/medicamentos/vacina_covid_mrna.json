@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina COVID-19 (mRNA)",
+      "suspension": "Não suspender; altamente recomendada antes de procedimentos cirúrgicos",
+      "risk": "Efeitos adversos leves (febre, mialgia, cefaleia); risco raro de miocardite e anafilaxia. Segura em imunocomprometidos e gestantes.",
+      "reintroduction": "Reiniciar assim que possível após estabilização clínica se o esquema tiver sido interrompido."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "mRNA do SARS-CoV-2 (codificante da proteína Spike)",
+      "nomeComercial": "Comirnaty (Pfizer-BioNTech), Spikevax (Moderna)",
+      "mecanismoAcao": "Entrega de mRNA encapsulado em nanopartículas lipídicas para expressão da proteína Spike e indução de resposta imune adaptativa",
+      "farmacocinetica": "mRNA não integrado ao DNA; rápida degradação intracelular após tradução",
+      "farmacodinamica": "Produz resposta humoral e celular robusta contra a proteína S viral",
+      "indicacoes": "Imunização contra COVID-19 em indivíduos ≥6 meses; reforços conforme faixa etária e risco",
+      "reacoesAdversas": "Dor local, febre, mialgia, fadiga, linfadenopatia; miocardite em jovens (raro)",
+      "riscoGravidez": "Categoria B; segura e recomendada a partir do 1º trimestre",
+      "riscoLactacao": "Compatível com amamentação",
+      "administracao": "Intramuscular (região deltoide)",
+      "doseMaxima": "0,5 mL (Moderna); 0,3 mL (Pfizer adultos)",
+      "doseMinima": "0,2 mL (Pfizer pediátrico)",
+      "classificacao": "Vacina genética – mRNA encapsulado (não replicante)",
+      "apresentacao": "Frascos multidose com diluente (Pfizer) ou prontos para uso (Moderna)",
+      "interacaoMedicamento": "Pode ser administrada com outras vacinas inativadas em locais distintos",
+      "posologia": "2 doses primárias com reforço anual ou conforme atualização",
+      "armazenamento": "Ultra congelamento –90 °C a –60 °C (Pfizer); refrigerado 2–8 °C após descongelamento",
+      "preparo": "Agitar suavemente; Pfizer requer diluição em SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9% (diluição Pfizer apenas)",
+      "contraindicacoes": "Anafilaxia prévia à dose anterior ou a componentes (polietilenoglicol)",
+      "cuidadosMedicos": "Observar reações após 1ª dose; monitorar sinais de miocardite em adolescentes",
+      "cuidadosFarmaceuticos": "Manter cadeia do frio e tempo de uso após reconstituição",
+      "cuidadosEnfermagem": "Aplicar IM; manter observação por 15 min (30 min em alérgicos)",
+      "fontesBibliograficas": "SBIm, ANVISA, CDC, EMA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "COVID-19 mRNA Vaccine",
+      "suspension": "Do not suspend; strongly recommended pre-op if incomplete",
+      "risk": "Mild systemic/local effects. Rare: myocarditis, anaphylaxis. Safe in pregnancy and immunocompromised.",
+      "reintroduction": "Resume series as soon as stable if interrupted"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "mRNA encoding SARS-CoV-2 Spike protein",
+      "nomeComercial": "Comirnaty (Pfizer), Spikevax (Moderna)",
+      "mecanismoAcao": "mRNA delivered via lipid nanoparticles, translated into Spike protein, triggers immune response",
+      "farmacocinetica": "Non-integrating mRNA; intracellular degradation after expression",
+      "farmacodinamica": "Induces potent antibody and T cell response to SARS-CoV-2",
+      "indicacoes": "Immunization from 6 months and up; boosters per CDC schedule",
+      "reacoesAdversas": "Pain, fever, fatigue, lymphadenopathy, rare myocarditis",
+      "riscoGravidez": "Category B; safe and recommended",
+      "riscoLactacao": "Compatible",
+      "administracao": "Intramuscular (deltoid)",
+      "doseMaxima": "0.5 mL (Moderna); 0.3 mL (Pfizer adult)",
+      "doseMinima": "0.2 mL (Pfizer pediatric)",
+      "classificacao": "Genetic vaccine – non-replicating mRNA",
+      "apresentacao": "Multidose vials; some require dilution",
+      "interacaoMedicamento": "Can coadminister with other inactivated vaccines",
+      "posologia": "2-dose primary + booster annually or per guidance",
+      "armazenamento": "Ultra-cold: –90 to –60 °C; 2–8 °C after thaw",
+      "preparo": "Pfizer requires dilution; mix gently",
+      "solucoesCompatíveis": "0.9% NaCl (for dilution only)",
+      "contraindicacoes": "Anaphylaxis to PEG or previous dose",
+      "cuidadosMedicos": "Watch for myocarditis in teens post 2nd dose",
+      "cuidadosFarmaceuticos": "Respect storage, shelf-life post-thaw/reconstitution",
+      "cuidadosEnfermagem": "IM injection; monitor 15–30 min post-dose",
+      "fontesBibliograficas": "CDC, FDA, ACIP, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna COVID-19 (mRNA)",
+      "suspension": "No se suspende; indicada antes de cirugía si no está completo el esquema",
+      "risk": "Reacciones leves; miocarditis rara. Segura en embarazo e inmunodepresión",
+      "reintroduction": "Reanudar lo antes posible tras cirugía si interrumpida"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "ARNm de la proteína S del SARS-CoV-2",
+      "nomeComercial": "Comirnaty, Spikevax",
+      "mecanismoAcao": "Traducción del ARNm en proteína S; respuesta inmune humoral/celular",
+      "farmacocinetica": "Degradación intracelular tras traducción",
+      "farmacodinamica": "Protección eficaz contra COVID-19 sintomática y grave",
+      "indicacoes": "Desde los 6 meses; refuerzos por edad y riesgo",
+      "reacoesAdversas": "Dolor local, fiebre, astenia, miocarditis (rara)",
+      "riscoGravidez": "Categoría B; recomendada",
+      "riscoLactacao": "Compatible",
+      "administracao": "Intramuscular en deltoides",
+      "doseMaxima": "0,5 mL",
+      "doseMinima": "0,2 mL pediátrica",
+      "classificacao": "Vacuna genética – ARNm no replicante",
+      "apresentacao": "Multidosis; Pfizer requiere dilución",
+      "interacaoMedicamento": "Co-administrable con vacunas inactivadas",
+      "posologia": "2 dosis + refuerzo anual o indicado",
+      "armazenamento": "–90 a –60 °C; descongelada: 2–8 °C",
+      "preparo": "Agitar suavemente; diluir Pfizer",
+      "solucoesCompatíveis": "SF 0,9% solo para Pfizer",
+      "contraindicacoes": "Alergia PEG o dosis previa",
+      "cuidadosMedicos": "Monitorear eventos adversos post 2ª dosis",
+      "cuidadosFarmaceuticos": "Cadena ultrafrío, uso tras descongelar",
+      "cuidadosEnfermagem": "IM + observación 15–30 min",
+      "fontesBibliograficas": "EMA, OMS, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "新冠mRNA疫苗",
+      "suspension": "术前不需停用；建议术前完成基础免疫",
+      "risk": "轻度副反应常见，罕见心肌炎；妊娠期和免疫低下可接种",
+      "reintroduction": "术后稳定后继续补种未完成剂次"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "编码新冠S蛋白的mRNA",
+      "nomeComercial": "辉瑞（Comirnaty）、Moderna（Spikevax）",
+      "mecanismoAcao": "脂质纳米粒传递mRNA至细胞，表达刺突蛋白诱导免疫",
+      "farmacocinetica": "不进入DNA，体内降解",
+      "farmacodinamica": "诱导高效中和抗体和T细胞免疫",
+      "indicacoes": "6月龄起，强化针按国家策略",
+      "reacoesAdversas": "注射痛、乏力、发热、心肌炎（罕）",
+      "riscoGravidez": "B类，建议全孕期接种",
+      "riscoLactacao": "可用",
+      "administracao": "三角肌肌注",
+      "doseMaxima": "0.5 mL成人；0.3 mL（辉瑞成人）",
+      "doseMinima": "0.2 mL（儿童）",
+      "classificacao": "非复制型mRNA疫苗",
+      "apresentacao": "小瓶多剂型；辉瑞需稀释",
+      "interacaoMedicamento": "可与灭活疫苗同接种",
+      "posologia": "初免2剂+加强针，因年龄而异",
+      "armazenamento": "–90～–60°C；解冻后冷藏2–8°C",
+      "preparo": "轻摇，辉瑞需用0.9%NaCl稀释",
+      "solucoesCompatíveis": "仅限SF 0.9%用于辉瑞",
+      "contraindicacoes": "PEG过敏、严重过敏史",
+      "cuidadosMedicos": "关注青少年第2针后心肌炎风险",
+      "cuidadosFarmaceuticos": "维护冷链；稀释后限时使用",
+      "cuidadosEnfermagem": "注射后观察15–30分钟",
+      "fontesBibliograficas": "CDC、中国CDC、WHO、UpToDate"
+    }
+  }
+}

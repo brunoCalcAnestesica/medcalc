@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Carfilzomibe",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas ou procedimentos invasivos",
+      "risk": "Risco cardiovascular (IC, hipertensão), trombose, reações infusionais, supressão hematológica, toxicidade renal e pulmonar",
+      "reintroduction": "Reintroduzir após plena recuperação clínica, função renal e hematológica estáveis e cicatrização satisfatória (geralmente 10–14 dias após cirurgia)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carfilzomibe",
+      "nomeComercial": "Kyprolis",
+      "mecanismoAcao": "Inibidor irreversível do proteassoma 20S, inibindo a via ubiquitina-proteassoma e promovendo apoptose celular tumoral",
+      "farmacocinetica": "Administração intravenosa; meia-vida terminal <1h; metabolismo hepático (peptidases, epóxido hidrolase); excreção urinária e biliar",
+      "farmacodinamica": "Inibição seletiva do proteassoma leva à disfunção proteica celular, acúmulo de proteínas e morte celular em células de mieloma múltiplo",
+      "indicacoes": "Mieloma múltiplo refratário ou recidivado em combinação com lenalidomida/dexametasona, daratumumabe ou monoterapia",
+      "reacoesAdversas": "Hipertensão, insuficiência cardíaca congestiva, dispneia, reações infusionais, trombocitopenia, anemia, nefrotoxicidade, neuropatia periférica leve",
+      "riscoGravidez": "Categoria D – contraindicado; risco de toxicidade embriofetal",
+      "riscoLactacao": "Contraindicado; não se sabe se é excretado no leite humano",
+      "administracao": "Via intravenosa, em infusão de 10 a 30 minutos",
+      "doseMaxima": "56mg/m² (em dias 1, 2, 8, 9, 15, 16 de cada ciclo)",
+      "doseMinima": "20mg/m² no ciclo inicial (fase de indução)",
+      "classificacao": "Inibidor seletivo do proteassoma; antineoplásico",
+      "apresentacao": "Frascos liofilizados de 10mg, 30mg e 60mg para reconstituição IV",
+      "interacaoMedicamento": "Potencial risco aumentado de toxicidade com imunomoduladores (lenalidomida), monitorar uso concomitante com anti-hipertensivos e anticoagulantes",
+      "posologia": "20mg/m² nos dois primeiros ciclos, escalonando até 56mg/m² conforme tolerância, dias específicos em ciclos de 28 dias",
+      "armazenamento": "Frasco liofilizado refrigerado (2–8°C); solução reconstituída estável por 24h a 2–8°C",
+      "preparo": "Reconstituir em água estéril, manipular em ambiente estéril com EPI",
+      "solucoesCompatíveis": "Solução de cloreto de sódio 0,9%",
+      "contraindicacoes": "Gravidez, hipersensibilidade, função cardíaca instável, infecção ativa grave",
+      "cuidadosMedicos": "Avaliar função cardíaca prévia, pressão arterial, função renal, hemograma completo antes de cada ciclo",
+      "cuidadosFarmaceuticos": "Verificar reconstituição e compatibilidade; observar estabilidade e prazos",
+      "cuidadosEnfermagem": "Hidratação prévia, monitoramento da pressão arterial e sinais infusionais, observar edema, dispneia ou sintomas neurológicos",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Carfilzomib",
+      "suspension": "Hold 7 days prior to elective surgery or invasive procedures",
+      "risk": "Cardiotoxicity, hypertension, infusion-related reactions, cytopenias, renal and pulmonary toxicity, thrombotic events",
+      "reintroduction": "Restart once full clinical recovery and hematologic/renal function stabilization occur, usually 10–14 days post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carfilzomib",
+      "nomeComercial": "Kyprolis",
+      "mecanismoAcao": "Selective irreversible proteasome inhibitor (20S) leading to accumulation of ubiquitinated proteins and apoptosis",
+      "farmacocinetica": "IV administration; terminal half-life <1 hour; hepatic metabolism; renal and biliary excretion",
+      "farmacodinamica": "Blocks protein degradation pathways causing stress and cell death in malignant plasma cells",
+      "indicacoes": "Relapsed/refractory multiple myeloma, in combination or monotherapy",
+      "reacoesAdversas": "Hypertension, heart failure, dyspnea, infusion reactions, thrombocytopenia, anemia, renal toxicity, mild peripheral neuropathy",
+      "riscoGravidez": "Category D – fetal harm; contraindicated",
+      "riscoLactacao": "Not recommended; unknown excretion in human milk",
+      "administracao": "Intravenous infusion over 10–30 minutes",
+      "doseMaxima": "56mg/m² on specific days of a 28-day cycle",
+      "doseMinima": "20mg/m² during initial cycle",
+      "classificacao": "Selective proteasome inhibitor; antineoplastic agent",
+      "apresentacao": "Lyophilized vials 10mg, 30mg, 60mg",
+      "interacaoMedicamento": "Enhanced toxicity with IMiDs; monitor with antihypertensives and anticoagulants",
+      "posologia": "Start at 20mg/m², escalate to 56mg/m² if tolerated; specific days in 28-day cycle",
+      "armazenamento": "Refrigerated (2–8°C); reconstituted solution stable 24h at 2–8°C",
+      "preparo": "Sterile reconstitution required; use protective gear",
+      "solucoesCompatíveis": "0.9% Sodium chloride",
+      "contraindicacoes": "Pregnancy, hypersensitivity, unstable cardiac status, active infection",
+      "cuidadosMedicos": "Pre-cycle cardiac and renal evaluation; CBC; monitor BP and fluid status",
+      "cuidadosFarmaceuticos": "Check for solution clarity and expiration; handle under aseptic conditions",
+      "cuidadosEnfermagem": "Hydrate before administration; monitor for infusion and cardiac symptoms",
+      "fontesBibliograficas": "FDA label, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Carfilzomib",
+      "suspension": "Suspender 7 días antes de cirugías programadas o procedimientos invasivos",
+      "risk": "Toxicidad cardíaca, hipertensión, trombosis, reacciones a la infusión, citopenias, daño renal y pulmonar",
+      "reintroduction": "Reiniciar tras recuperación clínica y hematológica completa (usualmente 10–14 días postquirúrgico)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carfilzomib",
+      "nomeComercial": "Kyprolis",
+      "mecanismoAcao": "Inhibidor irreversible del proteasoma 20S que induce acumulación proteica y apoptosis tumoral",
+      "farmacocinetica": "IV; vida media <1h; metabolismo hepático; eliminación renal y biliar",
+      "farmacodinamica": "Provoca disfunción proteica celular e induce muerte celular en mieloma múltiple",
+      "indicacoes": "Mieloma múltiple refractario o en recaída",
+      "reacoesAdversas": "Hipertensión, ICC, disnea, reacciones a infusión, trombocitopenia, toxicidad renal y pulmonar",
+      "riscoGravidez": "Categoría D – contraindicado por riesgo fetal",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Infusión IV 10–30 minutos",
+      "doseMaxima": "56mg/m²",
+      "doseMinima": "20mg/m² (inducción)",
+      "classificacao": "Inhibidor selectivo del proteasoma; antineoplásico",
+      "apresentacao": "Frascos 10mg, 30mg, 60mg",
+      "interacaoMedicamento": "Mayor toxicidad con lenalidomida; monitorear con antihipertensivos",
+      "posologia": "20mg/m² iniciar; aumentar a 56mg/m² si tolerado, días 1–2, 8–9, 15–16",
+      "armazenamento": "Refrigerado 2–8°C; solución estable 24h",
+      "preparo": "Reconstituir bajo condiciones estériles",
+      "solucoesCompatíveis": "Cloruro sódico 0,9%",
+      "contraindicacoes": "Embarazo, insuficiencia cardíaca descompensada, infección activa",
+      "cuidadosMedicos": "Evaluación previa cardíaca y renal; control de PA y síntomas respiratorios",
+      "cuidadosFarmaceuticos": "Verificar claridad, estabilidad y fecha",
+      "cuidadosEnfermagem": "Hidratación, observación de signos de reacción y disfunción cardíaca",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "卡非佐米",
+      "suspension": "择期手术或侵入操作前7天停药",
+      "risk": "心脏毒性、高血压、血栓、输注反应、骨髓抑制、肾毒性、肺毒性",
+      "reintroduction": "术后临床恢复、血象和肾功能稳定后（通常10–14天）可重新开始"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "卡非佐米",
+      "nomeComercial": "Kyprolis",
+      "mecanismoAcao": "不可逆抑制蛋白酶体20S，导致蛋白质积聚，引起细胞凋亡",
+      "farmacocinetica": "IV注射；T1/2<1小时；肝代谢；肾/胆排泄",
+      "farmacodinamica": "破坏蛋白质降解系统，诱导骨髓瘤细胞死亡",
+      "indicacoes": "复发/难治性多发性骨髓瘤",
+      "reacoesAdversas": "高血压、心衰、呼吸困难、输液反应、血小板减少、贫血、肾功能异常",
+      "riscoGravidez": "D类 – 禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉输注10–30分钟",
+      "doseMaxima": "每平方米56mg",
+      "doseMinima": "每平方米20mg",
+      "classificacao": "蛋白酶体抑制剂；抗肿瘤药",
+      "apresentacao": "10mg、30mg、60mg冻干粉",
+      "interacaoMedicamento": "与来那度胺合用增强毒性；注意高血压与抗凝药合用",
+      "posologia": "起始20mg/m²，耐受后升至56mg/m²，28天周期给药",
+      "armazenamento": "2–8°C冷藏；稀释后24小时内使用",
+      "preparo": "无菌环境重配，戴手套口罩",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "妊娠、心功能不全、活动性感染",
+      "cuidadosMedicos": "术前评估心肾功能，监测血压与血象",
+      "cuidadosFarmaceuticos": "核对剂量、配伍、稳定性",
+      "cuidadosEnfermagem": "注意水化，监测心率、呼吸、输液反应",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex"
+    }
+  }
+}

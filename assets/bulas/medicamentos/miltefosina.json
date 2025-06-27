@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Miltefosina",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva em pacientes com vômitos persistentes, toxicidade GI ou hepática",
+      "risk": "Risco de náusea, vômito, hepatotoxicidade, teratogenicidade, toxicidade renal e GI",
+      "reintroduction": "Reintroduzir com cautela após retorno da via oral e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Miltefosina",
+      "nomeComercial": "Impavido",
+      "mecanismoAcao": "Alquilfoscolina que interfere em fosfolipídios de membrana e induz apoptose em parasitas",
+      "farmacocinetica": "Oral; meia-vida ~150h; metabolização hepática mínima; excreção renal e fecal",
+      "farmacodinamica": "Atividade leishmanicida e tripanossomicida; atua na membrana celular e sinalização apoptótica",
+      "indicacoes": "Leishmaniose visceral, cutânea ou mucocutânea; doença de Chagas (experimental)",
+      "reacoesAdversas": "Náusea, vômito, dor abdominal, diarreia, hepatotoxicidade, toxicidade renal, erupção cutânea",
+      "riscoGravidez": "Categoria D – contraindicado (teratogênico)",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral, com alimentos para reduzir efeitos GI",
+      "doseMaxima": "150mg/dia (ajustada por peso)",
+      "doseMinima": "50mg/dia",
+      "classificacao": "Antiprotozoário leishmanicida oral (fosfolipídeo sintético)",
+      "apresentacao": "Cápsulas 10mg, 50mg",
+      "interacaoMedicamento": "Evitar com medicamentos nefrotóxicos ou hepatotóxicos",
+      "posologia": "2,5mg/kg/dia por 28 dias VO com alimento",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade, doença renal/hepática ativa",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas, creatinina, eletrólitos e status GI",
+      "cuidadosFarmaceuticos": "Educar sobre contracepção e adesão ao tempo de tratamento",
+      "cuidadosEnfermagem": "Observar vômito, dor abdominal, sinais de toxicidade hepática e renal",
+      "fontesBibliograficas": "FDA, WHO, Micromedex, UpToDate, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Miltefosine",
+      "suspension": "Discontinue 7 days before elective surgery if persistent vomiting, GI or hepatic toxicity is present",
+      "risk": "Risk of nausea, vomiting, hepatotoxicity, teratogenicity, renal and GI toxicity",
+      "reintroduction": "Restart cautiously after oral tolerance and clinical stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Miltefosine",
+      "nomeComercial": "Impavido",
+      "mecanismoAcao": "Alkylphosphocholine disrupts cell membrane phospholipids and induces apoptosis in parasites",
+      "farmacocinetica": "Oral; half-life ~150h; minimal hepatic metabolism; renal and fecal excretion",
+      "farmacodinamica": "Leishmanicidal and trypanocidal activity via membrane disruption and apoptosis",
+      "indicacoes": "Visceral, cutaneous, mucocutaneous leishmaniasis; Chagas disease (investigational)",
+      "reacoesAdversas": "Nausea, vomiting, abdominal pain, diarrhea, hepatotoxicity, nephrotoxicity, rash",
+      "riscoGravidez": "Category D – contraindicated (teratogenic)",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral with food to reduce GI toxicity",
+      "doseMaxima": "150mg/day (weight-based)",
+      "doseMinima": "50mg/day",
+      "classificacao": "Oral antiparasitic (synthetic phospholipid)",
+      "apresentacao": "Capsules 10mg, 50mg",
+      "interacaoMedicamento": "Avoid nephrotoxic and hepatotoxic drugs",
+      "posologia": "2.5mg/kg/day for 28 days orally with meals",
+      "armazenamento": "Room temperature, dry conditions",
+      "preparo": "Oral use only",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, lactation, hypersensitivity, active renal/hepatic disease",
+      "cuidadosMedicos": "Monitor liver enzymes, creatinine, electrolytes, GI tolerance",
+      "cuidadosFarmaceuticos": "Educate on contraception and treatment duration",
+      "cuidadosEnfermagem": "Observe GI symptoms and signs of organ toxicity",
+      "fontesBibliograficas": "FDA, WHO, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Miltefosina",
+      "suspension": "Suspender 7 días antes de cirugía si hay toxicidad gastrointestinal o hepática significativa",
+      "risk": "Riesgo de náuseas, vómitos, hepatotoxicidad, teratogenicidad, toxicidad renal",
+      "reintroduction": "Reiniciar tras tolerancia oral y estabilidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Miltefosina",
+      "nomeComercial": "Impavido",
+      "mecanismoAcao": "Fosfolípido alquilado que interfiere con la membrana celular y causa apoptosis en parásitos",
+      "farmacocinetica": "Oral; vida media ~150h; metabolismo hepático mínimo; excreción renal/fecal",
+      "farmacodinamica": "Actividad leishmanicida y tripanocida; interfiere con señalización y membranas celulares",
+      "indicacoes": "Leishmaniasis visceral, cutánea o mucosa; enfermedad de Chagas (en estudio)",
+      "reacoesAdversas": "Náuseas, vómitos, dolor abdominal, diarrea, toxicidad hepática y renal, erupciones",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral con alimentos",
+      "doseMaxima": "150mg/día (según peso)",
+      "doseMinima": "50mg/día",
+      "classificacao": "Antiparasitario oral (fosfolípido sintético)",
+      "apresentacao": "Cápsulas 10mg, 50mg",
+      "interacaoMedicamento": "Evitar con fármacos nefrotóxicos/hepatotóxicos",
+      "posologia": "2,5mg/kg/día por 28 días con comidas",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad, enfermedad hepática/renal activa",
+      "cuidadosMedicos": "Monitorear transaminasas, creatinina, síntomas digestivos",
+      "cuidadosFarmaceuticos": "Educar sobre anticoncepción y duración del tratamiento",
+      "cuidadosEnfermagem": "Vigilar tolerancia GI y toxicidad hepatorrenal",
+      "fontesBibliograficas": "OMS, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "米替福新（Miltefosine）",
+      "suspension": "如出现严重胃肠或肝毒性，术前7天应停用",
+      "risk": "可能引发恶心、呕吐、肝毒性、肾毒性和致畸作用",
+      "reintroduction": "在临床稳定并可口服后谨慎恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "米替福新",
+      "nomeComercial": "Impavido",
+      "mecanismoAcao": "合成磷脂类药物，破坏寄生虫细胞膜并诱导细胞凋亡",
+      "farmacocinetica": "口服；半衰期约150小时；极少代谢；肾/粪便排泄",
+      "farmacodinamica": "对利什曼原虫和锥虫具有杀灭作用，干扰信号和膜稳定性",
+      "indicacoes": "内脏/皮肤/黏膜利什曼病；美洲锥虫病（实验性）",
+      "reacoesAdversas": "胃痛、呕吐、腹泻、肝损伤、皮疹、肾功能下降",
+      "riscoGravidez": "D类 – 明确禁用于妊娠",
+      "riscoLactacao": "禁用",
+      "administracao": "餐中口服，减轻胃肠反应",
+      "doseMaxima": "每日150mg（按体重调整）",
+      "doseMinima": "每日50mg",
+      "classificacao": "口服抗利什曼原虫药（合成磷脂）",
+      "apresentacao": "10mg、50mg胶囊",
+      "interacaoMedicamento": "避免与肝/肾毒性药物合用",
+      "posologia": "2.5mg/kg/天，连续28天",
+      "armazenamento": "常温、干燥避光",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、肝肾疾病、过敏",
+      "cuidadosMedicos": "监测转氨酶、肌酐、电解质和胃肠反应",
+      "cuidadosFarmaceuticos": "说明避孕必要性及用药周期",
+      "cuidadosEnfermagem": "观察胃肠不适和器官毒性迹象",
+      "fontesBibliograficas": "WHO、FDA、Micromedex"
+    }
+  }
+}

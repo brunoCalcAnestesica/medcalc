@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Rifampicina",
+      "suspension": "Suspender 1 dia antes",
+      "risk": "Indutor potente do citocromo P450, pode reduzir a eficácia de anestésicos e imunossupressores",
+      "reintroduction": "Reintroduzir com cautela após estabilização do paciente e reavaliação das interações medicamentosas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rifampicina",
+      "nomeComercial": "Rimactan, Rifaldin, Rifater (em associação)",
+      "mecanismoAcao": "Inibe a RNA-polimerase dependente de DNA em bactérias",
+      "farmacocinetica": "Boa absorção oral, metabolismo hepático, excreção biliar e urinária",
+      "farmacodinamica": "Bactericida contra micobactérias e algumas Gram-positivas e Gram-negativas",
+      "indicacoes": "Tuberculose, hanseníase, infecções por micobactérias atípicas, profilaxia de meningite meningocócica",
+      "reacoesAdversas": "Hepatotoxicidade, coloração laranja da urina/lágrimas, rash, febre",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretada no leite; avaliar risco/benefício",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "600 mg/dia (adultos)",
+      "doseMinima": "300 mg/dia (adultos)",
+      "classificacao": "Antibiótico rifamicina",
+      "apresentacao": "Cápsulas, comprimidos, solução injetável",
+      "interacaoMedicamento": "Reduz efeito de anticoagulantes, anticoncepcionais, antirretrovirais, anestésicos",
+      "posologia": "600 mg/dia em dose única, em jejum, ajustada conforme indicação",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Diluir conforme protocolo hospitalar para uso IV",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%",
+      "contraindicacoes": "Hipersensibilidade à rifampicina, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas e interações medicamentosas",
+      "cuidadosFarmaceuticos": "Orientar sobre coloração de secreções e adesão terapêutica",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hepática e aderência ao esquema",
+      "fontesBibliograficas": "SBPT, FDA, Micromedex, ANVISA, WHO"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Rifampin",
+      "suspension": "Suspend 1 day before",
+      "risk": "Strong CYP450 inducer, can reduce efficacy of anesthetics and immunosuppressants",
+      "reintroduction": "Reintroduce cautiously after clinical stabilization and drug interaction review"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rifampin",
+      "nomeComercial": "Rifadin, Rimactane",
+      "mecanismoAcao": "Inhibits DNA-dependent RNA polymerase in bacteria",
+      "farmacocinetica": "Well absorbed orally, hepatic metabolism, biliary and urinary excretion",
+      "farmacodinamica": "Bactericidal against mycobacteria and some Gram-positive and Gram-negative organisms",
+      "indicacoes": "Tuberculosis, leprosy, atypical mycobacterial infections, meningococcal prophylaxis",
+      "reacoesAdversas": "Hepatotoxicity, orange discoloration of secretions, rash, fever",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; weigh risks and benefits",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "600 mg/day (adults)",
+      "doseMinima": "300 mg/day (adults)",
+      "classificacao": "Rifamycin antibiotic",
+      "apresentacao": "Capsules, tablets, IV solution",
+      "interacaoMedicamento": "Reduces effects of anticoagulants, contraceptives, antiretrovirals, anesthetics",
+      "posologia": "600 mg once daily on empty stomach, adjusted per indication",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Dilute according to hospital protocol for IV use",
+      "solucoesCompatíveis": "0.9% Normal Saline",
+      "contraindicacoes": "Hypersensitivity to rifampin, severe liver impairment",
+      "cuidadosMedicos": "Monitor liver enzymes and potential drug interactions",
+      "cuidadosFarmaceuticos": "Advise about discoloration of body fluids and adherence",
+      "cuidadosEnfermagem": "Watch for signs of hepatic toxicity and ensure adherence",
+      "fontesBibliograficas": "CDC, FDA, Micromedex, WHO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Rifampicina",
+      "suspension": "Suspender 1 día antes",
+      "risk": "Inductor potente del citocromo P450, reduce la eficacia de anestésicos e inmunosupresores",
+      "reintroduction": "Reintroducir con precaución tras estabilización clínica y revisión de interacciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rifampicina",
+      "nomeComercial": "Rimactan, Rifadin",
+      "mecanismoAcao": "Inhibe la ARN polimerasa dependiente de ADN en bacterias",
+      "farmacocinetica": "Buena absorción oral, metabolismo hepático, excreción biliar y renal",
+      "farmacodinamica": "Bactericida contra micobacterias y algunas Gram+ y Gram−",
+      "indicacoes": "Tuberculosis, lepra, infecciones por micobacterias atípicas, profilaxis meningocócica",
+      "reacoesAdversas": "Hepatotoxicidad, coloración naranja de orina/lágrimas, rash, fiebre",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Excretada en leche materna; evaluar riesgo/beneficio",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "600 mg/día (adultos)",
+      "doseMinima": "300 mg/día (adultos)",
+      "classificacao": "Antibiótico rifamicina",
+      "apresentacao": "Cápsulas, comprimidos, solución inyectable",
+      "interacaoMedicamento": "Reduce el efecto de anticoagulantes, anticonceptivos, antirretrovirales, anestésicos",
+      "posologia": "600 mg/día en dosis única en ayunas",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Diluir según protocolo hospitalario para uso IV",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%",
+      "contraindicacoes": "Hipersensibilidad, insuficiencia hepática grave",
+      "cuidadosMedicos": "Monitoreo hepático e interacciones medicamentosas",
+      "cuidadosFarmaceuticos": "Advertir sobre la coloración de fluidos corporales y adherencia",
+      "cuidadosEnfermagem": "Vigilar signos de toxicidad hepática y adherencia",
+      "fontesBibliograficas": "OPS, FDA, Micromedex, WHO"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利福平",
+      "suspension": "术前1天停药",
+      "risk": "强效CYP450诱导剂，可能降低麻醉药及免疫抑制剂疗效",
+      "reintroduction": "术后稳定后谨慎重新使用，并评估药物相互作用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "利福平",
+      "nomeComercial": "Rifadin, Rimactan",
+      "mecanismoAcao": "抑制细菌的DNA依赖性RNA聚合酶",
+      "farmacocinetica": "口服吸收良好，肝脏代谢，经胆汁和尿液排泄",
+      "farmacodinamica": "对分枝杆菌和部分革兰氏阳性及阴性菌具杀菌作用",
+      "indicacoes": "结核病，麻风病，非典型分枝杆菌感染，脑膜炎预防",
+      "reacoesAdversas": "肝毒性，尿液/泪液橙色，皮疹，发热",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌至乳汁中，需权衡利弊",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日600毫克（成人）",
+      "doseMinima": "每日300毫克（成人）",
+      "classificacao": "利福霉素类抗生素",
+      "apresentacao": "胶囊，片剂，注射液",
+      "interacaoMedicamento": "降低抗凝药、避孕药、抗病毒药、麻醉药效果",
+      "posologia": "每日一次600毫克，空腹服用",
+      "armazenamento": "常温避光保存",
+      "preparo": "IV使用前需稀释",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对利福平过敏，严重肝功能损害",
+      "cuidadosMedicos": "监测肝酶与药物交互作用",
+      "cuidadosFarmaceuticos": "告知体液变色和遵从治疗",
+      "cuidadosEnfermagem": "观察肝毒性体征与依从性",
+      "fontesBibliograficas": "WHO, 中国药典, Micromedex, FDA"
+    }
+  }
+}

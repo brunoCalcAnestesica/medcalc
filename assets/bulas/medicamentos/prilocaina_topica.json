@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Prilocaína tópica",
+      "suspension": "Suspender apenas em caso de risco de meta-hemoglobinemia ou pele lesionada em grandes áreas",
+      "risk": "Risco raro de meta-hemoglobinemia, principalmente em neonatos e grandes áreas; irritação local",
+      "reintroduction": "Reintroduzir após cicatrização e ausência de infecção local"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prilocaína",
+      "nomeComercial": "EMLA (com lidocaína), Prilonest",
+      "mecanismoAcao": "Bloqueia canais de sódio neuronais, impedindo a condução do impulso nervoso sensorial",
+      "farmacocinetica": "Absorção cutânea variável; metabolização hepática; excreção renal",
+      "farmacodinamica": "Anestesia local superficial por inibição reversível da transmissão nervosa",
+      "indicacoes": "Anestesia tópica para procedimentos dermatológicos, venopunção, pequenas cirurgias",
+      "reacoesAdversas": "Pálido local, eritema, ardor, parestesia, meta-hemoglobinemia (rara)",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Segura em áreas pequenas e fora da região mamária",
+      "administracao": "Uso tópico com ou sem curativo oclusivo",
+      "doseMaxima": "Dose total de até 5–10 g em adultos por aplicação",
+      "doseMinima": "0,5–1 g em área pequena",
+      "classificacao": "Anestésico local amida (uso tópico)",
+      "apresentacao": "Creme 2,5% + 2,5% (lidocaína/prilocaína)",
+      "interacaoMedicamento": "Potencialização com outros agentes oxidantes (ex: sulfonamidas)",
+      "posologia": "Aplicar em camada espessa 30–60 min antes do procedimento",
+      "armazenamento": "2–25°C",
+      "preparo": "Aplicar e cobrir com oclusivo se necessário",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade a anestésicos do tipo amida, meta-hemoglobinemia congênita",
+      "cuidadosMedicos": "Evitar em recém-nascidos ou em grandes áreas com feridas",
+      "cuidadosFarmaceuticos": "Educar sobre tempo de início e duração do efeito",
+      "cuidadosEnfermagem": "Observar eficácia anestésica e sinais de toxicidade",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Prilocaine topical",
+      "suspension": "Discontinue only if large-area application or methemoglobinemia risk",
+      "risk": "Rare risk of methemoglobinemia; local irritation",
+      "reintroduction": "Restart after skin recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prilocaine",
+      "nomeComercial": "EMLA (with lidocaine)",
+      "mecanismoAcao": "Blocks sodium ion influx in neurons, preventing nerve impulse transmission",
+      "farmacocinetica": "Variable absorption; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Reversible local anesthesia by nerve blockade",
+      "indicacoes": "Topical anesthesia before minor procedures, cannulation",
+      "reacoesAdversas": "Paleness, erythema, burning, rare methemoglobinemia",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe if not applied to nipple area",
+      "administracao": "Topical with/without occlusion",
+      "doseMaxima": "5–10 g per session in adults",
+      "doseMinima": "0.5–1 g",
+      "classificacao": "Topical amide anesthetic",
+      "apresentacao": "2.5% + 2.5% cream (lidocaine/prilocaine)",
+      "interacaoMedicamento": "Caution with oxidizing drugs (e.g. sulfonamides)",
+      "posologia": "Apply thick layer 30–60 min before procedure",
+      "armazenamento": "Store at 36–77°F (2–25°C)",
+      "preparo": "Apply directly; occlude if needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Amide allergy, congenital methemoglobinemia",
+      "cuidadosMedicos": "Avoid in neonates and broken skin over large areas",
+      "cuidadosFarmaceuticos": "Counsel on onset and duration of action",
+      "cuidadosEnfermagem": "Assess anesthesia effect; observe for adverse signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Prilocaína tópica",
+      "suspension": "No requiere suspensión quirúrgica salvo alto riesgo de metahemoglobinemia",
+      "risk": "Irritación local, eritema, ardor, metahemoglobinemia rara",
+      "reintroduction": "Reanudar tras recuperación cutánea"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prilocaína",
+      "nomeComercial": "EMLA (con lidocaína)",
+      "mecanismoAcao": "Bloquea canales de sodio, inhibiendo conducción nerviosa",
+      "farmacocinetica": "Absorción dérmica limitada; metabolismo hepático",
+      "farmacodinamica": "Anestesia superficial reversible",
+      "indicacoes": "Anestesia previa a punción, procedimientos dermatológicos",
+      "reacoesAdversas": "Ardor, palidez, enrojecimiento, parestesia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar en zonas cercanas al lactante",
+      "administracao": "Tópica",
+      "doseMaxima": "5–10 g/session",
+      "doseMinima": "0.5–1 g",
+      "classificacao": "Anestésico tópico tipo amida",
+      "apresentacao": "Crema 2.5% + 2.5%",
+      "interacaoMedicamento": "Precaución con fármacos oxidantes",
+      "posologia": "Aplicar 30–60 min antes del procedimiento",
+      "armazenamento": "2–25°C",
+      "preparo": "Uso directo; cubrir si necesario",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Metahemoglobinemia congénita, alergia amida",
+      "cuidadosMedicos": "Evitar en neonatos o áreas extensas abiertas",
+      "cuidadosFarmaceuticos": "Educar sobre tiempo de efecto",
+      "cuidadosEnfermagem": "Observar eficacia y efectos adversos",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "普鲁卡因（外用）",
+      "suspension": "无需术前停药，除非大面积应用或有高风险",
+      "risk": "轻微局部刺激，极少引发高铁血红蛋白症",
+      "reintroduction": "术后皮肤愈合后可按需使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "普鲁卡因（Prilocaine）",
+      "nomeComercial": "EMLA（含利多卡因）",
+      "mecanismoAcao": "阻断钠通道，抑制神经冲动",
+      "farmacocinetica": "皮肤吸收少；肝代谢；肾排泄",
+      "farmacodinamica": "局部麻醉作用，阻断痛觉传导",
+      "indicacoes": "皮肤穿刺、静脉注射、皮肤小手术",
+      "reacoesAdversas": "局部苍白、红斑、烧灼、偶见高铁血红蛋白症",
+      "riscoGravidez": "B类；妊娠期局部使用可接受",
+      "riscoLactacao": "避免乳房部位",
+      "administracao": "外用",
+      "doseMaxima": "成人一次5–10 g，儿童体表面积限制",
+      "doseMinima": "0.5–1 g即可",
+      "classificacao": "局部酰胺类麻醉剂",
+      "apresentacao": "2.5%+2.5%复方乳膏",
+      "interacaoMedicamento": "避免与可诱导高铁血红蛋白药合用",
+      "posologia": "术前30–60分钟外涂并封闭",
+      "armazenamento": "2–25°C保存",
+      "preparo": "直接使用；如有需要使用封包敷料",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "高铁血红蛋白症、过敏、破损皮肤大面积使用",
+      "cuidadosMedicos": "新生儿慎用；避免涂抹破损大面积",
+      "cuidadosFarmaceuticos": "说明起效时间及封包需求",
+      "cuidadosEnfermagem": "观察效果与刺激反应",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，UpToDate"
+    }
+  }
+}

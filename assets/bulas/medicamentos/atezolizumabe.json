@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Atezolizumabe",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas de médio e grande porte",
+      "risk": "Reações imunomediadas (pneumonite, colite, hepatite, tireoidite), reações infusionais, fadiga, rash, toxicidade endocrinológica",
+      "reintroduction": "Reintroduzir após recuperação clínica e resolução de efeitos adversos imunomediados, geralmente 10–14 dias após cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atezolizumabe",
+      "nomeComercial": "Tecentriq",
+      "mecanismoAcao": "Anticorpo monoclonal IgG1 que bloqueia PD-L1, impedindo sua interação com PD-1 e B7.1, restaurando atividade de células T",
+      "farmacocinetica": "T½ ~27 dias; clearance linear; administração IV a cada 2, 3 ou 4 semanas",
+      "farmacodinamica": "Inibição do checkpoint imune PD-L1; restauração da imunidade antitumoral",
+      "indicacoes": "Câncer de pulmão de células não pequenas, bexiga, mama triplo-negativo, hepatocarcinoma, esôfago",
+      "reacoesAdversas": "Fadiga, rash, diarreia, prurido, pneumonite, hepatite imune, tireoidite, hipofisite",
+      "riscoGravidez": "Categoria D – contraindicado; potencial dano fetal",
+      "riscoLactacao": "Não recomendado durante e por pelo menos 5 meses após a última dose",
+      "administracao": "Infusão IV em 60 minutos (primeira dose), depois 30 minutos",
+      "doseMaxima": "1680mg IV a cada 4 semanas (dose fixa)",
+      "doseMinima": "840mg IV a cada 2 semanas",
+      "classificacao": "Inibidor de checkpoint imunológico anti-PD-L1",
+      "apresentacao": "Vial 1200mg/20ml",
+      "interacaoMedicamento": "Evitar com imunossupressores potentes e vacinas vivas",
+      "posologia": "1200mg IV a cada 3 semanas; 840mg q2w; 1680mg q4w (monoterapia ou combinada)",
+      "armazenamento": "Refrigerado (2–8°C); não congelar; proteger da luz",
+      "preparo": "Diluir em SF 0,9% até 250ml; infundir via filtro 0,22μm",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Hipersensibilidade severa à formulação; gravidez ativa",
+      "cuidadosMedicos": "Avaliar sinais de toxicidade imune; monitorar TGO/TGP, TSH, cortisol, glicemia",
+      "cuidadosFarmaceuticos": "Garantir estabilidade após diluição (24h a 2–8°C); respeitar tempo de infusão",
+      "cuidadosEnfermagem": "Observar sintomas respiratórios, febre, rash, diarreia, hipotensão",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Atezolizumab",
+      "suspension": "Hold 7 days prior to elective surgery in patients with active immune-related toxicity",
+      "risk": "Immune-related AEs: pneumonitis, colitis, hepatitis, thyroiditis, rash, infusion reactions",
+      "reintroduction": "Restart once irAEs resolved and patient clinically stable (typically 10–14 days postop)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atezolizumab",
+      "nomeComercial": "Tecentriq",
+      "mecanismoAcao": "IgG1 monoclonal antibody targeting PD-L1 to block PD-1/PD-L1 interaction",
+      "farmacocinetica": "T½ ~27 days; linear clearance; IV q2w, q3w, or q4w",
+      "farmacodinamica": "Reactivates T cells by blocking PD-L1",
+      "indicacoes": "NSCLC, urothelial carcinoma, TNBC, HCC, esophageal cancer",
+      "reacoesAdversas": "Fatigue, rash, diarrhea, immune hepatitis, thyroid dysfunction, pneumonitis",
+      "riscoGravidez": "Category D – potential fetal harm",
+      "riscoLactacao": "Not recommended during and for 5 months after treatment",
+      "administracao": "IV infusion over 60min first, then 30min",
+      "doseMaxima": "1680mg q4w fixed dose",
+      "doseMinima": "840mg q2w",
+      "classificacao": "PD-L1 immune checkpoint inhibitor",
+      "apresentacao": "1200mg/20ml vials",
+      "interacaoMedicamento": "Avoid live vaccines; immunosuppressive agents reduce efficacy",
+      "posologia": "1200mg q3w, 1680mg q4w, or 840mg q2w IV",
+      "armazenamento": "Refrigerate 2–8°C; do not freeze; protect from light",
+      "preparo": "Dilute in 0.9% NS to 250ml; infuse via 0.22μm filter",
+      "solucoesCompatíveis": "NS only",
+      "contraindicacoes": "Severe hypersensitivity; pregnancy",
+      "cuidadosMedicos": "Monitor LFTs, TSH, glucose, irAE signs (e.g., diarrhea, SOB, fatigue)",
+      "cuidadosFarmaceuticos": "Ensure IV compatibility; store cold; label irAE risk",
+      "cuidadosEnfermagem": "Monitor vitals, GI status, rash, infusion reactions",
+      "fontesBibliograficas": "FDA label, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Atezolizumab",
+      "suspension": "Suspender 7 días antes de cirugía si hay toxicidad inmunitaria activa",
+      "risk": "Neumonitis, colitis, hepatitis autoinmune, hipotiroidismo, erupción cutánea, fatiga",
+      "reintroduction": "Reiniciar tras recuperación clínica e inmunológica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atezolizumab",
+      "nomeComercial": "Tecentriq",
+      "mecanismoAcao": "Anticuerpo monoclonal IgG1 que bloquea PD-L1",
+      "farmacocinetica": "T½ ~27 días; eliminación lineal; IV cada 2–4 semanas",
+      "farmacodinamica": "Reactivación inmunitaria antitumoral",
+      "indicacoes": "Cáncer de pulmón, vejiga, mama TN, hígado, esófago",
+      "reacoesAdversas": "Fatiga, rash, diarrea, neumonitis, hepatitis, endocrinopatías",
+      "riscoGravidez": "Categoría D – evitar embarazo",
+      "riscoLactacao": "Contraindicado durante y 5 meses postratamiento",
+      "administracao": "Infusión IV 60 minutos (primera), luego 30 minutos",
+      "doseMaxima": "1680mg c/4 semanas",
+      "doseMinima": "840mg c/2 semanas",
+      "classificacao": "Inhibidor de checkpoint PD-L1",
+      "apresentacao": "Frascos 1200mg/20ml",
+      "interacaoMedicamento": "Evitar vacunas vivas, inmunosupresores",
+      "posologia": "1200mg IV c/3 semanas; 1680mg c/4s; 840mg c/2s",
+      "armazenamento": "Refrigerado 2–8°C; no congelar",
+      "preparo": "Diluir en SF hasta 250ml; filtro 0,22μm",
+      "solucoesCompatíveis": "ClNa 0,9%",
+      "contraindicacoes": "Alergia severa, embarazo",
+      "cuidadosMedicos": "Vigilar función hepática, TSH, eventos inmunes",
+      "cuidadosFarmaceuticos": "Cadena frío, correcta dilución, estabilidad 24h",
+      "cuidadosEnfermagem": "Observar disnea, diarrea, rash, fiebre",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿特珠单抗",
+      "suspension": "术前7天停药，免疫相关并发症时更应谨慎",
+      "risk": "肺炎、肠炎、肝炎、皮疹、内分泌功能障碍、疲劳",
+      "reintroduction": "术后10–14天，毒性缓解后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿特珠单抗",
+      "nomeComercial": "Tecentriq",
+      "mecanismoAcao": "IgG1单抗，阻断PD-L1与PD-1/B7.1结合",
+      "farmacocinetica": "T½约27天；线性清除；IV给药",
+      "farmacodinamica": "免疫检查点抑制剂，激活T细胞抗肿瘤作用",
+      "indicacoes": "NSCLC、膀胱癌、三阴乳腺癌、肝癌、食管癌",
+      "reacoesAdversas": "乏力、皮疹、腹泻、肺炎、肝功能异常、内分泌异常",
+      "riscoGravidez": "D类 – 妊娠禁用",
+      "riscoLactacao": "治疗期间及5个月内禁哺乳",
+      "administracao": "IV输注60分钟起始，后30分钟",
+      "doseMaxima": "1680mg 每4周",
+      "doseMinima": "840mg 每2周",
+      "classificacao": "PD-L1免疫检查点抑制剂",
+      "apresentacao": "1200mg/20ml瓶装",
+      "interacaoMedicamento": "避免活疫苗、慎用免疫抑制剂",
+      "posologia": "1200mg q3w；1680mg q4w；840mg q2w",
+      "armazenamento": "2–8°C避光，不可冷冻",
+      "preparo": "稀释于0.9%氯化钠至250ml，30分钟内完成输注",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "严重过敏、活动性妊娠",
+      "cuidadosMedicos": "监测肝肾功能、内分泌、免疫相关不良事件",
+      "cuidadosFarmaceuticos": "冷链运输、配液不超24h、使用无菌技术",
+      "cuidadosEnfermagem": "观察免疫相关毒性、皮疹、腹泻、发热",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA、NCCN"
+    }
+  }
+}

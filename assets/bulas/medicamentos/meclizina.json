@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Meclizina",
+      "suspension": "Manter até o dia da cirurgia, exceto em cirurgias otoneurológicas específicas",
+      "risk": "Baixo risco; pode causar sedação e potencializar anestésicos; avaliar em idosos",
+      "reintroduction": "Reintroduzir conforme necessidade de controle de náuseas e vertigem"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Meclizina",
+      "nomeComercial": "Meclin, Bonadoxina, Bonar",
+      "mecanismoAcao": "Antagonista dos receptores H1 da histamina com ação anticolinérgica central",
+      "farmacocinetica": "Via oral, início em 1h, pico 3h, meia-vida 6–12h, metabolização hepática",
+      "farmacodinamica": "Inibe sinais vestibulares e bloqueia zona de gatilho no SNC",
+      "indicacoes": "Vertigem vestibular, cinetose (enjoo por movimento), náuseas leves",
+      "reacoesAdversas": "Sonolência, boca seca, tontura, visão turva, retenção urinária",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Uso com cautela; pode causar sedação no lactente",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/dia",
+      "doseMinima": "12,5 mg/dose",
+      "classificacao": "Antiemético e antivertiginoso (anti-histamínico H1)",
+      "apresentacao": "Comprimidos de 12,5 mg, 25 mg",
+      "interacaoMedicamento": "Potencializa sedação com álcool, opioides e benzodiazepínicos",
+      "posologia": "25–50 mg 1 hora antes da exposição ao movimento; repetir a cada 24h se necessário",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Glaucoma de ângulo fechado, retenção urinária grave",
+      "cuidadosMedicos": "Evitar uso prolongado em idosos; atenção a efeitos anticolinérgicos",
+      "cuidadosFarmaceuticos": "Orientar paciente sobre risco de sonolência",
+      "cuidadosEnfermagem": "Monitorar nível de consciência e efeitos colaterais anticolinérgicos",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, BNF, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Meclizine",
+      "suspension": "Continue until surgery unless otologic procedure requires withdrawal",
+      "risk": "Low risk; may enhance sedatives and anesthetics; caution in elderly",
+      "reintroduction": "Reintroduce post-op if needed for vertigo or nausea"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Meclizine",
+      "nomeComercial": "Antivert, Bonine, Dramamine Less Drowsy",
+      "mecanismoAcao": "Central H1 histamine receptor antagonist with anticholinergic effects",
+      "farmacocinetica": "Oral, onset ~1h, peak 3h, half-life 6–12h, hepatic metabolism",
+      "farmacodinamica": "Inhibits vestibular signals and CTZ stimulation",
+      "indicacoes": "Motion sickness, vertigo from vestibular disorders",
+      "reacoesAdversas": "Drowsiness, dry mouth, blurred vision, urinary retention",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Use with caution; may cause infant sedation",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/day",
+      "doseMinima": "12.5 mg/dose",
+      "classificacao": "Antiemetic and antivertigo agent (H1 antihistamine)",
+      "apresentacao": "Tablets: 12.5 mg, 25 mg",
+      "interacaoMedicamento": "Increased sedation with alcohol, opioids, benzodiazepines",
+      "posologia": "25–50 mg 1 hour before travel; repeat every 24h if needed",
+      "armazenamento": "Room temperature, protect from moisture",
+      "preparo": "Oral use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Closed-angle glaucoma, severe urinary retention",
+      "cuidadosMedicos": "Avoid long-term use in elderly; monitor anticholinergic burden",
+      "cuidadosFarmaceuticos": "Warn patients about drowsiness and CNS effects",
+      "cuidadosEnfermagem": "Monitor CNS status and anticholinergic effects",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Meclizina",
+      "suspension": "Mantener hasta la cirugía excepto en procedimientos otológicos",
+      "risk": "Riesgo bajo; puede potenciar anestésicos y causar somnolencia; precaución en ancianos",
+      "reintroduction": "Reintroducir postoperatorio si hay vértigo o náuseas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Meclizina",
+      "nomeComercial": "Bonadoxina, Dramamine Menor Somnolencia",
+      "mecanismoAcao": "Antagonista H1 con efecto anticolinérgico central",
+      "farmacocinetica": "Oral, inicio ~1h, pico 3h, vida media 6–12h, metabolismo hepático",
+      "farmacodinamica": "Bloquea señales vestibulares y zona gatillo quimiorreceptora",
+      "indicacoes": "Vértigo vestibular, cinetosis",
+      "reacoesAdversas": "Somnolencia, boca seca, visión borrosa, retención urinaria",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Con precaución; puede sedar al lactante",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/día",
+      "doseMinima": "12.5 mg/dosis",
+      "classificacao": "Antiemético y antivertiginoso (antihistamínico H1)",
+      "apresentacao": "Comprimidos de 12.5 mg y 25 mg",
+      "interacaoMedicamento": "Sedación aumentada con alcohol, opiáceos, benzodiacepinas",
+      "posologia": "25–50 mg 1h antes de exposición al movimiento; repetir cada 24h si es necesario",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Glaucoma de ángulo cerrado, retención urinaria severa",
+      "cuidadosMedicos": "Evitar uso prolongado en ancianos",
+      "cuidadosFarmaceuticos": "Advertir sobre sedación y efectos en SNC",
+      "cuidadosEnfermagem": "Vigilar conciencia y efectos anticolinérgicos",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甲哌利嗪",
+      "suspension": "术前可继续使用，耳科手术除外",
+      "risk": "低风险；可能增强麻醉药作用；老年人慎用",
+      "reintroduction": "术后如有眩晕或恶心可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甲哌利嗪",
+      "nomeComercial": "Meclizine",
+      "mecanismoAcao": "中枢H1组胺受体拮抗剂，具抗胆碱作用",
+      "farmacocinetica": "口服，起效约1小时，峰值3小时，半衰期6–12小时，肝脏代谢",
+      "farmacodinamica": "抑制前庭信号及中枢催吐区",
+      "indicacoes": "晕动病、前庭性眩晕",
+      "reacoesAdversas": "嗜睡、口干、视物模糊、尿潴留",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "慎用；可能使婴儿嗜睡",
+      "administracao": "口服",
+      "doseMaxima": "每日100毫克",
+      "doseMinima": "每次12.5毫克",
+      "classificacao": "止吐药和抗眩晕药（H1抗组胺药）",
+      "apresentacao": "片剂12.5、25毫克",
+      "interacaoMedicamento": "与酒精、阿片类、镇静剂合用增强中枢抑制",
+      "posologia": "旅行前1小时服用25–50毫克，可每24小时重复一次",
+      "armazenamento": "室温避光干燥",
+      "preparo": "直接口服使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "闭角型青光眼、重度尿潴留",
+      "cuidadosMedicos": "老年人慎用，注意抗胆碱负担",
+      "cuidadosFarmaceuticos": "提醒患者可能出现嗜睡",
+      "cuidadosEnfermagem": "监测神经状态与抗胆碱副作用",
+      "fontesBibliograficas": "中国药典、UpToDate、Micromedex、FDA"
+    }
+  }
+}

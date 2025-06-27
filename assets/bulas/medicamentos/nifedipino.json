@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nifedipino",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Risco de hipotensão intraoperatória; ajuste de anestesia pode ser necessário",
+      "reintroduction": "Reintroduzir assim que possível por via oral, conforme estabilidade hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nifedipino",
+      "nomeComercial": "Adalat, Nifedicor, Nifepar, Nifebene",
+      "mecanismoAcao": "Bloqueador dos canais de cálcio tipo L, reduzindo a entrada de cálcio nas células musculares lisas vasculares",
+      "farmacocinetica": "Biodisponibilidade oral de 45-75%, metabolizado no fígado (CYP3A4), meia-vida de 2 a 5 horas (liberação imediata) ou até 24 horas (liberação prolongada)",
+      "farmacodinamica": "Vasodilatação arterial com redução da resistência vascular periférica e da pressão arterial",
+      "indicacoes": "Hipertensão, angina do peito (vasoespástica e estável crônica), fenômeno de Raynaud",
+      "reacoesAdversas": "Cefaleia, rubor, taquicardia reflexa, edema periférico, hipotensão",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Pode ser excretado no leite materno; uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "90 mg/dia (liberação prolongada)",
+      "doseMinima": "10 mg/dia",
+      "classificacao": "Bloqueador dos canais de cálcio diidropiridínico",
+      "apresentacao": "Comprimidos de liberação imediata e prolongada",
+      "interacaoMedicamento": "Interage com betabloqueadores, digoxina, cetoconazol, suco de grapefruit, rifampicina",
+      "posologia": "Individualizada conforme resposta clínica; iniciar com 10-30 mg/dia",
+      "armazenamento": "Conservar em temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo específico",
+      "solucoesCompatíveis": "Não aplicável (uso oral)",
+      "contraindicacoes": "Choque cardiogênico, angina instável grave, infarto agudo do miocárdio recente",
+      "cuidadosMedicos": "Monitorar PA e FC antes e durante a indução anestésica",
+      "cuidadosFarmaceuticos": "Evitar fracionamento de comprimidos de liberação prolongada",
+      "cuidadosEnfermagem": "Observar sinais de hipotensão e edema periférico",
+      "fontesBibliograficas": "SBH, FDA, Micromedex, ANVISA, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nifedipine",
+      "suspension": "Continue until the day of surgery",
+      "risk": "Risk of intraoperative hypotension; anesthetic management adjustment may be needed",
+      "reintroduction": "Restart as soon as hemodynamically stable, preferably orally"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nifedipine",
+      "nomeComercial": "Adalat, Procardia, Nifedical, Afeditab",
+      "mecanismoAcao": "L-type calcium channel blocker, reducing calcium influx in vascular smooth muscle",
+      "farmacocinetica": "Oral bioavailability 45–75%, hepatic metabolism (CYP3A4), half-life 2–5 h (IR) or up to 24 h (ER)",
+      "farmacodinamica": "Causes arterial vasodilation and reduces peripheral vascular resistance",
+      "indicacoes": "Hypertension, chronic stable and vasospastic angina, Raynaud's phenomenon",
+      "reacoesAdversas": "Headache, flushing, reflex tachycardia, peripheral edema, hypotension",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "May be excreted in breast milk; use with caution",
+      "administracao": "Oral route",
+      "doseMaxima": "90 mg/day (extended release)",
+      "doseMinima": "10 mg/day",
+      "classificacao": "Dihydropyridine calcium channel blocker",
+      "apresentacao": "Immediate and extended-release tablets",
+      "interacaoMedicamento": "Interacts with beta-blockers, digoxin, ketoconazole, grapefruit juice, rifampin",
+      "posologia": "Tailored dose; usually starts at 10–30 mg/day",
+      "armazenamento": "Store at room temperature (59–86°F), protect from moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable (oral use)",
+      "contraindicacoes": "Cardiogenic shock, severe unstable angina, recent MI",
+      "cuidadosMedicos": "Monitor BP and HR during anesthetic induction",
+      "cuidadosFarmaceuticos": "Do not split extended-release tablets",
+      "cuidadosEnfermagem": "Monitor for hypotension and peripheral edema",
+      "fontesBibliograficas": "FDA, Micromedex, BNF, AHFS"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nifedipina",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Riesgo de hipotensión durante la anestesia; puede requerir ajuste",
+      "reintroduction": "Reintroducir cuando se estabilice la hemodinámica, vía oral preferida"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nifedipina",
+      "nomeComercial": "Adalat, Nifedicor, Nifepur, Nifebloc",
+      "mecanismoAcao": "Bloqueador de canales de calcio tipo L, disminuye el ingreso de calcio a la musculatura lisa vascular",
+      "farmacocinetica": "Biodisponibilidad 45–75%, metabolismo hepático (CYP3A4), vida media 2–5 h (inmediata) o hasta 24 h (prolongada)",
+      "farmacodinamica": "Vasodilatador arterial, reduce resistencia vascular periférica",
+      "indicacoes": "Hipertensión, angina de pecho, fenómeno de Raynaud",
+      "reacoesAdversas": "Cefalea, enrojecimiento, taquicardia refleja, edema, hipotensión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Puede excretarse en la leche; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "90 mg/día (liberación prolongada)",
+      "doseMinima": "10 mg/día",
+      "classificacao": "Bloqueador de los canales de calcio dihidropiridínico",
+      "apresentacao": "Tabletas de liberación inmediata y prolongada",
+      "interacaoMedicamento": "Interacción con betabloqueantes, digoxina, ketoconazol, jugo de toronja, rifampicina",
+      "posologia": "Dosis individualizada; iniciar con 10–30 mg/día",
+      "armazenamento": "Almacenar a temperatura ambiente (15–30°C), protegido de la humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica (uso oral)",
+      "contraindicacoes": "Choque cardiogénico, angina inestable grave, IAM reciente",
+      "cuidadosMedicos": "Monitorizar PA y FC antes y durante la anestesia",
+      "cuidadosFarmaceuticos": "No partir comprimidos de liberación prolongada",
+      "cuidadosEnfermagem": "Observar signos de hipotensión y edema",
+      "fontesBibliograficas": "ANMAT, Micromedex, BNF, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硝苯地平",
+      "suspension": "术前可持续使用至手术当日",
+      "risk": "术中低血压风险，可能需调整麻醉计划",
+      "reintroduction": "术后血流动力学稳定后尽早口服恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硝苯地平",
+      "nomeComercial": "Adalat, 拜新同",
+      "mecanismoAcao": "L型钙通道阻滞剂，抑制钙进入血管平滑肌",
+      "farmacocinetica": "口服生物利用度45–75%，肝脏代谢（CYP3A4），半衰期2–5小时（速释）或长达24小时（缓释）",
+      "farmacodinamica": "扩张动脉，降低外周阻力和血压",
+      "indicacoes": "高血压，心绞痛，雷诺综合征",
+      "reacoesAdversas": "头痛，面部潮红，反射性心动过速，外周水肿，低血压",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可能分泌入乳汁，需谨慎使用",
+      "administracao": "口服",
+      "doseMaxima": "每日90毫克（缓释）",
+      "doseMinima": "每日10毫克",
+      "classificacao": "二氢吡啶类钙通道阻滞剂",
+      "apresentacao": "速释和缓释片剂",
+      "interacaoMedicamento": "与β阻断剂、地高辛、酮康唑、葡萄柚汁、利福平相互作用",
+      "posologia": "起始剂量10–30毫克/日，根据临床反应调整",
+      "armazenamento": "室温（15–30°C）保存，避免潮湿",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用（口服用药）",
+      "contraindicacoes": "心源性休克、严重不稳定型心绞痛、近期心肌梗死",
+      "cuidadosMedicos": "麻醉前后监测血压和心率",
+      "cuidadosFarmaceuticos": "缓释片不可掰开",
+      "cuidadosEnfermagem": "观察低血压和水肿症状",
+      "fontesBibliograficas": "中国药典, FDA, Micromedex"
+    }
+  }
+}

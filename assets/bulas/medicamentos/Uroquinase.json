@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Uroquinase",
+      "suspension": "Suspender 24 horas antes de procedimentos invasivos não emergenciais",
+      "risk": "Risco de sangramento maior, hematomas, hemorragia intracraniana ou digestiva; interação com anticoagulantes",
+      "reintroduction": "Reintroduzir após 24–48h com estabilidade hemostática documentada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Uroquinase",
+      "nomeComercial": "Abbokinase, Kinlytic",
+      "mecanismoAcao": "Conversão do plasminogênio em plasmina, promovendo fibrinólise e dissolução do trombo",
+      "farmacocinetica": "Início de ação imediato; meia-vida plasmática 10–20 minutos; metabolização hepática",
+      "farmacodinamica": "Aumenta a degradação de fibrina nos coágulos, restabelecendo a perfusão",
+      "indicacoes": "Embolia pulmonar maciça, trombose arterial aguda, oclusão de cateteres vasculares",
+      "reacoesAdversas": "Sangramento, febre, hipotensão, reações alérgicas, anemia",
+      "riscoGravidez": "Categoria B – usar apenas se necessário",
+      "riscoLactacao": "Desconhecido; evitar uso ou suspender amamentação temporariamente",
+      "administracao": "Infusão intravenosa contínua ou em bolus",
+      "doseMaxima": "3.000.000 UI por dia (ajustada por peso e indicação)",
+      "doseMinima": "4.000 UI para desobstrução de cateteres",
+      "classificacao": "Fibrinolítico – agente trombolítico",
+      "apresentacao": "Pó liofilizado para solução injetável: 5.000 UI a 250.000 UI",
+      "interacaoMedicamento": "Potencializa efeito com anticoagulantes, antiagregantes, AINEs",
+      "posologia": "250.000 UI IV em 10 min seguido de 100.000 UI/h por 12–24h (EP); conforme protocolo",
+      "armazenamento": "Refrigerado (2–8°C) antes da reconstituição; uso imediato após preparo",
+      "preparo": "Reconstituir com diluente estéril; administrar via bomba ou seringa",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Sangramento ativo, AVC recente, cirurgia maior recente, neoplasia intracraniana",
+      "cuidadosMedicos": "Monitorar sinais vitais, hemoglobina, coagulograma, sangramentos",
+      "cuidadosFarmaceuticos": "Controlar reconstituição correta e compatibilidade com a linha de infusão",
+      "cuidadosEnfermagem": "Observar local de punção, sinais de sangramento oculto, pressão e nível de consciência",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, UpToDate, AHA/ACC Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Urokinase",
+      "suspension": "Discontinue 24h before non-emergency procedures",
+      "risk": "Major bleeding, hematoma, GI or intracranial hemorrhage, interaction with anticoagulants",
+      "reintroduction": "Restart 24–48h after stable hemostasis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Urokinase",
+      "nomeComercial": "Abbokinase, Kinlytic",
+      "mecanismoAcao": "Converts plasminogen to plasmin, promoting fibrinolysis and thrombus dissolution",
+      "farmacocinetica": "Immediate onset; half-life 10–20 min; hepatic metabolism",
+      "farmacodinamica": "Degrades fibrin within clots, restoring perfusion",
+      "indicacoes": "Massive pulmonary embolism, acute arterial thrombosis, catheter occlusion",
+      "reacoesAdversas": "Bleeding, fever, hypotension, allergic reactions, anemia",
+      "riscoGravidez": "Category B – use only if clearly needed",
+      "riscoLactacao": "Unknown; caution or temporary suspension of breastfeeding advised",
+      "administracao": "IV infusion or bolus",
+      "doseMaxima": "3,000,000 IU/day (based on weight and indication)",
+      "doseMinima": "4,000 IU (catheter occlusion)",
+      "classificacao": "Fibrinolytic – thrombolytic agent",
+      "apresentacao": "Lyophilized powder for injection: 5,000 IU to 250,000 IU",
+      "interacaoMedicamento": "Potentiates effect with anticoagulants, antiplatelets, NSAIDs",
+      "posologia": "250,000 IU IV over 10 min then 100,000 IU/h x 12–24h (PE); per protocol",
+      "armazenamento": "Refrigerate 2–8°C before reconstitution; use immediately",
+      "preparo": "Reconstitute with sterile diluent; administer via pump or syringe",
+      "solucoesCompatíveis": "Normal saline, 5% dextrose",
+      "contraindicacoes": "Active bleeding, recent stroke, major surgery, intracranial neoplasm",
+      "cuidadosMedicos": "Monitor vitals, Hgb, coagulation profile, signs of bleeding",
+      "cuidadosFarmaceuticos": "Ensure proper reconstitution and compatibility with infusion line",
+      "cuidadosEnfermagem": "Observe insertion site, internal bleeding, mental status",
+      "fontesBibliograficas": "FDA, Micromedex, AHA/ACC, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Uroquinasa",
+      "suspension": "Suspender 24h antes de procedimientos no urgentes",
+      "risk": "Riesgo de hemorragia mayor, hematomas, sangrado digestivo o cerebral",
+      "reintroduction": "Reiniciar 24–48h tras hemostasia estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Uroquinasa",
+      "nomeComercial": "Abbokinase, Kinlytic",
+      "mecanismoAcao": "Convierte plasminógeno en plasmina, activando fibrinólisis",
+      "farmacocinetica": "Inicio inmediato; vida media 10–20 min; metabolismo hepático",
+      "farmacodinamica": "Disuelve coágulos de fibrina y mejora perfusión",
+      "indicacoes": "Embolia pulmonar masiva, trombosis arterial aguda, catéteres obstruidos",
+      "reacoesAdversas": "Sangrado, fiebre, hipotensión, reacciones alérgicas, anemia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Precaución o suspender lactancia temporalmente",
+      "administracao": "Infusión IV o bolo",
+      "doseMaxima": "3.000.000 UI/día",
+      "doseMinima": "4.000 UI (catéter)",
+      "classificacao": "Trombolítico fibrinolítico",
+      "apresentacao": "Polvo para inyección: 5.000–250.000 UI",
+      "interacaoMedicamento": "Potencia anticoagulantes, antiagregantes, AINEs",
+      "posologia": "250.000 UI en 10 min luego 100.000 UI/h x 12–24h",
+      "armazenamento": "Refrigerado antes de usar; desechar tras reconstituir",
+      "preparo": "Reconstituir con diluyente estéril y administrar IV",
+      "solucoesCompatíveis": "Salina, glucosa al 5%",
+      "contraindicacoes": "Sangrado activo, cirugía reciente, cáncer intracraneal, ACV reciente",
+      "cuidadosMedicos": "Controlar hemodinámica, sangrado, hemoglobina",
+      "cuidadosFarmaceuticos": "Verificar compatibilidad y técnica aséptica",
+      "cuidadosEnfermagem": "Observar punción y signos neurológicos",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "尿激酶",
+      "suspension": "择期手术前24小时停药",
+      "risk": "严重出血、颅内或消化道出血，与抗凝药有协同效应",
+      "reintroduction": "术后24–48小时、止血稳定后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "尿激酶",
+      "nomeComercial": "Abbokinase, Kinlytic",
+      "mecanismoAcao": "激活纤溶系统，将纤溶酶原转化为纤溶酶",
+      "farmacocinetica": "静脉给药起效快，T1/2约10–20分钟，经肝代谢",
+      "farmacodinamica": "溶解纤维蛋白血栓，恢复血流",
+      "indicacoes": "肺栓塞、动脉血栓形成、导管阻塞",
+      "reacoesAdversas": "出血、低血压、发热、过敏反应、贫血",
+      "riscoGravidez": "B类 – 必要时使用",
+      "riscoLactacao": "不明，建议暂停哺乳",
+      "administracao": "静脉注射或泵入",
+      "doseMaxima": "每日300万单位",
+      "doseMinima": "导管溶栓4000单位",
+      "classificacao": "溶栓药 – 纤溶酶原激活剂",
+      "apresentacao": "冻干粉针剂：5,000–250,000单位",
+      "interacaoMedicamento": "增强抗凝药、抗血小板药、NSAIDs作用",
+      "posologia": "初始25万单位IV，继以10万单位/小时12–24小时",
+      "armazenamento": "2–8°C冷藏，复溶后即用",
+      "preparo": "无菌稀释后静脉给药",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "活动性出血、近期大手术、中枢神经系统疾病",
+      "cuidadosMedicos": "监测生命体征、凝血功能、出血风险",
+      "cuidadosFarmaceuticos": "稀释浓度正确，配伍稳定性确认",
+      "cuidadosEnfermagem": "注意穿刺点及意识状态变化",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、临床指南"
+    }
+  }
+}

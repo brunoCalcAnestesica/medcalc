@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina BCG",
+      "suspension": "Não se aplica – vacinação única e programada; contraindicado em imunossuprimidos e em situações de cirurgia eletiva grave nas 2 semanas subsequentes",
+      "risk": "Reações locais, linfadenite, abscesso, ulceração persistente, osteíte; risco elevado em imunossuprimidos",
+      "reintroduction": "Reaplicação somente em campanhas de reforço com critérios clínicos ou ausência de cicatriz (excepcional)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bacilo Calmette-Guérin (Mycobacterium bovis atenuado)",
+      "nomeComercial": "Vacina BCG ID (Fiocruz, Serum Institute)",
+      "mecanismoAcao": "Induz resposta imune celular contra micobactérias; estimula formação de granulomas e memória imune inespecífica",
+      "farmacocinetica": "Intradérmica; resposta celular inicia após 2–6 semanas; formação de cicatriz típica em até 12 semanas",
+      "farmacodinamica": "Confere proteção contra formas graves da tuberculose (miliar e meníngea)",
+      "indicacoes": "Profilaxia primária de tuberculose em recém-nascidos e crianças até 5 anos sem vacinação prévia",
+      "reacoesAdversas": "Pápula local, ulceração, adenite, abscesso, osteomielite (raro), BCGite disseminada (em imunodeficientes)",
+      "riscoGravidez": "Contraindicada",
+      "riscoLactacao": "Segura na lactação",
+      "administracao": "Intradérmica no braço direito (1 dose de 0,1 mL)",
+      "doseMaxima": "Única (0,05 mL em RN <1 ano; 0,1 mL ≥1 ano)",
+      "doseMinima": "Dose única",
+      "classificacao": "Vacina viva atenuada (micobacteriana)",
+      "apresentacao": "Frasco-ampola liofilizado multidoses com diluente",
+      "interacaoMedicamento": "Evitar uso simultâneo com imunossupressores ou corticóides sistêmicos",
+      "posologia": "Dose única até 5 anos de idade",
+      "armazenamento": "2–8°C; reconstituída válida por até 6 horas",
+      "preparo": "Reconstituir com diluente específico e agitar suavemente",
+      "solucoesCompatíveis": "Apenas diluente da vacina",
+      "contraindicacoes": "Imunodeficiência, uso de imunossupressores, febre, prematuros <2 kg",
+      "cuidadosMedicos": "Avaliar estado vacinal, sinais de imunodeficiência",
+      "cuidadosFarmaceuticos": "Usar técnica asséptica, respeitar validade e descarte",
+      "cuidadosEnfermagem": "Aplicar ID corretamente, não cobrir local, orientar sobre formação de cicatriz",
+      "fontesBibliograficas": "PNI/MS, SBIm, ANVISA, Medscape, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "BCG vaccine",
+      "suspension": "Not applicable – single scheduled dose; delay in immunocompromised or within 2 weeks of major surgery",
+      "risk": "Local ulceration, lymphadenitis, abscess, osteitis, disseminated infection in immunodeficient",
+      "reintroduction": "Revaccination rare, only per specific guidelines"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Live attenuated Mycobacterium bovis (BCG strain)",
+      "nomeComercial": "BCG Vaccine (TICE, SSI, Serum Institute)",
+      "mecanismoAcao": "Stimulates cellular immunity against Mycobacterium tuberculosis; granuloma and memory response",
+      "farmacocinetica": "Intradermal onset 2–6 weeks; scar in 8–12 weeks",
+      "farmacodinamica": "Protects mainly against severe forms of TB (meningeal, disseminated)",
+      "indicacoes": "TB prevention in infants/children in endemic areas or by recommendation",
+      "reacoesAdversas": "Injection site ulcer, lymph node enlargement, fever, osteitis, rare BCGitis",
+      "riscoGravidez": "Contraindicated",
+      "riscoLactacao": "Safe",
+      "administracao": "Intradermal, 0.05–0.1 mL single dose in upper arm",
+      "doseMaxima": "One-time only",
+      "doseMinima": "Single 0.05 mL (neonates) or 0.1 mL (children >1 yr)",
+      "classificacao": "Live attenuated bacterial vaccine",
+      "apresentacao": "Lyophilized vial + diluent",
+      "interacaoMedicamento": "Avoid with immunosuppressives or recent live vaccines",
+      "posologia": "One dose; revaccination not routine",
+      "armazenamento": "2–8°C; reconstituted stable for 6h",
+      "preparo": "Reconstitute gently with official diluent",
+      "solucoesCompatíveis": "Official diluent only",
+      "contraindicacoes": "Immunosuppression, fever, low birth weight <2 kg",
+      "cuidadosMedicos": "Screen for immune deficiency and TB exposure",
+      "cuidadosFarmaceuticos": "Follow asepsis; use within 6h",
+      "cuidadosEnfermagem": "Ensure correct ID injection, do not bandage, explain scar development",
+      "fontesBibliograficas": "CDC, WHO, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna BCG",
+      "suspension": "No aplica – única dosis; posponer en inmunodeprimidos o cirugías mayores próximas",
+      "risk": "Riesgo de linfadenitis, úlcera, BCGitis, osteítis",
+      "reintroduction": "Reaplicación rara, solo si no hay cicatriz y criterios clínicos lo indican"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bacilo Calmette-Guérin atenuado",
+      "nomeComercial": "BCG SSI, Serum Institute",
+      "mecanismoAcao": "Estimula inmunidad celular contra micobacterias",
+      "farmacocinetica": "ID; respuesta en 2–6 semanas, cicatriz en 8–12 semanas",
+      "farmacodinamica": "Previene tuberculosis grave",
+      "indicacoes": "Profilaxis en lactantes sin vacunación previa",
+      "reacoesAdversas": "Úlcera, fiebre, linfadenitis, osteomielitis, BCGitis diseminada",
+      "riscoGravidez": "Contraindicada",
+      "riscoLactacao": "Segura",
+      "administracao": "Intradérmica brazo derecho; 0,05–0,1 mL",
+      "doseMaxima": "Única",
+      "doseMinima": "Única",
+      "classificacao": "Vacuna bacteriana viva atenuada",
+      "apresentacao": "Frasco liofilizado multidosis + diluyente",
+      "interacaoMedicamento": "Evitar con inmunosupresores",
+      "posologia": "1 dosis antes de los 5 años",
+      "armazenamento": "2–8°C; usar en 6h tras reconstitución",
+      "preparo": "Reconstituir y usar inmediatamente",
+      "solucoesCompatíveis": "Solo diluyente oficial",
+      "contraindicacoes": "Inmunodeficiencia, fiebre, <2 kg al nacer",
+      "cuidadosMedicos": "Descartar inmunodeficiencias",
+      "cuidadosFarmaceuticos": "Manejo estéril y conservación correcta",
+      "cuidadosEnfermagem": "ID correcta, no cubrir, informar sobre cicatriz",
+      "fontesBibliograficas": "OMS, AEP, Micromedex, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "卡介苗（BCG疫苗）",
+      "suspension": "不适用于术前停药，术后2周内避免接种",
+      "risk": "注射部位红肿、淋巴结肿大、骨髓炎、免疫缺陷者风险大",
+      "reintroduction": "极少数情况可根据免疫史和瘢痕判断是否补种"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "减毒牛型分枝杆菌（BCG菌株）",
+      "nomeComercial": "BCG疫苗（国药集团、印尼、丹麦）",
+      "mecanismoAcao": "诱导细胞免疫应答，预防结核病",
+      "farmacocinetica": "ID接种，2–6周形成反应，12周瘢痕",
+      "farmacodinamica": "主要预防结核性脑膜炎与播散型结核",
+      "indicacoes": "出生后尽早接种，适用于高流行地区",
+      "reacoesAdversas": "注射部位溃疡、淋巴结炎、播散型卡介反应（免疫低下）",
+      "riscoGravidez": "禁用",
+      "riscoLactacao": "可接种",
+      "administracao": "右上臂三角肌下0.05–0.1 mL ID注射",
+      "doseMaxima": "1次",
+      "doseMinima": "1次",
+      "classificacao": "活疫苗 – 细菌类",
+      "apresentacao": "冻干粉 + 稀释液",
+      "interacaoMedicamento": "不可与免疫抑制剂合用",
+      "posologia": "出生24h内，最多5岁补种",
+      "armazenamento": "2–8°C，重构后6h内使用",
+      "preparo": "无菌操作，轻轻摇匀",
+      "solucoesCompatíveis": "原装稀释液",
+      "contraindicacoes": "免疫缺陷、发热、体重<2kg、孕妇",
+      "cuidadosMedicos": "接种前排除免疫疾病",
+      "cuidadosFarmaceuticos": "接种前后记录完整，保存冷链",
+      "cuidadosEnfermagem": "正确ID注射，保持干燥，不敷贴",
+      "fontesBibliograficas": "中国疫苗手册、WHO、Micromedex"
+    }
+  }
+}

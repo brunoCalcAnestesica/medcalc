@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bromoprida",
+      "suspension": "Suspender 12 horas antes de cirurgias com anestesia geral",
+      "risk": "Potencialização de efeitos extrapiramidais com anestésicos, risco de sedação, interação com opióides e neurolépticos",
+      "reintroduction": "Reintroduzir no pós-operatório se houver indicação clínica de náuseas ou distúrbios da motilidade gastrointestinal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromoprida",
+      "nomeComercial": "Digesan, Bromopan",
+      "mecanismoAcao": "Antagonista dopaminérgico com ação antiemética e procinética, estimula motilidade gástrica",
+      "farmacocinetica": "Boa absorção oral, início de ação em 30–60 minutos, metabolização hepática, excreção renal",
+      "farmacodinamica": "Bloqueia receptores dopaminérgicos centrais e periféricos, inibindo o reflexo do vômito e promovendo o esvaziamento gástrico",
+      "indicacoes": "Náuseas, vômitos, refluxo gastroesofágico, gastroparesia",
+      "reacoesAdversas": "Sonolência, diarreia, sintomas extrapiramidais, galactorreia, hiperprolactinemia",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Pode ser excretada no leite materno; uso com cautela",
+      "administracao": "Oral ou intramuscular",
+      "doseMaxima": "120mg/dia",
+      "doseMinima": "10mg/dose",
+      "classificacao": "Antiemético, procinético",
+      "apresentacao": "Comprimidos, gotas, solução injetável",
+      "interacaoMedicamento": "Interage com depressores do SNC, antipsicóticos e levodopa",
+      "posologia": "10 a 20mg 3 vezes ao dia, conforme indicação clínica",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Pronta para uso",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, dextrose 5%",
+      "contraindicacoes": "Feocromocitoma, epilepsia, sangramento gastrointestinal, obstrução intestinal mecânica",
+      "cuidadosMedicos": "Monitorar sintomas extrapiramidais, uso prolongado pode elevar prolactina",
+      "cuidadosFarmaceuticos": "Evitar uso simultâneo com levodopa, orientar sobre sedação",
+      "cuidadosEnfermagem": "Observar efeitos colaterais motores e nível de sedação",
+      "fontesBibliograficas": "ANVISA, Micromedex, Bulário Eletrônico"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bromopride",
+      "suspension": "Discontinue 12 hours before general anesthesia procedures",
+      "risk": "Risk of extrapyramidal symptoms, sedation, interaction with opioids and anesthetics",
+      "reintroduction": "Restart post-op if clinically indicated for nausea or gastric motility disorders"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromopride",
+      "nomeComercial": "Not marketed in the US; related to metoclopramide",
+      "mecanismoAcao": "Central and peripheral dopamine receptor antagonist, antiemetic and gastric prokinetic action",
+      "farmacocinetica": "Well absorbed orally, onset in 30–60 minutes, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Blocks dopamine receptors in the CNS and GI tract, promotes gastric emptying and reduces nausea",
+      "indicacoes": "Nausea, vomiting, gastroparesis, GERD",
+      "reacoesAdversas": "Drowsiness, diarrhea, extrapyramidal effects, galactorrhea, hyperprolactinemia",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "May be excreted in breast milk; caution advised",
+      "administracao": "Oral or intramuscular",
+      "doseMaxima": "120mg/day",
+      "doseMinima": "10mg/dose",
+      "classificacao": "Antiemetic, prokinetic",
+      "apresentacao": "Tablets, oral drops, injection (where available)",
+      "interacaoMedicamento": "Interacts with CNS depressants, antipsychotics, and levodopa",
+      "posologia": "10–20mg three times daily as needed",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Normal saline, 5% dextrose",
+      "contraindicacoes": "Pheochromocytoma, epilepsy, GI bleeding, mechanical obstruction",
+      "cuidadosMedicos": "Monitor for extrapyramidal symptoms; prolonged use may elevate prolactin",
+      "cuidadosFarmaceuticos": "Avoid with levodopa, counsel on sedation risk",
+      "cuidadosEnfermagem": "Observe for motor side effects and drowsiness",
+      "fontesBibliograficas": "Micromedex, UpToDate, local clinical sources"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bromoprida",
+      "suspension": "Suspender 12 horas antes de procedimientos con anestesia general",
+      "risk": "Riesgo de efectos extrapiramidales, sedación, interacción con opioides y anestésicos",
+      "reintroduction": "Reintroducir tras la recuperación anestésica si hay indicación clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromoprida",
+      "nomeComercial": "Digesan",
+      "mecanismoAcao": "Antagonista dopaminérgico con acción antiemética y procinética",
+      "farmacocinetica": "Buena absorción oral, inicio en 30–60 minutos, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Bloquea receptores dopaminérgicos centrales y periféricos, mejora vaciamiento gástrico",
+      "indicacoes": "Náuseas, vómitos, reflujo, gastroparesia",
+      "reacoesAdversas": "Somnolencia, diarrea, síntomas extrapiramidales, galactorrea, hiperprolactinemia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Precaución; puede excretarse en la leche materna",
+      "administracao": "Oral o intramuscular",
+      "doseMaxima": "120mg/día",
+      "doseMinima": "10mg/dosis",
+      "classificacao": "Antiemético, procinético",
+      "apresentacao": "Comprimidos, gotas, solución inyectable",
+      "interacaoMedicamento": "Interacción con depresores del SNC, antipsicóticos y levodopa",
+      "posologia": "10–20mg tres veces al día",
+      "armazenamento": "Conservar a temperatura ambiente, protegido de la luz",
+      "preparo": "Listo para usar",
+      "solucoesCompatíveis": "Cloruro sódico 0,9%, glucosa 5%",
+      "contraindicacoes": "Feocromocitoma, epilepsia, hemorragia digestiva, obstrucción intestinal mecánica",
+      "cuidadosMedicos": "Monitorear efectos extrapiramidales y niveles de prolactina si uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar uso con levodopa, advertir sobre sedación",
+      "cuidadosEnfermagem": "Observar efectos motores y sedación",
+      "fontesBibliograficas": "Micromedex, fuentes clínicas regionales"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "溴哌利多",
+      "suspension": "术前12小时停药，尤其是全麻手术",
+      "risk": "与麻醉剂、阿片类药物联用可能引起锥体外系反应和嗜睡",
+      "reintroduction": "术后如有胃肠动力障碍或恶心呕吐，可重新开始使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "溴哌利多",
+      "nomeComercial": "Bromopride（地区品牌）",
+      "mecanismoAcao": "多巴胺受体拮抗剂，具有促动力和止吐作用",
+      "farmacocinetica": "口服吸收良好，起效30–60分钟，经肝脏代谢，肾脏排泄",
+      "farmacodinamica": "阻断中枢及外周多巴胺受体，促进胃排空，减少恶心",
+      "indicacoes": "恶心、呕吐、胃轻瘫、胃食管反流",
+      "reacoesAdversas": "嗜睡、腹泻、锥体外系症状、乳溢、泌乳素升高",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期慎用，可能分泌入乳汁",
+      "administracao": "口服或肌注",
+      "doseMaxima": "每日120毫克",
+      "doseMinima": "每次10毫克",
+      "classificacao": "止吐药，胃动力药",
+      "apresentacao": "片剂、口服液、注射剂",
+      "interacaoMedicamento": "与中枢抑制药、抗精神病药、左旋多巴相互作用",
+      "posologia": "每日三次，每次10–20毫克",
+      "armazenamento": "室温保存，避光",
+      "preparo": "即用型，无需稀释",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "嗜铬细胞瘤、癫痫、胃肠道出血或机械性梗阻",
+      "cuidadosMedicos": "监测锥体外系反应，长期使用注意泌乳素升高",
+      "cuidadosFarmaceuticos": "避免与左旋多巴同用，提醒镇静作用",
+      "cuidadosEnfermagem": "观察运动副作用及意识状态",
+      "fontesBibliograficas": "中国药典、Micromedex、医学参考资料"
+    }
+  }
+}

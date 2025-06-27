@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Solução de Hartmann",
+      "suspension": "Não é necessário suspender antes de cirurgias",
+      "risk": "Segura em uso clínico; pode agravar alcalose metabólica ou hipercalemia em pacientes com disfunção renal avançada",
+      "reintroduction": "Pode ser reiniciada conforme status volêmico e eletrolítico; uso guiado por gasometria e eletrólitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Solução de Hartmann (Lactato de Ringer)",
+      "nomeComercial": "Hartmann, Ringer Lactato, Solução Lactatada",
+      "mecanismoAcao": "Reposição hidroeletrolítica isotônica com lactato como agente tamponante convertido em bicarbonato hepático",
+      "farmacocinetica": "Distribuição extracelular; excreção renal; lactato metabolizado no fígado",
+      "farmacodinamica": "Corrige hipovolemia, acidose metabólica leve, desidratação e mantém perfusão tecidual",
+      "indicacoes": "Reposição volêmica em trauma, queimaduras, cirurgia, acidose leve a moderada",
+      "reacoesAdversas": "Hipervolemia, hipercalemia, alcalose metabólica, edema periférico ou pulmonar",
+      "riscoGravidez": "Categoria A – seguro",
+      "riscoLactacao": "Seguro",
+      "administracao": "Intravenosa contínua ou em bolus",
+      "doseMaxima": "Até 5–6 L/dia, conforme balanço hídrico e perfusão",
+      "doseMinima": "500 mL/dia para manutenção leve",
+      "classificacao": "Solução cristaloide tamponada isotônica",
+      "apresentacao": "Bolsas de 500 mL e 1000 mL",
+      "interacaoMedicamento": "Incompatível com ceftriaxona (risco de precipitado com cálcio), aminas vasoativas e bicarbonato de sódio",
+      "posologia": "500 mL a 2000 mL/dia ou em bolus de 20 mL/kg conforme necessidade clínica",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Pronto para uso IV",
+      "solucoesCompatíveis": "Não compatível com soluções hipercalêmicas ou bicarbonato",
+      "contraindicacoes": "Hipercalemia, alcalose metabólica, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar eletrólitos, função hepática e renal, balanço hídrico",
+      "cuidadosFarmaceuticos": "Observar compatibilidade medicamentosa",
+      "cuidadosEnfermagem": "Monitorar sinais de sobrecarga de volume e eletrólitos",
+      "fontesBibliograficas": "SBH, ANVISA, FDA, Micromedex, Medscape"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hartmann's Solution",
+      "suspension": "No need to suspend before surgery",
+      "risk": "Generally safe; monitor in patients with liver disease, hyperkalemia, or alkalosis",
+      "reintroduction": "Can be restarted post-op as needed based on volume and labs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hartmann's Solution (Ringer's Lactate)",
+      "nomeComercial": "Lactated Ringer's, Hartmann",
+      "mecanismoAcao": "Isotonic crystalloid that replaces fluids and electrolytes, lactate metabolized to bicarbonate in liver",
+      "farmacocinetica": "Extracellular distribution; renal excretion; lactate metabolized hepatically",
+      "farmacodinamica": "Restores perfusion, corrects mild acidosis and dehydration",
+      "indicacoes": "Fluid resuscitation, surgery, burns, trauma, acidosis",
+      "reacoesAdversas": "Volume overload, hyperkalemia, metabolic alkalosis, peripheral or pulmonary edema",
+      "riscoGravidez": "Category A – safe",
+      "riscoLactacao": "Safe",
+      "administracao": "IV infusion or bolus",
+      "doseMaxima": "Up to 5–6 L/day based on clinical status",
+      "doseMinima": "500 mL/day (maintenance)",
+      "classificacao": "Buffered isotonic crystalloid",
+      "apresentacao": "500 mL and 1000 mL IV bags",
+      "interacaoMedicamento": "Incompatible with ceftriaxone, bicarbonate, blood products, or concentrated electrolytes",
+      "posologia": "500–2000 mL/day or 20 mL/kg bolus as needed",
+      "armazenamento": "Store at room temperature, away from light",
+      "preparo": "Ready for IV use",
+      "solucoesCompatíveis": "Do not mix with calcium-reactive agents or bicarbonate",
+      "contraindicacoes": "Hyperkalemia, metabolic alkalosis, severe liver dysfunction",
+      "cuidadosMedicos": "Monitor labs, fluid balance, and organ function",
+      "cuidadosFarmaceuticos": "Ensure compatibility with IV drugs",
+      "cuidadosEnfermagem": "Observe signs of fluid overload and monitor labs",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Solución de Hartmann",
+      "suspension": "No requiere suspensión antes de cirugía",
+      "risk": "Segura en general; controlar en hepatopatías, hiperpotasemia o alcalosis",
+      "reintroduction": "Reanudar según balance y analítica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Solución de Hartmann (Ringer lactato)",
+      "nomeComercial": "Ringer Lactato, Hartmann",
+      "mecanismoAcao": "Cristaloide isotónico que restituye volumen y corrige acidosis leve mediante lactato hepático",
+      "farmacocinetica": "Distribución extracelular; excreción renal; metabolismo hepático del lactato",
+      "farmacodinamica": "Restaura perfusión, rehidrata, corrige acidosis leve",
+      "indicacoes": "Resucitación hídrica, cirugía, sepsis, quemaduras",
+      "reacoesAdversas": "Sobrecarga, hiperpotasemia, alcalosis, edema",
+      "riscoGravidez": "Categoría A – seguro",
+      "riscoLactacao": "Seguro",
+      "administracao": "Infusión IV o bolo",
+      "doseMaxima": "Hasta 6 L/día",
+      "doseMinima": "500 mL/día",
+      "classificacao": "Cristaloide tamponado isotónico",
+      "apresentacao": "500 mL y 1000 mL bolsas IV",
+      "interacaoMedicamento": "Incompatible con ceftriaxona, bicarbonato, calcio concentrado",
+      "posologia": "500–2000 mL/día o 20 mL/kg bolo",
+      "armazenamento": "Ambiente, protegido de luz",
+      "preparo": "Listo para uso",
+      "solucoesCompatíveis": "Evitar con fármacos cálcicos o bicarbonato",
+      "contraindicacoes": "Hiperpotasemia, disfunción hepática severa",
+      "cuidadosMedicos": "Control de electrolitos y función hepática",
+      "cuidadosFarmaceuticos": "Compatibilidad IV",
+      "cuidadosEnfermagem": "Vigilar sobrecarga y respuesta clínica",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "复方乳酸钠注射液（哈特曼液）",
+      "suspension": "常规术前无需停药",
+      "risk": "一般安全；肝病、代谢性碱中毒或高钾血症患者慎用",
+      "reintroduction": "术后可视血容量与电解质状态恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "复方乳酸钠",
+      "nomeComercial": "哈特曼液、Ringer乳酸液",
+      "mecanismoAcao": "等渗电解质液，乳酸转化为碳酸氢根以缓解酸中毒",
+      "farmacocinetica": "分布于细胞外液，经肝代谢乳酸，肾排泄",
+      "farmacodinamica": "补充容量、纠正轻度酸中毒、维持灌注",
+      "indicacoes": "失血、脱水、手术、灼伤、休克",
+      "reacoesAdversas": "容量负荷过多、高钾、碱中毒、肺水肿",
+      "riscoGravidez": "A级 – 安全",
+      "riscoLactacao": "安全",
+      "administracao": "静脉输注或快速静注",
+      "doseMaxima": "每日可达5–6L",
+      "doseMinima": "每日500mL",
+      "classificacao": "缓冲等渗晶体液",
+      "apresentacao": "500 mL、1000 mL袋装",
+      "interacaoMedicamento": "禁与头孢曲松、碳酸氢钠、钙剂混合",
+      "posologia": "常规500–2000 mL/d或按20 mL/kg静推",
+      "armazenamento": "室温避光",
+      "preparo": "即用型",
+      "solucoesCompatíveis": "不可与钙类或碳酸氢钠合用",
+      "contraindicacoes": "严重肝病、高钾、代谢性碱中毒",
+      "cuidadosMedicos": "监测电解质、酸碱、肝肾功能",
+      "cuidadosFarmaceuticos": "防止配伍禁忌",
+      "cuidadosEnfermagem": "注意肺水肿、血压变化与尿量",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape、SBH"
+    }
+  }
+}

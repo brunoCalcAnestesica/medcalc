@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vitamina B12 (Cobalamina)",
+      "suspension": "Não requer suspensão antes de procedimentos; uso seguro em doses usuais",
+      "risk": "Doses elevadas podem causar acne, ansiedade, cefaleia ou interferência laboratorial (cobalamina sérica)",
+      "reintroduction": "Pode ser reintroduzida conforme tolerância e avaliação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cianocobalamina, Metilcobalamina ou Hidroxocobalamina",
+      "nomeComercial": "Beviplex, Citoneurin, Meticobal, Biovicerin B12, Rubranova",
+      "mecanismoAcao": "Cofator essencial para síntese de DNA, metilação celular, produção de energia mitocondrial e mielinização neural",
+      "farmacocinetica": "Absorção intestinal mediada por fator intrínseco; formas sublinguais e injetáveis contornam essa limitação",
+      "farmacodinamica": "Previne anemia megaloblástica, melhora função neurológica, metabolismo energético e homocisteína plasmática",
+      "indicacoes": "Anemia megaloblástica, neuropatias, fadiga, déficit cognitivo, vegetarianismo, cirurgia bariátrica, gestação",
+      "reacoesAdversas": "Raras: acne, rubor, náusea, urticária, alteração no paladar; muito raramente angioedema",
+      "riscoGravidez": "Categoria A – segura e recomendada durante gestação",
+      "riscoLactacao": "Segura; essencial ao desenvolvimento neurológico infantil",
+      "administracao": "Uso oral, sublingual, intramuscular ou endovenoso",
+      "doseMaxima": "2000 mcg/dia por via oral (sem toxicidade definida); IM: até 1000 mcg 3x/semana",
+      "doseMinima": "2,4 mcg/dia (IDR); funcional: 250–1000 mcg/dia",
+      "classificacao": "Vitamina hidrossolúvel – cofator mitocondrial e hematológico – regulador de homocisteína",
+      "apresentacao": "Comprimidos, cápsulas, solução sublingual, injetável, polivitamínicos",
+      "interacaoMedicamento": "Redução com metformina, inibidores da bomba de prótons e anticonvulsivantes",
+      "posologia": "250 a 1000 mcg/dia VO; 1000 mcg IM semanal em deficiência confirmada",
+      "armazenamento": "Local seco, fresco, longe da luz; soluções injetáveis devem ser refrigeradas",
+      "preparo": "Metilcobalamina (forma ativa) tem maior biodisponibilidade neurológica",
+      "solucoesCompatíveis": "Ácido fólico, B6, magnésio, SAMe, zinco",
+      "contraindicacoes": "Alergia à cobalamina (raro); doença de Leber (CI absoluta)",
+      "cuidadosMedicos": "Monitorar B12 sérica, homocisteína, função hematológica e absorção gastrintestinal",
+      "cuidadosFarmaceuticos": "Orientar uso prolongado em vegetarianos e idosos com acloridria",
+      "cuidadosEnfermagem": "Observar resposta hematológica e neurológica; monitorar locais de aplicação IM",
+      "fontesBibliograficas": "ANVISA, UpToDate, Medscape, NIH ODS, EFSA, Clinical Nutrition"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vitamin B12 (Cobalamin)",
+      "suspension": "No need to suspend before procedures; safe at therapeutic doses",
+      "risk": "High doses may cause acne, flushing, anxiety, or interfere with lab tests",
+      "reintroduction": "Can be continued or reintroduced based on clinical needs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cyanocobalamin, Methylcobalamin, Hydroxocobalamin",
+      "nomeComercial": "Beviplex, Citoneurin, Meticobal, Biovicerin B12, Rubranova",
+      "mecanismoAcao": "Cofactor in DNA synthesis, cellular methylation, mitochondrial energy production, and neural myelination",
+      "farmacocinetica": "Absorption requires intrinsic factor; bypassed by sublingual or injectable forms",
+      "farmacodinamica": "Prevents megaloblastic anemia, supports neurological function, lowers homocysteine",
+      "indicacoes": "B12 deficiency, anemia, fatigue, cognitive dysfunction, neuropathy, vegan diets, pregnancy",
+      "reacoesAdversas": "Rare: acne, flushing, nausea, rash, altered taste, very rarely angioedema",
+      "riscoGravidez": "Category A – safe and recommended during pregnancy",
+      "riscoLactacao": "Safe; important for infant neurological development",
+      "administracao": "Oral, sublingual, intramuscular, intravenous",
+      "doseMaxima": "2000 mcg/day orally; up to 1000 mcg IM three times per week",
+      "doseMinima": "2.4 mcg/day (RDA); functional: 250–1000 mcg/day",
+      "classificacao": "Water-soluble vitamin – mitochondrial and hematologic cofactor – homocysteine regulator",
+      "apresentacao": "Tablets, capsules, sublingual drops, injectables, multivitamins",
+      "interacaoMedicamento": "Reduced by metformin, PPIs, anticonvulsants",
+      "posologia": "250–1000 mcg/day orally; 1000 mcg IM weekly in deficiency",
+      "armazenamento": "Store in a dry, cool place; injectables require refrigeration",
+      "preparo": "Methylcobalamin offers higher neurologic bioavailability",
+      "solucoesCompatíveis": "Folic acid, B6, magnesium, SAMe, zinc",
+      "contraindicacoes": "Allergy (rare); Leber’s disease (absolute contraindication)",
+      "cuidadosMedicos": "Monitor serum B12, homocysteine, hematologic and GI absorption",
+      "cuidadosFarmaceuticos": "Long-term use in vegans and elderly may require parenteral forms",
+      "cuidadosEnfermagem": "Monitor hematologic and neurologic response; check IM sites",
+      "fontesBibliograficas": "NIH ODS, UpToDate, Medscape, EFSA, Clinical Nutrition"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vitamina B12 (Cobalamina)",
+      "suspension": "No requiere suspensión previa; segura en dosis terapéuticas",
+      "risk": "Dosis altas pueden causar acné, enrojecimiento, interferencia en análisis de laboratorio",
+      "reintroduction": "Puede mantenerse o reintroducirse según tolerancia clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cianocobalamina, Metilcobalamina, Hidroxocobalamina",
+      "nomeComercial": "Beviplex, Citoneurin, Meticobal, Biovicerin B12, Rubranova",
+      "mecanismoAcao": "Cofactor esencial en síntesis de ADN, metilación, producción de energía y mielinización neuronal",
+      "farmacocinetica": "Absorción depende del factor intrínseco; sublingual e IM evitan esta limitación",
+      "farmacodinamica": "Previene anemia megaloblástica, mejora función neurológica y reduce homocisteína",
+      "indicacoes": "Déficit de B12, anemia, fatiga, neuropatías, dietas veganas, embarazo",
+      "reacoesAdversas": "Raras: acné, rubor, náuseas, urticaria, sabor metálico",
+      "riscoGravidez": "Categoría A – segura y recomendada en embarazo",
+      "riscoLactacao": "Segura; importante para el desarrollo neurológico del bebé",
+      "administracao": "Oral, sublingual, intramuscular, endovenosa",
+      "doseMaxima": "Hasta 2000 mcg/día VO; 1000 mcg IM tres veces por semana",
+      "doseMinima": "2.4 mcg/día (IDR); funcional: 250–1000 mcg/día",
+      "classificacao": "Vitamina hidrosoluble – cofactor hematológico – regulador de homocisteína",
+      "apresentacao": "Tabletas, cápsulas, solución sublingual, inyectables",
+      "interacaoMedicamento": "Reducida por metformina, IBPs, anticonvulsivos",
+      "posologia": "250–1000 mcg/día VO; 1000 mcg IM semanal en déficit",
+      "armazenamento": "Lugar seco y fresco; refrigerar inyectables",
+      "preparo": "Metilcobalamina ofrece mayor afinidad neurológica",
+      "solucoesCompatíveis": "Ácido fólico, B6, SAMe, zinc, magnesio",
+      "contraindicacoes": "Alergia (rara); enfermedad de Leber",
+      "cuidadosMedicos": "Monitorear B12, homocisteína, respuesta hematológica y neurológica",
+      "cuidadosFarmaceuticos": "Recomendar formas inyectables en pacientes con mala absorción",
+      "cuidadosEnfermagem": "Observar efectos sobre sangre y sistema nervioso; controlar sitio de inyección",
+      "fontesBibliograficas": "AEMPS, EFSA, Medscape, UpToDate, Clinical Nutrition"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "维生素B12（钴胺素）",
+      "suspension": "无需术前停药，常规剂量使用安全",
+      "risk": "高剂量可能引起痤疮、焦虑、头晕或影响实验室检测（钴胺素水平）",
+      "reintroduction": "根据临床耐受性可继续或重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氰钴胺素、甲钴胺素或羟钴胺素",
+      "nomeComercial": "甲钴胺注射液、贝维普利、B12复合片、Meticobal、Rubranova",
+      "mecanismoAcao": "合成DNA、甲基化、能量代谢与神经髓鞘形成的关键辅酶",
+      "farmacocinetica": "胃吸收依赖内因子，舌下或注射形式可绕过此限制",
+      "farmacodinamica": "预防巨幼红细胞性贫血，促进神经修复、降低同型半胱氨酸",
+      "indicacoes": "B12缺乏、贫血、疲劳、记忆障碍、素食者、妊娠期补充",
+      "reacoesAdversas": "少见：痤疮、面部潮红、头晕、恶心、味觉变化",
+      "riscoGravidez": "A类 – 妊娠期安全，常用于产前补充",
+      "riscoLactacao": "母乳中天然存在，安全",
+      "administracao": "口服、舌下、肌注、静注",
+      "doseMaxima": "口服每日最高2000微克；肌注1000微克/次，每周1–3次",
+      "doseMinima": "推荐摄入量2.4微克/天；功能补充250–1000微克/天",
+      "classificacao": "水溶性维生素 – 线粒体能量与造血支持",
+      "apresentacao": "片剂、胶囊、舌下液、注射剂、复合维生素",
+      "interacaoMedicamento": "甲福明、质子泵抑制剂、抗癫痫药可降低吸收",
+      "posologia": "每日250–1000微克，缺乏时IM注射",
+      "armazenamento": "干燥避光，注射剂需冷藏",
+      "preparo": "甲钴胺素为神经优选形式，生物利用度高",
+      "solucoesCompatíveis": "叶酸、B6、锌、镁、SAMe",
+      "contraindicacoes": "极罕见钴胺素过敏；Leber遗传性视神经病禁用",
+      "cuidadosMedicos": "监测B12、同型半胱氨酸、血象与神经功能",
+      "cuidadosFarmaceuticos": "长期素食者、消化吸收障碍者应考虑注射形式",
+      "cuidadosEnfermagem": "评估贫血与神经恢复情况，监控注射部位反应",
+      "fontesBibliograficas": "中国营养学会、Medscape、UpToDate、NIH、EFSA"
+    }
+  }
+}

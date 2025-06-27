@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Procarbazina",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas devido ao risco de mielossupressão, toxicidade hepática e interação com anestésicos",
+      "risk": "Mielossupressão, náusea, vômito, toxicidade hepática, neuropatia periférica, reação tipo dissulfiram com álcool, interações com alimentos ricos em tiramina",
+      "reintroduction": "Reintroduzir após recuperação hematológica e hepática completa, e ausência de infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Procarbazina",
+      "nomeComercial": "Matulane",
+      "mecanismoAcao": "Agente alquilante que inibe a síntese de DNA, RNA e proteínas por mecanismo complexo incluindo geração de radicais livres",
+      "farmacocinetica": "VO; T½ ~10 minutos; metabolismo hepático e intestinal; eliminação renal",
+      "farmacodinamica": "Citotóxico com efeito máximo em fase G1 e S; inibe crescimento de células em proliferação ativa",
+      "indicacoes": "Doença de Hodgkin, tumores cerebrais (ex: gliomas, astrocitomas) em esquemas como BEACOPP e PCV",
+      "reacoesAdversas": "Leucopenia, trombocitopenia, mucosite, anorexia, constipação, fadiga, hepatotoxicidade, erupções cutâneas, azoospermia",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Via oral, com alimentos para reduzir efeitos GI; evitar álcool e alimentos com tiramina",
+      "doseMaxima": "100mg/m²/dia",
+      "doseMinima": "50mg/m²/dia",
+      "classificacao": "Agente alquilante e inibidor de MAO fraco",
+      "apresentacao": "Cápsulas de 50mg",
+      "interacaoMedicamento": "Potencial interação com antidepressivos, alimentos ricos em tiramina, etanol e anestésicos gerais",
+      "posologia": "60–100mg/m²/dia por 14 dias ou conforme protocolo (ex: PCV: 60mg/m² dias 8–21)",
+      "armazenamento": "Temperatura ambiente; protegido da luz e umidade",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, mielossupressão grave, uso com inibidores de MAO fortes",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática, evitar álcool e interações alimentares",
+      "cuidadosFarmaceuticos": "Atenção à interação medicamentosa e alimentar; garantir adesão ao esquema prescrito",
+      "cuidadosEnfermagem": "Observar sinais de supressão medular, toxicidade hepática, alterações neurológicas",
+      "fontesBibliograficas": "FDA, EMA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Procarbazine",
+      "suspension": "Hold 7 days before surgery due to risk of marrow suppression, hepatic toxicity, and MAO-like effects",
+      "risk": "Myelosuppression, nausea, hepatotoxicity, neurotoxicity, disulfiram-like reaction with alcohol",
+      "reintroduction": "Restart once blood counts and liver function recover fully"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Procarbazine",
+      "nomeComercial": "Matulane",
+      "mecanismoAcao": "Alkylating agent with free radical formation, inhibits DNA, RNA, protein synthesis",
+      "farmacocinetica": "Oral; T½ ~10 min; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Cytotoxic in G1/S phase; also weak MAO inhibitor",
+      "indicacoes": "Hodgkin lymphoma (part of BEACOPP/MOPP), brain tumors (PCV protocol)",
+      "reacoesAdversas": "Leukopenia, thrombocytopenia, GI upset, liver dysfunction, rash, fatigue, sterility",
+      "riscoGravidez": "Category D – teratogenic",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "Oral, with food; avoid tyramine-rich foods and alcohol",
+      "doseMaxima": "100mg/m²/day",
+      "doseMinima": "50mg/m²/day",
+      "classificacao": "Oral alkylating agent; weak MAO inhibitor",
+      "apresentacao": "50mg capsules",
+      "interacaoMedicamento": "MAO interactions, ethanol, SSRIs, tyramine-containing foods",
+      "posologia": "60–100mg/m²/d × 14 days; or 60mg/m² days 8–21 in PCV",
+      "armazenamento": "Store at room temp, protect from moisture/light",
+      "preparo": "No preparation required (oral capsule)",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe myelosuppression, pregnancy, use with MAO inhibitors",
+      "cuidadosMedicos": "Monitor CBC, LFTs, CNS symptoms, avoid alcohol and certain foods",
+      "cuidadosFarmaceuticos": "Patient counseling on drug-food interactions; compliance",
+      "cuidadosEnfermagem": "Assess fatigue, mucositis, liver enzymes, mental status",
+      "fontesBibliograficas": "FDA label, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Procarbazina",
+      "suspension": "Suspender 7 días antes de cirugía por riesgo de mielosupresión y toxicidad hepática",
+      "risk": "Supresión medular, náuseas, vómitos, hepatotoxicidad, reacción con alcohol, interacción con alimentos",
+      "reintroduction": "Reiniciar tras recuperación hematológica y hepática completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Procarbazina",
+      "nomeComercial": "Matulane",
+      "mecanismoAcao": "Agente alquilante que inhibe síntesis de ADN y ARN, con posible efecto sobre MAO",
+      "farmacocinetica": "VO; T½ ~10min; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Citotóxico G1/S; actividad MAO débil",
+      "indicacoes": "Linfoma de Hodgkin, gliomas (esquema PCV)",
+      "reacoesAdversas": "Leucopenia, toxicidad hepática, erupciones, somnolencia, anorexia",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "VO con alimentos; evitar alcohol y alimentos con tiramina",
+      "doseMaxima": "100mg/m²/día",
+      "doseMinima": "50mg/m²/día",
+      "classificacao": "Agente alquilante oral; inhibidor débil MAO",
+      "apresentacao": "Cápsulas 50mg",
+      "interacaoMedicamento": "Interacción con alimentos/medicamentos serotoninérgicos",
+      "posologia": "60–100mg/m² por 14 días; PCV: 60mg/m² días 8–21",
+      "armazenamento": "Ambiente seco, proteger de luz",
+      "preparo": "Uso oral",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Mielosupresión, embarazo, uso con IMAO",
+      "cuidadosMedicos": "Hemograma, enzimas hepáticas, evitar alimentos con tiramina",
+      "cuidadosFarmaceuticos": "Educación sobre dieta, adherencia y signos de toxicidad",
+      "cuidadosEnfermagem": "Vigilar mucosa, fatiga, infecciones, hepatotoxicidad",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "丙卡巴肼",
+      "suspension": "术前7天停药，防止骨髓抑制与麻醉药物互作",
+      "risk": "骨髓抑制、肝毒性、恶心、酒精反应、食物相互作用、神经毒性",
+      "reintroduction": "术后血象与肝功能恢复后重新评估使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "丙卡巴肼",
+      "nomeComercial": "Matulane",
+      "mecanismoAcao": "烷化剂，通过自由基损伤DNA，弱MAO抑制剂",
+      "farmacocinetica": "口服；半衰期约10分钟；肝代谢；肾排泄",
+      "farmacodinamica": "G1/S期细胞毒；抑制DNA/RNA合成",
+      "indicacoes": "霍奇金淋巴瘤、脑瘤（如PCV方案）",
+      "reacoesAdversas": "白细胞减少、口腔炎、肝酶升高、头晕、脱发、出血",
+      "riscoGravidez": "D类 – 禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "随餐服用，避免酒精与富含酪胺食物",
+      "doseMaxima": "100mg/m²/d",
+      "doseMinima": "50mg/m²/d",
+      "classificacao": "烷化剂；弱单胺氧化酶抑制剂",
+      "apresentacao": "50mg胶囊",
+      "interacaoMedicamento": "与MAOI类药、抗抑郁药、食物互作明显",
+      "posologia": "60–100mg/m²/d×14天，或PCV第8–21天60mg/m²/d",
+      "armazenamento": "室温干燥避光",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "骨髓抑制、妊娠、肝功能不良、与MAOI同用",
+      "cuidadosMedicos": "监测血象、肝功能、电解质；教育饮食禁忌",
+      "cuidadosFarmaceuticos": "说明服药期间禁酒与某些食物/药物",
+      "cuidadosEnfermagem": "观察疲劳、肝区痛、紫癜、感染征象",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA、UpToDate"
+    }
+  }
+}

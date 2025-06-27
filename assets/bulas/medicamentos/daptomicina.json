@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Daptomicina",
+      "suspension": "Não suspender antes de cirurgias; manter se indicada por infecção ativa",
+      "risk": "Risco de miopatia, elevação de CPK, interação com estatinas; possível toxicidade muscular perioperatória",
+      "reintroduction": "Manter no pós-operatório se ainda indicada; avaliar CPK e função renal regularmente"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Daptomicina",
+      "nomeComercial": "Cubicin",
+      "mecanismoAcao": "Lipopeptídeo que se liga à membrana bacteriana causando despolarização rápida e morte celular",
+      "farmacocinetica": "Administração IV; meia-vida ~8–9 h; excreção renal; não metabolizada hepaticamente",
+      "farmacodinamica": "Bactericida concentrativo contra Gram-positivos, inclusive MRSA e VRE",
+      "indicacoes": "Infecções complicadas de pele e partes moles, bacteremia por S. aureus, endocardite do lado direito",
+      "reacoesAdversas": "Elevação de CPK, mialgia, dor em membros, eosinofilia pulmonar rara, diarreia, náusea",
+      "riscoGravidez": "Categoria B – uso permitido se necessário",
+      "riscoLactacao": "Desconhecido; usar com cautela",
+      "administracao": "Intravenosa",
+      "doseMaxima": "10 mg/kg/dia",
+      "doseMinima": "4 mg/kg/dia",
+      "classificacao": "Antibiótico lipopeptídico",
+      "apresentacao": "Pó liofilizado 350 mg ou 500 mg para infusão IV",
+      "interacaoMedicamento": "Potencializa toxicidade muscular com estatinas; não usar com antagonistas de cálcio injetáveis",
+      "posologia": "4–6 mg/kg IV 1x/dia; até 10 mg/kg para endocardite",
+      "armazenamento": "Pó: temperatura ambiente; solução reconstituída refrigerada por até 48h",
+      "preparo": "Reconstituir com SF 0,9%; infundir em 30 min",
+      "solucoesCompatíveis": "Apenas SF 0,9%",
+      "contraindicacoes": "Hipersensibilidade conhecida; uso com antagonistas de cálcio IV",
+      "cuidadosMedicos": "Monitorar CPK, sinais de miopatia, função renal",
+      "cuidadosFarmaceuticos": "Verificar preparo correto e estabilidade",
+      "cuidadosEnfermagem": "Observar dor muscular, aplicar infusão lenta, relatar rabdomiólise",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, Sanford Guide"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Daptomycin",
+      "suspension": "Continue perioperatively if used for active infection",
+      "risk": "Risk of myopathy and elevated CPK, especially with statins; monitor perioperative muscle toxicity",
+      "reintroduction": "Continue post-op if still clinically indicated; monitor labs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Daptomycin",
+      "nomeComercial": "Cubicin",
+      "mecanismoAcao": "Lipopeptide binds bacterial membranes, causing rapid depolarization and death",
+      "farmacocinetica": "IV administration; half-life ~8–9 h; renal excretion",
+      "farmacodinamica": "Concentration-dependent bactericidal activity against Gram-positives incl. MRSA and VRE",
+      "indicacoes": "cSSTI, bacteremia, right-sided endocarditis due to S. aureus",
+      "reacoesAdversas": "CPK elevation, myopathy, limb pain, rare eosinophilic pneumonia, GI effects",
+      "riscoGravidez": "Category B – use if needed",
+      "riscoLactacao": "Unknown – caution advised",
+      "administracao": "Intravenous",
+      "doseMaxima": "10 mg/kg/day",
+      "doseMinima": "4 mg/kg/day",
+      "classificacao": "Lipopeptide antibiotic",
+      "apresentacao": "Lyophilized powder: 350 mg, 500 mg",
+      "interacaoMedicamento": "Myopathy risk with statins; incompatible with IV calcium channel blockers",
+      "posologia": "4–6 mg/kg IV once daily; up to 10 mg/kg for endocarditis",
+      "armazenamento": "Powder: room temp; solution: refrigerate 48h",
+      "preparo": "Reconstitute with NS; infuse over 30 minutes",
+      "solucoesCompatíveis": "NS only",
+      "contraindicacoes": "Hypersensitivity; avoid with IV calcium antagonists",
+      "cuidadosMedicos": "Monitor CPK, renal function, muscle symptoms",
+      "cuidadosFarmaceuticos": "Ensure proper reconstitution and compatibility",
+      "cuidadosEnfermagem": "Watch for myopathy; administer slow IV",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, Sanford Guide"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Daptomicina",
+      "suspension": "Mantener perioperatoriamente si hay infección activa",
+      "risk": "Miopatía, CPK elevada, interacción con estatinas y riesgo muscular postoperatorio",
+      "reintroduction": "Mantener según indicación clínica; controlar CPK y función renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Daptomicina",
+      "nomeComercial": "Cubicin",
+      "mecanismoAcao": "Lipopéptido que causa despolarización rápida de membrana bacteriana",
+      "farmacocinetica": "IV, vida media ~8–9 h, eliminación renal",
+      "farmacodinamica": "Bactericida contra Gram positivos, incluido MRSA y VRE",
+      "indicacoes": "Infecciones cutáneas complicadas, bacteriemia, endocarditis derecha",
+      "reacoesAdversas": "Mialgia, CPK elevada, náuseas, neumonía eosinofílica rara",
+      "riscoGravidez": "Categoría B – permitido si es necesario",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "IV",
+      "doseMaxima": "10 mg/kg/día",
+      "doseMinima": "4 mg/kg/día",
+      "classificacao": "Antibiótico lipopéptido",
+      "apresentacao": "Polvo liofilizado: 350 o 500 mg",
+      "interacaoMedicamento": "Mayor riesgo de miopatía con estatinas; evitar calcio IV",
+      "posologia": "4–6 mg/kg 1x/día; 10 mg/kg para endocarditis",
+      "armazenamento": "Polvo: temperatura ambiente; reconstituido: refrigerado 48h",
+      "preparo": "Reconstituir con suero fisiológico, infusión en 30 min",
+      "solucoesCompatíveis": "Sólo SF 0,9%",
+      "contraindicacoes": "Alergia, uso simultáneo de bloqueadores de calcio IV",
+      "cuidadosMedicos": "Control de CPK, síntomas musculares, función renal",
+      "cuidadosFarmaceuticos": "Verificar compatibilidad y estabilidad",
+      "cuidadosEnfermagem": "Observar mialgia, infusión lenta",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "达托霉素",
+      "suspension": "术前无需停药，感染存在时可继续",
+      "risk": "肌病、CPK升高、与他汀类联用风险、术后肌毒性",
+      "reintroduction": "术后如适应证继续，需监测CPK与肾功能"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "达托霉素",
+      "nomeComercial": "Cubicin",
+      "mecanismoAcao": "与细菌膜结合引发快速去极化，导致细菌死亡",
+      "farmacocinetica": "静脉注射，半衰期8–9小时，经肾排泄",
+      "farmacodinamica": "对革兰阳性菌有强效杀菌活性（如MRSA、VRE）",
+      "indicacoes": "复杂皮肤感染、金葡菌血症、右心型心内膜炎",
+      "reacoesAdversas": "肌酸激酶升高、肌痛、稀有嗜酸性肺炎、腹泻",
+      "riscoGravidez": "B类 – 必要时可用",
+      "riscoLactacao": "不明确，慎用",
+      "administracao": "静脉注射",
+      "doseMaxima": "每日10 mg/kg",
+      "doseMinima": "每日4 mg/kg",
+      "classificacao": "脂肽类抗生素",
+      "apresentacao": "冻干粉350或500 mg",
+      "interacaoMedicamento": "与他汀类联用增加肌毒性；禁与钙通道阻断剂IV共用",
+      "posologia": "每日1次4–6 mg/kg，重症达10 mg/kg",
+      "armazenamento": "干粉室温，溶液冷藏48小时",
+      "preparo": "用生理盐水复溶，30分钟输注",
+      "solucoesCompatíveis": "仅SF 0.9%",
+      "contraindicacoes": "过敏史、钙通道阻断剂IV同用",
+      "cuidadosMedicos": "监测肌酸激酶、肾功能、肌肉症状",
+      "cuidadosFarmaceuticos": "确认制备、稳定性、配伍",
+      "cuidadosEnfermagem": "缓慢滴注，监测肌肉不适",
+      "fontesBibliograficas": "中国药典、UpToDate、FDA、Micromedex"
+    }
+  }
+}

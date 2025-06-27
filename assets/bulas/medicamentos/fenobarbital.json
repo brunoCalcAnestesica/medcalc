@@ -1,0 +1,142 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fenobarbital",
+      "suspension": "Suspender 3–5 dias antes de cirurgia com anestesia geral, especialmente em idosos ou risco de depressão respiratória",
+      "risk": "Sedação, confusão, dependência, depressão respiratória, hipotensão, hipovitaminose D, osteopenia, depressão",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com via oral disponível e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenobarbital",
+      "nomeComercial": "Gardenal",
+      "mecanismoAcao": "Facilita ação do GABA no receptor GABAA, prolongando a abertura do canal de cloro; ação inibitória difusa",
+      "farmacocinetica": "VO/EV; biodisponibilidade >90%; T½ 80–120h; metabolização hepática (CYP2C9, 2C19); excreção renal",
+      "farmacodinamica": "Depressor do SNC com efeito anticonvulsivante, sedativo-hipnótico e ansiolítico",
+      "indicacoes": "Epilepsia (tônico-clônica generalizada), crises febris recorrentes, sedação pré-anestésica, abstinência alcoólica",
+      "reacoesAdversas": "Sedação, irritabilidade, disfunção cognitiva, rash, anemia megaloblástica, dependência, reações paradoxais",
+      "riscoGravidez": "Categoria D – risco teratogênico; suplementar folato",
+      "riscoLactacao": "Com cautela; monitorar sedação no lactente",
+      "administracao": "VO 1–2x/dia ou EV em bolus lento (em emergências)",
+      "doseMaxima": "300mg/dia (adulto); 5–6mg/kg/dia (criança)",
+      "doseMinima": "30mg/dia",
+      "classificacao": "Barbitúrico anticonvulsivante de longa duração",
+      "apresentacao": "Comprimidos 15mg, 100mg; solução oral 40mg/ml; ampola 200mg/ml",
+      "interacaoMedicamento": "Indutor enzimático potente (CYP3A4, 2C, UGT); reduz eficácia de anticoagulantes, anticoncepcionais, antirretrovirais",
+      "posologia": "Adulto: 1–3mg/kg/dia; ajuste conforme nível plasmático (10–40 mcg/ml)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "EV: diluir em SF, infundir lentamente (≤50mg/min)",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Porfiria aguda intermitente, depressão respiratória, insuficiência hepática grave, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar sedação, PA, frequência respiratória, níveis plasmáticos, sinais de dependência",
+      "cuidadosFarmaceuticos": "Evitar interrupção abrupta; revisar interações; atenção à vitamina D",
+      "cuidadosEnfermagem": "Observar sonolência, hipotensão, confusão, padrão respiratório",
+      "comentarioFarmacologico": "Fenobarbital é o antiepiléptico mais antigo ainda em uso, eficaz e de baixo custo, principalmente em países com poucos recursos. Apesar da eficácia, seu uso é limitado por efeitos sedativos, cognitivos e risco de dependência. Em neonatologia, é padrão-ouro para convulsões refratárias.",
+      "comentarioSeguranca": "Requer monitoração terapêutica devido à janela estreita. Risco de dependência física e síndrome de abstinência com interrupção abrupta. Interage com múltiplas drogas. Prolongado uso está associado a osteoporose, necessitando suplementação vitamínica e rastreio ósseo em uso crônico."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Phenobarbital",
+      "suspension": "Suspender 3–5 dias antes de cirurgia com anestesia geral, especialmente em idosos ou risco de depressão respiratória",
+      "risk": "Sedação, confusão, dependência, depressão respiratória, hipotensão, hipovitaminose D, osteopenia, depressão",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com via oral disponível e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenobarbital",
+      "nomeComercial": "Gardenal",
+      "mecanismoAcao": "Facilita ação do GABA no receptor GABAA, prolongando a abertura do canal de cloro; ação inibitória difusa",
+      "farmacocinetica": "VO/EV; biodisponibilidade >90%; T½ 80–120h; metabolização hepática (CYP2C9, 2C19); excreção renal",
+      "farmacodinamica": "Depressor do SNC com efeito anticonvulsivante, sedativo-hipnótico e ansiolítico",
+      "indicacoes": "Epilepsia (tônico-clônica generalizada), crises febris recorrentes, sedação pré-anestésica, abstinência alcoólica",
+      "reacoesAdversas": "Sedação, irritabilidade, disfunção cognitiva, rash, anemia megaloblástica, dependência, reações paradoxais",
+      "riscoGravidez": "Categoria D – risco teratogênico; suplementar folato",
+      "riscoLactacao": "Com cautela; monitorar sedação no lactente",
+      "administracao": "VO 1–2x/dia ou EV em bolus lento (em emergências)",
+      "doseMaxima": "300mg/dia (adulto); 5–6mg/kg/dia (criança)",
+      "doseMinima": "30mg/dia",
+      "classificacao": "Barbitúrico anticonvulsivante de longa duração",
+      "apresentacao": "Comprimidos 15mg, 100mg; solução oral 40mg/ml; ampola 200mg/ml",
+      "interacaoMedicamento": "Indutor enzimático potente (CYP3A4, 2C, UGT); reduz eficácia de anticoagulantes, anticoncepcionais, antirretrovirais",
+      "posologia": "Adulto: 1–3mg/kg/dia; ajuste conforme nível plasmático (10–40 mcg/ml)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "EV: diluir em SF, infundir lentamente (≤50mg/min)",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Porfiria aguda intermitente, depressão respiratória, insuficiência hepática grave, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar sedação, PA, frequência respiratória, níveis plasmáticos, sinais de dependência",
+      "cuidadosFarmaceuticos": "Evitar interrupção abrupta; revisar interações; atenção à vitamina D",
+      "cuidadosEnfermagem": "Observar sonolência, hipotensão, confusão, padrão respiratório",
+      "comentarioFarmacologico": "Fenobarbital é o antiepiléptico mais antigo ainda em uso, eficaz e de baixo custo, principalmente em países com poucos recursos. Apesar da eficácia, seu uso é limitado por efeitos sedativos, cognitivos e risco de dependência. Em neonatologia, é padrão-ouro para convulsões refratárias.",
+      "comentarioSeguranca": "Requer monitoração terapêutica devido à janela estreita. Risco de dependência física e síndrome de abstinência com interrupção abrupta. Interage com múltiplas drogas. Prolongado uso está associado a osteoporose, necessitando suplementação vitamínica e rastreio ósseo em uso crônico."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fenobarbital",
+      "suspension": "Suspender 3–5 dias antes de cirurgia com anestesia geral, especialmente em idosos ou risco de depressão respiratória",
+      "risk": "Sedação, confusão, dependência, depressão respiratória, hipotensão, hipovitaminose D, osteopenia, depressão",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com via oral disponível e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenobarbital",
+      "nomeComercial": "Gardenal",
+      "mecanismoAcao": "Facilita ação do GABA no receptor GABAA, prolongando a abertura do canal de cloro; ação inibitória difusa",
+      "farmacocinetica": "VO/EV; biodisponibilidade >90%; T½ 80–120h; metabolização hepática (CYP2C9, 2C19); excreção renal",
+      "farmacodinamica": "Depressor do SNC com efeito anticonvulsivante, sedativo-hipnótico e ansiolítico",
+      "indicacoes": "Epilepsia (tônico-clônica generalizada), crises febris recorrentes, sedação pré-anestésica, abstinência alcoólica",
+      "reacoesAdversas": "Sedação, irritabilidade, disfunção cognitiva, rash, anemia megaloblástica, dependência, reações paradoxais",
+      "riscoGravidez": "Categoria D – risco teratogênico; suplementar folato",
+      "riscoLactacao": "Com cautela; monitorar sedação no lactente",
+      "administracao": "VO 1–2x/dia ou EV em bolus lento (em emergências)",
+      "doseMaxima": "300mg/dia (adulto); 5–6mg/kg/dia (criança)",
+      "doseMinima": "30mg/dia",
+      "classificacao": "Barbitúrico anticonvulsivante de longa duração",
+      "apresentacao": "Comprimidos 15mg, 100mg; solução oral 40mg/ml; ampola 200mg/ml",
+      "interacaoMedicamento": "Indutor enzimático potente (CYP3A4, 2C, UGT); reduz eficácia de anticoagulantes, anticoncepcionais, antirretrovirais",
+      "posologia": "Adulto: 1–3mg/kg/dia; ajuste conforme nível plasmático (10–40 mcg/ml)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "EV: diluir em SF, infundir lentamente (≤50mg/min)",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Porfiria aguda intermitente, depressão respiratória, insuficiência hepática grave, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar sedação, PA, frequência respiratória, níveis plasmáticos, sinais de dependência",
+      "cuidadosFarmaceuticos": "Evitar interrupção abrupta; revisar interações; atenção à vitamina D",
+      "cuidadosEnfermagem": "Observar sonolência, hipotensão, confusão, padrão respiratório",
+      "comentarioFarmacologico": "Fenobarbital é o antiepiléptico mais antigo ainda em uso, eficaz e de baixo custo, principalmente em países com poucos recursos. Apesar da eficácia, seu uso é limitado por efeitos sedativos, cognitivos e risco de dependência. Em neonatologia, é padrão-ouro para convulsões refratárias.",
+      "comentarioSeguranca": "Requer monitoração terapêutica devido à janela estreita. Risco de dependência física e síndrome de abstinência com interrupção abrupta. Interage com múltiplas drogas. Prolongado uso está associado a osteoporose, necessitando suplementação vitamínica e rastreio ósseo em uso crônico."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "苯巴比妥",
+      "suspension": "Suspender 3–5 dias antes de cirurgia com anestesia geral, especialmente em idosos ou risco de depressão respiratória",
+      "risk": "Sedação, confusão, dependência, depressão respiratória, hipotensão, hipovitaminose D, osteopenia, depressão",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com via oral disponível e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenobarbital",
+      "nomeComercial": "Gardenal",
+      "mecanismoAcao": "Facilita ação do GABA no receptor GABAA, prolongando a abertura do canal de cloro; ação inibitória difusa",
+      "farmacocinetica": "VO/EV; biodisponibilidade >90%; T½ 80–120h; metabolização hepática (CYP2C9, 2C19); excreção renal",
+      "farmacodinamica": "Depressor do SNC com efeito anticonvulsivante, sedativo-hipnótico e ansiolítico",
+      "indicacoes": "Epilepsia (tônico-clônica generalizada), crises febris recorrentes, sedação pré-anestésica, abstinência alcoólica",
+      "reacoesAdversas": "Sedação, irritabilidade, disfunção cognitiva, rash, anemia megaloblástica, dependência, reações paradoxais",
+      "riscoGravidez": "Categoria D – risco teratogênico; suplementar folato",
+      "riscoLactacao": "Com cautela; monitorar sedação no lactente",
+      "administracao": "VO 1–2x/dia ou EV em bolus lento (em emergências)",
+      "doseMaxima": "300mg/dia (adulto); 5–6mg/kg/dia (criança)",
+      "doseMinima": "30mg/dia",
+      "classificacao": "Barbitúrico anticonvulsivante de longa duração",
+      "apresentacao": "Comprimidos 15mg, 100mg; solução oral 40mg/ml; ampola 200mg/ml",
+      "interacaoMedicamento": "Indutor enzimático potente (CYP3A4, 2C, UGT); reduz eficácia de anticoagulantes, anticoncepcionais, antirretrovirais",
+      "posologia": "Adulto: 1–3mg/kg/dia; ajuste conforme nível plasmático (10–40 mcg/ml)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "EV: diluir em SF, infundir lentamente (≤50mg/min)",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Porfiria aguda intermitente, depressão respiratória, insuficiência hepática grave, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar sedação, PA, frequência respiratória, níveis plasmáticos, sinais de dependência",
+      "cuidadosFarmaceuticos": "Evitar interrupção abrupta; revisar interações; atenção à vitamina D",
+      "cuidadosEnfermagem": "Observar sonolência, hipotensão, confusão, padrão respiratório",
+      "comentarioFarmacologico": "Fenobarbital é o antiepiléptico mais antigo ainda em uso, eficaz e de baixo custo, principalmente em países com poucos recursos. Apesar da eficácia, seu uso é limitado por efeitos sedativos, cognitivos e risco de dependência. Em neonatologia, é padrão-ouro para convulsões refratárias.",
+      "comentarioSeguranca": "Requer monitoração terapêutica devido à janela estreita. Risco de dependência física e síndrome de abstinência com interrupção abrupta. Interage com múltiplas drogas. Prolongado uso está associado a osteoporose, necessitando suplementação vitamínica e rastreio ósseo em uso crônico."
+    }
+  }
+}

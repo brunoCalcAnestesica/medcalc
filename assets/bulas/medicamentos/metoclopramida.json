@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Metoclopramida",
+      "suspension": "Suspender 12 horas antes da cirurgia em pacientes com histórico de efeitos extrapiramidais ou uso prolongado",
+      "risk": "Risco de reações extrapiramidais, distonia aguda e sedação; potencialização de anestésicos e opioides",
+      "reintroduction": "Reintroduzir no pós-operatório apenas se necessário e por curto prazo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metoclopramida",
+      "nomeComercial": "Plasil, Eucil",
+      "mecanismoAcao": "Antagonista dos receptores dopaminérgicos D2 no SNC e periferia, com leve ação serotoninérgica; estimula motilidade GI",
+      "farmacocinetica": "Absorção oral rápida; biodisponibilidade ~80%; início de ação 30–60 min VO, 1–3 min IV; meia-vida 5–6 h; metabolização hepática",
+      "farmacodinamica": "Aumenta esvaziamento gástrico, reduz refluxo gastroesofágico, efeito antiemético central via antagonismo dopaminérgico na zona gatilho quimiorreceptora",
+      "indicacoes": "Náuseas e vômitos, DRGE, gastroparesia diabética, prevenção de náuseas por quimioterapia",
+      "reacoesAdversas": "Sonolência, fadiga, agitação, distonia, discinesia tardia (uso crônico), galactorreia, ginecomastia, hipotensão",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível com monitoramento do lactente",
+      "administracao": "Oral, IV ou IM",
+      "doseMaxima": "30 mg/dia (adulto)",
+      "doseMinima": "5 mg 2–3x/dia",
+      "classificacao": "Procinetico gastrointestinal e antiemético",
+      "apresentacao": "Comprimidos 10 mg; gotas 4 mg/mL; ampola 10 mg/2 mL",
+      "interacaoMedicamento": "Aumenta risco de efeitos extrapiramidais com antipsicóticos; potencializa sedação com opioides, benzodiazepínicos e anestésicos; reduz absorção de digoxina",
+      "posologia": "10 mg 3x/dia, 30 min antes das refeições; IV 10 mg a cada 8 h se necessário",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Administração direta IM ou IV lenta em 1–2 minutos",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Feocromocitoma, epilepsia, parkinsonismo, obstrução GI mecânica, uso em menores de 1 ano",
+      "cuidadosMedicos": "Evitar uso prolongado (>5 dias); cuidado com pacientes idosos e com distúrbios neurológicos",
+      "cuidadosFarmaceuticos": "Verificar dose máxima diária; alertar sobre sintomas extrapiramidais precoces",
+      "cuidadosEnfermagem": "Observar sinais de distonia, sonolência, alterações de humor",
+      "fontesBibliograficas": "ANVISA, BNF, Micromedex, UpToDate, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Metoclopramide",
+      "suspension": "Discontinue 12 hours before surgery if history of EPS or long-term use",
+      "risk": "Risk of extrapyramidal symptoms, sedation, acute dystonia; potentiates effects of opioids and anesthetics",
+      "reintroduction": "Restart post-op only if strictly indicated and for short duration"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metoclopramide",
+      "nomeComercial": "Reglan",
+      "mecanismoAcao": "Dopamine D2 receptor antagonist with serotonin 5-HT3 antagonism at high doses; enhances GI motility",
+      "farmacocinetica": "Oral absorption ~80%; onset 30–60 min PO, 1–3 min IV; half-life 5–6 h; hepatic metabolism",
+      "farmacodinamica": "Promotes gastric emptying and GI transit; antiemetic action via central D2 receptor blockade in CTZ",
+      "indicacoes": "Nausea, vomiting, GERD, diabetic gastroparesis, CINV prophylaxis",
+      "reacoesAdversas": "Drowsiness, agitation, restlessness, EPS (dystonia, tardive dyskinesia), galactorrhea, hypotension",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Compatible with monitoring",
+      "administracao": "Oral, IV, IM",
+      "doseMaxima": "30 mg/day (adults)",
+      "doseMinima": "5 mg 2–3 times/day",
+      "classificacao": "GI prokinetic and antiemetic",
+      "apresentacao": "Tablets 10 mg; oral solution 5 mg/5 mL; injection 10 mg/2 mL",
+      "interacaoMedicamento": "Increased risk of EPS with antipsychotics; enhances CNS depression with opioids and sedatives; may decrease absorption of digoxin",
+      "posologia": "10 mg PO 30 min before meals and at bedtime; IV 10 mg q8h",
+      "armazenamento": "Store at room temp, protect from light",
+      "preparo": "IV push over 1–2 minutes or dilute in 50 mL for infusion over 15 min",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Pheochromocytoma, seizure disorders, GI obstruction or perforation, Parkinson's disease",
+      "cuidadosMedicos": "Limit duration to <5 days to avoid tardive dyskinesia",
+      "cuidadosFarmaceuticos": "Verify cumulative dose and screen for EPS",
+      "cuidadosEnfermagem": "Monitor motor symptoms, sedation, BP changes",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Metoclopramida",
+      "suspension": "Suspender 12 horas antes de la cirugía en pacientes con historial de efectos extrapiramidales",
+      "risk": "Riesgo de distonía aguda, discinesia tardía, sedación; interacción con anestésicos y opioides",
+      "reintroduction": "Reintroducir únicamente si es necesario en el postoperatorio y por corto período"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metoclopramida",
+      "nomeComercial": "Primperan, Plasil",
+      "mecanismoAcao": "Antagonista dopaminérgico D2 central y periférico, acción serotoninérgica leve; estimula el vaciamiento gástrico",
+      "farmacocinetica": "Buena absorción oral (~80%); inicio oral: 30–60 min; IV: 1–3 min; vida media 5–6 h; metabolismo hepático",
+      "farmacodinamica": "Aumenta la motilidad gastrointestinal superior; antiemético por bloqueo de D2 en la zona gatillo quimiorreceptora (CTZ)",
+      "indicacoes": "Náuseas, vómitos, ERGE, gastroparesia diabética, profilaxis de náusea por quimioterapia",
+      "reacoesAdversas": "Somnolencia, inquietud, distonía, discinesia, hiperprolactinemia, hipotensión",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible con control clínico del lactante",
+      "administracao": "Oral, IV, IM",
+      "doseMaxima": "30 mg/día",
+      "doseMinima": "5 mg 2–3 veces al día",
+      "classificacao": "Procinético y antiemético",
+      "apresentacao": "Comprimidos 10 mg; gotas 4 mg/mL; ampollas 10 mg/2 mL",
+      "interacaoMedicamento": "Aumenta riesgo de efectos extrapiramidales con neurolépticos; potenciación con opioides, benzodiacepinas",
+      "posologia": "10 mg antes de comidas y al acostarse; IV 10 mg cada 8 h si es necesario",
+      "armazenamento": "Ambiente; proteger de la luz",
+      "preparo": "Inyección IV lenta en 1–2 minutos o en 50 mL en infusión de 15 min",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Feocromocitoma, epilepsia, obstrucción mecánica intestinal, Parkinson",
+      "cuidadosMedicos": "Limitar uso a <5 días para evitar discinesia tardía",
+      "cuidadosFarmaceuticos": "Verificar dosis acumulada; informar signos precoces de efectos extrapiramidales",
+      "cuidadosEnfermagem": "Observar síntomas motores, sedación, PA",
+      "fontesBibliograficas": "AEMPS, BNF, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甲氧氯普胺",
+      "suspension": "术前12小时停药，尤其适用于既往有锥体外系反应者",
+      "risk": "可能诱发急性肌张力障碍、迟发性运动障碍、镇静作用；增强麻醉药和阿片类镇痛药效应",
+      "reintroduction": "术后如必要可短期恢复使用，须监测不良反应"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甲氧氯普胺",
+      "nomeComercial": "胃复安",
+      "mecanismoAcao": "中枢及外周多巴胺D2受体拮抗剂，具有轻微5-HT3拮抗活性；促进胃肠动力",
+      "farmacocinetica": "口服吸收良好，生物利用度约80%；口服起效30–60分钟，静注1–3分钟；半衰期约5–6小时，经肝脏代谢",
+      "farmacodinamica": "促进胃排空和肠蠕动；中枢D2受体拮抗作用产生止吐效果",
+      "indicacoes": "恶心、呕吐、胃食管反流病、糖尿病胃轻瘫、化疗相关呕吐预防",
+      "reacoesAdversas": "嗜睡、激动、肌张力异常、高泌乳素血症、低血压、幻觉（老年人）",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可用于哺乳期但需密切观察",
+      "administracao": "口服、肌注或静注",
+      "doseMaxima": "每日30毫克",
+      "doseMinima": "每次5毫克，每日2–3次",
+      "classificacao": "胃动力药及止吐药",
+      "apresentacao": "片剂10毫克、注射液10毫克/2毫升、口服液",
+      "interacaoMedicamento": "与抗精神病药联用增强锥体外系副作用；与阿片类、苯二氮䓬类药合用增强镇静",
+      "posologia": "成人常用剂量为每次10毫克，餐前及睡前使用；IV每8小时一次",
+      "armazenamento": "常温保存，避光",
+      "preparo": "静注1–2分钟注射；或稀释于50 mL液体中静滴15分钟",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "嗜铬细胞瘤、癫痫、机械性肠梗阻、帕金森病患者禁用",
+      "cuidadosMedicos": "总疗程不宜超过5天；警惕锥体外系反应",
+      "cuidadosFarmaceuticos": "确认累计剂量，避免长期用药",
+      "cuidadosEnfermagem": "观察运动异常、意识模糊、血压变化",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

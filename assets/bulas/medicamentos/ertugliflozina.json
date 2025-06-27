@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ertugliflozina",
+      "suspension": "Suspender 3 dias antes de cirurgias maiores devido ao risco de cetoacidose euglicêmica",
+      "risk": "Cetoacidose, infecções urinárias, hipotensão, desidratação; potencial interação com diuréticos e insulina",
+      "reintroduction": "Reintroduzir após restabelecimento da alimentação e função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ertugliflozina",
+      "nomeComercial": "Steglatro",
+      "mecanismoAcao": "Inibidor seletivo do cotransportador de sódio-glicose tipo 2 (SGLT2), reduz a reabsorção de glicose nos túbulos renais",
+      "farmacocinetica": "Biodisponibilidade oral 100%, pico em 1 h, meia-vida de 16 h, excreção renal/fecal",
+      "farmacodinamica": "Promove glicosúria, reduz glicemia e peso corporal, efeito natriurético leve",
+      "indicacoes": "Diabetes mellitus tipo 2; benefício cardiovascular e renal em alto risco",
+      "reacoesAdversas": "Infecções genitais, ITU, poliúria, cetoacidose, hipotensão postural, prurido",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral, 1x/dia, preferencialmente pela manhã",
+      "doseMaxima": "15 mg/dia",
+      "doseMinima": "5 mg/dia",
+      "classificacao": "Inibidor do SGLT2",
+      "apresentacao": "Comprimidos 5 mg e 15 mg",
+      "interacaoMedicamento": "Diuréticos, insulina, sulfonilureias (aumentam risco de hipoglicemia e desidratação)",
+      "posologia": "5 mg/dia; pode aumentar para 15 mg/dia conforme resposta",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "ClCr <30 mL/min, DM tipo 1, cetoacidose, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar função renal, sinais de cetoacidose, genital e urinária",
+      "cuidadosFarmaceuticos": "Educar sobre risco de cetoacidose com ingestão calórica restrita",
+      "cuidadosEnfermagem": "Observar volume urinário, pressão arterial e queixas genitais",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ertugliflozin",
+      "suspension": "Hold 3 days prior to major surgery to reduce risk of euglycemic ketoacidosis",
+      "risk": "DKA, UTIs, genital infections, hypotension, dehydration",
+      "reintroduction": "Restart once oral intake and renal function are normalized"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ertugliflozin",
+      "nomeComercial": "Steglatro",
+      "mecanismoAcao": "SGLT2 inhibitor that reduces glucose reabsorption in the renal proximal tubule",
+      "farmacocinetica": "Bioavailability 100%, Tmax 1 h, t½ ~16 h, renal/fecal excretion",
+      "farmacodinamica": "Increases urinary glucose excretion, lowers blood glucose and weight",
+      "indicacoes": "Type 2 diabetes; cardiovascular and renal risk reduction",
+      "reacoesAdversas": "Genital infections, UTI, polyuria, hypotension, euglycemic DKA",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral once daily in the morning",
+      "doseMaxima": "15 mg/day",
+      "doseMinima": "5 mg/day",
+      "classificacao": "SGLT2 inhibitor",
+      "apresentacao": "Tablets 5 mg, 15 mg",
+      "interacaoMedicamento": "May increase risk of hypotension and hypoglycemia with diuretics or insulin",
+      "posologia": "Start with 5 mg/day, increase to 15 mg if needed",
+      "armazenamento": "Room temperature (15–30°C)",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe renal impairment (eGFR <30), T1DM, DKA",
+      "cuidadosMedicos": "Monitor renal function, volume status, signs of DKA",
+      "cuidadosFarmaceuticos": "Educate about genital hygiene and fluid intake",
+      "cuidadosEnfermagem": "Watch for dehydration, urinary frequency",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ertugliflozina",
+      "suspension": "Suspender 3 días antes de cirugía para prevenir cetoacidosis",
+      "risk": "Cetoacidosis, infecciones urinarias, deshidratación, hipotensión",
+      "reintroduction": "Reintroducir tras reinicio de alimentación y función renal adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ertugliflozina",
+      "nomeComercial": "Steglatro",
+      "mecanismoAcao": "Inhibidor del SGLT2, reduce reabsorción de glucosa en túbulos renales",
+      "farmacocinetica": "Biodisponibilidad 100%, Tmax 1 h, t½ 16 h, excreción renal y fecal",
+      "farmacodinamica": "Promueve glucosuria, reduce peso y glucemia",
+      "indicacoes": "Diabetes tipo 2, reducción del riesgo cardiovascular",
+      "reacoesAdversas": "Infecciones genitales, ITU, cetoacidosis, poliuria, mareos",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Oral, una vez al día",
+      "doseMaxima": "15 mg/día",
+      "doseMinima": "5 mg/día",
+      "classificacao": "Inhibidor de SGLT2",
+      "apresentacao": "Comprimidos 5 y 15 mg",
+      "interacaoMedicamento": "Mayor riesgo con diuréticos, insulina, IECA",
+      "posologia": "5 mg/día, incrementar si es necesario",
+      "armazenamento": "15–30°C",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "TFG <30, DM tipo 1, cetoacidosis",
+      "cuidadosMedicos": "Controlar función renal, signos de infección",
+      "cuidadosFarmaceuticos": "Aconsejar buena hidratación y cuidados genitales",
+      "cuidadosEnfermagem": "Observar volumen urinario y TA",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, AEMPS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "厄他列净",
+      "suspension": "术前3天停用，防止术后酮症酸中毒",
+      "risk": "酮症酸中毒、泌尿生殖感染、脱水、低血压",
+      "reintroduction": "术后进食和肾功能恢复后再恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "厄他列净",
+      "nomeComercial": "Steglatro",
+      "mecanismoAcao": "选择性钠-葡萄糖协同转运蛋白2（SGLT2）抑制剂，抑制肾小管葡萄糖重吸收",
+      "farmacocinetica": "口服吸收良好，Tmax 1小时，半衰期16小时，肾/粪排泄",
+      "farmacodinamica": "促进尿糖排泄，降低血糖和体重",
+      "indicacoes": "2型糖尿病，心血管保护",
+      "reacoesAdversas": "生殖道感染、尿频、酮症酸中毒、低血压",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "每日一次口服",
+      "doseMaxima": "每日15毫克",
+      "doseMinima": "每日5毫克",
+      "classificacao": "SGLT2抑制剂",
+      "apresentacao": "5毫克与15毫克片剂",
+      "interacaoMedicamento": "与利尿剂、胰岛素合用时需警惕脱水与低血糖",
+      "posologia": "起始5 mg/天，根据需要增至15 mg",
+      "armazenamento": "室温保存",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "eGFR <30、1型糖尿病、酮症酸中毒史",
+      "cuidadosMedicos": "监测血糖、肾功能、电解质",
+      "cuidadosFarmaceuticos": "注意停药窗口期与术前评估",
+      "cuidadosEnfermagem": "观察尿量、脱水症状与酮症体征",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Remdesivir",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas se não for essencial ao tratamento ativo",
+      "risk": "Potencial hepatotoxicidade, nefrotoxicidade e interações com fármacos anestésicos; risco aumentado em uso prolongado",
+      "reintroduction": "Reintroduzir após recuperação hepática e função renal normalizada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Remdesivir",
+      "nomeComercial": "Veklury",
+      "mecanismoAcao": "Análogo de nucleotídeo que inibe a RNA polimerase viral do SARS-CoV-2, bloqueando a replicação viral",
+      "farmacocinetica": "Administração IV; metabolizado no fígado; meia-vida intracelular do metabólito ativo ~20–25h",
+      "farmacodinamica": "Reduz carga viral e tempo de recuperação em pacientes com COVID-19",
+      "indicacoes": "COVID-19 moderado a grave em pacientes hospitalizados com necessidade de oxigênio suplementar",
+      "reacoesAdversas": "Elevação de transaminases, náuseas, cefaleia, bradicardia, insuficiência renal aguda (raro)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhece-se se é excretado no leite materno; uso com cautela",
+      "administracao": "Infusão intravenosa",
+      "doseMaxima": "200 mg no 1º dia (dose de ataque), seguido de 100 mg/dia",
+      "doseMinima": "100 mg/dia",
+      "classificacao": "Antiviral de ação direta – inibidor de RNA polimerase viral",
+      "apresentacao": "Frasco-ampola liofilizado 100 mg ou solução concentrada 5 mg/mL",
+      "interacaoMedicamento": "Evitar com medicamentos nefrotóxicos ou hepatotóxicos concomitantes; risco com amiodarona",
+      "posologia": "200 mg no dia 1, seguido por 100 mg/dia por 5 a 10 dias",
+      "armazenamento": "Refrigerado entre 2–8°C; reconstituído, usar em até 24h sob refrigeração",
+      "preparo": "Reconstituir com água estéril e diluir em soro fisiológico 0,9% sob técnica asséptica",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "ALT ≥ 10x o limite superior da normalidade ou sinais de disfunção hepática aguda",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas e função renal antes e durante o tratamento",
+      "cuidadosFarmaceuticos": "Verificar estabilidade e tempo máximo após reconstituição",
+      "cuidadosEnfermagem": "Monitorar infusão, sinais vitais e reações adversas",
+      "fontesBibliograficas": "FDA, EMA, Gilead, Medscape, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Remdesivir",
+      "suspension": "Discontinue 7 days before elective surgery unless essential for treatment",
+      "risk": "Potential hepatic and renal toxicity; interacts with anesthetic and nephrotoxic drugs",
+      "reintroduction": "Restart after hepatic recovery and normalized renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Remdesivir",
+      "nomeComercial": "Veklury",
+      "mecanismoAcao": "Nucleotide analog that inhibits SARS-CoV-2 RNA polymerase, halting replication",
+      "farmacocinetica": "IV administration; hepatic metabolism; intracellular half-life of active metabolite ~20–25h",
+      "farmacodinamica": "Reduces viral load and shortens recovery in hospitalized COVID-19 patients",
+      "indicacoes": "Moderate to severe COVID-19 requiring hospitalization and supplemental oxygen",
+      "reacoesAdversas": "Elevated liver enzymes, nausea, bradycardia, headache, rare renal failure",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown if excreted in breast milk",
+      "administracao": "Intravenous infusion",
+      "doseMaxima": "200 mg on Day 1, followed by 100 mg/day",
+      "doseMinima": "100 mg/day",
+      "classificacao": "Direct-acting antiviral – RNA polymerase inhibitor",
+      "apresentacao": "100 mg lyophilized vial or 5 mg/mL solution",
+      "interacaoMedicamento": "Avoid with hepatotoxic/nephrotoxic drugs; risk with amiodarone",
+      "posologia": "200 mg on Day 1, then 100 mg daily for 5–10 days",
+      "armazenamento": "Store at 2–8°C; use within 24h after reconstitution",
+      "preparo": "Reconstitute with sterile water and dilute in 0.9% NaCl aseptically",
+      "solucoesCompatíveis": "0.9% sodium chloride",
+      "contraindicacoes": "ALT ≥10× ULN or acute liver dysfunction",
+      "cuidadosMedicos": "Monitor hepatic enzymes and renal function during use",
+      "cuidadosFarmaceuticos": "Confirm storage and stability post-reconstitution",
+      "cuidadosEnfermagem": "Observe infusion and monitor vitals",
+      "fontesBibliograficas": "FDA, Gilead, EMA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Remdesivir",
+      "suspension": "Suspender 7 días antes de cirugía electiva si no es esencial",
+      "risk": "Riesgo de toxicidad hepática o renal; interacciones con anestésicos y fármacos nefrotóxicos",
+      "reintroduction": "Reintroducir tras recuperación hepática y renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Remdesivir",
+      "nomeComercial": "Veklury",
+      "mecanismoAcao": "Análogo de nucleótido que inhibe la ARN polimerasa viral del SARS-CoV-2",
+      "farmacocinetica": "IV; metabolismo hepático; vida media intracelular del metabolito activo: 20–25 h",
+      "farmacodinamica": "Reduce la carga viral y mejora la recuperación clínica",
+      "indicacoes": "COVID-19 moderado a grave en hospitalizados con oxígeno",
+      "reacoesAdversas": "Elevación de transaminasas, náuseas, bradicardia, cefalea, daño renal (raro)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido si se excreta en leche materna",
+      "administracao": "Infusión intravenosa",
+      "doseMaxima": "200 mg día 1, luego 100 mg/día",
+      "doseMinima": "100 mg/día",
+      "classificacao": "Antiviral de acción directa – inhibidor de la ARN polimerasa",
+      "apresentacao": "Frasco 100 mg o solución 5 mg/mL",
+      "interacaoMedicamento": "Evitar con fármacos hepatotóxicos o nefrotóxicos",
+      "posologia": "200 mg día 1, luego 100 mg/día por 5–10 días",
+      "armazenamento": "2–8°C; uso en 24h tras reconstitución",
+      "preparo": "Reconstituir con agua estéril y diluir en NaCl 0,9%",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%",
+      "contraindicacoes": "ALT >10x o daño hepático agudo",
+      "cuidadosMedicos": "Control de función hepática y renal",
+      "cuidadosFarmaceuticos": "Verificar estabilidad tras reconstitución",
+      "cuidadosEnfermagem": "Observar reacciones durante infusión",
+      "fontesBibliograficas": "FDA, EMA, Gilead, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "瑞德西韦",
+      "suspension": "择期手术前应停药7天，除非治疗为必需",
+      "risk": "可能引起肝/肾毒性，与麻醉药物存在潜在相互作用风险",
+      "reintroduction": "术后肝肾功能恢复后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "瑞德西韦",
+      "nomeComercial": "Veklury",
+      "mecanismoAcao": "核苷类似物，通过抑制SARS-CoV-2的RNA聚合酶阻止病毒复制",
+      "farmacocinetica": "静脉注射；肝代谢；活性代谢物细胞内半衰期约20–25小时",
+      "farmacodinamica": "降低病毒载量，加速COVID-19恢复",
+      "indicacoes": "中重度COVID-19住院患者",
+      "reacoesAdversas": "转氨酶升高、恶心、心动过缓、头痛、急性肾损伤（罕见）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否排入乳汁尚不明确",
+      "administracao": "静脉输注",
+      "doseMaxima": "首日200毫克，后续每日100毫克",
+      "doseMinima": "每日100毫克",
+      "classificacao": "直接作用抗病毒药物（RNA聚合酶抑制剂）",
+      "apresentacao": "100毫克冻干粉或5 mg/mL浓缩液",
+      "interacaoMedicamento": "避免与肝毒性或肾毒性药物合用；慎用胺碘酮",
+      "posologia": "首日200 mg，后续5–10天每日100 mg",
+      "armazenamento": "2–8°C冷藏；重溶后24小时内使用",
+      "preparo": "无菌条件下用注射用水重溶，并稀释于0.9%氯化钠",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "ALT>10倍正常或急性肝功能损害",
+      "cuidadosMedicos": "监测肝酶与肾功能",
+      "cuidadosFarmaceuticos": "确保配制后稳定性与储存条件",
+      "cuidadosEnfermagem": "监控输注过程与不良反应",
+      "fontesBibliograficas": "FDA，Gilead，Micromedex，Medscape"
+    }
+  }
+}

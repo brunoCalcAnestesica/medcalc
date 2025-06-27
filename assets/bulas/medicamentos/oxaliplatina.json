@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Oxaliplatina",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas de grande porte; avaliar caso a caso em protocolos oncológicos contínuos",
+      "risk": "Neuropatia periférica dose-dependente, mielossupressão, náuseas, vômitos, risco de toxicidade hematológica e gastrointestinal",
+      "reintroduction": "Reintroduzir após estabilização hematológica e resolução de toxicidades agudas, geralmente após 10–14 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxaliplatina",
+      "nomeComercial": "Eloxatin, Oxaliplatina Accord",
+      "mecanismoAcao": "Compósito de platina que forma ligações cruzadas com o DNA, inibindo a replicação e transcrição celular",
+      "farmacocinetica": "Administração IV; meia-vida terminal prolongada (273h para formas ligadas); eliminação renal",
+      "farmacodinamica": "Efeito citotóxico em células em divisão ativa; maior sinergismo com 5-FU e leucovorina",
+      "indicacoes": "Câncer colorretal metastático ou adjuvante, câncer gástrico, câncer de pâncreas (em protocolos combinados)",
+      "reacoesAdversas": "Neuropatia periférica aguda ou cumulativa, mielossupressão, diarreia, mucosite, náuseas, vômitos, fadiga",
+      "riscoGravidez": "Categoria D – contraindicado, exceto em situações oncológicas de alto risco",
+      "riscoLactacao": "Contraindicado; excreção no leite não determinada",
+      "administracao": "Infusão IV em 2 horas, diluída exclusivamente em glicose 5%",
+      "doseMaxima": "130mg/m² por ciclo (a cada 3 semanas); 85mg/m² em FOLFOX",
+      "doseMinima": "65mg/m² em idosos ou toxicidade prévia",
+      "classificacao": "Alquilante de platina de terceira geração",
+      "apresentacao": "Frascos de 50mg e 100mg (pó liofilizado ou solução concentrada)",
+      "interacaoMedicamento": "Incompatível com soluções contendo cloreto; sinergismo com 5-FU; atenção com anticoagulantes e aminoglicosídeos",
+      "posologia": "FOLFOX: 85mg/m² dia 1 + 5-FU/leucovorina a cada 2 semanas",
+      "armazenamento": "2–8°C; solução reconstituída estável por 24h refrigerada",
+      "preparo": "Diluir em 250–500ml de glicose 5% sob capela e com EPI completo",
+      "solucoesCompatíveis": "Somente glicose 5%; incompatível com SF",
+      "contraindicacoes": "Hipersensibilidade à platina, mielossupressão severa, neuropatia grave, gravidez/lactação",
+      "cuidadosMedicos": "Avaliar função renal, hemograma, toxicidade neurológica e GI antes de cada ciclo",
+      "cuidadosFarmaceuticos": "Verificar estabilidade e diluição correta em glicose; evitar cloreto de sódio",
+      "cuidadosEnfermagem": "Observar parestesias, disfagia induzida por frio, vômitos e sinais hematológicos",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Oxaliplatin",
+      "suspension": "Hold 7 days prior to major elective procedures; continue only under oncologic guidance",
+      "risk": "Peripheral neuropathy (acute/cumulative), GI toxicity, hematologic suppression, cold-induced dysesthesias",
+      "reintroduction": "Restart once hematologic and neurologic function recovered, typically 10–14 days post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxaliplatin",
+      "nomeComercial": "Eloxatin",
+      "mecanismoAcao": "Forms platinum-DNA adducts, disrupting DNA replication/transcription and promoting apoptosis",
+      "farmacocinetica": "IV only; terminal half-life (protein-bound) ~273h; renal clearance",
+      "farmacodinamica": "Active against dividing cells; synergistic with 5-FU/leucovorin",
+      "indicacoes": "Colorectal cancer (adjuvant/metastatic), gastric and pancreatic cancers",
+      "reacoesAdversas": "Acute/cumulative neuropathy, neutropenia, diarrhea, stomatitis, nausea/vomiting, fatigue",
+      "riscoGravidez": "Category D – fetal harm possible",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "2h IV infusion in D5W only",
+      "doseMaxima": "130mg/m² every 3 weeks; 85mg/m² in FOLFOX q2w",
+      "doseMinima": "65mg/m² (elderly, renal dysfunction)",
+      "classificacao": "3rd-generation platinum alkylating agent",
+      "apresentacao": "Vials 50mg, 100mg",
+      "interacaoMedicamento": "Do not use with chloride-containing solutions; enhanced with 5-FU; nephrotoxic agents caution",
+      "posologia": "FOLFOX: 85mg/m² day 1 + 5-FU/leucovorin q14d",
+      "armazenamento": "Refrigerate 2–8°C; stable 24h post dilution",
+      "preparo": "Dilute in D5W only; prepare under sterile cytotoxic conditions",
+      "solucoesCompatíveis": "Only dextrose 5%",
+      "contraindicacoes": "Severe allergy to platinum, myelosuppression, pregnancy/lactation, significant neuropathy",
+      "cuidadosMedicos": "Assess renal, CBC, neurotoxicity before each dose",
+      "cuidadosFarmaceuticos": "Ensure D5W only; avoid saline; proper light-protection",
+      "cuidadosEnfermagem": "Monitor cold sensitivity, numbness, GI effects, CBC",
+      "fontesBibliograficas": "FDA label, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Oxaliplatino",
+      "suspension": "Suspender 7 días antes de cirugía; continuar solo bajo supervisión oncológica",
+      "risk": "Neuropatía periférica, mielosupresión, náuseas, vómitos, toxicidad digestiva y hematológica",
+      "reintroduction": "Reintroducir tras recuperación hematológica y neurológica (10–14 días)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxaliplatino",
+      "nomeComercial": "Eloxatin",
+      "mecanismoAcao": "Forma enlaces cruzados ADN-plata, inhibiendo replicación y promoviendo apoptosis",
+      "farmacocinetica": "IV; vida media plasmática ligada >200h; eliminación renal",
+      "farmacodinamica": "Citotóxico sinérgico con 5-FU/leucovorina",
+      "indicacoes": "Cáncer colorrectal, gástrico y pancreático",
+      "reacoesAdversas": "Neuropatía sensitiva, náuseas, vómitos, mucositis, diarrea, leucopenia",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "IV en 2h, en glucosa 5%",
+      "doseMaxima": "130mg/m² cada 21 días; 85mg/m² en FOLFOX",
+      "doseMinima": "65mg/m²",
+      "classificacao": "Agente alquilante de tercera generación (platino)",
+      "apresentacao": "50mg y 100mg en viales",
+      "interacaoMedicamento": "Incompatible con soluciones con cloruro; potencia con 5-FU; cuidado con nefrotóxicos",
+      "posologia": "FOLFOX: 85mg/m² + 5-FU/leucovorina cada 14 días",
+      "armazenamento": "2–8°C; diluido válido por 24h",
+      "preparo": "En glucosa 5% solo; ambiente estéril",
+      "solucoesCompatíveis": "Glucosa 5%",
+      "contraindicacoes": "Alergia a platino, mielosupresión grave, embarazo, neuropatía severa",
+      "cuidadosMedicos": "Control renal, hemograma, neurotoxicidad previa",
+      "cuidadosFarmaceuticos": "Evitar SF, usar solo glucosa 5%, respetar condiciones de almacenamiento",
+      "cuidadosEnfermagem": "Monitorización de parestesias, sensibilidad al frío, vómitos",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥沙利铂",
+      "suspension": "术前7天停药；术后血象及神经症状缓解后恢复",
+      "risk": "外周神经病、骨髓抑制、胃肠毒性、寒冷诱发性感觉异常",
+      "reintroduction": "术后10–14天，血常规稳定且无显著神经症状可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥沙利铂",
+      "nomeComercial": "Eloxatin",
+      "mecanismoAcao": "与DNA形成交联，阻断复制与转录，诱导细胞凋亡",
+      "farmacocinetica": "静注；终末T½ >200小时；肾排泄",
+      "farmacodinamica": "对分裂活跃细胞毒性强，与5-FU协同增效",
+      "indicacoes": "结直肠癌、胃癌、胰腺癌",
+      "reacoesAdversas": "神经病变、恶心、呕吐、腹泻、骨髓抑制",
+      "riscoGravidez": "D类 – 禁用于孕期",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "葡萄糖注射液中静滴2小时",
+      "doseMaxima": "每周期130mg/m²；FOLFOX中为85mg/m²",
+      "doseMinima": "65mg/m²",
+      "classificacao": "三代铂类烷化剂",
+      "apresentacao": "50mg、100mg注射剂",
+      "interacaoMedicamento": "禁与含氯溶液混合；增强5-FU毒性；注意联合肾毒药",
+      "posologia": "FOLFOX：85mg/m²配合5-FU/leucovorin，每14天",
+      "armazenamento": "2–8°C冷藏，避光；稀释液24小时内使用",
+      "preparo": "仅可用5%葡萄糖配制；无菌操作",
+      "solucoesCompatíveis": "5%葡萄糖",
+      "contraindicacoes": "严重过敏、骨髓抑制、妊娠、神经病变",
+      "cuidadosMedicos": "监测神经症状、肾功能、电解质、血象",
+      "cuidadosFarmaceuticos": "确保使用葡萄糖，禁用生理盐水",
+      "cuidadosEnfermagem": "观察寒冷诱发反应、麻木、腹泻、恶心",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex"
+    }
+  }
+}

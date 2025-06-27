@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tamoxifeno",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas devido ao risco de trombose.",
+      "risk": "Aumenta risco de eventos tromboembólicos, principalmente em pacientes com predisposição genética ou obesidade. Potencial de interação com anestésicos e anticoagulantes.",
+      "reintroduction": "Reintroduzir somente após mobilização completa e estabilidade clínica, geralmente após 7 a 10 dias do pós-operatório."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tamoxifeno",
+      "nomeComercial": "Nolvadex, Tamoplex, Taxofen, Tamoxifen Sandoz",
+      "mecanismoAcao": "Modulador seletivo dos receptores de estrogênio (SERM), atuando como antagonista em tecido mamário e agonista parcial no endométrio e osso.",
+      "farmacocinetica": "Alta biodisponibilidade oral, metabolismo hepático (CYP3A4, CYP2D6), meia-vida de 5 a 7 dias, eliminação biliar e fecal.",
+      "farmacodinamica": "Bloqueia o efeito estrogênico em tecidos mamários, mas promove ação estrogênica no endométrio e osso. Induz ovulação ao aumentar liberação de GnRH.",
+      "indicacoes": "Câncer de mama receptor hormonal positivo, anovulação em infertilidade feminina, prevenção de câncer de mama em alto risco.",
+      "reacoesAdversas": "Fogachos, náuseas, trombose venosa profunda, sangramento uterino, cistos ovarianos, hipertrofia endometrial.",
+      "riscoGravidez": "Categoria D – Uso com cautela em infertilidade; contraindicado em gestantes com câncer.",
+      "riscoLactacao": "Evitar durante lactação.",
+      "administracao": "Via oral, comprimido.",
+      "doseMaxima": "40 mg/dia (em casos específicos).",
+      "doseMinima": "10 mg/dia (em protocolos de fertilidade).",
+      "classificacao": "Modulador seletivo dos receptores de estrogênio (SERM).",
+      "apresentacao": "Comprimidos de 10 mg e 20 mg.",
+      "interacaoMedicamento": "Interage com varfarina, inibidores da CYP2D6, antidepressivos e anticoagulantes.",
+      "posologia": "Infertilidade: 10 a 20 mg/dia por 5 dias, iniciando entre o 2º e 5º dia do ciclo.",
+      "armazenamento": "Temperatura ambiente (15–30°C), local seco.",
+      "preparo": "Não requer preparo.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "História de trombose, câncer de endométrio, sangramento vaginal inexplicado, gestação confirmada.",
+      "cuidadosMedicos": "Monitorar sinais de trombose, avaliar espessura endometrial e resposta ovulatória.",
+      "cuidadosFarmaceuticos": "Garantir adesão ao ciclo terapêutico, evitar coadministração com inibidores potentes da CYP2D6.",
+      "cuidadosEnfermagem": "Observar efeitos adversos como dor pélvica, sangramento e eventos vasculares.",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate, NICE Fertility Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tamoxifen",
+      "suspension": "Discontinue 7 days before elective surgery due to thromboembolic risk.",
+      "risk": "Increases risk of thromboembolic events, especially in genetically predisposed or obese patients. May interact with anesthetics and anticoagulants.",
+      "reintroduction": "Reintroduce only after full mobilization and clinical stability, generally 7 to 10 days post-op."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tamoxifen",
+      "nomeComercial": "Nolvadex, Soltamox, Tamofen, Tamoxifen Teva",
+      "mecanismoAcao": "Selective estrogen receptor modulator (SERM); acts as antagonist in breast tissue and partial agonist in endometrium and bone.",
+      "farmacocinetica": "High oral bioavailability, hepatic metabolism (CYP3A4, CYP2D6), half-life 5–7 days, biliary and fecal elimination.",
+      "farmacodinamica": "Blocks estrogenic action in breast tissue and stimulates estrogenic effects in other tissues. Induces ovulation by increasing GnRH pulsatility.",
+      "indicacoes": "Hormone receptor-positive breast cancer, female infertility due to anovulation, breast cancer prevention in high-risk patients.",
+      "reacoesAdversas": "Hot flashes, nausea, deep vein thrombosis, uterine bleeding, ovarian cysts, endometrial hypertrophy.",
+      "riscoGravidez": "Category D – Use cautiously in fertility treatments; contraindicated in pregnant cancer patients.",
+      "riscoLactacao": "Avoid during breastfeeding.",
+      "administracao": "Oral tablet.",
+      "doseMaxima": "40 mg/day (in specific cases).",
+      "doseMinima": "10 mg/day (in fertility protocols).",
+      "classificacao": "Selective estrogen receptor modulator (SERM).",
+      "apresentacao": "Tablets of 10 mg and 20 mg.",
+      "interacaoMedicamento": "Interacts with warfarin, CYP2D6 inhibitors, antidepressants, and anticoagulants.",
+      "posologia": "Fertility: 10–20 mg/day for 5 days starting on day 2 to 5 of menstrual cycle.",
+      "armazenamento": "Store at room temperature (59–86°F), keep dry.",
+      "preparo": "No preparation required.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "History of thrombosis, endometrial cancer, unexplained vaginal bleeding, confirmed pregnancy.",
+      "cuidadosMedicos": "Monitor for thrombotic events, assess endometrial thickness and ovulatory response.",
+      "cuidadosFarmaceuticos": "Ensure adherence to treatment cycle, avoid potent CYP2D6 inhibitors.",
+      "cuidadosEnfermagem": "Observe for pelvic pain, bleeding, and vascular complications.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, NICE Fertility Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tamoxifeno",
+      "suspension": "Suspender 7 días antes de cirugía electiva por riesgo tromboembólico.",
+      "risk": "Aumenta el riesgo de trombosis, especialmente en pacientes con predisposición genética u obesidad. Puede interactuar con anestésicos y anticoagulantes.",
+      "reintroduction": "Reintroducir solo tras movilización completa y estabilidad clínica, generalmente después de 7–10 días postoperatorios."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tamoxifeno",
+      "nomeComercial": "Nolvadex, Tamoxifeno Cinfa, Tamoxifeno Sandoz",
+      "mecanismoAcao": "Modulador selectivo del receptor de estrógeno (SERM), antagonista en tejido mamario, agonista parcial en endometrio y hueso.",
+      "farmacocinetica": "Alta biodisponibilidad oral, metabolismo hepático (CYP3A4 y CYP2D6), vida media 5–7 días, eliminación biliar y fecal.",
+      "farmacodinamica": "Bloquea la acción estrogénica en mama, actúa como agonista en otros tejidos. Estimula la ovulación aumentando la secreción de GnRH.",
+      "indicacoes": "Cáncer de mama con receptores hormonales positivos, infertilidad femenina por anovulación, prevención en pacientes de alto riesgo.",
+      "reacoesAdversas": "Sofocos, náuseas, trombosis venosa profunda, sangrado uterino, quistes ováricos, hiperplasia endometrial.",
+      "riscoGravidez": "Categoría D – Uso con precaución en infertilidad; contraindicado en embarazadas con cáncer.",
+      "riscoLactacao": "Evitar durante la lactancia.",
+      "administracao": "Vía oral, comprimido.",
+      "doseMaxima": "40 mg/día (en casos especiales).",
+      "doseMinima": "10 mg/día (en protocolos de fertilidad).",
+      "classificacao": "Modulador selectivo del receptor estrogénico (SERM).",
+      "apresentacao": "Comprimidos de 10 mg y 20 mg.",
+      "interacaoMedicamento": "Interacciona con warfarina, inhibidores de CYP2D6, antidepresivos y anticoagulantes.",
+      "posologia": "Infertilidad: 10–20 mg/día durante 5 días, comenzando entre el día 2 y 5 del ciclo menstrual.",
+      "armazenamento": "Temperatura ambiente (15–30°C), mantener seco.",
+      "preparo": "No requiere preparación.",
+      "solucoesCompatíveis": "No aplicable.",
+      "contraindicacoes": "Trombosis, cáncer de endometrio, sangrado inexplicado, embarazo confirmado.",
+      "cuidadosMedicos": "Monitorizar trombosis, evaluar endometrio y respuesta ovulatoria.",
+      "cuidadosFarmaceuticos": "Garantizar adherencia y evitar inhibidores potentes de CYP2D6.",
+      "cuidadosEnfermagem": "Vigilar dolor pélvico, sangrado y complicaciones vasculares.",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "他莫昔芬",
+      "suspension": "择期手术前7天停药，以减少血栓风险。",
+      "risk": "可能增加血栓事件风险，特别是在肥胖或有遗传倾向的患者中；可能与麻醉剂和抗凝药物相互作用。",
+      "reintroduction": "术后7至10天、病人完全恢复活动能力后可考虑重新用药。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "他莫昔芬",
+      "nomeComercial": "诺瓦得士（Nolvadex），他莫昔芬片",
+      "mecanismoAcao": "选择性雌激素受体调节剂（SERM），在乳腺组织中为拮抗剂，在子宫和骨组织中表现为部分激动剂。",
+      "farmacocinetica": "口服吸收良好，经肝脏CYP3A4和CYP2D6代谢，半衰期为5–7天，经胆汁和粪便排泄。",
+      "farmacodinamica": "抑制乳腺组织雌激素效应，促进其他组织的雌激素效应；通过增强GnRH脉冲促进排卵。",
+      "indicacoes": "激素受体阳性乳腺癌、女性排卵障碍性不孕、高风险女性乳腺癌预防。",
+      "reacoesAdversas": "潮热、恶心、深静脉血栓、子宫出血、卵巢囊肿、子宫内膜增生。",
+      "riscoGravidez": "D类 – 不推荐孕期使用，可用于不孕症治疗时谨慎使用。",
+      "riscoLactacao": "哺乳期应避免使用。",
+      "administracao": "口服，片剂。",
+      "doseMaxima": "每日不超过40毫克（特定方案）。",
+      "doseMinima": "每日10毫克（用于生育治疗）。",
+      "classificacao": "选择性雌激素受体调节剂（SERM）。",
+      "apresentacao": "10毫克或20毫克片剂。",
+      "interacaoMedicamento": "与华法林、CYP2D6抑制剂、抗抑郁药和抗凝剂有相互作用。",
+      "posologia": "用于生育：月经周期第2–5天开始，每日10–20毫克，连用5天。",
+      "armazenamento": "室温（15–30°C），干燥保存。",
+      "preparo": "无需特殊准备。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "既往血栓史、子宫癌、不明原因阴道出血、确诊妊娠。",
+      "cuidadosMedicos": "监测血栓风险，评估子宫内膜和排卵情况。",
+      "cuidadosFarmaceuticos": "确保用药依从性，避免与强CYP2D6抑制剂合用。",
+      "cuidadosEnfermagem": "观察骨盆痛、阴道出血和血管并发症。",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate、NICE"
+    }
+  }
+}

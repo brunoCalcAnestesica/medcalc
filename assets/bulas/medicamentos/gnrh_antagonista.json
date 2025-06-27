@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Antagonista de GnRH",
+      "suspension": "Suspender 24 horas antes de procedimentos não relacionados à estimulação ovariana.",
+      "risk": "Redução súbita de LH e FSH pode interferir com ejeção ovular espontânea em ciclos controlados. Pode ocorrer interação com anestésicos ou variações hormonais bruscas.",
+      "reintroduction": "Reintroduzir conforme protocolo específico de FIV ou bloqueio hipofisário, com controle ecográfico e hormonal estrito."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cetrorelix, Ganirelix",
+      "nomeComercial": "Cetrotide, Orgalutran",
+      "mecanismoAcao": "Inibidores competitivos dos receptores de GnRH na hipófise, suprimindo rapidamente a liberação de LH e FSH.",
+      "farmacocinetica": "Administração subcutânea; início de ação em 1-2 horas; meia-vida de 30 horas (Cetrorelix), 13 horas (Ganirelix); excreção renal.",
+      "farmacodinamica": "Bloqueio imediato da liberação de gonadotrofinas, prevenindo pico prematuro de LH durante indução de ovulação.",
+      "indicacoes": "Prevenção da ovulação precoce em ciclos de FIV, bloqueio hipofisário em estimulação ovariana controlada.",
+      "reacoesAdversas": "Reações no local da injeção, cefaleia, náuseas, distensão abdominal, OHSS leve, sangramento vaginal.",
+      "riscoGravidez": "Categoria X – Contraindicado durante a gestação.",
+      "riscoLactacao": "Não recomendado durante a amamentação.",
+      "administracao": "Via subcutânea.",
+      "doseMaxima": "0,25 mg/dia (uso contínuo); 3 mg (dose única).",
+      "doseMinima": "0,25 mg/dia.",
+      "classificacao": "Antagonista do hormônio liberador de gonadotrofinas (GnRH).",
+      "apresentacao": "Seringas preenchidas ou frascos-ampola de 0,25 mg e 3 mg.",
+      "interacaoMedicamento": "Uso combinado com gonadotrofinas requer ajuste protocolar. Poucas interações medicamentosas conhecidas.",
+      "posologia": "Iniciar no 5º-6º dia de FSH até dia da indução com hCG.",
+      "armazenamento": "Refrigerado entre 2–8°C. Usar imediatamente após preparo (quando necessário).",
+      "preparo": "Pronto para uso (Orgalutran); requer reconstituição (Cetrotide 3 mg).",
+      "solucoesCompatíveis": "Água estéril fornecida com o produto.",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade ao GnRH ou análogos.",
+      "cuidadosMedicos": "Monitorar supressão de LH e desenvolvimento folicular.",
+      "cuidadosFarmaceuticos": "Verificar integridade da seringa ou ampola; respeitar cadeia de frio.",
+      "cuidadosEnfermagem": "Orientar autoadministração e sinais de hipersensibilidade local.",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, ASRM, ESHRE, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "GnRH Antagonist",
+      "suspension": "Discontinue 24 hours prior to non-ART procedures.",
+      "risk": "Rapid LH/FSH suppression may disrupt ovulation timing in controlled cycles. Possible interaction with anesthesia and hormonal fluctuations.",
+      "reintroduction": "Reintroduce according to IVF protocols with ultrasound and hormone monitoring."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cetrorelix, Ganirelix",
+      "nomeComercial": "Cetrotide, Orgalutran",
+      "mecanismoAcao": "Competitive inhibitors of GnRH receptors at the pituitary, rapidly suppressing LH and FSH secretion.",
+      "farmacocinetica": "SC administration; onset in 1–2 hours; half-life: 30h (Cetrorelix), 13h (Ganirelix); renal elimination.",
+      "farmacodinamica": "Blocks gonadotropin release immediately, preventing premature LH surge during ovulation induction.",
+      "indicacoes": "Prevention of premature ovulation in IVF cycles, pituitary suppression during controlled ovarian stimulation.",
+      "reacoesAdversas": "Injection site reactions, headache, nausea, bloating, mild OHSS, vaginal bleeding.",
+      "riscoGravidez": "Category X – Contraindicated during pregnancy.",
+      "riscoLactacao": "Not recommended during lactation.",
+      "administracao": "Subcutaneous injection.",
+      "doseMaxima": "0.25 mg/day (daily protocol); 3 mg (single dose protocol).",
+      "doseMinima": "0.25 mg/day.",
+      "classificacao": "Gonadotropin-releasing hormone antagonist.",
+      "apresentacao": "Prefilled syringes or vials of 0.25 mg and 3 mg.",
+      "interacaoMedicamento": "Used with gonadotropins; protocol adjustment required. Few known drug interactions.",
+      "posologia": "Start on stimulation day 5–6; continue until hCG trigger day.",
+      "armazenamento": "Store at 2–8°C. Use immediately after preparation (if applicable).",
+      "preparo": "Ready-to-use (Orgalutran); reconstitution required (Cetrotide 3 mg).",
+      "solucoesCompatíveis": "Sterile water provided with product.",
+      "contraindicacoes": "Pregnancy, lactation, hypersensitivity to GnRH or analogs.",
+      "cuidadosMedicos": "Monitor LH suppression and follicular growth.",
+      "cuidadosFarmaceuticos": "Check syringe/vial integrity and cold chain compliance.",
+      "cuidadosEnfermagem": "Teach self-injection and monitor for local reactions.",
+      "fontesBibliograficas": "FDA, EMA, ASRM, ESHRE, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Antagonista de GnRH",
+      "suspension": "Suspender 24 horas antes de procedimientos no relacionados con estimulación ovárica.",
+      "risk": "La supresión rápida de LH y FSH puede interferir con la ovulación en ciclos controlados. Posibles interacciones con anestesia.",
+      "reintroduction": "Reintroducir según protocolos de FIV, con control hormonal y ecográfico."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cetrorelix, Ganirelix",
+      "nomeComercial": "Cetrotide, Orgalutran",
+      "mecanismoAcao": "Inhibidores competitivos del receptor hipofisario de GnRH, que suprimen LH y FSH rápidamente.",
+      "farmacocinetica": "SC; inicio 1–2 h; vida media: 30 h (Cetrorelix), 13 h (Ganirelix); eliminación renal.",
+      "farmacodinamica": "Inhibe la liberación de gonadotropinas, evitando el pico prematuro de LH.",
+      "indicacoes": "Prevención de ovulación precoz en FIV; supresión hipofisaria.",
+      "reacoesAdversas": "Reacciones locales, cefalea, náusea, distensión, OHSS leve, sangrado.",
+      "riscoGravidez": "Categoría X – Contraindicado en embarazo.",
+      "riscoLactacao": "No recomendado durante lactancia.",
+      "administracao": "Inyección subcutánea.",
+      "doseMaxima": "0,25 mg/día (uso continuo); 3 mg (única dosis).",
+      "doseMinima": "0,25 mg/día.",
+      "classificacao": "Antagonista de la hormona liberadora de gonadotropinas (GnRH).",
+      "apresentacao": "Jeringas precargadas o viales de 0,25 mg y 3 mg.",
+      "interacaoMedicamento": "Usado con gonadotropinas requiere ajuste protocolar. Pocas interacciones.",
+      "posologia": "Iniciar día 5–6 del FSH hasta el día del hCG.",
+      "armazenamento": "Refrigerar 2–8°C. Usar tras preparación (si aplica).",
+      "preparo": "Listo para usar (Orgalutran); requiere disolución (Cetrotide).",
+      "solucoesCompatíveis": "Agua estéril incluida.",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad a GnRH.",
+      "cuidadosMedicos": "Controlar LH y folículos.",
+      "cuidadosFarmaceuticos": "Verificar integridad y refrigeración.",
+      "cuidadosEnfermagem": "Educar sobre aplicación SC; vigilar reacciones locales.",
+      "fontesBibliograficas": "EMA, FDA, ASRM, ESHRE, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "促性腺激素释放激素拮抗剂（GnRH拮抗剂）",
+      "suspension": "非辅助生殖手术前24小时停药。",
+      "risk": "快速抑制LH/FSH可能干扰排卵时机，与麻醉药可能存在相互作用。",
+      "reintroduction": "仅在体外受精方案下，根据超声及激素监测重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "西曲瑞克（Cetrorelix）、加尼瑞克（Ganirelix）",
+      "nomeComercial": "Cetrotide、Orgalutran",
+      "mecanismoAcao": "竞争性结合垂体GnRH受体，快速抑制促性腺激素释放（LH与FSH）。",
+      "farmacocinetica": "皮下注射；起效1–2小时；半衰期：Cetrorelix 30小时，Ganirelix 13小时；肾脏清除。",
+      "farmacodinamica": "迅速抑制促性腺激素，预防排卵前LH高峰。",
+      "indicacoes": "防止体外受精周期中LH过早升高；卵巢刺激控制。",
+      "reacoesAdversas": "注射部位反应、头痛、恶心、腹胀、轻度OHSS、阴道出血。",
+      "riscoGravidez": "X类 – 妊娠期禁用。",
+      "riscoLactacao": "哺乳期不推荐使用。",
+      "administracao": "皮下注射。",
+      "doseMaxima": "每日0.25毫克；单剂量3毫克方案。",
+      "doseMinima": "每日0.25毫克。",
+      "classificacao": "促性腺激素释放激素拮抗剂（GnRH拮抗剂）。",
+      "apresentacao": "0.25或3毫克预充注射器或冻干粉针剂。",
+      "interacaoMedicamento": "与促性腺激素合用需根据方案调整；药物相互作用少。",
+      "posologia": "刺激周期第5–6天开始，持续至hCG触发排卵日。",
+      "armazenamento": "2–8°C冷藏；如需配制，立即使用。",
+      "preparo": "Orgalutran为即用型；Cetrotide需配制。",
+      "solucoesCompatíveis": "产品配套无菌稀释液。",
+      "contraindicacoes": "妊娠、哺乳、对GnRH过敏。",
+      "cuidadosMedicos": "监测LH抑制与卵泡发育。",
+      "cuidadosFarmaceuticos": "检查药品完整性与冷链保存。",
+      "cuidadosEnfermagem": "指导皮下注射方法，观察局部反应。",
+      "fontesBibliograficas": "中国药典、FDA、EMA、ESHRE、ASRM、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ixekizumabe",
+      "suspension": "Suspender 10 a 14 dias antes de cirurgias eletivas",
+      "risk": "Risco de infecções oportunistas, retardo na cicatrização e reativação de tuberculose latente; imunossupressão prolongada",
+      "reintroduction": "Reintroduzir após completa cicatrização e ausência de infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ixekizumabe",
+      "nomeComercial": "Taltz",
+      "mecanismoAcao": "Anticorpo monoclonal IgG4 que se liga seletivamente à interleucina-17A (IL-17A), inibindo sua ação pró-inflamatória",
+      "farmacocinetica": "Meia-vida terminal ~13 dias; metabolismo proteico; excreção não renal",
+      "farmacodinamica": "Reduz inflamação Th17-mediada em psoríase, artrite psoriásica e espondilite anquilosante",
+      "indicacoes": "Psoríase em placas moderada a grave, artrite psoriásica, espondiloartrite axial",
+      "reacoesAdversas": "Infecções do trato respiratório superior, candidíase oral, reações no local da injeção, neutropenia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhece-se se é excretado no leite materno; uso com cautela",
+      "administracao": "Subcutânea",
+      "doseMaxima": "160 mg na indução; 80 mg SC a cada 4 semanas (manutenção)",
+      "doseMinima": "80 mg SC/mês (após fase de indução)",
+      "classificacao": "Imunobiológico – anti-IL-17A",
+      "apresentacao": "Caneta ou seringa preenchida 80 mg/mL",
+      "interacaoMedicamento": "Evitar uso com outros biológicos imunossupressores ou com risco aumentado de infecção",
+      "posologia": "160 mg SC (2x80 mg) no dia 0, seguido de 80 mg SC nas semanas 2, 4, 6, 8, 10, 12; depois 80 mg a cada 4 semanas",
+      "armazenamento": "Refrigerado entre 2–8°C; não congelar; proteger da luz",
+      "preparo": "Pronto para uso; aplicar após atingir temperatura ambiente",
+      "solucoesCompatíveis": "Não aplicável (injeção direta)",
+      "contraindicacoes": "Infecções graves ativas, tuberculose ativa, hipersensibilidade ao ixekizumabe",
+      "cuidadosMedicos": "Testar tuberculose antes do início; monitorar sinais infecciosos e eventos adversos",
+      "cuidadosFarmaceuticos": "Verificar aparência, validade e cadeia de frio até o uso",
+      "cuidadosEnfermagem": "Orientar aplicação SC domiciliar; observar sinais locais e sistêmicos",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Medscape, Micromedex, bula Taltz"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ixekizumab",
+      "suspension": "Discontinue 10–14 days before elective surgery",
+      "risk": "Risk of infection, impaired wound healing, latent TB reactivation",
+      "reintroduction": "Restart after healing and infection clearance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ixekizumab",
+      "nomeComercial": "Taltz",
+      "mecanismoAcao": "IgG4 monoclonal antibody that binds IL-17A, inhibiting its pro-inflammatory action",
+      "farmacocinetica": "t½ ~13 days; metabolized by proteolysis",
+      "farmacodinamica": "Suppresses Th17-mediated inflammation in psoriasis and spondyloarthritis",
+      "indicacoes": "Moderate-to-severe plaque psoriasis, psoriatic arthritis, axial spondyloarthritis",
+      "reacoesAdversas": "URTIs, oral candidiasis, injection site reactions, neutropenia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown if excreted in milk; use caution",
+      "administracao": "Subcutaneous injection",
+      "doseMaxima": "160 mg induction; 80 mg q4w maintenance",
+      "doseMinima": "80 mg/month (after induction)",
+      "classificacao": "Biologic – anti-IL-17A monoclonal antibody",
+      "apresentacao": "Prefilled syringe or autoinjector 80 mg/mL",
+      "interacaoMedicamento": "Avoid concurrent biologics and immunosuppressives",
+      "posologia": "160 mg on Day 0, then 80 mg SC at weeks 2, 4, 6, 8, 10, 12; then 80 mg q4w",
+      "armazenamento": "Store 2–8°C; do not freeze; protect from light",
+      "preparo": "Ready-to-use; inject at room temp",
+      "solucoesCompatíveis": "Not applicable (SC injection)",
+      "contraindicacoes": "Active infections, TB, hypersensitivity",
+      "cuidadosMedicos": "Test for latent TB before starting; monitor infections",
+      "cuidadosFarmaceuticos": "Check storage, integrity, expiration",
+      "cuidadosEnfermagem": "Guide SC use; monitor for local/systemic reactions",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, Taltz PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ixekizumab",
+      "suspension": "Suspender 10–14 días antes de cirugía",
+      "risk": "Inmunosupresión, riesgo de infección, retraso en cicatrización",
+      "reintroduction": "Reiniciar tras curación completa y ausencia de infección activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ixekizumab",
+      "nomeComercial": "Taltz",
+      "mecanismoAcao": "Anticuerpo monoclonal IgG4 que bloquea IL-17A y su acción inflamatoria",
+      "farmacocinetica": "t½ ~13 días; metabolismo proteico",
+      "farmacodinamica": "Reduce la inflamación Th17 en psoriasis y espondiloartritis",
+      "indicacoes": "Psoriasis en placas, artritis psoriásica, espondiloartritis axial",
+      "reacoesAdversas": "Nasofaringitis, candidiasis oral, reacciones locales, neutropenia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce si se excreta; usar con precaución",
+      "administracao": "Subcutánea",
+      "doseMaxima": "160 mg inicial, luego 80 mg/4 sem",
+      "doseMinima": "80 mg mensual",
+      "classificacao": "Biológico – anti-IL-17A",
+      "apresentacao": "Jeringa precargada o autoinyector 80 mg/mL",
+      "interacaoMedicamento": "Evitar otros biológicos o inmunosupresores",
+      "posologia": "160 mg día 0, luego 80 mg semanas 2–12 y cada 4 semanas",
+      "armazenamento": "2–8°C; no congelar; proteger de luz",
+      "preparo": "Listo para usar; temperatura ambiente antes de aplicar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infecciones graves, TB activa, alergia conocida",
+      "cuidadosMedicos": "Descartar TB antes; vigilar infecciones",
+      "cuidadosFarmaceuticos": "Cadena de frío y aspecto del producto",
+      "cuidadosEnfermagem": "Instrucción sobre uso SC y vigilancia de reacciones",
+      "fontesBibliograficas": "EMA, Medscape, Taltz Ficha Técnica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伊昔木单抗",
+      "suspension": "术前10–14天停用",
+      "risk": "免疫抑制，增加术后感染风险与愈合延迟",
+      "reintroduction": "术后愈合完成且无感染时可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伊昔木单抗",
+      "nomeComercial": "Taltz",
+      "mecanismoAcao": "IgG4型单抗，靶向IL-17A，抑制Th17相关炎症通路",
+      "farmacocinetica": "半衰期13天；蛋白代谢",
+      "farmacodinamica": "适用于控制银屑病、银屑病关节炎及强直性脊柱炎",
+      "indicacoes": "斑块型银屑病、银屑病性关节炎、轴性脊柱关节病",
+      "reacoesAdversas": "鼻咽炎、口腔念珠菌、注射部位红肿、粒细胞减少",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "未知是否排泄乳汁，慎用",
+      "administracao": "皮下注射",
+      "doseMaxima": "初始160毫克；维持80毫克每4周",
+      "doseMinima": "80毫克每月一次",
+      "classificacao": "抗IL-17A生物制剂",
+      "apresentacao": "80 mg/mL预充注射笔或注射器",
+      "interacaoMedicamento": "避免与其他免疫抑制剂或生物药联用",
+      "posologia": "起始期：160 mg后按计划注射；维持期：每4周80 mg",
+      "armazenamento": "2–8°C冷藏，勿冷冻，避光",
+      "preparo": "注射前回温至室温",
+      "solucoesCompatíveis": "不适用（直接皮下注射）",
+      "contraindicacoes": "活动感染、活动性结核、已知过敏史",
+      "cuidadosMedicos": "筛查潜伏结核，监测感染征象",
+      "cuidadosFarmaceuticos": "确保冷链及外观完整",
+      "cuidadosEnfermagem": "指导患者正确注射，监测反应",
+      "fontesBibliograficas": "FDA，EMA，Taltz说明书，Micromedex"
+    }
+  }
+}

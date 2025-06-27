@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Olanzapina",
+      "suspension": "Suspender 24h antes de cirurgia com anestesia geral ou risco cardiovascular elevado",
+      "risk": "Sedação, ganho de peso, hiperprolactinemia, QT prolongado, síndrome metabólica, hipotensão, interação com depressores do SNC",
+      "reintroduction": "Reintroduzir 24–48h após estabilização hemodinâmica e retomada da via oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Olanzapina",
+      "nomeComercial": "Zyprexa",
+      "mecanismoAcao": "Antagonista dos receptores dopaminérgicos D2 e serotoninérgicos 5-HT2A, com efeitos também sobre histaminérgicos, muscarínicos e adrenérgicos",
+      "farmacocinetica": "VO/IM; T½ ~30h; metabolismo hepático (CYP1A2, UGT); excreção renal e fecal",
+      "farmacodinamica": "Efeito antipsicótico e ansiolítico; redução de sintomas positivos e negativos da esquizofrenia",
+      "indicacoes": "Esquizofrenia, transtorno bipolar, depressão resistente (com fluoxetina), agitação aguda (IM)",
+      "reacoesAdversas": "Sedação, ganho ponderal, dislipidemia, hiperglicemia, hipotensão, QT prolongado, xerostomia, constipação",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar se possível",
+      "administracao": "VO 1x/dia (à noite); IM em situações agudas",
+      "doseMaxima": "20mg/dia VO; 10mg IM agudo; 300mg/2s (decanoato)",
+      "doseMinima": "2,5–5mg/dia",
+      "classificacao": "Antipsicótico atípico (segunda geração)",
+      "apresentacao": "Comprimidos 5mg, 10mg, 15mg, 20mg; solução injetável 10mg/ml; decanoato LA 210–405mg",
+      "interacaoMedicamento": "CYP1A2 (cafeína ↑, tabagismo ↓), benzodiazepínicos (sedação), QT prolongadores, depressores do SNC",
+      "posologia": "Início: 5–10mg VO/dia; alvo: 10–20mg; IM: 5–10mg dose única",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "VO ou IM; reconstituição da forma LA com diluente específico",
+      "solucoesCompatíveis": "Diluente próprio da LA (para decanoato)",
+      "contraindicacoes": "Glaucoma de ângulo fechado, síndrome neuroléptica maligna prévia, QT prolongado não tratado",
+      "cuidadosMedicos": "Monitorar glicemia, lipídeos, PA, ECG, peso e sintomas extrapiramidais",
+      "cuidadosFarmaceuticos": "Educar sobre risco metabólico, interação com álcool/tabaco, adesão contínua",
+      "cuidadosEnfermagem": "Observar sedação, rigidez, PA postural, confusão, sintomas motores",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Olanzapine",
+      "suspension": "Hold 24h prior to general anesthesia or surgery with QT risk",
+      "risk": "Sedation, metabolic syndrome, weight gain, orthostatic hypotension, QT prolongation",
+      "reintroduction": "Restart 24–48h postop if stable and oral route is safe"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Olanzapine",
+      "nomeComercial": "Zyprexa",
+      "mecanismoAcao": "D2/5-HT2A antagonist with antihistaminic and antimuscarinic activity",
+      "farmacocinetica": "Oral/IM; T½ ~30h; CYP1A2 metabolism; renal/fecal excretion",
+      "farmacodinamica": "Antipsychotic with mood-stabilizing effects",
+      "indicacoes": "Schizophrenia, bipolar disorder, resistant depression (with fluoxetine), acute agitation",
+      "reacoesAdversas": "Somnolence, weight gain, dyslipidemia, hyperglycemia, QTc prolongation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not advised",
+      "administracao": "PO once daily; IM acute; IM depot biweekly/monthly",
+      "doseMaxima": "20mg/day PO; 10mg IM; 405mg depot Q4W",
+      "doseMinima": "2.5mg/day",
+      "classificacao": "Atypical antipsychotic",
+      "apresentacao": "5–20mg tablets; 10mg/ml injection; 210–405mg LA IM",
+      "interacaoMedicamento": "CYP1A2 inhibitors, CNS depressants, QTc drugs, smoking ↓ levels",
+      "posologia": "Start 5–10mg/day PO; 10mg IM; titrate to 10–20mg",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Oral, IM, or depot preparation with diluent",
+      "solucoesCompatíveis": "LA with manufacturer diluent only",
+      "contraindicacoes": "NMS, untreated QTc, glaucoma",
+      "cuidadosMedicos": "Monitor BMI, glucose, lipids, QT, EPS signs",
+      "cuidadosFarmaceuticos": "Caution with benzodiazepines, smoking education",
+      "cuidadosEnfermagem": "Assess sedation, weight, BP, EPS, mood",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, NCCN"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Olanzapina",
+      "suspension": "Suspender 24h antes de cirugía con anestesia general o riesgo QT",
+      "risk": "Síndrome metabólico, somnolencia, QT prolongado, hipotensión, aumento de peso",
+      "reintroduction": "Reanudar tras 24–48h si estable y con vía oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Olanzapina",
+      "nomeComercial": "Zyprexa",
+      "mecanismoAcao": "Antagonista D2/5HT2A + H1/M1/α1",
+      "farmacocinetica": "VO/IM; T½ ~30h; metabolismo hepático (CYP1A2)",
+      "farmacodinamica": "Antipsicótico atípico, estabilizador del humor",
+      "indicacoes": "Esquizofrenia, trastorno bipolar, agitación, depresión resistente",
+      "reacoesAdversas": "Sedación, hiperglucemia, ganancia de peso, QT largo, rigidez",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "1×/día VO; IM agudo; mensual IM LA",
+      "doseMaxima": "20mg/día; 405mg c/4 semanas",
+      "doseMinima": "2,5mg/día",
+      "classificacao": "Antipsicótico atípico",
+      "apresentacao": "Comprimidos 5–20mg; IM; LA 210–405mg",
+      "interacaoMedicamento": "CYP1A2 (tabaco), depresores SNC, QT",
+      "posologia": "Inicio: 5–10mg; ajuste a 10–20mg",
+      "armazenamento": "Seco, luz indirecta",
+      "preparo": "Oral, IM o LA con diluyente",
+      "solucoesCompatíveis": "Solo diluyente del fabricante (IM LA)",
+      "contraindicacoes": "QT largo no tratado, NMS, coma",
+      "cuidadosMedicos": "Peso, glucemia, lípidos, ECG",
+      "cuidadosFarmaceuticos": "Educar sobre efectos metabólicos, riesgo sedante",
+      "cuidadosEnfermagem": "Observar PA, somnolencia, rigidez, aumento de peso",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥氮平",
+      "suspension": "术前24小时停药，避免QT延长与镇静风险",
+      "risk": "体重增加、镇静、代谢综合征、QT延长、低血压",
+      "reintroduction": "术后24–48小时稳定后口服恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥氮平",
+      "nomeComercial": "Zyprexa",
+      "mecanismoAcao": "D2/5HT2A拮抗，辅以H1/M1/α1作用",
+      "farmacocinetica": "口服/肌注；T½约30小时；肝代谢（CYP1A2）",
+      "farmacodinamica": "抗精神病、情绪稳定、抗躁动",
+      "indicacoes": "精神分裂、躁郁症、抑郁加成、急性躁动",
+      "reacoesAdversas": "代谢紊乱、QT延长、镇静、锥体外反应、嗜睡",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "不推荐",
+      "administracao": "每日1次口服；急性IM；长效针每月1次",
+      "doseMaxima": "口服20mg/天；LA最高405mg/28天",
+      "doseMinima": "2.5mg/天",
+      "classificacao": "第二代抗精神病药",
+      "apresentacao": "片剂5–20mg；注射液；长效LA制剂",
+      "interacaoMedicamento": "吸烟（CYP1A2↑）、酒精、苯二氮卓类、QT药物",
+      "posologia": "起始5–10mg，目标10–20mg",
+      "armazenamento": "干燥避光储存",
+      "preparo": "片剂直接服用；LA需配稀释液",
+      "solucoesCompatíveis": "仅限厂家LA配液",
+      "contraindicacoes": "未控制QT延长、NMS史、昏迷",
+      "cuidadosMedicos": "体重、糖脂、QT、EPS",
+      "cuidadosFarmaceuticos": "教育患者风险、注意依从性",
+      "cuidadosEnfermagem": "监测低血压、镇静、糖脂变化、跌倒风险",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

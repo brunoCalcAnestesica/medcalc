@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Enoxaparina",
+      "suspension": "Manter até 12h antes da cirurgia; suspender 24h antes se dose terapêutica",
+      "risk": "Risco de sangramento perioperatório, especialmente em neurocirurgias ou procedimentos com alto risco hemorrágico",
+      "reintroduction": "Reintroduzir 12–24h após cirurgia, conforme hemostasia, começando com dose profilática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enoxaparina sódica",
+      "nomeComercial": "Clexane, Versa, Heptron",
+      "mecanismoAcao": "Inibe fator Xa e, em menor grau, fator IIa (trombina), via antitrombina",
+      "farmacocinetica": "Biodisponibilidade subcutânea ~90%, meia-vida 4,5h, eliminação renal",
+      "farmacodinamica": "Anticoagulante de baixo peso molecular, inibe trombose sem afetar significativamente o tempo de tromboplastina parcial",
+      "indicacoes": "Profilaxia e tratamento de trombose venosa profunda (TVP), embolia pulmonar (EP), síndrome coronariana aguda",
+      "reacoesAdversas": "Sangramentos, trombocitopenia, hematoma no local da aplicação",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Via subcutânea",
+      "doseMaxima": "1,5mg/kg/dose (ou 150mg/dia)",
+      "doseMinima": "20mg/dia (profilaxia)",
+      "classificacao": "Anticoagulante (heparina de baixo peso molecular)",
+      "apresentacao": "Soluções injetáveis de 20mg, 40mg, 60mg, 80mg, 100mg, 120mg, 150mg",
+      "interacaoMedicamento": "AINEs, antiplaquetários, outros anticoagulantes",
+      "posologia": "Profilaxia: 40mg/dia; Terapêutica: 1mg/kg 12/12h ou 1,5mg/kg/dia",
+      "armazenamento": "Temperatura ambiente, não congelar",
+      "preparo": "Pronta para uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Sangramento ativo, trombocitopenia induzida por heparina, cirurgia de SNC recente",
+      "cuidadosMedicos": "Monitorar sinais de sangramento e função renal",
+      "cuidadosFarmaceuticos": "Evitar uso concomitante com AINEs; armazenar corretamente",
+      "cuidadosEnfermagem": "Aplicar SC no abdome alternando lados; observar hematomas",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Enoxaparin",
+      "suspension": "Hold 12h before surgery (prophylactic); 24h if therapeutic dose",
+      "risk": "Risk of perioperative bleeding, especially in neuro/spinal surgeries or high-risk procedures",
+      "reintroduction": "Restart 12–24h post-op if hemostasis achieved, begin with prophylactic dose"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enoxaparin sodium",
+      "nomeComercial": "Lovenox",
+      "mecanismoAcao": "Inhibits factor Xa and IIa (thrombin) via antithrombin potentiation",
+      "farmacocinetica": "SC bioavailability ~90%, half-life ~4.5h, renal excretion",
+      "farmacodinamica": "Low molecular weight heparin, anticoagulant effect without marked increase in aPTT",
+      "indicacoes": "DVT/PE prophylaxis and treatment, ACS, STEMI, unstable angina",
+      "reacoesAdversas": "Bleeding, thrombocytopenia, injection site hematoma",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "Subcutaneous route",
+      "doseMaxima": "1.5mg/kg/dose (or 150mg/day)",
+      "doseMinima": "20mg/day (prophylaxis)",
+      "classificacao": "Anticoagulant (LMWH)",
+      "apresentacao": "Prefilled syringes: 20mg, 40mg, 60mg, 80mg, 100mg, 120mg, 150mg",
+      "interacaoMedicamento": "NSAIDs, antiplatelets, other anticoagulants",
+      "posologia": "Prophylaxis: 40mg/day; Treatment: 1mg/kg q12h or 1.5mg/kg q24h",
+      "armazenamento": "Store at room temperature, do not freeze",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active bleeding, HIT, recent CNS surgery",
+      "cuidadosMedicos": "Monitor for bleeding signs and renal function",
+      "cuidadosFarmaceuticos": "Avoid NSAIDs; ensure proper storage",
+      "cuidadosEnfermagem": "SC injection in abdomen; rotate sites, observe bruising",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, ACCP guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Enoxaparina",
+      "suspension": "Suspender 12h antes (profilaxis); 24h antes si dosis terapéutica",
+      "risk": "Riesgo de sangrado perioperatorio, especialmente en neurocirugías o procedimientos de alto riesgo",
+      "reintroduction": "Reintroducir 12–24h después si hay hemostasia, iniciar con dosis profiláctica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enoxaparina sódica",
+      "nomeComercial": "Clexane",
+      "mecanismoAcao": "Inhibe el factor Xa y en menor grado el IIa mediante antitrombina",
+      "farmacocinetica": "Biodisponibilidad SC ~90%, semivida ~4.5h, eliminación renal",
+      "farmacodinamica": "Heparina de bajo peso molecular, efecto anticoagulante sin alterar marcadamente el TTPa",
+      "indicacoes": "Profilaxis y tratamiento de TVP, TEP, SCA",
+      "reacoesAdversas": "Sangrado, trombocitopenia, hematomas en el sitio de inyección",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible con la lactancia",
+      "administracao": "Vía subcutánea",
+      "doseMaxima": "1,5mg/kg/dosis (o 150mg/día)",
+      "doseMinima": "20mg/día (profilaxis)",
+      "classificacao": "Anticoagulante (HBPM)",
+      "apresentacao": "Soluciones inyectables: 20mg, 40mg, 60mg, 80mg, 100mg, 120mg, 150mg",
+      "interacaoMedicamento": "AINEs, antiagregantes, otros anticoagulantes",
+      "posologia": "Profilaxis: 40mg/día; Tratamiento: 1mg/kg c/12h o 1,5mg/kg/día",
+      "armazenamento": "Temperatura ambiente, no congelar",
+      "preparo": "Lista para uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Sangrado activo, TIH, cirugía reciente de SNC",
+      "cuidadosMedicos": "Monitorear sangrado y función renal",
+      "cuidadosFarmaceuticos": "Evitar AINEs; conservar correctamente",
+      "cuidadosEnfermagem": "Aplicar SC en abdomen; alternar sitios, observar hematomas",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "依诺肝素",
+      "suspension": "术前12小时停用（预防性）；治疗剂量术前需提前24小时停用",
+      "risk": "术中出血风险，尤其是神经外科或高出血风险手术",
+      "reintroduction": "术后12–24小时，在止血稳定前提下重新给予，优先采用预防剂量"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依诺肝素钠",
+      "nomeComercial": "克赛（Clexane）",
+      "mecanismoAcao": "通过抗凝血酶抑制Xa因子和部分IIa因子",
+      "farmacocinetica": "皮下注射生物利用度约90%，半衰期约4.5小时，肾脏排泄",
+      "farmacodinamica": "低分子量肝素，不显著延长APTT",
+      "indicacoes": "预防和治疗深静脉血栓、肺栓塞、急性冠脉综合征",
+      "reacoesAdversas": "出血、血小板减少、注射部位血肿",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期可用",
+      "administracao": "皮下注射",
+      "doseMaxima": "1.5mg/kg/次 或每日150mg",
+      "doseMinima": "每日20mg（预防）",
+      "classificacao": "抗凝药（低分子量肝素）",
+      "apresentacao": "注射液：20mg、40mg、60mg、80mg、100mg、120mg、150mg",
+      "interacaoMedicamento": "NSAIDs、抗血小板药物、其他抗凝剂",
+      "posologia": "预防：每日40mg；治疗：1mg/kg 每12小时 或 1.5mg/kg 每日一次",
+      "armazenamento": "室温保存，勿冷冻",
+      "preparo": "即用型",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性出血、肝素诱导血小板减少、近期中枢神经系统手术",
+      "cuidadosMedicos": "监测出血征象及肾功能",
+      "cuidadosFarmaceuticos": "避免与NSAIDs合用，妥善储存",
+      "cuidadosEnfermagem": "注射于腹部皮下，交替部位，注意血肿",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

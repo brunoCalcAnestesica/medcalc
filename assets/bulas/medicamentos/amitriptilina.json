@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Amitriptilina",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de arritmias, hipotensão, prolongamento do QT, interação com anestésicos e depressores do SNC",
+      "reintroduction": "Reintroduzir após estabilidade hemodinâmica e avaliação cardíaca"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amitriptilina",
+      "nomeComercial": "Tryptanol, Elavil, Amytril",
+      "mecanismoAcao": "Inibe a recaptação de serotonina e noradrenalina; efeito anticolinérgico e anti-histamínico",
+      "farmacocinetica": "Alta biodisponibilidade oral, pico em 4–8h, metabolização hepática (CYP2D6), meia-vida ~20h",
+      "farmacodinamica": "Antidepressivo tricíclico com ação analgésica e ansiolítica; sedativo em baixas doses",
+      "indicacoes": "Depressão, dor neuropática, enurese noturna, fibromialgia, profilaxia de enxaqueca",
+      "reacoesAdversas": "Boca seca, sedação, constipação, ganho de peso, arritmias, retenção urinária, hipotensão",
+      "riscoGravidez": "Categoria C – usar apenas se benefício superar risco",
+      "riscoLactacao": "Excretado no leite; uso com cautela",
+      "administracao": "Via oral, geralmente à noite",
+      "doseMaxima": "300 mg/dia (em depressão grave)",
+      "doseMinima": "10–25 mg/dia (em dor crônica ou enxaqueca)",
+      "classificacao": "Antidepressivo tricíclico – TCA",
+      "apresentacao": "Comprimidos de 10 mg, 25 mg e 75 mg",
+      "interacaoMedicamento": "Interage com IMAOs, anestésicos, álcool, ISRS, antiarrítmicos, clonidina",
+      "posologia": "25–150 mg/dia divididos ou dose única à noite",
+      "armazenamento": "Temperatura ambiente, longe da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infarto recente, arritmias, glaucoma de ângulo fechado, retenção urinária",
+      "cuidadosMedicos": "Monitorar ECG, sinais de sedação e efeitos anticolinérgicos",
+      "cuidadosFarmaceuticos": "Orientar sobre início gradual e evitar interrupção abrupta",
+      "cuidadosEnfermagem": "Observar pressão arterial, ECG e sinais de toxicidade em idosos",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Amitriptyline",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of arrhythmias, hypotension, QT prolongation, CNS depression, interaction with anesthetics",
+      "reintroduction": "Restart after cardiovascular stabilization and ECG monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amitriptyline",
+      "nomeComercial": "Elavil, Endep, Tryptanol",
+      "mecanismoAcao": "Inhibits serotonin and norepinephrine reuptake; anticholinergic and antihistaminic effects",
+      "farmacocinetica": "High oral bioavailability, Tmax 4–8h, hepatic metabolism (CYP2D6), half-life ~20h",
+      "farmacodinamica": "TCA with antidepressant, analgesic and sedative effects",
+      "indicacoes": "Depression, neuropathic pain, enuresis, fibromyalgia, migraine prophylaxis",
+      "reacoesAdversas": "Dry mouth, drowsiness, constipation, weight gain, urinary retention, arrhythmias",
+      "riscoGravidez": "Category C – use only if benefits outweigh risks",
+      "riscoLactacao": "Excreted in milk; use with caution",
+      "administracao": "Oral, usually at bedtime",
+      "doseMaxima": "300 mg/day",
+      "doseMinima": "10–25 mg/day",
+      "classificacao": "Tricyclic antidepressant – TCA",
+      "apresentacao": "Tablets 10 mg, 25 mg, 75 mg",
+      "interacaoMedicamento": "Interacts with MAOIs, anesthetics, alcohol, SSRIs, antiarrhythmics, clonidine",
+      "posologia": "25–150 mg/day divided or once daily",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "No special preparation",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Recent MI, arrhythmias, closed-angle glaucoma, urinary retention",
+      "cuidadosMedicos": "Monitor ECG, anticholinergic effects, sedation",
+      "cuidadosFarmaceuticos": "Counsel on gradual titration and avoid abrupt withdrawal",
+      "cuidadosEnfermagem": "Monitor BP, ECG, and sedation especially in elderly",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, APA Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Amitriptilina",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de arritmias, hipotensión, prolongación QT, interacción con anestésicos y depresión del SNC",
+      "reintroduction": "Reintroducir tras estabilización cardiovascular y ECG de control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amitriptilina",
+      "nomeComercial": "Tryptizol, Elavil, Triptizol",
+      "mecanismoAcao": "Inhibe recaptación de serotonina y noradrenalina; efectos anticolinérgicos y antihistamínicos",
+      "farmacocinetica": "Buena biodisponibilidad oral, Tmax 4–8h, metabolismo hepático (CYP2D6), t½ ~20h",
+      "farmacodinamica": "Antidepresivo tricíclico con acción ansiolítica, sedante y analgésica",
+      "indicacoes": "Depresión, dolor neuropático, enuresis, fibromialgia, profilaxis de migraña",
+      "reacoesAdversas": "Boca seca, somnolencia, estreñimiento, aumento de peso, retención urinaria, arritmias",
+      "riscoGravidez": "Categoría C – usar solo si beneficio > riesgo",
+      "riscoLactacao": "Se excreta en leche; usar con precaución",
+      "administracao": "Vía oral, preferentemente nocturna",
+      "doseMaxima": "300 mg/día",
+      "doseMinima": "10–25 mg/día",
+      "classificacao": "Antidepresivo tricíclico (ATC)",
+      "apresentacao": "Comprimidos de 10, 25, 75 mg",
+      "interacaoMedicamento": "Interacción con IMAO, ISRS, anestésicos, alcohol, antiarrítmicos",
+      "posologia": "25–150 mg/día; ajustar individualmente",
+      "armazenamento": "Lugar seco, lejos de la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "IAM reciente, arritmias, glaucoma de ángulo cerrado, retención urinaria",
+      "cuidadosMedicos": "Monitorear ECG, sedación, efectos anticolinérgicos",
+      "cuidadosFarmaceuticos": "Inicio gradual, evitar suspensión brusca",
+      "cuidadosEnfermagem": "Controlar PA, ECG, efectos adversos en mayores",
+      "fontesBibliograficas": "AEMPS, EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿米替林",
+      "suspension": "择期手术前5天停药",
+      "risk": "QT延长、心律失常、低血压、镇静、麻醉药物相互作用风险",
+      "reintroduction": "术后心电图与血流动力学稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿米替林",
+      "nomeComercial": "Elavil、Tryptanol",
+      "mecanismoAcao": "抑制5-羟色胺和去甲肾上腺素再摄取，具抗胆碱和抗组胺作用",
+      "farmacocinetica": "口服吸收良好，达峰4–8小时，肝代谢（CYP2D6），半衰期约20小时",
+      "farmacodinamica": "三环类抗抑郁药，具镇静、镇痛、抗焦虑作用",
+      "indicacoes": "抑郁症、神经性疼痛、夜尿症、偏头痛预防、纤维肌痛",
+      "reacoesAdversas": "口干、嗜睡、便秘、体重增加、尿潴留、心律失常",
+      "riscoGravidez": "C类 – 如有必要可使用",
+      "riscoLactacao": "排入乳汁，慎用",
+      "administracao": "口服，通常睡前服用",
+      "doseMaxima": "每日300毫克",
+      "doseMinima": "每日10–25毫克",
+      "classificacao": "三环类抗抑郁药（TCA）",
+      "apresentacao": "10 mg、25 mg、75 mg片剂",
+      "interacaoMedicamento": "与MAOI、SSRI、麻醉药、抗心律失常药等有交互作用",
+      "posologia": "25–150 mg/日，个体化调整",
+      "armazenamento": "避光干燥保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "近期心肌梗死、心律失常、闭角型青光眼、尿潴留",
+      "cuidadosMedicos": "监测心电图、抗胆碱反应、镇静状态",
+      "cuidadosFarmaceuticos": "逐步起始剂量，避免骤停",
+      "cuidadosEnfermagem": "观察血压、心电图、老年人反应",
+      "fontesBibliograficas": "FDA、EMA、Micromedex、UpToDate、中国药典"
+    }
+  }
+}

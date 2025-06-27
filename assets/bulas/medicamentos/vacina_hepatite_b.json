@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina Hepatite B",
+      "suspension": "Não suspender; essencial em pré-operatório de pacientes não imunizados ou imunocomprometidos",
+      "risk": "Risco muito baixo; evento adverso mais comum é dor local. Pode ser usada com segurança no perioperatório.",
+      "reintroduction": "Pode ser mantida ou reiniciada imediatamente após cirurgia, preferencialmente em unidades de cuidados ou vacinação institucionalizada."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antígeno de superfície do vírus da hepatite B (HBsAg)",
+      "nomeComercial": "Engerix-B, Recombivax HB, Sci-B-Vac",
+      "mecanismoAcao": "Estimula resposta imunológica ativa, induzindo produção de anticorpos anti-HBs contra o vírus da hepatite B",
+      "farmacocinetica": "Imunogenicidade detectável em 1–2 semanas; pico em 1–2 meses",
+      "farmacodinamica": "Gera imunidade protetora humoral sustentada por 5–30 anos, conforme resposta individual",
+      "indicacoes": "Imunização ativa contra hepatite B em todas as faixas etárias; recomendada no calendário vacinal e para profissionais de saúde",
+      "reacoesAdversas": "Dor, eritema ou inchaço no local da aplicação, febre baixa, fadiga, cefaleia",
+      "riscoGravidez": "Categoria C (segura e recomendada durante a gestação)",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Intramuscular, preferencialmente na face ântero-lateral da coxa (lactentes) ou deltoide (adultos)",
+      "doseMaxima": "20 mcg por dose (adultos); 10 mcg (crianças)",
+      "doseMinima": "0,5 mL por dose",
+      "classificacao": "Vacina inativada – recombinante (subunidade)",
+      "apresentacao": "Ampolas ou seringas preenchedas de 0,5 mL (10 mcg) ou 1 mL (20 mcg)",
+      "interacaoMedicamento": "Pode ser administrada com outras vacinas inativadas em locais distintos",
+      "posologia": "3 doses IM (0, 1 e 6 meses); esquema acelerado em situações especiais (0, 7, 21 dias + reforço)",
+      "armazenamento": "2–8 °C; não congelar; proteger da luz",
+      "preparo": "Agitar suavemente antes do uso; não usar se turva ou com partículas",
+      "solucoesCompatíveis": "Não aplicável (monodose)",
+      "contraindicacoes": "Reação alérgica prévia grave à vacina ou seus componentes (ex: leveduras)",
+      "cuidadosMedicos": "Avaliar soroconversão em imunodeprimidos e profissionais expostos",
+      "cuidadosFarmaceuticos": "Manter cadeia do frio; agitar antes de administrar",
+      "cuidadosEnfermagem": "Aplicar em ângulo de 90° IM; observar 15 min após aplicação",
+      "fontesBibliograficas": "PNI/MS, SBIm, CDC, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hepatitis B Vaccine",
+      "suspension": "Not suspended; indicated in perioperative period if unvaccinated",
+      "risk": "Very low risk; common reaction is injection site soreness. Safe perioperatively.",
+      "reintroduction": "Can be resumed immediately after surgery if interrupted."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hepatitis B surface antigen (HBsAg)",
+      "nomeComercial": "Engerix-B, Recombivax HB, Heplisav-B",
+      "mecanismoAcao": "Stimulates active immune response producing anti-HBs antibodies",
+      "farmacocinetica": "Detectable antibodies in 2–4 weeks; peak at 1–2 months",
+      "farmacodinamica": "Provides long-term protection against HBV infection",
+      "indicacoes": "Universal immunization; especially for infants, healthcare workers, high-risk adults",
+      "reacoesAdversas": "Local pain, redness, low fever, fatigue, headache",
+      "riscoGravidez": "Category C (safe and recommended)",
+      "riscoLactacao": "Safe during breastfeeding",
+      "administracao": "Intramuscular, deltoid (adults) or anterolateral thigh (infants)",
+      "doseMaxima": "20 mcg (adults); 10 mcg (pediatrics)",
+      "doseMinima": "0.5 mL",
+      "classificacao": "Recombinant protein subunit vaccine",
+      "apresentacao": "Single-dose vials/syringes: 0.5 mL or 1 mL",
+      "interacaoMedicamento": "Can be co-administered with inactivated vaccines",
+      "posologia": "3 doses (0, 1, 6 months); 2-dose schedule (Heplisav-B)",
+      "armazenamento": "2–8 °C; do not freeze; protect from light",
+      "preparo": "Gently shake; inspect before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Anaphylaxis to yeast or prior dose",
+      "cuidadosMedicos": "Check post-vaccination titers in high-risk populations",
+      "cuidadosFarmaceuticos": "Maintain cold chain; check label and expiry",
+      "cuidadosEnfermagem": "Administer IM; observe patient for 15 minutes",
+      "fontesBibliograficas": "CDC, ACIP, FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna Hepatitis B",
+      "suspension": "No se suspende; puede aplicarse en el perioperatorio si no está inmunizado",
+      "risk": "Reacciones locales leves; segura durante cirugía",
+      "reintroduction": "Reanudar en cuanto sea posible tras cirugía"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antígeno de superficie del virus de la hepatitis B (HBsAg)",
+      "nomeComercial": "Engerix-B, Recombivax HB",
+      "mecanismoAcao": "Estimula anticuerpos anti-HBs; inmunidad activa",
+      "farmacocinetica": "Inicio inmunidad 2–4 semanas; pico 1–2 meses",
+      "farmacodinamica": "Protección prolongada contra VHB",
+      "indicacoes": "Esquema universal, alto riesgo, sanitarios",
+      "reacoesAdversas": "Dolor local, fiebre, fatiga, cefalea",
+      "riscoGravidez": "Categoría C; recomendada",
+      "riscoLactacao": "Compatible",
+      "administracao": "IM en deltoides o muslo",
+      "doseMaxima": "20 mcg adultos; 10 mcg niños",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacuna recombinante inactivada",
+      "apresentacao": "Jeringa o vial monodosis 0,5–1 mL",
+      "interacaoMedicamento": "Co-administrable con otras vacunas inactivadas",
+      "posologia": "0, 1, 6 meses; 0, 7, 21 días + refuerzo",
+      "armazenamento": "2–8 °C; no congelar",
+      "preparo": "Agitar y revisar antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Anafilaxia previa, alergia a levaduras",
+      "cuidadosMedicos": "Control en inmunodeprimidos",
+      "cuidadosFarmaceuticos": "Cadena frío y agitación suave",
+      "cuidadosEnfermagem": "IM profunda, vigilar 15 min",
+      "fontesBibliograficas": "MS España, EMA, CDC, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乙型肝炎疫苗",
+      "suspension": "术前无需停用；可用于未接种患者围手术期免疫",
+      "risk": "最常见为注射部位疼痛，安全性高",
+      "reintroduction": "术后可立即恢复接种计划"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乙肝表面抗原（HBsAg）",
+      "nomeComercial": "Engerix-B、Recombivax HB、Sci-B-Vac",
+      "mecanismoAcao": "诱导抗-HBs抗体产生，提供主动免疫",
+      "farmacocinetica": "2–4周产生抗体，1–2月达峰",
+      "farmacodinamica": "提供长期保护（5–30年）",
+      "indicacoes": "所有人群基础免疫，尤其高危职业和婴幼儿",
+      "reacoesAdversas": "接种部位疼痛、低热、乏力、头痛",
+      "riscoGravidez": "C类（推荐接种）",
+      "riscoLactacao": "哺乳期可接种",
+      "administracao": "肌注（三角肌/大腿前外侧）",
+      "doseMaxima": "成人20 mcg，儿童10 mcg",
+      "doseMinima": "0.5 mL",
+      "classificacao": "重组蛋白亚单位疫苗",
+      "apresentacao": "0.5–1 mL预充注射器/安瓿",
+      "interacaoMedicamento": "可与灭活疫苗同时接种",
+      "posologia": "0,1,6月；特殊人群0,7,21天+加强",
+      "armazenamento": "2–8°C冷藏，避免冷冻",
+      "preparo": "使用前轻摇，避免颗粒",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对酵母或疫苗成分过敏者",
+      "cuidadosMedicos": "免疫缺陷者建议术后查抗体效价",
+      "cuidadosFarmaceuticos": "冷链存储，按批号查验",
+      "cuidadosEnfermagem": "肌注后留观15分钟",
+      "fontesBibliograficas": "中国免疫规划指南、WHO、UpToDate"
+    }
+  }
+}

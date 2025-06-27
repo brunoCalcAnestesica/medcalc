@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Hidrocortisona",
+      "suspension": "Manter até o dia da cirurgia; administrar dose de estresse em pacientes com insuficiência adrenal",
+      "risk": "Risco de crise adrenal aguda se suspenso abruptamente; possível hiperglicemia, hipertensão e imunossupressão",
+      "reintroduction": "Reintroduzir imediatamente no pós-operatório com dose de manutenção ou estresse conforme necessidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidrocortisona",
+      "nomeComercial": "Solu-Cortef, Hidrocortison, Cortidex",
+      "mecanismoAcao": "Glicocorticoide que regula metabolismo de carboidratos, proteínas e lipídios e suprime inflamação e resposta imune",
+      "farmacocinetica": "Biodisponibilidade oral boa, início rápido IV; meia-vida plasmática ~1,5h; ação prolongada por meia-vida biológica",
+      "farmacodinamica": "Ação anti-inflamatória, imunossupressora e efeito mineralocorticoide leve",
+      "indicacoes": "Insuficiência adrenal, choque séptico, reações alérgicas graves, exacerbações de doenças inflamatórias",
+      "reacoesAdversas": "Hiperglicemia, retenção de sódio, edema, hipertensão, supressão adrenal, infecções oportunistas",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite, uso com cautela",
+      "administracao": "Oral, intravenosa ou intramuscular",
+      "doseMaxima": "500mg/dose (IV agudo)",
+      "doseMinima": "15–20mg/dia (VO, manutenção)",
+      "classificacao": "Glicocorticoide de curta duração",
+      "apresentacao": "Comprimidos de 10mg, 20mg; pó liofilizado para injeção 100mg, 500mg",
+      "interacaoMedicamento": "Reduz efeito de antidiabéticos; aumenta risco com AINEs e anticoagulantes; interage com vacinas",
+      "posologia": "Dose de estresse: 100–200mg IV; manutenção: 15–30mg/dia VO dividido",
+      "armazenamento": "Frascos: 15–30°C; reconstituído: refrigerar e usar em 24h",
+      "preparo": "Reconstituir pó com diluente apropriado (normalmente SF 0,9%)",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Infecção sistêmica não controlada, hipersensibilidade ao fármaco",
+      "cuidadosMedicos": "Monitorar eletrólitos, glicemia, sinais de infecção e função adrenal",
+      "cuidadosFarmaceuticos": "Orientar sobre retirada gradual se uso prolongado",
+      "cuidadosEnfermagem": "Avaliar sinais de infecção, PA, glicemia e balanço hídrico",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hydrocortisone",
+      "suspension": "Continue until the day of surgery; give stress dose if adrenal insufficiency",
+      "risk": "Risk of adrenal crisis if stopped; potential hyperglycemia, hypertension, immunosuppression",
+      "reintroduction": "Restart immediately post-op with maintenance or stress dosing depending on clinical needs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hydrocortisone",
+      "nomeComercial": "Solu-Cortef, Cortef",
+      "mecanismoAcao": "Glucocorticoid regulating carbohydrate, protein, and fat metabolism; suppresses inflammation and immune response",
+      "farmacocinetica": "Good oral bioavailability; IV onset rapid; plasma half-life ~1.5h; biologic effects last longer",
+      "farmacodinamica": "Anti-inflammatory, immunosuppressive, mild mineralocorticoid effects",
+      "indicacoes": "Adrenal insufficiency, septic shock, severe allergic reactions, inflammatory disease flares",
+      "reacoesAdversas": "Hyperglycemia, sodium retention, edema, hypertension, adrenal suppression, infection",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; use cautiously",
+      "administracao": "Oral, intravenous, intramuscular",
+      "doseMaxima": "500mg/dose (acute IV)",
+      "doseMinima": "15–20mg/day (oral maintenance)",
+      "classificacao": "Short-acting glucocorticoid",
+      "apresentacao": "Tablets 10mg, 20mg; lyophilized powder for injection 100mg, 500mg",
+      "interacaoMedicamento": "May antagonize antidiabetics; potentiates NSAIDs and anticoagulants; interacts with vaccines",
+      "posologia": "Stress dose: 100–200mg IV; maintenance: 15–30mg/day orally divided",
+      "armazenamento": "Vials: 15–30°C; after reconstitution: refrigerate, use in 24h",
+      "preparo": "Reconstitute with appropriate diluent (e.g., 0.9% NaCl)",
+      "solucoesCompatíveis": "Normal saline, D5W",
+      "contraindicacoes": "Uncontrolled systemic infection, known hypersensitivity",
+      "cuidadosMedicos": "Monitor electrolytes, blood sugar, infection, adrenal function",
+      "cuidadosFarmaceuticos": "Taper gradually if long-term use",
+      "cuidadosEnfermagem": "Monitor BP, glucose, fluid balance, signs of infection",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hidrocortisona",
+      "suspension": "Mantener hasta el día de la cirugía; administrar dosis de estrés si insuficiencia suprarrenal",
+      "risk": "Riesgo de crisis suprarrenal; posible hiperglucemia, hipertensión e inmunosupresión",
+      "reintroduction": "Reintroducir inmediatamente tras la cirugía según necesidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidrocortisona",
+      "nomeComercial": "Solu-Cortef, Cortef",
+      "mecanismoAcao": "Glucocorticoide que regula metabolismo y suprime inflamación y respuesta inmune",
+      "farmacocinetica": "Buena biodisponibilidad oral; efecto IV rápido; vida media 1,5h; efectos prolongados biológicamente",
+      "farmacodinamica": "Acción antiinflamatoria, inmunosupresora y mineralocorticoide leve",
+      "indicacoes": "Insuficiencia suprarrenal, shock séptico, reacciones alérgicas severas, brotes inflamatorios",
+      "reacoesAdversas": "Hiperglucemia, retención de sodio, edema, hipertensión, supresión suprarrenal, infecciones",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche; usar con precaución",
+      "administracao": "Oral, IV o IM",
+      "doseMaxima": "500mg/dosis (IV agudo)",
+      "doseMinima": "15–20mg/día (VO, mantenimiento)",
+      "classificacao": "Glucocorticoide de acción corta",
+      "apresentacao": "Comprimidos 10mg, 20mg; polvo para inyección 100mg, 500mg",
+      "interacaoMedicamento": "Reduce efecto de antidiabéticos; aumenta con AINEs y anticoagulantes; interacción con vacunas",
+      "posologia": "Dosis de estrés: 100–200mg IV; mantenimiento: 15–30mg/día VO",
+      "armazenamento": "Viales: 15–30°C; reconstituido: refrigerar y usar en 24h",
+      "preparo": "Reconstituir con diluyente adecuado (SSF 0,9%)",
+      "solucoesCompatíveis": "SSF 0,9%, SG 5%",
+      "contraindicacoes": "Infección sistémica no controlada, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear electrolitos, glucosa, infección y función adrenal",
+      "cuidadosFarmaceuticos": "Indicar suspensión gradual si uso prolongado",
+      "cuidadosEnfermagem": "Observar PA, glucosa, balance hídrico e infecciones",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氢化可的松",
+      "suspension": "术日继续使用，肾上腺功能不全患者给予应激剂量",
+      "risk": "突然停药可引发肾上腺危象；可能导致高血糖、高血压和免疫抑制",
+      "reintroduction": "术后立即给予维持或应激情况下剂量"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氢化可的松",
+      "nomeComercial": "Solu-Cortef",
+      "mecanismoAcao": "调节代谢和免疫反应的糖皮质激素，具有抗炎作用",
+      "farmacocinetica": "口服吸收好，静注起效快；半衰期1.5小时，生物学作用持续更久",
+      "farmacodinamica": "抗炎、免疫抑制、轻度盐皮质激素效应",
+      "indicacoes": "肾上腺功能减退、脓毒性休克、重度过敏反应、炎症加重",
+      "reacoesAdversas": "高血糖、钠潴留、水肿、高血压、肾上腺抑制、感染",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌至乳汁，慎用",
+      "administracao": "口服、静脉或肌注",
+      "doseMaxima": "500毫克/次（急救）",
+      "doseMinima": "15–20毫克/日（维持）",
+      "classificacao": "短效糖皮质激素",
+      "apresentacao": "片剂10mg, 20mg；注射粉针100mg, 500mg",
+      "interacaoMedicamento": "与降糖药拮抗；与NSAIDs、抗凝药联用增加风险；影响疫苗效力",
+      "posologia": "应激剂量：100–200mg IV；维持剂量：每日15–30mg口服",
+      "armazenamento": "原液15–30°C；重构液冷藏24小时内使用",
+      "preparo": "用0.9%氯化钠重构",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "控制不良的全身感染，对药物过敏",
+      "cuidadosMedicos": "监测电解质、血糖、感染征象、肾上腺功能",
+      "cuidadosFarmaceuticos": "长期使用需逐步停药，储存条件严格",
+      "cuidadosEnfermagem": "观察血压、血糖、体液平衡和感染征象",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

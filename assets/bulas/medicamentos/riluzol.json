@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Riluzol",
+      "suspension": "Não suspender abruptamente – indicado em doenças neurodegenerativas; interrupção pode acelerar progressão",
+      "risk": "Elevação de transaminases, náuseas, tontura, neutropenia, toxicidade hepática",
+      "reintroduction": "Reintroduzir com monitoramento hepático e hematológico regular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Riluzol",
+      "nomeComercial": "Rilutek, Teglutik",
+      "mecanismoAcao": "Inibe liberação presináptica de glutamato; modula canais de sódio e cálcio, reduzindo excitação neuronal",
+      "farmacocinetica": "Biodisponibilidade 60%, pico 1–1,5h, meia-vida 12h, metabolização hepática (CYP1A2), excreção urinária",
+      "farmacodinamica": "Prolonga sobrevida e tempo até ventilação em pacientes com ELA; modula neuroexcitabilidade",
+      "indicacoes": "Esclerose lateral amiotrófica (ELA), off-label para esclerose múltipla progressiva e outras doenças neurodegenerativas",
+      "reacoesAdversas": "Astenia, tontura, náusea, hepatotoxicidade, dor abdominal, leucopenia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite materno; contraindicado",
+      "administracao": "Via oral",
+      "doseMaxima": "100 mg/dia (50 mg 2x/dia)",
+      "doseMinima": "50 mg/dia",
+      "classificacao": "Neuroprotetor glutamatérgico",
+      "apresentacao": "Comprimidos 50mg; suspensão oral 5mg/mL",
+      "interacaoMedicamento": "Aumenta risco hepático com paracetamol; metabolizado por CYP1A2 (atenção com tabagismo, cafeína, ciprofloxacino)",
+      "posologia": "50 mg VO a cada 12h; ajustar em insuficiência hepática",
+      "armazenamento": "Temperatura ambiente (15–30°C), proteger da umidade",
+      "preparo": "Uso direto oral, jejum recomendado",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença hepática ativa, transaminases >3x LSN, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar ALT/AST, função respiratória e hemograma regularmente",
+      "cuidadosFarmaceuticos": "Orientar jejum; não administrar com alimentos ricos em gordura",
+      "cuidadosEnfermagem": "Observar icterícia, fadiga, dor epigástrica; reforçar adesão",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Riluzole",
+      "suspension": "Do not stop abruptly – discontinuation may accelerate ALS progression",
+      "risk": "Elevated liver enzymes, nausea, dizziness, fatigue, neutropenia",
+      "reintroduction": "Restart with regular monitoring of liver enzymes and blood counts"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Riluzole",
+      "nomeComercial": "Rilutek, Tiglutik, Exservan",
+      "mecanismoAcao": "Inhibits glutamate release; modulates sodium and calcium channels reducing excitotoxicity",
+      "farmacocinetica": "Bioavailability 60%, peak 1–1.5h, half-life 12h, hepatic metabolism (CYP1A2), renal excretion",
+      "farmacodinamica": "Prolongs survival and delays mechanical ventilation in ALS; glutamatergic neuroprotection",
+      "indicacoes": "Amyotrophic lateral sclerosis (ALS); off-label for progressive MS and other neurodegenerative diseases",
+      "reacoesAdversas": "Nausea, dizziness, fatigue, liver enzyme elevation, leukopenia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; avoid use",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/day (50 mg BID)",
+      "doseMinima": "50 mg/day",
+      "classificacao": "Glutamate modulator / neuroprotective",
+      "apresentacao": "Tablets 50mg; oral suspension 5mg/mL",
+      "interacaoMedicamento": "Increased liver risk with acetaminophen; CYP1A2 substrates (smoking, caffeine, ciprofloxacin)",
+      "posologia": "50 mg orally every 12h; adjust for hepatic impairment",
+      "armazenamento": "Room temp (15–30°C), keep dry",
+      "preparo": "Oral use on empty stomach",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active liver disease, ALT/AST >3x ULN, hypersensitivity",
+      "cuidadosMedicos": "Monitor LFTs, respiratory function, CBC",
+      "cuidadosFarmaceuticos": "Administer on empty stomach; avoid high-fat meals",
+      "cuidadosEnfermagem": "Watch for jaundice, fatigue, nausea; encourage adherence",
+      "fontesBibliograficas": "FDA, UpToDate, Lexicomp, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Riluzol",
+      "suspension": "No suspender abruptamente – puede acelerar la progresión de la ELA",
+      "risk": "Hepatotoxicidad, náuseas, mareos, astenia, leucopenia",
+      "reintroduction": "Reintroducir con monitoreo hepático y hematológico regular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Riluzol",
+      "nomeComercial": "Rilutek, Tiglutik",
+      "mecanismoAcao": "Inhibe liberación de glutamato; modula canales de sodio y calcio",
+      "farmacocinetica": "Biodisponibilidad 60%, pico 1–1,5h, vida media 12h, metabolismo hepático (CYP1A2), excreción renal",
+      "farmacodinamica": "Retrasa la ventilación y prolonga supervivencia en ELA; acción neuroprotectora",
+      "indicacoes": "Esclerosis lateral amiotrófica (ELA), uso off-label en EM progresiva",
+      "reacoesAdversas": "Fatiga, náuseas, hepatotoxicidad, mareos, leucopenia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche materna; evitar",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/día (50 mg cada 12h)",
+      "doseMinima": "50 mg/día",
+      "classificacao": "Modulador glutamatérgico / neuroprotector",
+      "apresentacao": "Comprimidos 50mg; suspensión oral 5mg/mL",
+      "interacaoMedicamento": "Mayor riesgo hepático con paracetamol; interactúa con sustratos CYP1A2",
+      "posologia": "50 mg VO cada 12h; ajustar si disfunción hepática",
+      "armazenamento": "15–30°C, protegido de humedad",
+      "preparo": "Uso oral, preferentemente en ayunas",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Enfermedad hepática activa, transaminasas >3x LSN",
+      "cuidadosMedicos": "Monitorear función hepática, respiratoria y hemograma",
+      "cuidadosFarmaceuticos": "Evitar comidas grasas al tomarlo",
+      "cuidadosEnfermagem": "Observar ictericia, fatiga y tolerancia digestiva",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利鲁唑",
+      "suspension": "不可突然停药——可能加速肌萎缩侧索硬化症进展",
+      "risk": "转氨酶升高、头晕、乏力、肝毒性、白细胞减少",
+      "reintroduction": "重新使用需定期监测肝功能与血常规"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "利鲁唑",
+      "nomeComercial": "Rilutek, Tiglutik",
+      "mecanismoAcao": "抑制谷氨酸释放，调节钠钙通道，减少神经兴奋毒性",
+      "farmacocinetica": "口服生物利用度约60%，达峰1–1.5小时，半衰期12小时，经肝CYP1A2代谢，肾排泄",
+      "farmacodinamica": "用于ALS患者延缓进展和延长无气管插管生存期",
+      "indicacoes": "肌萎缩侧索硬化症（ALS），也用于其他神经退行性疾病的试验性治疗",
+      "reacoesAdversas": "恶心、乏力、肝酶升高、白细胞减少、头晕",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可排泄入乳汁，哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日100毫克（每12小时50毫克）",
+      "doseMinima": "每日50毫克",
+      "classificacao": "谷氨酸调节剂 / 神经保护剂",
+      "apresentacao": "片剂50mg；口服混悬液5mg/mL",
+      "interacaoMedicamento": "与对乙酰氨基酚合用增加肝毒性；受CYP1A2代谢影响（吸烟、咖啡因、环丙沙星）",
+      "posologia": "50mg，每12小时1次；肝功能异常者需减量",
+      "armazenamento": "15–30°C干燥避光保存",
+      "preparo": "口服给药，空腹服用效果更佳",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "肝病活动期、ALT/AST>正常上限3倍、对药物过敏",
+      "cuidadosMedicos": "定期监测肝酶、呼吸功能与血象",
+      "cuidadosFarmaceuticos": "避免高脂饮食干扰吸收",
+      "cuidadosEnfermagem": "观察黄疸、乏力、转氨酶升高、依从性",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

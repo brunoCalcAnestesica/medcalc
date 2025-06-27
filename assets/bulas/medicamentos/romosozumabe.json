@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Romosozumabe",
+      "suspension": "Não suspender rotineiramente; em caso de cirurgia odontológica invasiva, preferir agendamento no final do ciclo mensal (dias 25 a 30 após a última dose)",
+      "risk": "Risco de eventos cardiovasculares maiores (AVC, IAM), hipocalcemia e possível risco de osteonecrose de mandíbula (MRONJ) em procedimentos odontológicos invasivos; monitorar pacientes com histórico cardiovascular e avaliar saúde bucal previamente",
+      "reintroduction": "Reintroduzir após avaliação cardiovascular completa e estabilidade clínica; corrigir níveis de cálcio e vitamina D antes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Romosozumabe",
+      "nomeComercial": "Evenity",
+      "mecanismoAcao": "Anticorpo monoclonal que inibe a esclerostina, aumentando a formação óssea e diminuindo a reabsorção óssea",
+      "farmacocinetica": "Administração subcutânea, biodisponibilidade ~81%, meia-vida de ~12 dias, metabolismo via catabolismo proteico",
+      "farmacodinamica": "Estímulo direto à osteogênese e inibição da reabsorção óssea; efeito duplo no metabolismo ósseo",
+      "indicacoes": "Tratamento da osteoporose grave em mulheres pós-menopausa com alto risco de fratura",
+      "reacoesAdversas": "Hipocalcemia, reações no local da injeção, artralgia, eventos cardiovasculares maiores (IAM, AVC), osteonecrose de mandíbula (MRONJ) rara em casos odontológicos invasivos",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Desconhecido se excretado no leite; evitar uso",
+      "administracao": "Subcutânea, duas injeções de 105mg (total de 210mg) uma vez por mês",
+      "doseMaxima": "210mg/mês",
+      "doseMinima": "210mg/mês",
+      "classificacao": "Anticorpo monoclonal anti-esclerostina",
+      "apresentacao": "Seringas preenchidas de 105mg/1,17mL (uso combinado de 2 seringas)",
+      "interacaoMedicamento": "Não são conhecidas interações medicamentosas relevantes",
+      "posologia": "210mg SC mensalmente, por 12 meses consecutivos",
+      "armazenamento": "Refrigerado (2–8°C), não congelar, proteger da luz",
+      "preparo": "Trazer à temperatura ambiente por pelo menos 30 minutos antes da administração; não agitar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipocalcemia não corrigida, infarto do miocárdio ou AVC nos últimos 12 meses",
+      "cuidadosMedicos": "Avaliar risco cardiovascular e corrigir hipocalcemia antes de iniciar; considerar avaliação odontológica se houver necessidade de procedimentos invasivos; preferir realização entre os dias 25 e 30 do ciclo mensal",
+      "cuidadosFarmaceuticos": "Verificar integridade das seringas, orientar técnica de aplicação Orientar paciente quanto à janela ideal para procedimentos odontológicos (final do ciclo mensal) e risco de MRONJ em contextos específicos",
+      "cuidadosEnfermagem": "Observar reações locais, sintomas neuromusculares de hipocalcemia e dor torácica",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, Medscape"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Romosozumab",
+      "suspension": "Suspend 30 days before major surgery or if high cardiovascular risk is present",
+      "risk": "Risk of serious cardiovascular events (MI, stroke), hypocalcemia, and skeletal effects; monitor in patients with CV history",
+      "reintroduction": "Restart after full cardiovascular assessment and stable calcium/vitamin D levels"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Romosozumab-aqqg",
+      "nomeComercial": "Evenity",
+      "mecanismoAcao": "Monoclonal antibody against sclerostin; increases bone formation and decreases resorption",
+      "farmacocinetica": "SC administration, ~81% bioavailability, half-life ~12 days, degraded via protein catabolism",
+      "farmacodinamica": "Dual effect: promotes osteoblast activity and suppresses osteoclasts",
+      "indicacoes": "Treatment of severe postmenopausal osteoporosis in women at high fracture risk",
+      "reacoesAdversas": "Hypocalcemia, injection site reactions, arthralgia, major CV events (MI, stroke)",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Unknown if excreted in breast milk; avoid use",
+      "administracao": "Subcutaneous, two 105mg injections (total 210mg) once monthly",
+      "doseMaxima": "210mg/month",
+      "doseMinima": "210mg/month",
+      "classificacao": "Anti-sclerostin monoclonal antibody",
+      "apresentacao": "Prefilled syringes of 105mg/1.17mL (used in pairs)",
+      "interacaoMedicamento": "No known significant drug interactions",
+      "posologia": "210mg SC monthly for 12 months",
+      "armazenamento": "Refrigerate (2–8°C), do not freeze, protect from light",
+      "preparo": "Let reach room temperature for 30 minutes before injecting; do not shake",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Uncorrected hypocalcemia, recent MI or stroke (within 12 months)",
+      "cuidadosMedicos": "Assess CV risk and correct calcium levels before starting",
+      "cuidadosFarmaceuticos": "Check syringe integrity and train on SC injection",
+      "cuidadosEnfermagem": "Watch for hypocalcemia, chest pain, and local injection reactions",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Romosozumab",
+      "suspension": "Suspender 30 días antes de cirugía mayor o si hay riesgo cardiovascular",
+      "risk": "Riesgo de eventos cardiovasculares graves (IAM, ACV), hipocalcemia y efectos óseos",
+      "reintroduction": "Reiniciar solo tras evaluación cardiovascular completa y niveles normales de calcio y vitamina D"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Romosozumab",
+      "nomeComercial": "Evenity",
+      "mecanismoAcao": "Anticuerpo monoclonal que bloquea la esclerostina, promoviendo formación ósea",
+      "farmacocinetica": "Administración SC, biodisponibilidad ~81%, vida media ~12 días",
+      "farmacodinamica": "Aumenta formación y reduce reabsorción ósea; efecto dual",
+      "indicacoes": "Osteoporosis severa en mujeres posmenopáusicas con alto riesgo de fractura",
+      "reacoesAdversas": "Hipocalcemia, reacciones locales, artralgias, IAM, ACV",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "Evitar en lactancia",
+      "administracao": "Subcutánea, 2 inyecciones de 105mg una vez al mes",
+      "doseMaxima": "210mg/mes",
+      "doseMinima": "210mg/mes",
+      "classificacao": "Anticuerpo monoclonal anti-esclerostina",
+      "apresentacao": "Jeringas precargadas de 105mg/1,17mL",
+      "interacaoMedicamento": "Sin interacciones relevantes conocidas",
+      "posologia": "210mg SC mensualmente durante 12 meses",
+      "armazenamento": "Refrigerado (2–8°C), no congelar, proteger de la luz",
+      "preparo": "Dejar a temperatura ambiente 30 minutos antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipocalcemia, IAM o ACV recientes (<12 meses)",
+      "cuidadosMedicos": "Evaluar riesgo CV y corregir hipocalcemia antes",
+      "cuidadosFarmaceuticos": "Verificar integridad de jeringas y técnica SC",
+      "cuidadosEnfermagem": "Observar hipocalcemia, dolor torácico y reacciones locales",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "罗莫苏单抗",
+      "suspension": "术前30天停药（大手术或有心血管风险）",
+      "risk": "心血管事件（如心肌梗死、中风）、低钙血症和骨效应的风险增加",
+      "reintroduction": "仅在心血管评估稳定及钙和维生素D正常后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "罗莫苏单抗",
+      "nomeComercial": "Evenity",
+      "mecanismoAcao": "抗体靶向硬化素（sclerostin），促进骨形成并抑制骨吸收",
+      "farmacocinetica": "皮下注射，生物利用度81%，半衰期约12天，经蛋白代谢",
+      "farmacodinamica": "双重作用：促进骨形成，抑制骨吸收",
+      "indicacoes": "绝经后重度骨质疏松、高骨折风险女性",
+      "reacoesAdversas": "低钙血症、注射部位反应、关节痛、心梗、中风",
+      "riscoGravidez": "X类 – 禁用",
+      "riscoLactacao": "哺乳期不推荐",
+      "administracao": "皮下注射，每月注射2支105mg",
+      "doseMaxima": "每月210mg",
+      "doseMinima": "每月210mg",
+      "classificacao": "抗硬化素单克隆抗体",
+      "apresentacao": "预填充注射器，每支105mg/1.17mL",
+      "interacaoMedicamento": "无显著药物相互作用",
+      "posologia": "每月一次210mg，连续使用12个月",
+      "armazenamento": "冷藏（2–8°C），避免冷冻和阳光直射",
+      "preparo": "使用前需回温30分钟，不可摇晃",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "未纠正的低钙血症，过去12个月内心梗或中风",
+      "cuidadosMedicos": "评估心血管风险和电解质状态",
+      "cuidadosFarmaceuticos": "指导皮下注射技术和药品保存",
+      "cuidadosEnfermagem": "观察低钙症、胸痛、注射部位红肿",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex"
+    }
+  }
+}

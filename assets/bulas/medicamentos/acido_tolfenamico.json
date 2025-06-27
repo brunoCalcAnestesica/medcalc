@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido Tolfenâmico",
+      "suspension": "Suspender 48 a 72 horas antes de procedimentos cirúrgicos eletivos.",
+      "risk": "Risco de sangramento gastrintestinal, lesão renal e interação com anticoagulantes. Efeito antiplaquetário reversível e meia-vida intermediária.",
+      "reintroduction": "Reintroduzir após recuperação clínica e estabilidade hemodinâmica, preferencialmente 48–72h após o procedimento."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Tolfenâmico",
+      "nomeComercial": "Clotam, Tolfedine (uso veterinário), Tolfen",
+      "mecanismoAcao": "AINE derivado do ácido antranílico que inibe de forma não seletiva a COX-1 e COX-2, reduzindo a síntese de prostaglandinas.",
+      "farmacocinetica": "Absorção oral rápida; pico plasmático em 1–2h; meia-vida de eliminação ~4h; metabolização hepática; excreção renal.",
+      "farmacodinamica": "Ação anti-inflamatória, analgésica e antipirética. Eficaz no tratamento de enxaquecas e dor aguda.",
+      "indicacoes": "Tratamento da enxaqueca aguda, dor musculoesquelética, dismenorreia.",
+      "reacoesAdversas": "Dor epigástrica, náusea, diarreia, sonolência, rash cutâneo, hemorragia gastrintestinal, aumento de transaminases.",
+      "riscoGravidez": "Categoria C (1º e 2º trimestres), D no 3º.",
+      "riscoLactacao": "Evitar uso prolongado durante a amamentação por excreção no leite.",
+      "administracao": "Via oral.",
+      "doseMaxima": "400 mg/dia.",
+      "doseMinima": "200 mg/dia.",
+      "classificacao": "AINE não seletivo (derivado do ácido fenâmico).",
+      "apresentacao": "Comprimidos de 200 mg.",
+      "interacaoMedicamento": "Interage com anticoagulantes, lítio, metotrexato, AINEs, diuréticos, IECAs.",
+      "posologia": "200 mg ao início da crise de enxaqueca, podendo repetir após 1–2h se necessário (dose máxima: 400 mg/dia).",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade e luz.",
+      "preparo": "Não requer preparo.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Úlcera péptica ativa, insuficiência renal/hepática grave, sangramento ativo, gravidez no 3º trimestre.",
+      "cuidadosMedicos": "Monitorar sintomas gastrintestinais, PA, função renal e eventos trombóticos.",
+      "cuidadosFarmaceuticos": "Evitar uso prolongado ou repetido; avaliar risco-benefício em cefaleias recorrentes.",
+      "cuidadosEnfermagem": "Administrar com alimentos; observar sintomas GI, edema ou rash.",
+      "fontesBibliograficas": "EMA, Martindale, Micromedex, UpToDate, FASS, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tolfenamic Acid",
+      "suspension": "Discontinue 48–72 hours before elective surgery.",
+      "risk": "Risk of GI bleeding, renal injury, and drug interactions. Intermediate half-life and reversible platelet inhibition.",
+      "reintroduction": "Restart 48–72h after surgery if stable hemodynamically and GI function recovered."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tolfenamic Acid",
+      "nomeComercial": "Clotam, Tolfen",
+      "mecanismoAcao": "Non-selective COX-1 and COX-2 inhibitor of the fenamate class, reducing prostaglandin synthesis.",
+      "farmacocinetica": "Rapid oral absorption; peak 1–2h; half-life ~4h; hepatic metabolism; renal excretion.",
+      "farmacodinamica": "Anti-inflammatory, analgesic, and antipyretic effect. Effective in acute migraine and musculoskeletal pain.",
+      "indicacoes": "Acute migraine, dysmenorrhea, MSK pain.",
+      "reacoesAdversas": "Abdominal pain, nausea, diarrhea, drowsiness, rash, GI bleeding, transaminase elevation.",
+      "riscoGravidez": "Category C (1st/2nd trimester), D (3rd trimester – ductus risk).",
+      "riscoLactacao": "Avoid prolonged use during breastfeeding due to excretion in milk.",
+      "administracao": "Oral route.",
+      "doseMaxima": "400 mg/day.",
+      "doseMinima": "200 mg/day.",
+      "classificacao": "Non-selective NSAID (fenamate).",
+      "apresentacao": "Tablets: 200 mg.",
+      "interacaoMedicamento": "Interacts with warfarin, lithium, methotrexate, ACEIs, diuretics, other NSAIDs.",
+      "posologia": "200 mg at migraine onset, may repeat after 1–2h (max 400 mg/day).",
+      "armazenamento": "Store at 15–30°C, away from light and moisture.",
+      "preparo": "No preparation required.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Active ulcer, severe hepatic/renal impairment, bleeding, 3rd trimester pregnancy.",
+      "cuidadosMedicos": "Monitor GI symptoms, renal/hepatic function, BP.",
+      "cuidadosFarmaceuticos": "Limit to acute use; evaluate benefit/risk in frequent migraine.",
+      "cuidadosEnfermagem": "Administer with food; observe for GI upset or rash.",
+      "fontesBibliograficas": "Martindale, Micromedex, UpToDate, FASS, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido Tolfenámico",
+      "suspension": "Suspender 48–72 horas antes de cirugía electiva.",
+      "risk": "Riesgo de sangrado gastrointestinal, toxicidad renal y efectos sobre plaquetas. Vida media intermedia.",
+      "reintroduction": "Reintroducir 48–72h después de cirugía si hay estabilidad hemodinámica y recuperación GI."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Tolfenámico",
+      "nomeComercial": "Clotam, Tolfen",
+      "mecanismoAcao": "Inhibidor no selectivo de COX-1/2 de la clase fenamato, reduce prostaglandinas inflamatorias.",
+      "farmacocinetica": "Absorción rápida; pico 1–2h; vida media ~4h; metabolismo hepático; excreción renal.",
+      "farmacodinamica": "Acción antiinflamatoria, analgésica y antipirética. Útil en migraña y dismenorrea.",
+      "indicacoes": "Migraña aguda, dismenorrea, dolor musculoesquelético.",
+      "reacoesAdversas": "Dolor abdominal, náuseas, diarrea, somnolencia, erupción, hemorragia GI, enzimas hepáticas elevadas.",
+      "riscoGravidez": "Categoría C (1º/2º trimestre), D (3º trimestre).",
+      "riscoLactacao": "Evitar uso prolongado en lactancia.",
+      "administracao": "Vía oral.",
+      "doseMaxima": "400 mg/día.",
+      "doseMinima": "200 mg/día.",
+      "classificacao": "AINE no selectivo (fenamato).",
+      "apresentacao": "Comprimidos de 200 mg.",
+      "interacaoMedicamento": "Interacciones con warfarina, litio, metotrexato, IECAs, diuréticos, otros AINE.",
+      "posologia": "200 mg al inicio de migraña, repetir si necesario (máx. 400 mg/día).",
+      "armazenamento": "15–30°C, protegido de humedad y luz.",
+      "preparo": "No requiere preparación.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Úlcera activa, hepatopatía o nefropatía grave, sangrado, embarazo 3º trimestre.",
+      "cuidadosMedicos": "Monitorear síntomas GI, función renal/hepática, PA.",
+      "cuidadosFarmaceuticos": "Uso agudo; evaluar riesgo en migrañas frecuentes.",
+      "cuidadosEnfermagem": "Con alimentos; observar malestar GI o rash.",
+      "fontesBibliograficas": "Micromedex, FASS, EMA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "托芬酸（Tolfenamic Acid）",
+      "suspension": "择期手术前48–72小时停药。",
+      "risk": "可引起胃肠出血、肾损伤和可逆性血小板抑制，半衰期中等。",
+      "reintroduction": "术后稳定后（48–72小时）可重新用药。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "托芬酸",
+      "nomeComercial": "Clotam、Tolfen",
+      "mecanismoAcao": "非选择性COX-1/2抑制剂，属于苯胺类NSAID，减少炎性前列腺素。",
+      "farmacocinetica": "口服吸收快；1–2小时达峰；半衰期约4小时；肝代谢；肾排泄。",
+      "farmacodinamica": "抗炎、镇痛、解热。适用于偏头痛与月经痛。",
+      "indicacoes": "急性偏头痛、痛经、肌肉骨骼疼痛。",
+      "reacoesAdversas": "胃痛、恶心、腹泻、嗜睡、皮疹、胃出血、肝酶升高。",
+      "riscoGravidez": "C类（妊娠早期）、D类（妊娠晚期）。",
+      "riscoLactacao": "避免长期使用。",
+      "administracao": "口服。",
+      "doseMaxima": "每日400毫克。",
+      "doseMinima": "每日200毫克。",
+      "classificacao": "非选择性NSAID（苯胺类）。",
+      "apresentacao": "200毫克片剂。",
+      "interacaoMedicamento": "与华法林、锂、甲氨蝶呤、ACEI、利尿剂、其他NSAID相互作用。",
+      "posologia": "偏头痛发作时200毫克，1–2小时可重复1次（不超400mg）。",
+      "armazenamento": "15–30°C，避光干燥保存。",
+      "preparo": "无需特别准备。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "活动性溃疡、严重肝肾功能不全、出血、妊娠晚期。",
+      "cuidadosMedicos": "监测胃肠症状、肾功能、肝功能与血压。",
+      "cuidadosFarmaceuticos": "限用于急性发作；频繁偏头痛需重新评估。",
+      "cuidadosEnfermagem": "饭后服用；观察胃不适或皮疹。",
+      "fontesBibliograficas": "Micromedex、中国药典、FASS、UpToDate"
+    }
+  }
+}

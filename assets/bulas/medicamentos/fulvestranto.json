@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fulvestranto",
+      "suspension": "Não há necessidade de suspensão pré-operatória na maioria dos casos",
+      "risk": "Dor no local da injeção, náusea, elevação de transaminases, tromboembolismo, dor óssea, fogachos",
+      "reintroduction": "Manter ou reiniciar 24–48h após o procedimento, se o paciente estiver clinicamente estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fulvestranto",
+      "nomeComercial": "Faslodex",
+      "mecanismoAcao": "Antagonista completo do receptor de estrogênio (SERD); promove degradação do receptor estrogênico",
+      "farmacocinetica": "Administração IM; biodisponibilidade ~100%; T½ ~40 dias; metabolização hepática; excreção fecal",
+      "farmacodinamica": "Inibição competitiva e degradação do ERα → redução da sinalização estrogênica tumoral",
+      "indicacoes": "Câncer de mama avançado ou metastático hormônio-dependente (HR+), pós-menopausa; usado em monoterapia ou combinado com CDK4/6i",
+      "reacoesAdversas": "Dor glútea, elevação de TGO/TGP, dor óssea, náusea, fadiga, eventos tromboembólicos, fogachos",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Injeção intramuscular profunda em glúteo, 2x/mês no 1º mês, e 1x/mês a partir do 2º mês",
+      "doseMaxima": "500mg (250mg em cada glúteo)",
+      "doseMinima": "250mg (ajustes raros)",
+      "classificacao": "SERD – degradador seletivo do receptor estrogênico",
+      "apresentacao": "Ampola pré-cheia de 250mg/5ml",
+      "interacaoMedicamento": "Pouca interação; metabolizado por CYP3A4, mas sem efeito inibitório/indutor clinicamente relevante",
+      "posologia": "500mg IM nos dias 1, 15 e 29; depois a cada 28 dias",
+      "armazenamento": "Refrigerado (2–8°C); não congelar; proteger da luz",
+      "preparo": "Uso IM direto; trazer à temperatura ambiente antes da aplicação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, alergia à fórmula",
+      "cuidadosMedicos": "Monitorar função hepática e sinais de trombose",
+      "cuidadosFarmaceuticos": "Orientar sobre a temperatura antes da injeção e sobre o calendário de doses",
+      "cuidadosEnfermagem": "Observar dor, febre, sangramento no local da injeção",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fulvestrant",
+      "suspension": "No routine need for suspension preoperatively",
+      "risk": "Injection site pain, nausea, elevated LFTs, thromboembolic events, hot flashes, fatigue",
+      "reintroduction": "Resume or continue 24–48h postop if clinically stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fulvestrant",
+      "nomeComercial": "Faslodex",
+      "mecanismoAcao": "Selective estrogen receptor degrader (SERD); binds ER and promotes degradation",
+      "farmacocinetica": "IM; T½ ~40 days; hepatic metabolism (CYP3A4); fecal excretion",
+      "farmacodinamica": "Blocks estrogen signaling by degrading ERα",
+      "indicacoes": "Postmenopausal HR+ breast cancer (advanced/metastatic); mono or combo with CDK4/6 inhibitors",
+      "reacoesAdversas": "Injection pain, fatigue, nausea, hot flashes, thromboembolism",
+      "riscoGravidez": "Category D – avoid",
+      "riscoLactacao": "Not recommended",
+      "administracao": "IM into gluteus; 500mg schedule: day 1, 15, 29 then monthly",
+      "doseMaxima": "500mg/month",
+      "doseMinima": "250mg",
+      "classificacao": "SERD – estrogen receptor degrader",
+      "apresentacao": "250mg/5ml prefilled syringe",
+      "interacaoMedicamento": "Minimal CYP3A4 impact; few interactions",
+      "posologia": "500mg IM day 1, 15, 29, then q28d",
+      "armazenamento": "Refrigerate 2–8°C; do not freeze; protect from light",
+      "preparo": "Let syringe reach room temp before injection",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, lactation, known allergy",
+      "cuidadosMedicos": "Monitor liver function and DVT risk",
+      "cuidadosFarmaceuticos": "Ensure temperature control and dosing interval compliance",
+      "cuidadosEnfermagem": "Monitor injection site, pain, fever, bleeding",
+      "fontesBibliograficas": "FDA label, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fulvestrant",
+      "suspension": "No suele requerir suspensión preoperatoria",
+      "risk": "Dolor glúteo, náusea, TGP/TGO elevadas, eventos trombóticos, sofocos",
+      "reintroduction": "Reanudar 24–48h después si clínicamente estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fulvestrant",
+      "nomeComercial": "Faslodex",
+      "mecanismoAcao": "Degradador del receptor estrogénico (SERD); inhibe y degrada ERα",
+      "farmacocinetica": "IM; T½ ~40 días; metabolismo hepático; excreción fecal",
+      "farmacodinamica": "Bloqueo de señal estrogénica en cáncer HR+",
+      "indicacoes": "Cáncer de mama HR+ avanzado/postmenopáusico",
+      "reacoesAdversas": "Cefalea, náuseas, fatiga, TEP, sofocos, elevación hepática",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "IM profundo 500mg; días 1, 15, 29 y luego mensual",
+      "doseMaxima": "500mg",
+      "doseMinima": "250mg",
+      "classificacao": "SERD – degradador selectivo de ER",
+      "apresentacao": "Jeringa precargada 250mg/5ml",
+      "interacaoMedicamento": "Escasa interacción; metabolizado por CYP3A4",
+      "posologia": "500mg IM según calendario; ± CDK4/6i",
+      "armazenamento": "Refrigerado 2–8°C; no congelar",
+      "preparo": "A temperatura ambiente antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, alergia conocida",
+      "cuidadosMedicos": "Función hepática, riesgo trombótico",
+      "cuidadosFarmaceuticos": "Educar pauta mensual, conservación",
+      "cuidadosEnfermagem": "Observar sitio de inyección, fiebre, sangrado",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氟维司群",
+      "suspension": "多数情况术前无需停药",
+      "risk": "注射部位疼痛、恶心、肝酶升高、血栓风险、潮热",
+      "reintroduction": "术后24–48小时内可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氟维司群",
+      "nomeComercial": "Faslodex",
+      "mecanismoAcao": "选择性雌激素受体降解剂（SERD），促进ERα蛋白降解",
+      "farmacocinetica": "肌注；T½约40天；肝代谢；粪便排泄",
+      "farmacodinamica": "拮抗雌激素信号通路，抑制HR+乳腺癌细胞",
+      "indicacoes": "绝经后HR+乳腺癌晚期或转移性",
+      "reacoesAdversas": "注射疼痛、疲劳、恶心、肝酶异常、血栓、潮热",
+      "riscoGravidez": "D类 – 孕期禁用",
+      "riscoLactacao": "禁用，停药后3天内不得哺乳",
+      "administracao": "每次肌注250mg，两侧臀部各注1支",
+      "doseMaxima": "每次500mg",
+      "doseMinima": "250mg",
+      "classificacao": "选择性ER降解剂（SERD）",
+      "apresentacao": "预装注射器250mg/5ml",
+      "interacaoMedicamento": "CYP3A4代谢，少见临床相互作用",
+      "posologia": "500mg注射日1、15、29，之后每28天一次",
+      "armazenamento": "冷藏（2–8°C），避光",
+      "preparo": "注射前回温至室温",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、已知过敏",
+      "cuidadosMedicos": "监测肝功能、血栓风险",
+      "cuidadosFarmaceuticos": "冷藏运输、依从性教育、正确注射部位标记",
+      "cuidadosEnfermagem": "评估注射疼痛、局部红肿、发热",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

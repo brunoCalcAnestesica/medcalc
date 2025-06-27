@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Hetastarch",
+      "suspension": "Suspender 24–48h antes de cirurgias de grande porte ou com risco de sangramento significativo",
+      "risk": "Aumenta risco de sangramento, disfunção renal e mortalidade em pacientes críticos; pode causar coagulopatia dilucional e anafilaxia",
+      "reintroduction": "Evitar reintrodução no pós-operatório imediato; avaliar benefício em pacientes estáveis com necessidade de expansão volêmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Amido hidroxietílico (Hetastarch)",
+      "nomeComercial": "Hespan, Hextend",
+      "mecanismoAcao": "Expansor plasmático coloidal sintético que aumenta pressão oncótica e volume plasmático intravascular",
+      "farmacocinetica": "Meia-vida ~17h; excreção renal e hepática; acumulação tecidual com doses repetidas",
+      "farmacodinamica": "Expande volume intravascular por atração osmótica; melhora perfusão a curto prazo",
+      "indicacoes": "Hipovolemia refratária, choque hipovolêmico, cirurgia com sangramento controlado (uso restrito)",
+      "reacoesAdversas": "Prurido, distúrbios da coagulação, disfunção renal aguda, anafilaxia, elevação de amilase",
+      "riscoGravidez": "Categoria C – usar apenas se estritamente necessário",
+      "riscoLactacao": "Dados limitados; evitar uso prolongado",
+      "administracao": "Infusão intravenosa lenta",
+      "doseMaxima": "20 mL/kg/dia (1,5 L em adulto médio); não exceder",
+      "doseMinima": "250–500 mL EV para expansão inicial",
+      "classificacao": "Expansor coloidal sintético (amido modificável)",
+      "apresentacao": "Bolsas de 500 mL a 6%; soluções em soro fisiológico ou lactato de Ringer",
+      "interacaoMedicamento": "Potencializa anticoagulantes; pode interferir em testes de coagulação",
+      "posologia": "250–1000 mL conforme necessidade hemodinâmica e resposta",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Pronto para uso IV; não diluir",
+      "solucoesCompatíveis": "SF 0,9%, Ringer lactato (dependendo da formulação)",
+      "contraindicacoes": "Sepse, insuficiência renal, sangramento ativo grave, coagulopatia, hipersensibilidade a amido",
+      "cuidadosMedicos": "Monitorar função renal, coagulograma, sinais de sobrecarga circulatória",
+      "cuidadosFarmaceuticos": "Verificar integridade da bolsa, agitar antes do uso",
+      "cuidadosEnfermagem": "Observar anafilaxia, PVC, balanço hídrico e resposta hemodinâmica",
+      "fontesBibliograficas": "FDA, EMA, Medscape, Micromedex, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hetastarch",
+      "suspension": "Discontinue 24–48h prior to major surgery or bleeding risk",
+      "risk": "Increased risk of bleeding, renal dysfunction, and mortality in critically ill; risk of coagulopathy and anaphylaxis",
+      "reintroduction": "Avoid in early post-op; consider only if stable and hypovolemic"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hydroxyethyl starch (HES)",
+      "nomeComercial": "Hespan, Hextend",
+      "mecanismoAcao": "Synthetic colloid plasma expander that raises oncotic pressure and expands plasma volume",
+      "farmacocinetica": "Half-life ~17h; renal and hepatic elimination; tissue accumulation",
+      "farmacodinamica": "Draws water into vasculature, improving short-term perfusion",
+      "indicacoes": "Hypovolemia in surgical/trauma settings; restricted use",
+      "reacoesAdversas": "Itching, coagulopathy, renal failure, anaphylaxis, amylase increase",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid long-term use; safety unknown",
+      "administracao": "Slow IV infusion",
+      "doseMaxima": "20 mL/kg/day (~1.5 L/day)",
+      "doseMinima": "250–500 mL bolus",
+      "classificacao": "Synthetic colloid / plasma expander",
+      "apresentacao": "6% solutions in NS or LR; 500 mL bags",
+      "interacaoMedicamento": "Enhances effect of anticoagulants; interferes with clotting tests",
+      "posologia": "250–1000 mL per day based on hemodynamics",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Ready to use IV",
+      "solucoesCompatíveis": "NS 0.9%, LR (depending on formulation)",
+      "contraindicacoes": "Sepsis, renal dysfunction, active bleeding, coagulopathy, HES allergy",
+      "cuidadosMedicos": "Monitor renal function, coagulation, and volume status",
+      "cuidadosFarmaceuticos": "Inspect clarity, label, and expiration",
+      "cuidadosEnfermagem": "Observe for anaphylaxis, monitor volume and renal output",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hetastarch",
+      "suspension": "Suspender 24–48h antes de cirugía mayor o con riesgo de sangrado",
+      "risk": "Aumenta riesgo de hemorragia, disfunción renal y mortalidad en críticos",
+      "reintroduction": "Evitar en postoperatorio inmediato; considerar solo si es necesario"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Almidón hidroxietílico",
+      "nomeComercial": "Hespan, Hextend",
+      "mecanismoAcao": "Coloide sintético que expande el volumen plasmático por presión oncótica",
+      "farmacocinetica": "T½ ~17h; eliminación renal/hepática; acumulación con uso repetido",
+      "farmacodinamica": "Aumenta volemia y perfusión breve",
+      "indicacoes": "Hipovolemia, choque; uso restringido",
+      "reacoesAdversas": "Prurito, coagulopatía, falla renal, anafilaxia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar si es posible",
+      "administracao": "Infusión IV lenta",
+      "doseMaxima": "20 mL/kg/día (~1,5 L)",
+      "doseMinima": "250 mL",
+      "classificacao": "Coloide sintético",
+      "apresentacao": "Solución al 6%, bolsas 500 mL",
+      "interacaoMedicamento": "Potencia anticoagulantes",
+      "posologia": "250–1000 mL según respuesta",
+      "armazenamento": "15–30°C, protegido de luz",
+      "preparo": "Listo para usar",
+      "solucoesCompatíveis": "ClNa 0,9%, Ringer Lactato",
+      "contraindicacoes": "Sepsis, IRC, hemorragia activa, coagulopatía",
+      "cuidadosMedicos": "Controlar función renal y coagulación",
+      "cuidadosFarmaceuticos": "No usar si turbio",
+      "cuidadosEnfermagem": "Vigilar reacciones adversas, PVC, diuresis",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "羟乙基淀粉",
+      "suspension": "术前24–48小时停用（出血风险大手术）",
+      "risk": "可能增加出血、肾损伤和死亡率；应谨慎使用",
+      "reintroduction": "术后早期避免使用；仅在稳定患者中考虑补液需要"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "羟乙基淀粉",
+      "nomeComercial": "Hespan、Voluven、Hextend",
+      "mecanismoAcao": "提高血浆胶体渗透压，快速扩容",
+      "farmacocinetica": "T½约17小时，肝肾代谢，反复使用可蓄积",
+      "farmacodinamica": "扩容、改善组织灌注",
+      "indicacoes": "低血容量休克、创伤/术中大出血",
+      "reacoesAdversas": "瘙痒、凝血障碍、肾衰、过敏反应",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "避免长期使用",
+      "administracao": "静脉缓慢滴注",
+      "doseMaxima": "每日20 mL/kg，不超过1.5 L",
+      "doseMinima": "起始250 mL",
+      "classificacao": "人工胶体扩容剂",
+      "apresentacao": "6%袋装500 mL",
+      "interacaoMedicamento": "增强抗凝药效，应监测凝血功能",
+      "posologia": "250–1000 mL按需调整",
+      "armazenamento": "避光室温保存",
+      "preparo": "可直接使用",
+      "solucoesCompatíveis": "氯化钠0.9%，乳酸林格液",
+      "contraindicacoes": "感染性休克、急性肾衰、出血、凝血障碍",
+      "cuidadosMedicos": "监测肾功能、电解质、凝血功能",
+      "cuidadosFarmaceuticos": "避免混浊制剂，核查标签",
+      "cuidadosEnfermagem": "警惕过敏反应、容量状态及尿量",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape、FDA"
+    }
+  }
+}

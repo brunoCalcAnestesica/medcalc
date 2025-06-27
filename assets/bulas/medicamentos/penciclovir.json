@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Penciclovir",
+      "suspension": "Não há necessidade de suspensão para uso tópico em cirurgias eletivas",
+      "risk": "Uso tópico com absorção sistêmica desprezível; risco mínimo perioperatório",
+      "reintroduction": "Pode ser mantido continuamente; reiniciar uso em lesões ativas conforme orientação médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Penciclovir",
+      "nomeComercial": "Viroxyn, Denavir",
+      "mecanismoAcao": "Análogo de guanosina que inibe a DNA polimerase viral, impedindo a replicação do DNA do HSV",
+      "farmacocinetica": "Aplicação tópica; absorção sistêmica <0,5%; meia-vida intracelular ~10h em células infectadas",
+      "farmacodinamica": "Inibe seletivamente a replicação do vírus herpes simplex tipo 1 e 2 (HSV-1, HSV-2)",
+      "indicacoes": "Tratamento tópico do herpes labial (HSV-1)",
+      "reacoesAdversas": "Eritema, queimação ou formigamento transitório no local da aplicação",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Seguro para uso tópico",
+      "administracao": "Tópica (uso dermatológico)",
+      "doseMaxima": "Aplicar a cada 2h durante o dia, até 5 vezes/dia",
+      "doseMinima": "3 vezes ao dia",
+      "classificacao": "Antiviral tópico",
+      "apresentacao": "Creme 1% (10 mg/g)",
+      "interacaoMedicamento": "Nenhuma clinicamente relevante por via tópica",
+      "posologia": "Aplicar uma fina camada na lesão a cada 2h enquanto acordado por 4 dias",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Uso direto; lavar mãos antes e após aplicação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao penciclovir ou excipientes",
+      "cuidadosMedicos": "Avaliar resposta ao tratamento em imunossuprimidos; evitar contato com mucosas oculares",
+      "cuidadosFarmaceuticos": "Orientar aplicação precoce ao início dos sintomas; uso exclusivo tópico",
+      "cuidadosEnfermagem": "Observar sinais de irritação local ou disseminação da infecção",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, bula Denavir"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Penciclovir",
+      "suspension": "No need to suspend for topical use before elective surgeries",
+      "risk": "Minimal systemic absorption; negligible perioperative risk",
+      "reintroduction": "May be continued throughout; resume in active lesions per medical advice"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Penciclovir",
+      "nomeComercial": "Denavir",
+      "mecanismoAcao": "Guanosine analog that inhibits viral DNA polymerase, blocking HSV DNA replication",
+      "farmacocinetica": "Topical use; systemic absorption <0.5%; intracellular half-life ~10h in infected cells",
+      "farmacodinamica": "Selectively inhibits herpes simplex virus types 1 and 2 (HSV-1, HSV-2) replication",
+      "indicacoes": "Topical treatment of herpes labialis (cold sores, HSV-1)",
+      "reacoesAdversas": "Redness, burning or tingling at the application site",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe for topical use",
+      "administracao": "Topical (dermal)",
+      "doseMaxima": "Apply every 2 hours during waking hours, up to 5 times/day",
+      "doseMinima": "3 times/day",
+      "classificacao": "Topical antiviral",
+      "apresentacao": "Cream 1% (10 mg/g)",
+      "interacaoMedicamento": "None clinically relevant via topical route",
+      "posologia": "Apply a thin layer to affected area every 2h while awake for 4 days",
+      "armazenamento": "Room temperature (15–30°C); protect from light",
+      "preparo": "Ready to use; wash hands before and after application",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity to penciclovir or formulation components",
+      "cuidadosMedicos": "Monitor response in immunocompromised patients; avoid eye contact",
+      "cuidadosFarmaceuticos": "Educate on early application during prodrome; topical use only",
+      "cuidadosEnfermagem": "Watch for local irritation or lesion progression",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Denavir PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Penciclovir",
+      "suspension": "No se requiere suspensión para uso tópico en cirugía electiva",
+      "risk": "Absorción sistémica mínima; riesgo perioperatorio despreciable",
+      "reintroduction": "Puede continuarse; reiniciar ante lesiones activas según indicación médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Penciclovir",
+      "nomeComercial": "Denavir",
+      "mecanismoAcao": "Análogo de guanosina que inhibe la ADN polimerasa viral y bloquea replicación del HSV",
+      "farmacocinetica": "Tópico; absorción sistémica <0.5%; vida media intracelular ~10h en células infectadas",
+      "farmacodinamica": "Inhibe selectivamente la replicación del virus herpes simple tipos 1 y 2",
+      "indicacoes": "Tratamiento tópico del herpes labial (HSV-1)",
+      "reacoesAdversas": "Eritema, ardor o hormigueo local",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Seguro por vía tópica",
+      "administracao": "Tópico",
+      "doseMaxima": "Aplicar cada 2 h durante el día, hasta 5 veces/día",
+      "doseMinima": "3 veces/día",
+      "classificacao": "Antiviral tópico",
+      "apresentacao": "Crema al 1% (10 mg/g)",
+      "interacaoMedicamento": "No se conocen interacciones tópicas relevantes",
+      "posologia": "Aplicar capa fina en la lesión cada 2 h mientras esté despierto por 4 días",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de la luz",
+      "preparo": "Listo para uso; lavar manos antes y después",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad al penciclovir o componentes",
+      "cuidadosMedicos": "Evaluar respuesta en inmunocomprometidos; evitar mucosa ocular",
+      "cuidadosFarmaceuticos": "Uso tópico exclusivo; aplicar precozmente en pródromos",
+      "cuidadosEnfermagem": "Vigilar irritación local o diseminación",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Denavir"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "喷昔洛韦",
+      "suspension": "择期手术期间无需停用局部外用",
+      "risk": "系统吸收极低，围术期风险极小",
+      "reintroduction": "可持续使用，活动性疱疹可继续治疗"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "喷昔洛韦",
+      "nomeComercial": "Denavir",
+      "mecanismoAcao": "鸟苷类似物，通过抑制病毒DNA聚合酶阻断HSV复制",
+      "farmacocinetica": "局部使用，系统吸收<0.5%；感染细胞内半衰期约10小时",
+      "farmacodinamica": "选择性抑制单纯疱疹病毒1型和2型复制",
+      "indicacoes": "局部治疗唇疱疹（HSV-1）",
+      "reacoesAdversas": "局部发红、灼热或刺痛",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "局部使用安全",
+      "administracao": "局部外用",
+      "doseMaxima": "每日5次，每2小时1次",
+      "doseMinima": "每日3次",
+      "classificacao": "局部抗病毒药",
+      "apresentacao": "1%乳膏（10 mg/g）",
+      "interacaoMedicamento": "局部使用无显著药物相互作用",
+      "posologia": "起疹4天内，每2小时一次，白天持续使用，共用4天",
+      "armazenamento": "室温保存（15–30°C），避光",
+      "preparo": "直接使用，使用前后洗手",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对本品或辅料过敏",
+      "cuidadosMedicos": "免疫低下者建议密切随访，避免接触眼睛",
+      "cuidadosFarmaceuticos": "指导早期使用，仅供外用",
+      "cuidadosEnfermagem": "观察局部不良反应或病灶扩展",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Denavir说明书"
+    }
+  }
+}

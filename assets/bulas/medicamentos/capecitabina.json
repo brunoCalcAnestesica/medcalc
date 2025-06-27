@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Capecitabina",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de mielossupressão, mucosite, diarreia grave e má cicatrização",
+      "reintroduction": "Reintroduzir após recuperação da mucosa gastrointestinal e função hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Capecitabina",
+      "nomeComercial": "Xeloda",
+      "mecanismoAcao": "Pró-fármaco que é convertido em 5-fluorouracil (5-FU), inibindo a timidilato sintase e bloqueando a síntese de DNA",
+      "farmacocinetica": "Absorção oral rápida; convertido em 5-FU principalmente no fígado e tecidos tumorais; meia-vida terminal de 0,75 horas",
+      "farmacodinamica": "Antimetabólito com ação citotóxica em fase S; bloqueia a síntese de DNA em células neoplásicas",
+      "indicacoes": "Câncer colorretal, de mama metastático, gástrico, esofágico, pancreático",
+      "reacoesAdversas": "Diarreia, estomatite, síndrome mão-pé, náuseas, trombocitopenia, leucopenia, fadiga",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excreção no leite materno",
+      "administracao": "Via oral",
+      "doseMaxima": "2500 mg/m²/dia divididos em 2 doses",
+      "doseMinima": "1250 mg/m²/dia",
+      "classificacao": "Antineoplásico – antimetabólito (análogos de pirimidina)",
+      "apresentacao": "Comprimidos de 150 mg e 500 mg",
+      "interacaoMedicamento": "Interage com anticoagulantes cumarínicos, alopurinol, fenitoína, sorivudina",
+      "posologia": "1250 mg/m² 2x/dia por 14 dias seguidos de 7 dias de descanso (21 dias por ciclo)",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Uso oral; não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, insuficiência renal grave (ClCr <30 mL/min), mielossupressão",
+      "cuidadosMedicos": "Monitorar hemograma, função renal e hepática, e sintomas gastrointestinais",
+      "cuidadosFarmaceuticos": "Orientar paciente a não partir os comprimidos; armazenar na embalagem original",
+      "cuidadosEnfermagem": "Avaliar sinais de toxicidade GI e hematológica, orientar quanto à hidratação e alimentação",
+      "fontesBibliograficas": "INCA, ANVISA, FDA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Capecitabine",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of myelosuppression, mucositis, severe diarrhea, and poor wound healing",
+      "reintroduction": "Restart after recovery of GI mucosa and hematologic function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Capecitabine",
+      "nomeComercial": "Xeloda",
+      "mecanismoAcao": "Prodrug converted to 5-fluorouracil (5-FU), inhibits thymidylate synthase, blocks DNA synthesis",
+      "farmacocinetica": "Rapid oral absorption; converted to 5-FU in liver and tumor tissues; terminal half-life ~0.75 h",
+      "farmacodinamica": "S-phase specific cytotoxic antimetabolite",
+      "indicacoes": "Colorectal cancer, metastatic breast cancer, gastric, esophageal, pancreatic cancers",
+      "reacoesAdversas": "Diarrhea, stomatitis, hand-foot syndrome, nausea, thrombocytopenia, leukopenia, fatigue",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral route",
+      "doseMaxima": "2500 mg/m²/day in 2 divided doses",
+      "doseMinima": "1250 mg/m²/day",
+      "classificacao": "Antineoplastic – antimetabolite (pyrimidine analog)",
+      "apresentacao": "Tablets of 150 mg and 500 mg",
+      "interacaoMedicamento": "Interacts with coumarin anticoagulants, allopurinol, phenytoin, sorivudine",
+      "posologia": "1250 mg/m² twice daily for 14 days followed by 7-day rest (21-day cycles)",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "Oral use only; no reconstitution needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, severe renal impairment (CrCl <30 mL/min), bone marrow suppression",
+      "cuidadosMedicos": "Monitor CBC, renal and hepatic function, GI symptoms",
+      "cuidadosFarmaceuticos": "Do not split tablets; keep in original packaging",
+      "cuidadosEnfermagem": "Monitor for GI and hematologic toxicity; advise on hydration and nutrition",
+      "fontesBibliograficas": "FDA, Micromedex, NCCN, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Capecitabina",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de mielosupresión, mucositis, diarrea grave y mala cicatrización",
+      "reintroduction": "Reintroducir tras recuperación de mucosa GI y función hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Capecitabina",
+      "nomeComercial": "Xeloda",
+      "mecanismoAcao": "Pró-fármaco convertido en 5-FU que inhibe la timidilato sintasa y bloquea la síntesis de ADN",
+      "farmacocinetica": "Buena absorción oral; conversión hepática y tumoral en 5-FU; vida media terminal ~0.75 h",
+      "farmacodinamica": "Antimetabolito citotóxico fase S",
+      "indicacoes": "Cáncer colorrectal, mama metastásico, gástrico, esofágico, pancreático",
+      "reacoesAdversas": "Diarrea, estomatitis, síndrome mano-pie, náuseas, trombocitopenia, leucopenia, fatiga",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "2500 mg/m²/día en 2 dosis",
+      "doseMinima": "1250 mg/m²/día",
+      "classificacao": "Antineoplásico – antimetabolito (análogo de pirimidina)",
+      "apresentacao": "Comprimidos de 150 mg y 500 mg",
+      "interacaoMedicamento": "Interacciones con anticoagulantes cumarínicos, alopurinol, fenitoína, sorivudina",
+      "posologia": "1250 mg/m² 2 veces/día por 14 días, luego 7 días de descanso",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de la humedad",
+      "preparo": "Uso oral; sin preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, insuficiencia renal grave, mielosupresión",
+      "cuidadosMedicos": "Monitorear hemograma, función renal y hepática, síntomas GI",
+      "cuidadosFarmaceuticos": "No partir comprimidos; conservar en envase original",
+      "cuidadosEnfermagem": "Vigilar toxicidad GI y hematológica; recomendar buena hidratación y alimentación",
+      "fontesBibliograficas": "ANMAT, FDA, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "卡培他滨",
+      "suspension": "择期手术前7天停药",
+      "risk": "骨髓抑制、口腔炎、严重腹泻及伤口愈合不良的风险",
+      "reintroduction": "胃肠道黏膜和血象恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "卡培他滨",
+      "nomeComercial": "Xeloda",
+      "mecanismoAcao": "为前药，在体内转化为5-FU，抑制胸苷酸合酶并阻断DNA合成",
+      "farmacocinetica": "口服吸收迅速，在肝脏和肿瘤组织中转化为5-FU，半衰期约0.75小时",
+      "farmacodinamica": "S期特异性抗代谢细胞毒药",
+      "indicacoes": "结直肠癌、转移性乳腺癌、胃癌、食管癌、胰腺癌",
+      "reacoesAdversas": "腹泻、口腔炎、手足综合征、恶心、血小板减少、白细胞减少、疲劳",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用，可排泄入乳汁",
+      "administracao": "口服",
+      "doseMaxima": "每日2500 mg/m²（分两次服用）",
+      "doseMinima": "每日1250 mg/m²",
+      "classificacao": "抗肿瘤药 – 抗代谢药（嘧啶类似物）",
+      "apresentacao": "口服片剂，150 mg 和 500 mg",
+      "interacaoMedicamento": "与香豆素类抗凝剂、别嘌醇、苯妥英、索利呋啶有相互作用",
+      "posologia": "每日1250 mg/m²口服两次，连用14天，停药7天，21天为一周期",
+      "armazenamento": "室温15–30°C，避湿保存",
+      "preparo": "无需特殊制备，口服使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、严重肾功能不全、骨髓抑制",
+      "cuidadosMedicos": "监测血常规、肝肾功能及消化道症状",
+      "cuidadosFarmaceuticos": "不得掰片，保持原包装",
+      "cuidadosEnfermagem": "观察胃肠及血液毒性，指导补液与营养摄入",
+      "fontesBibliograficas": "中国药典, FDA, Micromedex, NCCN"
+    }
+  }
+}

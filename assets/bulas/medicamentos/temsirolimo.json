@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Temsirolimo",
+      "suspension": "Temsirolimo deve ser suspenso imediatamente em caso de reações adversas graves, incluindo toxicidade hematológica ou hepática.",
+      "risk": "Uso contraindicado em pacientes com hipersensibilidade conhecida ao temsirolimo ou a outros derivados do rapamicina.",
+      "reintroduction": "A reintrodução deve ser cuidadosamente avaliada pelo médico, considerando a gravidade dos efeitos adversos e a resposta clínica do paciente."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Temsirolimo",
+      "nomeComercial": "Torisel",
+      "mecanismoAcao": "Temsirolimo é um inibidor seletivo da via mTOR (mammalian target of rapamycin), que bloqueia a sinalização celular responsável pela proliferação e crescimento tumoral.",
+      "farmacocinetica": "Após administração intravenosa, Temsirolimo é rapidamente metabolizado no fígado pelo CYP3A4 em sirolimo e outros metabólitos inativos. A meia-vida terminal é aproximadamente 17 horas para Temsirolimo e 60 horas para sirolimo. A excreção ocorre principalmente via fecal.",
+      "farmacodinamica": "Inibe a fosforilação de proteínas reguladoras do ciclo celular, bloqueando a progressão da fase G1 para S, resultando em inibição da proliferação celular e indução da apoptose em células tumorais.",
+      "indicacoes": "Indicado para o tratamento de carcinoma de células renais avançado ou metastático, especialmente em pacientes com risco intercalar ou alto risco.",
+      "reacoesAdversas": "Reações comuns incluem fadiga, rash cutâneo, anemia, trombocitopenia, hiperglicemia, hipertrigliceridemia e infecções. Reações graves podem incluir pneumonite intersticial, insuficiência hepática e síndrome de reativação de infecção latente.",
+      "riscoGravidez": "Categoria D: pode causar dano fetal. Contraindicado durante a gravidez. Mulheres em idade fértil devem usar contracepção eficaz durante e após o tratamento.",
+      "riscoLactacao": "Desconhecido se é excretado no leite materno. Recomenda-se evitar a amamentação durante o tratamento e por pelo menos 2 semanas após a última dose.",
+      "administracao": "Administração intravenosa lenta, infundida por pelo menos 30 minutos semanalmente, conforme prescrição médica.",
+      "doseMaxima": "A dose máxima recomendada é de 25 mg por semana, ajustada conforme tolerância e toxicidade.",
+      "doseMinima": "Dose inicial típica de 25 mg por semana, podendo ser reduzida para 15 mg em casos de toxicidade.",
+      "classificacao": "Antineoplásico, inibidor de mTOR, agente imunossupressor.",
+      "apresentacao": "Frascos-ampola contendo pó para solução injetável de 25 mg de Temsirolimo.",
+      "interacaoMedicamento": "Interação significativa com inibidores e indutores do CYP3A4, como cetoconazol, rifampicina e dexametasona. Pode aumentar o risco de toxicidade com agentes imunossupressores.",
+      "posologia": "25 mg por via intravenosa, infundido durante 30 a 60 minutos uma vez por semana. Ajustes de dose baseados na toxicidade observada.",
+      "armazenamento": "Conservar em temperatura entre 2°C e 8°C, protegido da luz e umidade. Não congelar.",
+      "preparo": "Reconstituir o pó com solução estéril de cloreto de sódio 0,9% ou glicose 5% para infusão intravenosa, utilizando técnica asséptica.",
+      "solucoesCompatíveis": "Compatível com solução de cloreto de sódio 0,9% e glicose 5% para infusão intravenosa.",
+      "contraindicacoes": "Hipersensibilidade ao temsirolimo ou seus excipientes, gravidez, lactação e pacientes com infecções ativas graves.",
+      "cuidadosMedicos": "Monitorar função hepática, renal e hematológica regularmente. Avaliar sinais de infecção e toxicidade pulmonar durante o tratamento.",
+      "cuidadosFarmaceuticos": "Manipular em ambiente controlado, utilizar técnicas assépticas e descarte adequado de materiais contaminados.",
+      "cuidadosEnfermagem": "Observar sinais de reações alérgicas, monitorar sinais vitais durante a infusão e orientar o paciente sobre possíveis efeitos adversos.",
+      "fontesBibliograficas": "FDA Prescribing Information, NCCN Guidelines, PubMed, DrugBank, Micromedex."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Temsirolimus",
+      "suspension": "Temsirolimus should be suspended immediately in cases of severe adverse reactions, including hematologic or hepatic toxicity.",
+      "risk": "Use is contraindicated in patients with known hypersensitivity to temsirolimus or other rapamycin derivatives.",
+      "reintroduction": "Reintroduction should be carefully evaluated by the physician, considering the severity of adverse effects and the patient's clinical response."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Temsirolimus",
+      "nomeComercial": "Torisel",
+      "mecanismoAcao": "Temsirolimus is a selective inhibitor of the mammalian target of rapamycin (mTOR) pathway, blocking cellular signaling responsible for tumor growth and proliferation.",
+      "farmacocinetica": "Following intravenous administration, temsirolimus is rapidly metabolized in the liver by CYP3A4 into sirolimus and other inactive metabolites. The terminal half-life is approximately 17 hours for temsirolimus and 60 hours for sirolimus. Excretion occurs mainly via feces.",
+      "farmacodinamica": "Inhibits phosphorylation of cell cycle regulatory proteins, blocking progression from G1 to S phase, resulting in inhibition of cell proliferation and induction of apoptosis in tumor cells.",
+      "indicacoes": "Indicated for the treatment of advanced or metastatic renal cell carcinoma, particularly in patients with intermediate or poor risk.",
+      "reacoesAdversas": "Common reactions include fatigue, rash, anemia, thrombocytopenia, hyperglycemia, hypertriglyceridemia, and infections. Severe reactions may include interstitial pneumonitis, hepatic failure, and latent infection reactivation syndrome.",
+      "riscoGravidez": "Category D: May cause fetal harm. Contraindicated during pregnancy. Women of childbearing potential should use effective contraception during and after treatment.",
+      "riscoLactacao": "It is unknown whether temsirolimus is excreted in human milk. Breastfeeding is not recommended during treatment and for at least 2 weeks after the last dose.",
+      "administracao": "Administered as a slow intravenous infusion over at least 30 minutes weekly, as prescribed.",
+      "doseMaxima": "Maximum recommended dose is 25 mg per week, adjusted according to tolerance and toxicity.",
+      "doseMinima": "Typical starting dose is 25 mg weekly, which may be reduced to 15 mg in cases of toxicity.",
+      "classificacao": "Antineoplastic agent, mTOR inhibitor, immunosuppressant.",
+      "apresentacao": "Vials containing powder for injectable solution of 25 mg temsirolimus.",
+      "interacaoMedicamento": "Significant interactions with CYP3A4 inhibitors and inducers such as ketoconazole, rifampin, and dexamethasone. May increase toxicity risk with other immunosuppressants.",
+      "posologia": "25 mg intravenous infusion over 30 to 60 minutes once weekly. Dose adjustments based on observed toxicity.",
+      "armazenamento": "Store at 2°C to 8°C, protected from light and moisture. Do not freeze.",
+      "preparo": "Reconstitute powder with sterile 0.9% sodium chloride or 5% dextrose solution for intravenous infusion using aseptic technique.",
+      "solucoesCompatíveis": "Compatible with 0.9% sodium chloride and 5% dextrose intravenous infusion solutions.",
+      "contraindicacoes": "Hypersensitivity to temsirolimus or excipients, pregnancy, lactation, and patients with active severe infections.",
+      "cuidadosMedicos": "Regularly monitor hepatic, renal, and hematologic function. Evaluate for signs of infection and pulmonary toxicity during treatment.",
+      "cuidadosFarmaceuticos": "Handle in a controlled environment, use aseptic techniques, and properly dispose of contaminated materials.",
+      "cuidadosEnfermagem": "Observe for allergic reactions, monitor vital signs during infusion, and educate patients about possible adverse effects.",
+      "fontesBibliograficas": "FDA Prescribing Information, NCCN Guidelines, PubMed, DrugBank, Micromedex."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Temsirolimus",
+      "suspension": "El temsirolimus debe suspenderse inmediatamente en caso de reacciones adversas graves, incluyendo toxicidad hematológica o hepática.",
+      "risk": "Contraindicado en pacientes con hipersensibilidad conocida al temsirolimus o a otros derivados de la rapamicina.",
+      "reintroduction": "La reintroducción debe evaluarse cuidadosamente por el médico, considerando la gravedad de los efectos adversos y la respuesta clínica del paciente."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Temsirolimus",
+      "nomeComercial": "Torisel",
+      "mecanismoAcao": "El temsirolimus es un inhibidor selectivo de la vía mTOR (objetivo mamífero de la rapamicina), que bloquea la señalización celular responsable de la proliferación y crecimiento tumoral.",
+      "farmacocinetica": "Tras la administración intravenosa, el temsirolimus se metaboliza rápidamente en el hígado por CYP3A4 en sirolimus y otros metabolitos inactivos. La vida media terminal es aproximadamente 17 horas para el temsirolimus y 60 horas para el sirolimus. La excreción ocurre principalmente vía fecal.",
+      "farmacodinamica": "Inhibe la fosforilación de proteínas reguladoras del ciclo celular, bloqueando la progresión de la fase G1 a la S, resultando en la inhibición de la proliferación celular y la inducción de apoptosis en células tumorales.",
+      "indicacoes": "Indicado para el tratamiento de carcinoma renal avanzado o metastásico, especialmente en pacientes con riesgo intermedio o alto.",
+      "reacoesAdversas": "Las reacciones comunes incluyen fatiga, erupción cutánea, anemia, trombocitopenia, hiperglucemia, hipertrigliceridemia e infecciones. Reacciones graves pueden incluir neumonitis intersticial, insuficiencia hepática y síndrome de reactivación de infecciones latentes.",
+      "riscoGravidez": "Categoría D: puede causar daño fetal. Contraindicado durante el embarazo. Las mujeres en edad fértil deben usar anticoncepción eficaz durante y después del tratamiento.",
+      "riscoLactacao": "Se desconoce si se excreta en la leche materna. Se recomienda evitar la lactancia durante el tratamiento y al menos 2 semanas después de la última dosis.",
+      "administracao": "Administración intravenosa lenta, infundida durante al menos 30 minutos semanalmente, según prescripción médica.",
+      "doseMaxima": "La dosis máxima recomendada es de 25 mg por semana, ajustada según tolerancia y toxicidad.",
+      "doseMinima": "Dosis inicial típica de 25 mg por semana, que puede reducirse a 15 mg en casos de toxicidad.",
+      "classificacao": "Antineoplásico, inhibidor de mTOR, agente inmunosupresor.",
+      "apresentacao": "Frascos-ampolla que contienen polvo para solución inyectable de 25 mg de temsirolimus.",
+      "interacaoMedicamento": "Interacción significativa con inhibidores e inductores del CYP3A4, como ketoconazol, rifampicina y dexametasona. Puede aumentar el riesgo de toxicidad con otros agentes inmunosupresores.",
+      "posologia": "25 mg por vía intravenosa, infundido durante 30 a 60 minutos una vez por semana. Ajustes de dosis basados en la toxicidad observada.",
+      "armazenamento": "Conservar a temperaturas entre 2°C y 8°C, protegido de la luz y humedad. No congelar.",
+      "preparo": "Reconstituir el polvo con solución estéril de cloruro de sodio al 0,9% o glucosa al 5% para infusión intravenosa, utilizando técnica aséptica.",
+      "solucoesCompatíveis": "Compatible con solución de cloruro de sodio al 0,9% y glucosa al 5% para infusión intravenosa.",
+      "contraindicacoes": "Hipersensibilidad al temsirolimus o a sus excipientes, embarazo, lactancia y pacientes con infecciones activas graves.",
+      "cuidadosMedicos": "Monitorear regularmente la función hepática, renal y hematológica. Evaluar signos de infección y toxicidad pulmonar durante el tratamiento.",
+      "cuidadosFarmaceuticos": "Manipular en ambiente controlado, utilizar técnicas asépticas y desechar adecuadamente materiales contaminados.",
+      "cuidadosEnfermagem": "Observar signos de reacciones alérgicas, monitorizar signos vitales durante la infusión y orientar al paciente sobre posibles efectos adversos.",
+      "fontesBibliograficas": "FDA Prescribing Information, NCCN Guidelines, PubMed, DrugBank, Micromedex."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "依维莫司",
+      "suspension": "在出现严重不良反应，包括血液学或肝脏毒性时，应立即暂停依维莫司的使用。",
+      "risk": "对依维莫司或其他雷帕霉素类衍生物过敏者禁用。",
+      "reintroduction": "重新使用应由医生谨慎评估，考虑不良反应的严重程度及患者的临床反应。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依维莫司",
+      "nomeComercial": "Torisel",
+      "mecanismoAcao": "依维莫司是一种选择性哺乳动物雷帕霉素靶蛋白（mTOR）通路抑制剂，阻断肿瘤细胞增殖和生长的信号传导。",
+      "farmacocinetica": "静脉注射后，依维莫司通过肝脏CYP3A4迅速代谢为西罗莫司及其他无活性代谢产物。终末半衰期约为依维莫司17小时，西罗莫司60小时。主要经粪便排泄。",
+      "farmacodinamica": "抑制细胞周期调控蛋白的磷酸化，阻断G1期向S期的进展，抑制细胞增殖并诱导肿瘤细胞凋亡。",
+      "indicacoes": "用于治疗晚期或转移性肾细胞癌，特别适用于中危及高危患者。",
+      "reacoesAdversas": "常见不良反应包括疲劳、皮疹、贫血、血小板减少、高血糖、高甘油三酯血症及感染。严重反应可能包括间质性肺炎、肝功能衰竭及潜伏感染激活综合征。",
+      "riscoGravidez": "D类药物：可能致胎儿伤害。孕期禁用。育龄妇女应在治疗期间及治疗后采取有效避孕措施。",
+      "riscoLactacao": "尚不清楚依维莫司是否分泌至母乳。建议治疗期间及最后一次用药后至少2周内避免哺乳。",
+      "administracao": "缓慢静脉注射，至少30分钟，每周一次，遵医嘱。",
+      "doseMaxima": "最大推荐剂量为每周25毫克，根据耐受性和毒性调整。",
+      "doseMinima": "典型起始剂量为每周25毫克，毒性出现时可减至15毫克。",
+      "classificacao": "抗肿瘤药，mTOR抑制剂，免疫抑制剂。",
+      "apresentacao": "含25毫克依维莫司冻干粉的注射用瓶。",
+      "interacaoMedicamento": "与CYP3A4抑制剂和诱导剂（如酮康唑、利福平和地塞米松）有显著相互作用。可能增加与其他免疫抑制剂合用时的毒性风险。",
+      "posologia": "每周静脉注射25毫克，注射时间30至60分钟。根据毒性反应调整剂量。",
+      "armazenamento": "2°C至8°C保存，避光防潮。禁止冷冻。",
+      "preparo": "使用无菌技术，将冻干粉重构于0.9%氯化钠或5%葡萄糖注射液中，供静脉输注使用。",
+      "solucoesCompatíveis": "与0.9%氯化钠和5%葡萄糖注射液兼容。",
+      "contraindicacoes": "对依维莫司或赋形剂过敏者，孕妇，哺乳期妇女及严重活动性感染患者禁用。",
+      "cuidadosMedicos": "定期监测肝肾功能及血液学指标。治疗期间评估感染及肺毒性表现。",
+      "cuidadosFarmaceuticos": "在受控环境下操作，采用无菌技术，妥善处置污染物品。",
+      "cuidadosEnfermagem": "观察过敏反应，监测输注期间生命体征，指导患者了解可能的不良反应。",
+      "fontesBibliograficas": "FDA处方信息，NCCN指南，PubMed，DrugBank，Micromedex。"
+    }
+  }
+}

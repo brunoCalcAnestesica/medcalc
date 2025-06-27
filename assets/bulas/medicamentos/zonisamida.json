@@ -1,0 +1,142 @@
+{
+  "PT": {
+    "external": {
+      "name": "Zonisamida",
+      "suspension": "Suspender 24–48h antes de neurocirurgias ou em caso de acidose metabólica ou jejum prolongado",
+      "risk": "Acidose metabólica, cálculo renal, sonolência, perda de peso, tontura, oligohidrose, hipertermia, erupções cutâneas",
+      "reintroduction": "Reintroduzir com hidratação adequada após 48h, com função renal e equilíbrio ácido-base normalizados"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zonisamida",
+      "nomeComercial": "Zonegran",
+      "mecanismoAcao": "Bloqueador de canais de sódio e cálcio T; inibe neurotransmissão excitatória e potencializa GABA",
+      "farmacocinetica": "VO; biodisponibilidade >90%; T½ ~63h; metabolizado por acetilação (hepático); excreção renal",
+      "farmacodinamica": "Estabiliza membranas neuronais hiperexcitadas e reduz propagação de crises",
+      "indicacoes": "Epilepsia parcial (monoterapia ou adjuvante), epilepsia generalizada, off-label em transtorno bipolar e dor neuropática",
+      "reacoesAdversas": "Letargia, anorexia, agitação, cálculo renal, distúrbios da fala, síndrome de Stevens-Johnson, acidose metabólica",
+      "riscoGravidez": "Categoria C – uso com cautela; possível teratogênico",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO 1x ou 2x/dia com titulação progressiva",
+      "doseMaxima": "600mg/dia",
+      "doseMinima": "50mg/dia",
+      "classificacao": "Antiepiléptico de amplo espectro; sulfonamida",
+      "apresentacao": "Cápsulas de 25mg, 50mg, 100mg",
+      "interacaoMedicamento": "Fenitoína, carbamazepina (↓níveis), valproato, topiramato, inibidores da anidrase carbônica",
+      "posologia": "Iniciar com 50mg/dia; aumentar semanalmente até 200–400mg/dia em 2 doses",
+      "armazenamento": "Temperatura ambiente; manter frasco bem fechado",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia a sulfonamidas, insuficiência hepática grave, cálculos renais ativos, acidose metabólica",
+      "cuidadosMedicos": "Monitorar função renal, bicarbonato sérico, peso corporal, sinais de erupções cutâneas",
+      "cuidadosFarmaceuticos": "Orientar sobre hidratação, evitar exposição prolongada ao calor",
+      "cuidadosEnfermagem": "Observar letargia, alterações de humor, náusea, erupções",
+      "comentarioFarmacologico": "Zonisamida apresenta meia-vida longa, permitindo posologia conveniente em dose única diária. Seu mecanismo multimodal contribui para ação em diversos tipos de crise epiléptica. A excreção renal demanda atenção à função renal e hidratação contínua. Utilizada também em transtorno bipolar resistente e em síndrome de Lennox-Gastaut.",
+      "comentarioSeguranca": "Apresenta risco de acidose metabólica, principalmente em crianças, e casos graves de rash, incluindo Stevens-Johnson. Requer titulação lenta para minimizar efeitos adversos. Contraindicada em pacientes com história de cálculos renais e hipersensibilidade a sulfonamidas. Exige cautela em jejum prolongado e uso com outros inibidores da anidrase carbônica."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Zonisamide",
+      "suspension": "Suspender 24–48h antes de neurocirurgias ou em caso de acidose metabólica ou jejum prolongado",
+      "risk": "Acidose metabólica, cálculo renal, sonolência, perda de peso, tontura, oligohidrose, hipertermia, erupções cutâneas",
+      "reintroduction": "Reintroduzir com hidratação adequada após 48h, com função renal e equilíbrio ácido-base normalizados"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zonisamida",
+      "nomeComercial": "Zonegran",
+      "mecanismoAcao": "Bloqueador de canais de sódio e cálcio T; inibe neurotransmissão excitatória e potencializa GABA",
+      "farmacocinetica": "VO; biodisponibilidade >90%; T½ ~63h; metabolizado por acetilação (hepático); excreção renal",
+      "farmacodinamica": "Estabiliza membranas neuronais hiperexcitadas e reduz propagação de crises",
+      "indicacoes": "Epilepsia parcial (monoterapia ou adjuvante), epilepsia generalizada, off-label em transtorno bipolar e dor neuropática",
+      "reacoesAdversas": "Letargia, anorexia, agitação, cálculo renal, distúrbios da fala, síndrome de Stevens-Johnson, acidose metabólica",
+      "riscoGravidez": "Categoria C – uso com cautela; possível teratogênico",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO 1x ou 2x/dia com titulação progressiva",
+      "doseMaxima": "600mg/dia",
+      "doseMinima": "50mg/dia",
+      "classificacao": "Antiepiléptico de amplo espectro; sulfonamida",
+      "apresentacao": "Cápsulas de 25mg, 50mg, 100mg",
+      "interacaoMedicamento": "Fenitoína, carbamazepina (↓níveis), valproato, topiramato, inibidores da anidrase carbônica",
+      "posologia": "Iniciar com 50mg/dia; aumentar semanalmente até 200–400mg/dia em 2 doses",
+      "armazenamento": "Temperatura ambiente; manter frasco bem fechado",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia a sulfonamidas, insuficiência hepática grave, cálculos renais ativos, acidose metabólica",
+      "cuidadosMedicos": "Monitorar função renal, bicarbonato sérico, peso corporal, sinais de erupções cutâneas",
+      "cuidadosFarmaceuticos": "Orientar sobre hidratação, evitar exposição prolongada ao calor",
+      "cuidadosEnfermagem": "Observar letargia, alterações de humor, náusea, erupções",
+      "comentarioFarmacologico": "Zonisamida apresenta meia-vida longa, permitindo posologia conveniente em dose única diária. Seu mecanismo multimodal contribui para ação em diversos tipos de crise epiléptica. A excreção renal demanda atenção à função renal e hidratação contínua. Utilizada também em transtorno bipolar resistente e em síndrome de Lennox-Gastaut.",
+      "comentarioSeguranca": "Apresenta risco de acidose metabólica, principalmente em crianças, e casos graves de rash, incluindo Stevens-Johnson. Requer titulação lenta para minimizar efeitos adversos. Contraindicada em pacientes com história de cálculos renais e hipersensibilidade a sulfonamidas. Exige cautela em jejum prolongado e uso com outros inibidores da anidrase carbônica."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Zonisamida",
+      "suspension": "Suspender 24–48h antes de neurocirurgias ou em caso de acidose metabólica ou jejum prolongado",
+      "risk": "Acidose metabólica, cálculo renal, sonolência, perda de peso, tontura, oligohidrose, hipertermia, erupções cutâneas",
+      "reintroduction": "Reintroduzir com hidratação adequada após 48h, com função renal e equilíbrio ácido-base normalizados"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zonisamida",
+      "nomeComercial": "Zonegran",
+      "mecanismoAcao": "Bloqueador de canais de sódio e cálcio T; inibe neurotransmissão excitatória e potencializa GABA",
+      "farmacocinetica": "VO; biodisponibilidade >90%; T½ ~63h; metabolizado por acetilação (hepático); excreção renal",
+      "farmacodinamica": "Estabiliza membranas neuronais hiperexcitadas e reduz propagação de crises",
+      "indicacoes": "Epilepsia parcial (monoterapia ou adjuvante), epilepsia generalizada, off-label em transtorno bipolar e dor neuropática",
+      "reacoesAdversas": "Letargia, anorexia, agitação, cálculo renal, distúrbios da fala, síndrome de Stevens-Johnson, acidose metabólica",
+      "riscoGravidez": "Categoria C – uso com cautela; possível teratogênico",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO 1x ou 2x/dia com titulação progressiva",
+      "doseMaxima": "600mg/dia",
+      "doseMinima": "50mg/dia",
+      "classificacao": "Antiepiléptico de amplo espectro; sulfonamida",
+      "apresentacao": "Cápsulas de 25mg, 50mg, 100mg",
+      "interacaoMedicamento": "Fenitoína, carbamazepina (↓níveis), valproato, topiramato, inibidores da anidrase carbônica",
+      "posologia": "Iniciar com 50mg/dia; aumentar semanalmente até 200–400mg/dia em 2 doses",
+      "armazenamento": "Temperatura ambiente; manter frasco bem fechado",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia a sulfonamidas, insuficiência hepática grave, cálculos renais ativos, acidose metabólica",
+      "cuidadosMedicos": "Monitorar função renal, bicarbonato sérico, peso corporal, sinais de erupções cutâneas",
+      "cuidadosFarmaceuticos": "Orientar sobre hidratação, evitar exposição prolongada ao calor",
+      "cuidadosEnfermagem": "Observar letargia, alterações de humor, náusea, erupções",
+      "comentarioFarmacologico": "Zonisamida apresenta meia-vida longa, permitindo posologia conveniente em dose única diária. Seu mecanismo multimodal contribui para ação em diversos tipos de crise epiléptica. A excreção renal demanda atenção à função renal e hidratação contínua. Utilizada também em transtorno bipolar resistente e em síndrome de Lennox-Gastaut.",
+      "comentarioSeguranca": "Apresenta risco de acidose metabólica, principalmente em crianças, e casos graves de rash, incluindo Stevens-Johnson. Requer titulação lenta para minimizar efeitos adversos. Contraindicada em pacientes com história de cálculos renais e hipersensibilidade a sulfonamidas. Exige cautela em jejum prolongado e uso com outros inibidores da anidrase carbônica."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "唑尼沙胺",
+      "suspension": "Suspender 24–48h antes de neurocirurgias ou em caso de acidose metabólica ou jejum prolongado",
+      "risk": "Acidose metabólica, cálculo renal, sonolência, perda de peso, tontura, oligohidrose, hipertermia, erupções cutâneas",
+      "reintroduction": "Reintroduzir com hidratação adequada após 48h, com função renal e equilíbrio ácido-base normalizados"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zonisamida",
+      "nomeComercial": "Zonegran",
+      "mecanismoAcao": "Bloqueador de canais de sódio e cálcio T; inibe neurotransmissão excitatória e potencializa GABA",
+      "farmacocinetica": "VO; biodisponibilidade >90%; T½ ~63h; metabolizado por acetilação (hepático); excreção renal",
+      "farmacodinamica": "Estabiliza membranas neuronais hiperexcitadas e reduz propagação de crises",
+      "indicacoes": "Epilepsia parcial (monoterapia ou adjuvante), epilepsia generalizada, off-label em transtorno bipolar e dor neuropática",
+      "reacoesAdversas": "Letargia, anorexia, agitação, cálculo renal, distúrbios da fala, síndrome de Stevens-Johnson, acidose metabólica",
+      "riscoGravidez": "Categoria C – uso com cautela; possível teratogênico",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO 1x ou 2x/dia com titulação progressiva",
+      "doseMaxima": "600mg/dia",
+      "doseMinima": "50mg/dia",
+      "classificacao": "Antiepiléptico de amplo espectro; sulfonamida",
+      "apresentacao": "Cápsulas de 25mg, 50mg, 100mg",
+      "interacaoMedicamento": "Fenitoína, carbamazepina (↓níveis), valproato, topiramato, inibidores da anidrase carbônica",
+      "posologia": "Iniciar com 50mg/dia; aumentar semanalmente até 200–400mg/dia em 2 doses",
+      "armazenamento": "Temperatura ambiente; manter frasco bem fechado",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia a sulfonamidas, insuficiência hepática grave, cálculos renais ativos, acidose metabólica",
+      "cuidadosMedicos": "Monitorar função renal, bicarbonato sérico, peso corporal, sinais de erupções cutâneas",
+      "cuidadosFarmaceuticos": "Orientar sobre hidratação, evitar exposição prolongada ao calor",
+      "cuidadosEnfermagem": "Observar letargia, alterações de humor, náusea, erupções",
+      "comentarioFarmacologico": "Zonisamida apresenta meia-vida longa, permitindo posologia conveniente em dose única diária. Seu mecanismo multimodal contribui para ação em diversos tipos de crise epiléptica. A excreção renal demanda atenção à função renal e hidratação contínua. Utilizada também em transtorno bipolar resistente e em síndrome de Lennox-Gastaut.",
+      "comentarioSeguranca": "Apresenta risco de acidose metabólica, principalmente em crianças, e casos graves de rash, incluindo Stevens-Johnson. Requer titulação lenta para minimizar efeitos adversos. Contraindicada em pacientes com história de cálculos renais e hipersensibilidade a sulfonamidas. Exige cautela em jejum prolongado e uso com outros inibidores da anidrase carbônica."
+    }
+  }
+}

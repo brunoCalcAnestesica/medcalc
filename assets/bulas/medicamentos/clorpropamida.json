@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clorpropamida",
+      "suspension": "Suspender 48 horas antes de cirurgias eletivas",
+      "risk": "Alto risco de hipoglicemia prolongada no intra e pós-operatório; interação com anestésicos e varfarina",
+      "reintroduction": "Reintroduzir apenas após normalização da dieta e glicemia estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorpropamida",
+      "nomeComercial": "Diabinese",
+      "mecanismoAcao": "Sulfonilureia de primeira geração que estimula liberação de insulina pelas células beta pancreáticas",
+      "farmacocinetica": "Absorção oral rápida; meia-vida de 36–60 horas; excreção renal",
+      "farmacodinamica": "Redução da glicemia por estímulo à insulina endógena",
+      "indicacoes": "Diabetes mellitus tipo 2 (uso histórico, atualmente pouco utilizado)",
+      "reacoesAdversas": "Hipoglicemia grave e prolongada, hiponatremia, rubor facial com álcool, colestase, disulfiram-like",
+      "riscoGravidez": "Categoria C – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Via oral",
+      "doseMaxima": "750 mg/dia",
+      "doseMinima": "100 mg/dia",
+      "classificacao": "Antidiabético oral – sulfonilureia (1ª geração)",
+      "apresentacao": "Comprimidos 100 mg, 250 mg",
+      "interacaoMedicamento": "Potencializa varfarina, álcool, AINEs, beta-bloqueadores; hipoglicemia com inibidores da MAO",
+      "posologia": "100 a 500 mg/dia em dose única pela manhã",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Diabetes tipo 1, cetoacidose diabética, disfunção renal ou hepática significativa",
+      "cuidadosMedicos": "Suspender antes da cirurgia; monitorar glicemia capilar intensivamente",
+      "cuidadosFarmaceuticos": "Evitar uso com álcool e alertar sobre sintomas de hipoglicemia",
+      "cuidadosEnfermagem": "Observar sinais de hipoglicemia, interações e ingestão alimentar",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, UpToDate, SBEM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Chlorpropamide",
+      "suspension": "Discontinue 48 hours prior to elective surgery",
+      "risk": "High risk of prolonged hypoglycemia; interacts with anesthetics and anticoagulants",
+      "reintroduction": "Restart only after stable oral intake and glucose control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Chlorpropamide",
+      "nomeComercial": "Diabinese",
+      "mecanismoAcao": "1st-gen sulfonylurea that stimulates insulin secretion from pancreatic beta cells",
+      "farmacocinetica": "Rapid oral absorption; half-life 36–60 h; renal excretion",
+      "farmacodinamica": "Lowers blood glucose by stimulating endogenous insulin",
+      "indicacoes": "Type 2 diabetes mellitus (historic use)",
+      "reacoesAdversas": "Prolonged hypoglycemia, hyponatremia, flushing with alcohol, cholestasis, disulfiram-like effect",
+      "riscoGravidez": "Category C – avoid",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "750 mg/day",
+      "doseMinima": "100 mg/day",
+      "classificacao": "Sulfonylurea antidiabetic – 1st generation",
+      "apresentacao": "Tablets 100 mg, 250 mg",
+      "interacaoMedicamento": "Potentiated by alcohol, MAOIs, NSAIDs, warfarin, beta-blockers",
+      "posologia": "100–500 mg once daily in the morning",
+      "armazenamento": "Room temp, protect from moisture",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Type 1 diabetes, ketoacidosis, significant renal or hepatic disease",
+      "cuidadosMedicos": "Suspend before surgery; monitor glucose closely",
+      "cuidadosFarmaceuticos": "Warn about alcohol and hypoglycemia risks",
+      "cuidadosEnfermagem": "Monitor blood sugar, symptoms of hypoglycemia",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, ADA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clorpropamida",
+      "suspension": "Suspender 48 h antes de cirugía",
+      "risk": "Riesgo alto de hipoglucemia prolongada; interacción con anestesia y anticoagulantes",
+      "reintroduction": "Reintroducir tras recuperación dietética y glucemia estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorpropamida",
+      "nomeComercial": "Diabinese",
+      "mecanismoAcao": "Sulfonilurea de 1ª generación que estimula secreción de insulina",
+      "farmacocinetica": "Absorción oral rápida; vida media 36–60 h; eliminación renal",
+      "farmacodinamica": "Reduce glucosa estimulando insulina endógena",
+      "indicacoes": "DM2 (uso histórico)",
+      "reacoesAdversas": "Hipoglucemia, hiponatremia, enrojecimiento con alcohol, ictericia colestásica",
+      "riscoGravidez": "Categoría C – evitar",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "750 mg/día",
+      "doseMinima": "100 mg/día",
+      "classificacao": "Antidiabético oral – sulfonilurea 1ª gen",
+      "apresentacao": "Comprimidos 100 y 250 mg",
+      "interacaoMedicamento": "Potencia AINEs, anticoagulantes, alcohol; IMAO",
+      "posologia": "100–500 mg una vez al día",
+      "armazenamento": "Ambiente seco",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "DM1, cetoacidosis, IR o hepatopatía severa",
+      "cuidadosMedicos": "Monitoreo glucémico y suspender antes de cirugía",
+      "cuidadosFarmaceuticos": "Advertir sobre alcohol e hipoglucemia",
+      "cuidadosEnfermagem": "Controlar síntomas hipoglucémicos y alimentación",
+      "fontesBibliograficas": "Micromedex, ADA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯磺丙脲",
+      "suspension": "择期手术前48小时停药",
+      "risk": "术中术后低血糖风险高，可与麻醉药和抗凝药相互作用",
+      "reintroduction": "术后饮食恢复且血糖稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯磺丙脲",
+      "nomeComercial": "Diabinese",
+      "mecanismoAcao": "第一代磺酰脲类，刺激胰岛β细胞释放胰岛素",
+      "farmacocinetica": "口服吸收快，半衰期36–60小时，经肾排泄",
+      "farmacodinamica": "通过刺激内源性胰岛素降低血糖",
+      "indicacoes": "2型糖尿病（历史性使用）",
+      "reacoesAdversas": "低血糖、低钠血症、饮酒后潮红、胆汁淤积、戒酒样反应",
+      "riscoGravidez": "C类 – 避免使用",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日750毫克",
+      "doseMinima": "每日100毫克",
+      "classificacao": "磺酰脲类口服降糖药（第一代）",
+      "apresentacao": "片剂100 mg、250 mg",
+      "interacaoMedicamento": "增强华法林、NSAIDs、酒精、β阻断剂作用",
+      "posologia": "每日一次100–500 mg",
+      "armazenamento": "干燥常温保存",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "1型糖尿病、酮症酸中毒、重度肝肾功能不全",
+      "cuidadosMedicos": "术前停药，术中严密监测血糖",
+      "cuidadosFarmaceuticos": "避免饮酒；提示低血糖风险",
+      "cuidadosEnfermagem": "监测血糖及低血糖症状",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、ADA"
+    }
+  }
+}

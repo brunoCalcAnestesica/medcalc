@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Anastrozol",
+      "suspension": "Não há necessidade de suspensão pré-operatória na maioria dos casos",
+      "risk": "Redução de densidade óssea, artralgia, afrontamentos, fadiga, dislipidemia, hipertensão leve",
+      "reintroduction": "Manter ou reintroduzir em 24–48h pós-operatório, se tolerado clinicamente"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anastrozol",
+      "nomeComercial": "Arimidex",
+      "mecanismoAcao": "Inibidor não-esteroidal da aromatase; reduz conversão periférica de andrógenos em estrogênio",
+      "farmacocinetica": "VO; biodisponibilidade >80%; T½ ~50h; metabolismo hepático; excreção renal e fecal",
+      "farmacodinamica": "Bloqueio de estrogênio circulante em mulheres pós-menopáusicas; efeito antitumoral hormônio-dependente",
+      "indicacoes": "Câncer de mama hormônio-positivo em mulheres pós-menopáusicas; uso off-label em ginecomastia e fertilidade masculina",
+      "reacoesAdversas": "Artralgia, osteopenia/osteoporose, ondas de calor, náuseas, fadiga, cefaleia, dislipidemia",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "VO 1mg 1x/dia",
+      "doseMaxima": "1mg/dia",
+      "doseMinima": "0,5mg/dia (off-label ou ajuste)",
+      "classificacao": "Inibidor seletivo da aromatase (não esteroidal)",
+      "apresentacao": "Comprimidos de 1mg",
+      "interacaoMedicamento": "Evitar uso com tamoxifeno (antagonismo); monitorar sinvastatina, varfarina, estrogênios",
+      "posologia": "1mg/dia VO contínuo, por 5 a 10 anos em câncer de mama",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo específico",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, insuficiência hepática grave, alergia a anastrozol",
+      "cuidadosMedicos": "Monitorar densidade mineral óssea, perfil lipídico e sintomas articulares",
+      "cuidadosFarmaceuticos": "Orientar adesão prolongada e necessidade de suplementação de cálcio/vitamina D",
+      "cuidadosEnfermagem": "Observar queixas articulares, calorões, alterações de humor",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Anastrozole",
+      "suspension": "No preoperative suspension typically needed",
+      "risk": "Bone loss, joint pain, hot flashes, lipid changes, fatigue",
+      "reintroduction": "Continue or restart within 24–48h postop if tolerated"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anastrozole",
+      "nomeComercial": "Arimidex",
+      "mecanismoAcao": "Non-steroidal aromatase inhibitor; blocks estrogen synthesis",
+      "farmacocinetica": "Oral; T½ ~50h; hepatic metabolism; renal and fecal excretion",
+      "farmacodinamica": "Reduces circulating estrogen in postmenopausal women",
+      "indicacoes": "Hormone-positive breast cancer (postmenopausal); off-label in male infertility",
+      "reacoesAdversas": "Joint pain, hot flashes, nausea, osteoporosis, fatigue",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Not recommended",
+      "administracao": "1mg PO once daily",
+      "doseMaxima": "1mg/day",
+      "doseMinima": "0.5mg/day (off-label)",
+      "classificacao": "Selective aromatase inhibitor",
+      "apresentacao": "1mg tablets",
+      "interacaoMedicamento": "Avoid tamoxifen; monitor lipids and bone density",
+      "posologia": "1mg/day PO continuously (5–10 years)",
+      "armazenamento": "Room temp; protect from moisture",
+      "preparo": "No special preparation",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, lactation, severe liver dysfunction",
+      "cuidadosMedicos": "DEXA scans, lipid panel, joint pain monitoring",
+      "cuidadosFarmaceuticos": "Adherence, calcium/vitamin D supplementation education",
+      "cuidadosEnfermagem": "Assess joint discomfort, fatigue, menopausal symptoms",
+      "fontesBibliograficas": "FDA label, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Anastrozol",
+      "suspension": "No suele requerir suspensión preoperatoria",
+      "risk": "Osteoporosis, artralgia, sofocos, dislipidemia, fatiga",
+      "reintroduction": "Mantener o reintroducir en 24–48h postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anastrozol",
+      "nomeComercial": "Arimidex",
+      "mecanismoAcao": "Inhibidor de aromatasa no esteroideo; reduce producción de estrógenos",
+      "farmacocinetica": "VO; T½ 50h; metabolismo hepático; excreción renal/fecal",
+      "farmacodinamica": "Reducción del estrógeno circulante postmenopáusico",
+      "indicacoes": "Cáncer de mama HR+ en mujeres postmenopáusicas",
+      "reacoesAdversas": "Dolor articular, osteoporosis, náusea, sofocos, fatiga",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "1mg VO una vez al día",
+      "doseMaxima": "1mg/día",
+      "doseMinima": "0,5mg/día",
+      "classificacao": "Inhibidor selectivo de aromatasa",
+      "apresentacao": "Comprimidos 1mg",
+      "interacaoMedicamento": "Evitar tamoxifeno; vigilar lípidos y DMO",
+      "posologia": "1mg/día durante 5–10 años",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "No requiere",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, hepatopatía severa",
+      "cuidadosMedicos": "Control DMO, perfil lipídico, artralgia",
+      "cuidadosFarmaceuticos": "Educación sobre adherencia y suplementos óseos",
+      "cuidadosEnfermagem": "Vigilar quejas articulares, sofocos",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿那曲唑",
+      "suspension": "通常无需术前停药",
+      "risk": "骨质疏松、关节痛、潮热、血脂异常、疲劳",
+      "reintroduction": "术后24–48小时内可继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿那曲唑",
+      "nomeComercial": "Arimidex",
+      "mecanismoAcao": "非甾体类芳香化酶抑制剂，阻止雌激素生成",
+      "farmacocinetica": "口服；T½约50小时；肝代谢；肾/粪排泄",
+      "farmacodinamica": "降低绝经后女性体内雌激素水平",
+      "indicacoes": "激素阳性乳腺癌（绝经后女性）",
+      "reacoesAdversas": "关节痛、骨密度下降、潮热、乏力、血脂升高",
+      "riscoGravidez": "X类 – 妊娠禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "每日1mg口服1次",
+      "doseMaxima": "每日1mg",
+      "doseMinima": "每日0.5mg",
+      "classificacao": "选择性芳香化酶抑制剂",
+      "apresentacao": "片剂1mg",
+      "interacaoMedicamento": "避免与他莫昔芬合用；监测他汀类/抗凝药",
+      "posologia": "每日1mg，持续5–10年",
+      "armazenamento": "干燥避光，常温储存",
+      "preparo": "无需处理，直接服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、重度肝病",
+      "cuidadosMedicos": "监测骨密度、血脂、关节症状",
+      "cuidadosFarmaceuticos": "长期依从性教育、补钙/维生素D建议",
+      "cuidadosEnfermagem": "观察关节不适、潮热、情绪波动",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

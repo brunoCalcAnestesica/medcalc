@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Azatioprina",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas de grande porte; manter com cautela em cirurgias menores ou se risco de rejeição/recidiva for alto",
+      "risk": "Imunossupressão perioperatória com maior risco de infecção, leucopenia, cicatrização retardada e hepatotoxicidade",
+      "reintroduction": "Reintroduzir após cicatrização inicial e controle de sinais infecciosos, geralmente 7–10 dias após o procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Azatioprina",
+      "nomeComercial": "Imuran, Azoran, Imusuprex",
+      "mecanismoAcao": "Antimetabólito purínico que inibe a proliferação de linfócitos por interferência na síntese de DNA e RNA",
+      "farmacocinetica": "Absorção oral ~88%, metabolização hepática e por TPMT; meia-vida de 4,5h; excreção renal",
+      "farmacodinamica": "Imunossupressor citotóxico, reduz resposta imune celular e humoral",
+      "indicacoes": "Transplantes, doenças autoimunes (LES, Crohn, AR, hepatite autoimune), colite ulcerativa",
+      "reacoesAdversas": "Leucopenia, hepatotoxicidade, pancreatite, náusea, alopecia, risco aumentado de linfoma e infecção oportunista",
+      "riscoGravidez": "Categoria D – uso permitido em casos selecionados com risco-benefício favorável",
+      "riscoLactacao": "Pode ser excretado em leite; contraindicado ou uso com monitoramento",
+      "administracao": "Via oral",
+      "doseMaxima": "5mg/kg/dia (imunossupressão intensa)",
+      "doseMinima": "1–2mg/kg/dia (manutenção)",
+      "classificacao": "Imunossupressor, antimetabólito",
+      "apresentacao": "Comprimidos de 50mg",
+      "interacaoMedicamento": "Aumenta toxicidade com alopurinol; risco hematológico com IECA, cotrimoxazol, anticoagulantes e outros imunossupressores",
+      "posologia": "Adultos: 1–3mg/kg/dia; ajustar conforme resposta clínica e leucograma",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso oral direto; não triturar sem proteção",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, TPMT deficiente, infecção ativa grave",
+      "cuidadosMedicos": "Monitorar hemograma, enzimas hepáticas e sinais de infecção; evitar vacinas com vírus vivos",
+      "cuidadosFarmaceuticos": "Confirmar dose baseada em peso e função hepática; avaliar interações medicamentosas",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade (hematológica, hepática), uso contínuo com cuidado",
+      "fontesBibliograficas": "SBMT, FDA, Micromedex, EMA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Azathioprine",
+      "suspension": "Discontinue 7 days before major surgery; may be continued with caution in minor procedures or high rejection risk",
+      "risk": "Perioperative immunosuppression increases infection risk, leukopenia, delayed wound healing, hepatotoxicity",
+      "reintroduction": "Restart after initial wound healing and infection control, typically 7–10 days post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Azathioprine",
+      "nomeComercial": "Imuran",
+      "mecanismoAcao": "Purine analog that inhibits DNA/RNA synthesis in lymphocytes, reducing immune proliferation",
+      "farmacocinetica": "Oral bioavailability ~88%, hepatic and TPMT metabolism; half-life ~4.5h; renal excretion",
+      "farmacodinamica": "Cytotoxic immunosuppressant; affects both T and B cell immunity",
+      "indicacoes": "Kidney transplant, autoimmune diseases (Crohn’s, RA, lupus, autoimmune hepatitis)",
+      "reacoesAdversas": "Myelosuppression, hepatotoxicity, pancreatitis, lymphoma, infections, GI intolerance",
+      "riscoGravidez": "Category D – may be used if benefits outweigh risks",
+      "riscoLactacao": "Detected in breast milk; contraindicated or used with caution",
+      "administracao": "Oral",
+      "doseMaxima": "5mg/kg/day",
+      "doseMinima": "1mg/kg/day",
+      "classificacao": "Immunosuppressant, antimetabolite",
+      "apresentacao": "50mg tablets",
+      "interacaoMedicamento": "Severe toxicity with allopurinol; increased hematologic risk with ACEIs, anticoagulants, and sulfonamides",
+      "posologia": "1–3mg/kg/day; titrate based on WBC and clinical response",
+      "armazenamento": "Room temperature, dry conditions",
+      "preparo": "Do not crush without PPE; oral administration only",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, severe infection, TPMT deficiency",
+      "cuidadosMedicos": "Frequent CBC and liver monitoring; avoid live vaccines",
+      "cuidadosFarmaceuticos": "Review drug interactions; ensure renal/hepatic monitoring",
+      "cuidadosEnfermagem": "Assess for infection signs, cytopenias, liver dysfunction",
+      "fontesBibliograficas": "FDA, Micromedex, ACR guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Azatioprina",
+      "suspension": "Suspender 7 días antes de cirugía mayor; mantener con precaución si el riesgo de recaída o rechazo es alto",
+      "risk": "Inmunosupresión perioperatoria: mayor riesgo de infección, leucopenia, hepatotoxicidad y cicatrización lenta",
+      "reintroduction": "Reanudar 7–10 días después de la cirugía tras control de infección y cicatrización inicial"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Azatioprina",
+      "nomeComercial": "Imurel, Azoran",
+      "mecanismoAcao": "Análogo de purinas que inhibe síntesis de DNA y RNA en linfocitos",
+      "farmacocinetica": "Buena absorción oral (~88%), metabolismo hepático y por TPMT, excreción renal",
+      "farmacodinamica": "Inmunosupresor citotóxico, reduce inmunidad celular y humoral",
+      "indicacoes": "Transplantes, lupus, Crohn, colitis ulcerosa, hepatitis autoinmune",
+      "reacoesAdversas": "Leucopenia, hepatotoxicidad, pancreatitis, náuseas, alopecia",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Secreción en leche; contraindicado o con vigilancia estricta",
+      "administracao": "Vía oral",
+      "doseMaxima": "5mg/kg/día",
+      "doseMinima": "1mg/kg/día",
+      "classificacao": "Inmunosupresor antimetabolito",
+      "apresentacao": "Comprimidos de 50mg",
+      "interacaoMedicamento": "Alopurinol aumenta toxicidad; precaución con AINEs, anticoagulantes",
+      "posologia": "1–3mg/kg/día ajustado por análisis de sangre",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "Administración oral directa; no triturar sin protección",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia, deficiencia de TPMT, infección activa grave",
+      "cuidadosMedicos": "Monitorear hemograma, función hepática; evitar vacunas vivas",
+      "cuidadosFarmaceuticos": "Verificar interacciones y dosis; control renal y hepático",
+      "cuidadosEnfermagem": "Observar signos de toxicidad, infecciones o sangrado",
+      "fontesBibliograficas": "EMA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硫唑嘌呤",
+      "suspension": "择期大手术前7天停药；轻手术或高复发风险患者可谨慎继续使用",
+      "risk": "围手术期免疫抑制，易感染、白细胞减少、肝损伤和伤口愈合延迟",
+      "reintroduction": "术后7–10天，在感染控制及愈合后可重新服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硫唑嘌呤（Azathioprine）",
+      "nomeComercial": "Imuran，Azoran",
+      "mecanismoAcao": "嘌呤类似物，抑制淋巴细胞DNA合成，干扰增殖",
+      "farmacocinetica": "口服吸收良好，经肝脏和TPMT代谢；排泄主要经肾",
+      "farmacodinamica": "细胞毒性免疫抑制剂，影响T细胞和B细胞功能",
+      "indicacoes": "器官移植、自身免疫病（红斑狼疮、克罗恩、溃结、肝炎）",
+      "reacoesAdversas": "白细胞减少、肝毒性、胰腺炎、脱发、淋巴瘤风险增加",
+      "riscoGravidez": "D类 – 严格评估后可用",
+      "riscoLactacao": "少量排入乳汁；不推荐，或在严密监测下使用",
+      "administracao": "口服",
+      "doseMaxima": "每日5mg/kg",
+      "doseMinima": "每日1mg/kg",
+      "classificacao": "抗代谢类免疫抑制剂",
+      "apresentacao": "片剂50毫克",
+      "interacaoMedicamento": "与别嘌醇同用严重毒性；警惕与ACEI、抗凝药联合使用",
+      "posologia": "1–3mg/kg/日，依据血象调整",
+      "armazenamento": "干燥阴凉处保存",
+      "preparo": "不可碾碎，勿直接接触药粉",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重感染、TPMT缺乏、过敏",
+      "cuidadosMedicos": "定期监测血象、肝功能；避免活疫苗",
+      "cuidadosFarmaceuticos": "审查药物相互作用；检查肝肾功能",
+      "cuidadosEnfermagem": "观察感染、肝毒性及骨髓抑制症状",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA"
+    }
+  }
+}

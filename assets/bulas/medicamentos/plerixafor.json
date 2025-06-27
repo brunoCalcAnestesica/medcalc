@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Plerixafor",
+      "suspension": "Suspender 24 horas antes de cirurgia eletiva se em uso planejado ou prolongado",
+      "risk": "Risco de reações locais, leucocitose, trombocitopenia e náuseas; geralmente bem tolerado em esquema de mobilização de células-tronco",
+      "reintroduction": "Reintroduzir conforme cronograma de mobilização hematopoiética ou protocolo oncológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Plerixafor",
+      "nomeComercial": "Mozobil",
+      "mecanismoAcao": "Antagonista do receptor CXCR4, bloqueia a ligação com o SDF-1α, promovendo liberação de células-tronco hematopoiéticas para a circulação periférica",
+      "farmacocinetica": "Administração SC; pico em 30–60 min; meia-vida ~3–5 h; excreção renal",
+      "farmacodinamica": "Aumenta número de células CD34+ circulantes, facilitando coleta por aférese",
+      "indicacoes": "Mobilização de células-tronco hematopoiéticas para transplante autólogo em linfoma e mieloma múltiplo",
+      "reacoesAdversas": "Reação no local da injeção, náusea, diarreia, tontura, cefaleia, leucocitose, trombocitopenia",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Desconhecido; evitar durante uso",
+      "administracao": "Subcutânea",
+      "doseMaxima": "0,24 mg/kg/dia",
+      "doseMinima": "0,16 mg/kg/dia (ajustada por função renal)",
+      "classificacao": "Agente mobilizador de células-tronco hematopoiéticas",
+      "apresentacao": "Solução injetável 20 mg/mL em frasco-ampola de 1,2 mL",
+      "interacaoMedicamento": "Potencializa efeitos com G-CSF; atenção em pacientes com esplenomegalia ou risco de ruptura esplênica",
+      "posologia": "0,24 mg/kg SC ~11h antes da coleta de células; ajustar para ClCr <50 mL/min",
+      "armazenamento": "Refrigerado (2–8°C); proteger da luz",
+      "preparo": "Pronto para uso; administrar em tecido subcutâneo do abdome ou braço",
+      "solucoesCompatíveis": "Não se aplica (uso direto)",
+      "contraindicacoes": "Hipersensibilidade ao plerixafor ou componentes da fórmula",
+      "cuidadosMedicos": "Monitorar contagem de leucócitos e plaquetas, sintomas abdominais e reações locais",
+      "cuidadosFarmaceuticos": "Conferir dose baseada em peso e função renal; garantir cadeia fria",
+      "cuidadosEnfermagem": "Observar reações locais, sinais vitais, tolerância GI e resposta hematológica",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, bula Mozobil"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Plerixafor",
+      "suspension": "Discontinue 24 hours before elective surgery if in use or scheduled",
+      "risk": "Generally well tolerated; may cause local reactions, leukocytosis, thrombocytopenia, nausea",
+      "reintroduction": "Resume based on hematopoietic mobilization or oncology protocol"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Plerixafor",
+      "nomeComercial": "Mozobil",
+      "mecanismoAcao": "CXCR4 antagonist that blocks SDF-1α binding, enhancing hematopoietic stem cell release into circulation",
+      "farmacocinetica": "SC administration; peak in 30–60 min; half-life 3–5 h; renal excretion",
+      "farmacodinamica": "Increases circulating CD34+ stem cells, facilitating apheresis collection",
+      "indicacoes": "Stem cell mobilization for autologous transplant in lymphoma and multiple myeloma",
+      "reacoesAdversas": "Injection site reaction, nausea, diarrhea, headache, leukocytosis, thrombocytopenia",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Unknown; avoid during use",
+      "administracao": "Subcutaneous",
+      "doseMaxima": "0.24 mg/kg/day",
+      "doseMinima": "0.16 mg/kg/day (renal adjustment)",
+      "classificacao": "Hematopoietic stem cell mobilizer",
+      "apresentacao": "20 mg/mL injectable solution in 1.2 mL vial",
+      "interacaoMedicamento": "Enhances G-CSF effects; caution in patients with splenomegaly or splenic rupture risk",
+      "posologia": "0.24 mg/kg SC ~11 h before apheresis; adjust for CrCl <50 mL/min",
+      "armazenamento": "Refrigerate (2–8°C); protect from light",
+      "preparo": "Ready to use; inject SC in abdomen or upper arm",
+      "solucoesCompatíveis": "Not applicable (direct use)",
+      "contraindicacoes": "Hypersensitivity to plerixafor or any component",
+      "cuidadosMedicos": "Monitor WBC/platelets, abdominal symptoms, local reactions",
+      "cuidadosFarmaceuticos": "Dose by weight and renal function; ensure cold chain",
+      "cuidadosEnfermagem": "Monitor for local reactions, vitals, GI tolerance, hematologic response",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Mozobil PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Plerixafor",
+      "suspension": "Suspender 24 horas antes de cirugía electiva si está en uso planificado",
+      "risk": "Bien tolerado; puede causar reacción local, leucocitosis, trombocitopenia, náuseas",
+      "reintroduction": "Reiniciar según protocolo oncológico o movilización hematopoyética"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Plerixafor",
+      "nomeComercial": "Mozobil",
+      "mecanismoAcao": "Antagonista del CXCR4 que bloquea unión con SDF-1α, movilizando células madre hematopoyéticas a la sangre",
+      "farmacocinetica": "SC; pico en 30–60 min; vida media 3–5 h; excreción renal",
+      "farmacodinamica": "Incrementa CD34+ circulantes facilitando recolección por aféresis",
+      "indicacoes": "Movilización de células madre para trasplante autólogo en mieloma o linfoma",
+      "reacoesAdversas": "Reacción local, náuseas, diarrea, cefalea, leucocitosis, trombocitopenia",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Desconocido; evitar durante uso",
+      "administracao": "Subcutánea",
+      "doseMaxima": "0,24 mg/kg/día",
+      "doseMinima": "0,16 mg/kg/día (ajustar en insuficiencia renal)",
+      "classificacao": "Movilizador de células madre hematopoyéticas",
+      "apresentacao": "Solución 20 mg/mL en viales de 1,2 mL",
+      "interacaoMedicamento": "Potencia G-CSF; precaución en esplenomegalia o riesgo de ruptura esplénica",
+      "posologia": "0,24 mg/kg SC unas 11 h antes de aféresis; ajustar si ClCr <50 mL/min",
+      "armazenamento": "Refrigerar 2–8°C, proteger de luz",
+      "preparo": "Uso directo, inyección SC en abdomen o brazo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad al plerixafor o excipientes",
+      "cuidadosMedicos": "Controlar leucocitos, plaquetas, síntomas abdominales",
+      "cuidadosFarmaceuticos": "Dosis por peso y función renal; mantener cadena de frío",
+      "cuidadosEnfermagem": "Observar sitio de inyección, signos vitales y respuesta hematológica",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Mozobil"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "普乐沙福",
+      "suspension": "术前24小时停用（如计划使用）",
+      "risk": "局部反应、白细胞增多、血小板减少、恶心等副作用；通常耐受性良好",
+      "reintroduction": "术后按干细胞动员或肿瘤科方案重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "普乐沙福（Plerixafor）",
+      "nomeComercial": "Mozobil",
+      "mecanismoAcao": "CXCR4受体拮抗剂，阻断SDF-1α结合，促进造血干细胞动员至外周血",
+      "farmacocinetica": "皮下注射；Tmax 30–60分钟；半衰期3–5小时；肾排泄",
+      "farmacodinamica": "显著提高CD34+细胞数量，利于采集",
+      "indicacoes": "动员用于自体移植的干细胞（多发性骨髓瘤、淋巴瘤）",
+      "reacoesAdversas": "注射部位反应、恶心、腹泻、头痛、白细胞增多、血小板减少",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "未知，建议停哺",
+      "administracao": "皮下注射",
+      "doseMaxima": "每日0.24 mg/kg",
+      "doseMinima": "0.16 mg/kg（肾功能差时调整）",
+      "classificacao": "造血干细胞动员剂",
+      "apresentacao": "1.2 mL小瓶（20 mg/mL）",
+      "interacaoMedicamento": "与G-CSF联用效果增强；注意脾大和脾破裂风险",
+      "posologia": "动员前11小时注射0.24 mg/kg，肾功能差调整剂量",
+      "armazenamento": "2–8°C冷藏，避光",
+      "preparo": "直接使用，注射腹部或上臂皮下",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对普乐沙福或其辅料过敏",
+      "cuidadosMedicos": "监测血细胞计数、腹部症状、注射反应",
+      "cuidadosFarmaceuticos": "核对体重、肾功能，保障冷链",
+      "cuidadosEnfermagem": "观察皮下注射局部反应、生命体征及GI不适",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Mozobil说明书"
+    }
+  }
+}

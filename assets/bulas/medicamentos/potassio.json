@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Potássio",
+      "suspension": "Ajustar e monitorar de acordo com função renal e risco de arritmias; não suspender rotineiramente",
+      "risk": "Tanto a hipocalemia quanto a hipercalemia podem ser fatais em contexto anestésico. Administração EV rápida pode causar arritmias. Monitoramento rigoroso necessário no perioperatório.",
+      "reintroduction": "Reintroduzir com base nos níveis séricos, estado ácido-base e débito urinário. Preferir via oral em pacientes conscientes ou infusão lenta sob monitoramento."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloreto de Potássio / Citrato de Potássio",
+      "nomeComercial": "KCl, Slow-K, KSR, Neok CL",
+      "mecanismoAcao": "Principal cátion intracelular; essencial para potencial de membrana, condução nervosa, contração muscular e regulação ácida-básica",
+      "farmacocinetica": "Absorção oral quase completa; distribuição intracelular; excreção renal",
+      "farmacodinamica": "Mantém homeostase elétrica e osmótica; previne arritmias em pacientes hipocalêmicos",
+      "indicacoes": "Hipocalemia, reposição em perdas digestivas, TPN, uso de diuréticos, correção de acidose",
+      "reacoesAdversas": "Náusea, dor abdominal, úlcera gástrica (oral); arritmia, flebite, parada cardíaca (EV rápida)",
+      "riscoGravidez": "Categoria C (avaliar risco-benefício)",
+      "riscoLactacao": "Compatível com amamentação",
+      "administracao": "Oral (comprimidos, solução) ou IV diluído e em infusão lenta (NUNCA EV direto)",
+      "doseMaxima": "40–60 mEq/dose oral; 10–20 mEq/hora EV (máximo 200 mEq/dia sob monitoramento)",
+      "doseMinima": "20 mEq/dia (reposição leve)",
+      "classificacao": "Eletrólito essencial – mineral intracelular",
+      "apresentacao": "Ampolas de 10%, comprimidos de liberação lenta (600 mg = 8 mEq), soluções orais",
+      "interacaoMedicamento": "Risco de hipercalemia com IECA, ARA II, diuréticos poupadores de potássio, heparina",
+      "posologia": "20–60 mEq/dia VO ou IV conforme potassemia",
+      "armazenamento": "Temperatura ambiente, solução pronta deve ser usada imediatamente",
+      "preparo": "Diluir sempre em SF ou SG5%; administrar via bomba de infusão volumétrica",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%, ringer lactato (com cautela)",
+      "contraindicacoes": "Hipercalemia, insuficiência renal grave, bloqueio AV, desidratação sem reposição",
+      "cuidadosMedicos": "Monitorar potássio sérico, ECG e débito urinário durante infusão",
+      "cuidadosFarmaceuticos": "Confirmar diluição e compatibilidade com outros eletrólitos",
+      "cuidadosEnfermagem": "NUNCA aplicar EV em bolus; controlar gotejamento rigorosamente",
+      "fontesBibliograficas": "ANVISA, SBRAE, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Potassium",
+      "suspension": "Adjust perioperatively based on renal function and cardiac risk; do not stop routinely",
+      "risk": "Hypo- or hyperkalemia may cause fatal arrhythmias. Rapid IV push is contraindicated. Continuous monitoring required.",
+      "reintroduction": "Reintroduce based on serum levels, acid-base status, and urine output. Oral preferred when safe."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Potassium Chloride / Potassium Citrate",
+      "nomeComercial": "Klor-Con, K-Dur, Micro-K, Kaon Cl",
+      "mecanismoAcao": "Major intracellular cation; maintains membrane potential, neuromuscular function, and acid-base balance",
+      "farmacocinetica": "Absorbed orally; intracellular distribution; renal excretion",
+      "farmacodinamica": "Prevents or corrects hypokalemia; stabilizes cardiac electrical activity",
+      "indicacoes": "Hypokalemia, GI losses, diuretic use, TPN, metabolic acidosis",
+      "reacoesAdversas": "GI irritation, ulcer, nausea (oral); arrhythmia, cardiac arrest (IV rapid)",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Safe if monitored",
+      "administracao": "Oral tablets/solution; IV slow infusion only (NEVER bolus)",
+      "doseMaxima": "40–60 mEq oral; 10–20 mEq/h IV (max 200 mEq/day)",
+      "doseMinima": "20 mEq/day",
+      "classificacao": "Essential electrolyte – intracellular mineral",
+      "apresentacao": "10% IV ampoules; slow-release tablets; oral solution",
+      "interacaoMedicamento": "Increased K+ with ACEi, ARBs, spironolactone, heparin",
+      "posologia": "20–60 mEq/day adjusted by serum K+",
+      "armazenamento": "Room temp; use diluted IV solutions immediately",
+      "preparo": "Dilute in NS or D5W; use infusion pump",
+      "solucoesCompatíveis": "NS, D5W, lactated Ringer (with caution)",
+      "contraindicacoes": "Hyperkalemia, renal failure, AV block, severe dehydration",
+      "cuidadosMedicos": "Monitor serum K+, ECG, urine output",
+      "cuidadosFarmaceuticos": "Check dilution, compatibility with other electrolytes",
+      "cuidadosEnfermagem": "NEVER push IV; control rate with pump",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Potasio",
+      "suspension": "No suspender antes de cirugía; ajustar según función renal y ECG",
+      "risk": "Hipokalemia o hiperkalemia pueden ser letales; infusión rápida IV contraindicada",
+      "reintroduction": "Reiniciar según potasemia y diuresis; preferir vía oral o infusión lenta"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloruro de Potasio / Citrato de Potasio",
+      "nomeComercial": "KCl, Slow-K, K-Dur",
+      "mecanismoAcao": "Cation intracelular esencial; estabiliza potencial de membrana y equilibrio ácido-base",
+      "farmacocinetica": "Absorción intestinal, excreción renal",
+      "farmacodinamica": "Corrige hipokalemia, estabiliza ritmo cardíaco",
+      "indicacoes": "Déficit de potasio, pérdidas digestivas, diuréticos, TPN",
+      "reacoesAdversas": "Náuseas, úlceras, arritmias, paro cardíaco si infundido rápido",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Compatible si controlado",
+      "administracao": "Oral o IV diluido, NUNCA en bolo",
+      "doseMaxima": "40–60 mEq VO; 10–20 mEq/h IV (máx. 200 mEq/día)",
+      "doseMinima": "20 mEq/día",
+      "classificacao": "Electrolito esencial",
+      "apresentacao": "Ampollas 10%, comprimidos liberación lenta",
+      "interacaoMedicamento": "Aumenta con IECA, ARA II, espironolactona, heparina",
+      "posologia": "20–60 mEq/día según K+ sérico",
+      "armazenamento": "Ambiente; usar diluido inmediatamente",
+      "preparo": "Diluir en SF o glucosa 5%; usar bomba de infusión",
+      "solucoesCompatíveis": "SF, glucosa 5%, Ringer lactato (precaución)",
+      "contraindicacoes": "Hiperkalemia, fallo renal severo, bloqueo AV",
+      "cuidadosMedicos": "Monitorizar potasio, ECG, diuresis",
+      "cuidadosFarmaceuticos": "Confirmar dilución y compatibilidad",
+      "cuidadosEnfermagem": "Nunca administrar bolo IV; vigilar ritmo",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "钾",
+      "suspension": "术前不需停药，需根据肾功能调整剂量",
+      "risk": "高钾或低钾均可引发致命心律失常，快速静推严禁",
+      "reintroduction": "术后根据血钾、酸碱状态和尿量调整；首选口服或缓慢静滴"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯化钾 / 柠檬酸钾",
+      "nomeComercial": "KCl注射液，Slow-K片，口服钾液",
+      "mecanismoAcao": "细胞内主要阳离子，调节神经、肌肉功能与酸碱平衡",
+      "farmacocinetica": "口服吸收良好，经肾排泄",
+      "farmacodinamica": "稳定心肌细胞膜，预防低钾相关并发症",
+      "indicacoes": "低钾血症、胃肠失钾、利尿剂、TPN补钾",
+      "reacoesAdversas": "恶心、胃痛、口服致糜烂，静脉注射可致心律紊乱",
+      "riscoGravidez": "C类（权衡使用）",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "口服或静滴，严禁静推",
+      "doseMaxima": "口服40–60 mEq/次，IV最大200 mEq/d",
+      "doseMinima": "每日20 mEq",
+      "classificacao": "电解质矿物质",
+      "apresentacao": "10%注射液，缓释片，口服液",
+      "interacaoMedicamento": "与ACEI、ARB、螺内酯、肝素协同升钾",
+      "posologia": "20–60 mEq/d依据血钾调整",
+      "armazenamento": "常温保存，稀释后立即使用",
+      "preparo": "稀释于0.9%氯化钠或5%葡萄糖中，泵控输注",
+      "solucoesCompatíveis": "氯化钠、葡萄糖、乳酸林格液（慎用）",
+      "contraindicacoes": "高钾血症、重度肾衰、房室传导阻滞",
+      "cuidadosMedicos": "监测ECG、尿量、血钾变化",
+      "cuidadosFarmaceuticos": "避免与钙、镁混合超限",
+      "cuidadosEnfermagem": "不可IV推注，监控泵速与反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、SBRAE"
+    }
+  }
+}

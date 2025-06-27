@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Telmisartana",
+      "suspension": "Suspender 24 horas antes de cirurgias de médio ou grande porte",
+      "risk": "Risco de hipotensão refratária durante a indução anestésica, especialmente em pacientes hipovolêmicos ou idosos",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica, geralmente 24–48h após a cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Telmisartana",
+      "nomeComercial": "Micardis",
+      "mecanismoAcao": "Antagonista dos receptores de angiotensina II tipo 1 (AT1), promovendo vasodilatação",
+      "farmacocinetica": "Absorção oral variável (~50%), alta ligação às proteínas plasmáticas, meia-vida prolongada (24h)",
+      "farmacodinamica": "Reduz pressão arterial, resistência vascular e secreção de aldosterona",
+      "indicacoes": "Hipertensão arterial, prevenção cardiovascular em alto risco, proteinúria em nefropatias",
+      "reacoesAdversas": "Hipotensão, tontura, hipercalemia, fadiga, disfunção renal",
+      "riscoGravidez": "Categoria D (contraindicado)",
+      "riscoLactacao": "Não recomendado, excreção desconhecida",
+      "administracao": "Via oral",
+      "doseMaxima": "80mg/dia",
+      "doseMinima": "20mg/dia",
+      "classificacao": "Antagonista dos receptores da angiotensina II (BRA)",
+      "apresentacao": "Comprimidos 20mg, 40mg, 80mg",
+      "interacaoMedicamento": "Interage com lítio, diuréticos poupadores de potássio, AINEs",
+      "posologia": "Dose única diária, ajustada conforme resposta clínica",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, hipersensibilidade, estenose bilateral de artérias renais",
+      "cuidadosMedicos": "Monitorar pressão arterial, função renal e eletrólitos",
+      "cuidadosFarmaceuticos": "Evitar associações com risco de hipercalemia sem controle laboratorial",
+      "cuidadosEnfermagem": "Observar sinais de hipotensão e balanço hídrico",
+      "fontesBibliograficas": "SBH, ANVISA, Micromedex, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Telmisartan",
+      "suspension": "Discontinue 24 hours before moderate or high-risk surgery",
+      "risk": "Risk of refractory hypotension during anesthesia induction, especially in elderly or hypovolemic patients",
+      "reintroduction": "Restart after hemodynamic stabilization, typically 24–48h after surgery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Telmisartan",
+      "nomeComercial": "Micardis",
+      "mecanismoAcao": "Angiotensin II receptor type 1 (AT1) blocker, causing vasodilation",
+      "farmacocinetica": "Oral bioavailability ~50%, highly protein-bound, long half-life (~24h)",
+      "farmacodinamica": "Lowers BP, systemic resistance, and aldosterone secretion",
+      "indicacoes": "Hypertension, cardiovascular risk reduction, proteinuria",
+      "reacoesAdversas": "Hypotension, dizziness, hyperkalemia, fatigue, renal dysfunction",
+      "riscoGravidez": "Category D (contraindicated)",
+      "riscoLactacao": "Not recommended; unknown excretion",
+      "administracao": "Oral",
+      "doseMaxima": "80mg/day",
+      "doseMinima": "20mg/day",
+      "classificacao": "Angiotensin II receptor blocker (ARB)",
+      "apresentacao": "Tablets 20mg, 40mg, 80mg",
+      "interacaoMedicamento": "Interacts with lithium, potassium-sparing diuretics, NSAIDs",
+      "posologia": "Once daily, titrated by response",
+      "armazenamento": "Room temperature, protect from moisture",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, hypersensitivity, bilateral renal artery stenosis",
+      "cuidadosMedicos": "Monitor BP, renal function, electrolytes",
+      "cuidadosFarmaceuticos": "Avoid combinations that increase potassium without lab monitoring",
+      "cuidadosEnfermagem": "Monitor hypotension, fluid balance",
+      "fontesBibliograficas": "FDA, Micromedex, ACC guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Telmisartán",
+      "suspension": "Suspender 24 horas antes de cirugías de riesgo moderado o alto",
+      "risk": "Riesgo de hipotensión refractaria durante la anestesia, especialmente en pacientes hipovolémicos o ancianos",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica, usualmente entre 24 y 48h postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Telmisartán",
+      "nomeComercial": "Micardis",
+      "mecanismoAcao": "Bloqueador del receptor de angiotensina II tipo 1 (AT1), promueve vasodilatación",
+      "farmacocinetica": "Biodisponibilidad oral ~50%, alta unión a proteínas plasmáticas, semivida larga (~24h)",
+      "farmacodinamica": "Reduce la PA, resistencia vascular y secreción de aldosterona",
+      "indicacoes": "Hipertensión, reducción del riesgo cardiovascular, proteinuria",
+      "reacoesAdversas": "Hipotensión, mareos, hiperpotasemia, fatiga, disfunción renal",
+      "riscoGravidez": "Categoría D (contraindicado)",
+      "riscoLactacao": "No recomendado; excreción desconocida",
+      "administracao": "Vía oral",
+      "doseMaxima": "80mg/día",
+      "doseMinima": "20mg/día",
+      "classificacao": "Antagonista de los receptores de angiotensina II (ARA-II)",
+      "apresentacao": "Comprimidos de 20mg, 40mg, 80mg",
+      "interacaoMedicamento": "Interacción con litio, diuréticos ahorradores de potasio, AINEs",
+      "posologia": "Una vez al día, ajustado según respuesta",
+      "armazenamento": "Temperatura ambiente, protegido de la humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, hipersensibilidad, estenosis bilateral de arterias renales",
+      "cuidadosMedicos": "Monitorear PA, función renal y electrolitos",
+      "cuidadosFarmaceuticos": "Evitar combinaciones que eleven el potasio sin monitoreo",
+      "cuidadosEnfermagem": "Vigilar hipotensión y balance hídrico",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "替米沙坦",
+      "suspension": "中高风险手术前24小时停药",
+      "risk": "麻醉诱导期可能出现难治性低血压，尤其老年或低血容量患者",
+      "reintroduction": "术后24–48小时血流动力学稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "替米沙坦",
+      "nomeComercial": "美卡素（Micardis）",
+      "mecanismoAcao": "选择性拮抗血管紧张素II 1型受体，导致血管扩张",
+      "farmacocinetica": "口服吸收率约50%，高度结合血浆蛋白，半衰期约24小时",
+      "farmacodinamica": "降低血压、外周阻力和醛固酮分泌",
+      "indicacoes": "高血压、心血管风险降低、蛋白尿",
+      "reacoesAdversas": "低血压、头晕、高钾血症、乏力、肾功能异常",
+      "riscoGravidez": "D类（禁用）",
+      "riscoLactacao": "不推荐使用，排泄情况未知",
+      "administracao": "口服",
+      "doseMaxima": "每日80毫克",
+      "doseMinima": "每日20毫克",
+      "classificacao": "血管紧张素II受体拮抗剂（ARB）",
+      "apresentacao": "片剂20mg、40mg、80mg",
+      "interacaoMedicamento": "与锂、保钾利尿剂、NSAIDs合用时风险增加",
+      "posologia": "每日一次，根据反应调整",
+      "armazenamento": "室温避湿保存",
+      "preparo": "无需准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、过敏、双肾动脉狭窄",
+      "cuidadosMedicos": "监测血压、肾功能、电解质",
+      "cuidadosFarmaceuticos": "避免未监测情况下合并高钾风险药物",
+      "cuidadosEnfermagem": "观察低血压和液体平衡",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

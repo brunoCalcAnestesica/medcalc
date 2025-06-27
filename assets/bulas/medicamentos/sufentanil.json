@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sufentanil",
+      "suspension": "Não se aplica (uso hospitalar EV); suspender opioides de longa duração 24h antes se possível",
+      "risk": "Depressão respiratória, bradicardia, rigidez torácica, sedação intensa, tolerância aguda e dependência; interação com anestésicos e benzodiazepínicos",
+      "reintroduction": "Pode ser reintroduzido em anestesia com suporte ventilatório e monitoramento contínuo de sedação e analgesia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Citrato de Sufentanil",
+      "nomeComercial": "Sufenta",
+      "mecanismoAcao": "Agonista µ-opioide de alta potência (5–10x mais potente que fentanil); atua no SNC inibindo transmissão nociceptiva",
+      "farmacocinetica": "Início: IV 1–3min; pico: 3–5min; meia-vida: 2–4h; metabolizado no fígado (CYP3A4); excreção renal/biliar",
+      "farmacodinamica": "Analgésico opioide potente para uso em anestesia geral, neurocirurgia, procedimentos cardíacos e analgesia epidural",
+      "indicacoes": "Anestesia geral balanceada, neurocirurgia, cesariana, sedação, analgesia epidural, TIVA",
+      "reacoesAdversas": "Bradicardia, apneia, rigidez muscular, hipotensão, náusea, vômito, tolerância aguda",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar uso contínuo; uso único com suporte é seguro",
+      "administracao": "IV bolus, infusão contínua, epidural",
+      "doseMaxima": "Indução: até 1mcg/kg; infusão: até 0,3mcg/kg/h; epidural: até 30mcg em 4h",
+      "doseMinima": "0,1mcg/kg IV",
+      "classificacao": "Opioide µ agonista ultrapotente (uso anestésico)",
+      "apresentacao": "Ampolas 50mcg/mL (1mL ou 5mL); solução para infusão ou bolus",
+      "interacaoMedicamento": "Benzodiazepínicos, anestésicos voláteis, relaxantes neuromusculares, álcool, ISRS",
+      "posologia": "Indução: 0,5–1mcg/kg IV; manutenção: 0,1–0,3mcg/kg/h; epidural: 5–30mcg",
+      "armazenamento": "Temperatura ambiente, proteger da luz, estabilidade limitada após diluição",
+      "preparo": "Diluir em SF 0,9% ou SG 5% para infusão IV contínua ou administração epidural",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade, depressão respiratória grave sem suporte, bloqueios AV sem marca-passo",
+      "cuidadosMedicos": "Monitorar ECG, FR, sedação, analgesia e transição para opioides pós-cirúrgicos",
+      "cuidadosFarmaceuticos": "Uso restrito hospitalar, preparo asséptico, evitar extravasamento",
+      "cuidadosEnfermagem": "Observar sinais vitais, nível de sedação, rigidez muscular, dor, necessidade de ventilação assistida",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate, Miller's Anesthesia, SBAR"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sufentanil",
+      "suspension": "Not applicable (hospital IV anesthetic); consider holding long-acting opioids preoperatively",
+      "risk": "Respiratory depression, bradycardia, hypotension, muscle rigidity, opioid tolerance/withdrawal",
+      "reintroduction": "May be restarted in anesthesia under ventilatory support and intensive monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sufentanil Citrate",
+      "nomeComercial": "Sufenta",
+      "mecanismoAcao": "Highly potent µ-opioid receptor agonist; 5–10x more potent than fentanyl",
+      "farmacocinetica": "IV onset: 1–3min; peak: 3–5min; half-life: 2–4h; hepatic metabolism (CYP3A4); renal/biliary excretion",
+      "farmacodinamica": "Ultra-potent opioid analgesic for surgical anesthesia, neuro procedures, and epidural use",
+      "indicacoes": "General anesthesia, cardiac surgery, epidural analgesia, neuroanesthesia, ICU sedation",
+      "reacoesAdversas": "Apnea, bradycardia, rigidity, hypotension, nausea, vomiting, tolerance",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Single dose safe; avoid continuous infusion",
+      "administracao": "IV bolus, IV infusion, epidural",
+      "doseMaxima": "Induction: 1mcg/kg; maintenance: 0.3mcg/kg/h; epidural: 30mcg/4h",
+      "doseMinima": "0.1mcg/kg IV",
+      "classificacao": "Ultra-potent µ-opioid agonist",
+      "apresentacao": "Ampoules: 50mcg/mL (1mL, 5mL)",
+      "interacaoMedicamento": "Benzodiazepines, volatile anesthetics, muscle relaxants, alcohol, SSRIs",
+      "posologia": "IV: 0.5–1mcg/kg induction; 0.1–0.3mcg/kg/h maintenance; epidural: 5–30mcg",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Dilute in NS or D5W for infusion or epidural use",
+      "solucoesCompatíveis": "NS 0.9%, D5W",
+      "contraindicacoes": "Hypersensitivity, respiratory depression without ventilatory support, advanced AV block",
+      "cuidadosMedicos": "Monitor ECG, RR, BP, sedation depth, weaning plan",
+      "cuidadosFarmaceuticos": "Sterile prep required, check compatibility, single-use vial preferred",
+      "cuidadosEnfermagem": "Monitor vitals, sedation, rigidity, respiratory status, analgesia",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sufentanilo",
+      "suspension": "No aplica (uso hospitalario EV); suspender opioides prolongados si es posible",
+      "risk": "Depresión respiratoria, bradicardia, hipotensión, rigidez muscular, abstinencia y tolerancia",
+      "reintroduction": "Reintroducir bajo soporte ventilatorio y monitoreo intensivo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Citrato de Sufentanilo",
+      "nomeComercial": "Sufenta",
+      "mecanismoAcao": "Agonista µ-opioide de alta potencia (5–10x fentanilo)",
+      "farmacocinetica": "Inicio: 1–3min; pico: 3–5min; t1/2: 2–4h; metabolismo hepático (CYP3A4); excreción renal/biliar",
+      "farmacodinamica": "Opioide ultrapotente utilizado en cirugía, neurocirugía y analgesia epidural",
+      "indicacoes": "Anestesia general, cirugía cardíaca, analgesia epidural, neuroanestesia",
+      "reacoesAdversas": "Apnea, bradicardia, hipotensión, rigidez torácica, náuseas, vómitos, tolerancia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar infusiones prolongadas; dosis única segura",
+      "administracao": "Bolo IV, infusión continua, epidural",
+      "doseMaxima": "Inducción: 1mcg/kg; mantenimiento: 0.3mcg/kg/h; epidural: 30mcg/4h",
+      "doseMinima": "0.1mcg/kg IV",
+      "classificacao": "Agonista µ-opioide ultrapotente",
+      "apresentacao": "Ampollas 50mcg/mL (1mL, 5mL)",
+      "interacaoMedicamento": "Benzodiacepinas, anestésicos, relajantes, alcohol, ISRS",
+      "posologia": "IV: 0.5–1mcg/kg; mantenimiento: 0.1–0.3mcg/kg/h; epidural: 5–30mcg",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "Diluir en SF o SG 5%; administrar con bomba",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidad, depresión respiratoria sin soporte, bloqueo AV",
+      "cuidadosMedicos": "Monitorizar ECG, FR, PA, analgesia y plan de transición",
+      "cuidadosFarmaceuticos": "Preparación aséptica, usar inmediatamente, vial de dosis única",
+      "cuidadosEnfermagem": "Observar signos vitales, ventilación, dolor, rigidez muscular",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "舒芬太尼",
+      "suspension": "不适用（仅限医院IV使用）；术前可停止长效阿片类药物",
+      "risk": "呼吸抑制、心动过缓、低血压、肌肉僵硬、耐受和依赖",
+      "reintroduction": "术中或术后可根据需要重新启动，需机械通气支持"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "枸橼酸舒芬太尼",
+      "nomeComercial": "Sufenta, 舒芬太尼注射液",
+      "mecanismoAcao": "强效µ阿片受体激动剂，效力为芬太尼的5–10倍",
+      "farmacocinetica": "起效1–3分钟，达峰3–5分钟；T1/2为2–4小时；CYP3A4代谢；肾/胆排泄",
+      "farmacodinamica": "用于手术、神经外科、分娩镇痛、心脏外科的强效静脉镇痛药",
+      "indicacoes": "全麻诱导与维持、术后镇痛、分娩镇痛、神经外科、重症镇静",
+      "reacoesAdversas": "呼吸抑制、心动过缓、肌肉强直、低血压、恶心、呕吐、戒断",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "短期使用可接受，避免持续泵输哺乳期",
+      "administracao": "静脉推注、连续泵输、硬膜外注射",
+      "doseMaxima": "诱导：1mcg/kg；维持：0.3mcg/kg/h；硬膜外：30mcg/4小时",
+      "doseMinima": "0.1mcg/kg",
+      "classificacao": "超强µ激动剂类阿片镇痛药",
+      "apresentacao": "50mcg/mL安瓿（1mL或5mL）",
+      "interacaoMedicamento": "苯二氮䓬类、挥发性麻醉剂、肌松剂、酒精、SSRI类",
+      "posologia": "IV诱导0.5–1mcg/kg；维持0.1–0.3mcg/kg/h；硬膜外5–30mcg",
+      "armazenamento": "避光，室温保存；稀释液24小时内使用",
+      "preparo": "用NS或D5W稀释至合适浓度后泵输或硬膜外",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "过敏、无辅助通气时使用、房室传导阻滞无起搏器",
+      "cuidadosMedicos": "监测心电图、通气、镇痛、血压；制定术后镇痛替代方案",
+      "cuidadosFarmaceuticos": "无菌稀释后尽快使用，单剂量安瓿",
+      "cuidadosEnfermagem": "监测RR、镇静、肌张力、疼痛、拔管时机",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex, UpToDate"
+    }
+  }
+}

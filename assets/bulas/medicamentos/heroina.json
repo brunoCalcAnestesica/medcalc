@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Heroína",
+      "suspension": "Suspender imediatamente; uso recente contraindica qualquer procedimento anestésico",
+      "risk": "Depressão respiratória, bradicardia, hipoventilação, tolerância a opioides e risco de abstinência aguda",
+      "reintroduction": "Nunca reintroduzir; substância proibida no ambiente clínico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diacetilmorfina (diamorfina)",
+      "nomeComercial": "Heroína, H, Skag, Brown sugar, China white",
+      "mecanismoAcao": "Pró-droga da morfina; agonista completo de receptores µ-opioides com efeito analgésico e euforizante",
+      "farmacocinetica": "Atravessa rapidamente a BHE; metabolizada em morfina no SNC; excreção renal",
+      "farmacodinamica": "Euforia intensa, analgesia, sedação, miose, depressão respiratória",
+      "indicacoes": "Uso ilícito; restrito a controle da dor terminal em poucos países (ex: Reino Unido)",
+      "reacoesAdversas": "Apneia, dependência, bradicardia, constipação severa, infecção por seringas contaminadas",
+      "riscoGravidez": "Categoria X – risco fetal elevado, síndrome de abstinência neonatal",
+      "riscoLactacao": "Contraindicada – passa para o leite materno e deprime SNC do lactente",
+      "administracao": "IV, inalado, fumado, intranasal; raramente oral",
+      "doseMaxima": "Uso ilícito variável; overdose comum acima de 100 mg IV",
+      "doseMinima": "Efeitos a partir de 5–10 mg",
+      "classificacao": "Opioide semi-sintético potente (derivado da morfina)",
+      "apresentacao": "Pó branco ou marrom, comprimidos, solução",
+      "interacaoMedicamento": "Interações letais com benzodiazepínicos, álcool, anestésicos, cetamina, antidepressivos sedativos",
+      "posologia": "Não se aplica em ambiente clínico exceto sob prescrição controlada em cuidados paliativos específicos",
+      "armazenamento": "Substância ilícita; controle legal rígido (Lista F2 - proibida no Brasil)",
+      "preparo": "Frequentemente adulterada com cafeína, fentanil, paracetamol ou quinina",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Cirurgias eletivas, trauma agudo, doenças respiratórias, uso de depressores centrais",
+      "cuidadosMedicos": "Monitorar frequência respiratória, SpO2, ECG, pupilas e sinais de abstinência/opioide residual",
+      "cuidadosFarmaceuticos": "Checar histórico de uso ilícito e risco de tolerância cruzada com opioides legais",
+      "cuidadosEnfermagem": "Observar sinais de abstinência (diaforese, agitação, tremores) ou intoxicação (miose, hipoventilação)",
+      "fontesBibliograficas": "PubChem, NIDA, EMCDDA, Micromedex, WHO Lexicon, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Heroin",
+      "suspension": "Discontinue immediately; recent use contraindicates all anesthesia",
+      "risk": "Respiratory depression, bradycardia, tolerance, withdrawal risk, opioid-induced hyperalgesia",
+      "reintroduction": "Never reintroduce in clinical setting; prohibited substance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diacetylmorphine (diamorphine)",
+      "nomeComercial": "Heroin, H, Skag, Brown sugar, China white",
+      "mecanismoAcao": "Morphine prodrug; full agonist of µ-opioid receptors causing euphoria and analgesia",
+      "farmacocinetica": "Crosses BBB rapidly, converted to morphine in CNS; renal elimination",
+      "farmacodinamica": "Intense euphoria, sedation, respiratory depression, pinpoint pupils",
+      "indicacoes": "Illicit use; legal in palliative care only in some countries (e.g., UK)",
+      "reacoesAdversas": "Apnea, dependence, bradycardia, severe constipation, infection risk from shared needles",
+      "riscoGravidez": "Category X – fetal harm and neonatal abstinence syndrome",
+      "riscoLactacao": "Contraindicated – CNS depression in breastfed infant",
+      "administracao": "IV, smoked, snorted, vaporized; rarely oral",
+      "doseMaxima": "Illicit doses vary; overdose >100 mg IV",
+      "doseMinima": "Effects from ~5–10 mg",
+      "classificacao": "Semi-synthetic opioid (morphine derivative)",
+      "apresentacao": "Powder (white/brown), tablets, injectable",
+      "interacaoMedicamento": "Fatal with alcohol, benzos, ketamine, sedatives, anesthetics",
+      "posologia": "Not applicable clinically except palliative use under controlled conditions",
+      "armazenamento": "Illicit Schedule I drug (US); restricted",
+      "preparo": "Commonly adulterated with fentanyl, caffeine, acetaminophen, quinine",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Surgery, acute trauma, respiratory disease, sedative co-use",
+      "cuidadosMedicos": "Monitor RR, ECG, pupils, oxygenation, signs of withdrawal or overdose",
+      "cuidadosFarmaceuticos": "Assess for opioid tolerance and illicit use history",
+      "cuidadosEnfermagem": "Watch for withdrawal (sweating, agitation, tremors) or toxicity (hypoventilation, miosis)",
+      "fontesBibliograficas": "NIDA, DEA, Micromedex, PubChem, WHO Lexicon"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Heroína",
+      "suspension": "Suspender inmediatamente; uso reciente contraindica procedimientos anestésicos",
+      "risk": "Depresión respiratoria, bradicardia, tolerancia a opioides, abstinencia aguda",
+      "reintroduction": "Nunca debe reintroducirse en ambiente clínico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diacetilmorfina",
+      "nomeComercial": "Heroína, H, China white, Skag, Brown sugar",
+      "mecanismoAcao": "Profármaco de morfina; agonista µ-opioide potente con efectos euforizantes",
+      "farmacocinetica": "Alta biodisponibilidad IV/inhalada; metabolizada a morfina; excreción renal",
+      "farmacodinamica": "Euforia intensa, analgesia, miosis, depresión respiratoria",
+      "indicacoes": "Uso ilícito; uso médico restringido a cuidados paliativos en algunos países",
+      "reacoesAdversas": "Apnea, dependencia, bradicardia, estreñimiento severo, infecciones por agujas",
+      "riscoGravidez": "Categoría X – alto riesgo fetal y síndrome de abstinencia neonatal",
+      "riscoLactacao": "Contraindicada – depresor del SNC en el lactante",
+      "administracao": "IV, fumada, intranasal; rara vez oral",
+      "doseMaxima": "Sobredosis común >100 mg IV",
+      "doseMinima": "Efectos a partir de 5–10 mg",
+      "classificacao": "Opioide semi-sintético derivado de morfina",
+      "apresentacao": "Polvo blanco o marrón, solución inyectable",
+      "interacaoMedicamento": "Interacciones letales con benzodiacepinas, anestesia, alcohol, ketamina",
+      "posologia": "No aplicable clínicamente salvo en cuidados paliativos específicos",
+      "armazenamento": "Sustancia ilícita (Lista I); almacenamiento prohibido",
+      "preparo": "Adulterada frecuentemente con fentanilo, paracetamol, cafeína",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Cirugía, trauma agudo, EPOC, uso de depresores",
+      "cuidadosMedicos": "Monitorizar FR, ECG, pupilas, oxigenación, abstinencia",
+      "cuidadosFarmaceuticos": "Evaluar antecedentes de uso ilícito y tolerancia",
+      "cuidadosEnfermagem": "Observar signos de abstinencia o intoxicación",
+      "fontesBibliograficas": "PubChem, NIDA, EMCDDA, WHO, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "海洛因",
+      "suspension": "立即停药；近期使用者严禁接受麻醉或手术",
+      "risk": "呼吸抑制、心率缓慢、耐受性增加、戒断综合征风险高",
+      "reintroduction": "严禁在临床环境中再次使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "二乙酰吗啡（海洛因）",
+      "nomeComercial": "Heroin, H粉, 白粉, 棕糖, China white",
+      "mecanismoAcao": "吗啡的前体药物；µ-阿片受体激动剂，产生镇痛与欣快",
+      "farmacocinetica": "迅速穿越血脑屏障，在中枢代谢为吗啡；肾排泄",
+      "farmacodinamica": "强烈欣快、镇静、瞳孔缩小、呼吸抑制",
+      "indicacoes": "非法使用；个别国家用于姑息治疗",
+      "reacoesAdversas": "窒息、成瘾、心动过缓、便秘、针头传播感染",
+      "riscoGravidez": "X类 – 严重胎毒、可致新生儿戒断",
+      "riscoLactacao": "禁用 – 经乳汁排泄，抑制婴儿中枢",
+      "administracao": "静脉注射、吸烟、鼻吸，偶见口服",
+      "doseMaxima": "非法剂量不定，过量常见于>100毫克 IV",
+      "doseMinima": "5–10毫克即有作用",
+      "classificacao": "半合成阿片类药物",
+      "apresentacao": "粉末（白色/棕色）、注射液",
+      "interacaoMedicamento": "与苯二氮卓类、酒精、吸入麻醉药、氯胺酮等合用致命",
+      "posologia": "临床仅用于个别姑息治疗方案",
+      "armazenamento": "受控药物，C1类，禁止存储使用",
+      "preparo": "常与咖啡因、对乙酰氨基酚、芬太尼掺杂",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "任何手术、呼吸疾病、急性损伤、镇静剂联用",
+      "cuidadosMedicos": "监测呼吸、心电图、瞳孔、血氧、戒断表现",
+      "cuidadosFarmaceuticos": "识别滥用史与类阿片耐受风险",
+      "cuidadosEnfermagem": "警惕戒断（出汗、激动）与中毒（低通气、瞳孔缩小）",
+      "fontesBibliograficas": "NIDA、WHO、PubChem、Micromedex、DEA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Buprenorfina",
+      "suspension": "Suspender 72h antes da cirurgia eletiva em pacientes usando formulação transdérmica ou sublingual crônica",
+      "risk": "Interação com anestésicos e opioides; risco de depressão respiratória, tolerância cruzada incompleta com morfina e dificuldade de analgesia pós-operatória",
+      "reintroduction": "Reintroduzir após 24–72h do pós-operatório, com controle da dor e estabilidade respiratória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Buprenorfina",
+      "nomeComercial": "Temgesic, Belbuca, Subutex, Suboxone, Butrans",
+      "mecanismoAcao": "Agonista parcial de receptores µ-opioides e antagonista de receptores κ-opioides; alta afinidade e meia-vida longa",
+      "farmacocinetica": "Biodisponibilidade SL ~50%, transdérmica ~15%; metabolização hepática (CYP3A4); meia-vida 24–60h",
+      "farmacodinamica": "Analgésico potente e agente de manutenção na dependência de opioides; bloqueia outros opioides devido à sua alta afinidade",
+      "indicacoes": "Dor crônica moderada a intensa, tratamento de dependência de opioides",
+      "reacoesAdversas": "Sedação, náusea, constipação, depressão respiratória, sudorese, insônia, síndrome de abstinência",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite materno; uso com cautela",
+      "administracao": "Sublingual, transdérmica, injetável, bucal",
+      "doseMaxima": "32mg/dia (sublingual); 20mcg/h (transdérmico)",
+      "doseMinima": "5mcg/h (adesivo); 2mg/dia (SL)",
+      "classificacao": "Opioide agonista parcial (analgésico e antiabstinência)",
+      "apresentacao": "Comprimidos sublinguais, filmes bucais, adesivos transdérmicos, solução injetável",
+      "interacaoMedicamento": "Interage com depressores do SNC, benzodiazepínicos, álcool, anestésicos voláteis, inibidores do CYP3A4",
+      "posologia": "Dependência: iniciar com 2–4mg SL, titular até 16–24mg/dia; dor: transdérmico 5–20mcg/h por 7 dias",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Não cortar adesivo; aplicar em pele íntegra; SL deve ser dissolvido lentamente sem mastigar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Depressão respiratória grave, insuficiência hepática grave, uso concomitante com naloxona IV",
+      "cuidadosMedicos": "Monitorar frequência respiratória, sedação, sinais de abstinência, ECG se uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar uso com álcool, orientar sobre aplicação correta e não interromper abruptamente",
+      "cuidadosEnfermagem": "Observar dor, ventilação, nível de consciência e adesão ao tratamento transdérmico",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Buprenorphine",
+      "suspension": "Discontinue 72h prior to elective surgery in patients on chronic transdermal or sublingual use",
+      "risk": "Interaction with anesthetics and opioids; risk of respiratory depression, partial opioid blockade and inadequate postoperative analgesia",
+      "reintroduction": "Restart 24–72h after surgery when patient is pain-controlled and respiratory function is stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Buprenorphine",
+      "nomeComercial": "Subutex, Suboxone, Butrans, Belbuca, Buprenex",
+      "mecanismoAcao": "Partial µ-opioid receptor agonist and κ-opioid receptor antagonist; high affinity and long half-life",
+      "farmacocinetica": "Sublingual bioavailability ~50%, transdermal ~15%; metabolized by CYP3A4; half-life 24–60h",
+      "farmacodinamica": "Used for pain and opioid dependence; blocks full agonists due to receptor occupancy",
+      "indicacoes": "Chronic moderate-to-severe pain, opioid use disorder (OUD) maintenance therapy",
+      "reacoesAdversas": "Sedation, nausea, constipation, respiratory depression, diaphoresis, insomnia, withdrawal symptoms",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; caution advised",
+      "administracao": "Sublingual, transdermal, buccal, injectable",
+      "doseMaxima": "32mg/day (SL); 20mcg/h (transdermal)",
+      "doseMinima": "2mg/day (SL); 5mcg/h (patch)",
+      "classificacao": "Partial opioid agonist (analgesic and anti-withdrawal)",
+      "apresentacao": "Sublingual tablets/films, transdermal patches, buccal films, injection",
+      "interacaoMedicamento": "Interacts with CNS depressants, benzodiazepines, alcohol, volatile anesthetics, CYP3A4 inhibitors",
+      "posologia": "OUD: start 2–4mg SL; titrate to 16–24mg/day; pain: transdermal 5–20mcg/h every 7 days",
+      "armazenamento": "Store at 15–30°C, away from light and moisture",
+      "preparo": "Do not cut patch; apply to intact skin; dissolve SL slowly under tongue",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe respiratory depression, hepatic failure, IV use with naloxone, hypersensitivity",
+      "cuidadosMedicos": "Monitor RR, sedation, withdrawal, ECG if prolonged use",
+      "cuidadosFarmaceuticos": "Avoid alcohol; instruct on proper patch use; taper gradually",
+      "cuidadosEnfermagem": "Assess pain, respiration, sedation level, patch adherence",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, SAMHSA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Buprenorfina",
+      "suspension": "Suspender 72h antes de cirugía en pacientes con uso crónico sublingual o transdérmico",
+      "risk": "Interacción con anestésicos y opioides; riesgo de depresión respiratoria y analgesia posoperatoria insuficiente",
+      "reintroduction": "Reintroducir 24–72h después de la cirugía cuando el paciente esté estable y con buen control del dolor"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Buprenorfina",
+      "nomeComercial": "Subutex, Suboxone, Butrans, Belbuca",
+      "mecanismoAcao": "Agonista parcial de receptores µ-opioides y antagonista κ; alta afinidad y vida media prolongada",
+      "farmacocinetica": "Biodisponibilidad SL ~50%, transdérmica ~15%; metabolismo hepático (CYP3A4); vida media 24–60h",
+      "farmacodinamica": "Analgesia potente y mantenimiento en trastorno por uso de opioides; bloquea opioides completos",
+      "indicacoes": "Dolor crónico moderado a severo, tratamiento de adicción a opioides",
+      "reacoesAdversas": "Somnolencia, náuseas, estreñimiento, depresión respiratoria, sudoración, insomnio, abstinencia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche materna; precaución recomendada",
+      "administracao": "Sublingual, transdérmica, bucal, inyectable",
+      "doseMaxima": "32mg/día (SL); 20mcg/h (parche)",
+      "doseMinima": "2mg/día (SL); 5mcg/h (parche)",
+      "classificacao": "Agonista parcial opioide",
+      "apresentacao": "Comprimidos/filmes SL, parches transdérmicos, solución inyectable",
+      "interacaoMedicamento": "Interacciones con depresores SNC, benzodiacepinas, alcohol, anestésicos, inhibidores de CYP3A4",
+      "posologia": "Adicción: comenzar con 2–4mg SL, titular hasta 16–24mg/día; dolor: parche 5–20mcg/h cada 7 días",
+      "armazenamento": "15–30°C, protegido de luz y humedad",
+      "preparo": "No cortar el parche; aplicar en piel intacta; disolver SL sin masticar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Depresión respiratoria grave, insuficiencia hepática, hipersensibilidad, uso IV con naloxona",
+      "cuidadosMedicos": "Vigilar frecuencia respiratoria, ECG, abstinencia, nivel de sedación",
+      "cuidadosFarmaceuticos": "Evitar alcohol, instruir sobre técnica del parche, evitar suspensión brusca",
+      "cuidadosEnfermagem": "Evaluar dolor, ventilación, estado de consciencia, adherencia al parche",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "丁丙诺啡",
+      "suspension": "术前72小时停用（慢性舌下或透皮使用者）",
+      "risk": "与麻醉药和阿片类联用可能导致镇痛不足和呼吸抑制；部分激动效应会阻断其他阿片类",
+      "reintroduction": "术后24–72小时患者稳定、疼痛控制良好后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "丁丙诺啡",
+      "nomeComercial": "舒巴坦 Subutex, 舒巴克 Suboxone, 布特兰斯 Butrans",
+      "mecanismoAcao": "μ受体部分激动剂，κ受体拮抗剂；亲和力高，半衰期长",
+      "farmacocinetica": "舌下生物利用度约50%，透皮15%；CYP3A4代谢，半衰期24–60小时",
+      "farmacodinamica": "强效镇痛药及戒毒维持治疗药；可抑制其他阿片类药物的作用",
+      "indicacoes": "中至重度慢性疼痛、阿片类依赖治疗",
+      "reacoesAdversas": "嗜睡、恶心、便秘、呼吸抑制、出汗、失眠、戒断综合征",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌至乳汁；建议谨慎使用",
+      "administracao": "舌下、透皮、注射、颊黏膜",
+      "doseMaxima": "舌下每日32mg；透皮每日20mcg/h",
+      "doseMinima": "舌下每日2mg；透皮每日5mcg/h",
+      "classificacao": "部分阿片受体激动剂",
+      "apresentacao": "舌下片、透皮贴、注射剂、口腔薄膜",
+      "interacaoMedicamento": "与CNS抑制剂、苯二氮䓬类、酒精、挥发性麻醉剂、CYP3A4抑制剂相互作用",
+      "posologia": "成瘾：起始2–4mg舌下，每日递增至16–24mg；疼痛：贴片5–20mcg/h，每7天更换",
+      "armazenamento": "15–30°C，避光干燥保存",
+      "preparo": "贴片勿剪，贴于干燥完整皮肤；舌下缓慢溶解，不可咀嚼",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重呼吸抑制、肝功能不全、与纳洛酮合用注射、过敏史",
+      "cuidadosMedicos": "监测呼吸、ECG、戒断症状和镇静程度",
+      "cuidadosFarmaceuticos": "指导贴片正确使用、避免酒精及突然停药",
+      "cuidadosEnfermagem": "评估疼痛、呼吸、意识状态和贴片黏附情况",
+      "fontesBibliograficas": "NMPA, FDA, WHO, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Minociclina",
+      "suspension": "Suspender 1 dia antes da cirurgia se uso eletivo",
+      "risk": "Risco de hepatotoxicidade, hipotensão e interação com anestésicos; pode causar tontura e sedação",
+      "reintroduction": "Reintroduzir após normalização hepática e estabilidade hemodinâmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Minociclina",
+      "nomeComercial": "Minocil, Arestin, Minocin",
+      "mecanismoAcao": "Liga-se à subunidade 30S ribossomal, inibindo a síntese proteica bacteriana",
+      "farmacocinetica": "Boa absorção oral (~90%), meia-vida 11–22h, metabolização hepática, excreção biliar e renal",
+      "farmacodinamica": "Bacteriostático contra Gram-positivos, Gram-negativos, atípicos e anaeróbios",
+      "indicacoes": "Acne grave, clamídia, riquétsias, infecções respiratórias, pele, periodontite",
+      "reacoesAdversas": "Tontura, náuseas, hepatotoxicidade, hiperpigmentação, lúpus induzido",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "200 mg/dia",
+      "doseMinima": "50 mg/dia",
+      "classificacao": "Antibiótico tetraciclina",
+      "apresentacao": "Cápsulas de 50 mg e 100 mg; pó para reconstituição IV",
+      "interacaoMedicamento": "Interage com isotretinoína, anticoagulantes, anticoncepcionais, lítio",
+      "posologia": "100 mg inicial, seguido de 50 mg 2x/dia",
+      "armazenamento": "Temperatura ambiente, evitar luz e umidade",
+      "preparo": "Uso oral direto ou reconstituição IV conforme bula",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Gravidez, lactação, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar função hepática, sinais de hipertensão intracraniana",
+      "cuidadosFarmaceuticos": "Orientar uso com bastante água, evitar exposição solar",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hepática e reações neurológicas",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Minocycline",
+      "suspension": "Discontinue 1 day before surgery if used electively",
+      "risk": "Risk of hepatotoxicity, dizziness, hypotension, and CYP-mediated interactions with anesthetics",
+      "reintroduction": "Restart once hepatic function and vital signs are stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Minocycline",
+      "nomeComercial": "Minocin, Solodyn, Arestin",
+      "mecanismoAcao": "Binds to the 30S ribosomal subunit, inhibiting bacterial protein synthesis",
+      "farmacocinetica": "~90% oral absorption, half-life 11–22h, hepatic metabolism, biliary/renal excretion",
+      "farmacodinamica": "Bacteriostatic against Gram-positive, Gram-negative, anaerobes and atypicals",
+      "indicacoes": "Severe acne, chlamydia, rickettsiae, respiratory and skin infections, periodontitis",
+      "reacoesAdversas": "Dizziness, nausea, liver injury, pigmentation, drug-induced lupus",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral or IV",
+      "doseMaxima": "200 mg/day",
+      "doseMinima": "50 mg/day",
+      "classificacao": "Tetracycline antibiotic",
+      "apresentacao": "Capsules 50/100 mg; injectable powder",
+      "interacaoMedicamento": "Interacts with isotretinoin, anticoagulants, contraceptives, lithium",
+      "posologia": "100 mg initially, then 50 mg BID",
+      "armazenamento": "Store at room temp, protect from light and moisture",
+      "preparo": "Oral use or IV per label reconstitution",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Pregnancy, breastfeeding, severe hepatic dysfunction",
+      "cuidadosMedicos": "Monitor liver function, signs of intracranial hypertension",
+      "cuidadosFarmaceuticos": "Advise plenty of fluids and sun protection",
+      "cuidadosEnfermagem": "Watch for hepatic and neurologic adverse effects",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Minociclina",
+      "suspension": "Suspender 1 día antes de la cirugía si es uso electivo",
+      "risk": "Riesgo de hepatotoxicidad, hipotensión e interacción con anestésicos; puede causar vértigo y sedación",
+      "reintroduction": "Reintroducir tras normalización hepática y estabilidad hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Minociclina",
+      "nomeComercial": "Minocin, Arestin",
+      "mecanismoAcao": "Se une a la subunidad 30S ribosomal, inhibiendo la síntesis de proteínas bacterianas",
+      "farmacocinetica": "Buena absorción oral (~90%), vida media 11–22h, metabolismo hepático, excreción biliar y renal",
+      "farmacodinamica": "Bacteriostático frente a Gram positivos, Gram negativos, anaerobios y bacterias atípicas",
+      "indicacoes": "Acné severo, clamidia, rickettsias, infecciones respiratorias y cutáneas, periodontitis",
+      "reacoesAdversas": "Mareos, náuseas, hepatotoxicidad, hiperpigmentación, lupus inducido",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "200 mg/día",
+      "doseMinima": "50 mg/día",
+      "classificacao": "Antibiótico tetraciclina",
+      "apresentacao": "Cápsulas de 50 y 100 mg; polvo para inyección IV",
+      "interacaoMedicamento": "Interacciones con isotretinoína, anticoagulantes, anticonceptivos, litio",
+      "posologia": "100 mg inicial, luego 50 mg dos veces al día",
+      "armazenamento": "Temperatura ambiente, protegido de luz y humedad",
+      "preparo": "Administración oral directa o IV según prospecto",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Embarazo, lactancia, insuficiencia hepática grave",
+      "cuidadosMedicos": "Monitorear función hepática, signos de hipertensión intracraneal",
+      "cuidadosFarmaceuticos": "Recomendar ingesta con agua y protección solar",
+      "cuidadosEnfermagem": "Observar toxicidad hepática y reacciones neurológicas",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "美诺环素",
+      "suspension": "择期手术前1天停药",
+      "risk": "可能导致肝毒性、低血压、与麻醉药相互作用，可致眩晕和镇静",
+      "reintroduction": "肝功能恢复且血流动力学稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "美诺环素",
+      "nomeComercial": "Minocin, Arestin",
+      "mecanismoAcao": "结合细菌30S核糖体亚基，抑制蛋白质合成",
+      "farmacocinetica": "口服吸收良好（约90%），半衰期11–22小时，肝代谢，经胆汁和肾脏排泄",
+      "farmacodinamica": "对革兰氏阳性菌、阴性菌、厌氧菌和非典型病原体有抑菌作用",
+      "indicacoes": "重度痤疮、沙眼衣原体、立克次体、呼吸道及皮肤感染、牙周炎",
+      "reacoesAdversas": "头晕、恶心、肝损伤、色素沉着、药物性红斑狼疮",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用于哺乳期",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日200毫克",
+      "doseMinima": "每日50毫克",
+      "classificacao": "四环素类抗生素",
+      "apresentacao": "50 mg和100 mg胶囊；注射用粉针",
+      "interacaoMedicamento": "与异维A酸、抗凝剂、避孕药、锂剂相互作用",
+      "posologia": "首次100毫克，随后每日两次各50毫克",
+      "armazenamento": "室温保存，避光防潮",
+      "preparo": "口服直接服用，注射需按说明书重构",
+      "solucoesCompatíveis": "5%葡萄糖，0.9%氯化钠",
+      "contraindicacoes": "妊娠期、哺乳期、严重肝功能不全",
+      "cuidadosMedicos": "监测肝功能和颅内高压症状",
+      "cuidadosFarmaceuticos": "建议大量饮水并避免阳光暴晒",
+      "cuidadosEnfermagem": "关注肝毒性和神经系统不良反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

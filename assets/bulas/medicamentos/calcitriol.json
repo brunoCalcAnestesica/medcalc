@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Calcitriol",
+      "suspension": "Suspender 24–48h antes de cirurgias em pacientes com risco de hipercalcemia ou comprometimento renal",
+      "risk": "Risco de hipercalcemia, arritmias, confusão mental e instabilidade hemodinâmica; atenção especial em pacientes com IRC ou em uso de digoxina",
+      "reintroduction": "Reintroduzir após estabilização eletrolítica e função renal; monitorar calcemia e sinais de toxicidade"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Calcitriol",
+      "nomeComercial": "Rocaltrol, Calcitrene, Bio D3",
+      "mecanismoAcao": "Forma ativa da vitamina D3; promove absorção intestinal de cálcio e fósforo e regulação do metabolismo ósseo",
+      "farmacocinetica": "Alta biodisponibilidade oral; início de ação em 2–6 horas; meia-vida de 3–6 horas; metabolizado no fígado e excretado pelos rins e bile",
+      "farmacodinamica": "Aumenta a calcemia e fosfatemia, melhora mineralização óssea e suprime PTH",
+      "indicacoes": "Hipocalcemia, osteodistrofia renal, hipoparatireoidismo, osteomalácia, insuficiência renal crônica",
+      "reacoesAdversas": "Hipercalcemia, hipercalciúria, náuseas, vômitos, fraqueza, confusão, arritmias",
+      "riscoGravidez": "Categoria C – usar com cautela",
+      "riscoLactacao": "Pode ser excretado no leite materno",
+      "administracao": "Oral ou intravenosa (em situações especiais)",
+      "doseMaxima": "2 mcg/dia (geral); até 4 mcg/dia em IRC sob controle",
+      "doseMinima": "0,25 mcg/dia",
+      "classificacao": "Hormônio ativo da vitamina D (calcitriol)",
+      "apresentacao": "Cápsulas de 0,25 mcg e 0,5 mcg; solução oral; ampolas IV",
+      "interacaoMedicamento": "Risco aumentado com digoxina, diuréticos tiazídicos, magnésio e outros derivados da vitamina D",
+      "posologia": "Inicial 0,25 mcg/dia, ajustar conforme calcemia e PTH",
+      "armazenamento": "15–30°C, protegido da luz; solução oral sob refrigeração",
+      "preparo": "Agitar solução oral antes de usar",
+      "solucoesCompatíveis": "SF 0,9% para uso IV",
+      "contraindicacoes": "Hipercalcemia, intoxicação por vitamina D, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar calcemia, PTH, função renal e ECG",
+      "cuidadosFarmaceuticos": "Orientar riscos de sobredosagem e ajuste individualizado",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade (letargia, confusão, arritmia)",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, Medscape, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Calcitriol",
+      "suspension": "Discontinue 24–48h before surgery in patients with renal failure or hypercalcemia risk",
+      "risk": "Risk of hypercalcemia, arrhythmia, mental confusion, and hemodynamic instability; caution with digoxin",
+      "reintroduction": "Restart after stabilization of calcium and renal status; monitor for toxicity"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Calcitriol",
+      "nomeComercial": "Rocaltrol, Calcijex, Vectical",
+      "mecanismoAcao": "Active vitamin D3; enhances calcium and phosphate absorption and regulates bone metabolism",
+      "farmacocinetica": "High oral bioavailability; onset 2–6h; half-life 3–6h; hepatic metabolism, renal/biliary excretion",
+      "farmacodinamica": "Raises calcium/phosphorus levels, promotes bone mineralization, suppresses PTH",
+      "indicacoes": "Hypocalcemia, renal osteodystrophy, hypoparathyroidism, osteomalacia, CKD",
+      "reacoesAdversas": "Hypercalcemia, nausea, vomiting, weakness, confusion, arrhythmias",
+      "riscoGravidez": "Category C – caution advised",
+      "riscoLactacao": "May be excreted in breast milk",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "2 mcg/day (general); up to 4 mcg/day in CKD with monitoring",
+      "doseMinima": "0.25 mcg/day",
+      "classificacao": "Active vitamin D hormone",
+      "apresentacao": "Capsules (0.25 mcg, 0.5 mcg), oral solution, IV ampoules",
+      "interacaoMedicamento": "Increased risk with digoxin, thiazides, magnesium, and other vitamin D analogs",
+      "posologia": "Start at 0.25 mcg/day, adjust to serum calcium and PTH",
+      "armazenamento": "15–30°C; protect from light; oral solution refrigerated",
+      "preparo": "Shake oral liquid before use",
+      "solucoesCompatíveis": "0.9% saline for IV use",
+      "contraindicacoes": "Hypercalcemia, vitamin D toxicity, hypersensitivity",
+      "cuidadosMedicos": "Monitor calcium, PTH, renal function, and ECG",
+      "cuidadosFarmaceuticos": "Educate on overdose risk and individualized dosing",
+      "cuidadosEnfermagem": "Watch for toxicity signs (lethargy, confusion, arrhythmia)",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Calcitriol",
+      "suspension": "Suspender 24–48h antes de cirugía en pacientes con IRC o hipercalcemia",
+      "risk": "Riesgo de hipercalcemia, arritmias, confusión y descompensación hemodinámica",
+      "reintroduction": "Reiniciar tras estabilización del calcio y función renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Calcitriol",
+      "nomeComercial": "Rocaltrol, Calcitrene",
+      "mecanismoAcao": "Vitamina D3 activa; mejora la absorción de calcio y fósforo y regula el metabolismo óseo",
+      "farmacocinetica": "Buena absorción oral, inicio 2–6h, t½ 3–6h, metabolismo hepático, excreción renal y biliar",
+      "farmacodinamica": "Eleva calcio y fósforo, favorece mineralización ósea y reduce PTH",
+      "indicacoes": "Hipocalcemia, osteodistrofia renal, hipoparatiroidismo, osteomalacia, IRC",
+      "reacoesAdversas": "Hipercalcemia, náuseas, debilidad, confusión, arritmias",
+      "riscoGravidez": "Categoría C – precaución",
+      "riscoLactacao": "Se excreta en leche materna",
+      "administracao": "Oral o IV",
+      "doseMaxima": "2 mcg/día (general); hasta 4 mcg/día en IRC con control",
+      "doseMinima": "0,25 mcg/día",
+      "classificacao": "Hormona activa de vitamina D",
+      "apresentacao": "Cápsulas, solución oral, ampollas IV",
+      "interacaoMedicamento": "Digoxina, diuréticos tiazídicos, magnesio, otros análogos de vitamina D",
+      "posologia": "Iniciar 0,25 mcg/día, ajustar según calcio y PTH",
+      "armazenamento": "15–30°C, proteger de la luz; solución oral refrigerada",
+      "preparo": "Agitar antes de usar (líquido)",
+      "solucoesCompatíveis": "Solución salina 0,9%",
+      "contraindicacoes": "Hipercalcemia, toxicidad por vitamina D, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear calcio, fósforo, PTH, ECG",
+      "cuidadosFarmaceuticos": "Orientar sobre riesgos de sobredosis",
+      "cuidadosEnfermagem": "Vigilar síntomas de toxicidad y arritmias",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "骨化三醇",
+      "suspension": "手术前24–48小时停药（如有肾功能不全或高钙血症）",
+      "risk": "高钙血症、心律失常、意识模糊、血流不稳定风险",
+      "reintroduction": "电解质及肾功能稳定后可重新使用，需监测毒性"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "骨化三醇",
+      "nomeComercial": "罗盖全（Rocaltrol）",
+      "mecanismoAcao": "活性维生素D3形式，增强钙磷吸收，调节骨代谢",
+      "farmacocinetica": "口服吸收好，起效2–6小时，半衰期3–6小时，经肝代谢、肾和胆汁排泄",
+      "farmacodinamica": "升高血钙磷，促进骨矿化，抑制PTH",
+      "indicacoes": "低钙血症、肾性骨病、甲旁减、骨软化、慢性肾衰",
+      "reacoesAdversas": "高钙血症、恶心、乏力、意识混乱、心律不齐",
+      "riscoGravidez": "C类 – 谨慎使用",
+      "riscoLactacao": "可分泌入乳汁",
+      "administracao": "口服或静脉",
+      "doseMaxima": "每日2微克（常规）；慢性肾病可至4微克",
+      "doseMinima": "每日0.25微克",
+      "classificacao": "活性维生素D激素",
+      "apresentacao": "胶囊（0.25微克、0.5微克）、口服液、注射液",
+      "interacaoMedicamento": "与地高辛、噻嗪类、镁剂、其他维D制剂互作",
+      "posologia": "起始0.25微克/日，依血钙和PTH调整",
+      "armazenamento": "15–30°C，避光保存；口服液需冷藏",
+      "preparo": "口服液使用前摇匀",
+      "solucoesCompatíveis": "0.9%生理盐水（IV）",
+      "contraindicacoes": "高钙血症、维生素D中毒、过敏史",
+      "cuidadosMedicos": "监测血钙、PTH、肾功能和心电图",
+      "cuidadosFarmaceuticos": "强调个体剂量与过量风险",
+      "cuidadosEnfermagem": "观察毒性体征（嗜睡、心律变）、高钙表现",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex"
+    }
+  }
+}

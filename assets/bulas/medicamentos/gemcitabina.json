@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Gemcitabina",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de mielossupressão, toxicidade pulmonar e infecções graves",
+      "reintroduction": "Reintroduzir após recuperação hematológica completa e exclusão de infecções"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gemcitabina",
+      "nomeComercial": "Gemzar",
+      "mecanismoAcao": "Análogo da citidina que inibe a síntese de DNA por bloqueio da ribonucleotídeo redutase e incorporação no DNA",
+      "farmacocinetica": "Administração IV; meia-vida curta (42–94 minutos); metabolização hepática; excreção urinária",
+      "farmacodinamica": "Antimetabólito com atividade na fase S do ciclo celular",
+      "indicacoes": "Câncer de pâncreas, pulmão, bexiga, mama, ovário e sarcomas",
+      "reacoesAdversas": "Leucopenia, trombocitopenia, anemia, febre, rash, náuseas, toxicidade pulmonar",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via intravenosa",
+      "doseMaxima": "1250 mg/m²/dose",
+      "doseMinima": "600 mg/m²/dose",
+      "classificacao": "Antineoplásico – antimetabólito (análogos de pirimidina)",
+      "apresentacao": "Frascos-ampola com pó liofilizado para reconstituição",
+      "interacaoMedicamento": "Interações com cisplatina (aumenta mielossupressão), vacinas vivas e radioterapia",
+      "posologia": "1000–1250 mg/m² IV nos dias 1, 8 e 15 a cada 28 dias",
+      "armazenamento": "Pó liofilizado: temperatura ambiente; solução reconstituída: refrigerada até 24h",
+      "preparo": "Reconstituir com SF 0,9% e administrar por infusão EV lenta",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Gravidez, lactação, infecção ativa grave, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática e pulmonar, sinais de toxicidade",
+      "cuidadosFarmaceuticos": "Preparar em capela de fluxo laminar, descartar resíduos como citotóxicos",
+      "cuidadosEnfermagem": "Usar EPI, monitorar reações infusionais, sinais de toxicidade hematológica e pulmonar",
+      "fontesBibliograficas": "INCA, ANVISA, FDA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Gemcitabine",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of myelosuppression, pulmonary toxicity, and severe infections",
+      "reintroduction": "Restart after complete hematologic recovery and infection clearance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gemcitabine",
+      "nomeComercial": "Gemzar",
+      "mecanismoAcao": "Cytidine analog that inhibits DNA synthesis by blocking ribonucleotide reductase and incorporating into DNA",
+      "farmacocinetica": "IV administration; short half-life (42–94 min); hepatic metabolism; urinary excretion",
+      "farmacodinamica": "S-phase specific antimetabolite",
+      "indicacoes": "Pancreatic, lung, bladder, breast, ovarian cancers, and sarcomas",
+      "reacoesAdversas": "Leukopenia, thrombocytopenia, anemia, fever, rash, nausea, pulmonary toxicity",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Intravenous route",
+      "doseMaxima": "1250 mg/m²/dose",
+      "doseMinima": "600 mg/m²/dose",
+      "classificacao": "Antineoplastic – antimetabolite (pyrimidine analog)",
+      "apresentacao": "Vials with lyophilized powder for reconstitution",
+      "interacaoMedicamento": "Interacts with cisplatin (increases toxicity), live vaccines, radiotherapy",
+      "posologia": "1000–1250 mg/m² IV on days 1, 8, and 15 every 28 days",
+      "armazenamento": "Powder: room temp; solution: refrigerated up to 24h",
+      "preparo": "Reconstitute with NS and administer by slow IV infusion",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Pregnancy, breastfeeding, active severe infection, hypersensitivity",
+      "cuidadosMedicos": "Monitor CBC, liver and pulmonary function, signs of toxicity",
+      "cuidadosFarmaceuticos": "Prepare under laminar flow, discard as cytotoxic waste",
+      "cuidadosEnfermagem": "Wear PPE, monitor for infusion reactions and hematologic/pulmonary toxicity",
+      "fontesBibliograficas": "FDA, Micromedex, NCCN, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Gemcitabina",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de mielosupresión, toxicidad pulmonar e infecciones graves",
+      "reintroduction": "Reintroducir tras recuperación hematológica completa y sin infecciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gemcitabina",
+      "nomeComercial": "Gemzar",
+      "mecanismoAcao": "Análogo de citidina que bloquea la síntesis de ADN al inhibir la ribonucleótido reductasa y al incorporarse en el ADN",
+      "farmacocinetica": "IV; vida media 42–94 minutos; metabolismo hepático, excreción renal",
+      "farmacodinamica": "Antimetabolito específico de fase S",
+      "indicacoes": "Cáncer de páncreas, pulmón, vejiga, mama, ovario y sarcomas",
+      "reacoesAdversas": "Leucopenia, trombocitopenia, anemia, fiebre, erupción, náuseas, toxicidad pulmonar",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía intravenosa",
+      "doseMaxima": "1250 mg/m²/dosis",
+      "doseMinima": "600 mg/m²/dosis",
+      "classificacao": "Antineoplásico – antimetabolito (análogo de pirimidina)",
+      "apresentacao": "Viales con polvo liofilizado para reconstituir",
+      "interacaoMedicamento": "Interacciones con cisplatino, vacunas vivas y radioterapia",
+      "posologia": "1000–1250 mg/m² IV en los días 1, 8 y 15 cada 28 días",
+      "armazenamento": "Polvo: temperatura ambiente; solución: refrigerada hasta 24h",
+      "preparo": "Reconstituir con SF 0,9% y administrar en infusión lenta",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Embarazo, lactancia, infección grave activa, hipersensibilidad",
+      "cuidadosMedicos": "Controlar hemograma, función hepática y pulmonar, toxicidad",
+      "cuidadosFarmaceuticos": "Preparar bajo flujo laminar, residuos citotóxicos",
+      "cuidadosEnfermagem": "EPP obligatorio, vigilar toxicidad hematológica y pulmonar",
+      "fontesBibliograficas": "ANMAT, FDA, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "吉西他滨",
+      "suspension": "择期手术前7天停药",
+      "risk": "骨髓抑制、肺毒性和严重感染风险",
+      "reintroduction": "血象恢复且无感染后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "吉西他滨",
+      "nomeComercial": "吉西他滨注射液 (Gemzar)",
+      "mecanismoAcao": "胞苷类似物，通过抑制核苷还原酶和嵌入DNA链抑制DNA合成",
+      "farmacocinetica": "静脉给药；半衰期42–94分钟；肝脏代谢，经肾排泄",
+      "farmacodinamica": "S期特异性抗代谢药物",
+      "indicacoes": "胰腺癌、肺癌、膀胱癌、乳腺癌、卵巢癌、肉瘤",
+      "reacoesAdversas": "白细胞减少、血小板减少、贫血、发热、皮疹、恶心、肺毒性",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用于哺乳期，可分泌至乳汁中",
+      "administracao": "静脉注射",
+      "doseMaxima": "每次1250 mg/m²",
+      "doseMinima": "每次600 mg/m²",
+      "classificacao": "抗肿瘤药 – 抗代谢药（嘧啶类似物）",
+      "apresentacao": "冻干粉注射剂",
+      "interacaoMedicamento": "与顺铂、活疫苗、放疗有相互作用",
+      "posologia": "第1、8、15天静脉注射1000–1250 mg/m²，每28天为一周期",
+      "armazenamento": "粉剂室温保存；配制液冷藏可保存24小时",
+      "preparo": "用0.9%氯化钠稀释后缓慢静脉输注",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "妊娠、哺乳、重度感染、过敏史",
+      "cuidadosMedicos": "监测血象、肝肺功能及毒性表现",
+      "cuidadosFarmaceuticos": "在层流柜中操作，按细胞毒标准处理废物",
+      "cuidadosEnfermagem": "穿戴防护，监测输液反应及血液/肺毒性",
+      "fontesBibliograficas": "中国药典, FDA, Micromedex, NCCN"
+    }
+  }
+}

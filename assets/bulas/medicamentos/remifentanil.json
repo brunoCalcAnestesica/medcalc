@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Remifentanil",
+      "suspension": "Não se aplica (uso exclusivo EV intraoperatório); suspender opioides de ação prolongada se possível",
+      "risk": "Depressão respiratória imediata, bradicardia, hipotensão, rigidez torácica, abstinência aguda se descontinuado abruptamente em pacientes dependentes",
+      "reintroduction": "Pode ser reintroduzido conforme necessidade anestésica com monitoramento contínuo e suporte ventilatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Remifentanil",
+      "nomeComercial": "Ultiva",
+      "mecanismoAcao": "Agonista µ-opioide potente e de ultra curta duração; metabolizado por estearases plasmáticas",
+      "farmacocinetica": "Início: 1min; pico: 1–2min; meia-vida contexto-sensível: ~3min; metabolização independente do fígado; excreção renal de metabólitos inativos",
+      "farmacodinamica": "Opioide IV ultrarrápido ideal para indução e manutenção anestésica; permite controle preciso da analgesia com rápida recuperação",
+      "indicacoes": "Indução e manutenção de anestesia geral, sedação em UTI, analgesia em procedimentos curtos, neurocirurgia",
+      "reacoesAdversas": "Apneia, bradicardia, hipotensão, rigidez muscular, náuseas, tolerância aguda, abstinência",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Seguro para uso único; evitar infusões prolongadas durante lactação",
+      "administracao": "IV contínuo (infusão alvo-controlada ou manual); bolus IV em indução",
+      "doseMaxima": "Manutenção: até 2mcg/kg/min (cirurgias maiores); indução: bolus 1mcg/kg",
+      "doseMinima": "Manutenção: 0,05mcg/kg/min",
+      "classificacao": "Opioide µ de ação ultracurta (anestésico IV)",
+      "apresentacao": "Pó liofilizado 1mg, 2mg ou 5mg para reconstituição em SF 0,9%",
+      "interacaoMedicamento": "Outros opioides, anestésicos voláteis, benzodiazepínicos, bloqueadores neuromusculares, álcool",
+      "posologia": "Indução: 1mcg/kg IV lento; manutenção: 0,05–2mcg/kg/min conforme profundidade anestésica",
+      "armazenamento": "Pó a temperatura ambiente; solução reconstituída: usar em até 24h sob refrigeração",
+      "preparo": "Reconstituir com SF e diluir em bomba para concentração final de 20–50mcg/mL",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade, uso isolado sem suporte ventilatório, bradicardia grave sem marca-passo",
+      "cuidadosMedicos": "Monitorar constantemente ECG, FR, PA, dor, nível de sedação; evitar em PCA",
+      "cuidadosFarmaceuticos": "Diluir sob condições assépticas; atentar para estabilidade e uso exclusivo IV",
+      "cuidadosEnfermagem": "Monitorar respiração, sinais vitais, rigidez torácica, analgesia e transição para opioides de ação prolongada",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Lexicomp, UpToDate, Miller's Anesthesia, SBAR"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Remifentanil",
+      "suspension": "Not applicable (IV anesthetic only); consider stopping long-acting opioids if planned",
+      "risk": "Immediate respiratory depression, bradycardia, hypotension, muscle rigidity, acute withdrawal on abrupt stop",
+      "reintroduction": "May be reintroduced for intraoperative analgesia under monitoring and ventilatory support"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Remifentanil Hydrochloride",
+      "nomeComercial": "Ultiva",
+      "mecanismoAcao": "Ultra-short-acting µ-opioid receptor agonist metabolized by plasma esterases",
+      "farmacocinetica": "Onset: 1min; peak: 1–2min; context-sensitive half-life ~3min; independent of liver metabolism",
+      "farmacodinamica": "Rapid-acting IV opioid ideal for anesthesia induction/maintenance and neurosurgery",
+      "indicacoes": "Induction and maintenance of general anesthesia, procedural analgesia, ICU sedation",
+      "reacoesAdversas": "Apnea, hypotension, bradycardia, chest wall rigidity, nausea, acute tolerance/withdrawal",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Single use safe; avoid prolonged infusions",
+      "administracao": "IV infusion (manual or target-controlled); IV bolus",
+      "doseMaxima": "Maintenance up to 2mcg/kg/min; bolus: 1mcg/kg",
+      "doseMinima": "Maintenance: 0.05mcg/kg/min",
+      "classificacao": "Ultra-short-acting µ-opioid anesthetic",
+      "apresentacao": "Lyophilized powder: 1mg, 2mg, 5mg vials for IV use",
+      "interacaoMedicamento": "Opioids, volatile anesthetics, benzodiazepines, neuromuscular blockers",
+      "posologia": "Bolus: 1mcg/kg; Maintenance: 0.05–2mcg/kg/min based on depth",
+      "armazenamento": "Powder at room temperature; solution: refrigerate, use within 24h",
+      "preparo": "Dilute to 20–50mcg/mL in NS or D5W; pump administration only",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hypersensitivity, standalone use without airway support, severe untreated bradycardia",
+      "cuidadosMedicos": "Monitor ECG, RR, BP, analgesia depth, ventilatory support",
+      "cuidadosFarmaceuticos": "Ensure sterile reconstitution and correct dilution; avoid PCA use",
+      "cuidadosEnfermagem": "Observe for apnea, rigidity, vital signs, sedation, need for transition to long-acting opioids",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, Miller’s Anesthesia, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Remifentanilo",
+      "suspension": "No aplica (uso anestésico IV); considerar suspender opioides prolongados si es posible",
+      "risk": "Depresión respiratoria inmediata, bradicardia, hipotensión, rigidez torácica, abstinencia aguda al suspender",
+      "reintroduction": "Reintroducir según necesidad quirúrgica con soporte ventilatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Remifentanilo",
+      "nomeComercial": "Ultiva",
+      "mecanismoAcao": "Agonista µ-opioide ultracorto; metabolizado por esterasas plasmáticas",
+      "farmacocinetica": "Inicio: 1min; pico: 1–2min; t1/2 contexto ~3min; independiente del hígado",
+      "farmacodinamica": "Opioide IV rápido ideal para anestesia general y procedimientos breves",
+      "indicacoes": "Inducción/mantenimiento anestésico, sedación en UCI, analgesia en cirugía mayor",
+      "reacoesAdversas": "Apnea, hipotensión, bradicardia, rigidez muscular, náuseas, tolerancia aguda",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Segura en dosis única; evitar infusión continua",
+      "administracao": "Infusión IV continua o bolo",
+      "doseMaxima": "Mantenimiento hasta 2mcg/kg/min; bolo: 1mcg/kg",
+      "doseMinima": "0.05mcg/kg/min",
+      "classificacao": "Analgésico µ de acción ultracorta",
+      "apresentacao": "Frascos de 1mg, 2mg, 5mg liofilizados",
+      "interacaoMedicamento": "Opioides, anestésicos inhalatorios, benzodiacepinas, relajantes musculares",
+      "posologia": "Bolo: 1mcg/kg; Mantenimiento: 0.05–2mcg/kg/min",
+      "armazenamento": "Polvo a temperatura ambiente; solución reconstituida 24h refrigerada",
+      "preparo": "Diluir a 20–50mcg/mL en SF o SG 5%; usar bomba",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidad, uso sin ventilación asistida, bradicardia grave",
+      "cuidadosMedicos": "Vigilar ECG, FR, PA, profundidad anestésica",
+      "cuidadosFarmaceuticos": "Reconstitución aséptica; sólo IV continuo bajo supervisión",
+      "cuidadosEnfermagem": "Observar signos vitales, apnea, dolor, rigidez, necesidad de transición analgésica",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "瑞芬太尼",
+      "suspension": "不适用（仅限术中IV使用）；术前应停用长效阿片类药物",
+      "risk": "呼吸抑制、心动过缓、低血压、肌肉僵硬、停药后急性戒断",
+      "reintroduction": "术中可根据镇痛需求重新使用，需机械通气支持"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸瑞芬太尼",
+      "nomeComercial": "Ultiva, 瑞芬太尼注射液",
+      "mecanismoAcao": "高效μ受体激动剂，通过血浆酯酶代谢，起效快，作用时间极短",
+      "farmacocinetica": "起效1分钟；达峰1–2分钟；上下文半衰期约3分钟；与肝功能无关",
+      "farmacodinamica": "用于手术中镇痛及短时深度镇静控制；作用可迅速调整",
+      "indicacoes": "麻醉诱导/维持、术中镇痛、ICU短时镇静、神经外科、创伤",
+      "reacoesAdversas": "呼吸抑制、心动过缓、低血压、肌肉僵硬、恶心、戒断综合征",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "单次使用安全，避免持续输注哺乳期",
+      "administracao": "静脉泵输，必要时可静注",
+      "doseMaxima": "术中最高可达2mcg/kg/min；诱导1mcg/kg",
+      "doseMinima": "维持剂量0.05mcg/kg/min",
+      "classificacao": "超短效μ阿片类镇痛药",
+      "apresentacao": "冻干粉：1mg、2mg、5mg瓶装，需重构",
+      "interacaoMedicamento": "阿片类、挥发性麻醉剂、苯二氮䓬类、肌松剂",
+      "posologia": "诱导：1mcg/kg静注；维持0.05–2mcg/kg/min持续泵输",
+      "armazenamento": "粉剂室温保存；配液后冷藏，24小时内使用",
+      "preparo": "以NS或D5W稀释至20–50mcg/mL，用泵控制输注速率",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "未建立气道管理、严重心动过缓、过敏史",
+      "cuidadosMedicos": "监测ECG、SpO2、血压、肌张力及戒断风险",
+      "cuidadosFarmaceuticos": "无菌稀释操作，使用注射泵；禁用于PCA",
+      "cuidadosEnfermagem": "观察呼吸、镇痛、血压、拔管风险与戒断表现",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex, UpToDate"
+    }
+  }
+}

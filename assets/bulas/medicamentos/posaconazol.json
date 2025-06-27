@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Posaconazol",
+      "suspension": "Suspender 5 a 7 dias antes de cirurgia hepática ou com risco de interação medicamentosa crítica",
+      "risk": "Inibe CYP3A4; pode aumentar toxicidade de imunossupressores, benzodiazepínicos e antiarrítmicos; risco de hepatotoxicidade e prolongamento de QT",
+      "reintroduction": "Reintroduzir após normalização hepática e exclusão de interações relevantes no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Posaconazol",
+      "nomeComercial": "Noxafil",
+      "mecanismoAcao": "Inibe a enzima 14-α-desmetilase, bloqueando a síntese de ergosterol da membrana fúngica",
+      "farmacocinetica": "Biodisponibilidade variável conforme formulação; Tmáx: 4–6h; meia-vida: 25–35h; metabolismo hepático",
+      "farmacodinamica": "Fungistático ou fungicida contra Aspergillus, Candida, Mucorales e outros fungos oportunistas",
+      "indicacoes": "Profilaxia e tratamento de infecções fúngicas invasivas em pacientes imunocomprometidos (leucemia, transplante)",
+      "reacoesAdversas": "Náusea, vômito, diarreia, aumento de transaminases, rash, hipocalemia, prolongamento de QT",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar; não se sabe se é excretado no leite",
+      "administracao": "Oral (suspensão, comprimido) ou intravenosa",
+      "doseMaxima": "300 mg/dia (comprimido ou IV); suspensão até 800 mg/dia fracionado",
+      "doseMinima": "200 mg/dia",
+      "classificacao": "Antifúngico triazólico",
+      "apresentacao": "Comprimidos de 100 mg; suspensão 40 mg/mL; solução IV 18 mg/mL",
+      "interacaoMedicamento": "Inibe CYP3A4; interage com ciclosporina, tacrolimo, estatinas, midazolam, QT-prolongadores",
+      "posologia": "200 mg 3x/dia (suspensão); 300 mg 1x/dia após dose ataque de 300 mg 2x/dia (comprimido/IV)",
+      "armazenamento": "Temperatura ambiente (15–30°C); não refrigerar suspensão",
+      "preparo": "Uso direto; infusão IV em 90 min; suspensão com alimentos gordurosos",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Uso concomitante com alcaloides do ergot, cisaprida, pimozida, quinidina",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas, eletrólitos e ECG em uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar interações graves; orientar forma correta de administração conforme apresentação",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hepática, arritmias e sintomas GI",
+      "fontesBibliograficas": "Micromedex, UpToDate, bula Noxafil, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Posaconazole",
+      "suspension": "Discontinue 5–7 days before hepatic or high-interaction-risk surgery",
+      "risk": "Inhibits CYP3A4; increases levels of immunosuppressants, benzodiazepines, antiarrhythmics; risk of hepatotoxicity and QT prolongation",
+      "reintroduction": "Restart after hepatic function stabilizes and critical interactions are excluded"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Posaconazole",
+      "nomeComercial": "Noxafil",
+      "mecanismoAcao": "Inhibits fungal 14-α-demethylase, impairing ergosterol synthesis",
+      "farmacocinetica": "Variable bioavailability; Tmax: 4–6h; t½: 25–35h; hepatic metabolism",
+      "farmacodinamica": "Fungistatic/cidal against Aspergillus, Candida, Mucorales",
+      "indicacoes": "Prophylaxis and treatment of invasive fungal infections in immunocompromised patients",
+      "reacoesAdversas": "Nausea, vomiting, diarrhea, elevated LFTs, rash, hypokalemia, QT prolongation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid; excretion in milk unknown",
+      "administracao": "Oral (tablet, suspension) or IV",
+      "doseMaxima": "300 mg/day (tablet/IV); up to 800 mg/day (suspension split doses)",
+      "doseMinima": "200 mg/day",
+      "classificacao": "Triazole antifungal",
+      "apresentacao": "100 mg tablets; 40 mg/mL suspension; 18 mg/mL IV solution",
+      "interacaoMedicamento": "CYP3A4 inhibitor; interacts with cyclosporine, tacrolimus, statins, midazolam, QT-prolongers",
+      "posologia": "Suspension: 200 mg TID; tablet/IV: 300 mg daily after loading dose",
+      "armazenamento": "15–30°C; do not refrigerate suspension",
+      "preparo": "Direct use; IV infused over 90 min; suspension with fatty meals",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Ergot alkaloids, cisapride, pimozide, quinidine co-use",
+      "cuidadosMedicos": "Monitor LFTs, electrolytes, ECG during prolonged therapy",
+      "cuidadosFarmaceuticos": "Avoid serious drug interactions; counsel based on formulation",
+      "cuidadosEnfermagem": "Monitor for liver toxicity, GI symptoms, arrhythmia signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Noxafil PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Posaconazol",
+      "suspension": "Suspender 5–7 días antes de cirugía hepática o con alto riesgo de interacción",
+      "risk": "Inhibidor de CYP3A4; aumenta niveles de inmunosupresores, benzodiazepinas y antiarrítmicos; riesgo de hepatotoxicidad y QT prolongado",
+      "reintroduction": "Reiniciar tras normalización hepática y evaluación de interacciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Posaconazol",
+      "nomeComercial": "Noxafil",
+      "mecanismoAcao": "Inhibe la 14-α-desmetilasa fúngica, bloqueando síntesis de ergosterol",
+      "farmacocinetica": "Biodisponibilidad variable; Tmax: 4–6h; t½: 25–35h; metabolismo hepático",
+      "farmacodinamica": "Fungiestático/cida contra Aspergillus, Candida, Mucorales",
+      "indicacoes": "Profilaxis y tratamiento de infecciones fúngicas invasivas en inmunocomprometidos",
+      "reacoesAdversas": "Náuseas, vómitos, diarrea, transaminasas elevadas, rash, hipocalemia, QT prolongado",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar; no se sabe si se excreta en leche",
+      "administracao": "Oral (comprimidos, suspensión) o IV",
+      "doseMaxima": "300 mg/día (tableta/IV); suspensión hasta 800 mg/día fraccionado",
+      "doseMinima": "200 mg/día",
+      "classificacao": "Antifúngico triazólico",
+      "apresentacao": "Comprimidos 100 mg; suspensión 40 mg/mL; IV 18 mg/mL",
+      "interacaoMedicamento": "Inhibidor CYP3A4; interacciones con ciclosporina, tacrolimus, estatinas, midazolam, QT",
+      "posologia": "Suspensión: 200 mg TID; tableta/IV: 300 mg/día después de carga",
+      "armazenamento": "15–30°C; no refrigerar suspensión",
+      "preparo": "Uso directo; IV en 90 min; suspensión con comidas grasas",
+      "solucoesCompatíveis": "SF, DAD 5%",
+      "contraindicacoes": "Uso con alcaloides del cornezuelo, cisaprida, pimozida, quinidina",
+      "cuidadosMedicos": "Monitorizar función hepática, electrolitos y ECG si uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar interacciones severas; instruir según formulación",
+      "cuidadosEnfermagem": "Observar toxicidad hepática, síntomas GI, arritmias",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Noxafil"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "泊沙康唑",
+      "suspension": "术前5–7天停用（如涉及肝功能或相互作用）",
+      "risk": "CYP3A4抑制剂；可能增加免疫抑制剂、苯二氮䓬类、抗心律药毒性；风险包括肝毒性、QT延长",
+      "reintroduction": "肝功能恢复并排除关键药物交互后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "泊沙康唑",
+      "nomeComercial": "Noxafil",
+      "mecanismoAcao": "抑制真菌14-α-去甲基酶，干扰真菌细胞膜合成",
+      "farmacocinetica": "口服吸收差异大；Tmax 4–6小时；T½ 25–35小时；肝代谢",
+      "farmacodinamica": "对曲霉、念珠菌、毛霉类具有抑菌或杀菌作用",
+      "indicacoes": "免疫功能低下者的侵袭性真菌感染预防和治疗",
+      "reacoesAdversas": "恶心、呕吐、腹泻、转氨酶升高、皮疹、低钾、QT延长",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免使用；是否分泌入乳未知",
+      "administracao": "口服（片剂、混悬液）或静脉注射",
+      "doseMaxima": "片剂/IV：每日300 mg；混悬液可至每日800 mg",
+      "doseMinima": "每日200 mg",
+      "classificacao": "三唑类抗真菌药",
+      "apresentacao": "100 mg片剂；40 mg/mL口服液；18 mg/mL注射液",
+      "interacaoMedicamento": "CYP3A4抑制；与环孢素、他克莫司、他汀、咪达唑仑、QT药物有交互",
+      "posologia": "口服液200 mg一日三次；片剂/IV：负荷剂量后每日300 mg",
+      "armazenamento": "15–30°C，口服液勿冷藏",
+      "preparo": "直接使用；IV滴注90分钟；口服液需配合高脂饮食",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "不能与麦角生物碱、西沙必利、哌莫司汀、奎尼丁联用",
+      "cuidadosMedicos": "长期使用需监测肝功能、电解质、心电图",
+      "cuidadosFarmaceuticos": "防止严重药物相互作用，按剂型指导使用",
+      "cuidadosEnfermagem": "观察肝毒性表现、胃肠道症状、心律异常",
+      "fontesBibliograficas": "Micromedex、中国药典、UpToDate、Noxafil说明书"
+    }
+  }
+}

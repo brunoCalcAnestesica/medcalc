@@ -1,0 +1,142 @@
+{
+  "PT": {
+    "external": {
+      "name": "Valproato de sódio",
+      "suspension": "Suspender 48h antes de neurocirurgias ou procedimentos com risco hemorrágico significativo",
+      "risk": "Hepatotoxicidade, pancreatite, trombocitopenia, náuseas, ganho de peso, tremores, encefalopatia por hiperamonemia",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com função hepática estável e controle de sangramento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Valproato de sódio",
+      "nomeComercial": "Depakene, Depakote, Epilim",
+      "mecanismoAcao": "Bloqueia canais de sódio e cálcio, aumenta níveis de GABA e modula neurotransmissores excitatórios",
+      "farmacocinetica": "VO/EV; biodisponibilidade ~90%; T½ 9–18h; metabolizado hepaticamente (glucuronidação, beta-oxidação); excreção renal",
+      "farmacodinamica": "Estabilizador de membrana neuronal com efeitos antiepiléptico, estabilizador do humor e antimigrañoso",
+      "indicacoes": "Epilepsia (tônico-clônica, ausência, mioclônica), transtorno bipolar, enxaqueca",
+      "reacoesAdversas": "Sonolência, tremor, disfunção hepática, trombocitopenia, ganho de peso, alopecia, náuseas",
+      "riscoGravidez": "Categoria D/X – teratogênico (defeitos tubo neural, QI baixo, autismo)",
+      "riscoLactacao": "Usar com cautela",
+      "administracao": "VO em 2–3 doses/dia; EV em bolus ou infusão",
+      "doseMaxima": "60mg/kg/dia (adulto); até 1000–3000mg/dia total",
+      "doseMinima": "250–500mg/dia",
+      "classificacao": "Anticonvulsivante; estabilizador do humor",
+      "apresentacao": "Comprimidos 250mg, 500mg; solução oral 250mg/5ml; ampola EV 400mg/4ml",
+      "interacaoMedicamento": "Lamotrigina (↑risco de rash), fenitoína, carbamazepina, anticoagulantes, anticoncepcionais hormonais",
+      "posologia": "Início: 10–15mg/kg/dia; ajustar até 60mg/kg/dia; manter níveis plasmáticos entre 50–100 mcg/ml",
+      "armazenamento": "Temperatura ambiente, evitar luz e calor excessivo",
+      "preparo": "EV: diluir em SF 0,9%; infundir em 60 min",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Doença hepática ativa, porfiria, gravidez, distúrbios mitocondriais (POLG)",
+      "cuidadosMedicos": "Monitorar TGO/TGP, bilirrubinas, amônia, INR, hemograma",
+      "cuidadosFarmaceuticos": "Atenção ao uso pediátrico e à forma farmacêutica (liberação controlada x imediata)",
+      "cuidadosEnfermagem": "Observar sedação, sangramento, dor abdominal, vômitos, confusão",
+      "comentarioFarmacologico": "O valproato é um dos poucos fármacos com ampla ação em múltiplas síndromes epilépticas. Sua eficácia na mania aguda é comparável ao lítio, sendo preferido em casos de ciclo rápido ou com comorbidades neurológicas. Tem ação comprovada em enxaqueca e comportamento agressivo refratário.",
+      "comentarioSeguranca": "O risco teratogênico é elevado, com recomendações firmes contra uso em mulheres em idade fértil sem contracepção eficaz. A encefalopatia por hiperamonemia pode ocorrer mesmo com função hepática normal. Exige cautela em uso combinado com outros antiepilépticos devido ao risco de toxicidade cruzada."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sodium valproate",
+      "suspension": "Suspender 48h antes de neurocirurgias ou procedimentos com risco hemorrágico significativo",
+      "risk": "Hepatotoxicidade, pancreatite, trombocitopenia, náuseas, ganho de peso, tremores, encefalopatia por hiperamonemia",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com função hepática estável e controle de sangramento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Valproato de sódio",
+      "nomeComercial": "Depakene, Depakote, Epilim",
+      "mecanismoAcao": "Bloqueia canais de sódio e cálcio, aumenta níveis de GABA e modula neurotransmissores excitatórios",
+      "farmacocinetica": "VO/EV; biodisponibilidade ~90%; T½ 9–18h; metabolizado hepaticamente (glucuronidação, beta-oxidação); excreção renal",
+      "farmacodinamica": "Estabilizador de membrana neuronal com efeitos antiepiléptico, estabilizador do humor e antimigrañoso",
+      "indicacoes": "Epilepsia (tônico-clônica, ausência, mioclônica), transtorno bipolar, enxaqueca",
+      "reacoesAdversas": "Sonolência, tremor, disfunção hepática, trombocitopenia, ganho de peso, alopecia, náuseas",
+      "riscoGravidez": "Categoria D/X – teratogênico (defeitos tubo neural, QI baixo, autismo)",
+      "riscoLactacao": "Usar com cautela",
+      "administracao": "VO em 2–3 doses/dia; EV em bolus ou infusão",
+      "doseMaxima": "60mg/kg/dia (adulto); até 1000–3000mg/dia total",
+      "doseMinima": "250–500mg/dia",
+      "classificacao": "Anticonvulsivante; estabilizador do humor",
+      "apresentacao": "Comprimidos 250mg, 500mg; solução oral 250mg/5ml; ampola EV 400mg/4ml",
+      "interacaoMedicamento": "Lamotrigina (↑risco de rash), fenitoína, carbamazepina, anticoagulantes, anticoncepcionais hormonais",
+      "posologia": "Início: 10–15mg/kg/dia; ajustar até 60mg/kg/dia; manter níveis plasmáticos entre 50–100 mcg/ml",
+      "armazenamento": "Temperatura ambiente, evitar luz e calor excessivo",
+      "preparo": "EV: diluir em SF 0,9%; infundir em 60 min",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Doença hepática ativa, porfiria, gravidez, distúrbios mitocondriais (POLG)",
+      "cuidadosMedicos": "Monitorar TGO/TGP, bilirrubinas, amônia, INR, hemograma",
+      "cuidadosFarmaceuticos": "Atenção ao uso pediátrico e à forma farmacêutica (liberação controlada x imediata)",
+      "cuidadosEnfermagem": "Observar sedação, sangramento, dor abdominal, vômitos, confusão",
+      "comentarioFarmacologico": "O valproato é um dos poucos fármacos com ampla ação em múltiplas síndromes epilépticas. Sua eficácia na mania aguda é comparável ao lítio, sendo preferido em casos de ciclo rápido ou com comorbidades neurológicas. Tem ação comprovada em enxaqueca e comportamento agressivo refratário.",
+      "comentarioSeguranca": "O risco teratogênico é elevado, com recomendações firmes contra uso em mulheres em idade fértil sem contracepção eficaz. A encefalopatia por hiperamonemia pode ocorrer mesmo com função hepática normal. Exige cautela em uso combinado com outros antiepilépticos devido ao risco de toxicidade cruzada."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Valproato sódico",
+      "suspension": "Suspender 48h antes de neurocirurgias ou procedimentos com risco hemorrágico significativo",
+      "risk": "Hepatotoxicidade, pancreatite, trombocitopenia, náuseas, ganho de peso, tremores, encefalopatia por hiperamonemia",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com função hepática estável e controle de sangramento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Valproato de sódio",
+      "nomeComercial": "Depakene, Depakote, Epilim",
+      "mecanismoAcao": "Bloqueia canais de sódio e cálcio, aumenta níveis de GABA e modula neurotransmissores excitatórios",
+      "farmacocinetica": "VO/EV; biodisponibilidade ~90%; T½ 9–18h; metabolizado hepaticamente (glucuronidação, beta-oxidação); excreção renal",
+      "farmacodinamica": "Estabilizador de membrana neuronal com efeitos antiepiléptico, estabilizador do humor e antimigrañoso",
+      "indicacoes": "Epilepsia (tônico-clônica, ausência, mioclônica), transtorno bipolar, enxaqueca",
+      "reacoesAdversas": "Sonolência, tremor, disfunção hepática, trombocitopenia, ganho de peso, alopecia, náuseas",
+      "riscoGravidez": "Categoria D/X – teratogênico (defeitos tubo neural, QI baixo, autismo)",
+      "riscoLactacao": "Usar com cautela",
+      "administracao": "VO em 2–3 doses/dia; EV em bolus ou infusão",
+      "doseMaxima": "60mg/kg/dia (adulto); até 1000–3000mg/dia total",
+      "doseMinima": "250–500mg/dia",
+      "classificacao": "Anticonvulsivante; estabilizador do humor",
+      "apresentacao": "Comprimidos 250mg, 500mg; solução oral 250mg/5ml; ampola EV 400mg/4ml",
+      "interacaoMedicamento": "Lamotrigina (↑risco de rash), fenitoína, carbamazepina, anticoagulantes, anticoncepcionais hormonais",
+      "posologia": "Início: 10–15mg/kg/dia; ajustar até 60mg/kg/dia; manter níveis plasmáticos entre 50–100 mcg/ml",
+      "armazenamento": "Temperatura ambiente, evitar luz e calor excessivo",
+      "preparo": "EV: diluir em SF 0,9%; infundir em 60 min",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Doença hepática ativa, porfiria, gravidez, distúrbios mitocondriais (POLG)",
+      "cuidadosMedicos": "Monitorar TGO/TGP, bilirrubinas, amônia, INR, hemograma",
+      "cuidadosFarmaceuticos": "Atenção ao uso pediátrico e à forma farmacêutica (liberação controlada x imediata)",
+      "cuidadosEnfermagem": "Observar sedação, sangramento, dor abdominal, vômitos, confusão",
+      "comentarioFarmacologico": "O valproato é um dos poucos fármacos com ampla ação em múltiplas síndromes epilépticas. Sua eficácia na mania aguda é comparável ao lítio, sendo preferido em casos de ciclo rápido ou com comorbidades neurológicas. Tem ação comprovada em enxaqueca e comportamento agressivo refratário.",
+      "comentarioSeguranca": "O risco teratogênico é elevado, com recomendações firmes contra uso em mulheres em idade fértil sem contracepção eficaz. A encefalopatia por hiperamonemia pode ocorrer mesmo com função hepática normal. Exige cautela em uso combinado com outros antiepilépticos devido ao risco de toxicidade cruzada."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "丙戊酸钠",
+      "suspension": "Suspender 48h antes de neurocirurgias ou procedimentos com risco hemorrágico significativo",
+      "risk": "Hepatotoxicidade, pancreatite, trombocitopenia, náuseas, ganho de peso, tremores, encefalopatia por hiperamonemia",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com função hepática estável e controle de sangramento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Valproato de sódio",
+      "nomeComercial": "Depakene, Depakote, Epilim",
+      "mecanismoAcao": "Bloqueia canais de sódio e cálcio, aumenta níveis de GABA e modula neurotransmissores excitatórios",
+      "farmacocinetica": "VO/EV; biodisponibilidade ~90%; T½ 9–18h; metabolizado hepaticamente (glucuronidação, beta-oxidação); excreção renal",
+      "farmacodinamica": "Estabilizador de membrana neuronal com efeitos antiepiléptico, estabilizador do humor e antimigrañoso",
+      "indicacoes": "Epilepsia (tônico-clônica, ausência, mioclônica), transtorno bipolar, enxaqueca",
+      "reacoesAdversas": "Sonolência, tremor, disfunção hepática, trombocitopenia, ganho de peso, alopecia, náuseas",
+      "riscoGravidez": "Categoria D/X – teratogênico (defeitos tubo neural, QI baixo, autismo)",
+      "riscoLactacao": "Usar com cautela",
+      "administracao": "VO em 2–3 doses/dia; EV em bolus ou infusão",
+      "doseMaxima": "60mg/kg/dia (adulto); até 1000–3000mg/dia total",
+      "doseMinima": "250–500mg/dia",
+      "classificacao": "Anticonvulsivante; estabilizador do humor",
+      "apresentacao": "Comprimidos 250mg, 500mg; solução oral 250mg/5ml; ampola EV 400mg/4ml",
+      "interacaoMedicamento": "Lamotrigina (↑risco de rash), fenitoína, carbamazepina, anticoagulantes, anticoncepcionais hormonais",
+      "posologia": "Início: 10–15mg/kg/dia; ajustar até 60mg/kg/dia; manter níveis plasmáticos entre 50–100 mcg/ml",
+      "armazenamento": "Temperatura ambiente, evitar luz e calor excessivo",
+      "preparo": "EV: diluir em SF 0,9%; infundir em 60 min",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Doença hepática ativa, porfiria, gravidez, distúrbios mitocondriais (POLG)",
+      "cuidadosMedicos": "Monitorar TGO/TGP, bilirrubinas, amônia, INR, hemograma",
+      "cuidadosFarmaceuticos": "Atenção ao uso pediátrico e à forma farmacêutica (liberação controlada x imediata)",
+      "cuidadosEnfermagem": "Observar sedação, sangramento, dor abdominal, vômitos, confusão",
+      "comentarioFarmacologico": "O valproato é um dos poucos fármacos com ampla ação em múltiplas síndromes epilépticas. Sua eficácia na mania aguda é comparável ao lítio, sendo preferido em casos de ciclo rápido ou com comorbidades neurológicas. Tem ação comprovada em enxaqueca e comportamento agressivo refratário.",
+      "comentarioSeguranca": "O risco teratogênico é elevado, com recomendações firmes contra uso em mulheres em idade fértil sem contracepção eficaz. A encefalopatia por hiperamonemia pode ocorrer mesmo com função hepática normal. Exige cautela em uso combinado com outros antiepilépticos devido ao risco de toxicidade cruzada."
+    }
+  }
+}

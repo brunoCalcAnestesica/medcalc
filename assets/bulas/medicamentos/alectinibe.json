@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Alectinibe",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de bradicardia, hepatotoxicidade, constipação, miopatia e retardo na cicatrização",
+      "reintroduction": "Reintroduzir após estabilização clínica, cicatrização adequada e função hepática controlada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alectinibe",
+      "nomeComercial": "Alecensa",
+      "mecanismoAcao": "Inibidor seletivo de ALK (anaplastic lymphoma kinase) e RET, bloqueando crescimento de tumores ALK+",
+      "farmacocinetica": "Biodisponibilidade aumentada com alimentos; meia-vida de ~32,5 horas; metabolizado via CYP3A4",
+      "farmacodinamica": "Reduz proliferação celular por inibição da fosforilação de ALK",
+      "indicacoes": "Câncer de pulmão de não pequenas células ALK+ (primeira linha ou após falha ao crizotinibe)",
+      "reacoesAdversas": "Constipação, mialgia, fadiga, aumento de CPK, elevação de transaminases, bradicardia",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via oral com alimentos",
+      "doseMaxima": "1200 mg/dia (600 mg 2x/dia)",
+      "doseMinima": "600 mg/dia (ajustada conforme toxicidade)",
+      "classificacao": "Antineoplásico – inibidor de tirosina quinase ALK/RET",
+      "apresentacao": "Cápsulas de 150 mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores do CYP3A4; risco aumentado com bradicardizantes",
+      "posologia": "600 mg 2x/dia com alimentos",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo; cápsulas devem ser ingeridas inteiras",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, bradicardia sintomática, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar frequência cardíaca, CPK, transaminases e função renal",
+      "cuidadosFarmaceuticos": "Orientar ingestão com alimentos e sinais de toxicidade muscular ou hepática",
+      "cuidadosEnfermagem": "Observar sinais de fraqueza muscular, constipação e bradicardia",
+      "fontesBibliograficas": "INCA, FDA, EMA, ANVISA, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Alectinib",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of bradycardia, hepatotoxicity, constipation, myopathy, and delayed healing",
+      "reintroduction": "Restart after wound healing and clinical stabilization with controlled liver function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alectinib",
+      "nomeComercial": "Alecensa",
+      "mecanismoAcao": "Selective ALK and RET tyrosine kinase inhibitor; blocks tumor growth in ALK+ cancers",
+      "farmacocinetica": "Increased bioavailability with food; half-life ~32.5h; metabolized via CYP3A4",
+      "farmacodinamica": "Inhibits ALK phosphorylation, reducing tumor proliferation",
+      "indicacoes": "ALK+ non-small cell lung cancer (first-line or post-crizotinib)",
+      "reacoesAdversas": "Constipation, myalgia, fatigue, elevated CPK, transaminases, bradycardia",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral, with food",
+      "doseMaxima": "1200 mg/day (600 mg BID)",
+      "doseMinima": "600 mg/day (adjusted as needed)",
+      "classificacao": "Antineoplastic – ALK/RET tyrosine kinase inhibitor",
+      "apresentacao": "Capsules: 150 mg",
+      "interacaoMedicamento": "CYP3A4 modulators; caution with bradycardic drugs",
+      "posologia": "600 mg twice daily with food",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "No preparation required; swallow whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, symptomatic bradycardia, severe hepatic impairment",
+      "cuidadosMedicos": "Monitor HR, CPK, liver enzymes, and renal function",
+      "cuidadosFarmaceuticos": "Counsel food intake and toxicity signs (muscle/liver)",
+      "cuidadosEnfermagem": "Monitor for muscle weakness, constipation, bradycardia",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Alectinib",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de bradicardia, hepatotoxicidad, estreñimiento, miopatía y mala cicatrización",
+      "reintroduction": "Reintroducir tras recuperación clínica, hepática y cicatrización"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alectinib",
+      "nomeComercial": "Alecensa",
+      "mecanismoAcao": "Inhibidor selectivo de ALK y RET; bloquea crecimiento en tumores ALK+",
+      "farmacocinetica": "Mayor biodisponibilidad con alimentos; vida media ~32.5 h; metabolizado por CYP3A4",
+      "farmacodinamica": "Inhibe fosforilación de ALK y reduce proliferación celular",
+      "indicacoes": "Cáncer de pulmón no microcítico ALK+ (primera línea o tras crizotinib)",
+      "reacoesAdversas": "Estreñimiento, mialgia, fatiga, aumento de CPK, transaminasas, bradicardia",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral, con alimentos",
+      "doseMaxima": "1200 mg/día (600 mg 2x/día)",
+      "doseMinima": "600 mg/día (ajustable)",
+      "classificacao": "Antineoplásico – inhibidor tirosina quinasa ALK/RET",
+      "apresentacao": "Cápsulas de 150 mg",
+      "interacaoMedicamento": "CYP3A4, fármacos bradicardizantes",
+      "posologia": "600 mg 2 veces al día con alimentos",
+      "armazenamento": "15–30°C, protegido de humedad",
+      "preparo": "No requiere preparación; ingerir entero",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, bradicardia sintomática, hepatopatía grave",
+      "cuidadosMedicos": "Controlar FC, CPK, enzimas hepáticas, función renal",
+      "cuidadosFarmaceuticos": "Educación sobre toma con alimentos y signos de toxicidad",
+      "cuidadosEnfermagem": "Vigilar debilidad muscular, estreñimiento, bradicardia",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿来替尼",
+      "suspension": "术前7天停药",
+      "risk": "心动过缓、肝毒性、便秘、肌病、术后愈合延迟风险",
+      "reintroduction": "术后恢复并肝功能稳定后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿来替尼",
+      "nomeComercial": "Alecensa",
+      "mecanismoAcao": "选择性抑制ALK与RET酪氨酸激酶，阻断肿瘤信号",
+      "farmacocinetica": "饭后生物利用度升高；半衰期32.5小时；CYP3A4代谢",
+      "farmacodinamica": "抑制ALK磷酸化，抑制细胞增殖",
+      "indicacoes": "ALK阳性的非小细胞肺癌（初治或crizotinib失败）",
+      "reacoesAdversas": "便秘、肌痛、乏力、CPK升高、肝酶升高、心动过缓",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服（随餐）",
+      "doseMaxima": "每日1200毫克（分2次）",
+      "doseMinima": "每日600毫克",
+      "classificacao": "抗肿瘤药 – ALK/RET酪氨酸激酶抑制剂",
+      "apresentacao": "胶囊150 mg",
+      "interacaoMedicamento": "与CYP3A4抑制/诱导剂、缓慢心率药物相互作用",
+      "posologia": "600 mg 每日两次，随餐服用",
+      "armazenamento": "15–30°C，避湿",
+      "preparo": "无需制备，整粒吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、症状性心动过缓、严重肝功能不全",
+      "cuidadosMedicos": "监测心率、CPK、肝功能和肾功能",
+      "cuidadosFarmaceuticos": "指导饭后服药、识别肌毒或肝毒性",
+      "cuidadosEnfermagem": "注意便秘、肌无力、心动过缓表现",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Belatacepte",
+      "suspension": "Suspender 4 semanas antes de cirurgia eletiva não urgente",
+      "risk": "Imunossupressão intensa, risco de infecção perioperatória, reativação viral e cicatrização prejudicada",
+      "reintroduction": "Reintroduzir após avaliação infecciosa e estabilidade imunológica, geralmente 4 semanas após o procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Belatacepte",
+      "nomeComercial": "Nulojix",
+      "mecanismoAcao": "Inibidor seletivo da coestimulação de linfócitos T via CD80/CD86, bloqueando o sinal necessário para ativação completa",
+      "farmacocinetica": "Administração IV, meia-vida de 8–10 dias, metabolismo proteico (catabolismo), não depende do fígado ou rins",
+      "farmacodinamica": "Imunossupressor seletivo que reduz a atividade das células T, prevenindo rejeição de órgãos transplantados",
+      "indicacoes": "Profilaxia de rejeição em transplante renal em pacientes EBV positivos",
+      "reacoesAdversas": "Anemia, infecções, leucopenia, hipertensão, edema, distúrbios gastrointestinais, risco de linfoma post-transplante",
+      "riscoGravidez": "Categoria C – usar somente se benefício justificar risco",
+      "riscoLactacao": "Desconhecido; evitar amamentação durante uso",
+      "administracao": "Intravenosa em infusão lenta",
+      "doseMaxima": "10 mg/kg na fase inicial; 5 mg/kg a cada 4 semanas na manutenção",
+      "doseMinima": "5 mg/kg (manutenção)",
+      "classificacao": "Imunossupressor seletivo – bloqueador de coestimulação",
+      "apresentacao": "Frascos-ampola com pó liofilizado de 250 mg",
+      "interacaoMedicamento": "Aumenta risco de infecção com outros imunossupressores; evitar vacinação com vírus vivos",
+      "posologia": "10 mg/kg nos dias 1, 5, semana 2, 4, 8, 12; manutenção: 5 mg/kg IV a cada 4 semanas",
+      "armazenamento": "Refrigerado (2–8°C); reconstituído deve ser usado em até 24h",
+      "preparo": "Diluir em solução de cloreto de sódio 0,9% e infundir em 30 min",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Sorologia negativa para EBV; hipersensibilidade ao fármaco",
+      "cuidadosMedicos": "Monitorar sinais de infecção, função renal e hepática, sinais de rejeição e linfoproliferação",
+      "cuidadosFarmaceuticos": "Reconstituir e administrar conforme protocolo; armazenar sob refrigeração",
+      "cuidadosEnfermagem": "Verificar sinais vitais durante infusão, observar sinais de reação infusional",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, UpToDate, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Belatacept",
+      "suspension": "Discontinue 4 weeks prior to elective non-urgent surgery",
+      "risk": "Intense immunosuppression, perioperative infection risk, viral reactivation, impaired wound healing",
+      "reintroduction": "Restart ~4 weeks post-op if infection-free and immunologically stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Belatacept",
+      "nomeComercial": "Nulojix",
+      "mecanismoAcao": "Selective T-cell costimulation blocker by binding CD80/CD86, inhibiting full T-cell activation",
+      "farmacocinetica": "IV administration, half-life 8–10 days, catabolic metabolism, not liver/kidney dependent",
+      "farmacodinamica": "Selective immunosuppressant reducing T-cell response and preventing transplant rejection",
+      "indicacoes": "Prophylaxis of organ rejection in EBV-seropositive renal transplant recipients",
+      "reacoesAdversas": "Anemia, infections, leukopenia, hypertension, GI disturbances, post-transplant lymphoproliferative disorder",
+      "riscoGravidez": "Category C – use if benefit outweighs risk",
+      "riscoLactacao": "Unknown; avoid breastfeeding",
+      "administracao": "Slow intravenous infusion",
+      "doseMaxima": "10 mg/kg induction; 5 mg/kg monthly maintenance",
+      "doseMinima": "5 mg/kg (maintenance)",
+      "classificacao": "Selective immunosuppressant – costimulation blocker",
+      "apresentacao": "Lyophilized powder vial: 250 mg",
+      "interacaoMedicamento": "Increased infection risk with other immunosuppressants; avoid live vaccines",
+      "posologia": "10 mg/kg IV days 1, 5, weeks 2, 4, 8, 12; then 5 mg/kg monthly",
+      "armazenamento": "Refrigerate at 2–8°C; use reconstituted product within 24h",
+      "preparo": "Dilute in 0.9% NaCl, infuse over 30 min",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "EBV-seronegative status; hypersensitivity to drug",
+      "cuidadosMedicos": "Monitor for infections, renal/liver function, PTLD signs",
+      "cuidadosFarmaceuticos": "Reconstitute and administer per protocol; store refrigerated",
+      "cuidadosEnfermagem": "Monitor vitals during infusion, watch for infusion reactions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Belatacept",
+      "suspension": "Suspender 4 semanas antes de cirugía electiva no urgente",
+      "risk": "Inmunosupresión intensa, riesgo de infección, reactivación viral, mala cicatrización",
+      "reintroduction": "Reintroducir ~4 semanas después si no hay infección y el paciente está estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Belatacept",
+      "nomeComercial": "Nulojix",
+      "mecanismoAcao": "Bloqueador selectivo de coestimulación de linfocitos T vía CD80/CD86",
+      "farmacocinetica": "IV, vida media 8–10 días, metabolismo proteico, no depende de hígado o riñones",
+      "farmacodinamica": "Inmunosupresor que reduce la actividad de células T, previene rechazo de trasplante",
+      "indicacoes": "Prevención del rechazo en trasplante renal en pacientes EBV positivos",
+      "reacoesAdversas": "Anemia, infecciones, leucopenia, HTA, diarrea, linfoma postrasplante",
+      "riscoGravidez": "Categoría C – usar solo si es necesario",
+      "riscoLactacao": "Se desconoce; evitar lactancia",
+      "administracao": "Infusión intravenosa lenta",
+      "doseMaxima": "10 mg/kg inducción, 5 mg/kg mantenimiento mensual",
+      "doseMinima": "5 mg/kg (mantenimiento)",
+      "classificacao": "Inmunosupresor selectivo – bloqueador de coestimulación",
+      "apresentacao": "Vial liofilizado de 250 mg",
+      "interacaoMedicamento": "Evitar vacunas vivas; aumenta riesgo infeccioso con otros inmunosupresores",
+      "posologia": "10 mg/kg días 1, 5, semanas 2, 4, 8, 12; luego 5 mg/kg mensual",
+      "armazenamento": "Refrigerado (2–8°C); reconstituido usar en 24h",
+      "preparo": "Diluir en NaCl 0,9%, infundir en 30 minutos",
+      "solucoesCompatíveis": "NaCl 0,9%",
+      "contraindicacoes": "Seronegativos para EBV; hipersensibilidad",
+      "cuidadosMedicos": "Controlar infección, función renal/hepática, PTLD",
+      "cuidadosFarmaceuticos": "Seguir protocolo de reconstitución; conservar en frío",
+      "cuidadosEnfermagem": "Monitorizar durante infusión, vigilar reacciones",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "贝利妥昔单抗（Belatacept）",
+      "suspension": "择期手术前停药4周",
+      "risk": "强免疫抑制，术中感染、病毒再激活和愈合障碍风险高",
+      "reintroduction": "术后约4周，感染控制并免疫状态稳定后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "贝利妥昔单抗",
+      "nomeComercial": "Nulojix",
+      "mecanismoAcao": "选择性阻断T细胞共刺激（CD80/CD86），抑制其激活",
+      "farmacocinetica": "静脉注射，半衰期8–10天，蛋白降解代谢，不依赖肝肾",
+      "farmacodinamica": "选择性免疫抑制剂，抑制T细胞反应，预防移植排斥",
+      "indicacoes": "EBV阳性肾移植患者的排斥反应预防",
+      "reacoesAdversas": "贫血、感染、白细胞减少、高血压、胃肠道不适、移植后淋巴增殖病",
+      "riscoGravidez": "C类 – 仅在明确需要时使用",
+      "riscoLactacao": "未知，建议避免哺乳",
+      "administracao": "静脉输注（慢速）",
+      "doseMaxima": "诱导期10 mg/kg；维持期每月5 mg/kg",
+      "doseMinima": "维持期最低5 mg/kg",
+      "classificacao": "选择性免疫抑制剂 – 共刺激阻断剂",
+      "apresentacao": "250 mg 冻干粉针剂",
+      "interacaoMedicamento": "与其他免疫抑制剂合用风险增加；避免使用活疫苗",
+      "posologia": "诱导期：第1、5天，2、4、8、12周；维持期每4周一次",
+      "armazenamento": "2–8°C冷藏，稀释后24小时内使用",
+      "preparo": "用0.9%氯化钠稀释，30分钟内缓慢输注",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "EBV阴性；对药物过敏",
+      "cuidadosMedicos": "监测感染、肾肝功能及PTLD征兆",
+      "cuidadosFarmaceuticos": "严格按方案稀释储存",
+      "cuidadosEnfermagem": "输注期间监测生命体征和不良反应",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, 中国药典"
+    }
+  }
+}

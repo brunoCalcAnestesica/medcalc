@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Furazolidona",
+      "suspension": "Suspender 5 dias antes de cirurgias eletivas",
+      "risk": "Risco de interação com anestésicos, inibidores da MAO e alimentos ricos em tiramina; pode causar crise hipertensiva, náuseas e toxicidade hepática",
+      "reintroduction": "Reintroduzir apenas após reestabelecimento de dieta livre e estabilidade clínica; evitar uso contínuo prolongado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Furazolidona",
+      "nomeComercial": "Furoxona, Apurone, Furazolidone",
+      "mecanismoAcao": "Derivado nitrofuranado com ação antimicrobiana e antiprotozoária; inibe sistemas enzimáticos bacterianos",
+      "farmacocinetica": "Absorção oral; metabolismo hepático; excreção renal e fecal",
+      "farmacodinamica": "Atua contra E. coli, Salmonella, Shigella, Giardia e H. pylori; atividade bacteriostática e bactericida",
+      "indicacoes": "Diarreias infecciosas, giardíase, enterites bacterianas",
+      "reacoesAdversas": "Náuseas, vômitos, dor abdominal, rash, urticária, cefaleia, hepatotoxicidade (raro)",
+      "riscoGravidez": "Categoria C – evitar no primeiro trimestre",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral (comprimidos ou suspensão)",
+      "doseMaxima": "800 mg/dia (adulto)",
+      "doseMinima": "25 mg/kg/dia (criança)",
+      "classificacao": "Antimicrobiano nitrofuranado",
+      "apresentacao": "Comprimidos de 100 mg; suspensão oral 25 mg/mL",
+      "interacaoMedicamento": "Interage com álcool, IMAO, anestésicos, antidepressivos tricíclicos e alimentos ricos em tiramina",
+      "posologia": "100 mg 4x/dia por 5–7 dias (adulto); 6–8 mg/kg/dia (criança)",
+      "armazenamento": "Temperatura ambiente; proteger da luz",
+      "preparo": "Suspensão deve ser agitada antes de usar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia a nitrofuranos, neonatos, gravidez inicial, uso de IMAOs",
+      "cuidadosMedicos": "Evitar em doenças hepáticas e pacientes com dieta rica em tiramina",
+      "cuidadosFarmaceuticos": "Orientar sobre interação alimentar e intervalo seguro com IMAOs",
+      "cuidadosEnfermagem": "Observar sinais gastrointestinais e reação adversa; não administrar com leite ou alimentos",
+      "fontesBibliograficas": "ANVISA, Micromedex, Medscape, Bula Furoxona, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Furazolidone",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "MAOI activity → risk of hypertensive crisis with tyramine-rich food or anesthesia; hepatotoxicity risk",
+      "reintroduction": "Restart only if clinically indicated and patient is stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Furazolidone",
+      "nomeComercial": "Furoxone (discontinued in many countries)",
+      "mecanismoAcao": "Antimicrobial with MAOI-like effect; inhibits bacterial enzymatic systems",
+      "farmacocinetica": "Oral absorption; hepatic metabolism; renal/fecal excretion",
+      "farmacodinamica": "Bactericidal/bacteriostatic against E. coli, Salmonella, Giardia, etc.",
+      "indicacoes": "Bacterial diarrhea, giardiasis, enteric infections",
+      "reacoesAdversas": "Nausea, vomiting, abdominal pain, rash, hepatotoxicity",
+      "riscoGravidez": "Category C – avoid in 1st trimester",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral tablets or suspension",
+      "doseMaxima": "800 mg/day",
+      "doseMinima": "25 mg/kg/day",
+      "classificacao": "Nitrofuran antimicrobial",
+      "apresentacao": "100 mg tablets; 25 mg/mL suspension",
+      "interacaoMedicamento": "Interacts with alcohol, MAOIs, anesthetics, tyramine-rich food",
+      "posologia": "100 mg QID x 5–7 days (adult); 6–8 mg/kg/day (child)",
+      "armazenamento": "Room temperature; protect from light",
+      "preparo": "Shake suspension before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "MAOI use, hepatic disease, neonates, hypersensitivity",
+      "cuidadosMedicos": "Avoid in liver impairment or patients consuming tyramine",
+      "cuidadosFarmaceuticos": "Warn of drug–food interactions and proper timing pre-op",
+      "cuidadosEnfermagem": "Monitor GI symptoms, advise dietary restrictions",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Furazolidona",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de crisis hipertensiva, hepatotoxicidad, interacción con alimentos y anestésicos",
+      "reintroduction": "Reiniciar solo si es clínicamente necesario"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Furazolidona",
+      "nomeComercial": "Furoxona",
+      "mecanismoAcao": "Inhibe enzimas bacterianas; efecto tipo IMAO",
+      "farmacocinetica": "Absorción oral; metabolismo hepático",
+      "farmacodinamica": "Bactericida/bacteriostática contra enterobacterias y Giardia",
+      "indicacoes": "Diarrea infecciosa, giardiasis",
+      "reacoesAdversas": "Náusea, vómitos, erupción, toxicidad hepática",
+      "riscoGravidez": "Categoría C – evitar en primer trimestre",
+      "riscoLactacao": "No recomendada",
+      "administracao": "Oral",
+      "doseMaxima": "800 mg/día",
+      "doseMinima": "25 mg/kg/día",
+      "classificacao": "Antibacteriano nitrofuranado",
+      "apresentacao": "Comprimidos 100 mg, suspensión 25 mg/mL",
+      "interacaoMedicamento": "Alcohol, alimentos con tiramina, anestesia",
+      "posologia": "100 mg cada 6 h por 5–7 días",
+      "armazenamento": "Ambiente seco, proteger de la luz",
+      "preparo": "Agitar suspensión antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, uso de IMAO, neonatos",
+      "cuidadosMedicos": "Control hepático, dieta, medicamentos concomitantes",
+      "cuidadosFarmaceuticos": "Advertir sobre dieta y cirugías",
+      "cuidadosEnfermagem": "Vigilar tolerancia y reacciones GI",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "呋喃唑酮",
+      "suspension": "择期手术前5天停用",
+      "risk": "与食物/麻醉剂相互作用引发高血压危象；肝毒性",
+      "reintroduction": "术后稳定时，如有指征可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "呋喃唑酮",
+      "nomeComercial": "Furoxone、呋喃唑酮片",
+      "mecanismoAcao": "抗菌及抗原虫；抑制细菌代谢酶",
+      "farmacocinetica": "口服吸收；肝代谢；肾排泄",
+      "farmacodinamica": "抑制致病菌如大肠杆菌、志贺菌、贾第虫等",
+      "indicacoes": "感染性腹泻、贾第虫病",
+      "reacoesAdversas": "恶心、皮疹、肝损伤、头痛",
+      "riscoGravidez": "C类 – 避免孕早期",
+      "riscoLactacao": "不建议哺乳期使用",
+      "administracao": "口服（片剂或混悬液）",
+      "doseMaxima": "每日800 mg",
+      "doseMinima": "每日25 mg/kg",
+      "classificacao": "硝基呋喃类抗菌药",
+      "apresentacao": "100 mg片，25 mg/mL混悬液",
+      "interacaoMedicamento": "忌与含酪胺食物、酒精、麻醉剂合用",
+      "posologia": "成人每次100 mg，每日4次；儿童6–8 mg/kg/d",
+      "armazenamento": "室温避光",
+      "preparo": "混悬液使用前摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "新生儿、对本品过敏、MAOI合用者禁用",
+      "cuidadosMedicos": "评估肝功能，避免与IMAOs联用",
+      "cuidadosFarmaceuticos": "提示术前停药，防止食物药物相互作用",
+      "cuidadosEnfermagem": "观察消化道不良反应与皮疹",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape、FDA"
+    }
+  }
+}

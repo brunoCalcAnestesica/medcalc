@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pantoprazol",
+      "suspension": "Manter até o momento da indução anestésica",
+      "risk": "Risco mínimo; pode prevenir broncoaspiração em anestesia geral",
+      "reintroduction": "Reintroduzir conforme necessidade clínica no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pantoprazol sódico",
+      "nomeComercial": "Pantozol, Zurcal, Pantocal",
+      "mecanismoAcao": "Inibe irreversivelmente a H+/K+-ATPase na célula parietal gástrica",
+      "farmacocinetica": "Oral ou IV; meia-vida ~1h; metabolização hepática; excreção renal/fecal",
+      "farmacodinamica": "Inibição prolongada da secreção ácida gástrica",
+      "indicacoes": "Úlceras gástricas e duodenais, DRGE, Zollinger-Ellison, profilaxia de úlcera de estresse",
+      "reacoesAdversas": "Cefaleia, diarreia, dor abdominal, hipomagnesemia em uso prolongado",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Pode ser usado com cautela",
+      "administracao": "Oral ou IV",
+      "doseMaxima": "80 mg/dia",
+      "doseMinima": "20 mg/dia",
+      "classificacao": "Inibidor da bomba de prótons (IBP)",
+      "apresentacao": "Comprimidos 20 e 40 mg; ampola IV 40 mg",
+      "interacaoMedicamento": "Pode reduzir absorção de antifúngicos e vitamina B12",
+      "posologia": "40 mg/dia VO ou IV; pode ser dividido",
+      "armazenamento": "Temperatura ambiente; proteger da luz",
+      "preparo": "IV: diluir em 10 mL de SF 0,9% para injeção lenta",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Alergia ao pantoprazol ou outros IBPs",
+      "cuidadosMedicos": "Reavaliar uso prolongado; risco de fraturas e infecções intestinais",
+      "cuidadosFarmaceuticos": "Orientar sobre uso em jejum e duração do tratamento",
+      "cuidadosEnfermagem": "Observar distensão abdominal, diarreia, sinais de hipomagnesemia",
+      "fontesBibliograficas": "ANVISA, BNF, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pantoprazole",
+      "suspension": "Continue until anesthesia induction",
+      "risk": "Minimal risk; useful for aspiration prophylaxis under general anesthesia",
+      "reintroduction": "Restart post-op as needed based on gastric protection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pantoprazole sodium",
+      "nomeComercial": "Protonix",
+      "mecanismoAcao": "Irreversibly inhibits H+/K+-ATPase in gastric parietal cells",
+      "farmacocinetica": "Oral or IV; half-life ~1h; hepatic metabolism; renal/fecal excretion",
+      "farmacodinamica": "Prolonged suppression of gastric acid secretion",
+      "indicacoes": "GERD, gastric and duodenal ulcers, Zollinger-Ellison, stress ulcer prophylaxis",
+      "reacoesAdversas": "Headache, diarrhea, abdominal pain, hypomagnesemia (long term)",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Use with caution",
+      "administracao": "Oral or IV",
+      "doseMaxima": "80 mg/day",
+      "doseMinima": "20 mg/day",
+      "classificacao": "Proton pump inhibitor (PPI)",
+      "apresentacao": "Tablets 20 and 40 mg; IV vials 40 mg",
+      "interacaoMedicamento": "May reduce absorption of antifungals, vitamin B12",
+      "posologia": "40 mg/day PO or IV; may be split",
+      "armazenamento": "Room temperature; protect from light",
+      "preparo": "IV: dilute in 10 mL NS for slow injection",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Allergy to pantoprazole or PPIs",
+      "cuidadosMedicos": "Reassess long-term use; risks of fractures and C. difficile",
+      "cuidadosFarmaceuticos": "Counsel on timing before meals and treatment duration",
+      "cuidadosEnfermagem": "Watch for GI symptoms and signs of hypomagnesemia",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pantoprazol",
+      "suspension": "Mantener hasta la inducción anestésica",
+      "risk": "Riesgo mínimo; útil para prevenir aspiración en anestesia",
+      "reintroduction": "Reintroducir tras cirugía según necesidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pantoprazol sódico",
+      "nomeComercial": "Pantozol, Zurcal",
+      "mecanismoAcao": "Inhibidor irreversible de la H+/K+-ATPasa gástrica",
+      "farmacocinetica": "Oral o IV, vida media ~1h, metabolismo hepático",
+      "farmacodinamica": "Reducción sostenida de la secreción ácida gástrica",
+      "indicacoes": "Úlcera gástrica, ERGE, Zollinger-Ellison, profilaxis de úlcera",
+      "reacoesAdversas": "Cefalea, diarrea, dolor abdominal, hipomagnesemia crónica",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Usar con precaución",
+      "administracao": "Oral o IV",
+      "doseMaxima": "80 mg/día",
+      "doseMinima": "20 mg/día",
+      "classificacao": "Inhibidor de la bomba de protones",
+      "apresentacao": "Comprimidos 20 y 40 mg; ampolla IV 40 mg",
+      "interacaoMedicamento": "Reduce absorción de antifúngicos, vitamina B12",
+      "posologia": "40 mg diarios VO o IV",
+      "armazenamento": "Ambiente, proteger de la luz",
+      "preparo": "Diluir en 10 mL SF antes de inyección IV lenta",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Alergia al pantoprazol",
+      "cuidadosMedicos": "Evaluar uso prolongado por riesgo de fractura e infecciones",
+      "cuidadosFarmaceuticos": "Instruir sobre administración en ayunas y duración",
+      "cuidadosEnfermagem": "Observar síntomas GI y signos de hipomagnesemia",
+      "fontesBibliograficas": "AEMPS, BNF, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "泮托拉唑",
+      "suspension": "术前可持续使用，有助于麻醉期胃酸抑制",
+      "risk": "风险极低，可降低误吸风险",
+      "reintroduction": "术后如有需要可继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "泮托拉唑钠",
+      "nomeComercial": "Protonix, 泮托拉唑注射液",
+      "mecanismoAcao": "不可逆抑制胃壁细胞H+/K+-ATP酶",
+      "farmacocinetica": "口服或静注，半衰期约1小时，经肝代谢",
+      "farmacodinamica": "持续抑制胃酸分泌",
+      "indicacoes": "胃溃疡、GERD、Zollinger-Ellison、应激性溃疡预防",
+      "reacoesAdversas": "头痛、腹泻、低镁血症、腹痛",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "慎用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日80毫克",
+      "doseMinima": "每日20毫克",
+      "classificacao": "质子泵抑制剂",
+      "apresentacao": "片剂20/40毫克，注射用粉针40毫克",
+      "interacaoMedicamento": "减少抗真菌药和维生素B12吸收",
+      "posologia": "每日40毫克口服或IV，可分次使用",
+      "armazenamento": "常温避光保存",
+      "preparo": "IV注射前用10 mL生理盐水稀释",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对本品或同类药过敏",
+      "cuidadosMedicos": "长期使用需评估骨折和感染风险",
+      "cuidadosFarmaceuticos": "指导服药时机及疗程",
+      "cuidadosEnfermagem": "观察低镁症、腹胀、腹泻等反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

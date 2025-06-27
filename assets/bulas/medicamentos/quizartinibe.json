@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Quizartinibe",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva ou conforme risco cardiovascular",
+      "risk": "Prolonga o intervalo QT; risco de arritmias ventriculares; interações com fármacos QT-prolongadores",
+      "reintroduction": "Reintroduzir após normalização do ECG e função hepática adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Quizartinibe",
+      "nomeComercial": "Vanflyta",
+      "mecanismoAcao": "Inibidor seletivo do receptor FLT3 tipo II; bloqueia a sinalização de proliferação celular em leucemias com mutação FLT3-ITD",
+      "farmacocinetica": "Biodisponibilidade oral alta; metabolizado pelo CYP3A4; meia-vida ~75 h",
+      "farmacodinamica": "Reduz a proliferação de blastos FLT3-mutados e induz apoptose; potente seletividade FLT3",
+      "indicacoes": "Leucemia mieloide aguda FLT3-ITD positiva, em combinação com quimioterapia padrão",
+      "reacoesAdversas": "Prolongamento do QT, náuseas, neutropenia, febre, fadiga, diarreia, aumento de transaminases",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado; não se sabe se é excretado no leite",
+      "administracao": "Oral",
+      "doseMaxima": "53,3 mg/dia (2 ciclos de indução e 3 ciclos de consolidação)",
+      "doseMinima": "17,7 mg/dia (dose de manutenção)",
+      "classificacao": "Inibidor de tirosina quinase seletivo FLT3",
+      "apresentacao": "Comprimidos de 17,7 mg e 26,5 mg",
+      "interacaoMedicamento": "Interações com inibidores/indutores de CYP3A4, QT-prolongadores, antiarrítmicos",
+      "posologia": "26,5 mg/dia VO por 14 dias após quimioterapia; manutenção: 17,7 mg/dia continuamente",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Uso direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Prolongamento de QT, hipocalemia, hipomagnesemia, gravidez, lactação",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, função hepática",
+      "cuidadosFarmaceuticos": "Verificar interações medicamentosas e adesão ao tratamento",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade cardíaca, fadiga e neutropenia",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Vanflyta bula EUA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Quizartinib",
+      "suspension": "Hold 7 days prior to elective surgery based on QTc and cardiovascular risk",
+      "risk": "QT prolongation, risk of ventricular arrhythmias; drug-drug interactions with QT-prolonging agents",
+      "reintroduction": "Resume after ECG normalization and liver function stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Quizartinib",
+      "nomeComercial": "Vanflyta",
+      "mecanismoAcao": "Selective FLT3 inhibitor; blocks FLT3-ITD mutated leukemic cell proliferation",
+      "farmacocinetica": "High oral bioavailability; CYP3A4 metabolism; half-life ~75h",
+      "farmacodinamica": "Induces apoptosis in FLT3-ITD+ AML cells; high selectivity",
+      "indicacoes": "FLT3-ITD+ acute myeloid leukemia in combination with chemotherapy",
+      "reacoesAdversas": "QT prolongation, nausea, neutropenia, fatigue, fever, diarrhea, elevated liver enzymes",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated; unknown excretion in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "53.3 mg/day (induction/consolidation)",
+      "doseMinima": "17.7 mg/day (maintenance)",
+      "classificacao": "Selective FLT3 tyrosine kinase inhibitor",
+      "apresentacao": "Tablets: 17.7 mg and 26.5 mg",
+      "interacaoMedicamento": "CYP3A4 modulators, QT-prolonging drugs, antiarrhythmics",
+      "posologia": "26.5 mg/day x14 days post-chemotherapy; 17.7 mg/day for maintenance",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "QT prolongation, electrolyte imbalance, pregnancy, lactation",
+      "cuidadosMedicos": "Monitor ECG, electrolytes, liver function",
+      "cuidadosFarmaceuticos": "Check for DDIs and patient adherence",
+      "cuidadosEnfermagem": "Watch for cardiac toxicity and neutropenia",
+      "fontesBibliograficas": "FDA, Micromedex, Vanflyta PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Quizartinib",
+      "suspension": "Suspender 7 días antes de cirugía electiva en pacientes con riesgo QT o cardiovascular",
+      "risk": "Prolongación del QT, riesgo de arritmias ventriculares; interacción con antiarrítmicos y otros QT-prolongadores",
+      "reintroduction": "Reiniciar tras normalización del ECG y función hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Quizartinib",
+      "nomeComercial": "Vanflyta",
+      "mecanismoAcao": "Inhibidor selectivo de FLT3; bloquea proliferación de células leucémicas con FLT3-ITD",
+      "farmacocinetica": "Alta biodisponibilidad oral; metabolizado por CYP3A4; vida media ~75h",
+      "farmacodinamica": "Reduce la proliferación de blastos y promueve apoptosis en LMA FLT3-ITD+",
+      "indicacoes": "Leucemia mieloide aguda FLT3-ITD positiva en combinación con quimioterapia",
+      "reacoesAdversas": "QT largo, neutropenia, fatiga, fiebre, diarrea, náuseas, transaminasas elevadas",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado; excreción desconocida",
+      "administracao": "Oral",
+      "doseMaxima": "53,3 mg/día",
+      "doseMinima": "17,7 mg/día",
+      "classificacao": "Inhibidor selectivo de FLT3",
+      "apresentacao": "Comprimidos: 17,7 mg y 26,5 mg",
+      "interacaoMedicamento": "QT-prolongadores, inductores/inhibidores CYP3A4, antiarrítmicos",
+      "posologia": "26,5 mg/día x14 días post-quimio; 17,7 mg/día en mantenimiento",
+      "armazenamento": "Ambiente seco a 15–30°C",
+      "preparo": "Uso directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "QT prolongado, hipopotasemia, embarazo, lactancia",
+      "cuidadosMedicos": "Control ECG, electrolitos y hepáticos",
+      "cuidadosFarmaceuticos": "Revisar interacciones y adherencia",
+      "cuidadosEnfermagem": "Vigilar toxicidad cardíaca y neutropenia",
+      "fontesBibliograficas": "Micromedex, FDA, ficha técnica Vanflyta"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奎扎替尼",
+      "suspension": "择期手术前7天停药，尤其QT延长或心血管高风险者",
+      "risk": "QT延长、室性心律失常风险；与抗心律失常药、CYP3A4药物相互作用",
+      "reintroduction": "术后心电图稳定及肝功能恢复后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奎扎替尼（Quizartinib）",
+      "nomeComercial": "Vanflyta",
+      "mecanismoAcao": "选择性FLT3抑制剂，阻断FLT3-ITD阳性白血病细胞增殖信号",
+      "farmacocinetica": "口服吸收良好，CYP3A4代谢，半衰期约75小时",
+      "farmacodinamica": "诱导FLT3突变白血病细胞凋亡，提高缓解率",
+      "indicacoes": "FLT3-ITD阳性急性髓性白血病联合化疗方案中使用",
+      "reacoesAdversas": "QT延长、中性粒细胞减少、疲劳、发热、肝酶升高、腹泻、恶心",
+      "riscoGravidez": "D类 – 禁用",
+      "riscoLactacao": "禁用；是否分泌及影响不明",
+      "administracao": "口服",
+      "doseMaxima": "每日53.3 mg",
+      "doseMinima": "每日17.7 mg",
+      "classificacao": "FLT3选择性酪氨酸激酶抑制剂",
+      "apresentacao": "片剂：17.7 mg、26.5 mg",
+      "interacaoMedicamento": "与CYP3A4相关药物、QT延长药、抗心律失常药有相互作用",
+      "posologia": "化疗后每日26.5 mg×14天；维持期每日17.7 mg持续服用",
+      "armazenamento": "室温保存（15–30°C）",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "QT延长、低钾血症、妊娠、哺乳期",
+      "cuidadosMedicos": "监测ECG、电解质、肝功能",
+      "cuidadosFarmaceuticos": "核查药物相互作用，确保依从性",
+      "cuidadosEnfermagem": "警惕QT延长症状、中性粒细胞减少",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、Vanflyta说明书"
+    }
+  }
+}

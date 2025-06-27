@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Erlotinibe",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de toxicidade cutânea, diarreia, má cicatrização e interações com anestésicos",
+      "reintroduction": "Reintroduzir após cicatrização adequada e recuperação do trato GI"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Erlotinibe",
+      "nomeComercial": "Tarceva",
+      "mecanismoAcao": "Inibidor seletivo da tirosina quinase do receptor do fator de crescimento epidérmico (EGFR)",
+      "farmacocinetica": "Biodisponibilidade oral ~60%; meia-vida terminal ~36 h; metabolização hepática via CYP3A4",
+      "farmacodinamica": "Bloqueia a sinalização EGFR, inibindo proliferação celular em tumores com mutações sensíveis",
+      "indicacoes": "Câncer de pulmão de não pequenas células (EGFR+), carcinoma pancreático metastático",
+      "reacoesAdversas": "Rash acneiforme, diarreia, anorexia, estomatite, hepatotoxicidade, conjuntivite",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado durante amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "150 mg/dia",
+      "doseMinima": "100 mg/dia",
+      "classificacao": "Antineoplásico – inibidor de tirosina quinase anti-EGFR",
+      "apresentacao": "Comprimidos de 25 mg, 100 mg e 150 mg",
+      "interacaoMedicamento": "Interage com inibidores e indutores do CYP3A4, antiácidos, warfarina e alimentos gordurosos",
+      "posologia": "150 mg/dia em jejum (1 h antes ou 2 h após refeição)",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Não requer preparo; comprimidos devem ser ingeridos inteiros",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, insuficiência hepática grave, úlcera GI ativa",
+      "cuidadosMedicos": "Monitorar função hepática, eletrólitos, rash cutâneo e sintomas GI",
+      "cuidadosFarmaceuticos": "Orientar jejum, interações medicamentosas e uso contínuo",
+      "cuidadosEnfermagem": "Observar toxicidade cutânea e sintomas gastrointestinais",
+      "fontesBibliograficas": "INCA, FDA, EMA, ANVISA, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Erlotinib",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of skin toxicity, diarrhea, poor healing, and anesthetic interactions",
+      "reintroduction": "Restart after adequate wound healing and GI recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Erlotinib",
+      "nomeComercial": "Tarceva",
+      "mecanismoAcao": "Selective tyrosine kinase inhibitor of the epidermal growth factor receptor (EGFR)",
+      "farmacocinetica": "Oral bioavailability ~60%; half-life ~36 h; hepatic metabolism via CYP3A4",
+      "farmacodinamica": "Inhibits EGFR signaling, suppressing tumor proliferation in EGFR-mutant cancers",
+      "indicacoes": "Non-small cell lung cancer (EGFR+), metastatic pancreatic cancer",
+      "reacoesAdversas": "Acneiform rash, diarrhea, anorexia, stomatitis, hepatotoxicity, conjunctivitis",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "150 mg/day",
+      "doseMinima": "100 mg/day",
+      "classificacao": "Antineoplastic – EGFR tyrosine kinase inhibitor",
+      "apresentacao": "Tablets: 25 mg, 100 mg, 150 mg",
+      "interacaoMedicamento": "Interacts with CYP3A4 modulators, antacids, warfarin, and high-fat meals",
+      "posologia": "150 mg once daily on empty stomach (1h before or 2h after meals)",
+      "armazenamento": "Store at 15–30°C, protect from light",
+      "preparo": "No preparation needed; swallow tablets whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, severe liver impairment, active GI ulcer",
+      "cuidadosMedicos": "Monitor liver function, electrolytes, skin rash, GI toxicity",
+      "cuidadosFarmaceuticos": "Counsel on fasting, drug interactions, and continuous use",
+      "cuidadosEnfermagem": "Monitor for skin and GI toxicities",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Erlotinib",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de toxicidad cutánea, diarrea, mala cicatrización e interacción anestésica",
+      "reintroduction": "Reintroducir tras cicatrización y recuperación digestiva"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Erlotinib",
+      "nomeComercial": "Tarceva",
+      "mecanismoAcao": "Inhibidor selectivo de tirosina quinasa del receptor EGFR",
+      "farmacocinetica": "Biodisponibilidad ~60%; vida media ~36 h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Bloquea EGFR e inhibe proliferación celular en tumores EGFR+",
+      "indicacoes": "Cáncer de pulmón no microcítico (EGFR+), cáncer pancreático metastásico",
+      "reacoesAdversas": "Erupción, diarrea, anorexia, estomatitis, hepatotoxicidad, conjuntivitis",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "150 mg/día",
+      "doseMinima": "100 mg/día",
+      "classificacao": "Antineoplásico – inhibidor tirosina quinasa EGFR",
+      "apresentacao": "Comprimidos de 25, 100 y 150 mg",
+      "interacaoMedicamento": "Interacción con CYP3A4, antiácidos, warfarina y alimentos grasos",
+      "posologia": "150 mg/día en ayunas (1h antes o 2h después de comer)",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "No requiere preparación; ingerir entero",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, insuficiencia hepática grave, úlcera GI activa",
+      "cuidadosMedicos": "Controlar hígado, electrolitos, erupción y toxicidad GI",
+      "cuidadosFarmaceuticos": "Educar sobre ayuno, interacciones y continuidad",
+      "cuidadosEnfermagem": "Vigilar toxicidad cutánea y digestiva",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "厄洛替尼",
+      "suspension": "术前5天停药",
+      "risk": "皮肤毒性、腹泻、伤口愈合差与麻醉药相互作用风险",
+      "reintroduction": "术后愈合和胃肠功能恢复后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "厄洛替尼",
+      "nomeComercial": "特罗凯（Tarceva）",
+      "mecanismoAcao": "选择性EGFR酪氨酸激酶抑制剂，抑制EGFR信号通路",
+      "farmacocinetica": "口服生物利用度60%；半衰期36小时；CYP3A4代谢",
+      "farmacodinamica": "抑制EGFR阳性肿瘤细胞的增殖",
+      "indicacoes": "EGFR突变的非小细胞肺癌、转移性胰腺癌",
+      "reacoesAdversas": "皮疹、腹泻、厌食、口腔炎、肝毒性、结膜炎",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日150毫克",
+      "doseMinima": "每日100毫克",
+      "classificacao": "抗肿瘤药 – EGFR酪氨酸激酶抑制剂",
+      "apresentacao": "25、100、150 mg片剂",
+      "interacaoMedicamento": "与CYP3A4抑制/诱导剂、抗酸药、华法林、高脂食物相互作用",
+      "posologia": "每日150毫克，空腹服用（餐前1小时或餐后2小时）",
+      "armazenamento": "室温15–30°C，避光",
+      "preparo": "无需配制，整片吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、严重肝损伤、活动性胃肠道溃疡",
+      "cuidadosMedicos": "监测肝功能、电解质、皮疹、胃肠症状",
+      "cuidadosFarmaceuticos": "指导患者空腹服药及避免药物食物相互作用",
+      "cuidadosEnfermagem": "观察皮肤毒性、腹泻、食欲减退",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

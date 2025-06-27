@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Estreptoquinase",
+      "suspension": "Suspender 7 a 10 dias antes da cirurgia",
+      "risk": "Risco altíssimo de sangramento devido à fibrinólise sistêmica; contraindicado em cirurgias eletivas",
+      "reintroduction": "Reintroduzir apenas após total recuperação hemostática e ausência de sangramento ativo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Estreptoquinase",
+      "nomeComercial": "Streptase",
+      "mecanismoAcao": "Forma complexo com plasminogênio, promovendo ativação da plasmina e degradação da fibrina",
+      "farmacocinetica": "Início em 10–20 min; meia-vida curta (~30 min); metabolização hepática",
+      "farmacodinamica": "Efeito trombolítico sistêmico potente; ativa cascata fibrinolítica",
+      "indicacoes": "Infarto agudo do miocárdio, embolia pulmonar maciça, trombose venosa profunda",
+      "reacoesAdversas": "Sangramento, reações alérgicas, hipotensão, febre, náusea",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar; risco de sangramento neonatal",
+      "administracao": "Infusão intravenosa",
+      "doseMaxima": "1.500.000 UI em 60 minutos (IAM)",
+      "doseMinima": "250.000 UI em 30 minutos (DVP)",
+      "classificacao": "Fibrinolítico (trombolítico)",
+      "apresentacao": "Pó liofilizado 250.000 UI, 750.000 UI, 1.500.000 UI",
+      "interacaoMedicamento": "Aumenta risco de sangramento com anticoagulantes, AAS, heparina",
+      "posologia": "IAM: 1.500.000 UI IV em 60 min; EP: dose semelhante; DVP: 250.000 UI a 750.000 UI",
+      "armazenamento": "Refrigerado (2–8 °C); usar após reconstituição imediata",
+      "preparo": "Reconstituir com água estéril e diluir em SG5% ou SF 0,9%",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Cirurgia recente (<10 dias), AVC, sangramento ativo, hipertensão grave não controlada",
+      "cuidadosMedicos": "Monitorar sinais de sangramento, PA, hemoglobina, plaquetas",
+      "cuidadosFarmaceuticos": "Garantir uso em ambiente com suporte de urgência",
+      "cuidadosEnfermagem": "Observar sangramento gengival, hemorragias ocultas e visíveis",
+      "fontesBibliograficas": "Micromedex, ANVISA, UpToDate, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Streptokinase",
+      "suspension": "Discontinue 7–10 days before surgery",
+      "risk": "Very high bleeding risk due to systemic fibrinolysis; contraindicated in elective surgery",
+      "reintroduction": "Restart only after full hemostatic recovery and no active bleeding"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Streptokinase",
+      "nomeComercial": "Streptase",
+      "mecanismoAcao": "Forms complex with plasminogen, promoting plasmin activation and fibrin degradation",
+      "farmacocinetica": "Onset 10–20 min; half-life ~30 min; hepatic metabolism",
+      "farmacodinamica": "Potent systemic thrombolysis; activates fibrinolytic cascade",
+      "indicacoes": "Acute MI, massive PE, DVT",
+      "reacoesAdversas": "Bleeding, allergic reactions, hypotension, fever, nausea",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid if possible; risk of neonatal bleeding",
+      "administracao": "IV infusion",
+      "doseMaxima": "1,500,000 IU over 60 min (MI)",
+      "doseMinima": "250,000 IU over 30 min (DVT)",
+      "classificacao": "Fibrinolytic (thrombolytic)",
+      "apresentacao": "Vials 250,000 IU, 750,000 IU, 1,500,000 IU",
+      "interacaoMedicamento": "Increased bleeding with anticoagulants, aspirin, heparin",
+      "posologia": "MI: 1,500,000 IU IV over 60 min; DVT: 250,000–750,000 IU",
+      "armazenamento": "Refrigerate (2–8 °C); use immediately after reconstitution",
+      "preparo": "Reconstitute with sterile water and dilute in D5W or NS",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Recent surgery (<10 days), stroke, active bleeding, uncontrolled hypertension",
+      "cuidadosMedicos": "Monitor bleeding, BP, Hgb, platelets",
+      "cuidadosFarmaceuticos": "Use only in emergency-ready settings",
+      "cuidadosEnfermagem": "Monitor for visible and occult bleeding, gums, urine, stool",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Estreptoquinasa",
+      "suspension": "Suspender 7–10 días antes de cirugía",
+      "risk": "Alto riesgo de sangrado por fibrinólisis sistémica; contraindicado en cirugía electiva",
+      "reintroduction": "Reintroducir solo tras recuperación completa hemostática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Estreptoquinasa",
+      "nomeComercial": "Streptase",
+      "mecanismoAcao": "Activa el plasminógeno para formar plasmina, degradando fibrina",
+      "farmacocinetica": "Inicio 10–20 min; vida media ~30 min; metabolismo hepático",
+      "farmacodinamica": "Efecto trombolítico sistémico potente",
+      "indicacoes": "IAM, TEP masiva, TVP",
+      "reacoesAdversas": "Hemorragia, reacciones alérgicas, hipotensión, fiebre, náuseas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante la lactancia",
+      "administracao": "Infusión IV",
+      "doseMaxima": "1.500.000 UI en 60 min (IAM)",
+      "doseMinima": "250.000 UI en 30 min (TVP)",
+      "classificacao": "Fibrinolítico",
+      "apresentacao": "Viales 250.000, 750.000, 1.500.000 UI",
+      "interacaoMedicamento": "Riesgo hemorrágico aumentado con anticoagulantes, AAS, heparina",
+      "posologia": "IAM: 1.500.000 UI IV; TVP: 250.000–750.000 UI",
+      "armazenamento": "Refrigerado (2–8 °C), usar tras reconstituir",
+      "preparo": "Diluir en SG5% o SSF tras reconstitución",
+      "solucoesCompatíveis": "SG5%, SSF",
+      "contraindicacoes": "Cirugía reciente, ACV, sangrado activo, HTA no controlada",
+      "cuidadosMedicos": "Monitoreo de PA, sangrado, Hb, plaquetas",
+      "cuidadosFarmaceuticos": "Usar en centros con soporte vital",
+      "cuidadosEnfermagem": "Vigilar sangrado oculto o visible",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "链激酶",
+      "suspension": "术前7–10天停药",
+      "risk": "全身性纤溶作用，术中极高出血风险；择期手术禁用",
+      "reintroduction": "仅在完全止血、无活动性出血后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "链激酶",
+      "nomeComercial": "Streptase",
+      "mecanismoAcao": "激活纤溶酶原形成纤溶酶，溶解血栓",
+      "farmacocinetica": "起效10–20分钟；半衰期约30分钟；肝脏代谢",
+      "farmacodinamica": "强效系统性溶栓药",
+      "indicacoes": "急性心肌梗死、大面积肺栓塞、深静脉血栓",
+      "reacoesAdversas": "出血、过敏反应、低血压、发热、恶心",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期应避免使用",
+      "administracao": "静脉输注",
+      "doseMaxima": "1,500,000 IU（心梗）",
+      "doseMinima": "250,000 IU（深静脉血栓）",
+      "classificacao": "溶栓药",
+      "apresentacao": "250,000/750,000/1,500,000 IU冻干粉",
+      "interacaoMedicamento": "与抗凝药、阿司匹林、肝素合用出血风险大增",
+      "posologia": "急性心梗：1,500,000 IU 1小时内注射",
+      "armazenamento": "2–8°C冷藏，现配现用",
+      "preparo": "用灭菌水溶解后再稀释于5%葡萄糖或0.9%氯化钠",
+      "solucoesCompatíveis": "葡萄糖5%、氯化钠0.9%",
+      "contraindicacoes": "近期手术、中风、活动性出血、未控制高血压",
+      "cuidadosMedicos": "密切监测出血、血压、血红蛋白、血小板",
+      "cuidadosFarmaceuticos": "确保配制条件合规，使用环境有应急设备",
+      "cuidadosEnfermagem": "观察牙龈、消化道等部位出血",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

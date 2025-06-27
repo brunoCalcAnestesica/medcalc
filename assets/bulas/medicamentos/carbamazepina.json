@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Carbamazepina",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de hiponatremia, depressão do SNC, interação com anestésicos e indução enzimática",
+      "reintroduction": "Reintroduzir após estabilização eletrolítica e avaliação da função hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carbamazepina",
+      "nomeComercial": "Tegretol",
+      "mecanismoAcao": "Bloqueia canais de sódio dependentes de voltagem, reduzindo descarga neuronal repetitiva",
+      "farmacocinetica": "Biodisponibilidade ~85–100%; meia-vida 12–60 h (autoindução); metabolização hepática via CYP3A4",
+      "farmacodinamica": "Anticonvulsivante e estabilizador do humor com ação analgésica em neuralgia do trigêmeo",
+      "indicacoes": "Epilepsia parcial/geral, transtorno bipolar, neuralgia do trigêmeo, dor neuropática",
+      "reacoesAdversas": "Diplopia, ataxia, tontura, hiponatremia, leucopenia, hepatotoxicidade, rash cutâneo, aplasia medular",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Evitar",
+      "administracao": "Via oral",
+      "doseMaxima": "1600 mg/dia",
+      "doseMinima": "200 mg/dia",
+      "classificacao": "Antiepiléptico – estabilizador de membrana",
+      "apresentacao": "Comprimidos 200/400 mg; suspensão oral 100 mg/5 mL",
+      "interacaoMedicamento": "Indutor enzimático potente: reduz eficácia de anticoncepcionais, anticoagulantes, anestésicos; risco com ISRS, inibidores da MAO",
+      "posologia": "200–600 mg 2x/dia; ajustar lentamente conforme resposta clínica",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Suspensão deve ser agitada antes do uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Bloqueio AV, porfiria, uso de IMAO recente (<14 dias)",
+      "cuidadosMedicos": "Monitorar sódio, hemograma, TGO/TGP, litemia e ECG em idosos",
+      "cuidadosFarmaceuticos": "Atenção à autoindução e interações; orientar adesão ao regime posológico",
+      "cuidadosEnfermagem": "Observar ataxia, sedação, exantema, sinais de hiponatremia",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, Maudsley, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Carbamazepine",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of hyponatremia, CNS depression, anesthetic interaction, enzyme induction",
+      "reintroduction": "Restart after electrolyte correction and liver function re-evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carbamazepine",
+      "nomeComercial": "Tegretol, Carbatrol",
+      "mecanismoAcao": "Blocks voltage-gated sodium channels, reducing repetitive neuronal firing",
+      "farmacocinetica": "Oral bioavailability ~85–100%; half-life 12–60 h (autoinduction); hepatic metabolism via CYP3A4",
+      "farmacodinamica": "Antiepileptic and mood-stabilizing with analgesic properties in trigeminal neuralgia",
+      "indicacoes": "Partial/general epilepsy, bipolar disorder, trigeminal neuralgia, neuropathic pain",
+      "reacoesAdversas": "Dizziness, diplopia, ataxia, hyponatremia, leukopenia, rash, aplastic anemia, liver injury",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Avoid",
+      "administracao": "Oral",
+      "doseMaxima": "1600 mg/day",
+      "doseMinima": "200 mg/day",
+      "classificacao": "Antiepileptic – membrane stabilizer",
+      "apresentacao": "Tablets 200/400 mg; suspension 100 mg/5 mL",
+      "interacaoMedicamento": "Strong enzyme inducer; reduces levels of contraceptives, anticoagulants, anesthetics; interacts with SSRIs, MAOIs",
+      "posologia": "200–600 mg BID; titrate slowly based on response",
+      "armazenamento": "15–30°C",
+      "preparo": "Shake suspension before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "AV block, porphyria, recent MAOI use (<14 days)",
+      "cuidadosMedicos": "Monitor sodium, CBC, liver function, ECG",
+      "cuidadosFarmaceuticos": "Caution with induction; educate on adherence and interactions",
+      "cuidadosEnfermagem": "Watch for sedation, ataxia, rash, electrolyte changes",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Maudsley"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Carbamazepina",
+      "suspension": "Suspender 5 días antes de cirugía",
+      "risk": "Riesgo de hiponatremia, depresión del SNC, interacción anestésica, inducción enzimática",
+      "reintroduction": "Reintroducir tras corrección electrolítica y función hepática estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carbamazepina",
+      "nomeComercial": "Tegretol",
+      "mecanismoAcao": "Bloquea canales de sodio dependientes de voltaje; reduce descargas neuronales repetidas",
+      "farmacocinetica": "Biodisponibilidad ~85–100%; vida media 12–60 h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Antiepiléptico, estabilizador del ánimo, analgésico en neuralgia del trigémino",
+      "indicacoes": "Epilepsia, trastorno bipolar, neuralgia, dolor neuropático",
+      "reacoesAdversas": "Ataxia, diplopía, hiponatremia, hepatotoxicidad, anemia aplásica, erupción cutánea",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral",
+      "doseMaxima": "1600 mg/día",
+      "doseMinima": "200 mg/día",
+      "classificacao": "Antiepiléptico – estabilizador de membrana",
+      "apresentacao": "Comprimidos 200/400 mg; suspensión 100 mg/5 mL",
+      "interacaoMedicamento": "Inductor enzimático potente; reduce anticonceptivos, anticoagulantes; interactúa con ISRS, IMAO",
+      "posologia": "200–600 mg BID; ajustar según respuesta clínica",
+      "armazenamento": "15–30°C",
+      "preparo": "Agitar suspensión antes del uso",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Bloqueo AV, porfiria, uso reciente de IMAO",
+      "cuidadosMedicos": "Controlar electrolitos, hemograma, hepático, ECG",
+      "cuidadosFarmaceuticos": "Informar sobre interacciones, efectos adversos y adherencia",
+      "cuidadosEnfermagem": "Vigilar signos neurológicos, digestivos, piel, PA",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "卡马西平",
+      "suspension": "术前5天停药",
+      "risk": "低钠血症、中枢抑制、麻醉相互作用、酶诱导风险",
+      "reintroduction": "术后电解质稳定和肝功能评估后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "卡马西平",
+      "nomeComercial": "Tegretol",
+      "mecanismoAcao": "阻断电压依赖性钠通道，稳定过度兴奋神经元",
+      "farmacocinetica": "口服吸收好；半衰期12–60小时（诱导自我代谢）；CYP3A4代谢",
+      "farmacodinamica": "抗癫痫、情绪稳定、抗神经痛",
+      "indicacoes": "癫痫、躁郁症、三叉神经痛、神经性疼痛",
+      "reacoesAdversas": "共济失调、复视、嗜睡、低钠血症、肝毒性、皮疹、再障",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "避免",
+      "administracao": "口服",
+      "doseMaxima": "每日1600 mg",
+      "doseMinima": "每日200 mg",
+      "classificacao": "抗癫痫药 – 钠通道阻滞剂",
+      "apresentacao": "片剂200/400 mg；口服混悬液100 mg/5 mL",
+      "interacaoMedicamento": "酶诱导剂；影响避孕药、抗凝药、麻醉药、ISRS、MAOI",
+      "posologia": "每日2–3次分服，总剂量200–1600 mg",
+      "armazenamento": "15–30°C避光保存",
+      "preparo": "悬液使用前充分摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "AV阻滞、紫质症、近用MAOI者",
+      "cuidadosMedicos": "监测血钠、血常规、肝功能、电图",
+      "cuidadosFarmaceuticos": "教育剂量递增、监测药物交互和自我诱导",
+      "cuidadosEnfermagem": "关注共济失调、嗜睡、皮疹、血压波动",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex, UpToDate"
+    }
+  }
+}

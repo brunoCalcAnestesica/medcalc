@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina Rotavírus",
+      "suspension": "Não aplicar em cirurgias abdominais programadas em neonatos ou antes de término do esquema",
+      "risk": "Vacina oral de vírus vivos atenuados; risco de invaginação intestinal raro. Evitar em imunodeprimidos e após 6 meses de idade.",
+      "reintroduction": "Não reiniciar esquema após idade limite. Se interrompido, completar apenas se ainda dentro da janela permitida (1ª dose até 3 meses e 15 dias)."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rotavírus humano atenuado (cepa G1P[8]) ou pentavalente bovina-humana reassortante",
+      "nomeComercial": "Rotarix, RotaTeq",
+      "mecanismoAcao": "Estímulo da resposta imune local e sistêmica contra sorotipos de rotavírus",
+      "farmacocinetica": "Administração oral; replicação limitada no trato gastrointestinal; excreção fecal transitória",
+      "farmacodinamica": "Previne gastroenterites graves por rotavírus; reduz internações e mortalidade por diarreia",
+      "indicacoes": "Imunização de rotina de lactentes a partir de 6 semanas de idade",
+      "reacoesAdversas": "Irritabilidade, vômitos, febre, diarreia leve, invaginação intestinal (raro)",
+      "riscoGravidez": "Não aplicável",
+      "riscoLactacao": "Não aplicável",
+      "administracao": "Via oral (gotas)",
+      "doseMaxima": "1,5 mL (Rotarix); 2 mL (RotaTeq)",
+      "doseMinima": "1,5 mL",
+      "classificacao": "Vacina oral de vírus vivos atenuados",
+      "apresentacao": "Tubo plástico monodose (1,5–2 mL)",
+      "interacaoMedicamento": "Evitar com vacinas orais simultâneas; uso de anticorpos pode reduzir eficácia",
+      "posologia": "2 doses (Rotarix aos 2 e 4 meses); 3 doses (RotaTeq aos 2, 4, 6 meses)",
+      "armazenamento": "2–8 °C; não congelar",
+      "preparo": "Pronto para uso; agitar suavemente",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Invaginação intestinal prévia, malformações intestinais não corrigidas, imunodeficiência grave, alergia a componentes",
+      "cuidadosMedicos": "Evitar atraso; aplicar até 7 meses e 29 dias (RotaTeq), 6 meses e 15 dias (Rotarix)",
+      "cuidadosFarmaceuticos": "Respeitar janela de idade; não administrar se vencida",
+      "cuidadosEnfermagem": "Aplicar na mucosa oral lentamente; orientar retorno em caso de vômito imediato",
+      "fontesBibliograficas": "SBIm, PNI/MS, WHO, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Rotavirus Vaccine",
+      "suspension": "Do not administer during planned GI surgery or after age limit",
+      "risk": "Live oral vaccine; low risk of intussusception. Avoid in immunodeficient or older infants.",
+      "reintroduction": "Do not restart if series interrupted beyond max age. Follow CDC cutoff windows."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Live attenuated rotavirus strains (monovalent or pentavalent)",
+      "nomeComercial": "Rotarix, RotaTeq",
+      "mecanismoAcao": "Induces mucosal and systemic immunity against rotavirus serotypes",
+      "farmacocinetica": "Oral absorption; fecal shedding transient",
+      "farmacodinamica": "Reduces severe gastroenteritis, hospitalizations, and deaths",
+      "indicacoes": "Routine infant immunization starting at 6 weeks old",
+      "reacoesAdversas": "Fever, diarrhea, vomiting, rare intussusception",
+      "riscoGravidez": "Not applicable",
+      "riscoLactacao": "Not applicable",
+      "administracao": "Oral",
+      "doseMaxima": "1.5 mL (Rotarix); 2 mL (RotaTeq)",
+      "doseMinima": "1.5 mL",
+      "classificacao": "Live oral viral vaccine",
+      "apresentacao": "Single-dose tubes 1.5–2 mL",
+      "interacaoMedicamento": "Avoid live oral vaccines same day; antibody therapy reduces efficacy",
+      "posologia": "2 doses (Rotarix: 2 and 4 mo); 3 doses (RotaTeq: 2, 4, 6 mo)",
+      "armazenamento": "2–8 °C; do not freeze",
+      "preparo": "Ready to use; gently shake",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "History of intussusception, severe SCID, GI malformations",
+      "cuidadosMedicos": "Start by 15 weeks; finish by 8 months (max)",
+      "cuidadosFarmaceuticos": "Verify age before administration",
+      "cuidadosEnfermagem": "Administer slowly in mouth; observe for regurgitation",
+      "fontesBibliograficas": "CDC, AAP, UpToDate, FDA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna Rotavirus",
+      "suspension": "No aplicar en cirugías digestivas o fuera de edad recomendada",
+      "risk": "Riesgo bajo; evitar en inmunodeprimidos y malformaciones intestinales",
+      "reintroduction": "No reiniciar si se pasa del límite de edad"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cepa viva atenuada de rotavirus (monovalente/pentavalente)",
+      "nomeComercial": "Rotarix, RotaTeq",
+      "mecanismoAcao": "Induce inmunidad mucosa y sistémica frente a rotavirus",
+      "farmacocinetica": "Absorción digestiva, eliminación fecal",
+      "farmacodinamica": "Disminuye diarrea grave e internaciones",
+      "indicacoes": "Inmunización sistemática en lactantes",
+      "reacoesAdversas": "Diarrea, vómitos, fiebre, invaginación (rara)",
+      "riscoGravidez": "No aplica",
+      "riscoLactacao": "No aplica",
+      "administracao": "Oral",
+      "doseMaxima": "1,5–2 mL",
+      "doseMinima": "1,5 mL",
+      "classificacao": "Vacuna oral viva atenuada",
+      "apresentacao": "Tubo monodosis",
+      "interacaoMedicamento": "Evitar con otras vacunas orales simultáneas",
+      "posologia": "Rotarix: 2 y 4 meses; RotaTeq: 2, 4, 6 meses",
+      "armazenamento": "2–8 °C; no congelar",
+      "preparo": "Listo uso; agitar antes",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Invaginación, inmunodeficiencia grave, malformaciones GI",
+      "cuidadosMedicos": "Solo administrar <7 meses y 29 días",
+      "cuidadosFarmaceuticos": "Respetar cronograma y edad",
+      "cuidadosEnfermagem": "Aplicar en mucosa oral y observar",
+      "fontesBibliograficas": "AEP, OMS, UpToDate, EMA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "轮状病毒疫苗",
+      "suspension": "消化道手术或免疫缺陷者术前停用；超龄不再接种",
+      "risk": "活疫苗口服；可引发轻度胃肠反应或罕见肠套叠",
+      "reintroduction": "限6月龄前完成首次剂量；超龄不补种"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "减毒活轮状病毒（人源或重配型）",
+      "nomeComercial": "Rotarix、RotaTeq",
+      "mecanismoAcao": "激发肠道及全身抗轮状病毒免疫",
+      "farmacocinetica": "口服后短暂复制并排泄",
+      "farmacodinamica": "减少轮状病毒相关腹泻和住院率",
+      "indicacoes": "婴儿常规免疫，6周龄起",
+      "reacoesAdversas": "轻微腹泻、呕吐、发热、肠套叠（极罕见）",
+      "riscoGravidez": "不适用",
+      "riscoLactacao": "不适用",
+      "administracao": "口服",
+      "doseMaxima": "1.5–2 mL/次",
+      "doseMinima": "1.5 mL",
+      "classificacao": "口服活疫苗",
+      "apresentacao": "单剂型滴管管装",
+      "interacaoMedicamento": "与口服脊灰、口服霍乱疫苗间隔",
+      "posologia": "Rotarix：2月龄、4月龄；RotaTeq：2、4、6月龄",
+      "armazenamento": "2–8°C冷藏，禁止冷冻",
+      "preparo": "摇匀，开瓶即用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "肠套叠史、严重免疫缺陷、肠道畸形",
+      "cuidadosMedicos": "确保6月龄前开始接种",
+      "cuidadosFarmaceuticos": "确认年龄和接种时间窗口",
+      "cuidadosEnfermagem": "缓慢滴口内，防呕吐",
+      "fontesBibliograficas": "WHO、中国CDC、UpToDate、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Astemizol",
+      "suspension": "Descontinuado em vários países. Se em uso, suspender pelo menos 7 dias antes de cirurgias com anestesia geral.",
+      "risk": "Prolongamento do intervalo QT, risco de torsades de pointes, especialmente com cetoconazol, macrolídeos ou disfunção hepática.",
+      "reintroduction": "Evitar reintrodução. Substituir por antihistamínico mais seguro (ex: loratadina, cetirizina)."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Astemizol",
+      "nomeComercial": "Hismanal (retirado do mercado), Astemizol Genérico",
+      "mecanismoAcao": "Antagonista seletivo dos receptores H1 da histamina com início de ação retardado, sem atravessar significativamente a barreira hematoencefálica.",
+      "farmacocinetica": "Início: 24 h; pico: 24–72 h; meia-vida: 7 dias; metabolismo hepático (CYP3A4); excreção fecal.",
+      "farmacodinamica": "Antialérgico potente com efeito prolongado, sem sedação. Risco cardiovascular elevado limitou seu uso clínico.",
+      "indicacoes": "Rinite alérgica, urticária, dermatites (uso histórico).",
+      "reacoesAdversas": "QT prolongado, arritmias, tontura, cefaleia, hepatotoxicidade, prurido paradoxal.",
+      "riscoGravidez": "Categoria C – contraindicado.",
+      "riscoLactacao": "Contraindicado.",
+      "administracao": "Oral (comprimidos).",
+      "doseMaxima": "10 mg/dia.",
+      "doseMinima": "5 mg/dia.",
+      "classificacao": "Antihistamínico H1 de 2ª geração (descontinuado).",
+      "apresentacao": "Comprimidos (10 mg) – retirados da maioria dos mercados.",
+      "interacaoMedicamento": "Cetoconazol, eritromicina, claritromicina, ciclosporina, inibidores do CYP3A4.",
+      "posologia": "10 mg VO 1x/dia (uso histórico).",
+      "armazenamento": "Temperatura ambiente, longe de luz.",
+      "preparo": "Não aplicável.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "QT longo, uso com CYP3A4 inibidores, hepatopatia, gravidez, lactação.",
+      "cuidadosMedicos": "Monitorar ECG e eletrólitos se uso excepcional for necessário.",
+      "cuidadosFarmaceuticos": "Desencorajar uso; orientar substituição terapêutica.",
+      "cuidadosEnfermagem": "Observar sinais de arritmia e histórico cardíaco.",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex, ANVISA (registro suspenso)"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Astemizole",
+      "suspension": "Withdrawn from market in many countries. If in use, discontinue at least 7 days before anesthesia.",
+      "risk": "QT prolongation and torsades de pointes, especially with CYP3A4 inhibitors (e.g., ketoconazole, erythromycin).",
+      "reintroduction": "Do not reintroduce. Recommend alternative safer antihistamines (e.g., loratadine, cetirizine)."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Astemizole",
+      "nomeComercial": "Hismanal (withdrawn), generic astemizole",
+      "mecanismoAcao": "Second-generation H1 antihistamine with delayed onset, limited CNS penetration.",
+      "farmacocinetica": "Onset: 24 h; peak: 24–72 h; t½: ~7 days; hepatic metabolism (CYP3A4); fecal excretion.",
+      "farmacodinamica": "Long-acting antiallergic effect with no sedation. Significant cardiotoxicity risk.",
+      "indicacoes": "Allergic rhinitis, urticaria (historical use).",
+      "reacoesAdversas": "QT prolongation, arrhythmias, dizziness, headache, liver toxicity.",
+      "riscoGravidez": "Category C – contraindicated.",
+      "riscoLactacao": "Contraindicated.",
+      "administracao": "Oral tablet.",
+      "doseMaxima": "10 mg/day.",
+      "doseMinima": "5 mg/day.",
+      "classificacao": "Second-generation H1 antihistamine (withdrawn).",
+      "apresentacao": "Tablets (10 mg) – withdrawn from US market.",
+      "interacaoMedicamento": "Ketoconazole, erythromycin, clarithromycin, CYP3A4 inhibitors.",
+      "posologia": "10 mg PO daily (historical use).",
+      "armazenamento": "Room temperature, protect from light.",
+      "preparo": "Not applicable.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "QT prolongation, hepatic disease, CYP3A4 inhibitors, pregnancy, lactation.",
+      "cuidadosMedicos": "Monitor ECG and electrolytes if use is unavoidable.",
+      "cuidadosFarmaceuticos": "Advise against use; recommend safer alternative.",
+      "cuidadosEnfermagem": "Monitor for arrhythmias, cardiac history.",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Astemizol",
+      "suspension": "Suspendido del mercado en muchos países. Si está en uso, suspender al menos 7 días antes de cirugía.",
+      "risk": "Prolongación del QT, riesgo de torsades, especialmente con inhibidores de CYP3A4.",
+      "reintroduction": "Evitar reintroducción. Usar antihistamínicos más seguros como loratadina o cetirizina."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Astemizol",
+      "nomeComercial": "Hismanal (retirado), genéricos antiguos",
+      "mecanismoAcao": "Antihistamínico H1 de segunda generación con inicio lento y prolongado.",
+      "farmacocinetica": "Inicio: 24 h; pico: 24–72 h; t½: ~7 días; metabolismo hepático (CYP3A4).",
+      "farmacodinamica": "Efecto prolongado sin sedación, con riesgo cardíaco significativo.",
+      "indicacoes": "Rinitis alérgica, urticaria (uso histórico).",
+      "reacoesAdversas": "QT prolongado, arritmias, cefalea, mareo, hepatotoxicidad.",
+      "riscoGravidez": "Categoría C – contraindicado.",
+      "riscoLactacao": "Contraindicado.",
+      "administracao": "Oral.",
+      "doseMaxima": "10 mg/día.",
+      "doseMinima": "5 mg/día.",
+      "classificacao": "Antihistamínico H1 retirado del mercado.",
+      "apresentacao": "Comprimidos 10 mg – retirado.",
+      "interacaoMedicamento": "Ketoconazol, eritromicina, claritromicina, CYP3A4.",
+      "posologia": "10 mg diarios (uso histórico).",
+      "armazenamento": "Ambiente, protegido de la luz.",
+      "preparo": "No aplicable.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "QT largo, hepatopatía, embarazo, lactancia.",
+      "cuidadosMedicos": "ECG y electrolitos si uso excepcional.",
+      "cuidadosFarmaceuticos": "Recomendar alternativa segura.",
+      "cuidadosEnfermagem": "Observar signos cardíacos.",
+      "fontesBibliograficas": "EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿司咪唑（Astemizole）",
+      "suspension": "术前至少提前7天停药。全球多数国家已停用。",
+      "risk": "可导致QT延长、尖端扭转型心律失常，尤其合用CYP3A4抑制剂时。",
+      "reintroduction": "不推荐重新使用。建议使用更安全的抗组胺药（如氯雷他定）。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿司咪唑",
+      "nomeComercial": "Hismanal（多数市场已退市）",
+      "mecanismoAcao": "第二代H1受体拮抗剂，起效慢，作用持久，几乎无中枢抑制作用。",
+      "farmacocinetica": "起效约24小时，达峰24–72小时，半衰期约7天，经肝代谢（CYP3A4），粪便排泄。",
+      "farmacodinamica": "抗过敏作用强且持久，但心脏毒性风险限制其使用。",
+      "indicacoes": "过敏性鼻炎、荨麻疹（历史用药）。",
+      "reacoesAdversas": "QT延长、心律失常、头晕、肝毒性、瘙痒反跳。",
+      "riscoGravidez": "C类，禁用。",
+      "riscoLactacao": "禁用。",
+      "administracao": "口服（片剂）。",
+      "doseMaxima": "每日10 mg。",
+      "doseMinima": "5 mg。",
+      "classificacao": "已停用的第二代H1拮抗剂。",
+      "apresentacao": "10 mg片剂（已停用）。",
+      "interacaoMedicamento": "酮康唑、红霉素、环孢素等CYP3A4抑制剂。",
+      "posologia": "10 mg每日1次（历史剂量）。",
+      "armazenamento": "避光常温保存。",
+      "preparo": "不适用。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "QT延长、肝病、孕期、哺乳期。",
+      "cuidadosMedicos": "监测心电图及血清电解质。",
+      "cuidadosFarmaceuticos": "建议使用替代抗组胺药。",
+      "cuidadosEnfermagem": "监测心律、过敏症状缓解情况。",
+      "fontesBibliograficas": "中国药典、EMA、UpToDate、Micromedex"
+    }
+  }
+}

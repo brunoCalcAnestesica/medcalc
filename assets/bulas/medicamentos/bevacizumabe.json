@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bevacizumabe",
+      "suspension": "Suspender pelo menos 28 dias antes de cirurgias odontológicas invasivas, ou qualquer procedimento com risco de sangramento ou necessidade de cicatrização adequada",
+      "risk": "Risco elevado de sangramento, atraso na cicatrização, perfuração gastrointestinal e osteonecrose de mandíbula (MRONJ) quando usado em associação com bifosfonatos ou cirurgia oral invasiva",
+      "reintroduction": "Reintroduzir somente após completa cicatrização cirúrgica e avaliação médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bevacizumabe",
+      "nomeComercial": "Avastin",
+      "mecanismoAcao": "Anticorpo monoclonal que inibe o fator de crescimento endotelial vascular (VEGF), impedindo a angiogênese tumoral",
+      "farmacocinetica": "Meia-vida terminal de ~20 dias; metabolismo por catabolismo proteico; administração intravenosa",
+      "farmacodinamica": "Impede o crescimento de novos vasos sanguíneos que nutrem tumores",
+      "indicacoes": "Câncer colorretal metastático, mama, pulmão, glioblastoma, renal, cervical, ovário",
+      "reacoesAdversas": "Hipertensão, proteinúria, hemorragias, tromboembolismo, perfuração gastrointestinal, atraso na cicatrização, osteonecrose de mandíbula (MRONJ)",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; pode ser excretado no leite materno",
+      "administracao": "Via intravenosa",
+      "doseMaxima": "15 mg/kg a cada 21 dias",
+      "doseMinima": "5 mg/kg a cada 14 dias",
+      "classificacao": "Antineoplásico – anticorpo monoclonal anti-VEGF",
+      "apresentacao": "Frascos-ampola de 100 mg/4 mL e 400 mg/16 mL",
+      "interacaoMedicamento": "Potencializa toxicidade de agentes quimioterápicos, aumenta risco com anticoagulantes",
+      "posologia": "5–15 mg/kg IV a cada 2 ou 3 semanas, conforme tipo tumoral",
+      "armazenamento": "Refrigerado entre 2–8°C, protegido da luz",
+      "preparo": "Diluir em SF 0,9% para infusão IV lenta (não em bolus)",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Gravidez, perfuração GI ativa, sangramento não controlado, cicatrização incompleta",
+      "cuidadosMedicos": "Avaliar pressão arterial, função renal (proteinúria) e risco de trombose antes de cada ciclo. Avaliar previamente a saúde oral, especialmente se o paciente também estiver em uso de agentes antirreabsortivos (ex: bifosfonatos ou denosumabe)",
+      "cuidadosFarmaceuticos": "Preparar em ambiente controlado, descartar como resíduo citotóxico. Informar equipe odontológica sobre uso do medicamento antes de cirurgias invasivas",
+      "cuidadosEnfermagem": "Monitorar sinais de sangramento, cicatrização e eventos tromboembólicos",
+      "fontesBibliograficas": "INCA, FDA, Micromedex, EMA, ANVISA, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bevacizumab",
+      "suspension": "Discontinue 28 days before elective surgery",
+      "risk": "High risk of bleeding, poor wound healing, and gastrointestinal perforation",
+      "reintroduction": "Restart only after full surgical wound healing and medical evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bevacizumab",
+      "nomeComercial": "Avastin",
+      "mecanismoAcao": "Monoclonal antibody against VEGF, inhibiting tumor angiogenesis",
+      "farmacocinetica": "Terminal half-life ~20 days; protein catabolism; IV administration",
+      "farmacodinamica": "Inhibits formation of new blood vessels that supply tumors",
+      "indicacoes": "Metastatic colorectal cancer, breast, lung, glioblastoma, renal, cervical, ovarian cancer",
+      "reacoesAdversas": "Hypertension, proteinuria, hemorrhage, thromboembolism, GI perforation, delayed healing",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; may be excreted in breast milk",
+      "administracao": "Intravenous route",
+      "doseMaxima": "15 mg/kg every 3 weeks",
+      "doseMinima": "5 mg/kg every 2 weeks",
+      "classificacao": "Antineoplastic – anti-VEGF monoclonal antibody",
+      "apresentacao": "Vials of 100 mg/4 mL and 400 mg/16 mL",
+      "interacaoMedicamento": "May enhance toxicity of chemotherapeutics; increased bleeding with anticoagulants",
+      "posologia": "5–15 mg/kg IV every 2–3 weeks depending on indication",
+      "armazenamento": "Refrigerate at 2–8°C, protect from light",
+      "preparo": "Dilute in NS, administer slow IV infusion (not bolus)",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Pregnancy, active GI perforation, uncontrolled bleeding, incomplete wound healing",
+      "cuidadosMedicos": "Monitor BP, renal function (proteinuria), and thrombosis risk each cycle",
+      "cuidadosFarmaceuticos": "Prepare in controlled environment, discard as cytotoxic waste",
+      "cuidadosEnfermagem": "Monitor for bleeding, delayed healing, and thromboembolic events",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, ASCO, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bevacizumab",
+      "suspension": "Suspender 28 días antes de cirugía electiva",
+      "risk": "Alto riesgo de sangrado, mala cicatrización y perforación gastrointestinal",
+      "reintroduction": "Reintroducir sólo tras cicatrización completa y evaluación médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bevacizumab",
+      "nomeComercial": "Avastin",
+      "mecanismoAcao": "Anticuerpo monoclonal contra VEGF que inhibe la angiogénesis tumoral",
+      "farmacocinetica": "Vida media terminal ~20 días; metabolismo proteico; administración IV",
+      "farmacodinamica": "Inhibe formación de nuevos vasos sanguíneos para el tumor",
+      "indicacoes": "Cáncer colorrectal metastásico, mama, pulmón, glioblastoma, renal, cérvix, ovario",
+      "reacoesAdversas": "Hipertensión, proteinuria, hemorragia, trombosis, perforación GI, cicatrización retardada",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante la lactancia",
+      "administracao": "Vía intravenosa",
+      "doseMaxima": "15 mg/kg cada 3 semanas",
+      "doseMinima": "5 mg/kg cada 2 semanas",
+      "classificacao": "Antineoplásico – anticuerpo monoclonal anti-VEGF",
+      "apresentacao": "Viales de 100 mg/4 mL y 400 mg/16 mL",
+      "interacaoMedicamento": "Mayor toxicidad con quimioterápicos, aumenta sangrado con anticoagulantes",
+      "posologia": "5–15 mg/kg IV cada 2–3 semanas según indicación",
+      "armazenamento": "Refrigerar a 2–8°C, protegido de la luz",
+      "preparo": "Diluir en SF 0,9% y administrar en infusión lenta",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Embarazo, perforación GI, sangrado activo, cicatrización incompleta",
+      "cuidadosMedicos": "Controlar TA, proteinuria y riesgo de trombosis antes de cada ciclo",
+      "cuidadosFarmaceuticos": "Preparación en entorno controlado, eliminación como residuo citotóxico",
+      "cuidadosEnfermagem": "Observar sangrados, cicatrización y eventos trombóticos",
+      "fontesBibliograficas": "ANMAT, FDA, EMA, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "贝伐珠单抗",
+      "suspension": "术前28天停药",
+      "risk": "高出血风险、伤口愈合差和胃肠穿孔风险",
+      "reintroduction": "术后完全愈合后方可重新使用，需医生评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "贝伐珠单抗",
+      "nomeComercial": "安维汀（Avastin）",
+      "mecanismoAcao": "单克隆抗体，靶向VEGF，抑制肿瘤血管生成",
+      "farmacocinetica": "终末半衰期约20天；蛋白酶降解代谢；静脉注射",
+      "farmacodinamica": "阻断肿瘤新血管形成，抑制其生长",
+      "indicacoes": "转移性结直肠癌、乳腺癌、肺癌、神经胶质瘤、肾癌、宫颈癌、卵巢癌",
+      "reacoesAdversas": "高血压、蛋白尿、出血、血栓、消化道穿孔、术后愈合延迟",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用，可分泌入乳汁中",
+      "administracao": "静脉输注",
+      "doseMaxima": "每21天15 mg/kg",
+      "doseMinima": "每14天5 mg/kg",
+      "classificacao": "抗肿瘤药 – 抗VEGF单克隆抗体",
+      "apresentacao": "注射液：100 mg/4 mL 和 400 mg/16 mL",
+      "interacaoMedicamento": "与化疗药物协同毒性，与抗凝药物合用增加出血风险",
+      "posologia": "按体重每次5–15 mg/kg，每2或3周输注一次",
+      "armazenamento": "冷藏（2–8°C），避光",
+      "preparo": "用0.9%氯化钠稀释后静脉缓慢输注，不可静推",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "妊娠、活动性出血、胃肠穿孔、伤口未愈合",
+      "cuidadosMedicos": "每周期前监测血压、尿蛋白、血栓风险",
+      "cuidadosFarmaceuticos": "在无菌环境中配药，按细胞毒药物处理废弃物",
+      "cuidadosEnfermagem": "观察出血、愈合及血栓风险",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex, NCCN"
+    }
+  }
+}

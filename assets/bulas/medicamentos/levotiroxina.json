@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Levotiroxina",
+      "suspension": "Não suspender; manter no dia da cirurgia, inclusive em jejum",
+      "risk": "Suspensão pode levar à crise hipotireoidiana, bradicardia, hipotermia e instabilidade hemodinâmica",
+      "reintroduction": "Manter ou reintroduzir o mais precocemente possível por via oral ou alternativa (IV) se necessário"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levotiroxina sódica",
+      "nomeComercial": "Puran T4, Euthyrox, Levoid",
+      "mecanismoAcao": "Hormônio tireoidiano sintético que atua como substituto da tiroxina endógena (T4)",
+      "farmacocinetica": "Absorção intestinal variável (~80% em jejum), início em 3–5 dias, meia-vida de ~7 dias",
+      "farmacodinamica": "Regula metabolismo basal, crescimento celular e função cardiovascular",
+      "indicacoes": "Hipotireoidismo, bócio, supressão de TSH em câncer de tireoide",
+      "reacoesAdversas": "Palpitações, perda de peso, ansiedade, insônia, sudorese, taquicardia",
+      "riscoGravidez": "Categoria A (seguro e necessário)",
+      "riscoLactacao": "Seguro durante a amamentação",
+      "administracao": "Via oral ou intravenosa (uso hospitalar)",
+      "doseMaxima": "200mcg/dia (ajustado por peso e idade)",
+      "doseMinima": "25mcg/dia",
+      "classificacao": "Hormônio tireoidiano sintético",
+      "apresentacao": "Comprimidos de 25mcg, 50mcg, 75mcg, 88mcg, 100mcg, 112mcg, 125mcg, 150mcg, 175mcg, 200mcg",
+      "interacaoMedicamento": "Reduz absorção com ferro, cálcio, antiácidos; interação com anticoagulantes, antidiabéticos",
+      "posologia": "Dose individualizada conforme TSH; geralmente 1,6 mcg/kg/dia",
+      "armazenamento": "Manter em temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "SF 0,9% (forma IV)",
+      "contraindicacoes": "Hipertireoidismo não tratado, infarto agudo do miocárdio recente",
+      "cuidadosMedicos": "Monitorar TSH, ECG em idosos e cardiopatas",
+      "cuidadosFarmaceuticos": "Orientar jejum para absorção ideal, não interromper sem orientação",
+      "cuidadosEnfermagem": "Observar sinais de hipo/hipertireoidismo, manter horário fixo",
+      "fontesBibliograficas": "ANVISA, FDA, SBEM, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Levothyroxine",
+      "suspension": "Do not discontinue; continue on day of surgery, even while fasting",
+      "risk": "Interruption may cause myxedema coma, bradycardia, hypothermia, hemodynamic instability",
+      "reintroduction": "Maintain or restart as early as possible orally or IV if needed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levothyroxine sodium",
+      "nomeComercial": "Synthroid, Levoxyl, Euthyrox",
+      "mecanismoAcao": "Synthetic T4 hormone replacing endogenous thyroxine",
+      "farmacocinetica": "80% oral absorption on empty stomach; onset 3–5 days; half-life ~7 days",
+      "farmacodinamica": "Regulates basal metabolism, cell growth and cardiovascular function",
+      "indicacoes": "Hypothyroidism, goiter, TSH suppression in thyroid cancer",
+      "reacoesAdversas": "Palpitations, weight loss, anxiety, insomnia, sweating, tachycardia",
+      "riscoGravidez": "Category A (safe and necessary)",
+      "riscoLactacao": "Safe during breastfeeding",
+      "administracao": "Oral or intravenous (inpatient use)",
+      "doseMaxima": "200mcg/day (individualized)",
+      "doseMinima": "25mcg/day",
+      "classificacao": "Synthetic thyroid hormone (T4)",
+      "apresentacao": "Tablets 25–200mcg (increments of 12.5 or 25)",
+      "interacaoMedicamento": "Absorption reduced by calcium, iron, antacids; interacts with warfarin, insulin",
+      "posologia": "Typically 1.6 mcg/kg/day adjusted to TSH",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "0.9% NaCl (IV use)",
+      "contraindicacoes": "Untreated thyrotoxicosis, recent MI",
+      "cuidadosMedicos": "Monitor TSH, ECG in elderly/cardiac patients",
+      "cuidadosFarmaceuticos": "Administer on empty stomach; do not stop abruptly",
+      "cuidadosEnfermagem": "Monitor for signs of hypo/hyperthyroidism, fixed timing",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Levotiroxina",
+      "suspension": "No suspender; continuar el día de la cirugía incluso en ayuno",
+      "risk": "Suspensión puede causar coma mixedematoso, bradicardia, hipotermia, inestabilidad hemodinámica",
+      "reintroduction": "Continuar o reintroducir tan pronto como sea posible, VO o IV si es necesario"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Levotiroxina sódica",
+      "nomeComercial": "Eutirox, Levothroid",
+      "mecanismoAcao": "Hormona tiroidea sintética T4 que sustituye la tiroxina endógena",
+      "farmacocinetica": "Absorción oral ~80% en ayunas, inicio 3–5 días, vida media ~7 días",
+      "farmacodinamica": "Regula el metabolismo basal, crecimiento celular y función cardiovascular",
+      "indicacoes": "Hipotiroidismo, bocio, supresión de TSH en cáncer tiroideo",
+      "reacoesAdversas": "Palpitaciones, pérdida de peso, ansiedad, insomnio, sudoración, taquicardia",
+      "riscoGravidez": "Categoría A",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "200mcg/día",
+      "doseMinima": "25mcg/día",
+      "classificacao": "Hormona tiroidea sintética",
+      "apresentacao": "Tabletas: 25–200mcg",
+      "interacaoMedicamento": "Disminuye absorción con calcio, hierro, antiácidos; interacción con anticoagulantes y antidiabéticos",
+      "posologia": "1,6 mcg/kg/día ajustado por TSH",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "SSF 0,9% (forma IV)",
+      "contraindicacoes": "Tirotoxicosis no tratada, IAM reciente",
+      "cuidadosMedicos": "Monitorear TSH, ECG en ancianos y cardiópatas",
+      "cuidadosFarmaceuticos": "Administrar en ayunas, no suspender sin indicación médica",
+      "cuidadosEnfermagem": "Observar síntomas de hipo/hipertiroidismo, administrar en horario constante",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "左甲状腺素钠",
+      "suspension": "手术当天继续服用，即使空腹也不应停药",
+      "risk": "停药可导致黏液性水肿昏迷、心动过缓、体温下降和血流动力学不稳定",
+      "reintroduction": "应尽早口服或必要时静脉补充"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "左甲状腺素钠",
+      "nomeComercial": "Euthyrox, Eltroxin",
+      "mecanismoAcao": "合成T4激素，替代体内甲状腺素",
+      "farmacocinetica": "空腹吸收率约80%，起效3–5天，半衰期约7天",
+      "farmacodinamica": "调节基础代谢、细胞生长和心血管功能",
+      "indicacoes": "甲状腺功能减退、甲状腺肿、甲癌术后TSH抑制治疗",
+      "reacoesAdversas": "心悸、体重下降、焦虑、失眠、多汗、心动过速",
+      "riscoGravidez": "A类（安全且必要）",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日200微克",
+      "doseMinima": "每日25微克",
+      "classificacao": "合成甲状腺激素",
+      "apresentacao": "片剂：25–200微克",
+      "interacaoMedicamento": "与钙剂、铁剂、抗酸药影响吸收；影响抗凝药与胰岛素疗效",
+      "posologia": "一般按1.6微克/公斤/日调整剂量，依据TSH",
+      "armazenamento": "常温避光保存",
+      "preparo": "无需特殊处理",
+      "solucoesCompatíveis": "0.9%氯化钠（IV制剂）",
+      "contraindicacoes": "甲亢未治疗、近期心肌梗死",
+      "cuidadosMedicos": "监测TSH、老年人及心脏病患者需心电图随访",
+      "cuidadosFarmaceuticos": "空腹服用，不得擅自停药",
+      "cuidadosEnfermagem": "定时服药，观察甲状腺功能异常症状",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

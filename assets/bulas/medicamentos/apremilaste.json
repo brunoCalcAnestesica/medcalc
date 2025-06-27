@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Apremilaste",
+      "suspension": "Não suspender em cirurgias menores; avaliar risco-benefício em cirurgias maiores",
+      "risk": "Pode causar diarreia, náuseas, perda de peso, depressão; baixo risco de infecção",
+      "reintroduction": "Reintroduzir após estabilidade clínica e ausência de distúrbios digestivos ou neuropsiquiátricos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Apremilaste",
+      "nomeComercial": "Otezla",
+      "mecanismoAcao": "Inibidor seletivo da fosfodiesterase 4 (PDE4), modulando citocinas inflamatórias (TNF-α, IL-23, IL-17)",
+      "farmacocinetica": "Via oral; biodisponibilidade ~73%; pico em 2,5 h; t1/2 ~6–9 h; metabolizado via CYP3A4",
+      "farmacodinamica": "Reduz produção de citocinas pró-inflamatórias e aumenta IL-10, com efeito imunomodulador",
+      "indicacoes": "Psoríase em placas moderada a grave, artrite psoriásica, doença de Behçet oral",
+      "reacoesAdversas": "Diarreia, náusea, dor de cabeça, perda de peso, depressão, insônia",
+      "riscoGravidez": "Categoria C; evitar uso durante a gestação",
+      "riscoLactacao": "Desconhecido; evitar durante a amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "30 mg 2x/dia",
+      "doseMinima": "10 mg/dia (ajuste escalonado)",
+      "classificacao": "Imunomodulador oral inibidor de PDE4",
+      "apresentacao": "Comprimidos revestidos de 10 mg, 20 mg e 30 mg",
+      "interacaoMedicamento": "Reduzido efeito com indutores de CYP3A4 (rifampicina, fenitoína)",
+      "posologia": "Ajuste escalonado: início com 10 mg/dia até 30 mg 2x/dia em 6 dias",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Uso direto; não partir ou triturar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, risco aumentado de transtornos psiquiátricos não controlados",
+      "cuidadosMedicos": "Monitorar peso, humor, função GI; ajustar dose em insuficiência renal grave",
+      "cuidadosFarmaceuticos": "Educar sobre escalonamento de dose e possíveis efeitos colaterais",
+      "cuidadosEnfermagem": "Observar sintomas gastrointestinais e alterações de humor",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Apremilast",
+      "suspension": "Continue in minor procedures; reassess in major surgery",
+      "risk": "GI side effects, weight loss, depression risk; low infection risk",
+      "reintroduction": "Restart after clinical stability and tolerance assessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Apremilast",
+      "nomeComercial": "Otezla",
+      "mecanismoAcao": "Selective PDE4 inhibitor that regulates inflammatory cytokines",
+      "farmacocinetica": "Oral; F=73%; Tmax ~2.5h; t1/2 ~6–9h; metabolized via CYP3A4",
+      "farmacodinamica": "Decreases TNF-α, IL-17, IL-23; increases IL-10 production",
+      "indicacoes": "Plaque psoriasis, psoriatic arthritis, oral ulcers in Behçet’s disease",
+      "reacoesAdversas": "Diarrhea, nausea, headache, weight loss, insomnia, depression",
+      "riscoGravidez": "Category C; not recommended during pregnancy",
+      "riscoLactacao": "Unknown; avoid while breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "30 mg BID",
+      "doseMinima": "10 mg/day (starter titration)",
+      "classificacao": "Oral PDE4 inhibitor / immunomodulator",
+      "apresentacao": "Tablets 10 mg, 20 mg, 30 mg",
+      "interacaoMedicamento": "Decreased efficacy with strong CYP3A4 inducers",
+      "posologia": "Starter titration over 6 days to 30 mg BID maintenance",
+      "armazenamento": "Room temperature (59–86°F)",
+      "preparo": "Swallow whole; do not crush",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, active suicidal ideation",
+      "cuidadosMedicos": "Monitor mood, weight, GI tolerance; adjust in renal impairment",
+      "cuidadosFarmaceuticos": "Ensure titration; counsel on GI and mood symptoms",
+      "cuidadosEnfermagem": "Observe GI effects and mood changes",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Apremilast",
+      "suspension": "No suspender en cirugía menor; evaluar riesgo en cirugía mayor",
+      "risk": "Diarrea, náuseas, depresión, pérdida de peso; bajo riesgo infeccioso",
+      "reintroduction": "Reintroducir tras estabilidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Apremilast",
+      "nomeComercial": "Otezla",
+      "mecanismoAcao": "Inhibidor selectivo de PDE4; modula citocinas inflamatorias",
+      "farmacocinetica": "Oral; biodisponibilidad 73%; Tmax 2.5h; t1/2 6–9h; metabolismo CYP3A4",
+      "farmacodinamica": "Reduce TNF-α, IL-17, IL-23; aumenta IL-10",
+      "indicacoes": "Psoriasis en placas, artritis psoriásica, úlceras orales de Behçet",
+      "reacoesAdversas": "Diarrea, cefalea, insomnio, náuseas, depresión",
+      "riscoGravidez": "Categoría C; evitar en embarazo",
+      "riscoLactacao": "Desconocido; no recomendado",
+      "administracao": "Oral",
+      "doseMaxima": "30 mg 2 veces al día",
+      "doseMinima": "10 mg (ajuste inicial)",
+      "classificacao": "Inmunomodulador oral (PDE4)",
+      "apresentacao": "Tabletas 10/20/30 mg",
+      "interacaoMedicamento": "Disminuye eficacia con inductores CYP3A4",
+      "posologia": "Escalonar dosis hasta alcanzar 30 mg 2x/día",
+      "armazenamento": "15–30°C",
+      "preparo": "No partir ni triturar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Ideación suicida, hipersensibilidad",
+      "cuidadosMedicos": "Controlar peso, estado de ánimo, tolerancia GI",
+      "cuidadosFarmaceuticos": "Orientar sobre escalamiento inicial",
+      "cuidadosEnfermagem": "Observar efectos GI y cambios emocionales",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿普米拉司特",
+      "suspension": "小手术可继续使用；大手术前建议暂停",
+      "risk": "胃肠不适、体重下降、抑郁风险低；感染风险小",
+      "reintroduction": "术后稳定后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿普米拉司特",
+      "nomeComercial": "Otezla",
+      "mecanismoAcao": "选择性抑制PDE4，调节炎症细胞因子表达",
+      "farmacocinetica": "口服吸收好；Tmax约2.5小时；半衰期6–9小时",
+      "farmacodinamica": "降低TNF-α、IL-17、IL-23，增加IL-10表达",
+      "indicacoes": "中重度银屑病、银屑病关节炎、白塞病口腔溃疡",
+      "reacoesAdversas": "腹泻、恶心、头痛、失眠、情绪低落",
+      "riscoGravidez": "C类；孕期不推荐",
+      "riscoLactacao": "建议停哺乳",
+      "administracao": "口服",
+      "doseMaxima": "30 mg 每日2次",
+      "doseMinima": "初始剂量10 mg",
+      "classificacao": "口服PDE4抑制剂",
+      "apresentacao": "片剂10/20/30 mg",
+      "interacaoMedicamento": "CYP3A4诱导剂降低疗效",
+      "posologia": "第1–5天逐渐加量，第6天起30 mg BID",
+      "armazenamento": "室温保存（15–30°C）",
+      "preparo": "整片吞服，不可掰开",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "自杀意念、过敏史",
+      "cuidadosMedicos": "监测体重、胃肠耐受性、情绪状态",
+      "cuidadosFarmaceuticos": "教育分阶梯加量法",
+      "cuidadosEnfermagem": "关注抑郁与胃肠不适反应",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，UpToDate"
+    }
+  }
+}

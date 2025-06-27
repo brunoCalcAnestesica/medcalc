@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ciclosporina oral",
+      "suspension": "Suspender 5 a 7 dias antes de cirurgias eletivas de médio/grande porte, conforme risco imunossupressor",
+      "risk": "Risco de infecção, nefrotoxicidade, hepatotoxicidade, hipertensão e interação com anestésicos",
+      "reintroduction": "Reintroduzir após recuperação clínica, ausência de infecção ativa e função renal estabilizada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ciclosporina",
+      "nomeComercial": "Sandimmun Neoral, Ciclosporina Genérico",
+      "mecanismoAcao": "Inibe a calcineurina, suprimindo a ativação de linfócitos T e reduzindo a produção de interleucina-2",
+      "farmacocinetica": "Biodisponibilidade oral variável (20–50%), metabolização hepática (CYP3A4), excreção biliar, meia-vida 8h",
+      "farmacodinamica": "Imunossupressor seletivo, sem ação mielossupressora significativa, atua em processos autoimunes e alogênicos",
+      "indicacoes": "Transplantes (rim, fígado, coração), psoríase grave, artrite reumatoide, uveíte, síndrome nefrótica",
+      "reacoesAdversas": "Tremor, hipertensão, hiperplasia gengival, hirsutismo, náuseas, nefrotoxicidade, dislipidemia",
+      "riscoGravidez": "Categoria C – usar somente se claramente necessário",
+      "riscoLactacao": "Contraindicado – excreção significativa no leite materno",
+      "administracao": "Via oral, em cápsulas ou solução, com consistência posológica rigorosa",
+      "doseMaxima": "15 mg/kg/dia (transplantes)",
+      "doseMinima": "1–2.5 mg/kg/dia (autoimunes)",
+      "classificacao": "Imunossupressor – inibidor de calcineurina",
+      "apresentacao": "Cápsulas de 25 mg, 50 mg, 100 mg; solução oral 100 mg/mL",
+      "interacaoMedicamento": "Interage com inibidores/indutores do CYP3A4 (cetoconazol, rifampicina), AINEs, digoxina",
+      "posologia": "Ajuste conforme níveis sanguíneos (100–400 ng/mL), via peso e condição clínica",
+      "armazenamento": "Solução: 15–25 °C; cápsulas: protegido da luz, ambiente seco",
+      "preparo": "Solução deve ser diluída em líquidos não alcoólicos (leite, suco)",
+      "solucoesCompatíveis": "Suco de laranja, leite (não diluir em plásticos)",
+      "contraindicacoes": "Hipertensão não controlada, infecção ativa, hipersensibilidade à ciclosporina",
+      "cuidadosMedicos": "Monitorar função renal, níveis séricos, PA, sinais de toxicidade",
+      "cuidadosFarmaceuticos": "Atenção ao intervalo fixo entre doses, não alternar formulações",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade, adesão e PA",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, UpToDate, PubMed"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Oral Cyclosporine",
+      "suspension": "Discontinue 5–7 days before major elective surgery due to immunosuppression risks",
+      "risk": "Risk of infection, nephrotoxicity, hepatotoxicity, hypertension, and anesthetic interactions",
+      "reintroduction": "Restart after clinical recovery, stable renal function, and absence of infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cyclosporine",
+      "nomeComercial": "Sandimmune, Neoral, Gengraf",
+      "mecanismoAcao": "Calcineurin inhibitor that blocks IL-2 production by suppressing T-cell activation",
+      "farmacocinetica": "Variable oral bioavailability (20–50%), metabolized by CYP3A4, biliary excretion, half-life ~8h",
+      "farmacodinamica": "Selective immunosuppressant without significant myelosuppression, acts in autoimmune and transplant settings",
+      "indicacoes": "Organ transplantation, severe psoriasis, rheumatoid arthritis, nephrotic syndrome, uveitis",
+      "reacoesAdversas": "Tremor, hypertension, gingival hyperplasia, hirsutism, nausea, nephrotoxicity, dyslipidemia",
+      "riscoGravidez": "Category C – use only if benefits justify the risks",
+      "riscoLactacao": "Contraindicated – excreted in breast milk",
+      "administracao": "Oral, as capsules or solution, requires consistent dosing schedule",
+      "doseMaxima": "15 mg/kg/day",
+      "doseMinima": "1–2.5 mg/kg/day",
+      "classificacao": "Immunosuppressant – calcineurin inhibitor",
+      "apresentacao": "Capsules (25 mg, 50 mg, 100 mg), oral solution (100 mg/mL)",
+      "interacaoMedicamento": "CYP3A4 interactions (e.g. ketoconazole, rifampin), NSAIDs, digoxin",
+      "posologia": "Titrated to blood levels (100–400 ng/mL), based on weight and clinical status",
+      "armazenamento": "Solution: 15–25 °C; Capsules: protect from light, dry conditions",
+      "preparo": "Dilute oral solution in milk or juice (no alcohol or plastic containers)",
+      "solucoesCompatíveis": "Milk, orange juice (avoid plastic cups)",
+      "contraindicacoes": "Uncontrolled hypertension, active infection, hypersensitivity",
+      "cuidadosMedicos": "Monitor drug levels, renal function, blood pressure, and signs of toxicity",
+      "cuidadosFarmaceuticos": "Ensure consistent formulation and timing, avoid substitutions",
+      "cuidadosEnfermagem": "Monitor for toxicity, adherence, and BP",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, PubMed"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ciclosporina oral",
+      "suspension": "Suspender 5–7 días antes de cirugía mayor programada",
+      "risk": "Riesgo de infección, nefrotoxicidad, hepatotoxicidad, hipertensión e interacción anestésica",
+      "reintroduction": "Reintroducir tras recuperación clínica, función renal estable y sin infección activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ciclosporina",
+      "nomeComercial": "Sandimmun Neoral, Ciclosporina Genérico",
+      "mecanismoAcao": "Inhibidor de la calcineurina que bloquea la producción de IL-2 y activa los linfocitos T",
+      "farmacocinetica": "Biodisponibilidad oral variable (20–50%), metabolizado por CYP3A4, excreción biliar, t½ ~8h",
+      "farmacodinamica": "Inmunosupresor selectivo, sin mielosupresión significativa, útil en enfermedades autoinmunes y trasplantes",
+      "indicacoes": "Trasplantes, psoriasis severa, artritis reumatoide, uveítis, síndrome nefrótico",
+      "reacoesAdversas": "Temblor, hipertensión, hiperplasia gingival, hirsutismo, náuseas, nefrotoxicidad, dislipidemia",
+      "riscoGravidez": "Categoría C – usar solo si el beneficio justifica el riesgo",
+      "riscoLactacao": "Contraindicado – se excreta en leche materna",
+      "administracao": "Vía oral, cápsulas o solución, con horario estricto",
+      "doseMaxima": "15 mg/kg/día",
+      "doseMinima": "1–2,5 mg/kg/día",
+      "classificacao": "Inmunosupresor – inhibidor de la calcineurina",
+      "apresentacao": "Cápsulas (25, 50, 100 mg), solución oral (100 mg/mL)",
+      "interacaoMedicamento": "Interacción con CYP3A4, AINEs, digoxina",
+      "posologia": "Según niveles plasmáticos (100–400 ng/mL), peso y cuadro clínico",
+      "armazenamento": "Solución: 15–25°C; cápsulas: protegido de luz y humedad",
+      "preparo": "Diluir en jugo o leche (evitar alcohol y plástico)",
+      "solucoesCompatíveis": "Jugo de naranja, leche",
+      "contraindicacoes": "Hipertensión no controlada, infección activa, alergia a ciclosporina",
+      "cuidadosMedicos": "Control de función renal, niveles, PA y toxicidad",
+      "cuidadosFarmaceuticos": "Evitar cambios de formulación, adherencia estricta",
+      "cuidadosEnfermagem": "Observar toxicidad, adherencia y PA",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "口服环孢素",
+      "suspension": "术前5–7天停药，特别是大型择期手术",
+      "risk": "感染、肾毒性、肝毒性、高血压及麻醉药物相互作用风险",
+      "reintroduction": "术后感染控制、肾功能稳定后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "环孢素",
+      "nomeComercial": "新山地明 Neoral, Sandimmun",
+      "mecanismoAcao": "抑制钙调神经磷酸酶，阻断T细胞激活和IL-2产生",
+      "farmacocinetica": "口服生物利用度20–50%，CYP3A4代谢，经胆汁排泄，半衰期约8小时",
+      "farmacodinamica": "选择性免疫抑制剂，对骨髓影响小，适用于自身免疫与移植免疫调节",
+      "indicacoes": "器官移植、银屑病、类风湿性关节炎、葡萄膜炎、肾病综合征",
+      "reacoesAdversas": "震颤、高血压、牙龈增生、多毛、恶心、肾毒性、血脂异常",
+      "riscoGravidez": "C类 – 仅在权衡利弊后使用",
+      "riscoLactacao": "禁用于哺乳期 – 可通过乳汁排泄",
+      "administracao": "口服胶囊或溶液，须定时服用",
+      "doseMaxima": "每日15毫克/千克",
+      "doseMinima": "每日1–2.5毫克/千克",
+      "classificacao": "免疫抑制剂 – 钙调磷酸酶抑制剂",
+      "apresentacao": "25/50/100毫克胶囊，100毫克/毫升口服液",
+      "interacaoMedicamento": "与CYP3A4药物、NSAID、地高辛有相互作用",
+      "posologia": "依血药浓度（100–400 ng/mL）调整剂量",
+      "armazenamento": "口服液：15–25°C；胶囊需避光避湿",
+      "preparo": "口服液需稀释于牛奶或果汁中（避免使用塑料杯）",
+      "solucoesCompatíveis": "牛奶、橙汁",
+      "contraindicacoes": "未控制高血压、活动性感染、对环孢素过敏",
+      "cuidadosMedicos": "监测肾功能、血压、药物浓度、毒性迹象",
+      "cuidadosFarmaceuticos": "避免配方替换，遵守固定服药时间",
+      "cuidadosEnfermagem": "监测用药依从性、毒性及血压",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

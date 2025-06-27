@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cloroquina",
+      "suspension": "Suspender 5 dias antes de cirurgia eletiva com risco cardíaco",
+      "risk": "Risco de prolongamento do QT, hipoglicemia, alterações visuais, interação com anestésicos",
+      "reintroduction": "Reintroduzir após controle eletrolítico e cardíaco pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloroquina difosfato",
+      "nomeComercial": "Reuquinol, Aralen",
+      "mecanismoAcao": "Inibe a polimerização da heme no parasita; modula pH lisossomal e resposta imunológica",
+      "farmacocinetica": "Biodisponibilidade 80–90%; meia-vida ~20–60 dias; metabolismo hepático",
+      "farmacodinamica": "Antiparasitário, antirreumático e imunomodulador",
+      "indicacoes": "Malária, lúpus eritematoso sistêmico, artrite reumatoide",
+      "reacoesAdversas": "Alterações visuais, prurido, náusea, miopatia, cardiomiopatia, QT longo",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Permitido em dose terapêutica",
+      "administracao": "Oral",
+      "doseMaxima": "600mg/dia (base)",
+      "doseMinima": "150mg/dia (base)",
+      "classificacao": "4-aminoquinolina antimalárica e imunomoduladora",
+      "apresentacao": "Comprimidos de 150mg base (250mg sal)",
+      "interacaoMedicamento": "Risco aumentado com amiodarona, antiarrítmicos, antidepressivos tricíclicos",
+      "posologia": "150–600mg/dia, conforme patologia",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso direto por via oral",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Retinopatia pré-existente, QT longo, epilepsia não controlada",
+      "cuidadosMedicos": "Monitorar ECG, função visual, hepática e renal",
+      "cuidadosFarmaceuticos": "Orientar adesão e evitar medicamentos QT-prolongadores",
+      "cuidadosEnfermagem": "Observar visão, arritmias, hipoglicemia, confusão mental",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Chloroquine",
+      "suspension": "Discontinue 5 days before high cardiac-risk surgery",
+      "risk": "QT prolongation, visual disturbance, hypoglycemia, anesthetic interaction",
+      "reintroduction": "Restart after electrolyte/ECG normalization post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Chloroquine phosphate",
+      "nomeComercial": "Aralen",
+      "mecanismoAcao": "Inhibits heme polymerization in parasites; modulates lysosomal pH and immune signaling",
+      "farmacocinetica": "Bioavailability ~90%; half-life 20–60 days; hepatic metabolism",
+      "farmacodinamica": "Antimalarial and immunomodulator",
+      "indicacoes": "Malaria, lupus, rheumatoid arthritis",
+      "reacoesAdversas": "Visual changes, nausea, pruritus, myopathy, QT prolongation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Allowed in therapeutic dose",
+      "administracao": "Oral",
+      "doseMaxima": "600mg/day (base)",
+      "doseMinima": "150mg/day (base)",
+      "classificacao": "4-aminoquinoline",
+      "apresentacao": "150mg base tablets (250mg salt)",
+      "interacaoMedicamento": "QT-prolonging drugs: amiodarone, TCAs, antiarrhythmics",
+      "posologia": "150–600mg/day depending on condition",
+      "armazenamento": "Room temperature, away from light",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Retinopathy, long QT, uncontrolled epilepsy",
+      "cuidadosMedicos": "Monitor ECG, visual field, LFTs, renal",
+      "cuidadosFarmaceuticos": "Warn about QT interactions; long-term use effects",
+      "cuidadosEnfermagem": "Check vision, ECG, blood sugar, mental status",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cloroquina",
+      "suspension": "Suspender 5 días antes de cirugía con riesgo cardíaco",
+      "risk": "Prolongación QT, alteraciones visuales, hipoglucemia, interacción anestésica",
+      "reintroduction": "Reintroducir tras estabilización ECG y electrolitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloroquina fosfato",
+      "nomeComercial": "Resochin, Aralen",
+      "mecanismoAcao": "Inhibe polimerización del hemo; altera pH lisosomal e inmunidad",
+      "farmacocinetica": "Biodisponibilidad ~90%; vida media 20–60 días; metabolismo hepático",
+      "farmacodinamica": "Antimalárico e inmunomodulador",
+      "indicacoes": "Malaria, lupus, artritis reumatoide",
+      "reacoesAdversas": "Prurito, náuseas, QT prolongado, toxicidad ocular, hipoglucemia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Permitido",
+      "administracao": "Oral",
+      "doseMaxima": "600mg/día",
+      "doseMinima": "150mg/día",
+      "classificacao": "4-aminoquinolina",
+      "apresentacao": "Comprimidos 150mg base (250mg sal)",
+      "interacaoMedicamento": "Amiodarona, antidepresivos tricíclicos, fármacos QT",
+      "posologia": "150–600mg/día según patología",
+      "armazenamento": "Ambiente seco, protegido de luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Retinopatía, epilepsia no controlada, QT largo",
+      "cuidadosMedicos": "Control ECG, visión, hígado y riñón",
+      "cuidadosFarmaceuticos": "Evitar fármacos QT-prolongadores",
+      "cuidadosEnfermagem": "Observar visión, glucosa, ECG, piel",
+      "fontesBibliograficas": "Micromedex, guías clínicas, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯喹",
+      "suspension": "术前5天停药，尤其心脏高风险患者",
+      "risk": "QT延长、低血糖、视觉异常、与麻醉药相互作用",
+      "reintroduction": "术后电解质及心电图稳定后重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磷酸氯喹",
+      "nomeComercial": "Aralen",
+      "mecanismoAcao": "抑制血红素聚合；影响溶酶体pH与免疫信号",
+      "farmacocinetica": "口服吸收好；半衰期20–60天；肝脏代谢",
+      "farmacodinamica": "抗疟疾及免疫调节药",
+      "indicacoes": "疟疾、红斑狼疮、类风湿关节炎",
+      "reacoesAdversas": "视觉模糊、皮疹、肝酶升高、QT延长、低血糖",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期可用",
+      "administracao": "口服",
+      "doseMaxima": "每日600毫克（基础）",
+      "doseMinima": "每日150毫克（基础）",
+      "classificacao": "4-氨基喹啉类抗疟药",
+      "apresentacao": "片剂150mg基础（250mg盐）",
+      "interacaoMedicamento": "QT延长药、环丙沙星、三环类抗抑郁药",
+      "posologia": "每日150–600mg，根据病种",
+      "armazenamento": "常温避光保存",
+      "preparo": "无需制备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "视网膜病变、QT延长、癫痫不稳定",
+      "cuidadosMedicos": "监测心电图、肝酶、电解质",
+      "cuidadosFarmaceuticos": "告知长期用药风险，避免与QT药共用",
+      "cuidadosEnfermagem": "关注视觉变化、低血糖、心律不齐",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Belinostate",
+      "suspension": "Suspender 5 a 7 dias antes da cirurgia eletiva",
+      "risk": "Imunossupressão e risco de mielotoxicidade perioperatória; potencial hepatotoxicidade e risco de sangramento",
+      "reintroduction": "Reintroduzir após recuperação hematológica e hepática, geralmente 1 a 2 semanas após o procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Belinostate",
+      "nomeComercial": "Beleodaq",
+      "mecanismoAcao": "Inibidor de histona desacetilase (HDAC) classe I e II, promovendo transcrição gênica, diferenciação e apoptose de células tumorais",
+      "farmacocinetica": "Administração IV, meia-vida de ~1h, metabolismo hepático (UGT1A1), excreção urinária",
+      "farmacodinamica": "Induz parada do ciclo celular e apoptose em células malignas hematológicas",
+      "indicacoes": "Tratamento de linfoma de células T periféricas (PTCL) recidivado ou refratário",
+      "reacoesAdversas": "Náusea, fadiga, anemia, trombocitopenia, elevação de transaminases, infecção, febre",
+      "riscoGravidez": "Categoria D – risco fetal conhecido",
+      "riscoLactacao": "Contraindicado; suspender amamentação",
+      "administracao": "Infusão intravenosa durante 30 minutos",
+      "doseMaxima": "1000 mg/m² por dia",
+      "doseMinima": "Reduzir em toxicidade grau ≥3",
+      "classificacao": "Antineoplásico – inibidor de HDAC",
+      "apresentacao": "Frasco de 500 mg de pó liofilizado",
+      "interacaoMedicamento": "Metabolizado por UGT1A1 – atenção a interações com irinotecano e outros substratos",
+      "posologia": "1000 mg/m² IV dias 1–5 a cada 21 dias",
+      "armazenamento": "Refrigerado (2–8°C), solução reconstituída por até 12 horas",
+      "preparo": "Diluir em 250 mL de solução de cloreto de sódio 0,9%",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Gravidez, insuficiência hepática grave, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática, sinais de infecção",
+      "cuidadosFarmaceuticos": "Verificar integridade do frasco, realizar reconstituição asséptica",
+      "cuidadosEnfermagem": "Monitorar reações infusionais e sinais de toxicidade hematológica",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate, NCCN Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Belinostat",
+      "suspension": "Discontinue 5–7 days prior to elective surgery",
+      "risk": "Risk of immunosuppression, hematologic toxicity, liver injury and bleeding",
+      "reintroduction": "Restart after hematologic and hepatic recovery, typically 1–2 weeks post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Belinostat",
+      "nomeComercial": "Beleodaq",
+      "mecanismoAcao": "HDAC inhibitor (Class I/II), induces gene expression, tumor cell differentiation and apoptosis",
+      "farmacocinetica": "IV, half-life ~1 hour, hepatic metabolism via UGT1A1, urinary excretion",
+      "farmacodinamica": "Causes cell cycle arrest and apoptosis in hematologic cancers",
+      "indicacoes": "Treatment of relapsed/refractory peripheral T-cell lymphoma (PTCL)",
+      "reacoesAdversas": "Nausea, fatigue, anemia, thrombocytopenia, ALT/AST elevation, infection, fever",
+      "riscoGravidez": "Category D – fetal risk",
+      "riscoLactacao": "Contraindicated; discontinue breastfeeding",
+      "administracao": "IV infusion over 30 minutes",
+      "doseMaxima": "1000 mg/m²/day",
+      "doseMinima": "Dose reduction required for grade ≥3 toxicity",
+      "classificacao": "Antineoplastic – HDAC inhibitor",
+      "apresentacao": "500 mg lyophilized vial",
+      "interacaoMedicamento": "UGT1A1 metabolism – caution with irinotecan, zidovudine",
+      "posologia": "1000 mg/m² IV on days 1–5 of a 21-day cycle",
+      "armazenamento": "2–8°C; reconstituted solution stable up to 12h",
+      "preparo": "Dilute in 250 mL 0.9% NaCl",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Pregnancy, severe hepatic impairment, hypersensitivity",
+      "cuidadosMedicos": "Monitor CBC, liver enzymes, infection signs",
+      "cuidadosFarmaceuticos": "Check vial integrity, aseptic preparation",
+      "cuidadosEnfermagem": "Observe for infusion reactions and hematologic toxicities",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Belinostat",
+      "suspension": "Suspender 5–7 días antes de cirugía electiva",
+      "risk": "Inmunosupresión, toxicidad hematológica y hepática, riesgo de hemorragia",
+      "reintroduction": "Reintroducir tras recuperación hematológica y hepática (~1–2 semanas)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Belinostat",
+      "nomeComercial": "Beleodaq",
+      "mecanismoAcao": "Inhibidor de HDAC (clase I/II), induce expresión génica, diferenciación celular y apoptosis",
+      "farmacocinetica": "IV, vida media ~1h, metabolismo hepático (UGT1A1), excreción urinaria",
+      "farmacodinamica": "Induce arresto del ciclo celular y apoptosis en neoplasias hematológicas",
+      "indicacoes": "Linfoma de células T periféricas (PTCL) recidivante/refractario",
+      "reacoesAdversas": "Náuseas, fatiga, anemia, trombocitopenia, elevación hepática, fiebre",
+      "riscoGravidez": "Categoría D – riesgo fetal",
+      "riscoLactacao": "Contraindicado; suspender lactancia",
+      "administracao": "Infusión IV de 30 minutos",
+      "doseMaxima": "1000 mg/m²/día",
+      "doseMinima": "Reducir si toxicidad grado ≥3",
+      "classificacao": "Antineoplásico – inhibidor de HDAC",
+      "apresentacao": "Vial de 500 mg (liofilizado)",
+      "interacaoMedicamento": "UGT1A1 – precaución con irinotecán, zidovudina",
+      "posologia": "1000 mg/m² días 1–5, cada 21 días",
+      "armazenamento": "2–8°C; usar solución en 12h",
+      "preparo": "Diluir en 250 mL de NaCl 0,9%",
+      "solucoesCompatíveis": "ClNa 0,9%",
+      "contraindicacoes": "Embarazo, hepatopatía grave, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear hemograma, hepatotoxicidad, infecciones",
+      "cuidadosFarmaceuticos": "Verificar vial y realizar preparación aséptica",
+      "cuidadosEnfermagem": "Vigilar toxicidad hematológica e infusión",
+      "fontesBibliograficas": "EMA, FDA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "贝利诺司他",
+      "suspension": "择期手术前5–7天停药",
+      "risk": "免疫抑制、骨髓抑制、肝毒性与出血风险",
+      "reintroduction": "术后1–2周，血液与肝功能恢复后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "贝利诺司他",
+      "nomeComercial": "Beleodaq",
+      "mecanismoAcao": "I类和II类组蛋白脱乙酰酶抑制剂，诱导基因表达和细胞凋亡",
+      "farmacocinetica": "静脉注射，半衰期约1小时，肝脏代谢（UGT1A1），尿液排泄",
+      "farmacodinamica": "抑制细胞周期并促进肿瘤细胞凋亡",
+      "indicacoes": "复发或难治性外周T细胞淋巴瘤（PTCL）",
+      "reacoesAdversas": "恶心、乏力、贫血、血小板减少、转氨酶升高、感染、发热",
+      "riscoGravidez": "D类 – 明确胎儿风险",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉滴注30分钟",
+      "doseMaxima": "每日1000 mg/m²",
+      "doseMinima": "≥3级毒性需减量",
+      "classificacao": "抗肿瘤药 – HDAC抑制剂",
+      "apresentacao": "500毫克冻干粉针剂",
+      "interacaoMedicamento": "通过UGT1A1代谢 – 注意与伊立替康、齐多夫定合用",
+      "posologia": "每21天周期中第1–5天，1000 mg/m²静注",
+      "armazenamento": "2–8°C冷藏，稀释后12小时内使用",
+      "preparo": "250 mL 0.9%氯化钠稀释，静注30分钟",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "妊娠、严重肝病、过敏",
+      "cuidadosMedicos": "监测血象、肝功能、感染症状",
+      "cuidadosFarmaceuticos": "检查药瓶完整性，无菌配置",
+      "cuidadosEnfermagem": "监测毒性、输注反应，教育患者不适症状",
+      "fontesBibliograficas": "中国药典, FDA, UpToDate, Micromedex"
+    }
+  }
+}

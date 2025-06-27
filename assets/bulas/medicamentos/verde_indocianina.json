@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Verde de Indocianina",
+      "suspension": "Suspender 24 horas antes se for cirurgia com circulação extracorpórea ou risco de reação alérgica",
+      "risk": "Risco de reação anafilática, especialmente em alérgicos a iodo; pode interferir em oxímetros e exames de imagem",
+      "reintroduction": "Reintroduzir com avaliação médica após cirurgia, se necessário para exames vasculares"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Verde de Indocianina",
+      "nomeComercial": "IC-Green, Verdye, ICG-Pulsion",
+      "mecanismoAcao": "Corante fluorescente que se liga à albumina plasmática e permite visualização de vasos por infravermelho próximo",
+      "farmacocinetica": "Administração intravenosa, início de ação imediato, meia-vida curta (~3–4 minutos), excreção hepática",
+      "farmacodinamica": "Permite angiografia e análise hemodinâmica por imagem óptica de tecidos",
+      "indicacoes": "Angiografia retiniana, estudo de perfusão hepática, avaliação de colangiofluorescência, microcirculação",
+      "reacoesAdversas": "Náusea, rubor, urticária, anafilaxia, interferência em oximetria de pulso",
+      "riscoGravidez": "Categoria C (usar com cautela)",
+      "riscoLactacao": "Desconhece-se excreção no leite materno",
+      "administracao": "Via intravenosa",
+      "doseMaxima": "0,5 mg/kg por dose",
+      "doseMinima": "0,1 mg/kg por dose",
+      "classificacao": "Agente diagnóstico fluorescente",
+      "apresentacao": "Pó liofilizado para reconstituição (25mg/vial)",
+      "interacaoMedicamento": "Pode interferir com leitura de oxímetros de pulso, cuidado com contraste iodado",
+      "posologia": "Dose única EV em bolus, ajustada pelo peso e tipo de exame",
+      "armazenamento": "Conservar frascos a 15–25°C; solução reconstituída usar imediatamente",
+      "preparo": "Reconstituir com água estéril para injeção, agitar suavemente",
+      "solucoesCompatíveis": "Água estéril, SF 0,9%",
+      "contraindicacoes": "Alergia a iodo, disfunção hepática grave, hipersensibilidade prévia",
+      "cuidadosMedicos": "Ter suporte avançado em caso de anafilaxia; monitorar sinais vitais e saturação",
+      "cuidadosFarmaceuticos": "Evitar uso concomitante com contraste iodado; verificar preparo correto",
+      "cuidadosEnfermagem": "Preparar acesso venoso seguro; observar reações adversas durante e após administração",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Indocyanine Green",
+      "suspension": "Suspend 24h before surgery involving bypass or risk of allergic reaction",
+      "risk": "Risk of anaphylaxis, especially in iodine allergy; interferes with pulse oximeters and imaging",
+      "reintroduction": "Reintroduce after clinical evaluation, if needed for vascular imaging"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Indocyanine Green",
+      "nomeComercial": "IC-Green, Verdye, ICG-Pulsion",
+      "mecanismoAcao": "Fluorescent dye binding to plasma proteins, visible under near-infrared light",
+      "farmacocinetica": "IV administration, immediate onset, half-life ~3–4 minutes, hepatic excretion",
+      "farmacodinamica": "Enables vascular and tissue imaging via optical fluorescence",
+      "indicacoes": "Retinal angiography, hepatic perfusion, cholangiography, microcirculation analysis",
+      "reacoesAdversas": "Nausea, flushing, urticaria, anaphylaxis, pulse oximetry interference",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown if excreted in breast milk",
+      "administracao": "Intravenous route",
+      "doseMaxima": "0.5 mg/kg per dose",
+      "doseMinima": "0.1 mg/kg per dose",
+      "classificacao": "Diagnostic fluorescent agent",
+      "apresentacao": "Lyophilized powder for reconstitution (25mg/vial)",
+      "interacaoMedicamento": "Interferes with oximetry; caution with iodine-containing agents",
+      "posologia": "Single IV bolus dose, adjusted by weight and procedure",
+      "armazenamento": "Store vials at 59–77°F; use reconstituted solution immediately",
+      "preparo": "Reconstitute with sterile water for injection, shake gently",
+      "solucoesCompatíveis": "Sterile water, normal saline",
+      "contraindicacoes": "Iodine allergy, severe hepatic dysfunction, prior hypersensitivity",
+      "cuidadosMedicos": "Have emergency support for anaphylaxis; monitor vitals",
+      "cuidadosFarmaceuticos": "Avoid concurrent use with iodinated contrast; ensure correct reconstitution",
+      "cuidadosEnfermagem": "Secure IV access; monitor for adverse reactions",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Verde de Indocianina",
+      "suspension": "Suspender 24 h antes en cirugías de alto riesgo alérgico",
+      "risk": "Riesgo de anafilaxia, especialmente en alérgicos al yodo; interfiere con pulsioxímetros",
+      "reintroduction": "Reintroducir si es necesario para exámenes, bajo supervisión médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Verde de Indocianina",
+      "nomeComercial": "IC-Green, Verdye, ICG-Pulsion",
+      "mecanismoAcao": "Colorante fluorescente que se une a proteínas plasmáticas, visualizable por infrarrojo cercano",
+      "farmacocinetica": "Administración IV, acción inmediata, vida media corta (~3–4 min), excreción hepática",
+      "farmacodinamica": "Permite estudios angiográficos y de perfusión tisular por fluorescencia óptica",
+      "indicacoes": "Angiografía retiniana, perfusión hepática, colangiografía, microcirculación",
+      "reacoesAdversas": "Náuseas, rubor, urticaria, anafilaxia, interferencia en oximetría",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce si se excreta en la leche",
+      "administracao": "Vía intravenosa",
+      "doseMaxima": "0,5 mg/kg por dosis",
+      "doseMinima": "0,1 mg/kg por dosis",
+      "classificacao": "Agente diagnóstico fluorescente",
+      "apresentacao": "Polvo liofilizado 25 mg/frasco",
+      "interacaoMedicamento": "Interfiere con oximetría; precaución con contraste yodado",
+      "posologia": "Dosis única IV ajustada al peso y tipo de examen",
+      "armazenamento": "15–25°C; usar la solución reconstituida de inmediato",
+      "preparo": "Reconstituir con agua estéril, agitar suavemente",
+      "solucoesCompatíveis": "Agua estéril, suero fisiológico",
+      "contraindicacoes": "Alergia al yodo, disfunción hepática grave, hipersensibilidad previa",
+      "cuidadosMedicos": "Contar con soporte para anafilaxia; monitorizar constantes",
+      "cuidadosFarmaceuticos": "Evitar uso junto a contraste yodado; verificar reconstitución",
+      "cuidadosEnfermagem": "Acceso venoso seguro, vigilar efectos adversos",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "吲哚菁绿",
+      "suspension": "术前24小时停用，特别是体外循环或高过敏风险者",
+      "risk": "可能引发过敏反应，干扰脉搏血氧仪与影像检查",
+      "reintroduction": "如需术后检查，可在医生评估后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "吲哚菁绿",
+      "nomeComercial": "IC-Green, Verdye, ICG-Pulsion",
+      "mecanismoAcao": "荧光染料与血浆蛋白结合，可在近红外下成像",
+      "farmacocinetica": "静脉注射，起效快，半衰期约3–4分钟，经肝脏代谢",
+      "farmacodinamica": "用于血管及组织灌注成像",
+      "indicacoes": "视网膜血管造影、肝脏灌注、胆道造影、微循环评估",
+      "reacoesAdversas": "恶心、潮红、荨麻疹、过敏反应、脉搏血氧仪干扰",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否经乳汁排泄未知",
+      "administracao": "静脉注射",
+      "doseMaxima": "每次最高0.5 mg/kg",
+      "doseMinima": "每次最低0.1 mg/kg",
+      "classificacao": "诊断用荧光试剂",
+      "apresentacao": "25mg 冻干粉剂小瓶装",
+      "interacaoMedicamento": "干扰血氧仪读数，与含碘造影剂慎用",
+      "posologia": "单次静脉推注，根据体重与检查种类调整",
+      "armazenamento": "15–25°C，重溶后立即使用",
+      "preparo": "用无菌注射用水溶解，轻轻摇匀",
+      "solucoesCompatíveis": "无菌水，0.9%生理盐水",
+      "contraindicacoes": "碘过敏、严重肝功能障碍、有过敏史者",
+      "cuidadosMedicos": "准备抢救措施，监测生命体征与过敏反应",
+      "cuidadosFarmaceuticos": "避免与碘造影剂同时使用，确保正确配制",
+      "cuidadosEnfermagem": "建立静脉通路，密切观察不良反应",
+      "fontesBibliograficas": "中国药典，FDA，EMA，Micromedex"
+    }
+  }
+}

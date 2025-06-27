@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Acenocumarol",
+      "suspension": "Suspender 5 dias antes da cirurgia, com INR monitorado",
+      "risk": "Risco de sangramento perioperatório grave; necessidade de ponte com heparina em pacientes de alto risco tromboembólico",
+      "reintroduction": "Reintroduzir 12–24h após procedimento com hemostasia adequada e avaliação do risco trombótico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acenocumarol",
+      "nomeComercial": "Sintrom, Neosintrom",
+      "mecanismoAcao": "Inibe a enzima epóxido redutase, interferindo na reciclagem da vitamina K e na síntese dos fatores de coagulação II, VII, IX e X",
+      "farmacocinetica": "Boa absorção oral, início de ação em 24–48h, meia-vida de 8–11h, metabolização hepática (CYP2C9)",
+      "farmacodinamica": "Anticoagulante oral antagonista da vitamina K; prolonga o tempo de protrombina (INR)",
+      "indicacoes": "Profilaxia e tratamento de trombose venosa profunda, embolia pulmonar e prevenção de eventos tromboembólicos em fibrilação atrial e próteses valvulares",
+      "reacoesAdversas": "Sangramentos, púrpura, alopecia, necrose cutânea, hepatotoxicidade, trombocitopenia",
+      "riscoGravidez": "Categoria X – contraindicado na gestação",
+      "riscoLactacao": "Pode ser usado com cautela durante a lactação",
+      "administracao": "Via oral",
+      "doseMaxima": "Dose ajustada para manter INR terapêutico (geralmente entre 2,0–3,0)",
+      "doseMinima": "Dose individualizada, com titulação baseada em INR",
+      "classificacao": "Anticoagulante oral – antagonista da vitamina K",
+      "apresentacao": "Comprimidos de 1 mg e 4 mg",
+      "interacaoMedicamento": "Interage com AINEs, antibióticos, amiodarona, anticonvulsivantes, fitoterápicos (ex: ginkgo)",
+      "posologia": "Individualizada com base no INR, geralmente 1–8 mg/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, sangramentos ativos, hipertensão grave não controlada, distúrbios hematológicos",
+      "cuidadosMedicos": "Monitorar INR regularmente, ajustar dose conforme risco tromboembólico e hemorrágico",
+      "cuidadosFarmaceuticos": "Orientar quanto à adesão, interações medicamentosas e sinais de sangramento",
+      "cuidadosEnfermagem": "Observar sinais de sangramento, realizar controle de INR e administrar com horário fixo",
+      "fontesBibliograficas": "ANVISA, EMA, Micromedex, SBH, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Acenocoumarol",
+      "suspension": "Discontinue 5 days before surgery, monitor INR",
+      "risk": "High risk of perioperative bleeding; bridging with heparin may be needed in high thromboembolic risk patients",
+      "reintroduction": "Restart 12–24h post-op if hemostasis achieved and thrombotic risk assessed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acenocoumarol",
+      "nomeComercial": "Sintrom, Neosintrom",
+      "mecanismoAcao": "Inhibits vitamin K epoxide reductase, reducing synthesis of clotting factors II, VII, IX, X",
+      "farmacocinetica": "Well absorbed orally, onset in 24–48h, half-life 8–11h, hepatic metabolism (CYP2C9)",
+      "farmacodinamica": "Vitamin K antagonist anticoagulant, prolongs prothrombin time (INR)",
+      "indicacoes": "Prevention and treatment of DVT, PE, and thromboembolism in AF or prosthetic valves",
+      "reacoesAdversas": "Bleeding, purpura, alopecia, skin necrosis, hepatotoxicity, thrombocytopenia",
+      "riscoGravidez": "Category X – contraindicated in pregnancy",
+      "riscoLactacao": "May be used with caution during breastfeeding",
+      "administracao": "Oral route",
+      "doseMaxima": "Titrated to achieve therapeutic INR (usually 2.0–3.0)",
+      "doseMinima": "Individualized dose based on INR monitoring",
+      "classificacao": "Oral anticoagulant – vitamin K antagonist",
+      "apresentacao": "Tablets of 1 mg and 4 mg",
+      "interacaoMedicamento": "Interacts with NSAIDs, antibiotics, amiodarone, anticonvulsants, herbal products (e.g., ginkgo)",
+      "posologia": "Individualized; typically 1–8 mg/day based on INR",
+      "armazenamento": "Store at 15–30°C, protect from light and moisture",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, active bleeding, uncontrolled hypertension, hematologic disorders",
+      "cuidadosMedicos": "Monitor INR regularly, adjust dose according to thrombotic/bleeding risk",
+      "cuidadosFarmaceuticos": "Counsel on adherence, drug interactions, bleeding signs",
+      "cuidadosEnfermagem": "Observe for bleeding, monitor INR, administer at fixed times",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Acenocumarol",
+      "suspension": "Suspender 5 días antes de la cirugía, monitorizar INR",
+      "risk": "Alto riesgo de sangrado perioperatorio; puede requerir puente con heparina en pacientes de alto riesgo tromboembólico",
+      "reintroduction": "Reintroducir 12–24h después del procedimiento si hay hemostasia adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acenocumarol",
+      "nomeComercial": "Sintrom, Neosintrom",
+      "mecanismoAcao": "Inhibe la reductasa de epóxido de vitamina K, afectando la síntesis de factores II, VII, IX, X",
+      "farmacocinetica": "Buena absorción oral, inicio en 24–48h, vida media 8–11h, metabolismo hepático (CYP2C9)",
+      "farmacodinamica": "Anticoagulante oral antagonista de la vitamina K; prolonga el tiempo de protrombina (INR)",
+      "indicacoes": "Prevención y tratamiento de trombosis venosa profunda, embolia pulmonar, fibrilación auricular y válvulas protésicas",
+      "reacoesAdversas": "Sangrados, púrpura, alopecia, necrosis cutánea, hepatotoxicidad, trombocitopenia",
+      "riscoGravidez": "Categoría X – contraindicado en embarazo",
+      "riscoLactacao": "Puede usarse con precaución durante la lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "Dosis ajustada para mantener INR terapéutico (2,0–3,0)",
+      "doseMinima": "Dosis individualizada según INR",
+      "classificacao": "Anticoagulante oral – antagonista de la vitamina K",
+      "apresentacao": "Comprimidos de 1 mg y 4 mg",
+      "interacaoMedicamento": "Interacciones con AINEs, antibióticos, amiodarona, anticonvulsivos, fitoterapia (ginkgo)",
+      "posologia": "Individualizada; generalmente 1–8 mg/día según INR",
+      "armazenamento": "15–30°C, protegido de luz y humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, sangrado activo, hipertensión no controlada, trastornos hematológicos",
+      "cuidadosMedicos": "Monitorear INR, ajustar dosis según riesgo trombótico y hemorrágico",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia, interacciones y signos de sangrado",
+      "cuidadosEnfermagem": "Observar signos de sangrado, controlar INR, administrar en horario fijo",
+      "fontesBibliograficas": "EMA, AEMPS, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乙酰香豆素",
+      "suspension": "术前5天停药，监测INR",
+      "risk": "术中出血风险高；高风险血栓患者可能需肝素桥接",
+      "reintroduction": "术后12–24小时在止血充分情况下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乙酰香豆素",
+      "nomeComercial": "Sintrom, Neosintrom",
+      "mecanismoAcao": "抑制维生素K环氧化酶，减少凝血因子II、VII、IX、X的合成",
+      "farmacocinetica": "口服吸收良好，起效24–48小时，半衰期8–11小时，肝脏代谢（CYP2C9）",
+      "farmacodinamica": "维生素K拮抗剂，延长凝血酶原时间（INR）",
+      "indicacoes": "预防和治疗深静脉血栓、肺栓塞、房颤或机械瓣膜相关的血栓事件",
+      "reacoesAdversas": "出血、紫癜、脱发、皮肤坏死、肝毒性、血小板减少",
+      "riscoGravidez": "X类 – 妊娠禁用",
+      "riscoLactacao": "哺乳期可慎用",
+      "administracao": "口服",
+      "doseMaxima": "根据INR维持治疗范围（通常2.0–3.0）",
+      "doseMinima": "依据INR个体化剂量",
+      "classificacao": "口服抗凝药 – 维生素K拮抗剂",
+      "apresentacao": "1 mg 和 4 mg 片剂",
+      "interacaoMedicamento": "与NSAIDs、抗生素、胺碘酮、抗癫痫药、中药如银杏相互作用",
+      "posologia": "个体化；通常为1–8 mg/天，依据INR调整",
+      "armazenamento": "15–30°C，避光避潮",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、活动性出血、未控制的高血压、血液病",
+      "cuidadosMedicos": "定期监测INR，依据风险调整剂量",
+      "cuidadosFarmaceuticos": "指导患者依从性、警惕药物相互作用与出血表现",
+      "cuidadosEnfermagem": "观察出血迹象，监测INR，固定时间给药",
+      "fontesBibliograficas": "EMA, Micromedex, UpToDate, 中国药典"
+    }
+  }
+}

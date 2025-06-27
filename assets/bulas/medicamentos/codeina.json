@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Codeína",
+      "suspension": "Suspender 24h antes da cirurgia eletiva se uso crônico; evitar em crianças e pacientes com risco de depressão respiratória",
+      "risk": "Depressão respiratória, sedação, náusea, constipação, metabolismo variável (CYP2D6) com risco de superexposição ou falha terapêutica",
+      "reintroduction": "Reintroduzir no pós-operatório apenas se necessário, com ajuste de dose e vigilância respiratória, especialmente em lactantes e idosos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosfato de Codeína",
+      "nomeComercial": "Codaten, Tylex, Codex, Codein, Codoran, Belacodid",
+      "mecanismoAcao": "Pró-fármaco convertido parcialmente em morfina (via CYP2D6); agonista µ-opioide fraco, com ação antitussígena e analgésica",
+      "farmacocinetica": "Biodisponibilidade oral ~50%; pico: 1–2h; meia-vida ~3h; metabolizado no fígado; excreção renal",
+      "farmacodinamica": "Analgésico de baixa potência e antitussígeno; efeito dependente do metabolismo hepático (polimorfismo genético influencia eficácia e toxicidade)",
+      "indicacoes": "Dor leve a moderada, tosse seca, analgesia associada a paracetamol ou AINEs",
+      "reacoesAdversas": "Sonolência, náusea, vômito, constipação, tontura, euforia, prurido, retenção urinária, depressão respiratória (em metabolizadores ultrarrápidos)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar; pode causar toxicidade no lactente se mãe for metabolizadora ultrarrápida",
+      "administracao": "Oral",
+      "doseMaxima": "240mg/dia (isolada); 60mg/dose cada 4–6h",
+      "doseMinima": "15–30mg por dose",
+      "classificacao": "Opioide fraco (pró-fármaco da morfina); antitussígeno e analgésico",
+      "apresentacao": "Comprimidos, cápsulas, solução oral, combinada com paracetamol ou AINEs",
+      "interacaoMedicamento": "Depressores do SNC, álcool, inibidores/indutores do CYP2D6, antidepressivos tricíclicos, antipsicóticos",
+      "posologia": "Analgésico: 30–60mg VO cada 4–6h; antitussígeno: 10–20mg VO cada 4–6h",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Administrar com água; soluções devem ser medidas com seringa dosadora",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Crianças <12 anos, lactação, uso com inibidores da MAO, alergia à codeína",
+      "cuidadosMedicos": "Avaliar risco metabólico (CYP2D6), evitar em gestantes/lactantes, monitorar ventilação e resposta clínica",
+      "cuidadosFarmaceuticos": "Evitar combinações duplicadas de opioides, orientar risco em lactantes e evitar uso prolongado",
+      "cuidadosEnfermagem": "Observar FR, sonolência, padrão de tosse, retenção urinária e constipação",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, Lexicomp, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Codeine",
+      "suspension": "Discontinue 24h before elective surgery if on chronic use; avoid in children and patients at risk of respiratory depression",
+      "risk": "Respiratory depression, sedation, CYP2D6-related variability (ultrarapid metabolizers at risk for toxicity)",
+      "reintroduction": "Restart cautiously post-op with respiratory monitoring and dose adjustment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Codeine Phosphate",
+      "nomeComercial": "Tylenol with Codeine, Codar, Robitussin AC, Tuzistra XR",
+      "mecanismoAcao": "Prodrug converted to morphine via CYP2D6; weak µ-opioid receptor agonist with antitussive and analgesic effects",
+      "farmacocinetica": "Oral bioavailability ~50%; peak: 1–2h; half-life ~3h; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Used for mild-to-moderate pain and cough suppression; effectiveness depends on CYP2D6 metabolism",
+      "indicacoes": "Mild-to-moderate pain, dry cough, combination therapy with acetaminophen or NSAIDs",
+      "reacoesAdversas": "Drowsiness, nausea, vomiting, constipation, dizziness, pruritus, urinary retention, respiratory depression (esp. ultrarapid metabolizers)",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid; serious risk to infant in ultrarapid metabolizing mothers",
+      "administracao": "Oral",
+      "doseMaxima": "240mg/day; max single dose: 60mg q4–6h",
+      "doseMinima": "15–30mg/dose",
+      "classificacao": "Weak opioid (prodrug of morphine); analgesic and antitussive",
+      "apresentacao": "Tablets, capsules, oral solution, combinations with acetaminophen/NSAIDs",
+      "interacaoMedicamento": "CNS depressants, alcohol, CYP2D6 inhibitors/inducers, antidepressants, antipsychotics",
+      "posologia": "Pain: 30–60mg PO q4–6h; cough: 10–20mg PO q4–6h",
+      "armazenamento": "Room temperature, protect from moisture",
+      "preparo": "Administer with water; use oral syringe for liquid doses",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Children <12y, breastfeeding, MAOI use, hypersensitivity",
+      "cuidadosMedicos": "Avoid in pediatric and lactating patients, monitor RR and effectiveness",
+      "cuidadosFarmaceuticos": "Counsel on metabolism variability, avoid prolonged use or combinations",
+      "cuidadosEnfermagem": "Monitor RR, sedation, bowel function, cough response",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, AAP"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Codeína",
+      "suspension": "Suspender 24h antes de cirugía electiva si uso crónico; evitar en niños y pacientes con riesgo de depresión respiratoria",
+      "risk": "Depresión respiratoria, sedación, metabolismo variable por CYP2D6 (riesgo de toxicidad en metabolizadores ultrarrápidos)",
+      "reintroduction": "Reintroducir en el postoperatorio con ajuste de dosis y vigilancia respiratoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosfato de Codeína",
+      "nomeComercial": "Codeisán, Toseína, Tylex, Paracodina",
+      "mecanismoAcao": "Pró-fármaco que se convierte parcialmente en morfina (CYP2D6); agonista µ-opioide débil y antitusígeno",
+      "farmacocinetica": "Biodisponibilidad oral ~50%; pico: 1–2h; vida media ~3h; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Uso en dolor leve a moderado y tos seca; eficacia depende de metabolismo hepático",
+      "indicacoes": "Dolor leve a moderado, tos seca, formulaciones combinadas con paracetamol o AINEs",
+      "reacoesAdversas": "Somnolencia, náuseas, vómitos, estreñimiento, mareo, euforia, prurito, retención urinaria, depresión respiratoria (en metabolizadores ultrarrápidos)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar; puede provocar toxicidad en lactantes si la madre es metabolizadora ultrarrápida",
+      "administracao": "Vía oral",
+      "doseMaxima": "240mg/día; dosis única: 60mg cada 4–6h",
+      "doseMinima": "15–30mg por toma",
+      "classificacao": "Opioide débil (pró-fármaco de morfina); analgésico y antitusígeno",
+      "apresentacao": "Comprimidos, cápsulas, solución oral, combinaciones con AINEs/paracetamol",
+      "interacaoMedicamento": "Depresores del SNC, alcohol, inhibidores/inductores del CYP2D6, antidepresivos, antipsicóticos",
+      "posologia": "Dolor: 30–60mg VO cada 4–6h; tos: 10–20mg VO cada 4–6h",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "Administrar con agua; soluciones deben medirse con jeringa oral",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Niños <12 años, lactancia, uso con IMAO, hipersensibilidad",
+      "cuidadosMedicos": "Evitar en pediatría y lactancia, vigilar respuesta y efectos adversos",
+      "cuidadosFarmaceuticos": "Advertir sobre variabilidad metabólica y riesgo de uso prolongado",
+      "cuidadosEnfermagem": "Observar FR, sedación, función intestinal y eficacia antitusiva",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "可待因",
+      "suspension": "慢性使用者术前24小时停药；儿童与呼吸抑制高风险人群禁用",
+      "risk": "呼吸抑制、镇静、CYP2D6代谢差异导致毒性或疗效不足",
+      "reintroduction": "术后如有需要可重新使用，须监测呼吸和剂量调整"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磷酸可待因",
+      "nomeComercial": "可待因片、复方止咳糖浆、Tylex, Codorin",
+      "mecanismoAcao": "为吗啡前药，经CYP2D6部分转化为活性成分；µ阿片受体激动剂，具镇痛与镇咳作用",
+      "farmacocinetica": "口服生物利用度约50%；达峰1–2小时；半衰期约3小时；肝代谢，肾排泄",
+      "farmacodinamica": "适用于轻中度疼痛及干咳；疗效依赖代谢个体差异",
+      "indicacoes": "轻中度疼痛、干咳，常与对乙酰氨基酚或NSAIDs联用",
+      "reacoesAdversas": "嗜睡、恶心、呕吐、便秘、瘙痒、欣快、尿潴留、呼吸抑制（超快代谢者）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "代谢快母乳者禁用，可能导致婴儿呼吸抑制",
+      "administracao": "口服",
+      "doseMaxima": "每日240mg；每次不超过60mg，每4–6小时一次",
+      "doseMinima": "每次15–30mg",
+      "classificacao": "弱效阿片类；吗啡前体，具镇痛与镇咳作用",
+      "apresentacao": "片剂、胶囊、口服液，常与解热镇痛药联用",
+      "interacaoMedicamento": "CNS抑制剂、酒精、CYP2D6抑制剂/诱导剂、抗抑郁药、抗精神病药",
+      "posologia": "镇痛：30–60mg，每4–6小时；镇咳：10–20mg，每4–6小时",
+      "armazenamento": "室温，防潮避光",
+      "preparo": "配液需使用定量器具",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "12岁以下儿童、哺乳期、MAOI联用史、过敏",
+      "cuidadosMedicos": "监测代谢差异风险、呼吸情况、意识状态",
+      "cuidadosFarmaceuticos": "说明个体化代谢差异风险，避免长期联合其他阿片类",
+      "cuidadosEnfermagem": "观察呼吸、镇静、排便排尿、止咳效果",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

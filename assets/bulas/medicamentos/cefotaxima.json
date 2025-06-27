@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cefotaxima",
+      "suspension": "Não suspender; pode ser mantida no perioperatório conforme indicação infecciosa",
+      "risk": "Potencial de reação alérgica, diarreia, disbiose e resistência bacteriana",
+      "reintroduction": "Pode ser reintroduzida intra ou pós-operatório imediato se clinicamente indicada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefotaxima sódica",
+      "nomeComercial": "Claforan",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana ligando-se às PBPs",
+      "farmacocinetica": "Meia-vida ~1h, ampla distribuição, penetra bem no LCR, eliminação renal",
+      "farmacodinamica": "Bactericida com amplo espectro contra Gram-positivos e Gram-negativos, incluindo Enterobacteriaceae",
+      "indicacoes": "Infecções graves: meningite, sepse, ITU complicadas, pneumonia hospitalar, infecções ginecológicas e abdominais",
+      "reacoesAdversas": "Diarreia, náusea, rash, eosinofilia, elevação de transaminases, flebite",
+      "riscoGravidez": "Categoria B; seguro na maioria dos casos",
+      "riscoLactacao": "Excretado em pequenas quantidades no leite; geralmente seguro",
+      "administracao": "Intravenosa ou intramuscular",
+      "doseMaxima": "12 g/dia",
+      "doseMinima": "1 g a cada 8 horas",
+      "classificacao": "Cefalosporina de terceira geração",
+      "apresentacao": "Pó para solução injetável: 500 mg, 1 g, 2 g",
+      "interacaoMedicamento": "Potencializa toxicidade com aminoglicosídeos; antagonismo com bacteriostáticos",
+      "posologia": "1–2 g IV a cada 6–8h; ajustar em insuficiência renal",
+      "armazenamento": "Frasco seco: temperatura ambiente; solução: refrigerar e usar em até 24h",
+      "preparo": "Reconstituir com água para injeção ou SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a cefalosporinas; uso com precaução em pacientes com histórico de colite",
+      "cuidadosMedicos": "Avaliar sinais de superinfecção, função renal e hepática",
+      "cuidadosFarmaceuticos": "Verificar estabilidade após reconstituição",
+      "cuidadosEnfermagem": "Observar sinais de reação alérgica e local de infusão",
+      "fontesBibliograficas": "FDA, ANVISA, UpToDate, Micromedex, SBAC"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cefotaxime",
+      "suspension": "Do not suspend; commonly used perioperatively if clinically indicated",
+      "risk": "Risk of allergic reaction, GI upset, superinfection, and antimicrobial resistance",
+      "reintroduction": "May be continued intra- or postoperatively if needed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefotaxime sodium",
+      "nomeComercial": "Claforan",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis via PBP binding",
+      "farmacocinetica": "Half-life ~1h, good CSF penetration, renal excretion",
+      "farmacodinamica": "Broad-spectrum bactericidal activity against Gram-positive and Gram-negative bacteria",
+      "indicacoes": "Severe infections: meningitis, sepsis, complicated UTIs, nosocomial pneumonia, abdominal infections",
+      "reacoesAdversas": "Diarrhea, rash, nausea, transaminase elevation, phlebitis",
+      "riscoGravidez": "Category B; safe in most scenarios",
+      "riscoLactacao": "Low breast milk excretion; generally safe",
+      "administracao": "IV or IM",
+      "doseMaxima": "12 g/day",
+      "doseMinima": "1 g every 8h",
+      "classificacao": "Third-generation cephalosporin",
+      "apresentacao": "Injectable powder: 500 mg, 1 g, 2 g",
+      "interacaoMedicamento": "Increased nephrotoxicity with aminoglycosides; antagonism with bacteriostatics",
+      "posologia": "1–2 g IV every 6–8h; adjust in renal impairment",
+      "armazenamento": "Dry vial: room temp; reconstituted: refrigerate and use within 24h",
+      "preparo": "Reconstitute with sterile water or NS",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Cephalosporin allergy; caution in history of colitis",
+      "cuidadosMedicos": "Monitor for superinfection, renal and hepatic function",
+      "cuidadosFarmaceuticos": "Check reconstitution and stability",
+      "cuidadosEnfermagem": "Watch for allergic reactions, infusion site issues",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, CDC"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cefotaxima",
+      "suspension": "No suspender si está clínicamente indicada en el perioperatorio",
+      "risk": "Reacción alérgica, diarrea, sobreinfección, resistencia antimicrobiana",
+      "reintroduction": "Puede mantenerse intra o posoperatoriamente si se requiere"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cefotaxima sódica",
+      "nomeComercial": "Claforan",
+      "mecanismoAcao": "Inhibe la síntesis de la pared bacteriana uniéndose a PBPs",
+      "farmacocinetica": "Vida media ~1h, buena penetración LCR, eliminación renal",
+      "farmacodinamica": "Bactericida amplio espectro frente a Gram+ y Gram–",
+      "indicacoes": "Infecciones graves: meningitis, sepsis, ITU complicadas, neumonía, infecciones abdominales",
+      "reacoesAdversas": "Diarrea, exantema, náuseas, aumento de transaminasas, flebitis",
+      "riscoGravidez": "Categoría B; generalmente seguro",
+      "riscoLactacao": "Excreción baja; uso generalmente seguro",
+      "administracao": "IV o IM",
+      "doseMaxima": "12 g/día",
+      "doseMinima": "1 g cada 8h",
+      "classificacao": "Cefalosporina de tercera generación",
+      "apresentacao": "Polvo para inyección: 500 mg, 1 g, 2 g",
+      "interacaoMedicamento": "Mayor nefrotoxicidad con aminoglucósidos; antagonismo con bacteriostáticos",
+      "posologia": "1–2 g IV cada 6–8h; ajustar si hay disfunción renal",
+      "armazenamento": "Vial seco a temperatura ambiente; reconstituido refrigerar y usar en 24h",
+      "preparo": "Reconstituir con agua estéril o SF 0,9%",
+      "solucoesCompatíveis": "ClNa 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a cefalosporinas; precaución con antecedentes de colitis",
+      "cuidadosMedicos": "Monitorear sobreinfección, función renal y hepática",
+      "cuidadosFarmaceuticos": "Verificar estabilidad tras reconstitución",
+      "cuidadosEnfermagem": "Observar reacciones alérgicas y sitio de infusión",
+      "fontesBibliograficas": "FDA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "头孢噻肟",
+      "suspension": "如有感染指征，术前术后均可继续使用",
+      "risk": "过敏反应、腹泻、继发感染、抗药性发展风险",
+      "reintroduction": "术中或术后可继续使用，视临床需要决定"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "头孢噻肟钠",
+      "nomeComercial": "Claforan",
+      "mecanismoAcao": "与PBP结合抑制细菌细胞壁合成",
+      "farmacocinetica": "半衰期约1小时，可进入脑脊液，经肾排泄",
+      "farmacodinamica": "对多种革兰阳性和阴性菌有广谱杀菌作用",
+      "indicacoes": "严重感染：脑膜炎、败血症、复杂泌尿道感染、肺炎、腹腔感染等",
+      "reacoesAdversas": "腹泻、皮疹、恶心、转氨酶升高、静脉炎",
+      "riscoGravidez": "B类，一般认为安全",
+      "riscoLactacao": "少量分泌至乳汁，通常安全",
+      "administracao": "静脉或肌肉注射",
+      "doseMaxima": "每日12克",
+      "doseMinima": "每8小时1克",
+      "classificacao": "第三代头孢菌素",
+      "apresentacao": "注射用粉末：500毫克、1克、2克",
+      "interacaoMedicamento": "与氨基糖苷类联用可增肾毒性；与抑菌剂拮抗",
+      "posologia": "每6–8小时静注1–2克，肾功能不全者需调整",
+      "armazenamento": "干粉常温，复溶后冷藏并于24小时内用完",
+      "preparo": "用注射用水或生理盐水溶解",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对头孢类过敏者禁用；结肠炎史慎用",
+      "cuidadosMedicos": "监测继发感染、肾肝功能",
+      "cuidadosFarmaceuticos": "确认复溶稳定性与配伍",
+      "cuidadosEnfermagem": "注意过敏反应和注射部位",
+      "fontesBibliograficas": "FDA、Micromedex、UpToDate、中国药典"
+    }
+  }
+}

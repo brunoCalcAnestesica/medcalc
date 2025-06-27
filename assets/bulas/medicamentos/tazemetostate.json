@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tazemetostate",
+      "suspension": "Suspender 5 dias antes de cirurgia de médio ou grande porte.",
+      "risk": "Risco de mielossupressão, náuseas, vômitos e hepatotoxicidade.",
+      "reintroduction": "Reintroduzir após estabilização clínica e recuperação hematológica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tazemetostate",
+      "nomeComercial": "Tazverik",
+      "mecanismoAcao": "Inibidor seletivo da EZH2 (enhancer of zeste homolog 2), uma metiltransferase envolvida na repressão transcripcional via modificação da cromatina.",
+      "farmacocinetica": "Absorção oral rápida; pico em 2 horas; meia-vida de aproximadamente 3,1 horas; metabolização hepática via CYP3A; excreção predominantemente fecal.",
+      "farmacodinamica": "Reduz a trimetilação de H3K27, reativando genes supressores tumorais em tumores com mutações EZH2 ou perda de INI1.",
+      "indicacoes": "Linfoma folicular com mutação EZH2, sarcomas epitelioides com deficiência de INI1.",
+      "reacoesAdversas": "Fadiga, náusea, dor abdominal, constipação, vômitos, trombocitopenia, anemia.",
+      "riscoGravidez": "Categoria D – contraindicado.",
+      "riscoLactacao": "Contraindicado.",
+      "administracao": "Oral.",
+      "doseMaxima": "800 mg/dia.",
+      "doseMinima": "400 mg/dia.",
+      "classificacao": "Antineoplásico inibidor de EZH2 (modificador epigenético).",
+      "apresentacao": "Comprimidos de 200 mg.",
+      "interacaoMedicamento": "Metabolizado por CYP3A; interações com inibidores/indutores fortes; evitar uso concomitante com alimentos ricos em gordura.",
+      "posologia": "800 mg/dia divididos em 2 tomadas de 400 mg, com ou sem alimentos.",
+      "armazenamento": "Temperatura ambiente (15–30 ºC), frasco fechado.",
+      "preparo": "Uso direto.",
+      "solucoesCompatíveis": "Não se aplica.",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade.",
+      "cuidadosMedicos": "Monitorar hemograma, sinais de toxicidade hepática e resposta tumoral.",
+      "cuidadosFarmaceuticos": "Garantir adesão e checar interações medicamentosas com outros antineoplásicos ou indutores/inibidores do CYP3A.",
+      "cuidadosEnfermagem": "Avaliar queixas gastrointestinais e fadiga; educar sobre importância da adesão ao tratamento.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, bula Tazverik."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tazemetostat",
+      "suspension": "Suspend 5 days before medium or major surgery.",
+      "risk": "Risk of myelosuppression, nausea, vomiting, and hepatotoxicity.",
+      "reintroduction": "Reintroduce after clinical stabilization and hematologic recovery."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tazemetostat",
+      "nomeComercial": "Tazverik",
+      "mecanismoAcao": "Selective inhibitor of EZH2 (enhancer of zeste homolog 2), a methyltransferase involved in transcriptional repression via chromatin modification.",
+      "farmacocinetica": "Rapid oral absorption; peak at 2 hours; half-life approximately 3.1 hours; hepatic metabolism via CYP3A; predominantly fecal excretion.",
+      "farmacodinamica": "Reduces H3K27 trimethylation, reactivating tumor suppressor genes in tumors with EZH2 mutations or INI1 loss.",
+      "indicacoes": "EZH2-mutant follicular lymphoma, epithelioid sarcoma with INI1 deficiency.",
+      "reacoesAdversas": "Fatigue, nausea, abdominal pain, constipation, vomiting, thrombocytopenia, anemia.",
+      "riscoGravidez": "Category D – contraindicated.",
+      "riscoLactacao": "Contraindicated.",
+      "administracao": "Oral.",
+      "doseMaxima": "800 mg/day.",
+      "doseMinima": "400 mg/day.",
+      "classificacao": "EZH2 inhibitor antineoplastic (epigenetic modifier).",
+      "apresentacao": "200 mg tablets.",
+      "interacaoMedicamento": "Metabolized by CYP3A; interactions with strong inhibitors/inducers; avoid concomitant use with high-fat foods.",
+      "posologia": "800 mg/day divided into 2 doses of 400 mg, with or without food.",
+      "armazenamento": "Room temperature (15–30 ºC), keep bottle closed.",
+      "preparo": "Direct use.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Pregnancy, lactation, hypersensitivity.",
+      "cuidadosMedicos": "Monitor blood counts, signs of hepatic toxicity, and tumor response.",
+      "cuidadosFarmaceuticos": "Ensure adherence and check drug interactions with other antineoplastics or CYP3A inducers/inhibitors.",
+      "cuidadosEnfermagem": "Assess gastrointestinal complaints and fatigue; educate on the importance of treatment adherence.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Tazverik package insert."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tazemetostat",
+      "suspension": "Suspender 5 días antes de cirugía de mediana o gran envergadura.",
+      "risk": "Riesgo de mielosupresión, náuseas, vómitos y hepatotoxicidad.",
+      "reintroduction": "Reintroducir tras estabilización clínica y recuperación hematológica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tazemetostat",
+      "nomeComercial": "Tazverik",
+      "mecanismoAcao": "Inhibidor selectivo de EZH2 (enhancer of zeste homolog 2), una metiltransferasa implicada en la represión transcripcional mediante modificación de la cromatina.",
+      "farmacocinetica": "Absorción oral rápida; pico en 2 horas; vida media de aproximadamente 3,1 horas; metabolismo hepático vía CYP3A; excreción predominantemente fecal.",
+      "farmacodinamica": "Reduce la trimetilación de H3K27, reactivando genes supresores tumorales en tumores con mutaciones de EZH2 o pérdida de INI1.",
+      "indicacoes": "Linfoma folicular con mutación de EZH2, sarcomas epitelioides con deficiencia de INI1.",
+      "reacoesAdversas": "Fatiga, náuseas, dolor abdominal, estreñimiento, vómitos, trombocitopenia, anemia.",
+      "riscoGravidez": "Categoría D – contraindicado.",
+      "riscoLactacao": "Contraindicado.",
+      "administracao": "Oral.",
+      "doseMaxima": "800 mg/día.",
+      "doseMinima": "400 mg/día.",
+      "classificacao": "Antineoplásico inhibidor de EZH2 (modificador epigenético).",
+      "apresentacao": "Comprimidos de 200 mg.",
+      "interacaoMedicamento": "Metabolizado por CYP3A; interacciones con inhibidores/inductores potentes; evitar uso concomitante con alimentos ricos en grasa.",
+      "posologia": "800 mg/día divididos en 2 tomas de 400 mg, con o sin alimentos.",
+      "armazenamento": "Temperatura ambiente (15–30 ºC), envase cerrado.",
+      "preparo": "Uso directo.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad.",
+      "cuidadosMedicos": "Monitorizar hemograma, signos de toxicidad hepática y respuesta tumoral.",
+      "cuidadosFarmaceuticos": "Garantizar adherencia y comprobar interacciones medicamentosas con otros antineoplásicos o inductores/inhibidores de CYP3A.",
+      "cuidadosEnfermagem": "Evaluar quejas gastrointestinales y fatiga; educar sobre la importancia de la adherencia al tratamiento.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, prospecto de Tazverik."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "他泽美司他",
+      "suspension": "在中型或大型手术前5天停用。",
+      "risk": "有骨髓抑制、恶心、呕吐和肝毒性的风险。",
+      "reintroduction": "在临床稳定和血液学恢复后重新引入。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "他泽美司他 (Tazemetostat)",
+      "nomeComercial": "Tazverik",
+      "mecanismoAcao": "选择性EZH2（zeste同源物2增强子）抑制剂，一种通过染色质修饰参与转录抑制的甲基转移酶。",
+      "farmacocinetica": "口服吸收快；2小时达峰；半衰期约3.1小时；肝脏CYP3A代谢；主要粪便排泄。",
+      "farmacodinamica": "减少H3K27三甲基化，在EZH2突变或INI1缺失的肿瘤中重新激活抑癌基因。",
+      "indicacoes": "EZH2突变的滤泡性淋巴瘤，INI1缺陷的上皮样肉瘤。",
+      "reacoesAdversas": "乏力、恶心、腹痛、便秘、呕吐、血小板减少、贫血。",
+      "riscoGravidez": "D类 – 禁用。",
+      "riscoLactacao": "禁用。",
+      "administracao": "口服。",
+      "doseMaxima": "800 mg/天。",
+      "doseMinima": "400 mg/天。",
+      "classificacao": "EZH2抑制剂抗肿瘤药（表观遗传修饰剂）。",
+      "apresentacao": "200 mg片剂。",
+      "interacaoMedicamento": "经CYP3A代谢；与强抑制剂/诱导剂有相互作用；避免与高脂食物同服。",
+      "posologia": "800 mg/天，分2次服用，每次400 mg，可与食物同服或空腹服用。",
+      "armazenamento": "室温（15–30 ºC），密封保存。",
+      "preparo": "直接使用。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "妊娠、哺乳、过敏。",
+      "cuidadosMedicos": "监测血常规、肝毒性表现及肿瘤反应。",
+      "cuidadosFarmaceuticos": "确保依从性，检查与其他抗肿瘤药或CYP3A诱导剂/抑制剂的药物相互作用。",
+      "cuidadosEnfermagem": "评估胃肠道不适和乏力，教育患者坚持治疗的重要性。",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Tazverik说明书。"
+    }
+  }
+}

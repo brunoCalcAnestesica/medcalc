@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cloreto de Cálcio",
+      "suspension": "Não é necessário suspender, mas deve ser usado com extrema cautela no perioperatório",
+      "risk": "Risco elevado de necrose tecidual em extravasamento EV. Pode causar arritmias e bradicardia em infusão rápida. Interage com bicarbonato de sódio (precipitação).",
+      "reintroduction": "Reintroduzir apenas com indicação precisa (hipocalcemia sintomática, toxicidade por cálcio-bloqueador, hipercalemia) sob monitoramento contínuo."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloreto de Cálcio",
+      "nomeComercial": "Cloreto de Cálcio EMS, Cálcio Cloreto Isofarma",
+      "mecanismoAcao": "Fornece íons cálcio essenciais para transmissão neuromuscular, contração muscular (inclusive cardíaca), coagulação e integridade de membranas celulares",
+      "farmacocinetica": "Administração IV; início imediato; meia-vida curta; excreção renal e fecal",
+      "farmacodinamica": "Restaura concentrações séricas de cálcio e estabiliza membranas celulares; antagoniza efeitos da hipercalemia e da toxicidade por bloqueadores de canal de cálcio",
+      "indicacoes": "Hipocalcemia aguda, hipercalemia com instabilidade, intoxicação por cálcio-bloqueadores, ressuscitação cardiopulmonar (em casos selecionados)",
+      "reacoesAdversas": "Rubor, náusea, hipotensão, extravasamento com necrose, arritmias, calcificação tissular",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Exclusivamente intravenosa lenta e diluída; preferencialmente via central",
+      "doseMaxima": "1 g por dose (equivalente a 13,6 mEq de Ca++); repetir se necessário",
+      "doseMinima": "500 mg por dose",
+      "classificacao": "Eletrólito essencial – cálcio inorgânico",
+      "apresentacao": "Ampolas de 10% (1 g/10 mL)",
+      "interacaoMedicamento": "Precipita com bicarbonato; interação com digoxina (aumenta risco de arritmias)",
+      "posologia": "500 mg a 1 g IV lenta (5–10 minutos); repetir conforme níveis séricos",
+      "armazenamento": "Temperatura ambiente; proteger da luz",
+      "preparo": "Diluir em SF 0,9% ou SG 5% se possível; infundir em 5–10 min",
+      "solucoesCompatíveis": "SF 0,9%, SG 5% (não compatível com bicarbonato)",
+      "contraindicacoes": "Hipercalcemia, extravasamento, parada cardíaca em uso concomitante com bicarbonato",
+      "cuidadosMedicos": "Monitorar ECG e cálcio sérico; evitar uso simultâneo com digoxina",
+      "cuidadosFarmaceuticos": "Usar exclusivamente EV; não administrar IM ou SC",
+      "cuidadosEnfermagem": "Monitorar local de infusão para extravasamento; usar bomba volumétrica",
+      "fontesBibliograficas": "SBRAE, ANVISA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Calcium Chloride",
+      "suspension": "Do not suspend; use cautiously in perioperative and critical care",
+      "risk": "High risk of tissue necrosis with extravasation. Rapid IV push may cause bradycardia, arrhythmias. Incompatible with bicarbonate.",
+      "reintroduction": "Administer only when indicated (e.g., symptomatic hypocalcemia, calcium channel blocker overdose, hyperkalemia) under ECG monitoring."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Calcium Chloride",
+      "nomeComercial": "Calcium Chloride Injection USP",
+      "mecanismoAcao": "Provides calcium ions essential for neuromuscular function, cardiac contractility, coagulation, and membrane integrity",
+      "farmacocinetica": "IV administration; immediate onset; renal/fecal excretion",
+      "farmacodinamica": "Corrects serum calcium deficits and stabilizes myocardial cells; antagonizes hyperkalemia effects",
+      "indicacoes": "Acute hypocalcemia, hyperkalemia with ECG changes, calcium channel blocker toxicity, cardiac arrest",
+      "reacoesAdversas": "Flushing, hypotension, nausea, tissue necrosis, arrhythmias",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "IV slow push; central line preferred; NEVER IM or SC",
+      "doseMaxima": "1 g/dose (13.6 mEq Ca++); repeat if needed",
+      "doseMinima": "500 mg/dose",
+      "classificacao": "Essential electrolyte – inorganic calcium salt",
+      "apresentacao": "10% vials (1 g/10 mL)",
+      "interacaoMedicamento": "Precipitates with bicarbonate; interacts with digoxin (↑arrhythmia risk)",
+      "posologia": "500 mg–1 g IV over 5–10 min; repeat as needed",
+      "armazenamento": "Room temperature; protect from light",
+      "preparo": "Dilute in NS or D5W; administer via volumetric infusion",
+      "solucoesCompatíveis": "NS, D5W (incompatible with bicarbonate)",
+      "contraindicacoes": "Hypercalcemia, digoxin use with caution, tissue extravasation",
+      "cuidadosMedicos": "Monitor ECG and serum calcium",
+      "cuidadosFarmaceuticos": "IV only; do not give IM/SC",
+      "cuidadosEnfermagem": "Observe IV site closely; use pump; slow infusion",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cloruro de Calcio",
+      "suspension": "No requiere suspensión; usar con precaución en perioperatorio",
+      "risk": "Riesgo alto de necrosis por extravasación; IV rápida puede causar arritmias. Incompatible con bicarbonato.",
+      "reintroduction": "Administrar sólo con indicación clara bajo monitorización cardíaca"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloruro de Calcio",
+      "nomeComercial": "Cloruro de Calcio Braun, Injecal",
+      "mecanismoAcao": "Reponer calcio para función neuromuscular, cardíaca y coagulación",
+      "farmacocinetica": "Inicio inmediato IV; excreción renal y biliar",
+      "farmacodinamica": "Corrige hipocalcemia aguda, estabiliza membrana cardíaca",
+      "indicacoes": "Hipocalcemia aguda, hiperpotasemia grave, intoxicación por bloqueadores cálcicos",
+      "reacoesAdversas": "Rubor, arritmias, necrosis local, náuseas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Compatible",
+      "administracao": "IV lenta, preferible vía central",
+      "doseMaxima": "1 g/dosis; repetir según necesidad",
+      "doseMinima": "500 mg",
+      "classificacao": "Electrolito esencial – sal cálcica",
+      "apresentacao": "Ampollas 10% (1 g/10 mL)",
+      "interacaoMedicamento": "Precipita con bicarbonato; precaución con digoxina",
+      "posologia": "500–1000 mg IV en 5–10 min",
+      "armazenamento": "Ambiente, protegido de la luz",
+      "preparo": "Diluir en SF 0,9% o glucosa 5%",
+      "solucoesCompatíveis": "SF, glucosa 5%",
+      "contraindicacoes": "Hipercalcemia, digoxina sin control",
+      "cuidadosMedicos": "Monitor ECG, evitar infusión rápida",
+      "cuidadosFarmaceuticos": "Sólo vía IV, no IM/SC",
+      "cuidadosEnfermagem": "Controlar sitio de infusión y ritmo cardíaco",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex, EMA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯化钙",
+      "suspension": "术前无需停药，但必须严格控制用法",
+      "risk": "快速静注或渗漏可引起组织坏死和心律失常；禁与碳酸氢钠同用",
+      "reintroduction": "仅在有明确适应证时重启，严格监测ECG与血钙"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯化钙",
+      "nomeComercial": "氯化钙注射液",
+      "mecanismoAcao": "提供钙离子维持肌肉收缩、神经传导和止血",
+      "farmacocinetica": "IV立即起效；经肾和粪排泄",
+      "farmacodinamica": "纠正低钙、稳定心肌细胞、对抗高钾效应",
+      "indicacoes": "急性低钙血症、高钾性心律失常、钙通道阻滞剂中毒",
+      "reacoesAdversas": "面部潮红、低血压、局部坏死、心律紊乱",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可哺乳期使用",
+      "administracao": "静脉缓慢推注或稀释滴注，推荐中心静脉",
+      "doseMaxima": "每次1克（10mL 10%），可重复",
+      "doseMinima": "500毫克",
+      "classificacao": "电解质 – 钙盐",
+      "apresentacao": "10%注射液（1g/10mL）",
+      "interacaoMedicamento": "与碳酸氢钠沉淀，与洋地黄协同致心律紊乱",
+      "posologia": "静注500–1000mg/次，5–10分钟内完成",
+      "armazenamento": "常温避光",
+      "preparo": "可稀释于氯化钠或葡萄糖，缓慢输注",
+      "solucoesCompatíveis": "氯化钠、葡萄糖，不可与碳酸氢钠混合",
+      "contraindicacoes": "高钙血症、洋地黄中毒",
+      "cuidadosMedicos": "实时心电监护，避免局部渗漏",
+      "cuidadosFarmaceuticos": "不可IM或SC注射，仅限IV使用",
+      "cuidadosEnfermagem": "使用泵控速度，严密观察",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

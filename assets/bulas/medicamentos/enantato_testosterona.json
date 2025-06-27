@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Enantato de Testosterona",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas com risco trombótico ou retenção hídrica",
+      "risk": "Aumenta risco de tromboembolismo, policitemia, retenção de sódio e água, hipertensão e eventos cardiovasculares",
+      "reintroduction": "Reintroduzir após estabilização clínica, mobilização adequada e hematócrito < 52%"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Testosterona enantato",
+      "nomeComercial": "Durateston (combinado), Testoviron, Deposteron",
+      "mecanismoAcao": "Agonista do receptor androgênico; promove desenvolvimento das características sexuais masculinas e anabolismo proteico",
+      "farmacocinetica": "Administração intramuscular; meia-vida ~4,5 dias; ação prolongada por liberação lenta do éster",
+      "farmacodinamica": "Aumenta massa muscular, libido, densidade óssea e hematócrito; efeito supressor sobre eixo gonadotrófico",
+      "indicacoes": "Hipogonadismo masculino, disforia de gênero, terapia de reposição hormonal",
+      "reacoesAdversas": "Policitemia, acne, retenção hídrica, apneia do sono, ginecomastia, hepatotoxicidade (rara), agressividade",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intramuscular profunda (glúteo)",
+      "doseMaxima": "400 mg a cada 2 semanas",
+      "doseMinima": "50 mg/semana",
+      "classificacao": "Hormônio androgênico; esteroide anabolizante",
+      "apresentacao": "Ampola de 250 mg/mL em óleo de gergelim",
+      "interacaoMedicamento": "Potencializa anticoagulantes; pode reduzir necessidade de hipoglicemiantes; interage com corticosteroides",
+      "posologia": "50 a 250 mg IM a cada 1–3 semanas",
+      "armazenamento": "Temperatura ambiente (15–30 °C), protegido da luz",
+      "preparo": "Pronto para uso; agitar levemente antes da aplicação",
+      "solucoesCompatíveis": "Não compatível com diluentes aquosos",
+      "contraindicacoes": "Câncer de próstata ou mama, insuficiência hepática grave, trombofilia ativa, hematócrito > 54%",
+      "cuidadosMedicos": "Monitorar hematócrito, PSA, perfil lipídico, PA e sintomas androgênicos",
+      "cuidadosFarmaceuticos": "Conferir prescrição, armazenar em temperatura correta",
+      "cuidadosEnfermagem": "Aplicar IM profunda, observar sinais de reação no local e efeitos sistêmicos",
+      "fontesBibliograficas": "FDA, ANVISA, UpToDate, Micromedex, Endocrine Society Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Testosterone Enanthate",
+      "suspension": "Discontinue 7 days before elective surgery if thrombotic or fluid retention risk",
+      "risk": "Thrombosis, polycythemia, hypertension, water retention, cardiovascular events",
+      "reintroduction": "Resume when patient is mobilized and hematocrit < 52%"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Testosterone enanthate",
+      "nomeComercial": "Delatestryl, Testoviron",
+      "mecanismoAcao": "Androgen receptor agonist promoting male characteristics and anabolic activity",
+      "farmacocinetica": "IM injection; t½ ~4.5 days; slow release from ester",
+      "farmacodinamica": "Increases muscle mass, libido, hematocrit; suppresses pituitary gonadotropins",
+      "indicacoes": "Male hypogonadism, gender dysphoria, testosterone replacement therapy",
+      "reacoesAdversas": "Polycythemia, acne, fluid retention, sleep apnea, gynecomastia, hepatic changes",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Deep intramuscular injection (gluteal)",
+      "doseMaxima": "400 mg every 2 weeks",
+      "doseMinima": "50 mg/week",
+      "classificacao": "Androgenic hormone; anabolic steroid",
+      "apresentacao": "250 mg/mL oil-based ampoule",
+      "interacaoMedicamento": "May potentiate anticoagulants; reduce insulin needs; interacts with corticosteroids",
+      "posologia": "50–250 mg IM every 1–3 weeks",
+      "armazenamento": "Room temp (15–30 °C); protect from light",
+      "preparo": "Ready to use; swirl gently before use",
+      "solucoesCompatíveis": "Not aqueous compatible",
+      "contraindicacoes": "Prostate or breast cancer, severe liver disease, active thrombophilia",
+      "cuidadosMedicos": "Monitor Hct, PSA, BP, lipids, mood changes",
+      "cuidadosFarmaceuticos": "Verify dose and storage",
+      "cuidadosEnfermagem": "Deep IM injection, monitor site and systemic effects",
+      "fontesBibliograficas": "FDA, UpToDate, Endocrine Society, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Enantato de Testosterona",
+      "suspension": "Suspender 7 días antes de cirugía si hay riesgo trombótico o retención hídrica",
+      "risk": "Riesgo de trombosis, policitemia, hipertensión, retención de líquidos",
+      "reintroduction": "Reiniciar tras estabilización clínica y hematocrito < 52%"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Enantato de testosterona",
+      "nomeComercial": "Testoviron, Durateston",
+      "mecanismoAcao": "Agonista androgénico; promueve características sexuales masculinas y anabolismo proteico",
+      "farmacocinetica": "IM; t½ ~4,5 días; liberación lenta del éster",
+      "farmacodinamica": "Aumenta masa muscular, libido, hematocrito; suprime eje hipotalámico",
+      "indicacoes": "Hipogonadismo masculino, disforia de género, TRH",
+      "reacoesAdversas": "Policitemia, acné, apnea del sueño, ginecomastia, hepatotoxicidad",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "IM profunda",
+      "doseMaxima": "400 mg cada 2 semanas",
+      "doseMinima": "50 mg/semana",
+      "classificacao": "Andrógeno; esteroide anabólico",
+      "apresentacao": "Ampolla 250 mg/mL en aceite",
+      "interacaoMedicamento": "Potencia anticoagulantes; reduce insulina; interactúa con esteroides",
+      "posologia": "50–250 mg IM cada 1–3 semanas",
+      "armazenamento": "15–30 °C; proteger de la luz",
+      "preparo": "Listo para usar; agitar suavemente",
+      "solucoesCompatíveis": "No acuoso",
+      "contraindicacoes": "Cáncer próstata, enfermedad hepática grave, trombofilia activa",
+      "cuidadosMedicos": "Control PSA, Hto, lípidos, PA",
+      "cuidadosFarmaceuticos": "Verificar conservación y dosis",
+      "cuidadosEnfermagem": "IM profunda, vigilar efectos adversos",
+      "fontesBibliograficas": "FDA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "睾酮庚酸酯（Testosterone Enanthate）",
+      "suspension": "术前7天停用，尤其在血栓风险或液体潴留者",
+      "risk": "血栓、高红细胞压积、水钠潴留、高血压、心血管事件",
+      "reintroduction": "术后病情稳定、Hct<52%后方可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "睾酮庚酸酯",
+      "nomeComercial": "Testoviron, Durateston",
+      "mecanismoAcao": "雄激素受体激动剂，促进男性特征及蛋白同化",
+      "farmacocinetica": "肌注，t½约4.5天，缓释",
+      "farmacodinamica": "增加肌肉、红细胞、性欲；抑制下丘脑-垂体-性腺轴",
+      "indicacoes": "男性性腺功能减退、跨性别激素治疗、替代治疗",
+      "reacoesAdversas": "红细胞增多、痤疮、水潴留、睡眠呼吸暂停、攻击性情绪",
+      "riscoGravidez": "X类，禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "深部肌肉注射",
+      "doseMaxima": "每2周400毫克",
+      "doseMinima": "每周50毫克",
+      "classificacao": "雄激素类；同化类固醇",
+      "apresentacao": "250 mg/mL油剂安瓿",
+      "interacaoMedicamento": "增强抗凝药，减少降糖药用量，与激素类药互作用",
+      "posologia": "每1–3周注射50–250 mg",
+      "armazenamento": "15–30°C常温避光",
+      "preparo": "使用前轻摇；无需稀释",
+      "solucoesCompatíveis": "不可水溶稀释",
+      "contraindicacoes": "前列腺/乳腺癌、肝功能严重障碍、血栓倾向、红细胞压积高",
+      "cuidadosMedicos": "监测Hct、PSA、血脂、血压、情绪",
+      "cuidadosFarmaceuticos": "确认剂量、避光保存",
+      "cuidadosEnfermagem": "肌注后监测局部反应和全身症状",
+      "fontesBibliograficas": "FDA、UpToDate、Micromedex、内分泌学会指南"
+    }
+  }
+}

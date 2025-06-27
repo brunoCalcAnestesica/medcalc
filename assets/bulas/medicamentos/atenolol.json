@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Atenolol",
+      "suspension": "Manter até o dia da cirurgia, exceto se houver bradicardia sintomática ou hipotensão",
+      "risk": "Bradicardia, bloqueio AV, broncoespasmo em pacientes com asma, risco de hipotensão sob anestesia",
+      "reintroduction": "Se suspenso, reintroduzir 24–48h após estabilização hemodinâmica e avaliação cardíaca"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atenolol",
+      "nomeComercial": "Atenol, Tenormin, Ablok",
+      "mecanismoAcao": "Bloqueador seletivo dos receptores beta-1 adrenérgicos; reduz frequência cardíaca e contratilidade",
+      "farmacocinetica": "Boa absorção oral (~50%), não metabolizado extensivamente, excreção renal, meia-vida de 6–9 horas",
+      "farmacodinamica": "Diminui débito cardíaco, reduz pressão arterial e demanda miocárdica por oxigênio",
+      "indicacoes": "Hipertensão arterial, angina, infarto agudo do miocárdio, arritmias supraventriculares",
+      "reacoesAdversas": "Bradicardia, fadiga, frio nas extremidades, broncoespasmo, distúrbios do sono",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Excretado no leite materno; uso com cautela",
+      "administracao": "Via oral ou intravenosa",
+      "doseMaxima": "100mg/dia",
+      "doseMinima": "25mg/dia",
+      "classificacao": "Betabloqueador seletivo (beta-1)",
+      "apresentacao": "Comprimidos de 25mg, 50mg, 100mg; ampolas IV 5mg",
+      "interacaoMedicamento": "Potencializa efeito de outros anti-hipertensivos; interação com anestésicos, verapamil e digoxina",
+      "posologia": "50–100mg/dia VO em dose única ou dividida; 5–10mg IV em emergências",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Pronto para uso na forma oral e IV",
+      "solucoesCompatíveis": "SF 0,9% para administração IV",
+      "contraindicacoes": "Bradicardia grave, bloqueio AV de 2º ou 3º grau, insuficiência cardíaca descompensada, asma grave",
+      "cuidadosMedicos": "Monitorar FC, PA, ECG e sinais de insuficiência cardíaca",
+      "cuidadosFarmaceuticos": "Orientar sobre interrupção abrupta e risco de rebote hipertensivo",
+      "cuidadosEnfermagem": "Avaliar frequência cardíaca antes da administração, observar sinais de broncoespasmo",
+      "fontesBibliograficas": "SBH, ANVISA, FDA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Atenolol",
+      "suspension": "Continue until day of surgery unless symptomatic bradycardia or hypotension is present",
+      "risk": "Bradycardia, AV block, bronchospasm in asthma, hypotension under anesthesia",
+      "reintroduction": "If withheld, restart 24–48h post-op after hemodynamic stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atenolol",
+      "nomeComercial": "Tenormin",
+      "mecanismoAcao": "Selective beta-1 adrenergic blocker; decreases HR and myocardial contractility",
+      "farmacocinetica": "50% oral bioavailability, renal excretion, half-life 6–9h",
+      "farmacodinamica": "Reduces cardiac output and myocardial oxygen demand",
+      "indicacoes": "Hypertension, angina, myocardial infarction, supraventricular arrhythmias",
+      "reacoesAdversas": "Bradycardia, fatigue, cold extremities, bronchospasm, sleep disturbances",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Excreted in breast milk; use with caution",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "100mg/day",
+      "doseMinima": "25mg/day",
+      "classificacao": "Selective beta-1 blocker",
+      "apresentacao": "Tablets: 25mg, 50mg, 100mg; IV 5mg vials",
+      "interacaoMedicamento": "May enhance hypotensive effects of other drugs; interacts with anesthetics, verapamil, digoxin",
+      "posologia": "50–100mg/day PO; 5–10mg IV in emergencies",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Ready-to-use (oral and IV)",
+      "solucoesCompatíveis": "0.9% NaCl for IV use",
+      "contraindicacoes": "Severe bradycardia, high-grade AV block, decompensated heart failure, severe asthma",
+      "cuidadosMedicos": "Monitor HR, BP, ECG, signs of heart failure",
+      "cuidadosFarmaceuticos": "Warn against abrupt discontinuation; rebound hypertension risk",
+      "cuidadosEnfermagem": "Check HR before dosing; monitor for bronchospasm",
+      "fontesBibliograficas": "FDA, AHA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Atenolol",
+      "suspension": "Mantener hasta el día de la cirugía salvo bradicardia sintomática o hipotensión",
+      "risk": "Bradicardia, bloqueo AV, broncoespasmo en asmáticos, hipotensión con anestesia",
+      "reintroduction": "Si se suspende, reiniciar 24–48h postoperatorio tras estabilización"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atenolol",
+      "nomeComercial": "Tenormin, Ablok",
+      "mecanismoAcao": "Bloqueador beta-1 adrenérgico selectivo; reduce la frecuencia cardíaca y contractilidad",
+      "farmacocinetica": "Biodisponibilidad ~50%, eliminación renal, semivida 6–9h",
+      "farmacodinamica": "Disminuye el gasto cardíaco y la demanda de oxígeno",
+      "indicacoes": "Hipertensión, angina, infarto, arritmias supraventriculares",
+      "reacoesAdversas": "Bradicardia, fatiga, extremidades frías, broncoespasmo, insomnio",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Se excreta en leche materna; usar con precaución",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "100mg/día",
+      "doseMinima": "25mg/día",
+      "classificacao": "Betabloqueador selectivo beta-1",
+      "apresentacao": "Comprimidos 25mg, 50mg, 100mg; ampollas IV 5mg",
+      "interacaoMedicamento": "Interacción con anestésicos, verapamilo, digoxina; potencia efecto de otros hipotensores",
+      "posologia": "50–100mg/día oral; 5–10mg IV en emergencias",
+      "armazenamento": "Temperatura ambiente, proteger de la luz",
+      "preparo": "Uso directo oral o IV",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%",
+      "contraindicacoes": "Bradicardia severa, bloqueo AV, ICC descompensada, asma severa",
+      "cuidadosMedicos": "Monitorear FC, PA, ECG y signos de ICC",
+      "cuidadosFarmaceuticos": "Evitar interrupción abrupta; riesgo de hipertensión de rebote",
+      "cuidadosEnfermagem": "Controlar FC antes de administrar; observar broncoespasmo",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿替洛尔",
+      "suspension": "术前维持使用，除非出现症状性心动过缓或低血压",
+      "risk": "心动过缓、房室传导阻滞、哮喘患者支气管痉挛、术中低血压",
+      "reintroduction": "术后稳定后24–48小时可恢复使用，需心电评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿替洛尔",
+      "nomeComercial": "Tenormin",
+      "mecanismoAcao": "选择性β1受体阻断剂，降低心率与心肌收缩力",
+      "farmacocinetica": "口服吸收率~50%，肾脏排泄，半衰期6–9小时",
+      "farmacodinamica": "减少心排出量与心肌耗氧量",
+      "indicacoes": "高血压、心绞痛、心梗、心律失常",
+      "reacoesAdversas": "心动过缓、乏力、四肢冰冷、支气管痉挛、睡眠障碍",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "可分泌入乳汁，慎用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日100毫克",
+      "doseMinima": "每日25毫克",
+      "classificacao": "选择性β1受体阻断剂",
+      "apresentacao": "片剂25mg、50mg、100mg；注射液5mg",
+      "interacaoMedicamento": "与麻醉剂、维拉帕米、地高辛相互作用；增强降压药效",
+      "posologia": "每日50–100mg口服；紧急时IV 5–10mg",
+      "armazenamento": "常温避光保存",
+      "preparo": "口服与注射剂型可直接使用",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "重度心动过缓、II/III度房室传导阻滞、失代偿性心衰、重度哮喘",
+      "cuidadosMedicos": "监测心率、血压、心电图、心衰表现",
+      "cuidadosFarmaceuticos": "避免突然停药，警惕高血压反跳",
+      "cuidadosEnfermagem": "给药前检查心率，观察支气管反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

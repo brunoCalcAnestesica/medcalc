@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sildenafil",
+      "suspension": "Suspender 24 a 48 horas antes de cirurgias com risco de hipotensão significativa ou uso de nitratos",
+      "risk": "Pode causar hipotensão grave se associado a nitratos; risco de priapismo, cefaleia, distúrbios visuais e cardiovasculares",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e cessação do uso de nitratos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sildenafila",
+      "nomeComercial": "Viagra, Revatio, Sollevi",
+      "mecanismoAcao": "Inibidor seletivo da fosfodiesterase tipo 5 (PDE5), aumentando os níveis de GMPc e promovendo relaxamento da musculatura lisa",
+      "farmacocinetica": "Absorção oral rápida; Tmáx ~30–120 min; metabolizado no fígado (CYP3A4); meia-vida terminal ~4 h; excreção fecal e renal",
+      "farmacodinamica": "Promove vasodilatação e ereção peniana em resposta à estimulação sexual; reduz resistência vascular pulmonar na HAP",
+      "indicacoes": "Disfunção erétil; hipertensão arterial pulmonar (HAP)",
+      "reacoesAdversas": "Cefaleia, rubor, dispepsia, congestão nasal, alterações visuais (discromatopsia), tontura, priapismo (raro)",
+      "riscoGravidez": "Categoria B – sem evidência de risco em estudos animais; não indicado para gestantes",
+      "riscoLactacao": "Desconhece-se se é excretado no leite; uso com cautela",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/dose para disfunção erétil; 80 mg/dia (dividido) para HAP",
+      "doseMinima": "20 mg 3x/dia para HAP",
+      "classificacao": "Inibidor da PDE5 – vasodilatador",
+      "apresentacao": "Comprimidos 25 mg, 50 mg, 100 mg; comprimidos 20 mg para HAP",
+      "interacaoMedicamento": "Contraindicado com nitratos; cuidado com inibidores potentes de CYP3A4 (cetoconazol, ritonavir)",
+      "posologia": "Disfunção erétil: 50 mg 1h antes da relação; ajustar entre 25–100 mg; HAP: 20 mg 3x/dia",
+      "armazenamento": "Temperatura ambiente (15–30 °C)",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Uso concomitante com nitratos, hipotensão grave, retinite pigmentosa, alergia conhecida",
+      "cuidadosMedicos": "Avaliar função cardiovascular antes do uso; monitorar PA e risco de priapismo",
+      "cuidadosFarmaceuticos": "Orientar sobre tempo de ação, interações e não uso com nitratos",
+      "cuidadosEnfermagem": "Observar sinais de hipotensão, cefaleia, distúrbios visuais e priapismo",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, ANVISA, bula Viagra/Revatio"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sildenafil",
+      "suspension": "Discontinue 24–48h before surgeries involving hypotension or nitrate use",
+      "risk": "Risk of severe hypotension with nitrates; priapism, visual disturbances, cardiovascular risk",
+      "reintroduction": "Resume after hemodynamic stability and discontinuation of nitrate therapy"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sildenafil",
+      "nomeComercial": "Viagra, Revatio",
+      "mecanismoAcao": "Selective PDE5 inhibitor that increases cGMP levels, leading to smooth muscle relaxation",
+      "farmacocinetica": "Rapid oral absorption; Tmax ~30–120 min; hepatic metabolism (CYP3A4); half-life ~4 h; fecal and renal elimination",
+      "farmacodinamica": "Enhances erectile response and reduces pulmonary vascular resistance",
+      "indicacoes": "Erectile dysfunction; pulmonary arterial hypertension (PAH)",
+      "reacoesAdversas": "Headache, flushing, dyspepsia, nasal congestion, visual changes, dizziness, priapism (rare)",
+      "riscoGravidez": "Category B – not indicated in pregnancy",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg per dose (ED); 80 mg/day total for PAH",
+      "doseMinima": "20 mg TID for PAH",
+      "classificacao": "PDE5 inhibitor – vasodilator",
+      "apresentacao": "Tablets: 25, 50, 100 mg (ED); 20 mg (PAH)",
+      "interacaoMedicamento": "Contraindicated with nitrates; caution with CYP3A4 inhibitors",
+      "posologia": "ED: 50 mg 1h prior to sexual activity (adjust 25–100 mg); PAH: 20 mg TID",
+      "armazenamento": "Room temperature (15–30 °C)",
+      "preparo": "Oral; do not crush",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Concomitant nitrate use, severe hypotension, retinitis pigmentosa, hypersensitivity",
+      "cuidadosMedicos": "Cardiovascular evaluation recommended; monitor BP and priapism risk",
+      "cuidadosFarmaceuticos": "Educate on safe use, time to effect, interactions",
+      "cuidadosEnfermagem": "Watch for hypotension, headache, visual effects, priapism",
+      "fontesBibliograficas": "FDA, Micromedex, Viagra and Revatio Prescribing Info"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sildenafil",
+      "suspension": "Suspender 24–48 h antes de cirugía si se usa con nitratos o en riesgo de hipotensión",
+      "risk": "Hipotensión severa con nitratos, priapismo, alteraciones visuales, riesgo cardiovascular",
+      "reintroduction": "Reiniciar tras estabilización y suspensión de nitratos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sildenafilo",
+      "nomeComercial": "Viagra, Revatio",
+      "mecanismoAcao": "Inhibidor selectivo de la PDE5, aumenta GMPc, relaja músculo liso",
+      "farmacocinetica": "Absorción oral rápida; Tmax ~30–120 min; metabolismo hepático; t½ ~4 h",
+      "farmacodinamica": "Mejora la erección y reduce la resistencia vascular pulmonar",
+      "indicacoes": "Disfunción eréctil; hipertensión arterial pulmonar",
+      "reacoesAdversas": "Cefalea, rubor, dispepsia, visión azulada, congestión nasal, priapismo",
+      "riscoGravidez": "Categoría B – no indicado",
+      "riscoLactacao": "Desconocido; evitar",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg por toma (DE); 80 mg/día (HAP)",
+      "doseMinima": "20 mg 3 veces/día",
+      "classificacao": "Vasodilatador – inhibidor PDE5",
+      "apresentacao": "Comprimidos: 25, 50, 100 mg (DE); 20 mg (HAP)",
+      "interacaoMedicamento": "Evitar con nitratos o inhibidores de CYP3A4 potentes",
+      "posologia": "50 mg antes del acto sexual; HAP: 20 mg TID",
+      "armazenamento": "15–30 °C",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Uso con nitratos, hipotensión, retinitis pigmentosa, alergia",
+      "cuidadosMedicos": "Evaluación cardiovascular previa",
+      "cuidadosFarmaceuticos": "Informar sobre interacciones y uso seguro",
+      "cuidadosEnfermagem": "Observar presión, visión, priapismo",
+      "fontesBibliograficas": "EMA, ficha técnica Viagra/Revatio, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "西地那非（Sildenafil）",
+      "suspension": "术前24–48小时停药，避免术中低血压，特别是与硝酸酯合用者",
+      "risk": "可引起严重低血压、勃起持续症、视力模糊、心血管不良事件",
+      "reintroduction": "术后血流稳定、停用硝酸药物后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "西地那非",
+      "nomeComercial": "万艾可（Viagra）, 瑞夫乐（Revatio）",
+      "mecanismoAcao": "选择性抑制PDE5，增加GMPc，松弛血管平滑肌",
+      "farmacocinetica": "口服吸收快；Tmax约1小时；肝代谢；t½约4小时",
+      "farmacodinamica": "改善勃起功能；降低肺动脉阻力",
+      "indicacoes": "勃起功能障碍；肺动脉高压",
+      "reacoesAdversas": "头痛、潮红、消化不良、鼻塞、色觉异常、晕眩、阴茎异常勃起",
+      "riscoGravidez": "B类 – 未用于女性",
+      "riscoLactacao": "慎用；无排泄资料",
+      "administracao": "口服",
+      "doseMaxima": "100 mg/次（勃起障碍）；每日80 mg（肺高压）",
+      "doseMinima": "20 mg每日3次",
+      "classificacao": "PDE5抑制剂 – 血管扩张剂",
+      "apresentacao": "25, 50, 100 mg片剂；20 mg肺高压专用",
+      "interacaoMedicamento": "禁与硝酸酯同用；避免CYP3A4强抑制剂",
+      "posologia": "ED: 50 mg性交前服；PAH: 20 mg每日3次",
+      "armazenamento": "常温保存",
+      "preparo": "整片服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "与硝酸酯联用、低血压、视网膜色素变性",
+      "cuidadosMedicos": "术前心血管评估",
+      "cuidadosFarmaceuticos": "指导用药时间与禁忌药物",
+      "cuidadosEnfermagem": "监测低血压、视觉变化、勃起不适",
+      "fontesBibliograficas": "中国药典、Micromedex、Viagra说明书"
+    }
+  }
+}

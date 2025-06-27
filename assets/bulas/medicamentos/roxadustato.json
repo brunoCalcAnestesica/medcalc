@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Roxadustato",
+      "suspension": "Suspender 3 a 5 dias antes de cirurgias eletivas de médio ou grande porte",
+      "risk": "Risco de hipertensão, trombose venosa profunda e aumento da viscosidade sanguínea; pode interferir em resposta inflamatória e estabilidade hemodinâmica no transoperatório",
+      "reintroduction": "Reintroduzir após recuperação clínica e estabilização da pressão arterial; monitorar hemoglobina e função hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Roxadustato",
+      "nomeComercial": "Evrenzo",
+      "mecanismoAcao": "Inibidor da prolil-hidroxilase induzível por hipóxia (HIF-PHI), estimula a produção endógena de eritropoetina e melhora absorção e mobilização de ferro",
+      "farmacocinetica": "Biodisponibilidade oral >60%; metabolizado no fígado (CYP2C8 e UGTs); meia-vida ~12h; excreção fecal e renal",
+      "farmacodinamica": "Aumenta a produção de hemoglobina e melhora parâmetros hematológicos sem necessidade de eritropoetina exógena",
+      "indicacoes": "Anemia associada à doença renal crônica em pacientes dialíticos e não dialíticos",
+      "reacoesAdversas": "Hipertensão, trombose, diarreia, dor de cabeça, náusea, edema periférico, hiperpotassemia",
+      "riscoGravidez": "Categoria não definida – evitar uso",
+      "riscoLactacao": "Desconhecido; evitar até mais dados estarem disponíveis",
+      "administracao": "Oral",
+      "doseMaxima": "120mg 3x por semana (dose inicial variável por peso)",
+      "doseMinima": "20mg 3x por semana",
+      "classificacao": "Estimulador oral da eritropoese (HIF-PHI)",
+      "apresentacao": "Comprimidos de 20mg, 50mg, 70mg, 100mg",
+      "interacaoMedicamento": "Cautela com inibidores de CYP2C8 (gemfibrozila) e substâncias que afetam eletrólitos",
+      "posologia": "50–100mg 3x por semana conforme peso e resposta hematológica",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipertensão não controlada, neoplasias ativas, hipersensibilidade ao composto",
+      "cuidadosMedicos": "Monitorar hemoglobina, PA, eletrólitos, função hepática e sinais de trombose",
+      "cuidadosFarmaceuticos": "Verificar adesão ao esquema intermitente e risco de interações medicamentosas",
+      "cuidadosEnfermagem": "Observar sinais de hipertensão, edema e resposta hematológica",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex, Evrenzo SmPC, NMPA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Roxadustat",
+      "suspension": "Suspend 3–5 days before medium or major elective surgeries",
+      "risk": "Risk of hypertension, venous thromboembolism, increased blood viscosity; may affect perioperative hemodynamic stability",
+      "reintroduction": "Restart after clinical recovery and BP stabilization; monitor hemoglobin and liver function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Roxadustat",
+      "nomeComercial": "Evrenzo (not yet FDA approved as of 2024)",
+      "mecanismoAcao": "HIF prolyl-hydroxylase inhibitor (HIF-PHI), increases endogenous erythropoietin and enhances iron metabolism",
+      "farmacocinetica": "Oral bioavailability >60%; hepatic metabolism via CYP2C8/UGTs; half-life ~12h; fecal and renal elimination",
+      "farmacodinamica": "Stimulates erythropoiesis without exogenous EPO; improves hematologic parameters",
+      "indicacoes": "Anemia of CKD (approved in Europe, China, Japan; pending in US)",
+      "reacoesAdversas": "Hypertension, thrombosis, diarrhea, headache, nausea, hyperkalemia, edema",
+      "riscoGravidez": "Not classified – avoid use",
+      "riscoLactacao": "Unknown – not recommended during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "120mg three times/week",
+      "doseMinima": "20mg three times/week",
+      "classificacao": "Oral erythropoiesis stimulating agent (HIF-PHI)",
+      "apresentacao": "Tablets: 20mg, 50mg, 70mg, 100mg",
+      "interacaoMedicamento": "Caution with CYP2C8 inhibitors (e.g. gemfibrozil), potassium-altering agents",
+      "posologia": "Typically 70–100mg TID based on weight and hemoglobin response",
+      "armazenamento": "Store at 15–30°C, protect from moisture/light",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Uncontrolled hypertension, active malignancy, hypersensitivity",
+      "cuidadosMedicos": "Monitor hemoglobin, BP, electrolytes, liver function, thrombosis signs",
+      "cuidadosFarmaceuticos": "Counsel on adherence and drug interactions",
+      "cuidadosEnfermagem": "Monitor for hypertension, edema, hematologic response",
+      "fontesBibliograficas": "EMA, NMPA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Roxadustat",
+      "suspension": "Suspender 3–5 días antes de cirugía electiva mayor",
+      "risk": "Riesgo de hipertensión, trombosis, aumento de viscosidad y alteraciones hemodinámicas perioperatorias",
+      "reintroduction": "Reiniciar tras recuperación y normalización de PA y función hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Roxadustat",
+      "nomeComercial": "Evrenzo",
+      "mecanismoAcao": "Inhibidor de la HIF-prolil-hidroxilasa; estimula EPO endógena y absorción de hierro",
+      "farmacocinetica": "Oral; metabolismo hepático (CYP2C8); eliminación biliar y renal; t½ ~12h",
+      "farmacodinamica": "Incrementa hemoglobina sin EPO exógena; mejora parámetros hematológicos",
+      "indicacoes": "Anemia en ERC (aprobado en UE, China, Japón)",
+      "reacoesAdversas": "Hipertensión, hiperpotasemia, trombosis, cefalea, edema, diarrea",
+      "riscoGravidez": "No clasificado – evitar uso",
+      "riscoLactacao": "Evitar en lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "120mg tres veces por semana",
+      "doseMinima": "20mg tres veces por semana",
+      "classificacao": "Agente estimulante oral de eritropoyesis (HIF-PHI)",
+      "apresentacao": "Comprimidos de 20, 50, 70 y 100mg",
+      "interacaoMedicamento": "Precaución con gemfibrozilo y fármacos que alteran potasio",
+      "posologia": "Dosis inicial según peso; mantener 3x/semana",
+      "armazenamento": "15–30°C, protegido de humedad y luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipertensión no controlada, cáncer activo",
+      "cuidadosMedicos": "Control de Hb, PA, electrolitos, función hepática",
+      "cuidadosFarmaceuticos": "Asegurar adherencia y evitar interacciones",
+      "cuidadosEnfermagem": "Vigilar signos de trombosis y respuesta hematológica",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "罗沙司他",
+      "suspension": "择期中到大型手术前停药3–5天",
+      "risk": "可能引发高血压、血栓、血液黏稠度升高；术中影响血流动力学稳定性",
+      "reintroduction": "术后恢复稳定，血压控制后可恢复用药；监测肝功能和血红蛋白"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "罗沙司他",
+      "nomeComercial": "爱瑞卓（Evrenzo）",
+      "mecanismoAcao": "HIF-脯氨酰羟化酶抑制剂；激活内源性EPO表达并促进铁代谢",
+      "farmacocinetica": "口服吸收好，肝代谢（CYP2C8/UGT）；半衰期约12小时；粪便和肾排泄",
+      "farmacodinamica": "无需外源性EPO即可提升Hb，改善贫血",
+      "indicacoes": "慢性肾病相关贫血（透析与非透析）",
+      "reacoesAdversas": "高血压、血栓、腹泻、头痛、水肿、高钾血症",
+      "riscoGravidez": "尚未分类 – 避免使用",
+      "riscoLactacao": "哺乳期不推荐",
+      "administracao": "口服",
+      "doseMaxima": "每次120mg，每周3次",
+      "doseMinima": "每次20mg，每周3次",
+      "classificacao": "口服促红细胞生成刺激剂（HIF-PHI类）",
+      "apresentacao": "片剂：20、50、70、100mg",
+      "interacaoMedicamento": "与CYP2C8抑制剂（如吉非贝齐）或钾调节药需谨慎",
+      "posologia": "按体重和Hb调整，每周三次",
+      "armazenamento": "15–30°C，避光避湿",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "未控制高血压、活动性肿瘤",
+      "cuidadosMedicos": "监测Hb、电解质、肝功能、血压",
+      "cuidadosFarmaceuticos": "提醒服药规律与药物相互作用",
+      "cuidadosEnfermagem": "观察高血压、血栓征象与疗效",
+      "fontesBibliograficas": "中国药典、EMA、NMPA、Micromedex"
+    }
+  }
+}

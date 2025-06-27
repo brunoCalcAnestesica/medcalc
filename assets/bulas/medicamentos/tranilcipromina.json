@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tranilcipromina",
+      "suspension": "Suspender 14 dias antes da cirurgia eletiva",
+      "risk": "Risco de crise hipertensiva com anestésicos, opioides e alimentos com tiramina; interação grave com ISRS, IRSN e simpatomiméticos",
+      "reintroduction": "Reintroduzir no mínimo 7 dias após cirurgia, com paciente hemodinamicamente estável e sem uso de serotoninérgicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tranilcipromina",
+      "nomeComercial": "Parnate, Jatrosom, Tranxene",
+      "mecanismoAcao": "Inibidor irreversível e não seletivo da monoamina oxidase (MAO-A e MAO-B), aumentando dopamina, noradrenalina e serotonina",
+      "farmacocinetica": "Absorção oral rápida, metabolização hepática, meia-vida curta (~2h), efeito prolongado pela inibição enzimática irreversível",
+      "farmacodinamica": "Antidepressivo potente usado em depressão resistente; efeito ansiolítico e estimulante; exige cuidados com dieta e interações",
+      "indicacoes": "Transtorno depressivo maior resistente, distimia grave, depressão atípica",
+      "reacoesAdversas": "Hipotensão ortostática, insônia, ansiedade, boca seca, ganho de peso, crise hipertensiva com alimentos ricos em tiramina",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; não recomendado durante amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "60mg/dia",
+      "doseMinima": "10mg/dia",
+      "classificacao": "Inibidor irreversível da MAO-A e MAO-B (IMAO não seletivo)",
+      "apresentacao": "Comprimidos de 10mg",
+      "interacaoMedicamento": "Interage com ISRS, IRSN, TCA, tramadol, petidina, simpaticomiméticos, descongestionantes e alimentos com tiramina",
+      "posologia": "Iniciar com 10mg 2x/dia, aumentar gradualmente até 30–60mg/dia conforme resposta e tolerância",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Recomendar dieta pobre em tiramina durante e por 2 semanas após interrupção",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso com ISRS, IRSN, TCA, anestésicos halogenados, feocromocitoma, AVC recente",
+      "cuidadosMedicos": "Monitorar PA, sinais autonômicos, função hepática, e evitar interações medicamentosas graves",
+      "cuidadosFarmaceuticos": "Orientar sobre risco de alimentos com tiramina, adesão ao intervalo entre classes farmacológicas",
+      "cuidadosEnfermagem": "Observar sintomas de hipertensão, ansiedade, agitação e efeitos anticolinérgicos",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, NICE"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tranylcypromine",
+      "suspension": "Discontinue 14 days prior to elective surgery",
+      "risk": "Hypertensive crisis risk with anesthetics and opioids; interacts with serotonergic drugs, sympathomimetics, and tyramine-rich foods",
+      "reintroduction": "Restart at least 7 days post-op if patient is stable and off serotonergic agents"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tranylcypromine Sulfate",
+      "nomeComercial": "Parnate",
+      "mecanismoAcao": "Non-selective, irreversible monoamine oxidase inhibitor (MAO-A and MAO-B)",
+      "farmacocinetica": "Rapid oral absorption, short plasma half-life (~2h), hepatic metabolism, prolonged effect via enzyme inhibition",
+      "farmacodinamica": "Increases central levels of serotonin, norepinephrine and dopamine; energizing antidepressant",
+      "indicacoes": "Treatment-resistant depression, atypical depression",
+      "reacoesAdversas": "Orthostatic hypotension, insomnia, agitation, weight gain, hypertensive crisis with tyramine",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; not recommended during breastfeeding",
+      "administracao": "Oral route",
+      "doseMaxima": "60mg/day",
+      "doseMinima": "10mg/day",
+      "classificacao": "Non-selective monoamine oxidase inhibitor (MAOI)",
+      "apresentacao": "Tablets: 10mg",
+      "interacaoMedicamento": "Interacts with SSRIs, SNRIs, TCAs, meperidine, tramadol, decongestants, anesthetics, tyramine-rich foods",
+      "posologia": "Start 10mg BID; titrate to 30–60mg/day as tolerated",
+      "armazenamento": "Store at 15–30°C, away from light",
+      "preparo": "Advise low-tyramine diet and 2-week washout period from serotonergic agents",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Use with SSRIs/SNRIs/TCAs, recent stroke, pheochromocytoma, sympathomimetic drugs",
+      "cuidadosMedicos": "Monitor BP, hepatic function, mental status; avoid drug/food interactions",
+      "cuidadosFarmaceuticos": "Warn about dietary and drug interactions, washout timing, and adherence",
+      "cuidadosEnfermagem": "Observe for agitation, hypertension, neurological symptoms",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, APA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tranilcipromina",
+      "suspension": "Suspender 14 días antes de cirugía electiva",
+      "risk": "Riesgo de crisis hipertensiva con anestesia, opioides y alimentos con tiramina; interacciones con ISRS, IRSN, simpaticomiméticos",
+      "reintroduction": "Reintroducir mínimo 7 días después de cirugía si el paciente está estable y sin serotoninérgicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tranilcipromina",
+      "nomeComercial": "Parnate, Tranxilium",
+      "mecanismoAcao": "Inhibidor irreversible y no selectivo de la MAO-A y MAO-B",
+      "farmacocinetica": "Buena absorción oral, vida media corta (~2h), metabolismo hepático, efecto prolongado por inhibición enzimática",
+      "farmacodinamica": "Potente antidepresivo con efecto activador, indicado en depresión resistente o atípica",
+      "indicacoes": "Depresión resistente, depresión atípica, distimia grave",
+      "reacoesAdversas": "Hipotensión ortostática, insomnio, agitación, aumento de peso, crisis hipertensiva por alimentos con tiramina",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; no recomendado durante la lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "60mg/día",
+      "doseMinima": "10mg/día",
+      "classificacao": "IMAO no selectivo e irreversible",
+      "apresentacao": "Comprimidos: 10mg",
+      "interacaoMedicamento": "Interacciones con ISRS, IRSN, tricíclicos, tramadol, anestésicos, meperidina, alimentos con tiramina",
+      "posologia": "Iniciar con 10mg 2x/día; ajustar hasta 30–60mg/día",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "Recomendar dieta baja en tiramina; respetar lavado farmacológico de 14 días",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "AVC reciente, uso con IMAO, ISRS, IRSN, feocromocitoma",
+      "cuidadosMedicos": "Monitorear PA, función hepática, estado mental y síntomas autonómicos",
+      "cuidadosFarmaceuticos": "Explicar interacciones alimentarias y farmacológicas; evitar suspensión abrupta",
+      "cuidadosEnfermagem": "Observar agitación, crisis hipertensiva, alteraciones neurológicas",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "三氟苯丙胺",
+      "suspension": "术前14天停药",
+      "risk": "术中与麻醉剂、阿片类药联用可导致高血压危象，与5-HT药物或含酪胺食物联合使用风险大",
+      "reintroduction": "术后7天、患者稳定且未使用血清素药物时可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "三氟苯丙胺（盐酸盐）",
+      "nomeComercial": "帕奈特 Parnate",
+      "mecanismoAcao": "非选择性、不可逆的单胺氧化酶抑制剂（MAO-A与MAO-B）",
+      "farmacocinetica": "口服吸收迅速，半衰期短（约2小时），肝代谢，因酶抑制作用持久",
+      "farmacodinamica": "激活型抗抑郁药，适用于难治性抑郁症或非典型抑郁症",
+      "indicacoes": "重度抑郁症、非典型抑郁、持续性情绪障碍",
+      "reacoesAdversas": "体位性低血压、失眠、焦躁、体重增加、高血压危象（与高酪胺饮食相关）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否分泌入乳未知，哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日60毫克",
+      "doseMinima": "每日10毫克",
+      "classificacao": "不可逆非选择性单胺氧化酶抑制剂",
+      "apresentacao": "片剂：10mg",
+      "interacaoMedicamento": "与SSRIs、SNRIs、TCA、麻黄碱、麻醉药、曲马多、富含酪胺食物相互作用",
+      "posologia": "起始剂量10mg每日两次，可根据耐受性逐步增加至60mg",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "建议使用者严格遵循低酪胺饮食，并遵守洗脱期",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "使用ISRS/IRSN/TCA、嗜铬细胞瘤、中风病史、麻醉剂合用",
+      "cuidadosMedicos": "监测血压、肝功能、意识状态和潜在的药物相互作用",
+      "cuidadosFarmaceuticos": "强调饮食控制、药物洗脱间隔和依从性",
+      "cuidadosEnfermagem": "观察血压、躁动、神志状态变化",
+      "fontesBibliograficas": "NMPA, FDA, WHO, Micromedex"
+    }
+  }
+}

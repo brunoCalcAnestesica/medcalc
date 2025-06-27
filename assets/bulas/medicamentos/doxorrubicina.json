@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Doxorrubicina",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva de grande porte",
+      "risk": "Risco de mielossupressão, cardiotoxicidade e retardo de cicatrização",
+      "reintroduction": "Reintroduzir após normalização hematológica e recuperação clínica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Doxorrubicina",
+      "nomeComercial": "Adriblastina, Doxopeg, Caelyx (lipossomal)",
+      "mecanismoAcao": "Intercala-se no DNA e inibe a topoisomerase II, promovendo quebras no DNA e geração de radicais livres",
+      "farmacocinetica": "Administração IV, metabolismo hepático, meia-vida bifásica ~20–30 h",
+      "farmacodinamica": "Citotóxico que interfere na replicação celular; toxicidade cumulativa cardíaca",
+      "indicacoes": "Neoplasias hematológicas e sólidas: leucemias, linfomas, câncer de mama, ovário, sarcomas",
+      "reacoesAdversas": "Mielossupressão, alopecia, mucosite, náusea, vômito, cardiomiopatia, extravasamento tecidual",
+      "riscoGravidez": "Categoria D – evitar uso em gestantes",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intravenosa (bolus ou infusão)",
+      "doseMaxima": "450–550 mg/m² (dose cumulativa)",
+      "doseMinima": "20–25 mg/m² por ciclo",
+      "classificacao": "Antineoplásico antraciclina",
+      "apresentacao": "Frascos-ampola 10 mg, 50 mg, 100 mg; formulação lipossomal em 20 mg/10 mL",
+      "interacaoMedicamento": "Interação com ciclosporina, trastuzumabe, verapamil, agentes cardiotóxicos",
+      "posologia": "60–75 mg/m² IV a cada 21 dias ou em esquemas fracionados",
+      "armazenamento": "Refrigerado antes da reconstituição; proteger da luz",
+      "preparo": "Diluir em SF 0,9% para infusão lenta; evitar extravasamento",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Insuficiência cardíaca, hipersensibilidade, gravidez, neutropenia severa",
+      "cuidadosMedicos": "Avaliar função cardíaca (eco/FEVE) antes e durante uso",
+      "cuidadosFarmaceuticos": "Orientar sobre toxicidade cumulativa e sinais de extravasamento",
+      "cuidadosEnfermagem": "Monitorar acesso venoso, sinais de mucosite, cardiotoxicidade",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Doxorubicin",
+      "suspension": "Hold 7 days before major elective surgery",
+      "risk": "Risk of myelosuppression, cardiotoxicity, delayed wound healing",
+      "reintroduction": "Resume after hematologic recovery and clinical stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Doxorubicin",
+      "nomeComercial": "Adriamycin, Doxil (liposomal)",
+      "mecanismoAcao": "Intercalates into DNA, inhibits topoisomerase II, generates free radicals leading to DNA damage",
+      "farmacocinetica": "IV administration, hepatic metabolism, biphasic half-life ~20–30 h",
+      "farmacodinamica": "Cytotoxic; interferes with DNA replication and causes cardiotoxicity",
+      "indicacoes": "Leukemias, lymphomas, breast cancer, ovarian cancer, sarcomas",
+      "reacoesAdversas": "Myelosuppression, alopecia, mucositis, nausea, vomiting, cardiomyopathy, tissue necrosis on extravasation",
+      "riscoGravidez": "Category D – avoid in pregnancy",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "IV (bolus or infusion)",
+      "doseMaxima": "450–550 mg/m² cumulative dose",
+      "doseMinima": "20–25 mg/m² per cycle",
+      "classificacao": "Anthracycline antineoplastic",
+      "apresentacao": "Vials 10 mg, 50 mg, 100 mg; liposomal: 20 mg/10 mL",
+      "interacaoMedicamento": "Interacts with cyclosporine, trastuzumab, verapamil, cardiotoxic agents",
+      "posologia": "60–75 mg/m² IV every 21 days or in divided doses",
+      "armazenamento": "Refrigerated before reconstitution; protect from light",
+      "preparo": "Dilute in NS for slow infusion; extravasation precautions",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Heart failure, hypersensitivity, pregnancy, severe neutropenia",
+      "cuidadosMedicos": "Assess cardiac function before/during therapy",
+      "cuidadosFarmaceuticos": "Monitor cumulative dose; educate on cardiotoxicity",
+      "cuidadosEnfermagem": "Check IV site; monitor mucositis and cardiac signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Doxorrubicina",
+      "suspension": "Suspender 7 días antes de cirugía mayor electiva",
+      "risk": "Riesgo de mielosupresión, cardiotoxicidad y cicatrización lenta",
+      "reintroduction": "Reintroducir tras recuperación hematológica y estabilidad clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Doxorrubicina",
+      "nomeComercial": "Adriblastina, Doxil",
+      "mecanismoAcao": "Se intercala en el ADN, inhibe la topoisomerasa II y genera radicales libres",
+      "farmacocinetica": "IV, metabolismo hepático, vida media 20–30 h",
+      "farmacodinamica": "Causa daño al ADN y efectos citotóxicos, especialmente en el miocardio",
+      "indicacoes": "Leucemias, linfomas, cáncer de mama, ovario, sarcomas",
+      "reacoesAdversas": "Mielosupresión, alopecia, mucositis, náuseas, vómitos, miocardiopatía",
+      "riscoGravidez": "Categoría D – evitar durante el embarazo",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "IV (bolo o infusión)",
+      "doseMaxima": "450–550 mg/m² (dosis acumulada)",
+      "doseMinima": "20–25 mg/m² por ciclo",
+      "classificacao": "Antineoplásico, antraciclina",
+      "apresentacao": "Viales 10, 50, 100 mg; liposomal 20 mg/10 mL",
+      "interacaoMedicamento": "Interacciones con inmunosupresores y fármacos cardiotóxicos",
+      "posologia": "60–75 mg/m² cada 21 días o en dosis divididas",
+      "armazenamento": "Refrigerar antes de reconstituir; proteger de la luz",
+      "preparo": "Diluir en SF 0,9%; infundir lentamente",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "IC, embarazo, neutropenia severa, hipersensibilidad",
+      "cuidadosMedicos": "Monitoreo cardíaco y hematológico frecuente",
+      "cuidadosFarmaceuticos": "Informar sobre toxicidad cardíaca acumulativa",
+      "cuidadosEnfermagem": "Observar extravasación, mucositis, alteraciones cardíacas",
+      "fontesBibliograficas": "AEMPS, EMA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "多柔比星",
+      "suspension": "大手术前7天停药",
+      "risk": "骨髓抑制、心毒性、术后愈合延迟风险",
+      "reintroduction": "血象恢复正常且患者稳定后可重启治疗"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多柔比星",
+      "nomeComercial": "Adriamycin, Doxil",
+      "mecanismoAcao": "插入DNA抑制拓扑异构酶II，诱导DNA断裂和自由基生成",
+      "farmacocinetica": "静脉给药，经肝代谢，双相半衰期20–30小时",
+      "farmacodinamica": "干扰细胞分裂，具有心脏毒性",
+      "indicacoes": "白血病、淋巴瘤、乳腺癌、卵巢癌、肉瘤",
+      "reacoesAdversas": "脱发、骨髓抑制、粘膜炎、恶心、呕吐、心肌病、组织坏死",
+      "riscoGravidez": "D类 – 孕期禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "静脉注射（推注或输注）",
+      "doseMaxima": "累计450–550 mg/m²",
+      "doseMinima": "每周期20–25 mg/m²",
+      "classificacao": "抗肿瘤药，蒽环类",
+      "apresentacao": "注射用粉针10, 50, 100 mg；脂质体制剂20 mg/10 mL",
+      "interacaoMedicamento": "与免疫抑制剂、心脏毒性药物相互作用",
+      "posologia": "每21天60–75 mg/m²，或分次给予",
+      "armazenamento": "冷藏保存，避光",
+      "preparo": "用0.9%氯化钠稀释，缓慢注射，避免外渗",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "心衰、妊娠、重度中性粒细胞减少",
+      "cuidadosMedicos": "开始与疗程中监测心功能",
+      "cuidadosFarmaceuticos": "警惕累计剂量限制与药物外渗",
+      "cuidadosEnfermagem": "关注静脉通路、粘膜炎和心脏不良反应",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

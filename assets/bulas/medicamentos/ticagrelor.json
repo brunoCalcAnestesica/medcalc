@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ticagrelor",
+      "suspension": "Suspender 5 dias antes da cirurgia",
+      "risk": "Alto risco de sangramento perioperatório; inibição reversível da agregação plaquetária",
+      "reintroduction": "Reintroduzir após 24h da cirurgia com hemostasia eficaz e orientação cardiológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ticagrelor",
+      "nomeComercial": "Brilinta, Possia",
+      "mecanismoAcao": "Inibidor reversível do receptor P2Y12 de ADP nas plaquetas",
+      "farmacocinetica": "Via oral, início em ~30 minutos, meia-vida de 7 horas (ativo) e 8,5 horas (metabólito)",
+      "farmacodinamica": "Inibe agregação plaquetária de forma dose-dependente e reversível",
+      "indicacoes": "Síndrome coronariana aguda, prevenção de eventos trombóticos em DAC",
+      "reacoesAdversas": "Dispneia, sangramentos, bradicardia, aumento de creatinina e ácido úrico",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar; excreção no leite desconhecida",
+      "administracao": "Oral",
+      "doseMaxima": "180 mg/dia (90 mg 2x/dia)",
+      "doseMinima": "60 mg 2x/dia (manutenção prolongada)",
+      "classificacao": "Antiagregante plaquetário (inibidor P2Y12 reversível)",
+      "apresentacao": "Comprimidos de 60 mg e 90 mg",
+      "interacaoMedicamento": "Interage com inibidores e indutores da CYP3A4, anticoagulantes, AINEs",
+      "posologia": "Dose de ataque: 180 mg; manutenção: 90 mg 2x/dia",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Sangramento ativo, histórico de hemorragia intracraniana, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar sinais de sangramento, função renal e hepática",
+      "cuidadosFarmaceuticos": "Orientar suspensão pré-operatória com antecedência adequada",
+      "cuidadosEnfermagem": "Observar sinais de sangramento e dispneia",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, ESC, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ticagrelor",
+      "suspension": "Discontinue 5 days prior to surgery",
+      "risk": "High risk of perioperative bleeding; reversible platelet inhibition",
+      "reintroduction": "Restart 24h post-op with stable hemostasis and cardiology advice"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ticagrelor",
+      "nomeComercial": "Brilinta",
+      "mecanismoAcao": "Reversible P2Y12 ADP receptor antagonist on platelets",
+      "farmacocinetica": "Oral, onset ~30 min, half-life 7h (active), 8.5h (metabolite)",
+      "farmacodinamica": "Dose-dependent reversible platelet inhibition",
+      "indicacoes": "ACS, prevention of thrombotic events in CAD",
+      "reacoesAdversas": "Dyspnea, bleeding, bradycardia, increased creatinine and uric acid",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid; unknown if excreted in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "180 mg/day (90 mg BID)",
+      "doseMinima": "60 mg BID (long-term maintenance)",
+      "classificacao": "Reversible P2Y12 platelet inhibitor",
+      "apresentacao": "Tablets 60 mg, 90 mg",
+      "interacaoMedicamento": "Interacts with CYP3A4 inhibitors/inducers, anticoagulants, NSAIDs",
+      "posologia": "Loading: 180 mg; Maintenance: 90 mg BID",
+      "armazenamento": "Room temp, protect from moisture",
+      "preparo": "No special preparation",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active bleeding, history of intracranial hemorrhage, severe hepatic impairment",
+      "cuidadosMedicos": "Monitor for bleeding, renal and liver function",
+      "cuidadosFarmaceuticos": "Ensure pre-op discontinuation with appropriate timing",
+      "cuidadosEnfermagem": "Monitor for bleeding and dyspnea",
+      "fontesBibliograficas": "FDA, BNF, Micromedex, UpToDate, ESC"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ticagrelor",
+      "suspension": "Suspender 5 días antes de la cirugía",
+      "risk": "Alto riesgo de sangrado perioperatorio; inhibición reversible de la agregación plaquetaria",
+      "reintroduction": "Reintroducir 24h después de la cirugía con hemostasia eficaz y evaluación cardiológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ticagrelor",
+      "nomeComercial": "Brilinta",
+      "mecanismoAcao": "Antagonista reversible del receptor P2Y12 del ADP en plaquetas",
+      "farmacocinetica": "Vía oral, inicio ~30 min, vida media 7 h (activo), 8.5 h (metabolito)",
+      "farmacodinamica": "Inhibición reversible y dependiente de dosis de la agregación plaquetaria",
+      "indicacoes": "Síndrome coronario agudo, prevención de eventos trombóticos",
+      "reacoesAdversas": "Disnea, sangrado, bradicardia, creatinina y ácido úrico elevados",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar; se desconoce si se excreta en la leche",
+      "administracao": "Oral",
+      "doseMaxima": "180 mg/día (90 mg 2x/día)",
+      "doseMinima": "60 mg 2x/día",
+      "classificacao": "Antiagregante plaquetario reversible (inhibidor P2Y12)",
+      "apresentacao": "Comprimidos de 60 y 90 mg",
+      "interacaoMedicamento": "Interacciones con inhibidores/inductores CYP3A4, anticoagulantes, AINEs",
+      "posologia": "Carga: 180 mg; mantenimiento: 90 mg 2x/día",
+      "armazenamento": "Ambiente, protegido de la humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Sangrado activo, HIC previa, insuficiencia hepática grave",
+      "cuidadosMedicos": "Controlar sangrados, función renal y hepática",
+      "cuidadosFarmaceuticos": "Suspender con antelación adecuada preoperatoriamente",
+      "cuidadosEnfermagem": "Observar sangrado y disnea",
+      "fontesBibliograficas": "AEMPS, BNF, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "替卡格雷",
+      "suspension": "术前5天停药",
+      "risk": "术中出血风险高；可逆性抑制血小板聚集",
+      "reintroduction": "术后24小时在止血充分基础上重新使用，需心脏科评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "替卡格雷",
+      "nomeComercial": "倍林达",
+      "mecanismoAcao": "可逆性P2Y12 ADP受体拮抗剂",
+      "farmacocinetica": "口服，起效约30分钟，半衰期7小时（原药）、8.5小时（代谢物）",
+      "farmacodinamica": "剂量依赖性、可逆性抑制血小板聚集",
+      "indicacoes": "急性冠脉综合征，冠心病血栓事件预防",
+      "reacoesAdversas": "呼吸困难、出血、心动过缓、肌酐和尿酸升高",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免使用；尚不明确是否分泌入乳汁",
+      "administracao": "口服",
+      "doseMaxima": "每日180毫克（90毫克一日两次）",
+      "doseMinima": "每日120毫克（60毫克一日两次）",
+      "classificacao": "可逆性P2Y12血小板抑制剂",
+      "apresentacao": "片剂：60毫克、90毫克",
+      "interacaoMedicamento": "与CYP3A4抑制剂/诱导剂、抗凝药、NSAIDs相互作用",
+      "posologia": "负荷剂量：180毫克；维持剂量：90毫克一日两次",
+      "armazenamento": "室温保存，避免潮湿",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性出血、既往颅内出血、重度肝功能障碍",
+      "cuidadosMedicos": "监测出血、肾肝功能",
+      "cuidadosFarmaceuticos": "术前需提前停药",
+      "cuidadosEnfermagem": "观察出血及呼吸困难",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、ESC"
+    }
+  }
+}

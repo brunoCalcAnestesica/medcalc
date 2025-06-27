@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Pembrolizumabe",
+      "suspension": "Suspender 30 dias antes da cirurgia eletiva",
+      "risk": "Risco de reações imunomediadas (pneumonite, colite, endocrinopatias) e atraso na cicatrização",
+      "reintroduction": "Reintroduzir após completa resolução de eventos adversos imunológicos e cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pembrolizumabe",
+      "nomeComercial": "Keytruda",
+      "mecanismoAcao": "Anticorpo monoclonal que bloqueia PD-1, reativando linfócitos T na resposta imune antitumoral",
+      "farmacocinetica": "Meia-vida de ~22 dias; metabolização por vias proteolíticas; via intravenosa",
+      "farmacodinamica": "Inibição do ponto de controle imunológico PD-1, promovendo ativação imune contra células tumorais",
+      "indicacoes": "Melanoma, NSCLC, carcinoma urotelial, linfoma de Hodgkin, câncer gástrico, esofágico, endometrial, cervical, cabeça e pescoço, entre outros",
+      "reacoesAdversas": "Fadiga, prurido, diarreia, rash, hipofisite, tireoidite, pneumonite, colite, hepatite",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado durante lactação",
+      "administracao": "Via intravenosa",
+      "doseMaxima": "400 mg a cada 6 semanas",
+      "doseMinima": "200 mg a cada 3 semanas",
+      "classificacao": "Antineoplásico – anticorpo monoclonal anti-PD-1",
+      "apresentacao": "Frascos de 100 mg/4 mL",
+      "interacaoMedicamento": "Aumenta risco de toxicidade com outros imunoterápicos; pode requerer corticosteroides para manejo de efeitos adversos",
+      "posologia": "200 mg IV a cada 3 semanas ou 400 mg IV a cada 6 semanas",
+      "armazenamento": "Refrigerado entre 2–8°C, não congelar, proteger da luz",
+      "preparo": "Diluir em SF 0,9% ou SG 5%, administrar por infusão IV em 30 minutos",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Gravidez, doença autoimune ativa grave, infecção sistêmica ativa",
+      "cuidadosMedicos": "Monitorar função hepática, TSH, glicemia, cortisol e sinais de toxicidade imunológica",
+      "cuidadosFarmaceuticos": "Usar técnica asséptica, não agitar, utilizar imediatamente após diluição",
+      "cuidadosEnfermagem": "Observar reações infusionais e sintomas de colite, pneumonite e endocrinopatias",
+      "fontesBibliograficas": "INCA, FDA, EMA, ANVISA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Pembrolizumab",
+      "suspension": "Discontinue 30 days before elective surgery",
+      "risk": "Risk of immune-mediated adverse events (pneumonitis, colitis, endocrinopathies) and delayed healing",
+      "reintroduction": "Restart after resolution of immune-related events and full wound healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pembrolizumab",
+      "nomeComercial": "Keytruda",
+      "mecanismoAcao": "Monoclonal antibody against PD-1, restoring T-cell antitumor immune activity",
+      "farmacocinetica": "Half-life ~22 days; metabolized via proteolytic pathways; IV administration",
+      "farmacodinamica": "Immune checkpoint inhibitor blocking PD-1 to enhance antitumor immunity",
+      "indicacoes": "Melanoma, NSCLC, urothelial carcinoma, Hodgkin lymphoma, gastric, esophageal, cervical, endometrial, HNSCC and others",
+      "reacoesAdversas": "Fatigue, pruritus, diarrhea, rash, pneumonitis, colitis, hepatitis, thyroiditis, hypophysitis",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Intravenous",
+      "doseMaxima": "400 mg every 6 weeks",
+      "doseMinima": "200 mg every 3 weeks",
+      "classificacao": "Antineoplastic – anti-PD-1 monoclonal antibody",
+      "apresentacao": "Vials of 100 mg/4 mL",
+      "interacaoMedicamento": "May increase toxicity with other immunotherapies; corticosteroids often required for irAEs",
+      "posologia": "200 mg IV every 3 weeks or 400 mg IV every 6 weeks",
+      "armazenamento": "Store at 2–8°C, do not freeze, protect from light",
+      "preparo": "Dilute in NS or D5W; infuse over 30 minutes",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Pregnancy, severe active autoimmune disease, active systemic infection",
+      "cuidadosMedicos": "Monitor LFTs, TSH, glucose, cortisol, signs of irAEs",
+      "cuidadosFarmaceuticos": "Aseptic handling, do not shake, use immediately after preparation",
+      "cuidadosEnfermagem": "Monitor for infusion reactions, immune-mediated toxicities",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Pembrolizumab",
+      "suspension": "Suspender 30 días antes de cirugía electiva",
+      "risk": "Riesgo de eventos inmunomediados (neumonitis, colitis, endocrinopatías) y cicatrización tardía",
+      "reintroduction": "Reintroducir tras resolución completa de toxicidades y cicatrización"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Pembrolizumab",
+      "nomeComercial": "Keytruda",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-PD-1 que restaura la respuesta inmune antitumoral de los linfocitos T",
+      "farmacocinetica": "Vida media ~22 días; metabolismo proteolítico; administración IV",
+      "farmacodinamica": "Inhibidor de checkpoint inmunológico que bloquea PD-1, aumentando la inmunidad antitumoral",
+      "indicacoes": "Melanoma, cáncer pulmonar, gástrico, esofágico, urotelial, linfoma de Hodgkin, cuello uterino, endometrio, cabeza y cuello",
+      "reacoesAdversas": "Fatiga, prurito, diarrea, rash, neumonitis, colitis, hepatitis, hipofisitis, tiroiditis",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía intravenosa",
+      "doseMaxima": "400 mg cada 6 semanas",
+      "doseMinima": "200 mg cada 3 semanas",
+      "classificacao": "Antineoplásico – anticuerpo monoclonal anti-PD-1",
+      "apresentacao": "Frasco de 100 mg/4 mL",
+      "interacaoMedicamento": "Mayor toxicidad con otros inmunoterápicos; puede requerir corticoides",
+      "posologia": "200 mg IV cada 3 semanas o 400 mg cada 6 semanas",
+      "armazenamento": "2–8°C, no congelar, proteger de la luz",
+      "preparo": "Diluir en SF 0,9% o SG 5%; infundir en 30 minutos",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Embarazo, enfermedad autoinmune grave, infección sistémica activa",
+      "cuidadosMedicos": "Controlar enzimas hepáticas, TSH, cortisol, glicemia y toxicidad inmune",
+      "cuidadosFarmaceuticos": "Técnica aséptica, no agitar, usar inmediatamente",
+      "cuidadosEnfermagem": "Observar reacciones inmunológicas, síntomas de colitis y neumonitis",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "帕博利珠单抗",
+      "suspension": "术前30天停药",
+      "risk": "免疫相关毒性反应（肺炎、结肠炎、内分泌病）和愈合延迟风险",
+      "reintroduction": "待免疫毒性缓解及术后伤口愈合后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "帕博利珠单抗",
+      "nomeComercial": "可瑞达（Keytruda）",
+      "mecanismoAcao": "PD-1单克隆抗体，通过阻断PD-1增强T细胞的抗肿瘤免疫功能",
+      "farmacocinetica": "半衰期约22天；蛋白降解代谢；静脉注射",
+      "farmacodinamica": "阻断免疫检查点，激活免疫系统攻击肿瘤",
+      "indicacoes": "黑色素瘤、非小细胞肺癌、尿路癌、胃癌、宫颈癌、淋巴瘤、食管癌、头颈癌等",
+      "reacoesAdversas": "乏力、皮疹、腹泻、瘙痒、肺炎、肝炎、甲状腺炎、结肠炎、垂体炎",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉输注",
+      "doseMaxima": "每6周400毫克",
+      "doseMinima": "每3周200毫克",
+      "classificacao": "抗肿瘤药 – 抗PD-1单克隆抗体",
+      "apresentacao": "注射液100 mg/4 mL",
+      "interacaoMedicamento": "与其他免疫治疗合用时毒性增加；部分患者需使用糖皮质激素处理不良反应",
+      "posologia": "每3周200 mg或每6周400 mg，30分钟静脉输注",
+      "armazenamento": "2–8°C冷藏，避光，不可冷冻",
+      "preparo": "用0.9%氯化钠或5%葡萄糖稀释后立即使用",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "妊娠、严重活动性自身免疫病、系统性感染",
+      "cuidadosMedicos": "监测肝酶、甲状腺功能、血糖、皮质醇、免疫毒性体征",
+      "cuidadosFarmaceuticos": "无菌环境下配制，不得摇晃，立即使用",
+      "cuidadosEnfermagem": "观察输注反应、肺炎、内分泌失调等早期症状",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Secuquinumabe",
+      "suspension": "Suspender antes de cirurgias maiores; risco de infecções graves e interferência na cicatrização",
+      "risk": "Risco de infecções fúngicas, herpes, tuberculose latente, diarreia e exacerbação de doença inflamatória intestinal",
+      "reintroduction": "Reintroduzir após completa cicatrização cirúrgica e avaliação infecciosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Secuquinumabe",
+      "nomeComercial": "Cosentyx",
+      "mecanismoAcao": "Anticorpo monoclonal humano que inibe seletivamente a interleucina-17A (IL-17A), bloqueando inflamação mediada por Th17",
+      "farmacocinetica": "Subcutâneo; pico em 5-6 dias; meia-vida ~27 dias; metabolismo proteico",
+      "farmacodinamica": "Reduz a resposta inflamatória em doenças autoimunes ao bloquear IL-17A",
+      "indicacoes": "Psoríase em placas moderada a grave, artrite psoriásica, espondilite anquilosante, hidradenite supurativa",
+      "reacoesAdversas": "Infecções do trato respiratório, candidíase, diarreia, dor abdominal, reação no local da injeção",
+      "riscoGravidez": "Categoria não definida; evitar uso durante a gestação salvo se estritamente necessário",
+      "riscoLactacao": "Desconhecido; evitar amamentação durante e até 20 semanas após última dose",
+      "administracao": "Via subcutânea",
+      "doseMaxima": "300 mg por semana nas fases de indução (dividido em duas injeções de 150 mg)",
+      "doseMinima": "150 mg por mês (dependendo da indicação)",
+      "classificacao": "Anticorpo monoclonal anti-IL-17A",
+      "apresentacao": "Solução injetável 150 mg/mL em caneta ou seringa",
+      "interacaoMedicamento": "Evitar uso concomitante com imunossupressores potentes e vacinas vivas",
+      "posologia": "Indução: 150 ou 300 mg SC nas semanas 0, 1, 2, 3, 4; manutenção: 150/300 mg SC mensal",
+      "armazenamento": "Refrigerado (2–8°C); não congelar; proteger da luz",
+      "preparo": "Retirar da geladeira 15–30 minutos antes da aplicação; uso direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecção ativa grave, hipersensibilidade ao secuquinumabe",
+      "cuidadosMedicos": "Avaliar tuberculose latente, infecções fúngicas e digestivas antes do início",
+      "cuidadosFarmaceuticos": "Verificar validade, integridade do produto e temperatura",
+      "cuidadosEnfermagem": "Educar sobre sinais de infecção; avaliar local de aplicação",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Secukinumab",
+      "suspension": "Hold before major surgery due to infection and wound healing risk",
+      "risk": "URTI, fungal infections, IBD exacerbation, herpes; screen for latent TB",
+      "reintroduction": "Restart after complete wound healing and infection clearance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Secukinumab",
+      "nomeComercial": "Cosentyx",
+      "mecanismoAcao": "Human monoclonal antibody targeting IL-17A, reducing Th17-mediated inflammation",
+      "farmacocinetica": "SC; peak ~5–6 days; half-life ~27 days; proteolytic metabolism",
+      "farmacodinamica": "Suppresses inflammatory cytokine IL-17A in autoimmune disease",
+      "indicacoes": "Plaque psoriasis, psoriatic arthritis, ankylosing spondylitis, hidradenitis suppurativa",
+      "reacoesAdversas": "Nasopharyngitis, diarrhea, oral candidiasis, abdominal pain, injection site reactions",
+      "riscoGravidez": "Not assigned; avoid unless benefits outweigh risks",
+      "riscoLactacao": "Unknown; avoid breastfeeding during and 20 weeks after treatment",
+      "administracao": "Subcutaneous injection",
+      "doseMaxima": "300 mg/week (induction); divided into 2x150 mg",
+      "doseMinima": "150 mg/month depending on indication",
+      "classificacao": "IL-17A monoclonal antibody",
+      "apresentacao": "150 mg/mL autoinjector or prefilled syringe",
+      "interacaoMedicamento": "Avoid live vaccines and strong immunosuppressants",
+      "posologia": "150–300 mg SC weekly x5 weeks; then monthly",
+      "armazenamento": "Store 36–46°F; do not freeze; protect from light",
+      "preparo": "Allow to reach room temp before injection (15–30 min); do not shake",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe active infections, hypersensitivity",
+      "cuidadosMedicos": "Screen for TB, fungal, and GI infections before starting",
+      "cuidadosFarmaceuticos": "Verify cold chain and device integrity",
+      "cuidadosEnfermagem": "Teach injection technique, infection monitoring",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Secuquinumab",
+      "suspension": "Suspender antes de cirugía mayor; riesgo de infección y mala cicatrización",
+      "risk": "Infecciones fúngicas, candidiasis, herpes, brotes de EII",
+      "reintroduction": "Reiniciar tras recuperación completa y evaluación infecciosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Secuquinumab",
+      "nomeComercial": "Cosentyx",
+      "mecanismoAcao": "Anticuerpo monoclonal contra IL-17A; reduce inflamación mediada por Th17",
+      "farmacocinetica": "SC; pico 5–6 días; t1/2 ~27 días",
+      "farmacodinamica": "Reduce citocinas inflamatorias en enfermedades autoinmunes",
+      "indicacoes": "Psoriasis en placas, artritis psoriásica, espondilitis anquilosante, hidradenitis supurativa",
+      "reacoesAdversas": "Nasofaringitis, candidiasis, dolor abdominal, diarrea",
+      "riscoGravidez": "No recomendado; categoría no asignada",
+      "riscoLactacao": "Evitar lactancia durante y 20 semanas postratamiento",
+      "administracao": "Subcutánea",
+      "doseMaxima": "300 mg/semana (inducción)",
+      "doseMinima": "150 mg/mes (mantenimiento)",
+      "classificacao": "Anticuerpo monoclonal anti-IL-17A",
+      "apresentacao": "Solución SC 150 mg/mL",
+      "interacaoMedicamento": "Evitar vacunas vivas; precaución con inmunosupresores",
+      "posologia": "150–300 mg SC en semanas 0–4; luego mensual",
+      "armazenamento": "2–8°C; no congelar",
+      "preparo": "Esperar 30 min a temperatura ambiente",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infección grave, hipersensibilidad",
+      "cuidadosMedicos": "Cribado de TB, infecciones intestinales",
+      "cuidadosFarmaceuticos": "Verificar temperatura y estabilidad",
+      "cuidadosEnfermagem": "Enseñar autoinyección, controlar infecciones",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "司库奇尤单抗",
+      "suspension": "大手术前需暂停；避免感染与伤口愈合延迟",
+      "risk": "真菌感染、带状疱疹、IBD恶化、呼吸道感染",
+      "reintroduction": "术后完全恢复后可重新给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "司库奇尤单抗",
+      "nomeComercial": "Cosentyx",
+      "mecanismoAcao": "人源单抗靶向IL-17A，抑制Th17通路",
+      "farmacocinetica": "皮下注射；达峰5–6天；半衰期约27天",
+      "farmacodinamica": "抑制自身免疫炎症中的IL-17A信号",
+      "indicacoes": "斑块型银屑病、银屑病关节炎、强直性脊柱炎、化脓性汗腺炎",
+      "reacoesAdversas": "鼻咽炎、口腔念珠菌、腹泻、注射部位反应",
+      "riscoGravidez": "未分级；建议孕期避免使用",
+      "riscoLactacao": "不推荐哺乳期使用（20周内）",
+      "administracao": "皮下注射",
+      "doseMaxima": "每周300 mg（诱导期）",
+      "doseMinima": "每月150 mg",
+      "classificacao": "抗IL-17A单克隆抗体",
+      "apresentacao": "注射笔或预充注射器150 mg/mL",
+      "interacaoMedicamento": "禁用活疫苗；避免与强免疫抑制剂同用",
+      "posologia": "第0–4周每周注射，后每月1次",
+      "armazenamento": "2–8°C冷藏；不可冷冻；避光",
+      "preparo": "注射前静置至室温15–30分钟",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性感染、对本品过敏",
+      "cuidadosMedicos": "治疗前检查肺结核、肠道感染病史",
+      "cuidadosFarmaceuticos": "核对冷链与制剂完整性",
+      "cuidadosEnfermagem": "指导自我注射；监测感染表现",
+      "fontesBibliograficas": "中国药典，FDA，Micromedex，EMA"
+    }
+  }
+}

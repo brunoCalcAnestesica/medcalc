@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ferro polimaltose",
+      "suspension": "Não é necessário suspender em procedimentos cirúrgicos eletivos",
+      "risk": "Risco gastrointestinal leve (náuseas, constipação), escurecimento das fezes, sem risco trombótico",
+      "reintroduction": "Pode ser mantido ou reintroduzido imediatamente após reestabelecimento da via oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidróxido de ferro(III) polimaltose",
+      "nomeComercial": "Ferrex 100, Ferrum, Maltofer",
+      "mecanismoAcao": "Fornece ferro trivalente complexado à polimaltose para absorção intestinal progressiva",
+      "farmacocinetica": "Absorção no duodeno e jejuno proximal; taxa de absorção autorregulada; baixa toxicidade",
+      "farmacodinamica": "Corrige deficiência de ferro e permite síntese de hemoglobina",
+      "indicacoes": "Anemia ferropriva, suplementação durante gravidez/lactação, reposição profilática",
+      "reacoesAdversas": "Dispepsia, náusea, constipação, fezes escurecidas, erupções cutâneas (raro)",
+      "riscoGravidez": "Categoria A – seguro na gestação",
+      "riscoLactacao": "Seguro durante lactação",
+      "administracao": "Oral, com ou sem alimentos",
+      "doseMaxima": "200 mg de ferro elementar/dia (adultos)",
+      "doseMinima": "50 mg/dia (profilaxia)",
+      "classificacao": "Suplemento oral de ferro trivalente",
+      "apresentacao": "Comprimidos mastigáveis, gotas pediátricas, xarope",
+      "interacaoMedicamento": "Poucas interações; não quelante; pode reduzir absorção de tetraciclinas",
+      "posologia": "100–200 mg de ferro elementar/dia, dividido em 1–2 tomadas",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Agitar frascos líquidos antes do uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Sobrecarga de ferro, hemocromatose, anemia não ferropriva",
+      "cuidadosMedicos": "Monitorar hemoglobina e ferritina a cada 1–3 meses",
+      "cuidadosFarmaceuticos": "Educar paciente quanto à adesão e cor das fezes",
+      "cuidadosEnfermagem": "Observar tolerabilidade e continuidade do tratamento",
+      "fontesBibliograficas": "ANVISA, EMA, UpToDate, Micromedex, WHO"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Iron polymaltose",
+      "suspension": "No need to suspend before surgery",
+      "risk": "Low GI side effects; no thrombosis or bleeding risk",
+      "reintroduction": "Can continue or restart as soon as oral intake resumes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Iron(III)-hydroxide polymaltose complex",
+      "nomeComercial": "Maltofer, Ferrex 100",
+      "mecanismoAcao": "Iron bound to polymaltose allows controlled intestinal absorption",
+      "farmacocinetica": "Absorbed in duodenum/jejunum; low toxicity; regulated uptake",
+      "farmacodinamica": "Restores hemoglobin synthesis and iron stores",
+      "indicacoes": "Iron-deficiency anemia, pregnancy supplementation, prophylaxis",
+      "reacoesAdversas": "Nausea, dark stools, constipation, rash (rare)",
+      "riscoGravidez": "Category A – safe",
+      "riscoLactacao": "Safe in breastfeeding",
+      "administracao": "Oral, with or without food",
+      "doseMaxima": "200 mg elemental iron/day",
+      "doseMinima": "50 mg/day (prophylactic)",
+      "classificacao": "Oral trivalent iron supplement",
+      "apresentacao": "Chewable tablets, drops, syrup",
+      "interacaoMedicamento": "Minimal; less binding to other drugs vs. ferrous salts",
+      "posologia": "100–200 mg/day in 1–2 doses",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Shake liquids before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Iron overload, non-IDA anemia",
+      "cuidadosMedicos": "Monitor hemoglobin, ferritin periodically",
+      "cuidadosFarmaceuticos": "Educate on compliance and stool color change",
+      "cuidadosEnfermagem": "Check for GI tolerance and regular intake",
+      "fontesBibliograficas": "FDA, WHO, Lexicomp, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hierro polimaltosa",
+      "suspension": "No es necesario suspender antes de cirugía",
+      "risk": "Efectos GI leves; sin riesgo trombótico",
+      "reintroduction": "Reanudar tan pronto se reinicie la vía oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Complejo hidróxido de hierro(III)-polimaltosa",
+      "nomeComercial": "Maltofer, Ferrex 100",
+      "mecanismoAcao": "Fórmula estable que libera hierro de forma controlada en el intestino",
+      "farmacocinetica": "Absorción en duodeno; baja toxicidad; absorción dependiente del déficit",
+      "farmacodinamica": "Corrige deficiencia de hierro; mejora la eritropoyesis",
+      "indicacoes": "Anemia ferropénica, embarazo, lactancia, profilaxis",
+      "reacoesAdversas": "Estreñimiento, náuseas, heces oscuras",
+      "riscoGravidez": "Categoría A – seguro",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral, con o sin alimentos",
+      "doseMaxima": "200 mg/día",
+      "doseMinima": "50 mg/día",
+      "classificacao": "Hierro trivalente oral",
+      "apresentacao": "Tabletas masticables, gotas, jarabe",
+      "interacaoMedicamento": "Menos interacciones que sales ferrosas",
+      "posologia": "100–200 mg/día en 1–2 tomas",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Agitar jarabe antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hemocromatosis, anemia no ferropénica",
+      "cuidadosMedicos": "Monitorear Hb y ferritina mensualmente",
+      "cuidadosFarmaceuticos": "Aconsejar sobre cumplimiento y color de heces",
+      "cuidadosEnfermagem": "Observar adherencia y efectos adversos digestivos",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, WHO, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "多糖铁",
+      "suspension": "无需术前停药",
+      "risk": "轻度胃肠不适、无血栓风险",
+      "reintroduction": "术后可立即继续口服"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氢氧化铁-多糖复合物",
+      "nomeComercial": "Maltofer、铁美",
+      "mecanismoAcao": "提供稳定三价铁，在肠道缓慢释放并吸收",
+      "farmacocinetica": "十二指肠和空肠吸收；吸收量受体铁状态调节",
+      "farmacodinamica": "补充铁储备，促进红细胞合成",
+      "indicacoes": "缺铁性贫血、孕期补铁、儿童补铁",
+      "reacoesAdversas": "便秘、恶心、胃胀、黑便",
+      "riscoGravidez": "A类 – 安全",
+      "riscoLactacao": "哺乳期可用",
+      "administracao": "口服",
+      "doseMaxima": "每日200毫克铁",
+      "doseMinima": "每日50毫克（预防）",
+      "classificacao": "三价铁口服补充剂",
+      "apresentacao": "咀嚼片、糖浆、滴剂",
+      "interacaoMedicamento": "与抗生素等药物相互作用较少",
+      "posologia": "每日1–2次，100–200 mg",
+      "armazenamento": "室温避光保存",
+      "preparo": "液体使用前需摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "铁过载、非缺铁性贫血",
+      "cuidadosMedicos": "监测Hb、血清铁、铁蛋白",
+      "cuidadosFarmaceuticos": "提醒患者颜色变化和持续用药",
+      "cuidadosEnfermagem": "观察消化系统反应和依从性",
+      "fontesBibliograficas": "中国药典、WHO、UpToDate、Micromedex"
+    }
+  }
+}

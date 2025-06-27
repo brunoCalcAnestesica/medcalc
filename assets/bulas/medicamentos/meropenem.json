@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Meropenem",
+      "suspension": "Não requer suspensão antes de cirurgias",
+      "risk": "Seguro no perioperatório; manter uso conforme indicação infecciosa",
+      "reintroduction": "Pode ser mantido continuamente ou reintroduzido imediatamente após o procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Meropeném",
+      "nomeComercial": "Meronem, Meropenem Prati-Donaduzzi",
+      "mecanismoAcao": "Antibiótico carbapenêmico que inibe a síntese da parede celular bacteriana",
+      "farmacocinetica": "Administração IV; meia-vida 1h; excreção renal; alta penetração tecidual (inclusive SNC)",
+      "farmacodinamica": "Bactericida de amplo espectro, incluindo gram-positivos, gram-negativos e anaeróbios",
+      "indicacoes": "Infecções graves: pneumonia, sepse, infecção intra-abdominal, meningite, infecções de pele",
+      "reacoesAdversas": "Diarreia, náusea, erupções cutâneas, trombocitose, convulsões (raro)",
+      "riscoGravidez": "Categoria B — seguro em gestantes",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Via intravenosa em bolus ou infusão",
+      "doseMaxima": "6 g/dia",
+      "doseMinima": "500 mg a cada 8h",
+      "classificacao": "Antibiótico beta-lactâmico / carbapenêmico",
+      "apresentacao": "Pó para solução injetável 500 mg ou 1 g",
+      "interacaoMedicamento": "Reduz concentração plasmática de ácido valproico; risco de convulsão com outros beta-lactâmicos",
+      "posologia": "1 g IV a cada 8h (ajustada por peso/gravidade/filtração glomerular)",
+      "armazenamento": "Pó: temperatura ambiente; solução: refrigerar até 24h após preparo",
+      "preparo": "Diluir em SF 0,9% ou SG 5%; infusão em 15–30 minutos ou bolus em 3–5 minutos",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade a carbapenêmicos ou outros beta-lactâmicos",
+      "cuidadosMedicos": "Monitorar função renal e sinais de reação alérgica",
+      "cuidadosFarmaceuticos": "Assegurar reconstituição correta e tempo de infusão adequado",
+      "cuidadosEnfermagem": "Observar reações alérgicas, GI e sinais vitais durante infusão",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, BNF, Meronem bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Meropenem",
+      "suspension": "No need to suspend before surgery",
+      "risk": "Perioperatively safe; maintain therapy if indicated for infection",
+      "reintroduction": "May be continued or resumed immediately postoperatively"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Meropenem",
+      "nomeComercial": "Merrem, Meropenem IV",
+      "mecanismoAcao": "Carbapenem antibiotic that inhibits bacterial cell wall synthesis",
+      "farmacocinetica": "IV; half-life ~1h; renal excretion; good tissue and CNS penetration",
+      "farmacodinamica": "Broad-spectrum bactericidal; active against gram-positive, gram-negative and anaerobes",
+      "indicacoes": "Severe infections: pneumonia, sepsis, intra-abdominal infections, meningitis, skin infections",
+      "reacoesAdversas": "Diarrhea, nausea, rash, thrombocytosis, seizures (rare)",
+      "riscoGravidez": "Category B — safe in pregnancy",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "IV bolus or infusion",
+      "doseMaxima": "6 g/day",
+      "doseMinima": "500 mg every 8h",
+      "classificacao": "Beta-lactam antibiotic / carbapenem",
+      "apresentacao": "Powder for injection: 500 mg or 1 g vials",
+      "interacaoMedicamento": "Decreases valproic acid levels; seizure risk with other beta-lactams",
+      "posologia": "1 g IV every 8h (adjusted by weight/severity/GFR)",
+      "armazenamento": "Powder: room temperature; reconstituted: refrigerate up to 24h",
+      "preparo": "Dilute in 0.9% NaCl or 5% Dextrose; infuse over 15–30 min or bolus over 3–5 min",
+      "solucoesCompatíveis": "0.9% NaCl, 5% Dextrose",
+      "contraindicacoes": "Hypersensitivity to carbapenems or beta-lactams",
+      "cuidadosMedicos": "Monitor renal function and allergy signs",
+      "cuidadosFarmaceuticos": "Ensure correct reconstitution and infusion time",
+      "cuidadosEnfermagem": "Monitor allergic, GI reactions and vital signs during infusion",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, Merrem PI, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Meropenem",
+      "suspension": "No requiere suspensión antes de cirugía",
+      "risk": "Seguro en el perioperatorio; continuar si está indicado por infección",
+      "reintroduction": "Puede mantenerse o reintroducirse inmediatamente después del procedimiento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Meropenem",
+      "nomeComercial": "Meronem",
+      "mecanismoAcao": "Antibiótico carbapenémico que inhibe la síntesis de la pared celular bacteriana",
+      "farmacocinetica": "IV; vida media ~1h; excreción renal; buena penetración tisular y SNC",
+      "farmacodinamica": "Bactericida de amplio espectro (gram+, gram–, anaerobios)",
+      "indicacoes": "Infecciones graves: neumonía, sepsis, abdominales, meningitis, piel y partes blandas",
+      "reacoesAdversas": "Diarrea, náuseas, erupciones, trombocitosis, convulsiones (raras)",
+      "riscoGravidez": "Categoría B — seguro en embarazo",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "IV en bolo o infusión",
+      "doseMaxima": "6 g/día",
+      "doseMinima": "500 mg cada 8 h",
+      "classificacao": "Antibiótico beta-lactámico / carbapenem",
+      "apresentacao": "Polvo para inyección 500 mg o 1 g",
+      "interacaoMedicamento": "Reduce niveles de ácido valproico; riesgo de convulsión con otros betalactámicos",
+      "posologia": "1 g IV cada 8 h (ajustar por peso y función renal)",
+      "armazenamento": "Polvo: temperatura ambiente; solución: refrigerar 24 h",
+      "preparo": "Diluir en SF 0,9% o SG 5%; infundir en 15–30 min o bolo en 3–5 min",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a carbapenémicos o betalactámicos",
+      "cuidadosMedicos": "Control renal y signos de hipersensibilidad",
+      "cuidadosFarmaceuticos": "Reconstituir y administrar correctamente",
+      "cuidadosEnfermagem": "Observar reacciones alérgicas y GI durante infusión",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, BNF, ficha técnica Meronem"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "美洛培南",
+      "suspension": "手术前无需停药",
+      "risk": "围术期安全；如有感染指征可继续使用",
+      "reintroduction": "术后可立即继续使用或重新开始"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "美洛培南",
+      "nomeComercial": "Meronem（美罗培南）",
+      "mecanismoAcao": "碳青霉烯类抗生素，抑制细菌细胞壁合成",
+      "farmacocinetica": "静脉给药；半衰期约1小时；肾脏排泄；良好组织及中枢神经系统穿透",
+      "farmacodinamica": "广谱杀菌活性（革兰阳性、阴性菌及厌氧菌）",
+      "indicacoes": "严重感染：肺炎、败血症、腹腔感染、脑膜炎、皮肤软组织感染",
+      "reacoesAdversas": "腹泻、恶心、皮疹、血小板增多、罕见癫痫发作",
+      "riscoGravidez": "B类 — 妊娠期可使用",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "静脉推注或输注",
+      "doseMaxima": "每日6克",
+      "doseMinima": "每8小时500毫克",
+      "classificacao": "β-内酰胺类抗生素 / 碳青霉烯类",
+      "apresentacao": "注射用粉针剂 500 mg 或 1 g",
+      "interacaoMedicamento": "降低丙戊酸血药浓度；与其他β-内酰胺类药物合用有癫痫风险",
+      "posologia": "每8小时1克，根据体重、肾功能调整",
+      "armazenamento": "干粉室温保存；配制液24小时内冷藏使用",
+      "preparo": "稀释于0.9%氯化钠或5%葡萄糖液；输注15–30分钟，或3–5分钟内静推",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对碳青霉烯或β-内酰胺类过敏",
+      "cuidadosMedicos": "监测肾功能及过敏反应",
+      "cuidadosFarmaceuticos": "确保正确重配与输注速度",
+      "cuidadosEnfermagem": "监测过敏、胃肠不良反应与生命体征",
+      "fontesBibliograficas": "FDA、ANVISA、Micromedex、BNF、Meronem说明书"
+    }
+  }
+}

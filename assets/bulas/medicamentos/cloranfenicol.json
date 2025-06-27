@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cloranfenicol",
+      "suspension": "Suspender 5 dias antes de cirurgias eletivas",
+      "risk": "Risco de depressão medular, anemia aplásica e interação com anestésicos; potencial de hipotensão",
+      "reintroduction": "Reintroduzir apenas em infecções específicas e com monitoramento hematológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloranfenicol",
+      "nomeComercial": "Oftacilina, Clorocil, Quemicetina",
+      "mecanismoAcao": "Inibe a síntese proteica bacteriana ligando-se à subunidade 50S ribossomal",
+      "farmacocinetica": "Via IV, VO, oftálmica; meia-vida 1–3h; metabolização hepática (glucuronidação); excreção renal",
+      "farmacodinamica": "Bacteriostático; bactericida contra H. influenzae, N. meningitidis e Salmonella spp.",
+      "indicacoes": "Infecções graves como meningite, febre tifoide, abscessos cerebrais, conjuntivite bacteriana",
+      "reacoesAdversas": "Depressão medular, anemia aplásica, síndrome cinzenta neonatal, náusea, vômito",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral, intravenosa ou oftálmica",
+      "doseMaxima": "4g/dia (adultos, IV ou VO)",
+      "doseMinima": "1g/dia",
+      "classificacao": "Antibiótico de amplo espectro",
+      "apresentacao": "Cápsulas 250mg; solução injetável 1g; colírio 0,5%",
+      "interacaoMedicamento": "Potencializa varfarina, fenitoína e ciclosporina; antagoniza penicilinas",
+      "posologia": "50–100 mg/kg/dia dividido em 4 doses (máx 4g)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "IV: reconstituir com água destilada e diluir em SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade, disfunção hepática ou hematológica prévia",
+      "cuidadosMedicos": "Monitorar hemograma seriado e função hepática",
+      "cuidadosFarmaceuticos": "Uso restrito, respeitar diluição e estabilidade",
+      "cuidadosEnfermagem": "Observar palidez, sangramentos, sintomas neurológicos e pressão arterial",
+      "fontesBibliograficas": "Micromedex, ANVISA, UpToDate, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Chloramphenicol",
+      "suspension": "Discontinue 5 days before elective surgeries",
+      "risk": "Risk of bone marrow suppression, aplastic anemia, anesthetic interaction, hypotension",
+      "reintroduction": "Restart only for specific infections with hematologic monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Chloramphenicol",
+      "nomeComercial": "Chloromycetin",
+      "mecanismoAcao": "Binds to 50S ribosomal subunit inhibiting bacterial protein synthesis",
+      "farmacocinetica": "IV, PO, ophthalmic; half-life 1–3h; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Bacteriostatic, bactericidal against H. influenzae, N. meningitidis, Salmonella spp.",
+      "indicacoes": "Meningitis, typhoid fever, brain abscess, bacterial conjunctivitis",
+      "reacoesAdversas": "Bone marrow suppression, aplastic anemia, gray baby syndrome, GI upset",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid",
+      "administracao": "Oral, IV, ophthalmic",
+      "doseMaxima": "4g/day (adults)",
+      "doseMinima": "1g/day",
+      "classificacao": "Broad-spectrum antibiotic",
+      "apresentacao": "250mg capsules; 1g vial; 0.5% eye drops",
+      "interacaoMedicamento": "Enhances warfarin, phenytoin, cyclosporine; antagonizes penicillins",
+      "posologia": "50–100 mg/kg/day in 4 doses (max 4g)",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Reconstitute IV with sterile water, dilute in NS",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hypersensitivity, prior hepatic/hematologic dysfunction",
+      "cuidadosMedicos": "Monitor CBC and liver function",
+      "cuidadosFarmaceuticos": "Restrict use, verify dilution and stability",
+      "cuidadosEnfermagem": "Monitor for anemia, bleeding, neurologic symptoms, hypotension",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cloranfenicol",
+      "suspension": "Suspender 5 días antes de cirugía",
+      "risk": "Depresión medular, anemia aplásica, interacción anestésica, hipotensión",
+      "reintroduction": "Reintroducir solo en infecciones específicas con control hematológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloranfenicol",
+      "nomeComercial": "Clorocil",
+      "mecanismoAcao": "Inhibe síntesis proteica bacteriana (subunidad 50S)",
+      "farmacocinetica": "VO, IV, oftálmica; vida media 1–3h; metabolismo hepático",
+      "farmacodinamica": "Bacteriostático (bactericida en algunas infecciones severas)",
+      "indicacoes": "Meningitis, fiebre tifoidea, abscesos cerebrales, conjuntivitis",
+      "reacoesAdversas": "Anemia, náusea, hepatitis, síndrome del bebé gris, QT prolongado",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral, IV, oftálmica",
+      "doseMaxima": "4g/día",
+      "doseMinima": "1g/día",
+      "classificacao": "Antibiótico de amplio espectro",
+      "apresentacao": "250mg cápsulas; 1g vial IV; colirio 0,5%",
+      "interacaoMedicamento": "Aumenta warfarina, fenitoína, ciclosporina; antagoniza penicilina",
+      "posologia": "50–100 mg/kg/día dividido en 4 dosis",
+      "armazenamento": "Temperatura ambiente, proteger de luz",
+      "preparo": "Diluir IV en agua estéril + SSF",
+      "solucoesCompatíveis": "SSF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidad, disfunción hepática/hematológica",
+      "cuidadosMedicos": "Control hemograma y función hepática",
+      "cuidadosFarmaceuticos": "Restricción de uso, garantizar reconstitución correcta",
+      "cuidadosEnfermagem": "Observar anemia, sangrados, síntomas neurológicos",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯霉素",
+      "suspension": "择期手术前5天停药",
+      "risk": "骨髓抑制、QT延长、低血压、麻醉相互作用",
+      "reintroduction": "术后血象稳定且有确切感染指征下可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯霉素",
+      "nomeComercial": "氯霉素滴眼液",
+      "mecanismoAcao": "与核糖体50S亚基结合，抑制细菌蛋白合成",
+      "farmacocinetica": "口服/注射/滴眼；半衰期1–3小时；肝代谢",
+      "farmacodinamica": "抑菌性，对某些严重感染有杀菌作用",
+      "indicacoes": "脑膜炎、伤寒、眼部感染",
+      "reacoesAdversas": "再生障碍性贫血、灰婴综合征、恶心、肝毒性",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期避免",
+      "administracao": "口服、静注、滴眼",
+      "doseMaxima": "成人每日4克",
+      "doseMinima": "每日1克",
+      "classificacao": "广谱抗生素",
+      "apresentacao": "250mg胶囊、1g注射粉、0.5%滴眼液",
+      "interacaoMedicamento": "增强华法林、苯妥英、环孢素作用；拮抗青霉素类药物",
+      "posologia": "每日50–100 mg/kg分4次",
+      "armazenamento": "室温避光保存",
+      "preparo": "注射液用无菌水配制后加生理盐水稀释",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "对氯霉素过敏、肝血病史",
+      "cuidadosMedicos": "监测血常规、肝功能、ECG",
+      "cuidadosFarmaceuticos": "限用药，注意配制准确性",
+      "cuidadosEnfermagem": "观察面色苍白、出血倾向、神经反应变化",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

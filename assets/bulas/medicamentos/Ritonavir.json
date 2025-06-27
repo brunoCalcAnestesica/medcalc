@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ritonavir",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas, se clinicamente possível",
+      "risk": "Inibidor potente do CYP3A4; risco elevado de interações medicamentosas com anestésicos, benzodiazepínicos e opioides",
+      "reintroduction": "Reintroduzir após normalização do esquema anestésico e retorno da função hepática basal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ritonavir",
+      "nomeComercial": "Norvir, Kaletra (associado ao lopinavir)",
+      "mecanismoAcao": "Inibidor da protease do HIV-1 e potente inibidor da CYP3A4, utilizado como intensificador farmacocinético",
+      "farmacocinetica": "Biodisponibilidade oral 75–90%, metabolização hepática (CYP3A, CYP2D6), meia-vida ~3–5 horas",
+      "farmacodinamica": "Aumenta níveis plasmáticos de outros antirretrovirais e inibe replicação viral em esquemas combinados",
+      "indicacoes": "Terapia antirretroviral (HIV), coadministrado com outros inibidores da protease; uso emergencial com nirmatrelvir na COVID-19",
+      "reacoesAdversas": "Náuseas, diarreia, hepatotoxicidade, parestesias periorais, hipertrigliceridemia",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Não recomendado durante a amamentação em pacientes HIV+",
+      "administracao": "Via oral (comprimido ou solução)",
+      "doseMaxima": "600 mg 2x ao dia (monoterapia); 100–200 mg/dia (booster)",
+      "doseMinima": "100 mg/dia (em coadministração)",
+      "classificacao": "Antirretroviral – inibidor da protease e booster farmacocinético",
+      "apresentacao": "Comprimidos de 100 mg; solução oral 80 mg/mL",
+      "interacaoMedicamento": "Interage com anestésicos (midazolam, fentanil), anticoagulantes, anticonvulsivantes, antiarrítmicos",
+      "posologia": "Dose individualizada; geralmente 100 mg 1–2x/dia como intensificador",
+      "armazenamento": "Comprimidos: temperatura ambiente; solução: refrigerada (2–8°C) ou até 30 dias à temperatura ambiente",
+      "preparo": "Solução deve ser bem agitada antes do uso",
+      "solucoesCompatíveis": "Não aplicável (uso oral)",
+      "contraindicacoes": "Uso com medicamentos altamente dependentes da CYP3A (ex: amiodarona, alfuzosina)",
+      "cuidadosMedicos": "Avaliar interações medicamentosas pré-anestésicas; monitorar função hepática",
+      "cuidadosFarmaceuticos": "Conferir interações com prescrições hospitalares; ajustar doses conforme esquema combinado",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hepática e gastrointestinais",
+      "fontesBibliograficas": "FDA, ANVISA, Medscape, Micromedex, WHO HIV Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ritonavir",
+      "suspension": "Discontinue 7 days prior to elective surgery if clinically safe",
+      "risk": "Strong CYP3A4 inhibitor; major risk of drug interactions with anesthetics and perioperative meds",
+      "reintroduction": "Restart after anesthesia washout and hepatic stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ritonavir",
+      "nomeComercial": "Norvir, Kaletra (with lopinavir)",
+      "mecanismoAcao": "HIV-1 protease inhibitor and potent CYP3A4 inhibitor used as pharmacokinetic enhancer",
+      "farmacocinetica": "Oral bioavailability 75–90%; hepatic metabolism (CYP3A, CYP2D6); t½ ~3–5 h",
+      "farmacodinamica": "Boosts levels of other antiretrovirals and inhibits viral replication in combo regimens",
+      "indicacoes": "HIV therapy (combined), COVID-19 (with nirmatrelvir)",
+      "reacoesAdversas": "Nausea, diarrhea, liver toxicity, perioral paresthesia, lipid abnormalities",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Not recommended during breastfeeding in HIV+ women",
+      "administracao": "Oral (tablet or solution)",
+      "doseMaxima": "600 mg twice daily (monotherapy); 100–200 mg/day (boosting)",
+      "doseMinima": "100 mg/day (with other ARVs)",
+      "classificacao": "Antiretroviral – protease inhibitor & PK booster",
+      "apresentacao": "100 mg tablets; 80 mg/mL oral solution",
+      "interacaoMedicamento": "Interacts with anesthetics (midazolam, fentanyl), anticoagulants, anticonvulsants, antiarrhythmics",
+      "posologia": "100 mg once or twice daily depending on combination",
+      "armazenamento": "Tablets: room temp; Solution: refrigerate or use within 30 days at room temp",
+      "preparo": "Shake oral solution well before use",
+      "solucoesCompatíveis": "Not applicable (oral route)",
+      "contraindicacoes": "Co-use with drugs highly dependent on CYP3A (e.g., amiodarone, alfuzosin)",
+      "cuidadosMedicos": "Check interactions pre-op; monitor liver function",
+      "cuidadosFarmaceuticos": "Screen for interactions with hospital meds; adjust as needed",
+      "cuidadosEnfermagem": "Observe for GI and hepatic side effects",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex, WHO HIV Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ritonavir",
+      "suspension": "Suspender 7 días antes de cirugía electiva si es clínicamente seguro",
+      "risk": "Potente inhibidor del CYP3A4; alto riesgo de interacciones con anestésicos y otros fármacos perioperatorios",
+      "reintroduction": "Reintroducir tras recuperación hepática y lavado anestésico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ritonavir",
+      "nomeComercial": "Norvir, Kaletra (con lopinavir)",
+      "mecanismoAcao": "Inhibidor de la proteasa del VIH y potente inhibidor del CYP3A4 como potenciador farmacocinético",
+      "farmacocinetica": "Biodisponibilidad oral 75–90%; metabolismo hepático; t½ ~3–5 h",
+      "farmacodinamica": "Aumenta niveles de otros antirretrovirales e inhibe replicación viral en terapia combinada",
+      "indicacoes": "Terapia del VIH, coadministrado; COVID-19 con nirmatrelvir",
+      "reacoesAdversas": "Náuseas, diarrea, hepatotoxicidad, parestesia perioral, hipertrigliceridemia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "No recomendado en lactancia en pacientes VIH+",
+      "administracao": "Vía oral (comprimidos o solución)",
+      "doseMaxima": "600 mg dos veces al día (monoterapia)",
+      "doseMinima": "100 mg al día (coadministrado)",
+      "classificacao": "Antirretroviral – inhibidor de proteasa y potenciador",
+      "apresentacao": "Comprimidos 100 mg; solución oral 80 mg/mL",
+      "interacaoMedicamento": "Interacciones con midazolam, fentanilo, amiodarona, antiepilépticos",
+      "posologia": "100 mg una o dos veces al día según esquema",
+      "armazenamento": "Comprimidos: temperatura ambiente; solución: refrigerar o hasta 30 días fuera del refrigerador",
+      "preparo": "Agitar bien antes de usar solución oral",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Uso concomitante con fármacos altamente dependientes del CYP3A",
+      "cuidadosMedicos": "Evaluar interacciones preoperatorias; controlar hepatotoxicidad",
+      "cuidadosFarmaceuticos": "Verificar interacciones y ajustar dosis combinada",
+      "cuidadosEnfermagem": "Observar efectos adversos digestivos y hepáticos",
+      "fontesBibliograficas": "FDA, EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利托那韦",
+      "suspension": "择期手术前应停药7天，如临床允许",
+      "risk": "强效CYP3A4抑制剂；与麻醉药和术中药物存在高度相互作用风险",
+      "reintroduction": "术后麻醉药物代谢恢复及肝功能稳定后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "利托那韦",
+      "nomeComercial": "Norvir，Kaletra（与洛匹那韦联用）",
+      "mecanismoAcao": "HIV蛋白酶抑制剂，CYP3A4强效抑制剂，用作药代增强剂",
+      "farmacocinetica": "口服生物利用度75–90%；肝代谢；半衰期3–5小时",
+      "farmacodinamica": "增强其他抗病毒药物血药浓度，抑制病毒复制",
+      "indicacoes": "与其他药联用治疗HIV；与奈玛特韦用于COVID-19",
+      "reacoesAdversas": "恶心、腹泻、肝毒性、口周麻刺、血脂异常",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "不建议HIV感染哺乳者使用",
+      "administracao": "口服（片剂或溶液）",
+      "doseMaxima": "单药：每日600毫克2次",
+      "doseMinima": "增强剂用途：每日100毫克",
+      "classificacao": "抗病毒药物/增强剂",
+      "apresentacao": "100毫克片剂；80 mg/mL口服液",
+      "interacaoMedicamento": "与咪达唑仑、芬太尼、胺碘酮等发生重要相互作用",
+      "posologia": "每日1–2次，每次100毫克，视组合方案调整",
+      "armazenamento": "片剂常温保存，口服液冷藏（可室温放置30天）",
+      "preparo": "口服液使用前需充分摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "禁与强依赖CYP3A代谢药物联用",
+      "cuidadosMedicos": "术前监测药物相互作用与肝功能",
+      "cuidadosFarmaceuticos": "审核组合方案相互作用与剂量适配",
+      "cuidadosEnfermagem": "监测胃肠和肝脏不良反应",
+      "fontesBibliograficas": "FDA，Micromedex，Medscape，WHO HIV指南"
+    }
+  }
+}

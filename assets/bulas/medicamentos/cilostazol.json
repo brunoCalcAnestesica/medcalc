@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cilostazol",
+      "suspension": "Suspender 3 dias antes de cirurgias com risco hemorrágico moderado a alto",
+      "risk": "Inibe a agregação plaquetária; aumenta risco de sangramento e pode causar taquicardia ou arritmias",
+      "reintroduction": "Reintroduzir após 48–72h com hemostasia garantida e estabilidade cardiovascular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cilostazol",
+      "nomeComercial": "Pletal, Cebralat, Cilogard",
+      "mecanismoAcao": "Inibe seletivamente a fosfodiesterase III, aumentando o AMP cíclico nas plaquetas e vasos",
+      "farmacocinetica": "Biodisponibilidade ~90%; meia-vida de 11–13h; metabolismo hepático (CYP3A4, CYP2C19)",
+      "farmacodinamica": "Inibe agregação plaquetária e promove vasodilatação, melhorando a perfusão",
+      "indicacoes": "Claudicação intermitente em doença arterial periférica; prevenção secundária de AVC (off-label)",
+      "reacoesAdversas": "Cefaleia, diarreia, taquicardia, palpitações, edema periférico",
+      "riscoGravidez": "Categoria C – não recomendado",
+      "riscoLactacao": "Evitar; sem dados suficientes",
+      "administracao": "Via oral",
+      "doseMaxima": "200 mg/dia",
+      "doseMinima": "100 mg/dia",
+      "classificacao": "Inibidor da PDE-III; antiagregante plaquetário",
+      "apresentacao": "Comprimidos de 50 mg e 100 mg",
+      "interacaoMedicamento": "Potencializado por inibidores do CYP3A4 (cetoconazol, eritromicina); interage com varfarina",
+      "posologia": "100 mg VO duas vezes ao dia, 30 min antes ou 2h após refeições",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "IC congestiva, sangramento ativo, arritmias graves, alergia a cilostazol",
+      "cuidadosMedicos": "Monitorar FC, PA e sinais de sangramento; reavaliar em arritmias",
+      "cuidadosFarmaceuticos": "Orientar jejum relativo na administração",
+      "cuidadosEnfermagem": "Verificar sinais vitais e edemas; avaliar tolerância digestiva",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, UpToDate, ESC Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cilostazol",
+      "suspension": "Discontinue 3 days before surgery with moderate to high bleeding risk",
+      "risk": "Inhibits platelet aggregation; increases bleeding risk and may cause tachycardia or arrhythmia",
+      "reintroduction": "Restart 48–72h post-op if hemostasis and cardiovascular stability are confirmed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cilostazol",
+      "nomeComercial": "Pletal",
+      "mecanismoAcao": "Selective PDE-III inhibitor increasing cAMP in platelets and vessels",
+      "farmacocinetica": "Bioavailability ~90%; half-life 11–13h; metabolized by CYP3A4 and CYP2C19",
+      "farmacodinamica": "Antiplatelet and vasodilatory effect; improves peripheral perfusion",
+      "indicacoes": "Intermittent claudication in PAD; secondary stroke prevention (off-label)",
+      "reacoesAdversas": "Headache, diarrhea, palpitations, peripheral edema",
+      "riscoGravidez": "Category C – not recommended",
+      "riscoLactacao": "Avoid use; insufficient data",
+      "administracao": "Oral",
+      "doseMaxima": "200 mg/day",
+      "doseMinima": "100 mg/day",
+      "classificacao": "PDE-III inhibitor; antiplatelet agent",
+      "apresentacao": "Tablets 50 mg and 100 mg",
+      "interacaoMedicamento": "Affected by CYP3A4 inhibitors (ketoconazole, erythromycin); interacts with warfarin",
+      "posologia": "100 mg orally twice daily, 30 min before or 2 h after meals",
+      "armazenamento": "Store at room temperature, protect from moisture",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Congestive heart failure, active bleeding, severe arrhythmias, hypersensitivity",
+      "cuidadosMedicos": "Monitor HR, BP, bleeding signs, arrhythmias",
+      "cuidadosFarmaceuticos": "Ensure proper timing in relation to meals",
+      "cuidadosEnfermagem": "Monitor vitals and GI tolerance; assess edema",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, AHA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cilostazol",
+      "suspension": "Suspender 3 días antes de cirugías con riesgo hemorrágico",
+      "risk": "Antiagregante plaquetario; aumenta riesgo de sangrado y arritmias",
+      "reintroduction": "Reintroducir tras 48–72h con hemostasia asegurada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cilostazol",
+      "nomeComercial": "Pletal, Cebralat",
+      "mecanismoAcao": "Inhibidor selectivo de la fosfodiesterasa III (PDE-III)",
+      "farmacocinetica": "Biodisponibilidad ~90%, vida media 11–13h, metabolismo hepático",
+      "farmacodinamica": "Antiplaquetario y vasodilatador periférico",
+      "indicacoes": "Claudicación intermitente; prevención secundaria de ictus (off-label)",
+      "reacoesAdversas": "Cefalea, diarrea, taquicardia, edema periférico",
+      "riscoGravidez": "Categoría C – evitar",
+      "riscoLactacao": "Evitar; datos insuficientes",
+      "administracao": "Vía oral",
+      "doseMaxima": "200 mg/día",
+      "doseMinima": "100 mg/día",
+      "classificacao": "Inhibidor de PDE-III; antiagregante",
+      "apresentacao": "Comprimidos 50 mg y 100 mg",
+      "interacaoMedicamento": "Interacción con CYP3A4, warfarina, eritromicina",
+      "posologia": "100 mg dos veces al día en ayunas",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Insuficiencia cardíaca, sangrado activo, arritmias graves",
+      "cuidadosMedicos": "Control de FC, TA, sangrado y arritmias",
+      "cuidadosFarmaceuticos": "Administrar en ayunas",
+      "cuidadosEnfermagem": "Observar signos vitales, tolerancia digestiva y edemas",
+      "fontesBibliograficas": "EMA, AEMPS, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "西洛他唑",
+      "suspension": "术前3天停药，尤其是出血风险高的手术",
+      "risk": "抑制血小板聚集，可能引发出血、心动过速或心律不齐",
+      "reintroduction": "术后48–72小时，确保止血和心血管稳定后重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "西洛他唑",
+      "nomeComercial": "Pletal",
+      "mecanismoAcao": "选择性磷酸二酯酶III抑制剂，提高cAMP",
+      "farmacocinetica": "生物利用度90%，半衰期11–13小时，肝脏代谢",
+      "farmacodinamica": "扩血管并抑制血小板聚集，改善外周循环",
+      "indicacoes": "间歇性跛行；脑卒中二级预防（非适应症）",
+      "reacoesAdversas": "头痛、腹泻、心悸、外周水肿",
+      "riscoGravidez": "C类，避免使用",
+      "riscoLactacao": "慎用，资料不足",
+      "administracao": "口服",
+      "doseMaxima": "每日200毫克",
+      "doseMinima": "每日100毫克",
+      "classificacao": "PDE-III抑制剂；抗血小板药",
+      "apresentacao": "50毫克与100毫克片剂",
+      "interacaoMedicamento": "与CYP3A4抑制剂（酮康唑、红霉素）和华法林相互作用",
+      "posologia": "每日两次，每次100毫克，饭前30分钟或饭后2小时服用",
+      "armazenamento": "常温保存，防潮",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "充血性心衰、活动性出血、严重心律不齐",
+      "cuidadosMedicos": "监测心率、血压、出血及心律",
+      "cuidadosFarmaceuticos": "服用时间需与进食分开",
+      "cuidadosEnfermagem": "观察生命体征、水肿与胃肠耐受性",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

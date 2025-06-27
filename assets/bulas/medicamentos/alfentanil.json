@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Alfentanil",
+      "suspension": "Não se aplica (uso hospitalar EV durante anestesia); evitar em pacientes em uso crônico de opioides de longa duração sem suporte ventilatório",
+      "risk": "Apneia, rigidez torácica, bradicardia, hipotensão; interações com benzodiazepínicos, anestésicos inalatórios e outros opioides",
+      "reintroduction": "Pode ser reintroduzido sob suporte anestésico, ventilação mecânica e monitorização contínua"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Alfentanil",
+      "nomeComercial": "Rapifen",
+      "mecanismoAcao": "Agonista µ-opioide sintético de curta duração, 4–6x menos potente que fentanil, mas de início mais rápido",
+      "farmacocinetica": "Início: 1–2min; pico: 3–5min; meia-vida: 1,5h; metabolizado no fígado (CYP3A4); excreção renal",
+      "farmacodinamica": "Analgésico IV de ação rápida usado para indução, manutenção e complemento de anestesia balanceada",
+      "indicacoes": "Anestesia geral balanceada, neurocirurgia, cirurgias de curta duração, procedimentos ambulatoriais",
+      "reacoesAdversas": "Apneia, bradicardia, rigidez torácica, náuseas, vômitos, tolerância, abstinência",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Segurança em uso único; evitar uso contínuo na lactação",
+      "administracao": "Intravenosa (bolus e infusão contínua)",
+      "doseMaxima": "Infusão: até 120mcg/kg/h; bolus: até 50mcg/kg",
+      "doseMinima": "Bolus: 5–10mcg/kg; infusão: 20mcg/kg/h",
+      "classificacao": "Opioide µ agonista de curta duração",
+      "apresentacao": "Ampolas 0,5mg/mL (1mL, 2mL); diluída em SF para infusão",
+      "interacaoMedicamento": "Benzodiazepínicos, anestésicos voláteis, bloqueadores neuromusculares, álcool, inibidores do CYP3A4",
+      "posologia": "Indução: 20–50mcg/kg IV; manutenção: 20–100mcg/kg/h IV contínuo",
+      "armazenamento": "Temperatura ambiente, protegido da luz; solução reconstituída usar em até 24h",
+      "preparo": "Diluir em SF 0,9% ou SG 5% até concentração de 50mcg/mL; uso via bomba infusora",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade, depressão respiratória grave, uso isolado sem suporte ventilatório",
+      "cuidadosMedicos": "Monitorar ECG, FR, analgesia, sedação e hemodinâmica em tempo real",
+      "cuidadosFarmaceuticos": "Preparo sob condições assépticas, controle do tempo de infusão e dose total administrada",
+      "cuidadosEnfermagem": "Observar ventilação, sedação, dor, rigidez muscular, saturação, pressão arterial",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, Lexicomp, UpToDate, Miller’s Anesthesia"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Alfentanil",
+      "suspension": "Not applicable (IV anesthetic only); avoid in patients on chronic opioids without airway control",
+      "risk": "Apnea, chest rigidity, bradycardia, hypotension, potentiated by benzodiazepines and anesthetics",
+      "reintroduction": "Can be reintroduced under anesthesia with full monitoring and respiratory support"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Alfentanil Hydrochloride",
+      "nomeComercial": "Rapifen",
+      "mecanismoAcao": "Short-acting synthetic µ-opioid agonist; less potent but faster onset than fentanyl",
+      "farmacocinetica": "Onset: 1–2min; peak: 3–5min; half-life: ~1.5h; hepatic metabolism (CYP3A4); renal excretion",
+      "farmacodinamica": "Used for rapid analgesia during induction and maintenance of balanced anesthesia",
+      "indicacoes": "Anesthesia induction and maintenance, short surgeries, ambulatory procedures",
+      "reacoesAdversas": "Respiratory depression, muscle rigidity, bradycardia, nausea, vomiting, hypotension",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Likely safe as single dose; avoid prolonged infusion",
+      "administracao": "IV bolus and continuous infusion",
+      "doseMaxima": "Up to 120mcg/kg/h infusion; 50mcg/kg bolus",
+      "doseMinima": "Bolus: 5–10mcg/kg; infusion: 20mcg/kg/h",
+      "classificacao": "Short-acting µ-opioid anesthetic",
+      "apresentacao": "Ampoules 0.5mg/mL (1mL, 2mL)",
+      "interacaoMedicamento": "Opioids, benzodiazepines, inhaled anesthetics, CYP3A4 inhibitors, neuromuscular blockers",
+      "posologia": "Induction: 20–50mcg/kg; Maintenance: 20–100mcg/kg/h",
+      "armazenamento": "Store at room temp; use diluted solution within 24h",
+      "preparo": "Dilute to 50mcg/mL in NS or D5W for infusion",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Respiratory depression without ventilator, hypersensitivity, AV block without pacemaker",
+      "cuidadosMedicos": "Monitor ECG, RR, BP, depth of sedation and analgesia",
+      "cuidadosFarmaceuticos": "Sterile dilution required; calculate total dose carefully",
+      "cuidadosEnfermagem": "Assess pain, RR, rigidity, sedation, BP and pulse",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, Miller’s Anesthesia"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Alfentanilo",
+      "suspension": "No aplica (anestésico EV); evitar en pacientes con opioides crónicos sin control respiratorio",
+      "risk": "Apnea, rigidez torácica, bradicardia, hipotensión, interacción con benzodiacepinas y anestésicos",
+      "reintroduction": "Puede reintroducirse bajo soporte anestésico con monitoreo continuo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Alfentanilo",
+      "nomeComercial": "Rapifen",
+      "mecanismoAcao": "Agonista µ-opioide de corta duración; menos potente y más rápido que fentanilo",
+      "farmacocinetica": "Inicio: 1–2min; pico: 3–5min; T1/2: 1,5h; metabolismo hepático (CYP3A4); excreción renal",
+      "farmacodinamica": "Analgésico de acción rápida para anestesia balanceada en procedimientos cortos",
+      "indicacoes": "Inducción/mantenimiento anestésico, cirugía breve, procedimientos ambulatorios",
+      "reacoesAdversas": "Depresión respiratoria, rigidez muscular, bradicardia, náuseas, vómitos, hipotensión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Uso único seguro; evitar infusión continua",
+      "administracao": "Bolo IV e infusión continua",
+      "doseMaxima": "Infusión: hasta 120mcg/kg/h; bolo: 50mcg/kg",
+      "doseMinima": "Bolo: 5–10mcg/kg; infusión: 20mcg/kg/h",
+      "classificacao": "Analgésico µ-opioide de corta duración",
+      "apresentacao": "Ampollas 0,5mg/mL (1mL, 2mL)",
+      "interacaoMedicamento": "Opioides, anestésicos, benzodiacepinas, inhibidores CYP3A4",
+      "posologia": "Inducción: 20–50mcg/kg IV; mantenimiento: 20–100mcg/kg/h",
+      "armazenamento": "Temperatura ambiente, usar en 24h tras diluir",
+      "preparo": "Diluir en SF o SG 5% hasta 50mcg/mL; infundir con bomba",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Depresión respiratoria, hipersensibilidad, bloqueo AV no tratado",
+      "cuidadosMedicos": "Monitorear ECG, FR, PA, analgesia y sedación",
+      "cuidadosFarmaceuticos": "Preparación aséptica, dosificación estricta, evitar uso en PCA",
+      "cuidadosEnfermagem": "Observar sedación, FR, rigidez, dolor, PA y FC",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿芬太尼",
+      "suspension": "不适用（仅限术中IV使用）；慢性阿片使用者术前须评估",
+      "risk": "呼吸抑制、胸肌僵硬、心动过缓、低血压，与镇静药/麻醉药联用加强抑制",
+      "reintroduction": "术中可再次使用，需气道管理与连续监测"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸阿芬太尼",
+      "nomeComercial": "Rapifen, 阿芬太尼注射液",
+      "mecanismoAcao": "短效µ受体激动剂，起效快，作用短于芬太尼",
+      "farmacocinetica": "起效1–2分钟，达峰3–5分钟，T1/2为1.5小时；CYP3A4代谢；肾排泄",
+      "farmacodinamica": "用于手术诱导与维持，尤其适合短程手术和日间麻醉",
+      "indicacoes": "麻醉诱导/维持、短程镇痛、门诊手术",
+      "reacoesAdversas": "呼吸抑制、肌肉强直、恶心、心动过缓、低血压、耐药性",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "单次使用可接受；避免泵输使用于哺乳期",
+      "administracao": "静脉推注、持续泵输",
+      "doseMaxima": "泵输最大120mcg/kg/h；诱导可至50mcg/kg",
+      "doseMinima": "推注5–10mcg/kg；维持20mcg/kg/h",
+      "classificacao": "短效强阿片镇痛药",
+      "apresentacao": "0.5mg/mL注射液（1mL、2mL）",
+      "interacaoMedicamento": "阿片类、苯二氮䓬类、吸入麻醉剂、CYP3A4抑制剂",
+      "posologia": "IV诱导20–50mcg/kg；维持20–100mcg/kg/h",
+      "armazenamento": "室温避光，稀释液24小时内使用",
+      "preparo": "稀释至50mcg/mL，用SF或D5W泵输",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "呼吸抑制、过敏史、心律传导阻滞无起搏器",
+      "cuidadosMedicos": "实时监控呼吸、ECG、镇痛状态与肌张力",
+      "cuidadosFarmaceuticos": "严格稀释与使用规范，不用于PCA或非监护环境",
+      "cuidadosEnfermagem": "评估意识、疼痛、肌张力、FR、HR、BP",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex, UpToDate"
+    }
+  }
+}

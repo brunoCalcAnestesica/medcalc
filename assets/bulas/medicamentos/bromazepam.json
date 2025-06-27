@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bromazepam",
+      "suspension": "Suspender 1 a 2 dias antes da cirurgia eletiva, conforme risco anestésico",
+      "risk": "Risco de sedação profunda, depressão respiratória, delírio pós-operatório e interação com anestésicos",
+      "reintroduction": "Reintroduzir com cautela no pós-operatório conforme estabilidade hemodinâmica e nível de consciência"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromazepam",
+      "nomeComercial": "Lexotan",
+      "mecanismoAcao": "Ligação ao receptor GABA-A, potencializando a ação do GABA e aumentando a condutância de Cl⁻",
+      "farmacocinetica": "Biodisponibilidade oral ~84%; meia-vida ~10–20 h; metabolização hepática",
+      "farmacodinamica": "Ansiolítico, sedativo, miorrelaxante e anticonvulsivante com início de ação médio",
+      "indicacoes": "Transtornos de ansiedade, insônia relacionada à ansiedade, tensão psíquica",
+      "reacoesAdversas": "Sonolência, confusão, hipotensão, fraqueza muscular, tontura, dependência",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Via oral",
+      "doseMaxima": "18 mg/dia",
+      "doseMinima": "1,5 mg/dia",
+      "classificacao": "Benzodiazepínico – ansiolítico de ação intermediária",
+      "apresentacao": "Comprimidos 1,5 mg; 3 mg; 6 mg",
+      "interacaoMedicamento": "Potencializa opioides, álcool, antipsicóticos, anestésicos; metabolização por CYP3A4",
+      "posologia": "3–18 mg/dia, divididos em 2–3 tomadas",
+      "armazenamento": "15–30°C",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Miastenia gravis, insuficiência respiratória grave, hipersensibilidade aos benzodiazepínicos",
+      "cuidadosMedicos": "Monitorar sedação, PA, sinais de depressão respiratória e sintomas de abstinência",
+      "cuidadosFarmaceuticos": "Educar sobre dependência, não suspender abruptamente, evitar álcool",
+      "cuidadosEnfermagem": "Observar nível de consciência, FR, sedação excessiva",
+      "fontesBibliograficas": "ANVISA, EMA, Micromedex, Maudsley, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bromazepam",
+      "suspension": "Hold 1–2 days prior to elective surgery depending on sedation risk",
+      "risk": "Risk of respiratory depression, deep sedation, postoperative delirium, anesthetic interaction",
+      "reintroduction": "Restart post-op once consciousness and hemodynamics are stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromazepam",
+      "nomeComercial": "Lexotanil",
+      "mecanismoAcao": "Binds to GABA-A receptor, increasing GABA activity and chloride influx",
+      "farmacocinetica": "Oral bioavailability ~84%; half-life ~10–20 h; hepatic metabolism (CYP3A4)",
+      "farmacodinamica": "Anxiolytic, sedative, muscle relaxant, anticonvulsant",
+      "indicacoes": "Anxiety disorders, anxiety-related insomnia",
+      "reacoesAdversas": "Drowsiness, confusion, dizziness, hypotension, dependence",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "18 mg/day",
+      "doseMinima": "1.5 mg/day",
+      "classificacao": "Benzodiazepine – intermediate-acting anxiolytic",
+      "apresentacao": "Tablets: 1.5 mg, 3 mg, 6 mg",
+      "interacaoMedicamento": "Potentiates CNS depressants; metabolized via CYP3A4",
+      "posologia": "3–18 mg/day in divided doses",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Myasthenia gravis, severe respiratory insufficiency, BZD allergy",
+      "cuidadosMedicos": "Monitor sedation, BP, respiratory rate, withdrawal symptoms",
+      "cuidadosFarmaceuticos": "Educate on gradual tapering, sedation, avoid alcohol",
+      "cuidadosEnfermagem": "Observe consciousness, oxygen saturation, sedation level",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bromazepam",
+      "suspension": "Suspender 1–2 días antes de cirugía según riesgo anestésico",
+      "risk": "Depresión respiratoria, sedación excesiva, delirio postoperatorio, interacción anestésica",
+      "reintroduction": "Reintroducir tras estabilidad hemodinámica y del nivel de conciencia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromazepam",
+      "nomeComercial": "Lexatin",
+      "mecanismoAcao": "Facilita la acción del GABA sobre el receptor GABA-A",
+      "farmacocinetica": "Biodisponibilidad ~84%; vida media ~10–20 h; metabolismo hepático",
+      "farmacodinamica": "Ansiolítico de acción intermedia, hipnótico, relajante muscular",
+      "indicacoes": "Trastornos de ansiedad, insomnio asociado a ansiedad",
+      "reacoesAdversas": "Somnolencia, confusión, mareos, hipotensión, dependencia",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Vía oral",
+      "doseMaxima": "18 mg/día",
+      "doseMinima": "1,5 mg/día",
+      "classificacao": "Benzodiacepina de acción intermedia",
+      "apresentacao": "Comprimidos 1,5 mg, 3 mg, 6 mg",
+      "interacaoMedicamento": "Potencia opioides, alcohol, antipsicóticos; metabolizado por CYP3A4",
+      "posologia": "3–18 mg/día en 2–3 tomas",
+      "armazenamento": "15–30°C",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Miastenia, depresión respiratoria grave, hipersensibilidad a BZD",
+      "cuidadosMedicos": "Monitorizar conciencia, PA, FR, signos de abstinencia",
+      "cuidadosFarmaceuticos": "Advertir sobre dependencia y evitar suspensiones bruscas",
+      "cuidadosEnfermagem": "Vigilar saturación, PA, sedación excesiva",
+      "fontesBibliograficas": "EMA, AEMPS, Micromedex, Maudsley"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "溴西泮",
+      "suspension": "术前1–2天停药（根据麻醉风险）",
+      "risk": "呼吸抑制、镇静过度、术后谵妄、与麻醉药相互作用",
+      "reintroduction": "术后意识和循环稳定后可谨慎恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "溴西泮",
+      "nomeComercial": "Lexotan",
+      "mecanismoAcao": "增强GABA-A受体活性，增加氯离子通透性",
+      "farmacocinetica": "口服吸收良好；半衰期10–20小时；肝脏代谢（CYP3A4）",
+      "farmacodinamica": "中效苯二氮䓬类，具有抗焦虑、镇静、肌松作用",
+      "indicacoes": "焦虑障碍、伴焦虑的失眠、精神紧张",
+      "reacoesAdversas": "嗜睡、头晕、低血压、认知障碍、依赖性",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日18 mg",
+      "doseMinima": "每日1.5 mg",
+      "classificacao": "中效苯二氮䓬类抗焦虑药",
+      "apresentacao": "片剂1.5、3、6 mg",
+      "interacaoMedicamento": "与阿片、酒精、抗精神病药、麻醉剂增强中枢抑制效应",
+      "posologia": "每日3–18 mg，分2–3次服用",
+      "armazenamento": "15–30°C，避光",
+      "preparo": "无需配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重症肌无力、严重呼吸抑制、过敏反应",
+      "cuidadosMedicos": "监测意识、血压、呼吸及戒断表现",
+      "cuidadosFarmaceuticos": "警惕依赖，避免联合抑制剂，勿突停",
+      "cuidadosEnfermagem": "观察镇静过度、血压下降、嗜睡",
+      "fontesBibliograficas": "中国药典, EMA, Micromedex, Maudsley"
+    }
+  }
+}

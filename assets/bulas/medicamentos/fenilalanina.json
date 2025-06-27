@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fenilalanina",
+      "suspension": "Não requer suspensão pré-operatória",
+      "risk": "Evitar em pacientes com fenilcetonúria; risco de acúmulo tóxico",
+      "reintroduction": "Reintroduzir com cautela em pacientes sensíveis ou após avaliação nutricional"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenilalanina",
+      "nomeComercial": "L-Fenilalanina, DLPA, Fenilan, Neurofen",
+      "mecanismoAcao": "Aminoácido essencial precursor da tirosina, dopamina, norepinefrina e epinefrina; afeta o humor e cognição via modulação catecolaminérgica.",
+      "farmacocinetica": "Absorção ativa no intestino delgado; atravessa a barreira hematoencefálica; convertida em tirosina no fígado; excreção renal de metabólitos.",
+      "farmacodinamica": "Estimula produção de neurotransmissores; promove melhora da atenção, do humor e da resposta ao estresse físico e mental.",
+      "indicacoes": "Suplementação proteica, depressão leve, TDAH, suporte cognitivo, dor crônica, vitiligo (uso tópico em estudos).",
+      "reacoesAdversas": "Ansiedade, insônia, cefaleia, hipertensão leve, náuseas, sudorese; risco de neurotoxicidade em fenilcetonúricos.",
+      "riscoGravidez": "Categoria C (usar somente se claramente necessário)",
+      "riscoLactacao": "Provavelmente segura em doses alimentares; evitar doses farmacológicas",
+      "administracao": "Via oral; cápsulas, comprimidos ou pó",
+      "doseMaxima": "4g/dia (adultos saudáveis, divididos em 2–3 tomadas)",
+      "doseMinima": "250mg/dia para suporte nutricional leve",
+      "classificacao": "Aminoácido essencial / nutracêutico",
+      "apresentacao": "Cápsulas, pó, comprimidos",
+      "interacaoMedicamento": "Potencial interação com levodopa, inibidores da MAO e antipsicóticos",
+      "posologia": "500mg a 1500mg/dia, idealmente em jejum ou antes das refeições",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de luz e umidade",
+      "preparo": "Pó deve ser diluído em líquido antes da ingestão",
+      "solucoesCompatíveis": "Água, sucos, bebidas isotônicas",
+      "contraindicacoes": "Fenilcetonúria, distúrbios metabólicos hereditários da fenilalanina",
+      "cuidadosMedicos": "Avaliar histórico genético/metabólico; monitorar PA e estado mental em uso prolongado",
+      "cuidadosFarmaceuticos": "Conferir risco de fenilcetonúria; orientar ingestão hídrica adequada",
+      "cuidadosEnfermagem": "Observar efeitos neurocomportamentais e cardiovasculares",
+      "fontesBibliograficas": "Micromedex, PubChem CID: 6140, NIH, FDA DSLabel, WHO Food Additives"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Phenylalanine",
+      "suspension": "No need for preoperative suspension",
+      "risk": "Avoid in PKU patients; risk of toxic accumulation",
+      "reintroduction": "Reintroduce cautiously postoperatively or after nutritional assessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Phenylalanine",
+      "nomeComercial": "L-Phenylalanine, DLPA, Phenilan, Neurofen",
+      "mecanismoAcao": "Essential amino acid precursor to tyrosine and catecholamines (dopamine, norepinephrine, epinephrine); modulates mood and cognition via neurotransmitter synthesis.",
+      "farmacocinetica": "Actively absorbed in the small intestine; crosses the blood-brain barrier; converted to tyrosine in the liver; excreted as metabolites in urine.",
+      "farmacodinamica": "Enhances neurotransmitter production; supports mood, attention, and stress resilience.",
+      "indicacoes": "Protein supplementation, mild depression, ADHD, cognitive support, chronic pain, vitiligo (topical, experimental).",
+      "reacoesAdversas": "Anxiety, insomnia, headache, mild hypertension, nausea, sweating; neurotoxicity in PKU.",
+      "riscoGravidez": "Category C (use only if clearly needed)",
+      "riscoLactacao": "Likely safe in dietary doses; avoid high pharmacologic use",
+      "administracao": "Oral route; available in capsules, tablets, or powder",
+      "doseMaxima": "4g/day (healthy adults, divided)",
+      "doseMinima": "250mg/day for mild nutritional support",
+      "classificacao": "Essential amino acid / nutraceutical",
+      "apresentacao": "Capsules, powder, tablets",
+      "interacaoMedicamento": "May interact with levodopa, MAO inhibitors, antipsychotics",
+      "posologia": "500mg to 1500mg/day, preferably fasting or before meals",
+      "armazenamento": "Store at room temp (15–30°C), away from moisture and light",
+      "preparo": "Powder must be mixed with fluid before intake",
+      "solucoesCompatíveis": "Water, juice, isotonic drinks",
+      "contraindicacoes": "Phenylketonuria, inherited phenylalanine metabolism disorders",
+      "cuidadosMedicos": "Review genetic/metabolic history; monitor BP and mental status during extended use",
+      "cuidadosFarmaceuticos": "Check PKU risk; instruct on fluid intake",
+      "cuidadosEnfermagem": "Monitor for neurobehavioral or cardiovascular effects",
+      "fontesBibliograficas": "Micromedex, PubChem CID: 6140, NIH, FDA DSLabel, WHO Additives Database"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fenilalanina",
+      "suspension": "No requiere suspensión preoperatoria",
+      "risk": "Evitar en fenilcetonúricos; riesgo de toxicidad",
+      "reintroduction": "Reintroducir con precaución según evaluación clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenilalanina",
+      "nomeComercial": "L-Fenilalanina, DLPA, Neurofen, Fenilan",
+      "mecanismoAcao": "Aminoácido esencial precursor de tirosina y catecolaminas; mejora el estado de ánimo y la concentración a través de la síntesis de neurotransmisores.",
+      "farmacocinetica": "Absorción intestinal activa, atraviesa la barrera hematoencefálica, se convierte en tirosina en el hígado, excreción renal.",
+      "farmacodinamica": "Estimula neurotransmisores; mejora estado de ánimo, atención y respuesta al estrés.",
+      "indicacoes": "Suplementación proteica, depresión leve, TDAH, soporte cognitivo, dolor crónico, vitiligo (uso tópico en estudio).",
+      "reacoesAdversas": "Ansiedad, insomnio, cefalea, náuseas, sudoración, hipertensión leve; riesgo neurotóxico en PKU.",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Segura en dosis dietéticas; evitar dosis farmacológicas",
+      "administracao": "Vía oral; cápsulas, polvo, comprimidos",
+      "doseMaxima": "4g/día en adultos sanos, dividida",
+      "doseMinima": "250mg/día para apoyo nutricional leve",
+      "classificacao": "Aminoácido esencial / nutracéutico",
+      "apresentacao": "Cápsulas, polvo, comprimidos",
+      "interacaoMedicamento": "Interacciones con levodopa, IMAO, antipsicóticos",
+      "posologia": "500mg a 1500mg al día, preferentemente en ayunas",
+      "armazenamento": "15–30°C, protegido de humedad y luz",
+      "preparo": "Disolver polvo antes de ingerir",
+      "solucoesCompatíveis": "Agua, jugos, bebidas isotónicas",
+      "contraindicacoes": "Fenilcetonuria, errores innatos del metabolismo",
+      "cuidadosMedicos": "Evaluar historia genética/metabólica; monitoreo de PA y estado mental",
+      "cuidadosFarmaceuticos": "Comprobar riesgo de PKU; orientar sobre hidratación",
+      "cuidadosEnfermagem": "Observar efectos neuropsicológicos o cardiovasculares",
+      "fontesBibliograficas": "Micromedex, PubChem, NIH, FDA, OMS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "苯丙氨酸",
+      "suspension": "术前无需停药",
+      "risk": "苯丙酮尿症患者禁用；有毒性风险",
+      "reintroduction": "术后可谨慎重新使用，需营养评估"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "苯丙氨酸",
+      "nomeComercial": "L-苯丙氨酸, DLPA, Neurofen, 芬兰氨",
+      "mecanismoAcao": "必需氨基酸，是酪氨酸和儿茶酚胺（多巴胺、去甲肾上腺素、肾上腺素）的前体；影响神经递质合成，调节情绪和认知。",
+      "farmacocinetica": "小肠主动吸收；可穿越血脑屏障；在肝脏转化为酪氨酸；通过尿液排出代谢物。",
+      "farmacodinamica": "促进神经递质合成；提升情绪、注意力与抗压能力。",
+      "indicacoes": "蛋白补充、轻度抑郁、注意缺陷、认知支持、慢性疼痛、白癜风（外用研究中）。",
+      "reacoesAdversas": "焦虑、失眠、头痛、恶心、出汗、轻度高血压；PKU患者可能出现神经毒性。",
+      "riscoGravidez": "C类（仅在明确需要时使用）",
+      "riscoLactacao": "膳食剂量可能安全；避免大剂量使用",
+      "administracao": "口服；胶囊、粉末或片剂",
+      "doseMaxima": "每日最多4克（健康成人）",
+      "doseMinima": "每日250毫克用于轻度营养支持",
+      "classificacao": "必需氨基酸 / 营养补充剂",
+      "apresentacao": "胶囊、粉剂、片剂",
+      "interacaoMedicamento": "可能与左旋多巴、MAO抑制剂、抗精神病药物相互作用",
+      "posologia": "每日500至1500毫克，空腹服用效果佳",
+      "armazenamento": "常温（15–30°C），避光干燥处保存",
+      "preparo": "粉剂使用前需溶解于液体中",
+      "solucoesCompatíveis": "水、果汁、电解质饮品",
+      "contraindicacoes": "苯丙酮尿症，先天性代谢异常",
+      "cuidadosMedicos": "监测血压与神经反应；有遗传代谢病史者需评估",
+      "cuidadosFarmaceuticos": "确认是否存在PKU风险；指导补水",
+      "cuidadosEnfermagem": "观察神经和心血管系统副反应",
+      "fontesBibliograficas": "Micromedex, PubChem CID: 6140, NIH, FDA, WHO"
+    }
+  }
+}

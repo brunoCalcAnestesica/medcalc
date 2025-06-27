@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sulfametoxazol + Trimetoprima",
+      "suspension": "Suspender 1 dia antes, se possível",
+      "risk": "Risco de hipersensibilidade, discrasias sanguíneas e interação com anestésicos",
+      "reintroduction": "Reintroduzir após estabilização clínica e avaliação hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfametoxazol + Trimetoprima",
+      "nomeComercial": "Bactrim, Bactrim F, Eusaflox, Sulfaprime",
+      "mecanismoAcao": "Inibe sequencialmente a síntese de ácido fólico bacteriano",
+      "farmacocinetica": "Boa absorção oral, metabolizado no fígado, excreção renal",
+      "farmacodinamica": "Bactericida com efeito sinérgico",
+      "indicacoes": "ITU, bronquite, otite, Pneumocystis jirovecii, toxoplasmose",
+      "reacoesAdversas": "Náusea, rash, leucopenia, hipercalemia, síndrome de Stevens-Johnson",
+      "riscoGravidez": "Categoria D (contraindicado no 1º trimestre e fim da gestação)",
+      "riscoLactacao": "Excretado no leite; contraindicado em prematuros",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "320/1600 mg/dia",
+      "doseMinima": "80/400 mg/dose",
+      "classificacao": "Antibacteriano sulfonamida + diaminopirimidina",
+      "apresentacao": "Comprimidos, suspensão oral, solução injetável",
+      "interacaoMedicamento": "Interage com anticoagulantes, hipoglicemiantes, IECA, diuréticos",
+      "posologia": "160/800 mg 12/12h (adulto), ajustado por peso/indicação",
+      "armazenamento": "Temperatura ambiente; solução IV sob refrigeração após preparo",
+      "preparo": "Diluir em SF 0,9% ou glicose 5% para uso IV",
+      "solucoesCompatíveis": "SF 0,9%, Glicose 5%",
+      "contraindicacoes": "Insuficiência hepática grave, discrasias, alergia a sulfas",
+      "cuidadosMedicos": "Monitorar função renal, eletrólitos, hemograma",
+      "cuidadosFarmaceuticos": "Evitar exposição solar; orientar sinais de reação cutânea",
+      "cuidadosEnfermagem": "Observar rash, alterações hematológicas, sinais de hipercalemia",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, SBAn, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sulfamethoxazole + Trimethoprim",
+      "suspension": "Suspend 1 day before if possible",
+      "risk": "Risk of hypersensitivity, hematologic toxicity, and anesthetic interaction",
+      "reintroduction": "Restart after clinical stabilization and hematologic review"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfamethoxazole + Trimethoprim",
+      "nomeComercial": "Bactrim, Septra, Co-trimoxazole",
+      "mecanismoAcao": "Sequential inhibition of bacterial folate synthesis",
+      "farmacocinetica": "Good oral absorption, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Bactericidal synergy",
+      "indicacoes": "UTIs, bronchitis, otitis, Pneumocystis jirovecii, toxoplasmosis",
+      "reacoesAdversas": "Nausea, rash, leukopenia, hyperkalemia, Stevens-Johnson syndrome",
+      "riscoGravidez": "Category D (avoid in 1st trimester and late pregnancy)",
+      "riscoLactacao": "Excreted in breast milk; avoid in preterm infants",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "320/1600 mg/day",
+      "doseMinima": "80/400 mg/dose",
+      "classificacao": "Sulfonamide + diaminopyrimidine antibacterial",
+      "apresentacao": "Tablets, oral suspension, injectable solution",
+      "interacaoMedicamento": "Interacts with anticoagulants, hypoglycemics, ACEi, diuretics",
+      "posologia": "160/800 mg every 12h (adult); adjust by weight/indication",
+      "armazenamento": "Room temp; refrigerate IV solution after preparation",
+      "preparo": "Dilute in NS or D5W for IV use",
+      "solucoesCompatíveis": "Normal Saline, Dextrose 5%",
+      "contraindicacoes": "Severe hepatic failure, blood disorders, sulfa allergy",
+      "cuidadosMedicos": "Monitor renal function, electrolytes, CBC",
+      "cuidadosFarmaceuticos": "Avoid sun exposure; monitor for skin reactions",
+      "cuidadosEnfermagem": "Watch for rash, hematologic changes, hyperkalemia signs",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, SBAn"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sulfametoxazol + Trimetoprima",
+      "suspension": "Suspender 1 día antes si es posible",
+      "risk": "Riesgo de hipersensibilidad, toxicidad hematológica, interacción anestésica",
+      "reintroduction": "Reintroducir tras estabilización clínica y control hematológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfametoxazol + Trimetoprima",
+      "nomeComercial": "Bactrim, Septrin, Eusaflox",
+      "mecanismoAcao": "Inhibe secuencialmente la síntesis de ácido fólico bacteriano",
+      "farmacocinetica": "Buena absorción oral, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Bactericida con sinergia",
+      "indicacoes": "ITU, bronquitis, otitis, Pneumocystis jirovecii, toxoplasmosis",
+      "reacoesAdversas": "Náuseas, exantema, leucopenia, hipercalemia, síndrome de Stevens-Johnson",
+      "riscoGravidez": "Categoría D (evitar en 1° y 3° trimestre)",
+      "riscoLactacao": "Se excreta en leche; evitar en prematuros",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "320/1600 mg/día",
+      "doseMinima": "80/400 mg/dosis",
+      "classificacao": "Antibacteriano sulfonamida + diaminopirimidina",
+      "apresentacao": "Comprimidos, suspensión oral, solución inyectable",
+      "interacaoMedicamento": "Interacción con anticoagulantes, hipoglucemiantes, IECAs, diuréticos",
+      "posologia": "160/800 mg cada 12h; ajustar por peso/indicación",
+      "armazenamento": "Ambiente; solución IV refrigerada tras preparación",
+      "preparo": "Diluir con SF 0,9% o glucosa 5%",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%, glucosa 5%",
+      "contraindicacoes": "Insuficiencia hepática grave, discrasias sanguíneas, alergia a sulfas",
+      "cuidadosMedicos": "Controlar renal, electrolitos, hemograma",
+      "cuidadosFarmaceuticos": "Evitar sol, vigilar erupciones cutáneas",
+      "cuidadosEnfermagem": "Observar exantema, alteraciones hematológicas, hipercalemia",
+      "fontesBibliograficas": "EMA, FDA, ANVISA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "磺胺甲噁唑 + 甲氧苄啶",
+      "suspension": "术前1天停药",
+      "risk": "过敏、血液毒性、麻醉相互作用风险",
+      "reintroduction": "术后临床稳定且血象恢复后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磺胺甲噁唑 + 甲氧苄啶",
+      "nomeComercial": "复方新诺明, Bactrim, 通用复方磺胺",
+      "mecanismoAcao": "抑制细菌叶酸合成的两个环节，协同增强杀菌作用",
+      "farmacocinetica": "口服吸收良好，肝代谢，肾排泄",
+      "farmacodinamica": "协同杀菌，广谱抗菌",
+      "indicacoes": "泌尿感染、支气管炎、中耳炎、肺孢子菌、弓形虫",
+      "reacoesAdversas": "恶心、皮疹、白细胞减少、高钾、Stevens-Johnson综合征",
+      "riscoGravidez": "D类（孕早期和晚期禁用）",
+      "riscoLactacao": "排入乳汁，早产儿禁用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日320/1600毫克",
+      "doseMinima": "每次80/400毫克",
+      "classificacao": "磺胺类 + 二氨基嘧啶类联合抗菌药",
+      "apresentacao": "片剂、口服液、注射液",
+      "interacaoMedicamento": "与抗凝药、降糖药、ACEI、利尿剂有相互作用",
+      "posologia": "每12小时160/800毫克，按病情调整",
+      "armazenamento": "常温保存，注射液配制后需冷藏",
+      "preparo": "用生理盐水或5%葡萄糖稀释",
+      "solucoesCompatíveis": "0.9%氯化钠, 5%葡萄糖",
+      "contraindicacoes": "严重肝功能损害、血液病、对磺胺过敏",
+      "cuidadosMedicos": "监测肾功能、电解质和血象",
+      "cuidadosFarmaceuticos": "避免日晒，注意皮肤反应",
+      "cuidadosEnfermagem": "观察皮疹、血象变化和高钾表现",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex"
+    }
+  }
+}

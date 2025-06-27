@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Roxitromicina",
+      "suspension": "Suspender 1 dia antes da cirurgia",
+      "risk": "Risco de prolongamento do QT e interação com anestésicos metabolizados por CYP3A4",
+      "reintroduction": "Reintroduzir após estabilização clínica e monitoramento cardíaco"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Roxitromicina",
+      "nomeComercial": "Savigel, Rulid",
+      "mecanismoAcao": "Liga-se à subunidade 50S ribossomal, inibindo a síntese proteica bacteriana",
+      "farmacocinetica": "Boa absorção oral, meia-vida ~12h, excreção hepática e renal",
+      "farmacodinamica": "Bacteriostático contra Gram-positivos, alguns Gram-negativos e atípicos",
+      "indicacoes": "Infecções respiratórias, otite, faringite, infecções de pele e tecidos moles",
+      "reacoesAdversas": "Náusea, dor abdominal, cefaleia, hepatite colestática, QT prolongado",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Evitar durante lactação",
+      "administracao": "Oral",
+      "doseMaxima": "300 mg/dia",
+      "doseMinima": "150 mg/dia",
+      "classificacao": "Antibiótico macrolídeo",
+      "apresentacao": "Comprimidos de 150 mg e 300 mg",
+      "interacaoMedicamento": "Interage com varfarina, digoxina, teofilina, benzodiazepínicos",
+      "posologia": "150 mg 2x/dia ou 300 mg 1x/dia por 5 a 10 dias",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade a macrolídeos, insuficiência hepática grave, QT prolongado",
+      "cuidadosMedicos": "Monitorar ECG, função hepática e interações medicamentosas",
+      "cuidadosFarmaceuticos": "Orientar sobre uso com estômago vazio ou leve refeição",
+      "cuidadosEnfermagem": "Observar efeitos adversos gastrointestinais e cardíacos",
+      "fontesBibliograficas": "ANVISA, BNF, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Roxithromycin",
+      "suspension": "Discontinue 1 day before surgery",
+      "risk": "Risk of QT prolongation and CYP3A4-mediated interactions with anesthetics",
+      "reintroduction": "Restart after clinical stabilization and cardiac monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Roxithromycin",
+      "nomeComercial": "Rulid",
+      "mecanismoAcao": "Binds to the 50S ribosomal subunit, inhibiting bacterial protein synthesis",
+      "farmacocinetica": "Good oral absorption, half-life ~12h, hepatic and renal elimination",
+      "farmacodinamica": "Bacteriostatic against Gram-positives, some Gram-negatives, and atypicals",
+      "indicacoes": "Respiratory infections, otitis, pharyngitis, skin and soft tissue infections",
+      "reacoesAdversas": "Nausea, abdominal pain, headache, cholestatic hepatitis, QT prolongation",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "300 mg/day",
+      "doseMinima": "150 mg/day",
+      "classificacao": "Macrolide antibiotic",
+      "apresentacao": "Tablets 150 mg and 300 mg",
+      "interacaoMedicamento": "Interacts with warfarin, digoxin, theophylline, benzodiazepines",
+      "posologia": "150 mg BID or 300 mg QD for 5 to 10 days",
+      "armazenamento": "Room temperature, protected from moisture",
+      "preparo": "Direct oral administration",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Macrolide hypersensitivity, severe liver impairment, QT prolongation",
+      "cuidadosMedicos": "Monitor ECG, liver function and drug interactions",
+      "cuidadosFarmaceuticos": "Advise administration on empty stomach or with light food",
+      "cuidadosEnfermagem": "Watch for GI and cardiac adverse effects",
+      "fontesBibliograficas": "FDA, BNF, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Roxitromicina",
+      "suspension": "Suspender 1 día antes de la cirugía",
+      "risk": "Riesgo de prolongación del QT e interacción con anestésicos metabolizados por CYP3A4",
+      "reintroduction": "Reintroducir tras estabilización clínica y control cardíaco"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Roxitromicina",
+      "nomeComercial": "Rulid",
+      "mecanismoAcao": "Se une a la subunidad ribosomal 50S, inhibiendo la síntesis proteica bacteriana",
+      "farmacocinetica": "Buena absorción oral, vida media ~12h, eliminación hepática y renal",
+      "farmacodinamica": "Bacteriostático frente a Gram positivos, algunos Gram negativos y atípicos",
+      "indicacoes": "Infecciones respiratorias, otitis, faringitis, piel y tejidos blandos",
+      "reacoesAdversas": "Náuseas, dolor abdominal, cefalea, hepatitis colestásica, QT prolongado",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar durante la lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "300 mg/día",
+      "doseMinima": "150 mg/día",
+      "classificacao": "Antibiótico macrólido",
+      "apresentacao": "Tabletas de 150 y 300 mg",
+      "interacaoMedicamento": "Interacciones con warfarina, digoxina, teofilina, benzodiacepinas",
+      "posologia": "150 mg 2 veces al día o 300 mg 1 vez al día por 5 a 10 días",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "Administración oral directa",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a macrólidos, insuficiencia hepática grave, QT prolongado",
+      "cuidadosMedicos": "Controlar ECG, función hepática e interacciones medicamentosas",
+      "cuidadosFarmaceuticos": "Recomendar toma en ayunas o con comida ligera",
+      "cuidadosEnfermagem": "Observar efectos gastrointestinales y cardíacos",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "罗昔洛菌素",
+      "suspension": "择期手术前1天停药",
+      "risk": "可能引起QT延长，与CYP3A4代谢的麻醉药物相互作用",
+      "reintroduction": "术后临床稳定后，在心电监测下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "罗昔洛菌素",
+      "nomeComercial": "Rulid",
+      "mecanismoAcao": "与细菌50S核糖体亚基结合，抑制蛋白质合成",
+      "farmacocinetica": "口服吸收良好，半衰期约12小时，经肝肾排泄",
+      "farmacodinamica": "对革兰氏阳性菌、部分阴性菌及非典型致病菌具有抑菌作用",
+      "indicacoes": "呼吸道感染、中耳炎、咽炎、皮肤和软组织感染",
+      "reacoesAdversas": "恶心、腹痛、头痛、胆汁淤积性肝炎、QT延长",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期避免使用",
+      "administracao": "口服",
+      "doseMaxima": "每日300毫克",
+      "doseMinima": "每日150毫克",
+      "classificacao": "大环内酯类抗生素",
+      "apresentacao": "150 mg 和 300 mg 片剂",
+      "interacaoMedicamento": "与华法林、地高辛、茶碱、苯二氮卓类药物相互作用",
+      "posologia": "150 mg 每日2次 或 300 mg 每日1次，疗程5–10天",
+      "armazenamento": "室温保存，避光防潮",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对大环内酯过敏、严重肝功能不全、QT间期延长",
+      "cuidadosMedicos": "监测心电图、肝功能与药物相互作用",
+      "cuidadosFarmaceuticos": "建议空腹或随轻餐服用",
+      "cuidadosEnfermagem": "关注胃肠道及心脏副作用",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

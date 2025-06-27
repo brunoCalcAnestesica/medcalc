@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sufentanila",
+      "suspension": "Suspender 12 horas antes de procedimentos eletivos, quando não for usada como agente anestésico principal.",
+      "risk": "Alto risco de depressão respiratória, rigidez torácica e interações com anestésicos; deve ser usada apenas por profissionais treinados.",
+      "reintroduction": "Reintroduzir sob monitorização contínua em ambiente hospitalar após estabilização respiratória e hemodinâmica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sufentanila",
+      "nomeComercial": "Sufenta, Dsuvia",
+      "mecanismoAcao": "Agonista seletivo de receptores µ-opioides, com alta afinidade e potente efeito analgésico e sedativo.",
+      "farmacocinetica": "Início IV 1–3 min; meia-vida 2,7–3,5 h; metabolização hepática via CYP3A4; excreção renal.",
+      "farmacodinamica": "Inibe intensamente a transmissão nociceptiva a nível espinhal e supraspinal; 5–10 vezes mais potente que fentanila.",
+      "indicacoes": "Anestesia geral, analgesia intraoperatória, sedação em UTI, dor aguda controlada (hospitalar).",
+      "reacoesAdversas": "Depressão respiratória, bradicardia, hipotensão, rigidez muscular, náuseas, prurido, sedação excessiva.",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excreta-se no leite; usar com cautela.",
+      "administracao": "Intravenosa (IV), epidural.",
+      "doseMaxima": "30 mcg/h IV contínuo; bolus intraop. até 1 mcg/kg.",
+      "doseMinima": "2,5 mcg",
+      "classificacao": "Opioide agonista µ sintético (análogo da fentanila)",
+      "apresentacao": "Ampolas 50 mcg/mL (1 mL, 2 mL, 5 mL); comprimido sublingual (Dsuvia 30 mcg).",
+      "interacaoMedicamento": "Sedativos, benzodiazepínicos, álcool, inibidores do CYP3A4; potencialização de efeitos depressivos centrais.",
+      "posologia": "0,1–1 mcg/kg IV lento; ajustar conforme resposta clínica.",
+      "armazenamento": "15–25°C, protegido da luz.",
+      "preparo": "Diluir em SF 0,9% ou SG 5% para infusão contínua ou bolus titulado.",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Depressão respiratória grave, alergia a opioides, íleo paralítico.",
+      "cuidadosMedicos": "Monitorar continuamente ECG, FR, SpO2, nível de sedação e dor.",
+      "cuidadosFarmaceuticos": "Controle rigoroso de estoque, conferência de dose, rótulo e diluição antes da administração.",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, sedação, dor, efeitos adversos e vias de acesso.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Bula Sufenta e Dsuvia"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sufentanil",
+      "suspension": "Discontinue 12 hours prior to elective procedures when not used as the primary anesthetic agent.",
+      "risk": "High risk of respiratory depression, chest wall rigidity, and interactions with anesthetics; should be used only by trained professionals.",
+      "reintroduction": "Reintroduce under continuous monitoring in a hospital setting after respiratory and hemodynamic stabilization."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sufentanil",
+      "nomeComercial": "Sufenta, Dsuvia",
+      "mecanismoAcao": "Selective µ-opioid receptor agonist with high affinity and potent analgesic and sedative effects.",
+      "farmacocinetica": "IV onset 1–3 min; half-life 2.7–3.5 h; hepatic metabolism via CYP3A4; renal excretion.",
+      "farmacodinamica": "Strongly inhibits nociceptive transmission at spinal and supraspinal levels; 5–10 times more potent than fentanyl.",
+      "indicacoes": "General anesthesia, intraoperative analgesia, ICU sedation, controlled acute pain (inpatient).",
+      "reacoesAdversas": "Respiratory depression, bradycardia, hypotension, muscle rigidity, nausea, pruritus, excessive sedation.",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in milk; use with caution.",
+      "administracao": "Intravenous (IV), epidural.",
+      "doseMaxima": "30 mcg/h continuous IV; intraoperative bolus up to 1 mcg/kg.",
+      "doseMinima": "2.5 mcg",
+      "classificacao": "Synthetic µ-opioid receptor agonist (fentanyl analogue)",
+      "apresentacao": "Vials 50 mcg/mL (1 mL, 2 mL, 5 mL); sublingual tablet (Dsuvia 30 mcg).",
+      "interacaoMedicamento": "Sedatives, benzodiazepines, alcohol, CYP3A4 inhibitors; potentiation of central depressive effects.",
+      "posologia": "0.1–1 mcg/kg slow IV; adjust per clinical response.",
+      "armazenamento": "15–25°C, protected from light.",
+      "preparo": "Dilute in 0.9% saline or 5% glucose for continuous infusion or titrated bolus.",
+      "solucoesCompatíveis": "0.9% saline, 5% glucose",
+      "contraindicacoes": "Severe respiratory depression, opioid allergy, paralytic ileus.",
+      "cuidadosMedicos": "Continuous monitoring of ECG, respiratory rate, SpO2, sedation level, and pain.",
+      "cuidadosFarmaceuticos": "Strict stock control, dose verification, labeling, and dilution before administration.",
+      "cuidadosEnfermagem": "Monitor vital signs, sedation, pain, adverse effects, and access routes.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Sufenta and Dsuvia package inserts"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sufentanilo",
+      "suspension": "Suspender 12 horas antes de procedimientos electivos cuando no se use como agente anestésico principal.",
+      "risk": "Alto riesgo de depresión respiratoria, rigidez torácica e interacciones con anestésicos; debe ser usado solo por profesionales capacitados.",
+      "reintroduction": "Reintroducir bajo monitorización continua en ambiente hospitalario tras estabilización respiratoria y hemodinámica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sufentanilo",
+      "nomeComercial": "Sufenta, Dsuvia",
+      "mecanismoAcao": "Agonista selectivo de receptores µ-opioides con alta afinidad y potente efecto analgésico y sedante.",
+      "farmacocinetica": "Inicio IV 1–3 min; vida media 2,7–3,5 h; metabolismo hepático vía CYP3A4; excreción renal.",
+      "farmacodinamica": "Inhibe intensamente la transmisión nociceptiva a nivel espinal y supraspinal; 5–10 veces más potente que la fentanila.",
+      "indicacoes": "Anestesia general, analgesia intraoperatoria, sedación en UCI, dolor agudo controlado (hospitalario).",
+      "reacoesAdversas": "Depresión respiratoria, bradicardia, hipotensión, rigidez muscular, náuseas, prurito, sedación excesiva.",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en la leche; usar con precaución.",
+      "administracao": "Intravenosa (IV), epidural.",
+      "doseMaxima": "30 mcg/h IV continuo; bolo intraoperatorio hasta 1 mcg/kg.",
+      "doseMinima": "2,5 mcg",
+      "classificacao": "Opioide agonista µ sintético (análogode fentanilo)",
+      "apresentacao": "Ampollas 50 mcg/mL (1 mL, 2 mL, 5 mL); comprimido sublingual (Dsuvia 30 mcg).",
+      "interacaoMedicamento": "Sedantes, benzodiacepinas, alcohol, inhibidores de CYP3A4; potenciación de efectos depresores centrales.",
+      "posologia": "0,1–1 mcg/kg IV lento; ajustar según respuesta clínica.",
+      "armazenamento": "15–25°C, protegido de la luz.",
+      "preparo": "Diluir en SF 0,9% o SG 5% para infusión continua o bolo titulado.",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Depresión respiratoria grave, alergia a opioides, íleo paralítico.",
+      "cuidadosMedicos": "Monitorear continuamente ECG, FR, SpO2, nivel de sedación y dolor.",
+      "cuidadosFarmaceuticos": "Control riguroso de stock, verificación de dosis, etiquetado y dilución antes de la administración.",
+      "cuidadosEnfermagem": "Monitorear signos vitales, sedación, dolor, efectos adversos y vías de acceso.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Prospectos Sufenta y Dsuvia"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "舒芬太尼",
+      "suspension": "非作为主要麻醉剂时，择期手术前12小时停用。",
+      "risk": "高呼吸抑制风险，胸壁僵硬及与麻醉药物相互作用；仅限受训专业人员使用。",
+      "reintroduction": "在呼吸和血流动力学稳定后，于医院环境下持续监测下重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "舒芬太尼",
+      "nomeComercial": "Sufenta，Dsuvia",
+      "mecanismoAcao": "选择性μ-阿片受体激动剂，具有高亲和力及强效镇痛镇静作用。",
+      "farmacocinetica": "静脉注射起效1–3分钟；半衰期2.7–3.5小时；经CYP3A4肝脏代谢；肾脏排泄。",
+      "farmacodinamica": "强烈抑制脊髓及脑上水平的痛觉传导；效力为芬太尼的5–10倍。",
+      "indicacoes": "全身麻醉，术中镇痛，重症监护镇静，控制性急性疼痛（住院）。",
+      "reacoesAdversas": "呼吸抑制，心动过缓，低血压，肌肉僵硬，恶心，瘙痒，过度镇静。",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可经乳汁排泄，使用时需谨慎。",
+      "administracao": "静脉注射（IV），硬膜外注射。",
+      "doseMaxima": "持续静脉注射最高30微克/小时；术中推注最高1微克/公斤。",
+      "doseMinima": "2.5微克",
+      "classificacao": "合成μ-阿片受体激动剂（芬太尼类似物）",
+      "apresentacao": "安瓿剂50微克/毫升（1毫升，2毫升，5毫升）；舌下片（Dsuvia 30微克）。",
+      "interacaoMedicamento": "镇静剂，苯二氮卓类，酒精，CYP3A4抑制剂；中枢抑制作用增强。",
+      "posologia": "缓慢静脉注射0.1–1微克/公斤；根据临床反应调整。",
+      "armazenamento": "15–25°C，避光保存。",
+      "preparo": "用0.9%氯化钠或5%葡萄糖稀释，用于持续输注或滴定推注。",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "严重呼吸抑制，阿片类药物过敏，肠梗阻。",
+      "cuidadosMedicos": "持续监测心电图，呼吸频率，血氧饱和度，镇静程度及疼痛。",
+      "cuidadosFarmaceuticos": "严格库存管理，剂量核对，标记及稀释后方可使用。",
+      "cuidadosEnfermagem": "监测生命体征，镇静，疼痛，不良反应及给药途径。",
+      "fontesBibliograficas": "Micromedex，UpToDate，FDA，ANVISA，Sufenta和Dsuvia说明书"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Plasma fresco congelado",
+      "suspension": "Não aplicável – administrado sob critério clínico e transfusional, não de uso contínuo",
+      "risk": "Risco de reações transfusionais, sobrecarga circulatória, TRALI (injúria pulmonar aguda associada à transfusão), infecções transmissíveis",
+      "reintroduction": "Pode ser readministrado conforme necessidade clínica (sangramento, coagulopatias, cirurgia de grande porte)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Plasma humano fresco congelado (PFC)",
+      "nomeComercial": "Plasma Fresco Congelado Hemorrede / Hemonúcleo",
+      "mecanismoAcao": "Reforça níveis plasmáticos de fatores de coagulação, albumina e imunoglobulinas, restaurando hemostasia",
+      "farmacocinetica": "Efeito imediato após infusão; duração de ação variável conforme meia-vida dos fatores",
+      "farmacodinamica": "Corrige coagulopatias e melhora volume plasmático",
+      "indicacoes": "Coagulopatias com sangramento ativo, TTPa ou TP alargados, reversão de anticoagulação, doença hepática, plasmaférese",
+      "reacoesAdversas": "Febre, calafrios, urticária, anafilaxia, sobrecarga volêmica (TACO), TRALI, infecção viral residual (raro)",
+      "riscoGravidez": "Usar se indicado clinicamente (sangramento obstétrico)",
+      "riscoLactacao": "Permitido sob necessidade transfusional",
+      "administracao": "Infusão intravenosa lenta com filtro de sangue",
+      "doseMaxima": "15–20 mL/kg/dose (≈3–6 bolsas em adulto)",
+      "doseMinima": "10 mL/kg em situações leves ou profiláticas",
+      "classificacao": "Hemocomponente / hemoderivado",
+      "apresentacao": "Bolsas de 200 a 300 mL (congeladas a –30°C)",
+      "interacaoMedicamento": "Interfere com tempo de coagulação; cuidado com anticoagulantes e AINES concomitantes",
+      "posologia": "10–20 mL/kg IV após descongelamento a 30–37°C",
+      "armazenamento": "–30°C até 1 ano; usar em até 6h após descongelamento",
+      "preparo": "Descongelar em banho-maria 30–37°C com agitação; usar filtro padrão",
+      "solucoesCompatíveis": "Não misturar com outras soluções ou medicamentos IV",
+      "contraindicacoes": "Ausência de coagulopatia ou sangramento ativo; hipersensibilidade conhecida a componentes plasmáticos",
+      "cuidadosMedicos": "Avaliar TP, TTPa, INR, fibrinogênio antes da infusão",
+      "cuidadosFarmaceuticos": "Garantir compatibilidade ABO e rastreio sorológico",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, reação transfusional e volume infundido",
+      "fontesBibliograficas": "Hemoterapia – SBHH, ANVISA, Manual AABB, Medscape, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fresh frozen plasma",
+      "suspension": "Not applicable – administered as needed based on clinical indication",
+      "risk": "Risk of transfusion reaction, volume overload, TRALI, infectious disease transmission",
+      "reintroduction": "May be re-administered as clinically indicated"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fresh frozen plasma (FFP)",
+      "nomeComercial": "FFP Blood Bank / AABB / Red Cross",
+      "mecanismoAcao": "Replenishes clotting factors, proteins, and volume in plasma-deficient patients",
+      "farmacocinetica": "Immediate effect; duration depends on coagulation factor half-lives",
+      "farmacodinamica": "Restores hemostasis and improves plasma volume",
+      "indicacoes": "Coagulopathy with bleeding, warfarin reversal, liver disease, DIC, TTP, massive transfusion",
+      "reacoesAdversas": "Allergic reaction, fever, TRALI, TACO, viral infection (rare)",
+      "riscoGravidez": "Allowed under bleeding indications",
+      "riscoLactacao": "Permitted under transfusion protocols",
+      "administracao": "Slow IV infusion with standard blood filter",
+      "doseMaxima": "15–20 mL/kg (3–6 units in adults)",
+      "doseMinima": "10 mL/kg",
+      "classificacao": "Plasma component / blood product",
+      "apresentacao": "Frozen bags 200–300 mL",
+      "interacaoMedicamento": "Affects coagulation parameters; caution with anticoagulants",
+      "posologia": "10–20 mL/kg after thawing at 30–37°C",
+      "armazenamento": "–30°C; use within 6h after thawing",
+      "preparo": "Thaw in water bath at 30–37°C; use immediately with blood filter",
+      "solucoesCompatíveis": "Do not mix with other IV drugs",
+      "contraindicacoes": "No bleeding or coagulopathy, known plasma allergy",
+      "cuidadosMedicos": "Check PT, aPTT, INR, fibrinogen before infusion",
+      "cuidadosFarmaceuticos": "Ensure ABO compatibility and screening tests",
+      "cuidadosEnfermagem": "Monitor vitals, allergic reactions, infusion volume",
+      "fontesBibliograficas": "AABB, FDA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Plasma fresco congelado",
+      "suspension": "No aplica – se administra según necesidad transfusional",
+      "risk": "Riesgo de reacción transfusional, TACO, TRALI, infección residual",
+      "reintroduction": "Reanudar si es clínicamente necesario"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Plasma fresco congelado (PFC)",
+      "nomeComercial": "Plasma AABB, banco de sangre",
+      "mecanismoAcao": "Aporta factores de coagulación y volumen plasmático",
+      "farmacocinetica": "Inicio inmediato; duración variable según factor",
+      "farmacodinamica": "Corrige coagulopatía y restaura volumen circulante",
+      "indicacoes": "Coagulopatía con sangrado, hepatopatía, reversión de anticoagulantes, CID",
+      "reacoesAdversas": "Fiebre, urticaria, TRALI, TACO, infecciones (raro)",
+      "riscoGravidez": "Autorizado si hay sangrado",
+      "riscoLactacao": "Compatible si está indicado",
+      "administracao": "Infusión IV lenta con filtro de transfusión",
+      "doseMaxima": "15–20 mL/kg",
+      "doseMinima": "10 mL/kg",
+      "classificacao": "Hemocomponente / hemoderivado",
+      "apresentacao": "Bolsas congeladas de 200–300 mL",
+      "interacaoMedicamento": "Precaución con anticoagulantes",
+      "posologia": "10–20 mL/kg descongelado a 30–37°C",
+      "armazenamento": "–30°C, uso en 6h post-descongelado",
+      "preparo": "Baño maría controlado, usar filtro",
+      "solucoesCompatíveis": "No mezclar con otras soluciones IV",
+      "contraindicacoes": "Sin sangrado ni coagulopatía, alergia conocida",
+      "cuidadosMedicos": "Controlar TP, TTPa, INR, fibrinógeno",
+      "cuidadosFarmaceuticos": "Confirmar compatibilidad ABO y seguridad",
+      "cuidadosEnfermagem": "Vigilar reacciones transfusionales y volumen infundido",
+      "fontesBibliograficas": "AABB, Micromedex, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "新鲜冷冻血浆",
+      "suspension": "非长期用药，无需停药；依据术中/术后需要使用",
+      "risk": "可能引发过敏、容量负荷过多、TRALI、感染等不良反应",
+      "reintroduction": "可根据出血或凝血功能再次输注"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "新鲜冷冻血浆",
+      "nomeComercial": "血站PFC制品",
+      "mecanismoAcao": "提供凝血因子、白蛋白和免疫球蛋白，纠正凝血障碍",
+      "farmacocinetica": "输注后即刻起效；持续作用依因子半衰期",
+      "farmacodinamica": "补充凝血功能，恢复血浆容量",
+      "indicacoes": "凝血功能障碍出血、肝衰、DIC、大出血",
+      "reacoesAdversas": "发热、荨麻疹、过敏、TRALI、感染（罕见）",
+      "riscoGravidez": "孕期出血时可用",
+      "riscoLactacao": "必要时可用",
+      "administracao": "经血滤器缓慢静滴",
+      "doseMaxima": "15–20 mL/kg",
+      "doseMinima": "10 mL/kg",
+      "classificacao": "血液制品 / 等离子体成分",
+      "apresentacao": "200–300 mL冷冻袋",
+      "interacaoMedicamento": "影响抗凝药效",
+      "posologia": "解冻后30–37°C，10–20 mL/kg输注",
+      "armazenamento": "–30°C，解冻后6小时内使用",
+      "preparo": "水浴解冻，过滤后使用",
+      "solucoesCompatíveis": "不得与其他输液混合",
+      "contraindicacoes": "无凝血障碍、已知过敏史",
+      "cuidadosMedicos": "监测INR、PT、TTPa、纤维蛋白原",
+      "cuidadosFarmaceuticos": "确认ABO配型、无溶血、无污染",
+      "cuidadosEnfermagem": "监测生命体征、过敏反应、输液速度",
+      "fontesBibliograficas": "中国输血指南、Micromedex、Medscape"
+    }
+  }
+}

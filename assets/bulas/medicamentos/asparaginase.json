@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Asparaginase",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva",
+      "risk": "Risco de trombose, sangramento, pancreatite, hepatotoxicidade e hipersensibilidade",
+      "reintroduction": "Reintroduzir com cautela após resolução completa de eventos adversos graves"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Asparaginase (E. coli ou derivada de Erwinia)",
+      "nomeComercial": "Leunase, Oncaspar, Erwinase",
+      "mecanismoAcao": "Enzima que depleta asparagina circulante, essencial para células leucêmicas",
+      "farmacocinetica": "IV ou IM; meia-vida depende da formulação (8h a 5 dias); metabolização proteica",
+      "farmacodinamica": "Induz apoptose de células neoplásicas dependentes de asparagina",
+      "indicacoes": "Leucemia linfoblástica aguda (LLA), linfoma linfoblástico",
+      "reacoesAdversas": "Alergia, anafilaxia, hepatotoxicidade, pancreatite, trombose, hiperglicemia",
+      "riscoGravidez": "Categoria C — evitar uso salvo necessidade absoluta",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "Via intravenosa ou intramuscular",
+      "doseMaxima": "2.500 UI/m² (Oncaspar) ou conforme protocolo",
+      "doseMinima": "100 UI/kg (Erwinia)",
+      "classificacao": "Enzima antineoplásica / antiasparagina",
+      "apresentacao": "Frascos liofilizados (3500 UI, 3750 UI, 10.000 UI)",
+      "interacaoMedicamento": "Aumenta toxicidade de metotrexato e vincristina; risco aumentado com corticosteroides",
+      "posologia": "2500 UI/m² a cada 14 dias (Oncaspar); Erwinia: 25.000 UI/m² 3x/semana",
+      "armazenamento": "Refrigerado (2–8°C); não congelar",
+      "preparo": "Reconstituir com diluente próprio ou SF 0,9%; não agitar",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Pancreatite ativa, trombose grave, hipersensibilidade prévia",
+      "cuidadosMedicos": "Monitorar função hepática, pancreática, coagulação e glicemia",
+      "cuidadosFarmaceuticos": "Verificar estabilidade após reconstituição e via de administração",
+      "cuidadosEnfermagem": "Observar sinais de anafilaxia, dor abdominal e sangramento",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, protocolos BFM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Asparaginase",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of thrombosis, bleeding, pancreatitis, hepatotoxicity, and hypersensitivity",
+      "reintroduction": "Restart only after full resolution of severe adverse events"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Asparaginase (E. coli or Erwinia-derived)",
+      "nomeComercial": "Oncaspar, Erwinaze",
+      "mecanismoAcao": "Enzyme that hydrolyzes asparagine, depleting serum levels and starving leukemia cells",
+      "farmacocinetica": "IV or IM; half-life varies (8h to 5 days); protein metabolism",
+      "farmacodinamica": "Induces apoptosis in asparagine-dependent malignant cells",
+      "indicacoes": "Acute lymphoblastic leukemia (ALL), lymphoblastic lymphoma",
+      "reacoesAdversas": "Allergy, anaphylaxis, hepatotoxicity, pancreatitis, thrombosis, hyperglycemia",
+      "riscoGravidez": "Category C — avoid unless essential",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Intravenous or intramuscular",
+      "doseMaxima": "2500 IU/m² (Oncaspar) or per protocol",
+      "doseMinima": "100 IU/kg (Erwinia)",
+      "classificacao": "Antineoplastic enzyme / antiasparagine",
+      "apresentacao": "Lyophilized vials (3,500–10,000 IU)",
+      "interacaoMedicamento": "Increases toxicity of methotrexate, vincristine; enhanced risk with corticosteroids",
+      "posologia": "2500 IU/m² every 14 days (Oncaspar); Erwinia: 25,000 IU/m² 3x/week",
+      "armazenamento": "Refrigerate (2–8°C); do not freeze",
+      "preparo": "Reconstitute with specific diluent or 0.9% NaCl; do not shake",
+      "solucoesCompatíveis": "0.9% Sodium chloride",
+      "contraindicacoes": "Active pancreatitis, severe thrombosis, prior hypersensitivity",
+      "cuidadosMedicos": "Monitor liver, pancreas, coagulation, and blood glucose",
+      "cuidadosFarmaceuticos": "Ensure reconstitution stability and correct route",
+      "cuidadosEnfermagem": "Watch for anaphylaxis, abdominal pain, and bleeding",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, BFM protocols"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Asparaginasa",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de trombosis, sangrado, pancreatitis, hepatotoxicidad e hipersensibilidad",
+      "reintroduction": "Reintroducir solo tras resolución completa de eventos adversos graves"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Asparaginasa (derivada de E. coli o Erwinia)",
+      "nomeComercial": "Oncaspar, Erwinase",
+      "mecanismoAcao": "Enzima que degrada la asparagina, esencial para células leucémicas",
+      "farmacocinetica": "IV o IM; vida media depende de la formulación (8h–5 días)",
+      "farmacodinamica": "Induce apoptosis en células tumorales dependientes de asparagina",
+      "indicacoes": "Leucemia linfoblástica aguda (LLA), linfoma linfoblástico",
+      "reacoesAdversas": "Alergia, anafilaxia, hepatotoxicidad, pancreatitis, trombosis, hiperglucemia",
+      "riscoGravidez": "Categoría C — evitar salvo necesidad absoluta",
+      "riscoLactacao": "Contraindicado durante la lactancia",
+      "administracao": "Vía intravenosa o intramuscular",
+      "doseMaxima": "2500 UI/m² (Oncaspar)",
+      "doseMinima": "100 UI/kg (Erwinia)",
+      "classificacao": "Enzima antineoplásica / antiasparagina",
+      "apresentacao": "Viales liofilizados (3500 UI, 3750 UI, 10.000 UI)",
+      "interacaoMedicamento": "Mayor toxicidad con metotrexato, vincristina y corticoides",
+      "posologia": "2500 UI/m² cada 14 días (Oncaspar); Erwinia: 25.000 UI/m² tres veces/semana",
+      "armazenamento": "Refrigerado (2–8°C); no congelar",
+      "preparo": "Reconstituir con diluyente específico o SF 0,9%; no agitar",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Pancreatitis activa, trombosis grave, hipersensibilidad previa",
+      "cuidadosMedicos": "Monitorear hígado, páncreas, coagulación y glucosa",
+      "cuidadosFarmaceuticos": "Verificar estabilidad tras reconstitución",
+      "cuidadosEnfermagem": "Observar anafilaxia, dolor abdominal y sangrado",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, protocolos BFM"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "天冬酰胺酶",
+      "suspension": "择期手术前7天停药",
+      "risk": "易引起血栓、出血、胰腺炎、肝毒性及过敏反应",
+      "reintroduction": "严重不良反应完全缓解后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "天冬酰胺酶（大肠杆菌或厄文氏菌来源）",
+      "nomeComercial": "Oncaspar（派加）、Erwinase（伊文酶）",
+      "mecanismoAcao": "水解血浆天冬酰胺，抑制白血病细胞生长",
+      "farmacocinetica": "静注或肌注，半衰期8小时至5天，蛋白降解代谢",
+      "farmacodinamica": "引发依赖天冬酰胺的肿瘤细胞凋亡",
+      "indicacoes": "急性淋巴细胞白血病（ALL）、淋巴母细胞淋巴瘤",
+      "reacoesAdversas": "过敏、过敏性休克、肝毒性、胰腺炎、血栓、高血糖",
+      "riscoGravidez": "C类 — 非必要勿用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉或肌肉注射",
+      "doseMaxima": "Oncaspar：每次2500 IU/m²",
+      "doseMinima": "Erwinia：100 IU/kg",
+      "classificacao": "抗肿瘤酶类药物 / 抗天冬酰胺",
+      "apresentacao": "冻干粉针（3500、3750、10000 IU）",
+      "interacaoMedicamento": "与甲氨蝶呤、长春新碱及糖皮质激素合用增加毒性",
+      "posologia": "Oncaspar：2500 IU/m² 每14天；Erwinase：25000 IU/m² 每周三次",
+      "armazenamento": "2–8°C冷藏，勿冷冻",
+      "preparo": "用专用稀释液或0.9%氯化钠重配，禁止摇晃",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "活动性胰腺炎、严重血栓、既往过敏",
+      "cuidadosMedicos": "监测肝酶、胰酶、凝血功能与血糖",
+      "cuidadosFarmaceuticos": "确认稀释后稳定性与注射途径",
+      "cuidadosEnfermagem": "观察过敏反应、腹痛及出血体征",
+      "fontesBibliograficas": "FDA、EMA、Micromedex、BFM方案"
+    }
+  }
+}

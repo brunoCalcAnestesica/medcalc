@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Dexmedetomidina",
+      "suspension": "Não se aplica (uso EV hospitalar); ajustar ou suspender sedativos crônicos antes de uso planejado",
+      "risk": "Bradicardia, hipotensão, boca seca, interação com betabloqueadores, opioides e anestésicos; risco de bloqueio AV em pacientes sensíveis",
+      "reintroduction": "Reintroduzir conforme necessidade de sedação com monitoramento contínuo de ECG, PA, FR e nível de consciência"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dexmedetomidina Cloridrato",
+      "nomeComercial": "Precedex",
+      "mecanismoAcao": "Agonista seletivo dos receptores alfa-2 adrenérgicos; promove sedação com preservação respiratória e efeito analgésico leve",
+      "farmacocinetica": "Início: 5–10min (EV); meia-vida: ~2h; metabolização hepática (CYP2A6); excreção renal e biliar",
+      "farmacodinamica": "Sedativo com perfil de sedação consciente, minimizando depressão respiratória; usado em UTI e anestesia",
+      "indicacoes": "Sedação em UTI, procedimentos diagnósticos/cirúrgicos curtos, sedação intraoperatória, anestesia balanceada",
+      "reacoesAdversas": "Bradicardia, hipotensão, boca seca, bloqueio AV, agitação (retirada), hipertermia (raro)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; evitar uso prolongado durante amamentação",
+      "administracao": "Intravenosa (infusão contínua com ou sem bolus inicial)",
+      "doseMaxima": "Infusão: até 1.4mcg/kg/h; bolus único: 1mcg/kg em 10min",
+      "doseMinima": "Infusão: 0.2mcg/kg/h",
+      "classificacao": "Sedativo alfa-2 agonista seletivo",
+      "apresentacao": "Ampolas 100mcg/mL (geralmente 2mL); solução diluída em SF ou SG 5% para infusão",
+      "interacaoMedicamento": "Opioides, anestésicos voláteis, betabloqueadores, bloqueadores de canal de cálcio, álcool",
+      "posologia": "Bolus: 1mcg/kg em 10min (opcional); manutenção: 0.2–0.7mcg/kg/h (pode chegar a 1.4)",
+      "armazenamento": "Conservar entre 15–30°C, protegido de luz; diluído usar em até 24h",
+      "preparo": "Diluir para concentração final de 4mcg/mL em SF 0,9% ou SG 5%; uso IV contínuo",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Bloqueio AV de 2º/3º grau sem marca-passo, hipotensão refratária, bradicardia grave, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar ECG, PA, FC, FR; ajustar dose em insuficiência hepática e pacientes idosos",
+      "cuidadosFarmaceuticos": "Verificar preparo asséptico, tempo de estabilidade e compatibilidade na bomba",
+      "cuidadosEnfermagem": "Monitorar sedação, PA, bradicardia, agitação na retirada, nível de consciência e conforto do paciente",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, Lexicomp, UpToDate, Miller’s Anesthesia"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Dexmedetomidine",
+      "suspension": "Not applicable (IV ICU sedative); assess benzodiazepine or opioid withdrawal if chronically used",
+      "risk": "Bradycardia, hypotension, dry mouth, AV block, CNS depression; interactions with anesthetics and opioids",
+      "reintroduction": "May be restarted as needed under continuous ECG and hemodynamic monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dexmedetomidine Hydrochloride",
+      "nomeComercial": "Precedex",
+      "mecanismoAcao": "Selective α2-adrenergic agonist; sedative with minimal respiratory depression",
+      "farmacocinetica": "Onset: 5–10min; T1/2: ~2h; hepatic metabolism (CYP2A6); renal and biliary excretion",
+      "farmacodinamica": "Sedative used for conscious sedation, ICU procedures and operative settings with hemodynamic control",
+      "indicacoes": "ICU sedation, procedural sedation, adjunct to anesthesia",
+      "reacoesAdversas": "Bradycardia, hypotension, dry mouth, AV block, rebound hypertension, fever",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid prolonged use in breastfeeding; single-dose data limited",
+      "administracao": "IV infusion (with or without loading dose)",
+      "doseMaxima": "Maintenance: up to 1.4mcg/kg/h; Loading: 1mcg/kg over 10min",
+      "doseMinima": "Maintenance: 0.2mcg/kg/h",
+      "classificacao": "Selective α2 agonist sedative",
+      "apresentacao": "Ampoules 100mcg/mL (2mL); diluted to 4mcg/mL for IV use",
+      "interacaoMedicamento": "Opioids, volatile anesthetics, beta blockers, calcium channel blockers, alcohol",
+      "posologia": "Loading (optional): 1mcg/kg over 10min; maintenance: 0.2–0.7mcg/kg/h up to 1.4",
+      "armazenamento": "Store 15–30°C, protect from light; use diluted solution within 24h",
+      "preparo": "Dilute to 4mcg/mL in NS or D5W; infuse with pump under strict monitoring",
+      "solucoesCompatíveis": "NS 0.9%, D5W",
+      "contraindicacoes": "Advanced AV block without pacemaker, severe hypotension, bradycardia, hypersensitivity",
+      "cuidadosMedicos": "Monitor ECG, BP, HR, RR; adjust dose in hepatic impairment",
+      "cuidadosFarmaceuticos": "Confirm aseptic dilution, stability, and compatibility in infusion system",
+      "cuidadosEnfermagem": "Assess sedation, bradycardia, BP, withdrawal effects, comfort",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Dexmedetomidina",
+      "suspension": "No aplica (sedante EV en UCI); evaluar retiro de benzodiacepinas u opioides crónicos si se utiliza",
+      "risk": "Bradicardia, hipotensión, boca seca, bloqueo AV, sedación excesiva; interacción con opioides y anestésicos",
+      "reintroduction": "Puede reintroducirse con vigilancia hemodinámica y monitorización continua"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Dexmedetomidina",
+      "nomeComercial": "Precedex",
+      "mecanismoAcao": "Agonista α2-adrenérgico selectivo; sedante sin depresión respiratoria marcada",
+      "farmacocinetica": "Inicio: 5–10min; vida media: ~2h; metabolismo hepático (CYP2A6); eliminación renal y biliar",
+      "farmacodinamica": "Sedante útil para sedación consciente en UCI, procedimientos y anestesia balanceada",
+      "indicacoes": "Sedación en UCI, procedimientos cortos, complemento anestésico",
+      "reacoesAdversas": "Bradicardia, hipotensión, boca seca, agitación, fiebre, náuseas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar uso prolongado; dosis única no evaluada",
+      "administracao": "Infusión intravenosa continua (con o sin bolo inicial)",
+      "doseMaxima": "Mantenimiento: hasta 1.4mcg/kg/h; carga: 1mcg/kg en 10min",
+      "doseMinima": "Mantenimiento: 0.2mcg/kg/h",
+      "classificacao": "Sedante agonista α2 selectivo",
+      "apresentacao": "Ampollas 100mcg/mL (2mL); diluir a 4mcg/mL",
+      "interacaoMedicamento": "Opioides, anestésicos, betabloqueantes, calcioantagonistas, alcohol",
+      "posologia": "Carga: 1mcg/kg (opcional); mantenimiento: 0.2–0.7mcg/kg/h",
+      "armazenamento": "15–30°C, protegido de luz; dilución válida por 24h",
+      "preparo": "Diluir en SF o SG 5% a 4mcg/mL; administrar con bomba",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Bloqueo AV avanzado sin marcapasos, hipotensión, bradicardia",
+      "cuidadosMedicos": "Monitorear ECG, PA, FC, conciencia; ajustar en insuficiencia hepática",
+      "cuidadosFarmaceuticos": "Confirmar dilución aséptica, compatibilidad, caducidad",
+      "cuidadosEnfermagem": "Observar sedación, bradicardia, PA, confort y efectos de retirada",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "右美托咪定",
+      "suspension": "不适用（仅用于ICU镇静）；术前应评估长期使用镇静剂或阿片类的撤药风险",
+      "risk": "心动过缓、低血压、口干、房室传导阻滞；与阿片类、β阻滞剂等联用需谨慎",
+      "reintroduction": "术后或镇静需求时可重新使用，需连续监测生命体征和意识"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸右美托咪定",
+      "nomeComercial": "Precedex, 右美安",
+      "mecanismoAcao": "选择性α2受体激动剂，产生轻度镇静、镇痛和自主神经抑制作用",
+      "farmacocinetica": "起效5–10分钟；半衰期2小时；肝代谢（CYP2A6）；肾和胆汁排泄",
+      "farmacodinamica": "维持清醒镇静、不抑制呼吸，在重症监护和术中辅助使用广泛",
+      "indicacoes": "ICU镇静、短程操作镇静、麻醉诱导/维持辅助药",
+      "reacoesAdversas": "心动过缓、低血压、口干、发热、停药激越、恶心",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免持续使用；一次使用安全性资料不足",
+      "administracao": "静脉持续输注（可选负荷）",
+      "doseMaxima": "维持：1.4mcg/kg/h；负荷：1mcg/kg（10分钟）",
+      "doseMinima": "维持：0.2mcg/kg/h",
+      "classificacao": "α2肾上腺素受体激动剂类镇静药",
+      "apresentacao": "原液100mcg/mL安瓿（2mL）；需稀释至4mcg/mL",
+      "interacaoMedicamento": "阿片类、吸入麻醉剂、β阻滞剂、钙拮抗剂、酒精",
+      "posologia": "负荷：1mcg/kg（10分钟）；维持：0.2–0.7mcg/kg/h，可升至1.4",
+      "armazenamento": "避光常温保存；稀释液24小时内使用",
+      "preparo": "以NS或5%葡萄糖稀释至4mcg/mL，泵输注入",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "无起搏器的房室传导阻滞、严重低血压、过敏史",
+      "cuidadosMedicos": "监测ECG、HR、BP、镇静深度，肝功能不全患者需减量",
+      "cuidadosFarmaceuticos": "注意稀释、配伍、泵输设定与无菌操作",
+      "cuidadosEnfermagem": "观察心率、血压、镇静状态、拔管时激越及口干",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex, UpToDate"
+    }
+  }
+}

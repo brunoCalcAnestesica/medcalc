@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ivabradina",
+      "suspension": "Suspender 24–48h antes de cirurgia eletiva se em uso crônico e risco de bradicardia com anestesia",
+      "risk": "Risco de bradicardia perioperatória e interação com bloqueadores do nó sinusal",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e retorno da FC basal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ivabradina",
+      "nomeComercial": "Procoralan",
+      "mecanismoAcao": "Inibe seletivamente a corrente If no nó sinoatrial, reduzindo a frequência cardíaca",
+      "farmacocinetica": "Biodisponibilidade oral ~40%, metabolismo hepático (CYP3A4), meia-vida 6h (efetiva ~11h)",
+      "farmacodinamica": "Reduz FC em repouso e esforço, sem alterar contratilidade ou pressão arterial",
+      "indicacoes": "Insuficiência cardíaca crônica (FEVE <35%, ritmo sinusal), angina estável crônica",
+      "reacoesAdversas": "Bradicardia, fosfênos, tontura, fadiga",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Contraindicado; excretado no leite em estudos animais",
+      "administracao": "Oral",
+      "doseMaxima": "7,5mg 2x/dia",
+      "doseMinima": "2,5mg 2x/dia",
+      "classificacao": "Inibidor seletivo do nó sinusal (If)",
+      "apresentacao": "Comprimidos 5mg, 7,5mg",
+      "interacaoMedicamento": "Contraindicado com inibidores fortes do CYP3A4, bradicardia acentuada com beta-bloqueadores",
+      "posologia": "Dose inicial 5mg 2x/dia; ajustar conforme FC (meta: 50–60 bpm)",
+      "armazenamento": "Temperatura ambiente, protegido da umidade e luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Bradicardia, FA, IAM recente, PA <90/50 mmHg, gravidez, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar FC, ritmo sinusal, interação com outros cronotrópicos",
+      "cuidadosFarmaceuticos": "Educar sobre intervalo entre doses e sinais de bradicardia",
+      "cuidadosEnfermagem": "Observar FC e PA antes da administração",
+      "fontesBibliograficas": "ANVISA, EMA, Micromedex, ESC Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ivabradine",
+      "suspension": "Discontinue 24–48h before surgery if used chronically due to bradycardia risk with anesthesia",
+      "risk": "Risk of perioperative bradycardia and interaction with nodal blockers",
+      "reintroduction": "Restart after hemodynamic stability and baseline HR restoration"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ivabradine",
+      "nomeComercial": "Corlanor",
+      "mecanismoAcao": "Selective If current inhibitor in the SA node, reducing heart rate",
+      "farmacocinetica": "Bioavailability ~40%, hepatic metabolism (CYP3A4), half-life ~6h (effective ~11h)",
+      "farmacodinamica": "Lowers HR without affecting contractility or blood pressure",
+      "indicacoes": "Chronic heart failure (EF <35%, sinus rhythm), stable angina",
+      "reacoesAdversas": "Bradycardia, phosphenes, dizziness, fatigue",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Contraindicated; secreted in milk in animal studies",
+      "administracao": "Oral",
+      "doseMaxima": "7.5mg BID",
+      "doseMinima": "2.5mg BID",
+      "classificacao": "SA node If channel inhibitor",
+      "apresentacao": "Tablets 5mg, 7.5mg",
+      "interacaoMedicamento": "Contraindicated with strong CYP3A4 inhibitors; caution with beta-blockers",
+      "posologia": "Start 5mg BID; adjust to target HR (50–60 bpm)",
+      "armazenamento": "Room temperature, dry and dark storage",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Bradycardia, AF, recent MI, BP <90/50 mmHg, pregnancy, severe liver impairment",
+      "cuidadosMedicos": "Monitor HR, sinus rhythm, drug interactions",
+      "cuidadosFarmaceuticos": "Instruct on dose timing and bradycardia symptoms",
+      "cuidadosEnfermagem": "Check HR and BP prior to administration",
+      "fontesBibliograficas": "FDA, ESC Guidelines, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ivabradina",
+      "suspension": "Suspender 24–48h antes de cirugía si hay uso crónico por riesgo de bradicardia",
+      "risk": "Riesgo de bradicardia perioperatoria e interacción con bloqueadores del nodo sinusal",
+      "reintroduction": "Reanudar tras estabilidad hemodinámica y recuperación de la FC basal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ivabradina",
+      "nomeComercial": "Procoralan",
+      "mecanismoAcao": "Inhibe selectivamente la corriente If del nodo SA, reduciendo la FC",
+      "farmacocinetica": "Biodisponibilidad ~40%, metabolismo hepático (CYP3A4), vida media ~6h (efectiva ~11h)",
+      "farmacodinamica": "Reduce la FC sin afectar contractilidad ni PA",
+      "indicacoes": "Insuficiencia cardíaca crónica (FEVI <35%), angina estable crónica",
+      "reacoesAdversas": "Bradicardia, fosfenos, mareo, fatiga",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "Contraindicado; se excreta en leche en estudios animales",
+      "administracao": "Oral",
+      "doseMaxima": "7.5mg 2x/día",
+      "doseMinima": "2.5mg 2x/día",
+      "classificacao": "Inhibidor selectivo del nodo sinusal (corriente If)",
+      "apresentacao": "Comprimidos 5mg, 7.5mg",
+      "interacaoMedicamento": "Contraindicado con inhibidores fuertes del CYP3A4; precaución con betabloqueadores",
+      "posologia": "Inicio 5mg 2x/día; ajustar a FC objetivo (50–60 lpm)",
+      "armazenamento": "Lugar seco, temperatura ambiente, protegido de la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Bradicardia, FA, IAM reciente, PA <90/50 mmHg, embarazo, hepatopatía severa",
+      "cuidadosMedicos": "Controlar FC, ritmo sinusal, interacciones medicamentosas",
+      "cuidadosFarmaceuticos": "Educar sobre síntomas de bradicardia y adherencia al horario",
+      "cuidadosEnfermagem": "Monitorear PA y FC antes de administrar",
+      "fontesBibliograficas": "EMA, Micromedex, ESC Guidelines"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伊伐布雷定",
+      "suspension": "若术前长期使用，术前24–48小时停药，避免麻醉下心动过缓",
+      "risk": "术中心动过缓风险，与窦房结抑制剂联用需注意",
+      "reintroduction": "术后血流动力学稳定并恢复心率后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伊伐布雷定",
+      "nomeComercial": "可益得（Procoralan）",
+      "mecanismoAcao": "选择性抑制窦房结If电流，降低心率",
+      "farmacocinetica": "口服生物利用度约40%，经CYP3A4代谢，有效半衰期约11小时",
+      "farmacodinamica": "降低心率而不影响收缩力或血压",
+      "indicacoes": "慢性心力衰竭（射血分数<35%，窦性心律）、稳定性心绞痛",
+      "reacoesAdversas": "心动过缓、视觉扰动（光闪）、头晕、乏力",
+      "riscoGravidez": "X类 – 孕期禁用",
+      "riscoLactacao": "动物研究可分泌至乳汁，禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日两次，每次7.5mg",
+      "doseMinima": "每日两次，每次2.5mg",
+      "classificacao": "If通道抑制剂，窦房结调节药",
+      "apresentacao": "5mg、7.5mg片剂",
+      "interacaoMedicamento": "禁与CYP3A4强抑制剂合用；与β受体阻滞剂联用需注意",
+      "posologia": "初始5mg每日两次，根据心率调整至50–60次/分",
+      "armazenamento": "常温避光保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "心动过缓、心房颤动、近期心梗、低血压、妊娠、严重肝损",
+      "cuidadosMedicos": "监测心率、节律及药物相互作用",
+      "cuidadosFarmaceuticos": "指导遵守用药时间及识别不良反应",
+      "cuidadosEnfermagem": "服药前监测心率与血压",
+      "fontesBibliograficas": "中国药典、Micromedex、ESC指南"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Piperacilina",
+      "suspension": "Manter até o dia da cirurgia se em uso terapêutico",
+      "risk": "Risco de reação alérgica cruzada com outras penicilinas; potencial de disfunção renal e alterações eletrolíticas",
+      "reintroduction": "Reintroduzir conforme quadro infeccioso e avaliação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piperacilina sódica",
+      "nomeComercial": "Pipracil",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana ao se ligar às PBPs (penicillin-binding proteins)",
+      "farmacocinetica": "Administração IV/IM; meia-vida 0,7–1,2h; excreção renal",
+      "farmacodinamica": "Bactericida de amplo espectro, ativo contra Gram+ e Gram−, incluindo Pseudomonas aeruginosa",
+      "indicacoes": "Infecções graves respiratórias, urinárias, intra-abdominais, ginecológicas, sepse",
+      "reacoesAdversas": "Diarreia, náusea, rash, leucopenia, elevação de enzimas hepáticas, hipocalemia",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Uso permitido com cautela",
+      "administracao": "Via intravenosa ou intramuscular",
+      "doseMaxima": "18g/dia (dividido em 4–6 doses)",
+      "doseMinima": "3g/dia",
+      "classificacao": "Penicilina ureidopenicilina de amplo espectro",
+      "apresentacao": "Frascos-ampola 2g, 4g",
+      "interacaoMedicamento": "Potencializa toxicidade de metotrexato, antagoniza aminoglicosídeos se misturados",
+      "posologia": "2–4g IV a cada 6–8h; ajustar por função renal",
+      "armazenamento": "Pó: 15–25°C; solução reconstituída: refrigerada por até 24h",
+      "preparo": "Reconstituir com água estéril ou SF 0,9%; não misturar com aminoglicosídeos",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Hipersensibilidade a penicilinas",
+      "cuidadosMedicos": "Monitorar função renal, eletrólitos (K+), sinais de superinfecção",
+      "cuidadosFarmaceuticos": "Garantir diluição correta, evitar uso com aminoglicosídeos na mesma seringa/bolsa",
+      "cuidadosEnfermagem": "Observar sinais de reação alérgica, diarreia, alteração na diurese",
+      "fontesBibliograficas": "Micromedex, FDA, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Piperacillin",
+      "suspension": "Continue until day of surgery if used therapeutically",
+      "risk": "Cross-reactivity with penicillins; may cause renal dysfunction and electrolyte imbalance",
+      "reintroduction": "Restart based on infection status and clinical judgment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piperacillin sodium",
+      "nomeComercial": "Pipracil",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis by binding to PBPs",
+      "farmacocinetica": "IV/IM; half-life 0.7–1.2h; renal elimination",
+      "farmacodinamica": "Broad-spectrum bactericidal agent active against Gram+ and Gram− incl. Pseudomonas",
+      "indicacoes": "Serious infections: respiratory, UTI, intra-abdominal, sepsis",
+      "reacoesAdversas": "Diarrhea, nausea, rash, leukopenia, elevated liver enzymes, hypokalemia",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Generally safe",
+      "administracao": "IV or IM",
+      "doseMaxima": "18g/day divided doses",
+      "doseMinima": "3g/day",
+      "classificacao": "Ureidopenicillin broad-spectrum penicillin",
+      "apresentacao": "Vials 2g, 4g",
+      "interacaoMedicamento": "Increases methotrexate toxicity; inactivates aminoglycosides in same solution",
+      "posologia": "2–4g IV q6–8h; adjust for renal function",
+      "armazenamento": "Powder at 15–25°C; reconstituted: refrigerate 24h",
+      "preparo": "Reconstitute with sterile water or NS; do not mix with aminoglycosides",
+      "solucoesCompatíveis": "Normal saline",
+      "contraindicacoes": "Penicillin allergy",
+      "cuidadosMedicos": "Monitor renal function, K+, signs of superinfection",
+      "cuidadosFarmaceuticos": "Ensure proper dilution; avoid mixing with aminoglycosides",
+      "cuidadosEnfermagem": "Observe for allergic reaction, GI upset, renal signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Piperacilina",
+      "suspension": "Mantener hasta el día de cirugía si se usa terapéuticamente",
+      "risk": "Reactividad cruzada con otras penicilinas; riesgo de nefrotoxicidad, alteraciones electrolíticas",
+      "reintroduction": "Reintroducir según necesidad clínica e infección activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Piperacilina sódica",
+      "nomeComercial": "Pipracil",
+      "mecanismoAcao": "Inhibe la síntesis de la pared celular bacteriana (PBPs)",
+      "farmacocinetica": "IV/IM; vida media 0,7–1,2h; eliminación renal",
+      "farmacodinamica": "Bactericida de amplio espectro activo frente a Gram+ y Gram− (incluye Pseudomonas)",
+      "indicacoes": "Infecciones respiratorias, urinarias, abdominales, sepsis",
+      "reacoesAdversas": "Diarrea, náusea, exantema, leucopenia, hipokalemia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Uso seguro",
+      "administracao": "IV o IM",
+      "doseMaxima": "18g/día",
+      "doseMinima": "3g/día",
+      "classificacao": "Penicilina ureidopenicilina de amplio espectro",
+      "apresentacao": "Viales de 2g, 4g",
+      "interacaoMedicamento": "Mayor toxicidad con metotrexato; inactiva aminoglucósidos si se mezcla",
+      "posologia": "2–4g IV cada 6–8h; ajustar en IR",
+      "armazenamento": "Polvo 15–25°C; solución refrigerada 24h",
+      "preparo": "Reconstituir con agua estéril o SSF; no mezclar con aminoglucósidos",
+      "solucoesCompatíveis": "SSF 0,9%",
+      "contraindicacoes": "Alergia a penicilinas",
+      "cuidadosMedicos": "Monitorizar función renal, electrolitos y superinfección",
+      "cuidadosFarmaceuticos": "Correcta reconstitución y no mezclar con aminoglucósidos",
+      "cuidadosEnfermagem": "Observar alergias, función renal y signos de infección",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "哌拉西林",
+      "suspension": "如感染需治疗，术前可持续使用",
+      "risk": "与其他青霉素类交叉过敏，可能引起肾毒性、电解质紊乱",
+      "reintroduction": "术后根据感染情况和临床恢复决定重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "哌拉西林钠",
+      "nomeComercial": "Pipracil",
+      "mecanismoAcao": "抑制细菌细胞壁合成，结合PBPs",
+      "farmacocinetica": "静注/肌注；半衰期0.7–1.2小时；肾排泄",
+      "farmacodinamica": "广谱杀菌，对革兰阳性、阴性菌包括铜绿假单胞菌有效",
+      "indicacoes": "严重感染：肺炎、泌尿、腹腔、菌血症",
+      "reacoesAdversas": "腹泻、皮疹、白细胞减少、高钾或低钾血症",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "一般安全",
+      "administracao": "静脉或肌注",
+      "doseMaxima": "每日18克",
+      "doseMinima": "每日3克",
+      "classificacao": "广谱青霉素类（脲类）",
+      "apresentacao": "粉针2g、4g",
+      "interacaoMedicamento": "与甲氨蝶呤合用增加毒性；与氨基糖苷混合会失活",
+      "posologia": "每6–8小时2–4g，按肾功能调整",
+      "armazenamento": "粉剂常温保存，配制后冷藏24小时",
+      "preparo": "用无菌水或0.9%氯化钠稀释；不与氨基糖苷合用",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对青霉素过敏者禁用",
+      "cuidadosMedicos": "监测肾功能、电解质、二重感染",
+      "cuidadosFarmaceuticos": "避免与氨基糖苷合用，注意稀释浓度",
+      "cuidadosEnfermagem": "注意过敏反应、腹泻及尿量变化",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

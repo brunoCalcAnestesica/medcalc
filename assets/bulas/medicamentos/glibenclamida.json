@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Glibenclamida",
+      "suspension": "Suspender 24 horas antes da cirurgia",
+      "risk": "Risco de hipoglicemia grave durante o jejum e interação com anestésicos",
+      "reintroduction": "Reintroduzir quando o paciente estiver alimentando-se normalmente, com glicemia estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glibenclamida",
+      "nomeComercial": "Daonil, Glibenclamida, Euglucon",
+      "mecanismoAcao": "Estimula a liberação de insulina pelas células beta pancreáticas, inibindo canais de potássio ATP-dependentes",
+      "farmacocinetica": "Biodisponibilidade oral elevada, meia-vida de 10 horas, metabolização hepática e excreção renal e biliar",
+      "farmacodinamica": "Reduz a glicemia estimulando secreção de insulina endógena",
+      "indicacoes": "Diabetes mellitus tipo 2",
+      "reacoesAdversas": "Hipoglicemia, náuseas, ganho de peso, reações alérgicas, icterícia colestática",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Contraindicada na amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "20mg/dia",
+      "doseMinima": "2,5mg/dia",
+      "classificacao": "Antidiabético oral sulfonilureia",
+      "apresentacao": "Comprimidos de 2,5mg e 5mg",
+      "interacaoMedicamento": "Aumento do efeito hipoglicemiante com AINEs, álcool, anticoagulantes; antagonismo com corticosteroides e diuréticos",
+      "posologia": "Inicial: 2,5–5mg/dia, ajustada conforme resposta glicêmica",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Diabetes tipo 1, cetoacidose diabética, insuficiência hepática ou renal grave",
+      "cuidadosMedicos": "Monitorar glicemia capilar, ajustar dose em idosos ou pacientes com insuficiência hepática/renal",
+      "cuidadosFarmaceuticos": "Orientar quanto ao risco de hipoglicemia e adesão alimentar",
+      "cuidadosEnfermagem": "Observar sinais de hipoglicemia, manter controle glicêmico rigoroso",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, ADA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Glyburide",
+      "suspension": "Discontinue 24 hours before surgery",
+      "risk": "Risk of severe hypoglycemia during fasting and interaction with anesthetics",
+      "reintroduction": "Restart when oral intake is resumed and glycemia is stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glyburide",
+      "nomeComercial": "Diabeta, Micronase, Glynase",
+      "mecanismoAcao": "Stimulates insulin secretion by blocking ATP-dependent potassium channels in pancreatic beta cells",
+      "farmacocinetica": "High oral bioavailability, half-life ~10 hours, hepatic metabolism, renal and biliary excretion",
+      "farmacodinamica": "Lowers blood glucose by enhancing endogenous insulin secretion",
+      "indicacoes": "Type 2 diabetes mellitus",
+      "reacoesAdversas": "Hypoglycemia, nausea, weight gain, allergic reactions, cholestatic jaundice",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "20mg/day",
+      "doseMinima": "2.5mg/day",
+      "classificacao": "Oral sulfonylurea hypoglycemic agent",
+      "apresentacao": "Tablets 2.5mg and 5mg",
+      "interacaoMedicamento": "Potentiated by NSAIDs, alcohol, anticoagulants; antagonized by corticosteroids, diuretics",
+      "posologia": "Start at 2.5–5mg/day, titrate based on glycemic response",
+      "armazenamento": "Store at room temperature, protect from light and moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Type 1 diabetes, diabetic ketoacidosis, severe liver/renal impairment",
+      "cuidadosMedicos": "Monitor blood glucose, adjust in elderly or hepatic/renal dysfunction",
+      "cuidadosFarmaceuticos": "Educate on hypoglycemia risk and adherence to diet",
+      "cuidadosEnfermagem": "Monitor for hypoglycemia and ensure glycemic control",
+      "fontesBibliograficas": "FDA, Micromedex, ADA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Glibenclamida",
+      "suspension": "Suspender 24 horas antes de la cirugía",
+      "risk": "Riesgo de hipoglucemia severa durante ayuno y posible interacción con anestésicos",
+      "reintroduction": "Reintroducir cuando se restablezca la alimentación oral y la glucemia esté controlada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glibenclamida",
+      "nomeComercial": "Daonil, Euglucon",
+      "mecanismoAcao": "Estimula la secreción de insulina al bloquear los canales de potasio ATP-dependientes en células beta",
+      "farmacocinetica": "Buena biodisponibilidad oral, vida media ~10h, metabolismo hepático, excreción renal y biliar",
+      "farmacodinamica": "Reduce la glucemia estimulando secreción de insulina endógena",
+      "indicacoes": "Diabetes mellitus tipo 2",
+      "reacoesAdversas": "Hipoglucemia, náuseas, aumento de peso, ictericia colestásica",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "20mg/día",
+      "doseMinima": "2,5mg/día",
+      "classificacao": "Antidiabético oral sulfonilurea",
+      "apresentacao": "Tabletas de 2,5mg y 5mg",
+      "interacaoMedicamento": "Aumenta efecto hipoglucemiante con AINEs, alcohol, anticoagulantes; disminuye con corticosteroides y diuréticos",
+      "posologia": "Inicial 2,5–5mg/día, ajustar según control glucémico",
+      "armazenamento": "Temperatura ambiente, proteger de la luz y humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "DM tipo 1, cetoacidosis, insuficiencia hepática o renal grave",
+      "cuidadosMedicos": "Monitorear glucemia, ajustar dosis en ancianos o hepatopatía",
+      "cuidadosFarmaceuticos": "Advertir sobre riesgo de hipoglucemia, adherencia alimentaria",
+      "cuidadosEnfermagem": "Observar hipoglucemia, controlar niveles de glucosa",
+      "fontesBibliograficas": "Micromedex, ADA, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "格列本脲",
+      "suspension": "术前24小时停药",
+      "risk": "术中禁食期间可致严重低血糖，并可能与麻醉药相互作用",
+      "reintroduction": "术后恢复进食并血糖稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "格列本脲",
+      "nomeComercial": "Daonil",
+      "mecanismoAcao": "通过阻断胰岛β细胞ATP敏感钾通道促进胰岛素释放",
+      "farmacocinetica": "口服吸收良好，半衰期约10小时，肝脏代谢，经肾和胆道排泄",
+      "farmacodinamica": "通过增强内源性胰岛素分泌降低血糖",
+      "indicacoes": "2型糖尿病",
+      "reacoesAdversas": "低血糖、恶心、体重增加、过敏、胆汁淤积性黄疸",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日20毫克",
+      "doseMinima": "每日2.5毫克",
+      "classificacao": "磺脲类口服降糖药",
+      "apresentacao": "片剂：2.5mg 和 5mg",
+      "interacaoMedicamento": "与NSAIDs、酒精、抗凝剂增强降糖作用；糖皮质激素和利尿剂减弱其作用",
+      "posologia": "初始剂量2.5–5mg/日，根据血糖调整",
+      "armazenamento": "室温避光避潮",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "1型糖尿病、糖尿病酮症酸中毒、严重肝肾功能不全",
+      "cuidadosMedicos": "监测血糖，根据患者肝肾功能调整剂量",
+      "cuidadosFarmaceuticos": "强调低血糖风险和饮食依从性",
+      "cuidadosEnfermagem": "观察低血糖表现，维持血糖控制",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

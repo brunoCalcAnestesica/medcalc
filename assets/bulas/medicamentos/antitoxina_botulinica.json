@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Antitoxina Botulínica",
+      "suspension": "Usada apenas em urgências; não se aplica suspensão eletiva",
+      "risk": "Reações alérgicas, anafilaxia e doença do soro; monitorar compatibilidade sanguínea",
+      "reintroduction": "Reintrodução rara; somente sob nova exposição à toxina"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antitoxina botulínica heptavalente (A-G)",
+      "nomeComercial": "BAT (Botulism Antitoxin Heptavalent)",
+      "mecanismoAcao": "Anticorpos heterólogos que neutralizam toxinas botulínicas circulantes",
+      "farmacocinetica": "Infusão IV; início rápido; meia-vida dependente da fração de imunoglobulina (F(ab')2)",
+      "farmacodinamica": "Evita progressão da paralisia pela neutralização da toxina circulante",
+      "indicacoes": "Tratamento de botulismo (alimentar, feridas, inalatória, iatrogênico)",
+      "reacoesAdversas": "Anafilaxia, febre, calafrios, rash, hipotensão, doença do soro (tardia)",
+      "riscoGravidez": "Categoria C — usar se benefício justificar",
+      "riscoLactacao": "Desconhecido; uso permitido se necessário",
+      "administracao": "Infusão intravenosa lenta, única",
+      "doseMaxima": "1 frasco (volume fixo para adultos)",
+      "doseMinima": "Dose pediátrica ajustada por peso",
+      "classificacao": "Imunoglobulina equina purificada / antitoxina",
+      "apresentacao": "Frasco de dose única (volume ~50 mL)",
+      "interacaoMedicamento": "Potencial interferência com vacinação com toxoides (difeteria, tétano)",
+      "posologia": "Dose única IV em 20–120 minutos",
+      "armazenamento": "Refrigerado 2–8°C; não congelar",
+      "preparo": "Pré-medicar com anti-histamínico ± corticosteroide; infundir lentamente",
+      "solucoesCompatíveis": "Infundir puro; não misturar",
+      "contraindicacoes": "Alergia a proteínas equinas ou reações prévias à antitoxina",
+      "cuidadosMedicos": "Monitorar reações imediatas e tardias; suporte respiratório disponível",
+      "cuidadosFarmaceuticos": "Manuseio conforme protocolo biológico de urgência",
+      "cuidadosEnfermagem": "Observar reações anafiláticas, sinais vitais, e preparar suporte de emergência",
+      "fontesBibliograficas": "CDC, FDA, Micromedex, BAT EUA product insert"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Botulism Antitoxin",
+      "suspension": "Not applicable; emergency use only",
+      "risk": "Risk of anaphylaxis, serum sickness, and hypersensitivity; verify horse protein sensitivity",
+      "reintroduction": "Rarely needed unless re-exposed to botulinum toxin"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Botulinum Antitoxin Heptavalent (A-G)",
+      "nomeComercial": "BAT",
+      "mecanismoAcao": "Equine-derived antibodies that neutralize circulating botulinum toxins",
+      "farmacocinetica": "IV infusion; rapid onset; half-life varies by F(ab')2 fragment",
+      "farmacodinamica": "Prevents further progression of paralysis by toxin neutralization",
+      "indicacoes": "Treatment of botulism (foodborne, wound, inhalational, iatrogenic)",
+      "reacoesAdversas": "Anaphylaxis, fever, chills, rash, hypotension, delayed serum sickness",
+      "riscoGravidez": "Category C — use if benefit outweighs risk",
+      "riscoLactacao": "Unknown; acceptable if clinically indicated",
+      "administracao": "Single slow intravenous infusion",
+      "doseMaxima": "1 vial for adults",
+      "doseMinima": "Pediatric dose based on weight",
+      "classificacao": "Purified equine immunoglobulin / antitoxin",
+      "apresentacao": "Single-dose vial (~50 mL)",
+      "interacaoMedicamento": "May interfere with toxoid vaccines (diphtheria, tetanus)",
+      "posologia": "Single dose IV over 20–120 minutes",
+      "armazenamento": "Refrigerate 2–8°C; do not freeze",
+      "preparo": "Premedicate with antihistamine ± corticosteroid; infuse slowly",
+      "solucoesCompatíveis": "Infuse undiluted; do not mix",
+      "contraindicacoes": "History of equine protein allergy or previous antitoxin reactions",
+      "cuidadosMedicos": "Monitor for immediate and delayed reactions; respiratory support available",
+      "cuidadosFarmaceuticos": "Handle as emergency biological protocol",
+      "cuidadosEnfermagem": "Observe for anaphylaxis, monitor vitals, have emergency support ready",
+      "fontesBibliograficas": "CDC, FDA, Micromedex, BAT product insert"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Antitoxina Botulínica",
+      "suspension": "Solo para uso urgente; no aplica suspensión prequirúrgica",
+      "risk": "Riesgo de anafilaxia, hipersensibilidad y enfermedad del suero",
+      "reintroduction": "Solo necesaria si hay nueva exposición a la toxina"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antitoxina botulínica heptavalente (A-G)",
+      "nomeComercial": "BAT",
+      "mecanismoAcao": "Anticuerpos heterólogos que neutralizan toxinas botulínicas circulantes",
+      "farmacocinetica": "Infusión IV; inicio rápido; vida media según la fracción F(ab')2",
+      "farmacodinamica": "Previene progresión de la parálisis al neutralizar la toxina",
+      "indicacoes": "Tratamiento de botulismo (alimentario, por heridas, inhalado, iatrogénico)",
+      "reacoesAdversas": "Anafilaxia, fiebre, escalofríos, erupción, hipotensión, enfermedad del suero",
+      "riscoGravidez": "Categoría C — usar si el beneficio lo justifica",
+      "riscoLactacao": "Desconocido; uso permitido si está indicado",
+      "administracao": "Infusión intravenosa única y lenta",
+      "doseMaxima": "1 frasco en adultos",
+      "doseMinima": "Dosis pediátrica ajustada por peso",
+      "classificacao": "Inmunoglobulina equina purificada / antitoxina",
+      "apresentacao": "Frasco de dosis única (~50 mL)",
+      "interacaoMedicamento": "Puede interferir con vacunas toxoides (tétanos, difteria)",
+      "posologia": "Dosis única IV durante 20–120 minutos",
+      "armazenamento": "Refrigerar a 2–8°C; no congelar",
+      "preparo": "Premedicar con antihistamínico ± corticosteroide; infundir lentamente",
+      "solucoesCompatíveis": "Infundir sin diluir; no mezclar",
+      "contraindicacoes": "Alergia a proteínas equinas o antecedentes de reacción a antitoxinas",
+      "cuidadosMedicos": "Monitorear reacciones inmediatas y tardías; tener soporte respiratorio disponible",
+      "cuidadosFarmaceuticos": "Manipular según protocolo biológico de urgencia",
+      "cuidadosEnfermagem": "Observar anafilaxia, signos vitales y preparar emergencia",
+      "fontesBibliograficas": "CDC, FDA, Micromedex, ficha técnica BAT"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "肉毒毒素抗毒素",
+      "suspension": "仅用于紧急情况；无需术前停药",
+      "risk": "过敏反应、过敏性休克、血清病风险",
+      "reintroduction": "如再次暴露可重复使用，通常不需要重复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "肉毒毒素七价抗毒素（A-G型）",
+      "nomeComercial": "BAT（Botulism Antitoxin Heptavalent）",
+      "mecanismoAcao": "源自马的多克隆抗体，中和血液循环中的肉毒毒素",
+      "farmacocinetica": "静脉输注，起效快，半衰期取决于F(ab')2片段",
+      "farmacodinamica": "中和毒素，阻止瘫痪进一步发展",
+      "indicacoes": "肉毒中毒（食源性、伤口型、吸入型、医源性）",
+      "reacoesAdversas": "过敏反应、发热、寒战、皮疹、低血压、迟发性血清病",
+      "riscoGravidez": "C类 — 若有必要可使用",
+      "riscoLactacao": "未知；临床需要时可使用",
+      "administracao": "单次静脉缓慢注射",
+      "doseMaxima": "成人1瓶（固定剂量）",
+      "doseMinima": "儿童按体重计算剂量",
+      "classificacao": "马源纯化免疫球蛋白 / 抗毒素",
+      "apresentacao": "单剂量瓶装（约50 mL）",
+      "interacaoMedicamento": "可能干扰类毒素疫苗（破伤风、白喉）效果",
+      "posologia": "单次IV注射，持续20–120分钟",
+      "armazenamento": "2–8°C冷藏；勿冷冻",
+      "preparo": "提前给予抗组胺 ± 糖皮质激素；缓慢注射",
+      "solucoesCompatíveis": "原液静脉注射；不可混合使用",
+      "contraindicacoes": "对马蛋白过敏或既往对抗毒素过敏者",
+      "cuidadosMedicos": "监测即刻与迟发反应；提供呼吸支持",
+      "cuidadosFarmaceuticos": "按照生物制剂紧急使用流程操作",
+      "cuidadosEnfermagem": "观察过敏、监测生命体征、准备急救设备",
+      "fontesBibliograficas": "CDC、FDA、Micromedex、BAT说明书"
+    }
+  }
+}

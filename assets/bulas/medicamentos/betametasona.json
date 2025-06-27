@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Betametasona",
+      "suspension": "Individualizar. Avaliar forma de uso (sistêmica, tópica, injetável) e tempo de uso.",
+      "risk": "Supressão do eixo HHA, risco de insuficiência adrenal se suspensa abruptamente em uso prolongado",
+      "reintroduction": "Reintroduzir com dose de manutenção ou estresse conforme indicação cirúrgica e forma anterior de administração"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Betametasona",
+      "nomeComercial": "Celestone, Diprospan, Betnovate",
+      "mecanismoAcao": "Agonista dos receptores glicocorticoides, com potente ação anti-inflamatória e imunossupressora",
+      "farmacocinetica": "Absorção varia conforme via (oral, IM, tópica), metabolismo hepático, meia-vida biológica longa (36–54h)",
+      "farmacodinamica": "Inibe fosfolipase A2, reduz liberação de prostaglandinas e leucotrienos",
+      "indicacoes": "Processos inflamatórios, doenças autoimunes, choque, dermatites, alergias graves",
+      "reacoesAdversas": "Hiperglicemia, edema, insônia, supressão adrenal, osteoporose, infecção",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Pode ser excretada no leite; uso com cautela",
+      "administracao": "Oral, intramuscular, intra-articular, tópica",
+      "doseMaxima": "12mg/dia (IM em casos agudos)",
+      "doseMinima": "0,5mg/dia",
+      "classificacao": "Glicocorticoide sintético",
+      "apresentacao": "Comprimidos, suspensão injetável, creme dermatológico",
+      "interacaoMedicamento": "Interage com AINEs, hipoglicemiantes, anticoagulantes e diuréticos",
+      "posologia": "Individualizada conforme patologia, resposta clínica e via",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Agitar ampolas antes de uso IM",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9% (para diluição, quando necessário)",
+      "contraindicacoes": "Infecções sistêmicas não controladas, hipersensibilidade",
+      "cuidadosMedicos": "Avaliar função adrenal, risco de infecção, pressão arterial e glicemia",
+      "cuidadosFarmaceuticos": "Evitar suspensão abrupta após uso prolongado",
+      "cuidadosEnfermagem": "Observar sinais de infecção, edema e variações de glicemia",
+      "fontesBibliograficas": "SBRAFH, ANVISA, FDA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Betamethasone",
+      "suspension": "Individualize. Evaluate route (oral, topical, IM) and chronicity.",
+      "risk": "HPA axis suppression, adrenal insufficiency if stopped abruptly after long-term use",
+      "reintroduction": "Restart at maintenance or stress dose depending on previous route and surgical context"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Betamethasone",
+      "nomeComercial": "Celestone, Diprolene, Luxiq",
+      "mecanismoAcao": "Glucocorticoid receptor agonist with strong anti-inflammatory and immunosuppressive effects",
+      "farmacocinetica": "Absorption varies by route, hepatic metabolism, long biological half-life (36–54h)",
+      "farmacodinamica": "Inhibits phospholipase A2 and release of inflammatory mediators",
+      "indicacoes": "Inflammatory disorders, autoimmune diseases, shock, allergic states, dermatologic conditions",
+      "reacoesAdversas": "Hyperglycemia, insomnia, adrenal suppression, osteoporosis, edema, infections",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "May be excreted in breast milk; caution advised",
+      "administracao": "Oral, intramuscular, intra-articular, topical",
+      "doseMaxima": "12mg/day (IM acute settings)",
+      "doseMinima": "0.5mg/day",
+      "classificacao": "Synthetic glucocorticoid",
+      "apresentacao": "Tablets, injectable suspension, dermatologic creams",
+      "interacaoMedicamento": "Interacts with NSAIDs, hypoglycemics, anticoagulants, diuretics",
+      "posologia": "Individualized by route, condition, and clinical response",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Shake vials before IM use",
+      "solucoesCompatíveis": "0.9% Sodium chloride (if dilution needed)",
+      "contraindicacoes": "Untreated systemic infections, hypersensitivity",
+      "cuidadosMedicos": "Monitor adrenal function, BP, blood glucose, infection risk",
+      "cuidadosFarmaceuticos": "Taper gradually after long use",
+      "cuidadosEnfermagem": "Observe for edema, infection, and glucose fluctuation",
+      "fontesBibliograficas": "FDA, Micromedex, NIH"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Betametasona",
+      "suspension": "Individualizar según vía de uso (oral, tópica, IM) y duración",
+      "risk": "Supresión del eje HHA, insuficiencia suprarrenal si se suspende bruscamente tras uso prolongado",
+      "reintroduction": "Reintroducir con dosis de mantenimiento o estrés según ruta y contexto quirúrgico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Betametasona",
+      "nomeComercial": "Celestone, Diprospan, Betnovate",
+      "mecanismoAcao": "Agonista de receptores glucocorticoides, potente efecto antiinflamatorio",
+      "farmacocinetica": "Absorción depende de la vía, metabolismo hepático, semivida biológica prolongada (36–54h)",
+      "farmacodinamica": "Inhibe la fosfolipasa A2 y mediadores inflamatorios",
+      "indicacoes": "Enfermedades inflamatorias, autoinmunes, shock, alergias graves, dermatitis",
+      "reacoesAdversas": "Hiperglucemia, edema, insomnio, supresión adrenal, osteoporosis, infecciones",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Puede excretarse en leche materna; usar con precaución",
+      "administracao": "Oral, intramuscular, intraarticular, tópica",
+      "doseMaxima": "12mg/día (en casos agudos IM)",
+      "doseMinima": "0,5mg/día",
+      "classificacao": "Glucocorticoide sintético",
+      "apresentacao": "Comprimidos, suspensión inyectable, crema dérmica",
+      "interacaoMedicamento": "Interacción con AINEs, anticoagulantes, antidiabéticos, diuréticos",
+      "posologia": "Individualizada según condición, vía y respuesta",
+      "armazenamento": "Temperatura ambiente, proteger de la luz",
+      "preparo": "Agitar antes de uso IM",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9% (si requiere dilución)",
+      "contraindicacoes": "Infecciones sistémicas no tratadas, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear función suprarrenal, PA, glucemia e infecciones",
+      "cuidadosFarmaceuticos": "Evitar retirada brusca tras uso prolongado",
+      "cuidadosEnfermagem": "Observar signos de infección, edema y glicemia",
+      "fontesBibliograficas": "Micromedex, FDA, protocolos latinoamericanos"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "倍氯米松",
+      "suspension": "根据使用途径（口服、注射、外用）和疗程个体化",
+      "risk": "长期使用后突然停药可导致肾上腺功能不全",
+      "reintroduction": "术后根据途径与手术情况恢复维持剂量或应激剂量"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "倍氯米松",
+      "nomeComercial": "得宝松（Diprospan）、施美特（Celestone）",
+      "mecanismoAcao": "激活糖皮质激素受体，具有强效抗炎作用",
+      "farmacocinetica": "不同给药途径吸收不同，肝脏代谢，生物半衰期长（36–54小时）",
+      "farmacodinamica": "抑制磷脂酶A2与炎症介质释放",
+      "indicacoes": "炎症性疾病、自身免疫、休克、重度过敏、皮肤病",
+      "reacoesAdversas": "高血糖、水肿、失眠、肾上腺抑制、骨质疏松、感染",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可排泄至乳汁中，慎用",
+      "administracao": "口服、肌注、关节内注射、外用",
+      "doseMaxima": "每日12毫克（肌注急症）",
+      "doseMinima": "每日0.5毫克",
+      "classificacao": "合成糖皮质激素",
+      "apresentacao": "片剂、注射液、皮肤用药膏",
+      "interacaoMedicamento": "与NSAIDs、抗凝药、降糖药、利尿剂相互作用",
+      "posologia": "根据病情、途径与反应个体化",
+      "armazenamento": "室温避光保存",
+      "preparo": "肌注前摇匀",
+      "solucoesCompatíveis": "0.9%氯化钠（需稀释时）",
+      "contraindicacoes": "未控制的全身性感染、过敏",
+      "cuidadosMedicos": "监测肾上腺功能、血压、血糖与感染",
+      "cuidadosFarmaceuticos": "长期使用后需逐步停药",
+      "cuidadosEnfermagem": "观察感染征象、水肿及血糖变化",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

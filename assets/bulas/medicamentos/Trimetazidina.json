@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Trimetazidina",
+      "suspension": "Suspender 48 horas antes de cirurgias de grande porte ou procedimentos com risco de hipotensão",
+      "risk": "Risco de bradicardia, hipotensão, interação com betabloqueadores e anestésicos; potencial para parkinsonismo em idosos",
+      "reintroduction": "Reintroduzir após estabilização cardiovascular e ausência de efeitos extrapiramidais"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trimetazidina dicloridrato",
+      "nomeComercial": "Vastarel, Idaptan, Trimetaz",
+      "mecanismoAcao": "Inibe a beta-oxidação dos ácidos graxos, promovendo metabolismo energético mitocondrial baseado na glicose no miocárdio isquêmico",
+      "farmacocinetica": "Biodisponibilidade oral ~90%; T1/2 ~6h (lib. imediata), ~7h (lib. prolongada); excreção renal",
+      "farmacodinamica": "Melhora a tolerância à isquemia e reduz flutuações metabólicas cardíacas",
+      "indicacoes": "Angina estável crônica (adjunto), zumbido, distúrbios vestibulares, retinopatias isquêmicas",
+      "reacoesAdversas": "Tontura, cefaleia, distúrbios gastrointestinais, parkinsonismo, insônia",
+      "riscoGravidez": "Categoria C – não recomendado",
+      "riscoLactacao": "Evitar; dados insuficientes",
+      "administracao": "Via oral, 2 a 3 vezes ao dia (lib. imediata); 1 a 2 vezes ao dia (lib. prolongada)",
+      "doseMaxima": "70 mg/dia",
+      "doseMinima": "35 mg/dia",
+      "classificacao": "Antianginoso metabólico celular – modulador do metabolismo cardíaco",
+      "apresentacao": "Comprimidos de 20 mg, 35 mg (liberação modificada)",
+      "interacaoMedicamento": "Potencialização com betabloqueadores, diltiazem, verapamil; risco de efeitos dopaminérgicos",
+      "posologia": "35–70 mg/dia, dividido em 1–2 doses",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Mal de Parkinson, tremores, insuficiência renal grave (ClCr <30 mL/min)",
+      "cuidadosMedicos": "Avaliar sintomas extrapiramidais, pressão arterial e função renal",
+      "cuidadosFarmaceuticos": "Ajustar posologia em idosos e monitorar interações",
+      "cuidadosEnfermagem": "Observar bradicardia, tremores e instabilidade postural",
+      "fontesBibliograficas": "ANVISA, EMA, FDA (relatórios europeus), Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Trimetazidine",
+      "suspension": "Hold 48h prior to major surgery or hypotension-risk procedures",
+      "risk": "Risk of bradycardia, hypotension, Parkinsonian effects in elderly, interaction with β-blockers and anesthetics",
+      "reintroduction": "Restart once hemodynamics stabilize and no extrapyramidal signs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trimetazidine dihydrochloride",
+      "nomeComercial": "Vastarel, Trimetaz",
+      "mecanismoAcao": "Shifts cardiac metabolism from fatty acid to glucose oxidation in ischemic myocardium",
+      "farmacocinetica": "Oral bioavailability ~90%; half-life 6–7h; renal excretion",
+      "farmacodinamica": "Enhances ischemic tolerance by optimizing myocardial energy use",
+      "indicacoes": "Adjunct in stable angina, tinnitus, vertigo, ischemic retinal conditions",
+      "reacoesAdversas": "Dizziness, nausea, headache, tremor, Parkinsonism",
+      "riscoGravidez": "Category C – not recommended",
+      "riscoLactacao": "Avoid; unknown excretion",
+      "administracao": "Oral, 2–3x/day (IR); 1–2x/day (ER)",
+      "doseMaxima": "70 mg/day",
+      "doseMinima": "35 mg/day",
+      "classificacao": "Cellular antianginal – metabolic modulator",
+      "apresentacao": "Tablets 20 mg, 35 mg MR",
+      "interacaoMedicamento": "Additive effect with β-blockers, calcium channel blockers; Parkinsonism risk",
+      "posologia": "35–70 mg/day in divided doses",
+      "armazenamento": "Store below 30°C, away from light",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Parkinson’s disease, tremors, severe renal impairment",
+      "cuidadosMedicos": "Monitor BP, renal function, signs of motor disturbance",
+      "cuidadosFarmaceuticos": "Use caution in elderly; warn about extrapyramidal effects",
+      "cuidadosEnfermagem": "Assess for tremor, posture instability, bradycardia",
+      "fontesBibliograficas": "EMA, Micromedex, DrugBank, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Trimetazidina",
+      "suspension": "Suspender 48h antes de cirugía mayor o riesgo de hipotensión",
+      "risk": "Bradicardia, hipotensión, parkinsonismo en ancianos, interacción con betabloqueadores",
+      "reintroduction": "Reintroducir tras estabilidad hemodinámica y ausencia de efectos extrapiramidales"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trimetazidina diclorhidrato",
+      "nomeComercial": "Vastarel, Idaptan",
+      "mecanismoAcao": "Modula el metabolismo cardíaco hacia el uso de glucosa en zonas isquémicas",
+      "farmacocinetica": "Biodisponibilidad oral ~90%; vida media 6–7h; excreción renal",
+      "farmacodinamica": "Reduce el consumo de oxígeno por optimización metabólica cardíaca",
+      "indicacoes": "Angina estable, acúfenos, vértigo, afecciones retinianas isquémicas",
+      "reacoesAdversas": "Mareos, náuseas, temblor, síntomas extrapiramidales",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral, 2–3 veces/día (lib. inmediata); 1–2 veces/día (lib. prolongada)",
+      "doseMaxima": "70 mg/día",
+      "doseMinima": "35 mg/día",
+      "classificacao": "Modulador metabólico cardíaco – antianginoso",
+      "apresentacao": "Comprimidos de 20 mg, 35 mg",
+      "interacaoMedicamento": "Potencia efectos de betabloqueantes, riesgo extrapiramidal",
+      "posologia": "35–70 mg/día divididos",
+      "armazenamento": "Ambiente seco, <30°C",
+      "preparo": "Sin preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Parkinson, temblores, IRC grave",
+      "cuidadosMedicos": "Controlar PA, renal y síntomas extrapiramidales",
+      "cuidadosFarmaceuticos": "Advertir sobre interacciones y temblores",
+      "cuidadosEnfermagem": "Observar marcha, postura y ritmo cardíaco",
+      "fontesBibliograficas": "EMA, Micromedex, UpToDate, Martindale"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "曲美他嗪",
+      "suspension": "术前48小时停药（尤其大手术或低血压风险者）",
+      "risk": "心动过缓、低血压、帕金森样症状（老年人常见），与β阻滞剂/麻醉药相互作用",
+      "reintroduction": "术后血流动力学稳定并排除运动障碍后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "曲美他嗪",
+      "nomeComercial": "Vastarel, 曲美达",
+      "mecanismoAcao": "改善心肌代谢，使能量来源偏向葡萄糖氧化",
+      "farmacocinetica": "口服生物利用度约90%；半衰期6–7小时，经肾排泄",
+      "farmacodinamica": "优化心肌代谢，改善缺血耐受性",
+      "indicacoes": "稳定性心绞痛、耳鸣、眩晕、缺血性视网膜病",
+      "reacoesAdversas": "头晕、恶心、震颤、帕金森综合征",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不推荐使用",
+      "administracao": "口服，每日1–3次",
+      "doseMaxima": "70毫克/天",
+      "doseMinima": "35毫克/天",
+      "classificacao": "抗心绞痛代谢调节药",
+      "apresentacao": "片剂：20 mg、35 mg",
+      "interacaoMedicamento": "增强β阻滞剂作用，可能引发运动障碍",
+      "posologia": "每日35–70毫克，分1–2次服用",
+      "armazenamento": "避光干燥处，温度<30°C",
+      "preparo": "无需特殊制备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "帕金森病、震颤、严重肾功能不全",
+      "cuidadosMedicos": "监测血压、肾功能及运动异常",
+      "cuidadosFarmaceuticos": "对老年人慎用，警惕震颤",
+      "cuidadosEnfermagem": "观察姿势不稳、步态异常、心率",
+      "fontesBibliograficas": "欧洲药典、Micromedex、中国药典、UpToDate"
+    }
+  }
+}

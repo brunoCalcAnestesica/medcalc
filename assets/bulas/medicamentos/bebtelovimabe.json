@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bebtelovimabe",
+      "suspension": "Suspenso do mercado em 2022; não aplicável em contexto cirúrgico atual",
+      "risk": "Perdeu eficácia frente a variantes do SARS-CoV-2; risco de hipersensibilidade em uso histórico",
+      "reintroduction": "Não recomendado; uso descontinuado globalmente"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bebtelovimabe",
+      "nomeComercial": "LY-CoV1404 (Eli Lilly)",
+      "mecanismoAcao": "Anticorpo monoclonal que se liga à proteína spike do SARS-CoV-2, inibindo a entrada viral na célula",
+      "farmacocinetica": "Administração IV em bolus; meia-vida ~11 a 12 dias; eliminação por vias catabólicas proteicas",
+      "farmacodinamica": "Neutraliza o vírus SARS-CoV-2 em linhagens suscetíveis; eficácia variante-dependente",
+      "indicacoes": "Tratamento de COVID-19 leve a moderado em pacientes de alto risco (uso emergencial EUA 2022)",
+      "reacoesAdversas": "Prurido, exantema, reações infusionais, anafilaxia (raro)",
+      "riscoGravidez": "Categoria não atribuída; uso apenas se benefício superar riscos",
+      "riscoLactacao": "Desconhecido; usar com cautela",
+      "administracao": "Infusão intravenosa em bolus lento",
+      "doseMaxima": "175 mg dose única",
+      "doseMinima": "175 mg dose única",
+      "classificacao": "Anticorpo monoclonal neutralizante anti-SARS-CoV-2",
+      "apresentacao": "Frasco-ampola solução 175 mg/2 mL",
+      "interacaoMedicamento": "Sem interações medicamentosas conhecidas",
+      "posologia": "Dose única IV de 175 mg (2 mL) administrada em bolus",
+      "armazenamento": "Refrigerado (2–8°C); não congelar; usar até 24h após aberto se refrigerado",
+      "preparo": "Pronto para uso; administrar sem diluição",
+      "solucoesCompatíveis": "Solução injetável sem diluição adicional",
+      "contraindicacoes": "Hipersensibilidade conhecida ao bebtelovimabe ou excipientes",
+      "cuidadosMedicos": "Monitorar reações alérgicas durante e após infusão",
+      "cuidadosFarmaceuticos": "Verificar validade, integridade e refrigeração",
+      "cuidadosEnfermagem": "Observar sinais vitais durante e por 1h após administração",
+      "fontesBibliograficas": "FDA EUA, EUA Fact Sheet Eli Lilly, PubMed, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bebtelovimab",
+      "suspension": "Discontinued; no longer authorized for use",
+      "risk": "Ineffective against current SARS-CoV-2 variants; historical use only",
+      "reintroduction": "Not recommended; revoked EUA by FDA"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bebtelovimab",
+      "nomeComercial": "LY-CoV1404 (Eli Lilly)",
+      "mecanismoAcao": "Neutralizing monoclonal antibody binding to SARS-CoV-2 spike protein",
+      "farmacocinetica": "IV bolus; half-life ~11–12 days; degraded via proteolytic catabolism",
+      "farmacodinamica": "Neutralizes susceptible SARS-CoV-2 variants; efficacy variant-dependent",
+      "indicacoes": "Emergency use for COVID-19 in high-risk outpatients (revoked 2022)",
+      "reacoesAdversas": "Rash, pruritus, infusion reactions, rare anaphylaxis",
+      "riscoGravidez": "Not classified; use only if benefits outweigh risks",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "Intravenous bolus injection",
+      "doseMaxima": "175 mg single dose",
+      "doseMinima": "175 mg single dose",
+      "classificacao": "Neutralizing anti-SARS-CoV-2 monoclonal antibody",
+      "apresentacao": "175 mg/2 mL vial",
+      "interacaoMedicamento": "No known drug interactions",
+      "posologia": "175 mg IV bolus (2 mL), administered over ≥30 seconds",
+      "armazenamento": "Store at 36–46°F; do not freeze; stable 24h refrigerated once opened",
+      "preparo": "Ready-to-use; no dilution required",
+      "solucoesCompatíveis": "Undiluted solution",
+      "contraindicacoes": "Known hypersensitivity to bebtelovimab or ingredients",
+      "cuidadosMedicos": "Monitor for allergic reactions during and after injection",
+      "cuidadosFarmaceuticos": "Check integrity, expiration, refrigeration",
+      "cuidadosEnfermagem": "Observe patient during and 1 hour post-injection",
+      "fontesBibliograficas": "FDA, Fact Sheet Eli Lilly, PubMed"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bebtelovimab",
+      "suspension": "Suspendido globalmente; no se recomienda su uso",
+      "risk": "Ineficaz frente a variantes actuales del SARS-CoV-2",
+      "reintroduction": "No debe reintroducirse; uso revocado por FDA"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bebtelovimab",
+      "nomeComercial": "LY-CoV1404 (Eli Lilly)",
+      "mecanismoAcao": "Anticuerpo monoclonal neutralizante frente a la proteína spike del SARS-CoV-2",
+      "farmacocinetica": "Vía IV; semivida ~11–12 días; degradado por catabolismo proteico",
+      "farmacodinamica": "Neutraliza variantes susceptibles del virus; eficacia limitada actualmente",
+      "indicacoes": "COVID-19 leve a moderado en pacientes de riesgo (uso revocado)",
+      "reacoesAdversas": "Erupción, picor, reacciones infusionales, anafilaxia (rara)",
+      "riscoGravidez": "Categoría no definida; usar si el beneficio supera el riesgo",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Inyección intravenosa lenta (bolus)",
+      "doseMaxima": "175 mg dosis única",
+      "doseMinima": "175 mg dosis única",
+      "classificacao": "Anticuerpo monoclonal anti-SARS-CoV-2",
+      "apresentacao": "Frasco de 175 mg/2 mL",
+      "interacaoMedicamento": "No conocidas",
+      "posologia": "175 mg IV directo, en bolus ≥30 seg",
+      "armazenamento": "2–8°C, no congelar, usar en 24h una vez abierto",
+      "preparo": "Listo para usar, sin dilución",
+      "solucoesCompatíveis": "Solución sin diluir",
+      "contraindicacoes": "Hipersensibilidad conocida",
+      "cuidadosMedicos": "Monitorizar durante y 1h tras la infusión",
+      "cuidadosFarmaceuticos": "Verificar conservación y vencimiento",
+      "cuidadosEnfermagem": "Observar reacciones adversas inmediatas",
+      "fontesBibliograficas": "FDA, EMA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "Bebtelovimab",
+      "suspension": "已停售；不推荐在手术期使用",
+      "risk": "对当前SARS-CoV-2变异株无效",
+      "reintroduction": "不建议重新使用；FDA已撤销其紧急授权"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bebtelovimab",
+      "nomeComercial": "LY-CoV1404（礼来）",
+      "mecanismoAcao": "与新冠病毒刺突蛋白结合，阻止病毒侵入细胞",
+      "farmacocinetica": "静脉注射；半衰期11–12天；蛋白酶降解清除",
+      "farmacodinamica": "对早期变异株有效；对当前变异株失效",
+      "indicacoes": "早期COVID-19治疗（已取消授权）",
+      "reacoesAdversas": "皮疹、瘙痒、输注反应、过敏（罕见）",
+      "riscoGravidez": "未分类；权衡利弊后使用",
+      "riscoLactacao": "是否排泄未知；应谨慎使用",
+      "administracao": "静脉推注（bolus）",
+      "doseMaxima": "单剂量175毫克",
+      "doseMinima": "单剂量175毫克",
+      "classificacao": "抗SARS-CoV-2中和抗体",
+      "apresentacao": "2毫升含175毫克注射瓶",
+      "interacaoMedicamento": "无已知药物相互作用",
+      "posologia": "静脉缓慢注射175毫克，≥30秒",
+      "armazenamento": "2–8°C冷藏，不可冷冻，开瓶后24小时内使用",
+      "preparo": "无需稀释，可直接使用",
+      "solucoesCompatíveis": "不需稀释",
+      "contraindicacoes": "对成分过敏者禁用",
+      "cuidadosMedicos": "输注时及之后1小时内密切观察",
+      "cuidadosFarmaceuticos": "核查药品有效期与存储条件",
+      "cuidadosEnfermagem": "密切观察是否有输注反应",
+      "fontesBibliograficas": "FDA，PubMed，Micromedex，礼来官网"
+    }
+  }
+}

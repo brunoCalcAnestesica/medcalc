@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Aciclovir",
+      "suspension": "Não é necessário suspender",
+      "risk": "Risco anestésico mínimo; pode ser mantido em pacientes imunocomprometidos ou com infecção ativa",
+      "reintroduction": "Pode ser mantido ou reintroduzido conforme quadro infeccioso"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aciclovir",
+      "nomeComercial": "Zovirax, Acivir, Aciclovir Genérico",
+      "mecanismoAcao": "Inibe a replicação do DNA viral por incorporação na cadeia e inibição da DNA polimerase",
+      "farmacocinetica": "Baixa biodisponibilidade oral (~15-30%), metabolismo hepático mínimo, excreção renal",
+      "farmacodinamica": "Antiviral específico contra vírus herpes simplex e varicela-zóster",
+      "indicacoes": "Herpes genital, herpes labial, varicela, zóster, encefalite herpética",
+      "reacoesAdversas": "Náuseas, cefaleia, insuficiência renal (IV), neurotoxicidade em altas doses",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excretado no leite, mas geralmente seguro",
+      "administracao": "Oral, intravenosa, tópica",
+      "doseMaxima": "5-10 mg/kg EV a cada 8h ou 800 mg VO 5x/dia",
+      "doseMinima": "200 mg VO 5x/dia",
+      "classificacao": "Antiviral",
+      "apresentacao": "Comprimidos, creme, solução injetável",
+      "interacaoMedicamento": "Potencialização da nefrotoxicidade com outros nefrotóxicos",
+      "posologia": "200–800 mg VO 5x/dia ou conforme prescrição EV",
+      "armazenamento": "Temperatura ambiente, proteger da luz",
+      "preparo": "Diluir EV com SF 0,9% ou SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade ao aciclovir ou valaciclovir",
+      "cuidadosMedicos": "Ajustar dose em insuficiência renal, manter boa hidratação",
+      "cuidadosFarmaceuticos": "Observar dose cumulativa e via de administração",
+      "cuidadosEnfermagem": "Monitorar função renal, hidratação e sintomas neurológicos",
+      "fontesBibliograficas": "SBIm, FDA, ANVISA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Acyclovir",
+      "suspension": "No need to suspend",
+      "risk": "Minimal anesthetic risk; can be continued in immunocompromised or active infections",
+      "reintroduction": "May be continued or reintroduced based on infectious status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acyclovir",
+      "nomeComercial": "Zovirax, Acivir, Generic Acyclovir",
+      "mecanismoAcao": "Inhibits viral DNA polymerase and incorporates into viral DNA",
+      "farmacocinetica": "Low oral bioavailability (15-30%), minimal hepatic metabolism, renal excretion",
+      "farmacodinamica": "Antiviral against herpes simplex and varicella-zoster viruses",
+      "indicacoes": "Genital herpes, cold sores, chickenpox, shingles, herpes encephalitis",
+      "reacoesAdversas": "Nausea, headache, renal impairment (IV), neurotoxicity at high doses",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Excreted in breast milk, generally safe",
+      "administracao": "Oral, IV, topical",
+      "doseMaxima": "5-10 mg/kg IV q8h or 800 mg PO 5x/day",
+      "doseMinima": "200 mg PO 5x/day",
+      "classificacao": "Antiviral",
+      "apresentacao": "Tablets, cream, injectable solution",
+      "interacaoMedicamento": "Nephrotoxicity increased with other nephrotoxic agents",
+      "posologia": "200–800 mg PO 5x/day or per IV regimen",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Dilute IV with NS 0.9% or D5W",
+      "solucoesCompatíveis": "NS 0.9%, D5W",
+      "contraindicacoes": "Hypersensitivity to acyclovir or valacyclovir",
+      "cuidadosMedicos": "Dose adjustment in renal impairment, maintain hydration",
+      "cuidadosFarmaceuticos": "Monitor cumulative dose and route",
+      "cuidadosEnfermagem": "Monitor renal function, hydration, neurologic status",
+      "fontesBibliograficas": "FDA, Micromedex, SBAn"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Aciclovir",
+      "suspension": "No requiere suspensión",
+      "risk": "Riesgo anestésico mínimo; se puede mantener si hay infección activa o inmunocompromiso",
+      "reintroduction": "Puede mantenerse o reintroducirse según el cuadro clínico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aciclovir",
+      "nomeComercial": "Zovirax, Acivir, Aciclovir Genérico",
+      "mecanismoAcao": "Inhibe la polimerasa del ADN viral e interfiere en su replicación",
+      "farmacocinetica": "Baja biodisponibilidad oral, metabolismo hepático mínimo, excreción renal",
+      "farmacodinamica": "Activo contra virus herpes simplex y varicela-zóster",
+      "indicacoes": "Herpes genital, labial, varicela, herpes zóster, encefalitis herpética",
+      "reacoesAdversas": "Náuseas, cefalea, toxicidad renal (IV), efectos neurológicos a altas dosis",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Se excreta en leche, generalmente seguro",
+      "administracao": "Vía oral, intravenosa, tópica",
+      "doseMaxima": "5-10 mg/kg EV cada 8h o 800 mg VO 5 veces/día",
+      "doseMinima": "200 mg VO 5 veces/día",
+      "classificacao": "Antiviral",
+      "apresentacao": "Comprimidos, crema, solución inyectable",
+      "interacaoMedicamento": "Aumenta nefrotoxicidad con otros nefrotóxicos",
+      "posologia": "200–800 mg VO 5 veces/día o según pauta EV",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "Diluir EV con NaCl 0,9% o glucosa 5%",
+      "solucoesCompatíveis": "NaCl 0,9%, glucosa 5%",
+      "contraindicacoes": "Hipersensibilidad a aciclovir o valaciclovir",
+      "cuidadosMedicos": "Ajustar dosis si hay insuficiencia renal, asegurar hidratación",
+      "cuidadosFarmaceuticos": "Observar dosis acumulativa y vía",
+      "cuidadosEnfermagem": "Monitorear función renal, hidratación, estado neurológico",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, OMS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿昔洛韦",
+      "suspension": "无需停药",
+      "risk": "麻醉风险极低；可在感染活跃或免疫低下时持续使用",
+      "reintroduction": "根据感染状况可继续使用或重新启用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿昔洛韦",
+      "nomeComercial": "保昔洛韦, 阿昔韦, Zovirax",
+      "mecanismoAcao": "通过抑制病毒DNA聚合酶抑制病毒复制",
+      "farmacocinetica": "口服生物利用度低，肝代谢少，经肾排泄",
+      "farmacodinamica": "对单纯疱疹病毒和带状疱疹病毒具有活性",
+      "indicacoes": "生殖器疱疹，唇疱疹，水痘，带状疱疹，疱疹性脑炎",
+      "reacoesAdversas": "恶心，头痛，肾损伤（静脉注射），高剂量下神经毒性",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可排入乳汁，通常安全",
+      "administracao": "口服，静脉注射，局部使用",
+      "doseMaxima": "5-10 mg/kg 每8小时EV或800 mg 口服每天5次",
+      "doseMinima": "200 mg 每天5次",
+      "classificacao": "抗病毒药",
+      "apresentacao": "片剂、乳膏、注射液",
+      "interacaoMedicamento": "与其他肾毒性药物联用时可增加毒性",
+      "posologia": "每天5次，每次200–800 mg 或依EV方案",
+      "armazenamento": "室温，避光保存",
+      "preparo": "EV需用0.9%氯化钠或5%葡萄糖稀释",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对阿昔洛韦或伐昔洛韦过敏",
+      "cuidadosMedicos": "肾功能受损者需调整剂量，保持水化",
+      "cuidadosFarmaceuticos": "监测剂量总量和给药途径",
+      "cuidadosEnfermagem": "监测肾功能，水分状态和神经症状",
+      "fontesBibliograficas": "中国药典，FDA，Micromedex，EMA"
+    }
+  }
+}

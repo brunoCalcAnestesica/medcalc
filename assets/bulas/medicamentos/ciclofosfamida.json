@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ciclofosfamida",
+      "suspension": "Suspender 10 dias antes de cirurgias eletivas não oncológicas; manter sob avaliação em oncologia",
+      "risk": "Imunossupressão grave, risco de infecção, leucopenia, cistite hemorrágica, toxicidade cardíaca em altas doses",
+      "reintroduction": "Reintroduzir após recuperação hematológica e cicatrização adequada, geralmente 14 a 21 dias após o procedimento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ciclofosfamida",
+      "nomeComercial": "Endoxan, Genuxal, Ciclofosfamida Sandoz",
+      "mecanismoAcao": "Agente alquilante; forma ligações covalentes com DNA, inibindo a replicação celular",
+      "farmacocinetica": "Pró-fármaco ativado no fígado pelo CYP2B6 e CYP3A4; meia-vida de 3 a 12 horas; excreção renal",
+      "farmacodinamica": "Efeito citotóxico sobre células em proliferação; também possui ação imunossupressora",
+      "indicacoes": "Neoplasias hematológicas (linfoma, leucemia), tumores sólidos (mama, pulmão), nefrite lúpica, vasculites sistêmicas",
+      "reacoesAdversas": "Mielossupressão, alopecia, náuseas, vômitos, infertilidade, cistite hemorrágica, cardiotoxicidade (altas doses)",
+      "riscoGravidez": "Categoria D – contraindicado exceto em situações específicas oncológicas; teratogênico",
+      "riscoLactacao": "Contraindicado; excreção no leite materno confirmada",
+      "administracao": "Via intravenosa, oral (uso mais raro)",
+      "doseMaxima": "50mg/kg (dose única alta em oncologia); 2–3g/m² em pulsoterapia",
+      "doseMinima": "500mg/m² em indução imunossupressora",
+      "classificacao": "Alquilante; imunossupressor; agente antineoplásico",
+      "apresentacao": "Frascos-ampola de 200mg, 500mg, 1g, 2g (liofilizado); comprimidos de 25mg, 50mg (alguns países)",
+      "interacaoMedicamento": "Aumenta toxicidade com doxorrubicina, aumenta risco de infecção com imunobiológicos",
+      "posologia": "Oncologia: regimes individualizados; Reumatologia: 0,5 a 1g/m² IV mensal (pulsoterapia)",
+      "armazenamento": "Pó liofilizado deve ser armazenado sob refrigeração (2–8°C); solução reconstituída usar em até 24h",
+      "preparo": "Reconstituir com água estéril; diluir em solução compatível sob capela de fluxo laminar",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, glicose 5%",
+      "contraindicacoes": "Supressão medular grave, infecção ativa, retenção urinária, obstrução urinária, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar hemograma, função renal, urinálise (busca de hematúria), ECG em altas doses",
+      "cuidadosFarmaceuticos": "Proteger da luz, descartar resíduos em local apropriado, orientação sobre risco gonadal",
+      "cuidadosEnfermagem": "Hidratar paciente, monitorar sinais vitais, infecção e urina com coloração ou odor alterado",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cyclophosphamide",
+      "suspension": "Hold 10 days before non-cancer elective surgeries; continue with oncologist approval",
+      "risk": "Severe immunosuppression, leukopenia, hemorrhagic cystitis, cardiotoxicity at high doses, infection",
+      "reintroduction": "Restart 14–21 days post-op if WBC recovery and wound healing are satisfactory"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cyclophosphamide",
+      "nomeComercial": "Cytoxan, Neosar",
+      "mecanismoAcao": "Alkylating agent; crosslinks DNA strands leading to apoptosis",
+      "farmacocinetica": "Hepatic activation via CYP2B6/CYP3A4; half-life 3–12h; renal excretion of active metabolites",
+      "farmacodinamica": "Cytotoxic to dividing cells; suppresses B and T lymphocytes",
+      "indicacoes": "Leukemia, lymphoma, breast cancer, ovarian cancer, lupus nephritis, vasculitis",
+      "reacoesAdversas": "Bone marrow suppression, alopecia, nausea, hemorrhagic cystitis, infertility, cardiotoxicity",
+      "riscoGravidez": "Category D – avoid unless life-saving indication",
+      "riscoLactacao": "Contraindicated; present in breast milk",
+      "administracao": "IV route preferred; oral route in low-dose maintenance",
+      "doseMaxima": "50mg/kg (oncology); 2–3g/m² pulse therapy",
+      "doseMinima": "500mg/m²",
+      "classificacao": "Alkylating cytotoxic agent; immunosuppressant",
+      "apresentacao": "Vials 200mg, 500mg, 1g, 2g; oral tablets 25mg, 50mg",
+      "interacaoMedicamento": "Cardiotoxic with anthracyclines; additive effects with immunosuppressants",
+      "posologia": "Oncology: individualized protocols; Autoimmune: 0.5–1g/m² IV monthly",
+      "armazenamento": "Powder: 2–8°C; reconstituted solution: use within 24h",
+      "preparo": "Sterile reconstitution and dilution under hood",
+      "solucoesCompatíveis": "Normal saline, D5W",
+      "contraindicacoes": "Severe bone marrow suppression, urinary obstruction, active infection",
+      "cuidadosMedicos": "CBC, urinalysis, renal function, ECG if high dose",
+      "cuidadosFarmaceuticos": "Proper disposal; monitor for fertility preservation needs",
+      "cuidadosEnfermagem": "Ensure hydration, monitor urine color, temperature, infection signs",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, NCCN guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ciclofosfamida",
+      "suspension": "Suspender 10 días antes de cirugía no oncológica; continuar según criterio médico en oncología",
+      "risk": "Inmunosupresión, leucopenia, cistitis hemorrágica, riesgo de infección grave, toxicidad cardíaca",
+      "reintroduction": "Reintroducir 14–21 días después si recuento hematológico y cicatrización son adecuados"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ciclofosfamida",
+      "nomeComercial": "Endoxan, Genuxal",
+      "mecanismoAcao": "Agente alquilante que interfiere con la replicación del ADN por formación de enlaces cruzados",
+      "farmacocinetica": "Profármaco hepático; metabolismo CYP2B6/CYP3A4; eliminación renal",
+      "farmacodinamica": "Citotóxico e inmunosupresor; reduce la proliferación linfocítica",
+      "indicacoes": "Leucemias, linfomas, cáncer de mama, nefritis lúpica, vasculitis ANCA",
+      "reacoesAdversas": "Mielosupresión, alopecia, náuseas, vómitos, infertilidad, hematuria, toxicidad cardíaca",
+      "riscoGravidez": "Categoría D – contraindicado salvo indicaciones oncológicas",
+      "riscoLactacao": "Contraindicado; se excreta en leche materna",
+      "administracao": "IV preferente; oral en mantenimiento reumatológico",
+      "doseMaxima": "50mg/kg; 2–3g/m²",
+      "doseMinima": "500mg/m²",
+      "classificacao": "Alquilante; antineoplásico; inmunosupresor",
+      "apresentacao": "Viales liofilizados de 200mg a 2g; tabletas 50mg",
+      "interacaoMedicamento": "Interacciones con antraciclinas, inmunosupresores, ciclosporina",
+      "posologia": "0.5–1g/m² mensual (reumatología); esquemas oncológicos variables",
+      "armazenamento": "2–8°C; solución reconstituida 24h",
+      "preparo": "Cabina de flujo laminar; guantes e EPI",
+      "solucoesCompatíveis": "Cloruro sódico 0,9%, glucosa 5%",
+      "contraindicacoes": "Supresión medular, infección activa, disfunción vesical",
+      "cuidadosMedicos": "Control hematológico, función renal, ECG en dosis altas",
+      "cuidadosFarmaceuticos": "Verificar compatibilidades y estabilidad; informar sobre gonadotoxicidad",
+      "cuidadosEnfermagem": "Hidratación, control de signos vitales, infecciones y cambios urinarios",
+      "fontesBibliograficas": "EMA, Micromedex, protocolos hospitalarios"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "环磷酰胺",
+      "suspension": "术前10天停药（非肿瘤）；肿瘤患者遵医嘱评估",
+      "risk": "严重免疫抑制、白细胞减少、出血性膀胱炎、感染、心脏毒性（大剂量）",
+      "reintroduction": "术后14–21天，血象恢复且伤口愈合良好时可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "环磷酰胺",
+      "nomeComercial": "Endoxan、环免宁",
+      "mecanismoAcao": "烷化剂，通过DNA交联抑制细胞分裂",
+      "farmacocinetica": "肝脏CYP450激活（CYP2B6、CYP3A4）；半衰期3–12小时；肾脏排泄",
+      "farmacodinamica": "抑制B/T淋巴细胞活性，具有细胞毒及免疫抑制作用",
+      "indicacoes": "白血病、淋巴瘤、乳腺癌、红斑狼疮性肾炎、血管炎",
+      "reacoesAdversas": "骨髓抑制、脱发、恶心、膀胱炎、不育、心肌损伤",
+      "riscoGravidez": "D类 – 除非肿瘤特殊情况禁用",
+      "riscoLactacao": "禁用；可排入乳汁",
+      "administracao": "静脉注射为主；可口服",
+      "doseMaxima": "一次性50mg/kg或脉冲2–3g/m²",
+      "doseMinima": "500mg/m²",
+      "classificacao": "烷化剂；抗肿瘤免疫抑制药",
+      "apresentacao": "冻干粉200mg–2g/瓶；部分地区有口服片50mg",
+      "interacaoMedicamento": "与多柔比星、免疫抑制剂联用增加毒性",
+      "posologia": "自身免疫：0.5–1g/m²/月；肿瘤方案个体化",
+      "armazenamento": "2–8°C冷藏；稀释后24小时内使用",
+      "preparo": "无菌环境重配，穿戴防护",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "骨髓抑制、活动性感染、泌尿道梗阻",
+      "cuidadosMedicos": "定期血常规、尿检、心电图",
+      "cuidadosFarmaceuticos": "注意光照与化学废弃处理，生育力保护咨询",
+      "cuidadosEnfermagem": "补液、观察感染、尿液颜色与不适",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA、UpToDate"
+    }
+  }
+}

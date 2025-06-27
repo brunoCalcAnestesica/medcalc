@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Etamsilato",
+      "suspension": "Não é necessário suspender; pode ser administrado antes ou durante cirurgias com risco hemorrágico",
+      "risk": "Risco baixo; pode causar hipotensão, cefaleia ou reações locais. Utilizado para redução de sangramentos capilares e melhora da agregação plaquetária.",
+      "reintroduction": "Pode ser mantido ou reiniciado no pós-operatório imediato conforme risco de sangramento e resposta clínica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etamsilato",
+      "nomeComercial": "Dicynone, Hemostil, Hemoclar",
+      "mecanismoAcao": "Atua na fase inicial da hemostasia promovendo adesão plaquetária e resistência capilar; estabiliza o endotélio vascular",
+      "farmacocinetica": "Absorção oral rápida; biodisponibilidade ~75%; início em 30–60 min; meia-vida de 2–3 h; excreção urinária",
+      "farmacodinamica": "Reduz o tempo de sangramento e a fragilidade capilar, sem efeito trombogênico direto",
+      "indicacoes": "Sangramentos capilares (ginecológicos, nasais, periodontais), pré e pós-operatórios, metrorragias, prevenção de sangramentos microvasculares",
+      "reacoesAdversas": "Náusea, rubor, dor epigástrica, hipotensão leve, erupções cutâneas",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Oral, intramuscular ou intravenosa",
+      "doseMaxima": "1500 mg/dia (em doses divididas)",
+      "doseMinima": "250 mg por dose",
+      "classificacao": "Anti-hemorrágico não hormonal – hemostático capilar",
+      "apresentacao": "Comprimidos de 250 mg; ampolas 250 mg/2 mL",
+      "interacaoMedicamento": "Pode potencializar ação de anti-hemorrágicos; uso concomitante com anticoagulantes deve ser avaliado",
+      "posologia": "250–500 mg VO ou IM a cada 6–8 h, conforme indicação clínica",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Pronto para uso IM ou IV; VO sem necessidade de preparo",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Trombose ativa, porfiria aguda, hipersensibilidade conhecida",
+      "cuidadosMedicos": "Avaliar risco/benefício em pacientes com histórico de trombose",
+      "cuidadosFarmaceuticos": "Checar validade e integridade das ampolas",
+      "cuidadosEnfermagem": "Observar reações locais, PA e resposta ao sangramento",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, Dicionário de Especialidades Farmacêuticas"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Etamsylate",
+      "suspension": "No need to suspend; may be used perioperatively in bleeding-prone surgeries",
+      "risk": "Low risk; may cause hypotension or mild GI effects. No direct thrombotic activity.",
+      "reintroduction": "May be restarted immediately post-op if bleeding risk persists."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etamsylate",
+      "nomeComercial": "Dicynone (not FDA approved)",
+      "mecanismoAcao": "Enhances platelet adhesion and capillary wall stability without promoting thrombosis",
+      "farmacocinetica": "Oral bioavailability ~75%; onset 30–60 min; t½ ~2–3 h",
+      "farmacodinamica": "Reduces bleeding time and capillary fragility",
+      "indicacoes": "Capillary hemorrhages, menometrorrhagia, epistaxis, dental bleeding, perioperative control",
+      "reacoesAdversas": "Nausea, flushing, mild hypotension, skin rash",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "Oral, IM, or IV",
+      "doseMaxima": "1500 mg/day",
+      "doseMinima": "250 mg/dose",
+      "classificacao": "Non-hormonal hemostatic agent",
+      "apresentacao": "250 mg tablets; 250 mg/2 mL ampoules",
+      "interacaoMedicamento": "May enhance effects of other hemostatics; caution with anticoagulants",
+      "posologia": "250–500 mg every 6–8 h PO, IM, or IV",
+      "armazenamento": "Room temp, protect from light",
+      "preparo": "Ready-to-use for IV/IM; no prep for PO",
+      "solucoesCompatíveis": "NS (0.9%)",
+      "contraindicacoes": "Active thrombosis, porphyria, hypersensitivity",
+      "cuidadosMedicos": "Assess thrombosis risk",
+      "cuidadosFarmaceuticos": "Check expiration and vial integrity",
+      "cuidadosEnfermagem": "Observe for allergic or hypotensive response",
+      "fontesBibliograficas": "EMA, Drugs.com, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Etamsilato",
+      "suspension": "No se suspende; útil pre/postoperatoriamente si hay riesgo hemorrágico",
+      "risk": "Bien tolerado; posible hipotensión leve o molestias digestivas",
+      "reintroduction": "Se puede reiniciar en el postoperatorio inmediato"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Etamsilato",
+      "nomeComercial": "Dicynone, Hemoclar",
+      "mecanismoAcao": "Aumenta la adhesión plaquetaria y refuerza capilares; no es trombogénico",
+      "farmacocinetica": "VO/IM/IV; t½ 2–3 h; inicio en 30–60 min",
+      "farmacodinamica": "Disminuye tiempo de sangrado y fragilidad capilar",
+      "indicacoes": "Sangrados menores, metrorragias, sangrado postquirúrgico",
+      "reacoesAdversas": "Náuseas, rubor, hipotensión, erupciones cutáneas",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible",
+      "administracao": "VO, IM, IV",
+      "doseMaxima": "1500 mg/día",
+      "doseMinima": "250 mg",
+      "classificacao": "Hemostático capilar no hormonal",
+      "apresentacao": "Comprimidos 250 mg, ampollas 250 mg/2 mL",
+      "interacaoMedicamento": "Precaución con anticoagulantes",
+      "posologia": "250–500 mg c/6–8 h",
+      "armazenamento": "Ambiente, protegido de luz",
+      "preparo": "Listo uso; IV/IM directo",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Trombosis activa, porfiria",
+      "cuidadosMedicos": "Evaluar riesgo de trombosis",
+      "cuidadosFarmaceuticos": "Ver caducidad y solución",
+      "cuidadosEnfermagem": "Vigilar PA, eritema, náuseas",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乙酰胺己酸酯",
+      "suspension": "术前无需停用，可用于术前术中止血",
+      "risk": "低风险；可引起轻度低血压、皮疹或恶心",
+      "reintroduction": "术后如有微出血可继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乙酰胺己酸酯（Etamsylate）",
+      "nomeComercial": "Dicynone、Hemoclar",
+      "mecanismoAcao": "增强毛细血管稳定性，促进血小板黏附，无促凝活性",
+      "farmacocinetica": "起效30–60分钟，半衰期2–3小时",
+      "farmacodinamica": "减少毛细血管出血，缩短出血时间",
+      "indicacoes": "月经过多、小手术止血、术后出血预防",
+      "reacoesAdversas": "恶心、潮红、轻度低血压、皮疹",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期可使用",
+      "administracao": "口服、肌注或静注",
+      "doseMaxima": "每日1500毫克",
+      "doseMinima": "每次250毫克",
+      "classificacao": "非激素类止血药",
+      "apresentacao": "250 mg片剂，250 mg/2 mL注射液",
+      "interacaoMedicamento": "慎与抗凝药合用",
+      "posologia": "250–500 mg 每6–8小时一次",
+      "armazenamento": "避光室温保存",
+      "preparo": "即用型，无需稀释",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "活动性血栓、卟啉症",
+      "cuidadosMedicos": "评估血栓风险，监测出血控制",
+      "cuidadosFarmaceuticos": "检查批号与透明度",
+      "cuidadosEnfermagem": "关注皮肤反应与血压变化",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate"
+    }
+  }
+}

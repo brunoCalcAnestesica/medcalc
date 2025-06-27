@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fitomenadiona (Vitamina K1)",
+      "suspension": "Não suspender antes da cirurgia; pode ser usada para correção profilática de coagulopatia",
+      "risk": "Baixo risco. Usada para reverter anticoagulação por varfarina ou corrigir deficiência de fatores dependentes de vitamina K. Pode causar reações anafilactoides em infusão EV rápida.",
+      "reintroduction": "Pode ser mantida ou administrada conforme necessidade de correção hemostática no pós-operatório. Utilizar via oral ou EV lenta sob controle laboratorial."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fitomenadiona",
+      "nomeComercial": "Kanakion, Konakion MM, Fitomenadiona Cristália",
+      "mecanismoAcao": "Cofator na síntese hepática dos fatores II, VII, IX e X da coagulação",
+      "farmacocinetica": "Absorção intestinal variável; ação em 6–12 h VO e 1–2 h EV; metabolismo hepático; excreção biliar e renal",
+      "farmacodinamica": "Corrige tempo de protrombina prolongado por deficiência de vitamina K ou antagonistas da mesma",
+      "indicacoes": "Hipoprotrombinemia, reversão de varfarina, profilaxia em recém-nascidos, colestase, deficiência nutricional",
+      "reacoesAdversas": "Rubor, sudorese, hipotensão (em infusão rápida IV), reações alérgicas raras",
+      "riscoGravidez": "Categoria C (usar apenas se necessário)",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Oral, intramuscular ou intravenosa lenta (não em bolus)",
+      "doseMaxima": "10 mg por dose (adultos); até 30 mg/dia em situações críticas",
+      "doseMinima": "1–2 mg profilático",
+      "classificacao": "Vitamina lipossolúvel – cofator de coagulação",
+      "apresentacao": "Ampolas de 10 mg/mL; solução oral 2 mg/mL",
+      "interacaoMedicamento": "Antagonizada por varfarina; sinergismo com plasma fresco e complexo protrombínico",
+      "posologia": "2–10 mg VO ou EV lenta conforme INR; 1 mg IM em RN",
+      "armazenamento": "15–25°C, proteger da luz",
+      "preparo": "Diluir em SF ou glicose para EV lenta (≥30 min)",
+      "solucoesCompatíveis": "SF 0,9%; SG 5%",
+      "contraindicacoes": "Hipersensibilidade à vitamina K1; uso IM em anticoagulados sem controle",
+      "cuidadosMedicos": "Monitorar INR, função hepática e sinais de sangramento",
+      "cuidadosFarmaceuticos": "Proteger da luz; evitar infusão rápida",
+      "cuidadosEnfermagem": "Administrar lentamente EV; monitorar PA e reação alérgica",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Phytonadione (Vitamin K1)",
+      "suspension": "Do not discontinue; may be used preoperatively to correct coagulopathy",
+      "risk": "Low risk. Used to reverse warfarin or treat vitamin K deficiency. IV bolus may cause anaphylaxis; use slow infusion.",
+      "reintroduction": "Can be continued or restarted based on INR and bleeding status. Prefer oral or slow IV under monitoring."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Phytonadione",
+      "nomeComercial": "Mephyton, Konakion, Vitamin K1 Injection",
+      "mecanismoAcao": "Required for hepatic synthesis of clotting factors II, VII, IX, X",
+      "farmacocinetica": "Oral onset 6–12 h; IV 1–2 h; hepatic metabolism; biliary and renal excretion",
+      "farmacodinamica": "Corrects prolonged PT/INR from vitamin K deficiency or warfarin",
+      "indicacoes": "Warfarin reversal, hypoprothrombinemia, prophylaxis in neonates, cholestasis",
+      "reacoesAdversas": "Flushing, sweating, hypotension (IV push), rare anaphylaxis",
+      "riscoGravidez": "Category C (use only if needed)",
+      "riscoLactacao": "Safe during breastfeeding",
+      "administracao": "Oral, IM or IV (slow infusion only)",
+      "doseMaxima": "10 mg/dose; up to 30 mg/day in severe cases",
+      "doseMinima": "1–2 mg for prophylaxis",
+      "classificacao": "Fat-soluble vitamin – coagulation cofactor",
+      "apresentacao": "10 mg/mL ampoules; 2 mg/mL oral solution",
+      "interacaoMedicamento": "Antagonizes warfarin; additive with plasma/factor complexes",
+      "posologia": "2–10 mg PO/IV depending on INR; 1 mg IM in neonates",
+      "armazenamento": "15–25°C; protect from light",
+      "preparo": "Dilute for slow IV; infuse over 30+ minutes",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hypersensitivity to phytonadione; avoid IM in anticoagulated patients",
+      "cuidadosMedicos": "Monitor INR and liver function",
+      "cuidadosFarmaceuticos": "Light protection; avoid fast infusion",
+      "cuidadosEnfermagem": "Administer IV slowly; observe for hypotension or allergy",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fitonadiona (Vitamina K1)",
+      "suspension": "No suspender; puede usarse antes de cirugía para corregir coagulopatía",
+      "risk": "Bajo riesgo; útil para revertir warfarina o deficiencia de vitamina K; infusión rápida IV puede causar anafilaxia",
+      "reintroduction": "Reanudar según estado de INR y sangrado; preferir VO o IV lenta"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fitonadiona",
+      "nomeComercial": "Konakion, Mephyton",
+      "mecanismoAcao": "Cofactor en síntesis hepática de factores II, VII, IX y X",
+      "farmacocinetica": "VO: inicio 6–12 h; IV: 1–2 h; metabolismo hepático; excreción biliar y renal",
+      "farmacodinamica": "Corrige INR prolongado por déficit de vitamina K o antagonistas",
+      "indicacoes": "Reversión de warfarina, hipoprotrombinemia, profilaxis neonatal",
+      "reacoesAdversas": "Rubor, hipotensión, sudoración, reacciones alérgicas raras",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "VO, IM, IV lenta",
+      "doseMaxima": "10 mg por dosis; hasta 30 mg/día",
+      "doseMinima": "1–2 mg",
+      "classificacao": "Vitamina liposoluble – cofator de coagulación",
+      "apresentacao": "Ampollas 10 mg/mL; solución oral 2 mg/mL",
+      "interacaoMedicamento": "Antagoniza warfarina; sinergia con plasma y complejo protrombínico",
+      "posologia": "2–10 mg VO o IV; 1 mg IM en neonatos",
+      "armazenamento": "15–25°C, proteger de la luz",
+      "preparo": "Diluir en SF y administrar en ≥30 minutos",
+      "solucoesCompatíveis": "SF 0,9%; glucosa 5%",
+      "contraindicacoes": "Hipersensibilidad, administración IM en anticoagulados",
+      "cuidadosMedicos": "Controlar INR y pruebas hepáticas",
+      "cuidadosFarmaceuticos": "Proteger de la luz; infundir lentamente",
+      "cuidadosEnfermagem": "Observar PA y signos de alergia",
+      "fontesBibliograficas": "AEMPS, EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "植物甲萘醌（维生素K1）",
+      "suspension": "术前不需停药；必要时用于纠正凝血异常",
+      "risk": "极低风险；用于纠正抗凝药过量或缺乏引起的凝血功能障碍",
+      "reintroduction": "术后根据INR和出血情况可立即使用；推荐口服或缓慢静注"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "植物甲萘醌",
+      "nomeComercial": "Konakion, 维生素K1注射液",
+      "mecanismoAcao": "参与凝血因子II、VII、IX、X合成",
+      "farmacocinetica": "口服起效6–12小时；静注1–2小时；肝代谢；胆汁和尿排出",
+      "farmacodinamica": "纠正凝血时间延长（如INR升高）",
+      "indicacoes": "华法林中毒、营养缺乏、新生儿预防、肝胆疾病",
+      "reacoesAdversas": "静注快速可能致低血压、过敏反应、面部潮红",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "口服、肌注、缓慢静注",
+      "doseMaxima": "每次10毫克；重症每日可达30毫克",
+      "doseMinima": "1–2毫克",
+      "classificacao": "脂溶性维生素 – 凝血辅助因子",
+      "apresentacao": "10 mg/mL注射液；2 mg/mL口服溶液",
+      "interacaoMedicamento": "拮抗华法林；与新鲜冷冻血浆或凝血因子协同",
+      "posologia": "根据INR调整剂量；新生儿肌注1毫克",
+      "armazenamento": "15–25°C避光",
+      "preparo": "稀释于0.9%氯化钠，静注不少于30分钟",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "过敏史、抗凝状态下肌注禁用",
+      "cuidadosMedicos": "监测INR、出血倾向和肝功能",
+      "cuidadosFarmaceuticos": "避光保存、勿快速注射",
+      "cuidadosEnfermagem": "慢速静注，观察过敏和低血压",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lorazepam",
+      "suspension": "Suspender 1 a 2 dias antes da cirurgia eletiva, conforme risco anestésico",
+      "risk": "Risco de depressão respiratória, sedação excessiva, delírio pós-operatório e interação com anestésicos",
+      "reintroduction": "Reintroduzir com cautela no pós-operatório conforme necessidade clínica e vigilância respiratória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lorazepam",
+      "nomeComercial": "Lorax, Ativan",
+      "mecanismoAcao": "Potencializa a ação do GABA ligando-se ao receptor GABA-A, aumentando a entrada de Cl⁻",
+      "farmacocinetica": "Biodisponibilidade oral ~90%; meia-vida ~10–20 h; metabolização hepática via conjugação",
+      "farmacodinamica": "Ansiolítico, sedativo, anticonvulsivante e relaxante muscular central",
+      "indicacoes": "Ansiedade aguda, epilepsia (estado de mal), pré-anestesia, agitação, insônia",
+      "reacoesAdversas": "Sedação, amnésia, confusão, hipotensão, depressão respiratória, dependência",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral, sublingual, intramuscular ou intravenosa",
+      "doseMaxima": "10 mg/dia (VO); até 8 mg/dose IV em status epilepticus",
+      "doseMinima": "0,5 mg/dia",
+      "classificacao": "Benzodiazepínico – ansiolítico de ação intermediária",
+      "apresentacao": "Comprimidos 1 e 2 mg; solução injetável 4 mg/mL",
+      "interacaoMedicamento": "Potencializa opioides, álcool, antipsicóticos, anestésicos; metabolização alterada por valproato",
+      "posologia": "VO: 1–2 mg 2–3x/dia; IM/IV: 1–4 mg a cada 6–12h",
+      "armazenamento": "15–30°C; protegido da luz",
+      "preparo": "IM/IV: pode ser administrado puro; monitorização cardíaca recomendada em IV",
+      "solucoesCompatíveis": "Pode ser administrado sem diluição IV lentamente",
+      "contraindicacoes": "Glaucoma de ângulo fechado, depressão respiratória grave, miastenia grave",
+      "cuidadosMedicos": "Monitorar nível de consciência, PA, FR, sinais de abstinência ou delírio",
+      "cuidadosFarmaceuticos": "Alertar sobre uso prolongado, risco de dependência e interações sedativas",
+      "cuidadosEnfermagem": "Observar sedação, confusão, queda de saturação, hipotensão",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, Maudsley, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lorazepam",
+      "suspension": "Hold 1–2 days before elective surgery, depending on anesthesia risk",
+      "risk": "Risk of respiratory depression, excessive sedation, postoperative delirium, anesthetic interaction",
+      "reintroduction": "Reintroduce cautiously post-op based on respiratory status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lorazepam",
+      "nomeComercial": "Ativan",
+      "mecanismoAcao": "Binds to GABA-A receptor, enhancing GABAergic transmission via increased chloride influx",
+      "farmacocinetica": "Oral bioavailability ~90%; half-life ~10–20 h; hepatic glucuronidation",
+      "farmacodinamica": "Anxiolytic, sedative-hypnotic, anticonvulsant, muscle relaxant",
+      "indicacoes": "Anxiety, status epilepticus, premedication, agitation, insomnia",
+      "reacoesAdversas": "Sedation, amnesia, confusion, hypotension, respiratory depression, dependence",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Avoid",
+      "administracao": "Oral, IM, IV, sublingual",
+      "doseMaxima": "10 mg/day PO; IV up to 8 mg/dose",
+      "doseMinima": "0.5 mg/day",
+      "classificacao": "Intermediate-acting benzodiazepine",
+      "apresentacao": "Tabs 1, 2 mg; injection 4 mg/mL",
+      "interacaoMedicamento": "Potentiates opioids, alcohol, antipsychotics, anesthetics; valproate may increase levels",
+      "posologia": "PO: 1–2 mg 2–3x/day; IV/IM: 1–4 mg q6–12h",
+      "armazenamento": "15–30°C; protect from light",
+      "preparo": "IV can be administered undiluted; monitor vital signs",
+      "solucoesCompatíveis": "Administer IV slowly without dilution",
+      "contraindicacoes": "Closed-angle glaucoma, severe respiratory depression, myasthenia gravis",
+      "cuidadosMedicos": "Monitor consciousness, BP, RR, withdrawal signs",
+      "cuidadosFarmaceuticos": "Educate on risk of dependence, avoid long-term use",
+      "cuidadosEnfermagem": "Watch for sedation, confusion, hypoxia, hypotension",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lorazepam",
+      "suspension": "Suspender 1–2 días antes de cirugía electiva",
+      "risk": "Riesgo de depresión respiratoria, sedación excesiva, delirio postoperatorio, interacción anestésica",
+      "reintroduction": "Reintroducir tras estabilidad hemodinámica y respiratoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lorazepam",
+      "nomeComercial": "Ativan",
+      "mecanismoAcao": "Potencia GABA al unirse al receptor GABA-A, aumentando flujo de Cl⁻",
+      "farmacocinetica": "Biodisponibilidad oral ~90%; vida media 10–20 h; metabolismo hepático por conjugación",
+      "farmacodinamica": "Ansiolítico, sedante, hipnótico, anticonvulsivo, relajante muscular",
+      "indicacoes": "Ansiedad, insomnio, epilepsia, sedación prequirúrgica, agitación",
+      "reacoesAdversas": "Somnolencia, amnesia, hipotensión, depresión respiratoria, dependencia",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral, sublingual, IM, IV",
+      "doseMaxima": "10 mg/día VO; 8 mg/dosis IV",
+      "doseMinima": "0,5 mg/día",
+      "classificacao": "Benzodiacepina de acción intermedia",
+      "apresentacao": "Comprimidos 1, 2 mg; ampollas 4 mg/mL",
+      "interacaoMedicamento": "Potencia opioides, antipsicóticos, anestésicos; interacciona con alcohol y valproato",
+      "posologia": "1–2 mg VO 2–3x/día; 1–4 mg IM/IV cada 6–12h",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "IV sin diluir, administrar lentamente bajo monitorización",
+      "solucoesCompatíveis": "Sin diluir (IV)",
+      "contraindicacoes": "Glaucoma de ángulo cerrado, depresión respiratoria severa",
+      "cuidadosMedicos": "Monitorear PA, conciencia, FR, abstinencia",
+      "cuidadosFarmaceuticos": "Evitar uso crónico, riesgo de adicción",
+      "cuidadosEnfermagem": "Vigilar confusión, sedación, hipoxemia",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "劳拉西泮",
+      "suspension": "术前1–2天停药（视麻醉风险）",
+      "risk": "呼吸抑制、过度镇静、术后谵妄、与麻醉剂相互作用",
+      "reintroduction": "术后呼吸与循环稳定后谨慎恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "劳拉西泮",
+      "nomeComercial": "Ativan",
+      "mecanismoAcao": "增强GABA-A受体对GABA的亲和力，增加氯离子通道通透性",
+      "farmacocinetica": "口服生物利用度90%；半衰期10–20小时；经肝脏葡糖醛酸化代谢",
+      "farmacodinamica": "抗焦虑、镇静、抗惊厥、肌松作用",
+      "indicacoes": "焦虑障碍、癫痫持续状态、术前用药、激越状态",
+      "reacoesAdversas": "困倦、遗忘、低血压、呼吸抑制、依赖性",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用",
+      "administracao": "口服、舌下、IM、IV",
+      "doseMaxima": "每日10 mg（口服）；IV每次最多8 mg",
+      "doseMinima": "每日0.5 mg",
+      "classificacao": "中效苯二氮䓬类",
+      "apresentacao": "片剂1/2 mg；注射液4 mg/mL",
+      "interacaoMedicamento": "增强阿片、抗精神病药、麻醉药等抑制中枢药物效应",
+      "posologia": "口服1–2 mg 2–3次/日；IM/IV每6–12小时1–4 mg",
+      "armazenamento": "15–30°C避光",
+      "preparo": "IV可不稀释缓慢注射，建议心电监护",
+      "solucoesCompatíveis": "可不稀释直接注射",
+      "contraindicacoes": "闭角型青光眼、重度呼吸抑制、重症肌无力",
+      "cuidadosMedicos": "监测意识、呼吸、血压、戒断反应",
+      "cuidadosFarmaceuticos": "避免长期用药，警惕依赖",
+      "cuidadosEnfermagem": "观察意识、嗜睡、呼吸状态、血压下降",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex, UpToDate"
+    }
+  }
+}

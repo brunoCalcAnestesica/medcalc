@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Metotrexato",
+      "suspension": "Suspender 7 dias antes de cirurgias de médio e grande porte, especialmente se dose ≥15mg/semana",
+      "risk": "Imunossupressão, risco aumentado de infecção, atraso na cicatrização, hepatotoxicidade, pneumonite",
+      "reintroduction": "Reintroduzir 10 a 14 dias após a cirurgia se cicatrização estiver adequada e sem infecções"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metotrexato",
+      "nomeComercial": "Metrexato, Reumatrex, Methoblastin, Trexall",
+      "mecanismoAcao": "Antagonista do ácido fólico; inibe a diidrofolato redutase (DHFR) e afeta a síntese de DNA, RNA e proteínas",
+      "farmacocinetica": "Absorção oral variável (biodisponibilidade ~70% em doses <15mg), alta ligação à albumina, meia-vida de 3 a 10h, excreção renal",
+      "farmacodinamica": "Efeito citotóxico e imunossupressor, reduz ativação linfocitária e proliferação celular",
+      "indicacoes": "Artrite reumatoide, psoríase, artrite psoriásica, neoplasias hematológicas (leucemia linfoblástica aguda), coriocarcinoma",
+      "reacoesAdversas": "Hepatotoxicidade, estomatite, náusea, mielossupressão, pneumonite intersticial, alopecia",
+      "riscoGravidez": "Categoria X – contraindicado; teratogênico potente mesmo em baixas doses",
+      "riscoLactacao": "Contraindicado; excreção no leite humano comprovada",
+      "administracao": "Via oral, subcutânea, intramuscular ou intravenosa (dependendo da indicação)",
+      "doseMaxima": "30mg/semana em doenças reumatológicas; >500mg/m² em oncologia (com resgate com leucovorina)",
+      "doseMinima": "7,5mg/semana",
+      "classificacao": "Antimetabólito; imunossupressor; citotóxico antifolato",
+      "apresentacao": "Comprimidos 2,5mg, 10mg; solução injetável 25mg/mL",
+      "interacaoMedicamento": "AINEs, sulfonamidas, antibióticos (penicilinas), inibidores da bomba de prótons, aumenta toxicidade hematológica",
+      "posologia": "Dose única semanal, ajustada conforme resposta clínica e tolerabilidade",
+      "armazenamento": "Temperatura ambiente (15–30°C), proteger da luz e umidade",
+      "preparo": "Doses parenterais devem ser preparadas em ambiente com capela de fluxo laminar (em oncologia)",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, dextrose 5%",
+      "contraindicacoes": "Gravidez, lactação, insuficiência hepática ou renal grave, álcoolismo crônico, discrasias sanguíneas",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática, renal e radiografia de tórax antes e durante o uso",
+      "cuidadosFarmaceuticos": "Verificar administração semanal; cuidado com erro de dosagem diária (risco de morte)",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade: mucosite, febre, dispneia, sangramento",
+      "fontesBibliograficas": "ANVISA, Micromedex, EMA, FDA, UpToDate, EULAR"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Methotrexate",
+      "suspension": "Hold 1 week prior to moderate/high-risk surgery in doses ≥15mg/week",
+      "risk": "Immunosuppression, infection, delayed wound healing, liver toxicity, interstitial pneumonitis",
+      "reintroduction": "Resume 10–14 days post-op if wound healing is adequate and no infection is present"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Methotrexate",
+      "nomeComercial": "Trexall, Rheumatrex, Otrexup, Rasuvo",
+      "mecanismoAcao": "Folic acid antagonist inhibiting DHFR; interferes with DNA synthesis and cell replication",
+      "farmacocinetica": "Oral bioavailability ~70% at low doses; highly protein bound; renal excretion; T1/2: 3–10h",
+      "farmacodinamica": "Inhibits lymphocyte proliferation and inflammatory pathways",
+      "indicacoes": "Rheumatoid arthritis, psoriasis, psoriatic arthritis, ALL, lymphomas, choriocarcinoma",
+      "reacoesAdversas": "Hepatotoxicity, myelosuppression, GI upset, mucositis, alopecia, pulmonary toxicity",
+      "riscoGravidez": "Category X – highly teratogenic",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Oral, SC, IM, or IV depending on indication",
+      "doseMaxima": "30mg/week (RA); >500mg/m² for oncology with leucovorin rescue",
+      "doseMinima": "7.5mg/week",
+      "classificacao": "Antimetabolite, antifolate, immunosuppressant",
+      "apresentacao": "Tablets 2.5mg, 10mg; injection 25mg/mL",
+      "interacaoMedicamento": "NSAIDs, sulfonamides, PPIs, penicillins may increase toxicity",
+      "posologia": "Once weekly dose; titrated based on clinical response",
+      "armazenamento": "Store at 15–30°C; protect from light",
+      "preparo": "IV formulations must be prepared in sterile compounding area",
+      "solucoesCompatíveis": "Normal saline, D5W",
+      "contraindicacoes": "Pregnancy, liver/renal failure, blood dyscrasias, alcohol abuse",
+      "cuidadosMedicos": "Baseline labs: CBC, LFTs, creatinine, chest X-ray; monitor every 1–3 months",
+      "cuidadosFarmaceuticos": "Avoid daily administration errors; patient counseling essential",
+      "cuidadosEnfermagem": "Monitor for toxicity signs: fever, mouth sores, cough, bruising",
+      "fontesBibliograficas": "FDA label, UpToDate, Micromedex, ACR guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Metotrexato",
+      "suspension": "Suspender 7 días antes de cirugías mayores, especialmente si >15mg/semana",
+      "risk": "Inmunosupresión, mayor riesgo de infecciones, retraso en la cicatrización, toxicidad hepática, neumonitis intersticial",
+      "reintroduction": "Reiniciar 10–14 días después si no hay infección ni complicaciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metotrexato",
+      "nomeComercial": "Metoject, Ledertrexate, Rheumatrex",
+      "mecanismoAcao": "Antagonista del ácido fólico; inhibe DHFR y bloquea la síntesis de ADN/ARN",
+      "farmacocinetica": "Buena biodisponibilidad oral; T1/2: 3–10h; eliminación renal",
+      "farmacodinamica": "Citotóxico e inmunosupresor; reduce la inflamación linfocítica",
+      "indicacoes": "Artritis reumatoide, psoriasis, leucemias, linfomas, coriocarcinoma",
+      "reacoesAdversas": "Hepatotoxicidad, náuseas, estomatitis, mielosupresión, alopecia, neumonitis",
+      "riscoGravidez": "Categoría X – altamente teratogénico",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral, SC, IM o IV",
+      "doseMaxima": "30mg/semana (AR); en oncología >500mg/m²",
+      "doseMinima": "7,5mg/semana",
+      "classificacao": "Antimetabolito, antifolato, inmunosupresor",
+      "apresentacao": "Comprimidos 2,5mg, 10mg; solución inyectable 25mg/mL",
+      "interacaoMedicamento": "AINEs, antibióticos, sulfonamidas, IBPs",
+      "posologia": "Dosis única semanal; ajustar según respuesta",
+      "armazenamento": "15–30°C, proteger de la luz",
+      "preparo": "Formas IV requieren cabina de flujo laminar",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%",
+      "contraindicacoes": "Embarazo, insuficiencia hepática/renal grave, alcoholismo",
+      "cuidadosMedicos": "Monitorización regular de hemograma y función hepática/renal",
+      "cuidadosFarmaceuticos": "Evitar errores de dosificación diaria",
+      "cuidadosEnfermagem": "Controlar efectos adversos hematológicos y pulmonares",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甲氨蝶呤",
+      "suspension": "术前7天停药，尤其是每周剂量≥15mg者",
+      "risk": "免疫抑制，感染风险上升，伤口愈合延迟，肝毒性，肺毒性（间质性肺炎）",
+      "reintroduction": "术后10–14天，若无感染且愈合良好可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甲氨蝶呤",
+      "nomeComercial": "Methotrexate片、特瑞索注射液（中国）",
+      "mecanismoAcao": "叶酸拮抗剂，抑制二氢叶酸还原酶，干扰DNA/RNA合成",
+      "farmacocinetica": "口服吸收良好；血浆半衰期3–10小时；肾排泄为主",
+      "farmacodinamica": "细胞毒作用与免疫抑制作用并存，抑制淋巴细胞活化",
+      "indicacoes": "类风湿关节炎、银屑病、白血病、绒癌、淋巴瘤",
+      "reacoesAdversas": "肝功能异常、恶心、口腔溃疡、骨髓抑制、脱发、肺毒性",
+      "riscoGravidez": "X类；禁止妊娠期使用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服、皮下注射、肌注、静脉注射",
+      "doseMaxima": "每周30毫克（RA）；肿瘤治疗可高达>500mg/m²",
+      "doseMinima": "每周7.5毫克",
+      "classificacao": "抗代谢药；抗叶酸药；免疫抑制剂",
+      "apresentacao": "片剂2.5mg、10mg；注射剂25mg/mL",
+      "interacaoMedicamento": "NSAIDs、青霉素、磺胺类、质子泵抑制剂",
+      "posologia": "每周一次给药；根据疗效个体化调整",
+      "armazenamento": "常温避光保存",
+      "preparo": "静脉注射需在无菌环境配置",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "孕妇、严重肝肾功能障碍、酗酒、血液疾病",
+      "cuidadosMedicos": "定期监测血常规、肝肾功能、胸片",
+      "cuidadosFarmaceuticos": "避免每日误服；强化用药教育",
+      "cuidadosEnfermagem": "观察毒性表现，如发热、出血、呼吸困难",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA"
+    }
+  }
+}

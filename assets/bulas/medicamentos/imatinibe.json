@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Imatinibe",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva, se possível e com liberação oncológica",
+      "risk": "Risco aumentado de sangramento, retenção hídrica e efeitos hematológicos; considerar suspensão caso possível",
+      "reintroduction": "Reintroduzir após recuperação tecidual e estabilidade hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imatinibe",
+      "nomeComercial": "Glivec, Imatinib",
+      "mecanismoAcao": "Inibidor de tirosina quinase que bloqueia BCR-ABL, c-KIT e PDGFR",
+      "farmacocinetica": "Boa absorção oral, metabolizado no fígado (CYP3A4), meia-vida de 18h",
+      "farmacodinamica": "Inibe proliferação de células tumorais com expressão de tirosina quinase anormal",
+      "indicacoes": "Leucemia mieloide crônica, GIST, leucemia linfoblástica aguda Philadelphia+, mastocitose sistêmica",
+      "reacoesAdversas": "Náusea, edema, mialgia, pancitopenia, rash cutâneo",
+      "riscoGravidez": "Categoria D - risco fetal conhecido",
+      "riscoLactacao": "Contraindicado; excretado no leite",
+      "administracao": "Via oral",
+      "doseMaxima": "800mg/dia",
+      "doseMinima": "100mg/dia",
+      "classificacao": "Inibidor de tirosina quinase",
+      "apresentacao": "Comprimidos de 100mg e 400mg",
+      "interacaoMedicamento": "Metabolismo via CYP3A4; interações com cetoconazol, rifampicina, varfarina, acetaminofeno",
+      "posologia": "Adultos: 400 a 800mg por dia; ajustar conforme resposta e tolerância",
+      "armazenamento": "Temperatura ambiente, proteger da umidade",
+      "preparo": "Pode ser dissolvido em água ou suco de maçã para administração em pacientes com dificuldade de deglutição",
+      "solucoesCompatíveis": "Água, suco de maçã (oral)",
+      "contraindicacoes": "Hipersensibilidade ao imatinibe ou componentes",
+      "cuidadosMedicos": "Monitorar função hepática, hemograma e sinais de retenção hídrica",
+      "cuidadosFarmaceuticos": "Educar sobre adesão ao tratamento e possíveis interações medicamentosas",
+      "cuidadosEnfermagem": "Observar efeitos adversos e adesão ao tratamento",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Imatinib",
+      "suspension": "Discontinue 7 days before elective surgery if feasible and approved by oncology",
+      "risk": "Increased risk of bleeding, fluid retention, and cytopenias; consider holding preoperatively",
+      "reintroduction": "Restart after tissue healing and hematologic stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imatinib",
+      "nomeComercial": "Gleevec",
+      "mecanismoAcao": "Tyrosine kinase inhibitor targeting BCR-ABL, c-KIT, and PDGFR",
+      "farmacocinetica": "Well absorbed orally, metabolized by CYP3A4, half-life ~18h",
+      "farmacodinamica": "Inhibits growth of abnormal kinase-expressing tumor cells",
+      "indicacoes": "CML, GIST, Ph+ ALL, systemic mastocytosis",
+      "reacoesAdversas": "Nausea, edema, myalgia, pancytopenia, skin rash",
+      "riscoGravidez": "Category D – fetal risk known",
+      "riscoLactacao": "Contraindicated – excreted in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "800mg/day",
+      "doseMinima": "100mg/day",
+      "classificacao": "Tyrosine kinase inhibitor",
+      "apresentacao": "Tablets: 100mg and 400mg",
+      "interacaoMedicamento": "CYP3A4 interactions: ketoconazole, rifampin, warfarin, acetaminophen",
+      "posologia": "Adults: 400–800mg daily; adjust per response and tolerance",
+      "armazenamento": "Store at room temperature, protect from moisture",
+      "preparo": "May dissolve in water or apple juice for swallowing difficulty",
+      "solucoesCompatíveis": "Water, apple juice (oral use)",
+      "contraindicacoes": "Hypersensitivity to imatinib or ingredients",
+      "cuidadosMedicos": "Monitor liver function, CBC, and signs of fluid retention",
+      "cuidadosFarmaceuticos": "Educate on adherence and drug interactions",
+      "cuidadosEnfermagem": "Monitor for adverse effects and treatment compliance",
+      "fontesBibliograficas": "FDA, EMA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Imatinib",
+      "suspension": "Suspender 7 días antes de cirugía electiva si es posible y autorizado por oncología",
+      "risk": "Mayor riesgo de sangrado, retención de líquidos y citopenias; considerar suspensión preoperatoria",
+      "reintroduction": "Reintroducir tras recuperación y estabilidad hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imatinib",
+      "nomeComercial": "Glivec",
+      "mecanismoAcao": "Inhibidor de tirosina quinasa que bloquea BCR-ABL, c-KIT y PDGFR",
+      "farmacocinetica": "Buena absorción oral, metabolizado por CYP3A4, vida media ~18h",
+      "farmacodinamica": "Inhibe proliferación de células tumorales con tirosina quinasa anómala",
+      "indicacoes": "LMC, GIST, LLA Ph+, mastocitosis sistémica",
+      "reacoesAdversas": "Náuseas, edema, mialgia, pancitopenia, erupción cutánea",
+      "riscoGravidez": "Categoría D – riesgo fetal conocido",
+      "riscoLactacao": "Contraindicado – se excreta en la leche",
+      "administracao": "Oral",
+      "doseMaxima": "800mg/día",
+      "doseMinima": "100mg/día",
+      "classificacao": "Inhibidor de tirosina quinasa",
+      "apresentacao": "Comprimidos: 100mg y 400mg",
+      "interacaoMedicamento": "Interacciones CYP3A4: ketoconazol, rifampicina, warfarina, paracetamol",
+      "posologia": "Adultos: 400–800mg diarios; ajustar según respuesta",
+      "armazenamento": "Ambiente seco a temperatura ambiente",
+      "preparo": "Puede disolverse en agua o jugo de manzana para facilitar la deglución",
+      "solucoesCompatíveis": "Agua, jugo de manzana (oral)",
+      "contraindicacoes": "Hipersensibilidad al imatinib o excipientes",
+      "cuidadosMedicos": "Controlar función hepática, hemograma y retención de líquidos",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia e interacciones",
+      "cuidadosEnfermagem": "Vigilar efectos adversos y adherencia",
+      "fontesBibliograficas": "EMA, Micromedex, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伊马替尼",
+      "suspension": "择期手术前7天停药，需肿瘤科同意",
+      "risk": "可能增加出血、液体潴留和血细胞减少风险；术前可考虑停药",
+      "reintroduction": "组织愈合和血液指标稳定后恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伊马替尼",
+      "nomeComercial": "格列卫",
+      "mecanismoAcao": "酪氨酸激酶抑制剂，抑制BCR-ABL、c-KIT和PDGFR",
+      "farmacocinetica": "口服吸收良好，经CYP3A4代谢，半衰期约18小时",
+      "farmacodinamica": "抑制异常激酶表达的肿瘤细胞增殖",
+      "indicacoes": "慢性粒细胞白血病（CML）、胃肠道间质瘤（GIST）、Ph+急性淋巴白血病、系统性肥大细胞增多症",
+      "reacoesAdversas": "恶心、水肿、肌痛、全血细胞减少、皮疹",
+      "riscoGravidez": "D类 – 已知胎儿风险",
+      "riscoLactacao": "禁用 – 会排入乳汁",
+      "administracao": "口服",
+      "doseMaxima": "800毫克/天",
+      "doseMinima": "100毫克/天",
+      "classificacao": "酪氨酸激酶抑制剂",
+      "apresentacao": "片剂：100mg和400mg",
+      "interacaoMedicamento": "与CYP3A4底物/抑制剂/诱导剂互作",
+      "posologia": "成人每日400–800mg，视反应调整",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "可溶于水或苹果汁以便吞咽",
+      "solucoesCompatíveis": "水、苹果汁（口服）",
+      "contraindicacoes": "对伊马替尼或其成分过敏者禁用",
+      "cuidadosMedicos": "监测肝功能、血常规及水肿",
+      "cuidadosFarmaceuticos": "指导用药依从性和药物相互作用",
+      "cuidadosEnfermagem": "监测不良反应和服药情况",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

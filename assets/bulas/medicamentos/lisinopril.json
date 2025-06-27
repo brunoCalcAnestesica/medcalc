@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lisinopril",
+      "suspension": "Manter até o dia da cirurgia em procedimentos de baixo risco. Suspender 24h antes em cirurgias maiores ou com risco de hipotensão",
+      "risk": "Risco de hipotensão refratária à indução anestésica, principalmente em pacientes hipovolêmicos ou idosos",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica, geralmente 24–48h após a cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lisinopril",
+      "nomeComercial": "Zestril, Prinivil",
+      "mecanismoAcao": "Inibe a enzima conversora de angiotensina (ECA), reduzindo a formação de angiotensina II",
+      "farmacocinetica": "Absorção oral moderada (25%), não metabolizado, excreção renal, meia-vida 12h",
+      "farmacodinamica": "Vasodilatador arterial, reduz pressão arterial, pós-carga e remodelamento cardíaco",
+      "indicacoes": "Hipertensão, insuficiência cardíaca, infarto agudo do miocárdio, nefropatia diabética",
+      "reacoesAdversas": "Tosse seca, hipotensão, hipercalemia, angioedema, tontura",
+      "riscoGravidez": "Categoria D (contraindicado)",
+      "riscoLactacao": "Excretado no leite em pequenas quantidades; evitar se possível",
+      "administracao": "Via oral",
+      "doseMaxima": "80mg/dia",
+      "doseMinima": "2,5mg/dia",
+      "classificacao": "Inibidor da ECA",
+      "apresentacao": "Comprimidos 5mg, 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Aumenta risco de hipercalemia com diuréticos poupadores de potássio, AINEs, lítio",
+      "posologia": "Ajustar conforme resposta pressórica e função renal",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Angioedema prévio, estenose bilateral de artérias renais, gravidez",
+      "cuidadosMedicos": "Monitorar creatinina, potássio e pressão arterial",
+      "cuidadosFarmaceuticos": "Alertar sobre sinais de angioedema e tosse persistente",
+      "cuidadosEnfermagem": "Monitorar pressão, débito urinário e sinais de hipovolemia",
+      "fontesBibliograficas": "SBH, ANVISA, FDA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lisinopril",
+      "suspension": "Continue for low-risk procedures. Stop 24h before major surgeries or if risk of hypotension",
+      "risk": "Risk of refractory hypotension during anesthesia induction, especially in elderly or hypovolemic patients",
+      "reintroduction": "Restart after hemodynamic stabilization, usually 24–48h post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lisinopril",
+      "nomeComercial": "Zestril, Prinivil",
+      "mecanismoAcao": "Inhibits angiotensin-converting enzyme (ACE), reducing angiotensin II formation",
+      "farmacocinetica": "Moderate oral absorption (25%), not metabolized, renal excretion, half-life 12h",
+      "farmacodinamica": "Arterial vasodilation, reduces BP, afterload, and cardiac remodeling",
+      "indicacoes": "Hypertension, heart failure, acute MI, diabetic nephropathy",
+      "reacoesAdversas": "Dry cough, hypotension, hyperkalemia, angioedema, dizziness",
+      "riscoGravidez": "Category D (contraindicated)",
+      "riscoLactacao": "Excreted in small amounts; avoid if possible",
+      "administracao": "Oral",
+      "doseMaxima": "80mg/day",
+      "doseMinima": "2.5mg/day",
+      "classificacao": "ACE inhibitor",
+      "apresentacao": "Tablets 5mg, 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Increased hyperkalemia risk with potassium-sparing diuretics, NSAIDs, lithium",
+      "posologia": "Titrate to BP and renal function",
+      "armazenamento": "Room temperature",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "History of angioedema, bilateral renal artery stenosis, pregnancy",
+      "cuidadosMedicos": "Monitor creatinine, potassium, and BP",
+      "cuidadosFarmaceuticos": "Warn about angioedema signs and persistent cough",
+      "cuidadosEnfermagem": "Monitor BP, urine output, signs of hypovolemia",
+      "fontesBibliograficas": "FDA, Micromedex, ACC guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lisinopril",
+      "suspension": "Mantener en cirugías de bajo riesgo; suspender 24h antes de cirugías mayores o si hay riesgo de hipotensión",
+      "risk": "Hipotensión refractaria a la inducción anestésica, especialmente en pacientes hipovolémicos o ancianos",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica, usualmente 24–48h después de la cirugía"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lisinopril",
+      "nomeComercial": "Zestril, Prinivil",
+      "mecanismoAcao": "Inhibe la enzima convertidora de angiotensina, reduciendo angiotensina II",
+      "farmacocinetica": "Absorción oral moderada (25%), no metabolizado, excreción renal, semivida 12h",
+      "farmacodinamica": "Vasodilatador arterial, reduce PA, poscarga y remodelado cardíaco",
+      "indicacoes": "Hipertensión, insuficiencia cardíaca, IAM, nefropatía diabética",
+      "reacoesAdversas": "Tos seca, hipotensión, hipercalemia, angioedema, mareos",
+      "riscoGravidez": "Categoría D (contraindicado)",
+      "riscoLactacao": "Se excreta en pequeñas cantidades; evitar si es posible",
+      "administracao": "Vía oral",
+      "doseMaxima": "80mg/día",
+      "doseMinima": "2,5mg/día",
+      "classificacao": "IECA (inhibidor de la ECA)",
+      "apresentacao": "Comprimidos 5mg, 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Mayor riesgo de hipercalemia con diuréticos ahorradores de potasio, AINEs, litio",
+      "posologia": "Ajustar según respuesta tensional y función renal",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Angioedema previo, estenosis bilateral de arterias renales, embarazo",
+      "cuidadosMedicos": "Control de creatinina, potasio y PA",
+      "cuidadosFarmaceuticos": "Advertir sobre tos persistente y angioedema",
+      "cuidadosEnfermagem": "Monitorear PA, diuresis, hipovolemia",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "赖诺普利",
+      "suspension": "低风险手术可继续用药，大型手术或有低血压风险者术前24小时停药",
+      "risk": "麻醉诱导期易出现难治性低血压，尤其是老年或低血容量者",
+      "reintroduction": "术后24–48小时内血流动力学稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "赖诺普利",
+      "nomeComercial": "Zestril，普利尼维尔（Prinivil）",
+      "mecanismoAcao": "抑制血管紧张素转化酶（ACE），减少血管紧张素II生成",
+      "farmacocinetica": "口服吸收中等（25%），不代谢，经肾排泄，半衰期12小时",
+      "farmacodinamica": "动脉扩张，降低血压、后负荷和心脏重构",
+      "indicacoes": "高血压、心力衰竭、心梗、糖尿病肾病",
+      "reacoesAdversas": "干咳、低血压、高钾血症、血管性水肿、头晕",
+      "riscoGravidez": "D类（禁用）",
+      "riscoLactacao": "少量排入乳汁，应避免",
+      "administracao": "口服",
+      "doseMaxima": "每日80毫克",
+      "doseMinima": "每日2.5毫克",
+      "classificacao": "ACE抑制剂",
+      "apresentacao": "片剂：5mg、10mg、20mg、40mg",
+      "interacaoMedicamento": "与保钾利尿剂、NSAIDs、锂剂联用易致高钾",
+      "posologia": "根据血压与肾功能调整剂量",
+      "armazenamento": "室温保存",
+      "preparo": "无需准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "既往血管性水肿、双肾动脉狭窄、妊娠",
+      "cuidadosMedicos": "监测肌酐、钾和血压",
+      "cuidadosFarmaceuticos": "警惕干咳和血管性水肿症状",
+      "cuidadosEnfermagem": "监测血压、尿量及低血容量表现",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

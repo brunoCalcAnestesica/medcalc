@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sulfato de magnésio",
+      "suspension": "Suspender 24 horas antes de cirurgia eletiva com risco de depressão respiratória, especialmente em pacientes com função renal comprometida.",
+      "risk": "Risco de hipermagnesemia, depressão do sistema nervoso central, bloqueio cardíaco, parada respiratória e hipotensão, especialmente em doses altas ou insuficiência renal.",
+      "reintroduction": "Reintroduzir com cautela após normalização da função renal, eletrólitos e monitorização da frequência respiratória."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato de magnésio heptaidratado",
+      "nomeComercial": "Sulfamag, Magnesil, Magnesona",
+      "mecanismoAcao": "O magnésio atua como cofator enzimático e bloqueador fisiológico dos canais de cálcio, estabilizando membranas celulares e inibindo a liberação de acetilcolina nas junções neuromusculares.",
+      "farmacocinetica": "Administração IV ou IM; início de ação em 1h (IM) ou imediato (IV); meia-vida aproximada de 4 horas; excreção predominantemente renal.",
+      "farmacodinamica": "Propriedades anticonvulsivantes, antiarrítmicas, broncodilatadoras e tocolíticas.",
+      "indicacoes": "Pré-eclâmpsia e eclâmpsia, hipomagnesemia, arritmias ventriculares (torsades de pointes), constipação (uso oral), neuroproteção fetal em prematuridade iminente, intoxicação por bário ou sais de cálcio.",
+      "reacoesAdversas": "Rubor, náuseas, hipotensão, depressão respiratória, parada cardíaca, hiporreflexia, sedação.",
+      "riscoGravidez": "Categoria D (uso indicado apenas em situações específicas como eclâmpsia e neuroproteção fetal).",
+      "riscoLactacao": "Seguro em doses terapêuticas.",
+      "administracao": "Administração IV lenta ou infusão contínua; IM profunda; uso oral (laxativo).",
+      "doseMaxima": "40 g/dia (IV); 2–4 g em bolus (eclâmpsia).",
+      "doseMinima": "1 g (IV lento ou IM).",
+      "classificacao": "Anticonvulsivante, eletrólito, tocolítico, laxativo (oral).",
+      "apresentacao": "Ampolas de 10% e 50% (2 mL, 10 mL); sachês de pó oral.",
+      "interacaoMedicamento": "Potencializa efeito de bloqueadores neuromusculares e depressores do SNC.",
+      "posologia": "Eclâmpsia: 4 g IV bolus + 1 g/h IV contínuo; Hipomagnesemia: 1–2 g IV a cada 6 horas.",
+      "armazenamento": "Temperatura ambiente, protegido da luz.",
+      "preparo": "Diluir em SF 0,9% ou SG 5% para infusão contínua.",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%.",
+      "contraindicacoes": "Bloqueio cardíaco, insuficiência renal grave, hipermagnesemia, depressão respiratória.",
+      "cuidadosMedicos": "Monitorar reflexos, frequência respiratória, débito urinário e níveis séricos de magnésio.",
+      "cuidadosFarmaceuticos": "Garantir diluição adequada, identificar incompatibilidades e controlar estoque.",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, reflexos, débito urinário e estado de consciência.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Bula Sulfato de Magnésio."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Magnesium sulfate",
+      "suspension": "Discontinue 24 hours prior to elective surgery if respiratory depression or renal impairment is present.",
+      "risk": "Risk of hypermagnesemia, CNS depression, heart block, respiratory arrest, and hypotension, particularly with high doses or renal dysfunction.",
+      "reintroduction": "Restart cautiously after renal function and electrolytes stabilize and respiratory monitoring is ensured."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Magnesium sulfate heptahydrate",
+      "nomeComercial": "Sulfamag, Magnesil, Magnesona",
+      "mecanismoAcao": "Magnesium acts as an enzymatic cofactor and physiological calcium channel blocker, stabilizing cell membranes and inhibiting acetylcholine release at neuromuscular junctions.",
+      "farmacocinetica": "IV or IM administration; onset within 1h (IM) or immediate (IV); half-life approximately 4 hours; predominantly renal excretion.",
+      "farmacodinamica": "Anticonvulsant, antiarrhythmic, bronchodilator, and tocolytic properties.",
+      "indicacoes": "Preeclampsia and eclampsia, hypomagnesemia, ventricular arrhythmias (torsades de pointes), constipation (oral use), fetal neuroprotection in imminent preterm birth, poisoning by barium or calcium salts.",
+      "reacoesAdversas": "Flushing, nausea, hypotension, respiratory depression, cardiac arrest, hyporeflexia, sedation.",
+      "riscoGravidez": "Category D (indicated only in specific situations such as eclampsia and fetal neuroprotection).",
+      "riscoLactacao": "Safe at therapeutic doses.",
+      "administracao": "Slow IV administration or continuous infusion; deep IM; oral use (laxative).",
+      "doseMaxima": "40 g/day (IV); 2–4 g bolus (eclampsia).",
+      "doseMinima": "1 g (slow IV or IM).",
+      "classificacao": "Anticonvulsant, electrolyte, tocolytic, laxative (oral).",
+      "apresentacao": "Ampoules 10% and 50% (2 mL, 10 mL); oral powder sachets.",
+      "interacaoMedicamento": "Potentiates the effects of neuromuscular blockers and CNS depressants.",
+      "posologia": "Eclampsia: 4 g IV bolus + 1 g/h continuous IV; Hypomagnesemia: 1–2 g IV every 6 hours.",
+      "armazenamento": "Room temperature, protected from light.",
+      "preparo": "Dilute in 0.9% NaCl or 5% dextrose for continuous infusion.",
+      "solucoesCompatíveis": "0.9% NaCl, 5% dextrose.",
+      "contraindicacoes": "Heart block, severe renal failure, hypermagnesemia, respiratory depression.",
+      "cuidadosMedicos": "Monitor reflexes, respiratory rate, urinary output, and serum magnesium levels.",
+      "cuidadosFarmaceuticos": "Ensure proper dilution, identify incompatibilities, and manage inventory.",
+      "cuidadosEnfermagem": "Monitor vital signs, reflexes, urinary output, and level of consciousness.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Magnesium Sulfate Package Insert."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sulfato de magnesio",
+      "suspension": "Suspender 24 horas antes de cirugía electiva en caso de depresión respiratoria o disfunción renal.",
+      "risk": "Riesgo de hipermagnesemia, depresión del SNC, bloqueo cardíaco, paro respiratorio e hipotensión, especialmente con dosis altas o disfunción renal.",
+      "reintroduction": "Reintroducir con precaución tras normalización renal y control respiratorio adecuado."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato de magnesio heptahidratado",
+      "nomeComercial": "Sulfamag, Magnesil, Magnesona",
+      "mecanismoAcao": "El magnesio actúa como cofactor enzimático y bloqueador fisiológico de los canales de calcio, estabilizando las membranas celulares e inhibiendo la liberación de acetilcolina en las uniones neuromusculares.",
+      "farmacocinetica": "Administración IV o IM; inicio de acción en 1h (IM) o inmediato (IV); vida media de aproximadamente 4 horas; excreción predominantemente renal.",
+      "farmacodinamica": "Propiedades anticonvulsivantes, antiarrítmicas, broncodilatadoras y tocolíticas.",
+      "indicacoes": "Preeclampsia y eclampsia, hipomagnesemia, arritmias ventriculares (torsades de pointes), estreñimiento (uso oral), neuroprotección fetal en prematuridad inminente, intoxicación por bario o sales de calcio.",
+      "reacoesAdversas": "Rubor, náuseas, hipotensión, depresión respiratoria, paro cardíaco, hiporreflexia, sedación.",
+      "riscoGravidez": "Categoría D (indicado solo en situaciones específicas como eclampsia y neuroprotección fetal).",
+      "riscoLactacao": "Seguro en dosis terapéuticas.",
+      "administracao": "Administración IV lenta o infusión continua; IM profunda; uso oral (laxante).",
+      "doseMaxima": "40 g/día (IV); 2–4 g en bolus (eclampsia).",
+      "doseMinima": "1 g (IV lenta o IM).",
+      "classificacao": "Anticonvulsivante, electrólito, tocolítico, laxante (oral).",
+      "apresentacao": "Ampollas al 10% y 50% (2 mL, 10 mL); sobres de polvo oral.",
+      "interacaoMedicamento": "Potencia el efecto de los bloqueadores neuromusculares y depresores del SNC.",
+      "posologia": "Eclampsia: 4 g IV bolus + 1 g/h IV continua; Hipomagnesemia: 1–2 g IV cada 6 horas.",
+      "armazenamento": "Temperatura ambiente, protegido de la luz.",
+      "preparo": "Diluir en SSF 0,9% o glucosa al 5% para infusión continua.",
+      "solucoesCompatíveis": "SSF 0,9%, glucosa al 5%.",
+      "contraindicacoes": "Bloqueo cardíaco, insuficiencia renal grave, hipermagnesemia, depresión respiratoria.",
+      "cuidadosMedicos": "Monitorizar reflejos, frecuencia respiratoria, diuresis y niveles séricos de magnesio.",
+      "cuidadosFarmaceuticos": "Garantizar dilución adecuada, identificar incompatibilidades y controlar inventario.",
+      "cuidadosEnfermagem": "Monitorizar signos vitales, reflejos, diuresis y estado de conciencia.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Prospecto Sulfato de Magnesio."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硫酸镁",
+      "suspension": "择期手术前24小时应停用，特别是在呼吸抑制或肾功能不全时。",
+      "risk": "高剂量或肾功能不全时可引起高镁血症、中枢神经抑制、心脏传导阻滞、呼吸暂停和低血压。",
+      "reintroduction": "在肾功能、电解质恢复并确保呼吸监测后谨慎重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "七水硫酸镁",
+      "nomeComercial": "Sulfamag, Magnesil, Magnesona",
+      "mecanismoAcao": "镁作为酶的辅助因子和生理性钙通道阻滞剂，稳定细胞膜，并抑制神经肌肉接头处乙酰胆碱的释放。",
+      "farmacocinetica": "静脉或肌肉注射给药；肌注起效约1小时，静注即刻起效；半衰期约4小时；主要经肾脏排泄。",
+      "farmacodinamica": "具有抗惊厥、抗心律失常、支气管扩张和抑制宫缩的作用。",
+      "indicacoes": "子痫前期和子痫、低镁血症、室性心律失常（尖端扭转型室速）、便秘（口服）、早产胎儿神经保护、钡或钙盐中毒。",
+      "reacoesAdversas": "潮红、恶心、低血压、呼吸抑制、心脏骤停、反射减弱、镇静。",
+      "riscoGravidez": "D类（仅在子痫、胎儿神经保护等特定情况下使用）。",
+      "riscoLactacao": "治疗剂量下安全。",
+      "administracao": "缓慢静脉注射或持续输注；深部肌注；口服（泻药）。",
+      "doseMaxima": "40克/天（静脉）；2–4克静脉推注（子痫）。",
+      "doseMinima": "1克（缓慢静脉或肌肉注射）。",
+      "classificacao": "抗惊厥药、电解质、抑制宫缩药、口服泻药。",
+      "apresentacao": "10%和50%安瓿（2毫升、10毫升）；口服粉末小袋。",
+      "interacaoMedicamento": "增强神经肌肉阻滞剂和中枢神经系统抑制剂的作用。",
+      "posologia": "子痫：4克静脉推注+1克/小时持续静脉输注；低镁血症：每6小时静脉注射1–2克。",
+      "armazenamento": "室温，避光保存。",
+      "preparo": "连续输注前需用0.9%氯化钠或5%葡萄糖稀释。",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖。",
+      "contraindicacoes": "心脏传导阻滞、严重肾功能不全、高镁血症、呼吸抑制。",
+      "cuidadosMedicos": "监测反射、呼吸频率、尿量及血镁浓度。",
+      "cuidadosFarmaceuticos": "确保正确稀释，识别配伍禁忌，管理库存。",
+      "cuidadosEnfermagem": "监测生命体征、反射、尿量及意识状态。",
+      "fontesBibliograficas": "Micromedex、UpToDate、FDA、ANVISA、硫酸镁说明书。"
+    }
+  }
+}

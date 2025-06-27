@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Baclofeno",
+      "suspension": "Não suspender abruptamente – risco de síndrome de abstinência grave em uso crônico",
+      "risk": "Depressão respiratória, hipotonia, sonolência, confusão mental, risco de convulsão na retirada",
+      "reintroduction": "Reintroduzir de forma gradual com ajuste individualizado e monitoramento neurológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Baclofeno",
+      "nomeComercial": "Lioresal, Baclon, Baclofen",
+      "mecanismoAcao": "Agonista do receptor GABA-B; inibe a liberação de neurotransmissores excitatórios na medula espinhal",
+      "farmacocinetica": "Início em 30–60 min (VO), pico 2h, meia-vida 3–4h, eliminação renal",
+      "farmacodinamica": "Reduz a espasticidade muscular ao inibir reflexos monossinápticos e polissinápticos na medula",
+      "indicacoes": "Espasticidade de origem espinhal (esclerose múltipla, lesão medular) ou cerebral (paralisia cerebral, AVC)",
+      "reacoesAdversas": "Sonolência, hipotensão, fraqueza muscular, náuseas, confusão, depressão respiratória em altas doses",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite materno; usar com cautela",
+      "administracao": "Via oral ou intratecal (em bomba implantável)",
+      "doseMaxima": "80 mg/dia (oral); intratecal individualizada",
+      "doseMinima": "5 mg/dia (oral)",
+      "classificacao": "Relaxante muscular de ação central; agonista GABA-B",
+      "apresentacao": "Comprimidos de 10mg e 25mg; solução intratecal 0,05mg/mL a 2mg/mL",
+      "interacaoMedicamento": "Potencializa ação de depressores do SNC, álcool, opioides, benzodiazepínicos",
+      "posologia": "Inicial 5 mg 3x/dia, aumento gradual até resposta ideal (máx 80 mg/dia VO)",
+      "armazenamento": "Temperatura ambiente; solução intratecal refrigerada",
+      "preparo": "Comprimidos: uso direto; intratecal: manipulado e programado em bomba",
+      "solucoesCompatíveis": "SF 0,9% (via intratecal)",
+      "contraindicacoes": "Úlcera gástrica ativa, epilepsia não controlada, hipersensibilidade ao baclofeno",
+      "cuidadosMedicos": "Evitar interrupção abrupta, monitorar função renal e sinais de abstinência",
+      "cuidadosFarmaceuticos": "Ajustar doses em insuficiência renal, orientar titulação gradual",
+      "cuidadosEnfermagem": "Observar sedação, tônus muscular e alterações cognitivas",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, SBEM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Baclofen",
+      "suspension": "Do not abruptly stop – risk of severe withdrawal including seizures and hallucinations",
+      "risk": "Respiratory depression, muscle hypotonia, sedation, confusion, seizure on withdrawal",
+      "reintroduction": "Reintroduce gradually with close neurologic monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Baclofen",
+      "nomeComercial": "Lioresal, Ozobax, Gablofen",
+      "mecanismoAcao": "GABA-B receptor agonist; inhibits excitatory neurotransmitter release at spinal level",
+      "farmacocinetica": "Onset 30–60 min (oral), peak 2h, half-life 3–4h, renal elimination",
+      "farmacodinamica": "Reduces spasticity by suppressing monosynaptic and polysynaptic reflexes",
+      "indicacoes": "Spasticity from multiple sclerosis, spinal cord injuries, cerebral palsy, stroke",
+      "reacoesAdversas": "Drowsiness, hypotonia, dizziness, nausea, respiratory depression, confusion",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; use with caution",
+      "administracao": "Oral or intrathecal (via implantable pump)",
+      "doseMaxima": "80 mg/day (oral); individualized intrathecal",
+      "doseMinima": "5 mg/day (oral)",
+      "classificacao": "Central-acting skeletal muscle relaxant; GABA-B agonist",
+      "apresentacao": "Tablets 10mg and 25mg; intrathecal solution 0.05–2 mg/mL",
+      "interacaoMedicamento": "Potentiates CNS depressants, alcohol, opioids, benzodiazepines",
+      "posologia": "Start with 5 mg TID, increase gradually to max 80 mg/day (oral)",
+      "armazenamento": "Room temp; intrathecal solution refrigerated",
+      "preparo": "Oral tablets: direct use; intrathecal: pump infusion",
+      "solucoesCompatíveis": "0.9% saline (intrathecal)",
+      "contraindicacoes": "Peptic ulcer, uncontrolled epilepsy, hypersensitivity",
+      "cuidadosMedicos": "Avoid abrupt withdrawal; monitor renal function, sedation and mood changes",
+      "cuidadosFarmaceuticos": "Titrate slowly; adjust for renal impairment",
+      "cuidadosEnfermagem": "Monitor tone, respiratory status and cognition",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, NIH"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Baclofeno",
+      "suspension": "No suspender bruscamente – riesgo de síndrome de abstinencia grave",
+      "risk": "Depresión respiratoria, hipotensión, confusión, alucinaciones, convulsiones",
+      "reintroduction": "Reintroducir de forma gradual con monitoreo neurológico estrecho"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Baclofeno",
+      "nomeComercial": "Lioresal, Baclon",
+      "mecanismoAcao": "Agonista de receptores GABA-B; inhibe neurotransmisores excitatorios en médula espinal",
+      "farmacocinetica": "Inicio 30–60 min (VO), pico 2h, vida media 3–4h, excreción renal",
+      "farmacodinamica": "Reduce espasticidad inhibiendo reflejos medulares",
+      "indicacoes": "Espasticidad por EM, lesiones medulares, parálisis cerebral, ACV",
+      "reacoesAdversas": "Somnolencia, mareo, debilidad muscular, náuseas, confusión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche; usar con precaución",
+      "administracao": "Oral o intratecal",
+      "doseMaxima": "80 mg/día (oral); individualizada intratecal",
+      "doseMinima": "5 mg/día",
+      "classificacao": "Relajante muscular de acción central; agonista GABA-B",
+      "apresentacao": "Comprimidos 10mg, 25mg; solución intratecal 0,05–2 mg/mL",
+      "interacaoMedicamento": "Potencia efectos de depresores del SNC, opioides, benzodiacepinas",
+      "posologia": "Iniciar 5 mg 3 veces/día, ajustar gradualmente (máx 80 mg/día)",
+      "armazenamento": "Ambiente; solución intratecal refrigerada",
+      "preparo": "Uso directo oral; intratecal por bomba implantada",
+      "solucoesCompatíveis": "Solución salina 0,9% (intratecal)",
+      "contraindicacoes": "Úlcera activa, epilepsia no controlada, alergia",
+      "cuidadosMedicos": "Evitar suspensión brusca; controlar renal, cognición y tono",
+      "cuidadosFarmaceuticos": "Titulación lenta, ajuste renal",
+      "cuidadosEnfermagem": "Observar sedación, función respiratoria y cognición",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, Guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "巴克洛芬",
+      "suspension": "不可突然停药——慢性用药停药可引发戒断症状甚至癫痫",
+      "risk": "呼吸抑制、肌张力下降、嗜睡、认知障碍、癫痫",
+      "reintroduction": "需逐渐重新引入并进行神经系统监测"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "巴克洛芬",
+      "nomeComercial": "Lioresal, 巴氯芬注射液",
+      "mecanismoAcao": "GABA-B受体激动剂；抑制脊髓中兴奋性神经传导物质释放",
+      "farmacocinetica": "口服30–60分钟起效，2小时达峰，半衰期3–4小时，经肾排泄",
+      "farmacodinamica": "减少痉挛性肌张力，通过抑制单突触和多突触反射",
+      "indicacoes": "多发性硬化、脊髓损伤、脑瘫、脑卒中导致的痉挛",
+      "reacoesAdversas": "嗜睡、低血压、恶心、头晕、呼吸抑制、意识混乱",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可排入乳汁，需谨慎使用",
+      "administracao": "口服或鞘内（泵注）",
+      "doseMaxima": "每日80毫克（口服）；鞘内个体化",
+      "doseMinima": "每日5毫克",
+      "classificacao": "中枢性肌肉松弛剂，GABA-B激动剂",
+      "apresentacao": "片剂10mg、25mg；鞘内注射液0.05–2 mg/mL",
+      "interacaoMedicamento": "增强酒精、镇静药、阿片类、苯二氮䓬类的抑制作用",
+      "posologia": "初始5 mg，每日3次，逐渐加量至每日最大80 mg",
+      "armazenamento": "常温保存，鞘内液需冷藏",
+      "preparo": "口服片直接服用；鞘内经泵持续输注",
+      "solucoesCompatíveis": "0.9%生理盐水（鞘内）",
+      "contraindicacoes": "胃溃疡、癫痫不稳定、过敏史",
+      "cuidadosMedicos": "避免停药，监测肾功能、意识、痉挛控制",
+      "cuidadosFarmaceuticos": "缓慢加量，肾功能差者减量",
+      "cuidadosEnfermagem": "观察意识、肌张力、呼吸",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

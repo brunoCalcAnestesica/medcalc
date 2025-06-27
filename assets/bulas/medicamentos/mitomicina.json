@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Mitomicina C",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva em uso sistêmico; uso oftálmico pode ser mantido até 24h antes",
+      "risk": "Risco de mielossupressão, mucosite, toxicidade pulmonar, cistite hemorrágica, necrose tecidual local",
+      "reintroduction": "Reintroduzir após estabilização hematológica e recuperação de mucosas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mitomicina C",
+      "nomeComercial": "Mitomycin, MitoExtra",
+      "mecanismoAcao": "Antibiótico antitumoral que forma ligações cruzadas com DNA, inibindo síntese e proliferação celular",
+      "farmacocinetica": "IV/intratópica/intravesical; meia-vida ~50min; metabolismo hepático e tumoral",
+      "farmacodinamica": "Agente alquilante com efeito citotóxico potente em células hipoxêmicas",
+      "indicacoes": "Câncer de bexiga (intravesical), colorretal, esofágico, mama, uso oftálmico em cirurgias filtrantes",
+      "reacoesAdversas": "Mielossupressão, náuseas, mucosite, febre, cistite, fibrose pulmonar",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Intravenosa, intravesical ou tópica oftálmica",
+      "doseMaxima": "20mg/m² por dose (sistêmico); 40mg por instilação intravesical",
+      "doseMinima": "2mg tópica (cirurgia oftálmica)",
+      "classificacao": "Antibiótico antitumoral / agente alquilante",
+      "apresentacao": "Pó liofilizado para reconstituição 2mg, 10mg, 20mg",
+      "interacaoMedicamento": "Aumenta toxicidade com outros mielossupressores, radioterapia, cisplatina",
+      "posologia": "10–20mg/m² IV a cada 6 semanas; 40mg intravesical 1x/semana",
+      "armazenamento": "Refrigerado (2–8°C) ou temperatura ambiente protegido da luz, conforme formulação",
+      "preparo": "Reconstituir com água estéril ou SF; usar luvas, capela e proteção",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Mielossupressão grave, infecção ativa, gravidez, lactação",
+      "cuidadosMedicos": "Monitorar hemograma, função renal, hepática e sinais de infecção ou toxicidade pulmonar",
+      "cuidadosFarmaceuticos": "Verificar dose, reconstituição adequada e uso de EPI",
+      "cuidadosEnfermagem": "Observar reações locais, febre, mucosite e sintomas respiratórios",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, UpToDate, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mitomycin C",
+      "suspension": "Discontinue 7 days before surgery if used systemically; ophthalmic use may continue up to 24h pre-op",
+      "risk": "Myelosuppression, mucositis, pulmonary toxicity, cystitis, local tissue necrosis",
+      "reintroduction": "Restart after hematologic recovery and mucosal healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mitomycin C",
+      "nomeComercial": "Mitomycin, MitoExtra",
+      "mecanismoAcao": "Antitumor antibiotic that crosslinks DNA, inhibiting replication and cell proliferation",
+      "farmacocinetica": "IV/intravesical/topical; half-life ~50min; hepatic and tumor metabolism",
+      "farmacodinamica": "Cytotoxic alkylating agent effective in hypoxic tumor environments",
+      "indicacoes": "Bladder cancer (intravesical), GI malignancies, breast cancer, ophthalmic surgeries",
+      "reacoesAdversas": "Bone marrow suppression, nausea, mucositis, fever, cystitis, pulmonary fibrosis",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "IV, intravesical, topical (ophthalmic)",
+      "doseMaxima": "20mg/m² IV; 40mg intravesical",
+      "doseMinima": "2mg topical",
+      "classificacao": "Antitumor antibiotic / alkylating agent",
+      "apresentacao": "Lyophilized powder 2mg, 10mg, 20mg",
+      "interacaoMedicamento": "Enhanced toxicity with other myelosuppressants, radiation, cisplatin",
+      "posologia": "10–20mg/m² IV q6wk; 40mg intravesical weekly",
+      "armazenamento": "Fridge (2–8°C) or RT protected from light (per product)",
+      "preparo": "Reconstitute with sterile water or NS using protective equipment",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Severe myelosuppression, active infection, pregnancy, breastfeeding",
+      "cuidadosMedicos": "Monitor CBC, renal/liver function, pulmonary toxicity",
+      "cuidadosFarmaceuticos": "Ensure correct dose, PPE use, proper reconstitution",
+      "cuidadosEnfermagem": "Watch for local reaction, fever, mucositis, respiratory symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Mitomicina C",
+      "suspension": "Suspender 7 días antes de cirugía si se usa sistémicamente; uso oftálmico hasta 24h preoperatorio",
+      "risk": "Mielosupresión, mucositis, toxicidad pulmonar, cistitis, necrosis tisular local",
+      "reintroduction": "Reiniciar tras recuperación hematológica y mucosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mitomicina C",
+      "nomeComercial": "Mitomycin, MitoExtra",
+      "mecanismoAcao": "Antibiótico antitumoral que entrecruza el ADN, bloqueando proliferación celular",
+      "farmacocinetica": "IV/intravesical/tópico; vida media ~50min; metabolismo hepático/tumoral",
+      "farmacodinamica": "Alquilante citotóxico potente, activo en tumores hipóxicos",
+      "indicacoes": "Cáncer de vejiga (intravesical), gastrointestinal, mama, cirugía oftálmica",
+      "reacoesAdversas": "Supresión medular, náusea, mucositis, fiebre, cistitis, fibrosis pulmonar",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "IV, intravesical, tópica (oftálmica)",
+      "doseMaxima": "20mg/m² IV; 40mg intravesical",
+      "doseMinima": "2mg tópico",
+      "classificacao": "Antibiótico citotóxico / agente alquilante",
+      "apresentacao": "Polvo liofilizado 2mg, 10mg, 20mg",
+      "interacaoMedicamento": "Mayor toxicidad con otros mielosupresores, radioterapia, cisplatino",
+      "posologia": "10–20mg/m² IV c/6 semanas; 40mg intravesical semanal",
+      "armazenamento": "Refrigerado (2–8°C) o ambiente seco y oscuro",
+      "preparo": "Reconstituir con agua estéril o SSN usando protección",
+      "solucoesCompatíveis": "SSN 0,9%",
+      "contraindicacoes": "Mielosupresión grave, infección activa, embarazo, lactancia",
+      "cuidadosMedicos": "Monitorear hemograma, renal, hepático, toxicidad pulmonar",
+      "cuidadosFarmaceuticos": "Verificar dosis, EPIs, reconstitución segura",
+      "cuidadosEnfermagem": "Observar fiebre, mucositis, disnea, reacción local",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "丝裂霉素 C（Mitomycin C）",
+      "suspension": "系统用药者术前7天停用；眼科术用者可于术前24小时停用",
+      "risk": "骨髓抑制、黏膜炎、肺毒性、出血性膀胱炎、局部坏死",
+      "reintroduction": "待血象及黏膜恢复后可在肿瘤科指导下恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "丝裂霉素 C",
+      "nomeComercial": "Mitomycin、MitoExtra",
+      "mecanismoAcao": "抗肿瘤抗生素，可交联DNA双链，阻断复制与转录",
+      "farmacocinetica": "IV/膀胱内/眼部；半衰期约50分钟；肝脏及肿瘤内代谢",
+      "farmacodinamica": "在低氧环境下有效，具强细胞毒性",
+      "indicacoes": "膀胱癌（膀胱内灌注）、消化道肿瘤、乳腺癌、眼科术后抗瘢痕",
+      "reacoesAdversas": "骨髓抑制、恶心、口腔炎、发热、膀胱炎、肺纤维化",
+      "riscoGravidez": "D类 – 禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "静注、膀胱灌注、眼部局部使用",
+      "doseMaxima": "20mg/m²（IV）；40mg/次（膀胱内）",
+      "doseMinima": "2mg（眼部用量）",
+      "classificacao": "抗肿瘤抗生素 / 烷化剂",
+      "apresentacao": "冻干粉：2mg、10mg、20mg",
+      "interacaoMedicamento": "与放疗、顺铂及其他骨髓抑制药合用时毒性增强",
+      "posologia": "IV每6周10–20mg/m²；膀胱内每周40mg",
+      "armazenamento": "冷藏或避光常温保存（依据产品）",
+      "preparo": "使用无菌水或生理盐水溶解，注意防护",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "重度骨髓抑制、活动性感染、妊娠、哺乳",
+      "cuidadosMedicos": "监测血常规、肝肾功能、肺部毒性",
+      "cuidadosFarmaceuticos": "使用防护设备，确保正确配制",
+      "cuidadosEnfermagem": "注意局部反应、发热、呼吸异常及黏膜炎",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Semaglutida",
+      "suspension": "Suspender 21 dias antes de cirurgias com jejum prolongado ou risco de gastroparesia",
+      "risk": "Risco de náuseas, vômitos, retardo do esvaziamento gástrico, hipoglicemia (em uso combinado), pancreatite, colelitíase",
+      "reintroduction": "Reintroduzir após tolerância à dieta oral, sem náuseas persistentes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Semaglutida",
+      "nomeComercial": "Ozempic (diabetes), Wegovy (obesidade)",
+      "mecanismoAcao": "Agonista do receptor de GLP-1; aumenta secreção de insulina, reduz glucagon, retarda esvaziamento gástrico",
+      "farmacocinetica": "Meia-vida ~1 semana; administração semanal SC",
+      "farmacodinamica": "Melhora controle glicêmico e promove perda de peso significativa",
+      "indicacoes": "Diabetes tipo 2; obesidade com ou sem DM2",
+      "reacoesAdversas": "Náuseas, diarreia, constipação, pancreatite, colelitíase, hipoglicemia",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "Subcutânea 1x/semana (abdome, coxa ou braço)",
+      "doseMaxima": "2,4 mg/semana (Wegovy); 2,0 mg/semana (Ozempic)",
+      "doseMinima": "0,25 mg/semana (início)",
+      "classificacao": "Agonista de GLP-1",
+      "apresentacao": "Canetas preenchidas (0,25 a 2,4 mg)",
+      "interacaoMedicamento": "Pode retardar absorção de fármacos orais; cuidado com sulfonilureias/insulina",
+      "posologia": "Início 0,25 mg/sem; aumentar gradualmente até 2,4 mg",
+      "armazenamento": "2–8°C (fechada); <30°C até 56 dias após aberta",
+      "preparo": "Uso direto; não agitar ou congelar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, MEN2, carcinoma medular da tireoide",
+      "cuidadosMedicos": "Monitorar glicemia, peso, sintomas pancreáticos",
+      "cuidadosFarmaceuticos": "Ensinar escalonamento de dose, conservação e técnica",
+      "cuidadosEnfermagem": "Observar adesão, sintomas gastrointestinais, resposta clínica",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Medscape, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Semaglutide",
+      "suspension": "Hold 21 days before surgery due to delayed gastric emptying",
+      "risk": "GI symptoms, pancreatitis, gallstones, hypoglycemia (with insulin/SU)",
+      "reintroduction": "Restart after tolerance to oral intake"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Semaglutide",
+      "nomeComercial": "Ozempic (T2DM), Wegovy (obesity)",
+      "mecanismoAcao": "GLP-1 receptor agonist: enhances insulin, suppresses glucagon, slows gastric emptying",
+      "farmacocinetica": "T½ ~1 week; weekly SC dosing",
+      "farmacodinamica": "Improves glucose control and induces significant weight loss",
+      "indicacoes": "T2DM, obesity",
+      "reacoesAdversas": "Nausea, diarrhea, constipation, pancreatitis, gallstones",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Weekly SC injection (abdomen, thigh, upper arm)",
+      "doseMaxima": "2.4 mg/week (Wegovy); 2.0 mg/week (Ozempic)",
+      "doseMinima": "0.25 mg/week (start)",
+      "classificacao": "GLP-1 receptor agonist",
+      "apresentacao": "Prefilled pens (0.25 to 2.4 mg)",
+      "interacaoMedicamento": "Delays oral drug absorption; caution with insulin/sulfonylureas",
+      "posologia": "Start 0.25 mg/week; titrate to 2.4 mg",
+      "armazenamento": "2–8°C (unopened); ≤30°C for 56 days when in use",
+      "preparo": "Ready to use; do not shake or freeze",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, MEN2, MTC",
+      "cuidadosMedicos": "Monitor glucose, weight, pancreas",
+      "cuidadosFarmaceuticos": "Instruct on dose titration, handling",
+      "cuidadosEnfermagem": "Support adherence, monitor GI effects",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Semaglutida",
+      "suspension": "Suspender 21 dias antes de cirugía digestiva",
+      "risk": "Riesgo de náuseas, pancreatitis, cálculos biliares, hipoglucemia",
+      "reintroduction": "Reiniciar cuando se tolere la vía oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Semaglutida",
+      "nomeComercial": "Ozempic, Wegovy",
+      "mecanismoAcao": "Agonista GLP-1: estimula insulina, retrasa vaciamiento gástrico",
+      "farmacocinetica": "T½ ~7 días; SC semanal",
+      "farmacodinamica": "Reduce glucemia y peso corporal",
+      "indicacoes": "Diabetes tipo 2, obesidad",
+      "reacoesAdversas": "GI, pancreatitis, colelitiasis",
+      "riscoGravidez": "Categoría X",
+      "riscoLactacao": "No recomendada",
+      "administracao": "SC semanal",
+      "doseMaxima": "2,4 mg/semana",
+      "doseMinima": "0,25 mg/semana",
+      "classificacao": "Agonista GLP-1",
+      "apresentacao": "Plumas precargadas 0,25–2,4 mg",
+      "interacaoMedicamento": "Interfiere con absorción oral",
+      "posologia": "Iniciar 0,25 mg; subir progresivamente",
+      "armazenamento": "2–8°C; abierta ≤30°C por 56 días",
+      "preparo": "Lista para usar; no agitar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, pancreatitis, MEN2",
+      "cuidadosMedicos": "Monitoreo peso, glucosa, función pancreática",
+      "cuidadosFarmaceuticos": "Educar técnica, conservar adecuadamente",
+      "cuidadosEnfermagem": "Observar tolerancia digestiva y cumplimiento",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "司美鲁肽",
+      "suspension": "术前21天停用（因胃排空延迟）",
+      "risk": "胃肠道反应、胰腺炎、胆结石、低血糖",
+      "reintroduction": "术后恢复口服后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "司美鲁肽",
+      "nomeComercial": "Ozempic、Wegovy",
+      "mecanismoAcao": "GLP-1受体激动剂；增强胰岛素释放，延缓胃排空",
+      "farmacocinetica": "半衰期约7天；每周注射一次",
+      "farmacodinamica": "降血糖、减重",
+      "indicacoes": "2型糖尿病、肥胖",
+      "reacoesAdversas": "恶心、便秘、胰腺炎、胆囊问题",
+      "riscoGravidez": "X类 – 禁用",
+      "riscoLactacao": "不推荐",
+      "administracao": "皮下注射每周1次",
+      "doseMaxima": "2.4 mg/周",
+      "doseMinima": "0.25 mg/周",
+      "classificacao": "GLP-1激动剂",
+      "apresentacao": "预充注射笔 0.25–2.4 mg",
+      "interacaoMedicamento": "可能延缓口服药物吸收",
+      "posologia": "起始0.25 mg，逐渐加量至2.4 mg",
+      "armazenamento": "2–8°C冷藏；常温下56天内使用",
+      "preparo": "无需稀释，直接注射",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、MEN2、甲状腺癌史",
+      "cuidadosMedicos": "监测血糖、体重、胰腺功能",
+      "cuidadosFarmaceuticos": "指导注射、剂量调整、冷藏",
+      "cuidadosEnfermagem": "观察胃肠反应与依从性",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex"
+    }
+  }
+}

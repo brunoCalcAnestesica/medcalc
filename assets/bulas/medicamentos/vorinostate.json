@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vorinostate",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de trombocitopenia, prolongamento de QT, distúrbios gastrointestinais e interações com anestésicos e anticoagulantes",
+      "reintroduction": "Reintroduzir somente após recuperação hematológica e estabilização clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vorinostate",
+      "nomeComercial": "Zolinza",
+      "mecanismoAcao": "Inibidor da histona desacetilase (HDAC), promovendo acetilação da cromatina e regulação da expressão gênica",
+      "farmacocinetica": "Absorção oral rápida; Cmáx em 2h; meia-vida de ~2h; metabolização hepática via glucuronidação",
+      "farmacodinamica": "Induz parada do ciclo celular, diferenciação e apoptose em células malignas",
+      "indicacoes": "Linfoma cutâneo de células T (CTCL) refratário ou recorrente",
+      "reacoesAdversas": "Trombocitopenia, anemia, náusea, vômito, diarreia, fadiga, anorexia, QT prolongado",
+      "riscoGravidez": "Categoria D – contraindicado durante a gravidez",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "Via oral, uma ou duas vezes ao dia com alimentos leves",
+      "doseMaxima": "400 mg/dia",
+      "doseMinima": "200 mg/dia",
+      "classificacao": "Inibidor da histona desacetilase (HDACi)",
+      "apresentacao": "Cápsulas de 100 mg",
+      "interacaoMedicamento": "Evitar uso concomitante com anticoagulantes, antiarrítmicos, e QT-prolongadores",
+      "posologia": "400 mg/dia em dose única diária ou dividida, conforme tolerância",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não abrir cápsulas; engolir inteiras com líquido",
+      "solucoesCompatíveis": "Não aplicável – cápsula",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade ao vorinostate",
+      "cuidadosMedicos": "Monitorar hemograma, eletrólitos, ECG, função hepática",
+      "cuidadosFarmaceuticos": "Orientar adesão; armazenar em local seco; não fracionar",
+      "cuidadosEnfermagem": "Observar sinais de sangramento, fadiga, distúrbios gastrointestinais",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, NCCN Guidelines, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vorinostat",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of thrombocytopenia, QT prolongation, GI disturbances, and interactions with anesthetics and anticoagulants",
+      "reintroduction": "Reintroduce only after hematologic recovery and clinical stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vorinostat",
+      "nomeComercial": "Zolinza",
+      "mecanismoAcao": "Histone deacetylase inhibitor (HDACi) promoting chromatin acetylation and gene expression regulation",
+      "farmacocinetica": "Rapid oral absorption; Cmax in ~2h; half-life ~2h; hepatic metabolism via glucuronidation",
+      "farmacodinamica": "Induces cell cycle arrest, differentiation, and apoptosis in malignant cells",
+      "indicacoes": "Refractory or relapsed cutaneous T-cell lymphoma (CTCL)",
+      "reacoesAdversas": "Thrombocytopenia, anemia, nausea, vomiting, diarrhea, fatigue, anorexia, QT prolongation",
+      "riscoGravidez": "Category D – contraindicated during pregnancy",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Oral route, once or twice daily with food",
+      "doseMaxima": "400 mg/day",
+      "doseMinima": "200 mg/day",
+      "classificacao": "Histone deacetylase inhibitor (HDACi)",
+      "apresentacao": "Capsules of 100 mg",
+      "interacaoMedicamento": "Avoid with anticoagulants, antiarrhythmics, QT-prolonging drugs",
+      "posologia": "400 mg/day as single or divided dose, based on tolerance",
+      "armazenamento": "Store at room temperature, protect from moisture",
+      "preparo": "Do not open capsules; swallow whole with liquid",
+      "solucoesCompatíveis": "Not applicable – capsule",
+      "contraindicacoes": "Pregnancy, breastfeeding, hypersensitivity to vorinostat",
+      "cuidadosMedicos": "Monitor CBC, electrolytes, ECG, liver function",
+      "cuidadosFarmaceuticos": "Ensure adherence; store in dry place; do not crush capsules",
+      "cuidadosEnfermagem": "Watch for bleeding signs, GI symptoms, fatigue",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, NCCN Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vorinostat",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de trombocitopenia, prolongación del QT, efectos GI, e interacción con anestesia y anticoagulantes",
+      "reintroduction": "Reintroducir sólo tras recuperación hematológica y estabilización clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vorinostat",
+      "nomeComercial": "Zolinza",
+      "mecanismoAcao": "Inhibidor de histona desacetilasa (HDACi), promueve acetilación de cromatina y expresión génica",
+      "farmacocinetica": "Absorción oral rápida; Cmax ~2h; vida media ~2h; metabolismo hepático por glucuronidación",
+      "farmacodinamica": "Induce arresto celular, diferenciación y apoptosis en células malignas",
+      "indicacoes": "Linfoma cutáneo de células T (CTCL) refractario o recurrente",
+      "reacoesAdversas": "Trombocitopenia, anemia, náuseas, vómitos, diarrea, fatiga, anorexia, prolongación del QT",
+      "riscoGravidez": "Categoría D – contraindicado durante el embarazo",
+      "riscoLactacao": "Contraindicado durante la lactancia",
+      "administracao": "Vía oral, una o dos veces al día con alimentos",
+      "doseMaxima": "400 mg/día",
+      "doseMinima": "200 mg/día",
+      "classificacao": "Inhibidor de histona desacetilasa (HDACi)",
+      "apresentacao": "Cápsulas de 100 mg",
+      "interacaoMedicamento": "Evitar con anticoagulantes, antiarrítmicos y medicamentos que prolongan QT",
+      "posologia": "400 mg/día en dosis única o dividida según tolerancia",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "No abrir cápsulas; tragar enteras con líquido",
+      "solucoesCompatíveis": "No aplica – cápsula",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad a vorinostat",
+      "cuidadosMedicos": "Monitorear hemograma, electrolitos, ECG y función hepática",
+      "cuidadosFarmaceuticos": "Asegurar adherencia; conservar en lugar seco; no fraccionar",
+      "cuidadosEnfermagem": "Observar sangrado, síntomas GI y fatiga",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, Guías NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伏立诺他",
+      "suspension": "择期手术前停药5天",
+      "risk": "可能引起血小板减少、QT延长、胃肠道不适，与麻醉药和抗凝药物有相互作用",
+      "reintroduction": "术后待血液学恢复及临床稳定后再重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伏立诺他",
+      "nomeComercial": "Zolinza（佐林扎）",
+      "mecanismoAcao": "组蛋白去乙酰化酶抑制剂（HDACi），促进染色质乙酰化和基因表达调控",
+      "farmacocinetica": "口服吸收快，2小时达峰，半衰期约2小时，经肝脏葡萄糖醛酸化代谢",
+      "farmacodinamica": "诱导恶性细胞周期停滞、分化及凋亡",
+      "indicacoes": "复发或难治性皮肤T细胞淋巴瘤（CTCL）",
+      "reacoesAdversas": "血小板减少、贫血、恶心、呕吐、腹泻、乏力、食欲下降、QT间期延长",
+      "riscoGravidez": "D类 – 妊娠期禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服，每日一次或两次，随轻食服用",
+      "doseMaxima": "每日400毫克",
+      "doseMinima": "每日200毫克",
+      "classificacao": "组蛋白去乙酰化酶抑制剂（HDACi）",
+      "apresentacao": "胶囊：100毫克",
+      "interacaoMedicamento": "避免与抗凝药、抗心律失常药、延长QT的药物同用",
+      "posologia": "每日400毫克，可分次或单次服用，视耐受性而定",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "不可打开胶囊，整粒吞服",
+      "solucoesCompatíveis": "不适用 – 胶囊剂型",
+      "contraindicacoes": "妊娠、哺乳期、对本品过敏者",
+      "cuidadosMedicos": "监测血象、电解质、心电图及肝功能",
+      "cuidadosFarmaceuticos": "确保依从性；保持干燥；不可破碎胶囊",
+      "cuidadosEnfermagem": "注意出血、胃肠症状、疲劳表现",
+      "fontesBibliograficas": "FDA、EMA、中国药典、Micromedex、NCCN指南"
+    }
+  }
+}

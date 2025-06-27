@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fludarabina",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco elevado de imunossupressão, pancitopenia e infecção grave no pós-operatório",
+      "reintroduction": "Reintroduzir após recuperação hematológica e resolução de infecções"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fludarabina",
+      "nomeComercial": "Fludara",
+      "mecanismoAcao": "Análogo de nucleotídeo que inibe a síntese de DNA, RNA e proteínas, promovendo apoptose celular",
+      "farmacocinetica": "Biodisponibilidade oral de 50–60%; meia-vida terminal de 10 horas; excreção renal predominante",
+      "farmacodinamica": "Citotóxico seletivo para linfócitos B e T; ativo em fase S do ciclo celular",
+      "indicacoes": "Leucemia linfocítica crônica (LLC), linfomas não-Hodgkin, leucemias agudas refratárias",
+      "reacoesAdversas": "Mielossupressão, infecções oportunistas, neurotoxicidade, febre, náuseas, rash",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado durante a amamentação",
+      "administracao": "Intravenosa ou oral",
+      "doseMaxima": "40 mg/m²/dia",
+      "doseMinima": "25 mg/m²/dia",
+      "classificacao": "Antineoplásico – antimetabólito (análogo da purina)",
+      "apresentacao": "Solução injetável, comprimidos orais",
+      "interacaoMedicamento": "Interage com pentostatina (toxicidade pulmonar), citarabina, imunossupressores",
+      "posologia": "25–30 mg/m² IV por 5 dias consecutivos a cada 28 dias",
+      "armazenamento": "Solução: refrigerada (2–8°C); comprimidos: temperatura ambiente",
+      "preparo": "Diluir em SF 0,9% ou SG 5% para infusão IV",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Gravidez, lactação, insuficiência renal grave, infecção ativa, anemia hemolítica autoimune",
+      "cuidadosMedicos": "Monitorar hemograma, função renal, sinais neurológicos e infecciosos",
+      "cuidadosFarmaceuticos": "Reconstituir em capela de fluxo laminar; proteger da luz; uso de EPI obrigatório",
+      "cuidadosEnfermagem": "Avaliar sinais de toxicidade hematológica, aplicar precauções neutropênicas",
+      "fontesBibliograficas": "INCA, FDA, Micromedex, ANVISA, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fludarabine",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "High risk of immunosuppression, pancytopenia, and postoperative infection",
+      "reintroduction": "Restart only after hematologic recovery and infection resolution"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fludarabine",
+      "nomeComercial": "Fludara",
+      "mecanismoAcao": "Purine analog that inhibits DNA, RNA, and protein synthesis leading to apoptosis",
+      "farmacocinetica": "Oral bioavailability 50–60%; terminal half-life 10 h; predominantly renal excretion",
+      "farmacodinamica": "Selective cytotoxicity for B and T lymphocytes; active in S phase",
+      "indicacoes": "Chronic lymphocytic leukemia (CLL), non-Hodgkin lymphomas, refractory acute leukemias",
+      "reacoesAdversas": "Myelosuppression, opportunistic infections, neurotoxicity, fever, nausea, rash",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Intravenous or oral",
+      "doseMaxima": "40 mg/m²/day",
+      "doseMinima": "25 mg/m²/day",
+      "classificacao": "Antineoplastic – antimetabolite (purine analog)",
+      "apresentacao": "Injectable solution, oral tablets",
+      "interacaoMedicamento": "Interacts with pentostatin (pulmonary toxicity), cytarabine, immunosuppressants",
+      "posologia": "25–30 mg/m² IV for 5 consecutive days every 28 days",
+      "armazenamento": "Solution: refrigerated (2–8°C); tablets: room temperature",
+      "preparo": "Dilute in NS or D5W for IV infusion",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Pregnancy, breastfeeding, severe renal impairment, active infection, autoimmune hemolytic anemia",
+      "cuidadosMedicos": "Monitor CBC, renal function, neurological signs, and infections",
+      "cuidadosFarmaceuticos": "Reconstitute under laminar flow; protect from light; PPE required",
+      "cuidadosEnfermagem": "Assess for hematologic toxicity, apply neutropenic precautions",
+      "fontesBibliograficas": "FDA, Micromedex, NCCN, ASCO, AHFS"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fludarabina",
+      "suspension": "Suspender 7 días antes de la cirugía electiva",
+      "risk": "Alto riesgo de inmunosupresión, pancitopenia e infección postoperatoria",
+      "reintroduction": "Reintroducir tras recuperación hematológica y resolución de infecciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fludarabina",
+      "nomeComercial": "Fludara",
+      "mecanismoAcao": "Análogo de purina que inhibe la síntesis de ADN, ARN y proteínas, induciendo apoptosis",
+      "farmacocinetica": "Biodisponibilidad oral 50–60%; vida media terminal de 10 h; eliminación renal",
+      "farmacodinamica": "Citotoxicidad selectiva para linfocitos B y T; activa en fase S",
+      "indicacoes": "Leucemia linfocítica crónica, linfomas no Hodgkin, leucemias agudas refractarias",
+      "reacoesAdversas": "Mielosupresión, infecciones oportunistas, neurotoxicidad, fiebre, náuseas, exantema",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante la lactancia",
+      "administracao": "Intravenosa u oral",
+      "doseMaxima": "40 mg/m²/día",
+      "doseMinima": "25 mg/m²/día",
+      "classificacao": "Antineoplásico – antimetabolito (análogo de purina)",
+      "apresentacao": "Solución inyectable, comprimidos orales",
+      "interacaoMedicamento": "Interacción con pentostatina, citarabina e inmunosupresores",
+      "posologia": "25–30 mg/m² IV durante 5 días consecutivos cada 28 días",
+      "armazenamento": "Solución refrigerada (2–8°C); comprimidos a temperatura ambiente",
+      "preparo": "Diluir en SF 0,9% o SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Embarazo, lactancia, insuficiencia renal grave, infección activa, anemia hemolítica autoinmune",
+      "cuidadosMedicos": "Monitorear hemograma, función renal y signos neurológicos e infecciosos",
+      "cuidadosFarmaceuticos": "Preparar bajo flujo laminar, proteger de la luz, usar equipo de protección",
+      "cuidadosEnfermagem": "Vigilar toxicidad hematológica, aplicar precauciones neutropénicas",
+      "fontesBibliograficas": "ANMAT, FDA, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氟达拉滨",
+      "suspension": "择期手术前7天停药",
+      "risk": "高度免疫抑制、全血细胞减少及术后感染风险",
+      "reintroduction": "血象恢复正常且感染消退后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氟达拉滨",
+      "nomeComercial": "福达拉, Fludara",
+      "mecanismoAcao": "嘌呤类似物，抑制DNA、RNA及蛋白质合成，引起细胞凋亡",
+      "farmacocinetica": "口服生物利用度50–60%；终末半衰期10小时；主要肾脏排泄",
+      "farmacodinamica": "选择性杀伤B和T淋巴细胞；在S期作用最强",
+      "indicacoes": "慢性淋巴细胞白血病、非霍奇金淋巴瘤、难治性急性白血病",
+      "reacoesAdversas": "骨髓抑制、机会性感染、神经毒性、发热、恶心、皮疹",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉或口服",
+      "doseMaxima": "每日40 mg/m²",
+      "doseMinima": "每日25 mg/m²",
+      "classificacao": "抗肿瘤药 – 抗代谢药（嘌呤类似物）",
+      "apresentacao": "注射液，口服片剂",
+      "interacaoMedicamento": "与戊脱氧腺苷、阿糖胞苷、免疫抑制剂等药物有协同毒性",
+      "posologia": "每28天一个周期，IV 25–30 mg/m²，连用5天",
+      "armazenamento": "注射液冷藏（2–8°C），片剂常温保存",
+      "preparo": "用NS或D5W稀释",
+      "solucoesCompatíveis": "NS，D5W",
+      "contraindicacoes": "妊娠、哺乳、严重肾功能障碍、活动性感染、自身免疫性溶血性贫血",
+      "cuidadosMedicos": "监测血常规、肾功能、神经症状与感染表现",
+      "cuidadosFarmaceuticos": "层流下配药，避光保存，穿戴防护设备",
+      "cuidadosEnfermagem": "观察血液毒性表现，实施中性粒细胞防护措施",
+      "fontesBibliograficas": "中国药典, FDA, Micromedex, NCCN"
+    }
+  }
+}

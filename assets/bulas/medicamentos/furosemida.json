@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Furosemida",
+      "suspension": "Manter até o dia da cirurgia, exceto se risco de hipovolemia ou distúrbios eletrolíticos",
+      "risk": "Risco de hipocalemia, hipomagnesemia, desidratação e instabilidade hemodinâmica",
+      "reintroduction": "Reintroduzir após reavaliação volêmica e eletrolítica no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Furosemida",
+      "nomeComercial": "Lasix, Neosemid, Diurix",
+      "mecanismoAcao": "Inibe o cotransportador Na⁺/K⁺/2Cl⁻ na alça de Henle, promovendo diurese potente",
+      "farmacocinetica": "Início rápido por via EV (5 min), VO (30–60 min), excreção renal, meia-vida de 1–2h",
+      "farmacodinamica": "Reduz volemia, pressão arterial e congestão por diurese",
+      "indicacoes": "Edema por insuficiência cardíaca, hepática ou renal; hipertensão resistente; urgência hipertensiva",
+      "reacoesAdversas": "Hipocalemia, hipotensão, alcalose metabólica, ototoxicidade, hipomagnesemia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretada no leite; uso com cautela",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "600mg/dia (em insuficiência renal refratária)",
+      "doseMinima": "20mg/dia",
+      "classificacao": "Diurético de alça",
+      "apresentacao": "Comprimidos 40mg; ampola 10mg/mL",
+      "interacaoMedicamento": "Aumenta toxicidade de aminoglicosídeos, risco de hipocalemia com corticosteroides, interação com digoxina",
+      "posologia": "Ajustada conforme resposta diurética e função renal",
+      "armazenamento": "Temperatura ambiente, proteger da luz",
+      "preparo": "Diluir ampola em solução fisiológica se infusão lenta for necessária",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%",
+      "contraindicacoes": "Anúria, hipocalemia grave, alergia à sulfa",
+      "cuidadosMedicos": "Monitorar eletrólitos, função renal e pressão arterial",
+      "cuidadosFarmaceuticos": "Observar sinais de desidratação, orientar sobre ingestão de líquidos e dieta rica em potássio",
+      "cuidadosEnfermagem": "Avaliar diurese, sinais vitais, eletrólitos e peso diário",
+      "fontesBibliograficas": "SBH, Micromedex, FDA, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Furosemide",
+      "suspension": "Continue until surgery unless risk of hypovolemia or electrolyte imbalance",
+      "risk": "Risk of hypokalemia, hypomagnesemia, dehydration, and hemodynamic instability",
+      "reintroduction": "Restart after assessing volume status and electrolytes postoperatively"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Furosemide",
+      "nomeComercial": "Lasix",
+      "mecanismoAcao": "Inhibits Na⁺/K⁺/2Cl⁻ cotransporter in the loop of Henle, causing potent diuresis",
+      "farmacocinetica": "Rapid onset IV (5 min), oral (30–60 min), renal excretion, half-life 1–2h",
+      "farmacodinamica": "Reduces blood volume, BP, and congestion via diuresis",
+      "indicacoes": "Edema from heart failure, liver or renal disease; resistant hypertension; hypertensive emergencies",
+      "reacoesAdversas": "Hypokalemia, hypotension, metabolic alkalosis, ototoxicity, hypomagnesemia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; use with caution",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "600mg/day (in refractory renal failure)",
+      "doseMinima": "20mg/day",
+      "classificacao": "Loop diuretic",
+      "apresentacao": "Tablets 40mg; injection 10mg/mL",
+      "interacaoMedicamento": "Increases aminoglycoside toxicity, interacts with corticosteroids and digoxin",
+      "posologia": "Adjust according to diuretic response and renal function",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Dilute ampoule in saline if slow infusion is needed",
+      "solucoesCompatíveis": "0.9% Sodium chloride",
+      "contraindicacoes": "Anuria, severe hypokalemia, sulfa allergy",
+      "cuidadosMedicos": "Monitor electrolytes, renal function, and BP",
+      "cuidadosFarmaceuticos": "Watch for dehydration signs, advise on fluid intake and potassium-rich diet",
+      "cuidadosEnfermagem": "Monitor urine output, vital signs, electrolytes, and daily weight",
+      "fontesBibliograficas": "FDA, Micromedex, AHA guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Furosemida",
+      "suspension": "Mantener hasta el día de la cirugía salvo riesgo de hipovolemia",
+      "risk": "Riesgo de hipopotasemia, hipomagnesemia, deshidratación e inestabilidad hemodinámica",
+      "reintroduction": "Reintroducir según balance hídrico y electrolitos en el postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Furosemida",
+      "nomeComercial": "Lasix, Seguril",
+      "mecanismoAcao": "Inhibe el cotransportador Na⁺/K⁺/2Cl⁻ en el asa de Henle",
+      "farmacocinetica": "Inicio rápido IV (5 min), VO (30–60 min), excreción renal, semivida 1–2h",
+      "farmacodinamica": "Reduce la volemia y presión mediante diuresis intensa",
+      "indicacoes": "Edema cardíaco, renal, hepático; hipertensión resistente; crisis hipertensiva",
+      "reacoesAdversas": "Hipopotasemia, hipotensión, alcalosis, ototoxicidad, hipomagnesemia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche materna; usar con precaución",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "600mg/día (en IR refractaria)",
+      "doseMinima": "20mg/día",
+      "classificacao": "Diurético de asa",
+      "apresentacao": "Comprimidos 40mg, ampollas 10mg/mL",
+      "interacaoMedicamento": "Aumenta toxicidad de aminoglucósidos, interacción con corticosteroides y digoxina",
+      "posologia": "Ajustada según respuesta y función renal",
+      "armazenamento": "Temperatura ambiente, proteger de la luz",
+      "preparo": "Diluir en suero fisiológico si se requiere infusión lenta",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%",
+      "contraindicacoes": "Anuria, hipopotasemia grave, alergia a sulfas",
+      "cuidadosMedicos": "Monitorizar electrolitos, función renal y presión",
+      "cuidadosFarmaceuticos": "Observar signos de deshidratación, educar sobre dieta rica en potasio",
+      "cuidadosEnfermagem": "Valorar diuresis, signos vitales, electrolitos y peso diario",
+      "fontesBibliograficas": "Micromedex, FDA, guías latinoamericanas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "呋塞米",
+      "suspension": "除非存在低血容量或电解质失衡风险，否则术前继续使用",
+      "risk": "低钾血症、低镁血症、脱水和血流动力学不稳定",
+      "reintroduction": "术后根据体液和电解质情况重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "呋塞米",
+      "nomeComercial": "速尿（Lasix）",
+      "mecanismoAcao": "抑制亨利袢Na⁺/K⁺/2Cl⁻共转运体，强力利尿",
+      "farmacocinetica": "IV起效快（5分钟），口服（30–60分钟），肾脏排泄，半衰期1–2小时",
+      "farmacodinamica": "通过强效利尿减少容量、血压与充血",
+      "indicacoes": "心、肝、肾源性水肿；顽固性高血压；高血压危象",
+      "reacoesAdversas": "低钾、低镁、低血压、代谢性碱中毒、耳毒性",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，慎用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日600毫克（难治性肾衰）",
+      "doseMinima": "每日20毫克",
+      "classificacao": "袢利尿剂",
+      "apresentacao": "片剂40mg，注射液10mg/mL",
+      "interacaoMedicamento": "增强氨基糖苷毒性，与糖皮质激素和地高辛相互作用",
+      "posologia": "根据利尿反应与肾功能调整剂量",
+      "armazenamento": "室温避光保存",
+      "preparo": "慢速输注时可稀释于生理盐水",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "无尿、重度低钾、磺胺过敏",
+      "cuidadosMedicos": "监测电解质、肾功能和血压",
+      "cuidadosFarmaceuticos": "关注脱水迹象，建议富钾饮食与液体摄入",
+      "cuidadosEnfermagem": "监测尿量、生命体征、电解质与体重",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

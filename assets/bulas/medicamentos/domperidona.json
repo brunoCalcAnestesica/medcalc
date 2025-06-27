@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Domperidona",
+      "suspension": "Suspender 48 horas antes de cirurgias de médio ou grande porte com risco cardíaco ou distúrbios eletrolíticos",
+      "risk": "Prolongamento do intervalo QT, arritmias ventriculares, interação com anestésicos e risco aumentado em idosos e pacientes com hipocalemia",
+      "reintroduction": "Reintroduzir no pós-operatório apenas após ECG normal e reposição eletrolítica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Domperidona maleato",
+      "nomeComercial": "Motilium, Peridal, Domperix",
+      "mecanismoAcao": "Antagonista seletivo dos receptores dopaminérgicos D2 na zona gatilho da quimiorreceptora e no trato gastrointestinal; promove aumento da motilidade gástrica sem efeitos colaterais extrapiramidais significativos",
+      "farmacocinetica": "Absorção oral rápida; biodisponibilidade ~15% (primeira passagem hepática); meia-vida ~7h; metabolização hepática (CYP3A4); excreção fecal e urinária",
+      "farmacodinamica": "Aumenta esvaziamento gástrico e pressão do esfíncter esofágico inferior; reduz refluxo e náuseas",
+      "indicacoes": "Náuseas, vômitos de diversas etiologias, gastroparesia, refluxo gastroesofágico, plenitude pós-prandial",
+      "reacoesAdversas": "Cefaleia, sonolência, boca seca, galactorreia, ginecomastia, distúrbios menstruais, prolongamento de QT",
+      "riscoGravidez": "Categoria C – uso se benefício superar risco",
+      "riscoLactacao": "Evitar uso contínuo; pequenas quantidades excretadas no leite",
+      "administracao": "Oral (comprimidos, gotas, suspensão) ou retal (supositórios)",
+      "doseMaxima": "30mg/dia em adultos; 3 doses de 10mg",
+      "doseMinima": "2,5mg por dose (pediátrico)",
+      "classificacao": "Antiemético e procinético periférico",
+      "apresentacao": "Comprimidos 10mg; suspensão 1mg/mL; gotas 1mg/mL; supositórios pediátricos",
+      "interacaoMedicamento": "Contraindicado com cetoconazol, eritromicina, fluconazol, amiodarona; risco aumentado de arritmias fatais",
+      "posologia": "10mg VO 3x/dia, 15–30 minutos antes das refeições por até 1 semana; crianças: 0,25–0,5mg/kg/dose",
+      "armazenamento": "Temperatura ambiente; suspensão: usar até 30 dias após abertura",
+      "preparo": "Uso direto; gotas e suspensão devem ser agitadas antes do uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "QT prolongado, uso concomitante com inibidores de CYP3A4, prolactinoma, hemorragia ou obstrução GI",
+      "cuidadosMedicos": "ECG pré-tratamento em idosos e cardiopatas; evitar uso prolongado sem reavaliação",
+      "cuidadosFarmaceuticos": "Atenção às interações medicamentosas e risco cardíaco; orientar sobre sintomas de toxicidade",
+      "cuidadosEnfermagem": "Monitorar ritmo cardíaco, eficácia no controle de náuseas e vômitos, e sinais de efeitos endócrinos",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, UpToDate, Micromedex, Lexicomp"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Domperidone",
+      "suspension": "Hold 48h before elective surgery with cardiac/electrolyte risk",
+      "risk": "QT prolongation, serious ventricular arrhythmias, drug interactions (CYP3A4), high risk in elderly or hypokalemia",
+      "reintroduction": "Restart post-op only with cardiac monitoring and electrolyte correction"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Domperidone maleate",
+      "nomeComercial": "Motilium (not FDA-approved)",
+      "mecanismoAcao": "Peripheral D2 dopamine receptor antagonist that enhances gastric motility and suppresses nausea via chemoreceptor trigger zone inhibition",
+      "farmacocinetica": "Oral absorption rapid; bioavailability ~15%; t½ ~7h; hepatic metabolism (CYP3A4); excretion fecal > urine",
+      "farmacodinamica": "Promotes gastric emptying and esophageal motility, inhibits nausea without CNS side effects due to poor BBB penetration",
+      "indicacoes": "Gastroparesis, nausea/vomiting, reflux-related dyspepsia",
+      "reacoesAdversas": "Headache, dry mouth, QT prolongation, gynecomastia, menstrual irregularities",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid if prolonged use",
+      "administracao": "Oral (tablet, suspension) or rectal (suppository)",
+      "doseMaxima": "30mg/day in adults",
+      "doseMinima": "2.5mg/dose (pediatric)",
+      "classificacao": "Peripheral dopamine antagonist (prokinetic/antiemetic)",
+      "apresentacao": "10mg tablets; 1mg/mL suspension; pediatric suppositories",
+      "interacaoMedicamento": "Major: ketoconazole, erythromycin, amiodarone (↑ QT); moderate with SSRIs and macrolides",
+      "posologia": "10mg PO TID before meals; children: 0.25–0.5mg/kg/dose",
+      "armazenamento": "Room temp; suspension good for 30 days after opening",
+      "preparo": "Shake well before oral use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Known QT prolongation, severe liver disease, prolactin-secreting tumor, mechanical GI obstruction",
+      "cuidadosMedicos": "Pre-treatment ECG in elderly and cardiac patients; avoid long-term without reassessment",
+      "cuidadosFarmaceuticos": "Monitor for QT effects; patient education on side effects",
+      "cuidadosEnfermagem": "Check ECG, nausea relief, prolactin-related effects",
+      "fontesBibliograficas": "FDA, Health Canada, UpToDate, Micromedex, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Domperidona",
+      "suspension": "Suspender 48 horas antes de cirugía con riesgo cardíaco o desequilibrio electrolítico",
+      "risk": "Prolongación QT, arritmias graves, interacción con anestésicos y riesgo aumentado con hipopotasemia o en ancianos",
+      "reintroduction": "Reintroducir tras ECG normal y corrección de electrolitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Domperidona maleato",
+      "nomeComercial": "Motilium, Peridal",
+      "mecanismoAcao": "Antagonista de receptores dopaminérgicos D2 periféricos, aumenta motilidad gástrica y actúa en la zona gatillo quimiorreceptora",
+      "farmacocinetica": "Absorción oral rápida; biodisponibilidad 15%; vida media 7h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Mejora el vaciamiento gástrico y el tono del esfínter esofágico inferior; reduce náuseas",
+      "indicacoes": "Náuseas, vómitos, dispepsia funcional, gastroparesia, reflujo gastroesofágico",
+      "reacoesAdversas": "Cefalea, sequedad bucal, somnolencia, galactorrea, arritmias, hiperprolactinemia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar uso prolongado",
+      "administracao": "Oral (tabletas, suspensión) o rectal (supositorios)",
+      "doseMaxima": "30mg/día",
+      "doseMinima": "2,5mg/dosis (niños)",
+      "classificacao": "Antiemético procinético periférico",
+      "apresentacao": "Comprimidos 10mg; suspensión 1mg/mL; supositorios pediátricos",
+      "interacaoMedicamento": "Contraindicado con ketoconazol, eritromicina, fluconazol; aumenta riesgo de arritmias",
+      "posologia": "10mg cada 8h antes de comidas; niños: 0,25–0,5mg/kg/dosis",
+      "armazenamento": "Temperatura ambiente; suspensión: usar en 30 días",
+      "preparo": "Uso directo; agitar suspensión antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Prolongación QT, obstrucción gastrointestinal, prolactinoma",
+      "cuidadosMedicos": "Control ECG en ancianos; evitar uso prolongado",
+      "cuidadosFarmaceuticos": "Advertir sobre interacciones medicamentosas y síntomas de alerta",
+      "cuidadosEnfermagem": "Monitorear frecuencia cardíaca y respuesta a tratamiento",
+      "fontesBibliograficas": "Micromedex, EMA, Lexicomp, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "多潘立酮",
+      "suspension": "中大手术前48小时停药，尤其心律异常或电解质紊乱患者",
+      "risk": "QT延长、心律失常、高龄及低钾血症者风险增加，与麻醉药物相互作用",
+      "reintroduction": "术后电解质及心电图恢复正常后再使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多潘立酮",
+      "nomeComercial": "Motilium",
+      "mecanismoAcao": "选择性外周D2受体拮抗剂，增强胃肠动力并抑制催吐区",
+      "farmacocinetica": "口服吸收快，生物利用度~15%；半衰期7小时；肝脏CYP3A4代谢",
+      "farmacodinamica": "促进胃排空、抗恶心作用，不穿透血脑屏障",
+      "indicacoes": "恶心、呕吐、胃动力障碍、胃食管反流、术后胃麻痹",
+      "reacoesAdversas": "头痛、嗜睡、乳溢、QT延长、月经紊乱、心悸",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "慎用",
+      "administracao": "口服或直肠给药",
+      "doseMaxima": "每日30毫克",
+      "doseMinima": "每次2.5毫克（儿童）",
+      "classificacao": "外周性多巴胺拮抗剂",
+      "apresentacao": "片剂10mg、口服液1mg/mL、儿童栓剂",
+      "interacaoMedicamento": "与酮康唑、红霉素、氟康唑等同用可引起致命性心律失常",
+      "posologia": "成人：10mg，每日3次，饭前服；儿童按体重0.25–0.5mg/kg/次",
+      "armazenamento": "室温干燥保存；混悬液开封后30天内使用",
+      "preparo": "直接口服，服用前摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "QT延长、肠梗阻、垂体泌乳素瘤、CYP3A4抑制剂共用",
+      "cuidadosMedicos": "术前术后监测心电图和电解质",
+      "cuidadosFarmaceuticos": "警告QT延长风险，避免高风险药物联用",
+      "cuidadosEnfermagem": "观察心率变化、乳腺变化、胃肠反应",
+      "fontesBibliograficas": "中国药典、Micromedex、WHO、Lexicomp"
+    }
+  }
+}

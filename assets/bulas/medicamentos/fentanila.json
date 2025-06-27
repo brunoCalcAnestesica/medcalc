@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fentanila",
+      "suspension": "Suspender 24h antes da cirurgia eletiva em caso de uso transdérmico crônico; manter sob monitoramento se uso intraoperatório",
+      "risk": "Risco de depressão respiratória, rigidez torácica, bradicardia e interação grave com anestésicos, benzodiazepínicos e IMAO",
+      "reintroduction": "Reintroduzir no pós-operatório imediato se necessário, com monitoramento contínuo de ventilação e sedação"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fentanila",
+      "nomeComercial": "Durogesic, Duragesic, Sublimaze, Fentora, Actiq, Abstral",
+      "mecanismoAcao": "Agonista µ-opioide potente, com início de ação rápido e alta lipossolubilidade; promove analgesia, sedação e depressão respiratória",
+      "farmacocinetica": "Início IV: 1–2min; duração: 30–60min; metabolização hepática (CYP3A4); transdérmico: ação prolongada (72h)",
+      "farmacodinamica": "Analgésico de alta potência, utilizado em dor aguda, crônica e anestesia; atua em receptores opioides no SNC e no trato gastrointestinal",
+      "indicacoes": "Dor crônica intensa, dor aguda perioperatória, sedação em UTI, anestesia geral, procedimentos dolorosos",
+      "reacoesAdversas": "Depressão respiratória, bradicardia, hipotensão, náusea, vômito, rigidez muscular, tolerância, dependência",
+      "riscoGravidez": "Categoria C (uso com cautela)",
+      "riscoLactacao": "Excretado no leite materno; suspender amamentação após uso prolongado ou em altas doses",
+      "administracao": "Intravenosa, transdérmica, transmucosa (oral/nasal), sublingual",
+      "doseMaxima": "Variável conforme via e uso; IV bolus: 2–10mcg/kg; transdérmico: 100mcg/h",
+      "doseMinima": "IV: 0,5–1mcg/kg; transdérmico: 12mcg/h",
+      "classificacao": "Opioide agonista µ de alta potência",
+      "apresentacao": "Ampolas IV, adesivos transdérmicos, comprimidos sublinguais e bucais, pastilhas orais, spray nasal",
+      "interacaoMedicamento": "Interage com benzodiazepínicos, anestésicos, álcool, IMAOs, ISRS, IRSN e inibidores do CYP3A4",
+      "posologia": "IV: 1–2mcg/kg/dose; transdérmico: substituir opioide oral com dose equivalente e iniciar com adesivo de 12–100mcg/h",
+      "armazenamento": "Temperatura ambiente, protegido da luz e calor",
+      "preparo": "Usar bombas de infusão em administração contínua; adesivos devem ser aplicados em pele limpa, não irritada",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%, compatível com midazolam, propofol (evitar misturas)",
+      "contraindicacoes": "Depressão respiratória grave, obstrução intestinal, hipersensibilidade, uso com IMAO nos últimos 14 dias",
+      "cuidadosMedicos": "Monitorar ventilação, sedação, sinais vitais, risco de dependência e tolerância",
+      "cuidadosFarmaceuticos": "Checar histórico de opioides, orientar sobre descarte de adesivos e evitar calor externo sobre adesivo",
+      "cuidadosEnfermagem": "Observar FR, SpO2, dor, sedação, confusão, retenção urinária e constipação",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, Lexicomp, SBED, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fentanyl",
+      "suspension": "Discontinue 24h prior to elective surgery if on chronic transdermal therapy; monitor closely if used intraoperatively",
+      "risk": "Risk of respiratory depression, chest wall rigidity, bradycardia, and serious interaction with anesthetics and CNS depressants",
+      "reintroduction": "Reintroduce postoperatively as needed under respiratory and sedation monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fentanyl Citrate",
+      "nomeComercial": "Duragesic, Sublimaze, Actiq, Fentora, Lazanda",
+      "mecanismoAcao": "Potent µ-opioid receptor agonist; highly lipophilic with rapid onset and short duration",
+      "farmacocinetica": "IV onset: 1–2min; duration: 30–60min; transdermal: onset 12–24h, duration ~72h; hepatic metabolism (CYP3A4)",
+      "farmacodinamica": "Used in anesthesia, severe pain, and palliative care; risk of tolerance, dependence, and overdose",
+      "indicacoes": "Severe chronic pain, perioperative analgesia, procedural sedation, ICU sedation",
+      "reacoesAdversas": "Respiratory depression, bradycardia, hypotension, nausea, vomiting, muscle rigidity, dependence",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; avoid high doses in nursing mothers",
+      "administracao": "IV, transdermal, transmucosal, sublingual, intranasal",
+      "doseMaxima": "IV: 10mcg/kg; transdermal: 100mcg/h",
+      "doseMinima": "IV: 0.5–1mcg/kg; patch: 12mcg/h",
+      "classificacao": "Potent µ-opioid agonist",
+      "apresentacao": "Ampules, patches, lozenges, buccal tablets, nasal sprays",
+      "interacaoMedicamento": "Interacts with benzodiazepines, anesthetics, alcohol, CYP3A4 inhibitors, MAOIs, serotonergic drugs",
+      "posologia": "IV: 1–2mcg/kg/dose; patch: 12–100mcg/h every 72h",
+      "armazenamento": "Store at room temp, protect from light",
+      "preparo": "Infuse via syringe pump; apply patch on intact skin only",
+      "solucoesCompatíveis": "NS, D5W; compatible with midazolam (not to mix directly)",
+      "contraindicacoes": "Severe respiratory depression, paralytic ileus, recent MAOI use, known hypersensitivity",
+      "cuidadosMedicos": "Monitor ventilation, consciousness, vitals, ECG; avoid abrupt withdrawal",
+      "cuidadosFarmaceuticos": "Educate on patch safety, discard properly, avoid heat exposure",
+      "cuidadosEnfermagem": "Check RR, SpO2, sedation, pain, patch site, GI effects",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, ASA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fentanilo",
+      "suspension": "Suspender 24h antes de cirugía electiva si se usa parche crónicamente; vigilar si se administra intraoperatoriamente",
+      "risk": "Riesgo de depresión respiratoria, rigidez torácica, bradicardia e interacción con anestésicos, benzodiacepinas e ISRS",
+      "reintroduction": "Reintroducir después de cirugía bajo monitorización respiratoria y sedación"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Citrato de Fentanilo",
+      "nomeComercial": "Duragesic, Durogesic, Sublimaze, Actiq, Abstral",
+      "mecanismoAcao": "Agonista µ-opioide potente; lipofílico, inicio rápido y duración corta",
+      "farmacocinetica": "Inicio IV: 1–2min; duración: 30–60min; transdérmico: inicio 12–24h, duración ~72h; metabolizado por CYP3A4",
+      "farmacodinamica": "Utilizado en anestesia, dolor intenso, cuidados paliativos; alto riesgo de tolerancia y dependencia",
+      "indicacoes": "Dolor crónico intenso, analgesia perioperatoria, sedación en UCI, anestesia",
+      "reacoesAdversas": "Depresión respiratoria, náuseas, vómitos, hipotensión, rigidez muscular, dependencia, bradicardia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche materna; evitar en dosis altas o uso prolongado",
+      "administracao": "IV, transdérmica, transmucosa, sublingual, nasal",
+      "doseMaxima": "IV: 10mcg/kg; parche: 100mcg/h",
+      "doseMinima": "IV: 0.5–1mcg/kg; parche: 12mcg/h",
+      "classificacao": "Agonista µ opioide potente",
+      "apresentacao": "Ampollas IV, parches, comprimidos bucales, pastillas, spray nasal",
+      "interacaoMedicamento": "Interacciones con benzodiacepinas, anestésicos, alcohol, ISRS, IMAO, inhibidores del CYP3A4",
+      "posologia": "IV: 1–2mcg/kg/dosis; parche: 12–100mcg/h cada 72h",
+      "armazenamento": "15–30°C, protegido de luz",
+      "preparo": "Bombas de infusión para uso continuo; aplicar parches en piel intacta",
+      "solucoesCompatíveis": "SF 0.9%, SG 5%, compatible con midazolam (no mezclar directamente)",
+      "contraindicacoes": "Depresión respiratoria grave, íleo paralítico, uso reciente de IMAO",
+      "cuidadosMedicos": "Vigilar ventilación, ECG, conciencia, síntomas autonómicos",
+      "cuidadosFarmaceuticos": "Instruir sobre manejo seguro del parche, evitar calor externo, no desechar en basura común",
+      "cuidadosEnfermagem": "Evaluar FR, dolor, nivel de consciencia, efectos digestivos",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "芬太尼",
+      "suspension": "术前24小时停用慢性透皮贴剂；术中使用需持续监测",
+      "risk": "可能引发呼吸抑制、胸肌僵硬、心动过缓，与麻醉剂和中枢抑制剂交互作用显著",
+      "reintroduction": "术后如需重新使用，应监测呼吸和镇静程度"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "芬太尼",
+      "nomeComercial": "杜冷丁, Duragesic, Sublimaze, 芬塔, Actiq",
+      "mecanismoAcao": "强效μ-阿片受体激动剂，脂溶性强，起效快，持续时间短",
+      "farmacocinetica": "IV起效1–2分钟；持续30–60分钟；透皮起效12–24小时，持续约72小时；CYP3A4代谢",
+      "farmacodinamica": "用于麻醉、严重疼痛和姑息治疗；依赖性强，过量风险高",
+      "indicacoes": "重度慢性疼痛、术后镇痛、ICU镇静、麻醉诱导",
+      "reacoesAdversas": "呼吸抑制、心动过缓、低血压、恶心、呕吐、肌肉僵直、依赖性",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌至乳汁，避免哺乳期使用高剂量",
+      "administracao": "静脉注射、透皮、口腔黏膜、舌下、鼻喷",
+      "doseMaxima": "IV最大10mcg/kg；透皮100mcg/h",
+      "doseMinima": "IV 0.5–1mcg/kg；透皮12mcg/h",
+      "classificacao": "μ阿片受体激动剂（强效）",
+      "apresentacao": "注射液、透皮贴剂、口服片、鼻喷、口含片",
+      "interacaoMedicamento": "与苯二氮䓬类、麻醉剂、酒精、MAOI、CYP3A4抑制剂有显著交互作用",
+      "posologia": "IV剂量：1–2mcg/kg；透皮：12–100mcg/h每72小时更换",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "连续输注需使用注射泵；贴剂应贴于干燥完整皮肤",
+      "solucoesCompatíveis": "NS，葡萄糖5%，可与咪达唑仑联用但不混合",
+      "contraindicacoes": "严重呼吸抑制、麻痹性肠梗阻、近两周使用MAOI",
+      "cuidadosMedicos": "监测呼吸、镇静程度、生命体征、电解质",
+      "cuidadosFarmaceuticos": "指导贴剂使用、妥善处理废弃贴片、避免高温或电热垫",
+      "cuidadosEnfermagem": "观察疼痛控制、意识状态、便秘、尿潴留",
+      "fontesBibliograficas": "NMPA, FDA, WHO, Micromedex"
+    }
+  }
+}

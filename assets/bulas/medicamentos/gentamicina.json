@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Gentamicina",
+      "suspension": "Manter com cautela até 24h antes se necessário; suspender em procedimentos otológicos ou neurológicos",
+      "risk": "Nefrotoxicidade, ototoxicidade e bloqueio neuromuscular; risco aumenta com anestésicos ou relaxantes musculares",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e avaliação da função renal e auditiva"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gentamicina",
+      "nomeComercial": "Garamicina, Gentocin, Gentax",
+      "mecanismoAcao": "Liga-se à subunidade 30S ribossomal bacteriana, inibindo a síntese proteica e causando morte celular",
+      "farmacocinetica": "Administração IV ou IM; meia-vida 2–3h; excreção renal inalterada",
+      "farmacodinamica": "Bactericida concentrativo contra Gram-negativos aeróbios e algumas Gram-positivas em combinação",
+      "indicacoes": "Sepse, infecção urinária grave, peritonite, infecções ósseas e articulares, endocardite (em combinação)",
+      "reacoesAdversas": "Nefrotoxicidade, ototoxicidade, bloqueio neuromuscular, erupções cutâneas",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Pode ser usado com cautela; níveis muito baixos no leite materno",
+      "administracao": "IV ou IM",
+      "doseMaxima": "5–7 mg/kg/dia",
+      "doseMinima": "1–1,5 mg/kg/dose",
+      "classificacao": "Aminoglicosídeo",
+      "apresentacao": "Solução injetável 40mg/mL ou 80mg/2mL",
+      "interacaoMedicamento": "Aumenta toxicidade renal com vancomicina, anfotericina B, AINEs; potencializa bloqueio com anestésicos",
+      "posologia": "1 a 2 mg/kg/dose a cada 8h ou 5–7 mg/kg/dia (dose única diária), ajustar por função renal",
+      "armazenamento": "Refrigerado entre 2–8°C, proteger da luz",
+      "preparo": "Diluir em SF ou SG5% para infusão lenta (30 min a 1h)",
+      "solucoesCompatíveis": "SF 0,9% e SG 5%",
+      "contraindicacoes": "Miastenia gravis, hipersensibilidade a aminoglicosídeos",
+      "cuidadosMedicos": "Monitorar creatinina, audição e níveis séricos; evitar uso prolongado",
+      "cuidadosFarmaceuticos": "Verificar dose, compatibilidade e estabilidade após diluição",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade auditiva, renal e bloqueio neuromuscular",
+      "fontesBibliograficas": "Micromedex, ANVISA, FDA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Gentamicin",
+      "suspension": "Use cautiously; consider holding 24h before surgery; avoid in neuro/ear surgeries",
+      "risk": "Nephrotoxicity, ototoxicity, and neuromuscular blockade; potentiated by anesthesia and muscle relaxants",
+      "reintroduction": "Restart after hemodynamic stabilization and renal/auditory function assessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gentamicin",
+      "nomeComercial": "Garamycin, Gentak",
+      "mecanismoAcao": "Binds to 30S ribosomal subunit, inhibiting bacterial protein synthesis and leading to cell death",
+      "farmacocinetica": "IV or IM administration; half-life 2–3h; excreted unchanged by kidneys",
+      "farmacodinamica": "Concentration-dependent bactericidal activity mainly against aerobic Gram-negative bacteria",
+      "indicacoes": "Sepsis, serious UTI, peritonitis, bone/joint infections, endocarditis (combo)",
+      "reacoesAdversas": "Renal toxicity, hearing loss, neuromuscular blockade, skin rash",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Use with caution; minimal secretion in breast milk",
+      "administracao": "IV or IM",
+      "doseMaxima": "5–7 mg/kg/day",
+      "doseMinima": "1–1.5 mg/kg/dose",
+      "classificacao": "Aminoglycoside antibiotic",
+      "apresentacao": "Injection 40mg/mL or 80mg/2mL",
+      "interacaoMedicamento": "Enhanced renal toxicity with vancomycin, amphotericin B, NSAIDs; potentiates neuromuscular blockade",
+      "posologia": "1–2 mg/kg q8h or 5–7 mg/kg/day once daily; adjust for renal function",
+      "armazenamento": "Refrigerate 2–8°C; protect from light",
+      "preparo": "Dilute in NS or D5W; infuse over 30–60 min",
+      "solucoesCompatíveis": "Normal saline and D5W",
+      "contraindicacoes": "Myasthenia gravis, allergy to aminoglycosides",
+      "cuidadosMedicos": "Monitor creatinine, auditory function, drug levels; avoid prolonged use",
+      "cuidadosFarmaceuticos": "Check compatibility and stability after dilution",
+      "cuidadosEnfermagem": "Watch for hearing loss, renal impairment, and muscle weakness",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Gentamicina",
+      "suspension": "Usar con precaución; considerar suspender 24h antes; evitar en cirugía neuro-otológica",
+      "risk": "Nefrotoxicidad, ototoxicidad y bloqueo neuromuscular; potenciados por anestesia y relajantes musculares",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica y evaluación renal/auditiva"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gentamicina",
+      "nomeComercial": "Garamicina, Gentax",
+      "mecanismoAcao": "Se une a la subunidad 30S ribosomal bacteriana, inhibiendo la síntesis de proteínas",
+      "farmacocinetica": "Administración IV o IM; vida media 2–3h; excreción renal sin cambios",
+      "farmacodinamica": "Bactericida dependiente de concentración frente a Gram-negativos aeróbicos",
+      "indicacoes": "Sepsis, ITU graves, peritonitis, infecciones óseas, endocarditis (combinado)",
+      "reacoesAdversas": "Toxicidad renal, pérdida auditiva, parálisis muscular, erupciones",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Usar con precaución; excreción mínima en leche",
+      "administracao": "IV o IM",
+      "doseMaxima": "5–7 mg/kg/día",
+      "doseMinima": "1–1,5 mg/kg/dosis",
+      "classificacao": "Antibiótico aminoglucósido",
+      "apresentacao": "Solución inyectable 40mg/mL o 80mg/2mL",
+      "interacaoMedicamento": "Mayor toxicidad con vancomicina, AINEs, anfotericina; potencia bloqueo neuromuscular",
+      "posologia": "1–2 mg/kg cada 8h o 5–7 mg/kg/día en dosis única; ajustar por función renal",
+      "armazenamento": "Refrigerado 2–8°C, protegido de la luz",
+      "preparo": "Diluir en SSF o SG5% e infundir lentamente (30–60 min)",
+      "solucoesCompatíveis": "SSF 0,9% y SG 5%",
+      "contraindicacoes": "Miastenia grave, alergia a aminoglucósidos",
+      "cuidadosMedicos": "Monitorear creatinina, audición y niveles del fármaco",
+      "cuidadosFarmaceuticos": "Verificar compatibilidad y estabilidad post dilución",
+      "cuidadosEnfermagem": "Observar ototoxicidad, nefrotoxicidad y debilidad muscular",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "庆大霉素",
+      "suspension": "术前24小时内谨慎使用；神经或耳科手术应停用",
+      "risk": "肾毒性、耳毒性、神经肌肉阻滞；与麻醉药和肌松药联用风险更高",
+      "reintroduction": "术后血流动力学稳定后，评估肾功能及听力后再用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "庆大霉素",
+      "nomeComercial": "Garamycin, Gentacin",
+      "mecanismoAcao": "结合细菌30S核糖体亚基，抑制蛋白质合成，导致细菌死亡",
+      "farmacocinetica": "静脉或肌注给药；半衰期2–3小时；肾排泄原型",
+      "farmacodinamica": "浓度依赖性杀菌，主要作用于需氧革兰阴性菌",
+      "indicacoes": "败血症、严重尿感、腹膜炎、骨关节感染、心内膜炎（联合用药）",
+      "reacoesAdversas": "肾损伤、耳聋、肌无力、皮疹",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期慎用；乳汁中浓度极低",
+      "administracao": "静脉或肌注",
+      "doseMaxima": "每日5–7毫克/公斤",
+      "doseMinima": "每次1–1.5毫克/公斤",
+      "classificacao": "氨基糖苷类抗生素",
+      "apresentacao": "注射液40mg/mL或80mg/2mL",
+      "interacaoMedicamento": "与万古霉素、两性霉素B、NSAIDs联用增加毒性；增强神经阻滞",
+      "posologia": "每8小时1–2 mg/kg 或每日5–7 mg/kg一次；根据肾功能调整",
+      "armazenamento": "2–8°C冷藏，避光",
+      "preparo": "用0.9%氯化钠或5%葡萄糖稀释，30–60分钟缓慢静滴",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "重症肌无力、氨基糖苷类过敏",
+      "cuidadosMedicos": "监测肾功能、听力和血药浓度，避免长期使用",
+      "cuidadosFarmaceuticos": "核对浓度与稀释液相容性",
+      "cuidadosEnfermagem": "注意听力、肾功能及肌力变化",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

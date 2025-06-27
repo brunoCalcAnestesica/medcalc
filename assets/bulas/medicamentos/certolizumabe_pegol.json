@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Certolizumabe pegol",
+      "suspension": "Suspender 4 semanas antes de cirurgias eletivas de grande porte",
+      "risk": "Imunossupressor anti-TNF; aumenta risco de infecção, retardo da cicatrização e complicações sépticas",
+      "reintroduction": "Reintroduzir após cicatrização adequada e exclusão de infecção"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Certolizumabe pegol",
+      "nomeComercial": "Cimzia",
+      "mecanismoAcao": "Fragmento de anticorpo peguilado que se liga ao TNF-α e bloqueia sua atividade pró-inflamatória",
+      "farmacocinetica": "Meia-vida terminal ~14 dias; absorção lenta por via subcutânea; não atravessa a placenta de forma ativa",
+      "farmacodinamica": "Neutraliza o TNF circulante, reduz a inflamação e a infiltração celular em tecidos afetados",
+      "indicacoes": "Artrite reumatoide, artrite psoriásica, espondiloartrite axial, doença de Crohn",
+      "reacoesAdversas": "Infecções respiratórias, reações no local da aplicação, náuseas, rash, hepatite, reativação de TB",
+      "riscoGravidez": "Categoria B – não possui fração Fc; menor passagem placentária",
+      "riscoLactacao": "Seguro; concentrações muito baixas no leite",
+      "administracao": "Subcutânea",
+      "doseMaxima": "400 mg a cada 4 semanas",
+      "doseMinima": "200 mg a cada 2 semanas",
+      "classificacao": "Imunobiológico anti-TNF (peguilado)",
+      "apresentacao": "Seringa preenchida com 200 mg/1 mL",
+      "interacaoMedicamento": "Evitar associação com anakinra, abatacepte ou outros biológicos",
+      "posologia": "400 mg nas semanas 0, 2 e 4; manutenção com 200 mg a cada 2 semanas ou 400 mg/mês",
+      "armazenamento": "Refrigerado (2–8 °C), protegido da luz; não congelar",
+      "preparo": "Uso direto por via SC; retirar da geladeira 30 min antes da aplicação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecção ativa grave, hipersensibilidade ao fármaco",
+      "cuidadosMedicos": "Testar para TB antes do início; monitorar infecções e exames hepáticos",
+      "cuidadosFarmaceuticos": "Manuseio asséptico; descarte adequado do material biológico",
+      "cuidadosEnfermagem": "Observar reações locais e sinais sistêmicos de infecção",
+      "fontesBibliograficas": "FDA, ANVISA, UpToDate, Micromedex, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Certolizumab pegol",
+      "suspension": "Discontinue 4 weeks prior to major surgery",
+      "risk": "Anti-TNF immunosuppressant; increases risk of infection and delayed wound healing",
+      "reintroduction": "Restart after complete wound healing and no signs of infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Certolizumab pegol",
+      "nomeComercial": "Cimzia",
+      "mecanismoAcao": "PEGylated Fab fragment that binds TNF-α, neutralizing its inflammatory activity",
+      "farmacocinetica": "Half-life ~14 days; slow SC absorption; minimal placental transfer due to absence of Fc region",
+      "farmacodinamica": "Blocks circulating TNF, reducing inflammation and immune cell infiltration",
+      "indicacoes": "Rheumatoid arthritis, psoriatic arthritis, axial spondyloarthritis, Crohn’s disease",
+      "reacoesAdversas": "URTIs, injection site reactions, rash, nausea, hepatitis, TB reactivation",
+      "riscoGravidez": "Category B – minimal placental transfer",
+      "riscoLactacao": "Safe; low levels in breast milk",
+      "administracao": "Subcutaneous",
+      "doseMaxima": "400 mg every 4 weeks",
+      "doseMinima": "200 mg every 2 weeks",
+      "classificacao": "Anti-TNF biologic (PEGylated)",
+      "apresentacao": "Prefilled syringe 200 mg/mL",
+      "interacaoMedicamento": "Avoid with anakinra, abatacept, or other biologics",
+      "posologia": "400 mg at weeks 0, 2, 4; maintenance 200 mg q2w or 400 mg monthly",
+      "armazenamento": "Refrigerate (36–46 °F), protect from light; do not freeze",
+      "preparo": "SC injection; allow to reach room temp before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe active infection, hypersensitivity",
+      "cuidadosMedicos": "Screen for TB before starting; monitor liver and infection signs",
+      "cuidadosFarmaceuticos": "Use aseptic technique; proper sharps disposal",
+      "cuidadosEnfermagem": "Monitor injection site and signs of systemic infection",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Certolizumab pegol",
+      "suspension": "Suspender 4 semanas antes de cirugía mayor",
+      "risk": "Inmunosupresor anti-TNF; riesgo de infección y mala cicatrización",
+      "reintroduction": "Reiniciar tras cicatrización completa y sin infección activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Certolizumab pegol",
+      "nomeComercial": "Cimzia",
+      "mecanismoAcao": "Fragmento Fab pegilado que se une al TNF-α y bloquea su efecto proinflamatorio",
+      "farmacocinetica": "Vida media ~14 días; absorción subcutánea lenta; mínima transferencia placentaria",
+      "farmacodinamica": "Neutraliza el TNF circulante, reduciendo inflamación e infiltración inmune",
+      "indicacoes": "AR, espondiloartritis axial, artritis psoriásica, enfermedad de Crohn",
+      "reacoesAdversas": "Infecciones, reacciones locales, náuseas, rash, hepatitis",
+      "riscoGravidez": "Categoría B – sin dominio Fc, bajo paso placentario",
+      "riscoLactacao": "Seguro; niveles bajos en leche",
+      "administracao": "Subcutánea",
+      "doseMaxima": "400 mg cada 4 semanas",
+      "doseMinima": "200 mg cada 2 semanas",
+      "classificacao": "Biológico anti-TNF pegilado",
+      "apresentacao": "Jeringa precargada 200 mg/mL",
+      "interacaoMedicamento": "Evitar con otros biológicos (anakinra, abatacept)",
+      "posologia": "400 mg en semanas 0, 2 y 4; mantenimiento 200 mg cada 2 semanas o 400 mg/mes",
+      "armazenamento": "2–8 °C, protegido de luz, no congelar",
+      "preparo": "Inyección SC directa; esperar 30 min tras sacar de la nevera",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infección grave activa, hipersensibilidad",
+      "cuidadosMedicos": "Tamizaje para TB; monitoreo hepático y signos infecciosos",
+      "cuidadosFarmaceuticos": "Uso hospitalario; eliminación de jeringas adecuadamente",
+      "cuidadosEnfermagem": "Observar lugar de inyección e infección sistémica",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "赛妥珠单抗",
+      "suspension": "择期大手术前4周停药",
+      "risk": "抗TNF免疫抑制剂，感染风险及伤口愈合延迟",
+      "reintroduction": "术后伤口完全愈合、无感染时恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "赛妥珠单抗",
+      "nomeComercial": "Cimzia",
+      "mecanismoAcao": "PEG化Fab片段单抗，结合TNF-α并阻断其炎性活性",
+      "farmacocinetica": "半衰期14天，SC吸收缓慢；不穿越胎盘",
+      "farmacodinamica": "抑制TNF相关炎症及免疫反应，作用局限，系统影响小",
+      "indicacoes": "类风湿关节炎、银屑病关节炎、强直性脊柱炎、克罗恩病",
+      "reacoesAdversas": "注射部位反应、感染、肝毒性、皮疹、恶心、TB复发",
+      "riscoGravidez": "B类；不含Fc段，胎盘转移少",
+      "riscoLactacao": "乳汁中极低浓度，通常安全",
+      "administracao": "皮下注射",
+      "doseMaxima": "每4周400毫克",
+      "doseMinima": "每2周200毫克",
+      "classificacao": "抗TNF生物制剂（PEG化）",
+      "apresentacao": "预充注射器200 mg/mL",
+      "interacaoMedicamento": "禁与anakinra、abatacept等联合使用",
+      "posologia": "第0、2、4周各400mg；维持200mg每2周或400mg每月",
+      "armazenamento": "2–8°C避光冷藏，禁止冷冻",
+      "preparo": "皮下注射，使用前30分钟回温",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重感染、对本品过敏",
+      "cuidadosMedicos": "启动前排查结核，监测感染与肝功能",
+      "cuidadosFarmaceuticos": "冷链储运，废物规范处置",
+      "cuidadosEnfermagem": "监测注射部位反应与系统性感染",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

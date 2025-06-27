@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ergocalciferol",
+      "suspension": "Suspender apenas em casos de hipercalcemia ou intoxicação por vitamina D",
+      "risk": "Risco mínimo em contexto cirúrgico. Monitorar em pacientes com doenças renais ou que fazem uso prolongado. Doses altas podem levar à hipercalcemia e calcificação tecidual.",
+      "reintroduction": "Reintroduzir conforme a necessidade clínica e níveis séricos de vitamina D e cálcio. Acompanhar função renal."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ergocalciferol (Vitamina D2)",
+      "nomeComercial": "Drisdol, Deltavit, Ergosterol",
+      "mecanismoAcao": "Promove absorção intestinal de cálcio e fósforo; participa na mineralização óssea e regulação do PTH",
+      "farmacocinetica": "Absorção intestinal dependente de gordura; armazenado no tecido adiposo; meia-vida prolongada; metabolismo hepático e renal",
+      "farmacodinamica": "Corrige hipovitaminose D, regula o metabolismo mineral e favorece saúde óssea",
+      "indicacoes": "Hipovitaminose D, osteomalácia, raquitismo, hipoparatireoidismo, prevenção de osteoporose",
+      "reacoesAdversas": "Hipercalcemia, hipercalciúria, dor óssea, fraqueza, náuseas, constipação, calcificação renal em uso prolongado",
+      "riscoGravidez": "Categoria C (usar com cautela)",
+      "riscoLactacao": "Compatível com amamentação em doses fisiológicas",
+      "administracao": "Via oral (cápsulas ou solução oleosa); pode ser semanal ou mensal",
+      "doseMaxima": "50.000 UI/semana (terapêutico); até 600.000 UI única em deficiência severa",
+      "doseMinima": "400–800 UI/dia (profilaxia)",
+      "classificacao": "Vitamina lipossolúvel – regulador do metabolismo ósseo",
+      "apresentacao": "Cápsulas de 50.000 UI; solução oleosa de 8.000 a 20.000 UI/mL",
+      "interacaoMedicamento": "Risco aumentado com diuréticos tiazídicos, digoxina; interação com corticosteroides e orlistate",
+      "posologia": "Dose variável conforme objetivo terapêutico e status sérico de 25(OH)D",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipercalcemia, hipervitaminose D, nefrolitíase cálcica recorrente",
+      "cuidadosMedicos": "Monitorar calcemia, função renal e 25(OH)D durante uso prolongado",
+      "cuidadosFarmaceuticos": "Orientar sobre uso correto e evitar superdosagem",
+      "cuidadosEnfermagem": "Observar sinais de intoxicação por vitamina D (fadiga, náusea, poliúria)",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex, SBEM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ergocalciferol",
+      "suspension": "Hold only in cases of hypercalcemia or vitamin D toxicity",
+      "risk": "Minimal surgical risk. Monitor calcium in chronic use or renal impairment. High doses may lead to hypercalcemia and tissue calcification.",
+      "reintroduction": "Resume based on clinical need and lab values of calcium and 25(OH)D. Monitor renal function."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ergocalciferol (Vitamin D2)",
+      "nomeComercial": "Drisdol, Calciferol, Vitamin D2",
+      "mecanismoAcao": "Enhances calcium and phosphate absorption; regulates bone mineralization and parathyroid hormone (PTH)",
+      "farmacocinetica": "Fat-soluble; absorbed in intestines; stored in adipose tissue; hepatic and renal metabolism",
+      "farmacodinamica": "Corrects vitamin D deficiency, supports bone health and mineral metabolism",
+      "indicacoes": "Vitamin D deficiency, osteomalacia, rickets, hypoparathyroidism, osteoporosis prevention",
+      "reacoesAdversas": "Hypercalcemia, hypercalciuria, bone pain, weakness, nausea, constipation, nephrocalcinosis",
+      "riscoGravidez": "Category C (use with caution)",
+      "riscoLactacao": "Compatible at physiological doses",
+      "administracao": "Oral (capsules or oil-based drops); weekly or monthly dosing possible",
+      "doseMaxima": "50,000 IU/week (therapeutic); up to 600,000 IU once in severe deficiency",
+      "doseMinima": "400–800 IU/day (preventive)",
+      "classificacao": "Fat-soluble vitamin – bone metabolism regulator",
+      "apresentacao": "Capsules 50,000 IU; solution 8,000–20,000 IU/mL",
+      "interacaoMedicamento": "Increased risk with thiazides, digoxin; interaction with steroids and orlistat",
+      "posologia": "Adjusted according to 25(OH)D levels and clinical context",
+      "armazenamento": "Store at 15–30°C, protect from light and moisture",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypercalcemia, vitamin D toxicity, recurrent nephrolithiasis",
+      "cuidadosMedicos": "Monitor serum calcium, renal function, and 25(OH)D with long-term use",
+      "cuidadosFarmaceuticos": "Advise correct dosing and avoid overdosing",
+      "cuidadosEnfermagem": "Watch for signs of vitamin D toxicity (nausea, weakness, polyuria)",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Endocrine Society"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ergocalciferol",
+      "suspension": "Suspender solo si hay hipercalcemia o toxicidad por vitamina D",
+      "risk": "Riesgo quirúrgico mínimo. Vigilar calcio en insuficiencia renal o dosis altas. Riesgo de calcificación con sobredosis.",
+      "reintroduction": "Reanudar según niveles de calcio y 25(OH)D; valorar función renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ergocalciferol (Vitamina D2)",
+      "nomeComercial": "Drisdol, Calciferol",
+      "mecanismoAcao": "Facilita absorción intestinal de calcio/fósforo; regula mineralización ósea y PTH",
+      "farmacocinetica": "Absorción intestinal con grasas; almacén adiposo; vida media prolongada",
+      "farmacodinamica": "Corrige déficit de vitamina D y mejora metabolismo mineral",
+      "indicacoes": "Déficit de vitamina D, osteomalacia, raquitismo, hipoparatiroidismo",
+      "reacoesAdversas": "Hipercalcemia, debilidad, náuseas, constipación, hipercalciuria, nefrocalcinosis",
+      "riscoGravidez": "Categoría C (usar con precaución)",
+      "riscoLactacao": "Compatible en dosis fisiológicas",
+      "administracao": "Vía oral (cápsulas o solución oleosa)",
+      "doseMaxima": "50.000 UI/semana o hasta 600.000 UI única",
+      "doseMinima": "400–800 UI/día",
+      "classificacao": "Vitamina liposoluble – regulador óseo",
+      "apresentacao": "Cápsulas 50.000 UI; solución 8.000–20.000 UI/mL",
+      "interacaoMedicamento": "Interacciones con tiazidas, digoxina, orlistat",
+      "posologia": "Individual según niveles séricos",
+      "armazenamento": "15–30°C, protegido de luz y humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipercalcemia, intoxicación por vitamina D, litiasis cálcica recurrente",
+      "cuidadosMedicos": "Monitorear calcio, 25(OH)D y función renal en uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar sobredosificación; orientar al paciente",
+      "cuidadosEnfermagem": "Detectar síntomas de toxicidad vitamínica (debilidad, poliuria)",
+      "fontesBibliograficas": "FDA, EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "麦角钙化醇",
+      "suspension": "仅在高钙血症或维生素D中毒时停药",
+      "risk": "术中风险极低；长期使用需监测血钙和肾功能",
+      "reintroduction": "根据25(OH)D与血钙水平调整恢复时间；术后稳定后可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "麦角钙化醇（维生素D2）",
+      "nomeComercial": "Drisdol, 维生素D2胶囊",
+      "mecanismoAcao": "促进小肠钙磷吸收，调节甲状旁腺激素与骨矿化",
+      "farmacocinetica": "脂溶性，肠道吸收，储存于脂肪组织，肝肾代谢，半衰期长",
+      "farmacodinamica": "纠正维生素D缺乏，改善骨代谢和骨密度",
+      "indicacoes": "维生素D缺乏、骨软化、佝偻病、甲状旁腺功能减退",
+      "reacoesAdversas": "高钙血症、肾结石、恶心、无力、便秘",
+      "riscoGravidez": "C类（仅在必要时使用）",
+      "riscoLactacao": "生理剂量下可用",
+      "administracao": "口服，胶囊或油剂，常为每周或每月一次",
+      "doseMaxima": "每周5万IU；重度缺乏可单次60万IU",
+      "doseMinima": "每日400–800 IU（预防）",
+      "classificacao": "脂溶性维生素 – 骨代谢调节剂",
+      "apresentacao": "胶囊5万IU，滴剂8–20k IU/mL",
+      "interacaoMedicamento": "与噻嗪类、洋地黄、皮质激素、奥利司他有交互作用",
+      "posologia": "根据临床与25(OH)D水平个体化",
+      "armazenamento": "15–30°C，避光避湿",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "高钙血症、维生素D中毒、肾结石病史",
+      "cuidadosMedicos": "长期用药应监测血钙、肾功能与25(OH)D",
+      "cuidadosFarmaceuticos": "指导正确剂量与频率，防止过量",
+      "cuidadosEnfermagem": "观察维生素D中毒征兆（多尿、乏力）",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

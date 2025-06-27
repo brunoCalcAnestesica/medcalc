@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Azacitidina",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de mielossupressão, infecções, sangramentos e atraso na cicatrização",
+      "reintroduction": "Reintroduzir após recuperação hematológica e estabilidade clínica pós-operatória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Azacitidina",
+      "nomeComercial": "Vidaza",
+      "mecanismoAcao": "Inibe a DNA-metiltransferase, promovendo hipometilação do DNA e reativação de genes tumorais supressores",
+      "farmacocinetica": "Biodisponibilidade subcutânea >80%, meia-vida de 41 minutos IV e 4h SC, excreção urinária",
+      "farmacodinamica": "Efeito epigenético antitumoral com inibição da proliferação celular e indução de diferenciação/apoptose",
+      "indicacoes": "Síndromes mielodisplásicas, leucemia mieloide aguda (LMA), leucemia mielomonocítica crônica (LMMC)",
+      "reacoesAdversas": "Neutropenia, trombocitopenia, anemia, náuseas, diarreia, febre, reação no local da injeção",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado; interromper amamentação",
+      "administracao": "Subcutânea ou intravenosa, em ciclos",
+      "doseMaxima": "100 mg/m²/dia por 7 dias (ciclo padrão)",
+      "doseMinima": "75 mg/m²/dia por 5 dias (esquema mínimo)",
+      "classificacao": "Agente hipometilante – antineoplásico epigenético",
+      "apresentacao": "Pó liofilizado para solução injetável 100 mg",
+      "interacaoMedicamento": "Potencializa mielossupressão com outros quimioterápicos",
+      "posologia": "75 mg/m²/dia por 7 dias, repetir a cada 28 dias",
+      "armazenamento": "Refrigerado (2–8°C) antes da reconstituição; uso imediato após preparo",
+      "preparo": "Reconstituir com água estéril para injeção sob técnica asséptica",
+      "solucoesCompatíveis": "Água estéril para injeção (não usar soro fisiológico)",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade, mielodepressão grave não controlada",
+      "cuidadosMedicos": "Monitorar hemograma, função renal e sinais de infecção",
+      "cuidadosFarmaceuticos": "Verificar estabilidade pós-reconstituição, descartar sobras",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hematológica e reação local",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Azacitidine",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "Risk of myelosuppression, bleeding, infection, delayed wound healing",
+      "reintroduction": "Restart after hematologic recovery and post-op clinical stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Azacitidine",
+      "nomeComercial": "Vidaza",
+      "mecanismoAcao": "DNA methyltransferase inhibitor; induces DNA hypomethylation and re-expression of silenced genes",
+      "farmacocinetica": "SC bioavailability >80%, half-life: IV 41 min, SC 4h; urinary excretion",
+      "farmacodinamica": "Antineoplastic via epigenetic modulation; induces differentiation and apoptosis",
+      "indicacoes": "MDS, AML, CMML",
+      "reacoesAdversas": "Neutropenia, thrombocytopenia, anemia, nausea, diarrhea, fever, injection site reactions",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated; discontinue breastfeeding",
+      "administracao": "SC or IV, in cycles",
+      "doseMaxima": "100 mg/m²/day × 7 days",
+      "doseMinima": "75 mg/m²/day × 5 days",
+      "classificacao": "Hypomethylating agent – epigenetic antineoplastic",
+      "apresentacao": "Lyophilized powder 100 mg vial",
+      "interacaoMedicamento": "Additive toxicity with other myelosuppressants",
+      "posologia": "75 mg/m²/day for 7 days, repeated every 28 days",
+      "armazenamento": "Refrigerate (2–8°C) before use; use immediately after reconstitution",
+      "preparo": "Reconstitute with sterile water under aseptic conditions",
+      "solucoesCompatíveis": "Sterile water only (do not use saline)",
+      "contraindicacoes": "Pregnancy, lactation, uncontrolled severe cytopenia, hypersensitivity",
+      "cuidadosMedicos": "Monitor CBC, renal function, signs of infection",
+      "cuidadosFarmaceuticos": "Ensure stability, discard unused solution",
+      "cuidadosEnfermagem": "Monitor for hematologic toxicity and local reaction",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, NCCN Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Azacitidina",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de mielosupresión, infecciones, sangrado, retraso de cicatrización",
+      "reintroduction": "Reintroducir tras recuperación hematológica y estabilidad postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Azacitidina",
+      "nomeComercial": "Vidaza",
+      "mecanismoAcao": "Inhibidor de DNA metiltransferasa, promueve hipometilación y expresión génica",
+      "farmacocinetica": "Biodisponibilidad SC >80%, t½ IV 41 min, SC 4h; excreción urinaria",
+      "farmacodinamica": "Efecto antineoplásico epigenético, promueve diferenciación y apoptosis",
+      "indicacoes": "Síndromes mielodisplásicos, LMA, LMMC",
+      "reacoesAdversas": "Neutropenia, trombocitopenia, anemia, náuseas, diarrea, fiebre, reacción local",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado; suspender lactancia",
+      "administracao": "Subcutánea o IV, en ciclos",
+      "doseMaxima": "100 mg/m²/día × 7 días",
+      "doseMinima": "75 mg/m²/día × 5 días",
+      "classificacao": "Agente hipometilante – antineoplásico epigenético",
+      "apresentacao": "Vial de 100 mg liofilizado",
+      "interacaoMedicamento": "Toxicidad aditiva con mielosupresores",
+      "posologia": "75 mg/m²/día por 7 días, cada 28 días",
+      "armazenamento": "Refrigerado (2–8°C), uso inmediato tras reconstitución",
+      "preparo": "Reconstituir con agua estéril en condiciones asépticas",
+      "solucoesCompatíveis": "Solo agua estéril",
+      "contraindicacoes": "Embarazo, lactancia, citopenia grave no controlada, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear hemograma, función renal, signos de infección",
+      "cuidadosFarmaceuticos": "Verificar estabilidad y desechar sobrante",
+      "cuidadosEnfermagem": "Observar toxicidad hematológica y reacción local",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿扎胞苷（Azacitidine）",
+      "suspension": "择期手术前7天停药",
+      "risk": "骨髓抑制、感染、出血、伤口愈合延迟风险",
+      "reintroduction": "术后血液恢复稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿扎胞苷",
+      "nomeComercial": "Vidaza",
+      "mecanismoAcao": "抑制DNA甲基转移酶，诱导DNA去甲基化和基因重表达",
+      "farmacocinetica": "皮下注射生物利用度 >80%，IV半衰期41分钟，SC约4小时，尿排泄",
+      "farmacodinamica": "通过表观遗传机制抑制肿瘤细胞增殖",
+      "indicacoes": "骨髓增生异常综合征、急性髓性白血病、慢性粒-单核细胞白血病",
+      "reacoesAdversas": "中性粒细胞减少、血小板减少、贫血、恶心、腹泻、发热、注射部位反应",
+      "riscoGravidez": "D类 – 禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "皮下注射或静脉注射，周期给药",
+      "doseMaxima": "每日100 mg/m² × 7天",
+      "doseMinima": "每日75 mg/m² × 5天",
+      "classificacao": "去甲基化药物 – 表观遗传抗肿瘤剂",
+      "apresentacao": "100 mg冻干粉",
+      "interacaoMedicamento": "与其他骨髓抑制剂协同毒性",
+      "posologia": "每28天75 mg/m² × 7天",
+      "armazenamento": "2–8°C冷藏，重构后立即使用",
+      "preparo": "用无菌注射用水重构，严格无菌操作",
+      "solucoesCompatíveis": "仅限无菌注射用水",
+      "contraindicacoes": "妊娠、哺乳、严重骨髓抑制、过敏",
+      "cuidadosMedicos": "监测血象、肾功能、感染征象",
+      "cuidadosFarmaceuticos": "检查溶解后稳定性，弃去剩余溶液",
+      "cuidadosEnfermagem": "观察造血抑制和局部反应",
+      "fontesBibliograficas": "FDA、EMA、Micromedex、UpToDate、中国药典"
+    }
+  }
+}

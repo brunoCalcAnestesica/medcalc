@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nitrofurantoína",
+      "suspension": "Suspender 1 dia antes da cirurgia",
+      "risk": "Risco de toxicidade pulmonar e interações anestésicas; evitar em insuficiência renal",
+      "reintroduction": "Reintroduzir após função renal estabilizada e boa tolerância oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nitrofurantoína",
+      "nomeComercial": "Macrodantina, Furadantina",
+      "mecanismoAcao": "Inibe enzimas bacterianas envolvidas na síntese proteica, DNA, RNA e parede celular",
+      "farmacocinetica": "Absorção oral, excreção renal rápida; concentração elevada na urina",
+      "farmacodinamica": "Bactericida na urina contra E. coli, Enterococcus e Klebsiella",
+      "indicacoes": "ITU baixa (cistite), profilaxia de infecção urinária recorrente",
+      "reacoesAdversas": "Náuseas, dor abdominal, urina escura, neuropatia periférica, pneumonite",
+      "riscoGravidez": "Categoria B (evitar no final da gestação)",
+      "riscoLactacao": "Usar com cautela; excretado no leite",
+      "administracao": "Oral",
+      "doseMaxima": "400 mg/dia",
+      "doseMinima": "50 mg/dia (profilaxia)",
+      "classificacao": "Antibiótico urinário",
+      "apresentacao": "Cápsulas de 50 mg e 100 mg",
+      "interacaoMedicamento": "Reduz eficácia com antiácidos; risco aumentado com medicamentos nefrotóxicos",
+      "posologia": "100 mg 2x/dia por 5–7 dias (tratamento)",
+      "armazenamento": "Temperatura ambiente, frascos bem fechados",
+      "preparo": "Uso oral direto, não fracionar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "ClCr < 30 mL/min, gravidez a termo, icterícia neonatal",
+      "cuidadosMedicos": "Avaliar função renal antes do uso",
+      "cuidadosFarmaceuticos": "Orientar ingestão com alimentos para reduzir efeitos GI",
+      "cuidadosEnfermagem": "Observar sinais respiratórios e neuropáticos",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nitrofurantoin",
+      "suspension": "Discontinue 1 day before surgery",
+      "risk": "Risk of pulmonary toxicity and anesthetic interaction; avoid in renal impairment",
+      "reintroduction": "Restart once renal function is stable and oral intake is adequate"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nitrofurantoin",
+      "nomeComercial": "Macrobid, Macrodantin",
+      "mecanismoAcao": "Inhibits bacterial enzymes for protein, DNA, RNA, and cell wall synthesis",
+      "farmacocinetica": "Oral absorption, rapid renal excretion; high urinary concentration",
+      "farmacodinamica": "Urinary bactericidal against E. coli, Enterococcus, Klebsiella",
+      "indicacoes": "Lower UTI (cystitis), prophylaxis for recurrent UTI",
+      "reacoesAdversas": "Nausea, abdominal pain, dark urine, peripheral neuropathy, pneumonitis",
+      "riscoGravidez": "Category B (avoid at term)",
+      "riscoLactacao": "Use with caution; excreted in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "400 mg/day",
+      "doseMinima": "50 mg/day (prophylaxis)",
+      "classificacao": "Urinary antibiotic",
+      "apresentacao": "Capsules 50 mg and 100 mg",
+      "interacaoMedicamento": "Reduced efficacy with antacids; increased risk with nephrotoxic drugs",
+      "posologia": "100 mg BID for 5–7 days (treatment)",
+      "armazenamento": "Room temp, tightly closed containers",
+      "preparo": "Oral use only, do not split",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "CrCl < 30 mL/min, term pregnancy, neonatal jaundice",
+      "cuidadosMedicos": "Assess renal function before initiation",
+      "cuidadosFarmaceuticos": "Advise taking with food to reduce GI effects",
+      "cuidadosEnfermagem": "Monitor for respiratory and neurologic signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nitrofurantoína",
+      "suspension": "Suspender 1 día antes de la cirugía",
+      "risk": "Riesgo de toxicidad pulmonar e interacción anestésica; evitar en insuficiencia renal",
+      "reintroduction": "Reintroducir tras estabilización renal y tolerancia oral adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nitrofurantoína",
+      "nomeComercial": "Macrodantina, Furadantina",
+      "mecanismoAcao": "Inhibe enzimas bacterianas esenciales para síntesis de proteínas, ADN, ARN y pared celular",
+      "farmacocinetica": "Absorción oral, excreción renal rápida; alta concentración urinaria",
+      "farmacodinamica": "Bactericida urinario contra E. coli, Enterococcus y Klebsiella",
+      "indicacoes": "ITU baja (cistitis), profilaxis de ITU recurrente",
+      "reacoesAdversas": "Náuseas, dolor abdominal, orina oscura, neuropatía, neumonitis",
+      "riscoGravidez": "Categoría B (evitar al final del embarazo)",
+      "riscoLactacao": "Usar con precaución; se excreta en leche",
+      "administracao": "Oral",
+      "doseMaxima": "400 mg/día",
+      "doseMinima": "50 mg/día (profilaxis)",
+      "classificacao": "Antibiótico urinario",
+      "apresentacao": "Cápsulas de 50 mg y 100 mg",
+      "interacaoMedicamento": "Disminuye eficacia con antiácidos; mayor riesgo con fármacos nefrotóxicos",
+      "posologia": "100 mg 2 veces/día durante 5–7 días (tratamiento)",
+      "armazenamento": "Temperatura ambiente, frasco bien cerrado",
+      "preparo": "Uso oral directo, no fraccionar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "ClCr < 30 mL/min, embarazo a término, ictericia neonatal",
+      "cuidadosMedicos": "Evaluar función renal antes del tratamiento",
+      "cuidadosFarmaceuticos": "Aconsejar toma con alimentos para reducir efectos GI",
+      "cuidadosEnfermagem": "Observar síntomas respiratorios y neurológicos",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "呋喃妥因",
+      "suspension": "术前1天停药",
+      "risk": "可能导致肺毒性，与麻醉药相互作用；肾功能不全禁用",
+      "reintroduction": "术后肾功能稳定并能耐受口服时重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "呋喃妥因",
+      "nomeComercial": "Macrodantin, 呋喃坦啶",
+      "mecanismoAcao": "抑制细菌蛋白质、DNA、RNA和细胞壁合成的酶",
+      "farmacocinetica": "口服吸收，快速肾排泄；尿中浓度高",
+      "farmacodinamica": "对E. coli、肠球菌和克雷伯菌等泌尿致病菌有杀菌作用",
+      "indicacoes": "下尿路感染（膀胱炎）、复发性泌尿感染预防",
+      "reacoesAdversas": "恶心、腹痛、尿色变深、周围神经病、肺炎",
+      "riscoGravidez": "B类（妊娠晚期禁用）",
+      "riscoLactacao": "慎用；可分泌入乳汁",
+      "administracao": "口服",
+      "doseMaxima": "每日400毫克",
+      "doseMinima": "每日50毫克（预防）",
+      "classificacao": "泌尿抗生素",
+      "apresentacao": "胶囊50mg与100mg",
+      "interacaoMedicamento": "与抗酸药联用可降低疗效；与肾毒药物合用风险高",
+      "posologia": "100毫克，每日2次，疗程5–7天（治疗）",
+      "armazenamento": "室温保存，密闭容器",
+      "preparo": "直接口服使用，不可掰片",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "肌酐清除率<30 mL/min、妊娠足月期、新生儿黄疸",
+      "cuidadosMedicos": "治疗前评估肾功能",
+      "cuidadosFarmaceuticos": "建议随餐服用以减少胃肠不适",
+      "cuidadosEnfermagem": "监测呼吸与神经症状",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Edrofônio",
+      "suspension": "Não suspender – uso diagnóstico ou intraoperatório sob controle especializado",
+      "risk": "Bradicardia, broncoespasmo, sudorese, lacrimejamento, interação com anestésicos e bloqueadores",
+      "reintroduction": "Reintroduzir somente com suporte à vida disponível e monitoramento contínuo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloreto de Edrofônio",
+      "nomeComercial": "Tensilon",
+      "mecanismoAcao": "Inibidor da acetilcolinesterase de ação curta; aumenta acetilcolina na junção neuromuscular",
+      "farmacocinetica": "Início em 30–60s, duração 5–15 min, eliminação renal",
+      "farmacodinamica": "Reversão rápida e transitória de bloqueio neuromuscular não despolarizante; diagnóstico de miastenia grave",
+      "indicacoes": "Teste diagnóstico de miastenia grave (Tensilon test), reversão temporária de bloqueio neuromuscular, avaliação de resposta colinérgica",
+      "reacoesAdversas": "Bradicardia, náusea, vômitos, broncoespasmo, lacrimejamento, salivação excessiva, cólica abdominal",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excreção desconhecida; usar com cautela",
+      "administracao": "Intravenosa",
+      "doseMaxima": "1 mg/kg (teste); 10 mg (máx único diagnóstico)",
+      "doseMinima": "0,1 mg/kg",
+      "classificacao": "Anticolinesterásico de ação curta",
+      "apresentacao": "Solução injetável 10mg/mL – ampola de 1mL",
+      "interacaoMedicamento": "Interage com atropina, anestésicos voláteis, bloqueadores neuromusculares; efeitos potencializados por colinérgicos",
+      "posologia": "Diagnóstico: 2 mg IV lento → +8 mg após 30s se não houver reação adversa",
+      "armazenamento": "Conservar entre 15–30°C; proteger da luz",
+      "preparo": "Solução pronta para uso",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Asma grave, obstrução mecânica intestinal ou urinária, hipersensibilidade",
+      "cuidadosMedicos": "Usar atropina como antídoto disponível; monitorar ECG, PA e secreções",
+      "cuidadosFarmaceuticos": "Verificar validade e integridade da ampola antes do uso",
+      "cuidadosEnfermagem": "Observar resposta motora, bradicardia, broncoespasmo e efeitos colinérgicos",
+      "fontesBibliograficas": "FDA, Micromedex, SBAn, ANVISA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Edrophonium",
+      "suspension": "Do not suspend – used for diagnosis or reversal in monitored settings",
+      "risk": "Bradycardia, bronchospasm, increased secretions, nausea, interaction with anesthetics and neuromuscular blockers",
+      "reintroduction": "Only reintroduce with airway support and cardiac monitoring available"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Edrophonium Chloride",
+      "nomeComercial": "Tensilon",
+      "mecanismoAcao": "Short-acting acetylcholinesterase inhibitor; increases acetylcholine at neuromuscular junction",
+      "farmacocinetica": "Onset 30–60s, duration 5–15 min, renal excretion",
+      "farmacodinamica": "Rapid and transient reversal of neuromuscular blockade; diagnostic agent for myasthenia gravis",
+      "indicacoes": "Tensilon test for myasthenia gravis, temporary neuromuscular blockade reversal, cholinergic responsiveness test",
+      "reacoesAdversas": "Bradycardia, bronchospasm, salivation, abdominal cramps, nausea, vomiting, hypotension",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; caution advised",
+      "administracao": "Intravenous",
+      "doseMaxima": "10 mg IV (diagnostic); 1 mg/kg (reversal)",
+      "doseMinima": "0.1 mg/kg",
+      "classificacao": "Short-acting acetylcholinesterase inhibitor",
+      "apresentacao": "Injection 10mg/mL – 1mL ampoule",
+      "interacaoMedicamento": "Interacts with atropine, anesthetics, neuromuscular blockers; effects enhanced by other cholinergics",
+      "posologia": "Diagnostic: 2 mg IV test dose → then 8 mg IV if tolerated",
+      "armazenamento": "Store at 15–30°C; protect from light",
+      "preparo": "Ready-to-use solution",
+      "solucoesCompatíveis": "0.9% saline",
+      "contraindicacoes": "Severe asthma, mechanical GI/urinary obstruction, hypersensitivity",
+      "cuidadosMedicos": "Atropine must be available; monitor ECG, BP, airway secretions",
+      "cuidadosFarmaceuticos": "Check expiry and integrity before use",
+      "cuidadosEnfermagem": "Observe for fasciculations, bradycardia, bronchospasm and cholinergic signs",
+      "fontesBibliograficas": "FDA, Micromedex, Lexicomp, ASA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Edrofônio",
+      "suspension": "No suspender – uso diagnóstico o intraoperatorio bajo control",
+      "risk": "Bradicardia, broncoespasmo, hipersalivación, interacción con anestésicos y bloqueadores",
+      "reintroduction": "Solo reintroducir con soporte respiratorio y monitorización"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloruro de Edrofónio",
+      "nomeComercial": "Tensilon",
+      "mecanismoAcao": "Inhibidor de acetilcolinesterasa de acción corta; aumenta acetilcolina en la unión neuromuscular",
+      "farmacocinetica": "Inicio 30–60s, duración 5–15 min, eliminación renal",
+      "farmacodinamica": "Reversión rápida y transitoria de bloqueo; diagnóstico de miastenia grave",
+      "indicacoes": "Test de Tensilon para miastenia, reversión temporal del bloqueo neuromuscular, evaluación colinérgica",
+      "reacoesAdversas": "Bradicardia, náuseas, vómitos, broncoespasmo, cólicos, sudoración, salivación excesiva",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce su excreción; usar con precaución",
+      "administracao": "Intravenosa",
+      "doseMaxima": "10 mg IV (test); 1 mg/kg (reversión)",
+      "doseMinima": "0,1 mg/kg",
+      "classificacao": "Inhibidor de colinesterasa de acción corta",
+      "apresentacao": "Solución inyectable 10mg/mL – ampolla de 1mL",
+      "interacaoMedicamento": "Interacción con atropina, anestésicos y bloqueadores musculares; efectos aumentados por colinérgicos",
+      "posologia": "Diagnóstico: 2 mg IV → +8 mg si se tolera",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "Solución lista para usar",
+      "solucoesCompatíveis": "Solución salina 0,9%",
+      "contraindicacoes": "Asma severa, obstrucción mecánica, hipersensibilidad",
+      "cuidadosMedicos": "Tener atropina disponible; monitorizar ECG, PA y secreciones",
+      "cuidadosFarmaceuticos": "Revisar caducidad e integridad",
+      "cuidadosEnfermagem": "Observar fasciculaciones, bradicardia y signos colinérgicos",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, Guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "依酚氯铵",
+      "suspension": "无需停药——用于诊断或术中阻滞逆转",
+      "risk": "心动过缓、支气管痉挛、腺体分泌过多，与麻醉药和肌松药相互作用",
+      "reintroduction": "仅在有生命支持和监护条件下使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "依酚氯铵",
+      "nomeComercial": "Tensilon",
+      "mecanismoAcao": "短效胆碱酯酶抑制剂，增强神经肌肉接头的乙酰胆碱作用",
+      "farmacocinetica": "起效30–60秒，持续5–15分钟，经肾排泄",
+      "farmacodinamica": "短暂逆转肌松，用于诊断重症肌无力",
+      "indicacoes": "重症肌无力试验、肌松药暂时逆转、胆碱反应评估",
+      "reacoesAdversas": "心动过缓、恶心、支气管痉挛、腹痛、唾液增多、低血压",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "排泄情况不明，慎用",
+      "administracao": "静脉注射",
+      "doseMaxima": "10 mg (IV)",
+      "doseMinima": "0.1 mg/kg",
+      "classificacao": "短效胆碱酯酶抑制剂",
+      "apresentacao": "注射液10mg/mL，1mL安瓿",
+      "interacaoMedicamento": "与阿托品、麻醉剂、肌松药相互作用，可被其他胆碱药增强",
+      "posologia": "诊断：先2 mg静注 → 无不良反应后加8 mg",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "即用型溶液",
+      "solucoesCompatíveis": "0.9%生理盐水",
+      "contraindicacoes": "严重哮喘、机械性肠梗阻或尿潴留、过敏",
+      "cuidadosMedicos": "备有阿托品，监测ECG、血压、腺体分泌",
+      "cuidadosFarmaceuticos": "检查有效期和安瓿完整性",
+      "cuidadosEnfermagem": "观察运动反应、心动过缓、支气管反应与胆碱样表现",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

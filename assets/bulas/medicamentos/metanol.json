@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Metanol",
+      "suspension": "Evitar exposição em qualquer momento antes da cirurgia; após intoxicação, aguardar clearance metabólico completo (~48–72h) com suporte médico",
+      "risk": "Extrema toxicidade: acidose metabólica grave, toxicidade ocular (cegueira), neurotoxicidade e morte",
+      "reintroduction": "Contraindicado; sem qualquer uso terapêutico humano"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metanol (álcool metílico)",
+      "nomeComercial": "Usos industriais: solvente, anticongelante, combustível",
+      "mecanismoAcao": "Metabolizado por álcool desidrogenase em formaldeído e ácido fórmico, que são extremamente tóxicos",
+      "farmacocinetica": "Absorção rápida oral, inalatória e dérmica; meia-vida ~3h (sem antídoto); metabólitos persistem por >24h",
+      "farmacodinamica": "Causa toxicidade mitocondrial e acidose grave via acúmulo de ácido fórmico",
+      "indicacoes": "Nenhuma indicação médica; substância de uso não terapêutico",
+      "reacoesAdversas": "Cegueira irreversível, acidose, convulsões, coma, morte",
+      "riscoGravidez": "Categoria X – abortivo e teratogênico",
+      "riscoLactacao": "Contraindicado; tóxico sistêmico",
+      "administracao": "Exposição acidental ou criminosa; não há uso medicinal",
+      "doseMaxima": "Doses ≥30mL são potencialmente letais",
+      "doseMinima": "Tóxico a partir de ~10mL em indivíduos sensíveis",
+      "classificacao": "Álcool tóxico (sem uso clínico)",
+      "apresentacao": "Líquido incolor volátil (industriais)",
+      "interacaoMedicamento": "Antagonizado por etanol/fomepizol (antídotos competitivos)",
+      "posologia": "Não aplicável",
+      "armazenamento": "Uso industrial regulamentado; armazenamento proibido para uso humano",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Todas as formas de exposição humana deliberada",
+      "cuidadosMedicos": "Antídoto: fomepizol ou etanol; hemodiálise precoce; suporte intensivo",
+      "cuidadosFarmaceuticos": "Educar sobre perigos, rotulagem e intoxicação acidental",
+      "cuidadosEnfermagem": "Monitorar gasometria, visão, estado neurológico e diurese",
+      "fontesBibliograficas": "WHO, PubMed, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Methanol",
+      "suspension": "Avoid all exposure prior to surgery; if acute intoxication, delay at least 48–72h after complete metabolic clearance",
+      "risk": "Highly toxic: causes severe metabolic acidosis, blindness, CNS depression, and death",
+      "reintroduction": "Absolutely contraindicated; no therapeutic use"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Methanol (methyl alcohol)",
+      "nomeComercial": "Industrial uses only: solvent, antifreeze, fuel",
+      "mecanismoAcao": "Metabolized by alcohol dehydrogenase to formaldehyde and formic acid, both highly toxic",
+      "farmacocinetica": "Rapid absorption (oral, inhaled, dermal); half-life ~3h; metabolites last >24h",
+      "farmacodinamica": "Causes mitochondrial toxicity and high-anion gap acidosis via formic acid",
+      "indicacoes": "None – no approved clinical indication",
+      "reacoesAdversas": "Blindness, metabolic acidosis, seizures, coma, death",
+      "riscoGravidez": "Category X – abortifacient and teratogenic",
+      "riscoLactacao": "Contraindicated; systemic toxin",
+      "administracao": "Accidental or intentional poisoning only",
+      "doseMaxima": "≥30mL can be lethal",
+      "doseMinima": "~10mL can cause toxicity",
+      "classificacao": "Toxic alcohol – no clinical role",
+      "apresentacao": "Colorless volatile liquid (industrial form)",
+      "interacaoMedicamento": "Blocked by ethanol/fomepizole (competitive antidotes)",
+      "posologia": "Not applicable",
+      "armazenamento": "Restricted to industrial/commercial use; not for human administration",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "All forms of deliberate human exposure",
+      "cuidadosMedicos": "Treat with fomepizole or ethanol, early dialysis, intensive supportive care",
+      "cuidadosFarmaceuticos": "Warn about poisoning risks and mislabeling",
+      "cuidadosEnfermagem": "Monitor ABG, vision, CNS, renal output",
+      "fontesBibliograficas": "WHO, Micromedex, PubMed, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Metanol",
+      "suspension": "Evitar toda exposición antes de cirugía; tras intoxicación aguda, esperar 48–72h con tratamiento",
+      "risk": "Extremadamente tóxico: acidosis, ceguera, depresión SNC, muerte",
+      "reintroduction": "Contraindicado totalmente; no tiene uso clínico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metanol (alcohol metílico)",
+      "nomeComercial": "Uso industrial: disolvente, anticongelante, combustible",
+      "mecanismoAcao": "Metabolizado a formaldehído y ácido fórmico: compuestos altamente tóxicos",
+      "farmacocinetica": "Absorción rápida oral/inhalatoria/dérmica; vida media ~3h; metabolitos persisten >24h",
+      "farmacodinamica": "Causa toxicidad mitocondrial y acidosis metabólica severa",
+      "indicacoes": "No posee indicación médica aprobada",
+      "reacoesAdversas": "Ceguera, acidosis, convulsiones, coma, muerte",
+      "riscoGravidez": "Categoría X – teratogénico",
+      "riscoLactacao": "Contraindicado; tóxico sistémico",
+      "administracao": "Exposición accidental o envenenamiento intencional",
+      "doseMaxima": "≥30mL puede ser letal",
+      "doseMinima": "10mL puede ser tóxico",
+      "classificacao": "Alcohol tóxico sin uso clínico",
+      "apresentacao": "Líquido incoloro volátil (forma industrial)",
+      "interacaoMedicamento": "Bloqueado por etanol o fomepizol (antídotos competitivos)",
+      "posologia": "No aplicable",
+      "armazenamento": "Solo en entorno industrial; prohibido en medicina",
+      "preparo": "No aplicable",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Toda exposición humana voluntaria",
+      "cuidadosMedicos": "Usar fomepizol/etanol, diálisis precoz, soporte vital intensivo",
+      "cuidadosFarmaceuticos": "Educar sobre riesgo de intoxicación",
+      "cuidadosEnfermagem": "Monitorear visión, estado neurológico, diuresis y gasometría",
+      "fontesBibliograficas": "OMS, Micromedex, PubMed, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甲醇",
+      "suspension": "术前应彻底避免接触；若中毒至少延迟手术48–72小时直至清除毒素",
+      "risk": "极度毒性：代谢性酸中毒、视力丧失、中枢抑制、死亡",
+      "reintroduction": "禁止任何形式重新使用；无医疗用途"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甲醇（木醇）",
+      "nomeComercial": "工业用途：溶剂、防冻液、燃料",
+      "mecanismoAcao": "被乙醇脱氢酶代谢为甲醛和甲酸，产生严重毒性",
+      "farmacocinetica": "经口、吸入或皮肤吸收迅速；半衰期约3小时；代谢物持续超24小时",
+      "farmacodinamica": "甲酸抑制线粒体呼吸链，导致高阴离子间隙酸中毒",
+      "indicacoes": "无临床适应证，仅用于毒理研究",
+      "reacoesAdversas": "视力丧失、酸中毒、昏迷、癫痫、死亡",
+      "riscoGravidez": "X类 – 有胎儿毒性",
+      "riscoLactacao": "禁用，具系统毒性",
+      "administracao": "意外或误服中毒情况",
+      "doseMaxima": "摄入30mL可能致死",
+      "doseMinima": "10mL可致中毒",
+      "classificacao": "毒性酒精，无临床用途",
+      "apresentacao": "无色易挥发液体",
+      "interacaoMedicamento": "乙醇/福美匹唑可阻断其代谢，作为解毒剂",
+      "posologia": "不适用",
+      "armazenamento": "受控品，仅限工业使用",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "所有人为摄入行为",
+      "cuidadosMedicos": "解毒药：福美匹唑或乙醇；尽早透析，密切生命支持",
+      "cuidadosFarmaceuticos": "警示误饮风险，教育化学品正确标识",
+      "cuidadosEnfermagem": "观察ABG、视力、意识、尿量",
+      "fontesBibliograficas": "WHO、Micromedex、PubMed、UpToDate"
+    }
+  }
+}

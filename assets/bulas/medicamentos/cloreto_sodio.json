@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cloreto de sódio",
+      "suspension": "Não é necessário suspender antes de cirurgias",
+      "risk": "Segurança elevada; risco apenas em uso excessivo ou em pacientes com sobrecarga de volume ou insuficiência cardíaca",
+      "reintroduction": "Pode ser mantido ou reintroduzido imediatamente conforme balanço hídrico e indicação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloreto de sódio",
+      "nomeComercial": "Soro fisiológico 0,9%, SF 0,9%, NaCl",
+      "mecanismoAcao": "Reposição de eletrólitos e manutenção da osmolaridade; atua no volume extracelular e regulação ácido-base",
+      "farmacocinetica": "Distribuição rápida no espaço extracelular; excreção renal",
+      "farmacodinamica": "Restabelece volemia, corrige hiponatremia e desidratação extracelular",
+      "indicacoes": "Reposição volêmica, diluição de medicamentos, irrigação, hiponatremia, alcalose metabólica",
+      "reacoesAdversas": "Edema, acidose hiperclorêmica, hipernatremia em uso prolongado",
+      "riscoGravidez": "Categoria A – seguro",
+      "riscoLactacao": "Seguro",
+      "administracao": "Intravenosa ou tópica (irrigação)",
+      "doseMaxima": "Depende do estado volêmico; até 3L/dia ou mais sob controle",
+      "doseMinima": "500mL/dia em manutenção básica",
+      "classificacao": "Solução eletrolítica isotônica",
+      "apresentacao": "Bolsas de 100, 250, 500, 1000mL; frascos para irrigação; ampolas para diluição",
+      "interacaoMedicamento": "Nenhuma clinicamente relevante na diluição; pode alterar efeito de diuréticos e corticóides",
+      "posologia": "500mL a 2000mL/dia conforme necessidade clínica",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Pronto para uso",
+      "solucoesCompatíveis": "Compatível com maioria dos fármacos EV",
+      "contraindicacoes": "Hipervolemia, hipernatremia não corrigida, edema agudo de pulmão",
+      "cuidadosMedicos": "Avaliar equilíbrio hidroeletrolítico e função renal",
+      "cuidadosFarmaceuticos": "Verificar integridade da bolsa e validade",
+      "cuidadosEnfermagem": "Monitorar sinais de sobrecarga de volume e eletrólitos",
+      "fontesBibliograficas": "ANVISA, FDA, Medscape, Micromedex, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sodium chloride",
+      "suspension": "No need to suspend before surgery",
+      "risk": "Very safe; risks only with overuse or in volume-overloaded patients",
+      "reintroduction": "Can be continued or restarted post-op as clinically indicated"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sodium chloride",
+      "nomeComercial": "Normal saline 0.9%, NS, NaCl",
+      "mecanismoAcao": "Restores electrolyte balance and extracellular volume; maintains osmotic pressure",
+      "farmacocinetica": "Rapid extracellular distribution; renal excretion",
+      "farmacodinamica": "Rehydrates tissues, supports perfusion, corrects sodium depletion",
+      "indicacoes": "Hypovolemia, dilution, irrigation, hyponatremia, alkalosis",
+      "reacoesAdversas": "Fluid overload, hyperchloremic acidosis, hypernatremia with chronic use",
+      "riscoGravidez": "Category A – safe",
+      "riscoLactacao": "Safe",
+      "administracao": "IV or topical irrigation",
+      "doseMaxima": "Up to 3L/day or more under monitoring",
+      "doseMinima": "500mL/day (maintenance)",
+      "classificacao": "Isotonic crystalloid solution",
+      "apresentacao": "Bags 100–1000mL; vials for drug dilution",
+      "interacaoMedicamento": "No relevant interactions when used as diluent; may affect diuretics",
+      "posologia": "500mL to 2000mL/day depending on need",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Compatible with most IV drugs",
+      "contraindicacoes": "Hypernatremia, hypervolemia, pulmonary edema",
+      "cuidadosMedicos": "Monitor electrolytes, fluid balance, renal function",
+      "cuidadosFarmaceuticos": "Check bag integrity and expiry",
+      "cuidadosEnfermagem": "Observe for fluid overload and sodium levels",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, AHA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cloruro de sodio",
+      "suspension": "No requiere suspensión antes de cirugía",
+      "risk": "Muy seguro; riesgo solo en sobrecarga de volumen o hipernatremia",
+      "reintroduction": "Puede mantenerse o reiniciarse según clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloruro de sodio",
+      "nomeComercial": "Suero fisiológico 0,9%, NaCl",
+      "mecanismoAcao": "Rehidrata y mantiene el equilibrio electrolítico extracelular",
+      "farmacocinetica": "Distribución rápida; eliminación renal",
+      "farmacodinamica": "Restablece volumen, corrige hiponatremia, sirve para diluir fármacos",
+      "indicacoes": "Hipovolemia, alcalosis, irrigación, hiponatremia",
+      "reacoesAdversas": "Sobrecarga, acidosis hiperclorémica, hipernatremia crónica",
+      "riscoGravidez": "Categoría A – seguro",
+      "riscoLactacao": "Seguro",
+      "administracao": "IV o tópica",
+      "doseMaxima": "Hasta 3L/día",
+      "doseMinima": "0,5L/día",
+      "classificacao": "Cristaloide isotónico",
+      "apresentacao": "Bolsas 100–1000mL, viales",
+      "interacaoMedicamento": "Puede alterar respuesta a diuréticos",
+      "posologia": "500–2000mL/día según situación",
+      "armazenamento": "Ambiente seco, sin luz directa",
+      "preparo": "Listo para uso",
+      "solucoesCompatíveis": "Compatível con la mayoría de fármacos IV",
+      "contraindicacoes": "Hipervolemia, hipernatremia, edema pulmonar",
+      "cuidadosMedicos": "Monitorear sodio y volemia",
+      "cuidadosFarmaceuticos": "Verificar empaque y fecha",
+      "cuidadosEnfermagem": "Observar signos de sobrecarga y desequilibrio",
+      "fontesBibliograficas": "EMA, Micromedex, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯化钠",
+      "suspension": "常规术前无需停用",
+      "risk": "极安全，仅大量使用或肾衰时需警惕水钠潴留",
+      "reintroduction": "术后可立即继续，根据液体需求调整"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯化钠",
+      "nomeComercial": "生理盐水、0.9%NaCl注射液",
+      "mecanismoAcao": "补充钠离子维持渗透压，纠正缺水与电解质失衡",
+      "farmacocinetica": "迅速分布于细胞外，肾脏排泄",
+      "farmacodinamica": "恢复血容量，调节酸碱，维持灌注",
+      "indicacoes": "低钠血症、低血容量、灌洗、配药",
+      "reacoesAdversas": "体液潴留、低钾、高钠、代谢性酸中毒",
+      "riscoGravidez": "A类 – 安全",
+      "riscoLactacao": "安全",
+      "administracao": "静脉注射或局部灌洗",
+      "doseMaxima": "每日最高3升以上（需监测）",
+      "doseMinima": "每日500mL维持",
+      "classificacao": "等渗性电解质溶液",
+      "apresentacao": "100–1000mL袋装，稀释用小瓶",
+      "interacaoMedicamento": "多数药物可共用；可影响利尿剂效应",
+      "posologia": "按病情500–2000mL/d",
+      "armazenamento": "室温，避光",
+      "preparo": "无需稀释，可直接使用",
+      "solucoesCompatíveis": "与绝大多数IV药物相容",
+      "contraindicacoes": "高钠血症、液体过多、肺水肿",
+      "cuidadosMedicos": "评估液体出入平衡、肾功能",
+      "cuidadosFarmaceuticos": "观察包装完整性与透明度",
+      "cuidadosEnfermagem": "监测水肿、呼吸、尿量",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape"
+    }
+  }
+}

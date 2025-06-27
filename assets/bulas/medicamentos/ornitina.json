@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ornitina",
+      "suspension": "Não é necessário suspender",
+      "risk": "Segura em doses fisiológicas; uso em altas doses pode causar diarreia ou hiperamonemia paradoxal",
+      "reintroduction": "Pode ser mantida ou reintroduzida conforme avaliação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ornitina",
+      "nomeComercial": "Ornithine, Hepa-Merz, L-Ornithine HCl",
+      "mecanismoAcao": "Aminoácido não essencial que participa do ciclo da ureia, promovendo a detoxificação do amônio hepático",
+      "farmacocinetica": "Absorção rápida por via oral, metabolização hepática, excreção renal",
+      "farmacodinamica": "Reduz os níveis séricos de amônia, estimula a liberação de hormônio do crescimento e auxilia na recuperação muscular",
+      "indicacoes": "Hiperamonemia, encefalopatia hepática, suporte anabólico e fadiga muscular",
+      "reacoesAdversas": "Diarreia, náusea, flatulência, cólicas abdominais em altas doses",
+      "riscoGravidez": "Categoria C – sem estudos controlados em humanos",
+      "riscoLactacao": "Evitar uso sem necessidade clínica, dados de segurança limitados",
+      "administracao": "Via oral ou intravenosa",
+      "doseMaxima": "6.000 mg/dia",
+      "doseMinima": "1.000 mg/dia",
+      "classificacao": "Aminoácido funcional não essencial",
+      "apresentacao": "Comprimidos, cápsulas, sachês, soluções injetáveis",
+      "interacaoMedicamento": "Cautela com lactulose e antibióticos que afetam flora intestinal, pois alteram a produção de amônia",
+      "posologia": "1 a 2 g por dose, até 3 vezes ao dia, conforme indicação clínica",
+      "armazenamento": "Local fresco, seco e protegido da luz",
+      "preparo": "Dissolver sachê em água ou administrar diretamente em cápsula",
+      "solucoesCompatíveis": "Água, suco, solução fisiológica (uso IV)",
+      "contraindicacoes": "Insuficiência renal grave, hipersensibilidade, distúrbios do ciclo da ureia",
+      "cuidadosMedicos": "Monitorar níveis séricos de amônia e função renal",
+      "cuidadosFarmaceuticos": "Orientar preparo adequado e armazenamento",
+      "cuidadosEnfermagem": "Observar melhora clínica e efeitos adversos gastrointestinais",
+      "fontesBibliograficas": "Micromedex, ANVISA, PubChem, Hepa-Merz bula, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ornithine",
+      "suspension": "No need to suspend",
+      "risk": "Safe at physiological doses; high doses may cause diarrhea or paradoxical hyperammonemia",
+      "reintroduction": "May be continued or reintroduced based on clinical assessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ornithine",
+      "nomeComercial": "Ornithine, Hepa-Merz, L-Ornithine HCl",
+      "mecanismoAcao": "Non-essential amino acid that facilitates the urea cycle and ammonia detoxification in the liver",
+      "farmacocinetica": "Rapid oral absorption, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Lowers serum ammonia, stimulates growth hormone, aids muscle recovery",
+      "indicacoes": "Hyperammonemia, hepatic encephalopathy, anabolic support, muscle fatigue",
+      "reacoesAdversas": "Diarrhea, nausea, flatulence, abdominal cramps at high doses",
+      "riscoGravidez": "Category C – no controlled human studies",
+      "riscoLactacao": "Avoid unless clinically necessary, limited safety data",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "6,000 mg/day",
+      "doseMinima": "1,000 mg/day",
+      "classificacao": "Functional non-essential amino acid",
+      "apresentacao": "Tablets, capsules, sachets, injectable solutions",
+      "interacaoMedicamento": "Caution with lactulose and antibiotics altering gut flora (ammonia production)",
+      "posologia": "1–2 g per dose, up to 3x/day per clinical guidance",
+      "armazenamento": "Store in cool, dry place away from light",
+      "preparo": "Dissolve sachet in water or take capsule directly",
+      "solucoesCompatíveis": "Water, juice, saline solution (IV use)",
+      "contraindicacoes": "Severe renal impairment, hypersensitivity, urea cycle disorders",
+      "cuidadosMedicos": "Monitor serum ammonia and renal function",
+      "cuidadosFarmaceuticos": "Ensure correct preparation and storage",
+      "cuidadosEnfermagem": "Observe clinical improvement and GI side effects",
+      "fontesBibliograficas": "Micromedex, PubChem, FDA, Hepa-Merz insert"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ornitina",
+      "suspension": "No requiere suspensión",
+      "risk": "Segura en dosis fisiológicas; en exceso puede causar diarrea o hiperamonemia paradójica",
+      "reintroduction": "Puede mantenerse o reintroducirse tras evaluación clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ornitina",
+      "nomeComercial": "Ornitina, Hepa-Merz, L-Ornitina HCl",
+      "mecanismoAcao": "Aminoácido no esencial que participa en el ciclo de la urea y detoxificación hepática del amoníaco",
+      "farmacocinetica": "Buena absorción oral, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Disminuye el amoníaco sérico, estimula la hormona del crecimiento, ayuda a la recuperación muscular",
+      "indicacoes": "Hiperamonemia, encefalopatía hepática, apoyo anabólico, fatiga muscular",
+      "reacoesAdversas": "Diarrea, náuseas, flatulencia, calambres abdominales",
+      "riscoGravidez": "Categoría C – sin estudios controlados en humanos",
+      "riscoLactacao": "Evitar su uso salvo necesidad clínica justificada",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "6.000 mg/día",
+      "doseMinima": "1.000 mg/día",
+      "classificacao": "Aminoácido funcional no esencial",
+      "apresentacao": "Comprimidos, cápsulas, sobres, soluciones inyectables",
+      "interacaoMedicamento": "Precaución con lactulosa y antibióticos que alteran flora intestinal",
+      "posologia": "1–2 g por dosis, hasta 3 veces/día",
+      "armazenamento": "Lugar fresco, seco y protegido de la luz",
+      "preparo": "Disolver el sobre en agua o ingerir cápsula",
+      "solucoesCompatíveis": "Agua, jugo, solución salina (uso IV)",
+      "contraindicacoes": "Insuficiencia renal grave, hipersensibilidad, trastornos del ciclo de la urea",
+      "cuidadosMedicos": "Monitorear niveles de amoníaco y función renal",
+      "cuidadosFarmaceuticos": "Orientar preparación y almacenamiento correctos",
+      "cuidadosEnfermagem": "Observar mejoría clínica y efectos GI adversos",
+      "fontesBibliograficas": "Micromedex, ANVISA, FDA, PubChem, Hepa-Merz"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "鸟氨酸",
+      "suspension": "无需停药",
+      "risk": "生理剂量下安全，高剂量可能导致腹泻或反常性高氨血症",
+      "reintroduction": "术后可继续或根据临床评估重新引入"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "鸟氨酸",
+      "nomeComercial": "Ornithine, Hepa-Merz, L-Ornithine HCl",
+      "mecanismoAcao": "非必需氨基酸，参与尿素循环，促进肝脏氨清除",
+      "farmacocinetica": "口服吸收快，肝脏代谢，经肾排泄",
+      "farmacodinamica": "降低血氨水平，刺激生长激素，帮助肌肉恢复",
+      "indicacoes": "高氨血症、肝性脑病、促同化支持、肌肉疲劳",
+      "reacoesAdversas": "腹泻、恶心、腹胀、高剂量下腹痛",
+      "riscoGravidez": "C类 – 无对照研究",
+      "riscoLactacao": "哺乳期避免使用，安全性数据不足",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日6000毫克",
+      "doseMinima": "每日1000毫克",
+      "classificacao": "功能性非必需氨基酸",
+      "apresentacao": "片剂、胶囊、粉包、注射液",
+      "interacaoMedicamento": "与影响肠道菌群（如乳果糖、抗生素）合用需谨慎",
+      "posologia": "每次1–2克，每日最多3次",
+      "armazenamento": "阴凉干燥避光处保存",
+      "preparo": "将粉剂溶于水中服用，或按需注射",
+      "solucoesCompatíveis": "水、果汁、生理盐水（IV）",
+      "contraindicacoes": "严重肾功能不全、过敏、尿素循环障碍",
+      "cuidadosMedicos": "监测血氨及肾功能",
+      "cuidadosFarmaceuticos": "指导正确溶解、保存与使用",
+      "cuidadosEnfermagem": "监测临床反应及胃肠副作用",
+      "fontesBibliograficas": "FDA、Micromedex、PubChem、ANVISA、Hepa-Merz说明书"
+    }
+  }
+}

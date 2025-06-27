@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Afatinibe",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de diarreia intensa, toxicidade cutânea, perfuração gastrointestinal e má cicatrização",
+      "reintroduction": "Reintroduzir após recuperação da mucosa GI e cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Afatinibe",
+      "nomeComercial": "Gilotrif",
+      "mecanismoAcao": "Inibidor irreversível da tirosina quinase dos receptores EGFR, HER2 e HER4",
+      "farmacocinetica": "Biodisponibilidade oral ~92%; meia-vida ~37 horas; excreção fecal predominante",
+      "farmacodinamica": "Bloqueio sustentado de vias de crescimento celular em tumores EGFR+",
+      "indicacoes": "Câncer de pulmão de não pequenas células com mutações EGFR sensíveis",
+      "reacoesAdversas": "Diarreia, rash acneiforme, estomatite, paroníquia, perda de apetite, hepatotoxicidade",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado durante a lactação",
+      "administracao": "Via oral",
+      "doseMaxima": "40 mg/dia",
+      "doseMinima": "20 mg/dia (ajustável conforme tolerância)",
+      "classificacao": "Antineoplásico – inibidor irreversível da tirosina quinase EGFR/HER2",
+      "apresentacao": "Comprimidos de 20 mg, 30 mg e 40 mg",
+      "interacaoMedicamento": "Redução da eficácia com antiácidos; risco com P-gp moduladores e anticoagulantes",
+      "posologia": "40 mg por dia, em jejum (1h antes ou 2h após refeições)",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo; comprimidos devem ser ingeridos inteiros",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, diarreia grave ativa, perfuração GI, hipersensibilidade ao fármaco",
+      "cuidadosMedicos": "Monitorar PA, função hepática, sintomas GI e cutâneos",
+      "cuidadosFarmaceuticos": "Orientar sobre uso em jejum, sinais de toxicidade e hidratação",
+      "cuidadosEnfermagem": "Observar toxicidade GI e cutânea, orientar sobre cuidados com a pele",
+      "fontesBibliograficas": "INCA, FDA, EMA, ANVISA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Afatinib",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of severe diarrhea, skin toxicity, GI perforation, and delayed wound healing",
+      "reintroduction": "Restart after GI mucosa recovery and complete wound healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Afatinib",
+      "nomeComercial": "Gilotrif",
+      "mecanismoAcao": "Irreversible tyrosine kinase inhibitor of EGFR, HER2 and HER4",
+      "farmacocinetica": "Oral bioavailability ~92%; half-life ~37h; excreted mainly in feces",
+      "farmacodinamica": "Sustained blockade of EGFR/HER2 pathways in tumor proliferation",
+      "indicacoes": "EGFR-mutated non-small cell lung cancer",
+      "reacoesAdversas": "Diarrhea, acneiform rash, stomatitis, paronychia, anorexia, liver toxicity",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "40 mg/day",
+      "doseMinima": "20 mg/day (dose adjustable)",
+      "classificacao": "Antineoplastic – irreversible EGFR/HER2 tyrosine kinase inhibitor",
+      "apresentacao": "Tablets: 20 mg, 30 mg, 40 mg",
+      "interacaoMedicamento": "Reduced absorption with antacids; interactions with P-gp modulators and anticoagulants",
+      "posologia": "40 mg once daily on an empty stomach (1h before or 2h after food)",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "No preparation required; swallow whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, active severe diarrhea, GI perforation, hypersensitivity",
+      "cuidadosMedicos": "Monitor BP, liver function, GI and skin adverse events",
+      "cuidadosFarmaceuticos": "Educate on fasting administration, toxicity signs, hydration",
+      "cuidadosEnfermagem": "Monitor GI/skin toxicity, guide skin care",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Afatinib",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de diarrea severa, toxicidad cutánea, perforación gastrointestinal y mala cicatrización",
+      "reintroduction": "Reintroducir tras recuperación GI y cicatrización adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Afatinib",
+      "nomeComercial": "Gilotrif",
+      "mecanismoAcao": "Inhibidor irreversible de tirosina quinasa de EGFR, HER2 y HER4",
+      "farmacocinetica": "Biodisponibilidad oral ~92%; vida media ~37h; excreción fecal",
+      "farmacodinamica": "Bloqueo sostenido de vías EGFR/HER2 en tumores con mutaciones sensibles",
+      "indicacoes": "Cáncer de pulmón no microcítico con mutaciones en EGFR",
+      "reacoesAdversas": "Diarrea, erupción acneiforme, estomatitis, paroniquia, anorexia, hepatotoxicidad",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "40 mg/día",
+      "doseMinima": "20 mg/día (ajustable)",
+      "classificacao": "Antineoplásico – inhibidor irreversible de tirosina quinasa EGFR/HER2",
+      "apresentacao": "Comprimidos de 20 mg, 30 mg y 40 mg",
+      "interacaoMedicamento": "Disminuye absorción con antiácidos; precaución con moduladores P-gp y anticoagulantes",
+      "posologia": "40 mg/día en ayunas (1h antes o 2h después de comidas)",
+      "armazenamento": "15–30°C, protegido de humedad",
+      "preparo": "No requiere preparación; ingerir entero",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, diarrea severa activa, perforación GI, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear PA, hígado, síntomas GI y cutáneos",
+      "cuidadosFarmaceuticos": "Educación sobre ayuno, toxicidad y hidratación",
+      "cuidadosEnfermagem": "Observar toxicidad GI y dérmica; guiar cuidado de piel",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿法替尼",
+      "suspension": "术前5天停药",
+      "risk": "严重腹泻、皮肤毒性、胃肠穿孔和伤口愈合不良风险",
+      "reintroduction": "胃肠道恢复和伤口愈合后可重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿法替尼",
+      "nomeComercial": "Gilotrif",
+      "mecanismoAcao": "不可逆EGFR/HER2/HER4酪氨酸激酶抑制剂",
+      "farmacocinetica": "口服生物利用度约92%；半衰期约37小时；粪便排泄为主",
+      "farmacodinamica": "持续阻断EGFR通路，抑制肿瘤增殖",
+      "indicacoes": "EGFR突变的非小细胞肺癌",
+      "reacoesAdversas": "腹泻、痤疮样皮疹、口腔炎、甲沟炎、厌食、肝毒性",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日40毫克",
+      "doseMinima": "每日20毫克",
+      "classificacao": "抗肿瘤药 – 不可逆EGFR/HER2酪氨酸激酶抑制剂",
+      "apresentacao": "片剂：20、30、40 mg",
+      "interacaoMedicamento": "与抗酸药、P-gp调节剂、抗凝药有相互作用",
+      "posologia": "每日40 mg，空腹服用（饭前1小时或饭后2小时）",
+      "armazenamento": "15–30°C避湿保存",
+      "preparo": "无需制备，整片吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、严重腹泻、胃肠穿孔、药物过敏",
+      "cuidadosMedicos": "监测肝功能、血压、皮肤及胃肠道反应",
+      "cuidadosFarmaceuticos": "指导患者空腹服用，注意水化及副作用",
+      "cuidadosEnfermagem": "监测皮疹、腹泻、营养状态",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

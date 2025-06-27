@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido tranexâmico",
+      "suspension": "Suspender 24h antes de cirurgias eletivas em pacientes com histórico de trombose",
+      "risk": "Risco de tromboembolismo, convulsões em altas doses IV, hipotensão em infusão rápida; atenção em pacientes com histórico de TEV ou epilepsia",
+      "reintroduction": "Reintroduzir se necessário para controle de sangramento pós-operatório, sob avaliação de risco trombótico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido tranexâmico",
+      "nomeComercial": "Transamin, Exacyl, Cyklokapron",
+      "mecanismoAcao": "Inibe competitivamente a ativação do plasminogênio, bloqueando a fibrinólise e estabilizando o coágulo",
+      "farmacocinetica": "Meia-vida de 2h; excreção renal inalterada; biodisponibilidade oral ~30–50%",
+      "farmacodinamica": "Reduz o sangramento ao prevenir degradação da fibrina",
+      "indicacoes": "Hemorragias associadas a menorragia, cirurgias cardíacas, ortopédicas, odontológicas, traumatismos, coagulopatias, hemorragias ginecológicas",
+      "reacoesAdversas": "Náusea, diarreia, cefaleia, hipotensão (EV rápida), trombose venosa profunda, distúrbios visuais",
+      "riscoGravidez": "Categoria B – seguro em indicações específicas como hemorragia obstétrica",
+      "riscoLactacao": "Compatível com amamentação",
+      "administracao": "Oral, intravenosa lenta (1 mL/min máx)",
+      "doseMaxima": "2 g/dose (oral ou EV); até 4 g/dia",
+      "doseMinima": "500 mg VO ou 10 mg/kg EV em bolus",
+      "classificacao": "Antifibrinolítico sintético / inibidor da lise de fibrina",
+      "apresentacao": "Comprimidos de 250–500 mg; ampolas de 500 mg/5 mL",
+      "interacaoMedicamento": "Aumenta risco com anticoncepcionais, trombolíticos e procoagulantes; cuidado com AINES",
+      "posologia": "10–15 mg/kg EV a cada 8h; VO 1–2 g 2–3x/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Diluir EV em SF 0,9% ou SG 5%, infundir lentamente",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Coagulação intravascular disseminada não controlada, TEV ativo, hemorragia subaracnoidea",
+      "cuidadosMedicos": "Monitorar sinais de TEV, função renal e resposta hemostática",
+      "cuidadosFarmaceuticos": "Verificar compatibilidade, diluição e estabilidade EV",
+      "cuidadosEnfermagem": "Observar efeitos adversos, PA, sinais de trombose e sangramento",
+      "fontesBibliograficas": "SBHH, ANVISA, FDA, EMA, Medscape, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tranexamic acid",
+      "suspension": "Hold 24h prior to elective surgery if thrombotic history present",
+      "risk": "Risk of thrombosis, seizures (high-dose IV), hypotension (rapid IV); use with caution in thromboembolic disease",
+      "reintroduction": "Restart if post-op bleeding occurs and thrombotic risk is low"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tranexamic acid",
+      "nomeComercial": "Cyklokapron, Lysteda",
+      "mecanismoAcao": "Antifibrinolytic; competitively inhibits activation of plasminogen to plasmin, stabilizing fibrin clots",
+      "farmacocinetica": "Half-life ~2h; renal excretion; 30–50% oral bioavailability",
+      "farmacodinamica": "Reduces bleeding by preventing clot degradation",
+      "indicacoes": "Surgical bleeding, trauma, heavy menstrual bleeding, hemophilia, obstetric hemorrhage",
+      "reacoesAdversas": "Nausea, headache, hypotension, thrombosis, visual disturbances, seizures (high-dose)",
+      "riscoGravidez": "Category B – allowed in postpartum hemorrhage",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral or slow IV (max 1 mL/min)",
+      "doseMaxima": "2 g/dose; 4 g/day",
+      "doseMinima": "500 mg PO or 10 mg/kg IV",
+      "classificacao": "Synthetic antifibrinolytic",
+      "apresentacao": "250–500 mg tablets; 500 mg/5 mL vials",
+      "interacaoMedicamento": "Caution with hormonal contraceptives, thrombolytics, NSAIDs",
+      "posologia": "10–15 mg/kg IV q8h; PO 1–2 g tid",
+      "armazenamento": "15–30°C, protect from light",
+      "preparo": "Dilute in NS or D5W for IV",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Active thromboembolic disease, DIC, subarachnoid hemorrhage",
+      "cuidadosMedicos": "Monitor thrombotic risk, renal function, bleeding",
+      "cuidadosFarmaceuticos": "Check dilution, compatibility",
+      "cuidadosEnfermagem": "Watch for seizures, thrombosis, vital signs",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex, AABB"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido tranexámico",
+      "suspension": "Suspender 24h antes de cirugía si hay riesgo trombótico previo",
+      "risk": "Trombosis, convulsiones (EV alta dosis), hipotensión",
+      "reintroduction": "Reanudar si hay sangrado postoperatorio y bajo riesgo trombótico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido tranexámico",
+      "nomeComercial": "Amchafibrin, Exacyl, Transamin",
+      "mecanismoAcao": "Inhibe fibrinólisis al bloquear activación del plasminógeno",
+      "farmacocinetica": "T½ 2h; excreción renal",
+      "farmacodinamica": "Evita degradación del coágulo",
+      "indicacoes": "Sangrado quirúrgico, trauma, menorragia, hemofilia",
+      "reacoesAdversas": "Náuseas, cefalea, hipotensión, trombosis, crisis",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral o IV lenta",
+      "doseMaxima": "2 g/dosis, hasta 4 g/día",
+      "doseMinima": "500 mg VO o 10 mg/kg EV",
+      "classificacao": "Antifibrinolítico",
+      "apresentacao": "Comprimidos 250–500 mg; ampollas 500 mg/5 mL",
+      "interacaoMedicamento": "Precaución con anticonceptivos, AINEs",
+      "posologia": "1–2 g VO cada 8h; 10–15 mg/kg IV",
+      "armazenamento": "15–30°C, protegido",
+      "preparo": "Diluir en SF o glucosa 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "TEV activo, CID, HSA",
+      "cuidadosMedicos": "Evaluar función renal, TEV",
+      "cuidadosFarmaceuticos": "Ver compatibilidad y dilución correcta",
+      "cuidadosEnfermagem": "Observar signos trombóticos y convulsivos",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氨甲环酸",
+      "suspension": "术前有血栓病史者应提前24小时停药",
+      "risk": "可能诱发血栓、抽搐、低血压（静推过快）",
+      "reintroduction": "术后如有出血，可在评估血栓风险后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氨甲环酸",
+      "nomeComercial": "止血宁、止血芳酸、安络血",
+      "mecanismoAcao": "阻断纤溶酶原向纤溶酶转化，防止纤维蛋白降解",
+      "farmacocinetica": "T½约2小时，肾排泄",
+      "farmacodinamica": "增强血凝块稳定性，减少出血",
+      "indicacoes": "月经过多、术中出血、创伤、产后出血",
+      "reacoesAdversas": "头晕、恶心、视力模糊、癫痫发作（大剂量）、静脉血栓",
+      "riscoGravidez": "B类 – 特殊情况下使用",
+      "riscoLactacao": "可接受",
+      "administracao": "口服或缓慢静注",
+      "doseMaxima": "每日4g",
+      "doseMinima": "单次500mg",
+      "classificacao": "抗纤溶药",
+      "apresentacao": "片剂、500mg/5mL注射液",
+      "interacaoMedicamento": "慎用于口服避孕药与抗凝药同用者",
+      "posologia": "口服1–2g 每8小时，或静注10–15mg/kg",
+      "armazenamento": "避光干燥，15–30°C",
+      "preparo": "稀释后缓慢滴注",
+      "solucoesCompatíveis": "氯化钠0.9%、葡萄糖5%",
+      "contraindicacoes": "DIC未控制、活动性血栓、蛛网膜下腔出血",
+      "cuidadosMedicos": "监测出血控制、肾功能、血栓指标",
+      "cuidadosFarmaceuticos": "避免与不相容药物合用",
+      "cuidadosEnfermagem": "观察低血压、抽搐、血栓体征",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape"
+    }
+  }
+}

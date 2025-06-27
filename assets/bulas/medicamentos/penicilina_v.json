@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Penicilina V",
+      "suspension": "Não é necessário suspender antes de cirurgia eletiva",
+      "risk": "Baixo risco cirúrgico; reações alérgicas e interação com anticoagulantes são possíveis",
+      "reintroduction": "Manter ou reintroduzir conforme status infeccioso e tolerância oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Penicilina V potássica",
+      "nomeComercial": "Pen-Ve-K, PenK, Penvir",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana por ligação às PBPs",
+      "farmacocinetica": "Boa absorção oral; meia-vida 30–60 min; excreção renal",
+      "farmacodinamica": "Bactericida tempo-dependente contra Gram+ (estreptococos, pneumococos)",
+      "indicacoes": "Faringite estreptocócica, profilaxia de febre reumática, infecções leves de pele",
+      "reacoesAdversas": "Rash, diarreia, náusea, urticária, anafilaxia (raro)",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Seguro",
+      "administracao": "Via oral",
+      "doseMaxima": "3g/dia (dividido)",
+      "doseMinima": "250mg 2x/dia",
+      "classificacao": "Antibiótico β-lactâmico (penicilina natural)",
+      "apresentacao": "Comprimidos 250mg, 500mg; suspensão oral 125mg/5mL, 250mg/5mL",
+      "interacaoMedicamento": "Redução do efeito de contraceptivos orais; potencializa efeito de anticoagulantes",
+      "posologia": "250–500mg VO a cada 6–8h por 7–10 dias",
+      "armazenamento": "Comprimidos: ambiente; suspensão reconstituída: refrigerar e usar em 14 dias",
+      "preparo": "Suspensão: adicionar água até o volume indicado e agitar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia à penicilina",
+      "cuidadosMedicos": "Avaliar alergia prévia; ajustar dose em insuficiência renal grave",
+      "cuidadosFarmaceuticos": "Orientar sobre administração em jejum e agitar suspensão antes do uso",
+      "cuidadosEnfermagem": "Observar sinais de reação alérgica e eficácia clínica",
+      "fontesBibliograficas": "Micromedex, FDA, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Penicillin V",
+      "suspension": "No need to stop prior to elective surgery",
+      "risk": "Low risk; allergy and anticoagulant interactions possible",
+      "reintroduction": "Continue or restart based on infection status and oral intake"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Penicillin V potassium",
+      "nomeComercial": "Pen-Vee K, Veetids",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis via PBPs",
+      "farmacocinetica": "Oral absorption; half-life 30–60 min; renal elimination",
+      "farmacodinamica": "Time-dependent bactericidal against Gram+ organisms",
+      "indicacoes": "Strep throat, rheumatic fever prophylaxis, mild skin infections",
+      "reacoesAdversas": "Rash, diarrhea, nausea, urticaria, rare anaphylaxis",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe",
+      "administracao": "Oral",
+      "doseMaxima": "3g/day (divided)",
+      "doseMinima": "250mg BID",
+      "classificacao": "Natural penicillin (β-lactam antibiotic)",
+      "apresentacao": "Tablets 250mg, 500mg; oral solution 125mg/5mL, 250mg/5mL",
+      "interacaoMedicamento": "May reduce efficacy of OCPs; enhances warfarin effect",
+      "posologia": "250–500mg PO q6–8h x 7–10 days",
+      "armazenamento": "Tablets: room temp; suspension: refrigerate after reconstitution",
+      "preparo": "Add water to powder; shake well",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Penicillin allergy",
+      "cuidadosMedicos": "Check allergy history; renal adjustment if needed",
+      "cuidadosFarmaceuticos": "Counsel fasting administration and shake suspension",
+      "cuidadosEnfermagem": "Observe for allergy and clinical improvement",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Penicilina V",
+      "suspension": "No requiere suspensión antes de cirugía",
+      "risk": "Bajo riesgo; posible alergia e interacción con anticoagulantes",
+      "reintroduction": "Continuar según control infeccioso y tolerancia oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Penicilina V potásica",
+      "nomeComercial": "Pen-Vee K",
+      "mecanismoAcao": "Inhibe síntesis de pared celular bacteriana",
+      "farmacocinetica": "VO; vida media 30–60 min; eliminación renal",
+      "farmacodinamica": "Bactericida contra Gram+ dependiente del tiempo",
+      "indicacoes": "Faringitis estreptocócica, profilaxis de fiebre reumática, infecciones leves",
+      "reacoesAdversas": "Exantema, diarrea, náuseas, anafilaxia (raro)",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral",
+      "doseMaxima": "3g/día",
+      "doseMinima": "250mg 2x/día",
+      "classificacao": "Penicilina natural (β-lactámico)",
+      "apresentacao": "250mg, 500mg comprimidos; suspensión 125mg/5mL, 250mg/5mL",
+      "interacaoMedicamento": "Reduce eficacia de ACO; potencia efecto anticoagulante",
+      "posologia": "250–500mg VO cada 6–8h por 7–10 días",
+      "armazenamento": "Suspensión: refrigerar tras preparación; comprimidos: ambiente",
+      "preparo": "Agregar agua, agitar bien",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a penicilinas",
+      "cuidadosMedicos": "Evaluar alergia previa y función renal",
+      "cuidadosFarmaceuticos": "Administrar en ayunas y agitar suspensión",
+      "cuidadosEnfermagem": "Observar reacciones alérgicas y respuesta clínica",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "苯氧甲基青霉素",
+      "suspension": "择期手术前无需停药",
+      "risk": "过敏风险低；可能影响抗凝剂作用",
+      "reintroduction": "术后可根据感染状态继续服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "苯氧甲基青霉素钾",
+      "nomeComercial": "Pen-Vee K",
+      "mecanismoAcao": "抑制细菌细胞壁合成",
+      "farmacocinetica": "口服吸收良好；半衰期30–60分钟；经肾排泄",
+      "farmacodinamica": "时间依赖性杀菌，针对革兰阳性菌",
+      "indicacoes": "链球菌性咽炎、风湿热预防、轻度皮肤感染",
+      "reacoesAdversas": "皮疹、胃肠不适、过敏反应",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "安全",
+      "administracao": "口服",
+      "doseMaxima": "每日3克",
+      "doseMinima": "每日500毫克",
+      "classificacao": "天然青霉素类抗生素",
+      "apresentacao": "片剂250mg/500mg；混悬液125mg/5mL, 250mg/5mL",
+      "interacaoMedicamento": "与口服避孕药和抗凝剂有相互作用",
+      "posologia": "每6–8小时250–500mg，疗程7–10天",
+      "armazenamento": "片剂常温；混悬液重配后需冷藏",
+      "preparo": "重配加水摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "青霉素过敏",
+      "cuidadosMedicos": "注意过敏史，调整肾功能不全剂量",
+      "cuidadosFarmaceuticos": "建议空腹服用，混悬液需摇匀",
+      "cuidadosEnfermagem": "观察疗效和过敏反应",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

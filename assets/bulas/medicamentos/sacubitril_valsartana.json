@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sacubitril/valsartana",
+      "suspension": "Suspender 24 a 48 horas antes de cirurgias com risco hemodinâmico elevado ou uso de anestésicos hipotensores",
+      "risk": "Pode causar hipotensão grave, hipercalemia, disfunção renal e angioedema; contraindicado com IECA",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e função renal adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sacubitril + Valsartana",
+      "nomeComercial": "Entresto",
+      "mecanismoAcao": "Sacubitril inibe a neprilisina, aumentando peptídeos natriuréticos; valsartana bloqueia receptores de angiotensina II (AT1)",
+      "farmacocinetica": "Sacubitril é um pró-fármaco convertido em LBQ657; ambos têm absorção oral, metabolismo hepático e excreção renal/fecal; T½ ~11h",
+      "farmacodinamica": "Reduz pressão arterial, resistência vascular e sobrecarga; melhora parâmetros hemodinâmicos na insuficiência cardíaca",
+      "indicacoes": "Insuficiência cardíaca crônica com fração de ejeção reduzida (ICFER)",
+      "reacoesAdversas": "Hipotensão, hipercalemia, insuficiência renal, tosse, tontura, angioedema",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado – excreção no leite e risco teórico ao lactente",
+      "administracao": "Oral",
+      "doseMaxima": "97/103 mg 2x/dia",
+      "doseMinima": "24/26 mg 2x/dia",
+      "classificacao": "Inibidor da neprilisina + antagonista dos receptores da angiotensina II",
+      "apresentacao": "Comprimidos: 24/26 mg, 49/51 mg, 97/103 mg",
+      "interacaoMedicamento": "Contraindicado com IECA (risco de angioedema); cautela com AINEs, lítio, diuréticos poupadores de potássio",
+      "posologia": "Iniciar com 49/51 mg 2x/dia; ajustar conforme resposta clínica e função renal",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso direto oral",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Histórico de angioedema, uso concomitante com IECA, gravidez, estenose bilateral de artéria renal",
+      "cuidadosMedicos": "Monitorar PA, eletrólitos e função renal regularmente",
+      "cuidadosFarmaceuticos": "Orientar suspensão de IECA 36h antes do início; atenção a sinais de angioedema",
+      "cuidadosEnfermagem": "Verificar sinais de hipotensão, edema, alterações de potássio e creatinina",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, Bula Entresto"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sacubitril/valsartan",
+      "suspension": "Hold 24–48h before major surgery or procedures with hemodynamic impact",
+      "risk": "Can cause hypotension, hyperkalemia, renal impairment, angioedema; contraindicated with ACE inhibitors",
+      "reintroduction": "Restart after stabilization of BP and renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sacubitril + Valsartan",
+      "nomeComercial": "Entresto",
+      "mecanismoAcao": "Sacubitril inhibits neprilysin, increasing natriuretic peptides; valsartan blocks angiotensin II receptor (AT1)",
+      "farmacocinetica": "Oral absorption; sacubitril is a prodrug; hepatic metabolism; t½ ~11h; renal and fecal elimination",
+      "farmacodinamica": "Enhances natriuresis and vasodilation, lowers afterload, improves cardiac output",
+      "indicacoes": "Heart failure with reduced ejection fraction (HFrEF)",
+      "reacoesAdversas": "Hypotension, hyperkalemia, renal dysfunction, cough, angioedema",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "97/103 mg BID",
+      "doseMinima": "24/26 mg BID",
+      "classificacao": "Neprilysin inhibitor + angiotensin receptor blocker",
+      "apresentacao": "Tablets: 24/26 mg, 49/51 mg, 97/103 mg",
+      "interacaoMedicamento": "Avoid ACE inhibitors; caution with potassium-sparing diuretics, lithium, NSAIDs",
+      "posologia": "Start at 49/51 mg BID, titrate to max per tolerance",
+      "armazenamento": "Room temperature; keep dry",
+      "preparo": "Direct oral administration",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "History of angioedema, pregnancy, ACEi within 36h",
+      "cuidadosMedicos": "Monitor BP, renal function, serum potassium",
+      "cuidadosFarmaceuticos": "Educate on ACEi washout and side effects",
+      "cuidadosEnfermagem": "Assess for hypotension, swelling, renal decline",
+      "fontesBibliograficas": "FDA, Entresto PI, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sacubitrilo/valsartán",
+      "suspension": "Suspender 24–48 h antes de cirugía con riesgo hemodinámico significativo",
+      "risk": "Hipotensión, hipercalemia, deterioro renal, angioedema; contraindicado con IECA",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sacubitrilo + Valsartán",
+      "nomeComercial": "Entresto",
+      "mecanismoAcao": "Inhibidor de neprilisina + antagonista del receptor de angiotensina II",
+      "farmacocinetica": "Sacubitrilo es un profármaco; metabolismo hepático; eliminación renal y fecal; t½ ~11 h",
+      "farmacodinamica": "Mejora natriuresis, dilatación vascular, reduce carga cardíaca",
+      "indicacoes": "Insuficiencia cardíaca crónica con fracción de eyección reducida",
+      "reacoesAdversas": "Hipotensión, hipercalemia, insuficiencia renal, tos, angioedema",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "97/103 mg 2 veces/día",
+      "doseMinima": "24/26 mg 2 veces/día",
+      "classificacao": "IECA + bloqueador RAAS",
+      "apresentacao": "Comprimidos: 24/26 mg, 49/51 mg, 97/103 mg",
+      "interacaoMedicamento": "Evitar IECA, AINEs, litio; precaución con diuréticos ahorradores de K",
+      "posologia": "Iniciar con 49/51 mg 2 veces/día; titular según tolerancia",
+      "armazenamento": "Ambiente seco y fresco",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Angioedema previo, embarazo, IECA reciente",
+      "cuidadosMedicos": "Controlar PA, potasio y función renal",
+      "cuidadosFarmaceuticos": "Explicar período de lavado con IECA (36h)",
+      "cuidadosEnfermagem": "Monitorizar hipotensión, edemas, alteración renal",
+      "fontesBibliograficas": "AEMPS, EMA, ficha técnica Entresto"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "沙库比曲/缬沙坦",
+      "suspension": "术前24–48小时停药，特别是大手术或麻醉需稳定血流动力学时",
+      "risk": "可致低血压、高钾、肾功能损害、血管性水肿；禁止与ACEI合用",
+      "reintroduction": "术后血流稳定、肾功能良好后可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "沙库比曲 + 缬沙坦",
+      "nomeComercial": "Entresto",
+      "mecanismoAcao": "沙库比曲抑制中性内肽酶，缬沙坦阻断血管紧张素II受体",
+      "farmacocinetica": "口服吸收良好；沙库比曲为前药，肝代谢，半衰期约11小时，肾/粪便排泄",
+      "farmacodinamica": "促进钠利尿、血管舒张，降低心脏负荷，改善心衰",
+      "indicacoes": "射血分数降低的慢性心力衰竭",
+      "reacoesAdversas": "低血压、高钾、肾损伤、咳嗽、水肿",
+      "riscoGravidez": "D类 – 禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日2次97/103 mg",
+      "doseMinima": "每日2次24/26 mg",
+      "classificacao": "NEP抑制剂 + ARB",
+      "apresentacao": "片剂：24/26 mg、49/51 mg、97/103 mg",
+      "interacaoMedicamento": "禁与ACEI合用；慎与保钾利尿剂、NSAIDs、锂同用",
+      "posologia": "起始剂量49/51 mg，每日2次，逐步调整",
+      "armazenamento": "室温，避湿",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "ACEI联合、妊娠、肾动脉狭窄、过敏史",
+      "cuidadosMedicos": "监测血压、电解质及肾功能",
+      "cuidadosFarmaceuticos": "明确ACEI停药36小时规则",
+      "cuidadosEnfermagem": "关注低血压、尿量、血钾异常",
+      "fontesBibliograficas": "中国药典、Micromedex、Entresto说明书"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Quinina",
+      "suspension": "Suspender 48 horas antes de cirurgia com risco cardíaco",
+      "risk": "Risco de arritmias, hipotensão, hipoglicemia e interação com anestésicos QT-prolongadores",
+      "reintroduction": "Reintroduzir após estabilização eletrolítica e ECG normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Quinina",
+      "nomeComercial": "Quinimax, Quinoform, Qualaquin",
+      "mecanismoAcao": "Interfere na digestão do heme pelo parasita, levando à toxicidade intracelular",
+      "farmacocinetica": "Biodisponibilidade oral ~90%; meia-vida 11h; metabolização hepática (CYP3A4)",
+      "farmacodinamica": "Esquizonticida sanguíneo contra Plasmodium spp.",
+      "indicacoes": "Malária por Plasmodium falciparum (formas complicadas ou resistentes)",
+      "reacoesAdversas": "Cinchonismo (zumbido, cefaleia, náusea), arritmias, hipoglicemia, distúrbios visuais",
+      "riscoGravidez": "Categoria D (uso em malária grave com benefício > risco)",
+      "riscoLactacao": "Permitido com cautela",
+      "administracao": "Oral ou intravenosa lenta",
+      "doseMaxima": "600mg IV a cada 8h ou 10mg/kg",
+      "doseMinima": "8mg/kg/dose",
+      "classificacao": "Antimalárico (alcaloide da quina)",
+      "apresentacao": "Comprimidos 300mg; solução injetável 600mg/2mL",
+      "interacaoMedicamento": "Interage com digoxina, anticoagulantes, QT-prolongadores, rifampicina, cimetidina",
+      "posologia": "10mg/kg/dose IV 8/8h ou 600mg VO 8/8h por 7 dias",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "IV: diluir em SG 5% ou SF e infundir lentamente (>4h)",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "QT prolongado, miastenia grave, hemoglobinúria negra",
+      "cuidadosMedicos": "Monitorar ECG, glicemia, eletrólitos e PA",
+      "cuidadosFarmaceuticos": "Ajustar dose em insuficiência renal; evitar mistura com drogas QT-prolongadoras",
+      "cuidadosEnfermagem": "Observar confusão, arritmia, hipoglicemia e distúrbios auditivos",
+      "fontesBibliograficas": "WHO, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Quinine",
+      "suspension": "Hold 48h prior to cardiac-risk surgeries",
+      "risk": "QT prolongation, hypoglycemia, arrhythmia, interaction with anesthetics",
+      "reintroduction": "Restart post-op once stable ECG and electrolytes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Quinine sulfate",
+      "nomeComercial": "Qualaquin",
+      "mecanismoAcao": "Disrupts heme metabolism in Plasmodium, causing toxic buildup",
+      "farmacocinetica": "Oral bioavailability ~90%; t½ ~11h; hepatic metabolism (CYP3A4)",
+      "farmacodinamica": "Blood schizonticide vs Plasmodium spp.",
+      "indicacoes": "Severe or resistant falciparum malaria",
+      "reacoesAdversas": "Cinchonism (tinnitus, headache), QT prolongation, hypoglycemia, vision disturbance",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Allowed with caution",
+      "administracao": "Oral or slow IV infusion",
+      "doseMaxima": "600mg every 8h (IV or PO)",
+      "doseMinima": "8mg/kg/dose",
+      "classificacao": "Antimalarial alkaloid",
+      "apresentacao": "Tablets 300mg; injection 600mg/2mL",
+      "interacaoMedicamento": "QT drugs, digoxin, rifampin, cimetidine",
+      "posologia": "10mg/kg IV or 600mg PO every 8h for 7 days",
+      "armazenamento": "Room temp, protect from light",
+      "preparo": "Dilute IV in D5W or NS; infuse over ≥4h",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Long QT, myasthenia gravis, blackwater fever",
+      "cuidadosMedicos": "Monitor ECG, glucose, electrolytes, BP",
+      "cuidadosFarmaceuticos": "Adjust for renal function; check QT interactions",
+      "cuidadosEnfermagem": "Watch for cinchonism, arrhythmias, hypoglycemia",
+      "fontesBibliograficas": "WHO, FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Quinina",
+      "suspension": "Suspender 48h antes de cirugía de riesgo cardiovascular",
+      "risk": "Prolongación de QT, hipoglucemia, interacciones anestésicas",
+      "reintroduction": "Reiniciar tras estabilidad ECG y electrolítica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato de quinina",
+      "nomeComercial": "Quinimax",
+      "mecanismoAcao": "Interfiere en metabolismo del hemo en Plasmodium",
+      "farmacocinetica": "VO ~90%; vida media ~11h; metabolismo hepático",
+      "farmacodinamica": "Esquizonticida en sangre contra Plasmodium",
+      "indicacoes": "Malaria grave o resistente",
+      "reacoesAdversas": "Cinchonismo, arritmias, hipoglucemia, visión borrosa",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Usar con precaución",
+      "administracao": "Oral o IV lenta",
+      "doseMaxima": "600mg cada 8h",
+      "doseMinima": "8mg/kg/dosis",
+      "classificacao": "Antipalúdico (alcaloide)",
+      "apresentacao": "Comprimidos 300mg, ampollas 600mg/2mL",
+      "interacaoMedicamento": "Antiarritmicos, digoxina, rifampicina",
+      "posologia": "10mg/kg c/8h por 7 días",
+      "armazenamento": "15–30°C, protegido de luz",
+      "preparo": "Diluir IV en SG5% o SSF, infundir ≥4h",
+      "solucoesCompatíveis": "SG5%, SSF",
+      "contraindicacoes": "QT largo, miastenia, fiebre hemoglobinúrica",
+      "cuidadosMedicos": "ECG, glucemia, PA, electrolitos",
+      "cuidadosFarmaceuticos": "Ajustar en IR, evitar fármacos QT",
+      "cuidadosEnfermagem": "Observar tinnitus, visión, hipoglucemia",
+      "fontesBibliograficas": "OMS, Micromedex, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奎宁",
+      "suspension": "术前48小时停药（心脏风险手术）",
+      "risk": "QT延长、低血糖、耳鸣、麻醉相互作用",
+      "reintroduction": "术后电解质及心电图恢复后可重新给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硫酸奎宁",
+      "nomeComercial": "Quinimax",
+      "mecanismoAcao": "干扰疟原虫血红素代谢，导致细胞毒性",
+      "farmacocinetica": "口服吸收良好，半衰期11小时，肝代谢",
+      "farmacodinamica": "对恶性疟原虫红细胞期有效",
+      "indicacoes": "重症或耐药疟疾",
+      "reacoesAdversas": "耳鸣、头痛、QT延长、低血糖、视觉模糊",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "慎用",
+      "administracao": "口服或静脉滴注",
+      "doseMaxima": "每8小时600mg",
+      "doseMinima": "每次8mg/kg",
+      "classificacao": "抗疟药（生物碱类）",
+      "apresentacao": "片剂300mg，注射剂600mg/2mL",
+      "interacaoMedicamento": "与QT药物、地高辛、利福平等联用风险",
+      "posologia": "每日3次，每次10mg/kg，疗程7天",
+      "armazenamento": "室温避光保存",
+      "preparo": "用5%葡萄糖或生理盐水稀释，4小时以上静滴",
+      "solucoesCompatíveis": "5%葡萄糖、0.9%氯化钠",
+      "contraindicacoes": "QT延长、重症肌无力、黑尿热史",
+      "cuidadosMedicos": "监测心电图、血糖、电解质、血压",
+      "cuidadosFarmaceuticos": "避免QT延长药联用，肾功能衰竭调整剂量",
+      "cuidadosEnfermagem": "注意耳鸣、低血糖、视觉障碍、心律异常",
+      "fontesBibliograficas": "WHO、中国药典、Micromedex、FDA"
+    }
+  }
+}

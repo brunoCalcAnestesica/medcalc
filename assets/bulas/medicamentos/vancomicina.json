@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vancomicina",
+      "suspension": "Suspender apenas se houver toxicidade ou disfunção renal significativa",
+      "risk": "Risco de nefrotoxicidade, ototoxicidade, reação do tipo red man, interação com anestésicos e relaxantes musculares",
+      "reintroduction": "Reintroduzir com monitoramento de função renal e níveis séricos (se EV prolongado)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vancomicina",
+      "nomeComercial": "Vancocin, Vancocina, Lyphocin",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana ligando-se ao precursor do peptidoglicano",
+      "farmacocinetica": "Administração EV; meia-vida 4–6h; excreção renal inalterada; má absorção oral (exceto em colite)",
+      "farmacodinamica": "Bactericida contra Gram-positivos, incluindo MRSA, estreptococos e enterococos sensíveis",
+      "indicacoes": "Infecções graves por Gram-positivos, colite pseudomembranosa (oral), endocardite, meningite, osteomielite",
+      "reacoesAdversas": "Nefrotoxicidade, ototoxicidade, flebite, rash, febre, reação do tipo red man",
+      "riscoGravidez": "Categoria B – pode ser usado se necessário",
+      "riscoLactacao": "Excretado em pequenas quantidades; uso com cautela",
+      "administracao": "Via intravenosa lenta (mínimo 60 min) ou oral em colite",
+      "doseMaxima": "3 g/dia (ajustada conforme função renal e peso)",
+      "doseMinima": "500 mg/dia (colite leve)",
+      "classificacao": "Antibiótico glicopeptídeo",
+      "apresentacao": "Pó liofilizado para solução injetável (500 mg, 1 g) ou cápsulas (125 mg, 250 mg)",
+      "interacaoMedicamento": "Neuro e nefrotoxicidade aumentada com aminoglicosídeos, ciclosporina, AINEs",
+      "posologia": "15–20 mg/kg EV a cada 8–12h; colite: 125–250 mg VO 4x/dia",
+      "armazenamento": "Refrigerado após reconstituição (2–8°C), uso em até 24h",
+      "preparo": "Reconstituir com água estéril; diluir em SF 0,9% ou SG 5%",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade à vancomicina",
+      "cuidadosMedicos": "Monitorar creatinina, níveis séricos (trough), sinais de toxicidade auditiva",
+      "cuidadosFarmaceuticos": "Controlar velocidade de infusão e compatibilidade de soluções",
+      "cuidadosEnfermagem": "Observar sinais de reação anafilactóide, infundir lentamente",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex, SBFC, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vancomycin",
+      "suspension": "Hold only if nephrotoxicity or renal failure is present",
+      "risk": "Nephrotoxicity, ototoxicity, red man syndrome, anesthetic interaction, hypotension",
+      "reintroduction": "Restart with renal monitoring and serum levels if prolonged IV use"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vancomycin",
+      "nomeComercial": "Vancocin, Firvanq",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis by binding to D-Ala-D-Ala terminus",
+      "farmacocinetica": "IV administration; T½ 4–6h; renal clearance; poor oral absorption",
+      "farmacodinamica": "Bactericidal against Gram-positive bacteria including MRSA, streptococci, enterococci",
+      "indicacoes": "Severe Gram-positive infections, C. difficile colitis (oral), endocarditis, meningitis",
+      "reacoesAdversas": "Nephrotoxicity, ototoxicity, phlebitis, rash, red man syndrome, chills",
+      "riscoGravidez": "Category B – use if needed",
+      "riscoLactacao": "Excreted in low levels; use with caution",
+      "administracao": "IV infusion (≥60 min) or oral (for colitis only)",
+      "doseMaxima": "3 g/day (adjusted by renal function and weight)",
+      "doseMinima": "500 mg/day (mild colitis)",
+      "classificacao": "Glycopeptide antibiotic",
+      "apresentacao": "Lyophilized powder (500 mg, 1 g), oral capsules (125 mg, 250 mg)",
+      "interacaoMedicamento": "Increased toxicity with aminoglycosides, NSAIDs, cyclosporine",
+      "posologia": "15–20 mg/kg IV q8–12h; oral: 125–250 mg PO QID",
+      "armazenamento": "Store at 2–8°C after reconstitution, use within 24h",
+      "preparo": "Reconstitute with sterile water, dilute in NS or D5W",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Hypersensitivity to vancomycin",
+      "cuidadosMedicos": "Monitor creatinine, trough levels, auditory function",
+      "cuidadosFarmaceuticos": "Infusion rate and compatibility monitoring",
+      "cuidadosEnfermagem": "Observe for flushing, hypotension, infuse slowly",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, IDSA Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vancomicina",
+      "suspension": "Suspender solo si hay toxicidad renal",
+      "risk": "Nefrotoxicidad, ototoxicidad, síndrome del hombre rojo, interacción anestésica",
+      "reintroduction": "Reintroducir con función renal y niveles plasmáticos controlados"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vancomicina",
+      "nomeComercial": "Vancocin",
+      "mecanismoAcao": "Inhibe síntesis de pared celular bacteriana al unirse a terminaciones D-Ala-D-Ala",
+      "farmacocinetica": "EV, T½ 4–6 h, eliminación renal, absorción oral mínima",
+      "farmacodinamica": "Bactericida frente a Gram positivos incluyendo MRSA y estreptococos",
+      "indicacoes": "Infecciones severas por Gram positivos, colitis por C. difficile (oral)",
+      "reacoesAdversas": "Nefrotoxicidad, ototoxicidad, flebitis, eritema, escalofríos",
+      "riscoGravidez": "Categoría B – usar si es necesario",
+      "riscoLactacao": "Se excreta en leche; usar con precaución",
+      "administracao": "Infusión IV lenta o vía oral para colitis",
+      "doseMaxima": "3 g/día (ajustada por función renal)",
+      "doseMinima": "500 mg/día",
+      "classificacao": "Antibiótico glicopéptido",
+      "apresentacao": "Polvo inyectable (500 mg, 1 g), cápsulas orales",
+      "interacaoMedicamento": "↑ toxicidad con aminoglucósidos, AINEs, ciclosporina",
+      "posologia": "15–20 mg/kg IV c/8–12h; oral 125–250 mg c/6h",
+      "armazenamento": "2–8°C tras reconstitución, uso en 24 h",
+      "preparo": "Disolver en agua estéril, diluir en SF o SG",
+      "solucoesCompatíveis": "SF, SG 5%",
+      "contraindicacoes": "Hipersensibilidad",
+      "cuidadosMedicos": "Control de creatinina y niveles plasmáticos",
+      "cuidadosFarmaceuticos": "Velocidad de infusión y compatibilidad",
+      "cuidadosEnfermagem": "Observar hipotensión, rubor, toxicidad auditiva",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "万古霉素",
+      "suspension": "如有肾毒性或严重肾功能不全需暂停",
+      "risk": "肾毒性、耳毒性、红人综合征、与麻醉药相互作用",
+      "reintroduction": "术后肾功能恢复并监测血药浓度后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "万古霉素",
+      "nomeComercial": "Vancocin",
+      "mecanismoAcao": "结合D-Ala-D-Ala，抑制细菌细胞壁合成",
+      "farmacocinetica": "静脉注射，T½ 4–6小时，肾排泄，口服吸收差",
+      "farmacodinamica": "杀灭革兰阳性菌，含MRSA、链球菌、肠球菌",
+      "indicacoes": "严重革兰阳性菌感染，艰难梭菌肠炎（口服）",
+      "reacoesAdversas": "肾毒性、耳毒性、静脉炎、红人综合征、寒战",
+      "riscoGravidez": "B类 – 可在必要时使用",
+      "riscoLactacao": "少量分泌至乳汁；慎用",
+      "administracao": "静滴（≥60分钟）或口服",
+      "doseMaxima": "每日3克（根据肾功能调整）",
+      "doseMinima": "每日500毫克",
+      "classificacao": "糖肽类抗生素",
+      "apresentacao": "粉末（500mg/1g），口服胶囊（125mg/250mg）",
+      "interacaoMedicamento": "与氨基糖苷类、NSAIDs、环孢素合用增毒性",
+      "posologia": "IV 15–20 mg/kg q8–12h；PO 125–250 mg q6h",
+      "armazenamento": "重构后2–8°C冷藏，24小时内用完",
+      "preparo": "用无菌水溶解，SF或5%葡萄糖稀释",
+      "solucoesCompatíveis": "生理盐水、5%葡萄糖",
+      "contraindicacoes": "对万古霉素过敏",
+      "cuidadosMedicos": "监测肾功能、血药浓度、听力",
+      "cuidadosFarmaceuticos": "控制滴速与配伍",
+      "cuidadosEnfermagem": "注意输注反应与毒副反应",
+      "fontesBibliograficas": "FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

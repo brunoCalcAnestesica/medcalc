@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cianeto de Hidrogênio",
+      "suspension": "Uso proibido em humanos; exposição acidental exige interrupção imediata e socorro urgente",
+      "risk": "Altamente letal por inibição da cadeia respiratória mitocondrial; parada respiratória e morte rápida",
+      "reintroduction": "Não aplicável; substância tóxica proibida para fins terapêuticos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cianeto de hidrogênio (HCN)",
+      "nomeComercial": "Não aplicável – substância industrial e bélica",
+      "mecanismoAcao": "Liga-se à citocromo c oxidase (complexo IV mitocondrial), bloqueando a respiração celular aeróbica",
+      "farmacocinetica": "Absorção rápida por inalação, ingestão ou contato dérmico; distribuição sistêmica imediata",
+      "farmacodinamica": "Bloqueio do uso celular de oxigênio, levando à hipóxia histotóxica mesmo com oxigenação adequada",
+      "indicacoes": "Nenhuma – uso estritamente proibido para fins terapêuticos",
+      "reacoesAdversas": "Dispneia, confusão, convulsões, inconsciência, parada cardiorrespiratória",
+      "riscoGravidez": "Categoria X – abortivo, teratogênico e letal",
+      "riscoLactacao": "Contraindicado; passa para o leite e é fatal",
+      "administracao": "Acidental – geralmente por inalação em acidentes químicos ou industriais",
+      "doseMaxima": "Dose letal estimada: 50–60 mg por via oral; 200–500 ppm por inalação",
+      "doseMinima": "Exposição a partir de 20 ppm já causa sintomas",
+      "classificacao": "Tóxico agudo – cianogênico",
+      "apresentacao": "Gás incolor ou líquido volátil com odor de amêndoas",
+      "interacaoMedicamento": "Não aplicável – interação tóxica com oxigênio celular e bloqueadores de cadeia respiratória",
+      "posologia": "Não aplicável",
+      "armazenamento": "Somente em instalações industriais especializadas e monitoradas",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Todo uso em humanos; substância de uso industrial proibida para fins clínicos",
+      "cuidadosMedicos": "Administração de antídotos como tiossulfato de sódio, nitrito de sódio e hidroxocobalamina; suporte avançado de vida",
+      "cuidadosFarmaceuticos": "Manipulação somente por equipes especializadas com EPI",
+      "cuidadosEnfermagem": "Isolamento do paciente, uso de barreiras, suporte respiratório intensivo",
+      "fontesBibliograficas": "WHO, ATSDR, CDC, PubChem, INRS França, UpToDate Tóxicos"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hydrogen Cyanide",
+      "suspension": "Prohibited substance; immediate cessation and emergency care required upon exposure",
+      "risk": "Highly lethal by inhibiting mitochondrial respiration; causes respiratory arrest and death",
+      "reintroduction": "Not applicable – no therapeutic use allowed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hydrogen cyanide (HCN)",
+      "nomeComercial": "Not applicable – industrial/toxic gas",
+      "mecanismoAcao": "Inhibits cytochrome c oxidase in mitochondria, blocking aerobic cellular respiration",
+      "farmacocinetica": "Rapid absorption by inhalation, ingestion, or skin contact; systemic distribution within seconds",
+      "farmacodinamica": "Causes histotoxic hypoxia; cells can't use oxygen despite normal oxygen delivery",
+      "indicacoes": "None – forbidden for therapeutic use",
+      "reacoesAdversas": "Dyspnea, confusion, seizures, unconsciousness, cardiorespiratory arrest",
+      "riscoGravidez": "Category X – abortifacient, teratogenic, fatal",
+      "riscoLactacao": "Contraindicated; lethal transmission via milk",
+      "administracao": "Accidental – mostly via inhalation in industrial/chemical accidents",
+      "doseMaxima": "Lethal oral dose: ~50–60 mg; inhalation: 200–500 ppm",
+      "doseMinima": "Symptoms may begin at 20 ppm inhaled",
+      "classificacao": "Acute toxic agent – cyanogenic compound",
+      "apresentacao": "Colorless gas or volatile liquid with bitter almond odor",
+      "interacaoMedicamento": "Not applicable – toxic interference with oxygen utilization",
+      "posologia": "Not applicable",
+      "armazenamento": "Industrial use only; secure facilities required",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "All human use; banned in medical contexts",
+      "cuidadosMedicos": "Antidotes: sodium thiosulfate, sodium nitrite, hydroxocobalamin; full intensive care support",
+      "cuidadosFarmaceuticos": "Handled only by trained personnel with PPE",
+      "cuidadosEnfermagem": "Isolation, full barrier protection, mechanical ventilation",
+      "fontesBibliograficas": "CDC, ATSDR, WHO, PubChem, TOXNET"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cianuro de Hidrógeno",
+      "suspension": "Sustancia prohibida; cesar contacto y aplicar atención médica urgente",
+      "risk": "Extremadamente tóxico; causa paro respiratorio y muerte por hipoxia celular",
+      "reintroduction": "No aplicable – no tiene uso terapéutico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cianuro de hidrógeno (HCN)",
+      "nomeComercial": "No aplicable – uso industrial o de guerra",
+      "mecanismoAcao": "Bloquea la citocromo c oxidasa mitocondrial; impide respiración celular",
+      "farmacocinetica": "Absorción inmediata por inhalación, oral o dérmica; difusión rápida",
+      "farmacodinamica": "Hipoxia histotóxica; células no pueden utilizar oxígeno",
+      "indicacoes": "Ninguna – prohibido en medicina",
+      "reacoesAdversas": "Disnea, confusión, convulsiones, paro cardiorrespiratorio",
+      "riscoGravidez": "Categoría X – abortivo y letal",
+      "riscoLactacao": "Prohibido; tóxico y mortal en leche materna",
+      "administracao": "Accidental – inhalación principalmente",
+      "doseMaxima": "Dosis letal: 50–60 mg oral; 200–500 ppm inhalación",
+      "doseMinima": "Síntomas desde 20 ppm",
+      "classificacao": "Tóxico agudo – cianogénico",
+      "apresentacao": "Gas incoloro con olor a almendras amargas",
+      "interacaoMedicamento": "No aplicable",
+      "posologia": "No aplicable",
+      "armazenamento": "Solo en plantas industriales seguras",
+      "preparo": "No aplicable",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Todo uso humano",
+      "cuidadosMedicos": "Antídotos: nitrito sódico, tiosulfato sódico, hidroxocobalamina",
+      "cuidadosFarmaceuticos": "Solo manejo profesional con EPI",
+      "cuidadosEnfermagem": "Aislamiento, soporte respiratorio total",
+      "fontesBibliograficas": "OMS, CDC, Micromedex, PubChem, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氢氰酸",
+      "suspension": "禁止用于人体；如暴露应立即停止并急救",
+      "risk": "强烈毒性，抑制细胞呼吸链，导致呼吸停止与死亡",
+      "reintroduction": "不适用；无治疗用途"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氢氰酸（HCN）",
+      "nomeComercial": "无 – 工业/毒气用途",
+      "mecanismoAcao": "阻断细胞色素氧化酶，抑制线粒体呼吸",
+      "farmacocinetica": "通过吸入、口服或皮肤快速吸收，全身分布迅速",
+      "farmacodinamica": "导致组织缺氧，即使氧气供应正常，细胞仍不能利用",
+      "indicacoes": "无 – 被禁止作为药物使用",
+      "reacoesAdversas": "呼吸困难、意识丧失、抽搐、心肺骤停",
+      "riscoGravidez": "X类 – 致畸、致死",
+      "riscoLactacao": "禁用 – 经乳汁致命",
+      "administracao": "多为工业或化学事故中的意外吸入",
+      "doseMaxima": "致死剂量口服约50–60毫克；吸入200–500 ppm",
+      "doseMinima": "20 ppm以上即可出现症状",
+      "classificacao": "急性毒物 – 氰类",
+      "apresentacao": "无色气体或液体，有苦杏仁气味",
+      "interacaoMedicamento": "不适用",
+      "posologia": "不适用",
+      "armazenamento": "仅限专业工业场所",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "所有人体用途",
+      "cuidadosMedicos": "使用解毒剂（亚硝酸钠、硫代硫酸钠、羟钴胺），高级生命支持",
+      "cuidadosFarmaceuticos": "仅限专业EPI操作人员处理",
+      "cuidadosEnfermagem": "隔离处理，全面支持生命系统",
+      "fontesBibliograficas": "WHO、CDC、中国药典、PubChem、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clevipidina",
+      "suspension": "Suspender 12 horas antes de cirurgias eletivas não cardiovasculares",
+      "risk": "Risco de hipotensão grave intraoperatória e interferência com controle hemodinâmico fino",
+      "reintroduction": "Reintroduzir conforme necessidade intra ou pós-operatória com monitorização invasiva"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clevipidina butirato",
+      "nomeComercial": "Cleviprex",
+      "mecanismoAcao": "Bloqueador seletivo dos canais de cálcio tipo L das arteríolas",
+      "farmacocinetica": "Início de ação <2 min; meia-vida ~1 min; metabolização rápida por esterases plasmáticas",
+      "farmacodinamica": "Potente vasodilatador arterial; reduz PA sem afetar função ventricular ou frequência cardíaca",
+      "indicacoes": "Controle agudo da hipertensão em ambientes hospitalares, inclusive em cirurgias cardíacas",
+      "reacoesAdversas": "Hipotensão, náusea, taquicardia reflexa, rubor facial, elevação de triglicerídeos",
+      "riscoGravidez": "Categoria C – usar apenas se o benefício justificar o risco",
+      "riscoLactacao": "Desconhecido; uso com cautela",
+      "administracao": "Infusão intravenosa contínua",
+      "doseMaxima": "32 mg/h",
+      "doseMinima": "1–2 mg/h",
+      "classificacao": "Antihipertensivo vasodilatador; bloqueador dos canais de cálcio diidropiridínico",
+      "apresentacao": "Emulsão lipídica 0,5 mg/mL em frasco de 50 ou 100 mL",
+      "interacaoMedicamento": "Potencialização com outros anti-hipertensivos e anestésicos; incompatível com propofol no mesmo acesso",
+      "posologia": "Iniciar com 1–2 mg/h, dobrando a cada 90 segundos até PA desejada; ajuste fino após 8 mg/h",
+      "armazenamento": "Temperatura ambiente (4–25°C), agitar suavemente, proteger da luz",
+      "preparo": "Pronto para uso; não diluir",
+      "solucoesCompatíveis": "Administrar em linha exclusiva; não compatível com diluentes aquosos",
+      "contraindicacoes": "Alergia a ovos, soja, dislipidemia grave, estenose aórtica crítica",
+      "cuidadosMedicos": "Monitorar PA invasiva, ECG, triglicerídeos e sinais de hipoperfusão",
+      "cuidadosFarmaceuticos": "Observar integridade da emulsão; uso restrito a hospital",
+      "cuidadosEnfermagem": "Verificar PAM continuamente; evitar mistura com outros fármacos",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, UpToDate, SBHCI"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Clevipidine",
+      "suspension": "Discontinue 12 hours prior to non-cardiac elective surgery",
+      "risk": "Risk of intraoperative hypotension and interference with hemodynamic control",
+      "reintroduction": "Reintroduce intra- or post-op as needed with invasive monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clevipidine butyrate",
+      "nomeComercial": "Cleviprex",
+      "mecanismoAcao": "L-type calcium channel blocker causing arterial vasodilation",
+      "farmacocinetica": "Onset <2 min; half-life ~1 min; rapid metabolism by plasma esterases",
+      "farmacodinamica": "Reduces BP without affecting heart rate or contractility",
+      "indicacoes": "Acute BP control in perioperative settings and critical care",
+      "reacoesAdversas": "Hypotension, nausea, reflex tachycardia, flushing, hypertriglyceridemia",
+      "riscoGravidez": "Category C – use if benefits outweigh risks",
+      "riscoLactacao": "Unknown; use caution",
+      "administracao": "Continuous intravenous infusion",
+      "doseMaxima": "32 mg/h",
+      "doseMinima": "1–2 mg/h",
+      "classificacao": "Antihypertensive, arterial vasodilator; dihydropyridine calcium channel blocker",
+      "apresentacao": "Lipid emulsion 0.5 mg/mL in 50 or 100 mL vial",
+      "interacaoMedicamento": "Potentiated by anesthetics and other antihypertensives; incompatible with propofol",
+      "posologia": "Start 1–2 mg/h, double q90s to desired BP, fine-tune above 8 mg/h",
+      "armazenamento": "Store at 4–25°C, shake gently, protect from light",
+      "preparo": "Ready to use; do not dilute",
+      "solucoesCompatíveis": "Dedicated IV line; do not mix with aqueous diluents",
+      "contraindicacoes": "Allergy to egg/soy, severe lipid disorders, critical aortic stenosis",
+      "cuidadosMedicos": "Monitor invasive BP, ECG, triglycerides, perfusion signs",
+      "cuidadosFarmaceuticos": "Check emulsion integrity; restricted to hospital use",
+      "cuidadosEnfermagem": "Continuously monitor MAP; no drug mixing in same line",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, ACC Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clevipidina",
+      "suspension": "Suspender 12 h antes de cirugía no cardíaca",
+      "risk": "Riesgo de hipotensión intraoperatoria y dificultad en control hemodinámico",
+      "reintroduction": "Reintroducir intra o postoperatoriamente con monitoreo invasivo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clevipidina butirato",
+      "nomeComercial": "Cleviprex",
+      "mecanismoAcao": "Bloquea canales de calcio tipo L, causa vasodilatación arterial",
+      "farmacocinetica": "Inicio <2 min; vida media ~1 min; metabolización por esterasa plasmática",
+      "farmacodinamica": "Disminuye la PA sin afectar FC ni contractilidad",
+      "indicacoes": "Control rápido de HTA en perioperatorio o UCI",
+      "reacoesAdversas": "Hipotensión, náuseas, taquicardia refleja, enrojecimiento, hipertrigliceridemia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Precaución",
+      "administracao": "Infusión IV continua",
+      "doseMaxima": "32 mg/h",
+      "doseMinima": "1–2 mg/h",
+      "classificacao": "Bloqueador de canales de calcio; vasodilatador arterial",
+      "apresentacao": "Emulsión 0,5 mg/mL, frascos de 50–100 mL",
+      "interacaoMedicamento": "Potenciado por anestésicos, antihipertensivos; incompatibilidad con propofol",
+      "posologia": "Inicio 1–2 mg/h, duplicar cada 90 s, ajustar sobre 8 mg/h",
+      "armazenamento": "4–25°C, agitar suavemente, proteger de luz",
+      "preparo": "Listo para usar, no diluir",
+      "solucoesCompatíveis": "Línea IV exclusiva",
+      "contraindicacoes": "Alergia a huevo/soja, dislipidemia grave, estenosis aórtica crítica",
+      "cuidadosMedicos": "Monitorear PA, ECG, lípidos y perfusión",
+      "cuidadosFarmaceuticos": "Solo uso hospitalario",
+      "cuidadosEnfermagem": "Control continuo de PAM, evitar mezcla con otros fármacos",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, AHA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "克利维地平",
+      "suspension": "择期非心脏手术前12小时停药",
+      "risk": "术中低血压风险高，影响血流动力学调控",
+      "reintroduction": "术中或术后如需再用，须有创监测支持"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "克利维地平丁酸酯",
+      "nomeComercial": "Cleviprex",
+      "mecanismoAcao": "选择性L型钙通道阻滞剂，引起动脉舒张",
+      "farmacocinetica": "起效<2分钟，半衰期约1分钟，血浆酯酶代谢",
+      "farmacodinamica": "降压迅速且不影响心率或心收缩",
+      "indicacoes": "术中或重症急性高血压管理",
+      "reacoesAdversas": "低血压、恶心、反射性心动过速、潮红、高甘油三酯",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "慎用",
+      "administracao": "持续静脉输注",
+      "doseMaxima": "每小时32毫克",
+      "doseMinima": "每小时1–2毫克",
+      "classificacao": "钙通道阻断剂；动脉扩张药",
+      "apresentacao": "乳剂 0.5 mg/mL，50/100 mL瓶装",
+      "interacaoMedicamento": "与麻醉药、降压药联用增强作用；不可与丙泊酚同路给药",
+      "posologia": "起始1–2 mg/h，每90秒倍增至目标血压，8 mg/h后微调",
+      "armazenamento": "4–25°C，避光，轻摇",
+      "preparo": "开瓶即用，禁止稀释",
+      "solucoesCompatíveis": "需单独输液通道",
+      "contraindicacoes": "对蛋类、大豆过敏，严重高脂血症，主动脉瓣狭窄",
+      "cuidadosMedicos": "监测有创血压、心电图、甘油三酯、灌注状态",
+      "cuidadosFarmaceuticos": "医院专用，乳剂稳定性需核查",
+      "cuidadosEnfermagem": "监测PAM，输注线路不得混药",
+      "fontesBibliograficas": "FDA、Micromedex、UpToDate、中国药典"
+    }
+  }
+}

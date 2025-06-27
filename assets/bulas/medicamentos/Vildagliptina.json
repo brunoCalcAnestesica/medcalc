@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vildagliptina",
+      "suspension": "Suspender 24 horas antes de cirurgias com risco de instabilidade glicêmica significativa",
+      "risk": "Risco de hipoglicemia em combinação com sulfonilureias; elevação de enzimas hepáticas; interações com anestésicos que alteram metabolismo hepático",
+      "reintroduction": "Reintroduzir com monitorização glicêmica 48h após retorno da alimentação enteral plena"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vildagliptina",
+      "nomeComercial": "Galvus, Galvus Met (associado à metformina)",
+      "mecanismoAcao": "Inibe a enzima DPP-4, aumentando níveis de incretinas (GLP-1 e GIP), promovendo liberação de insulina e redução de glucagon",
+      "farmacocinetica": "Biodisponibilidade oral ~85%; T1/2 ~3h; eliminação predominantemente renal",
+      "farmacodinamica": "Melhora da resposta glicêmica pós-prandial, com menor risco de hipoglicemia isolada",
+      "indicacoes": "Tratamento do diabetes mellitus tipo 2, como monoterapia ou em combinação com metformina, sulfonilureias ou insulina",
+      "reacoesAdversas": "Cefaleia, tontura, náusea, hepatotoxicidade, infecções urinárias",
+      "riscoGravidez": "Categoria B – não recomendado uso rotineiro em gestação",
+      "riscoLactacao": "Desconhecido; uso com cautela",
+      "administracao": "Via oral, com ou sem alimentos",
+      "doseMaxima": "100 mg/dia (dividido em 2 doses de 50 mg)",
+      "doseMinima": "50 mg/dia",
+      "classificacao": "Inibidor da dipeptidil peptidase-4 (DPP-4)",
+      "apresentacao": "Comprimidos de 50 mg isolado ou 50 mg + metformina (Galvus Met)",
+      "interacaoMedicamento": "Potencialização de hipoglicemia com sulfonilureias; ajuste com insulina; interação com fármacos hepatotóxicos",
+      "posologia": "50 mg 1–2x/dia conforme associação terapêutica e resposta glicêmica",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência hepática moderada a grave, histórico de pancreatite",
+      "cuidadosMedicos": "Monitorar transaminases, função renal e sinais de pancreatite",
+      "cuidadosFarmaceuticos": "Orientar adesão, uso regular e alertar para sinais de hipoglicemia",
+      "cuidadosEnfermagem": "Monitorar glicemia capilar, principalmente em períodos de jejum ou pós-operatório",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vildagliptin",
+      "suspension": "Discontinue 24 hours prior to surgery with risk of glycemic variability",
+      "risk": "Risk of hypoglycemia when combined with sulfonylureas, liver enzyme elevations, potential interaction with hepatic-metabolized anesthetics",
+      "reintroduction": "Reintroduce with glucose monitoring after full return to enteral feeding"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vildagliptin",
+      "nomeComercial": "Galvus, Galvus Met",
+      "mecanismoAcao": "DPP-4 inhibitor that increases incretin hormones (GLP-1 and GIP), enhancing insulin secretion and reducing glucagon",
+      "farmacocinetica": "Oral bioavailability ~85%; T1/2 ~3h; renal elimination",
+      "farmacodinamica": "Improves postprandial glucose response with minimal hypoglycemia",
+      "indicacoes": "Type 2 diabetes treatment alone or with metformin, sulfonylureas, or insulin",
+      "reacoesAdversas": "Headache, dizziness, nausea, liver enzyme elevation, urinary tract infections",
+      "riscoGravidez": "Category B – not routinely recommended in pregnancy",
+      "riscoLactacao": "Use with caution; unknown excretion in human milk",
+      "administracao": "Oral, with or without food",
+      "doseMaxima": "100 mg/day (2 x 50 mg)",
+      "doseMinima": "50 mg/day",
+      "classificacao": "Dipeptidyl peptidase-4 (DPP-4) inhibitor",
+      "apresentacao": "50 mg tablets or fixed combination with metformin",
+      "interacaoMedicamento": "Increased risk of hypoglycemia with sulfonylureas; caution with hepatotoxic drugs",
+      "posologia": "50 mg once or twice daily depending on regimen",
+      "armazenamento": "Store at room temp (15–30°C), dry conditions",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Moderate to severe hepatic impairment, history of pancreatitis",
+      "cuidadosMedicos": "Monitor liver function, renal function, and pancreatitis symptoms",
+      "cuidadosFarmaceuticos": "Reinforce adherence and recognition of hypoglycemia symptoms",
+      "cuidadosEnfermagem": "Monitor capillary glucose, especially perioperatively",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, Clinical Pharmacology"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vildagliptina",
+      "suspension": "Suspender 24 horas antes de cirugías con riesgo de descompensación glucémica",
+      "risk": "Hipoglucemia con sulfonilureas, aumento de enzimas hepáticas, interacción con anestésicos hepáticos",
+      "reintroduction": "Reintroducir tras restablecer alimentación y monitorizar glucosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vildagliptina",
+      "nomeComercial": "Galvus, Galvus Met",
+      "mecanismoAcao": "Inhibidor de DPP-4 que potencia incretinas (GLP-1, GIP), aumentando insulina y reduciendo glucagón",
+      "farmacocinetica": "Biodisponibilidad oral ~85%; T1/2 ~3h; eliminación renal",
+      "farmacodinamica": "Mejora respuesta postprandial con bajo riesgo hipoglucémico",
+      "indicacoes": "Diabetes tipo 2, solo o con metformina, insulina o sulfonilureas",
+      "reacoesAdversas": "Cefalea, mareo, náuseas, hepatotoxicidad, infecciones urinarias",
+      "riscoGravidez": "Categoría B – no recomendada rutinariamente",
+      "riscoLactacao": "Precaución; excreción desconocida",
+      "administracao": "Vía oral, con o sin alimentos",
+      "doseMaxima": "100 mg/día (2 x 50 mg)",
+      "doseMinima": "50 mg/día",
+      "classificacao": "Inhibidor de la DPP-4",
+      "apresentacao": "Comprimidos de 50 mg, solo o con metformina",
+      "interacaoMedicamento": "Mayor riesgo hipoglucemia con sulfonilureas; ajustar con insulina",
+      "posologia": "50 mg una o dos veces al día según esquema",
+      "armazenamento": "Temperatura ambiente seca",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía moderada/grave, antecedentes pancreatitis",
+      "cuidadosMedicos": "Control de enzimas hepáticas y síntomas pancreáticos",
+      "cuidadosFarmaceuticos": "Informar sobre riesgo hipoglucémico y adherencia",
+      "cuidadosEnfermagem": "Monitoreo glucémico perioperatorio",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, Guías de diabetes"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "维格列汀",
+      "suspension": "术前24小时停用（如血糖波动风险高）",
+      "risk": "与磺脲类合用可致低血糖，可能升高肝酶，与肝药酶代谢麻醉药相互作用",
+      "reintroduction": "恢复口服进食后48小时内在监测下重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "维格列汀",
+      "nomeComercial": "Galvus, Galvus Met",
+      "mecanismoAcao": "抑制DPP-4酶，增强GLP-1/GIP活性，促进胰岛素分泌，抑制胰高血糖素",
+      "farmacocinetica": "口服吸收好，T1/2约3小时，主要肾脏排泄",
+      "farmacodinamica": "改善餐后血糖控制，低风险低血糖",
+      "indicacoes": "2型糖尿病，可单用或与二甲双胍、胰岛素或磺脲类联合",
+      "reacoesAdversas": "头痛、头晕、恶心、肝功能异常、尿路感染",
+      "riscoGravidez": "B类 – 非常规推荐",
+      "riscoLactacao": "慎用；泌乳情况不明",
+      "administracao": "口服，可随餐或空腹服用",
+      "doseMaxima": "每日100毫克（分两次50毫克）",
+      "doseMinima": "每日50毫克",
+      "classificacao": "DPP-4抑制剂",
+      "apresentacao": "50毫克片剂或与二甲双胍复方",
+      "interacaoMedicamento": "与磺脲类合用风险增加；注意与肝毒药物同用",
+      "posologia": "每日50–100毫克，分1–2次服",
+      "armazenamento": "常温干燥处保存",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "中重度肝功能损害、胰腺炎病史",
+      "cuidadosMedicos": "监测肝酶、肾功能及胰腺炎征象",
+      "cuidadosFarmaceuticos": "提醒规律服药，警惕低血糖",
+      "cuidadosEnfermagem": "术前术后关注血糖波动与进食恢复",
+      "fontesBibliograficas": "FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

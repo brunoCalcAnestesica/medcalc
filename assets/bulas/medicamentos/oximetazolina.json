@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Oximetazolina",
+      "suspension": "Suspender 12 horas antes da cirurgia se uso prolongado nasal",
+      "risk": "Risco de hipertensão, taquicardia, rinite medicamentosa e interação com anestésicos vasopressores",
+      "reintroduction": "Pode ser reintroduzida no pós-operatório imediato se indicação clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oximetazolina cloridrato",
+      "nomeComercial": "Afrin, Aturgyl, Nasivin",
+      "mecanismoAcao": "Agonista α1 e parcialmente α2-adrenérgico com potente efeito vasoconstritor local",
+      "farmacocinetica": "Início em 5–10 min, duração 6–12 h; absorção sistêmica mínima em doses terapêuticas",
+      "farmacodinamica": "Reduz edema da mucosa nasal, melhora ventilação e alívio de obstrução",
+      "indicacoes": "Rinite alérgica, resfriado comum, sinusite, epistaxe (off-label)",
+      "reacoesAdversas": "Ardor nasal, insônia, hipertensão, rinite de rebote",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Sem dados; uso por curto período geralmente seguro",
+      "administracao": "Intranasal (spray ou gotas)",
+      "doseMaxima": "2 aplicações por narina a cada 12 h; máximo 3 dias consecutivos",
+      "doseMinima": "1 aplicação/dia (pediátrico)",
+      "classificacao": "Descongestionante nasal adrenérgico tópico",
+      "apresentacao": "Spray nasal 0,05% ou 0,025%, gotas infantis",
+      "interacaoMedicamento": "Potencial com IMAO, antidepressivos tricíclicos, vasopressores",
+      "posologia": "Adultos: 1–2 jatos por narina 2x/dia por até 3 dias",
+      "armazenamento": "Temperatura ambiente; proteger da luz",
+      "preparo": "Pronto para uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Glaucoma de ângulo fechado, hipertensão severa, uso recente de IMAO",
+      "cuidadosMedicos": "Evitar uso crônico (>3 dias); risco de rinite medicamentosa",
+      "cuidadosFarmaceuticos": "Educar sobre limite de duração e risco de rebote",
+      "cuidadosEnfermagem": "Observar PA, frequência cardíaca e eficácia respiratória",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Oxymetazoline",
+      "suspension": "Discontinue 12 hours before surgery if prolonged nasal use",
+      "risk": "May cause hypertension, tachycardia, rebound rhinitis; interacts with anesthetic vasopressors",
+      "reintroduction": "May resume postoperatively as needed for nasal congestion"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oxymetazoline hydrochloride",
+      "nomeComercial": "Afrin, Dristan, Zicam",
+      "mecanismoAcao": "Alpha-1 and partial alpha-2 adrenergic agonist; nasal vasoconstrictor",
+      "farmacocinetica": "Onset 5–10 min; duration 6–12 h; minimal systemic absorption",
+      "farmacodinamica": "Reduces nasal congestion and mucosal swelling",
+      "indicacoes": "Nasal congestion from cold, allergies, sinusitis",
+      "reacoesAdversas": "Nasal burning, rebound congestion, insomnia, elevated BP",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; short use likely safe",
+      "administracao": "Intranasal spray or drops",
+      "doseMaxima": "2 sprays per nostril BID; max 3 days",
+      "doseMinima": "1 spray daily (pediatric)",
+      "classificacao": "Topical adrenergic nasal decongestant",
+      "apresentacao": "0.05% nasal spray, 0.025% pediatric drops",
+      "interacaoMedicamento": "Caution with MAOIs, TCAs, vasopressors",
+      "posologia": "1–2 sprays per nostril every 12 h up to 3 days",
+      "armazenamento": "Store at room temperature",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Closed-angle glaucoma, severe hypertension, MAOI use",
+      "cuidadosMedicos": "Limit use to <3 days; monitor for rebound effect",
+      "cuidadosFarmaceuticos": "Educate on risk of overuse and nasal rebound",
+      "cuidadosEnfermagem": "Monitor BP, HR, nasal airflow",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Oximetazolina",
+      "suspension": "Suspender 12 h antes de cirugía si uso prolongado nasal",
+      "risk": "HTA, taquicardia, rinitis de rebote; interacción con vasopresores",
+      "reintroduction": "Reiniciar según necesidad posoperatoria si no hay contraindicaciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Oximetazolina clorhidrato",
+      "nomeComercial": "Afrin, Nasivin, Vicks Sinex",
+      "mecanismoAcao": "Agonista α1 y parcial α2; vasoconstricción nasal",
+      "farmacocinetica": "Inicio 5–10 min; duración 6–12 h",
+      "farmacodinamica": "Descongestiona mucosa nasal y reduce edema",
+      "indicacoes": "Rinitis, sinusitis, congestión nasal",
+      "reacoesAdversas": "Irritación nasal, insomnio, HTA, rinitis medicamentosa",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar uso prolongado",
+      "administracao": "Intranasal (spray o gotas)",
+      "doseMaxima": "2 aplicaciones por fosa nasal cada 12 h, hasta 3 días",
+      "doseMinima": "1 vez/día (niños)",
+      "classificacao": "Descongestionante nasal tópico simpaticomimético",
+      "apresentacao": "Spray nasal 0,05%, gotas 0,025%",
+      "interacaoMedicamento": "IMAO, ATC, simpaticomiméticos",
+      "posologia": "Adultos: 1–2 sprays/12 h; máximo 3 días",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Uso directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "HTA severa, glaucoma, uso de IMAO",
+      "cuidadosMedicos": "Limitar duración para evitar rebote",
+      "cuidadosFarmaceuticos": "Advertir sobre uso excesivo nasal",
+      "cuidadosEnfermagem": "Observar PA, FC y congestión nasal",
+      "fontesBibliograficas": "AEMPS, Vademécum, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "羟甲唑啉",
+      "suspension": "长期使用者术前应提前12小时停药",
+      "risk": "局部血管收缩作用强，可能导致高血压、反跳性鼻炎",
+      "reintroduction": "术后如有鼻塞可间断使用，限3天内"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "羟甲唑啉",
+      "nomeComercial": "Afrin, Dristan, 鼻爽灵",
+      "mecanismoAcao": "激动α1和部分α2肾上腺素受体，局部缩血管",
+      "farmacocinetica": "起效5–10分钟，作用持续6–12小时",
+      "farmacodinamica": "快速缓解鼻黏膜水肿和鼻塞",
+      "indicacoes": "感冒、鼻炎、鼻窦炎引起的鼻塞",
+      "reacoesAdversas": "鼻刺激、失眠、焦虑、血压升高、反跳性鼻炎",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "短期可用，避免长期使用",
+      "administracao": "鼻用喷雾或滴剂",
+      "doseMaxima": "每侧鼻孔每日不超2次，连续不超3天",
+      "doseMinima": "儿童每日1次",
+      "classificacao": "鼻用去充血剂",
+      "apresentacao": "0.05%喷雾剂，0.025%滴鼻剂",
+      "interacaoMedicamento": "与MAOI、TCA和拟交感药合用慎用",
+      "posologia": "成人每12小时1–2喷，限3天",
+      "armazenamento": "常温避光保存",
+      "preparo": "即用型",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "闭角型青光眼、严重高血压、MAOI共用",
+      "cuidadosMedicos": "避免长期使用和反跳性鼻炎",
+      "cuidadosFarmaceuticos": "指导正确使用，限时用药",
+      "cuidadosEnfermagem": "观察血压变化、鼻部不适和疗效",
+      "fontesBibliograficas": "中国药典, UpToDate, Micromedex, FDA"
+    }
+  }
+}

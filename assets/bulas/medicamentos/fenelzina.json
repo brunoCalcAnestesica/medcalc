@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fenelzina",
+      "suspension": "Suspender 14 dias antes da cirurgia eletiva",
+      "risk": "Risco elevado de crise hipertensiva com anestésicos, opioides e alimentos com tiramina; risco de interação com ISRS, IRSN, TCA e estimulantes",
+      "reintroduction": "Reintroduzir após no mínimo 7 dias da cirurgia, com paciente estável e sem uso de fármacos serotoninérgicos ou simpaticomiméticos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenelzina",
+      "nomeComercial": "Nardil",
+      "mecanismoAcao": "Inibidor irreversível e não seletivo da monoamina oxidase (MAO-A e MAO-B), aumentando os níveis sinápticos de dopamina, noradrenalina e serotonina",
+      "farmacocinetica": "Absorção oral eficiente, metabolização hepática, meia-vida curta (~11h), mas efeito prolongado pela inibição enzimática irreversível",
+      "farmacodinamica": "Antidepressivo potente com propriedades ansiolíticas; utilizado em depressão atípica e refratária; requer dieta e vigilância rigorosa de interações",
+      "indicacoes": "Transtorno depressivo maior resistente, depressão atípica, ansiedade social (off-label)",
+      "reacoesAdversas": "Hipotensão ortostática, ganho de peso, sedação, disfunção sexual, hepatotoxicidade, crise hipertensiva",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; evitar durante a amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "90mg/dia",
+      "doseMinima": "15mg/dia",
+      "classificacao": "Inibidor irreversível e não seletivo da MAO-A e MAO-B (IMAO clássico)",
+      "apresentacao": "Comprimidos de 15mg",
+      "interacaoMedicamento": "Interage com ISRS, IRSN, TCA, tramadol, petidina, descongestionantes e alimentos ricos em tiramina",
+      "posologia": "Iniciar com 15mg 3x/dia, aumentar gradualmente até 60–90mg/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz e umidade",
+      "preparo": "Exigir dieta restrita em tiramina durante uso e por 14 dias após descontinuação",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso concomitante com ISRS/IRSN/TCA, anestésicos halogenados, AVC recente, feocromocitoma",
+      "cuidadosMedicos": "Monitorar PA, função hepática, status mental e evitar interações medicamentosas graves",
+      "cuidadosFarmaceuticos": "Orientar sobre alimentação restrita, interações graves e tempo de washout necessário",
+      "cuidadosEnfermagem": "Observar sinais de crise hipertensiva, alterações neurológicas e efeitos autonômicos",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, NICE"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Phenelzine",
+      "suspension": "Discontinue 14 days prior to elective surgery",
+      "risk": "High risk of hypertensive crisis with anesthetics and opioids; interacts dangerously with SSRIs, SNRIs, TCAs and tyramine-rich foods",
+      "reintroduction": "Restart at least 7 days post-op if patient is stable and off serotonergic and sympathomimetic drugs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Phenelzine Sulfate",
+      "nomeComercial": "Nardil",
+      "mecanismoAcao": "Irreversible non-selective monoamine oxidase inhibitor (MAO-A and MAO-B); increases serotonin, norepinephrine and dopamine",
+      "farmacocinetica": "Well absorbed orally, short plasma half-life (~11h), hepatic metabolism, prolonged effect due to enzyme inactivation",
+      "farmacodinamica": "Potent antidepressant and anxiolytic; requires dietary restrictions and careful drug interaction monitoring",
+      "indicacoes": "Treatment-resistant depression, atypical depression, social anxiety disorder (off-label)",
+      "reacoesAdversas": "Orthostatic hypotension, weight gain, insomnia, sexual dysfunction, hepatotoxicity, hypertensive crisis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; not recommended while breastfeeding",
+      "administracao": "Oral route",
+      "doseMaxima": "90mg/day",
+      "doseMinima": "15mg/day",
+      "classificacao": "Irreversible non-selective MAOI",
+      "apresentacao": "Tablets: 15mg",
+      "interacaoMedicamento": "Interacts with SSRIs, SNRIs, TCAs, meperidine, tramadol, decongestants, tyramine-rich foods",
+      "posologia": "Start 15mg TID; titrate to 60–90mg/day",
+      "armazenamento": "Store at 15–30°C, protect from light and moisture",
+      "preparo": "Implement low-tyramine diet during and for 2 weeks after treatment",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Use with serotonergic drugs, stroke, pheochromocytoma, sympathomimetics",
+      "cuidadosMedicos": "Monitor BP, liver function, cognition and avoid hazardous interactions",
+      "cuidadosFarmaceuticos": "Strict dietary and drug warnings; reinforce adherence and washout protocols",
+      "cuidadosEnfermagem": "Watch for hypertensive symptoms, neurologic signs, dietary compliance",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, APA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fenelzina",
+      "suspension": "Suspender 14 días antes de cirugía electiva",
+      "risk": "Riesgo de crisis hipertensiva con anestesia y opioides; interacción con ISRS, IRSN, tricíclicos y alimentos con tiramina",
+      "reintroduction": "Reintroducir mínimo 7 días después de la cirugía si el paciente está estable y sin serotonérgicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato de Fenelzina",
+      "nomeComercial": "Nardil",
+      "mecanismoAcao": "IMAO no selectivo e irreversible (MAO-A y MAO-B), incrementa serotonina, noradrenalina y dopamina",
+      "farmacocinetica": "Buena absorción oral, vida media plasmática ~11h, metabolismo hepático, efecto prolongado por inhibición enzimática",
+      "farmacodinamica": "Antidepresivo eficaz con efecto ansiolítico; requiere restricciones dietéticas y control de interacciones",
+      "indicacoes": "Depresión resistente, depresión atípica, ansiedad social (off-label)",
+      "reacoesAdversas": "Hipotensión ortostática, ganancia de peso, insomnio, disfunción sexual, hepatotoxicidad, crisis hipertensiva",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se desconoce si se excreta; evitar durante la lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "90mg/día",
+      "doseMinima": "15mg/día",
+      "classificacao": "IMAO clásico no selectivo",
+      "apresentacao": "Comprimidos: 15mg",
+      "interacaoMedicamento": "ISRS, IRSN, antidepresivos tricíclicos, meperidina, tramadol, alimentos con tiramina",
+      "posologia": "Comenzar con 15mg tres veces/día; ajustar hasta 60–90mg/día",
+      "armazenamento": "15–30°C, protegido de luz y humedad",
+      "preparo": "Dieta sin tiramina durante el tratamiento y por 2 semanas posteriores",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Uso con ISRS/IRSN, ACV reciente, feocromocitoma, simpaticomiméticos",
+      "cuidadosMedicos": "Control de PA, función hepática, estado mental e interacciones severas",
+      "cuidadosFarmaceuticos": "Educar sobre dieta, interacciones graves y tiempo de lavado farmacológico",
+      "cuidadosEnfermagem": "Observar síntomas hipertensivos, neuropsiquiátricos y adherencia alimentaria",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "苯乙肼",
+      "suspension": "术前14天停药",
+      "risk": "与麻醉药、阿片类、酪胺食物联用可致高血压危象；与血清素药物合用风险极高",
+      "reintroduction": "术后至少7天，患者稳定且未使用5-HT药物时可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "苯乙肼",
+      "nomeComercial": "Nardil",
+      "mecanismoAcao": "不可逆非选择性MAO抑制剂（抑制MAO-A与MAO-B），增强多巴胺、去甲肾上腺素、5-羟色胺水平",
+      "farmacocinetica": "口服吸收好，肝代谢，半衰期约11小时，因酶失活作用持久",
+      "farmacodinamica": "抗抑郁强效，具抗焦虑特性；需严格饮食限制与监控相互作用",
+      "indicacoes": "难治性抑郁、非典型抑郁、社交焦虑障碍（超说明）",
+      "reacoesAdversas": "体位性低血压、体重增加、失眠、性功能障碍、肝毒性、高血压危象",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否分泌未知；不推荐哺乳期使用",
+      "administracao": "口服",
+      "doseMaxima": "每日90毫克",
+      "doseMinima": "每日15毫克",
+      "classificacao": "不可逆非选择性MAOI",
+      "apresentacao": "片剂：15mg",
+      "interacaoMedicamento": "SSRIs、SNRIs、TCA、哌替啶、曲马多、含酪胺食物、去充血剂",
+      "posologia": "起始15mg，一日三次，缓慢递增至每日60–90mg",
+      "armazenamento": "15–30°C，避光防潮保存",
+      "preparo": "建议严格限制饮食中酪胺含量，停药后继续维持2周",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "中风史、嗜铬细胞瘤、SSRIs/SNRIs合用史",
+      "cuidadosMedicos": "监测血压、肝功能、精神状态，避免严重药物相互作用",
+      "cuidadosFarmaceuticos": "加强饮食与药物说明、教育遵守清除间隔",
+      "cuidadosEnfermagem": "关注高血压体征、认知及神经状态变化",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex"
+    }
+  }
+}

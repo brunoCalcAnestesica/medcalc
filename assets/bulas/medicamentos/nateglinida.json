@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nateglinida",
+      "suspension": "Suspender no dia da cirurgia, especialmente em jejum prolongado",
+      "risk": "Risco de hipoglicemia perioperatória; requer ajuste de antidiabéticos orais e monitorização glicêmica rigorosa",
+      "reintroduction": "Reintroduzir após retorno da alimentação oral e estabilidade glicêmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nateglinida",
+      "nomeComercial": "Starlix",
+      "mecanismoAcao": "Estimula a liberação rápida e transitória de insulina pelas células β pancreáticas através do fechamento dos canais de potássio sensíveis ao ATP",
+      "farmacocinetica": "Absorção rápida oral, pico plasmático em 1 hora, meia-vida de 1,5 horas, metabolizada no fígado (CYP2C9 e CYP3A4), excreção urinária e fecal",
+      "farmacodinamica": "Reduz a glicemia pós-prandial; início rápido e curta duração de ação",
+      "indicacoes": "Tratamento do diabetes mellitus tipo 2 em monoterapia ou combinado com metformina",
+      "reacoesAdversas": "Hipoglicemia, infecções respiratórias, dores abdominais, náuseas, aumento de transaminases",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; evitar uso durante a amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "360mg/dia (dividido em três doses antes das refeições)",
+      "doseMinima": "60mg antes das refeições",
+      "classificacao": "Secretagogo de insulina (glinida)",
+      "apresentacao": "Comprimidos de 60mg e 120mg",
+      "interacaoMedicamento": "Potencializa efeito hipoglicemiante com outros antidiabéticos; interação com inibidores/indutores do CYP2C9/CYP3A4",
+      "posologia": "Administrar 1 a 10 minutos antes das refeições principais",
+      "armazenamento": "Conservar em temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Diabetes tipo 1, cetoacidose diabética, insuficiência hepática grave, gravidez",
+      "cuidadosMedicos": "Ajustar dose conforme resposta glicêmica; evitar em pacientes com função hepática comprometida",
+      "cuidadosFarmaceuticos": "Orientar sobre risco de hipoglicemia e importância da administração antes das refeições",
+      "cuidadosEnfermagem": "Monitorar glicemia capilar, especialmente em jejum ou mudança de dieta",
+      "fontesBibliograficas": "Micromedex, UpToDate, ANVISA, FDA, Starlix bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nateglinide",
+      "suspension": "Hold on the day of surgery, especially if prolonged fasting is expected",
+      "risk": "Risk of perioperative hypoglycemia; requires adjustment of oral antidiabetics and tight glucose monitoring",
+      "reintroduction": "Restart after oral intake resumes and glycemic stability is achieved"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nateglinide",
+      "nomeComercial": "Starlix",
+      "mecanismoAcao": "Stimulates rapid and transient insulin release from pancreatic β-cells by closing ATP-sensitive potassium channels",
+      "farmacocinetica": "Rapid oral absorption, peak in 1 hour, half-life ~1.5 hours, hepatic metabolism (CYP2C9 and CYP3A4), renal and fecal excretion",
+      "farmacodinamica": "Reduces postprandial glucose levels; fast onset and short duration of action",
+      "indicacoes": "Type 2 diabetes mellitus as monotherapy or in combination with metformin",
+      "reacoesAdversas": "Hypoglycemia, upper respiratory infections, abdominal pain, nausea, elevated liver enzymes",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; not recommended during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "360mg/day (in three doses before meals)",
+      "doseMinima": "60mg before meals",
+      "classificacao": "Insulin secretagogue (meglitinide)",
+      "apresentacao": "Tablets: 60mg and 120mg",
+      "interacaoMedicamento": "Potentiates hypoglycemic effect with other antidiabetics; interacts with CYP2C9/CYP3A4 modulators",
+      "posologia": "Administer 1 to 10 minutes before main meals",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Type 1 diabetes, diabetic ketoacidosis, severe hepatic impairment, pregnancy",
+      "cuidadosMedicos": "Adjust dose based on glycemic response; avoid in hepatic impairment",
+      "cuidadosFarmaceuticos": "Counsel on hypoglycemia risk and pre-meal administration",
+      "cuidadosEnfermagem": "Monitor capillary glucose, especially in fasting or dietary changes",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Starlix PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nateglinida",
+      "suspension": "Suspender el día de la cirugía, especialmente si se prevé ayuno prolongado",
+      "risk": "Riesgo de hipoglucemia perioperatoria; requiere ajuste de antidiabéticos orales y control glicémico estricto",
+      "reintroduction": "Reintroducir tras reanudar la alimentación oral y estabilizar la glucemia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nateglinida",
+      "nomeComercial": "Starlix",
+      "mecanismoAcao": "Estimula la liberación rápida y transitoria de insulina de las células β pancreáticas mediante el cierre de canales de potasio sensibles al ATP",
+      "farmacocinetica": "Absorción rápida por vía oral, pico en 1 hora, vida media ~1,5 h, metabolismo hepático (CYP2C9 y CYP3A4), excreción renal y fecal",
+      "farmacodinamica": "Disminuye la glucosa posprandial; inicio rápido y acción breve",
+      "indicacoes": "Diabetes mellitus tipo 2 en monoterapia o combinado con metformina",
+      "reacoesAdversas": "Hipoglucemia, infecciones respiratorias, dolor abdominal, náuseas, elevación de enzimas hepáticas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; evitar durante la lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "360mg/día (dividido en tres tomas antes de las comidas)",
+      "doseMinima": "60mg antes de las comidas",
+      "classificacao": "Secretagogo de insulina (glinida)",
+      "apresentacao": "Comprimidos de 60mg y 120mg",
+      "interacaoMedicamento": "Potencia el efecto hipoglucemiante con otros antidiabéticos; interacción con CYP2C9/CYP3A4",
+      "posologia": "Administrar de 1 a 10 minutos antes de las comidas principales",
+      "armazenamento": "Conservar a 15–30°C, protegido de la humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Diabetes tipo 1, cetoacidosis diabética, insuficiencia hepática grave, embarazo",
+      "cuidadosMedicos": "Ajustar la dosis según respuesta glucémica; evitar en insuficiencia hepática",
+      "cuidadosFarmaceuticos": "Orientar sobre el riesgo de hipoglucemia y administración previa a comidas",
+      "cuidadosEnfermagem": "Monitorear glucemia capilar, especialmente en ayuno o cambios dietéticos",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, Starlix ficha técnica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "那格列奈",
+      "suspension": "手术当天停药，特别是在预期禁食时",
+      "risk": "术中低血糖风险高；需调整口服降糖药并密切监测血糖",
+      "reintroduction": "恢复口服进食并血糖稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "那格列奈",
+      "nomeComercial": "Starlix",
+      "mecanismoAcao": "通过关闭ATP敏感性钾通道，刺激胰腺β细胞快速、短暂地分泌胰岛素",
+      "farmacocinetica": "口服吸收迅速，1小时达峰，半衰期约1.5小时，经肝代谢（CYP2C9和CYP3A4），肾和粪便排泄",
+      "farmacodinamica": "迅速起效，短效控制餐后血糖",
+      "indicacoes": "2型糖尿病的单药或与二甲双胍联合治疗",
+      "reacoesAdversas": "低血糖、上呼吸道感染、腹痛、恶心、转氨酶升高",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "尚不明确；哺乳期不推荐使用",
+      "administracao": "口服",
+      "doseMaxima": "每日360mg（分三次餐前服用）",
+      "doseMinima": "餐前60mg",
+      "classificacao": "促胰岛素分泌剂（格列奈类）",
+      "apresentacao": "片剂：60mg、120mg",
+      "interacaoMedicamento": "与其他降糖药协同作用；与CYP2C9/CYP3A4诱导剂或抑制剂相互作用",
+      "posologia": "主餐前1至10分钟服用",
+      "armazenamento": "15–30°C保存，避免潮湿",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "1型糖尿病、酮症酸中毒、严重肝功能障碍、妊娠期禁用",
+      "cuidadosMedicos": "根据血糖调整剂量，肝功能异常者慎用",
+      "cuidadosFarmaceuticos": "指导餐前服药，警惕低血糖",
+      "cuidadosEnfermagem": "监测血糖，特别是在禁食或饮食变化时",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Starlix说明书"
+    }
+  }
+}

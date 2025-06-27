@@ -1,0 +1,139 @@
+{
+  "PT": {
+    "external": {
+      "name": "Abiraterona",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de hipertensão, hipocalemia, retenção hídrica, arritmia e retardo cicatricial",
+      "reintroduction": "Reintroduzir após estabilização eletrolítica e pressão arterial, sem complicações cardíacas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Abiraterona",
+      "nomeComercial": "Zytiga",
+      "mecanismoAcao": "Inibidor seletivo da CYP17A1, enzima essencial para a síntese de andrógenos",
+      "farmacocinetica": "Biodisponibilidade aumenta com alimentos (usar em jejum); meia-vida ~12h; metabolizado por CYP3A4 e SULT2A1",
+      "farmacodinamica": "Reduz níveis de testosterona em pacientes com câncer de próstata resistente à castração",
+      "indicacoes": "Câncer de próstata metastático resistente à castração, pré ou pós-quimioterapia",
+      "reacoesAdversas": "Hipertensão, hipocalemia, edema, fadiga, hepatotoxicidade, arritmia",
+      "riscoGravidez": "Categoria X",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Via oral, em jejum (2h antes e 1h após refeições)",
+      "doseMaxima": "1000 mg/dia (4 comprimidos de 250 mg)",
+      "doseMinima": "500 mg/dia (ajustável)",
+      "classificacao": "Antineoplásico – inibidor da biossíntese de androgênios (anti-CYP17)",
+      "apresentacao": "Comprimidos de 250 mg ou 500 mg",
+      "interacaoMedicamento": "Interage com substratos do CYP2D6 e medicamentos que alteram potássio e PA",
+      "posologia": "1000 mg/dia + prednisona 5–10 mg/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo; ingerir com água",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, hipocalemia grave, hepatopatia grave",
+      "cuidadosMedicos": "Monitorar K+, PA, função hepática e ECG",
+      "cuidadosFarmaceuticos": "Orientar uso em jejum, adesão e prednisona conjunta",
+      "cuidadosEnfermagem": "Observar sinais de retenção hídrica, fraqueza e arritmias",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Abiraterone",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of hypertension, hypokalemia, fluid retention, arrhythmia, delayed healing",
+      "reintroduction": "Restart after electrolyte and BP stabilization and cardiac safety confirmed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Abiraterone",
+      "nomeComercial": "Zytiga",
+      "mecanismoAcao": "Selective CYP17A1 inhibitor, blocks androgen biosynthesis",
+      "farmacocinetica": "Bioavailability increases with food (administer fasting); half-life ~12h; CYP3A4 and SULT2A1 metabolism",
+      "farmacodinamica": "Suppresses testosterone levels in castration-resistant prostate cancer",
+      "indicacoes": "Metastatic castration-resistant prostate cancer, pre or post chemotherapy",
+      "reacoesAdversas": "Hypertension, hypokalemia, edema, fatigue, hepatotoxicity, arrhythmia",
+      "riscoGravidez": "Category X",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral, fasting (2h before and 1h after meals)",
+      "doseMaxima": "1000 mg/day (4 x 250 mg tablets)",
+      "doseMinima": "500 mg/day",
+      "classificacao": "Antineoplastic – androgen biosynthesis inhibitor (CYP17)",
+      "apresentacao": "Tablets: 250 mg, 500 mg",
+      "interacaoMedicamento": "Interacts with CYP2D6 substrates and potassium/BP-altering drugs",
+      "posologia": "1000 mg/day + prednisone 5–10 mg/day",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "No preparation required; swallow with water",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, severe hypokalemia or hepatic failure",
+      "cuidadosMedicos": "Monitor K+, BP, LFTs, ECG",
+      "cuidadosFarmaceuticos": "Instruct on fasting use and need for concurrent prednisone",
+      "cuidadosEnfermagem": "Observe for fluid retention, fatigue, arrhythmia",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Abiraterona",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de hipertensión, hipocalemia, retención de líquidos, arritmias, cicatrización lenta",
+      "reintroduction": "Reintroducir tras estabilizar electrolitos y PA, y evaluar seguridad cardíaca"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Abiraterona",
+      "nomeComercial": "Zytiga",
+      "mecanismoAcao": "Inhibidor selectivo de la CYP17A1, bloquea la síntesis de andrógenos",
+      "farmacocinetica": "Biodisponibilidad aumenta con comida; vida media ~12h; metabolizado por CYP3A4 y SULT2A1",
+      "farmacodinamica": "Suprime testosterona en cáncer de próstata resistente a castración",
+      "indicacoes": "Cáncer de próstata metastásico resistente a castración",
+      "reacoesAdversas": "Hipertensión, hipocalemia, edema, fatiga, hepatotoxicidad, arritmia",
+      "riscoGravidez": "Categoría X",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Vía oral en ayunas (2h antes, 1h después)",
+      "doseMaxima": "1000 mg/día",
+      "doseMinima": "500 mg/día",
+      "classificacao": "Antineoplásico – inhibidor de biosíntesis de andrógenos (CYP17)",
+      "apresentacao": "Comprimidos: 250 mg, 500 mg",
+      "interacaoMedicamento": "Interacción con sustratos de CYP2D6, fármacos que alteran potasio y PA",
+      "posologia": "1000 mg/día + prednisona 5–10 mg/día",
+      "armazenamento": "15–30°C",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, hipocalemia grave, insuficiencia hepática",
+      "cuidadosMedicos": "Controlar K+, PA, función hepática y ECG",
+      "cuidadosFarmaceuticos": "Explicar administración en ayunas y uso de prednisona",
+      "cuidadosEnfermagem": "Vigilar signos de retención, fatiga y arritmias",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿比特龙",
+      "suspension": "术前5天停药",
+      "risk": "高血压、低钾、水肿、心律失常及术后愈合延迟",
+      "reintroduction": "术后电解质与血压稳定、心电图正常后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿比特龙",
+      "nomeComercial": "Zytiga",
+      "mecanismoAcao": "CYP17A1酶抑制剂，阻断雄激素合成",
+      "farmacocinetica": "空腹服用吸收少；半衰期约12小时；CYP3A4代谢",
+      "farmacodinamica": "抑制睾酮生成，适用于去势抵抗性前列腺癌",
+      "indicacoes": "转移性去势抵抗性前列腺癌",
+      "reacoesAdversas": "高血压、低钾、水肿、疲劳、肝毒性、心律失常",
+      "riscoGravidez": "X类",
+      "riscoLactacao": "禁用",
+      "administracao": "口服，空腹服用（饭前2小时/饭后1小时）",
+      "doseMaxima": "每日1000毫克",
+      "doseMinima": "每日500毫克",
+      "classificacao": "抗肿瘤药 – 雄激素合成抑制剂",
+      "apresentacao": "片剂250 mg、500 mg",
+      "interacaoMedicamento": "与CYP2D6底物、降钾/升压药有相互作用",
+      "posologia": "每日1000 mg，联用泼尼松5–10 mg",
+      "armazenamento": "15–30°C，避光避湿",
+      "preparo": "无需制备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、重度低钾、严重肝功能障碍",
+      "cuidadosMedicos": "监测钾、血压、肝酶、心电图",
+      "cuidadosFarmaceuticos": "指导空腹服用及合用泼尼松",
+      "cuidadosEnfermagem": "关注水肿、疲劳、心律变化",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Temozolomida",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de mielossupressão, náuseas, vômitos e infecção oportunista",
+      "reintroduction": "Reintroduzir após recuperação hematológica e ausência de infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Temozolomida",
+      "nomeComercial": "Temodal",
+      "mecanismoAcao": "Agente alquilante que promove metilação do DNA, levando à morte celular por apoptose",
+      "farmacocinetica": "Biodisponibilidade oral ~100%; meia-vida ~1,8 horas; metabolização não enzimática; excreção renal",
+      "farmacodinamica": "Citotóxico independente do ciclo celular, com pico de ação em células de rápida divisão",
+      "indicacoes": "Glioblastoma multiforme, astrocitoma anaplásico, gliomas de alto grau",
+      "reacoesAdversas": "Leucopenia, trombocitopenia, náuseas, vômitos, fadiga, cefaleia, infecções",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via oral ou intravenosa (uso hospitalar específico)",
+      "doseMaxima": "200 mg/m²/dia",
+      "doseMinima": "75 mg/m²/dia",
+      "classificacao": "Antineoplásico – agente alquilante imidazotetrazínico",
+      "apresentacao": "Cápsulas de 5, 20, 100, 140, 180 e 250 mg",
+      "interacaoMedicamento": "Interações com valproato, corticoides, mielossupressores e vacinas vivas",
+      "posologia": "150–200 mg/m²/dia por 5 dias a cada 28 dias",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade e luz",
+      "preparo": "Uso oral; EV requer diluição em ambiente hospitalar com técnica asséptica",
+      "solucoesCompatíveis": "SF 0,9% (EV hospitalar)",
+      "contraindicacoes": "Gravidez, lactação, mielodepressão severa, infecção não controlada",
+      "cuidadosMedicos": "Monitorar hemograma antes de cada ciclo; profilaxia para Pneumocystis jirovecii se uso prolongado",
+      "cuidadosFarmaceuticos": "Armazenar em embalagem original, orientar paciente quanto ao uso correto e descarte",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hematológica, orientar sobre administração com estômago vazio",
+      "fontesBibliograficas": "INCA, FDA, ANVISA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Temozolomide",
+      "suspension": "Discontinue 7 days prior to elective surgery",
+      "risk": "Risk of myelosuppression, nausea, vomiting, and opportunistic infections",
+      "reintroduction": "Restart after hematologic recovery and absence of active infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Temozolomide",
+      "nomeComercial": "Temodar",
+      "mecanismoAcao": "Alkylating agent that methylates DNA, inducing apoptosis in rapidly dividing cells",
+      "farmacocinetica": "Oral bioavailability ~100%; half-life ~1.8 h; non-enzymatic metabolism; renal excretion",
+      "farmacodinamica": "Cell cycle–independent cytotoxic effect, peak action in proliferating tissues",
+      "indicacoes": "Glioblastoma multiforme, anaplastic astrocytoma, high-grade gliomas",
+      "reacoesAdversas": "Leukopenia, thrombocytopenia, nausea, vomiting, fatigue, headache, infections",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral or intravenous (hospital setting)",
+      "doseMaxima": "200 mg/m²/day",
+      "doseMinima": "75 mg/m²/day",
+      "classificacao": "Antineoplastic – alkylating agent (imidazotetrazine derivative)",
+      "apresentacao": "Capsules of 5, 20, 100, 140, 180, 250 mg",
+      "interacaoMedicamento": "Interacts with valproic acid, corticosteroids, immunosuppressants, live vaccines",
+      "posologia": "150–200 mg/m²/day for 5 days every 28 days",
+      "armazenamento": "Store at 15–30°C, protect from moisture and light",
+      "preparo": "Oral use; IV requires aseptic preparation in hospital",
+      "solucoesCompatíveis": "NS (IV use only)",
+      "contraindicacoes": "Pregnancy, breastfeeding, severe myelosuppression, uncontrolled infection",
+      "cuidadosMedicos": "Monitor CBC before each cycle; PJP prophylaxis for prolonged use",
+      "cuidadosFarmaceuticos": "Keep in original packaging, instruct proper handling and disposal",
+      "cuidadosEnfermagem": "Watch for hematologic toxicity, advise fasting before dosing",
+      "fontesBibliograficas": "FDA, Micromedex, NCCN, ASCO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Temozolomida",
+      "suspension": "Suspender 7 días antes de cirugía electiva",
+      "risk": "Riesgo de mielosupresión, náuseas, vómitos e infecciones oportunistas",
+      "reintroduction": "Reintroducir tras recuperación hematológica y ausencia de infección activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Temozolomida",
+      "nomeComercial": "Temodal",
+      "mecanismoAcao": "Agente alquilante que metila el ADN, induciendo apoptosis en células tumorales",
+      "farmacocinetica": "Biodisponibilidad oral ~100%; vida media ~1.8 h; metabolismo no enzimático; excreción renal",
+      "farmacodinamica": "Citotóxico independiente del ciclo celular, con acción sobre tejidos en proliferación",
+      "indicacoes": "Glioblastoma multiforme, astrocitoma anaplásico, gliomas de alto grado",
+      "reacoesAdversas": "Leucopenia, trombocitopenia, náuseas, vómitos, fatiga, cefalea, infecciones",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado; se excreta en la leche materna",
+      "administracao": "Vía oral o intravenosa (uso hospitalario)",
+      "doseMaxima": "200 mg/m²/día",
+      "doseMinima": "75 mg/m²/día",
+      "classificacao": "Antineoplásico – agente alquilante (imidazotetrazina)",
+      "apresentacao": "Cápsulas de 5, 20, 100, 140, 180 y 250 mg",
+      "interacaoMedicamento": "Interacciones con ácido valproico, corticoides, inmunosupresores, vacunas vivas",
+      "posologia": "150–200 mg/m²/día durante 5 días cada 28 días",
+      "armazenamento": "Temperatura ambiente (15–30°C), proteger de la humedad y luz",
+      "preparo": "Uso oral; EV requiere dilución hospitalaria estéril",
+      "solucoesCompatíveis": "SF 0,9% (uso EV hospitalario)",
+      "contraindicacoes": "Embarazo, lactancia, mielodepresión grave, infección activa",
+      "cuidadosMedicos": "Monitorear hemograma, profilaxis para P. jirovecii si uso prolongado",
+      "cuidadosFarmaceuticos": "Conservar en envase original, orientar sobre administración correcta",
+      "cuidadosEnfermagem": "Vigilar toxicidad hematológica, recomendar ayuno previo",
+      "fontesBibliograficas": "ANMAT, FDA, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "替莫唑胺",
+      "suspension": "择期手术前7天停药",
+      "risk": "骨髓抑制、恶心呕吐和机会性感染的风险",
+      "reintroduction": "血象恢复正常且无感染后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "替莫唑胺",
+      "nomeComercial": "Temodar, 泰莫达",
+      "mecanismoAcao": "烷化剂，通过DNA甲基化破坏肿瘤细胞，诱导凋亡",
+      "farmacocinetica": "口服生物利用度接近100%；半衰期约1.8小时；非酶代谢，经肾排泄",
+      "farmacodinamica": "细胞周期非依赖性细胞毒药，作用于快速分裂细胞",
+      "indicacoes": "多形性胶质母细胞瘤、间变性星形细胞瘤、高级别胶质瘤",
+      "reacoesAdversas": "白细胞减少、血小板减少、恶心、呕吐、疲劳、头痛、感染",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用，可分泌至乳汁中",
+      "administracao": "口服或静脉注射（限医院）",
+      "doseMaxima": "每日200 mg/m²",
+      "doseMinima": "每日75 mg/m²",
+      "classificacao": "抗肿瘤药 – 烷化剂（咪唑四嗪类）",
+      "apresentacao": "口服胶囊：5、20、100、140、180、250 mg",
+      "interacaoMedicamento": "与丙戊酸、糖皮质激素、免疫抑制剂、活疫苗有相互作用",
+      "posologia": "每日150–200 mg/m²，服用5天，每28天一个周期",
+      "armazenamento": "15–30°C干燥避光保存",
+      "preparo": "口服直接使用；静脉使用需医院配制",
+      "solucoesCompatíveis": "0.9%氯化钠（仅限IV）",
+      "contraindicacoes": "妊娠、哺乳、重度骨髓抑制、活动性感染",
+      "cuidadosMedicos": "监测血常规；长期使用需防PJP感染",
+      "cuidadosFarmaceuticos": "保持原包装，正确指导患者用药和处理残药",
+      "cuidadosEnfermagem": "评估血液毒性，建议空腹服用",
+      "fontesBibliograficas": "中国药典, FDA, Micromedex, NCCN"
+    }
+  }
+}

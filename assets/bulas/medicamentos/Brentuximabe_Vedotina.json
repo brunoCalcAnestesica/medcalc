@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Brentuximabe vedotina",
+      "suspension": "Suspender 7 dias antes de procedimentos com risco hematológico",
+      "risk": "Risco de mielossupressão, neuropatia periférica e reações infusionais; potencial interação com anestésicos e risco de infecção",
+      "reintroduction": "Reintroduzir após recuperação hematológica e ausência de infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Brentuximabe vedotina",
+      "nomeComercial": "Adcetris",
+      "mecanismoAcao": "Conjugado anticorpo-fármaco que liga-se à CD30 e libera agente citotóxico monometil auristatina E (MMAE)",
+      "farmacocinetica": "Meia-vida terminal média: 4–6 dias; metabolização hepática (CYP3A4); eliminação principalmente fecal",
+      "farmacodinamica": "Induz apoptose em células tumorais CD30+ por inibição da polimerização de microtúbulos",
+      "indicacoes": "Linfoma de Hodgkin refratário/recidivado, linfoma anaplásico de grandes células sistêmico e cutâneo",
+      "reacoesAdversas": "Neuropatia, leucopenia, infecção, febre, fadiga, náusea, elevação de transaminases",
+      "riscoGravidez": "Categoria D – pode causar dano fetal",
+      "riscoLactacao": "Contraindicado na amamentação",
+      "administracao": "Infusão intravenosa durante 30 minutos",
+      "doseMaxima": "1,8 mg/kg a cada 3 semanas",
+      "doseMinima": "1,2 mg/kg a cada 3 semanas",
+      "classificacao": "Antineoplásico – anticorpo monoclonal conjugado",
+      "apresentacao": "Frasco-ampola liofilizado de 50 mg",
+      "interacaoMedicamento": "Interações com inibidores/indutores de CYP3A4; cuidado com fármacos mielotóxicos",
+      "posologia": "1,8 mg/kg EV a cada 21 dias, por até 16 ciclos",
+      "armazenamento": "Refrigerado (2–8°C), protegido da luz, não congelar",
+      "preparo": "Reconstituir com 10,5 mL de água estéril; diluir em soro fisiológico para infusão",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Hipersensibilidade, gravidez, neuropatia grau ≥2",
+      "cuidadosMedicos": "Monitorar função hepática, hematológica e sinais neurológicos",
+      "cuidadosFarmaceuticos": "Preparar em ambiente estéril; descartar resíduos como citotóxicos",
+      "cuidadosEnfermagem": "Observar reações infusionais, parestesias, sinais de infecção",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Brentuximab vedotin",
+      "suspension": "Discontinue 7 days prior to high-risk hematologic procedures",
+      "risk": "Risk of myelosuppression, neuropathy, infusion reactions; interacts with anesthetics and infection risk",
+      "reintroduction": "Restart after hematologic recovery and resolution of active infections"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Brentuximab vedotin",
+      "nomeComercial": "Adcetris",
+      "mecanismoAcao": "Antibody-drug conjugate targeting CD30; releases MMAE causing apoptosis",
+      "farmacocinetica": "Half-life: 4–6 days; metabolized by liver (CYP3A4); fecal excretion",
+      "farmacodinamica": "Disrupts microtubule polymerization in CD30+ cells, inducing apoptosis",
+      "indicacoes": "Relapsed/refractory Hodgkin lymphoma, systemic and cutaneous ALCL",
+      "reacoesAdversas": "Neuropathy, neutropenia, infections, fever, nausea, liver enzyme elevations",
+      "riscoGravidez": "Category D – fetal risk confirmed",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "IV infusion over 30 minutes",
+      "doseMaxima": "1.8 mg/kg every 3 weeks",
+      "doseMinima": "1.2 mg/kg every 3 weeks",
+      "classificacao": "Antineoplastic – antibody-drug conjugate",
+      "apresentacao": "Lyophilized powder 50 mg vial",
+      "interacaoMedicamento": "CYP3A4 interactions; caution with myelotoxic agents",
+      "posologia": "1.8 mg/kg IV every 21 days, up to 16 cycles",
+      "armazenamento": "Refrigerate at 2–8°C, protect from light, do not freeze",
+      "preparo": "Reconstitute with 10.5 mL sterile water; dilute in NS for infusion",
+      "solucoesCompatíveis": "0.9% sodium chloride",
+      "contraindicacoes": "Hypersensitivity, pregnancy, grade ≥2 neuropathy",
+      "cuidadosMedicos": "Monitor hepatic, hematologic and neurologic status",
+      "cuidadosFarmaceuticos": "Reconstitute in sterile field; handle as cytotoxic",
+      "cuidadosEnfermagem": "Watch for infusion reactions, paresthesia, infection",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Brentuximab vedotina",
+      "suspension": "Suspender 7 días antes de procedimientos hematológicos de riesgo",
+      "risk": "Riesgo de mielosupresión, neuropatía, reacciones a la infusión; interacción con anestesia",
+      "reintroduction": "Reanudar tras recuperación hematológica y resolución de infecciones"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Brentuximab vedotina",
+      "nomeComercial": "Adcetris",
+      "mecanismoAcao": "Conjugado anticuerpo-fármaco que libera MMAE tras unión al CD30",
+      "farmacocinetica": "Vida media 4–6 días; metabolismo hepático (CYP3A4); excreción fecal",
+      "farmacodinamica": "Bloquea polimerización de microtúbulos en células CD30+, induciendo apoptosis",
+      "indicacoes": "Linfoma de Hodgkin y linfoma anaplásico de células grandes refractarios o recidivantes",
+      "reacoesAdversas": "Neuropatía, neutropenia, fiebre, infecciones, náuseas, enzimas hepáticas elevadas",
+      "riscoGravidez": "Categoría D – riesgo fetal",
+      "riscoLactacao": "Contraindicado en lactancia",
+      "administracao": "Infusión intravenosa en 30 minutos",
+      "doseMaxima": "1,8 mg/kg cada 3 semanas",
+      "doseMinima": "1,2 mg/kg cada 3 semanas",
+      "classificacao": "Antineoplásico – conjugado anticuerpo-fármaco",
+      "apresentacao": "Vial liofilizado 50 mg",
+      "interacaoMedicamento": "Interacciones con CYP3A4; precaución con agentes mielotóxicos",
+      "posologia": "1,8 mg/kg IV cada 21 días hasta 16 ciclos",
+      "armazenamento": "Refrigerado (2–8°C), protegido de la luz",
+      "preparo": "Reconstituir con 10,5 mL agua estéril y diluir en suero fisiológico",
+      "solucoesCompatíveis": "Cloruro sódico 0,9%",
+      "contraindicacoes": "Hipersensibilidad, embarazo, neuropatía grado ≥2",
+      "cuidadosMedicos": "Monitorear función hepática, neurológica y hematológica",
+      "cuidadosFarmaceuticos": "Preparar en campo estéril; manejar como citotóxico",
+      "cuidadosEnfermagem": "Observar reacciones a la infusión, parestesias, fiebre",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "布伦图昔单抗维多汀",
+      "suspension": "术前7天停药（高出血/骨髓抑制风险）",
+      "risk": "可能引起骨髓抑制、神经毒性、输注反应；与麻醉药相互作用",
+      "reintroduction": "在血象恢复并无活动性感染后重新给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "布伦图昔单抗维多汀",
+      "nomeComercial": "Adcetris",
+      "mecanismoAcao": "靶向CD30的抗体药物偶联物，释放MMAE诱导细胞凋亡",
+      "farmacocinetica": "半衰期4–6天，经肝CYP3A4代谢，粪便排泄",
+      "farmacodinamica": "干扰CD30+肿瘤细胞的微管形成，诱导凋亡",
+      "indicacoes": "复发/难治性霍奇金淋巴瘤、大细胞淋巴瘤",
+      "reacoesAdversas": "外周神经病变、粒细胞减少、发热、恶心、肝酶升高",
+      "riscoGravidez": "D类 – 存在胎儿风险",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "静脉滴注30分钟",
+      "doseMaxima": "1.8 mg/kg 每3周",
+      "doseMinima": "1.2 mg/kg 每3周",
+      "classificacao": "抗肿瘤 – 抗体药物偶联物",
+      "apresentacao": "50 mg 冻干粉注射剂",
+      "interacaoMedicamento": "与CYP3A4代谢药物、骨髓毒性药物相互作用",
+      "posologia": "每21天1.8 mg/kg，最多16个周期",
+      "armazenamento": "冷藏（2–8°C），避光，不可冷冻",
+      "preparo": "用10.5 mL灭菌水重溶，再稀释于生理盐水",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对药物过敏、怀孕、2级以上神经病变",
+      "cuidadosMedicos": "监测肝功能、血象及神经系统",
+      "cuidadosFarmaceuticos": "无菌条件下配制，作为细胞毒药物处理",
+      "cuidadosEnfermagem": "监测输注反应、神经症状及感染迹象",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, 中国药典"
+    }
+  }
+}

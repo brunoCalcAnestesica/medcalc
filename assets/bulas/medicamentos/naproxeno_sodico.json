@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Naproxeno sódico",
+      "suspension": "Suspender 48 horas antes de cirurgias eletivas, especialmente em pacientes com risco de sangramento ou uso de anticoagulantes.",
+      "risk": "Risco elevado de toxicidade gastrintestinal, sangramento, disfunção renal e interação com anestésicos. Meia-vida longa exige suspensão com antecedência.",
+      "reintroduction": "Reintroduzir 48–72h após cirurgia com estabilidade clínica, sem sangramento ativo e função renal preservada."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Naproxeno sódico",
+      "nomeComercial": "Flanax, Naprosyn, Aleve, Naproxen Sodium",
+      "mecanismoAcao": "Inibição não seletiva da COX-1 e COX-2, reduzindo a síntese de prostaglandinas envolvidas na dor, inflamação e febre.",
+      "farmacocinetica": "Absorção rápida por via oral; pico plasmático em 1–2h; meia-vida longa (12–17h); excreção renal; alta ligação a proteínas plasmáticas (~99%).",
+      "farmacodinamica": "Efeito anti-inflamatório, analgésico e antipirético duradouro. A forma sódica proporciona início de ação mais rápido que o naproxeno base.",
+      "indicacoes": "Artrite, dor musculoesquelética, dismenorreia, cefaleia, dor aguda moderada, tendinites, bursites.",
+      "reacoesAdversas": "Dispepsia, dor epigástrica, náusea, tontura, cefaleia, retenção hídrica, aumento da PA, sangramento digestivo, lesão renal.",
+      "riscoGravidez": "Categoria C (1º e 2º trimestres), D (3º trimestre – risco de fechamento prematuro do ducto arterioso).",
+      "riscoLactacao": "Pode ser usado com cautela por curto período; evitar uso crônico.",
+      "administracao": "Via oral.",
+      "doseMaxima": "1.375 mg/dia (equivalente a 1.000 mg de naproxeno base).",
+      "doseMinima": "220 mg (naproxeno sódico) por dose.",
+      "classificacao": "AINE não seletivo.",
+      "apresentacao": "Comprimidos de 220 mg, 275 mg, 550 mg (naproxeno sódico); 250 mg, 500 mg (naproxeno base).",
+      "interacaoMedicamento": "Interage com anticoagulantes, AAS, corticosteroides, IECA, diuréticos, lítio, metotrexato.",
+      "posologia": "220–550 mg a cada 12 horas, com dose inicial de até 825 mg se necessário.",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade.",
+      "preparo": "Não requer preparo especial.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Úlcera péptica ativa, insuficiência renal ou hepática grave, gestação no 3º trimestre, asma induzida por AINE.",
+      "cuidadosMedicos": "Monitorar função renal, PA, sinais de sangramento e sintomas gastrointestinais.",
+      "cuidadosFarmaceuticos": "Evitar associação com outros AINEs; avaliar necessidade de gastroproteção.",
+      "cuidadosEnfermagem": "Administrar com alimentos; monitorar PA, dor epigástrica e edema.",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Naproxen sodium",
+      "suspension": "Discontinue 48 hours prior to elective surgery, especially in patients with bleeding risk.",
+      "risk": "High GI and renal risk, prolonged platelet inhibition, and interactions with anesthetics and anticoagulants due to long half-life.",
+      "reintroduction": "Restart 48–72h post-op if renal function and hemodynamics are stable and no active bleeding is present."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Naproxen sodium",
+      "nomeComercial": "Aleve, Anaprox, Flanax, Naprosyn",
+      "mecanismoAcao": "Non-selective COX inhibitor that reduces prostaglandin synthesis involved in pain, inflammation, and fever.",
+      "farmacocinetica": "Fast oral absorption (Tmax 1–2h); long half-life (12–17h); high protein binding (~99%); renal excretion.",
+      "farmacodinamica": "Long-acting NSAID with analgesic, antipyretic, and anti-inflammatory effects. Sodium form offers faster onset than base.",
+      "indicacoes": "Arthritis, acute musculoskeletal pain, dysmenorrhea, headache, tendinitis, bursitis, moderate pain.",
+      "reacoesAdversas": "Dyspepsia, nausea, GI bleeding, dizziness, fluid retention, hypertension, renal dysfunction.",
+      "riscoGravidez": "Category C (1st/2nd trimester), D (3rd trimester – ductus closure risk).",
+      "riscoLactacao": "Short-term use acceptable; avoid chronic use.",
+      "administracao": "Oral route.",
+      "doseMaxima": "1,375 mg/day (sodium salt).",
+      "doseMinima": "220 mg/dose.",
+      "classificacao": "Non-selective NSAID.",
+      "apresentacao": "Tablets: 220, 275, 550 mg (sodium); 250, 500 mg (base).",
+      "interacaoMedicamento": "Interacts with warfarin, aspirin, corticosteroids, ACEi, diuretics, lithium, methotrexate.",
+      "posologia": "220–550 mg every 12h; initial dose up to 825 mg if needed.",
+      "armazenamento": "Store at 15–30°C, protect from moisture.",
+      "preparo": "No preparation required.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Active ulcer, severe renal/hepatic impairment, 3rd trimester pregnancy, NSAID-induced asthma.",
+      "cuidadosMedicos": "Monitor renal function, BP, GI bleeding, and edema.",
+      "cuidadosFarmaceuticos": "Avoid co-use with other NSAIDs; assess need for GI protection.",
+      "cuidadosEnfermagem": "Administer with food; monitor BP and GI symptoms.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Naproxeno sódico",
+      "suspension": "Suspender 48 horas antes de cirugía electiva, especialmente en pacientes anticoagulados.",
+      "risk": "Riesgo gastrointestinal, renal y de sangrado. Vida media prolongada aumenta el riesgo perioperatorio.",
+      "reintroduction": "Reintroducir 48–72 h después de cirugía si no hay sangrado y función renal estable."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Naproxeno sódico",
+      "nomeComercial": "Flanax, Naprosyn, Aleve",
+      "mecanismoAcao": "Inhibidor no selectivo de COX-1 y COX-2; reduce prostaglandinas proinflamatorias.",
+      "farmacocinetica": "Absorción oral rápida; vida media 12–17h; pico en 1–2h; excreción renal.",
+      "farmacodinamica": "Efecto duradero como analgésico, antiinflamatorio y antipirético. Forma sódica tiene acción más rápida.",
+      "indicacoes": "Artritis, dolor muscular, dismenorrea, cefalea, tendinitis, bursitis.",
+      "reacoesAdversas": "Dispepsia, náuseas, hemorragia GI, mareo, edema, HTA, IRA.",
+      "riscoGravidez": "Categoría C (1º/2º trimestre), D (3º).",
+      "riscoLactacao": "Uso corto aceptable; evitar crónico.",
+      "administracao": "Vía oral.",
+      "doseMaxima": "1.375 mg/día.",
+      "doseMinima": "220 mg por toma.",
+      "classificacao": "AINE no selectivo.",
+      "apresentacao": "Comprimidos de 220, 275, 550 mg (sódico); 250, 500 mg (base).",
+      "interacaoMedicamento": "Interacciones con AAS, anticoagulantes, IECAs, diuréticos, litio, metotrexato.",
+      "posologia": "220–550 mg cada 12h; dosis inicial hasta 825 mg.",
+      "armazenamento": "15–30°C, proteger de humedad.",
+      "preparo": "No requiere preparación.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Úlcera activa, IR o IH severa, embarazo avanzado, asma por AINE.",
+      "cuidadosMedicos": "Monitorear función renal, PA, síntomas GI.",
+      "cuidadosFarmaceuticos": "Evitar combinación con otros AINEs.",
+      "cuidadosEnfermagem": "Administrar con comida; vigilar PA y digestivo.",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "萘普生钠（Naproxen Sodium）",
+      "suspension": "择期手术前48小时停药。",
+      "risk": "胃肠道出血、肾毒性、术中与麻醉药或抗凝剂相互作用风险高，因半衰期长更应提前停药。",
+      "reintroduction": "术后48–72小时在肾功能和血流动力学稳定情况下重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "萘普生钠",
+      "nomeComercial": "Flanax、Aleve、Naprosyn",
+      "mecanismoAcao": "非选择性COX抑制剂，减少前列腺素合成。",
+      "farmacocinetica": "口服吸收快，1–2小时达峰，半衰期12–17小时，蛋白结合率高，肾排泄。",
+      "farmacodinamica": "镇痛、抗炎、退热持续时间长。钠盐形式起效更快。",
+      "indicacoes": "关节炎、肌肉痛、痛经、头痛、肌腱炎、滑囊炎。",
+      "reacoesAdversas": "胃不适、恶心、出血、头晕、水肿、高血压、肾损伤。",
+      "riscoGravidez": "C类（早中期），D类（妊娠晚期）。",
+      "riscoLactacao": "短期使用安全，避免长期使用。",
+      "administracao": "口服。",
+      "doseMaxima": "每日1375毫克（钠盐）。",
+      "doseMinima": "每次220毫克。",
+      "classificacao": "非选择性NSAID。",
+      "apresentacao": "220/275/550mg钠盐片，250/500mg普通片。",
+      "interacaoMedicamento": "与抗凝、激素、ACEI、利尿剂、锂、甲氨蝶呤相互作用。",
+      "posologia": "每12小时220–550mg，首剂可达825mg。",
+      "armazenamento": "15–30°C干燥保存。",
+      "preparo": "无需配制。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "活动性溃疡、重度肾/肝病、晚期妊娠、NSAID哮喘。",
+      "cuidadosMedicos": "监测肾功能、血压、胃肠道症状和水肿。",
+      "cuidadosFarmaceuticos": "避免与其他NSAID联用；考虑胃保护。",
+      "cuidadosEnfermagem": "饭后服用；注意血压和胃不适。",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

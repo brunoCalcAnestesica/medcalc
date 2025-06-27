@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fosamprenavir",
+      "suspension": "Manter até o dia da cirurgia; ajustar dose em disfunção hepática moderada a grave",
+      "risk": "Interações medicamentosas via CYP3A4, exantema, hepatotoxicidade, náusea",
+      "reintroduction": "Reintroduzir após cirurgia com função hepática estável e via oral reestabelecida"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosamprenavir cálcico",
+      "nomeComercial": "Telzir, Lexiva",
+      "mecanismoAcao": "Profármaco do amprenavir; inibidor da protease do HIV que impede o processamento de proteínas virais imaturas",
+      "farmacocinetica": "Via oral; ativação hepática; meia-vida ~7 h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Reduz carga viral em pacientes com HIV-1; pode ser reforçado com ritonavir",
+      "indicacoes": "Infecção por HIV-1 em combinação com outros antirretrovirais",
+      "reacoesAdversas": "Erupção cutânea, náusea, diarreia, hepatotoxicidade, dislipidemia",
+      "riscoGravidez": "Categoria C – usar se benefício superar risco",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "Oral, com ou sem alimentos",
+      "doseMaxima": "1.400 mg 2x/dia (com ritonavir 100–200 mg)",
+      "doseMinima": "700 mg 2x/dia",
+      "classificacao": "Inibidor da protease do HIV (PI)",
+      "apresentacao": "Comprimidos 700 mg; suspensão oral 50 mg/mL",
+      "interacaoMedicamento": "Evitar uso com estatinas, benzodiazepínicos, anti-histamínicos e antiarrítmicos por risco de toxicidade",
+      "posologia": "1.400 mg VO 2x/dia + ritonavir",
+      "armazenamento": "Temperatura ambiente; suspensão: refrigerada após abertura",
+      "preparo": "Suspensão pronta para uso; agitar bem",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência hepática grave, alergia a sulfonamidas",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas, interações medicamentosas",
+      "cuidadosFarmaceuticos": "Reforçar adesão, evitar alimentos ricos em gordura com ritonavir",
+      "cuidadosEnfermagem": "Observar sinais de intolerância GI e rash",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, DHHS HIV Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fosamprenavir",
+      "suspension": "Continue perioperatively unless hepatic failure is present",
+      "risk": "Drug interactions (CYP3A4), rash, GI upset, liver toxicity",
+      "reintroduction": "Resume after surgery when oral intake and liver function are stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosamprenavir calcium",
+      "nomeComercial": "Lexiva",
+      "mecanismoAcao": "Prodrug of amprenavir; inhibits HIV-1 protease, blocking viral protein maturation",
+      "farmacocinetica": "PO; hepatic activation; t½ ~7 h; CYP3A4 metabolism",
+      "farmacodinamica": "Reduces HIV viral load; used with ritonavir boosting",
+      "indicacoes": "HIV-1 infection as part of combination ART",
+      "reacoesAdversas": "Rash, nausea, diarrhea, increased liver enzymes, dyslipidemia",
+      "riscoGravidez": "Category C – use if benefits outweigh risks",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral, with or without food",
+      "doseMaxima": "1,400 mg BID (+ ritonavir 100–200 mg)",
+      "doseMinima": "700 mg BID",
+      "classificacao": "Protease inhibitor (PI)",
+      "apresentacao": "Tablets 700 mg; oral suspension 50 mg/mL",
+      "interacaoMedicamento": "Avoid with simvastatin, midazolam, amiodarone, antihistamines",
+      "posologia": "1,400 mg PO BID + ritonavir",
+      "armazenamento": "Room temperature; refrigerate suspension after opening",
+      "preparo": "Shake oral suspension well",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe hepatic impairment, sulfonamide allergy",
+      "cuidadosMedicos": "Check LFTs, monitor interactions",
+      "cuidadosFarmaceuticos": "Educate on food interactions with ritonavir",
+      "cuidadosEnfermagem": "Monitor rash, GI effects, liver symptoms",
+      "fontesBibliograficas": "FDA, DHHS, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fosamprenavir",
+      "suspension": "Mantener salvo hepatopatía grave",
+      "risk": "Interacciones por CYP3A4, toxicidad hepática, GI, rash",
+      "reintroduction": "Reiniciar tras tolerancia oral y estabilidad hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosamprenavir cálcico",
+      "nomeComercial": "Telzir",
+      "mecanismoAcao": "Profármaco de amprenavir; inhibe proteasa VIH-1",
+      "farmacocinetica": "VO; t½ 7 h; metabolismo hepático",
+      "farmacodinamica": "Reduce carga viral; se potencia con ritonavir",
+      "indicacoes": "Infección VIH combinada",
+      "reacoesAdversas": "Erupción, diarrea, transaminasas elevadas",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO",
+      "doseMaxima": "1.400 mg 2x/día + ritonavir",
+      "doseMinima": "700 mg 2x/día",
+      "classificacao": "Inhibidor proteasa (IP)",
+      "apresentacao": "Comprimidos 700 mg, suspensión 50 mg/mL",
+      "interacaoMedicamento": "Evitar estatinas, benzodiacepinas, amiodarona",
+      "posologia": "1.400 mg BID + ritonavir",
+      "armazenamento": "Ambiente; refrigerar suspensión tras abrir",
+      "preparo": "Agitar bien suspensión",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Insuficiencia hepática, alergia sulfas",
+      "cuidadosMedicos": "Transaminasas, interacciones",
+      "cuidadosFarmaceuticos": "Explicar interacciones con alimentos",
+      "cuidadosEnfermagem": "Observar síntomas GI, cutáneos",
+      "fontesBibliograficas": "EMA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "磷胺普那韦（Fosamprenavir）",
+      "suspension": "术前可继续使用，肝功能不全需个别评估",
+      "risk": "CYP3A4药物交互、皮疹、肝酶升高、胃肠反应",
+      "reintroduction": "术后口服恢复及肝功能稳定后可继续"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磷胺普那韦",
+      "nomeComercial": "Telzir, Lexiva",
+      "mecanismoAcao": "前药转为氨普那韦，抑制HIV蛋白酶",
+      "farmacocinetica": "口服，t½约7小时，经CYP3A4代谢",
+      "farmacodinamica": "抑制病毒复制，需联合利托那韦增强",
+      "indicacoes": "联合治疗HIV感染",
+      "reacoesAdversas": "皮疹、腹泻、转氨酶升高、血脂异常",
+      "riscoGravidez": "C类，慎用",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日2次，每次1400 mg + RTV",
+      "doseMinima": "700 mg 每12小时",
+      "classificacao": "蛋白酶抑制剂",
+      "apresentacao": "700 mg片剂、口服液50 mg/mL",
+      "interacaoMedicamento": "避免与他汀、安眠药、抗心律失常药同用",
+      "posologia": "1400 mg BID + 利托那韦",
+      "armazenamento": "室温保存，悬液开封后冷藏",
+      "preparo": "悬液使用前摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肝损害、磺胺类过敏",
+      "cuidadosMedicos": "肝功能检测，监控药物交互",
+      "cuidadosFarmaceuticos": "说明食物影响，强化依从",
+      "cuidadosEnfermagem": "观察胃肠不适、皮疹反应",
+      "fontesBibliograficas": "FDA、UpToDate、Micromedex、DHHS"
+    }
+  }
+}

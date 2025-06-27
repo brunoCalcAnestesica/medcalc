@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Saxagliptina",
+      "suspension": "Suspender 24–48 horas antes de cirurgias de médio/grande porte devido ao risco de descompensação glicêmica e infecções",
+      "risk": "Pode causar hipoglicemia (em associação), infecções respiratórias e urinárias, pancreatite e insuficiência cardíaca",
+      "reintroduction": "Reintroduzir após estabilidade clínica e retomada da alimentação oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Saxagliptina",
+      "nomeComercial": "Onglyza",
+      "mecanismoAcao": "Inibidor da enzima DPP-4, que aumenta os níveis de incretinas ativas (GLP-1 e GIP), promovendo secreção de insulina e inibindo glucagon",
+      "farmacocinetica": "Boa absorção oral (biodisponibilidade 67%); Tmáx ~2h; metabolizada por CYP3A4/5; meia-vida ~2,5h (ativo), ~3h (metabólito)",
+      "farmacodinamica": "Reduz a glicemia pós-prandial e basal sem causar hipoglicemia isoladamente; melhora controle glicêmico em DM2",
+      "indicacoes": "Diabetes mellitus tipo 2 em monoterapia ou em combinação com metformina, sulfonilureias, tiazolidinedionas ou insulina",
+      "reacoesAdversas": "Infecções do trato respiratório superior, nasofaringite, dor de cabeça, pancreatite, artralgia, edema periférico, hipoglicemia (com sulfonilureia)",
+      "riscoGravidez": "Categoria B – não há estudos bem controlados em gestantes",
+      "riscoLactacao": "Excreção no leite desconhecida; evitar uso na lactação",
+      "administracao": "Oral",
+      "doseMaxima": "5 mg/dia",
+      "doseMinima": "2,5 mg/dia (em insuficiência renal moderada a grave)",
+      "classificacao": "Antidiabético oral – inibidor da DPP-4",
+      "apresentacao": "Comprimidos revestidos de 2,5 mg e 5 mg",
+      "interacaoMedicamento": "Potencial interação com potentes inibidores/indutores de CYP3A4/5; ajuste de dose com claritromicina, rifampicina, cetoconazol",
+      "posologia": "5 mg 1x/dia; 2,5 mg/dia em IR moderada a grave",
+      "armazenamento": "Temperatura ambiente (15–30 ºC), protegido da umidade",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "DM1, cetoacidose diabética, hipersensibilidade à saxagliptina",
+      "cuidadosMedicos": "Monitorar função renal periodicamente; observar sinais de pancreatite",
+      "cuidadosFarmaceuticos": "Orientar uso regular, mesmo sem sintomas; atenção à hipoglicemia se em uso combinado",
+      "cuidadosEnfermagem": "Avaliar sinais de infecção, edema, sintomas abdominais ou hipoglicemia",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, Bula Onglyza, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Saxagliptin",
+      "suspension": "Discontinue 24–48h before moderate to major surgery due to risk of glycemic imbalance and infection",
+      "risk": "May cause hypoglycemia (when combined), UTI, URTI, pancreatitis, and heart failure",
+      "reintroduction": "Restart once clinically stable and oral intake resumes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Saxagliptin",
+      "nomeComercial": "Onglyza",
+      "mecanismoAcao": "DPP-4 inhibitor that increases active incretins (GLP-1, GIP), enhancing insulin release and suppressing glucagon",
+      "farmacocinetica": "67% oral bioavailability; Tmax ~2h; CYP3A4/5 metabolism; t½ ~2.5h (active), ~3h (metabolite)",
+      "farmacodinamica": "Improves glycemic control by reducing fasting and postprandial glucose levels",
+      "indicacoes": "Type 2 diabetes mellitus as monotherapy or with metformin, sulfonylureas, TZDs or insulin",
+      "reacoesAdversas": "URTI, nasopharyngitis, headache, pancreatitis, arthralgia, peripheral edema, hypoglycemia (in combo)",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Unknown excretion; use with caution",
+      "administracao": "Oral",
+      "doseMaxima": "5 mg/day",
+      "doseMinima": "2.5 mg/day (renal impairment)",
+      "classificacao": "DPP-4 inhibitor – oral antidiabetic",
+      "apresentacao": "Tablets: 2.5 mg and 5 mg",
+      "interacaoMedicamento": "Caution with strong CYP3A4/5 inhibitors/inducers",
+      "posologia": "5 mg once daily; 2.5 mg if moderate/severe renal impairment",
+      "armazenamento": "Store at 15–30 ºC; keep dry",
+      "preparo": "Direct oral use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Type 1 diabetes, DKA, hypersensitivity",
+      "cuidadosMedicos": "Monitor renal function; assess for pancreatitis signs",
+      "cuidadosFarmaceuticos": "Educate adherence and signs of hypoglycemia if combined",
+      "cuidadosEnfermagem": "Monitor infection, edema, abdominal symptoms, hypoglycemia",
+      "fontesBibliograficas": "FDA, Micromedex, Onglyza PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Saxagliptina",
+      "suspension": "Suspender 24–48 h antes de cirugía moderada o mayor por riesgo de descompensación glucémica",
+      "risk": "Hipoglucemia (en combinación), infecciones, pancreatitis, insuficiencia cardíaca",
+      "reintroduction": "Reiniciar tras recuperación clínica y reanudación de la vía oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Saxagliptina",
+      "nomeComercial": "Onglyza",
+      "mecanismoAcao": "Inhibidor de DPP-4, aumenta incretinas activas, estimula insulina y reduce glucagón",
+      "farmacocinetica": "Biodisponibilidad 67%, Tmax 2h, metabolizado por CYP3A4/5, t½ 2,5–3h",
+      "farmacodinamica": "Disminuye glucosa basal y posprandial sin causar hipoglucemia aislada",
+      "indicacoes": "Diabetes tipo 2, sola o combinada con otros antidiabéticos",
+      "reacoesAdversas": "Infecciones respiratorias, nasofaringitis, cefalea, pancreatitis, edema, hipoglucemia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Evitar durante lactancia",
+      "administracao": "Oral",
+      "doseMaxima": "5 mg/día",
+      "doseMinima": "2,5 mg/día",
+      "classificacao": "Antidiabético oral – inhibidor de DPP-4",
+      "apresentacao": "Comprimidos 2,5 mg y 5 mg",
+      "interacaoMedicamento": "Precaución con inductores/inhibidores de CYP3A4/5",
+      "posologia": "5 mg/día o 2,5 mg si IR moderada/grave",
+      "armazenamento": "15–30 °C, proteger de humedad",
+      "preparo": "Uso oral directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "DM1, cetoacidosis, alergia",
+      "cuidadosMedicos": "Control renal y síntomas pancreáticos",
+      "cuidadosFarmaceuticos": "Educación sobre uso diario y reacciones adversas",
+      "cuidadosEnfermagem": "Monitorear infecciones, hipoglucemia y síntomas abdominales",
+      "fontesBibliograficas": "EMA, ficha técnica Onglyza, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "沙格列汀（Saxagliptin）",
+      "suspension": "中大型手术前24–48小时停药，避免术中血糖波动和感染",
+      "risk": "可引起低血糖（联合用药）、呼吸道感染、胰腺炎、心衰加重",
+      "reintroduction": "术后病情稳定并恢复口服进食后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "沙格列汀",
+      "nomeComercial": "Onglyza",
+      "mecanismoAcao": "DPP-4抑制剂，提高GLP-1/GIP水平，促进胰岛素分泌，抑制胰高血糖素",
+      "farmacocinetica": "口服吸收良好，Tmax约2小时，经CYP3A4/5代谢，半衰期2.5–3小时",
+      "farmacodinamica": "降低空腹和餐后血糖，不易引起低血糖",
+      "indicacoes": "2型糖尿病，单独使用或与其他口服药或胰岛素联合",
+      "reacoesAdversas": "上呼吸道感染、头痛、胰腺炎、关节痛、水肿、低血糖（联用）",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日5毫克",
+      "doseMinima": "每日2.5毫克（肾功能不全）",
+      "classificacao": "口服降糖药 – DPP-4抑制剂",
+      "apresentacao": "2.5 mg和5 mg片剂",
+      "interacaoMedicamento": "注意与CYP3A4/5药物相互作用",
+      "posologia": "每日一次5 mg；肾功能差者每日2.5 mg",
+      "armazenamento": "室温干燥处保存",
+      "preparo": "直接口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "1型糖尿病、酮症酸中毒、过敏",
+      "cuidadosMedicos": "监测肾功能，警惕胰腺炎症状",
+      "cuidadosFarmaceuticos": "嘱患者定时服药并警惕不良反应",
+      "cuidadosEnfermagem": "关注感染、腹痛及低血糖表现",
+      "fontesBibliograficas": "中国药典、Micromedex、Onglyza说明书"
+    }
+  }
+}

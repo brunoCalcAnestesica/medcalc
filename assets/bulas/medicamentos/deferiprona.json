@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Deferiprona",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas ou em caso de neutropenia pré-existente",
+      "risk": "Risco de agranulocitose, neutropenia grave, náuseas, hepatotoxicidade e disfunção imunológica perioperatória",
+      "reintroduction": "Reintroduzir apenas após normalização do hemograma e recuperação pós-operatória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Deferiprona",
+      "nomeComercial": "Ferriprox",
+      "mecanismoAcao": "Quelante oral do ferro que forma complexos solúveis excretados pela urina",
+      "farmacocinetica": "Biodisponibilidade oral elevada; meia-vida ~2 h; excreção urinária como complexo ferro-deferiprona",
+      "farmacodinamica": "Reduz a sobrecarga de ferro em tecidos e sangue; eficaz em talassemia major e síndromes com transfusões crônicas",
+      "indicacoes": "Sobrecarga crônica de ferro em pacientes com talassemia maior ou síndromes mielodisplásicas",
+      "reacoesAdversas": "Neutropenia, agranulocitose, náusea, vômito, artralgia, elevação de ALT",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/kg/dia",
+      "doseMinima": "25 mg/kg/dia",
+      "classificacao": "Agente quelante de ferro",
+      "apresentacao": "Comprimidos de 500 mg; solução oral 100 mg/mL",
+      "interacaoMedicamento": "Evitar uso concomitante com anti-inflamatórios não esteroidais, clozapina e outros mielossupressores",
+      "posologia": "75 a 100 mg/kg/dia, divididos em 3 doses",
+      "armazenamento": "Temperatura ambiente; solução oral deve ser usada em até 35 dias após aberta",
+      "preparo": "Agitar solução antes de usar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Neutropenia, agranulocitose, gravidez, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar hemograma semanal, enzimas hepáticas, ferritina sérica",
+      "cuidadosFarmaceuticos": "Orientar sobre sintomas de infecção e necessidade de controle laboratorial frequente",
+      "cuidadosEnfermagem": "Observar sinais de infecção, dor articular e sintomas GI",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Deferiprone",
+      "suspension": "Discontinue 7 days before elective surgery or if preexisting neutropenia is present",
+      "risk": "Risk of agranulocytosis, neutropenia, liver toxicity, and perioperative infection",
+      "reintroduction": "Restart only after full blood count recovery and wound healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Deferiprone",
+      "nomeComercial": "Ferriprox",
+      "mecanismoAcao": "Oral iron chelator forming soluble iron complexes excreted in urine",
+      "farmacocinetica": "High oral bioavailability; half-life ~2 h; renal excretion",
+      "farmacodinamica": "Reduces tissue and blood iron overload; used in thalassemia and transfusion syndromes",
+      "indicacoes": "Chronic iron overload in thalassemia major or MDS",
+      "reacoesAdversas": "Neutropenia, agranulocytosis, nausea, vomiting, arthralgia, ALT elevation",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/kg/day",
+      "doseMinima": "25 mg/kg/day",
+      "classificacao": "Iron chelator",
+      "apresentacao": "500 mg tablets; 100 mg/mL oral solution",
+      "interacaoMedicamento": "Avoid with NSAIDs, clozapine, bone marrow suppressants",
+      "posologia": "75–100 mg/kg/day in 3 divided doses",
+      "armazenamento": "Room temperature; oral solution usable for 35 days once opened",
+      "preparo": "Shake oral solution before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Neutropenia, agranulocytosis, pregnancy, hypersensitivity",
+      "cuidadosMedicos": "Weekly CBC, monitor LFTs and ferritin",
+      "cuidadosFarmaceuticos": "Counsel on infection signs and need for frequent labs",
+      "cuidadosEnfermagem": "Observe for fever, joint pain, GI symptoms",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Deferiprona",
+      "suspension": "Suspender 7 días antes de cirugía programada o si hay neutropenia",
+      "risk": "Riesgo de agranulocitosis, neutropenia severa, hepatotoxicidad e infecciones postoperatorias",
+      "reintroduction": "Reiniciar tras normalización de hemograma y recuperación clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Deferiprona",
+      "nomeComercial": "Ferriprox",
+      "mecanismoAcao": "Quelante de hierro oral que forma complejos solubles excretados por orina",
+      "farmacocinetica": "Buena biodisponibilidad oral; t½ ~2 h; excreción renal",
+      "farmacodinamica": "Disminuye sobrecarga férrica en talasemia y síndromes transfusionales",
+      "indicacoes": "Sobrecarga crónica de hierro (talasemia mayor, SMD)",
+      "reacoesAdversas": "Neutropenia, agranulocitosis, náuseas, vómitos, artralgias",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "100 mg/kg/día",
+      "doseMinima": "25 mg/kg/día",
+      "classificacao": "Quelante de hierro",
+      "apresentacao": "Comprimidos 500 mg; solución 100 mg/mL",
+      "interacaoMedicamento": "Evitar con AINEs, clozapina, citotóxicos",
+      "posologia": "75–100 mg/kg/día dividido en 3 dosis",
+      "armazenamento": "Ambiente; solución válida 35 días tras apertura",
+      "preparo": "Agitar antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Neutropenia, embarazo, hipersensibilidad",
+      "cuidadosMedicos": "Hemograma semanal, función hepática y ferritina",
+      "cuidadosFarmaceuticos": "Control laboratorial y síntomas de infección",
+      "cuidadosEnfermagem": "Observar fiebre, dolor articular, efectos GI",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "去铁酮",
+      "suspension": "术前7天停药，特别是伴有中性粒细胞减少者",
+      "risk": "粒细胞缺乏、严重感染、肝毒性、术后愈合风险",
+      "reintroduction": "术后血象稳定并恢复后再用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "去铁酮",
+      "nomeComercial": "Ferriprox",
+      "mecanismoAcao": "口服铁螯合剂，与铁结合后经尿排出",
+      "farmacocinetica": "口服吸收好，半衰期约2小时，经肾排泄",
+      "farmacodinamica": "降低体内铁负荷，用于地中海贫血和MDS",
+      "indicacoes": "慢性输血铁过载（地贫、骨髓增生异常）",
+      "reacoesAdversas": "中性粒细胞减少、恶心、呕吐、关节痛、肝酶升高",
+      "riscoGravidez": "D类，禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日100 mg/kg",
+      "doseMinima": "每日25 mg/kg",
+      "classificacao": "铁螯合剂",
+      "apresentacao": "500 mg片剂，100 mg/mL口服液",
+      "interacaoMedicamento": "禁与NSAIDs、氯氮平、骨髓抑制剂联用",
+      "posologia": "每日分3次服用，总量75–100 mg/kg",
+      "armazenamento": "常温保存，开瓶后35天内用完",
+      "preparo": "口服液使用前摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "粒细胞减少、妊娠、过敏史",
+      "cuidadosMedicos": "每周查血、肝酶、铁蛋白",
+      "cuidadosFarmaceuticos": "教育患者注意发热等感染迹象",
+      "cuidadosEnfermagem": "观察GI症状、关节痛、体温变化",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate"
+    }
+  }
+}

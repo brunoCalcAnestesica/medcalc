@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Irbesartana",
+      "suspension": "Suspender 24 horas antes de cirurgia eletiva se houver risco de hipotensão intraoperatória",
+      "risk": "Risco de hipotensão acentuada durante anestesia; possível preservação renal em alguns casos",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica pós-operatória"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Irbesartana",
+      "nomeComercial": "Aprovel, Karvea, Irbes",
+      "mecanismoAcao": "Antagonista seletivo dos receptores de angiotensina II (AT1), promovendo vasodilatação",
+      "farmacocinetica": "Boa absorção oral, biodisponibilidade de 60–80%, meia-vida de 11–15h, excreção renal e biliar",
+      "farmacodinamica": "Redução da pressão arterial, proteção renal em pacientes com proteinúria",
+      "indicacoes": "Hipertensão arterial, nefropatia diabética em pacientes com diabetes tipo 2 e proteinúria",
+      "reacoesAdversas": "Tontura, hipotensão, hipercalemia, fadiga, náusea",
+      "riscoGravidez": "Categoria D – contraindicado no 2º e 3º trimestres",
+      "riscoLactacao": "Não recomendado; ausência de dados seguros",
+      "administracao": "Via oral",
+      "doseMaxima": "300mg/dia",
+      "doseMinima": "75mg/dia",
+      "classificacao": "Antagonista dos receptores de angiotensina II (BRA)",
+      "apresentacao": "Comprimidos de 75mg, 150mg e 300mg",
+      "interacaoMedicamento": "Risco aumentado de hipercalemia com diuréticos poupadores de potássio, lítio, AINEs",
+      "posologia": "Inicialmente 150mg/dia, podendo ser ajustado até 300mg/dia",
+      "armazenamento": "Temperatura ambiente, local seco",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Gravidez, alergia à substância, estenose bilateral da artéria renal",
+      "cuidadosMedicos": "Monitorar pressão, eletrólitos e função renal",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão e possíveis interações medicamentosas",
+      "cuidadosEnfermagem": "Acompanhar sinais de hipotensão e alterações de potássio",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Irbesartan",
+      "suspension": "Discontinue 24h before elective surgery if hypotension risk is present",
+      "risk": "Risk of intraoperative hypotension; may preserve renal function in some cases",
+      "reintroduction": "Restart after postoperative hemodynamic stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Irbesartan",
+      "nomeComercial": "Avapro, Karvea",
+      "mecanismoAcao": "Selective angiotensin II (AT1) receptor blocker, leading to vasodilation",
+      "farmacocinetica": "Well absorbed orally, 60–80% bioavailability, half-life 11–15h, renal and biliary excretion",
+      "farmacodinamica": "Lowers blood pressure and offers renal protection in proteinuric patients",
+      "indicacoes": "Hypertension, diabetic nephropathy in type 2 diabetes with proteinuria",
+      "reacoesAdversas": "Dizziness, hypotension, hyperkalemia, fatigue, nausea",
+      "riscoGravidez": "Category D – contraindicated in 2nd and 3rd trimesters",
+      "riscoLactacao": "Not recommended; safety not established",
+      "administracao": "Oral",
+      "doseMaxima": "300mg/day",
+      "doseMinima": "75mg/day",
+      "classificacao": "Angiotensin II receptor blocker (ARB)",
+      "apresentacao": "Tablets: 75mg, 150mg, 300mg",
+      "interacaoMedicamento": "Increased risk of hyperkalemia with potassium-sparing diuretics, lithium, NSAIDs",
+      "posologia": "Start at 150mg/day, increase to 300mg/day if needed",
+      "armazenamento": "Room temperature, dry place",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, hypersensitivity, bilateral renal artery stenosis",
+      "cuidadosMedicos": "Monitor BP, renal function, and electrolytes",
+      "cuidadosFarmaceuticos": "Educate on adherence and potential drug interactions",
+      "cuidadosEnfermagem": "Monitor for hypotension and potassium changes",
+      "fontesBibliograficas": "FDA, Micromedex, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Irbesartán",
+      "suspension": "Suspender 24h antes de cirugía si hay riesgo de hipotensión",
+      "risk": "Riesgo de hipotensión intraoperatoria; posible beneficio renal en algunos casos",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Irbesartán",
+      "nomeComercial": "Aprovel, Karvea",
+      "mecanismoAcao": "Bloqueador selectivo de los receptores AT1 de angiotensina II; provoca vasodilatación",
+      "farmacocinetica": "Buena absorción oral, biodisponibilidad 60–80%, vida media 11–15h, excreción renal y biliar",
+      "farmacodinamica": "Reduce la presión arterial y protege los riñones en pacientes con proteinuria",
+      "indicacoes": "Hipertensión, nefropatía diabética en diabetes tipo 2 con proteinuria",
+      "reacoesAdversas": "Mareos, hipotensión, hipercalemia, fatiga, náuseas",
+      "riscoGravidez": "Categoría D – contraindicado en segundo y tercer trimestre",
+      "riscoLactacao": "No recomendado; falta de datos de seguridad",
+      "administracao": "Oral",
+      "doseMaxima": "300mg/día",
+      "doseMinima": "75mg/día",
+      "classificacao": "Antagonista del receptor de angiotensina II (ARA-II)",
+      "apresentacao": "Comprimidos de 75mg, 150mg y 300mg",
+      "interacaoMedicamento": "Riesgo de hipercalemia con diuréticos ahorradores de potasio, litio, AINEs",
+      "posologia": "Inicial 150mg/día, ajustar hasta 300mg/día si es necesario",
+      "armazenamento": "Lugar seco a temperatura ambiente",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, alergia, estenosis bilateral de arteria renal",
+      "cuidadosMedicos": "Controlar PA, electrolitos y función renal",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia y posibles interacciones",
+      "cuidadosEnfermagem": "Vigilar hipotensión y alteraciones del potasio",
+      "fontesBibliograficas": "EMA, Micromedex, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "厄贝沙坦",
+      "suspension": "择期手术前24小时停药，若有低血压风险",
+      "risk": "可能术中出现低血压；部分患者可获肾脏保护作用",
+      "reintroduction": "术后血流动力学稳定后恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "厄贝沙坦",
+      "nomeComercial": "安博维（Avapro）、卡维亚（Karvea）",
+      "mecanismoAcao": "选择性阻断血管紧张素II（AT1）受体，扩张血管",
+      "farmacocinetica": "口服吸收良好，生物利用度60–80%，半衰期11–15小时，经肾和胆汁排泄",
+      "farmacodinamica": "降压效果显著，并对有蛋白尿的患者提供肾保护",
+      "indicacoes": "高血压、2型糖尿病伴蛋白尿的肾病",
+      "reacoesAdversas": "头晕、低血压、高钾、乏力、恶心",
+      "riscoGravidez": "D类 – 妊娠中晚期禁用",
+      "riscoLactacao": "不推荐；安全性数据不足",
+      "administracao": "口服",
+      "doseMaxima": "每日300毫克",
+      "doseMinima": "每日75毫克",
+      "classificacao": "血管紧张素II受体拮抗剂（ARB类）",
+      "apresentacao": "片剂：75mg、150mg、300mg",
+      "interacaoMedicamento": "与保钾利尿剂、锂、NSAIDs合用易致高钾血症",
+      "posologia": "初始150mg，每日1次，可增加至300mg",
+      "armazenamento": "室温干燥处保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、对药物过敏、双侧肾动脉狭窄",
+      "cuidadosMedicos": "监测血压、肾功能及电解质",
+      "cuidadosFarmaceuticos": "指导服药依从性和潜在药物相互作用",
+      "cuidadosEnfermagem": "观察低血压及血钾变化",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

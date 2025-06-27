@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tiamina (Vitamina B1)",
+      "suspension": "Não é necessário suspender antes da cirurgia",
+      "risk": "Baixo risco. Deficiência grave pode precipitar encefalopatia de Wernicke, especialmente em pacientes com alcoolismo, sepse ou desnutrição. Importante em nutrição parenteral.",
+      "reintroduction": "Pode ser mantida ou reintroduzida imediatamente no pós-operatório, especialmente em pacientes de alto risco nutricional ou uso prolongado de glicose EV."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tiamina",
+      "nomeComercial": "Benerva, Tiaminavit, Vitamina B1",
+      "mecanismoAcao": "Cofator enzimático essencial na descarboxilação de alfa-cetoácidos e metabolismo da glicose",
+      "farmacocinetica": "Absorção intestinal ativa e passiva; meia-vida curta (1,5 h); armazenamento limitado; excreção urinária",
+      "farmacodinamica": "Previne ou trata a encefalopatia de Wernicke, beribéri e acidose lática relacionada à deficiência de tiamina",
+      "indicacoes": "Deficiência de tiamina, alcoolismo crônico, sepse, síndromes neurológicas, nutrição parenteral, hipermetabolismo",
+      "reacoesAdversas": "Reações alérgicas raras, sudorese, prurido, urticária (mais comum com uso IV rápido)",
+      "riscoGravidez": "Categoria A",
+      "riscoLactacao": "Compatível com a amamentação",
+      "administracao": "Oral, intramuscular ou intravenosa (em infusão lenta)",
+      "doseMaxima": "500 mg IV 3x/dia (encefalopatia); 100 mg/dia (reposição profilática)",
+      "doseMinima": "1,1–1,5 mg/dia (necessidade diária)",
+      "classificacao": "Vitamina hidrossolúvel – complexo B",
+      "apresentacao": "Ampolas IM/IV 100 mg/mL; comprimidos de 100 mg",
+      "interacaoMedicamento": "Reduzida por diuréticos e álcool; compatível com outras vitaminas B",
+      "posologia": "100 mg/dia VO ou IV; 200–500 mg IV em encefalopatia",
+      "armazenamento": "Temperatura ambiente; proteger da luz",
+      "preparo": "Uso direto; diluir se necessário em SF 0,9% para infusão lenta",
+      "solucoesCompatíveis": "SF 0,9%; Glicose 5%",
+      "contraindicacoes": "Hipersensibilidade rara à tiamina",
+      "cuidadosMedicos": "Administrar antes da glicose em casos suspeitos de deficiência",
+      "cuidadosFarmaceuticos": "Evitar exposição à luz e calor excessivo",
+      "cuidadosEnfermagem": "Infundir lentamente por via IV para evitar reações",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate, SBEM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Thiamine (Vitamin B1)",
+      "suspension": "No need to discontinue before surgery",
+      "risk": "Low risk. Severe deficiency may cause Wernicke’s encephalopathy, especially in alcoholics, sepsis, or malnourished patients. Important in TPN protocols.",
+      "reintroduction": "Continue or resume immediately post-op, particularly in high-risk or critically ill patients."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Thiamine",
+      "nomeComercial": "Thiamilate, Vitamin B1, Betamin",
+      "mecanismoAcao": "Coenzyme in carbohydrate metabolism and nervous system function",
+      "farmacocinetica": "Short half-life (~1.5 h); renal excretion; limited storage",
+      "farmacodinamica": "Prevents or treats Wernicke’s encephalopathy and beriberi",
+      "indicacoes": "Thiamine deficiency, chronic alcoholism, sepsis, neurologic syndromes, parenteral nutrition",
+      "reacoesAdversas": "Rare allergic reactions, rash, pruritus, especially with IV push",
+      "riscoGravidez": "Category A",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "Oral, IM or slow IV infusion",
+      "doseMaxima": "500 mg IV TID (Wernicke); 100 mg/day prophylactic",
+      "doseMinima": "1.1–1.5 mg/day (daily requirement)",
+      "classificacao": "Water-soluble B-complex vitamin",
+      "apresentacao": "100 mg/mL ampoules (IM/IV); 100 mg tablets",
+      "interacaoMedicamento": "Affected by alcohol and diuretics",
+      "posologia": "100 mg/day oral or IV; 200–500 mg IV for deficiency",
+      "armazenamento": "Room temp; protect from light",
+      "preparo": "Ready to use; may dilute in NS or D5W for IV",
+      "solucoesCompatíveis": "0.9% NaCl; 5% Dextrose",
+      "contraindicacoes": "Rare hypersensitivity to thiamine",
+      "cuidadosMedicos": "Administer before glucose in suspected deficiency",
+      "cuidadosFarmaceuticos": "Protect from heat/light; do not freeze",
+      "cuidadosEnfermagem": "Administer IV slowly to avoid adverse effects",
+      "fontesBibliograficas": "FDA, NIH, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tiamina (Vitamina B1)",
+      "suspension": "No requiere suspensión antes de cirugía",
+      "risk": "Riesgo bajo. Deficiencia severa puede causar encefalopatía de Wernicke, especialmente en alcohólicos o sépticos.",
+      "reintroduction": "Puede mantenerse o reiniciarse postoperatoriamente"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tiamina",
+      "nomeComercial": "Benerva, Vitamina B1",
+      "mecanismoAcao": "Cofactor en metabolismo de carbohidratos y función neurológica",
+      "farmacocinetica": "Vida media ~1,5 h; excreción renal",
+      "farmacodinamica": "Previene Wernicke, beriberi y trastornos neurológicos",
+      "indicacoes": "Deficiencia vitamínica, alcoholismo, sepsis, nutrición parenteral",
+      "reacoesAdversas": "Raras reacciones alérgicas, erupción, sudoración",
+      "riscoGravidez": "Categoría A",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "Oral, IM o IV lenta",
+      "doseMaxima": "500 mg 3 veces/día (Wernicke)",
+      "doseMinima": "1,1–1,5 mg/día",
+      "classificacao": "Vitamina hidrosoluble – complejo B",
+      "apresentacao": "Ampollas 100 mg/mL; comprimidos 100 mg",
+      "interacaoMedicamento": "Reducida con alcohol y diuréticos",
+      "posologia": "100 mg/día; hasta 500 mg en deficiencia",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Listo para uso; puede diluirse en SF",
+      "solucoesCompatíveis": "SF 0,9%; glucosa 5%",
+      "contraindicacoes": "Hipersensibilidad a tiamina",
+      "cuidadosMedicos": "Administrar antes de glucosa en sospecha de déficit",
+      "cuidadosFarmaceuticos": "Evitar luz; no congelar",
+      "cuidadosEnfermagem": "Administrar IV lentamente",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硫胺素（维生素B1）",
+      "suspension": "术前无需停药",
+      "risk": "风险极低；缺乏者易并发Wernicke脑病，特别是在酒精中毒、败血症或营养不良时",
+      "reintroduction": "术后可立即恢复使用，尤其适用于危重症及营养不良者"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硫胺素",
+      "nomeComercial": "维生素B1注射液、Benerva",
+      "mecanismoAcao": "葡萄糖代谢中的酶辅因子；维持神经系统功能",
+      "farmacocinetica": "半衰期短（~1.5小时），肾排泄，储存有限",
+      "farmacodinamica": "预防Wernicke脑病、脚气病和神经损伤",
+      "indicacoes": "维生素B1缺乏、酒精中毒、TPN、脓毒症",
+      "reacoesAdversas": "偶见过敏反应、瘙痒、出汗",
+      "riscoGravidez": "A类",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "口服、肌注或静脉滴注",
+      "doseMaxima": "每日3次各500 mg（Wernicke）",
+      "doseMinima": "每日1.1–1.5 mg",
+      "classificacao": "水溶性B族维生素",
+      "apresentacao": "注射液100 mg/mL，片剂100 mg",
+      "interacaoMedicamento": "与酒精和利尿剂合用减少吸收",
+      "posologia": "每日100 mg常规补充；Wernicke时每日1500 mg分次",
+      "armazenamento": "常温避光",
+      "preparo": "可直接使用；可稀释于0.9%氯化钠",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "对硫胺素过敏者禁用",
+      "cuidadosMedicos": "疑似缺乏时应先于葡萄糖使用",
+      "cuidadosFarmaceuticos": "避免热和光照；现用现配",
+      "cuidadosEnfermagem": "静脉使用时缓慢注射以防反应",
+      "fontesBibliograficas": "中国药典、FDA、UpToDate、Micromedex"
+    }
+  }
+}

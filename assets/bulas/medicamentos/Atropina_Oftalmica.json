@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Atropina oftálmica",
+      "suspension": "Suspender 2 dias antes de procedimentos oftalmológicos eletivos",
+      "risk": "Risco de midríase prolongada, cicloplegia intensa, aumento da pressão intraocular e interação com anestésicos locais",
+      "reintroduction": "Reintroduzir somente após normalização da pressão intraocular e avaliação oftalmológica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atropina",
+      "nomeComercial": "Atropina, Atropisol, Isopto Atropine, Atropina Colírio",
+      "mecanismoAcao": "Antagonista competitivo dos receptores muscarínicos, causando paralisia do músculo ciliar e dilatação pupilar",
+      "farmacocinetica": "Absorção rápida após instilação ocular, metabolismo hepático, excreção renal",
+      "farmacodinamica": "Causa midríase e cicloplegia prolongadas, bloqueando a resposta colinérgica do esfíncter da íris e músculo ciliar",
+      "indicacoes": "Inflamações oculares, uveítes, irites, exames oftalmológicos, prevenção de sinéquias",
+      "reacoesAdversas": "Fotofobia, visão turva, aumento de PIO, boca seca, taquicardia, rubor facial (especialmente em crianças)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Pode ser excretada no leite materno; usar com cautela",
+      "administracao": "Uso oftálmico",
+      "doseMaxima": "1 gota a cada 6 horas",
+      "doseMinima": "1 gota ao dia",
+      "classificacao": "Anticolinérgico midriático e cicloplegico",
+      "apresentacao": "Solução oftálmica a 0,5%, 1% ou 2%",
+      "interacaoMedicamento": "Potencializa efeitos com outros anticolinérgicos; cuidado em uso combinado com midriáticos",
+      "posologia": "Instilar 1 gota no(s) olho(s) afetado(s), conforme orientação médica",
+      "armazenamento": "Conservar entre 15–25°C, protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Glaucoma de ângulo fechado, hipersensibilidade à atropina",
+      "cuidadosMedicos": "Monitorar pressão intraocular, evitar em pacientes com histórico de glaucoma",
+      "cuidadosFarmaceuticos": "Orientar sobre duração dos efeitos, fotofobia e cuidado ao manuseio",
+      "cuidadosEnfermagem": "Observar sinais sistêmicos em crianças e idosos; monitorar adesão",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, Medscape, Martindale"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ophthalmic Atropine",
+      "suspension": "Suspend 2 days prior to elective ophthalmic procedures",
+      "risk": "Risk of prolonged mydriasis, strong cycloplegia, increased intraocular pressure, and interaction with local anesthetics",
+      "reintroduction": "Reintroduce only after IOP normalization and full ophthalmologic reassessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atropine",
+      "nomeComercial": "Atropine Sulfate Ophthalmic, Isopto Atropine, Atropisol",
+      "mecanismoAcao": "Competitive muscarinic antagonist blocking iris sphincter and ciliary muscle",
+      "farmacocinetica": "Rapid ocular absorption, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Causes prolonged mydriasis and cycloplegia by inhibiting cholinergic responses",
+      "indicacoes": "Uveitis, iritis, ophthalmic exams, prevention of posterior synechiae",
+      "reacoesAdversas": "Photophobia, blurred vision, elevated IOP, dry mouth, tachycardia, facial flushing (notably in children)",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "May be excreted in breast milk; use caution",
+      "administracao": "Ophthalmic use",
+      "doseMaxima": "1 drop every 6 hours",
+      "doseMinima": "1 drop daily",
+      "classificacao": "Anticholinergic mydriatic and cycloplegic",
+      "apresentacao": "Ophthalmic solution 0.5%, 1%, 2%",
+      "interacaoMedicamento": "Enhances effects of other anticholinergics; caution with other mydriatics",
+      "posologia": "Instill 1 drop in affected eye(s) as directed",
+      "armazenamento": "Store at 15–25°C, protect from light",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Angle-closure glaucoma, hypersensitivity to atropine",
+      "cuidadosMedicos": "Monitor IOP, avoid in glaucoma-prone patients",
+      "cuidadosFarmaceuticos": "Advise on photophobia and prolonged effect",
+      "cuidadosEnfermagem": "Monitor for systemic signs especially in children/elderly",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, Martindale"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Atropina oftálmica",
+      "suspension": "Suspender 2 días antes de procedimientos oftálmicos programados",
+      "risk": "Riesgo de midriasis prolongada, cicloplejía intensa, aumento de PIO, interacción con anestésicos",
+      "reintroduction": "Reintroducir tras normalización de la presión ocular y evaluación oftalmológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Atropina",
+      "nomeComercial": "Atropina, Isopto Atropine, Atropisol",
+      "mecanismoAcao": "Antagonista muscarínico que bloquea esfínter del iris y músculo ciliar",
+      "farmacocinetica": "Absorción ocular rápida, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Produce midriasis y cicloplejía prolongadas",
+      "indicacoes": "Uveítis, iritis, exámenes oculares, prevención de sinequias",
+      "reacoesAdversas": "Fotofobia, visión borrosa, aumento de PIO, boca seca, taquicardia, rubor facial",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Puede excretarse en leche materna; usar con precaución",
+      "administracao": "Uso oftálmico",
+      "doseMaxima": "1 gota cada 6 horas",
+      "doseMinima": "1 gota al día",
+      "classificacao": "Anticolinérgico midriático y cicloplejico",
+      "apresentacao": "Solución oftálmica 0,5%, 1% o 2%",
+      "interacaoMedicamento": "Potencia efecto de otros midriáticos y anticolinérgicos",
+      "posologia": "Instilar 1 gota en ojo(s) afectado(s) según indicación médica",
+      "armazenamento": "15–25°C, protegido de la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Glaucoma de ángulo cerrado, hipersensibilidad a atropina",
+      "cuidadosMedicos": "Monitorear presión ocular y evitar en pacientes con glaucoma",
+      "cuidadosFarmaceuticos": "Advertir sobre duración de efectos y fotofobia",
+      "cuidadosEnfermagem": "Observar signos sistémicos en niños y ancianos",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿托品滴眼液",
+      "suspension": "择期眼科手术前2天停药",
+      "risk": "扩瞳时间长、睫状肌麻痹显著、眼压升高、与局麻药相互作用",
+      "reintroduction": "术后眼压恢复正常并经眼科评估后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿托品",
+      "nomeComercial": "Atropine，Atropisol，Isopto Atropine",
+      "mecanismoAcao": "竞争性抑制M胆碱受体，导致虹膜括约肌和睫状肌麻痹",
+      "farmacocinetica": "滴眼后快速吸收，经肝代谢，肾排泄",
+      "farmacodinamica": "引起持久的扩瞳和睫状肌麻痹",
+      "indicacoes": "葡萄膜炎、虹膜炎、眼底检查、防止后粘连",
+      "reacoesAdversas": "畏光、视物模糊、眼压升高、口干、心跳加快、脸部潮红",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可能排入乳汁，慎用",
+      "administracao": "滴眼使用",
+      "doseMaxima": "每6小时1滴",
+      "doseMinima": "每日1滴",
+      "classificacao": "抗胆碱扩瞳剂与睫状肌麻痹剂",
+      "apresentacao": "滴眼液0.5%、1%、2%",
+      "interacaoMedicamento": "增强其他抗胆碱药和扩瞳剂作用",
+      "posologia": "遵医嘱每日滴眼",
+      "armazenamento": "15–25°C，避光保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "闭角型青光眼、对阿托品过敏者",
+      "cuidadosMedicos": "监测眼压，避免用于青光眼高风险人群",
+      "cuidadosFarmaceuticos": "提醒患者注意畏光和药效持续时间",
+      "cuidadosEnfermagem": "儿童及老年人应监测全身反应",
+      "fontesBibliograficas": "FDA，中国药典，Micromedex，Medscape"
+    }
+  }
+}

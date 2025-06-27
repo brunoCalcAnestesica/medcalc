@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Zidovudina",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Risco anestésico baixo, mas pode causar supressão medular e acidose lática",
+      "reintroduction": "Manter no pós-operatório; ajustar se houver neutropenia ou acidose"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zidovudina",
+      "nomeComercial": "Retrovir, AZT",
+      "mecanismoAcao": "Inibidor da transcriptase reversa análogo de nucleosídeo (NRTI)",
+      "farmacocinetica": "Boa biodisponibilidade oral, metabolizado no fígado, excreção renal",
+      "farmacodinamica": "Inibe replicação do HIV ao interromper transcrição reversa",
+      "indicacoes": "HIV-1, prevenção de transmissão vertical, profilaxia pós-exposição (PEP)",
+      "reacoesAdversas": "Anemia, neutropenia, acidose lática, náuseas, cefaleia",
+      "riscoGravidez": "Categoria C (uso aceito para prevenção de transmissão vertical)",
+      "riscoLactacao": "Contraindicado; HIV+ não devem amamentar",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "600 mg/dia",
+      "doseMinima": "300 mg/dia",
+      "classificacao": "Antirretroviral (NRTI)",
+      "apresentacao": "Comprimidos, cápsulas, solução oral, solução injetável",
+      "interacaoMedicamento": "Potencial para mielotoxicidade com ganciclovir, ribavirina, interferon",
+      "posologia": "300 mg 2x/dia ou 200 mg a cada 8h (ajuste conforme protocolo)",
+      "armazenamento": "Temperatura ambiente, solução injetável refrigerada",
+      "preparo": "Requer diluição para uso EV",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%, glicose 5%",
+      "contraindicacoes": "Hipersensibilidade, anemia grave não tratada",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática e sinais de acidose",
+      "cuidadosFarmaceuticos": "Evitar uso concomitante com drogas mielotóxicas",
+      "cuidadosEnfermagem": "Observar sinais de anemia, neutropenia e desconfortos gastrointestinais",
+      "fontesBibliograficas": "Ministério da Saúde, WHO, FDA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Zidovudine",
+      "suspension": "Continue on the day of surgery",
+      "risk": "Low anesthetic risk; monitor for marrow suppression and lactic acidosis",
+      "reintroduction": "Continue postoperatively; adjust if neutropenia or acidosis occurs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zidovudine",
+      "nomeComercial": "Retrovir, AZT",
+      "mecanismoAcao": "Nucleoside reverse transcriptase inhibitor (NRTI)",
+      "farmacocinetica": "Good oral absorption, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Blocks HIV replication by inhibiting reverse transcription",
+      "indicacoes": "HIV-1, vertical transmission prevention, post-exposure prophylaxis (PEP)",
+      "reacoesAdversas": "Anemia, neutropenia, lactic acidosis, nausea, headache",
+      "riscoGravidez": "Category C (used to prevent vertical transmission)",
+      "riscoLactacao": "Contraindicated; HIV+ should not breastfeed",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "600 mg/day",
+      "doseMinima": "300 mg/day",
+      "classificacao": "Antiretroviral (NRTI)",
+      "apresentacao": "Tablets, capsules, oral solution, IV solution",
+      "interacaoMedicamento": "Risk of marrow toxicity with ganciclovir, ribavirin, interferons",
+      "posologia": "300 mg twice daily or 200 mg every 8h",
+      "armazenamento": "Room temperature; refrigerate IV solution",
+      "preparo": "Requires dilution for IV use",
+      "solucoesCompatíveis": "Normal saline 0.9%, Dextrose 5%",
+      "contraindicacoes": "Hypersensitivity, untreated severe anemia",
+      "cuidadosMedicos": "Monitor CBC, liver function, signs of acidosis",
+      "cuidadosFarmaceuticos": "Avoid co-administration with bone marrow suppressants",
+      "cuidadosEnfermagem": "Watch for anemia, neutropenia, GI symptoms",
+      "fontesBibliograficas": "WHO, FDA, Micromedex, CDC"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Zidovudina",
+      "suspension": "Mantener el día de la cirugía",
+      "risk": "Bajo riesgo anestésico; controlar mielosupresión y acidosis láctica",
+      "reintroduction": "Mantener postoperatoriamente; ajustar si hay neutropenia o acidosis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zidovudina",
+      "nomeComercial": "Retrovir, AZT",
+      "mecanismoAcao": "Inhibidor nucleósido de la transcriptasa inversa (NRTI)",
+      "farmacocinetica": "Buena absorción oral, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Bloquea la replicación del VIH inhibiendo la transcripción inversa",
+      "indicacoes": "VIH-1, prevención de transmisión vertical, profilaxis post-exposición (PEP)",
+      "reacoesAdversas": "Anemia, neutropenia, acidosis láctica, náuseas, cefalea",
+      "riscoGravidez": "Categoría C (usado para prevenir transmisión vertical)",
+      "riscoLactacao": "Contraindicado; personas con VIH+ no deben amamantar",
+      "administracao": "Vía oral o intravenosa",
+      "doseMaxima": "600 mg/día",
+      "doseMinima": "300 mg/día",
+      "classificacao": "Antirretroviral (NRTI)",
+      "apresentacao": "Comprimidos, cápsulas, solución oral e IV",
+      "interacaoMedicamento": "Mayor riesgo de toxicidad medular con ganciclovir, ribavirina, interferones",
+      "posologia": "300 mg 2 veces/día o 200 mg cada 8h",
+      "armazenamento": "Ambiente; solución IV refrigerada",
+      "preparo": "Diluir para administración intravenosa",
+      "solucoesCompatíveis": "Cloruro de sodio 0.9%, glucosa 5%",
+      "contraindicacoes": "Hipersensibilidad, anemia grave no tratada",
+      "cuidadosMedicos": "Monitorear hemograma, función hepática y signos de acidosis",
+      "cuidadosFarmaceuticos": "Evitar uso concomitante con fármacos mielotóxicos",
+      "cuidadosEnfermagem": "Observar signos de anemia, neutropenia y efectos GI",
+      "fontesBibliograficas": "OMS, FDA, Micromedex, Ministerio de Salud"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "齐多夫定",
+      "suspension": "手术当天继续用药",
+      "risk": "麻醉风险低，注意骨髓抑制和乳酸中毒",
+      "reintroduction": "术后继续使用，如有中性粒细胞减少或乳酸中毒需调整"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "齐多夫定",
+      "nomeComercial": "齐多夫定, AZT, Retrovir",
+      "mecanismoAcao": "核苷类逆转录酶抑制剂（NRTI）",
+      "farmacocinetica": "口服吸收好，肝代谢，肾排泄",
+      "farmacodinamica": "通过抑制逆转录阻断HIV复制",
+      "indicacoes": "HIV感染，母婴传播预防，暴露后预防（PEP）",
+      "reacoesAdversas": "贫血、中性粒细胞减少、乳酸中毒、恶心、头痛",
+      "riscoGravidez": "C类（用于阻断母婴传播）",
+      "riscoLactacao": "禁用，HIV感染者不应哺乳",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日600毫克",
+      "doseMinima": "每日300毫克",
+      "classificacao": "抗逆转录病毒药（NRTI）",
+      "apresentacao": "片剂、胶囊、口服液、注射液",
+      "interacaoMedicamento": "与更昔洛韦、利巴韦林、干扰素合用增加骨髓毒性",
+      "posologia": "每天两次300毫克，或每8小时200毫克",
+      "armazenamento": "常温储存，注射液冷藏",
+      "preparo": "注射液使用前需稀释",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "过敏反应、严重贫血",
+      "cuidadosMedicos": "监测血常规、肝功能、乳酸水平",
+      "cuidadosFarmaceuticos": "避免联合骨髓抑制药物",
+      "cuidadosEnfermagem": "监测贫血、中性粒细胞减少及胃肠症状",
+      "fontesBibliograficas": "中国药典，FDA，Micromedex，WHO"
+    }
+  }
+}

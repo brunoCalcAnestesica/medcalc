@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ponatinibe",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva",
+      "risk": "Risco elevado de eventos tromboembólicos arteriais e venosos, hipertensão e hepatotoxicidade; aumenta risco cirúrgico e de sangramento",
+      "reintroduction": "Reintroduzir após avaliação do risco cardiovascular e função hepática no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ponatinibe",
+      "nomeComercial": "Iclusig",
+      "mecanismoAcao": "Inibidor de tirosina quinase pan-BCR-ABL, incluindo formas resistentes como T315I; bloqueia múltiplos receptores de crescimento",
+      "farmacocinetica": "Alta biodisponibilidade oral; Tmáx 6 h; meia-vida 24 h; metabolizado por CYP3A4",
+      "farmacodinamica": "Inibe proliferação celular e induz apoptose em linhagens leucêmicas resistentes à terapia convencional",
+      "indicacoes": "Leucemia mieloide crônica (LMC) e leucemia linfoblástica aguda (LLA) Ph+ resistentes ou com mutação T315I",
+      "reacoesAdversas": "Trombose, hipertensão, insuficiência cardíaca, hepatotoxicidade, pancreatite, rash, diarreia, mielossupressão",
+      "riscoGravidez": "Categoria D – contraindicado (teratogênico, embriotóxico)",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "45 mg/dia",
+      "doseMinima": "15 mg/dia (ajustado por toxicidade)",
+      "classificacao": "Inibidor de tirosina quinase (antineoplásico)",
+      "apresentacao": "Comprimidos de 15 mg, 30 mg, 45 mg",
+      "interacaoMedicamento": "Metabolizado por CYP3A4; interage com inibidores/indutores do CYP3A4, anticoagulantes, AINEs",
+      "posologia": "45 mg/dia VO até resposta ou toxicidade; pode ser reduzido para 15 mg/dia como manutenção",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Uso direto; não partir ou mastigar o comprimido",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Gravidez, lactação, eventos cardiovasculares ativos, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar PA, função hepática, lipase/amílase, ECG, sinais de trombose ou disfunção cardíaca",
+      "cuidadosFarmaceuticos": "Evitar interações medicamentosas; reforçar adesão ao tratamento e controle laboratorial",
+      "cuidadosEnfermagem": "Observar pressão arterial, eventos trombóticos, sintomas GI e rash",
+      "fontesBibliograficas": "Micromedex, UpToDate, bula Iclusig, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ponatinib",
+      "suspension": "Discontinue 7 days before elective surgery",
+      "risk": "High risk of arterial and venous thromboembolism, hypertension, hepatotoxicity; increases surgical risk",
+      "reintroduction": "Restart after evaluating cardiovascular and hepatic status post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ponatinib",
+      "nomeComercial": "Iclusig",
+      "mecanismoAcao": "Tyrosine kinase inhibitor targeting BCR-ABL including T315I mutation; inhibits multiple growth factor receptors",
+      "farmacocinetica": "Oral; Tmax 6 h; half-life ~24 h; metabolized by CYP3A4",
+      "farmacodinamica": "Inhibits proliferation and induces apoptosis in resistant leukemic cells",
+      "indicacoes": "CML and Ph+ ALL resistant or with T315I mutation",
+      "reacoesAdversas": "Thrombosis, hypertension, heart failure, hepatotoxicity, pancreatitis, rash, diarrhea, myelosuppression",
+      "riscoGravidez": "Category D – contraindicated (teratogenic, embryotoxic)",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "45 mg/day",
+      "doseMinima": "15 mg/day (dose-reduced)",
+      "classificacao": "Tyrosine kinase inhibitor (antineoplastic)",
+      "apresentacao": "Tablets: 15 mg, 30 mg, 45 mg",
+      "interacaoMedicamento": "CYP3A4 interactions; caution with anticoagulants, NSAIDs",
+      "posologia": "Start with 45 mg/day; reduce to 15 mg/day upon response or for maintenance",
+      "armazenamento": "15–30°C, dry and protected",
+      "preparo": "Use whole tablet; do not crush or chew",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, lactation, active CV events, hypersensitivity",
+      "cuidadosMedicos": "Monitor BP, LFTs, lipase, ECG, thrombosis, heart failure signs",
+      "cuidadosFarmaceuticos": "Prevent drug interactions; reinforce adherence and lab monitoring",
+      "cuidadosEnfermagem": "Check BP, thrombosis signs, GI symptoms, rash",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Iclusig PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ponatinib",
+      "suspension": "Suspender 7 días antes de cirugía programada",
+      "risk": "Alto riesgo trombótico, hipertensión, hepatotoxicidad; aumenta riesgo quirúrgico",
+      "reintroduction": "Reiniciar tras evaluación hepática y cardiovascular postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ponatinib",
+      "nomeComercial": "Iclusig",
+      "mecanismoAcao": "Inhibidor de tirosina quinasa (pan-BCR-ABL), incluso T315I; bloquea receptores de crecimiento",
+      "farmacocinetica": "VO; Tmax 6 h; vida media 24 h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Inhibe proliferación celular y promueve apoptosis en células leucémicas resistentes",
+      "indicacoes": "LMC y LLA Ph+ resistentes o con mutación T315I",
+      "reacoesAdversas": "Trombosis, hipertensión, ICC, toxicidad hepática, pancreatitis, exantema, diarrea, mielosupresión",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "45 mg/día",
+      "doseMinima": "15 mg/día (ajustado)",
+      "classificacao": "Inhibidor de tirosina quinasa",
+      "apresentacao": "Comprimidos: 15, 30, 45 mg",
+      "interacaoMedicamento": "Interacción con CYP3A4, anticoagulantes, AINEs",
+      "posologia": "Inicio: 45 mg/día, ajustar según respuesta/toxicidad",
+      "armazenamento": "15–30°C, protegido de humedad",
+      "preparo": "No triturar; ingerir entero",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, eventos CV activos",
+      "cuidadosMedicos": "Controlar TA, función hepática, lipasa, ECG",
+      "cuidadosFarmaceuticos": "Evitar interacciones; reforzar adherencia y monitoreo",
+      "cuidadosEnfermagem": "Observar TA, síntomas trombóticos, GI, exantema",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Iclusig"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "泊那替尼",
+      "suspension": "择期手术前7天停药",
+      "risk": "高度血栓风险、高血压、肝毒性，增加术后并发症",
+      "reintroduction": "术后评估心血管与肝功能后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "泊那替尼（Ponatinib）",
+      "nomeComercial": "Iclusig",
+      "mecanismoAcao": "广谱BCR-ABL酪氨酸激酶抑制剂，包含T315I突变，抑制多种生长因子受体",
+      "farmacocinetica": "口服吸收好；Tmax 6小时；T½约24小时；CYP3A4代谢",
+      "farmacodinamica": "抑制白血病细胞增殖，诱导凋亡",
+      "indicacoes": "耐药或T315I突变的CML、Ph+ ALL",
+      "reacoesAdversas": "血栓、高血压、心衰、肝毒性、胰腺炎、皮疹、腹泻、骨髓抑制",
+      "riscoGravidez": "D类（致畸）",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日45 mg",
+      "doseMinima": "每日15 mg",
+      "classificacao": "酪氨酸激酶抑制剂",
+      "apresentacao": "片剂：15、30、45 mg",
+      "interacaoMedicamento": "与CYP3A4药物、抗凝药、NSAIDs有相互作用",
+      "posologia": "初始45 mg/日，缓解后可减至15 mg维持",
+      "armazenamento": "15–30°C，干燥避光",
+      "preparo": "整片服用，勿掰碎",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、活动性心血管疾病、过敏",
+      "cuidadosMedicos": "监测血压、肝功能、血脂酶、电图、血栓征象",
+      "cuidadosFarmaceuticos": "提醒患者按时服药、避免合并药物",
+      "cuidadosEnfermagem": "监测血压、GI反应、皮疹及血栓风险",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Iclusig说明书"
+    }
+  }
+}

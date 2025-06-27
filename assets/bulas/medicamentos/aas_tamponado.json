@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido acetilsalicílico tamponado",
+      "suspension": "Suspender pelo menos 7 dias antes de procedimentos cirúrgicos eletivos, salvo indicação cardiológica.",
+      "risk": "Alto risco de sangramento por inibição irreversível da agregação plaquetária. O tamponamento reduz lesão gástrica, mas não altera o efeito antiplaquetário.",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia, conforme risco cardiovascular e controle hemostático. Avaliar com equipe cirúrgica/cardiológica."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido acetilsalicílico (AAS) tamponado",
+      "nomeComercial": "Aspirina Prevent, Bufferin, Melhoral tamponado, AAS Protect",
+      "mecanismoAcao": "Inibe irreversivelmente a COX-1 nas plaquetas, bloqueando a síntese de tromboxano A2, responsável pela agregação. A forma tamponada reduz o contato direto com a mucosa gástrica.",
+      "farmacocinetica": "Absorção rápida oral; metabolização hepática; meia-vida do AAS ~15–20 min; efeito plaquetário por 7–10 dias.",
+      "farmacodinamica": "Efeito antiplaquetário irreversível, anti-inflamatório, analgésico e antipirético. O tamponamento não interfere na ação sistêmica.",
+      "indicacoes": "Profilaxia secundária de eventos cardiovasculares, angina, AVC isquêmico, prevenção de trombose, dor leve a moderada, febre.",
+      "reacoesAdversas": "Gastrite, dispepsia, sangramento GI, epistaxe, urticária, broncoespasmo, hemorragia maior.",
+      "riscoGravidez": "Categoria D no 3º trimestre; evitar uso contínuo.",
+      "riscoLactacao": "Evitar uso prolongado; pequenas doses podem ser compatíveis.",
+      "administracao": "Via oral.",
+      "doseMaxima": "4 g/dia (para dor/febre); 100–300 mg/dia (profilaxia CV).",
+      "doseMinima": "75 mg/dia (cardiológica).",
+      "classificacao": "Anti-inflamatório não esteroidal (AINE), antiplaquetário irreversível.",
+      "apresentacao": "Comprimidos de 100 mg, 300 mg, 500 mg tamponados; efervescentes.",
+      "interacaoMedicamento": "Interage com anticoagulantes, AINEs, corticosteroides, IECA, metotrexato, varfarina.",
+      "posologia": "100–300 mg/dia para prevenção cardiovascular. Para dor/febre: 500–1000 mg a cada 6–8h.",
+      "armazenamento": "Temperatura ambiente, protegido da umidade.",
+      "preparo": "Efervescentes devem ser dissolvidos em água.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Úlcera ativa, diátese hemorrágica, asma induzida por AINE, insuficiência renal/hepática grave.",
+      "cuidadosMedicos": "Avaliar risco trombótico x sangramento no perioperatório. Monitorar função hepática, sangramentos e PA.",
+      "cuidadosFarmaceuticos": "Checar indicação, formulação e duplicidade com outros antiplaquetários.",
+      "cuidadosEnfermagem": "Observar sinais de sangramento, dor epigástrica; administrar com alimento.",
+      "fontesBibliograficas": "FDA, ANVISA, UpToDate, Micromedex, ESC Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Buffered aspirin",
+      "suspension": "Discontinue at least 7 days before elective surgery unless otherwise indicated by cardiology.",
+      "risk": "High bleeding risk due to irreversible platelet inhibition. Buffering reduces gastric irritation but not systemic antiplatelet action.",
+      "reintroduction": "Restart 24–72h post-op based on hemostasis and cardiovascular risk. Coordinate with surgical/cardiac team."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Buffered acetylsalicylic acid",
+      "nomeComercial": "Bufferin, Bayer Buffered Aspirin, Aspirin Protect",
+      "mecanismoAcao": "Irreversible COX-1 inhibition in platelets prevents thromboxane A2 synthesis. Buffered form reduces gastric mucosa irritation.",
+      "farmacocinetica": "Rapid oral absorption; hepatic metabolism; ASA half-life 15–20 min; platelet effect lasts 7–10 days.",
+      "farmacodinamica": "Irreversible antiplatelet effect, analgesic, antipyretic, and anti-inflammatory action. Buffering does not alter systemic effects.",
+      "indicacoes": "Secondary prevention of MI, stroke, angina, thrombosis; mild to moderate pain; fever.",
+      "reacoesAdversas": "GI bleeding, gastritis, epigastric pain, bronchospasm, urticaria, major hemorrhage.",
+      "riscoGravidez": "Category D in 3rd trimester – avoid unless clinically indicated.",
+      "riscoLactacao": "Avoid prolonged use; small doses possibly safe short-term.",
+      "administracao": "Oral.",
+      "doseMaxima": "4 g/day (pain/fever); 100–325 mg/day (CV prophylaxis).",
+      "doseMinima": "75 mg/day.",
+      "classificacao": "NSAID; irreversible antiplatelet agent.",
+      "apresentacao": "Buffered tablets: 100 mg, 300 mg, 500 mg; effervescent.",
+      "interacaoMedicamento": "Interacts with warfarin, NSAIDs, corticosteroids, methotrexate, ACE inhibitors.",
+      "posologia": "CV: 81–325 mg/day; Pain/Fever: 500–1000 mg every 6–8h.",
+      "armazenamento": "Room temperature; keep dry.",
+      "preparo": "Effervescent tablets should be dissolved in water.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Active ulcer, bleeding disorder, severe hepatic/renal failure, NSAID-induced asthma.",
+      "cuidadosMedicos": "Balance thrombotic vs bleeding risk; monitor GI symptoms and platelet function.",
+      "cuidadosFarmaceuticos": "Check duplicate antiplatelet use; confirm appropriate indication.",
+      "cuidadosEnfermagem": "Administer with food; monitor for bleeding, GI pain.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, AHA/ACC Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido acetilsalicílico tamponado",
+      "suspension": "Suspender al menos 7 días antes de cirugía electiva salvo indicación cardiológica.",
+      "risk": "Riesgo alto de sangrado por inhibición irreversible de plaquetas. El tampón reduce daño gástrico, no el efecto antiplaquetario.",
+      "reintroduction": "Reintroducir 24–72h después de cirugía, según control hemostático y riesgo cardiovascular."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido acetilsalicílico tamponado",
+      "nomeComercial": "Aspirina Protect, Bufferin, Mejoral tamponado",
+      "mecanismoAcao": "Inhibe irreversiblemente la COX-1 plaquetaria; reduce tromboxano A2. La forma tamponada disminuye irritación gástrica.",
+      "farmacocinetica": "Absorción oral rápida; metabolismo hepático; vida media corta (15–20 min); efecto antiplaquetario 7–10 días.",
+      "farmacodinamica": "Acción antiplaquetaria irreversible, analgésica y antiinflamatoria; el tampón no modifica su efecto sistémico.",
+      "indicacoes": "Prevención secundaria de IAM, ACV, angina; fiebre; dolor leve a moderado.",
+      "reacoesAdversas": "Gastritis, dispepsia, sangrado digestivo, asma, urticaria, hemorragia.",
+      "riscoGravidez": "Categoría D en 3º trimestre.",
+      "riscoLactacao": "Dosis bajas aceptables a corto plazo.",
+      "administracao": "Vía oral.",
+      "doseMaxima": "4 g/día (dolor); 100–300 mg/día (prevención CV).",
+      "doseMinima": "75 mg/día.",
+      "classificacao": "AINE antiplaquetario irreverible.",
+      "apresentacao": "Comprimidos tamponados 100/300/500 mg; efervescentes.",
+      "interacaoMedicamento": "Interacciones con warfarina, AINE, IECA, esteroides, metotrexato.",
+      "posologia": "Prevención: 100–300 mg/día; Dolor: 500–1000 mg cada 6–8h.",
+      "armazenamento": "Temperatura ambiente, seco.",
+      "preparo": "Efervescentes deben diluirse en agua.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Úlcera, sangrado, asma AINE, hepatopatía, nefropatía grave.",
+      "cuidadosMedicos": "Equilibrar riesgo trombótico vs hemorragia; vigilar síntomas GI.",
+      "cuidadosFarmaceuticos": "Evitar duplicación antiplaquetaria.",
+      "cuidadosEnfermagem": "Administrar con comida; observar sangrado o dolor epigástrico.",
+      "fontesBibliograficas": "AEMPS, UpToDate, ESC Guidelines"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "缓冲阿司匹林（Aspirin, Buffered）",
+      "suspension": "术前至少提前7天停药，除非心血管适应证明确。",
+      "risk": "不可逆抗血小板作用增加出血风险；缓冲剂减少胃刺激但不影响抗血小板效果。",
+      "reintroduction": "术后24–72小时根据止血情况与心血管风险恢复使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "缓冲阿司匹林",
+      "nomeComercial": "Bufferin、阿司匹林保护剂型",
+      "mecanismoAcao": "不可逆COX-1抑制作用抑制血小板TXA2合成；缓冲剂减少胃部不适。",
+      "farmacocinetica": "口服快速吸收；肝代谢；半衰期约15–20分钟；抗血小板效应持续7–10天。",
+      "farmacodinamica": "抗血小板、解热镇痛抗炎；缓冲剂不影响其系统效应。",
+      "indicacoes": "心梗、卒中、心绞痛继发预防；退热；轻中度疼痛。",
+      "reacoesAdversas": "胃出血、胃炎、支气管痉挛、荨麻疹、出血性疾病。",
+      "riscoGravidez": "孕晚期禁用（D类）。",
+      "riscoLactacao": "短期小剂量可用，避免长期服用。",
+      "administracao": "口服。",
+      "doseMaxima": "每日不超过4克（镇痛）；心血管预防100–325mg/天。",
+      "doseMinima": "每日75毫克。",
+      "classificacao": "NSAID，不可逆抗血小板药。",
+      "apresentacao": "缓冲片剂：100/300/500mg，泡腾片。",
+      "interacaoMedicamento": "与抗凝药、AINE、ACEI、激素、甲氨蝶呤相互作用。",
+      "posologia": "预防：每日100–300mg；镇痛：500–1000mg每6–8小时。",
+      "armazenamento": "室温保存，避潮。",
+      "preparo": "泡腾片需溶解于水。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "活动性胃溃疡、出血倾向、NSAID哮喘、严重肝/肾病。",
+      "cuidadosMedicos": "权衡术中出血风险与血栓风险，监测出血和肠胃症状。",
+      "cuidadosFarmaceuticos": "避免重复抗血小板治疗；核查适应证。",
+      "cuidadosEnfermagem": "进食时服用，观察出血、胃痛等反应。",
+      "fontesBibliograficas": "中国药典、ESC指南、Micromedex、UpToDate"
+    }
+  }
+}

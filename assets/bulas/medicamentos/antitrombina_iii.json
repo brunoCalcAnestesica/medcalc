@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Antitrombina III",
+      "suspension": "Não aplicável – uso terapêutico hospitalar conforme necessidade clínica aguda",
+      "risk": "Risco de reações alérgicas, sangramento excessivo e trombose paradoxal se mal indicado; atenção em pacientes com hemorragia ativa",
+      "reintroduction": "Pode ser reintroduzido conforme níveis de ATIII, presença de trombose ou uso de heparina em pacientes deficientes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antitrombina alfa (plasmática ou recombinante)",
+      "nomeComercial": "Thrombate III, Kybernin P, ATryn",
+      "mecanismoAcao": "Glicoproteína que inibe trombina e fatores ativados da coagulação (Xa, IXa, VIIa), potencializada pela heparina",
+      "farmacocinetica": "Meia-vida de 2,5 a 3 dias; administração IV; metabolização hepática parcial",
+      "farmacodinamica": "Restabelece a capacidade inibitória da coagulação em pacientes com deficiência congênita ou adquirida de antitrombina",
+      "indicacoes": "Deficiência congênita ou adquirida de ATIII, trombose recorrente, cirurgia em paciente com deficiência de ATIII, uso com heparina",
+      "reacoesAdversas": "Rash, febre, hipotensão, reações anafiláticas (raras), sangramentos",
+      "riscoGravidez": "Categoria C – usar somente se necessário",
+      "riscoLactacao": "Provavelmente seguro",
+      "administracao": "Intravenosa lenta ou infusão contínua",
+      "doseMaxima": "Individualizada conforme peso e níveis de ATIII (geralmente 30–60 UI/kg)",
+      "doseMinima": "30 UI/kg em cirurgia eletiva",
+      "classificacao": "Concentrado de inibidor fisiológico da coagulação / antitrombina",
+      "apresentacao": "Frascos-ampola com 250–500 UI liofilizados",
+      "interacaoMedicamento": "Potencializa efeito anticoagulante da heparina; cuidado com outros anticoagulantes",
+      "posologia": "30–60 UI/kg IV; manter ATIII >80% durante 2–3 dias perioperatório",
+      "armazenamento": "2–8°C; proteger da luz",
+      "preparo": "Reconstituir com diluente fornecido e administrar lentamente",
+      "solucoesCompatíveis": "SF 0,9% para diluição",
+      "contraindicacoes": "Reação alérgica conhecida, hemorragia ativa não controlada",
+      "cuidadosMedicos": "Monitorar ATIII plasmática, TTPa, sinais de sangramento ou trombose",
+      "cuidadosFarmaceuticos": "Confirmar integridade do pó liofilizado e validade",
+      "cuidadosEnfermagem": "Observar reações infusionais, pressão arterial e sinais de sangramento",
+      "fontesBibliograficas": "SBH, FDA, EMA, Medscape, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Antithrombin III",
+      "suspension": "Not applicable – used only in acute hospital settings",
+      "risk": "Bleeding risk, allergic reaction, paradoxical thrombosis; caution in active bleeding",
+      "reintroduction": "Re-administer based on ATIII levels or in high-risk thrombotic states"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antithrombin alfa (plasma-derived or recombinant)",
+      "nomeComercial": "Thrombate III, ATryn",
+      "mecanismoAcao": "Serine protease inhibitor of thrombin and activated clotting factors (Xa, IXa), enhanced by heparin",
+      "farmacocinetica": "Half-life 2.5–3 days; IV route; partial hepatic metabolism",
+      "farmacodinamica": "Restores physiologic anticoagulant activity in ATIII deficiency",
+      "indicacoes": "Hereditary or acquired ATIII deficiency, preoperative use, DIC, VTE prevention with heparin",
+      "reacoesAdversas": "Allergic reaction, rash, fever, hypotension, bleeding",
+      "riscoGravidez": "Category C – use only if needed",
+      "riscoLactacao": "Likely safe",
+      "administracao": "Slow IV or continuous infusion",
+      "doseMaxima": "30–60 IU/kg based on deficiency and weight",
+      "doseMinima": "30 IU/kg (perioperative)",
+      "classificacao": "Plasma-derived or recombinant antithrombin concentrate",
+      "apresentacao": "250–500 IU vials, lyophilized",
+      "interacaoMedicamento": "Potentiates heparin; use caution with anticoagulants",
+      "posologia": "30–60 IU/kg IV; maintain ATIII >80% perioperatively",
+      "armazenamento": "Refrigerated 2–8°C; protect from light",
+      "preparo": "Reconstitute with diluent; administer slowly",
+      "solucoesCompatíveis": "0.9% saline",
+      "contraindicacoes": "Known allergy, uncontrolled bleeding",
+      "cuidadosMedicos": "Monitor ATIII activity, coagulation profile",
+      "cuidadosFarmaceuticos": "Inspect powder integrity and expiration",
+      "cuidadosEnfermagem": "Monitor infusion reactions, vitals, signs of bleeding",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, AABB"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Antitrombina III",
+      "suspension": "No aplica – solo en entorno hospitalario agudo",
+      "risk": "Hemorragia, reacción alérgica, trombosis paradójica",
+      "reintroduction": "Administrar si persiste déficit o riesgo trombótico alto"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antitrombina alfa",
+      "nomeComercial": "Thrombate III, ATryn",
+      "mecanismoAcao": "Inhibe trombina y factores activados; potencia su acción con heparina",
+      "farmacocinetica": "T½ 2,5–3 días; metabolismo hepático parcial",
+      "farmacodinamica": "Corrige deficiencia de ATIII y modula coagulación",
+      "indicacoes": "Deficiencia hereditaria o adquirida, cirugía, anticoagulación",
+      "reacoesAdversas": "Rash, fiebre, hipotensión, sangrado, anafilaxia rara",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Probablemente seguro",
+      "administracao": "IV lenta o infusión continua",
+      "doseMaxima": "30–60 UI/kg",
+      "doseMinima": "30 UI/kg",
+      "classificacao": "Concentrado anticoagulante derivado plasmático o recombinante",
+      "apresentacao": "Viales 250–500 UI",
+      "interacaoMedicamento": "Potencia anticoagulantes como heparina",
+      "posologia": "30–60 UI/kg; mantener ATIII >80%",
+      "armazenamento": "2–8°C; protegido de luz",
+      "preparo": "Reconstituir y administrar lentamente",
+      "solucoesCompatíveis": "ClNa 0,9%",
+      "contraindicacoes": "Alergia conocida, sangrado activo",
+      "cuidadosMedicos": "Monitoreo ATIII, TTPa, INR",
+      "cuidadosFarmaceuticos": "Verificar integridad del polvo",
+      "cuidadosEnfermagem": "Controlar reacciones, signos vitales",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "抗凝血酶III",
+      "suspension": "仅在急性住院时使用，无需术前停药",
+      "risk": "可能引发出血、过敏反应、反常性血栓",
+      "reintroduction": "根据ATIII水平和临床指征可再次给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "重组或人源抗凝血酶III",
+      "nomeComercial": "ATryn、Thrombate III",
+      "mecanismoAcao": "抑制凝血酶及Xa、IXa等激活因子，增强肝素作用",
+      "farmacocinetica": "T½约2.5–3天，部分肝代谢",
+      "farmacodinamica": "纠正ATIII缺陷，预防血栓",
+      "indicacoes": "ATIII缺乏、围术期预防、DIC",
+      "reacoesAdversas": "低血压、瘙痒、发热、出血、过敏反应",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "短期使用安全",
+      "administracao": "缓慢静脉注射或持续输注",
+      "doseMaxima": "每日30–60 IU/kg",
+      "doseMinima": "30 IU/kg",
+      "classificacao": "抗凝蛋白浓缩制剂",
+      "apresentacao": "250–500 IU瓶装冻干粉",
+      "interacaoMedicamento": "增强肝素等抗凝药效",
+      "posologia": "维持ATIII活性80%以上",
+      "armazenamento": "2–8°C避光",
+      "preparo": "溶解后缓慢注射",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "出血未控制、已知过敏",
+      "cuidadosMedicos": "监测凝血功能、肝素联合效应",
+      "cuidadosFarmaceuticos": "核查有效期、配伍正确",
+      "cuidadosEnfermagem": "观察输注反应、血压、出血体征",
+      "fontesBibliograficas": "中国药典、FDA、Medscape、Micromedex"
+    }
+  }
+}

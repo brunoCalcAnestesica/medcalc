@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Binimetinibe",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas com risco de toxicidade cardíaca, ocular ou gastrointestinal",
+      "risk": "Disfunção ventricular esquerda, retinopatia serosa central, elevação de CPK, náuseas, diarreia, rash, hemorragia",
+      "reintroduction": "Reintroduzir após estabilização clínica, resolução de toxicidades oculares e cardiovasculares"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Binimetinibe",
+      "nomeComercial": "Mektovi",
+      "mecanismoAcao": "Inibidor seletivo da MEK1/2, reduzindo a sinalização via MAPK/ERK em tumores com mutação BRAF",
+      "farmacocinetica": "VO; T½ ~3h; metabolismo hepático (CYP1A2, UGT1A1); excreção fecal e renal",
+      "farmacodinamica": "Bloqueia ativação da MEK downstream do BRAF; antiproliferativo em tumores BRAF-mutantes",
+      "indicacoes": "Melanoma irressecável ou metastático BRAF V600E/K+ (em combinação com encorafenibe)",
+      "reacoesAdversas": "Náusea, diarreia, fadiga, edema, rash, aumento de CPK, toxicidade ocular, toxicidade cardíaca",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado durante e por 3 dias após a última dose",
+      "administracao": "VO, 45mg 2x/dia, a cada 12h, com ou sem alimentos",
+      "doseMaxima": "90mg/dia",
+      "doseMinima": "30mg/dia (após ajuste por toxicidade)",
+      "classificacao": "Inibidor oral de MEK1/2",
+      "apresentacao": "Comprimidos 15mg",
+      "interacaoMedicamento": "Metabolismo por UGT1A1; interação com inibidores/indutores do CYP1A2, glicoproteína P",
+      "posologia": "45mg VO 2x/dia com encorafenibe até progressão ou toxicidade",
+      "armazenamento": "Temperatura ambiente; proteger da umidade",
+      "preparo": "Uso oral direto; não partir ou triturar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, disfunção ventricular grave, retinopatia ativa",
+      "cuidadosMedicos": "Avaliar função cardíaca (FEVE), exames oftalmológicos regulares, CPK e sinais de toxicidade GI",
+      "cuidadosFarmaceuticos": "Educar paciente sobre sintomas de retinopatia, manutenção da adesão e interações",
+      "cuidadosEnfermagem": "Observar edema, visão turva, náuseas, diarreia, fadiga",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Binimetinib",
+      "suspension": "Hold 7 days before major surgery in patients with cardiac or ocular toxicity",
+      "risk": "LVEF decrease, retinal detachment, elevated CPK, diarrhea, rash, GI and hepatic events",
+      "reintroduction": "Restart after clinical stability and resolution of MEK-related adverse effects"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Binimetinib",
+      "nomeComercial": "Mektovi",
+      "mecanismoAcao": "Selective MEK1/2 inhibitor that blocks MAPK/ERK signaling downstream of BRAF",
+      "farmacocinetica": "Oral; T½ ~3h; metabolized via CYP1A2 and UGT1A1; fecal and renal elimination",
+      "farmacodinamica": "Antiproliferative in BRAF-mutant tumors via MAPK pathway blockade",
+      "indicacoes": "BRAF V600E/K+ unresectable or metastatic melanoma (with encorafenib)",
+      "reacoesAdversas": "Nausea, diarrhea, fatigue, edema, ocular toxicity, increased CPK, rash",
+      "riscoGravidez": "Category D – fetal risk",
+      "riscoLactacao": "Avoid during treatment and 3 days after last dose",
+      "administracao": "45mg PO BID, with or without food",
+      "doseMaxima": "90mg/day",
+      "doseMinima": "30mg/day",
+      "classificacao": "Oral MEK1/2 inhibitor",
+      "apresentacao": "15mg tablets",
+      "interacaoMedicamento": "Metabolized by UGT1A1, CYP1A2; interactions with inhibitors/inducers",
+      "posologia": "45mg PO BID with encorafenib",
+      "armazenamento": "Store at room temperature; protect from moisture",
+      "preparo": "Oral use; swallow whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, severe cardiac dysfunction, active ocular disorders",
+      "cuidadosMedicos": "Monitor LVEF, ophthalmologic exams, CPK, LFTs, GI symptoms",
+      "cuidadosFarmaceuticos": "Patient education on adherence, vision changes, diarrhea",
+      "cuidadosEnfermagem": "Assess visual symptoms, edema, GI distress, fatigue",
+      "fontesBibliograficas": "FDA label, Micromedex, NCCN, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Binimetinib",
+      "suspension": "Suspender 7 días antes de cirugía si hay toxicidad cardíaca u ocular",
+      "risk": "Disminución de FEVI, retinopatía, elevación CPK, fatiga, náuseas, erupción",
+      "reintroduction": "Reiniciar tras recuperación funcional y resolución de toxicidades"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Binimetinib",
+      "nomeComercial": "Mektovi",
+      "mecanismoAcao": "Inhibidor de MEK1/2; bloquea MAPK/ERK en tumores BRAF+",
+      "farmacocinetica": "VO; T½ ~3h; metabolizado por CYP1A2 y UGT1A1; excreción biliar y renal",
+      "farmacodinamica": "Actividad antiproliferativa en tumores BRAF V600E/K",
+      "indicacoes": "Melanoma BRAF V600+, metastásico o irressecable",
+      "reacoesAdversas": "Náuseas, fatiga, diarrea, toxicidad ocular, rash, edema, CPK elevada",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado 3 días tras última dosis",
+      "administracao": "45mg VO cada 12h",
+      "doseMaxima": "90mg/día",
+      "doseMinima": "30mg/día",
+      "classificacao": "Inhibidor oral MEK",
+      "apresentacao": "Comprimidos 15mg",
+      "interacaoMedicamento": "Interacción con CYP1A2/UGT1A1 y sustratos P-gp",
+      "posologia": "45mg BID junto a encorafenib",
+      "armazenamento": "Ambiente seco, luz indirecta",
+      "preparo": "No triturar ni partir",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, disfunción cardíaca severa",
+      "cuidadosMedicos": "Control LVEF, visión, CPK, síntomas digestivos",
+      "cuidadosFarmaceuticos": "Monitoreo estrecho de toxicidad y adherencia",
+      "cuidadosEnfermagem": "Observar visión, náuseas, erupciones, debilidad",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "比尼替尼",
+      "suspension": "术前7天停药，如有心脏或眼部毒性应评估",
+      "risk": "心功能下降、视网膜病、CPK升高、胃肠道反应、皮疹",
+      "reintroduction": "术后10–14天症状缓解后可恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "比尼替尼",
+      "nomeComercial": "Mektovi",
+      "mecanismoAcao": "MEK1/2选择性抑制剂，阻断MAPK/ERK信号通路",
+      "farmacocinetica": "口服；T½约3小时；CYP1A2/UGT1A1代谢；胆肠/尿排泄",
+      "farmacodinamica": "用于BRAF突变肿瘤的信号通路抑制剂",
+      "indicacoes": "BRAF突变型黑色素瘤，与恩可拉非尼联用",
+      "reacoesAdversas": "恶心、腹泻、疲劳、水肿、视网膜病、CPK升高、皮疹",
+      "riscoGravidez": "D类 – 孕期禁用",
+      "riscoLactacao": "停药后3天内禁哺乳",
+      "administracao": "每日两次，每次45mg",
+      "doseMaxima": "每日90mg",
+      "doseMinima": "每日30mg",
+      "classificacao": "口服MEK抑制剂",
+      "apresentacao": "15mg片剂",
+      "interacaoMedicamento": "CYP1A2/UGT1A1底物与抑制剂/诱导剂互作",
+      "posologia": "45mg BID，与恩可拉非尼同服",
+      "armazenamento": "干燥处避光保存",
+      "preparo": "整片吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、严重心脏病或眼病",
+      "cuidadosMedicos": "监测心脏超声、视网膜、CPK、肝功能",
+      "cuidadosFarmaceuticos": "强调服药规律、预警毒性反应",
+      "cuidadosEnfermagem": "关注视力模糊、疲劳、皮肤变化、肌肉痛",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、NCCN"
+    }
+  }
+}

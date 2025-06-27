@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Romiplostim",
+      "suspension": "Suspender 7 dias antes de cirurgias com risco hemorrágico elevado",
+      "risk": "Risco de trombose em pacientes com aumento excessivo de plaquetas; risco de rebote de plaquetopenia se interrompido abruptamente",
+      "reintroduction": "Reintroduzir após avaliação da contagem plaquetária e estabilidade clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Romiplostim",
+      "nomeComercial": "Nplate",
+      "mecanismoAcao": "Peptídeo mimético da trombopoetina (TPO) que ativa receptores de TPO, estimulando megacariócitos e produção de plaquetas",
+      "farmacocinetica": "Administração subcutânea; Tmáx ~14h; meia-vida de 1 a 34 dias (variável); metabolismo hepático",
+      "farmacodinamica": "Aumenta a produção de plaquetas em pacientes com púrpura trombocitopênica idiopática (PTI) crônica",
+      "indicacoes": "PTI crônica em adultos e crianças refratários a outras terapias; trombocitopenia em hepatopatia crônica antes de procedimentos invasivos",
+      "reacoesAdversas": "Cefaleia, fadiga, dor musculoesquelética, trombocitose, eventos trombóticos, medula óssea fibrose (raro)",
+      "riscoGravidez": "Categoria C – risco não pode ser descartado; usar se benefício justificar",
+      "riscoLactacao": "Desconhecido se excretado no leite; usar com cautela",
+      "administracao": "Subcutânea",
+      "doseMaxima": "10 mcg/kg/semana",
+      "doseMinima": "1 mcg/kg/semana",
+      "classificacao": "Agente estimulador da trombopoese",
+      "apresentacao": "Pó liofilizado 250 mcg ou 500 mcg para reconstituição",
+      "interacaoMedicamento": "Cautela com anticoagulantes ou outros estimuladores hematopoiéticos",
+      "posologia": "Iniciar com 1 mcg/kg SC uma vez por semana; ajustar dose para manter plaquetas entre 50.000–200.000/mm³",
+      "armazenamento": "Refrigerado entre 2–8°C; não congelar; proteger da luz",
+      "preparo": "Reconstituir com água estéril para injeção sem agitação vigorosa",
+      "solucoesCompatíveis": "Água estéril para injeção",
+      "contraindicacoes": "Hipersensibilidade ao romiplostim ou componentes da fórmula",
+      "cuidadosMedicos": "Monitorar contagem plaquetária semanalmente; avaliar sinais de trombose",
+      "cuidadosFarmaceuticos": "Assegurar técnica asséptica no preparo; descartar solução não utilizada",
+      "cuidadosEnfermagem": "Observar local de aplicação, sinais de sangramento ou trombose",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, Bula Nplate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Romiplostim",
+      "suspension": "Discontinue 7 days prior to high-risk bleeding surgery",
+      "risk": "Risk of thromboembolic events due to platelet overshoot; rebound thrombocytopenia upon abrupt discontinuation",
+      "reintroduction": "Reintroduce based on platelet count and clinical context"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Romiplostim",
+      "nomeComercial": "Nplate",
+      "mecanismoAcao": "Thrombopoietin receptor agonist peptide mimetic; stimulates megakaryocyte proliferation and platelet production",
+      "farmacocinetica": "SC administration; Tmax ~14h; half-life 1–34 days (variable); hepatic clearance",
+      "farmacodinamica": "Increases platelet counts in chronic ITP patients",
+      "indicacoes": "Chronic ITP refractory to other treatments; thrombocytopenia in chronic liver disease before invasive procedures",
+      "reacoesAdversas": "Headache, fatigue, bone pain, thrombocytosis, thromboembolism, marrow fibrosis (rare)",
+      "riscoGravidez": "Category C – use if potential benefit outweighs risk",
+      "riscoLactacao": "Unknown; caution advised",
+      "administracao": "Subcutaneous",
+      "doseMaxima": "10 mcg/kg/week",
+      "doseMinima": "1 mcg/kg/week",
+      "classificacao": "Thrombopoiesis-stimulating agent",
+      "apresentacao": "250 mcg or 500 mcg vials (lyophilized powder)",
+      "interacaoMedicamento": "Use caution with anticoagulants or hematopoietic growth factors",
+      "posologia": "Start at 1 mcg/kg SC weekly; titrate to maintain 50,000–200,000/mm³ platelets",
+      "armazenamento": "Store at 2–8°C; do not freeze; protect from light",
+      "preparo": "Reconstitute with sterile water for injection; do not shake",
+      "solucoesCompatíveis": "Sterile water for injection",
+      "contraindicacoes": "Known hypersensitivity to romiplostim or formulation components",
+      "cuidadosMedicos": "Weekly platelet monitoring; assess for thromboembolic signs",
+      "cuidadosFarmaceuticos": "Ensure aseptic preparation; discard unused solution",
+      "cuidadosEnfermagem": "Monitor injection site and signs of bleeding or thrombosis",
+      "fontesBibliograficas": "FDA, Nplate Prescribing Info, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Romiplostim",
+      "suspension": "Suspender 7 días antes de cirugía con alto riesgo hemorrágico",
+      "risk": "Riesgo de trombosis si se exceden niveles plaquetarios; trombocitopenia por rebote si se suspende bruscamente",
+      "reintroduction": "Reintroducir tras evaluación de plaquetas y estado clínico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Romiplostim",
+      "nomeComercial": "Nplate",
+      "mecanismoAcao": "Agonista del receptor de trombopoyetina; estimula producción de megacariocitos y plaquetas",
+      "farmacocinetica": "Subcutáneo; Tmax ~14h; semivida 1–34 días; metabolismo hepático",
+      "farmacodinamica": "Aumenta el recuento plaquetario en PTI crónica",
+      "indicacoes": "PTI crónica refractaria; trombocitopenia por hepatopatía antes de procedimientos",
+      "reacoesAdversas": "Cefalea, fatiga, dolor óseo, trombocitosis, eventos trombóticos, fibrosis medular (raro)",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Uso con precaución; excreción desconocida",
+      "administracao": "Subcutánea",
+      "doseMaxima": "10 mcg/kg/semana",
+      "doseMinima": "1 mcg/kg/semana",
+      "classificacao": "Estimulador de trombopoyesis",
+      "apresentacao": "Vial 250 o 500 mcg liofilizado",
+      "interacaoMedicamento": "Precaución con anticoagulantes o factores de crecimiento",
+      "posologia": "Iniciar con 1 mcg/kg SC semanal; ajustar según respuesta",
+      "armazenamento": "2–8°C; no congelar; proteger de luz",
+      "preparo": "Reconstituir con agua estéril; no agitar",
+      "solucoesCompatíveis": "Agua estéril",
+      "contraindicacoes": "Hipersensibilidad al principio activo o excipientes",
+      "cuidadosMedicos": "Control semanal de plaquetas; vigilar trombosis",
+      "cuidadosFarmaceuticos": "Preparación aséptica; desechar excedente",
+      "cuidadosEnfermagem": "Vigilar el sitio de inyección y sangrado/trombosis",
+      "fontesBibliograficas": "EMA, Micromedex, ficha técnica Nplate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "罗米普司亭（Romiplostim）",
+      "suspension": "择期高出血风险手术前7天停药",
+      "risk": "血小板过多可致血栓，骤停药物可致血小板骤降",
+      "reintroduction": "术后根据血小板和临床情况评估后恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "罗米普司亭",
+      "nomeComercial": "Nplate",
+      "mecanismoAcao": "TPO受体激动剂，刺激骨髓巨核细胞增殖并生成血小板",
+      "farmacocinetica": "皮下注射；Tmax约14小时；半衰期1–34天，肝代谢",
+      "farmacodinamica": "升高血小板，治疗慢性ITP等疾病",
+      "indicacoes": "慢性ITP、肝病相关血小板减少",
+      "reacoesAdversas": "头痛、疲劳、骨骼疼痛、血栓、骨髓纤维化（罕见）",
+      "riscoGravidez": "C类 – 若必要可慎用",
+      "riscoLactacao": "是否排泄尚不明确，慎用",
+      "administracao": "皮下注射",
+      "doseMaxima": "每周10 mcg/kg",
+      "doseMinima": "每周1 mcg/kg",
+      "classificacao": "促血小板生成剂",
+      "apresentacao": "250或500微克冻干粉针剂",
+      "interacaoMedicamento": "慎与抗凝剂或其他造血因子同用",
+      "posologia": "起始剂量1 mcg/kg，每周皮下注射，调整剂量维持血小板在50–200×10⁹/L",
+      "armazenamento": "2–8°C冷藏，勿冷冻，避光",
+      "preparo": "用注射用无菌水重溶，轻摇混匀",
+      "solucoesCompatíveis": "注射用无菌水",
+      "contraindicacoes": "对罗米普司亭或其成分过敏",
+      "cuidadosMedicos": "每周监测血小板，警惕血栓形成",
+      "cuidadosFarmaceuticos": "无菌环境配药，用后弃去残液",
+      "cuidadosEnfermagem": "观察注射部位及血栓/出血体征",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、Nplate说明书"
+    }
+  }
+}

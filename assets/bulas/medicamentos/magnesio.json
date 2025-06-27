@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Magnésio",
+      "suspension": "Não é necessário suspender antes de cirurgias, exceto em casos de uso IV contínuo sem controle eletrolítico",
+      "risk": "Risco de depressão respiratória e bloqueio neuromuscular em doses elevadas (especialmente via EV); atenção em pacientes com IRC",
+      "reintroduction": "Reintroduzir conforme necessidade clínica, controle eletrolítico e função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato de magnésio / Cloreto de magnésio",
+      "nomeComercial": "Magnésia Bisurada, MgCl2 PA, Sulfato de Magnésio, Magnesil, Lactato de Magnésio",
+      "mecanismoAcao": "Atua como cofator enzimático em mais de 300 reações bioquímicas, incluindo metabolismo energético, síntese proteica e excitabilidade neuromuscular",
+      "farmacocinetica": "Absorção intestinal variável; excreção renal; meia-vida curta em infusão EV",
+      "farmacodinamica": "Promove estabilização de membranas, relaxamento muscular, regulação do ritmo cardíaco e condutância neuromuscular",
+      "indicacoes": "Hipomagnesemia, eclâmpsia, arritmias ventriculares, constipação, dispepsia",
+      "reacoesAdversas": "Diarreia (oral), rubor, hipotensão, fraqueza muscular, depressão respiratória (EV), parada cardíaca (superdose)",
+      "riscoGravidez": "Categoria D – uso permitido em eclâmpsia sob monitoramento",
+      "riscoLactacao": "Seguro em doses terapêuticas",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "40g/dia (EV hospitalar); 1g/dose oral (uso crônico)",
+      "doseMinima": "100–400mg/dia (suplementação oral)",
+      "classificacao": "Mineral essencial / eletrólito",
+      "apresentacao": "Comprimidos, cápsulas, sachês, solução IV (ampolas de 10% ou 50%)",
+      "interacaoMedicamento": "Potencializa bloqueadores neuromusculares, reduz absorção de tetraciclinas e bifosfonatos",
+      "posologia": "Suplementação: 1–2x/dia VO; hipomagnesemia: 1–2g EV lento; eclâmpsia: 4–6g EV + 1g/h",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Diluir para infusão EV em soro glicosado ou fisiológico",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Bloqueio AV, insuficiência renal grave sem diálise, hipermagnesemia",
+      "cuidadosMedicos": "Monitorar magnésio sérico, função renal, reflexos e PA",
+      "cuidadosFarmaceuticos": "Verificar compatibilidade EV e integridade da solução",
+      "cuidadosEnfermagem": "Observar sedação excessiva, reflexos abolidos, FR <12irpm",
+      "fontesBibliograficas": "ANVISA, FDA, Medscape, Micromedex, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Magnesium",
+      "suspension": "No need to suspend before surgery unless on continuous IV without monitoring",
+      "risk": "Risk of respiratory depression and neuromuscular blockade at high IV doses; caution in renal failure",
+      "reintroduction": "Restart as needed based on labs and renal function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Magnesium sulfate / Magnesium chloride",
+      "nomeComercial": "Mag-Ox, Slow-Mag, Magnesium sulfate injection, Uro-Mag",
+      "mecanismoAcao": "Cofactor in over 300 enzyme systems; regulates neuromuscular activity and cardiac rhythm",
+      "farmacocinetica": "Variable oral absorption; renal excretion; IV half-life short",
+      "farmacodinamica": "Membrane stabilization, muscle relaxation, and electrolyte balance",
+      "indicacoes": "Hypomagnesemia, eclampsia, arrhythmias, constipation, dyspepsia",
+      "reacoesAdversas": "Diarrhea (oral), flushing, hypotension, respiratory depression (IV), cardiac arrest (overdose)",
+      "riscoGravidez": "Category D – indicated for preeclampsia/eclampsia with monitoring",
+      "riscoLactacao": "Safe in therapeutic doses",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "40g/day IV in hospital; 1g/dose oral",
+      "doseMinima": "100–400mg/day oral supplementation",
+      "classificacao": "Essential mineral / electrolyte",
+      "apresentacao": "Tablets, capsules, sachets, 10% or 50% IV ampoules",
+      "interacaoMedicamento": "Enhances neuromuscular blockers; reduces absorption of tetracyclines, bisphosphonates",
+      "posologia": "Supplement: 1–2x/day PO; IV: 1–2g slowly; eclampsia: 4–6g IV + 1g/h maintenance",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Dilute IV in D5W or NS",
+      "solucoesCompatíveis": "0.9% NaCl, D5W",
+      "contraindicacoes": "Heart block, severe renal failure without dialysis, hypermagnesemia",
+      "cuidadosMedicos": "Monitor serum magnesium, reflexes, BP, renal function",
+      "cuidadosFarmaceuticos": "Verify compatibility and solution clarity",
+      "cuidadosEnfermagem": "Watch for deep sedation, absent reflexes, RR <12",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape, AHA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Magnesio",
+      "suspension": "No es necesario suspender antes de cirugía salvo uso EV continuo no monitoreado",
+      "risk": "Depresión respiratoria, bloqueo neuromuscular a dosis altas; precaución en insuficiencia renal",
+      "reintroduction": "Reiniciar según función renal y niveles séricos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sulfato / Cloruro de magnesio",
+      "nomeComercial": "Magnesium Retard, Lactato de Magnesio, Solución EV",
+      "mecanismoAcao": "Cofactor de enzimas, estabiliza membranas celulares, regula contractilidad",
+      "farmacocinetica": "Absorción variable oral; excreción renal",
+      "farmacodinamica": "Equilibrio electrolítico, relajación muscular, antiarrítmico leve",
+      "indicacoes": "Hipomagnesemia, eclampsia, estreñimiento, arritmias",
+      "reacoesAdversas": "Diarrea (oral), hipotensión, depresión respiratoria (EV)",
+      "riscoGravidez": "Categoría D – uso en eclampsia bajo control",
+      "riscoLactacao": "Seguro",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "40g/día IV; 1g oral",
+      "doseMinima": "100–400mg/día",
+      "classificacao": "Electrolito esencial",
+      "apresentacao": "Comprimidos, cápsulas, solución IV",
+      "interacaoMedicamento": "Interfiere con antibióticos y relajantes musculares",
+      "posologia": "1–2g EV lento; oral según necesidad",
+      "armazenamento": "15–30°C",
+      "preparo": "Diluir para EV en suero compatible",
+      "solucoesCompatíveis": "ClNa 0,9%, glucosa 5%",
+      "contraindicacoes": "Bloqueo cardíaco, insuficiencia renal",
+      "cuidadosMedicos": "Monitoreo de reflejos, PA, FR, función renal",
+      "cuidadosFarmaceuticos": "Compatibilidad EV, solución límpida",
+      "cuidadosEnfermagem": "Evaluar sedación, reflejos, FR <12rpm",
+      "fontesBibliograficas": "EMA, Micromedex, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "镁",
+      "suspension": "手术前一般无需停药，除非持续静脉输注且无电解质监控",
+      "risk": "大剂量可致呼吸抑制和神经肌肉阻滞；慢性肾病需谨慎",
+      "reintroduction": "术后依据肾功能和镁水平决定是否恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硫酸镁 / 氯化镁",
+      "nomeComercial": "硫酸镁注射液、口服镁剂",
+      "mecanismoAcao": "为300多种酶反应的辅助因子；调节心律、神经肌肉功能",
+      "farmacocinetica": "口服吸收变异大；肾排泄",
+      "farmacodinamica": "电解质平衡、抗惊厥、平滑肌放松",
+      "indicacoes": "低镁血症、子痫、心律失常、便秘",
+      "reacoesAdversas": "口服腹泻，静脉输注可致低血压、呼吸抑制",
+      "riscoGravidez": "D类 – 子痫时可用",
+      "riscoLactacao": "安全",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "40g/日（IV），口服每次不超1g",
+      "doseMinima": "每日100–400mg",
+      "classificacao": "必需矿物质、电解质",
+      "apresentacao": "片剂、胶囊、注射液",
+      "interacaoMedicamento": "增强肌松药效，应与抗生素错开时间服用",
+      "posologia": "静注1–2g慢滴，子痫负荷4–6g，维持1g/h",
+      "armazenamento": "室温避光",
+      "preparo": "稀释于0.9%氯化钠或5%葡萄糖",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "完全性房室传导阻滞、重度肾衰",
+      "cuidadosMedicos": "监测镁、肾功能、反射、呼吸",
+      "cuidadosFarmaceuticos": "EV使用需配伍检查",
+      "cuidadosEnfermagem": "警惕深镇静、呼吸减慢、无反射",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape、WHO"
+    }
+  }
+}

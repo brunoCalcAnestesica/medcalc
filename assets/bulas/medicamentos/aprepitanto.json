@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Aprepitanto",
+      "suspension": "Suspender 24 horas antes apenas se uso não essencial ou em caso de cirurgia abdominal",
+      "risk": "Interação com anestésicos metabolizados por CYP3A4; pode alterar metabolismo de corticosteroides e midazolam",
+      "reintroduction": "Reintroduzir após reavaliação de náuseas e vômitos no pós-operatório, se necessário"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aprepitanto",
+      "nomeComercial": "Emend",
+      "mecanismoAcao": "Antagonista seletivo dos receptores de neurocinina-1 (NK1), inibindo a ligação da substância P",
+      "farmacocinetica": "Absorção oral, biodisponibilidade de ~60%, pico plasmático em 4h, metabolizado por CYP3A4, excreção fecal",
+      "farmacodinamica": "Inibe náuseas e vômitos mediados por substância P em vias centrais",
+      "indicacoes": "Prevenção de náuseas e vômitos agudos e tardios induzidos por quimioterapia; náuseas pós-operatórias",
+      "reacoesAdversas": "Fadiga, constipação, soluços, tontura, elevação de enzimas hepáticas",
+      "riscoGravidez": "Categoria B1 – sem evidência de risco em humanos",
+      "riscoLactacao": "Desconhecido; evitar uso sem necessidade",
+      "administracao": "Via oral",
+      "doseMaxima": "125 mg no dia 1, seguido de 80 mg nos dias 2 e 3",
+      "doseMinima": "80 mg/dia em esquemas curtos",
+      "classificacao": "Antiemético – antagonista de NK1",
+      "apresentacao": "Cápsulas de 80 mg e 125 mg; pó para suspensão injetável",
+      "interacaoMedicamento": "Interage com midazolam, dexametasona, varfarina, contraceptivos hormonais",
+      "posologia": "Esquema típico: 125 mg no D1, 80 mg no D2 e D3",
+      "armazenamento": "Temperatura ambiente, proteger da umidade",
+      "preparo": "Injetável deve ser reconstituído conforme bula",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, glicose 5%",
+      "contraindicacoes": "Hipersensibilidade ao aprepitanto ou componentes da fórmula",
+      "cuidadosMedicos": "Avaliar interações CYP3A4 e uso concomitante com corticosteroides",
+      "cuidadosFarmaceuticos": "Orientar sobre horários e risco de interação com anticoncepcionais",
+      "cuidadosEnfermagem": "Observar sinais de náusea e vômitos; administrar em jejum",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Aprepitant",
+      "suspension": "Discontinue 24h pre-op only if non-essential or abdominal surgery planned",
+      "risk": "CYP3A4 interactions with anesthetics, corticosteroids, and midazolam",
+      "reintroduction": "Restart post-op if nausea/vomiting control is needed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aprepitant",
+      "nomeComercial": "Emend",
+      "mecanismoAcao": "Selective neurokinin-1 (NK1) receptor antagonist that blocks substance P",
+      "farmacocinetica": "Orally absorbed, ~60% bioavailable, peak in 4h, CYP3A4 metabolism, fecal excretion",
+      "farmacodinamica": "Blocks nausea and vomiting pathways mediated by substance P",
+      "indicacoes": "Prevention of acute and delayed CINV; postoperative nausea and vomiting",
+      "reacoesAdversas": "Fatigue, constipation, hiccups, dizziness, liver enzyme elevations",
+      "riscoGravidez": "Category B1 – no evidence of harm",
+      "riscoLactacao": "Unknown; avoid unless necessary",
+      "administracao": "Oral",
+      "doseMaxima": "125 mg on day 1, then 80 mg on days 2 and 3",
+      "doseMinima": "80 mg/day in short-term regimens",
+      "classificacao": "Antiemetic – NK1 receptor antagonist",
+      "apresentacao": "Capsules 80 mg and 125 mg; injectable suspension powder",
+      "interacaoMedicamento": "Interacts with midazolam, dexamethasone, warfarin, hormonal contraceptives",
+      "posologia": "Typical: 125 mg D1, 80 mg D2 and D3",
+      "armazenamento": "Room temperature, protect from moisture",
+      "preparo": "Injectable must be reconstituted per label",
+      "solucoesCompatíveis": "0.9% NaCl, 5% Dextrose",
+      "contraindicacoes": "Hypersensitivity to aprepitant or formulation",
+      "cuidadosMedicos": "Assess CYP3A4 interactions and steroid adjustments",
+      "cuidadosFarmaceuticos": "Warn about interactions and contraceptive failure",
+      "cuidadosEnfermagem": "Monitor nausea/vomiting; give on empty stomach",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Aprepitant",
+      "suspension": "Suspender 24h antes si no es esencial o si hay cirugía abdominal",
+      "risk": "Interacción con anestésicos, midazolam y corticosteroides (CYP3A4)",
+      "reintroduction": "Reintroducir si hay náuseas o vómitos postoperatorios"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aprepitant",
+      "nomeComercial": "Emend",
+      "mecanismoAcao": "Antagonista selectivo del receptor NK1 que bloquea la sustancia P",
+      "farmacocinetica": "Buena absorción oral, biodisponibilidad 60%, pico en 4h, metabolizado por CYP3A4, excreción fecal",
+      "farmacodinamica": "Inhibe vías de náusea y vómito mediadas por sustancia P",
+      "indicacoes": "Prevención de náuseas y vómitos agudos y tardíos por quimioterapia; náuseas postoperatorias",
+      "reacoesAdversas": "Fatiga, estreñimiento, hipo, mareo, elevación de enzimas hepáticas",
+      "riscoGravidez": "Categoría B1 – sin evidencia de daño",
+      "riscoLactacao": "Desconocido; evitar salvo necesidad",
+      "administracao": "Vía oral",
+      "doseMaxima": "125 mg en día 1, luego 80 mg en días 2 y 3",
+      "doseMinima": "80 mg/día",
+      "classificacao": "Antiemético – antagonista NK1",
+      "apresentacao": "Cápsulas de 80 mg y 125 mg; polvo inyectable",
+      "interacaoMedicamento": "Interacciones con midazolam, dexametasona, warfarina, anticonceptivos hormonales",
+      "posologia": "125 mg D1, 80 mg D2 y D3",
+      "armazenamento": "Temperatura ambiente, protegido de la humedad",
+      "preparo": "Reconstituir forma inyectable según ficha",
+      "solucoesCompatíveis": "ClNa 0.9%, glucosa 5%",
+      "contraindicacoes": "Hipersensibilidad al fármaco o excipientes",
+      "cuidadosMedicos": "Vigilar interacciones y ajustar esteroides si necesario",
+      "cuidadosFarmaceuticos": "Advertir sobre interacción y anticoncepción",
+      "cuidadosEnfermagem": "Administrar en ayunas, vigilar NVPO",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿瑞匹坦",
+      "suspension": "如非必要，术前24小时停药，尤其是腹部手术",
+      "risk": "与CYP3A4代谢药物（如麻醉药、地塞米松、咪达唑仑）存在相互作用",
+      "reintroduction": "术后如有恶心呕吐，可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿瑞匹坦",
+      "nomeComercial": "Emend",
+      "mecanismoAcao": "选择性神经激肽1受体拮抗剂，阻断P物质",
+      "farmacocinetica": "口服吸收良好，生物利用度约60%，达峰时间4小时，经CYP3A4代谢，粪便排泄",
+      "farmacodinamica": "抑制中枢介导的恶心呕吐反应",
+      "indicacoes": "预防化疗引起的急性和迟发性恶心呕吐；术后恶心呕吐",
+      "reacoesAdversas": "疲劳、便秘、打嗝、头晕、肝酶升高",
+      "riscoGravidez": "B1类 – 无已知风险",
+      "riscoLactacao": "未知，慎用",
+      "administracao": "口服",
+      "doseMaxima": "第1天125毫克，第2、3天各80毫克",
+      "doseMinima": "80毫克/天",
+      "classificacao": "止吐药 – NK1受体拮抗剂",
+      "apresentacao": "80/125毫克胶囊；注射用粉末",
+      "interacaoMedicamento": "与咪达唑仑、地塞米松、华法林、激素类避孕药相互作用",
+      "posologia": "常规方案：125mg D1，80mg D2和D3",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "注射剂需重构",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对本品或成分过敏",
+      "cuidadosMedicos": "监测CYP3A4相关药物，调整激素用量",
+      "cuidadosFarmaceuticos": "提醒避孕失效风险，注意相互作用",
+      "cuidadosEnfermagem": "空腹给予，监测恶心呕吐",
+      "fontesBibliograficas": "中国药典, FDA, UpToDate, Micromedex"
+    }
+  }
+}

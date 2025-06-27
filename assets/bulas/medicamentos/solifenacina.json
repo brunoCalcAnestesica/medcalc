@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Solifenacina",
+      "suspension": "Suspender 3 dias antes da cirurgia, especialmente em procedimentos abdominais ou com risco de íleo.",
+      "risk": "Risco de retenção urinária, íleo paralítico, interação com bloqueadores neuromusculares e prolongamento do QT.",
+      "reintroduction": "Reintroduzir após restabelecimento do trânsito intestinal e função urinária adequada."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Solifenacina succinato",
+      "nomeComercial": "Vesicare, Solitec, Soliflex, Solivance",
+      "mecanismoAcao": "Antagonista seletivo dos receptores muscarínicos M3, reduzindo a contratilidade do músculo detrusor.",
+      "farmacocinetica": "Alta biodisponibilidade (~90%), metabolizado no fígado via CYP3A4, meia-vida de eliminação ~45–68 h.",
+      "farmacodinamica": "Reduz frequência urinária, urgência e episódios de incontinência.",
+      "indicacoes": "Bexiga hiperativa com sintomas de urgência, frequência aumentada e/ou incontinência urinária.",
+      "reacoesAdversas": "Boca seca, constipação, visão turva, tontura, dispepsia, infecção urinária.",
+      "riscoGravidez": "Categoria C – Usar apenas se claramente necessário.",
+      "riscoLactacao": "Desconhecido; evitar ou suspender amamentação durante uso.",
+      "administracao": "Via oral",
+      "doseMaxima": "10 mg/dia",
+      "doseMinima": "5 mg/dia",
+      "classificacao": "Antimuscarínico / Antiespasmódico urinário",
+      "apresentacao": "Comprimidos de 5 mg e 10 mg",
+      "interacaoMedicamento": "Interage com cetoconazol, ritonavir, eritromicina (inibidores de CYP3A4), QT prolongado com antiarrítmicos.",
+      "posologia": "5 mg uma vez ao dia, podendo aumentar para 10 mg conforme tolerância.",
+      "armazenamento": "Temperatura ambiente (15–30 °C), protegido da luz e umidade.",
+      "preparo": "Não requer preparo especial.",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Retenção urinária, glaucoma de ângulo fechado não controlado, insuficiência hepática grave, íleo paralítico.",
+      "cuidadosMedicos": "Monitorar sintomas anticolinérgicos, ritmo cardíaco (QTc) e função urinária.",
+      "cuidadosFarmaceuticos": "Atenção a interações com CYP3A4; não partir ou mastigar comprimidos.",
+      "cuidadosEnfermagem": "Observar sinais de retenção urinária, boca seca, constipação e visão turva.",
+      "fontesBibliograficas": "SBM, FDA, EMA, ANVISA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Solifenacin",
+      "suspension": "Discontinue 3 days before surgery, especially abdominal procedures or risk of ileus.",
+      "risk": "Risk of urinary retention, paralytic ileus, interaction with neuromuscular blockers, and QT prolongation.",
+      "reintroduction": "Restart after bowel function returns and urinary output is confirmed."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Solifenacin succinate",
+      "nomeComercial": "Vesicare, Solifenacin Succinate Tablets",
+      "mecanismoAcao": "Selective muscarinic M3 receptor antagonist that reduces detrusor muscle contraction.",
+      "farmacocinetica": "High oral bioavailability (~90%), metabolized via CYP3A4, elimination half-life 45–68 hours.",
+      "farmacodinamica": "Decreases urinary urgency, frequency, and urge incontinence.",
+      "indicacoes": "Overactive bladder with symptoms of urgency, frequency, or urge incontinence.",
+      "reacoesAdversas": "Dry mouth, constipation, blurred vision, dizziness, dyspepsia, urinary tract infection.",
+      "riscoGravidez": "Category C – Use only if clearly needed.",
+      "riscoLactacao": "Unknown if excreted in breast milk; avoid use or breastfeeding.",
+      "administracao": "Oral",
+      "doseMaxima": "10 mg/day",
+      "doseMinima": "5 mg/day",
+      "classificacao": "Antimuscarinic / Urinary antispasmodic",
+      "apresentacao": "Tablets: 5 mg and 10 mg",
+      "interacaoMedicamento": "Interacts with ketoconazole, ritonavir, erythromycin (CYP3A4 inhibitors), QT prolongation with antiarrhythmics.",
+      "posologia": "Start with 5 mg once daily; may increase to 10 mg based on tolerance.",
+      "armazenamento": "Store at room temperature (59–86°F), protect from light and moisture.",
+      "preparo": "No special preparation required.",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Urinary retention, uncontrolled narrow-angle glaucoma, severe hepatic impairment, paralytic ileus.",
+      "cuidadosMedicos": "Monitor for anticholinergic effects, QT interval, and urinary function.",
+      "cuidadosFarmaceuticos": "Assess drug interactions; do not crush or chew tablets.",
+      "cuidadosEnfermagem": "Watch for dry mouth, constipation, urinary retention, and visual symptoms.",
+      "fontesBibliograficas": "FDA, Micromedex, Lexicomp, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Solifenacina",
+      "suspension": "Suspender 3 días antes de cirugía, especialmente si hay riesgo de íleo o cirugía abdominal.",
+      "risk": "Riesgo de retención urinaria, íleo paralítico, interacción con bloqueadores neuromusculares y prolongación de QT.",
+      "reintroduction": "Reintroducir cuando se haya recuperado la función intestinal y urinaria."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Succinato de solifenacina",
+      "nomeComercial": "Vesicare, Soliten, Solifenacina Cinfa",
+      "mecanismoAcao": "Antagonista selectivo de los receptores muscarínicos M3, reduce la contractilidad del detrusor.",
+      "farmacocinetica": "Alta biodisponibilidad (~90%), metabolismo hepático (CYP3A4), vida media 45–68 h.",
+      "farmacodinamica": "Reduce la urgencia, frecuencia e incontinencia urinaria.",
+      "indicacoes": "Vejiga hiperactiva con síntomas de urgencia, frecuencia y/o incontinencia urinaria.",
+      "reacoesAdversas": "Sequedad bucal, estreñimiento, visión borrosa, mareos, dispepsia, infección urinaria.",
+      "riscoGravidez": "Categoría C – Usar solo si el beneficio supera el riesgo.",
+      "riscoLactacao": "Se desconoce su excreción; evitar o suspender lactancia.",
+      "administracao": "Vía oral",
+      "doseMaxima": "10 mg/día",
+      "doseMinima": "5 mg/día",
+      "classificacao": "Antimuscarínico / Espasmolítico urinario",
+      "apresentacao": "Comprimidos de 5 mg y 10 mg",
+      "interacaoMedicamento": "Interacción con ketoconazol, ritonavir, eritromicina (inhibidores de CYP3A4), prolongación de QT.",
+      "posologia": "5 mg una vez al día, con posibilidad de aumentar a 10 mg.",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de luz y humedad.",
+      "preparo": "No requiere preparación especial.",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Retención urinaria, glaucoma de ángulo cerrado no controlado, insuficiencia hepática grave, íleo paralítico.",
+      "cuidadosMedicos": "Vigilar efectos anticolinérgicos, intervalo QT y función urinaria.",
+      "cuidadosFarmaceuticos": "Evitar interacciones; no triturar ni masticar comprimidos.",
+      "cuidadosEnfermagem": "Observar sequedad bucal, estreñimiento, retención urinaria, visión borrosa.",
+      "fontesBibliograficas": "AEMPS, EMA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "索利非那新",
+      "suspension": "术前3天停药，尤其在腹部手术或肠麻痹风险患者中。",
+      "risk": "可能导致尿潴留、肠麻痹，与神经肌肉阻滞剂及延长QT药物相互作用。",
+      "reintroduction": "术后恢复肠功能和确认排尿正常后可重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "琥珀酸索利非那新",
+      "nomeComercial": "Vesicare, 索利非那新片",
+      "mecanismoAcao": "选择性M3毒蕈碱受体拮抗剂，抑制逼尿肌收缩。",
+      "farmacocinetica": "口服生物利用度高 (~90%)，CYP3A4代谢，半衰期约45–68小时。",
+      "farmacodinamica": "减少尿急、尿频和急迫性尿失禁。",
+      "indicacoes": "膀胱过度活动症伴随尿急、尿频和/或尿失禁。",
+      "reacoesAdversas": "口干、便秘、视力模糊、头晕、消化不良、泌尿系统感染。",
+      "riscoGravidez": "C类 – 仅在必要时使用。",
+      "riscoLactacao": "是否排泄至乳汁尚不明确，建议避免哺乳。",
+      "administracao": "口服",
+      "doseMaxima": "每天10毫克",
+      "doseMinima": "每天5毫克",
+      "classificacao": "抗毒蕈碱药 / 泌尿系统解痉剂",
+      "apresentacao": "片剂：5毫克和10毫克",
+      "interacaoMedicamento": "与CYP3A4抑制剂（如酮康唑、利托那韦、红霉素）及延长QT药物相互作用。",
+      "posologia": "每日一次，开始剂量5毫克，可根据耐受性调整至10毫克。",
+      "armazenamento": "常温保存（15–30°C），避光防潮。",
+      "preparo": "无需特殊准备。",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "尿潴留、未控制的闭角型青光眼、严重肝功能不全、麻痹性肠梗阻。",
+      "cuidadosMedicos": "监测抗胆碱副作用、QT间期和泌尿功能。",
+      "cuidadosFarmaceuticos": "避免药物相互作用；不可咀嚼或掰开片剂。",
+      "cuidadosEnfermagem": "观察口干、便秘、排尿困难和视力模糊等症状。",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、EMA"
+    }
+  }
+}

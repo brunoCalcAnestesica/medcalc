@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido Glicólico",
+      "suspension": "Suspender 3 dias antes de procedimentos invasivos ou com risco de sangramento",
+      "risk": "Risco de irritação cutânea, inflamação local e interação com procedimentos dermatológicos ou anestésicos locais",
+      "reintroduction": "Reintroduzir após completa cicatrização da área tratada ou orientação dermatológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Glicólico",
+      "nomeComercial": "Neostrata, Glycare, Vitanol AHA, Ada Tina Dual Acid",
+      "mecanismoAcao": "Age como agente esfoliante ao romper ligações entre células córneas, promovendo renovação celular",
+      "farmacocinetica": "Absorção percutânea variável, maior em concentrações >10%, metabolizado por oxidação hepática e eliminado na urina",
+      "farmacodinamica": "Aumenta a descamação do estrato córneo, melhora textura da pele e promove ação antiacne e antienvelhecimento",
+      "indicacoes": "Acne, melasma, hiperpigmentações, fotoenvelhecimento, queratose pilar e rugas finas",
+      "reacoesAdversas": "Ardência, eritema, descamação, hipersensibilidade cutânea, sensação de queimação",
+      "riscoGravidez": "Categoria C - risco não pode ser descartado",
+      "riscoLactacao": "Uso tópico considerado seguro, mas evitar aplicação nas mamas",
+      "administracao": "Uso tópico",
+      "doseMaxima": "10% em uso domiciliar; até 70% sob supervisão médica",
+      "doseMinima": "2% para peles sensíveis ou manutenção",
+      "classificacao": "Alfa-hidroxiácido (AHA) - agente esfoliante e renovador celular",
+      "apresentacao": "Cremes, loções, géis e peelings em diferentes concentrações (2% a 70%)",
+      "interacaoMedicamento": "Pode potencializar irritação com retinoides tópicos, peróxido de benzoíla ou agentes abrasivos",
+      "posologia": "Aplicar 1-2 vezes ao dia; peelings químicos sob controle dermatológico",
+      "armazenamento": "Conservar em temperatura ambiente, protegido da luz e calor",
+      "preparo": "Não requer preparo especial para formulações comerciais; manipulações devem seguir protocolos",
+      "solucoesCompatíveis": "Veículos não oleosos e formulações estabilizadas em pH entre 3,5 e 4,5",
+      "contraindicacoes": "Dermatites ativas, pele lesionada, eczema, hipersensibilidade ao composto",
+      "cuidadosMedicos": "Evitar uso em áreas inflamadas, associar fotoproteção rigorosa, monitorar sinais de reação severa",
+      "cuidadosFarmaceuticos": "Orientar para uso noturno, evitar uso concomitante com esfoliantes físicos",
+      "cuidadosEnfermagem": "Observar sinais de reação alérgica, educar quanto à fotoproteção e evitar manipulação da área",
+      "fontesBibliograficas": "ANVISA, FDA, DermNet, UpToDate, Medscape, Sociedade Brasileira de Dermatologia"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Glycolic Acid",
+      "suspension": "Suspend 3 days prior to invasive procedures or surgeries",
+      "risk": "Risk of skin irritation, local inflammation, and interaction with dermatologic or anesthetic procedures",
+      "reintroduction": "Reintroduce after complete healing or under dermatologic guidance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Glycolic Acid",
+      "nomeComercial": "Neostrata, Glycare, Alpha Hydrox, The Ordinary Glycolic",
+      "mecanismoAcao": "Breaks intercellular bonds in the stratum corneum, promoting exfoliation and cell renewal",
+      "farmacocinetica": "Variable percutaneous absorption, higher with >10% concentrations, oxidized in liver, excreted in urine",
+      "farmacodinamica": "Increases exfoliation, smooths skin texture, acts as anti-acne and anti-aging agent",
+      "indicacoes": "Acne, melasma, hyperpigmentation, photoaging, keratosis pilaris, fine lines",
+      "reacoesAdversas": "Burning, erythema, peeling, skin sensitivity, stinging",
+      "riscoGravidez": "Category C – risk cannot be ruled out",
+      "riscoLactacao": "Topical use generally safe; avoid breast area",
+      "administracao": "Topical application",
+      "doseMaxima": "10% for home use; up to 70% under medical supervision",
+      "doseMinima": "2% for sensitive skin or maintenance",
+      "classificacao": "Alpha hydroxy acid (AHA) – exfoliating and renewing agent",
+      "apresentacao": "Creams, lotions, gels, and peelings ranging from 2% to 70%",
+      "interacaoMedicamento": "May enhance irritation with retinoids, benzoyl peroxide, or abrasive agents",
+      "posologia": "Apply 1–2 times daily; chemical peels under dermatologic control",
+      "armazenamento": "Store at room temperature, protected from heat and light",
+      "preparo": "No special preparation for commercial use; compounding follows protocols",
+      "solucoesCompatíveis": "Non-oily bases, stabilized at pH 3.5–4.5",
+      "contraindicacoes": "Active dermatitis, broken skin, eczema, hypersensitivity",
+      "cuidadosMedicos": "Avoid on inflamed areas, associate with sun protection, monitor for severe reactions",
+      "cuidadosFarmaceuticos": "Advise nighttime use, avoid concurrent abrasive products",
+      "cuidadosEnfermagem": "Observe for allergic reactions, educate on photoprotection, avoid handling the area",
+      "fontesBibliograficas": "FDA, DermNet, Medscape, UpToDate, American Academy of Dermatology"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido Glicólico",
+      "suspension": "Suspender 3 días antes de procedimientos invasivos",
+      "risk": "Riesgo de irritación cutánea, inflamación local y reacciones con procedimientos dermatológicos",
+      "reintroduction": "Reintroducir tras la cicatrización completa o con supervisión médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido Glicólico",
+      "nomeComercial": "Neostrata, Glycare, Vitanol AHA, Ada Tina",
+      "mecanismoAcao": "Rompe enlaces celulares en el estrato córneo promoviendo exfoliación y renovación celular",
+      "farmacocinetica": "Absorción percutánea variable, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Incrementa descamación, mejora textura, acción antiacné y antienvejecimiento",
+      "indicacoes": "Acné, melasma, hiperpigmentaciones, fotoenvejecimiento, queratosis pilar",
+      "reacoesAdversas": "Ardor, enrojecimiento, descamación, sensibilidad cutánea",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Uso tópico seguro, evitar aplicación en mamas",
+      "administracao": "Uso tópico",
+      "doseMaxima": "10% en uso domiciliario, hasta 70% en consultorio",
+      "doseMinima": "2% para mantenimiento o piel sensible",
+      "classificacao": "Alfa-hidroxiácido (AHA)",
+      "apresentacao": "Cremas, lociones, geles, peelings químicos",
+      "interacaoMedicamento": "Irritación aumentada con retinoides, peróxido de benzoilo",
+      "posologia": "Aplicar 1–2 veces al día o según indicación médica",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "Bases no oleosas, pH 3.5–4.5",
+      "contraindicacoes": "Dermatitis, eczema, heridas abiertas",
+      "cuidadosMedicos": "Evitar zonas inflamadas, proteger del sol",
+      "cuidadosFarmaceuticos": "Uso nocturno preferente, no combinar con exfoliantes fuertes",
+      "cuidadosEnfermagem": "Monitoreo de reacciones, instrucción en protección solar",
+      "fontesBibliograficas": "FDA, Medscape, DermNet, AAD, SBD"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甘醇酸",
+      "suspension": "术前3天停止使用，避免刺激",
+      "risk": "局部刺激、红斑、与皮肤科或麻醉操作产生相互作用",
+      "reintroduction": "伤口愈合后可在医生指导下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甘醇酸",
+      "nomeComercial": "Neostrata, Glycare, 双重酸精华, The Ordinary甘醇酸",
+      "mecanismoAcao": "打破角质层细胞之间的连接，促进角质更新与脱落",
+      "farmacocinetica": "皮肤吸收依浓度而异，高浓度可达真皮层，经肝脏代谢后由尿排出",
+      "farmacodinamica": "促进皮肤角质剥落，改善肤质，抗痘抗老化",
+      "indicacoes": "痤疮、黄褐斑、色素沉着、光老化、毛周角化、细纹",
+      "reacoesAdversas": "刺痛、红斑、脱皮、过敏反应",
+      "riscoGravidez": "C类 - 风险不可排除",
+      "riscoLactacao": "外用一般安全，避免乳房区域使用",
+      "administracao": "外用",
+      "doseMaxima": "居家使用上限为10%；医疗操作可达70%",
+      "doseMinima": "敏感肌肤或维持期推荐2%",
+      "classificacao": "果酸类（AHA）角质剥脱剂",
+      "apresentacao": "乳液、凝胶、精华、化学换肤剂，浓度2%至70%",
+      "interacaoMedicamento": "与维A酸类、过氧化苯甲酰等合用可加重刺激",
+      "posologia": "每日1–2次涂抹，化学换肤需专业医生执行",
+      "armazenamento": "常温避光保存",
+      "preparo": "商业制剂无需特殊处理，自制配方需精确控pH",
+      "solucoesCompatíveis": "稳定在pH 3.5–4.5的水基溶液",
+      "contraindicacoes": "严重皮肤炎、开放性伤口、对甘醇酸过敏者禁用",
+      "cuidadosMedicos": "避免炎症部位使用，务必配合防晒，注意副反应",
+      "cuidadosFarmaceuticos": "指导夜间使用，避免与其他剥脱剂同用",
+      "cuidadosEnfermagem": "观察过敏反应，教育患者防晒和正确使用",
+      "fontesBibliograficas": "中国药典、DermNet、美国皮肤病学会、FDA资料"
+    }
+  }
+}

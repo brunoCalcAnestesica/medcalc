@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clorambucila",
+      "suspension": "Suspender 10 dias antes da cirurgia eletiva",
+      "risk": "Imunossupressão, risco de infecção, retardo na cicatrização e mielotoxicidade",
+      "reintroduction": "Reintroduzir após recuperação hematológica e ausência de infecção"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorambucila",
+      "nomeComercial": "Leukeran",
+      "mecanismoAcao": "Agente alquilante que forma ligações cruzadas no DNA, inibindo a replicação celular",
+      "farmacocinetica": "Biodisponibilidade oral variável; meia-vida ~1,5h; metabolização hepática via oxidação",
+      "farmacodinamica": "Citotóxico para células em divisão; ativa principalmente na fase G1 e S",
+      "indicacoes": "Leucemia linfocítica crônica, linfoma de Hodgkin, linfoma não-Hodgkin, macroglobulinemia de Waldenström",
+      "reacoesAdversas": "Mielossupressão, náuseas, vômitos, infertilidade, convulsões (raro), hepatotoxicidade",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via oral",
+      "doseMaxima": "0,2 mg/kg/dia",
+      "doseMinima": "0,1 mg/kg/dia",
+      "classificacao": "Antineoplásico – agente alquilante (derivado da mostarda nitrogenada)",
+      "apresentacao": "Comprimidos de 2 mg",
+      "interacaoMedicamento": "Risco aumentado com imunossupressores, alopurinol, vacinas vivas",
+      "posologia": "0,1–0,2 mg/kg/dia por 3–6 semanas ou dias alternados conforme protocolo",
+      "armazenamento": "Refrigerado (2–8°C), protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, infecção ativa grave, mielodepressão acentuada",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática e sinais de infecção",
+      "cuidadosFarmaceuticos": "Orientar uso refrigerado, proteção à luz, e sinais de mielossupressão",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hematológica e sintomas GI",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Chlorambucil",
+      "suspension": "Discontinue 10 days before elective surgery",
+      "risk": "Immunosuppression, infection risk, delayed healing, bone marrow suppression",
+      "reintroduction": "Restart after hematologic recovery and no signs of infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Chlorambucil",
+      "nomeComercial": "Leukeran",
+      "mecanismoAcao": "Alkylating agent forming DNA cross-links, blocking replication",
+      "farmacocinetica": "Variable oral absorption; half-life ~1.5h; hepatic oxidation",
+      "farmacodinamica": "Cytotoxic to dividing cells, active in G1/S phase",
+      "indicacoes": "Chronic lymphocytic leukemia, Hodgkin’s and non-Hodgkin’s lymphoma, Waldenström’s macroglobulinemia",
+      "reacoesAdversas": "Myelosuppression, nausea, vomiting, infertility, seizures (rare), hepatotoxicity",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral",
+      "doseMaxima": "0.2 mg/kg/day",
+      "doseMinima": "0.1 mg/kg/day",
+      "classificacao": "Antineoplastic – alkylating agent (nitrogen mustard derivative)",
+      "apresentacao": "Tablets: 2 mg",
+      "interacaoMedicamento": "Increased risk with immunosuppressants, allopurinol, live vaccines",
+      "posologia": "0.1–0.2 mg/kg/day for 3–6 weeks or alternate days",
+      "armazenamento": "Refrigerated (2–8°C), protect from light",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, severe infection, profound marrow suppression",
+      "cuidadosMedicos": "Monitor CBC, liver function, signs of infection",
+      "cuidadosFarmaceuticos": "Instruct on refrigeration, light protection, myelosuppression symptoms",
+      "cuidadosEnfermagem": "Watch for hematologic toxicity, GI symptoms",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clorambucilo",
+      "suspension": "Suspender 10 días antes de cirugía electiva",
+      "risk": "Inmunosupresión, infecciones, cicatrización tardía, mielotoxicidad",
+      "reintroduction": "Reintroducir tras recuperación hematológica y sin infecciones activas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorambucilo",
+      "nomeComercial": "Leukeran",
+      "mecanismoAcao": "Agente alquilante que genera enlaces cruzados en el ADN, inhibiendo su replicación",
+      "farmacocinetica": "Absorción oral variable; vida media ~1,5 h; metabolismo hepático",
+      "farmacodinamica": "Citotóxico en células en división; actúa en fases G1 y S",
+      "indicacoes": "Leucemia linfocítica crónica, linfomas, macroglobulinemia de Waldenström",
+      "reacoesAdversas": "Mielosupresión, náuseas, vómitos, infertilidad, convulsiones, hepatotoxicidad",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "0,2 mg/kg/día",
+      "doseMinima": "0,1 mg/kg/día",
+      "classificacao": "Antineoplásico – agente alquilante (derivado de mostaza nitrogenada)",
+      "apresentacao": "Comprimidos de 2 mg",
+      "interacaoMedicamento": "Interacciones con inmunosupresores, alopurinol y vacunas vivas",
+      "posologia": "0,1–0,2 mg/kg/día durante 3–6 semanas o en días alternos",
+      "armazenamento": "Refrigerado (2–8°C), protegido de la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, infección activa grave, supresión medular profunda",
+      "cuidadosMedicos": "Controlar hemograma, función hepática, signos de infección",
+      "cuidadosFarmaceuticos": "Indicar refrigeración, protección a la luz, vigilancia de toxicidad hematológica",
+      "cuidadosEnfermagem": "Observar toxicidad hematológica y síntomas gastrointestinales",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯苯丁酸氮芥",
+      "suspension": "术前10天停药",
+      "risk": "免疫抑制、感染、伤口愈合延迟和骨髓抑制风险",
+      "reintroduction": "术后血象恢复、无感染后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯苯丁酸氮芥",
+      "nomeComercial": "Leukeran",
+      "mecanismoAcao": "烷化剂，通过交联DNA链抑制细胞复制",
+      "farmacocinetica": "口服吸收变异大；半衰期约1.5小时；肝脏代谢",
+      "farmacodinamica": "对分裂期细胞有毒性作用，主要在G1/S期起效",
+      "indicacoes": "慢性淋巴细胞白血病、霍奇金和非霍奇金淋巴瘤、华氏巨球蛋白血症",
+      "reacoesAdversas": "骨髓抑制、恶心、呕吐、不孕、癫痫（罕见）、肝毒性",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日0.2 mg/kg",
+      "doseMinima": "每日0.1 mg/kg",
+      "classificacao": "抗肿瘤药 – 烷化剂（氮芥类）",
+      "apresentacao": "2 mg片剂",
+      "interacaoMedicamento": "与免疫抑制剂、别嘌醇、活疫苗联用风险增加",
+      "posologia": "每日0.1–0.2 mg/kg，持续3–6周或隔日服用",
+      "armazenamento": "2–8°C冷藏避光",
+      "preparo": "无需特殊配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、严重感染、骨髓抑制",
+      "cuidadosMedicos": "监测血常规、肝功能、感染表现",
+      "cuidadosFarmaceuticos": "冷藏避光保存，警惕骨髓毒性",
+      "cuidadosEnfermagem": "观察血液毒性和胃肠不适",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

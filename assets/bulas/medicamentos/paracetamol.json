@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Paracetamol (acetaminofeno)",
+      "suspension": "Manter até o dia da cirurgia; ajustar dose se insuficiência hepática ou renal",
+      "risk": "Risco de hepatotoxicidade em dose elevada; geralmente seguro no perioperatório",
+      "reintroduction": "Reintroduzir via oral ou IV assim que tolerado; útil para analgesia multimodal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paracetamol",
+      "nomeComercial": "Tylenol, Novalgina Paracetamol, Apacet, Perfalgan (IV)",
+      "mecanismoAcao": "Inibição central da ciclooxigenase (COX), com ação predominantemente analgésica e antipirética; baixa atividade anti-inflamatória",
+      "farmacocinetica": "Absorção oral rápida; pico plasmático em 30–60 min; meia-vida 2–3h; metabolização hepática (glucuronidação e sulfatação); excreção renal",
+      "farmacodinamica": "Reduz febre e dor por ação no SNC, com poucos efeitos gastrintestinais ou plaquetários",
+      "indicacoes": "Febre, dor leve a moderada, analgesia pós-operatória, dor crônica",
+      "reacoesAdversas": "Raras: hepatotoxicidade (doses altas), erupções cutâneas, hipotensão IV, agranulocitose (rara)",
+      "riscoGravidez": "Categoria B (uso seguro em todas as fases)",
+      "riscoLactacao": "Seguro; amplamente utilizado",
+      "administracao": "Oral, intravenosa, retal",
+      "doseMaxima": "4000 mg/dia (adulto); 60 mg/kg/dia (criança)",
+      "doseMinima": "500 mg por dose (adulto); 10–15 mg/kg/dose (criança)",
+      "classificacao": "Analgésico e antipirético não opioide",
+      "apresentacao": "Comprimidos 500 mg, 750 mg; solução oral 200 mg/mL; ampola 10 mg/mL (100 mL)",
+      "interacaoMedicamento": "Aumenta risco de toxicidade hepática com álcool e isoniazida; cumarina pode aumentar INR",
+      "posologia": "500–1000 mg VO/IV a cada 6–8h; ajustar por peso e função hepática",
+      "armazenamento": "Temperatura ambiente; ampola protegida da luz",
+      "preparo": "IV: administrar diluído por 15 min; VO: pode ser com ou sem alimentos",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Insuficiência hepática grave, alergia conhecida ao fármaco",
+      "cuidadosMedicos": "Monitorar função hepática em uso prolongado ou doses elevadas",
+      "cuidadosFarmaceuticos": "Orientar dose segura, intervalo mínimo e evitar associações duplicadas",
+      "cuidadosEnfermagem": "Monitorar dor, temperatura, sinais de toxicidade hepática",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Perfalgan bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Acetaminophen (Paracetamol)",
+      "suspension": "Continue up to the day of surgery; adjust dose for hepatic or renal impairment",
+      "risk": "Hepatotoxicity at high doses; generally safe perioperatively",
+      "reintroduction": "Restart oral or IV as soon as tolerated; useful in multimodal analgesia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetaminophen",
+      "nomeComercial": "Tylenol, Ofirmev (IV)",
+      "mecanismoAcao": "Central COX inhibition; analgesic and antipyretic with minimal anti-inflammatory effect",
+      "farmacocinetica": "Rapid oral absorption; peak in 30–60 min; half-life 2–3h; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Reduces fever and pain centrally; minimal GI or platelet effects",
+      "indicacoes": "Fever, mild to moderate pain, post-op analgesia, chronic pain",
+      "reacoesAdversas": "Rare: hepatotoxicity (high dose), rash, IV hypotension, rare agranulocytosis",
+      "riscoGravidez": "Category B; considered safe",
+      "riscoLactacao": "Safe; commonly used",
+      "administracao": "Oral, IV, rectal",
+      "doseMaxima": "4000 mg/day (adult); 60 mg/kg/day (children)",
+      "doseMinima": "500 mg/dose (adult); 10–15 mg/kg/dose (children)",
+      "classificacao": "Non-opioid analgesic and antipyretic",
+      "apresentacao": "Tablets 500 mg, 650 mg; oral solution 160 mg/5 mL; IV 10 mg/mL (100 mL)",
+      "interacaoMedicamento": "Increased hepatotoxicity with alcohol, isoniazid; may increase INR with warfarin",
+      "posologia": "500–1000 mg PO/IV every 6–8h; adjust per weight and liver function",
+      "armazenamento": "Room temperature; protect IV solution from light",
+      "preparo": "IV: infuse over 15 min; PO: with or without food",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Severe hepatic impairment, known hypersensitivity",
+      "cuidadosMedicos": "Monitor liver function with prolonged or high-dose use",
+      "cuidadosFarmaceuticos": "Ensure safe total daily dose; warn against duplicate OTC use",
+      "cuidadosEnfermagem": "Monitor pain, fever, liver toxicity signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Ofirmev PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Paracetamol (acetaminofén)",
+      "suspension": "Mantener hasta el día de cirugía; ajustar dosis en insuficiencia hepática o renal",
+      "risk": "Hepatotoxicidad con dosis altas; generalmente seguro en el perioperatorio",
+      "reintroduction": "Reiniciar vía oral o IV cuando se tolere; útil en analgesia multimodal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paracetamol",
+      "nomeComercial": "Tylenol, Panadol, Apiretal, Perfalgan (IV)",
+      "mecanismoAcao": "Inhibición central de la COX; efecto analgésico y antipirético con mínima acción antiinflamatoria",
+      "farmacocinetica": "Buena absorción oral; pico 30–60 min; vida media 2–3h; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Reduce fiebre y dolor por acción central; pocos efectos GI o sobre plaquetas",
+      "indicacoes": "Fiebre, dolor leve a moderado, postoperatorio, dolor crónico",
+      "reacoesAdversas": "Raras: hepatotoxicidad, rash, hipotensión IV, agranulocitosis",
+      "riscoGravidez": "Categoría B; seguro",
+      "riscoLactacao": "Seguro; ampliamente utilizado",
+      "administracao": "Oral, IV, rectal",
+      "doseMaxima": "4000 mg/día (adulto); 60 mg/kg/día (niños)",
+      "doseMinima": "500 mg/dosis (adulto); 10–15 mg/kg/dosis (niños)",
+      "classificacao": "Analgésico y antipirético no opioide",
+      "apresentacao": "Comprimidos 500 mg, jarabe 160 mg/5 mL, IV 10 mg/mL (100 mL)",
+      "interacaoMedicamento": "Aumenta hepatotoxicidad con alcohol o isoniazida; eleva INR con warfarina",
+      "posologia": "500–1000 mg VO/IV cada 6–8h; ajustar por peso y función hepática",
+      "armazenamento": "Ambiente seco y protegido de luz",
+      "preparo": "IV: administrar en 15 minutos; VO: con o sin alimentos",
+      "solucoesCompatíveis": "NaCl 0,9%, Glucosa 5%",
+      "contraindicacoes": "Insuficiencia hepática grave, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear función hepática con uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar sobredosis y duplicidad con otros medicamentos",
+      "cuidadosEnfermagem": "Controlar dolor, fiebre, signos de toxicidad hepática",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Perfalgan"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "对乙酰氨基酚（扑热息痛）",
+      "suspension": "术前可继续使用；肝肾功能异常需调整剂量",
+      "risk": "高剂量时可致肝毒性；围术期使用安全",
+      "reintroduction": "术后可耐受口服或静脉后尽早恢复使用，常用于多模式镇痛"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "对乙酰氨基酚",
+      "nomeComercial": "扑热息痛、泰诺、必理通、Perfalgan（注射）",
+      "mecanismoAcao": "中枢COX抑制，具有解热镇痛作用，抗炎作用弱",
+      "farmacocinetica": "口服吸收快，达峰30–60分钟，半衰期2–3小时，经肝代谢，肾排泄",
+      "farmacodinamica": "中枢作用为主，退热止痛明显，胃肠道及血小板影响小",
+      "indicacoes": "发热、轻中度疼痛、术后镇痛、慢性疼痛",
+      "reacoesAdversas": "高剂量可致肝毒性、皮疹、罕见低血压（IV）、粒细胞缺乏",
+      "riscoGravidez": "B类，可安全使用",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "口服、静脉、直肠",
+      "doseMaxima": "成人每日不超过4000 mg；儿童每日60 mg/kg",
+      "doseMinima": "成人单次500 mg；儿童每次10–15 mg/kg",
+      "classificacao": "非阿片类解热镇痛药",
+      "apresentacao": "片剂500 mg、溶液160 mg/5 mL、注射液10 mg/mL（100 mL）",
+      "interacaoMedicamento": "与酒精、异烟肼合用增强肝毒性；与香豆素类抗凝药合用可能升高INR",
+      "posologia": "500–1000 mg PO/IV，每6–8小时1次，根据体重和肝功能调整",
+      "armazenamento": "室温避光保存",
+      "preparo": "IV稀释后15分钟内静滴；PO可与食物同服",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "严重肝功能损害、已知过敏",
+      "cuidadosMedicos": "长期或大剂量使用需监测肝功能",
+      "cuidadosFarmaceuticos": "强调总日剂量及避免重复用药",
+      "cuidadosEnfermagem": "评估疼痛、热型及肝毒性体征",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Perfalgan说明书"
+    }
+  }
+}

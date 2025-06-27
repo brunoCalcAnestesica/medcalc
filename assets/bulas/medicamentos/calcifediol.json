@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Calcifediol",
+      "suspension": "Suspender 5 dias antes de cirurgia em pacientes com hipercalcemia ou intoxicação por vitamina D",
+      "risk": "Risco de hipercalcemia, especialmente em doses elevadas ou com suplementação de cálcio concomitante. Pode interferir em eletrólitos e função renal.",
+      "reintroduction": "Reintroduzir após normalização da calcemia e função renal, com monitoramento laboratorial frequente."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Calcifediol",
+      "nomeComercial": "Hidroferol, Calcidiol, 25-OH-Vitamina D3",
+      "mecanismoAcao": "Metabólito hepático da vitamina D3; precursor imediato do calcitriol (1,25-(OH)2D3), ativa receptores nucleares de vitamina D",
+      "farmacocinetica": "Administração oral; meia-vida de ~15 dias; conversão hepática lenta; excreção biliar",
+      "farmacodinamica": "Melhora absorção de cálcio e fósforo; regula metabolismo ósseo e PTH",
+      "indicacoes": "Hipovitaminose D, osteomalácia, osteoporose, hiperparatireoidismo secundário, doença renal crônica",
+      "reacoesAdversas": "Hipercalcemia, hipercalciúria, cefaleia, náusea, prurido, fraqueza",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar uso contínuo sem monitoramento",
+      "administracao": "Via oral (cápsulas, solução oleosa)",
+      "doseMaxima": "60 mcg/semana (equivalente a 2400 UI/dia)",
+      "doseMinima": "10 mcg/semana (equivalente a 400 UI/dia)",
+      "classificacao": "Pró-hormônio ativo da vitamina D3",
+      "apresentacao": "Cápsulas gelatinosas ou solução oleosa de 266 mcg/1 mL (equivalente a 16.000 UI/mL)",
+      "interacaoMedicamento": "Risco aumentado com tiazídicos, lítio, antiácidos com alumínio; sinergismo com cálcio",
+      "posologia": "10–60 mcg/semana conforme status de 25(OH)D e PTH",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipercalcemia, intoxicação por vitamina D, sarcoidose ativa",
+      "cuidadosMedicos": "Monitorar 25(OH)D, cálcio sérico e urinário, função renal",
+      "cuidadosFarmaceuticos": "Evitar superdosagem; manter controle de interações com suplementos",
+      "cuidadosEnfermagem": "Observar sinais de hipercalcemia (fraqueza, náusea, confusão)",
+      "fontesBibliograficas": "ANVISA, UpToDate, EMA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Calcifediol",
+      "suspension": "Discontinue 5 days before surgery in patients at risk of hypercalcemia",
+      "risk": "Risk of hypercalcemia, especially with high doses or calcium supplements. May affect electrolytes and renal function.",
+      "reintroduction": "Restart after calcium and renal markers normalize. Regular monitoring required."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Calcifediol",
+      "nomeComercial": "Rayaldee, 25-Hydroxyvitamin D3",
+      "mecanismoAcao": "Vitamin D3 metabolite; precursor of calcitriol, binds nuclear vitamin D receptors",
+      "farmacocinetica": "Oral absorption; long half-life (~15 days); hepatic activation; biliary excretion",
+      "farmacodinamica": "Increases calcium/phosphorus absorption, regulates PTH and bone metabolism",
+      "indicacoes": "Vitamin D deficiency, SHPT in CKD, osteomalacia, osteoporosis",
+      "reacoesAdversas": "Hypercalcemia, nausea, headache, pruritus, fatigue",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use cautiously with monitoring",
+      "administracao": "Oral (soft gel capsules or oil solution)",
+      "doseMaxima": "60 mcg/week",
+      "doseMinima": "10 mcg/week",
+      "classificacao": "Vitamin D3 prohormone",
+      "apresentacao": "Capsules 30 mcg; solution 266 mcg/mL",
+      "interacaoMedicamento": "Interacts with thiazides, lithium, aluminum antacids, calcium",
+      "posologia": "10–60 mcg/week based on labs",
+      "armazenamento": "Room temp, protect from light",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypercalcemia, vitamin D toxicity, granulomatous diseases",
+      "cuidadosMedicos": "Monitor calcium, 25(OH)D, renal function",
+      "cuidadosFarmaceuticos": "Prevent overdose; monitor supplement interactions",
+      "cuidadosEnfermagem": "Observe for signs of hypercalcemia",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, Rayaldee PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Calcifediol",
+      "suspension": "Suspender 5 días antes de cirugía si hay riesgo de hipercalcemia",
+      "risk": "Riesgo de hipercalcemia; precaución con suplementos de calcio. Afecta función renal si se abusa.",
+      "reintroduction": "Reanudar tras normalización del calcio y función renal. Monitoreo frecuente."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Calcifediol",
+      "nomeComercial": "Hidroferol, 25-OH-Vitamina D3",
+      "mecanismoAcao": "Metabolito activo hepático de la vitamina D3; precursor del calcitriol",
+      "farmacocinetica": "Oral; t½ ~15 días; excreción biliar",
+      "farmacodinamica": "Mejora absorción de calcio y fósforo; regula PTH",
+      "indicacoes": "Déficit de vitamina D, SHPT, osteomalacia, osteoporosis",
+      "reacoesAdversas": "Hipercalcemia, debilidad, náusea, cefalea",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar dosis altas sin control",
+      "administracao": "Vía oral (cápsulas o solución oleosa)",
+      "doseMaxima": "60 mcg/semana",
+      "doseMinima": "10 mcg/semana",
+      "classificacao": "Pró-hormona de vitamina D3",
+      "apresentacao": "266 mcg/mL solución, cápsulas 30 mcg",
+      "interacaoMedicamento": "Tiazidas, litio, calcio, antiácidos con aluminio",
+      "posologia": "10–60 mcg por semana según parámetros",
+      "armazenamento": "Temperatura ambiente, proteger de luz",
+      "preparo": "Uso directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipercalcemia, intoxicación D, sarcoidosis",
+      "cuidadosMedicos": "Controlar calcemia, PTH, función renal",
+      "cuidadosFarmaceuticos": "Evitar sobredosificación",
+      "cuidadosEnfermagem": "Vigilar signos de toxicidad cálcica",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "骨化二醇（25-羟维生素D3）",
+      "suspension": "高钙血症患者术前5天停用",
+      "risk": "可能引起高钙血症、肾损伤，尤其合用钙剂时更需警惕",
+      "reintroduction": "术后待钙稳态恢复正常后可重新使用，需定期监测"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "骨化二醇",
+      "nomeComercial": "Rayaldee、Hidroferol、Calcidiol",
+      "mecanismoAcao": "维生素D3的肝代谢产物，促进钙磷吸收，调节PTH",
+      "farmacocinetica": "口服吸收良好，半衰期约15天，胆汁排泄",
+      "farmacodinamica": "提升25(OH)D水平，间接提高钙吸收，抑制继发性甲旁亢",
+      "indicacoes": "维生素D缺乏、骨软化、继发性甲状旁腺功能亢进",
+      "reacoesAdversas": "高钙血症、乏力、恶心、瘙痒",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "避免大剂量长期使用",
+      "administracao": "口服（软胶囊或油溶液）",
+      "doseMaxima": "每周60微克",
+      "doseMinima": "每周10微克",
+      "classificacao": "维生素D3活性前体",
+      "apresentacao": "266微克/毫升油剂、30微克胶囊",
+      "interacaoMedicamento": "与钙剂、噻嗪类利尿剂、锂、铝制剂有互作",
+      "posologia": "每周10–60微克，按25(OH)D调节",
+      "armazenamento": "室温避光",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "高钙血症、D中毒、肉芽肿病",
+      "cuidadosMedicos": "定期监测血钙、尿钙、25(OH)D与肾功能",
+      "cuidadosFarmaceuticos": "避免超剂量摄入；定期复查",
+      "cuidadosEnfermagem": "观察高钙症表现",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Beclometasona",
+      "suspension": "Não requer suspensão antes de cirurgias eletivas.",
+      "risk": "Efeitos sistêmicos mínimos nas doses habituais. Pode causar candidíase oral, disfonia e supressão adrenal com doses elevadas ou uso prolongado.",
+      "reintroduction": "Pode ser mantida ou reintroduzida imediatamente no pós-operatório para evitar exacerbações asmáticas."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Dipropionato de beclometasona",
+      "nomeComercial": "Clenil, Qvar, Beclovent, Beclojet, Aerocort (com fenoterol), Foster (com formoterol)",
+      "mecanismoAcao": "Corticosteroide inalatório (ICS) com ação anti-inflamatória local potente, reduz a produção de mediadores inflamatórios e o edema das vias aéreas.",
+      "farmacocinetica": "Início: horas; efeito máximo: dias; metabolismo hepático (CYP3A4); excreção fecal.",
+      "farmacodinamica": "Diminui hiperresponsividade brônquica e previne exacerbações. Tem efeito cumulativo com uso contínuo.",
+      "indicacoes": "Asma persistente leve a grave; DPOC (em associação com LABA); rinite alérgica (versão nasal).",
+      "reacoesAdversas": "Candidíase oral, rouquidão, tosse, dor de garganta, epistaxe (uso nasal), supressão adrenal (em altas doses).",
+      "riscoGravidez": "Categoria C – usar se o benefício justificar o risco.",
+      "riscoLactacao": "Considerada compatível com a amamentação.",
+      "administracao": "Inalatória (spray dosador, DPI), nasal (spray).",
+      "doseMaxima": "Asma: até 1000 mcg/dia.",
+      "doseMinima": "100 mcg/dia.",
+      "classificacao": "Corticosteroide inalatório (ICS).",
+      "apresentacao": "Spray (50, 100, 250 mcg), combinação com formoterol ou fenoterol, spray nasal (50 mcg/dose).",
+      "interacaoMedicamento": "Interação com inibidores do CYP3A4 (ritonavir, cetoconazol).",
+      "posologia": "100–400 mcg 2x/dia; ajuste conforme gravidade.",
+      "armazenamento": "Ambiente seco e fresco, longe de luz e calor.",
+      "preparo": "Agitar antes de usar; enxaguar a boca após o uso.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Hipersensibilidade, infecção pulmonar ativa não tratada, tuberculose não controlada.",
+      "cuidadosMedicos": "Monitorar sintomas respiratórios e sinais de candidíase.",
+      "cuidadosFarmaceuticos": "Verificar técnica de inalação e reforçar uso contínuo.",
+      "cuidadosEnfermagem": "Observar eficácia e sinais de efeitos locais (disfonia, candidíase).",
+      "fontesBibliograficas": "GINA, ANVISA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Beclomethasone",
+      "suspension": "No need to discontinue before elective procedures.",
+      "risk": "Low systemic absorption. May cause oral candidiasis, hoarseness, and adrenal suppression at high doses.",
+      "reintroduction": "Can be continued or restarted immediately post-op to prevent asthma exacerbations."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Beclomethasone dipropionate",
+      "nomeComercial": "Qvar RediHaler, Beclovent (discontinued), Beconase (nasal), Foster (with formoterol)",
+      "mecanismoAcao": "ICS that reduces inflammation by inhibiting cytokine production and decreasing airway hyperreactivity.",
+      "farmacocinetica": "Onset: hours; peak: days; hepatic metabolism (CYP3A4); fecal excretion.",
+      "farmacodinamica": "Improves lung function, prevents asthma symptoms and exacerbations.",
+      "indicacoes": "Persistent asthma; COPD (in LABA combo); allergic rhinitis (nasal use).",
+      "reacoesAdversas": "Oral thrush, dysphonia, throat irritation, headache, adrenal suppression (rare).",
+      "riscoGravidez": "Category C – use only if benefit outweighs risk.",
+      "riscoLactacao": "Considered safe with monitoring.",
+      "administracao": "Inhaled (MDI, DPI) or nasal.",
+      "doseMaxima": "Up to 1000 mcg/day.",
+      "doseMinima": "100 mcg/day.",
+      "classificacao": "Inhaled corticosteroid (ICS).",
+      "apresentacao": "MDI (40, 80, 100, 250 mcg); nasal spray (50 mcg); fixed combinations with LABA.",
+      "interacaoMedicamento": "CYP3A4 inhibitors (e.g., ritonavir, ketoconazole) increase systemic exposure.",
+      "posologia": "100–400 mcg BID; dose adjusted by severity.",
+      "armazenamento": "Room temperature; avoid heat and light.",
+      "preparo": "Shake before use; rinse mouth after inhalation.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Hypersensitivity, untreated respiratory infections, active TB.",
+      "cuidadosMedicos": "Monitor respiratory symptoms and oral side effects.",
+      "cuidadosFarmaceuticos": "Ensure proper inhaler use and treatment adherence.",
+      "cuidadosEnfermagem": "Observe for hoarseness, thrush, and inhalation technique.",
+      "fontesBibliograficas": "GINA, GOLD, FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Beclometasona",
+      "suspension": "No se requiere suspensión antes de cirugía.",
+      "risk": "Riesgo sistémico bajo. Puede causar candidiasis oral y disfonía. Seguro en asma.",
+      "reintroduction": "Puede mantenerse o reintroducirse tras cirugía."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Beclometasona dipropionato",
+      "nomeComercial": "Clenil, Qvar, Beconase (nasal), Foster (con formoterol)",
+      "mecanismoAcao": "Corticoide inhalado que suprime la inflamación y la hiperrespuesta bronquial.",
+      "farmacocinetica": "Inicio: horas; efecto máximo: días; metabolismo hepático (CYP3A4); excreción fecal.",
+      "farmacodinamica": "Reduce síntomas, mejora función respiratoria, previene exacerbaciones.",
+      "indicacoes": "Asma persistente, EPOC (con LABA), rinitis alérgica (nasal).",
+      "reacoesAdversas": "Candidiasis oral, disfonía, irritación faríngea, cefalea, supresión suprarrenal (raro).",
+      "riscoGravidez": "Categoría C – usar si beneficio supera riesgo.",
+      "riscoLactacao": "Compatible con lactancia.",
+      "administracao": "Inhalado (spray, DPI), nasal.",
+      "doseMaxima": "1000 mcg/día.",
+      "doseMinima": "100 mcg/día.",
+      "classificacao": "Corticoide inhalado (ICS).",
+      "apresentacao": "Spray dosificador, combinaciones con LABA, nasal.",
+      "interacaoMedicamento": "Inhibidores de CYP3A4 pueden aumentar exposición.",
+      "posologia": "100–400 mcg 2x/día.",
+      "armazenamento": "Ambiente, protegido de luz y calor.",
+      "preparo": "Agitar, enjuagar boca después.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Alergia, infecciones pulmonares activas, TB.",
+      "cuidadosMedicos": "Monitorear síntomas respiratorios, candidiasis.",
+      "cuidadosFarmaceuticos": "Instruir técnica, reforzar adherencia.",
+      "cuidadosEnfermagem": "Observar disfonía, infección oral, eficacia.",
+      "fontesBibliograficas": "GINA, GOLD, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "倍氯米松（Beclometasone）",
+      "suspension": "术前无需停药。",
+      "risk": "系统吸收低，可能引起念珠菌感染、声嘶等。适合术前后维持哮喘控制。",
+      "reintroduction": "术后可维持使用或立即恢复。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "倍氯米松二丙酸酯",
+      "nomeComercial": "Qvar、Clenil、Foster（与福莫特罗联用）",
+      "mecanismoAcao": "吸入性糖皮质激素，通过抑制炎症介质改善气道通气。",
+      "farmacocinetica": "起效需数小时，效应达峰需数日，CYP3A4代谢，粪便排泄。",
+      "farmacodinamica": "减少气道炎症、减轻症状、减少发作。",
+      "indicacoes": "持续性哮喘、中重度慢阻肺（与LABA联用）、鼻炎（鼻喷剂）。",
+      "reacoesAdversas": "口腔真菌、声嘶、咽部不适、肾上腺抑制（高剂量）。",
+      "riscoGravidez": "C类，必要时使用。",
+      "riscoLactacao": "哺乳期可用。",
+      "administracao": "吸入（喷雾、干粉）、鼻用喷剂。",
+      "doseMaxima": "每日1000微克。",
+      "doseMinima": "100微克/天。",
+      "classificacao": "吸入性糖皮质激素（ICS）。",
+      "apresentacao": "吸入喷剂、干粉、鼻用剂型、复方药物。",
+      "interacaoMedicamento": "CYP3A4抑制剂增加暴露风险。",
+      "posologia": "每日2次，每次100–400微克。",
+      "armazenamento": "室温避光。",
+      "preparo": "使用前摇匀，吸入后漱口。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "过敏、活动性感染、肺结核未控制。",
+      "cuidadosMedicos": "观察口腔情况、肺功能、长期使用监测肾上腺。",
+      "cuidadosFarmaceuticos": "指导吸入技术、强化依从性。",
+      "cuidadosEnfermagem": "观察用药效果、感染症状。",
+      "fontesBibliograficas": "中国药典、GINA、UpToDate、Micromedex"
+    }
+  }
+}

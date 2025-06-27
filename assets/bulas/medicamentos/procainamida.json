@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Procainamida",
+      "suspension": "Avaliar com cardiologia; manter se uso for imprescindível em arritmias ventriculares instáveis",
+      "risk": "Risco de hipotensão, bloqueios AV, prolongamento de QT e torsades de pointes intraoperatórios",
+      "reintroduction": "Reintroduzir com monitorização cardíaca intensiva, conforme ECG e ritmo cardíaco"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Procainamida cloridrato",
+      "nomeComercial": "Pronestyl",
+      "mecanismoAcao": "Bloqueia canais de sódio (classe IA), prolongando o potencial de ação e o período refratário",
+      "farmacocinetica": "Meia-vida 3–4h (VO); início IV imediato; excreção renal; metabolizada a NAPA (ativo)",
+      "farmacodinamica": "Diminui a excitabilidade e automaticidade do miocárdio",
+      "indicacoes": "Taquiarritmias ventriculares e supraventriculares (em situações específicas)",
+      "reacoesAdversas": "Hipotensão, lupus induzido por droga, torsades de pointes, leucopenia, bloqueio AV",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretada no leite; uso com cautela",
+      "administracao": "Via oral ou intravenosa lenta",
+      "doseMaxima": "17 mg/kg IV (carga); manutenção 2–6 mg/min",
+      "doseMinima": "50mg VO 6/6h (ajustada por resposta)",
+      "classificacao": "Antiarrítmico classe IA",
+      "apresentacao": "Comprimidos 250mg; ampolas 100mg/mL",
+      "interacaoMedicamento": "Prolonga QT com amiodarona, quinidina, antipsicóticos; aumenta risco de depressão miocárdica com betabloqueadores",
+      "posologia": "Carga: 15–17 mg/kg IV em 25–30 min; manutenção 1–6 mg/min",
+      "armazenamento": "Temperatura ambiente; proteger da luz",
+      "preparo": "Diluir ampola em SF 0,9% para infusão lenta",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Bloqueio AV de 2º ou 3º grau sem marca-passo, lúpus ativo, ICC descompensada",
+      "cuidadosMedicos": "Monitorar ECG, PA, sinais de toxicidade (QRS/QT, arritmias)",
+      "cuidadosFarmaceuticos": "Conferir estabilidade da solução e prazo pós-diluição",
+      "cuidadosEnfermagem": "Infundir lentamente, monitorar ECG contínuo e sinais vitais",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Procainamide",
+      "suspension": "Assess with cardiology; maintain if essential for ventricular arrhythmias",
+      "risk": "Risk of hypotension, AV block, QT prolongation and torsades de pointes intraoperatively",
+      "reintroduction": "Restart under cardiac monitoring based on ECG and rhythm"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Procainamide hydrochloride",
+      "nomeComercial": "Pronestyl",
+      "mecanismoAcao": "Sodium channel blocker (Class IA), prolongs action potential and refractory period",
+      "farmacocinetica": "Half-life 3–4h (oral); IV onset immediate; renal excretion; active metabolite NAPA",
+      "farmacodinamica": "Reduces myocardial excitability and automaticity",
+      "indicacoes": "Ventricular and supraventricular arrhythmias (specific cases)",
+      "reacoesAdversas": "Hypotension, drug-induced lupus, torsades, leukopenia, AV block",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Present in milk; use with caution",
+      "administracao": "Oral or slow intravenous",
+      "doseMaxima": "17 mg/kg IV loading; maintenance 2–6 mg/min",
+      "doseMinima": "50mg PO q6h",
+      "classificacao": "Class IA antiarrhythmic",
+      "apresentacao": "Tablets 250mg; ampoules 100mg/mL",
+      "interacaoMedicamento": "QT prolongation with amiodarone, quinidine, antipsychotics; increased depression with beta-blockers",
+      "posologia": "Loading: 15–17 mg/kg IV over 25–30 min; maintenance 1–6 mg/min",
+      "armazenamento": "Room temperature; protect from light",
+      "preparo": "Dilute in NS for slow infusion",
+      "solucoesCompatíveis": "Normal saline",
+      "contraindicacoes": "2nd/3rd degree AV block without pacemaker, active lupus, decompensated HF",
+      "cuidadosMedicos": "Monitor ECG, BP, QRS/QT, arrhythmia signs",
+      "cuidadosFarmaceuticos": "Check stability and shelf-life post-dilution",
+      "cuidadosEnfermagem": "Slow IV infusion, continuous ECG and vitals monitoring",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Procainamida",
+      "suspension": "Evaluar con cardiología; mantener si es esencial para arritmias ventriculares",
+      "risk": "Riesgo de hipotensión, bloqueo AV, QT prolongado y torsades en el intraoperatorio",
+      "reintroduction": "Reintroducir con monitorización cardíaca intensiva y ECG"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de procainamida",
+      "nomeComercial": "Pronestyl",
+      "mecanismoAcao": "Bloquea canales de sodio (clase IA), prolonga potencial de acción y período refractario",
+      "farmacocinetica": "Vida media 3–4h (VO); inicio IV inmediato; excreción renal; metabolito activo (NAPA)",
+      "farmacodinamica": "Disminuye excitabilidad y automaticidad miocárdica",
+      "indicacoes": "Taquiarritmias ventriculares y supraventriculares (casos seleccionados)",
+      "reacoesAdversas": "Hipotensión, lupus inducido, torsades, leucopenia, bloqueo AV",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche; usar con precaución",
+      "administracao": "Oral o intravenosa lenta",
+      "doseMaxima": "17 mg/kg IV carga; mantenimiento 2–6 mg/min",
+      "doseMinima": "50mg VO cada 6h",
+      "classificacao": "Antiarrítmico clase IA",
+      "apresentacao": "Comprimidos 250mg; ampollas 100mg/mL",
+      "interacaoMedicamento": "Prolonga QT con amiodarona, quinidina, antipsicóticos; mayor riesgo con betabloqueadores",
+      "posologia": "Carga: 15–17 mg/kg IV en 25–30 min; mantenimiento 1–6 mg/min",
+      "armazenamento": "Temperatura ambiente; proteger de la luz",
+      "preparo": "Diluir en SSF para infusión lenta",
+      "solucoesCompatíveis": "SSF 0,9%",
+      "contraindicacoes": "Bloqueo AV 2º–3º sin marcapasos, lupus activo, ICC descompensada",
+      "cuidadosMedicos": "Monitorizar ECG, PA, signos de toxicidad (QRS/QT)",
+      "cuidadosFarmaceuticos": "Verificar estabilidad y condiciones tras dilución",
+      "cuidadosEnfermagem": "Infusión lenta, monitorización ECG y signos vitales",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "普鲁卡因胺",
+      "suspension": "需心脏科评估，若为维持性抗心律失常治疗可术前继续",
+      "risk": "术中可能导致低血压、房室传导阻滞、QT延长和尖端扭转型室速",
+      "reintroduction": "术后应在心电监护下根据节律重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "普鲁卡因胺",
+      "nomeComercial": "Pronestyl",
+      "mecanismoAcao": "钠通道阻滞剂（IA类），延长动作电位和不应期",
+      "farmacocinetica": "半衰期3–4小时；静注起效迅速；肾排泄；代谢产物NAPA活性强",
+      "farmacodinamica": "降低心肌兴奋性和自律性",
+      "indicacoes": "室性及房性心律失常（选择性适应证）",
+      "reacoesAdversas": "低血压、药物性红斑狼疮、尖端扭转、白细胞减少、房室传导阻滞",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "乳汁排泄，慎用",
+      "administracao": "口服或静脉缓慢注射",
+      "doseMaxima": "静注负荷剂量17mg/kg；维持2–6mg/分钟",
+      "doseMinima": "口服50mg每6小时",
+      "classificacao": "IA类抗心律失常药",
+      "apresentacao": "片剂250mg；注射液100mg/mL",
+      "interacaoMedicamento": "与延长QT药物合用风险高；与β阻滞剂合用增加心脏抑制",
+      "posologia": "负荷15–17mg/kg（25–30分钟内）；维持1–6mg/分钟",
+      "armazenamento": "避光室温保存",
+      "preparo": "用0.9%氯化钠稀释后缓慢滴注",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "无起搏器时有II–III度房室传导阻滞、活动性红斑狼疮、失代偿心衰",
+      "cuidadosMedicos": "持续监测心电图、血压、毒性反应",
+      "cuidadosFarmaceuticos": "配制后注意溶液稳定性和光敏性",
+      "cuidadosEnfermagem": "缓慢滴注，严密观察心电图和生命体征",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Galantamina",
+      "suspension": "Suspender 48h antes de cirurgia com anestesia geral ou uso de bloqueadores neuromusculares",
+      "risk": "Bradicardia, náusea, vômito, tontura, hipotensão, aumento de secreções, interação com anestésicos e anticolinérgicos",
+      "reintroduction": "Reintroduzir após 24–48h, com estabilidade clínica e via oral liberada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Galantamina",
+      "nomeComercial": "Reminyl, Razadyne",
+      "mecanismoAcao": "Inibidor reversível da acetilcolinesterase e modulador alostérico de receptores nicotínicos; aumenta acetilcolina no SNC",
+      "farmacocinetica": "VO; biodisponibilidade ~90%; T½ ~7h (IR) / ~24h (LP); metabolização hepática; excreção renal",
+      "farmacodinamica": "Melhora transmissão colinérgica cortical e hipocampal → melhora cognitiva leve/modesta",
+      "indicacoes": "Doença de Alzheimer leve a moderada",
+      "reacoesAdversas": "Náusea, vômito, anorexia, perda de peso, tontura, bradicardia, sonolência",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "VO 1x/dia (LP) ou 2x/dia (IR) com alimentos",
+      "doseMaxima": "24mg/dia",
+      "doseMinima": "8mg/dia",
+      "classificacao": "Inibidor da acetilcolinesterase e modulador nicotínico",
+      "apresentacao": "Comprimidos 4mg, 8mg, 12mg; cápsulas LP 8mg, 16mg, 24mg",
+      "interacaoMedicamento": "Anticolinérgicos, succinilcolina, anestésicos, CYP2D6/3A4 inibidores",
+      "posologia": "Iniciar com 8mg/dia, aumentar para 16–24mg após 4 semanas",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Uso oral direto, cápsulas LP não devem ser abertas",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade à galantamina ou derivados, insuficiência hepática/renal grave",
+      "cuidadosMedicos": "Monitorar PA, frequência cardíaca, função renal/hepática, sinais GI",
+      "cuidadosFarmaceuticos": "Atenção à titulação lenta, administração com alimento",
+      "cuidadosEnfermagem": "Observar bradicardia, náusea, sonolência, perda de apetite",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Galantamine",
+      "suspension": "Hold 48h prior to general anesthesia or NM blocker use",
+      "risk": "Bradycardia, nausea, syncope, increased secretions, interaction with anticholinergics",
+      "reintroduction": "Resume 24–48h postop when stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Galantamine",
+      "nomeComercial": "Razadyne",
+      "mecanismoAcao": "Reversible acetylcholinesterase inhibitor + nicotinic modulator; enhances CNS ACh",
+      "farmacocinetica": "Oral; T½ ~7–24h; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Improves cholinergic neurotransmission in cortex/hippocampus",
+      "indicacoes": "Mild to moderate Alzheimer’s dementia",
+      "reacoesAdversas": "GI upset, anorexia, dizziness, weight loss, bradycardia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not advised",
+      "administracao": "IR: BID; ER: once daily with food",
+      "doseMaxima": "24mg/day",
+      "doseMinima": "8mg/day",
+      "classificacao": "Cholinesterase inhibitor + nicotinic modulator",
+      "apresentacao": "4, 8, 12mg tabs; ER caps: 8, 16, 24mg",
+      "interacaoMedicamento": "Anticholinergics, anesthesia, CYP2D6/3A4 inhibitors",
+      "posologia": "Start 8mg/day; titrate to 16–24mg/day",
+      "armazenamento": "Room temp; dry place",
+      "preparo": "Swallow whole; do not open ER capsules",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe hepatic/renal impairment, allergy",
+      "cuidadosMedicos": "Monitor HR, GI symptoms, mental status",
+      "cuidadosFarmaceuticos": "Slow titration, administer with food",
+      "cuidadosEnfermagem": "Observe for bradycardia, nausea, appetite loss",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Galantamina",
+      "suspension": "Suspender 48h antes de cirugía con anestesia general o relajantes musculares",
+      "risk": "Bradicardia, náuseas, secreciones, pérdida de apetito, sincope",
+      "reintroduction": "Reiniciar 24–48h después si clínicamente estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Galantamina",
+      "nomeComercial": "Reminyl",
+      "mecanismoAcao": "Inhibidor de acetilcolinesterasa + modulador nicotínico",
+      "farmacocinetica": "VO; T½ 7–24h; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Mejora neurotransmisión colinérgica",
+      "indicacoes": "Demencia leve a moderada por Alzheimer",
+      "reacoesAdversas": "Náuseas, pérdida de apetito, bradicardia, somnolencia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "VO con alimentos; IR 2×/día, LP 1×/día",
+      "doseMaxima": "24mg/día",
+      "doseMinima": "8mg/día",
+      "classificacao": "Inhibidor de AChE/modulador nicotínico",
+      "apresentacao": "4–12mg comprimidos; cápsulas ER 8–24mg",
+      "interacaoMedicamento": "Anticolinérgicos, anestesia, CYP2D6/3A4",
+      "posologia": "Iniciar 8mg/día, aumentar a 16–24mg",
+      "armazenamento": "Ambiente seco, protegido",
+      "preparo": "Uso oral; cápsulas no masticar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "IR o hepatopatía severa",
+      "cuidadosMedicos": "Frecuencia cardíaca, síntomas GI",
+      "cuidadosFarmaceuticos": "Educación familiar, evitar olvido de dosis",
+      "cuidadosEnfermagem": "Observar náuseas, somnolencia, peso",
+      "fontesBibliograficas": "EMA, ficha técnica, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "加兰他敏",
+      "suspension": "术前48小时停药，避免麻醉与肌松药交互",
+      "risk": "心动过缓、胃肠反应、分泌物增多、体重下降",
+      "reintroduction": "术后24–48小时可恢复口服"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "加兰他敏",
+      "nomeComercial": "Reminyl",
+      "mecanismoAcao": "AChE可逆抑制+烟碱受体正调节",
+      "farmacocinetica": "口服；T½ 7–24小时；肝代谢；肾排泄",
+      "farmacodinamica": "提高胆碱能传递，改善记忆",
+      "indicacoes": "阿尔茨海默病轻中度期",
+      "reacoesAdversas": "恶心、呕吐、食欲下降、心率慢、嗜睡",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "禁用",
+      "administracao": "IR每日2次，LP每日1次，餐后服用",
+      "doseMaxima": "每日24mg",
+      "doseMinima": "每日8mg",
+      "classificacao": "胆碱酯酶抑制剂+烟碱通道调节剂",
+      "apresentacao": "4/8/12mg片；8/16/24mg缓释胶囊",
+      "interacaoMedicamento": "抗胆碱药、麻醉药、CYP抑制剂",
+      "posologia": "起始8mg/d，2–4周后可增至24mg/d",
+      "armazenamento": "常温避光干燥",
+      "preparo": "整片服用，不可嚼碎",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重度肝/肾病、过敏",
+      "cuidadosMedicos": "监测心率、体重、认知波动",
+      "cuidadosFarmaceuticos": "教育规律用药、不漏服、饭后服",
+      "cuidadosEnfermagem": "观察恶心、乏力、跌倒、认知恶化",
+      "fontesBibliograficas": "中国药典、EMA、FDA、Micromedex、UpToDate"
+    }
+  }
+}

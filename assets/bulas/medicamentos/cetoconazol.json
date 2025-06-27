@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cetoconazol",
+      "suspension": "Suspender 48 horas antes de cirurgia eletiva com risco hepático ou arritmogênico",
+      "risk": "Hepatotoxicidade grave, prolongamento de QT, interação com anestésicos e drogas metabolizadas por CYP3A4",
+      "reintroduction": "Reintroduzir após normalização hepática e estabilidade eletrolítica/ECG"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cetoconazol",
+      "nomeComercial": "Nizoral, Candoral",
+      "mecanismoAcao": "Inibe a 14α-desmetilase, bloqueando a síntese de ergosterol na membrana fúngica",
+      "farmacocinetica": "Via oral; absorção aumentada com meio ácido; metabolismo hepático intenso (CYP3A4); meia-vida 8h",
+      "farmacodinamica": "Fungistático (fungicida em altas concentrações)",
+      "indicacoes": "Candidíase mucocutânea, dermatofitoses, pitiríase versicolor (uso tópico); uso sistêmico reservado",
+      "reacoesAdversas": "Hepatite, ginecomastia, náusea, prurido, QT prolongado",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar uso sistêmico",
+      "administracao": "Oral ou tópica",
+      "doseMaxima": "400mg/dia (VO)",
+      "doseMinima": "200mg/dia (VO); 1x/dia tópico",
+      "classificacao": "Imidazólico antifúngico",
+      "apresentacao": "Comprimidos 200mg; creme 2%",
+      "interacaoMedicamento": "Inibe fortemente CYP3A4; interage com estatinas, benzodiazepínicos, ciclosporina, anticoagulantes",
+      "posologia": "VO: 200–400mg/dia; tópico: 1–2x/dia por 2–6 semanas",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença hepática ativa, QT longo, uso concomitante com vários medicamentos",
+      "cuidadosMedicos": "Monitorar TGO/TGP e ECG; atenção a interações",
+      "cuidadosFarmaceuticos": "Evitar antiácidos, orientar posologia com alimentação",
+      "cuidadosEnfermagem": "Observar icterícia, prurido, urina escura, palpitações",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ketoconazole",
+      "suspension": "Hold 48h before elective surgery if QT or hepatic risk",
+      "risk": "Serious hepatotoxicity, QT prolongation, CYP3A4 drug interactions",
+      "reintroduction": "Restart after hepatic and ECG stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ketoconazole",
+      "nomeComercial": "Nizoral",
+      "mecanismoAcao": "Inhibits 14α-demethylase, impairing fungal membrane ergosterol synthesis",
+      "farmacocinetica": "Oral absorption enhanced with acid; hepatic metabolism; t½ ~8h",
+      "farmacodinamica": "Fungistatic (fungicidal at high doses)",
+      "indicacoes": "Mucocutaneous candidiasis, dermatophytes, pityriasis (topical); systemic use limited",
+      "reacoesAdversas": "Hepatitis, gynecomastia, nausea, pruritus, QT prolongation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid systemic use",
+      "administracao": "Oral or topical",
+      "doseMaxima": "400mg/day",
+      "doseMinima": "200mg/day; topical once daily",
+      "classificacao": "Imidazole antifungal",
+      "apresentacao": "Tablets 200mg; cream 2%",
+      "interacaoMedicamento": "Strong CYP3A4 inhibitor; interacts with statins, benzos, cyclosporine, anticoagulants",
+      "posologia": "PO: 200–400mg/day; topical: 1–2x/day for 2–6 weeks",
+      "armazenamento": "Store at room temperature",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active liver disease, QT prolongation, drug contraindications",
+      "cuidadosMedicos": "Monitor LFTs and ECG; avoid interacting meds",
+      "cuidadosFarmaceuticos": "Avoid antacids; instruct with food",
+      "cuidadosEnfermagem": "Watch for jaundice, dark urine, rash, arrhythmia",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ketoconazol",
+      "suspension": "Suspender 48h antes de cirugía si hay riesgo hepático o QT",
+      "risk": "Hepatotoxicidad grave, prolongación QT, interacciones con anestésicos",
+      "reintroduction": "Reiniciar tras estabilidad hepática y cardiológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ketoconazol",
+      "nomeComercial": "Nizoral",
+      "mecanismoAcao": "Bloquea la 14α-desmetilasa fúngica, reduciendo ergosterol",
+      "farmacocinetica": "Absorción oral mejor con alimentos; metabolismo hepático; vida media 8h",
+      "farmacodinamica": "Fungistático (fungicida a altas dosis)",
+      "indicacoes": "Candidiasis mucocutánea, dermatofitosis, pitiriasis (tópico)",
+      "reacoesAdversas": "Hepatitis, ginecomastia, náuseas, prurito, QT largo",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar si es sistémico",
+      "administracao": "Oral o tópico",
+      "doseMaxima": "400mg/día",
+      "doseMinima": "200mg/día",
+      "classificacao": "Antifúngico imidazólico",
+      "apresentacao": "200mg comprimidos; crema 2%",
+      "interacaoMedicamento": "Inhibe CYP3A4; riesgo con estatinas, benzodiacepinas, anticoagulantes",
+      "posologia": "VO: 200–400mg/día; tópico: 1–2x/día por 2–6 semanas",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía activa, QT largo, medicamentos contraindicados",
+      "cuidadosMedicos": "Monitorear hepático, ECG, evitar interacciones",
+      "cuidadosFarmaceuticos": "Evitar antiácidos, administrar con alimentos",
+      "cuidadosEnfermagem": "Observar ictericia, erupción, disfunción hepática",
+      "fontesBibliograficas": "FDA, guías clínicas, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "酮康唑",
+      "suspension": "术前48小时停药（QT或肝功能风险）",
+      "risk": "严重肝毒性、QT延长、麻醉药物代谢相互作用",
+      "reintroduction": "术后肝功能稳定、ECG正常后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "酮康唑",
+      "nomeComercial": "Nizoral",
+      "mecanismoAcao": "抑制真菌细胞膜中14α-脱甲基酶，阻断麦角固醇合成",
+      "farmacocinetica": "口服吸收依赖胃酸，肝代谢，半衰期约8小时",
+      "farmacodinamica": "抑菌为主，部分高浓度具杀菌性",
+      "indicacoes": "口咽部念珠菌、皮肤癣菌、花斑癣等（口服或外用）",
+      "reacoesAdversas": "肝损伤、男性乳腺增生、恶心、QT延长",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "口服禁用",
+      "administracao": "口服或外用",
+      "doseMaxima": "每日400毫克",
+      "doseMinima": "每日200毫克",
+      "classificacao": "咪唑类抗真菌药",
+      "apresentacao": "200mg片剂，2%乳膏",
+      "interacaoMedicamento": "强CYP3A4抑制剂，影响华法林、他汀、地西泮等",
+      "posologia": "口服200–400mg/d；外用每日1–2次，持续2–6周",
+      "armazenamento": "室温保存",
+      "preparo": "无需特别处理",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肝病、QT延长、联合禁忌药物",
+      "cuidadosMedicos": "监测肝功能、心电图",
+      "cuidadosFarmaceuticos": "避开抗酸药，饭后服用",
+      "cuidadosEnfermagem": "观察黄疸、瘙痒、心律异常、乏力",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

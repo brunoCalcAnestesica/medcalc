@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Interferon alfa",
+      "suspension": "Avaliar suspensão em cirurgias maiores; pode causar pirexia e toxicidade hematológica",
+      "risk": "Leucopenia, depressão, disfunção hepática; cuidado em imunossuprimidos e gestantes",
+      "reintroduction": "Reintroduzir com cautela após estabilização clínica e recuperação hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Interferon alfa-2a / alfa-2b",
+      "nomeComercial": "Roferon-A, Intron A, Reaferon",
+      "mecanismoAcao": "Glicoproteína imunomoduladora que inibe replicação viral e modula resposta imune",
+      "farmacocinetica": "Administração SC/IM; pico 4–12h; meia-vida 3–8h; depuração renal e hepática",
+      "farmacodinamica": "Ativa macrófagos, NK e MHC-I; reduz replicação de vírus de RNA e DNA",
+      "indicacoes": "Hepatite B/C crônica, leucemias, melanoma, linfoma, sarcoma de Kaposi, papilomatose",
+      "reacoesAdversas": "Síndrome gripal, anemia, leucopenia, trombocitopenia, depressão, aumento de transaminases",
+      "riscoGravidez": "Categoria C (avaliar risco-benefício)",
+      "riscoLactacao": "Evitar; excreção desconhecida",
+      "administracao": "Subcutânea ou intramuscular",
+      "doseMaxima": "9 milhões UI 3x/semana (IM/SC)",
+      "doseMinima": "3 milhões UI 3x/semana",
+      "classificacao": "Citocina imunomoduladora / antiviral / antitumoral",
+      "apresentacao": "Ampolas ou seringas com solução 3M / 6M / 9M UI",
+      "interacaoMedicamento": "Potencial depressão medular com zidovudina, risco aumentado com quimioterápicos",
+      "posologia": "3–9M UI SC/IM 3x por semana por 6–12 meses (indicação-dependente)",
+      "armazenamento": "Refrigerado 2–8°C; não congelar; usar até 30 dias após aberto",
+      "preparo": "Agitar suavemente; uso direto",
+      "solucoesCompatíveis": "SF 0,9% se diluído (excepcional)",
+      "contraindicacoes": "Doença autoimune ativa, hepatite descompensada, gravidez, hipersensibilidade",
+      "cuidadosMedicos": "Hemograma semanal, função hepática e avaliação psiquiátrica",
+      "cuidadosFarmaceuticos": "Verificar integridade, validade e conservação",
+      "cuidadosEnfermagem": "Monitorar temperatura, sintomas gripais, sinais de mielossupressão",
+      "fontesBibliograficas": "ANVISA, FDA, BNF, WHO, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Interferon alfa",
+      "suspension": "Consider holding before major surgery; fever and cytopenia possible",
+      "risk": "Leukopenia, depression, liver dysfunction; caution in immunosuppressed or pregnant",
+      "reintroduction": "Restart with caution after clinical stability and hematologic recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Interferon alfa-2a / alfa-2b",
+      "nomeComercial": "Roferon-A, Intron A",
+      "mecanismoAcao": "Cytokine with antiviral, antiproliferative, and immunomodulatory actions",
+      "farmacocinetica": "SC/IM; peak 4–12h; t1/2 3–8h; renal and hepatic clearance",
+      "farmacodinamica": "Activates NK cells, macrophages, enhances MHC-I, inhibits viral RNA replication",
+      "indicacoes": "Chronic hepatitis B/C, leukemia, melanoma, lymphoma, Kaposi sarcoma",
+      "reacoesAdversas": "Flu-like symptoms, anemia, neutropenia, thrombocytopenia, depression",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "Subcutaneous or intramuscular",
+      "doseMaxima": "9 million IU TIW",
+      "doseMinima": "3 million IU TIW",
+      "classificacao": "Antiviral / antitumoral / immunomodulatory cytokine",
+      "apresentacao": "Vials or prefilled syringes (3M, 6M, 9M IU)",
+      "interacaoMedicamento": "Myelosuppression with zidovudine, enhanced toxicity with chemo",
+      "posologia": "3–9M IU SC/IM TIW for 6–12 months",
+      "armazenamento": "2–8°C refrigerated; do not freeze; stable 30 days post-opening",
+      "preparo": "Ready to use; mix gently if needed",
+      "solucoesCompatíveis": "0.9% NaCl if diluted",
+      "contraindicacoes": "Active autoimmune disease, decompensated liver disease, pregnancy",
+      "cuidadosMedicos": "Monitor CBC, LFTs, psychiatric status",
+      "cuidadosFarmaceuticos": "Check expiry, refrigeration, integrity",
+      "cuidadosEnfermagem": "Watch for fever, cytopenia, flu-like symptoms",
+      "fontesBibliograficas": "FDA, WHO, Micromedex, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Interferón alfa",
+      "suspension": "Considerar suspensión en cirugía mayor; posible fiebre y citopenias",
+      "risk": "Leucopenia, depresión, hepatotoxicidad; precaución en inmunosuprimidos",
+      "reintroduction": "Reiniciar con cuidado tras recuperación hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Interferón alfa-2a / alfa-2b",
+      "nomeComercial": "Roferon-A, Intron A",
+      "mecanismoAcao": "Citocina inmunomoduladora con acción antiviral y antiproliferativa",
+      "farmacocinetica": "SC/IM; pico 4–12h; t1/2 3–8h; eliminación renal y hepática",
+      "farmacodinamica": "Activa células NK, macrófagos y MHC-I; inhibe replicación viral",
+      "indicacoes": "Hepatitis B/C crónica, leucemia, melanoma, linfoma, sarcoma de Kaposi",
+      "reacoesAdversas": "Síndrome gripal, anemia, neutropenia, trombocitopenia, depresión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante lactancia",
+      "administracao": "Subcutánea o intramuscular",
+      "doseMaxima": "9 millones UI 3x/semana",
+      "doseMinima": "3 millones UI 3x/semana",
+      "classificacao": "Citocina antiviral e inmunomoduladora",
+      "apresentacao": "Viales o jeringas precargadas",
+      "interacaoMedicamento": "Depresión medular con zidovudina, riesgo con quimioterapia",
+      "posologia": "3–9M UI SC/IM 3 veces por semana por 6–12 meses",
+      "armazenamento": "2–8°C, no congelar, usar en 30 días",
+      "preparo": "Uso directo, agitar suavemente",
+      "solucoesCompatíveis": "ClNa 0,9% si se diluye",
+      "contraindicacoes": "Enfermedad autoinmune activa, embarazo, hepatitis descompensada",
+      "cuidadosMedicos": "Monitorizar hemograma, enzimas hepáticas, estado mental",
+      "cuidadosFarmaceuticos": "Verificar cadena de frío y caducidad",
+      "cuidadosEnfermagem": "Observar fiebre, fatiga y mielosupresión",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "干扰素α",
+      "suspension": "大手术前建议暂停；可能诱发发热与血液毒性",
+      "risk": "白细胞减少、抑郁、肝酶升高；慎用于孕妇与免疫抑制患者",
+      "reintroduction": "术后恢复稳定后再评估是否重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "α-干扰素（干扰素α-2a/2b）",
+      "nomeComercial": "Roferon-A，Intron A",
+      "mecanismoAcao": "抗病毒细胞因子，通过激活免疫细胞抑制病毒复制",
+      "farmacocinetica": "皮下注射或肌注；起效4–12小时，半衰期3–8小时",
+      "farmacodinamica": "激活NK细胞与巨噬细胞，提高MHC-I表达，阻断病毒RNA复制",
+      "indicacoes": "慢性乙/丙肝、白血病、黑色素瘤、卡波西肉瘤等",
+      "reacoesAdversas": "发热、乏力、白细胞减少、抑郁、肝功能异常",
+      "riscoGravidez": "C类；孕妇禁用",
+      "riscoLactacao": "未知；建议停哺乳",
+      "administracao": "皮下注射或肌肉注射",
+      "doseMaxima": "每次9M单位，每周3次",
+      "doseMinima": "每次3M单位",
+      "classificacao": "免疫调节型抗病毒细胞因子",
+      "apresentacao": "预充针或安瓿剂型（3M/6M/9M）",
+      "interacaoMedicamento": "与齐多夫定合用可抑制骨髓，与化疗药合用增加毒性",
+      "posologia": "每周注射3次，疗程6–12个月",
+      "armazenamento": "2–8°C冷藏，不可冷冻；开封后30天内用完",
+      "preparo": "轻轻摇匀后使用",
+      "solucoesCompatíveis": "可与0.9%氯化钠配伍",
+      "contraindicacoes": "活动性自身免疫病、肝衰、孕妇",
+      "cuidadosMedicos": "监测血常规、肝功能、心理状态",
+      "cuidadosFarmaceuticos": "核查有效期、冷链与药液完整性",
+      "cuidadosEnfermagem": "观察发热、抑郁、血象下降等副作用",
+      "fontesBibliograficas": "中国药典，FDA，Micromedex，WHO"
+    }
+  }
+}

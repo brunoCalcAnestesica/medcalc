@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Concentrado de Hemácias",
+      "suspension": "Não aplicável; trata-se de hemoderivado utilizado conforme indicação clínica e laboratorial",
+      "risk": "Risco de reações hemolíticas, infecciosas, alérgicas e sobrecarga circulatória. Necessita compatibilidade ABO/Rh e controle rigoroso.",
+      "reintroduction": "Usar conforme necessidade de transfusão, idealmente com hemoglobina <7–8 g/dL ou sinais clínicos de hipóxia tecidual. Monitoramento contínuo obrigatório."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hemácias concentradas",
+      "nomeComercial": "Hemocomponente (banco de sangue)",
+      "mecanismoAcao": "Fornece células eritrocitárias com capacidade de transporte de oxigênio para corrigir anemia aguda ou crônica",
+      "farmacocinetica": "Vida média de 21 a 42 dias (armazenagem); meia-vida in vivo ~60–90 dias",
+      "farmacodinamica": "Melhora transporte de oxigênio e perfusão tecidual; cada unidade aumenta Hb em ~1 g/dL",
+      "indicacoes": "Anemia sintomática, sangramento ativo, Hb <7–8 g/dL, preparo pré-operatório em pacientes anêmicos",
+      "reacoesAdversas": "Febre, calafrios, reação hemolítica, TRALI, infecção transmissível, sobrecarga volêmica",
+      "riscoGravidez": "Indicação conforme necessidade clínica; compatibilização rigorosa obrigatória",
+      "riscoLactacao": "Seguro se necessário",
+      "administracao": "Infusão intravenosa com filtro de transfusão",
+      "doseMaxima": "2–4 unidades em 24 horas, conforme tolerância e sangramento",
+      "doseMinima": "1 unidade (250–300 mL)",
+      "classificacao": "Hemocomponente alogênico",
+      "apresentacao": "Bolsa de 250–300 mL (1 concentrado)",
+      "interacaoMedicamento": "Evitar infusão concomitante com soluções com cálcio (ex: Ringer lactato); usar SF 0,9%",
+      "posologia": "1 unidade por vez com controle de Hb/hematócrito e sinais clínicos",
+      "armazenamento": "2–6 °C; uso até 42 dias após coleta (CPDA-1)",
+      "preparo": "Verificar tipagem, compatibilidade cruzada, validade, aspecto",
+      "solucoesCompatíveis": "Apenas SF 0,9%",
+      "contraindicacoes": "Sem contraindicações absolutas em anemia grave; evitar em sangramentos controlados com boa perfusão",
+      "cuidadosMedicos": "Controle de sinais vitais, Hb pré e pós-transfusão, vigilância de reações",
+      "cuidadosFarmaceuticos": "Verificação cruzada, controle de cadeia do frio, não congelar",
+      "cuidadosEnfermagem": "Monitorar reações imediatas (primeiros 15 min), sinais vitais, débito urinário",
+      "fontesBibliograficas": "Ministério da Saúde, SBHH, AABB, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Packed Red Blood Cells (pRBCs)",
+      "suspension": "Not applicable; used per clinical/lab indication",
+      "risk": "Risk of transfusion reactions, infection, hemolysis, volume overload. Requires strict ABO/Rh compatibility.",
+      "reintroduction": "Administer when Hb <7–8 g/dL or symptomatic anemia. Continuous monitoring required."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Packed Red Blood Cells",
+      "nomeComercial": "Blood bank component",
+      "mecanismoAcao": "Supplies erythrocytes to restore oxygen-carrying capacity in anemia or acute blood loss",
+      "farmacocinetica": "Storage 21–42 days; in vivo lifespan ~60–90 days",
+      "farmacodinamica": "Improves tissue oxygenation; each unit increases Hb by ~1 g/dL",
+      "indicacoes": "Symptomatic anemia, Hb <7–8 g/dL, active bleeding, perioperative support",
+      "reacoesAdversas": "Febrile non-hemolytic, hemolysis, TRALI, TACO, infection",
+      "riscoGravidez": "Permitted with ABO/Rh matching",
+      "riscoLactacao": "Safe if indicated",
+      "administracao": "IV with transfusion filter",
+      "doseMaxima": "Up to 4 units/day based on need",
+      "doseMinima": "1 unit (250–300 mL)",
+      "classificacao": "Allogeneic blood product",
+      "apresentacao": "Unit (250–300 mL per bag)",
+      "interacaoMedicamento": "Avoid mixing with calcium-containing solutions",
+      "posologia": "1 unit at a time with reassessment",
+      "armazenamento": "2–6 °C; shelf life 21–42 days",
+      "preparo": "Check ID, ABO/Rh, crossmatch, appearance",
+      "solucoesCompatíveis": "Only NS 0.9%",
+      "contraindicacoes": "No absolute; caution in compensated anemia",
+      "cuidadosMedicos": "Vitals, Hb monitoring, reaction surveillance",
+      "cuidadosFarmaceuticos": "Cold chain control; never freeze",
+      "cuidadosEnfermagem": "Monitor for reaction in first 15 min; check vitals and urine output",
+      "fontesBibliograficas": "AABB, UpToDate, CDC, FDA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Concentrado de Hematíes",
+      "suspension": "No aplicable; se administra según indicación clínica",
+      "risk": "Reacciones hemolíticas, infecciones, sobrecarga; requiere compatibilidad ABO/Rh",
+      "reintroduction": "Reanudar según Hb <7–8 g/dL o síntomas de hipoxia tisular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Concentrado de Hematíes",
+      "nomeComercial": "Hemocomponente del banco de sangre",
+      "mecanismoAcao": "Restaura capacidad de transporte de oxígeno mediante eritrocitos",
+      "farmacocinetica": "Almacenamiento 21–42 días; duración en vivo ~60–90 días",
+      "farmacodinamica": "Aumenta Hb ~1 g/dL por unidad",
+      "indicacoes": "Anemia sintomática, Hb <8, sangrado activo",
+      "reacoesAdversas": "Fiebre, hemólisis, TRALI, TACO, infecciones",
+      "riscoGravidez": "Uso permitido con tipificación cruzada",
+      "riscoLactacao": "Seguro si está indicado",
+      "administracao": "IV con filtro de transfusión",
+      "doseMaxima": "Hasta 4 unidades/día según estado clínico",
+      "doseMinima": "1 unidad (250–300 mL)",
+      "classificacao": "Hemocomponente alogénico",
+      "apresentacao": "Bolsa 250–300 mL",
+      "interacaoMedicamento": "No mezclar con soluciones cálcicas",
+      "posologia": "1 unidad con reevaluación clínica posterior",
+      "armazenamento": "2–6 °C; vida útil hasta 42 días",
+      "preparo": "Confirmar grupo, compatibilidad y estado de la bolsa",
+      "solucoesCompatíveis": "Solo suero fisiológico 0,9%",
+      "contraindicacoes": "Evitar en anemia compensada sin síntomas",
+      "cuidadosMedicos": "Monitorizar constantes y reacciones",
+      "cuidadosFarmaceuticos": "Cadena de frío estricta",
+      "cuidadosEnfermagem": "Vigilar primeras 15 min; evaluar PA y diuresis",
+      "fontesBibliograficas": "AEMPS, WHO, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "红细胞浓缩液",
+      "suspension": "非药物，不适用于常规停药；按输血指征决定",
+      "risk": "可能致免疫反应、感染、容量负荷过重，须血型匹配",
+      "reintroduction": "术后Hb<7–8或缺氧症状时可根据评估恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "红细胞浓缩液",
+      "nomeComercial": "血站提供血袋",
+      "mecanismoAcao": "补充红细胞以恢复氧运输功能",
+      "farmacocinetica": "储存21–42天，体内存活60–90天",
+      "farmacodinamica": "每单位升高Hb约1 g/dL",
+      "indicacoes": "失血、术中支持、严重贫血",
+      "reacoesAdversas": "发热、溶血、TRALI、TACO、病毒传播",
+      "riscoGravidez": "需要严格配型；产科常规使用",
+      "riscoLactacao": "安全",
+      "administracao": "输血器缓慢静滴",
+      "doseMaxima": "1次2–4袋，根据耐受",
+      "doseMinima": "1袋（约250–300毫升）",
+      "classificacao": "异体输血血液制品",
+      "apresentacao": "250–300 mL袋装",
+      "interacaoMedicamento": "禁与钙制剂（如乳酸林格）同用",
+      "posologia": "按需输注，1袋/次，动态监测",
+      "armazenamento": "2–6°C冷藏，不可冷冻",
+      "preparo": "配型核对，血袋完整无凝块",
+      "solucoesCompatíveis": "仅限0.9%氯化钠",
+      "contraindicacoes": "轻度贫血无症状慎用",
+      "cuidadosMedicos": "首15分钟密切监测，记录体征、尿量",
+      "cuidadosFarmaceuticos": "全程冷链管理",
+      "cuidadosEnfermagem": "注意急性反应、肺水肿、发热反应",
+      "fontesBibliograficas": "中国输血指南、Micromedex、UpToDate"
+    }
+  }
+}

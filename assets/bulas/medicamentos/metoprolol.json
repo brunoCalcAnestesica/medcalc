@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Metoprolol",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Suspensão abrupta pode causar taquicardia, hipertensão e isquemia miocárdica",
+      "reintroduction": "Manter continuamente ou reiniciar o mais precocemente possível após a cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metoprolol",
+      "nomeComercial": "Seloken, Lopressor, Selozok",
+      "mecanismoAcao": "Bloqueador seletivo dos receptores β1-adrenérgicos, reduzindo frequência cardíaca e débito cardíaco",
+      "farmacocinetica": "Absorção oral boa; metabolismo hepático; meia-vida 3–7h; início 1h; duração 6–12h",
+      "farmacodinamica": "Redução da pressão arterial, frequência cardíaca e consumo de oxigênio do miocárdio",
+      "indicacoes": "Hipertensão, angina, infarto agudo do miocárdio, insuficiência cardíaca, arritmias",
+      "reacoesAdversas": "Bradicardia, fadiga, hipotensão, broncoespasmo, depressão",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado em pequenas quantidades; uso com cautela",
+      "administracao": "Via oral ou intravenosa",
+      "doseMaxima": "400mg/dia (VO)",
+      "doseMinima": "25mg/dia",
+      "classificacao": "Betabloqueador seletivo β1",
+      "apresentacao": "Comprimidos 25mg, 50mg, 100mg; solução injetável 1mg/mL",
+      "interacaoMedicamento": "Potencializa efeito de outros anti-hipertensivos; cuidado com digoxina e bloqueadores de canal de cálcio",
+      "posologia": "25–200mg/dia em dose única ou fracionada; IV: 2,5–5mg/dose",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Uso direto; IV pode ser diluído em SF 0,9%",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Bradicardia severa, bloqueio AV grau 2 ou 3, asma grave, choque cardiogênico",
+      "cuidadosMedicos": "Monitorar FC, PA, ECG em uso EV; evitar suspensão abrupta",
+      "cuidadosFarmaceuticos": "Confirmar dose e via de administração; evitar erro de diluição IV",
+      "cuidadosEnfermagem": "Monitorar sinais vitais, observar sinais de bradicardia ou hipotensão",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Metoprolol",
+      "suspension": "Continue until day of surgery",
+      "risk": "Abrupt withdrawal may lead to tachycardia, hypertension, myocardial ischemia",
+      "reintroduction": "Continue uninterrupted or restart as early as possible postoperatively"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metoprolol",
+      "nomeComercial": "Lopressor, Toprol-XL",
+      "mecanismoAcao": "Selective β1-adrenergic receptor blocker, decreases heart rate and cardiac output",
+      "farmacocinetica": "Well absorbed orally; hepatic metabolism; half-life 3–7h; onset ~1h",
+      "farmacodinamica": "Lowers BP, HR, and myocardial oxygen demand",
+      "indicacoes": "Hypertension, angina, MI, heart failure, arrhythmias",
+      "reacoesAdversas": "Bradycardia, fatigue, hypotension, bronchospasm, depression",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Low levels in milk; use with caution",
+      "administracao": "Oral or intravenous",
+      "doseMaxima": "400mg/day (oral)",
+      "doseMinima": "25mg/day",
+      "classificacao": "Selective β1-blocker",
+      "apresentacao": "Tablets 25mg, 50mg, 100mg; IV solution 1mg/mL",
+      "interacaoMedicamento": "Enhances effect of antihypertensives; caution with digoxin, calcium channel blockers",
+      "posologia": "25–200mg/day PO; IV: 2.5–5mg/dose",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Use as is or dilute IV in NS",
+      "solucoesCompatíveis": "0.9% saline",
+      "contraindicacoes": "Severe bradycardia, 2nd/3rd degree AV block, severe asthma, cardiogenic shock",
+      "cuidadosMedicos": "Monitor HR, BP, ECG for IV use; avoid abrupt discontinuation",
+      "cuidadosFarmaceuticos": "Verify dosage and route; avoid IV dilution errors",
+      "cuidadosEnfermagem": "Monitor vitals, watch for bradycardia or hypotension",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Metoprolol",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Suspensión abrupta puede causar taquicardia, hipertensión, isquemia",
+      "reintroduction": "Continuar sin interrupción o reiniciar lo antes posible tras la cirugía"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Metoprolol",
+      "nomeComercial": "Lopresor, Seloken",
+      "mecanismoAcao": "Bloqueador selectivo β1 que reduce FC y gasto cardíaco",
+      "farmacocinetica": "Buena absorción oral; metabolismo hepático; vida media 3–7h",
+      "farmacodinamica": "Disminuye PA, FC y demanda de oxígeno miocárdica",
+      "indicacoes": "HTA, angina, infarto agudo, insuficiencia cardíaca, arritmias",
+      "reacoesAdversas": "Bradicardia, fatiga, hipotensión, broncoespasmo, depresión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Excreción baja en leche; uso con precaución",
+      "administracao": "Oral o IV",
+      "doseMaxima": "400mg/día",
+      "doseMinima": "25mg/día",
+      "classificacao": "Betabloqueador β1 selectivo",
+      "apresentacao": "Comprimidos 25mg, 50mg, 100mg; ampollas 1mg/mL",
+      "interacaoMedicamento": "Potencia otros hipotensores; precaución con digoxina y bloqueadores de calcio",
+      "posologia": "25–200mg/día VO; IV: 2,5–5mg/dosis",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Uso directo; IV diluir en SSF",
+      "solucoesCompatíveis": "SSF 0,9%",
+      "contraindicacoes": "Bradicardia grave, bloqueo AV 2–3º, asma grave, shock cardiogénico",
+      "cuidadosMedicos": "Monitorear FC, PA, ECG si IV; evitar suspensión brusca",
+      "cuidadosFarmaceuticos": "Verificar dosis y vía; evitar errores de dilución IV",
+      "cuidadosEnfermagem": "Observar signos vitales y efectos adversos cardiovasculares",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "美托洛尔",
+      "suspension": "手术当天继续使用",
+      "risk": "突然停药可能引起心动过速、高血压、心肌缺血",
+      "reintroduction": "术后应尽早恢复或持续给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "美托洛尔",
+      "nomeComercial": "倍他乐克（Seloken）、罗普乐（Lopressor）",
+      "mecanismoAcao": "选择性β1肾上腺素能受体阻滞剂，降低心率和心排量",
+      "farmacocinetica": "口服吸收良好；肝脏代谢；半衰期3–7小时",
+      "farmacodinamica": "降低血压、心率、心肌耗氧",
+      "indicacoes": "高血压、心绞痛、心梗、心衰、心律失常",
+      "reacoesAdversas": "心动过缓、疲劳、低血压、支气管痉挛、抑郁",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，慎用",
+      "administracao": "口服或静注",
+      "doseMaxima": "每日400毫克",
+      "doseMinima": "每日25毫克",
+      "classificacao": "β1选择性受体阻滞剂",
+      "apresentacao": "片剂25mg、50mg、100mg；注射液1mg/mL",
+      "interacaoMedicamento": "与其他降压药协同；注意与地高辛、钙通道阻滞剂联用",
+      "posologia": "口服25–200mg/日；静注2.5–5mg/次",
+      "armazenamento": "室温避光保存",
+      "preparo": "可稀释于0.9%氯化钠注射液",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "重度心动过缓、Ⅱ–Ⅲ度房室传导阻滞、严重哮喘、心源性休克",
+      "cuidadosMedicos": "监测心电、血压，避免突然停药",
+      "cuidadosFarmaceuticos": "核实剂量、途径，注意稀释规范",
+      "cuidadosEnfermagem": "观察生命体征，警惕心血管抑制反应",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

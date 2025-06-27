@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Imipramina",
+      "suspension": "Suspender 7 dias antes da cirurgia",
+      "risk": "Risco de arritmias, sedação excessiva, hipotensão e interação com anestésicos; potencial para prolongar o intervalo QT",
+      "reintroduction": "Reintroduzir 48–72h após cirurgia com paciente cardiovascularmente estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imipramina",
+      "nomeComercial": "Tofranil, Imipra, Imibran, Deprilept",
+      "mecanismoAcao": "Inibe a recaptação de noradrenalina e serotonina; ação anticolinérgica e anti-histamínica",
+      "farmacocinetica": "Boa absorção oral, metabolizada no fígado (CYP2D6), meia-vida de 11–25h",
+      "farmacodinamica": "Antidepressivo tricíclico com propriedades sedativas e ansiolíticas",
+      "indicacoes": "Depressão maior, enurese noturna, dor neuropática (off-label)",
+      "reacoesAdversas": "Boca seca, constipação, visão turva, ganho de peso, sedação, arritmias",
+      "riscoGravidez": "Categoria D – risco fetal evidente; evitar uso",
+      "riscoLactacao": "Excretada no leite materno; pode causar sedação em lactentes",
+      "administracao": "Via oral, preferencialmente à noite",
+      "doseMaxima": "300mg/dia",
+      "doseMinima": "25mg/dia",
+      "classificacao": "Antidepressivo tricíclico",
+      "apresentacao": "Comprimidos de 10mg, 25mg, 75mg",
+      "interacaoMedicamento": "Interage com IMAOs, anti-hipertensivos, depressores do SNC, álcool",
+      "posologia": "Iniciar com 25–50mg/dia, aumentando até 150–300mg conforme resposta clínica",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "IAM recente, arritmias, glaucoma de ângulo fechado, retenção urinária",
+      "cuidadosMedicos": "Monitorar ECG, PA, risco de suicídio e efeitos anticolinérgicos",
+      "cuidadosFarmaceuticos": "Orientar sobre início gradual, evitar álcool e não interromper abruptamente",
+      "cuidadosEnfermagem": "Observar sinais vitais, sedação excessiva, confusão e efeitos adversos",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Imipramine",
+      "suspension": "Discontinue 7 days prior to surgery",
+      "risk": "Risk of arrhythmia, QT prolongation, sedation, hypotension and anesthetic interactions",
+      "reintroduction": "Restart 48–72h post-op if cardiovascular status is stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imipramine",
+      "nomeComercial": "Tofranil",
+      "mecanismoAcao": "Blocks reuptake of norepinephrine and serotonin; strong anticholinergic activity",
+      "farmacocinetica": "Well absorbed orally, hepatic metabolism (CYP2D6), half-life 11–25h",
+      "farmacodinamica": "Tricyclic antidepressant with sedative and anxiolytic effects",
+      "indicacoes": "Major depression, childhood enuresis, neuropathic pain (off-label)",
+      "reacoesAdversas": "Dry mouth, blurred vision, constipation, sedation, arrhythmias, weight gain",
+      "riscoGravidez": "Category D – positive evidence of fetal risk",
+      "riscoLactacao": "Excreted in breast milk; may cause sedation in infants",
+      "administracao": "Oral, preferably at bedtime",
+      "doseMaxima": "300mg/day",
+      "doseMinima": "25mg/day",
+      "classificacao": "Tricyclic antidepressant",
+      "apresentacao": "Tablets: 10mg, 25mg, 75mg",
+      "interacaoMedicamento": "Interacts with MAOIs, CNS depressants, antihypertensives, alcohol",
+      "posologia": "Start at 25–50mg/day, increase gradually to 150–300mg/day",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "No special preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Recent MI, cardiac arrhythmias, glaucoma, urinary retention",
+      "cuidadosMedicos": "Monitor ECG, BP, suicide risk, and anticholinergic effects",
+      "cuidadosFarmaceuticos": "Warn about sedation, delayed effect and withdrawal risks",
+      "cuidadosEnfermagem": "Monitor vitals, sedation level, CNS changes",
+      "fontesBibliograficas": "FDA, Lexicomp, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Imipramina",
+      "suspension": "Suspender 7 días antes de cirugía",
+      "risk": "Riesgo de arritmias, sedación, hipotensión y prolongación del QT",
+      "reintroduction": "Reintroducir 48–72h tras cirugía si el paciente está estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Imipramina",
+      "nomeComercial": "Tofranil",
+      "mecanismoAcao": "Inhibe la recaptación de noradrenalina y serotonina; efecto anticolinérgico",
+      "farmacocinetica": "Buena absorción, metabolismo hepático (CYP2D6), vida media de 11–25h",
+      "farmacodinamica": "Antidepresivo tricíclico con propiedades sedantes y ansiolíticas",
+      "indicacoes": "Depresión, enuresis nocturna infantil, dolor neuropático",
+      "reacoesAdversas": "Boca seca, visión borrosa, estreñimiento, arritmias, sedación",
+      "riscoGravidez": "Categoría D – evidencia de riesgo fetal",
+      "riscoLactacao": "Se excreta en la leche materna; evitar en lactantes",
+      "administracao": "Vía oral, preferiblemente por la noche",
+      "doseMaxima": "300mg/día",
+      "doseMinima": "25mg/día",
+      "classificacao": "Antidepresivo tricíclico",
+      "apresentacao": "Comprimidos: 10mg, 25mg, 75mg",
+      "interacaoMedicamento": "Interacciones con IMAOs, depresores del SNC, alcohol",
+      "posologia": "Comenzar con 25–50mg/día, ajustar hasta 300mg según respuesta",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Infarto reciente, arritmias, glaucoma, retención urinaria",
+      "cuidadosMedicos": "Controlar ECG, PA, efectos anticolinérgicos y riesgo de suicidio",
+      "cuidadosFarmaceuticos": "Advertir sobre inicio gradual y no suspender bruscamente",
+      "cuidadosEnfermagem": "Observar signos vitales, sedación y efectos adversos",
+      "fontesBibliograficas": "AEMPS, FDA, EMA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "丙咪嗪",
+      "suspension": "术前7天停药",
+      "risk": "可能导致心律失常、过度镇静、低血压及QT延长，与麻醉药相互作用",
+      "reintroduction": "术后48–72小时，若心血管稳定，可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "丙咪嗪",
+      "nomeComercial": "Tofranil",
+      "mecanismoAcao": "抑制去甲肾上腺素和5-羟色胺再摄取，具抗胆碱作用",
+      "farmacocinetica": "口服吸收良好，经CYP2D6代谢，半衰期11–25小时",
+      "farmacodinamica": "三环类抗抑郁药，具有镇静和抗焦虑作用",
+      "indicacoes": "重度抑郁、夜间遗尿、神经性疼痛",
+      "reacoesAdversas": "口干、视力模糊、便秘、嗜睡、心律失常、体重增加",
+      "riscoGravidez": "D类 – 存在胎儿风险",
+      "riscoLactacao": "可分泌至乳汁中，可能导致婴儿镇静",
+      "administracao": "口服，建议晚上服用",
+      "doseMaxima": "每日300毫克",
+      "doseMinima": "每日25毫克",
+      "classificacao": "三环类抗抑郁药",
+      "apresentacao": "片剂：10mg、25mg、75mg",
+      "interacaoMedicamento": "与MAOI、中枢抑制剂、酒精等有相互作用",
+      "posologia": "起始剂量25–50mg/日，逐渐增至300mg/日",
+      "armazenamento": "室温保存，避光",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "近期心梗、心律失常、青光眼、尿潴留",
+      "cuidadosMedicos": "监测心电图、血压、抗胆碱反应",
+      "cuidadosFarmaceuticos": "说明延迟起效，避免突然停药",
+      "cuidadosEnfermagem": "观察生命体征、镇静及不良反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

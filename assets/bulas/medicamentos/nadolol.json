@@ -1,0 +1,104 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nadolol",
+      "suspension": "Suspender 3 a 5 dias antes de cirurgias de médio a grande porte",
+      "risk": "Risco de bradicardia, hipotensão e resposta diminuída ao estresse cirúrgico; retirada abrupta pode causar hipertensão rebote ou isquemia miocárdica",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e ausência de complicações cardiovasculares pós-operatórias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nadolol",
+      "nomeComercial": "Corgard",
+      "mecanismoAcao": "Bloqueador beta-adrenérgico não seletivo que reduz a frequência cardíaca, o débito cardíaco e a pressão arterial",
+      "farmacocinetica": "Absorção oral moderada (~30%), não sofre metabolismo hepático, excreção renal predominante, meia-vida prolongada (14–24 horas)",
+      "farmacodinamica": "Reduz o consumo de oxigênio do miocárdio, controla arritmias e diminui a pressão portal",
+      "indicacoes": "Hipertensão arterial, angina estável, prevenção de arritmias, tremores essenciais, prevenção de enxaqueca, tratamento adjuvante da hipertensão portal",
+      "reacoesAdversas": "Bradicardia, fadiga, tontura, broncoespasmo, disfunção sexual, hipotensão, hipoglicemia em diabéticos",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite em pequenas quantidades; avaliar risco-benefício",
+      "administracao": "Via oral",
+      "doseMaxima": "320mg/dia (hipertensão); 240mg/dia (angina)",
+      "doseMinima": "40mg/dia",
+      "classificacao": "Betabloqueador não seletivo",
+      "apresentacao": "Comprimidos de 40mg e 80mg",
+      "interacaoMedicamento": "Pode potencializar efeitos de outros anti-hipertensivos, causar bradicardia com digitálicos, mascarar sintomas de hipoglicemia com insulina",
+      "posologia": "Dose única diária, ajustada conforme resposta clínica",
+      "armazenamento": "Conservar em temperatura ambiente, protegido da umidade e luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Asma brônquica, bradicardia severa, bloqueio AV de segundo ou terceiro grau, insuficiência cardíaca descompensada",
+      "cuidadosMedicos": "Monitorar FC e PA, evitar retirada abrupta, ajustar em insuficiência renal",
+      "cuidadosFarmaceuticos": "Verificar interações e orientar adesão; observar sinais de intolerância como fadiga intensa ou dispneia",
+      "cuidadosEnfermagem": "Avaliar sinais vitais, monitorar sintomas de bradicardia, dispneia ou hipotensão",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, BPR ANVISA, Goodman & Gilman"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nadolol",
+      "suspension": "Discontinue 3–5 days prior to major surgery",
+      "risk": "May cause intraoperative bradycardia, hypotension, or reduced stress response; abrupt withdrawal risks rebound hypertension or myocardial ischemia",
+      "reintroduction": "Resume once hemodynamic stability is achieved and cardiovascular complications are ruled out"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nadolol",
+      "nomeComercial": "Corgard",
+      "mecanismoAcao": "Non-selective beta-adrenergic blocker that decreases heart rate, cardiac output, and systemic blood pressure",
+      "farmacocinetica": "Moderate oral bioavailability (~30%), not metabolized in the liver, primarily excreted renally, long half-life (14–24 hours)",
+      "farmacodinamica": "Decreases myocardial oxygen demand, controls arrhythmias, reduces portal pressure",
+      "indicacoes": "Hypertension, stable angina, arrhythmia prevention, essential tremor, migraine prophylaxis, adjunctive therapy for portal hypertension",
+      "reacoesAdversas": "Bradycardia, fatigue, dizziness, bronchospasm, sexual dysfunction, hypotension, hypoglycemia in diabetics",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in small amounts in breast milk; consider risk-benefit",
+      "administracao": "Oral",
+      "doseMaxima": "320mg/day (hypertension); 240mg/day (angina)",
+      "doseMinima": "40mg/day",
+      "classificacao": "Non-selective beta blocker",
+      "apresentacao": "Tablets: 40mg, 80mg",
+      "interacaoMedicamento": "May enhance effects of antihypertensives, cause bradycardia with digoxin, mask hypoglycemia symptoms with insulin",
+      "posologia": "Once daily dosing, adjusted based on clinical response",
+      "armazenamento": "Store at room temperature, protect from light and moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Bronchial asthma, severe bradycardia, second/third-degree AV block, decompensated heart failure",
+      "cuidadosMedicos": "Monitor HR and BP, avoid abrupt discontinuation, adjust dose in renal impairment",
+      "cuidadosFarmaceuticos": "Counsel on adherence and interactions; monitor for intolerance signs like fatigue or dyspnea",
+      "cuidadosEnfermagem": "Monitor vital signs, assess for bradycardia, dyspnea or hypotension",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Goodman & Gilman"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nadolol",
+      "suspension": "Suspender 3–5 días antes de cirugía mayor",
+      "risk": "Riesgo de bradicardia, hipotensión y respuesta disminuida al estrés quirúrgico; la suspensión abrupta puede causar hipertensión de rebote o isquemia miocárdica",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica y ausencia de complicaciones cardiovasculares"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nadolol",
+      "nomeComercial": "Corgard",
+      "mecanismoAcao": "Bloqueador beta-adrenérgico no selectivo que reduce la frecuencia cardíaca, el gasto cardíaco y la presión arterial",
+      "farmacocinetica": "Biodisponibilidad oral moderada (~30%), no metabolizado en el hígado, excreción renal predominante, vida media prolongada (14–24 horas)",
+      "farmacodinamica": "Disminuye la demanda de oxígeno del miocardio, controla arritmias y reduce la presión portal",
+      "indicacoes": "Hipertensión, angina estable, prevención de arritmias, temblor esencial, profilaxis de migraña, tratamiento adyuvante de hipertensión portal",
+      "reacoesAdversas": "Bradicardia, fatiga, mareo, broncoespasmo, disfunción sexual, hipotensión, hipoglucemia en diabéticos",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en pequeñas cantidades en la leche; evaluar riesgo-beneficio",
+      "administracao": "Vía oral",
+      "doseMaxima": "320mg/día (hipertensión); 240mg/día (angina)",
+      "doseMinima": "40mg/día",
+      "classificacao": "Betabloqueador no selectivo",
+      "apresentacao": "Comprimidos: 40mg, 80mg",
+      "interacaoMedicamento": "Puede potenciar efectos de antihipertensivos, causar bradicardia con digitálicos, enmascarar síntomas de hipoglucemia con insulina",
+      "posologia": "Dosis única diaria, ajustar según respuesta clínica",
+      "armazenamento": "Conservar a temperatura ambiente, protegido de la humedad y la luz",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Asma bronquial, bradicardia severa, bloqueo AV de segundo o tercer grado, insuficiencia cardíaca descompensada",
+      "cuidadosMedicos": "Monitorizar FC y TA, evitar suspensión brusca, ajustar en insuficiencia renal",
+      "cuidadosFarmaceuticos": "Evaluar interacciones y adherencia; observar intolerancia como fatiga intensa o disnea",
+      "cuidadosEnfermagem": "Monitorear signos vitales, detectar bradicardia, disnea o hipotensión",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, Goodman & Gilman"
+    }
+  }
+}

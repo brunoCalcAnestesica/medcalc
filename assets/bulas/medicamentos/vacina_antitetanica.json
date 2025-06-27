@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina Antitetânica",
+      "suspension": "Não suspender antes da cirurgia; manter esquema vacinal atualizado",
+      "risk": "Baixo risco perioperatório; eventos adversos raros incluem reações locais, febre e anafilaxia",
+      "reintroduction": "Não aplicável – pode ser administrada no perioperatório conforme indicação profilática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Toxoide tetânico",
+      "nomeComercial": "Vacina antitetânica (isolada ou combinada – dT, DTP, Tdpa)",
+      "mecanismoAcao": "Estimula produção de anticorpos neutralizantes contra a toxina tetânica",
+      "farmacocinetica": "Resposta imune primária em 2–3 semanas; resposta de memória com reforço",
+      "farmacodinamica": "Proteção ativa contra o tétano causada por *Clostridium tetani*",
+      "indicacoes": "Imunização ativa contra tétano; profilaxia de ferimentos contaminados ou cirurgias",
+      "reacoesAdversas": "Dor local, eritema, febre leve, mialgia, linfadenopatia, reação anafilática rara",
+      "riscoGravidez": "Categoria C – uso seguro durante gravidez em esquemas recomendados (especialmente dTpa)",
+      "riscoLactacao": "Seguro para uso durante a lactação",
+      "administracao": "Via intramuscular profunda, preferencialmente na região deltoide",
+      "doseMaxima": "0,5 mL por dose",
+      "doseMinima": "0,5 mL por dose",
+      "classificacao": "Vacina inativada – toxoide",
+      "apresentacao": "Frascos monodose ou multidose (0,5 mL/dose)",
+      "interacaoMedicamento": "Imunossupressores podem reduzir a resposta vacinal; pode ser coadministrada com outras vacinas",
+      "posologia": "Esquema primário: 3 doses + reforços a cada 10 anos ou conforme protocolo",
+      "armazenamento": "Entre +2°C e +8°C; não congelar",
+      "preparo": "Agitar frasco antes do uso; aspiração asséptica",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Anafilaxia prévia a dose anterior; doenças febris graves devem postergar aplicação",
+      "cuidadosMedicos": "Verificar histórico vacinal e risco de exposição; observar reação alérgica após aplicação",
+      "cuidadosFarmaceuticos": "Manter cadeia de frio e registro de lote; não administrar via IV",
+      "cuidadosEnfermagem": "Aplicar IM profundo; orientar sinais locais de reação e quando procurar assistência",
+      "fontesBibliograficas": "SBIm, PNI, ANVISA, CDC, WHO, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tetanus Vaccine",
+      "suspension": "Do not suspend before surgery; ensure vaccination is up to date",
+      "risk": "Low perioperative risk; rare adverse events include local reactions, fever, and anaphylaxis",
+      "reintroduction": "Not applicable – may be administered perioperatively if indicated"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tetanus Toxoid",
+      "nomeComercial": "Tetanus Vaccine (standalone or combined – dT, DTP, Tdap)",
+      "mecanismoAcao": "Stimulates production of neutralizing antibodies against tetanus toxin",
+      "farmacocinetica": "Primary immune response in 2–3 weeks; memory response with booster",
+      "farmacodinamica": "Active protection against tetanus caused by *Clostridium tetani*",
+      "indicacoes": "Active immunization against tetanus; wound or surgical prophylaxis",
+      "reacoesAdversas": "Local pain, redness, mild fever, myalgia, lymphadenopathy, rare anaphylaxis",
+      "riscoGravidez": "Category C – safe in pregnancy per recommended schedules (especially Tdap)",
+      "riscoLactacao": "Safe during breastfeeding",
+      "administracao": "Deep intramuscular route, preferably in the deltoid",
+      "doseMaxima": "0.5 mL per dose",
+      "doseMinima": "0.5 mL per dose",
+      "classificacao": "Inactivated vaccine – toxoid",
+      "apresentacao": "Single-dose or multi-dose vials (0.5 mL/dose)",
+      "interacaoMedicamento": "Immunosuppressants may reduce response; coadministration with other vaccines is acceptable",
+      "posologia": "Primary series: 3 doses + boosters every 10 years or per protocol",
+      "armazenamento": "Store at +2°C to +8°C; do not freeze",
+      "preparo": "Shake vial before use; aseptic aspiration",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Previous anaphylaxis to tetanus vaccine; delay in case of severe febrile illness",
+      "cuidadosMedicos": "Check vaccination history and exposure risk; monitor allergic response post-injection",
+      "cuidadosFarmaceuticos": "Maintain cold chain and lot documentation; do not administer IV",
+      "cuidadosEnfermagem": "Inject IM deeply; educate on local reactions and when to seek help",
+      "fontesBibliograficas": "CDC, WHO, FDA, Micromedex, SBIm"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna Antitetánica",
+      "suspension": "No suspender antes de la cirugía; mantener esquema vacunal actualizado",
+      "risk": "Riesgo perioperatorio bajo; eventos adversos raros como reacciones locales, fiebre y anafilaxia",
+      "reintroduction": "No aplica – puede administrarse en el perioperatorio si está indicado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Toxoide tetánico",
+      "nomeComercial": "Vacuna antitetánica (sola o combinada – dT, DTP, Tdpa)",
+      "mecanismoAcao": "Estimula producción de anticuerpos neutralizantes contra la toxina tetánica",
+      "farmacocinetica": "Respuesta inmune primaria en 2–3 semanas; memoria inmunológica con refuerzo",
+      "farmacodinamica": "Protección activa frente al tétanos por *Clostridium tetani*",
+      "indicacoes": "Inmunización activa contra tétanos; profilaxis en heridas o cirugía",
+      "reacoesAdversas": "Dolor local, eritema, fiebre leve, mialgia, linfadenopatía, anafilaxia rara",
+      "riscoGravidez": "Categoría C – uso seguro durante el embarazo (especialmente Tdpa)",
+      "riscoLactacao": "Seguro durante la lactancia",
+      "administracao": "Intramuscular profunda, preferentemente en deltoides",
+      "doseMaxima": "0,5 mL por dosis",
+      "doseMinima": "0,5 mL por dosis",
+      "classificacao": "Vacuna inactivada – toxoide",
+      "apresentacao": "Frascos monodosis o multidosis (0,5 mL)",
+      "interacaoMedicamento": "Inmunosupresores pueden reducir la respuesta; coadministración con otras vacunas es aceptable",
+      "posologia": "Esquema primario: 3 dosis + refuerzos cada 10 años o según protocolo",
+      "armazenamento": "Entre +2°C y +8°C; no congelar",
+      "preparo": "Agitar antes de usar; aspiración aséptica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Anafilaxia previa; posponer si hay fiebre alta",
+      "cuidadosMedicos": "Verificar historial vacunal y riesgo de exposición; observar reacciones alérgicas",
+      "cuidadosFarmaceuticos": "Mantener cadena de frío y registro de lote; no administrar IV",
+      "cuidadosEnfermagem": "Aplicar IM profunda; educar sobre reacciones locales y signos de alerta",
+      "fontesBibliograficas": "SBIm, PNI, ANVISA, CDC, WHO, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "破伤风疫苗",
+      "suspension": "术前无需停用；应确保接种记录完整",
+      "risk": "围手术期风险低；偶见局部反应、发热和过敏",
+      "reintroduction": "不适用；术前术后可按需接种"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "破伤风类毒素",
+      "nomeComercial": "破伤风疫苗（单苗或联合：dT、DTP、Tdap）",
+      "mecanismoAcao": "诱导机体产生抗破伤风毒素抗体",
+      "farmacocinetica": "初次免疫反应2–3周出现；加强针可产生记忆反应",
+      "farmacodinamica": "主动免疫预防由*破伤风梭菌*引起的破伤风感染",
+      "indicacoes": "破伤风免疫预防；创伤后或手术前预防",
+      "reacoesAdversas": "注射部位红肿疼痛、低热、肌痛、淋巴结肿大、过敏反应极罕见",
+      "riscoGravidez": "C类 – 孕期接种安全，尤其推荐Tdap",
+      "riscoLactacao": "哺乳期使用安全",
+      "administracao": "深部肌注，常用部位为三角肌",
+      "doseMaxima": "每剂0.5毫升",
+      "doseMinima": "每剂0.5毫升",
+      "classificacao": "灭活疫苗 – 类毒素",
+      "apresentacao": "单剂/多剂装瓶（0.5 mL/剂）",
+      "interacaoMedicamento": "免疫抑制剂可降低免疫应答；可与其他疫苗联合接种",
+      "posologia": "基础免疫3剂，后每10年加强1次，或依国家计划",
+      "armazenamento": "2–8°C冷藏保存，避免冷冻",
+      "preparo": "使用前充分摇匀，无菌抽取",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "曾对本疫苗发生过敏反应者禁用；高热等重症需推迟接种",
+      "cuidadosMedicos": "查验免疫史，评估感染风险；监测过敏反应",
+      "cuidadosFarmaceuticos": "保持冷链，记录批号；禁静脉注射",
+      "cuidadosEnfermagem": "深部肌注，指导不良反应处理",
+      "fontesBibliograficas": "中国免疫规划、CDC、WHO、Micromedex、SBIm"
+    }
+  }
+}

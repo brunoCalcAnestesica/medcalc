@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Zanamivir",
+      "suspension": "Suspender no dia da cirurgia se estiver em uso inalatório ativo",
+      "risk": "Broncoespasmo, tosse, interação com anestésicos inalados e risco de instabilidade respiratória",
+      "reintroduction": "Reintroduzir após estabilização respiratória e retomada da função pulmonar plena"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zanamivir",
+      "nomeComercial": "Relenza",
+      "mecanismoAcao": "Inibe a enzima neuraminidase do vírus influenza, impedindo a liberação de partículas virais",
+      "farmacocinetica": "Administração inalatória, absorção sistêmica baixa (<15%), eliminação renal inalterada",
+      "farmacodinamica": "Reduz a duração dos sintomas gripais e a replicação viral quando iniciado precocemente",
+      "indicacoes": "Tratamento e profilaxia da gripe causada por vírus influenza A e B",
+      "reacoesAdversas": "Tosse, broncoespasmo, cefaleia, náuseas, tontura, reações alérgicas raras",
+      "riscoGravidez": "Categoria C – usar somente se o benefício superar o risco",
+      "riscoLactacao": "Provavelmente seguro; excreção mínima no leite",
+      "administracao": "Inalação oral via Diskhaler",
+      "doseMaxima": "20 mg/dia (2 inalações de 5 mg 2x/dia)",
+      "doseMinima": "10 mg/dia",
+      "classificacao": "Antiviral – inibidor de neuraminidase",
+      "apresentacao": "Pó para inalação (blísteres de 5 mg cada)",
+      "interacaoMedicamento": "Cautela com broncodilatadores; administrar separadamente",
+      "posologia": "10 mg (2 inalações) 2x/dia por 5 dias; profilaxia: 10 mg/dia por até 28 dias",
+      "armazenamento": "Temperatura ambiente, protegido de umidade",
+      "preparo": "Uso com dispositivo Diskhaler",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Alergia a leite em pó (excipient), broncoespasmo grave prévio com uso",
+      "cuidadosMedicos": "Evitar uso em pacientes com asma ou DPOC sem broncodilatador associado",
+      "cuidadosFarmaceuticos": "Orientar técnica de inalação e risco de broncoespasmo",
+      "cuidadosEnfermagem": "Observar sintomas respiratórios durante e após administração",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Zanamivir",
+      "suspension": "Hold on the day of surgery if active inhaled use",
+      "risk": "Risk of bronchospasm, cough, interaction with inhaled anesthetics, respiratory instability",
+      "reintroduction": "Restart after pulmonary stability is confirmed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zanamivir",
+      "nomeComercial": "Relenza",
+      "mecanismoAcao": "Neuraminidase inhibitor; prevents release of influenza virus particles",
+      "farmacocinetica": "Inhaled route, low systemic absorption (<15%), renal elimination unchanged",
+      "farmacodinamica": "Shortens duration of flu symptoms if started early; inhibits viral replication",
+      "indicacoes": "Treatment and prophylaxis of influenza A and B",
+      "reacoesAdversas": "Cough, bronchospasm, headache, nausea, dizziness, rare allergic reactions",
+      "riscoGravidez": "Category C – use if benefit outweighs risk",
+      "riscoLactacao": "Likely safe; minimal milk excretion",
+      "administracao": "Oral inhalation via Diskhaler",
+      "doseMaxima": "20 mg/day (2 inhalations of 5 mg BID)",
+      "doseMinima": "10 mg/day",
+      "classificacao": "Antiviral – neuraminidase inhibitor",
+      "apresentacao": "Inhalation powder (5 mg blister packs)",
+      "interacaoMedicamento": "Use with caution with bronchodilators; separate administration",
+      "posologia": "10 mg BID for 5 days; prophylaxis: 10 mg/day for up to 28 days",
+      "armazenamento": "Room temperature, dry place",
+      "preparo": "Use with Diskhaler device",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe milk protein allergy, prior bronchospasm with use",
+      "cuidadosMedicos": "Avoid in asthma/COPD unless bronchodilator is co-administered",
+      "cuidadosFarmaceuticos": "Educate on inhaler technique, bronchospasm risk",
+      "cuidadosEnfermagem": "Monitor for respiratory symptoms during and after use",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, CDC"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Zanamivir",
+      "suspension": "Suspender el día de la cirugía si está en uso inhalado activo",
+      "risk": "Riesgo de broncoespasmo, tos, interacción con anestésicos inhalados, inestabilidad respiratoria",
+      "reintroduction": "Reintroducir tras estabilidad pulmonar postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Zanamivir",
+      "nomeComercial": "Relenza",
+      "mecanismoAcao": "Inhibidor de neuraminidasa; evita la liberación de partículas virales de influenza",
+      "farmacocinetica": "Administración inhalada, absorción sistémica <15%, eliminación renal sin cambios",
+      "farmacodinamica": "Reduce duración de síntomas gripales si se inicia precozmente",
+      "indicacoes": "Tratamiento y profilaxis de gripe por influenza A y B",
+      "reacoesAdversas": "Tos, broncoespasmo, cefalea, náuseas, mareos, reacciones alérgicas raras",
+      "riscoGravidez": "Categoría C – usar si el beneficio supera el riesgo",
+      "riscoLactacao": "Probablemente seguro; excreción mínima",
+      "administracao": "Inhalación oral con dispositivo Diskhaler",
+      "doseMaxima": "20 mg/día (2 inhalaciones de 5 mg 2x/día)",
+      "doseMinima": "10 mg/día",
+      "classificacao": "Antiviral – inhibidor de neuraminidasa",
+      "apresentacao": "Polvo para inhalación (blísteres de 5 mg)",
+      "interacaoMedicamento": "Precaución con broncodilatadores; espaciar administración",
+      "posologia": "10 mg 2x/día por 5 días; profilaxis: 10 mg/día por hasta 28 días",
+      "armazenamento": "Temperatura ambiente, seco",
+      "preparo": "Usar con Diskhaler",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a proteínas de leche, broncoespasmo grave previo",
+      "cuidadosMedicos": "Evitar en asma/EPOC sin broncodilatador asociado",
+      "cuidadosFarmaceuticos": "Educar sobre técnica de inhalación y broncoespasmo",
+      "cuidadosEnfermagem": "Observar síntomas respiratorios durante y después de la aplicación",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "扎那米韦",
+      "suspension": "如正在吸入使用，手术当天停用",
+      "risk": "可引起支气管痉挛、咳嗽、与吸入麻醉药相互作用、呼吸不稳定",
+      "reintroduction": "术后肺功能稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "扎那米韦",
+      "nomeComercial": "Relenza",
+      "mecanismoAcao": "抑制流感病毒神经氨酸酶，阻止病毒释放",
+      "farmacocinetica": "吸入后吸收率低（<15%），原形经尿排泄",
+      "farmacodinamica": "如早期使用，可减少流感症状持续时间并抑制病毒复制",
+      "indicacoes": "流感A与B的治疗与预防",
+      "reacoesAdversas": "咳嗽、支气管痉挛、头痛、恶心、头晕、过敏反应",
+      "riscoGravidez": "C类 – 权衡利弊后使用",
+      "riscoLactacao": "可能安全，乳汁排泄极少",
+      "administracao": "经Diskhaler吸入",
+      "doseMaxima": "每日20毫克（每日2次，每次2吸）",
+      "doseMinima": "每日10毫克",
+      "classificacao": "抗病毒药 – 神经氨酸酶抑制剂",
+      "apresentacao": "吸入粉末（5毫克泡罩）",
+      "interacaoMedicamento": "与支气管扩张剂同用需间隔给药",
+      "posologia": "治疗：每日2次10毫克×5天；预防：每日10毫克，最长28天",
+      "armazenamento": "常温干燥保存",
+      "preparo": "需配合Diskhaler使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "牛奶蛋白过敏、既往严重支气管痉挛",
+      "cuidadosMedicos": "哮喘/COPD患者需联合支扩剂",
+      "cuidadosFarmaceuticos": "指导吸入技术与不良反应识别",
+      "cuidadosEnfermagem": "观察呼吸状况与药物耐受性",
+      "fontesBibliograficas": "FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

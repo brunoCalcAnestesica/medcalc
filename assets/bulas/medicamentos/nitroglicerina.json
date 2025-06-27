@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nitroglicerina (dinitrato ou trinitrato)",
+      "suspension": "Suspender 4 a 6 horas antes de cirurgia eletiva se em uso oral; manter infusão IV em contextos de emergência com monitorização rigorosa",
+      "risk": "Risco de hipotensão significativa, taquicardia reflexa, cefaleia e interações com anestésicos e vasodilatadores; tolerância com uso contínuo",
+      "reintroduction": "Reintroduzir conforme status hemodinâmico e via de administração; infusão IV pode ser mantida intraoperatório se indicado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nitroglicerina",
+      "nomeComercial": "Tridil, Nitronal, Nitral, Isordil (dinitrato)",
+      "mecanismoAcao": "Doa óxido nítrico (NO) que ativa a guanilato ciclase, aumentando GMPc intracelular e promovendo relaxamento do músculo liso vascular",
+      "farmacocinetica": "Via IV: início em 1–2 min; oral/sublingual: 1–3 min; curta meia-vida (~1–4 min IV); metabolização hepática rápida; excreção renal",
+      "farmacodinamica": "Vasodilatador potente de veias (pré-carga) e artérias em altas doses (pós-carga); reduz consumo miocárdico de O₂",
+      "indicacoes": "Angina, infarto agudo do miocárdio, ICC descompensada, controle de PA intraoperatória, edema agudo de pulmão",
+      "reacoesAdversas": "Hipotensão, taquicardia reflexa, cefaleia, rubor, náuseas, metemoglobinemia rara",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Dados limitados; usar com cautela",
+      "administracao": "IV contínuo, sublingual, spray oral, transdérmico, comprimido retard",
+      "doseMaxima": "200 mcg/min (IV); sublingual: 3 comprimidos de 0,3–0,6 mg em 15 min",
+      "doseMinima": "5 mcg/min IV",
+      "classificacao": "Vasodilatador, nitrato orgânico",
+      "apresentacao": "Ampolas 50 mg/10 mL, spray sublingual 0,4 mg/jato, comprimidos 0,3/0,5/0,6 mg",
+      "interacaoMedicamento": "Contraindicado com inibidores de PDE5 (sildenafil, tadalafil); interage com betabloqueadores, álcool, anti-hipertensivos",
+      "posologia": "IV: iniciar com 5 mcg/min e ajustar conforme PA; sublingual: 0,3–0,6 mg cada 5 min até alívio (máx. 3 doses)",
+      "armazenamento": "Frascos IV: proteger da luz; comprimidos: frascos opacos, bem fechados",
+      "preparo": "Diluir em SG 5% ou SF 0,9%; usar equipo não PVC para IV",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Hipotensão grave, choque, tamponamento, uso recente de PDE5, hipertensão intracraniana",
+      "cuidadosMedicos": "Monitorar PA, FC e sinais de isquemia; evitar uso prolongado contínuo para prevenir tolerância",
+      "cuidadosFarmaceuticos": "Atentar à estabilidade da solução e material do equipo IV; controlar armazenamento",
+      "cuidadosEnfermagem": "Avaliar resposta hemodinâmica, dor torácica, cefaleia e PA frequente",
+      "fontesBibliograficas": "Micromedex, UpToDate, ANVISA, FDA, Tridil bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nitroglycerin (organic nitrate)",
+      "suspension": "Discontinue oral dose 4–6 hours before elective surgery; IV infusion may be continued intraoperatively if indicated",
+      "risk": "Risk of significant hypotension, reflex tachycardia, headache, and interaction with anesthetics and vasodilators; tolerance develops with continuous use",
+      "reintroduction": "Reintroduce based on hemodynamic status and route; IV may be continued or resumed immediately post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nitroglycerin",
+      "nomeComercial": "Tridil, Nitrostat, Nitronal, Nitro-Dur",
+      "mecanismoAcao": "Donates nitric oxide (NO), activating guanylate cyclase, increasing cGMP, and causing vascular smooth muscle relaxation",
+      "farmacocinetica": "IV onset: 1–2 min; SL/oral: 1–3 min; short half-life (~1–4 min IV); hepatic metabolism; renal excretion",
+      "farmacodinamica": "Potent venodilator (preload) and arteriolar dilator at higher doses (afterload); reduces myocardial O₂ demand",
+      "indicacoes": "Angina, acute MI, hypertensive emergency, acute heart failure, perioperative BP control, pulmonary edema",
+      "reacoesAdversas": "Hypotension, reflex tachycardia, headache, flushing, nausea, rare methemoglobinemia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Limited data; use with caution",
+      "administracao": "IV infusion, sublingual, oral spray, transdermal, extended-release oral",
+      "doseMaxima": "200 mcg/min IV; SL: 3 tablets (0.3–0.6 mg) in 15 min",
+      "doseMinima": "5 mcg/min IV",
+      "classificacao": "Organic nitrate vasodilator",
+      "apresentacao": "Ampoules 50 mg/10 mL, SL spray 0.4 mg/spray, tablets 0.3/0.5/0.6 mg",
+      "interacaoMedicamento": "Contraindicated with PDE5 inhibitors; interacts with beta-blockers, alcohol, antihypertensives",
+      "posologia": "IV: start 5 mcg/min and titrate; SL: 0.3–0.6 mg every 5 min up to 3 doses",
+      "armazenamento": "Protect IV from light; store tablets in tightly closed opaque containers",
+      "preparo": "Dilute in D5W or NS; use non-PVC tubing for IV",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Severe hypotension, shock, tamponade, PDE5 use, increased ICP",
+      "cuidadosMedicos": "Monitor BP, HR, ischemia; avoid prolonged continuous use to prevent tolerance",
+      "cuidadosFarmaceuticos": "Ensure solution stability, use appropriate IV materials, storage compliance",
+      "cuidadosEnfermagem": "Monitor BP, HR, chest pain, headache response",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Tridil PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nitroglicerina (nitrato orgánico)",
+      "suspension": "Suspender dosis oral 4–6 horas antes de cirugía; la infusión IV puede mantenerse si está indicada",
+      "risk": "Riesgo de hipotensión, taquicardia refleja, cefalea e interacción con anestésicos y vasodilatadores; desarrolla tolerancia con uso continuo",
+      "reintroduction": "Reintroducir según estado hemodinámico y vía de administración; IV puede continuarse intraoperatoriamente"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nitroglicerina",
+      "nomeComercial": "Tridil, Nitronal, Nitrostat",
+      "mecanismoAcao": "Libera óxido nítrico (NO) que activa la guanilato ciclasa, incrementando GMPc y produciendo relajación del músculo liso vascular",
+      "farmacocinetica": "IV inicio: 1–2 min; SL/oral: 1–3 min; vida media corta (~1–4 min IV); metabolismo hepático; excreción renal",
+      "farmacodinamica": "Vasodilatador venoso (precarga) y arterial en altas dosis (poscarga); reduce consumo de oxígeno miocárdico",
+      "indicacoes": "Angina, IAM, emergencia hipertensiva, IC aguda, control perioperatorio de PA, edema agudo de pulmón",
+      "reacoesAdversas": "Hipotensión, taquicardia refleja, cefalea, rubor, náuseas, metahemoglobinemia rara",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Datos limitados; usar con precaución",
+      "administracao": "Infusión IV, sublingual, spray, parches, oral de liberación prolongada",
+      "doseMaxima": "200 mcg/min IV; SL: 3 comprimidos (0.3–0.6 mg) en 15 min",
+      "doseMinima": "5 mcg/min IV",
+      "classificacao": "Vasodilatador, nitrato orgánico",
+      "apresentacao": "Ampollas 50 mg/10 mL, spray SL 0.4 mg/pulsación, comprimidos 0.3/0.5/0.6 mg",
+      "interacaoMedicamento": "Contraindicado con inhibidores PDE5; interactúa con betabloqueantes, alcohol, antihipertensivos",
+      "posologia": "IV: iniciar con 5 mcg/min y titular; SL: 0.3–0.6 mg cada 5 min hasta 3 dosis",
+      "armazenamento": "Proteger ampolletas de la luz; comprimidos en frascos opacos y bien cerrados",
+      "preparo": "Diluir en glucosa 5% o NaCl 0.9%; usar equipo no PVC para IV",
+      "solucoesCompatíveis": "Glucosa 5%, NaCl 0.9%",
+      "contraindicacoes": "Hipotensión grave, shock, taponamiento, uso de PDE5, hipertensión intracraneal",
+      "cuidadosMedicos": "Monitorizar PA, FC e isquemia; evitar uso continuo prolongado",
+      "cuidadosFarmaceuticos": "Revisar estabilidad de la solución, equipo correcto y almacenamiento",
+      "cuidadosEnfermagem": "Controlar PA, dolor torácico, cefalea, respuesta clínica",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Tridil"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硝酸甘油（有机硝酸酯）",
+      "suspension": "择期手术前4–6小时停用口服剂型；IV输注术中可持续应用",
+      "risk": "可致严重低血压、反射性心动过速、头痛，与麻醉药和血管扩张剂有交互作用；持续使用可致耐药",
+      "reintroduction": "术后依据血流动力学恢复使用；IV可维持或及时恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硝酸甘油",
+      "nomeComercial": "Tridil、Nitronal、Nitrostat",
+      "mecanismoAcao": "释放一氧化氮(NO)，激活鸟苷酸环化酶，升高cGMP，松弛血管平滑肌",
+      "farmacocinetica": "IV起效1–2分钟，舌下/口服1–3分钟，半衰期1–4分钟，经肝代谢，肾排泄",
+      "farmacodinamica": "强效静脉扩张剂（降低前负荷）；高剂量扩张动脉（降低后负荷）；降低心肌耗氧",
+      "indicacoes": "心绞痛、心肌梗死、高血压急症、急性心衰、术中血压控制、肺水肿",
+      "reacoesAdversas": "低血压、反射性心动过速、头痛、面红、恶心、罕见高铁血红蛋白症",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "数据不足，慎用",
+      "administracao": "静滴、舌下含服、喷雾、贴片、缓释片",
+      "doseMaxima": "200 mcg/分钟（IV）；舌下0.3–0.6 mg，每5分钟1次，最多3次",
+      "doseMinima": "5 mcg/分钟 IV",
+      "classificacao": "有机硝酸酯类血管扩张药",
+      "apresentacao": "注射液50 mg/10 mL、喷雾0.4 mg/次、片剂0.3/0.5/0.6 mg",
+      "interacaoMedicamento": "禁与PDE5抑制剂同用；与β阻滞剂、酒精、降压药联用增强低血压风险",
+      "posologia": "IV起始5 mcg/min，根据血压调节；舌下0.3–0.6 mg，每5分钟1片，最多3片",
+      "armazenamento": "IV避光储存，片剂密闭避光",
+      "preparo": "用5%葡萄糖或0.9%氯化钠稀释，IV用非PVC管道输注",
+      "solucoesCompatíveis": "5%葡萄糖、0.9%氯化钠",
+      "contraindicacoes": "重度低血压、休克、心包填塞、近期使用PDE5抑制剂、颅内高压",
+      "cuidadosMedicos": "监测血压、心率及心肌缺血症状，避免持续应用",
+      "cuidadosFarmaceuticos": "注意稀释、避光及使用非PVC输液器",
+      "cuidadosEnfermagem": "频繁监测血压、胸痛、头痛反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Tridil说明书"
+    }
+  }
+}

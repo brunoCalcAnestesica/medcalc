@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lapatinibe",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva se risco hepático ou cardíaco presente",
+      "risk": "Risco de hepatotoxicidade, disfunção cardíaca (diminuição de fração de ejeção), diarreia grave",
+      "reintroduction": "Reintroduzir após estabilização clínica e liberação oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lapatinibe",
+      "nomeComercial": "Tykerb",
+      "mecanismoAcao": "Inibidor da tirosina quinase dos receptores HER2/neu e EGFR",
+      "farmacocinetica": "Biodisponibilidade oral variável; metabolismo hepático (CYP3A4); meia-vida ~24h",
+      "farmacodinamica": "Bloqueia proliferação de células tumorais HER2+ e EGFR+",
+      "indicacoes": "Câncer de mama metastático HER2+, em combinação com capecitabina ou letrozol",
+      "reacoesAdversas": "Diarreia, náusea, vômito, fadiga, toxicidade hepática, erupção cutânea, disfunção ventricular",
+      "riscoGravidez": "Categoria D – contraindicado",
+      "riscoLactacao": "Contraindicado; potencial tóxico ao lactente",
+      "administracao": "Oral (jejum: 1h antes ou 1h após refeições)",
+      "doseMaxima": "1.250mg/dia (monoterapia); 1.500mg/dia (com letrozol)",
+      "doseMinima": "750mg/dia (ajustes por toxicidade)",
+      "classificacao": "Inibidor de tirosina quinase duplo (HER2/EGFR)",
+      "apresentacao": "Comprimidos de 250mg",
+      "interacaoMedicamento": "Evitar com inibidores/indutores de CYP3A4, anticoagulantes e bloqueadores cardíacos",
+      "posologia": "1.250mg/dia em dose única (5 cp de 250mg), com capecitabina; 1.500mg/dia com letrozol",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Tomar com água, jejum mínimo de 1h",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas, fração de ejeção e sinais de toxicidade GI",
+      "cuidadosFarmaceuticos": "Orientar adesão, interações medicamentosas e toxicidade hepática",
+      "cuidadosEnfermagem": "Observar sintomas GI e sinais de intolerância cardíaca",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lapatinib",
+      "suspension": "Discontinue 7 days before elective surgery if hepatic or cardiac risk is present",
+      "risk": "Risk of hepatotoxicity, cardiac dysfunction (LVEF reduction), severe diarrhea",
+      "reintroduction": "Restart after clinical stabilization and oncology clearance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lapatinib",
+      "nomeComercial": "Tykerb",
+      "mecanismoAcao": "Dual tyrosine kinase inhibitor of HER2/neu and EGFR",
+      "farmacocinetica": "Oral bioavailability variable; metabolized by CYP3A4; half-life ~24h",
+      "farmacodinamica": "Inhibits proliferation of HER2+ and EGFR+ tumor cells",
+      "indicacoes": "HER2+ metastatic breast cancer with capecitabine or letrozole",
+      "reacoesAdversas": "Diarrhea, nausea, vomiting, fatigue, liver toxicity, rash, ventricular dysfunction",
+      "riscoGravidez": "Category D – contraindicated",
+      "riscoLactacao": "Contraindicated; potential toxicity to infants",
+      "administracao": "Oral (1h before or after food)",
+      "doseMaxima": "1,250mg/day (monotherapy); 1,500mg/day (with letrozole)",
+      "doseMinima": "750mg/day (if adjusted for toxicity)",
+      "classificacao": "Dual HER2/EGFR tyrosine kinase inhibitor",
+      "apresentacao": "250mg tablets",
+      "interacaoMedicamento": "Avoid with CYP3A4 inhibitors/inducers, anticoagulants, cardiac depressants",
+      "posologia": "1,250mg/day (with capecitabine); 1,500mg/day (with letrozole)",
+      "armazenamento": "Room temperature, protect from light and moisture",
+      "preparo": "Take with water on an empty stomach",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, lactation, severe hepatic impairment",
+      "cuidadosMedicos": "Monitor liver enzymes, LVEF, GI symptoms",
+      "cuidadosFarmaceuticos": "Counsel on adherence, drug interactions, liver toxicity",
+      "cuidadosEnfermagem": "Watch for GI distress and signs of cardiac intolerance",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lapatinib",
+      "suspension": "Suspender 7 días antes de cirugía si hay riesgo hepático o cardíaco",
+      "risk": "Riesgo de hepatotoxicidad, disfunción cardíaca (reducción de FEVI), diarrea severa",
+      "reintroduction": "Reiniciar tras estabilización clínica y control oncológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lapatinib",
+      "nomeComercial": "Tykerb",
+      "mecanismoAcao": "Inhibidor dual de tirosina quinasa HER2/neu y EGFR",
+      "farmacocinetica": "Biodisponibilidad oral variable; metabolismo hepático (CYP3A4); vida media ~24h",
+      "farmacodinamica": "Bloquea proliferación de células tumorales HER2+ y EGFR+",
+      "indicacoes": "Cáncer de mama metastásico HER2+ con capecitabina o letrozol",
+      "reacoesAdversas": "Diarrea, náuseas, vómitos, fatiga, hepatotoxicidad, erupción, disfunción cardíaca",
+      "riscoGravidez": "Categoría D – contraindicado",
+      "riscoLactacao": "Contraindicado; posible toxicidad para el lactante",
+      "administracao": "Oral (1h antes o después de alimentos)",
+      "doseMaxima": "1.250mg/día (monoterapia); 1.500mg/día (con letrozol)",
+      "doseMinima": "750mg/día (ajuste por toxicidad)",
+      "classificacao": "Inhibidor dual de HER2/EGFR",
+      "apresentacao": "Comprimidos de 250mg",
+      "interacaoMedicamento": "Evitar con inductores/inhibidores de CYP3A4, anticoagulantes, depresores cardíacos",
+      "posologia": "1.250mg/día (con capecitabina); 1.500mg/día (con letrozol)",
+      "armazenamento": "Ambiente seco y fresco, protegido de la luz",
+      "preparo": "Tomar con agua en ayunas",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, insuficiencia hepática grave",
+      "cuidadosMedicos": "Controlar enzimas hepáticas, FEVI y síntomas GI",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia y toxicidad hepática",
+      "cuidadosEnfermagem": "Vigilar efectos gastrointestinales y signos de disfunción cardíaca",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "拉帕替尼",
+      "suspension": "术前7天停药，若存在肝毒性或心脏风险",
+      "risk": "可能引发肝损伤、左心室射血分数下降、严重腹泻",
+      "reintroduction": "术后稳定后经肿瘤科医生允许可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "拉帕替尼",
+      "nomeComercial": "泰克布（Tykerb）",
+      "mecanismoAcao": "HER2/EGFR酪氨酸激酶双重抑制剂",
+      "farmacocinetica": "口服，生物利用度变化大；CYP3A4代谢；半衰期约24小时",
+      "farmacodinamica": "阻断HER2+及EGFR+肿瘤细胞的增殖",
+      "indicacoes": "HER2阳性转移性乳腺癌，联合卡培他滨或来曲唑",
+      "reacoesAdversas": "腹泻、恶心、呕吐、乏力、肝毒性、皮疹、心功能障碍",
+      "riscoGravidez": "D类 – 禁用于妊娠期",
+      "riscoLactacao": "禁用；可能对婴儿有毒性",
+      "administracao": "口服（空腹，餐前或餐后1小时）",
+      "doseMaxima": "每日1,250mg（与卡培他滨）；1,500mg（与来曲唑）",
+      "doseMinima": "每日750mg（因毒性调整）",
+      "classificacao": "HER2/EGFR双靶点激酶抑制剂",
+      "apresentacao": "250mg片剂",
+      "interacaoMedicamento": "避免与CYP3A4强抑制剂/诱导剂、抗凝剂、心脏抑制药物同用",
+      "posologia": "每日一次1250–1500mg，依方案联合药物而定",
+      "armazenamento": "常温避光保存",
+      "preparo": "用水送服，空腹服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳、严重肝功能不全",
+      "cuidadosMedicos": "监测肝酶、心脏射血分数及胃肠道毒性",
+      "cuidadosFarmaceuticos": "指导服药依从性及药物相互作用",
+      "cuidadosEnfermagem": "观察腹泻等GI反应和心衰表现",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

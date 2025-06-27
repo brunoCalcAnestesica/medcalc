@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vinblastina",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva",
+      "risk": "Risco de mielossupressão, neurotoxicidade leve e interação com anestesia",
+      "reintroduction": "Reintroduzir após recuperação hematológica e avaliação oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vinblastina",
+      "nomeComercial": "Velban",
+      "mecanismoAcao": "Inibe a polimerização da tubulina, bloqueando a mitose na metáfase",
+      "farmacocinetica": "IV, meia-vida ~25 h, metabolização hepática (CYP3A4), excreção biliar",
+      "farmacodinamica": "Citotóxico específico da fase M do ciclo celular",
+      "indicacoes": "Linfoma de Hodgkin, linfoma não Hodgkin, câncer testicular, coriocarcinoma",
+      "reacoesAdversas": "Leucopenia, náuseas, alopecia, neuropatia leve, flebite",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Somente intravenosa",
+      "doseMaxima": "10 mg/m² por dose",
+      "doseMinima": "6 mg/m²",
+      "classificacao": "Antineoplásico (alcaloide da vinca)",
+      "apresentacao": "Ampolas de 10 mg/10 mL",
+      "interacaoMedicamento": "Interação com inibidores CYP3A4, antifúngicos, outros mielossupressores",
+      "posologia": "6–10 mg/m² IV a cada 7 dias",
+      "armazenamento": "Refrigerado (2–8°C), proteger da luz",
+      "preparo": "Diluir em SF 0,9%; infusão lenta IV; uso exclusivo IV (NÃO intratecal)",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Administração intratecal, gravidez, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar leucócitos, sinais neurológicos e hepáticos",
+      "cuidadosFarmaceuticos": "Etiqueta obrigatória: USO EXCLUSIVO IV",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade medular e extravasamento",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, INCA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vinblastine",
+      "suspension": "Hold 7 days before elective surgery",
+      "risk": "Risk of myelosuppression, mild neurotoxicity and anesthesia interaction",
+      "reintroduction": "Restart after hematologic recovery and oncology evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vinblastine",
+      "nomeComercial": "Velban",
+      "mecanismoAcao": "Inhibits tubulin polymerization, halting mitosis at metaphase",
+      "farmacocinetica": "IV, half-life ~25 h, hepatic metabolism (CYP3A4), biliary excretion",
+      "farmacodinamica": "Cytotoxic, M phase–specific",
+      "indicacoes": "Hodgkin lymphoma, NHL, testicular cancer, choriocarcinoma",
+      "reacoesAdversas": "Leukopenia, nausea, alopecia, mild neuropathy, phlebitis",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "IV only",
+      "doseMaxima": "10 mg/m² per dose",
+      "doseMinima": "6 mg/m²",
+      "classificacao": "Vinca alkaloid antineoplastic",
+      "apresentacao": "10 mg/10 mL vials",
+      "interacaoMedicamento": "Interacts with CYP3A4 inhibitors, antifungals, marrow suppressants",
+      "posologia": "6–10 mg/m² IV weekly",
+      "armazenamento": "Refrigerate (36–46°F), protect from light",
+      "preparo": "Dilute in NS; slow IV infusion; IV use only (NEVER intrathecal)",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Intrathecal administration, pregnancy, hypersensitivity",
+      "cuidadosMedicos": "Monitor WBCs, neuro and liver function",
+      "cuidadosFarmaceuticos": "Mandatory IV ONLY label",
+      "cuidadosEnfermagem": "Watch for marrow suppression, extravasation signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, NCI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vinblastina",
+      "suspension": "Suspender 7 días antes de la cirugía electiva",
+      "risk": "Riesgo de mielosupresión, neurotoxicidad leve e interacción anestésica",
+      "reintroduction": "Reintroducir después de recuperación hematológica y evaluación oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vinblastina",
+      "nomeComercial": "Velban",
+      "mecanismoAcao": "Inhibe la polimerización de tubulina bloqueando la mitosis en metafase",
+      "farmacocinetica": "Administración IV, vida media ~25 h, metabolismo hepático (CYP3A4), excreción biliar",
+      "farmacodinamica": "Citotóxico, específico de fase M del ciclo celular",
+      "indicacoes": "Linfoma de Hodgkin, linfoma no Hodgkin, cáncer testicular, coriocarcinoma",
+      "reacoesAdversas": "Leucopenia, náuseas, alopecia, neuropatía, flebitis, supresión de médula ósea",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Solo intravenosa",
+      "doseMaxima": "10 mg/m² por dosis",
+      "doseMinima": "6 mg/m²",
+      "classificacao": "Antineoplásico alcaloide de la vinca",
+      "apresentacao": "Viales de 10 mg/10 mL",
+      "interacaoMedicamento": "Interacción con antifúngicos, inhibidores de CYP3A4, otros citotóxicos",
+      "posologia": "6–10 mg/m² IV cada semana",
+      "armazenamento": "Refrigerar (2–8°C), proteger de la luz",
+      "preparo": "Diluir en SF 0,9%, administrar vía IV lenta, uso exclusivo IV",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Administración intratecal, embarazo, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear leucocitos, función hepática, estado neurológico",
+      "cuidadosFarmaceuticos": "Etiqueta de seguridad: solo IV",
+      "cuidadosEnfermagem": "Observar extravasación, reflejos, estreñimiento, parestesias",
+      "fontesBibliograficas": "AEMPS, Micromedex, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "长春碱",
+      "suspension": "择期手术前7天停药",
+      "risk": "有骨髓抑制和轻度神经毒性风险，可与麻醉药相互作用",
+      "reintroduction": "术后血象恢复并肿瘤科评估后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "长春碱",
+      "nomeComercial": "Velban",
+      "mecanismoAcao": "抑制微管聚合，使细胞阻滞于有丝分裂中期",
+      "farmacocinetica": "静脉注射，半衰期约25小时，肝脏代谢（CYP3A4），胆汁排泄",
+      "farmacodinamica": "细胞周期M期特异性抗肿瘤药物",
+      "indicacoes": "霍奇金淋巴瘤、非霍奇金淋巴瘤、睾丸癌、绒癌",
+      "reacoesAdversas": "白细胞减少、恶心、脱发、轻度神经病变、静脉炎",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用",
+      "administracao": "仅静脉注射",
+      "doseMaxima": "每次不超过10 mg/m²",
+      "doseMinima": "6 mg/m²",
+      "classificacao": "抗肿瘤生物碱（长春类）",
+      "apresentacao": "注射液10 mg/10 mL",
+      "interacaoMedicamento": "与CYP3A4抑制剂、抗真菌药、其他骨髓抑制药联用增加毒性",
+      "posologia": "每周静脉注射6–10 mg/m²",
+      "armazenamento": "2–8°C冷藏，避光保存",
+      "preparo": "用0.9%氯化钠稀释，静脉缓慢滴注，仅限IV",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "禁忌鞘内注射、妊娠、过敏史",
+      "cuidadosMedicos": "监测血象、肝功能和神经症状",
+      "cuidadosFarmaceuticos": "必须标注“仅限静脉注射”，避免外渗",
+      "cuidadosEnfermagem": "观察反射、排便情况、感觉异常、注射部位反应",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA、UpToDate"
+    }
+  }
+}

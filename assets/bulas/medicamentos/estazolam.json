@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Estazolam",
+      "suspension": "Suspender 3 dias antes de cirurgias com anestesia geral ou sedação profunda",
+      "risk": "Risco de sedação prolongada, depressão respiratória, interação com opioides e anestésicos",
+      "reintroduction": "Reintroduzir após recuperação respiratória e neurológica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Estazolam",
+      "nomeComercial": "Noctal, Eurostil",
+      "mecanismoAcao": "Ligação aos receptores GABA-A, potencializando o efeito inibitório do GABA no SNC",
+      "farmacocinetica": "Absorção oral rápida, Tmáx 1–2 h, meia-vida de 10–24 h, metabolização hepática via CYP3A4",
+      "farmacodinamica": "Efeito hipnótico, ansiolítico, miorrelaxante e anticonvulsivante moderado",
+      "indicacoes": "Insônia de início e manutenção; tratamento sintomático da ansiedade em curto prazo",
+      "reacoesAdversas": "Sonolência, tontura, amnésia, coordenação prejudicada, dependência, confusão",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Contraindicado – excretado no leite",
+      "administracao": "Oral, 30 minutos antes de dormir",
+      "doseMaxima": "2 mg/dia",
+      "doseMinima": "0,5 mg/dia",
+      "classificacao": "Benzodiazepínico hipnótico de ação intermediária",
+      "apresentacao": "Comprimidos 1 mg, 2 mg",
+      "interacaoMedicamento": "Potencializa opioides, álcool, outros depressores do SNC; inibido por antifúngicos azólicos e macrolídeos",
+      "posologia": "1–2 mg/dia ao deitar, por tempo limitado (≤4 semanas)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não se aplica",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Apneia do sono, miastenia grave, insuficiência respiratória grave, gravidez",
+      "cuidadosMedicos": "Avaliar risco de tolerância, dependência, quedas em idosos",
+      "cuidadosFarmaceuticos": "Orientar uso noturno e evitar interrupção abrupta",
+      "cuidadosEnfermagem": "Observar sinais de sedação excessiva, confusão e risco de quedas",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Estazolam",
+      "suspension": "Discontinue 3 days before surgeries requiring general anesthesia",
+      "risk": "CNS depression, respiratory suppression, prolonged sedation, interaction with opioids and anesthetics",
+      "reintroduction": "Restart only after full neurologic and respiratory recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Estazolam",
+      "nomeComercial": "ProSom (discontinued in some markets)",
+      "mecanismoAcao": "Enhances GABA-A receptor activity, increasing inhibitory neurotransmission in the CNS",
+      "farmacocinetica": "Oral absorption, Tmax ~2 h, t½ 10–24 h, hepatic metabolism via CYP3A4",
+      "farmacodinamica": "Hypnotic, anxiolytic, anticonvulsant, muscle relaxant",
+      "indicacoes": "Short-term treatment of insomnia; off-label for anxiety",
+      "reacoesAdversas": "Drowsiness, dizziness, anterograde amnesia, impaired coordination, dependence",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Avoid during breastfeeding",
+      "administracao": "Oral, once at bedtime",
+      "doseMaxima": "2 mg/day",
+      "doseMinima": "0.5 mg/day",
+      "classificacao": "Intermediate-acting benzodiazepine hypnotic",
+      "apresentacao": "Tablets: 1 mg, 2 mg",
+      "interacaoMedicamento": "Interacts with CNS depressants, alcohol, azole antifungals, CYP3A4 inhibitors",
+      "posologia": "1–2 mg qHS; use for ≤4 weeks",
+      "armazenamento": "Store at room temperature",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Sleep apnea, severe respiratory insufficiency, pregnancy, myasthenia gravis",
+      "cuidadosMedicos": "Assess fall risk, respiratory function, signs of dependency",
+      "cuidadosFarmaceuticos": "Ensure nighttime-only use and counsel on tapering",
+      "cuidadosEnfermagem": "Observe sedation, mental status, and fall prevention",
+      "fontesBibliograficas": "FDA, Micromedex, Lexicomp, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Estazolam",
+      "suspension": "Suspender 3 días antes de cirugía con anestesia general",
+      "risk": "Sedación prolongada, depresión respiratoria, interacción con opioides y anestésicos",
+      "reintroduction": "Reintroducir tras recuperación neurológica completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Estazolam",
+      "nomeComercial": "ProSom",
+      "mecanismoAcao": "Modulador del receptor GABA-A; aumenta la inhibición neuronal",
+      "farmacocinetica": "Absorción oral, Tmax 1–2 h, vida media 10–24 h",
+      "farmacodinamica": "Hipnótico y ansiolítico de acción intermedia",
+      "indicacoes": "Insomnio ocasional; ansiedad de corta duración",
+      "reacoesAdversas": "Somnolencia, vértigo, amnesia, dependencia, debilidad",
+      "riscoGravidez": "Categoría X",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral, antes de dormir",
+      "doseMaxima": "2 mg/día",
+      "doseMinima": "0,5 mg/día",
+      "classificacao": "Benzodiacepina hipnótica",
+      "apresentacao": "Comprimidos 1 mg, 2 mg",
+      "interacaoMedicamento": "Depresores del SNC, alcohol, antifúngicos azólicos",
+      "posologia": "1–2 mg por la noche durante <4 semanas",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Apnea del sueño, embarazo, enfermedad pulmonar grave",
+      "cuidadosMedicos": "Evaluar riesgo de caídas, dependencia y tolerancia",
+      "cuidadosFarmaceuticos": "Evitar uso prolongado, informar sobre suspensión gradual",
+      "cuidadosEnfermagem": "Vigilar sedación, alertar ante confusión o caídas",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "艾司唑仑",
+      "suspension": "术前3天停药，尤其全麻或联合镇静剂使用者",
+      "risk": "呼吸抑制、过度镇静、跌倒风险、与阿片类协同中枢抑制",
+      "reintroduction": "术后呼吸与意识恢复后方可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "艾司唑仑",
+      "nomeComercial": "诺泰宁（商品名）",
+      "mecanismoAcao": "增强GABA-A受体活性，增加中枢抑制",
+      "farmacocinetica": "口服吸收快，Tmax 1–2小时，半衰期10–24小时，肝脏代谢（CYP3A4）",
+      "farmacodinamica": "具镇静、催眠、抗焦虑、肌松作用",
+      "indicacoes": "短期治疗失眠、焦虑",
+      "reacoesAdversas": "困倦、眩晕、遗忘、依赖、运动协调障碍",
+      "riscoGravidez": "X类 – 禁用",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "睡前口服",
+      "doseMaxima": "每日2毫克",
+      "doseMinima": "每日0.5毫克",
+      "classificacao": "苯二氮䓬类中效催眠药",
+      "apresentacao": "片剂 1 mg、2 mg",
+      "interacaoMedicamento": "与酒精、阿片类、CYP3A4抑制剂联用有风险",
+      "posologia": "1–2 mg/天，使用不超过4周",
+      "armazenamento": "干燥避光室温保存",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "睡眠呼吸暂停、妊娠、重度呼吸衰竭",
+      "cuidadosMedicos": "评估滥用潜力与跌倒风险",
+      "cuidadosFarmaceuticos": "建议晚间服用，避免突然停药",
+      "cuidadosEnfermagem": "监测神志、跌倒与呼吸变化",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

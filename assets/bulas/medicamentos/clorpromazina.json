@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clorpromazina",
+      "suspension": "Suspender 3 dias antes da cirurgia eletiva",
+      "risk": "Risco de hipotensão grave, depressão respiratória, arritmias e interação com anestésicos",
+      "reintroduction": "Reintroduzir após recuperação completa hemodinâmica e avaliação psiquiátrica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorpromazina",
+      "nomeComercial": "Amplictil",
+      "mecanismoAcao": "Antagonista dopaminérgico D2, com ação sobre receptores muscarínicos, histamínicos e adrenérgicos",
+      "farmacocinetica": "Biodisponibilidade oral ~25%; meia-vida ~30 h; metabolização hepática",
+      "farmacodinamica": "Reduz atividade dopaminérgica em vias mesolímbicas e nigroestriatais",
+      "indicacoes": "Esquizofrenia, mania aguda, agitação psicomotora, náuseas e vômitos, delirium, hipoatividade",
+      "reacoesAdversas": "Sedação, hipotensão ortostática, discinesias, síndrome neuroléptica maligna, retenção urinária, constipação",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar uso prolongado; pode causar sedação no lactente",
+      "administracao": "Oral, intramuscular ou intravenosa",
+      "doseMaxima": "800 mg/dia (oral); 150 mg/dia (IM/IV)",
+      "doseMinima": "25 mg/dia",
+      "classificacao": "Antipsicótico típico – fenotiazina de baixa potência",
+      "apresentacao": "Comprimidos 25/100 mg; solução injetável 25 mg/mL",
+      "interacaoMedicamento": "Potencializa anestésicos, opioides, benzodiazepínicos e anti-hipertensivos; interage com levodopa",
+      "posologia": "Oral: 100–600 mg/dia em 2–3 doses; IM: 25–50 mg 2–3x/dia; IV sob monitorização",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "IV diluído em SF 0,9%, administrar lentamente com monitorização",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Glaucoma de ângulo fechado, depressão grave do SNC, feocromocitoma",
+      "cuidadosMedicos": "Monitorar PA, ECG, sedação, risco de SNM e função hepática",
+      "cuidadosFarmaceuticos": "Orientar sobre riscos de sedação e uso conjunto com álcool ou sedativos",
+      "cuidadosEnfermagem": "Observar hipotensão, distonia, alteração do nível de consciência",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, UpToDate, Maudsley"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Chlorpromazine",
+      "suspension": "Discontinue 3 days before elective surgery",
+      "risk": "Risk of hypotension, respiratory depression, arrhythmia, interaction with anesthesia",
+      "reintroduction": "Restart once hemodynamically stable and psychiatric assessment completed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Chlorpromazine",
+      "nomeComercial": "Thorazine",
+      "mecanismoAcao": "D2 receptor antagonist with antimuscarinic, antihistaminic and antiadrenergic properties",
+      "farmacocinetica": "Oral bioavailability ~25%; half-life ~30 h; hepatic metabolism",
+      "farmacodinamica": "Dopaminergic blockade in mesolimbic and nigrostriatal pathways",
+      "indicacoes": "Schizophrenia, acute mania, agitation, nausea, delirium, hiccups",
+      "reacoesAdversas": "Sedation, orthostatic hypotension, EPS, NMS, constipation, urinary retention",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Caution; sedation in infant possible",
+      "administracao": "Oral, IM, IV",
+      "doseMaxima": "800 mg/day PO; 150 mg/day IM/IV",
+      "doseMinima": "25 mg/day",
+      "classificacao": "Typical antipsychotic – low potency phenothiazine",
+      "apresentacao": "Tablets 25/100 mg; injectable 25 mg/mL",
+      "interacaoMedicamento": "Potentiates CNS depressants, opioids, anesthetics; interacts with levodopa",
+      "posologia": "PO: 100–600 mg/day divided; IM: 25–50 mg q8h; IV with monitoring",
+      "armazenamento": "15–30°C",
+      "preparo": "Dilute IV in NS; infuse slowly with cardiac monitoring",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Closed-angle glaucoma, severe CNS depression, pheochromocytoma",
+      "cuidadosMedicos": "Monitor BP, ECG, sedation, liver enzymes, NMS signs",
+      "cuidadosFarmaceuticos": "Educate on sedation risk and drug interactions",
+      "cuidadosEnfermagem": "Observe for hypotension, EPS, consciousness changes",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clorpromazina",
+      "suspension": "Suspender 3 días antes de cirugía electiva",
+      "risk": "Riesgo de hipotensión, depresión respiratoria, arritmias, interacción anestésica",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica y valoración psiquiátrica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorpromazina",
+      "nomeComercial": "Largactil",
+      "mecanismoAcao": "Antagonista D2, con actividad antimuscarínica, antihistamínica y antiadrenérgica",
+      "farmacocinetica": "Biodisponibilidad oral ~25%; vida media ~30 h; metabolismo hepático",
+      "farmacodinamica": "Bloquea dopamina en vías mesolímbica y nigroestriatal",
+      "indicacoes": "Esquizofrenia, manía, agitación, náuseas, hipo persistente",
+      "reacoesAdversas": "Sedación, hipotensión, efectos extrapiramidales, SNM, retención urinaria, estreñimiento",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Precaución",
+      "administracao": "Oral, IM, IV",
+      "doseMaxima": "800 mg/día VO; 150 mg/día IM/IV",
+      "doseMinima": "25 mg/día",
+      "classificacao": "Antipsicótico típico – fenotiazina de baja potencia",
+      "apresentacao": "Comprimidos 25/100 mg; ampollas 25 mg/mL",
+      "interacaoMedicamento": "Potencia anestésicos, opioides, antihipertensivos; interacción con levodopa",
+      "posologia": "VO: 100–600 mg/día; IM: 25–50 mg cada 8h; IV lento y monitorizado",
+      "armazenamento": "15–30°C",
+      "preparo": "Diluir en SF 0,9%; infusión lenta con ECG",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Glaucoma, depresión severa del SNC, feocromocitoma",
+      "cuidadosMedicos": "Monitorizar PA, ECG, sedación, enzimas hepáticas",
+      "cuidadosFarmaceuticos": "Educar sobre sedación, interacciones con alcohol/sedantes",
+      "cuidadosEnfermagem": "Vigilar PA, conciencia, efectos extrapiramidales",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯丙嗪",
+      "suspension": "术前3天停药",
+      "risk": "低血压、呼吸抑制、心律失常、麻醉相互作用",
+      "reintroduction": "术后血流动力学稳定并评估精神状态后恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯丙嗪",
+      "nomeComercial": "氯普噻吨",
+      "mecanismoAcao": "D2受体拮抗剂，兼具抗胆碱、抗组胺、抗α肾上腺素作用",
+      "farmacocinetica": "口服生物利用度~25%；半衰期30小时；肝代谢",
+      "farmacodinamica": "阻断多巴胺通路，抗精神病镇静作用明显",
+      "indicacoes": "精神分裂症、躁狂、激越、呕吐、打嗝、谵妄",
+      "reacoesAdversas": "镇静、体位性低血压、锥体外系反应、尿潴留、便秘、SNM",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "慎用",
+      "administracao": "口服、肌注、静注",
+      "doseMaxima": "口服800 mg/天；肌注/静注150 mg/天",
+      "doseMinima": "25 mg/天",
+      "classificacao": "典型抗精神病药 – 低效能吩噻嗪类",
+      "apresentacao": "片剂25/100 mg；注射液25 mg/mL",
+      "interacaoMedicamento": "增强麻醉剂、镇静药、酒精；与左旋多巴拮抗",
+      "posologia": "口服100–600 mg/d；IM 25–50 mg q8h；IV稀释后慢推",
+      "armazenamento": "15–30°C保存",
+      "preparo": "IV用NS稀释，慢速注射，需心电监护",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "青光眼、重度中枢抑制、嗜铬细胞瘤",
+      "cuidadosMedicos": "监测血压、心电图、镇静程度、肝功能",
+      "cuidadosFarmaceuticos": "告知镇静风险、避免酒精及药物交互",
+      "cuidadosEnfermagem": "警惕低血压、昏睡、锥体外反应",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex"
+    }
+  }
+}

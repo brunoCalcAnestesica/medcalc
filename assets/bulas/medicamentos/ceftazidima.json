@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ceftazidima",
+      "suspension": "Manter até o dia da cirurgia",
+      "risk": "Risco de neurotoxicidade em pacientes com insuficiência renal; ajustar dose. Potencial interação com aminoglicosídeos e diuréticos de alça.",
+      "reintroduction": "Reintroduzir conforme necessidade clínica com ajuste por função renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ceftazidima",
+      "nomeComercial": "Fortaz, Tazicef",
+      "mecanismoAcao": "Inibe a síntese da parede celular bacteriana ao se ligar às PBP",
+      "farmacocinetica": "Administração IV ou IM, meia-vida 1,5–2h, excreção renal",
+      "farmacodinamica": "Bactericida de amplo espectro, com alta eficácia contra bacilos gram-negativos, incluindo Pseudomonas aeruginosa",
+      "indicacoes": "Infecções hospitalares graves, pneumonia, ITU, meningite, infecções intra-abdominais",
+      "reacoesAdversas": "Reações alérgicas, diarreia, colite pseudomembranosa, convulsões",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Excretado em pequenas quantidades; uso geralmente seguro",
+      "administracao": "Via intravenosa ou intramuscular",
+      "doseMaxima": "6g/dia",
+      "doseMinima": "1g/dia",
+      "classificacao": "Antibiótico β-lactâmico, cefalosporina de 3ª geração",
+      "apresentacao": "Frascos-ampola 500mg, 1g, 2g",
+      "interacaoMedicamento": "Aumenta risco de nefrotoxicidade com aminoglicosídeos ou diuréticos potentes",
+      "posologia": "1–2g a cada 8–12h, ajustar por função renal",
+      "armazenamento": "Conservar pó sob refrigeração (2–8°C), solução reconstituída conforme bula",
+      "preparo": "Reconstituir com água estéril ou solução compatível",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a cefalosporinas",
+      "cuidadosMedicos": "Ajustar dose em insuficiência renal, monitorar sinais neurológicos",
+      "cuidadosFarmaceuticos": "Reconstituir corretamente e verificar compatibilidade",
+      "cuidadosEnfermagem": "Observar reações adversas e sinais de infecção",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, SBPC"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ceftazidime",
+      "suspension": "Continue until day of surgery",
+      "risk": "Neurotoxicity risk in renal impairment; dose adjustment needed. Potential nephrotoxicity when combined with aminoglycosides or loop diuretics.",
+      "reintroduction": "Restart based on clinical need with renal-adjusted dosing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ceftazidime",
+      "nomeComercial": "Fortaz, Tazicef",
+      "mecanismoAcao": "Inhibits bacterial cell wall synthesis by binding to PBPs",
+      "farmacocinetica": "IV or IM, half-life 1.5–2h, renal excretion",
+      "farmacodinamica": "Broad-spectrum bactericidal, strong activity against gram-negative bacilli including Pseudomonas",
+      "indicacoes": "Severe hospital-acquired infections, pneumonia, UTIs, meningitis, intra-abdominal infections",
+      "reacoesAdversas": "Allergic reactions, diarrhea, pseudomembranous colitis, seizures",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Excreted in small amounts; generally safe",
+      "administracao": "IV or IM route",
+      "doseMaxima": "6g/day",
+      "doseMinima": "1g/day",
+      "classificacao": "3rd generation cephalosporin β-lactam antibiotic",
+      "apresentacao": "Vials 500mg, 1g, 2g",
+      "interacaoMedicamento": "Risk of nephrotoxicity with aminoglycosides or potent diuretics",
+      "posologia": "1–2g every 8–12h; adjust for renal function",
+      "armazenamento": "Store powder refrigerated (2–8°C); follow reconstitution instructions",
+      "preparo": "Reconstitute with sterile water or compatible solution",
+      "solucoesCompatíveis": "Normal saline, D5W",
+      "contraindicacoes": "Hypersensitivity to cephalosporins",
+      "cuidadosMedicos": "Adjust for renal dysfunction, monitor neurologic status",
+      "cuidadosFarmaceuticos": "Ensure proper reconstitution and solution compatibility",
+      "cuidadosEnfermagem": "Observe for adverse reactions and infection signs",
+      "fontesBibliograficas": "FDA, Micromedex, Sanford Guide"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ceftazidima",
+      "suspension": "Mantener hasta el día de la cirugía",
+      "risk": "Riesgo de neurotoxicidad en insuficiencia renal; ajustar dosis. Riesgo de nefrotoxicidad con aminoglucósidos o diuréticos.",
+      "reintroduction": "Reiniciar según necesidad clínica ajustado por función renal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ceftazidima",
+      "nomeComercial": "Fortaz, Tazicef",
+      "mecanismoAcao": "Inhibe la síntesis de la pared celular bacteriana al unirse a las PBPs",
+      "farmacocinetica": "IV o IM, semivida 1,5–2h, excreción renal",
+      "farmacodinamica": "Bactericida de amplio espectro, activo frente a gramnegativos incluyendo Pseudomonas",
+      "indicacoes": "Infecciones graves nosocomiales, neumonía, ITU, meningitis, infecciones intraabdominales",
+      "reacoesAdversas": "Alergias, diarrea, colitis pseudomembranosa, convulsiones",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Excreción mínima; uso seguro generalmente",
+      "administracao": "Vía intravenosa o intramuscular",
+      "doseMaxima": "6g/día",
+      "doseMinima": "1g/día",
+      "classificacao": "Cefalosporina de 3ª generación",
+      "apresentacao": "Viales 500mg, 1g, 2g",
+      "interacaoMedicamento": "Riesgo de nefrotoxicidad con aminoglucósidos o diuréticos",
+      "posologia": "1–2g cada 8–12h; ajustar por función renal",
+      "armazenamento": "Polvo conservar en refrigeración (2–8°C); seguir instrucciones de reconstitución",
+      "preparo": "Reconstituir con agua estéril o solución compatible",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Alergia a cefalosporinas",
+      "cuidadosMedicos": "Ajustar dosis en insuficiencia renal, controlar estado neurológico",
+      "cuidadosFarmaceuticos": "Reconstituir adecuadamente y verificar compatibilidad",
+      "cuidadosEnfermagem": "Vigilar efectos adversos y signos de infección",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "头孢他啶",
+      "suspension": "术前无需停药，可继续使用",
+      "risk": "肾功能不全患者有神经毒性风险，应调整剂量。与氨基糖苷类或袢利尿剂合用可能增加肾毒性。",
+      "reintroduction": "根据临床需要重新开始使用，并按肾功能调整剂量"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "头孢他啶",
+      "nomeComercial": "Fortaz, Tazicef",
+      "mecanismoAcao": "通过与PBP结合抑制细菌细胞壁合成",
+      "farmacocinetica": "静注或肌注，半衰期1.5–2小时，经肾脏排泄",
+      "farmacodinamica": "广谱杀菌药，对包括铜绿假单胞菌在内的革兰阴性菌高度有效",
+      "indicacoes": "严重感染：肺炎、泌尿感染、脑膜炎、腹腔感染等",
+      "reacoesAdversas": "过敏反应、腹泻、假膜性结肠炎、癫痫发作",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "少量分泌入乳，一般安全",
+      "administracao": "静脉注射或肌肉注射",
+      "doseMaxima": "每日6克",
+      "doseMinima": "每日1克",
+      "classificacao": "第三代头孢菌素类抗生素",
+      "apresentacao": "注射用粉末：500mg、1g、2g",
+      "interacaoMedicamento": "与氨基糖苷类或强效利尿剂合用可能增强肾毒性",
+      "posologia": "每8–12小时给药1–2克，依据肾功能调整剂量",
+      "armazenamento": "粉末应冷藏（2–8°C），按说明重配使用",
+      "preparo": "使用无菌水或兼容溶液溶解",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "对头孢菌素过敏者禁用",
+      "cuidadosMedicos": "监测肾功能与神经系统症状",
+      "cuidadosFarmaceuticos": "确认配制方法和兼容性",
+      "cuidadosEnfermagem": "观察不良反应和感染迹象",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

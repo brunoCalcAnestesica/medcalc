@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Eszopiclona",
+      "suspension": "Suspender 1 dia antes da cirurgia",
+      "risk": "Risco de sedação residual, depressão respiratória e potencial interação com anestésicos e opioides",
+      "reintroduction": "Reintroduzir após 24–48h se o paciente estiver clinicamente estável e com recuperação cognitiva adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eszopiclona",
+      "nomeComercial": "Lunesta, Estorra, Ezoglan, Eszopi",
+      "mecanismoAcao": "Agonista dos receptores GABA-A, modulando canais de cloro e promovendo sedação",
+      "farmacocinetica": "Início em 30–60 min, meia-vida de ~6h, metabolizada no fígado (CYP3A4, CYP2E1)",
+      "farmacodinamica": "Promove início e manutenção do sono com menor efeito residual matinal comparado a benzodiazepínicos",
+      "indicacoes": "Tratamento da insônia primária ou associada a distúrbios psiquiátricos",
+      "reacoesAdversas": "Alteração do paladar, sonolência diurna, cefaleia, tontura, amnésia anterógrada",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar durante amamentação devido à excreção no leite e potencial sedação neonatal",
+      "administracao": "Via oral, à noite antes de dormir",
+      "doseMaxima": "3mg/dia",
+      "doseMinima": "1mg/dia",
+      "classificacao": "Hipnótico não benzodiazepínico",
+      "apresentacao": "Comprimidos de 1mg, 2mg e 3mg",
+      "interacaoMedicamento": "Interage com depressores do SNC, álcool, antifúngicos azólicos, eritromicina",
+      "posologia": "1mg a 3mg à noite, ajustar conforme resposta clínica e idade",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo específico",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, apneia do sono, insuficiência hepática grave",
+      "cuidadosMedicos": "Avaliar função hepática e risco de quedas, evitar uso prolongado sem reavaliação",
+      "cuidadosFarmaceuticos": "Orientar uso restrito ao horário de dormir, não associar com álcool",
+      "cuidadosEnfermagem": "Observar sedação excessiva, sinais vitais e confusão em idosos",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, SBAn, EMA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Eszopiclone",
+      "suspension": "Suspend 1 day before surgery",
+      "risk": "Risk of residual sedation, respiratory depression, and interaction with anesthetics and opioids",
+      "reintroduction": "Reintroduce 24–48h post-op if clinically stable and cognitively recovered"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eszopiclone",
+      "nomeComercial": "Lunesta",
+      "mecanismoAcao": "Enhances GABA-A receptor activity via positive allosteric modulation",
+      "farmacocinetica": "Onset in 30–60 min, half-life ~6h, metabolized hepatically (CYP3A4, CYP2E1)",
+      "farmacodinamica": "Facilitates sleep onset and maintenance with lower rebound effects vs benzodiazepines",
+      "indicacoes": "Chronic and transient insomnia",
+      "reacoesAdversas": "Dysgeusia, daytime drowsiness, headache, dizziness, memory impairment",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use not recommended; excreted in breast milk with risk of infant sedation",
+      "administracao": "Oral, at bedtime",
+      "doseMaxima": "3mg/day",
+      "doseMinima": "1mg/day",
+      "classificacao": "Non-benzodiazepine hypnotic (cyclopyrrolone)",
+      "apresentacao": "Tablets: 1mg, 2mg, 3mg",
+      "interacaoMedicamento": "Interacts with CNS depressants, alcohol, CYP3A4 inhibitors (e.g., azoles)",
+      "posologia": "Start at 1–2mg qhs; adjust per response, age, hepatic function",
+      "armazenamento": "Store at room temp (59–86°F), away from moisture",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, sleep apnea, severe hepatic impairment",
+      "cuidadosMedicos": "Monitor for falls, cognitive function, hepatic status",
+      "cuidadosFarmaceuticos": "Warn about driving risks; avoid alcohol use",
+      "cuidadosEnfermagem": "Check sedation level, orientation, fall risk",
+      "fontesBibliograficas": "FDA, Micromedex, Lexicomp, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Eszopiclona",
+      "suspension": "Suspender 1 día antes de la cirugía",
+      "risk": "Riesgo de sedación residual, depresión respiratoria e interacción con anestésicos y opioides",
+      "reintroduction": "Reintroducir 24–48h después si el paciente está estable y cognitivamente recuperado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Eszopiclona",
+      "nomeComercial": "Lunesta",
+      "mecanismoAcao": "Modulador positivo de los receptores GABA-A, aumentando la entrada de cloro",
+      "farmacocinetica": "Inicio en 30–60 min, vida media ~6h, metabolismo hepático (CYP3A4, CYP2E1)",
+      "farmacodinamica": "Induce y mantiene el sueño con menos efectos residuales que benzodiacepinas",
+      "indicacoes": "Insomnio de inicio o mantenimiento",
+      "reacoesAdversas": "Alteración del gusto, somnolencia diurna, cefalea, mareo, amnesia anterógrada",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante la lactancia; riesgo de sedación neonatal",
+      "administracao": "Vía oral, antes de acostarse",
+      "doseMaxima": "3mg/día",
+      "doseMinima": "1mg/día",
+      "classificacao": "Hipnótico no benzodiacepínico",
+      "apresentacao": "Tabletas de 1mg, 2mg, 3mg",
+      "interacaoMedicamento": "Interacción con depresores del SNC, alcohol, azoles antifúngicos",
+      "posologia": "1–3mg por la noche, ajustar según respuesta y edad",
+      "armazenamento": "Temperatura ambiente (15–30°C), sin humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Hipersensibilidad, apnea del sueño, insuficiencia hepática grave",
+      "cuidadosMedicos": "Vigilar somnolencia, estado hepático y riesgo de caídas",
+      "cuidadosFarmaceuticos": "Informar sobre efectos diurnos y evitar alcohol",
+      "cuidadosEnfermagem": "Observar sedación y desorientación, especialmente en ancianos",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, Guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "艾司佐匹克隆",
+      "suspension": "术前1天停药",
+      "risk": "残留镇静、呼吸抑制，与麻醉药和阿片类药物相互作用风险",
+      "reintroduction": "术后24–48小时可在病人清醒、认知恢复后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "艾司佐匹克隆",
+      "nomeComercial": "Lunesta（乐宁舒）",
+      "mecanismoAcao": "正向调节GABA-A受体，促进氯离子通道开放，增强抑制性神经传导",
+      "farmacocinetica": "30–60分钟起效，半衰期约6小时，经肝脏代谢（CYP3A4, CYP2E1）",
+      "farmacodinamica": "可促进快速入睡并维持睡眠，次日残余效应小",
+      "indicacoes": "失眠症（入睡困难或维持困难）",
+      "reacoesAdversas": "味觉异常、白天嗜睡、头痛、眩晕、短时记忆障碍",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期慎用，可能进入乳汁引起婴儿镇静",
+      "administracao": "口服，睡前使用",
+      "doseMaxima": "每日3毫克",
+      "doseMinima": "每日1毫克",
+      "classificacao": "非苯二氮卓类催眠药",
+      "apresentacao": "片剂：1mg, 2mg, 3mg",
+      "interacaoMedicamento": "与中枢抑制剂、酒精、CYP3A4抑制剂（如酮康唑）相互作用",
+      "posologia": "1–3mg每晚一次，根据年龄和反应调整",
+      "armazenamento": "15–30°C干燥避光储存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "过敏、睡眠呼吸暂停、严重肝功能不全",
+      "cuidadosMedicos": "监测意识状态、跌倒风险和肝功能",
+      "cuidadosFarmaceuticos": "建议避免白天驾车或操作机械，禁酒",
+      "cuidadosEnfermagem": "观察镇静程度、意识状态，特别是在老年人中",
+      "fontesBibliograficas": "中国药典, FDA, EMA, UpToDate"
+    }
+  }
+}

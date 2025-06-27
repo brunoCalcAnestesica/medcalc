@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fenitoína",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva se possível; manter se epilepsia refratária",
+      "risk": "Risco de arritmias, hipotensão, interação com anestésicos, toxicidade neurológica e indução enzimática",
+      "reintroduction": "Reintroduzir após estabilidade cardiovascular e controle de crises no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenitoína",
+      "nomeComercial": "Hidantal, Epamin",
+      "mecanismoAcao": "Bloqueador dos canais de sódio dependentes de voltagem; estabiliza membrana neuronal",
+      "farmacocinetica": "Biodisponibilidade oral >90%; meia-vida ~22 h; metabolização hepática saturável (CYP2C9)",
+      "farmacodinamica": "Previne descargas repetitivas em neurônios hiperexcitáveis; efeito antiepiléptico de largo espectro",
+      "indicacoes": "Epilepsia tônico-clônica, crises parciais, estado de mal epiléptico, prevenção de crises pós-TCE",
+      "reacoesAdversas": "Nistagmo, ataxia, sonolência, hipertrofia gengival, hirsutismo, erupção, hepatotoxicidade",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Com cautela",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "600 mg/dia",
+      "doseMinima": "100 mg/dia",
+      "classificacao": "Antiepiléptico – bloqueador de canal de sódio",
+      "apresentacao": "Comprimidos 100 mg; solução injetável 50 mg/mL",
+      "interacaoMedicamento": "Indutor enzimático potente; interage com anticoagulantes, anticoncepcionais, anestésicos, antidepressivos tricíclicos",
+      "posologia": "Início 100 mg 2–3x/dia; ajuste por nível sérico (10–20 mcg/mL)",
+      "armazenamento": "15–30°C",
+      "preparo": "EV: diluir em SF 0,9%; infundir lentamente (máx. 50 mg/min) com monitorização cardíaca",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Bloqueio AV de 2º/3º grau, hipersensibilidade à hidantoína",
+      "cuidadosMedicos": "Monitorar nível sérico, ECG, enzimas hepáticas e sinais de toxicidade neurológica",
+      "cuidadosFarmaceuticos": "Atenção à janela terapêutica estreita, interações e adesão",
+      "cuidadosEnfermagem": "Observar ataxia, diplopia, sedação, rash, PA, pulso durante EV",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, Maudsley, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Phenytoin",
+      "suspension": "Hold 5 days prior to elective surgery if possible; continue if seizure risk high",
+      "risk": "Risk of cardiac arrhythmias, hypotension, anesthetic interaction, neurotoxicity, CYP450 induction",
+      "reintroduction": "Restart once cardiovascular status is stable and seizures controlled"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Phenytoin",
+      "nomeComercial": "Dilantin",
+      "mecanismoAcao": "Sodium channel blocker; limits repetitive firing of action potentials",
+      "farmacocinetica": "Oral bioavailability >90%; half-life ~22 h; hepatic metabolism (CYP2C9), nonlinear kinetics",
+      "farmacodinamica": "Broad-spectrum antiepileptic; stabilizes neuronal membranes",
+      "indicacoes": "Generalized tonic-clonic seizures, partial seizures, status epilepticus, post-traumatic seizure prophylaxis",
+      "reacoesAdversas": "Nystagmus, ataxia, lethargy, gingival hyperplasia, rash, hirsutism, hepatotoxicity",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Use with caution",
+      "administracao": "Oral or IV",
+      "doseMaxima": "600 mg/day",
+      "doseMinima": "100 mg/day",
+      "classificacao": "Antiepileptic – sodium channel blocker",
+      "apresentacao": "Tablets 100 mg; injectable 50 mg/mL",
+      "interacaoMedicamento": "CYP450 inducer; interacts with warfarin, contraceptives, anesthetics, TCAs",
+      "posologia": "100 mg TID orally; adjust to target level (10–20 mcg/mL)",
+      "armazenamento": "15–30°C",
+      "preparo": "IV: dilute in NS; max rate 50 mg/min with cardiac monitoring",
+      "solucoesCompatíveis": "NS (0.9%)",
+      "contraindicacoes": "Second/third-degree AV block, hydantoin hypersensitivity",
+      "cuidadosMedicos": "Monitor serum levels, liver enzymes, ECG, neuro status",
+      "cuidadosFarmaceuticos": "Educate on adherence, narrow therapeutic range, interactions",
+      "cuidadosEnfermagem": "Monitor gait, vision, skin, BP, pulse during IV infusion",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Maudsley"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fenitoína",
+      "suspension": "Suspender 5 días antes de cirugía si es posible; mantener si riesgo convulsivo elevado",
+      "risk": "Riesgo de arritmias, hipotensión, toxicidad neurológica, interacción anestésica, inducción enzimática",
+      "reintroduction": "Reintroducir tras estabilidad cardiovascular y control de crisis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenitoína",
+      "nomeComercial": "Epamin",
+      "mecanismoAcao": "Bloquea canales de sodio, estabiliza membranas neuronales",
+      "farmacocinetica": "Biodisponibilidad >90%; vida media ~22 h; metabolismo hepático no lineal",
+      "farmacodinamica": "Antiepiléptico de amplio espectro; útil en epilepsia y profilaxis postraumática",
+      "indicacoes": "Crisis tónico-clónicas, parciales, estado epiléptico, TCE",
+      "reacoesAdversas": "Nistagmo, ataxia, somnolencia, hiperplasia gingival, erupción, hepatotoxicidad",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Con precaución",
+      "administracao": "Oral o IV",
+      "doseMaxima": "600 mg/día",
+      "doseMinima": "100 mg/día",
+      "classificacao": "Antiepiléptico – bloqueador de canales de sodio",
+      "apresentacao": "Comprimidos 100 mg; inyectable 50 mg/mL",
+      "interacaoMedicamento": "Inductor CYP; interacciones con ACO, warfarina, anestésicos, tricíclicos",
+      "posologia": "100 mg TID, ajustar por niveles (10–20 mcg/mL)",
+      "armazenamento": "15–30°C",
+      "preparo": "IV en SF 0,9%, administrar lento con ECG",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Bloqueo AV, alergia a hidantoínas",
+      "cuidadosMedicos": "Monitorear niveles, función hepática, ECG, signos tóxicos",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia, toxicidad, margen terapéutico",
+      "cuidadosEnfermagem": "Observar ataxia, confusión, erupciones, PA, ECG",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "苯妥英",
+      "suspension": "术前5天停药（如可）；癫痫控制不良者术中维持使用",
+      "risk": "心律失常、低血压、中枢抑制、麻醉交互、神经毒性、酶诱导",
+      "reintroduction": "术后心脏与神经状态稳定后恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "苯妥英钠",
+      "nomeComercial": "Dilantin",
+      "mecanismoAcao": "阻断电压依赖性钠通道，抑制异常神经放电",
+      "farmacocinetica": "口服吸收好；半衰期22小时；肝代谢（CYP2C9）非线性",
+      "farmacodinamica": "广谱抗癫痫药；用于急/慢性癫痫和脑外伤预防",
+      "indicacoes": "强直阵挛性发作、部分发作、癫痫持续状态、脑外伤后",
+      "reacoesAdversas": "眼震、共济失调、嗜睡、牙龈增生、多毛、皮疹、肝毒性",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "慎用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日600 mg",
+      "doseMinima": "每日100 mg",
+      "classificacao": "抗癫痫药 – 钠通道阻断剂",
+      "apresentacao": "片剂100 mg；注射液50 mg/mL",
+      "interacaoMedicamento": "强酶诱导剂，影响避孕药、抗凝、麻醉药、抗抑郁药",
+      "posologia": "每日100 mg三次，按需调整（目标血药10–20 μg/mL）",
+      "armazenamento": "15–30°C",
+      "preparo": "IV需稀释于0.9%氯化钠，缓慢推注，心电监护",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "II/III度房室传导阻滞、对苯妥英过敏",
+      "cuidadosMedicos": "监测血药浓度、肝功能、心电图、神志",
+      "cuidadosFarmaceuticos": "强调药物交互与剂量依赖性毒性",
+      "cuidadosEnfermagem": "关注眼震、步态异常、皮疹、意识模糊",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex, Maudsley"
+    }
+  }
+}

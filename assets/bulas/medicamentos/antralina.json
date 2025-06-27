@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Antralina",
+      "suspension": "Suspender 24h antes de cirurgia apenas se uso em áreas extensas da pele",
+      "risk": "Potencial irritação cutânea, pode interferir com sensores de monitoramento se em regiões operadas",
+      "reintroduction": "Reintroduzir após cicatrização adequada da pele e ausência de sinais inflamatórios locais"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antralina",
+      "nomeComercial": "Dithranol, Psoriatec",
+      "mecanismoAcao": "Inibe a proliferação dos queratinócitos e tem efeito anti-inflamatório local",
+      "farmacocinetica": "Ação tópica sem absorção sistêmica significativa",
+      "farmacodinamica": "Reduz hiperproliferação celular e inflamação na psoríase",
+      "indicacoes": "Psoríase em placas crônica, especialmente em lesões espessas e refratárias",
+      "reacoesAdversas": "Irritação local, eritema, queimação, manchas na pele e roupas, dermatite de contato",
+      "riscoGravidez": "Categoria C – usar apenas se necessário",
+      "riscoLactacao": "Uso tópico com baixo risco, evitar em regiões mamárias",
+      "administracao": "Uso tópico",
+      "doseMaxima": "Uso localizado 1x/dia; concentrações de até 2%",
+      "doseMinima": "0,1% em aplicações iniciais",
+      "classificacao": "Antipsoriático tópico",
+      "apresentacao": "Pomada ou creme 0,1% a 2%",
+      "interacaoMedicamento": "Não relevante por via tópica; evitar uso concomitante com corticosteroides potentes no mesmo local",
+      "posologia": "Aplicar 1x/dia por 15–30 minutos e remover, conforme tolerância",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Pronto para uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Dermatite aguda, lesões infectadas, mucosas, áreas extensas inflamadas",
+      "cuidadosMedicos": "Evitar uso em áreas sensíveis ou em mucosas; monitorar irritação local",
+      "cuidadosFarmaceuticos": "Evitar exposição prolongada, orientar sobre coloração de roupas e pele",
+      "cuidadosEnfermagem": "Usar luvas na aplicação, remover após tempo recomendado, observar reações",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Anthralin",
+      "suspension": "Discontinue 24h pre-op if applied on surgical sites or large areas",
+      "risk": "May cause skin irritation, may interfere with monitors if applied on surgical site",
+      "reintroduction": "Reapply after complete skin recovery and no inflammation signs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anthralin",
+      "nomeComercial": "Dithranol, Psoriatec",
+      "mecanismoAcao": "Inhibits keratinocyte proliferation and has local anti-inflammatory action",
+      "farmacocinetica": "Topical action with minimal systemic absorption",
+      "farmacodinamica": "Reduces cell turnover and inflammation in psoriasis",
+      "indicacoes": "Chronic plaque psoriasis, especially thick or recalcitrant lesions",
+      "reacoesAdversas": "Local irritation, redness, burning, skin and clothing staining, contact dermatitis",
+      "riscoGravidez": "Category C – use only if clearly needed",
+      "riscoLactacao": "Low systemic absorption; avoid breast area",
+      "administracao": "Topical use",
+      "doseMaxima": "Once daily application; up to 2% concentration",
+      "doseMinima": "Start with 0.1%",
+      "classificacao": "Topical antipsoriatic",
+      "apresentacao": "Ointment or cream 0.1% to 2%",
+      "interacaoMedicamento": "No major interactions; avoid mixing with potent topical steroids on same site",
+      "posologia": "Apply once daily for 15–30 minutes and remove",
+      "armazenamento": "Store at room temperature, away from light",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Acute dermatitis, infected lesions, mucosa, extensively inflamed skin",
+      "cuidadosMedicos": "Avoid mucosa or sensitive areas; monitor for irritation",
+      "cuidadosFarmaceuticos": "Inform patient about staining risk; limit exposure",
+      "cuidadosEnfermagem": "Use gloves, clean after application time, monitor skin reaction",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, AAD Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Antralina",
+      "suspension": "Suspender 24h antes si se usa en áreas extensas o quirúrgicas",
+      "risk": "Puede causar irritación cutánea e interferir con sensores quirúrgicos",
+      "reintroduction": "Reanudar tras recuperación cutánea completa y sin signos inflamatorios"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Antralina",
+      "nomeComercial": "Dithranol, Psoriatec",
+      "mecanismoAcao": "Inhibe la proliferación de queratinocitos y tiene acción antiinflamatoria local",
+      "farmacocinetica": "Acción tópica, mínima absorción sistémica",
+      "farmacodinamica": "Reduce la hiperproliferación y la inflamación en la psoriasis",
+      "indicacoes": "Psoriasis en placas crónica, especialmente lesiones gruesas y resistentes",
+      "reacoesAdversas": "Irritación local, eritema, quemazón, manchas en piel y ropa, dermatitis de contacto",
+      "riscoGravidez": "Categoría C – usar solo si es necesario",
+      "riscoLactacao": "Bajo riesgo; evitar zona mamaria",
+      "administracao": "Uso tópico",
+      "doseMaxima": "Aplicación 1 vez/día; hasta 2%",
+      "doseMinima": "0,1% en inicio",
+      "classificacao": "Antipsoriásico tópico",
+      "apresentacao": "Pomada o crema del 0,1% al 2%",
+      "interacaoMedicamento": "Evitar combinación con esteroides tópicos potentes en la misma área",
+      "posologia": "Aplicar 1 vez/día durante 15–30 minutos, luego enjuagar",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Listo para usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Dermatitis aguda, lesiones infectadas, mucosas, inflamación extensa",
+      "cuidadosMedicos": "Evitar áreas sensibles y mucosas; vigilar irritación",
+      "cuidadosFarmaceuticos": "Orientar sobre manchas y tiempo de contato",
+      "cuidadosEnfermagem": "Usar guantes, retirar após tempo previsto, monitorar reação",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "蒽林",
+      "suspension": "术前24小时停用，特别是大面积或手术部位",
+      "risk": "可能刺激皮肤，干扰手术监测设备",
+      "reintroduction": "术后皮肤恢复正常且无炎症后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "蒽林",
+      "nomeComercial": "Dithranol, Psoriatec",
+      "mecanismoAcao": "抑制角质形成细胞增殖，具有局部抗炎作用",
+      "farmacocinetica": "局部作用，几乎不被吸收",
+      "farmacodinamica": "用于减少银屑病的细胞过度增生和炎症",
+      "indicacoes": "慢性斑块型银屑病，尤其适用于顽固性病变",
+      "reacoesAdversas": "局部刺激、红斑、灼热、皮肤与衣物染色、接触性皮炎",
+      "riscoGravidez": "C类 – 仅在必要时使用",
+      "riscoLactacao": "风险低，避免涂抹乳房部位",
+      "administracao": "外用",
+      "doseMaxima": "每天一次，浓度最高可达2%",
+      "doseMinima": "起始浓度为0.1%",
+      "classificacao": "外用抗银屑病药",
+      "apresentacao": "0.1%–2%的软膏或乳膏",
+      "interacaoMedicamento": "避免与强效外用糖皮质激素同时使用",
+      "posologia": "每天一次，15–30分钟后洗净",
+      "armazenamento": "室温保存，避光",
+      "preparo": "即用型",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "急性皮炎、感染病灶、黏膜、广泛炎症区域",
+      "cuidadosMedicos": "避免敏感区域，监测刺激反应",
+      "cuidadosFarmaceuticos": "告知患者可能染色，避免接触眼部与黏膜",
+      "cuidadosEnfermagem": "佩戴手套，定时清洗，观察皮肤反应",
+      "fontesBibliograficas": "中国药典, FDA, UpToDate, Micromedex"
+    }
+  }
+}

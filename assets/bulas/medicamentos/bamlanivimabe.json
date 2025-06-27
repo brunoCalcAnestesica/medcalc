@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bamlanivimabe",
+      "suspension": "Suspenso globalmente; não eficaz contra variantes dominantes do SARS-CoV-2",
+      "risk": "Risco de reações infusionais, anafilaxia e perda de eficácia; uso descontinuado",
+      "reintroduction": "Não recomendado; FDA e EMA retiraram autorização"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bamlanivimabe",
+      "nomeComercial": "LY-CoV555 (Eli Lilly)",
+      "mecanismoAcao": "Anticorpo monoclonal que bloqueia a proteína spike do SARS-CoV-2",
+      "farmacocinetica": "Infusão IV única; meia-vida de 17 a 21 dias; metabolização proteica",
+      "farmacodinamica": "Inibe a ligação viral ao receptor ACE2, bloqueando a entrada do vírus na célula",
+      "indicacoes": "COVID-19 leve a moderado em pacientes de risco (uso emergencial revogado)",
+      "reacoesAdversas": "Febre, náusea, vertigem, dispneia, anafilaxia (rara)",
+      "riscoGravidez": "Categoria não definida; usar se benefício superar o risco",
+      "riscoLactacao": "Desconhecido; usar com cautela",
+      "administracao": "Infusão intravenosa única",
+      "doseMaxima": "700 mg IV",
+      "doseMinima": "700 mg IV",
+      "classificacao": "Anticorpo monoclonal anti-SARS-CoV-2 (descontinuado)",
+      "apresentacao": "Frasco-ampola 700 mg/20 mL",
+      "interacaoMedicamento": "Sem interações medicamentosas conhecidas",
+      "posologia": "700 mg IV em infusão única de 60 minutos",
+      "armazenamento": "2–8°C, não congelar; usar em até 24h após diluição",
+      "preparo": "Diluir em 250 mL de SF 0,9%; infundir por bomba de infusão",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Hipersensibilidade ao bamlanivimabe",
+      "cuidadosMedicos": "Monitorar sinais de reação alérgica durante e após infusão",
+      "cuidadosFarmaceuticos": "Verificar cadeia de frio e integridade do produto",
+      "cuidadosEnfermagem": "Observar sinais vitais durante e até 1h após infusão",
+      "fontesBibliograficas": "FDA, EMA, Eli Lilly, WHO, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bamlanivimab",
+      "suspension": "Use revoked due to variant resistance; not recommended",
+      "risk": "Loss of efficacy; risk of infusion reactions and hypersensitivity",
+      "reintroduction": "No longer authorized by FDA or WHO"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bamlanivimab",
+      "nomeComercial": "LY-CoV555 (Eli Lilly)",
+      "mecanismoAcao": "Monoclonal antibody targeting SARS-CoV-2 spike protein, blocking ACE2 binding",
+      "farmacocinetica": "Single IV dose; half-life ~17–21 days; proteolytic clearance",
+      "farmacodinamica": "Neutralizes susceptible SARS-CoV-2 variants by preventing cellular entry",
+      "indicacoes": "Mild-to-moderate COVID-19 in high-risk outpatients (authorization revoked)",
+      "reacoesAdversas": "Fever, nausea, rash, dizziness, rare anaphylaxis",
+      "riscoGravidez": "Not assigned; use only if benefit outweighs risk",
+      "riscoLactacao": "Unknown; caution advised",
+      "administracao": "Single intravenous infusion",
+      "doseMaxima": "700 mg IV",
+      "doseMinima": "700 mg IV",
+      "classificacao": "Neutralizing anti-SARS-CoV-2 monoclonal antibody (withdrawn)",
+      "apresentacao": "700 mg/20 mL vial",
+      "interacaoMedicamento": "No known drug interactions",
+      "posologia": "Single 700 mg IV infusion over 60 minutes",
+      "armazenamento": "Refrigerated 36–46°F; stable 24h post dilution",
+      "preparo": "Dilute in 250 mL of 0.9% NaCl; infuse via IV pump",
+      "solucoesCompatíveis": "0.9% sodium chloride",
+      "contraindicacoes": "Hypersensitivity to bamlanivimab",
+      "cuidadosMedicos": "Monitor for allergic reactions during/after infusion",
+      "cuidadosFarmaceuticos": "Check cold chain and product integrity",
+      "cuidadosEnfermagem": "Monitor vitals during and 1h post-infusion",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, WHO"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bamlanivimab",
+      "suspension": "Autorización revocada; no se recomienda su uso",
+      "risk": "Pérdida de eficacia y riesgo de reacciones alérgicas",
+      "reintroduction": "No debe reintroducirse clínicamente"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bamlanivimab",
+      "nomeComercial": "LY-CoV555 (Eli Lilly)",
+      "mecanismoAcao": "Anticuerpo monoclonal que bloquea la proteína spike e impide la unión al ACE2",
+      "farmacocinetica": "Dosis única IV; semivida 17–21 días",
+      "farmacodinamica": "Neutraliza el virus bloqueando su entrada celular",
+      "indicacoes": "COVID-19 leve en pacientes de riesgo (uso revocado)",
+      "reacoesAdversas": "Fiebre, náusea, rash, mareo, anafilaxia",
+      "riscoGravidez": "No clasificado; usar si beneficio supera riesgo",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Infusión intravenosa única",
+      "doseMaxima": "700 mg",
+      "doseMinima": "700 mg",
+      "classificacao": "Anticuerpo monoclonal anti-SARS-CoV-2 (revocado)",
+      "apresentacao": "Frasco de 700 mg/20 mL",
+      "interacaoMedicamento": "No conocidas",
+      "posologia": "700 mg IV en 60 min",
+      "armazenamento": "2–8°C, no congelar",
+      "preparo": "Diluir en 250 mL de SF 0.9%",
+      "solucoesCompatíveis": "Solución salina fisiológica",
+      "contraindicacoes": "Alergia conocida al compuesto",
+      "cuidadosMedicos": "Vigilar efectos adversos durante y después de la infusión",
+      "cuidadosFarmaceuticos": "Revisar cadena de frío y caducidad",
+      "cuidadosEnfermagem": "Monitorear constantes vitales",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "巴莫利单抗",
+      "suspension": "已撤销使用许可；不推荐",
+      "risk": "变异株抵抗导致无效；有输注反应风险",
+      "reintroduction": "不建议重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "巴莫利单抗（Bamlanivimab）",
+      "nomeComercial": "LY-CoV555（礼来）",
+      "mecanismoAcao": "中和抗体结合S蛋白，阻止病毒与ACE2受体结合",
+      "farmacocinetica": "单次IV注射；半衰期约17–21天",
+      "farmacodinamica": "阻止SARS-CoV-2进入细胞；对新变种失效",
+      "indicacoes": "轻中度COVID-19（授权已撤销）",
+      "reacoesAdversas": "发热、恶心、皮疹、头晕、过敏",
+      "riscoGravidez": "未分级；权衡利弊后使用",
+      "riscoLactacao": "未知；慎用",
+      "administracao": "静脉输注",
+      "doseMaxima": "700毫克",
+      "doseMinima": "700毫克",
+      "classificacao": "抗新冠中和抗体（已下架）",
+      "apresentacao": "700 mg/20 mL注射瓶",
+      "interacaoMedicamento": "无已知相互作用",
+      "posologia": "稀释后静脉滴注60分钟",
+      "armazenamento": "2–8°C冷藏，不可冷冻",
+      "preparo": "稀释于250 mL氯化钠注射液",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对药物成分过敏",
+      "cuidadosMedicos": "输注期间观察是否有过敏反应",
+      "cuidadosFarmaceuticos": "检查冷链与标签完整性",
+      "cuidadosEnfermagem": "监测输注反应与生命体征",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，WHO"
+    }
+  }
+}

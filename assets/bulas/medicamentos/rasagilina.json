@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Rasagilina",
+      "suspension": "Suspender 14 dias antes de cirurgia com anestesia geral ou uso de opioides",
+      "risk": "Crise hipertensiva com tiramina, interação com antidepressivos, hipotensão, discinesia, síndrome serotoninérgica",
+      "reintroduction": "Reintroduzir 48–72h após o procedimento, se clínica e hemodinamicamente estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rasagilina",
+      "nomeComercial": "Azilect",
+      "mecanismoAcao": "Inibidor irreversível seletivo da monoaminoxidase B (MAO-B); impede degradação da dopamina",
+      "farmacocinetica": "VO; biodisponibilidade ~36%; T½ ~3h; metabolizado por CYP1A2; excreção renal/fecal",
+      "farmacodinamica": "Aumenta dopamina sináptica → melhora rigidez, bradicinesia e tremor",
+      "indicacoes": "Doença de Parkinson leve a moderada, isolada ou com levodopa",
+      "reacoesAdversas": "Cefaleia, tontura, náusea, hipotensão ortostática, discinesia, insônia, depressão",
+      "riscoGravidez": "Categoria C – uso se benefício superar o risco",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "VO, 1mg 1x/dia com ou sem alimentos",
+      "doseMaxima": "1mg/dia",
+      "doseMinima": "0,5mg/dia (ajuste em hepatopatia leve)",
+      "classificacao": "Inibidor da MAO-B antiparkinsoniano",
+      "apresentacao": "Comprimidos de 0,5mg e 1mg",
+      "interacaoMedicamento": "Antidepressivos (ISRS, tricíclicos), petidina, tramadol, dextrometorfano, tiramina",
+      "posologia": "1mg/dia VO; ajuste não necessário em idosos",
+      "armazenamento": "Temperatura ambiente, protegido de luz",
+      "preparo": "Uso oral direto",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso com outros IMAOs, petidina, desordens hepáticas moderadas a graves",
+      "cuidadosMedicos": "Evitar alimentos com tiramina, monitorar PA, status mental e discinesia",
+      "cuidadosFarmaceuticos": "Educar sobre interação alimentar e medicamentosa; evitar coadministração de serotonérgicos",
+      "cuidadosEnfermagem": "Observar rigidez, agitação, confusão, insônia",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Rasagiline",
+      "suspension": "Discontinue 14 days prior to surgery using general anesthesia or opioids",
+      "risk": "Hypertensive crisis, serotonin syndrome, insomnia, hallucinations, orthostatic hypotension",
+      "reintroduction": "Restart 2–3 days postop when stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rasagiline",
+      "nomeComercial": "Azilect",
+      "mecanismoAcao": "Selective, irreversible MAO-B inhibitor; prolongs dopamine availability",
+      "farmacocinetica": "Oral; T½ ~3h; CYP1A2 metabolism; renal/fecal clearance",
+      "farmacodinamica": "Boosts central dopaminergic activity",
+      "indicacoes": "Parkinson’s disease monotherapy or adjunct to levodopa",
+      "reacoesAdversas": "Headache, nausea, hypotension, dyskinesia, insomnia, hallucination",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended",
+      "administracao": "1mg PO daily",
+      "doseMaxima": "1mg/day",
+      "doseMinima": "0.5mg/day",
+      "classificacao": "MAO-B inhibitor",
+      "apresentacao": "0.5mg, 1mg tablets",
+      "interacaoMedicamento": "SSRIs, SNRIs, TCAs, meperidine, tramadol, tyramine",
+      "posologia": "1mg/day PO; caution in hepatic impairment",
+      "armazenamento": "Room temperature, avoid light",
+      "preparo": "Oral tablet",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "MAOI use, meperidine, moderate/severe liver disease",
+      "cuidadosMedicos": "Monitor BP, CNS status, dietary restrictions",
+      "cuidadosFarmaceuticos": "Counsel on food/drug interactions, serotonin syndrome",
+      "cuidadosEnfermagem": "Monitor for rigidity, restlessness, mood change",
+      "fontesBibliograficas": "FDA label, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Rasagilina",
+      "suspension": "Suspender 14 días antes de cirugía con anestesia general o uso de opioides",
+      "risk": "Crisis hipertensiva, síndrome serotoninérgico, insomnio, discinesia, hipotensión",
+      "reintroduction": "Reiniciar 2–3 días después si clínicamente estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Rasagilina",
+      "nomeComercial": "Azilect",
+      "mecanismoAcao": "Inhibidor selectivo e irreversible de MAO-B; incrementa niveles de dopamina",
+      "farmacocinetica": "VO; T½ ~3h; metabolismo hepático; excreción renal/fecal",
+      "farmacodinamica": "Mejora transmisión dopaminérgica en sistema nigroestriado",
+      "indicacoes": "EP leve/moderada, solo o con levodopa",
+      "reacoesAdversas": "Cefalea, náuseas, hipotensión, insomnio, discinesia, agitación",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "1mg/día VO",
+      "doseMaxima": "1mg/día",
+      "doseMinima": "0,5mg/día",
+      "classificacao": "Inhibidor MAO-B",
+      "apresentacao": "Comprimidos 0,5mg y 1mg",
+      "interacaoMedicamento": "ISRS, IMAO, tiramina, tramadol, antidepresivos tricíclicos",
+      "posologia": "1mg VO diario; individualizar",
+      "armazenamento": "Ambiente seco, luz protegida",
+      "preparo": "Oral",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía moderada/grave, IMAO, petidina",
+      "cuidadosMedicos": "PA, síntomas serotoninérgicos, dieta",
+      "cuidadosFarmaceuticos": "Explicar interacción con alimentos y fármacos",
+      "cuidadosEnfermagem": "Observar temblor, agitación, confusión",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "雷沙吉兰",
+      "suspension": "术前14天停药，特别是使用全麻或镇痛药",
+      "risk": "高血压危象、血清素综合征、低血压、嗜睡、幻觉",
+      "reintroduction": "术后2–3天病情稳定可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "雷沙吉兰",
+      "nomeComercial": "Azilect",
+      "mecanismoAcao": "选择性不可逆MAO-B抑制剂，延长多巴胺半衰期",
+      "farmacocinetica": "口服；T½约3小时；CYP1A2代谢；尿/粪排泄",
+      "farmacodinamica": "增强中枢多巴胺，改善帕金森症状",
+      "indicacoes": "早期或晚期帕金森，单用或与左旋多巴联用",
+      "reacoesAdversas": "头痛、失眠、低血压、运动障碍、焦虑、幻觉",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "不推荐",
+      "administracao": "每日1次，口服1mg",
+      "doseMaxima": "1mg/天",
+      "doseMinima": "0.5mg/天",
+      "classificacao": "MAO-B抑制剂",
+      "apresentacao": "0.5mg、1mg片剂",
+      "interacaoMedicamento": "IMAO、SSRI、三环类、哌替啶、可卡因",
+      "posologia": "1mg/天，需个体化调整",
+      "armazenamento": "干燥避光保存，常温",
+      "preparo": "口服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "中重度肝病、MAOI联用、孕期",
+      "cuidadosMedicos": "监测血压、神志、肌张力",
+      "cuidadosFarmaceuticos": "警示药食互动，尤其高酪胺饮食",
+      "cuidadosEnfermagem": "注意震颤波动、情绪变化、失眠",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

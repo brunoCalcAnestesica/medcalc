@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Darbepoetina alfa",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva em pacientes com risco trombótico aumentado",
+      "risk": "Estimula a eritropoiese, podendo aumentar risco de trombose e eventos cardiovasculares. Contraindicada em pacientes com hipertensão descontrolada.",
+      "reintroduction": "Reintroduzir após avaliação clínica e hemodinâmica, especialmente após estabilização cardiovascular e exclusão de eventos tromboembólicos."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Darbepoetina alfa",
+      "nomeComercial": "Aranesp",
+      "mecanismoAcao": "Glicoproteína sintética com atividade semelhante à eritropoetina humana, estimulando a produção de hemácias pela medula óssea",
+      "farmacocinetica": "Administração SC ou IV; meia-vida prolongada (~21 h IV, ~49 h SC); metabolismo hepático mínimo; excreção renal insignificante",
+      "farmacodinamica": "Aumenta gradualmente a contagem de hemácias e hemoglobina; reduz necessidade de transfusão",
+      "indicacoes": "Anemia associada à insuficiência renal crônica (com ou sem diálise), anemia induzida por quimioterapia",
+      "reacoesAdversas": "Hipertensão, trombose venosa profunda, convulsões, dor óssea, cefaleia, astenia, reações no local da injeção",
+      "riscoGravidez": "Categoria C (usar com cautela; risco não descartado)",
+      "riscoLactacao": "Uso permitido com monitoramento",
+      "administracao": "Subcutânea ou intravenosa, geralmente 1x por semana ou a cada 2 semanas",
+      "doseMaxima": "500 mcg/semana (em protocolos oncológicos); 180 mcg/dose (IRC)",
+      "doseMinima": "0,45 mcg/kg por semana",
+      "classificacao": "Agente estimulador da eritropoiese – análogo de eritropoetina",
+      "apresentacao": "Solução injetável em seringas pré-cheias: 25 a 500 mcg/mL",
+      "interacaoMedicamento": "Potencializa efeitos de agentes hipertensivos; sinergismo com ferro e ácido fólico",
+      "posologia": "Ajuste conforme níveis de hemoglobina; iniciar com 0,45 mcg/kg/semana ou 500 mcg a cada 3 semanas",
+      "armazenamento": "2–8°C, não congelar, proteger da luz",
+      "preparo": "Pronto para uso; não agitar",
+      "solucoesCompatíveis": "Não aplicar em diluições; uso direto",
+      "contraindicacoes": "Hipertensão não controlada, hipersensibilidade à proteína ou excipientes",
+      "cuidadosMedicos": "Monitorar Hb semanalmente, PA, ferro sérico, ferritina e TSAT",
+      "cuidadosFarmaceuticos": "Evitar agitação; armazenar refrigerado e protegido da luz",
+      "cuidadosEnfermagem": "Observar sinais de hipertensão, trombose e efeitos adversos locais",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate, KDIGO"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Darbepoetin alfa",
+      "suspension": "Discontinue 7 days before elective surgery in high thrombotic risk patients",
+      "risk": "Stimulates erythropoiesis; may increase thromboembolic and cardiovascular risk. Contraindicated in uncontrolled hypertension.",
+      "reintroduction": "Resume only after cardiovascular stability and absence of thrombotic events."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Darbepoetin alfa",
+      "nomeComercial": "Aranesp",
+      "mecanismoAcao": "Long-acting erythropoiesis-stimulating glycoprotein that activates erythroid progenitor cells",
+      "farmacocinetica": "SC or IV; t½: ~21 h IV, ~49 h SC; minimal hepatic metabolism; minimal renal excretion",
+      "farmacodinamica": "Increases hemoglobin and reduces transfusion need",
+      "indicacoes": "Anemia due to CKD (with/without dialysis), chemotherapy-induced anemia",
+      "reacoesAdversas": "Hypertension, thrombosis, seizures, headache, bone pain, injection site reaction",
+      "riscoGravidez": "Category C (risk cannot be ruled out)",
+      "riscoLactacao": "Use allowed with monitoring",
+      "administracao": "Weekly or biweekly SC/IV injection",
+      "doseMaxima": "500 mcg/week",
+      "doseMinima": "0.45 mcg/kg/week",
+      "classificacao": "Erythropoiesis-stimulating agent (ESA)",
+      "apresentacao": "Prefilled syringes: 25–500 mcg/mL",
+      "interacaoMedicamento": "Interacts with antihypertensives; enhanced by iron or folic acid supplementation",
+      "posologia": "Start at 0.45 mcg/kg weekly; titrate by Hb level",
+      "armazenamento": "2–8°C; do not freeze; protect from light",
+      "preparo": "Do not shake; use as is",
+      "solucoesCompatíveis": "Direct administration only",
+      "contraindicacoes": "Uncontrolled hypertension, hypersensitivity",
+      "cuidadosMedicos": "Monitor Hb, BP, iron indices",
+      "cuidadosFarmaceuticos": "Store cold, do not agitate",
+      "cuidadosEnfermagem": "Monitor for thrombosis, BP, injection site reactions",
+      "fontesBibliograficas": "FDA, UpToDate, KDIGO, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Darbepoetina alfa",
+      "suspension": "Suspender 7 días antes de cirugía en pacientes con riesgo trombótico elevado",
+      "risk": "Aumenta eritropoyesis y riesgo de trombosis; contraindicado en hipertensión no controlada",
+      "reintroduction": "Reiniciar solo tras estabilidad cardiovascular y sin eventos trombóticos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Darbepoetina alfa",
+      "nomeComercial": "Aranesp",
+      "mecanismoAcao": "Glicoproteína que estimula células progenitoras eritroides",
+      "farmacocinetica": "SC/IV; t½ ~21 h IV, ~49 h SC; metabolismo hepático leve; eliminación no renal",
+      "farmacodinamica": "Incrementa hemoglobina y reduce transfusiones",
+      "indicacoes": "Anemia por ERC o secundaria a quimioterapia",
+      "reacoesAdversas": "HTA, trombosis, cefalea, convulsiones, reacciones locales",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Permitido bajo control",
+      "administracao": "SC o IV semanal o cada 2 semanas",
+      "doseMaxima": "500 mcg/semana",
+      "doseMinima": "0,45 mcg/kg/sem",
+      "classificacao": "Agente estimulador de eritropoyesis",
+      "apresentacao": "Jeringas precargadas 25–500 mcg/mL",
+      "interacaoMedicamento": "Interacción con antihipertensivos, sinergia con hierro",
+      "posologia": "Ajustar según hemoglobina",
+      "armazenamento": "2–8 °C, sin congelar",
+      "preparo": "No agitar, listo para uso",
+      "solucoesCompatíveis": "No diluir; uso directo",
+      "contraindicacoes": "Hipertensión no controlada, hipersensibilidad",
+      "cuidadosMedicos": "Monitorizar Hb, TA, hierro",
+      "cuidadosFarmaceuticos": "Conservar en frío y no agitar",
+      "cuidadosEnfermagem": "Vigilar signos de trombosis e HTA",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "达贝泊汀 α",
+      "suspension": "高血栓风险患者术前7天停药",
+      "risk": "可引发血压升高和血栓风险，尤其在肾病和肿瘤患者中。禁用于未控制的高血压。",
+      "reintroduction": "术后血流动力学稳定、无血栓后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "达贝泊汀 α",
+      "nomeComercial": "Aranesp",
+      "mecanismoAcao": "刺激红系祖细胞，促进红细胞生成",
+      "farmacocinetica": "皮下或静脉注射；半衰期SC~49h，IV~21h",
+      "farmacodinamica": "升高Hb，减少输血需求",
+      "indicacoes": "慢性肾病贫血，化疗相关贫血",
+      "reacoesAdversas": "高血压、静脉血栓、癫痫、注射部位反应",
+      "riscoGravidez": "C类（慎用）",
+      "riscoLactacao": "允许，需监测",
+      "administracao": "每周或隔周SC或IV注射",
+      "doseMaxima": "每周500微克",
+      "doseMinima": "每周0.45微克/kg",
+      "classificacao": "促红细胞生成制剂",
+      "apresentacao": "预充注射器：25–500 mcg/mL",
+      "interacaoMedicamento": "与降压药、铁剂联用需监控",
+      "posologia": "按Hb调整剂量，起始0.45 mcg/kg/周",
+      "armazenamento": "2–8°C，勿冷冻，避光",
+      "preparo": "勿摇晃，直接使用",
+      "solucoesCompatíveis": "不可稀释",
+      "contraindicacoes": "未控制的高血压，对蛋白质过敏",
+      "cuidadosMedicos": "监测Hb、铁指标、血压",
+      "cuidadosFarmaceuticos": "冷藏避光，不摇晃",
+      "cuidadosEnfermagem": "警惕血栓、高血压等不良反应",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、KDIGO"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clortalidona",
+      "suspension": "Manter até o dia da cirurgia com monitoramento eletrolítico",
+      "risk": "Risco de hipocalemia, hiponatremia e hipotensão intraoperatória; potencialização de efeitos de anestésicos",
+      "reintroduction": "Reintroduzir quando estabilidade hemodinâmica for restabelecida, com correção de eletrólitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clortalidona",
+      "nomeComercial": "Hygroton, Clorana",
+      "mecanismoAcao": "Inibe a reabsorção de sódio e cloreto no túbulo distal, promovendo diurese",
+      "farmacocinetica": "Absorção lenta, meia-vida longa (40–60h), excreção renal",
+      "farmacodinamica": "Diurético tiazídico com ação anti-hipertensiva prolongada",
+      "indicacoes": "Hipertensão arterial, insuficiência cardíaca leve, edema de origem renal ou hepática",
+      "reacoesAdversas": "Hipocalemia, hiponatremia, hipomagnesemia, hiperglicemia, hiperuricemia",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Pode ser excretada no leite; evitar se possível",
+      "administracao": "Via oral",
+      "doseMaxima": "50mg/dia",
+      "doseMinima": "12,5mg/dia",
+      "classificacao": "Diurético tiazídico de longa duração",
+      "apresentacao": "Comprimidos de 12,5mg, 25mg e 50mg",
+      "interacaoMedicamento": "Pode potencializar toxicidade de digitálicos; interage com lítio, AINEs e hipoglicemiantes",
+      "posologia": "12,5 a 25mg/dia, dose única matinal",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Anúria, hipocalemia severa, hipersensibilidade a sulfonamidas",
+      "cuidadosMedicos": "Monitorar eletrólitos e função renal regularmente",
+      "cuidadosFarmaceuticos": "Orientar para uso contínuo e sinais de desequilíbrio eletrolítico",
+      "cuidadosEnfermagem": "Verificar PA, balanço hídrico e sinais de hipocalemia",
+      "fontesBibliograficas": "SBH, Micromedex, ANVISA, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Chlorthalidone",
+      "suspension": "Continue until surgery day with electrolyte monitoring",
+      "risk": "Risk of hypokalemia, hyponatremia, and intraoperative hypotension; may enhance anesthetic effects",
+      "reintroduction": "Restart when hemodynamically stable and electrolytes corrected"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Chlorthalidone",
+      "nomeComercial": "Hygroton, Thalitone",
+      "mecanismoAcao": "Inhibits sodium and chloride reabsorption in the distal tubule",
+      "farmacocinetica": "Slow absorption, long half-life (40–60h), renal excretion",
+      "farmacodinamica": "Long-acting thiazide-like diuretic with antihypertensive action",
+      "indicacoes": "Hypertension, mild heart failure, edema due to renal/hepatic causes",
+      "reacoesAdversas": "Hypokalemia, hyponatremia, hyperglycemia, hyperuricemia, photosensitivity",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "May be excreted in milk; avoid if possible",
+      "administracao": "Oral route",
+      "doseMaxima": "50mg/day",
+      "doseMinima": "12.5mg/day",
+      "classificacao": "Thiazide-like long-acting diuretic",
+      "apresentacao": "Tablets 12.5mg, 25mg, 50mg",
+      "interacaoMedicamento": "May increase lithium toxicity; interacts with NSAIDs, hypoglycemics, digoxin",
+      "posologia": "12.5–25mg/day, single morning dose",
+      "armazenamento": "Store at room temperature, protect from moisture",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Anuria, severe hypokalemia, sulfonamide hypersensitivity",
+      "cuidadosMedicos": "Monitor renal function and electrolytes",
+      "cuidadosFarmaceuticos": "Educate about consistent use and electrolyte symptoms",
+      "cuidadosEnfermagem": "Monitor BP, fluid balance, signs of hypokalemia",
+      "fontesBibliograficas": "FDA, Micromedex, ACC guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clortalidona",
+      "suspension": "Mantener hasta el día de la cirugía con control de electrolitos",
+      "risk": "Riesgo de hipopotasemia, hiponatremia e hipotensión intraoperatoria; puede potenciar efectos anestésicos",
+      "reintroduction": "Reiniciar cuando haya estabilidad hemodinámica y corrección de electrolitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clortalidona",
+      "nomeComercial": "Hygroton",
+      "mecanismoAcao": "Inhibe la reabsorción de sodio y cloro en el túbulo distal",
+      "farmacocinetica": "Absorción lenta, vida media prolongada (40–60h), eliminación renal",
+      "farmacodinamica": "Diurético tiazídico de larga duración, efecto antihipertensivo sostenido",
+      "indicacoes": "Hipertensión, insuficiencia cardíaca leve, edemas",
+      "reacoesAdversas": "Hipopotasemia, hiponatremia, hiperglucemia, hiperuricemia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Puede excretarse en la leche; evitar si es posible",
+      "administracao": "Vía oral",
+      "doseMaxima": "50mg/día",
+      "doseMinima": "12,5mg/día",
+      "classificacao": "Diurético tiazídico de acción prolongada",
+      "apresentacao": "Comprimidos de 12,5mg, 25mg y 50mg",
+      "interacaoMedicamento": "Potencia toxicidad de digitálicos; interacciones con litio, AINEs, hipoglucemiantes",
+      "posologia": "12,5–25mg/día, dosis única por la mañana",
+      "armazenamento": "Ambiente seco, temperatura ambiente",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Anuria, hipopotasemia severa, alergia a sulfonamidas",
+      "cuidadosMedicos": "Control de electrolitos y función renal",
+      "cuidadosFarmaceuticos": "Advertir sobre signos de desequilibrio hidroelectrolítico",
+      "cuidadosEnfermagem": "Control de PA y signos de deshidratación",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯噻酮",
+      "suspension": "术前可持续使用，需监测电解质",
+      "risk": "术中低钾、低钠、低血压风险；可能增强麻醉药效应",
+      "reintroduction": "术后血流动力学稳定、电解质纠正后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氯噻酮",
+      "nomeComercial": "Hygroton",
+      "mecanismoAcao": "抑制远曲小管钠和氯的重吸收，利尿作用",
+      "farmacocinetica": "吸收缓慢，半衰期长（40–60小时），肾脏排泄",
+      "farmacodinamica": "长效噻嗪类利尿剂，具有降压作用",
+      "indicacoes": "高血压、轻度心衰、肾源性或肝源性水肿",
+      "reacoesAdversas": "低钾、低钠、高血糖、高尿酸",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "可能分泌入乳，应避免",
+      "administracao": "口服",
+      "doseMaxima": "每日50毫克",
+      "doseMinima": "每日12.5毫克",
+      "classificacao": "长效噻嗪类利尿剂",
+      "apresentacao": "片剂：12.5mg、25mg、50mg",
+      "interacaoMedicamento": "与锂、NSAIDs、降糖药、洋地黄类相互作用",
+      "posologia": "每日早晨服用12.5–25毫克",
+      "armazenamento": "常温干燥保存",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "无尿、严重低钾、磺胺类过敏",
+      "cuidadosMedicos": "监测肾功能与电解质水平",
+      "cuidadosFarmaceuticos": "提醒患者识别电解质紊乱症状",
+      "cuidadosEnfermagem": "观察脱水、低血压、心律异常迹象",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

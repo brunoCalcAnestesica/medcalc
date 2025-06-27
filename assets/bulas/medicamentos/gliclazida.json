@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Gliclazida",
+      "suspension": "Suspender no dia da cirurgia",
+      "risk": "Risco de hipoglicemia intraoperatória e interação com jejum",
+      "reintroduction": "Reintroduzir após retorno da alimentação oral com controle glicêmico estável"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gliclazida",
+      "nomeComercial": "Diamicron, Gliclada, Azukon, Glicla",
+      "mecanismoAcao": "Estimula a liberação de insulina pelas células beta pancreáticas",
+      "farmacocinetica": "Absorção oral, metabolização hepática, excreção urinária",
+      "farmacodinamica": "Hipoglicemiante de ação prolongada, sulfonilureia de segunda geração",
+      "indicacoes": "Diabetes mellitus tipo 2",
+      "reacoesAdversas": "Hipoglicemia, náuseas, distúrbios gastrointestinais, ganho de peso",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Contraindicado na lactação, pode ser excretado no leite",
+      "administracao": "Via oral",
+      "doseMaxima": "120 mg/dia",
+      "doseMinima": "30 mg/dia",
+      "classificacao": "Antidiabético oral - sulfonilureia",
+      "apresentacao": "Comprimidos de liberação modificada ou imediata",
+      "interacaoMedicamento": "Aumenta o risco de hipoglicemia com AINEs, beta-bloqueadores, anticoagulantes",
+      "posologia": "Dose única diária com café da manhã",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo específico",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Diabetes tipo 1, cetoacidose diabética, insuficiência hepática ou renal grave",
+      "cuidadosMedicos": "Monitorar glicemia e sinais de hipoglicemia no pós-operatório",
+      "cuidadosFarmaceuticos": "Atenção ao tempo de liberação do comprimido (imediata vs prolongada)",
+      "cuidadosEnfermagem": "Observar sinais de hipoglicemia e administrar conforme orientação médica",
+      "fontesBibliograficas": "ANVISA, SBEM, EMA, Micromedex, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Gliclazide",
+      "suspension": "Suspend on the day of surgery",
+      "risk": "Risk of intraoperative hypoglycemia and fasting interaction",
+      "reintroduction": "Reintroduce after stable oral intake and glycemic control"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gliclazide",
+      "nomeComercial": "Diamicron, Gliclada, Gliclazide generic",
+      "mecanismoAcao": "Stimulates insulin release from pancreatic beta cells",
+      "farmacocinetica": "Oral absorption, hepatic metabolism, renal excretion",
+      "farmacodinamica": "Long-acting sulfonylurea with hypoglycemic effect",
+      "indicacoes": "Type 2 diabetes mellitus",
+      "reacoesAdversas": "Hypoglycemia, nausea, GI disturbances, weight gain",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended; may be excreted in breast milk",
+      "administracao": "Oral route",
+      "doseMaxima": "120 mg/day",
+      "doseMinima": "30 mg/day",
+      "classificacao": "Oral antidiabetic - sulfonylurea",
+      "apresentacao": "Modified or immediate-release tablets",
+      "interacaoMedicamento": "Increased hypoglycemia risk with NSAIDs, beta-blockers, anticoagulants",
+      "posologia": "Single daily dose with breakfast",
+      "armazenamento": "Store at room temperature, avoid moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Type 1 diabetes, diabetic ketoacidosis, severe hepatic or renal failure",
+      "cuidadosMedicos": "Monitor blood glucose and signs of hypoglycemia post-op",
+      "cuidadosFarmaceuticos": "Attention to formulation (immediate vs extended release)",
+      "cuidadosEnfermagem": "Watch for hypoglycemia and administer per medical order",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, SBEM, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Gliclazida",
+      "suspension": "Suspender el día de la cirugía",
+      "risk": "Riesgo de hipoglucemia intraoperatoria e interacción con el ayuno",
+      "reintroduction": "Reintroducir tras reanudación de alimentación oral y control glucémico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gliclazida",
+      "nomeComercial": "Diamicron, Gliclada, Gliclazida genérica",
+      "mecanismoAcao": "Estimula la liberación de insulina de las células beta pancreáticas",
+      "farmacocinetica": "Absorción oral, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Sulfonilurea de acción prolongada con efecto hipoglucemiante",
+      "indicacoes": "Diabetes mellitus tipo 2",
+      "reacoesAdversas": "Hipoglucemia, náuseas, molestias gastrointestinales, aumento de peso",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Contraindicado durante la lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "120 mg/día",
+      "doseMinima": "30 mg/día",
+      "classificacao": "Antidiabético oral - sulfonilurea",
+      "apresentacao": "Comprimidos de liberación modificada o inmediata",
+      "interacaoMedicamento": "Mayor riesgo de hipoglucemia con AINEs, beta bloqueadores, anticoagulantes",
+      "posologia": "Dosis única diaria con el desayuno",
+      "armazenamento": "Temperatura ambiente, evitar humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Diabetes tipo 1, cetoacidosis diabética, insuficiencia hepática o renal grave",
+      "cuidadosMedicos": "Controlar glucemia y signos de hipoglucemia en el postoperatorio",
+      "cuidadosFarmaceuticos": "Atención al tipo de liberación del comprimido",
+      "cuidadosEnfermagem": "Observar hipoglucemia y administrar según indicación médica",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, ANVISA, SBEM"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "格列齐特",
+      "suspension": "手术当天停药",
+      "risk": "术中发生低血糖的风险，并与禁食期相互作用",
+      "reintroduction": "术后恢复进食且血糖稳定后可重新服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "格列齐特",
+      "nomeComercial": "达美康, 格列齐特仿制药",
+      "mecanismoAcao": "刺激胰岛β细胞分泌胰岛素",
+      "farmacocinetica": "口服吸收，肝脏代谢，肾脏排泄",
+      "farmacodinamica": "第二代磺脲类降糖药，作用持久",
+      "indicacoes": "2型糖尿病",
+      "reacoesAdversas": "低血糖、恶心、胃肠不适、体重增加",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期禁用，可能通过乳汁分泌",
+      "administracao": "口服",
+      "doseMaxima": "每日120毫克",
+      "doseMinima": "每日30毫克",
+      "classificacao": "口服降糖药 - 磺脲类",
+      "apresentacao": "缓释片或速释片",
+      "interacaoMedicamento": "与NSAIDs、β阻滞剂、抗凝剂合用可增加低血糖风险",
+      "posologia": "每日早餐时服用一次",
+      "armazenamento": "室温保存，避免潮湿",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "1型糖尿病、酮症酸中毒、重度肝肾功能不全",
+      "cuidadosMedicos": "术后监测血糖及低血糖症状",
+      "cuidadosFarmaceuticos": "注意片剂的释放类型（缓释或速释）",
+      "cuidadosEnfermagem": "观察低血糖迹象，按医嘱给药",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、EMA、SBEM"
+    }
+  }
+}

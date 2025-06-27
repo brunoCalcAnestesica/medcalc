@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cetamina",
+      "suspension": "Não se aplica (uso exclusivo hospitalar IV ou IM); avaliar suspensão de benzodiazepínicos ou anticonvulsivantes em terapia crônica",
+      "risk": "Desorientação, alucinações, hipertensão, salivação excessiva, aumento da pressão intracraniana e ocular; interação com depressores do SNC",
+      "reintroduction": "Pode ser reintroduzida em contexto anestésico ou emergência, com monitoramento hemodinâmico e neuropsiquiátrico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Cetamina",
+      "nomeComercial": "Ketalar, Cetamin, Ketaminol",
+      "mecanismoAcao": "Antagonista não competitivo do receptor NMDA; promove dissociação sensorial com preservação dos reflexos de vias aéreas",
+      "farmacocinetica": "Início: IV 30s, IM 3–4min; duração: IV 5–10min, IM 12–25min; metabolização hepática (CYP3A4); excreção renal",
+      "farmacodinamica": "Anestésico dissociativo com efeito analgésico, amnésico e simpaticomimético; útil em trauma, queimados e emergência psiquiátrica",
+      "indicacoes": "Anestesia, sedação em emergência, broncoespasmo refratário, analgesia em trauma, depressão resistente (off-label)",
+      "reacoesAdversas": "Alucinações, confusão, aumento da PA/FC, salivação, movimentos involuntários, náuseas, vômitos, nistagmo",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Segura em dose única; evitar uso prolongado em lactação",
+      "administracao": "IV, IM, SC, intranasal, oral (off-label psiquiátrico)",
+      "doseMaxima": "Anestesia IV: até 2mg/kg; IM: até 10mg/kg",
+      "doseMinima": "0,25–0,5mg/kg para sedação consciente",
+      "classificacao": "Anestésico dissociativo (antagonista NMDA)",
+      "apresentacao": "Solução injetável: 50mg/mL, 100mg/mL; spray nasal (off-label)",
+      "interacaoMedicamento": "Benzodiazepínicos, opioides, álcool, anticolinérgicos, halotano, antidepressivos",
+      "posologia": "Anestesia IV: 1–2mg/kg em bolus lento; IM: 4–10mg/kg; sedação: 0,5–1mg/kg IV",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "IV lento ou diluído em SF; IM em músculo grande; uso isolado ou com midazolam para reduzir efeitos adversos",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipertensão grave, doença coronariana instável, hipertensão intracraniana descompensada, esquizofrenia ativa",
+      "cuidadosMedicos": "Monitorar PA, FC, ECG, FR, status mental e sinais de dissociação ou agitação",
+      "cuidadosFarmaceuticos": "Verificar compatibilidade e diluição; uso exclusivo hospitalar sob supervisão médica",
+      "cuidadosEnfermagem": "Observar nível de consciência, secreção salivar, PA, pupilas, alucinações, espasmos musculares",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, UpToDate, Miller’s Anesthesia, SBAR"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ketamine",
+      "suspension": "Not applicable (IV/IM anesthetic); assess sedative or antiepileptic discontinuation pre-op if chronically used",
+      "risk": "Emergence delirium, hypertension, hypersalivation, intracranial pressure elevation, CNS stimulation; interacts with CNS depressants",
+      "reintroduction": "May be reintroduced in anesthesia/emergency settings with monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ketamine Hydrochloride",
+      "nomeComercial": "Ketalar",
+      "mecanismoAcao": "Noncompetitive NMDA receptor antagonist; dissociative anesthetic with analgesia and amnesia",
+      "farmacocinetica": "Onset: IV 30s, IM 3–4min; duration: IV 5–10min, IM 12–25min; hepatic metabolism (CYP3A4); renal excretion",
+      "farmacodinamica": "IV anesthetic that preserves airway reflexes; used in trauma, emergency, burns, and resistant depression",
+      "indicacoes": "Anesthesia induction, procedural sedation, status asthmaticus, pain control, resistant depression (off-label)",
+      "reacoesAdversas": "Hallucinations, confusion, BP/HR elevation, nausea, vomiting, hypersalivation, nystagmus",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe for single dose; avoid prolonged use in nursing",
+      "administracao": "IV, IM, SC, intranasal, oral (off-label)",
+      "doseMaxima": "IV: 2mg/kg; IM: 10mg/kg",
+      "doseMinima": "0.25–0.5mg/kg for light sedation",
+      "classificacao": "Dissociative anesthetic (NMDA antagonist)",
+      "apresentacao": "Injection solution: 50mg/mL, 100mg/mL; nasal spray (off-label)",
+      "interacaoMedicamento": "Benzodiazepines, opioids, halothane, alcohol, antidepressants, anticholinergics",
+      "posologia": "IV: 1–2mg/kg bolus; IM: 4–10mg/kg; procedural sedation: 0.5–1mg/kg IV",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Slow IV bolus or diluted; IM into large muscle; consider midazolam pretreatment",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "Severe hypertension, active schizophrenia, unstable cardiac disease, uncontrolled intracranial hypertension",
+      "cuidadosMedicos": "Monitor vitals, dissociation, ECG, and CNS signs",
+      "cuidadosFarmaceuticos": "For hospital use only; validate dilution/compatibility protocols",
+      "cuidadosEnfermagem": "Assess sedation, salivation, BP, hallucinations, eye movement, agitation",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, UpToDate, Miller’s Anesthesia"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ketamina",
+      "suspension": "No aplica (anestésico IV/IM); considerar suspensión de sedantes si se usan crónicamente",
+      "risk": "Delirio al despertar, hipertensión, hipersalivación, aumento de PIC, náuseas, vómitos",
+      "reintroduction": "Puede usarse nuevamente en anestesia o urgencias bajo vigilancia clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de Ketamina",
+      "nomeComercial": "Ketalar",
+      "mecanismoAcao": "Antagonista NMDA no competitivo; anestesia disociativa con preservación de reflejos faríngeos",
+      "farmacocinetica": "Inicio: IV 30s, IM 3–4min; duración: IV 5–10min, IM 12–25min; metabolismo hepático (CYP3A4); excreción renal",
+      "farmacodinamica": "Anestésico de acción rápida; mantiene ventilación espontánea; útil en trauma, sedación y depresión resistente",
+      "indicacoes": "Inducción anestésica, sedación en urgencias, broncoespasmo, analgesia, depresión (off-label)",
+      "reacoesAdversas": "Alucinaciones, confusión, hipertensión, náuseas, salivación excesiva, movimientos involuntarios",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Una sola dosis es segura; evitar uso prolongado",
+      "administracao": "IV, IM, SC, intranasal, oral (off-label)",
+      "doseMaxima": "IV: 2mg/kg; IM: 10mg/kg",
+      "doseMinima": "0,25–0,5mg/kg para sedación ligera",
+      "classificacao": "Anestésico disociativo (antagonista NMDA)",
+      "apresentacao": "Solución inyectable: 50mg/mL, 100mg/mL; spray nasal (off-label)",
+      "interacaoMedicamento": "Benzodiacepinas, opioides, halotano, alcohol, antidepresivos",
+      "posologia": "IV: 1–2mg/kg; IM: 4–10mg/kg; sedación: 0,5–1mg/kg IV",
+      "armazenamento": "15–30°C, protegido de luz",
+      "preparo": "IV lenta o diluida en SF; IM en músculo grande; premedicar con midazolam",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipertensión grave, esquizofrenia activa, cardiopatía inestable, hipertensión endocraneana",
+      "cuidadosMedicos": "Monitorizar PA, FC, ECG, conciencia, reflejos y respiración",
+      "cuidadosFarmaceuticos": "Revisar compatibilidad y condiciones de uso; sólo en hospitales",
+      "cuidadosEnfermagem": "Observar agitación, pupilas, secreciones, FR, alucinaciones",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE, Miller"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氯胺酮",
+      "suspension": "不适用（仅用于IV/IM麻醉）；慢性使用镇静药者术前应评估",
+      "risk": "高血压、幻觉、精神错乱、分离状态、呼吸兴奋或抑制、唾液分泌增多",
+      "reintroduction": "术后或急诊可重新使用，需密切监测神志与血流动力学"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸氯胺酮",
+      "nomeComercial": "Ketalar, 克他命注射液",
+      "mecanismoAcao": "非竞争性NMDA受体拮抗剂，引起感觉与认知分离状态",
+      "farmacocinetica": "IV起效30秒，IM起效3–4分钟；IV持续5–10分钟，IM持续12–25分钟；肝代谢，肾排泄",
+      "farmacodinamica": "麻醉诱导与镇痛药，保持自主呼吸，用于创伤、急救、顽固性抑郁症",
+      "indicacoes": "麻醉诱导、短程镇静、哮喘持续状态、抗抑郁治疗（off-label）",
+      "reacoesAdversas": "幻觉、迷惑、高血压、心率加快、恶心、呕吐、流涎、眼震",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "单次使用安全；避免长期使用哺乳者",
+      "administracao": "IV、IM、皮下、鼻喷、口服（off-label）",
+      "doseMaxima": "IV：2mg/kg；IM：10mg/kg",
+      "doseMinima": "0.25–0.5mg/kg",
+      "classificacao": "解离型麻醉药（NMDA拮抗剂）",
+      "apresentacao": "注射液：50mg/mL、100mg/mL；鼻喷剂（精神科用）",
+      "interacaoMedicamento": "苯二氮䓬类、阿片类、酒精、抗抑郁药、挥发性麻醉剂",
+      "posologia": "IV：1–2mg/kg缓推；IM：4–10mg/kg；轻镇静：0.5–1mg/kg IV",
+      "armazenamento": "常温，避光保存",
+      "preparo": "可稀释于NS或D5W；肌注于大肌群；联合咪达唑仑可降低副作用",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "严重高血压、不稳定心脏病、精神分裂症、颅高压",
+      "cuidadosMedicos": "监测意识、血压、ECG、HR、FR",
+      "cuidadosFarmaceuticos": "医院专用药物；避免滥用风险；建议有前用药中枢抑制剂监测互动",
+      "cuidadosEnfermagem": "观察分离现象、意识状态、血压、瞳孔、分泌物",
+      "fontesBibliograficas": "NMPA, WHO, FDA, Micromedex, UpToDate, Miller"
+    }
+  }
+}

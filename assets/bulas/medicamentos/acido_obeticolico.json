@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ácido obeticólico",
+      "suspension": "Suspender 5 dias antes de cirurgias hepáticas ou em jejum prolongado em pacientes com cirrose avançada",
+      "risk": "Risco de prurido intenso, descompensação hepática em cirrose Child-Pugh B ou C, elevação de bilirrubina e transaminases",
+      "reintroduction": "Reintroduzir com cautela após estabilização hepática e tolerância oral"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido obeticólico",
+      "nomeComercial": "Ocaliva",
+      "mecanismoAcao": "Agonista do receptor FXR (farnesoide X) nuclear hepático, modulando produção de ácidos biliares e reduzindo inflamação e fibrose hepática",
+      "farmacocinetica": "Biodisponibilidade oral; meia-vida ~6 dias; excreção biliar",
+      "farmacodinamica": "Reduz marcadores bioquímicos da colestase e inflamação hepática",
+      "indicacoes": "Colangite biliar primária (CBP) em pacientes que não respondem ou não toleram ácido ursodesoxicólico",
+      "reacoesAdversas": "Prurido, fadiga, dor abdominal, constipação, artralgia, hepatotoxicidade em cirrose avançada",
+      "riscoGravidez": "Categoria C – evitar uso, exceto se necessário",
+      "riscoLactacao": "Desconhecido – evitar se possível",
+      "administracao": "Oral, 1 vez ao dia",
+      "doseMaxima": "10 mg/dia (não cirrótico); 5 mg/sem (Child C)",
+      "doseMinima": "5 mg/dia",
+      "classificacao": "Agonista nuclear FXR / colerético",
+      "apresentacao": "Comprimidos de 5 mg e 10 mg",
+      "interacaoMedicamento": "Cautela com anticoagulantes, inibidores OATP1B1, fenitoína, ciclosporina",
+      "posologia": "5 mg/dia com possível aumento para 10 mg após 3 meses",
+      "armazenamento": "Temperatura ambiente (<30°C)",
+      "preparo": "Uso direto em comprimido; não partir",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Colangite biliar obstrutiva completa; cirrose descompensada não monitorada",
+      "cuidadosMedicos": "Monitorar função hepática (ALT, AST, bilirrubina); ajustar dose em cirrose",
+      "cuidadosFarmaceuticos": "Verificar função hepática antes e durante o uso; orientar sobre prurido",
+      "cuidadosEnfermagem": "Observar sintomas de toxicidade hepática e piora do prurido",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Medscape, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Obeticholic acid",
+      "suspension": "Discontinue 5 days before liver-related surgery or prolonged fasting in cirrhotic patients",
+      "risk": "Severe pruritus, hepatic decompensation in Child B/C cirrhosis, elevated bilirubin/ALT/AST",
+      "reintroduction": "Resume cautiously after hepatic stabilization and oral tolerance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Obeticholic acid",
+      "nomeComercial": "Ocaliva",
+      "mecanismoAcao": "FXR agonist that regulates bile acid synthesis and reduces hepatic inflammation",
+      "farmacocinetica": "Oral bioavailability; T½ ~6 days; biliary excretion",
+      "farmacodinamica": "Improves biochemical markers in cholestatic liver disease",
+      "indicacoes": "Primary biliary cholangitis (PBC) unresponsive/intolerant to ursodiol",
+      "reacoesAdversas": "Pruritus, fatigue, abdominal pain, constipation, arthralgia, liver toxicity",
+      "riscoGravidez": "Category C – avoid unless necessary",
+      "riscoLactacao": "Unknown – caution advised",
+      "administracao": "Oral once daily",
+      "doseMaxima": "10 mg/day (non-cirrhotic); 5 mg/week (Child C)",
+      "doseMinima": "5 mg/day",
+      "classificacao": "FXR agonist / cholerectic",
+      "apresentacao": "5 mg and 10 mg tablets",
+      "interacaoMedicamento": "Caution with warfarin, cyclosporine, phenytoin, OATP1B1 inhibitors",
+      "posologia": "Start 5 mg/day, increase to 10 mg after 3 months if tolerated",
+      "armazenamento": "Room temperature (<30°C)",
+      "preparo": "Do not crush or split",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Complete biliary obstruction; decompensated cirrhosis",
+      "cuidadosMedicos": "Monitor LFTs regularly; adjust dose in cirrhotics",
+      "cuidadosFarmaceuticos": "Educate on pruritus and liver symptom monitoring",
+      "cuidadosEnfermagem": "Assess for hepatic toxicity signs and pruritus worsening",
+      "fontesBibliograficas": "FDA, Micromedex, Medscape"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ácido obeticólico",
+      "suspension": "Suspender 5 días antes de cirugía hepática o ayuno prolongado en cirróticos",
+      "risk": "Prurito intenso, hepatotoxicidad, descompensación en Child B/C",
+      "reintroduction": "Reiniciar tras estabilización hepática y vía oral tolerada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido obeticólico",
+      "nomeComercial": "Ocaliva",
+      "mecanismoAcao": "Agonista del receptor FXR; modula síntesis de ácidos biliares",
+      "farmacocinetica": "VO; T½ ~6 días; excreción biliar",
+      "farmacodinamica": "Mejora parámetros de colestasis y daño hepático",
+      "indicacoes": "Colangitis biliar primaria resistente a ursodiol",
+      "reacoesAdversas": "Prurito, dolor abdominal, estreñimiento, fatiga",
+      "riscoGravidez": "Categoría C – evitar si no es imprescindible",
+      "riscoLactacao": "Evitar por precaución",
+      "administracao": "Oral diaria",
+      "doseMaxima": "10 mg/día (sin cirrosis); 5 mg/semana (Child C)",
+      "doseMinima": "5 mg/día",
+      "classificacao": "Agonista FXR",
+      "apresentacao": "Comprimidos 5–10 mg",
+      "interacaoMedicamento": "Cautela con warfarina, fenitoína, ciclosporina",
+      "posologia": "Iniciar con 5 mg/día; aumentar si tolerado tras 3 meses",
+      "armazenamento": "<30°C",
+      "preparo": "Uso directo; no triturar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Obstrucción biliar completa, cirrosis descompensada",
+      "cuidadosMedicos": "Monitorear función hepática",
+      "cuidadosFarmaceuticos": "Informar sobre síntomas de toxicidad",
+      "cuidadosEnfermagem": "Controlar prurito y signos hepáticos",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥贝胆酸",
+      "suspension": "术前5天停药（特别是肝手术或禁食）",
+      "risk": "可致瘙痒、肝酶升高、Child-Pugh B/C患者可能肝衰竭",
+      "reintroduction": "术后肝功能稳定后再启用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥贝胆酸",
+      "nomeComercial": "Ocaliva",
+      "mecanismoAcao": "激动FXR受体，调节胆汁酸合成与炎症",
+      "farmacocinetica": "口服吸收，T½约6天，胆汁排泄",
+      "farmacodinamica": "改善PBC患者的胆汁淤积与炎症指标",
+      "indicacoes": "原发性胆汁性胆管炎（PBC）",
+      "reacoesAdversas": "瘙痒、便秘、疲乏、关节痛、肝酶升高",
+      "riscoGravidez": "C类 – 尽量避免",
+      "riscoLactacao": "慎用",
+      "administracao": "口服，每日一次",
+      "doseMaxima": "每日10 mg（非肝硬化者）",
+      "doseMinima": "5 mg/日",
+      "classificacao": "核受体FXR激动剂",
+      "apresentacao": "5 mg、10 mg片剂",
+      "interacaoMedicamento": "与华法林、环孢素、苯妥英有交互",
+      "posologia": "起始5 mg/日，3个月后可增至10 mg",
+      "armazenamento": "常温<30°C",
+      "preparo": "整片吞服",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "胆道梗阻、失代偿肝硬化",
+      "cuidadosMedicos": "监测ALT、AST、胆红素变化",
+      "cuidadosFarmaceuticos": "告知瘙痒、肝功能异常警示",
+      "cuidadosEnfermagem": "记录瘙痒与腹胀情况",
+      "fontesBibliograficas": "FDA、Micromedex、Medscape、中国药典"
+    }
+  }
+}

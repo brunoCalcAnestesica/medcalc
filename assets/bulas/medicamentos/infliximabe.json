@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Infliximabe",
+      "suspension": "Suspender 4 semanas antes de cirurgias eletivas de grande porte",
+      "risk": "Risco elevado de infecção e atraso de cicatrização; imunossupressão prolongada e inibição de TNF-alfa",
+      "reintroduction": "Reintroduzir após completa cicatrização da ferida cirúrgica e ausência de sinais infecciosos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Infliximabe",
+      "nomeComercial": "Remicade, Remsima, Inflectra",
+      "mecanismoAcao": "Anticorpo monoclonal quimérico anti-TNF-α que neutraliza a atividade inflamatória do TNF",
+      "farmacocinetica": "Administração IV; meia-vida de 8–10 dias; metabolismo por vias proteicas não específicas",
+      "farmacodinamica": "Reduz inflamação, infiltração celular e produção de citocinas; supressão da resposta imune inata",
+      "indicacoes": "Doença de Crohn, retocolite ulcerativa, artrite reumatoide, espondilite anquilosante, psoríase e artrite psoriásica",
+      "reacoesAdversas": "Infecções respiratórias, reações infusionais, hepatotoxicidade, reativação de TB e hepatite B, lúpus induzido por fármacos",
+      "riscoGravidez": "Categoria B – atravessa a placenta no 2º e 3º trimestres",
+      "riscoLactacao": "Possível, mas geralmente considerado seguro; usar com cautela",
+      "administracao": "Intravenosa (infusão lenta)",
+      "doseMaxima": "5–10 mg/kg a cada 4 a 8 semanas",
+      "doseMinima": "3 mg/kg",
+      "classificacao": "Imunobiológico anti-TNF (anticorpo monoclonal)",
+      "apresentacao": "Frascos de 100 mg liofilizado para infusão",
+      "interacaoMedicamento": "Evitar uso concomitante com anakinra, abatacepte ou outros imunobiológicos",
+      "posologia": "3–5 mg/kg nas semanas 0, 2 e 6; manutenção a cada 8 semanas",
+      "armazenamento": "Refrigerado entre 2–8 ºC, protegido da luz; não congelar",
+      "preparo": "Reconstituir com 10 mL de água para injetáveis; diluir em SF 0,9% (250 mL) e infundir em até 2 horas",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Infecção ativa grave, insuficiência cardíaca moderada a grave (classe III/IV NYHA)",
+      "cuidadosMedicos": "Testar para TB e hepatite B antes do início; monitorar sinais infecciosos e função hepática",
+      "cuidadosFarmaceuticos": "Reconstituir em condições assépticas e administrar em ambiente hospitalar",
+      "cuidadosEnfermagem": "Observar reações infusionais e sinais de infecção nas semanas subsequentes",
+      "fontesBibliograficas": "ANVISA, FDA, BNF, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Infliximab",
+      "suspension": "Discontinue 4 weeks prior to major elective surgery",
+      "risk": "High risk of infection and delayed wound healing; prolonged immunosuppression via TNF blockade",
+      "reintroduction": "Restart after full wound healing and no signs of active infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Infliximab",
+      "nomeComercial": "Remicade, Inflectra, Avsola",
+      "mecanismoAcao": "Chimeric monoclonal antibody against TNF-α, neutralizing inflammatory signaling",
+      "farmacocinetica": "IV administration; half-life ~8–10 days; cleared via proteolysis",
+      "farmacodinamica": "Suppresses immune cell activation, cytokine production and inflammation",
+      "indicacoes": "Crohn’s disease, ulcerative colitis, RA, AS, plaque psoriasis, psoriatic arthritis",
+      "reacoesAdversas": "URTIs, infusion reactions, hepatitis, TB reactivation, drug-induced lupus",
+      "riscoGravidez": "Category B – crosses placenta in 2nd/3rd trimesters",
+      "riscoLactacao": "Detected in milk; generally considered safe",
+      "administracao": "IV infusion",
+      "doseMaxima": "10 mg/kg q4–8 weeks",
+      "doseMinima": "3 mg/kg",
+      "classificacao": "Anti-TNF immunobiologic (monoclonal antibody)",
+      "apresentacao": "100 mg lyophilized vials",
+      "interacaoMedicamento": "Avoid with anakinra, abatacept, or other biologics",
+      "posologia": "3–5 mg/kg at weeks 0, 2, 6; maintenance q8 weeks",
+      "armazenamento": "Store refrigerated (36–46 °F), protect from light, do not freeze",
+      "preparo": "Reconstitute with 10 mL SWFI; dilute in 250 mL NS and infuse over 2 hours",
+      "solucoesCompatíveis": "NS",
+      "contraindicacoes": "Severe infections, moderate-to-severe heart failure (NYHA III–IV)",
+      "cuidadosMedicos": "Screen for TB and HBV prior to use; monitor liver and infection",
+      "cuidadosFarmaceuticos": "Hospital setting only; use aseptic technique",
+      "cuidadosEnfermagem": "Observe for infusion reactions and delayed infection signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Infliximab",
+      "suspension": "Suspender 4 semanas antes de cirugía mayor programada",
+      "risk": "Alto riesgo de infección y mala cicatrización; inmunosupresión sostenida",
+      "reintroduction": "Reiniciar tras cicatrización completa y ausencia de infección"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Infliximab",
+      "nomeComercial": "Remicade, Remsima, Inflectra",
+      "mecanismoAcao": "Anticuerpo monoclonal anti-TNF-α que bloquea señalización inflamatoria",
+      "farmacocinetica": "IV, vida media 8–10 días, degradación proteica",
+      "farmacodinamica": "Inhibe citocinas, infiltrado celular y respuesta inmune",
+      "indicacoes": "Crohn, colitis ulcerosa, AR, espondilitis, psoriasis",
+      "reacoesAdversas": "Infecciones, reacciones a la infusión, hepatotoxicidad, reactivación de TB y hepatitis B",
+      "riscoGravidez": "Categoría B – cruza placenta desde segundo trimestre",
+      "riscoLactacao": "Detectado en leche; uso con precaución",
+      "administracao": "Intravenosa",
+      "doseMaxima": "10 mg/kg cada 4–8 semanas",
+      "doseMinima": "3 mg/kg",
+      "classificacao": "Inmunobiológico anti-TNF (anticuerpo monoclonal)",
+      "apresentacao": "Vial 100 mg liofilizado",
+      "interacaoMedicamento": "Evitar con otros biológicos (anakinra, abatacept)",
+      "posologia": "3–5 mg/kg semanas 0, 2, 6; mantenimiento cada 8 semanas",
+      "armazenamento": "Refrigerado 2–8 °C, proteger de luz",
+      "preparo": "Reconstituir con 10 mL agua inyectable; diluir en 250 mL SF, infundir en 2 horas",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Infección activa, ICC moderada/grave (NYHA III–IV)",
+      "cuidadosMedicos": "Tamizaje de TB y hepatitis B; vigilar hepático e infecciones",
+      "cuidadosFarmaceuticos": "Preparar en condiciones estériles y hospital",
+      "cuidadosEnfermagem": "Vigilar reacciones y signos infecciosos tardíos",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "英夫利昔单抗",
+      "suspension": "择期手术前4周停药",
+      "risk": "增加感染及延迟愈合风险；TNF抑制致持续免疫抑制",
+      "reintroduction": "术后创口愈合良好且无感染迹象时重新给药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "英夫利昔单抗",
+      "nomeComercial": "Remicade, 英复利, 益普特",
+      "mecanismoAcao": "嵌合型单克隆抗体，中和TNF-α炎症反应",
+      "farmacocinetica": "静脉注射，半衰期8–10天，经蛋白代谢清除",
+      "farmacodinamica": "抑制免疫细胞活性及细胞因子释放",
+      "indicacoes": "克罗恩病、溃疡性结肠炎、类风湿关节炎、银屑病",
+      "reacoesAdversas": "感染、输液反应、肝毒性、结核与乙肝复发、药物性红斑狼疮",
+      "riscoGravidez": "B类（2/3孕期通过胎盘）",
+      "riscoLactacao": "乳汁中可检出；一般认为安全",
+      "administracao": "静脉滴注",
+      "doseMaxima": "10 mg/kg 每4–8周",
+      "doseMinima": "3 mg/kg",
+      "classificacao": "抗TNF生物制剂（单抗）",
+      "apresentacao": "100毫克冻干粉注射瓶",
+      "interacaoMedicamento": "避免与anakinra、abatacept及其他生物制剂联用",
+      "posologia": "初始0、2、6周给予；维持每8周一次",
+      "armazenamento": "2–8°C冷藏避光，不可冷冻",
+      "preparo": "10 mL灭菌注射用水重构，稀释于250 mL生理盐水，2小时输注",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "活动性感染、中重度心衰（NYHA III–IV）",
+      "cuidadosMedicos": "术前筛查TB与乙肝；监测肝功能与感染",
+      "cuidadosFarmaceuticos": "严格无菌操作，建议医院环境中使用",
+      "cuidadosEnfermagem": "观察输注反应与感染迹象",
+      "fontesBibliograficas": "中国药典、UpToDate、Micromedex、FDA"
+    }
+  }
+}

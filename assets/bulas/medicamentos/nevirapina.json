@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nevirapina",
+      "suspension": "Suspender apenas se clinicamente indicado; continuar em cirurgias eletivas com monitoramento hepático",
+      "risk": "Risco de hepatotoxicidade, reações cutâneas graves e interações medicamentosas com anestésicos e imunossupressores",
+      "reintroduction": "Manter se possível; se suspensa, reintroduzir com monitoramento de função hepática e contagem de linfócitos CD4+"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nevirapina",
+      "nomeComercial": "Viramune",
+      "mecanismoAcao": "Inibidor não nucleosídeo da transcriptase reversa (NNRTI), bloqueando a replicação do HIV-1 por ligação direta à enzima",
+      "farmacocinetica": "Boa absorção oral (>90%), alta ligação a proteínas plasmáticas, metabolização hepática (CYP3A4 e CYP2B6), meia-vida ~45h",
+      "farmacodinamica": "Reduz a carga viral e aumenta contagem de linfócitos CD4+ em pacientes com HIV-1",
+      "indicacoes": "Tratamento da infecção por HIV-1 em combinação com outros antirretrovirais",
+      "reacoesAdversas": "Hepatotoxicidade, rash cutâneo grave (incluindo síndrome de Stevens-Johnson), febre, náusea, fadiga",
+      "riscoGravidez": "Categoria B (usar apenas se benefício justificar o risco)",
+      "riscoLactacao": "Excretado no leite; contraindicado durante amamentação em países com acesso a fórmula infantil",
+      "administracao": "Via oral",
+      "doseMaxima": "400 mg/dia (após período de indução)",
+      "doseMinima": "200 mg/dia (fase inicial por 14 dias)",
+      "classificacao": "Antirretroviral, inibidor não nucleosídeo da transcriptase reversa (NNRTI)",
+      "apresentacao": "Comprimidos de 200 mg; suspensão oral 50 mg/5 mL",
+      "interacaoMedicamento": "Interage com rifampicina, cetoconazol, contraceptivos hormonais, anestésicos e imunossupressores via CYP3A4",
+      "posologia": "200 mg/dia por 14 dias, seguido de 200 mg 2x/dia ou 400 mg 1x/dia",
+      "armazenamento": "Temperatura ambiente, proteger da luz e umidade",
+      "preparo": "Agitar bem a suspensão antes de usar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, insuficiência hepática moderada a grave, rash cutâneo grave prévio",
+      "cuidadosMedicos": "Monitorar função hepática e sinais de reações cutâneas; avaliar risco-benefício em procedimentos cirúrgicos",
+      "cuidadosFarmaceuticos": "Orientar sobre adesão, início gradual da dose e sinais de toxicidade",
+      "cuidadosEnfermagem": "Observar icterícia, prurido, lesões cutâneas e adesão ao tratamento",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Viramune bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nevirapine",
+      "suspension": "Continue unless clinically contraindicated; monitor liver function during perioperative period",
+      "risk": "Risk of hepatotoxicity, severe skin reactions, and significant drug interactions with anesthetics and immunosuppressants",
+      "reintroduction": "Continue if possible; if withheld, reintroduce with liver monitoring and CD4+ count assessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nevirapine",
+      "nomeComercial": "Viramune",
+      "mecanismoAcao": "Non-nucleoside reverse transcriptase inhibitor (NNRTI) that binds directly to HIV-1 reverse transcriptase, blocking viral replication",
+      "farmacocinetica": "Well absorbed orally (>90%), highly protein-bound, hepatic metabolism (CYP3A4, CYP2B6), half-life ~45h",
+      "farmacodinamica": "Reduces HIV-1 viral load and increases CD4+ cell count",
+      "indicacoes": "Treatment of HIV-1 infection in combination with other antiretrovirals",
+      "reacoesAdversas": "Hepatotoxicity, severe rash (including Stevens-Johnson syndrome), fever, nausea, fatigue",
+      "riscoGravidez": "Category B (use only if benefits outweigh risks)",
+      "riscoLactacao": "Excreted in breast milk; contraindicated in settings with safe alternatives",
+      "administracao": "Oral",
+      "doseMaxima": "400 mg/day (after induction period)",
+      "doseMinima": "200 mg/day (for initial 14-day lead-in period)",
+      "classificacao": "Antiretroviral, NNRTI",
+      "apresentacao": "Tablets 200 mg; oral suspension 50 mg/5 mL",
+      "interacaoMedicamento": "Interacts with rifampin, ketoconazole, hormonal contraceptives, anesthetics, and CYP3A4 substrates",
+      "posologia": "200 mg once daily for 14 days, then 200 mg twice daily or 400 mg once daily",
+      "armazenamento": "Store at room temperature, protect from light and moisture",
+      "preparo": "Shake suspension well before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, moderate/severe hepatic impairment, history of severe rash",
+      "cuidadosMedicos": "Monitor liver function and rash development; evaluate perioperative risk-benefit",
+      "cuidadosFarmaceuticos": "Advise on gradual dose escalation, adherence, and signs of toxicity",
+      "cuidadosEnfermagem": "Monitor for jaundice, rash, pruritus, and therapy adherence",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Viramune PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nevirapina",
+      "suspension": "Continuar salvo contraindicación clínica; monitorizar función hepática en el perioperatorio",
+      "risk": "Riesgo de hepatotoxicidad, reacciones cutáneas graves e interacciones con anestésicos e inmunosupresores",
+      "reintroduction": "Reanudar tras monitorización hepática y evaluación de CD4+ si se suspendió"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nevirapina",
+      "nomeComercial": "Viramune",
+      "mecanismoAcao": "Inhibidor no nucleósido de la transcriptasa reversa (NNRTI) que bloquea la replicación del VIH-1",
+      "farmacocinetica": "Buena absorción oral (>90%), alta unión a proteínas plasmáticas, metabolismo hepático (CYP3A4, CYP2B6), vida media ~45h",
+      "farmacodinamica": "Reduce la carga viral y aumenta el recuento de CD4+",
+      "indicacoes": "Tratamiento del VIH-1 en combinación con otros antirretrovirales",
+      "reacoesAdversas": "Hepatotoxicidad, erupción cutánea grave (incluido síndrome de Stevens-Johnson), fiebre, náuseas, fatiga",
+      "riscoGravidez": "Categoría B (usar solo si el beneficio justifica el riesgo)",
+      "riscoLactacao": "Se excreta en la leche; evitar si hay alternativa segura",
+      "administracao": "Vía oral",
+      "doseMaxima": "400 mg/día (tras periodo de inducción)",
+      "doseMinima": "200 mg/día (fase inicial de 14 días)",
+      "classificacao": "Antirretroviral, NNRTI",
+      "apresentacao": "Comprimidos de 200 mg; suspensión oral 50 mg/5 mL",
+      "interacaoMedicamento": "Interacciones con rifampicina, ketoconazol, anticonceptivos hormonales, anestésicos y fármacos metabolizados por CYP3A4",
+      "posologia": "200 mg 1 vez/día por 14 días, luego 200 mg 2 veces/día o 400 mg 1 vez/día",
+      "armazenamento": "Conservar a temperatura ambiente, protegido de luz y humedad",
+      "preparo": "Agitar bien la suspensión antes de usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, insuficiencia hepática moderada/grave, antecedentes de erupciones graves",
+      "cuidadosMedicos": "Vigilar función hepática y aparición de rash; evaluar riesgo quirúrgico",
+      "cuidadosFarmaceuticos": "Informar sobre escalado de dosis, adherencia y señales de toxicidad",
+      "cuidadosEnfermagem": "Observar ictericia, erupción, prurito y adherencia",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, ficha técnica Viramune"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奈韦拉平",
+      "suspension": "除非有禁忌，术前不应停药；术期应监测肝功能",
+      "risk": "肝毒性、严重皮疹风险大，与麻醉药和免疫抑制剂相互作用明显",
+      "reintroduction": "如术前停药，术后应在监测CD4和肝功能后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奈韦拉平",
+      "nomeComercial": "Viramune",
+      "mecanismoAcao": "非核苷类逆转录酶抑制剂（NNRTI），可直接抑制HIV-1复制",
+      "farmacocinetica": "口服吸收良好（>90%），高蛋白结合，经CYP3A4和CYP2B6肝代谢，半衰期约45小时",
+      "farmacodinamica": "降低HIV病毒载量，提高CD4+细胞数",
+      "indicacoes": "联合其他抗逆转录病毒药用于HIV-1感染治疗",
+      "reacoesAdversas": "肝毒性、严重皮疹（如史蒂文斯-约翰逊综合征）、发热、恶心、乏力",
+      "riscoGravidez": "B类（仅在收益大于风险时使用）",
+      "riscoLactacao": "可分泌入乳汁；在有替代时禁用于哺乳期",
+      "administracao": "口服",
+      "doseMaxima": "每日400 mg（诱导期后）",
+      "doseMinima": "每日200 mg（前14天）",
+      "classificacao": "抗逆转录病毒药，非核苷类逆转录酶抑制剂",
+      "apresentacao": "片剂200 mg；口服液50 mg/5 mL",
+      "interacaoMedicamento": "与利福平、酮康唑、激素避孕药、麻醉药和CYP3A4底物药物相互作用",
+      "posologia": "200 mg每日1次 ×14天，后改为每日2次或每日400 mg",
+      "armazenamento": "室温保存，避光避湿",
+      "preparo": "口服液使用前充分摇匀",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "过敏、中重度肝功能不全、严重皮疹史",
+      "cuidadosMedicos": "监测肝功能和皮疹；评估围手术期风险",
+      "cuidadosFarmaceuticos": "强调递增剂量、依从性和毒性警示",
+      "cuidadosEnfermagem": "关注黄疸、皮疹、瘙痒和服药依从性",
+      "fontesBibliograficas": "Micromedex、中国药典、UpToDate、Viramune说明书"
+    }
+  }
+}

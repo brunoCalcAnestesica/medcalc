@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Epinefrina inalatória",
+      "suspension": "Não suspender em contexto de obstrução aguda; uso crítico em laringite estridulosa e epiglotite",
+      "risk": "Taquicardia, hipertensão, tremores, arritmias; risco maior em doses repetidas ou prolongadas",
+      "reintroduction": "Reintroduzir conforme padrão respiratório, em ambiente monitorado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Epinefrina",
+      "nomeComercial": "Racemic Epinephrine, AsthmaNefrin, Vaponefrin",
+      "mecanismoAcao": "Agonista alfa e beta-adrenérgico; vasoconstritor potente e broncodilatador por relaxamento do músculo liso",
+      "farmacocinetica": "Início rápido (1–5 min), duração ~30 min; efeito local nas vias aéreas",
+      "farmacodinamica": "Reduz edema de mucosa, melhora fluxo aéreo e reduz estridor",
+      "indicacoes": "Laringite viral estridulosa (crupe), bronquiolite, epiglotite, estenose subglótica, emergência respiratória",
+      "reacoesAdversas": "Palpitações, tremores, taquicardia, ansiedade, cefaleia",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Sem dados específicos; uso pontual provavelmente seguro",
+      "administracao": "Inalatória (nebulização)",
+      "doseMaxima": "0,5 mL de epinefrina racêmica 2,25% diluído em 3 mL de SF a cada 20 min, máx. 3 doses",
+      "doseMinima": "0,05 mL/kg (nebulização pediátrica)",
+      "classificacao": "Broncodilatador, vasoconstritor inalatório",
+      "apresentacao": "Ampolas 0,5 mL (2,25% racêmica) ou solução 1 mg/mL para diluição",
+      "interacaoMedicamento": "Potencial aditivo com outros simpaticomiméticos; risco com halogenados voláteis",
+      "posologia": "0,5 mL (racêmica 2,25%) diluída em 3 mL SF a cada 4 h; repetir conforme necessário",
+      "armazenamento": "Refrigerado 2–8°C; proteger da luz",
+      "preparo": "Diluir em SF 0,9% antes da nebulização",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Taquiarritmias, hipertensão grave não controlada",
+      "cuidadosMedicos": "Monitorar frequência cardíaca, saturação e padrão respiratório",
+      "cuidadosFarmaceuticos": "Assegurar diluição correta e uso imediato após preparo",
+      "cuidadosEnfermagem": "Observar resposta clínica e sinais de toxicidade adrenérgica",
+      "fontesBibliograficas": "UpToDate, Micromedex, AHA Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Inhaled Epinephrine",
+      "suspension": "Do not suspend during acute airway obstruction; essential in croup and epiglottitis",
+      "risk": "Tachycardia, hypertension, tremor, arrhythmias; higher risk with repeated doses",
+      "reintroduction": "May be restarted based on clinical need, with close monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Epinephrine",
+      "nomeComercial": "AsthmaNefrin, Vaponefrin, Racemic Epinephrine",
+      "mecanismoAcao": "Alpha and beta adrenergic agonist; bronchodilation and vasoconstriction",
+      "farmacocinetica": "Onset within 1–5 min, duration ~30 min; acts locally",
+      "farmacodinamica": "Decreases mucosal edema and airway resistance",
+      "indicacoes": "Croup, bronchiolitis, epiglottitis, airway emergencies",
+      "reacoesAdversas": "Palpitations, tremor, anxiety, tachycardia, headache",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; single-use considered low risk",
+      "administracao": "Inhaled via nebulization",
+      "doseMaxima": "0.5 mL of 2.25% racemic epinephrine in 3 mL NS every 20 min x3",
+      "doseMinima": "0.05 mL/kg (pediatric)",
+      "classificacao": "Inhaled sympathomimetic bronchodilator",
+      "apresentacao": "0.5 mL ampoule (2.25%) or 1 mg/mL solution",
+      "interacaoMedicamento": "Caution with other adrenergics; volatile anesthetics may increase risk",
+      "posologia": "0.5 mL racemic 2.25% diluted in 3 mL NS q4h as needed",
+      "armazenamento": "Refrigerate 2–8°C, protect from light",
+      "preparo": "Dilute in NS prior to nebulization",
+      "solucoesCompatíveis": "0.9% NaCl",
+      "contraindicacoes": "Severe uncontrolled arrhythmias or hypertension",
+      "cuidadosMedicos": "Monitor HR, BP, SpO2, and respiratory status",
+      "cuidadosFarmaceuticos": "Ensure proper dilution and immediate use after preparation",
+      "cuidadosEnfermagem": "Observe clinical effect and sympathomimetic side effects",
+      "fontesBibliograficas": "UpToDate, AHA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Epinefrina inhalada",
+      "suspension": "No suspender en caso de obstrucción aguda; indicada en crup y epiglotitis",
+      "risk": "Taquicardia, hipertensión, temblores; riesgo mayor si dosis repetidas",
+      "reintroduction": "Reintroducir bajo vigilancia si se necesita por condición respiratoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Epinefrina",
+      "nomeComercial": "AsthmaNefrin, Epinefrina Racémica",
+      "mecanismoAcao": "Agonista adrenérgico alfa y beta; acción broncodilatadora y vasoconstrictora",
+      "farmacocinetica": "Inicio 1–5 min, duración ~30 min, efecto local",
+      "farmacodinamica": "Reduce edema de mucosa y mejora flujo de aire",
+      "indicacoes": "Crup, bronquiolitis, epiglotitis, obstrucción laríngea aguda",
+      "reacoesAdversas": "Palpitaciones, ansiedad, cefalea, hipertensión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Sin datos; probablemente seguro en uso puntual",
+      "administracao": "Inhalación (nebulización)",
+      "doseMaxima": "0,5 mL al 2,25% diluido en 3 mL SF cada 20 min, máx. 3 veces",
+      "doseMinima": "0,05 mL/kg",
+      "classificacao": "Broncodilatador inhalado adrenérgico",
+      "apresentacao": "Ampollas 0,5 mL (2,25%), solución 1 mg/mL",
+      "interacaoMedicamento": "Cuidado con simpaticomiméticos y anestésicos volátiles",
+      "posologia": "0,5 mL + 3 mL SF cada 4 h o según necesidad",
+      "armazenamento": "2–8°C, protegido de luz",
+      "preparo": "Diluir justo antes de usar",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Arritmias o HTA no controladas",
+      "cuidadosMedicos": "Monitoreo cardíaco y respiratorio estricto",
+      "cuidadosFarmaceuticos": "Verificar dilución correcta",
+      "cuidadosEnfermagem": "Observar respuesta y efectos adrenérgicos",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "吸入肾上腺素",
+      "suspension": "气道急症时不可停药；用于哮吼、会厌炎等急救",
+      "risk": "可致心动过速、高血压、震颤，重复使用风险增加",
+      "reintroduction": "术后视呼吸情况可继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "肾上腺素（吸入用）",
+      "nomeComercial": "吸入型肾上腺素、AsthmaNefrin",
+      "mecanismoAcao": "激动α和β受体，支气管扩张、黏膜收缩",
+      "farmacocinetica": "起效1–5分钟，作用30分钟，局部作用",
+      "farmacodinamica": "缓解气道黏膜水肿、减轻喉鸣、改善通气",
+      "indicacoes": "哮吼、支气管炎、会厌炎、喉梗阻",
+      "reacoesAdversas": "心悸、焦虑、震颤、头痛、血压升高",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "缺乏资料，偶用可能安全",
+      "administracao": "雾化吸入",
+      "doseMaxima": "0.5 mL（2.25%）+ 3 mL生理盐水，每20分钟1次，最多3次",
+      "doseMinima": "儿童0.05 mL/kg",
+      "classificacao": "吸入型支气管扩张剂",
+      "apresentacao": "0.5 mL安瓿（2.25%），1 mg/mL溶液",
+      "interacaoMedicamento": "与拟交感药及吸入麻醉剂协同增加不良反应",
+      "posologia": "每4小时雾化一次或按需",
+      "armazenamento": "2–8°C，避光",
+      "preparo": "使用前稀释于0.9%氯化钠",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "严重心律失常、高血压未控制者慎用",
+      "cuidadosMedicos": "需严密监测心率血压及呼吸状态",
+      "cuidadosFarmaceuticos": "确认配制浓度及稳定性",
+      "cuidadosEnfermagem": "评估疗效与肾上腺素样不良反应",
+      "fontesBibliograficas": "中国药典, UpToDate, AHA指南, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Barbitúricos",
+      "suspension": "Suspender 5 a 7 dias antes de cirurgia eletiva prolongada",
+      "risk": "Depressão respiratória, interação com anestésicos gerais, risco de sedação excessiva e dependência cruzada",
+      "reintroduction": "Reintroduzir com monitoramento intensivo, apenas se necessário para controle convulsivo ou sedação controlada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenobarbital, Tiopental, Metoexital, Butabarbital",
+      "nomeComercial": "Gardenal, Pentotal, Brevital, Butisol",
+      "mecanismoAcao": "Potencializam a ação do GABA ao prolongar a abertura dos canais de cloro no receptor GABA-A",
+      "farmacocinetica": "Alta lipossolubilidade (tiopental, metoexital), meia-vida longa (fenobarbital); metabolização hepática (CYP450)",
+      "farmacodinamica": "Efeito sedativo-hipnótico, anticonvulsivante, anestésico ou letal em dose dependente",
+      "indicacoes": "Crises epilépticas, sedação, indução anestésica, controle de hipertensão intracraniana",
+      "reacoesAdversas": "Sedação profunda, depressão respiratória, hipotensão, dependência, rash cutâneo",
+      "riscoGravidez": "Categoria D – risco fetal conhecido, mas pode ser necessário em epilepsia grave",
+      "riscoLactacao": "Excretado no leite; risco de sedação neonatal",
+      "administracao": "Via oral, retal, intravenosa",
+      "doseMaxima": "Fenobarbital: 200–300 mg/dia; Tiopental: indução 3–5 mg/kg IV",
+      "doseMinima": "Fenobarbital: 1–3 mg/kg/dia VO",
+      "classificacao": "Depressores do SNC – barbitúricos",
+      "apresentacao": "Comprimidos, ampolas injetáveis, soluções pediátricas",
+      "interacaoMedicamento": "Potencializam efeitos de opioides, benzodiazepínicos, álcool e anestésicos; induzem CYP450",
+      "posologia": "Depende do uso (crônico ou agudo); ajuste por peso e função hepática",
+      "armazenamento": "Ambiente seco e fresco; reconstituição imediata para IV",
+      "preparo": "Tiopental requer reconstituição com água estéril",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, Glicose 5% (em geral)",
+      "contraindicacoes": "Porfiria, insuficiência respiratória aguda, hipersensibilidade a barbitúricos",
+      "cuidadosMedicos": "Monitorar função respiratória, nível de consciência e sinais de intoxicação",
+      "cuidadosFarmaceuticos": "Orientar sobre sedação, dependência e risco de retirada abrupta",
+      "cuidadosEnfermagem": "Monitorar nível de sedação, pressão arterial e FR; manter suporte ventilatório se necessário",
+      "fontesBibliograficas": "SBAn, ANVISA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Barbiturates",
+      "suspension": "Discontinue 5–7 days before major surgery",
+      "risk": "Respiratory depression, CNS suppression, anesthetic interaction, tolerance and dependency",
+      "reintroduction": "Reintroduce with intensive monitoring, only if needed for seizure control or sedation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Phenobarbital, Thiopental, Methohexital, Butabarbital",
+      "nomeComercial": "Luminal, Pentothal, Brevital, Butisol",
+      "mecanismoAcao": "Enhance GABA-A receptor activity by prolonging chloride channel opening",
+      "farmacocinetica": "Highly lipophilic (thiopental), long half-life (phenobarbital), hepatic metabolism (CYP450)",
+      "farmacodinamica": "Sedative-hypnotic, anticonvulsant, anesthetic, dose-dependent effects",
+      "indicacoes": "Epilepsy, sedation, anesthesia induction, intracranial pressure control",
+      "reacoesAdversas": "Deep sedation, respiratory depression, hypotension, dependence, rash",
+      "riscoGravidez": "Category D – fetal risk, used if necessary in severe epilepsy",
+      "riscoLactacao": "Excreted in milk; risk of neonatal sedation",
+      "administracao": "Oral, rectal, intravenous",
+      "doseMaxima": "Phenobarbital: 200–300 mg/day; Thiopental: 3–5 mg/kg IV",
+      "doseMinima": "Phenobarbital: 1–3 mg/kg/day PO",
+      "classificacao": "CNS depressants – barbiturates",
+      "apresentacao": "Tablets, injectable ampoules, pediatric solutions",
+      "interacaoMedicamento": "Enhance effects of opioids, benzos, alcohol, anesthetics; CYP450 inducer",
+      "posologia": "Chronic or acute use; weight and liver function-based",
+      "armazenamento": "Store in dry place; reconstitute IV forms immediately before use",
+      "preparo": "Thiopental must be reconstituted with sterile water",
+      "solucoesCompatíveis": "0.9% NaCl, 5% Dextrose",
+      "contraindicacoes": "Porphyria, acute respiratory insufficiency, barbiturate hypersensitivity",
+      "cuidadosMedicos": "Monitor consciousness, respiratory function, signs of overdose",
+      "cuidadosFarmaceuticos": "Counsel on sedation, dependency, and withdrawal risk",
+      "cuidadosEnfermagem": "Monitor sedation, BP, RR; maintain airway support as needed",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, ASA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Barbitúricos",
+      "suspension": "Suspender 5–7 días antes de cirugía programada",
+      "risk": "Depresión respiratoria, sedación profunda, interacción anestésica, riesgo de dependencia",
+      "reintroduction": "Reintroducir con monitorización si es necesario por convulsiones o sedación profunda"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenobarbital, Tiopental, Metohexital, Butabarbital",
+      "nomeComercial": "Gardenal, Pentotal, Brevital, Butisol",
+      "mecanismoAcao": "Potencian GABA-A aumentando la apertura de los canales de cloro",
+      "farmacocinetica": "Alta liposolubilidad (tiopental), vida media larga (fenobarbital), metabolismo hepático",
+      "farmacodinamica": "Sedación, hipnosis, anticonvulsión o anestesia según la dosis",
+      "indicacoes": "Epilepsia, sedación, inducción anestésica, hipertensión intracraneal",
+      "reacoesAdversas": "Sedación excesiva, depresión respiratoria, dependencia, hipotensión",
+      "riscoGravidez": "Categoría D – riesgo fetal; usar si no hay alternativa",
+      "riscoLactacao": "Secreción en leche; riesgo de somnolencia neonatal",
+      "administracao": "Oral, rectal, IV",
+      "doseMaxima": "Fenobarbital: 200–300 mg/día; Tiopental: 3–5 mg/kg IV",
+      "doseMinima": "Fenobarbital: 1–3 mg/kg/día VO",
+      "classificacao": "Depresores del SNC – barbitúricos",
+      "apresentacao": "Comprimidos, soluciones inyectables y orales",
+      "interacaoMedicamento": "Potencian opioides, alcohol, benzodiacepinas; inductores enzimáticos",
+      "posologia": "Depende de uso agudo o crónico, peso y metabolismo",
+      "armazenamento": "Lugar seco, refrigerar reconstituídos",
+      "preparo": "Tiopental requiere disolución previa",
+      "solucoesCompatíveis": "NaCl 0,9%, glucosa 5%",
+      "contraindicacoes": "Porfiria, depresión respiratoria, alergia a barbitúricos",
+      "cuidadosMedicos": "Control neurológico, hemodinámico y respiratório",
+      "cuidadosFarmaceuticos": "Educar sobre riesgo de abuso y retirada",
+      "cuidadosEnfermagem": "Monitorear nivel de sedación, FR y PA",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "巴比妥类",
+      "suspension": "择期手术前5–7天停药",
+      "risk": "呼吸抑制，与麻醉药相互作用，可导致过度镇静与依赖",
+      "reintroduction": "术后如有必要控制癫痫或镇静，可在监护下恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "苯巴比妥、硫喷妥钠、甲己烯巴比妥、丁巴比妥",
+      "nomeComercial": "Luminal, Pentothal, Brevital, Butisol",
+      "mecanismoAcao": "增强GABA-A作用，延长氯离子通道开放时间",
+      "farmacocinetica": "脂溶性高（硫喷妥钠）、苯巴比妥半衰期长，经肝代谢（CYP450）",
+      "farmacodinamica": "剂量依赖性产生镇静、催眠、抗惊厥或麻醉作用",
+      "indicacoes": "癫痫发作、术前镇静、麻醉诱导、颅内压控制",
+      "reacoesAdversas": "深度镇静、呼吸抑制、低血压、依赖性、皮疹",
+      "riscoGravidez": "D类 – 胎儿风险明确",
+      "riscoLactacao": "可分泌入乳汁，可能导致新生儿嗜睡",
+      "administracao": "口服、直肠、静脉注射",
+      "doseMaxima": "苯巴比妥：200–300 mg/天；硫喷妥钠：3–5 mg/kg IV",
+      "doseMinima": "苯巴比妥：1–3 mg/kg/天",
+      "classificacao": "中枢神经抑制剂 – 巴比妥类",
+      "apresentacao": "片剂、注射液、儿童口服液",
+      "interacaoMedicamento": "增强阿片类、苯二氮卓类、酒精、麻醉剂作用；诱导肝药酶",
+      "posologia": "依据用途（急性/慢性）和体重调整",
+      "armazenamento": "干燥阴凉处保存，IV剂型即用即配",
+      "preparo": "硫喷妥钠需用无菌水溶解",
+      "solucoesCompatíveis": "0.9%氯化钠，5%葡萄糖",
+      "contraindicacoes": "紫质症、急性呼吸衰竭、过敏史",
+      "cuidadosMedicos": "监测意识状态、呼吸与中毒症状",
+      "cuidadosFarmaceuticos": "提示成瘾风险，不可突然停药",
+      "cuidadosEnfermagem": "监测镇静程度、生命体征；必要时给予呼吸支持",
+      "fontesBibliograficas": "中国药典, FDA, UpToDate, Micromedex"
+    }
+  }
+}

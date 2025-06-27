@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Polimixina B",
+      "suspension": "Manter até o dia da cirurgia em infecções graves",
+      "risk": "Risco de nefrotoxicidade e neurotoxicidade; interação com anestésicos e bloqueadores neuromusculares",
+      "reintroduction": "Reintroduzir com monitoramento renal e neurológico rigoroso após estabilização"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Polimixina B sulfato",
+      "nomeComercial": "Polymyxin B, Polibiótico",
+      "mecanismoAcao": "Interage com lipopolissacarídeos da membrana externa de Gram-negativos, desorganizando a membrana",
+      "farmacocinetica": "Administração IV ou IM; meia-vida 6–12h; eliminação renal",
+      "farmacodinamica": "Bactericida concentrativo contra bacilos Gram-negativos multirresistentes",
+      "indicacoes": "Infecções graves por Pseudomonas, Acinetobacter, Klebsiella resistentes",
+      "reacoesAdversas": "Nefrotoxicidade, parestesia, fraqueza muscular, vertigem, rash",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar se possível",
+      "administracao": "Via intravenosa lenta ou IM (menos comum)",
+      "doseMaxima": "25.000 UI/kg/dia (dividido)",
+      "doseMinima": "15.000 UI/kg/dia",
+      "classificacao": "Polipeptídeo antimicrobiano",
+      "apresentacao": "Frascos 500.000 UI, 1.000.000 UI",
+      "interacaoMedicamento": "Potencializa bloqueio neuromuscular com relaxantes; nefrotoxicidade com aminoglicosídeos",
+      "posologia": "2.500–5.000 UI/kg/dose IV a cada 12h",
+      "armazenamento": "Pó: 2–8°C; solução reconstituída usar em 24h",
+      "preparo": "Reconstituir com água estéril ou SF 0,9% para infusão lenta",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Miastenia gravis, insuficiência renal grave sem ajuste, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar creatinina, eletrólitos, sinais de neurotoxicidade",
+      "cuidadosFarmaceuticos": "Evitar uso simultâneo com outros nefrotóxicos; garantir preparo asséptico",
+      "cuidadosEnfermagem": "Observar diurese, parestesias, respiração, PA",
+      "fontesBibliograficas": "Micromedex, FDA, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Polymyxin B",
+      "suspension": "Continue until day of surgery if treating severe infection",
+      "risk": "Risk of nephrotoxicity and neurotoxicity; interaction with anesthetics and neuromuscular blockers",
+      "reintroduction": "Restart with close renal and neurologic monitoring postoperatively"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Polymyxin B sulfate",
+      "nomeComercial": "Polymyxin B",
+      "mecanismoAcao": "Binds to Gram-negative outer membrane disrupting membrane integrity",
+      "farmacocinetica": "IV/IM; half-life 6–12h; renal clearance",
+      "farmacodinamica": "Concentration-dependent bactericidal against MDR Gram-negative bacilli",
+      "indicacoes": "Serious infections by Pseudomonas, Acinetobacter, Klebsiella (MDR)",
+      "reacoesAdversas": "Nephrotoxicity, paresthesias, muscle weakness, dizziness, rash",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid if possible",
+      "administracao": "Slow IV infusion or IM",
+      "doseMaxima": "25,000 IU/kg/day",
+      "doseMinima": "15,000 IU/kg/day",
+      "classificacao": "Polypeptide antibiotic",
+      "apresentacao": "Vials 500,000 IU, 1,000,000 IU",
+      "interacaoMedicamento": "Increased neuromuscular block with relaxants; nephrotoxicity with aminoglycosides",
+      "posologia": "2,500–5,000 IU/kg/dose IV q12h",
+      "armazenamento": "Powder: 2–8°C; reconstituted: use within 24h",
+      "preparo": "Reconstitute with sterile water or NS for slow infusion",
+      "solucoesCompatíveis": "Normal saline",
+      "contraindicacoes": "Myasthenia gravis, severe renal failure without adjustment, hypersensitivity",
+      "cuidadosMedicos": "Monitor Cr, electrolytes, neurologic status",
+      "cuidadosFarmaceuticos": "Avoid combining with other nephrotoxics; aseptic preparation required",
+      "cuidadosEnfermagem": "Monitor urine output, sensation, breathing, BP",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Polimixina B",
+      "suspension": "Mantener si se usa en infección grave; cirugía no contraindica",
+      "risk": "Riesgo de toxicidad renal y neurológica; interacción con anestesia y relajantes musculares",
+      "reintroduction": "Reintroducir bajo control renal y neurológico postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Polimixina B sulfato",
+      "nomeComercial": "Polimixina B",
+      "mecanismoAcao": "Desorganiza la membrana externa de Gram-negativos uniendo lipopolisacáridos",
+      "farmacocinetica": "IV o IM; vida media 6–12h; eliminación renal",
+      "farmacodinamica": "Bactericida dependiente de concentración frente a bacilos Gram-negativos",
+      "indicacoes": "Infecciones graves por Pseudomonas, Acinetobacter, Klebsiella multirresistentes",
+      "reacoesAdversas": "Nefrotoxicidad, parestesias, debilidad, vértigo, erupción",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar si es posible",
+      "administracao": "Infusión IV lenta o IM",
+      "doseMaxima": "25.000 UI/kg/día",
+      "doseMinima": "15.000 UI/kg/día",
+      "classificacao": "Antibiótico polipeptídico",
+      "apresentacao": "Viales 500.000 UI, 1.000.000 UI",
+      "interacaoMedicamento": "Bloqueo neuromuscular con relajantes; toxicidad renal con aminoglucósidos",
+      "posologia": "2.500–5.000 UI/kg/dosis IV cada 12h",
+      "armazenamento": "Polvo a 2–8°C; solución usar en 24h",
+      "preparo": "Reconstituir con agua estéril o SSF",
+      "solucoesCompatíveis": "SSF 0,9%",
+      "contraindicacoes": "Miastenia grave, IR severa sin ajuste, alergia",
+      "cuidadosMedicos": "Monitorizar creatinina, electrólitos, síntomas neurológicos",
+      "cuidadosFarmaceuticos": "Evitar uso con nefrotóxicos; preparar asépticamente",
+      "cuidadosEnfermagem": "Observar diuresis, sensibilidad, respiración, PA",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "多粘菌素B",
+      "suspension": "如用于重症感染，术前可继续使用",
+      "risk": "可能导致肾毒性和神经毒性；与麻醉药和肌松药相互作用",
+      "reintroduction": "术后在严密监测下可重新给予"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多粘菌素B",
+      "nomeComercial": "Polymyxin B",
+      "mecanismoAcao": "与革兰阴性菌外膜结合，破坏其完整性",
+      "farmacocinetica": "静注/肌注；半衰期6–12小时；肾脏排泄",
+      "farmacodinamica": "浓度依赖性杀菌活性，针对多重耐药革兰阴性菌",
+      "indicacoes": "重症铜绿假单胞菌、鲍曼不动杆菌、克雷伯菌感染",
+      "reacoesAdversas": "肾毒性、麻木、肌无力、头晕、皮疹",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期避免",
+      "administracao": "静脉缓慢滴注或肌注",
+      "doseMaxima": "每日25,000单位/公斤",
+      "doseMinima": "每日15,000单位/公斤",
+      "classificacao": "多肽类抗菌药",
+      "apresentacao": "50万单位、100万单位瓶装粉针",
+      "interacaoMedicamento": "与氨基糖苷类、肌松药合用风险增加",
+      "posologia": "每12小时2,500–5,000单位/公斤/次",
+      "armazenamento": "粉剂2–8°C避光，稀释液24小时内用完",
+      "preparo": "无菌注射用水或0.9%氯化钠稀释",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "重度肾功能障碍、重症肌无力、过敏史",
+      "cuidadosMedicos": "监测肾功能、神经系统、电解质",
+      "cuidadosFarmaceuticos": "不可与其他肾毒药合用；严格操作无菌",
+      "cuidadosEnfermagem": "观察尿量、呼吸、麻木、血压变化",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

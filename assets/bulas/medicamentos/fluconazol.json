@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fluconazol",
+      "suspension": "Suspender 1 dia antes da cirurgia se uso profilático",
+      "risk": "Prolongamento do QT, interação com anestésicos metabolizados por CYP2C9/CYP3A4",
+      "reintroduction": "Reintroduzir com monitoramento hepático e eletrocardiográfico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fluconazol",
+      "nomeComercial": "Zoltec, Zocon, Diflucan",
+      "mecanismoAcao": "Inibe a síntese de ergosterol pela inibição da enzima 14-alfa-desmetilase fúngica",
+      "farmacocinetica": "Boa biodisponibilidade oral (>90%), meia-vida 30h, excreção renal",
+      "farmacodinamica": "Fungistático contra Candida spp., Cryptococcus spp., entre outros",
+      "indicacoes": "Candidíase oral, esofágica, vaginal, meningite criptocócica, profilaxia fúngica em imunossuprimidos",
+      "reacoesAdversas": "Náuseas, cefaleia, hepatotoxicidade, rash, QT prolongado",
+      "riscoGravidez": "Categoria D em doses altas e uso prolongado; B em dose única",
+      "riscoLactacao": "Compatível",
+      "administracao": "Oral ou intravenosa",
+      "doseMaxima": "800 mg/dia",
+      "doseMinima": "50 mg/dia",
+      "classificacao": "Antifúngico triazólico",
+      "apresentacao": "Comprimidos, cápsulas, solução oral, frascos IV",
+      "interacaoMedicamento": "Interage com varfarina, fenitoína, ciclosporina, benzodiazepínicos",
+      "posologia": "100–400 mg/dia conforme gravidade e local da infecção",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Pronto para uso (oral ou IV); não misturar com outras drogas IV",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Hipersensibilidade ao fluconazol, uso concomitante com cisaprida ou terfenadina",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas, ECG se uso prolongado",
+      "cuidadosFarmaceuticos": "Orientar sobre sinais de hepatotoxicidade e interações medicamentosas",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade hepática e arritmias",
+      "fontesBibliograficas": "ANVISA, BNF, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fluconazole",
+      "suspension": "Discontinue 1 day before surgery if used prophylactically",
+      "risk": "Risk of QT prolongation and CYP2C9/CYP3A4 anesthetic interactions",
+      "reintroduction": "Restart with liver and ECG monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fluconazole",
+      "nomeComercial": "Diflucan",
+      "mecanismoAcao": "Inhibits ergosterol synthesis by blocking fungal 14-alpha-demethylase",
+      "farmacocinetica": "High oral bioavailability (>90%), half-life ~30h, renal excretion",
+      "farmacodinamica": "Fungistatic against Candida spp., Cryptococcus spp., etc.",
+      "indicacoes": "Oral/esophageal/vaginal candidiasis, cryptococcal meningitis, fungal prophylaxis",
+      "reacoesAdversas": "Nausea, headache, hepatotoxicity, rash, QT prolongation",
+      "riscoGravidez": "Category D (long-term/high dose), B (single-dose)",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral or IV",
+      "doseMaxima": "800 mg/day",
+      "doseMinima": "50 mg/day",
+      "classificacao": "Triazole antifungal",
+      "apresentacao": "Tablets, capsules, oral solution, IV vials",
+      "interacaoMedicamento": "Interacts with warfarin, phenytoin, cyclosporine, benzodiazepines",
+      "posologia": "100–400 mg/day depending on infection",
+      "armazenamento": "Store at room temperature, protect from light",
+      "preparo": "Ready for oral/IV use; do not mix with other IV drugs",
+      "solucoesCompatíveis": "D5W, NS",
+      "contraindicacoes": "Hypersensitivity, use with cisapride or terfenadine",
+      "cuidadosMedicos": "Monitor liver enzymes, ECG if prolonged use",
+      "cuidadosFarmaceuticos": "Advise on hepatotoxicity symptoms and drug interactions",
+      "cuidadosEnfermagem": "Monitor for hepatic toxicity and arrhythmias",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fluconazol",
+      "suspension": "Suspender 1 día antes de la cirugía si se usa de forma profiláctica",
+      "risk": "Prolongación del QT, interacción con anestésicos metabolizados por CYP2C9/CYP3A4",
+      "reintroduction": "Reintroducir con monitoreo hepático y ECG"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fluconazol",
+      "nomeComercial": "Diflucan",
+      "mecanismoAcao": "Inhibe la síntesis de ergosterol fúngico al bloquear la enzima 14-alfa-desmetilasa",
+      "farmacocinetica": "Biodisponibilidad oral >90%, vida media ~30h, excreción renal",
+      "farmacodinamica": "Fungistático contra Candida spp., Cryptococcus spp., entre otros",
+      "indicacoes": "Candidiasis oral, esofágica, vaginal, meningitis criptocócica, profilaxis en inmunosuprimidos",
+      "reacoesAdversas": "Náuseas, cefalea, hepatotoxicidad, erupción, QT prolongado",
+      "riscoGravidez": "Categoría D en dosis altas/prolongadas; B en dosis única",
+      "riscoLactacao": "Compatible",
+      "administracao": "Oral o intravenosa",
+      "doseMaxima": "800 mg/día",
+      "doseMinima": "50 mg/día",
+      "classificacao": "Antifúngico triazólico",
+      "apresentacao": "Comprimidos, cápsulas, suspensión oral, viales IV",
+      "interacaoMedicamento": "Interacciones con warfarina, fenitoína, ciclosporina, benzodiacepinas",
+      "posologia": "100–400 mg/día según gravedad",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "Uso oral o IV; no mezclar con otros fármacos IV",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Hipersensibilidad, uso concomitante con cisaprida o terfenadina",
+      "cuidadosMedicos": "Monitorear enzimas hepáticas, ECG si uso prolongado",
+      "cuidadosFarmaceuticos": "Advertir sobre toxicidad hepática e interacciones",
+      "cuidadosEnfermagem": "Observar signos de hepatotoxicidad y arritmias",
+      "fontesBibliograficas": "AEMPS, Micromedex, UpToDate, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氟康唑",
+      "suspension": "术前如为预防使用，建议提前1天停药",
+      "risk": "可延长QT间期，与CYP2C9/3A4代谢的麻醉药物有相互作用",
+      "reintroduction": "术后肝功能和心电图正常后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氟康唑",
+      "nomeComercial": "Diflucan",
+      "mecanismoAcao": "抑制真菌14-α-去甲基化酶，阻断麦角固醇合成",
+      "farmacocinetica": "口服生物利用度>90%，半衰期约30小时，经肾排泄",
+      "farmacodinamica": "对念珠菌、隐球菌等具抑菌作用",
+      "indicacoes": "口腔、食管、阴道念珠菌病，隐球菌脑膜炎，免疫抑制患者抗真菌预防",
+      "reacoesAdversas": "恶心、头痛、肝毒性、皮疹、QT延长",
+      "riscoGravidez": "单剂使用属B类，长期高剂量属D类",
+      "riscoLactacao": "可用于哺乳期",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日800毫克",
+      "doseMinima": "每日50毫克",
+      "classificacao": "三唑类抗真菌药",
+      "apresentacao": "片剂、胶囊、口服液、注射液",
+      "interacaoMedicamento": "与华法林、苯妥英、环孢素、苯二氮卓类药物相互作用",
+      "posologia": "每日100–400毫克，依据感染类型",
+      "armazenamento": "室温保存，避光",
+      "preparo": "可口服或静注，不应与其他IV药物混合",
+      "solucoesCompatíveis": "5%葡萄糖、0.9%氯化钠",
+      "contraindicacoes": "对氟康唑过敏，与西沙必利、特非那定合用禁忌",
+      "cuidadosMedicos": "监测肝酶、QT间期",
+      "cuidadosFarmaceuticos": "告知肝毒性风险和药物相互作用",
+      "cuidadosEnfermagem": "监测肝功能和心律异常表现",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、BNF"
+    }
+  }
+}

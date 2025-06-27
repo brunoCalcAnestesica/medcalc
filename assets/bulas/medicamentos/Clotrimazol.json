@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Clotrimazol",
+      "suspension": "Não é necessário suspender antes de cirurgias, exceto se aplicado diretamente sobre ferida operatória",
+      "risk": "Risco de irritação local leve; não interfere na cicatrização se usado corretamente",
+      "reintroduction": "Pode ser reintroduzido após cicatrização epitelial"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clotrimazol",
+      "nomeComercial": "Canesten, Dermodex, Micostat, Lotrimin",
+      "mecanismoAcao": "Antifúngico imidazólico que inibe a síntese de ergosterol, essencial à membrana dos fungos",
+      "farmacocinetica": "Absorção cutânea mínima; ação local; metabolismo hepático se absorvido",
+      "farmacodinamica": "Fungistático e fungicida contra dermatófitos, leveduras (Candida spp.) e Malassezia",
+      "indicacoes": "Tinea corporis, tinea cruris, tinea pedis, candidíase cutânea, pitiríase versicolor",
+      "reacoesAdversas": "Queimação, ardor, prurido, descamação, eritema leve",
+      "riscoGravidez": "Categoria B (uso tópico considerado seguro)",
+      "riscoLactacao": "Seguro em uso localizado, evitar aplicação em mamas",
+      "administracao": "Tópica",
+      "doseMaxima": "Aplicar 2x/dia por até 4 semanas, conforme localização",
+      "doseMinima": "1x/dia em casos leves",
+      "classificacao": "Antifúngico tópico imidazólico",
+      "apresentacao": "Creme, loção ou spray 1%",
+      "interacaoMedicamento": "Evitar uso com outros produtos tópicos irritantes",
+      "posologia": "Aplicar fina camada sobre pele afetada, 2x/dia, com limpeza prévia",
+      "armazenamento": "Temperatura ambiente (15–30°C), frasco fechado",
+      "preparo": "Pronto para uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao clotrimazol ou componentes da fórmula",
+      "cuidadosMedicos": "Avaliar resposta em até 4 semanas; considerar troca se não houver melhora",
+      "cuidadosFarmaceuticos": "Orientar uso contínuo mesmo após desaparecimento dos sintomas visuais",
+      "cuidadosEnfermagem": "Aplicar com técnica limpa, observar sinais de melhora e tolerância local",
+      "fontesBibliograficas": "ANVISA, FDA, Medscape, Micromedex, bula Canesten"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Clotrimazole",
+      "suspension": "No need to suspend unless applied to surgical wound",
+      "risk": "Low irritation risk; does not impair healing on intact skin",
+      "reintroduction": "Resume after wound epithelialization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clotrimazole",
+      "nomeComercial": "Lotrimin, Mycelex, Canesten",
+      "mecanismoAcao": "Inhibits ergosterol synthesis, disrupting fungal membrane integrity",
+      "farmacocinetica": "Minimal systemic absorption; local action",
+      "farmacodinamica": "Fungistatic and fungicidal against dermatophytes, Candida spp., Malassezia",
+      "indicacoes": "Tinea infections, cutaneous candidiasis, pityriasis versicolor",
+      "reacoesAdversas": "Burning, itching, redness, mild peeling",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Safe if not applied to nipple area",
+      "administracao": "Topical",
+      "doseMaxima": "2x/day for up to 4 weeks",
+      "doseMinima": "Once daily",
+      "classificacao": "Topical imidazole antifungal",
+      "apresentacao": "1% cream, lotion, solution or spray",
+      "interacaoMedicamento": "Avoid irritant topicals in same area",
+      "posologia": "Apply thin layer 1–2x/day on clean skin",
+      "armazenamento": "15–30°C; closed container",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Allergy to clotrimazole or formulation components",
+      "cuidadosMedicos": "Reassess after 2–4 weeks if no improvement",
+      "cuidadosFarmaceuticos": "Educate on treatment duration and adherence",
+      "cuidadosEnfermagem": "Apply aseptically; monitor local response",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Clotrimazol",
+      "suspension": "No suspender salvo uso en campo quirúrgico",
+      "risk": "Irritación leve, sin interferencia cicatricial",
+      "reintroduction": "Reanudar tras reepitelización"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clotrimazol",
+      "nomeComercial": "Canesten, Micostat",
+      "mecanismoAcao": "Inhibe síntesis de ergosterol fúngico",
+      "farmacocinetica": "Absorción mínima; acción local",
+      "farmacodinamica": "Antifúngico tópico imidazólico amplio espectro",
+      "indicacoes": "Tiña, candidiasis cutánea, pitiriasis versicolor",
+      "reacoesAdversas": "Ardor, picor, eritema leve",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Seguro salvo en senos",
+      "administracao": "Tópica",
+      "doseMaxima": "2x/día, máx. 4 semanas",
+      "doseMinima": "1x/día",
+      "classificacao": "Antifúngico tópico",
+      "apresentacao": "Crema o loción 1%",
+      "interacaoMedicamento": "Evitar irritantes locales",
+      "posologia": "Aplicar 1–2 veces/día",
+      "armazenamento": "15–30°C",
+      "preparo": "Listo para usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a imidazoles",
+      "cuidadosMedicos": "Controlar respuesta a las 2–4 semanas",
+      "cuidadosFarmaceuticos": "Explicar duración adecuada",
+      "cuidadosEnfermagem": "Aplicar sobre piel limpia; observar evolución",
+      "fontesBibliograficas": "EMA, Medscape, ficha técnica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "克霉唑（外用）",
+      "suspension": "术区使用时术前48小时停药",
+      "risk": "轻微局部刺激，不影响愈合",
+      "reintroduction": "术后愈合后可继续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "克霉唑",
+      "nomeComercial": "Canesten、Lotrimin",
+      "mecanismoAcao": "抑制真菌细胞膜中麦角固醇合成",
+      "farmacocinetica": "皮肤吸收少，作用局部",
+      "farmacodinamica": "抗皮肤癣菌、念珠菌、花斑癣",
+      "indicacoes": "体癣、股癣、足癣、念珠菌皮炎",
+      "reacoesAdversas": "灼热、发红、瘙痒、脱屑",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "安全，避免乳头使用",
+      "administracao": "外用",
+      "doseMaxima": "每日2次，最多使用4周",
+      "doseMinima": "每日1次",
+      "classificacao": "咪唑类抗真菌药",
+      "apresentacao": "1%乳膏、洗剂、喷雾",
+      "interacaoMedicamento": "避免与其他刺激性药物同时使用",
+      "posologia": "每日1–2次，连续使用至症状消失后数日",
+      "armazenamento": "15–30°C避光保存",
+      "preparo": "开封即用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对克霉唑或咪唑类过敏",
+      "cuidadosMedicos": "治疗4周内应改善，未效需评估",
+      "cuidadosFarmaceuticos": "强调完整疗程与避免停药过早",
+      "cuidadosEnfermagem": "观察局部效果与不良反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、Medscape"
+    }
+  }
+}

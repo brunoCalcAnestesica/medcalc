@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fingolimode",
+      "suspension": "Não suspender abruptamente – risco de rebote com surtos graves de esclerose múltipla",
+      "risk": "Bradicardia, edema macular, hepatotoxicidade, infecção oportunista, câncer de pele",
+      "reintroduction": "Reintroduzir com monitoramento cardíaco e avaliação oftalmológica inicial"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fingolimode",
+      "nomeComercial": "Gilenya",
+      "mecanismoAcao": "Modula receptores de esfingosina-1-fosfato; sequestra linfócitos em gânglios linfáticos",
+      "farmacocinetica": "Biodisponibilidade 93%, meia-vida ~6–9 dias, metabolização hepática (CYP4F2), excreção renal e fecal",
+      "farmacodinamica": "Reduz infiltração linfocitária no SNC, diminuindo inflamação e surtos da esclerose múltipla",
+      "indicacoes": "Esclerose múltipla remitente-recorrente; EM pediátrica ≥10 anos",
+      "reacoesAdversas": "Bradicardia, dor de cabeça, enzimas hepáticas elevadas, linfopenia, infecções, edema macular",
+      "riscoGravidez": "Categoria X",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "0,5 mg/dia",
+      "doseMinima": "0,25 mg/dia (pediátrico)",
+      "classificacao": "Modulador de receptor de esfingosina-1-fosfato (S1PR)",
+      "apresentacao": "Cápsulas de 0,5 mg",
+      "interacaoMedicamento": "Bradicardia com beta-bloqueadores; risco aumentado com imunossupressores; antifúngicos (fluconazol) elevam níveis",
+      "posologia": "0,5 mg VO 1x/dia; manter avaliação cardíaca por 6h na 1ª dose",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Uso direto; não partir ou mastigar cápsulas",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infarto recente, bloqueio AV, bradicardia grave, gestação, hepatopatia grave, infecção ativa",
+      "cuidadosMedicos": "Monitorar ECG na 1ª dose; avaliar função hepática, retina e infecções",
+      "cuidadosFarmaceuticos": "Evitar interrupções; contraindicado em gestantes",
+      "cuidadosEnfermagem": "Observar bradicardia, distúrbios visuais e sintomas infecciosos",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fingolimod",
+      "suspension": "Do not abruptly stop – risk of severe MS rebound activity",
+      "risk": "Bradycardia, macular edema, liver toxicity, infections, basal cell carcinoma",
+      "reintroduction": "Restart only with cardiac and ophthalmologic evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fingolimod",
+      "nomeComercial": "Gilenya",
+      "mecanismoAcao": "Sphingosine-1-phosphate receptor modulator; sequesters lymphocytes in lymph nodes",
+      "farmacocinetica": "Bioavailability 93%, half-life 6–9 days, hepatic metabolism (CYP4F2), renal/fecal excretion",
+      "farmacodinamica": "Reduces CNS lymphocyte infiltration, lowering inflammation and relapse rate",
+      "indicacoes": "Relapsing-remitting multiple sclerosis (RRMS); pediatric MS ≥10 years",
+      "reacoesAdversas": "Headache, liver enzyme elevation, lymphopenia, infections, bradycardia, macular edema",
+      "riscoGravidez": "Category X",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral",
+      "doseMaxima": "0.5 mg/day",
+      "doseMinima": "0.25 mg/day (pediatric)",
+      "classificacao": "S1P receptor modulator",
+      "apresentacao": "Capsules 0.5 mg",
+      "interacaoMedicamento": "Increased risk with beta-blockers, immunosuppressants, antifungals (fluconazole)",
+      "posologia": "0.5 mg orally once daily; monitor ECG for 6h after first dose",
+      "armazenamento": "Room temperature (15–30°C)",
+      "preparo": "Do not split or chew",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Recent MI, AV block, severe bradycardia, pregnancy, severe hepatic impairment, active infection",
+      "cuidadosMedicos": "Monitor ECG on first dose, liver enzymes, retina and infection signs",
+      "cuidadosFarmaceuticos": "Ensure adherence; counsel on pregnancy risk",
+      "cuidadosEnfermagem": "Monitor HR, vision, infection symptoms",
+      "fontesBibliograficas": "FDA, UpToDate, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fingolimod",
+      "suspension": "No suspender abruptamente – riesgo de rebrote grave de EM",
+      "risk": "Bradicardia, edema macular, hepatotoxicidad, infecciones, cáncer cutáneo",
+      "reintroduction": "Reiniciar solo tras evaluación cardíaca y oftalmológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fingolimod",
+      "nomeComercial": "Gilenya",
+      "mecanismoAcao": "Modulador de receptores S1P; bloquea linfocitos en ganglios linfáticos",
+      "farmacocinetica": "Biodisponibilidad 93%, vida media 6–9 días, metabolismo hepático (CYP4F2), excreción renal/fecal",
+      "farmacodinamica": "Reduce infiltración de linfocitos en SNC; disminuye brotes en EMRR",
+      "indicacoes": "Esclerosis múltiple remitente-recurrente; EM pediátrica ≥10 años",
+      "reacoesAdversas": "Cefalea, enzimas hepáticas altas, linfopenia, bradicardia, edema macular",
+      "riscoGravidez": "Categoría X",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "0,5 mg/día",
+      "doseMinima": "0,25 mg/día (pediátrico)",
+      "classificacao": "Modulador del receptor de esfingosina-1-fosfato",
+      "apresentacao": "Cápsulas 0,5 mg",
+      "interacaoMedicamento": "Interacciones con betabloqueadores, inmunosupresores, antifúngicos (fluconazol)",
+      "posologia": "0,5 mg VO 1 vez/día; monitorizar ECG durante 6h post primera dosis",
+      "armazenamento": "15–30°C",
+      "preparo": "No partir ni masticar cápsula",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "IAM reciente, bloqueo AV, embarazo, infección activa",
+      "cuidadosMedicos": "ECG en primera dosis; revisar retina, función hepática",
+      "cuidadosFarmaceuticos": "Advertir sobre riesgo en embarazo",
+      "cuidadosEnfermagem": "Vigilar pulso, visión, síntomas infecciosos",
+      "fontesBibliograficas": "EMA, FDA, AEMPS, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "芬戈莫德",
+      "suspension": "不可突然停药——可诱发多发性硬化症反跳发作",
+      "risk": "心动过缓、黄斑水肿、肝毒性、感染、皮肤癌",
+      "reintroduction": "需心电图与眼科检查后谨慎重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "芬戈莫德",
+      "nomeComercial": "Gilenya",
+      "mecanismoAcao": "S1P受体调节剂，使淋巴细胞滞留于淋巴结",
+      "farmacocinetica": "口服生物利用度93%，半衰期6–9天，CYP4F2代谢，经肾和粪便排泄",
+      "farmacodinamica": "降低中枢神经炎症，延缓EM进展与复发",
+      "indicacoes": "复发缓解型多发性硬化症（RRMS）；10岁以上儿童EM",
+      "reacoesAdversas": "头痛、肝酶升高、感染、心动过缓、黄斑水肿",
+      "riscoGravidez": "X类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每日0.5毫克",
+      "doseMinima": "每日0.25毫克（儿童）",
+      "classificacao": "S1P受体调节剂",
+      "apresentacao": "0.5mg胶囊",
+      "interacaoMedicamento": "与β阻滞剂、免疫抑制剂、氟康唑有交互风险",
+      "posologia": "每日0.5mg；首次使用需连续心电图监测6小时",
+      "armazenamento": "常温（15–30°C）",
+      "preparo": "整粒吞服，不可咀嚼",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "近期心肌梗死、心脏传导阻滞、妊娠、重度肝功能损害",
+      "cuidadosMedicos": "首次剂量需心电监测；定期检查肝功能与眼底",
+      "cuidadosFarmaceuticos": "提醒避免漏服与中断；孕妇禁用",
+      "cuidadosEnfermagem": "观察心率、视力变化、感染症状",
+      "fontesBibliograficas": "NMPA, FDA, WHO, UpToDate"
+    }
+  }
+}

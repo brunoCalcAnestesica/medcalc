@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nepafenaco",
+      "suspension": "Suspender 24 horas antes de cirurgia ocular eletiva, especialmente em casos com risco de complicações hemorrágicas ou inflamatórias",
+      "risk": "Risco de retardo na cicatrização corneana, sangramento ocular, reações locais e toxicidade epitelial em uso prolongado",
+      "reintroduction": "Reintroduzir conforme avaliação oftalmológica, preferencialmente após completa reepitelização"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nepafenaco",
+      "nomeComercial": "Nevanac",
+      "mecanismoAcao": "Pró-fármaco AINE convertido em amfenaco, que inibe a ciclooxigenase (COX-1 e COX-2) e reduz prostaglandinas inflamatórias",
+      "farmacocinetica": "Absorção ocular com conversão intraocular em amfenaco; pico plasmático ~0,5 ng/mL; excreção renal",
+      "farmacodinamica": "Anti-inflamatório não esteroidal com ação analgésica e anti-inflamatória local",
+      "indicacoes": "Tratamento da dor e inflamação pós-operatória em cirurgia de catarata; prevenção de edema macular cistóide",
+      "reacoesAdversas": "Desconforto ocular, dor, borramento visual, cefaleia, aumento da pressão intraocular, inflamação da íris",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Uso com cautela; excreção desconhecida no leite materno",
+      "administracao": "Tópica ocular",
+      "doseMaxima": "1 gota 3 vezes ao dia no olho afetado",
+      "doseMinima": "1 gota 1 vez ao dia",
+      "classificacao": "Anti-inflamatório não esteroidal oftálmico (AINE)",
+      "apresentacao": "Suspensão oftálmica 0,1% ou 0,3%",
+      "interacaoMedicamento": "Potencializa efeitos com outros AINEs tópicos; pode retardar ação de cicatrizantes locais",
+      "posologia": "Instilar 1 gota no olho afetado 3 vezes ao dia, começando 1 dia antes e até 14 dias após cirurgia",
+      "armazenamento": "Conservar em temperatura ambiente, proteger da luz e umidade",
+      "preparo": "Agitar antes de usar; evitar tocar o frasco no olho",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade ao nepafenaco ou AINEs; úlcera corneana ativa",
+      "cuidadosMedicos": "Avaliar risco de atraso na cicatrização corneana; usar com cautela em pacientes com distúrbios hemorrágicos",
+      "cuidadosFarmaceuticos": "Orientar correta instilação; evitar uso prolongado sem avaliação oftalmológica",
+      "cuidadosEnfermagem": "Observar sinais de inflamação persistente, dor ocular e reações adversas",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, ANVISA, Nevanac bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nepafenac",
+      "suspension": "Discontinue 24 hours before elective ocular surgery, especially if bleeding or inflammatory risk exists",
+      "risk": "May delay corneal healing, cause ocular bleeding, local irritation, and epithelial toxicity with prolonged use",
+      "reintroduction": "Restart after ophthalmologic evaluation and preferably after complete corneal reepithelialization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nepafenac",
+      "nomeComercial": "Nevanac",
+      "mecanismoAcao": "NSAID prodrug converted to amfenac, a COX-1 and COX-2 inhibitor that reduces inflammatory prostaglandins",
+      "farmacocinetica": "Ocular absorption with intraocular conversion to amfenac; peak plasma ~0.5 ng/mL; renal excretion",
+      "farmacodinamica": "Topical NSAID with anti-inflammatory and analgesic effects",
+      "indicacoes": "Postoperative pain and inflammation following cataract surgery; prevention of cystoid macular edema",
+      "reacoesAdversas": "Ocular discomfort, pain, blurred vision, headache, increased intraocular pressure, iritis",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Use with caution; excretion in breast milk unknown",
+      "administracao": "Topical ophthalmic",
+      "doseMaxima": "1 drop in affected eye 3 times daily",
+      "doseMinima": "1 drop once daily",
+      "classificacao": "Topical nonsteroidal anti-inflammatory drug (NSAID)",
+      "apresentacao": "Ophthalmic suspension 0.1% or 0.3%",
+      "interacaoMedicamento": "May enhance effects of other topical NSAIDs; may delay action of ocular wound healing agents",
+      "posologia": "Instill 1 drop in affected eye 3 times daily starting 1 day before surgery through 14 days post-op",
+      "armazenamento": "Store at room temperature, protect from light and moisture",
+      "preparo": "Shake well before use; do not touch bottle tip to eye",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity to nepafenac or NSAIDs; active corneal ulcer",
+      "cuidadosMedicos": "Assess corneal healing status; use cautiously in patients with bleeding disorders",
+      "cuidadosFarmaceuticos": "Educate on proper drop technique; avoid prolonged use without reevaluation",
+      "cuidadosEnfermagem": "Monitor for persistent inflammation, ocular pain, and adverse reactions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Nevanac PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nepafenaco",
+      "suspension": "Suspender 24 horas antes de cirugía ocular electiva, especialmente si hay riesgo de sangrado o inflamación",
+      "risk": "Riesgo de retraso en la cicatrización corneal, sangrado ocular, toxicidad epitelial y reacciones locales con uso prolongado",
+      "reintroduction": "Reintroducir tras evaluación oftalmológica, preferiblemente con reepitelización completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nepafenaco",
+      "nomeComercial": "Nevanac",
+      "mecanismoAcao": "Pró-fármaco AINE convertido en amfenaco, inhibe COX-1 y COX-2 y reduce prostaglandinas inflamatorias",
+      "farmacocinetica": "Absorción ocular con conversión intraocular a amfenaco; pico plasmático ~0.5 ng/mL; excreción renal",
+      "farmacodinamica": "Antiinflamatorio no esteroideo con efecto analgésico y antiinflamatorio tópico",
+      "indicacoes": "Dolor e inflamación postoperatoria tras cirugía de cataratas; prevención del edema macular quístico",
+      "reacoesAdversas": "Molestias oculares, dolor, visión borrosa, cefalea, aumento de presión intraocular, iritis",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Usar con precaución; se desconoce si se excreta en la leche",
+      "administracao": "Tópico ocular",
+      "doseMaxima": "1 gota en el ojo afectado 3 veces al día",
+      "doseMinima": "1 gota una vez al día",
+      "classificacao": "AINE oftálmico tópico",
+      "apresentacao": "Suspensión oftálmica 0.1% o 0.3%",
+      "interacaoMedicamento": "Potencia efectos con otros AINE tópicos; puede retardar cicatrización ocular",
+      "posologia": "Instilar 1 gota en el ojo afectado 3 veces/día desde 1 día antes hasta 14 días después de cirugía",
+      "armazenamento": "Conservar a temperatura ambiente, protegido de la luz y la humedad",
+      "preparo": "Agitar antes de usar; evitar contacto del frasco con el ojo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad a nepafenaco o AINEs; úlcera corneal activa",
+      "cuidadosMedicos": "Evaluar cicatrización corneal; precaución en pacientes con trastornos hemorrágicos",
+      "cuidadosFarmaceuticos": "Orientar sobre aplicación correcta; evitar uso prolongado sin reevaluación",
+      "cuidadosEnfermagem": "Observar inflamación persistente, dolor ocular y reacciones adversas",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, Nevanac ficha técnica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "萘帕芬酸",
+      "suspension": "择期眼科手术前24小时停用，特别在出血或炎症风险高时",
+      "risk": "可能延迟角膜愈合、引发眼出血、局部不适及长期使用致角膜毒性",
+      "reintroduction": "术后角膜重建完成并经眼科评估后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "萘帕芬酸",
+      "nomeComercial": "Nevanac",
+      "mecanismoAcao": "为非甾体类抗炎药前药，转化为氨芬酸后抑制COX-1和COX-2，降低炎症前列腺素",
+      "farmacocinetica": "眼部吸收并在眼内转化为氨芬酸；血浆峰值约0.5 ng/mL；经肾排泄",
+      "farmacodinamica": "具有局部抗炎和镇痛作用的非甾体类抗炎药",
+      "indicacoes": "白内障术后疼痛与炎症，防止囊样黄斑水肿",
+      "reacoesAdversas": "眼不适、疼痛、视力模糊、头痛、眼压升高、虹膜炎",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "慎用；是否排入乳汁尚不明确",
+      "administracao": "眼部局部用药",
+      "doseMaxima": "患眼每日滴3次，每次1滴",
+      "doseMinima": "每日1次，每次1滴",
+      "classificacao": "局部NSAIDs类眼用药",
+      "apresentacao": "滴眼液 0.1%、0.3%",
+      "interacaoMedicamento": "与其他NSAIDs合用可增强副作用；可能延缓角膜修复",
+      "posologia": "术前1天开始，每日3次，持续至术后14天",
+      "armazenamento": "室温保存，避免光照与潮湿",
+      "preparo": "使用前摇匀，避免瓶口接触眼部",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对NSAIDs过敏、活动性角膜溃疡者禁用",
+      "cuidadosMedicos": "评估角膜愈合风险；出血风险患者慎用",
+      "cuidadosFarmaceuticos": "指导正确滴眼，避免长期使用",
+      "cuidadosEnfermagem": "观察眼部炎症、疼痛及不良反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Nevanac说明书"
+    }
+  }
+}

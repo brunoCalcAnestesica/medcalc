@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Cabergolina",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de hipotensão ortostática, arritmia, náuseas e interações com anestésicos",
+      "reintroduction": "Reintroduzir após estabilidade hemodinâmica e ausência de eventos cardiovasculares"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cabergolina",
+      "nomeComercial": "Dostinex",
+      "mecanismoAcao": "Agonista dopaminérgico D2 que inibe a secreção de prolactina pela hipófise",
+      "farmacocinetica": "Biodisponibilidade oral elevada; meia-vida ~63–69 h; metabolização hepática",
+      "farmacodinamica": "Reduz níveis séricos de prolactina e estimula receptores dopaminérgicos centrais e periféricos",
+      "indicacoes": "Hiperprolactinemia, inibição da lactação, adenomas secretores de prolactina, Parkinson (uso off-label)",
+      "reacoesAdversas": "Náuseas, tontura, constipação, hipotensão ortostática, valvulopatia (uso prolongado), sonolência",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Contraindicado para inibição da lactação fisiológica",
+      "administracao": "Via oral",
+      "doseMaxima": "2 mg/semana (hiperprolactinemia); até 6 mg/semana (off-label)",
+      "doseMinima": "0,25 mg/semana",
+      "classificacao": "Agonista dopaminérgico – derivado ergotamínico",
+      "apresentacao": "Comprimidos de 0,5 mg",
+      "interacaoMedicamento": "Interage com fármacos antihipertensivos, antipsicóticos, macrolídeos e anestésicos inalatórios",
+      "posologia": "0,25 mg 2x/semana; ajustar conforme resposta e tolerância",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença cardíaca valvar, hipertensão não controlada, psicose, alergia a derivados ergotamínicos",
+      "cuidadosMedicos": "Monitorar PA, ECG, níveis de prolactina, sinais de valvulopatia",
+      "cuidadosFarmaceuticos": "Orientar sobre horários fixos e evitar associação com antieméticos dopaminérgicos",
+      "cuidadosEnfermagem": "Observar hipotensão, sonolência, náuseas e comportamento compulsivo",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, Endocrine Society"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Cabergoline",
+      "suspension": "Discontinue 5 days before elective surgery",
+      "risk": "Risk of orthostatic hypotension, arrhythmia, nausea, anesthetic interactions",
+      "reintroduction": "Restart after hemodynamic stability and no cardiac events"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cabergoline",
+      "nomeComercial": "Dostinex",
+      "mecanismoAcao": "Dopamine D2 receptor agonist that inhibits pituitary prolactin secretion",
+      "farmacocinetica": "High oral bioavailability; half-life ~63–69 h; hepatic metabolism",
+      "farmacodinamica": "Lowers serum prolactin; activates dopaminergic receptors centrally/peripherally",
+      "indicacoes": "Hyperprolactinemia, lactation suppression, prolactinomas, off-label in Parkinson’s",
+      "reacoesAdversas": "Nausea, dizziness, constipation, hypotension, valvular disease (long-term), somnolence",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Contraindicated for physiologic lactation suppression",
+      "administracao": "Oral",
+      "doseMaxima": "2 mg/week (prolactin); up to 6 mg/week (off-label)",
+      "doseMinima": "0.25 mg/week",
+      "classificacao": "Dopaminergic agonist – ergot derivative",
+      "apresentacao": "Tablets: 0.5 mg",
+      "interacaoMedicamento": "Interacts with antihypertensives, antipsychotics, macrolides, inhaled anesthetics",
+      "posologia": "0.25 mg twice weekly; titrate as needed",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Cardiac valvulopathy, uncontrolled hypertension, psychosis, ergot allergy",
+      "cuidadosMedicos": "Monitor BP, ECG, prolactin, signs of valve disease",
+      "cuidadosFarmaceuticos": "Educate on fixed dosing times, avoid dopaminergic antiemetics",
+      "cuidadosEnfermagem": "Observe for hypotension, drowsiness, compulsive behaviors",
+      "fontesBibliograficas": "FDA, Micromedex, Endocrine Society"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Cabergolina",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de hipotensión ortostática, arritmias, náuseas, interacción con anestésicos",
+      "reintroduction": "Reintroducir tras estabilidad hemodinámica y sin eventos cardíacos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cabergolina",
+      "nomeComercial": "Dostinex",
+      "mecanismoAcao": "Agonista dopaminérgico D2 que inhibe la secreción de prolactina",
+      "farmacocinetica": "Buena biodisponibilidad oral; vida media 63–69 h; metabolismo hepático",
+      "farmacodinamica": "Disminuye la prolactina sérica; estimula receptores dopaminérgicos",
+      "indicacoes": "Hiperprolactinemia, supresión de lactancia, prolactinomas, Parkinson (off-label)",
+      "reacoesAdversas": "Náuseas, mareos, constipación, hipotensión, valvulopatía (crónica), somnolencia",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Contraindicado para supresión de lactancia fisiológica",
+      "administracao": "Vía oral",
+      "doseMaxima": "2 mg/semana (prolactina); hasta 6 mg (uso Parkinson)",
+      "doseMinima": "0,25 mg/semana",
+      "classificacao": "Agonista dopaminérgico – derivado del ergot",
+      "apresentacao": "Comprimidos de 0,5 mg",
+      "interacaoMedicamento": "Interacciones con antihipertensivos, antipsicóticos, macrólidos, anestésicos inhalados",
+      "posologia": "0,25 mg 2x/semana; ajustar según respuesta",
+      "armazenamento": "15–30°C, protegido de humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Valvulopatías, hipertensión, psicosis, alergia al ergot",
+      "cuidadosMedicos": "Monitorear PA, ECG, niveles de prolactina",
+      "cuidadosFarmaceuticos": "Informar sobre adhesión y evitar antieméticos dopaminérgicos",
+      "cuidadosEnfermagem": "Observar hipotensión, somnolencia, compulsiones",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "卡贝格林",
+      "suspension": "术前5天停药",
+      "risk": "直立性低血压、心律失常、恶心、与麻醉药相互作用",
+      "reintroduction": "术后血流动力学稳定且无心脏事件后重新用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "卡贝格林",
+      "nomeComercial": "Dostinex",
+      "mecanismoAcao": "D2多巴胺受体激动剂，抑制垂体泌乳素分泌",
+      "farmacocinetica": "口服生物利用度高；半衰期63–69小时；肝脏代谢",
+      "farmacodinamica": "降低血清泌乳素，激活多巴胺中枢与外周受体",
+      "indicacoes": "高泌乳素血症、哺乳抑制、泌乳素瘤、帕金森病（非适应证）",
+      "reacoesAdversas": "恶心、头晕、便秘、低血压、心瓣病（长期）、嗜睡",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服",
+      "doseMaxima": "每周2 mg；帕金森病可至6 mg/周",
+      "doseMinima": "每周0.25 mg",
+      "classificacao": "多巴胺激动剂 – 麦角类衍生物",
+      "apresentacao": "0.5 mg片剂",
+      "interacaoMedicamento": "与降压药、抗精神病药、大环内酯、吸入麻醉药相互作用",
+      "posologia": "每周2次，每次0.25 mg，逐步加量",
+      "armazenamento": "15–30°C，避湿",
+      "preparo": "无需制备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "心瓣病、高血压、精神病、麦角类过敏",
+      "cuidadosMedicos": "监测血压、心电图、泌乳素",
+      "cuidadosFarmaceuticos": "指导规律服药，避免使用多巴胺拮抗药",
+      "cuidadosEnfermagem": "观察低血压、嗜睡、冲动行为",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

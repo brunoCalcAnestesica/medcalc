@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fluvoxamina",
+      "suspension": "Suspender 5 dias antes da cirurgia",
+      "risk": "Risco de síndrome serotoninérgica, interação com anestésicos e opioides; pode causar náuseas, hipotensão, agitação e depressão respiratória",
+      "reintroduction": "Reintroduzir após 48-72h, com paciente estável, sem uso de agentes serotoninérgicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fluvoxamina",
+      "nomeComercial": "Luvox, Dumyrox, Floxyfral, Favoxil",
+      "mecanismoAcao": "Inibidor seletivo da recaptação de serotonina (ISRS), aumentando a disponibilidade sináptica desse neurotransmissor",
+      "farmacocinetica": "Absorção oral completa, metabolismo hepático (CYP1A2), meia-vida de eliminação 15-22 horas",
+      "farmacodinamica": "Efeito antidepressivo e ansiolítico pela modulação da serotonina nos circuitos cortico-límbicos",
+      "indicacoes": "Transtorno obsessivo-compulsivo (TOC), depressão maior, transtornos de ansiedade",
+      "reacoesAdversas": "Náusea, sonolência, tontura, insônia, cefaleia, disfunção sexual, boca seca",
+      "riscoGravidez": "Categoria C – evitar especialmente no terceiro trimestre devido ao risco neonatal",
+      "riscoLactacao": "Excretada no leite materno; uso deve ser cauteloso",
+      "administracao": "Via oral, preferencialmente à noite",
+      "doseMaxima": "300mg/dia (TOC), 150mg/dia (depressão)",
+      "doseMinima": "50mg/dia",
+      "classificacao": "Antidepressivo ISRS",
+      "apresentacao": "Comprimidos de 50mg e 100mg",
+      "interacaoMedicamento": "Interage com IMAOs, varfarina, teofilina, carbamazepina, benzodiazepínicos",
+      "posologia": "Iniciar com 50mg à noite, ajustar conforme resposta até 300mg/dia (dividido)",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso com IMAOs, hipersensibilidade à fluvoxamina, epilepsia não controlada",
+      "cuidadosMedicos": "Monitorar sintomas serotoninérgicos, função hepática, risco de suicídio",
+      "cuidadosFarmaceuticos": "Orientar para não interromper abruptamente; observar interações",
+      "cuidadosEnfermagem": "Observar sinais de agitação, alterações de humor, náusea intensa",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate, SBP"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fluvoxamine",
+      "suspension": "Suspend 5 days before surgery",
+      "risk": "Risk of serotonin syndrome, interactions with opioids and anesthetics; may cause agitation, nausea, hypotension",
+      "reintroduction": "Restart 48–72h post-op if clinically stable and free of serotonergic agents"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fluvoxamine",
+      "nomeComercial": "Luvox, Luvox CR",
+      "mecanismoAcao": "Selective serotonin reuptake inhibitor (SSRI), increasing serotonergic transmission",
+      "farmacocinetica": "Orally absorbed, hepatic metabolism via CYP1A2, half-life 15–22 hours",
+      "farmacodinamica": "Enhances serotonin levels in CNS, improving mood and anxiety control",
+      "indicacoes": "OCD, major depression, anxiety disorders",
+      "reacoesAdversas": "Nausea, somnolence, headache, insomnia, dizziness, sexual dysfunction",
+      "riscoGravidez": "Category C – caution especially in third trimester",
+      "riscoLactacao": "Excreted in breast milk; use with caution",
+      "administracao": "Oral, usually once daily at bedtime",
+      "doseMaxima": "300mg/day (OCD), 150mg/day (depression)",
+      "doseMinima": "50mg/day",
+      "classificacao": "SSRI antidepressant",
+      "apresentacao": "Tablets: 50mg, 100mg; CR: 100mg, 150mg",
+      "interacaoMedicamento": "Interacts with MAOIs, warfarin, benzodiazepines, theophylline, carbamazepine",
+      "posologia": "Start at 50mg nightly, titrate as needed; divide doses >150mg",
+      "armazenamento": "Store at room temperature, away from moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Concurrent use with MAOIs, hypersensitivity, uncontrolled epilepsy",
+      "cuidadosMedicos": "Monitor liver enzymes, suicidality, serotonin syndrome symptoms",
+      "cuidadosFarmaceuticos": "Counsel not to stop abruptly; review drug interactions",
+      "cuidadosEnfermagem": "Observe for mood changes, nausea, agitation",
+      "fontesBibliograficas": "FDA, Lexicomp, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fluvoxamina",
+      "suspension": "Suspender 5 días antes de cirugía",
+      "risk": "Riesgo de síndrome serotoninérgico, interacción con opioides y anestesia; puede causar agitación y náuseas",
+      "reintroduction": "Reintroducir 48–72h después si el paciente está clínicamente estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fluvoxamina",
+      "nomeComercial": "Dumyrox, Luvox, Floxyfral",
+      "mecanismoAcao": "Inhibidor selectivo de la recaptación de serotonina (ISRS)",
+      "farmacocinetica": "Buena absorción oral, metabolismo hepático por CYP1A2, vida media 15–22h",
+      "farmacodinamica": "Incrementa la serotonina cerebral, efecto antidepresivo y ansiolítico",
+      "indicacoes": "TOC, depresión mayor, ansiedad generalizada",
+      "reacoesAdversas": "Náuseas, insomnio, somnolencia, sequedad de boca, cefalea",
+      "riscoGravidez": "Categoría C – usar con precaución",
+      "riscoLactacao": "Puede excretarse en la leche materna",
+      "administracao": "Vía oral, generalmente por la noche",
+      "doseMaxima": "300mg/día (TOC), 150mg/día (depresión)",
+      "doseMinima": "50mg/día",
+      "classificacao": "Antidepresivo ISRS",
+      "apresentacao": "Tabletas de 50mg y 100mg",
+      "interacaoMedicamento": "Interacciones con IMAO, benzodiacepinas, teofilina, anticoagulantes",
+      "posologia": "Comenzar con 50mg y ajustar según respuesta",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Uso simultáneo con IMAO, epilepsia no controlada",
+      "cuidadosMedicos": "Vigilar síntomas de sobredosificación serotoninérgica",
+      "cuidadosFarmaceuticos": "Advertir sobre suspensión brusca y revisar interacciones",
+      "cuidadosEnfermagem": "Observar signos de agitación, cambios de humor",
+      "fontesBibliograficas": "AEMPS, EMA, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氟伏沙明",
+      "suspension": "术前5天停药",
+      "risk": "与麻醉剂和阿片类联用时可能引发血清素综合征、低血压、恶心、烦躁等",
+      "reintroduction": "术后48–72小时，在临床稳定后重新开始使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氟伏沙明",
+      "nomeComercial": "Luvox, Floxyfral",
+      "mecanismoAcao": "选择性血清素再摄取抑制剂 (SSRI)",
+      "farmacocinetica": "口服吸收良好，CYP1A2肝脏代谢，半衰期15–22小时",
+      "farmacodinamica": "提高脑内5-羟色胺水平，具有抗抑郁和抗焦虑作用",
+      "indicacoes": "强迫症、重度抑郁、焦虑障碍",
+      "reacoesAdversas": "恶心、嗜睡、头痛、失眠、口干、性功能障碍",
+      "riscoGravidez": "C类 – 孕晚期慎用",
+      "riscoLactacao": "可分泌至乳汁中，慎用",
+      "administracao": "口服，建议晚上服用",
+      "doseMaxima": "每日300毫克（强迫症）、150毫克（抑郁）",
+      "doseMinima": "每日50毫克",
+      "classificacao": "SSRI类抗抑郁药",
+      "apresentacao": "片剂：50mg，100mg",
+      "interacaoMedicamento": "与MAOI、苯二氮卓类、茶碱、抗凝剂有相互作用",
+      "posologia": "起始剂量为50mg，根据反应逐渐调整",
+      "armazenamento": "室温保存，防潮",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "与MAOI同用、过敏、癫痫未控制",
+      "cuidadosMedicos": "监测血清素综合征迹象、肝功能",
+      "cuidadosFarmaceuticos": "避免突然停药，核查药物相互作用",
+      "cuidadosEnfermagem": "注意激动、恶心、情绪波动",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate"
+    }
+  }
+}

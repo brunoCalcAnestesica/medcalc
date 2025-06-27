@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Olaparibe",
+      "suspension": "Suspender 5–7 dias antes de cirurgia eletiva de médio/grande porte",
+      "risk": "Risco de mielossupressão, anemia, neutropenia e trombocitopenia; aumenta risco infeccioso e de complicações hematológicas",
+      "reintroduction": "Reintroduzir após estabilidade clínica e recuperação hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Olaparibe",
+      "nomeComercial": "Lynparza",
+      "mecanismoAcao": "Inibidor da enzima poli(ADP-ribose) polimerase (PARP-1 e PARP-2), bloqueando o reparo de quebras de DNA e induzindo morte celular em células com deficiência de recombinação homóloga",
+      "farmacocinetica": "Absorção oral rápida; pico plasmático em 1–3h; meia-vida 11–12h; metabolização hepática (CYP3A4); excreção renal e fecal",
+      "farmacodinamica": "Causa morte seletiva de células tumorais com mutações BRCA e outros defeitos de reparo de DNA",
+      "indicacoes": "Câncer de ovário, mama, próstata e pâncreas com mutações BRCA, em monoterapia ou manutenção após resposta à platina",
+      "reacoesAdversas": "Náusea, fadiga, anemia, vômito, dor abdominal, neutropenia, trombocitopenia, infecções, disgeusia",
+      "riscoGravidez": "Categoria D; contraindicado (teratogênico)",
+      "riscoLactacao": "Contraindicado; suspender por 1 mês após término",
+      "administracao": "Oral",
+      "doseMaxima": "600 mg/dia (300 mg 2x/dia)",
+      "doseMinima": "200 mg 2x/dia (ajuste por toxicidade)",
+      "classificacao": "Inibidor de PARP (antineoplásico oral)",
+      "apresentacao": "Comprimidos de 100 mg e 150 mg",
+      "interacaoMedicamento": "Interage com inibidores/indutores do CYP3A4; evitar uso com rifampicina, cetoconazol, carbamazepina",
+      "posologia": "300 mg VO 2x/dia continuamente, com ou sem alimentos",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de luz e umidade",
+      "preparo": "Não partir ou mastigar os comprimidos",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade, insuficiência hepática grave",
+      "cuidadosMedicos": "Monitorar hemograma, função renal e sinais de toxicidade hematológica",
+      "cuidadosFarmaceuticos": "Educar sobre adesão, risco de toxicidade e interações medicamentosas",
+      "cuidadosEnfermagem": "Monitorar sinais de anemia, fadiga, infecção e alterações hematológicas",
+      "fontesBibliograficas": "Micromedex, UpToDate, ANVISA, FDA, bula Lynparza"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Olaparib",
+      "suspension": "Discontinue 5–7 days prior to major elective surgery",
+      "risk": "Risk of myelosuppression, anemia, neutropenia, thrombocytopenia; increased risk of perioperative infection and bleeding",
+      "reintroduction": "Restart after clinical stability and hematologic recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Olaparib",
+      "nomeComercial": "Lynparza",
+      "mecanismoAcao": "PARP-1 and PARP-2 inhibitor that impairs DNA repair in cells with homologous recombination deficiencies (e.g., BRCA mutation)",
+      "farmacocinetica": "Rapid oral absorption; peak 1–3h; half-life 11–12h; CYP3A4 metabolism; renal/fecal excretion",
+      "farmacodinamica": "Induces selective tumor cell death in BRCA-mutated and HR-deficient cancers",
+      "indicacoes": "Ovarian, breast, prostate, and pancreatic cancer with BRCA mutation; maintenance therapy after platinum response",
+      "reacoesAdversas": "Nausea, fatigue, anemia, vomiting, abdominal pain, neutropenia, thrombocytopenia, infections, dysgeusia",
+      "riscoGravidez": "Category D; contraindicated (teratogenic)",
+      "riscoLactacao": "Contraindicated; avoid breastfeeding during and 1 month after treatment",
+      "administracao": "Oral",
+      "doseMaxima": "600 mg/day (300 mg BID)",
+      "doseMinima": "200 mg BID (adjusted for toxicity)",
+      "classificacao": "PARP inhibitor (oral antineoplastic)",
+      "apresentacao": "Tablets: 100 mg and 150 mg",
+      "interacaoMedicamento": "Avoid with strong CYP3A4 inducers/inhibitors (e.g., rifampin, ketoconazole, carbamazepine)",
+      "posologia": "300 mg orally twice daily, continuously, with or without food",
+      "armazenamento": "Room temperature (15–30°C), protect from light and moisture",
+      "preparo": "Do not crush or chew tablets",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, breastfeeding, hypersensitivity, severe hepatic impairment",
+      "cuidadosMedicos": "Monitor CBC, renal function, and hematologic toxicity signs",
+      "cuidadosFarmaceuticos": "Educate on adherence, side effects, and drug interactions",
+      "cuidadosEnfermagem": "Monitor for anemia, infection signs, fatigue, and lab values",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Lynparza PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Olaparib",
+      "suspension": "Suspender 5–7 días antes de cirugía electiva mayor",
+      "risk": "Riesgo de mielosupresión, anemia, neutropenia, trombocitopenia; aumenta riesgo infeccioso y hemorrágico",
+      "reintroduction": "Reiniciar tras estabilidad clínica y recuperación hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Olaparib",
+      "nomeComercial": "Lynparza",
+      "mecanismoAcao": "Inhibidor de PARP-1/2 que bloquea reparación de ADN en células con deficiencia en recombinación homóloga (BRCA)",
+      "farmacocinetica": "Absorción oral rápida; pico en 1–3h; vida media 11–12h; metabolismo hepático (CYP3A4); eliminación renal/fecal",
+      "farmacodinamica": "Induce muerte selectiva en células tumorales con mutaciones BRCA o defecto en reparación de ADN",
+      "indicacoes": "Cáncer de ovario, mama, próstata y páncreas con mutación BRCA; mantenimiento post respuesta a platino",
+      "reacoesAdversas": "Náuseas, fatiga, anemia, vómitos, dolor abdominal, neutropenia, trombocitopenia, infecciones, disgeusia",
+      "riscoGravidez": "Categoría D; contraindicado (teratogénico)",
+      "riscoLactacao": "Contraindicado; suspender lactancia 1 mes tras tratamiento",
+      "administracao": "Oral",
+      "doseMaxima": "600 mg/día (300 mg cada 12 h)",
+      "doseMinima": "200 mg cada 12 h (ajustado por toxicidad)",
+      "classificacao": "Inhibidor de PARP (antineoplásico oral)",
+      "apresentacao": "Comprimidos de 100 mg y 150 mg",
+      "interacaoMedicamento": "Evitar con inductores/inhibidores fuertes de CYP3A4 (rifampicina, ketoconazol, carbamazepina)",
+      "posologia": "300 mg VO 2 veces/día de forma continua, con o sin alimentos",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de luz y humedad",
+      "preparo": "No partir ni masticar comprimidos",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad, insuficiencia hepática severa",
+      "cuidadosMedicos": "Controlar hemograma, función renal y toxicidad hematológica",
+      "cuidadosFarmaceuticos": "Educar sobre adherencia, toxicidad y posibles interacciones",
+      "cuidadosEnfermagem": "Vigilar signos de anemia, infección, fatiga y valores de laboratorio",
+      "fontesBibliograficas": "Micromedex, EMA, UpToDate, ficha técnica Lynparza"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奥拉帕利",
+      "suspension": "择期大手术前应停药5–7天",
+      "risk": "骨髓抑制（贫血、中性粒细胞减少、血小板减少），术中感染及出血风险增加",
+      "reintroduction": "术后病情稳定且血象恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奥拉帕利",
+      "nomeComercial": "Lynparza",
+      "mecanismoAcao": "PARP-1/2抑制剂，阻断DNA修复通路，对BRCA突变细胞具有选择性杀伤作用",
+      "farmacocinetica": "口服吸收快，1–3小时达峰，半衰期11–12小时，经CYP3A4代谢，肾/粪排泄",
+      "farmacodinamica": "在BRCA或DNA修复缺陷肿瘤中诱导细胞凋亡",
+      "indicacoes": "适用于BRCA突变相关卵巢癌、乳腺癌、前列腺癌、胰腺癌；铂敏感维持治疗",
+      "reacoesAdversas": "恶心、疲劳、贫血、呕吐、腹痛、中性粒细胞减少、血小板减少、感染、味觉异常",
+      "riscoGravidez": "D类，禁用于妊娠期（致畸）",
+      "riscoLactacao": "禁用于哺乳期，停药后1个月内禁哺",
+      "administracao": "口服",
+      "doseMaxima": "每日600 mg（300 mg BID）",
+      "doseMinima": "每日400 mg（200 mg BID）",
+      "classificacao": "PARP抑制剂（口服抗肿瘤药）",
+      "apresentacao": "片剂100 mg、150 mg",
+      "interacaoMedicamento": "避免与CYP3A4强抑制剂/诱导剂（利福平、酮康唑、卡马西平）联用",
+      "posologia": "每日两次，每次300 mg，持续服用，可空腹或餐后",
+      "armazenamento": "室温保存（15–30°C），避光防潮",
+      "preparo": "片剂不可掰开或咀嚼",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、哺乳期、重度肝功能损害、过敏史",
+      "cuidadosMedicos": "监测血常规、肾功能及骨髓毒性表现",
+      "cuidadosFarmaceuticos": "宣教依从性、毒性识别与药物相互作用",
+      "cuidadosEnfermagem": "评估贫血、感染、疲劳及实验室指标",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、Lynparza说明书"
+    }
+  }
+}

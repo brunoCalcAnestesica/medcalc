@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fenilpropanolamina",
+      "suspension": "Suspender 48 horas antes da cirurgia",
+      "risk": "Risco aumentado de hipertensão, arritmias e AVC; retirada do mercado em muitos países",
+      "reintroduction": "Contraindicada no pós-operatório; considerar alternativas seguras"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenilpropanolamina",
+      "nomeComercial": "Desobesi-M, Naldecon, Dimetapp (uso antigo)",
+      "mecanismoAcao": "Agonista α-adrenérgico e β-parcial; ação vasoconstritora e anorexígena",
+      "farmacocinetica": "Início ~30 min; meia-vida 3–6 h; excreção renal",
+      "farmacodinamica": "Reduz congestão nasal e apetite; aumenta PA e FC",
+      "indicacoes": "Descongestionante nasal, anorexígeno (uso histórico)",
+      "reacoesAdversas": "Hipertensão, taquicardia, insônia, nervosismo, AVC hemorrágico",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretada no leite; evitar uso",
+      "administracao": "Oral",
+      "doseMaxima": "75 mg/dia (uso histórico)",
+      "doseMinima": "25 mg/dia",
+      "classificacao": "Simpaticomimético indireto (uso descontinuado em humanos em muitos países)",
+      "apresentacao": "Comprimidos 25 mg, solução 1,5 mg/mL (uso antigo)",
+      "interacaoMedicamento": "Aumenta efeito de antidepressivos tricíclicos, IMAO, cafeína",
+      "posologia": "25 mg a cada 4–6 h (uso anterior)",
+      "armazenamento": "15–30°C",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipertensão, doença cardiovascular, uso de IMAO",
+      "cuidadosMedicos": "Não utilizar; risco elevado de eventos cerebrovasculares",
+      "cuidadosFarmaceuticos": "Evitar dispensação; produto retirado em vários países",
+      "cuidadosEnfermagem": "Observar sinais de PA elevada e agitação se houver uso anterior",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Phenylpropanolamine",
+      "suspension": "Discontinue 48 hours before surgery",
+      "risk": "Increased risk of stroke, hypertension, arrhythmias; withdrawn from market",
+      "reintroduction": "Not recommended; use safer alternatives"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Phenylpropanolamine",
+      "nomeComercial": "Dexatrim, Dimetapp (historic)",
+      "mecanismoAcao": "Alpha-adrenergic agonist; indirect sympathomimetic",
+      "farmacocinetica": "Onset ~30 min, t½ 3–6 h; renal excretion",
+      "farmacodinamica": "Nasal vasoconstriction, appetite suppression",
+      "indicacoes": "Nasal decongestion, weight loss (historical use)",
+      "reacoesAdversas": "Hypertension, tachycardia, insomnia, hemorrhagic stroke",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in milk; avoid use",
+      "administracao": "Oral",
+      "doseMaxima": "75 mg/day (historic)",
+      "doseMinima": "25 mg/day",
+      "classificacao": "Withdrawn indirect sympathomimetic",
+      "apresentacao": "Tablets 25 mg, syrup (historic)",
+      "interacaoMedicamento": "Risk with MAOIs, TCAs, stimulants",
+      "posologia": "25 mg q4–6h (previous standard)",
+      "armazenamento": "15–30°C",
+      "preparo": "No special preparation",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "CVD, MAOI use, hypertension",
+      "cuidadosMedicos": "Do not prescribe; high risk of adverse events",
+      "cuidadosFarmaceuticos": "Withdrawn by FDA; advise against use",
+      "cuidadosEnfermagem": "Monitor BP, CNS stimulation if exposed",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fenilpropanolamina",
+      "suspension": "Suspender 48 horas antes de cirugía",
+      "risk": "Riesgo de hipertensión, arritmias y ACV; retirada en muchos países",
+      "reintroduction": "Contraindicada; no reiniciar tras cirugía"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fenilpropanolamina",
+      "nomeComercial": "Desopil, Dimetapp (histórico)",
+      "mecanismoAcao": "Agonista α-adrenérgico indirecto; vasoconstrictor nasal y anorexígeno",
+      "farmacocinetica": "Inicio 30 min; vida media 3–6 h; excreción renal",
+      "farmacodinamica": "Vasoconstricción nasal y disminución del apetito",
+      "indicacoes": "Descongestionante, supresor del apetito (histórico)",
+      "reacoesAdversas": "HTA, taquicardia, insomnio, ACV hemorrágico",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar uso",
+      "administracao": "Vía oral",
+      "doseMaxima": "75 mg/día (histórico)",
+      "doseMinima": "25 mg/día",
+      "classificacao": "Simpaticomimético (retirado)",
+      "apresentacao": "Comprimidos, jarabe (uso pasado)",
+      "interacaoMedicamento": "IMAO, antidepresivos tricíclicos, cafeína",
+      "posologia": "25 mg cada 4–6 h (uso pasado)",
+      "armazenamento": "15–30°C",
+      "preparo": "No requiere",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "HTA, cardiopatía, IMAO",
+      "cuidadosMedicos": "No usar; buscar opciones seguras",
+      "cuidadosFarmaceuticos": "Producto retirado; no dispensar",
+      "cuidadosEnfermagem": "Observar TA y signos neurológicos si hubo exposición",
+      "fontesBibliograficas": "EMA, FDA, Vademécum, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "苯丙醇胺",
+      "suspension": "术前应提前48小时停用",
+      "risk": "可引发高血压、中风、心律失常；已在多国下市",
+      "reintroduction": "术后禁用；应使用更安全替代药物"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "苯丙醇胺",
+      "nomeComercial": "Dimetapp（历史使用）",
+      "mecanismoAcao": "间接拟交感药，α受体激动剂",
+      "farmacocinetica": "起效30分钟，半衰期3–6小时，经肾排泄",
+      "farmacodinamica": "血管收缩，食欲抑制",
+      "indicacoes": "鼻塞、减肥辅助（历史用途）",
+      "reacoesAdversas": "高血压、心悸、失眠、脑出血",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，应避免",
+      "administracao": "口服",
+      "doseMaxima": "每日75毫克（历史）",
+      "doseMinima": "每日25毫克",
+      "classificacao": "撤市的拟交感类药物",
+      "apresentacao": "25毫克片剂，口服液（历史）",
+      "interacaoMedicamento": "与MAOI、三环抗抑郁药、咖啡因交互",
+      "posologia": "25毫克每4–6小时（旧标准）",
+      "armazenamento": "15–30°C",
+      "preparo": "无需特殊处理",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "高血压、心脏病、MAOI联用",
+      "cuidadosMedicos": "避免使用，推荐替代方案",
+      "cuidadosFarmaceuticos": "已撤市，不应使用",
+      "cuidadosEnfermagem": "监测血压和中枢兴奋症状",
+      "fontesBibliograficas": "FDA, 中国药典, UpToDate, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Artesunato",
+      "suspension": "Não é necessário suspender em cirurgia; uso geralmente em contexto agudo (malária grave)",
+      "risk": "Risco de hemólise tardia, hipotensão e interação com anestésicos em pacientes instáveis",
+      "reintroduction": "Reintrodução apenas se novo episódio de malária justificar"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Artesunato",
+      "nomeComercial": "Guilin Artesunate, Malacef",
+      "mecanismoAcao": "Liberação de radicais livres que danificam proteínas e membranas de Plasmodium spp.",
+      "farmacocinetica": "IV ou IM; meia-vida curta (~0,25–0,5 h); metabolizado em diidroartemisinina (ativo)",
+      "farmacodinamica": "Rápida parasitemia clearance em malária falciparum grave",
+      "indicacoes": "Malária grave por Plasmodium falciparum",
+      "reacoesAdversas": "Hemólise tardia, náusea, vômito, tontura, aumento de transaminases",
+      "riscoGravidez": "Categoria C (1º trimestre), Categoria B (2º e 3º trimestres)",
+      "riscoLactacao": "Compatível com amamentação",
+      "administracao": "Via intravenosa (preferencial) ou intramuscular",
+      "doseMaxima": "2,4 mg/kg por dose IV",
+      "doseMinima": "2,4 mg/kg por dose IV",
+      "classificacao": "Derivado da artemisinina / antimalárico",
+      "apresentacao": "Pó liofilizado + ampola de diluente (NaHCO3 + NaCl)",
+      "interacaoMedicamento": "Evitar associação com QT-prolongadores; interage com inibidores de CYP",
+      "posologia": "2,4 mg/kg IV nas 0h, 12h, 24h, depois a cada 24h até via oral",
+      "armazenamento": "Temperatura <25°C; solução reconstituída usar em até 1h",
+      "preparo": "Reconstituir com bicarbonato + NaCl; infusão lenta (2–3 min)",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Hipersensibilidade a derivados de artemisinina",
+      "cuidadosMedicos": "Monitorar hemólise tardia (semana 2–3), função hepática e ECG",
+      "cuidadosFarmaceuticos": "Garantir estabilidade da solução; preparar imediatamente antes do uso",
+      "cuidadosEnfermagem": "Observar reações infusionais e resposta clínica",
+      "fontesBibliograficas": "WHO, CDC, ANVISA, Micromedex, bula Guilin Artesunate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Artesunate",
+      "suspension": "No need to suspend; used in acute severe malaria treatment",
+      "risk": "Risk of delayed hemolysis, hypotension, and anesthetic interaction in unstable patients",
+      "reintroduction": "Only if re-infected with severe malaria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Artesunate",
+      "nomeComercial": "Guilin Artesunate (CDC, US Army supply)",
+      "mecanismoAcao": "Generates free radicals causing parasite protein and membrane damage",
+      "farmacocinetica": "IV or IM; short half-life (~0.25–0.5 h); metabolized to active dihydroartemisinin",
+      "farmacodinamica": "Rapid parasitemia reduction in severe falciparum malaria",
+      "indicacoes": "Severe Plasmodium falciparum malaria",
+      "reacoesAdversas": "Delayed hemolysis, nausea, dizziness, vomiting, transaminase increase",
+      "riscoGravidez": "Category C (1st tri), B (2nd & 3rd tri)",
+      "riscoLactacao": "Compatible with breastfeeding",
+      "administracao": "Intravenous (preferred) or intramuscular",
+      "doseMaxima": "2.4 mg/kg IV per dose",
+      "doseMinima": "2.4 mg/kg IV per dose",
+      "classificacao": "Artemisinin derivative / antimalarial",
+      "apresentacao": "Lyophilized powder + diluent ampoules (NaHCO3 + NaCl)",
+      "interacaoMedicamento": "Avoid QT-prolonging drugs; CYP enzyme interaction possible",
+      "posologia": "2.4 mg/kg IV at 0, 12, 24h, then every 24h until oral transition",
+      "armazenamento": "Store <25°C; use reconstituted solution within 1 hour",
+      "preparo": "Reconstitute with bicarbonate + saline; slow push over 2–3 min",
+      "solucoesCompatíveis": "0.9% Sodium chloride",
+      "contraindicacoes": "Hypersensitivity to artemisinin derivatives",
+      "cuidadosMedicos": "Monitor for delayed hemolysis (weeks 2–3), liver enzymes, ECG",
+      "cuidadosFarmaceuticos": "Prepare solution fresh; ensure compatibility and stability",
+      "cuidadosEnfermagem": "Watch for infusion reactions and clinical improvement",
+      "fontesBibliograficas": "WHO, CDC, FDA EUA, Micromedex, Guilin product insert"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Artesunato",
+      "suspension": "No requiere suspensión; se usa en tratamiento agudo de malaria grave",
+      "risk": "Riesgo de hemólisis tardía, hipotensión e interacción anestésica en pacientes inestables",
+      "reintroduction": "Solo si hay nueva infección por malaria grave"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Artesunato",
+      "nomeComercial": "Guilin Artesunate",
+      "mecanismoAcao": "Genera radicales libres que dañan proteínas y membranas del Plasmodium",
+      "farmacocinetica": "IV o IM; vida media corta (~0,25–0,5 h); metabolizado a dihidroartemisinina (activo)",
+      "farmacodinamica": "Reducción rápida de parasitemia en malaria falciparum grave",
+      "indicacoes": "Malaria grave por Plasmodium falciparum",
+      "reacoesAdversas": "Hemólisis tardía, náuseas, vómitos, mareos, elevación de transaminasas",
+      "riscoGravidez": "Categoría C (1er trimestre), B (2º y 3º)",
+      "riscoLactacao": "Compatible con lactancia",
+      "administracao": "IV preferente o IM",
+      "doseMaxima": "2,4 mg/kg por dosis",
+      "doseMinima": "2,4 mg/kg por dosis",
+      "classificacao": "Derivado de artemisinina / antipalúdico",
+      "apresentacao": "Polvo liofilizado + diluyente (bicarbonato + NaCl)",
+      "interacaoMedicamento": "Evitar fármacos que prolonguen QT; interacción con CYP",
+      "posologia": "2,4 mg/kg IV en 0, 12, 24h, luego cada 24h hasta vía oral",
+      "armazenamento": "Almacenar <25°C; usar la solución reconstituida en 1h",
+      "preparo": "Reconstituir con bicarbonato + NaCl; administrar lentamente (2–3 min)",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%",
+      "contraindicacoes": "Hipersensibilidad a derivados de artemisinina",
+      "cuidadosMedicos": "Controlar hemólisis (semana 2–3), hepatograma y ECG",
+      "cuidadosFarmaceuticos": "Preparar justo antes de usar; verificar compatibilidad",
+      "cuidadosEnfermagem": "Observar reacciones a la infusión y mejoría clínica",
+      "fontesBibliograficas": "OMS, CDC, ANVISA, Micromedex, ficha técnica Guilin"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "青蒿琥酯",
+      "suspension": "用于重症疟疾急救，无需术前停药",
+      "risk": "不稳定患者有迟发性溶血、低血压和麻醉药相互作用风险",
+      "reintroduction": "仅在再次感染重症疟疾时重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "青蒿琥酯",
+      "nomeComercial": "Guilin Artesunate",
+      "mecanismoAcao": "释放自由基破坏疟原虫蛋白和膜结构",
+      "farmacocinetica": "静注或肌注；半衰期短（~0.25–0.5小时）；代谢为活性物质双氢青蒿素",
+      "farmacodinamica": "快速清除恶性疟原虫血液寄生虫",
+      "indicacoes": "重症恶性疟疾",
+      "reacoesAdversas": "迟发性溶血、恶心、呕吐、头晕、转氨酶升高",
+      "riscoGravidez": "C类（孕早期），B类（中晚期）",
+      "riscoLactacao": "可哺乳",
+      "administracao": "首选静脉注射，也可肌注",
+      "doseMaxima": "每次2.4 mg/kg",
+      "doseMinima": "每次2.4 mg/kg",
+      "classificacao": "青蒿素类抗疟药",
+      "apresentacao": "冻干粉 + 稀释液（碳酸氢钠+氯化钠）",
+      "interacaoMedicamento": "避免与延长QT药物联用；CYP酶代谢相互作用",
+      "posologia": "0、12、24小时各2.4 mg/kg，后每24小时一次，直至转口服药",
+      "armazenamento": "＜25°C，重配液1小时内使用",
+      "preparo": "先用碳酸氢钠重配，再稀释于0.9%氯化钠；2–3分钟缓慢注射",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "对青蒿素类药物过敏",
+      "cuidadosMedicos": "第2–3周监测溶血、肝功能和心电图",
+      "cuidadosFarmaceuticos": "现配现用，确保稀释正确",
+      "cuidadosEnfermagem": "监测输注反应和临床改善",
+      "fontesBibliograficas": "WHO、CDC、Micromedex、Guilin说明书"
+    }
+  }
+}

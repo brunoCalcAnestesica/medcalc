@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Venetoclaxe",
+      "suspension": "Suspender 3 dias antes da cirurgia eletiva com avaliação hematológica prévia",
+      "risk": "Risco de neutropenia, síndrome de lise tumoral, interações medicamentosas e imunossupressão acentuada; impacto importante na hemostasia e resposta a infecções",
+      "reintroduction": "Reintroduzir após recuperação medular, estabilidade clínica e ausência de infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Venetoclaxe",
+      "nomeComercial": "Venclexta",
+      "mecanismoAcao": "Inibidor seletivo da proteína antiapoptótica BCL-2, promovendo morte celular programada em células malignas",
+      "farmacocinetica": "Absorção oral moderada; pico em 5–8h; meia-vida terminal ~16–19h; metabolizado pelo CYP3A4",
+      "farmacodinamica": "Indução de apoptose em células hematológicas tumorais com superexpressão de BCL-2",
+      "indicacoes": "Leucemia linfocítica crônica (LLC), leucemia mieloide aguda (LMA), linfoma linfocítico de pequenas células (SLL)",
+      "reacoesAdversas": "Neutropenia, trombocitopenia, anemia, náusea, diarreia, febre, infecções, síndrome de lise tumoral",
+      "riscoGravidez": "Categoria D – risco fetal documentado; evitar durante a gravidez",
+      "riscoLactacao": "Desconhecido se excretado no leite; contraindicado durante a amamentação",
+      "administracao": "Via oral, uma vez ao dia, com alimentos",
+      "doseMaxima": "400 mg/dia em monoterapia; até 600 mg em combinação (LMA)",
+      "doseMinima": "20 mg/dia (fase de escalonamento)",
+      "classificacao": "Antineoplásico – inibidor de BCL-2",
+      "apresentacao": "Comprimidos revestidos de 10 mg, 50 mg, 100 mg",
+      "interacaoMedicamento": "Evitar com inibidores potentes do CYP3A4; risco aumentado de toxicidade hematológica",
+      "posologia": "Esquema escalonado: 20 → 50 → 100 → 200 → 400 mg/dia",
+      "armazenamento": "Temperatura ambiente, protegido da luz e umidade",
+      "preparo": "Não partir nem mastigar os comprimidos",
+      "solucoesCompatíveis": "Não aplicável – forma sólida",
+      "contraindicacoes": "Gravidez, lactação, hipersensibilidade ao fármaco, neutropenia grave não controlada",
+      "cuidadosMedicos": "Monitorar hemograma, eletrólitos, função renal e sinais de lise tumoral",
+      "cuidadosFarmaceuticos": "Atenção à titulação de dose e interações; garantir adesão ao escalonamento",
+      "cuidadosEnfermagem": "Observar sinais de infecção, febre persistente e efeitos colaterais hematológicos",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, NCCN Guidelines, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Venetoclax",
+      "suspension": "Discontinue 3 days before elective surgery with prior hematologic assessment",
+      "risk": "Risk of neutropenia, tumor lysis syndrome, drug interactions, and profound immunosuppression; major impact on hemostasis and infection response",
+      "reintroduction": "Restart after bone marrow recovery, clinical stability, and absence of active infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Venetoclax",
+      "nomeComercial": "Venclexta",
+      "mecanismoAcao": "Selective BCL-2 inhibitor inducing programmed cell death in malignant cells",
+      "farmacocinetica": "Moderate oral absorption; peak at 5–8h; terminal half-life ~16–19h; metabolized by CYP3A4",
+      "farmacodinamica": "Promotes apoptosis in hematologic malignancies overexpressing BCL-2",
+      "indicacoes": "Chronic lymphocytic leukemia (CLL), acute myeloid leukemia (AML), small lymphocytic lymphoma (SLL)",
+      "reacoesAdversas": "Neutropenia, thrombocytopenia, anemia, nausea, diarrhea, fever, infections, tumor lysis syndrome",
+      "riscoGravidez": "Category D – fetal risk documented; contraindicated in pregnancy",
+      "riscoLactacao": "Unknown if excreted in breast milk; contraindicated during breastfeeding",
+      "administracao": "Oral, once daily with food",
+      "doseMaxima": "400 mg/day monotherapy; up to 600 mg in AML combinations",
+      "doseMinima": "20 mg/day (ramp-up phase)",
+      "classificacao": "Antineoplastic – BCL-2 inhibitor",
+      "apresentacao": "Film-coated tablets: 10 mg, 50 mg, 100 mg",
+      "interacaoMedicamento": "Avoid strong CYP3A4 inhibitors; increased hematologic toxicity risk",
+      "posologia": "Ramp-up schedule: 20 → 50 → 100 → 200 → 400 mg/day",
+      "armazenamento": "Store at room temperature, protect from light and moisture",
+      "preparo": "Do not crush or chew tablets",
+      "solucoesCompatíveis": "Not applicable – oral solid",
+      "contraindicacoes": "Pregnancy, breastfeeding, drug hypersensitivity, uncontrolled severe neutropenia",
+      "cuidadosMedicos": "Monitor CBC, electrolytes, renal function, tumor lysis markers",
+      "cuidadosFarmaceuticos": "Ensure adherence to ramp-up protocol; watch for drug interactions",
+      "cuidadosEnfermagem": "Observe for infection signs, fever, and hematologic side effects",
+      "fontesBibliograficas": "FDA, EMA, NCCN Guidelines, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Venetoclax",
+      "suspension": "Suspender 3 días antes de cirugía electiva con evaluación hematológica previa",
+      "risk": "Riesgo de neutropenia, síndrome de lisis tumoral, interacciones farmacológicas e inmunosupresión; afecta coagulación y defensa contra infecciones",
+      "reintroduction": "Reintroducir tras recuperación medular, estabilidad clínica y ausencia de infección activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Venetoclax",
+      "nomeComercial": "Venclexta",
+      "mecanismoAcao": "Inhibidor selectivo de BCL-2 que induce apoptosis en células malignas",
+      "farmacocinetica": "Absorción oral moderada; pico 5–8h; vida media terminal ~16–19h; metabolizado por CYP3A4",
+      "farmacodinamica": "Induce muerte celular programada en neoplasias hematológicas con sobreexpresión de BCL-2",
+      "indicacoes": "Leucemia linfocítica crónica (LLC), leucemia mieloide aguda (LMA), linfoma linfocítico de células pequeñas (SLL)",
+      "reacoesAdversas": "Neutropenia, trombocitopenia, anemia, náuseas, diarrea, fiebre, infecciones, síndrome de lisis tumoral",
+      "riscoGravidez": "Categoría D – riesgo fetal; contraindicado durante el embarazo",
+      "riscoLactacao": "Se desconoce si se excreta en leche materna; contraindicado en la lactancia",
+      "administracao": "Vía oral, una vez al día con alimentos",
+      "doseMaxima": "400 mg/día en monoterapia; hasta 600 mg en LMA",
+      "doseMinima": "20 mg/día (fase de escalada)",
+      "classificacao": "Antineoplásico – inhibidor de BCL-2",
+      "apresentacao": "Comprimidos recubiertos de 10 mg, 50 mg, 100 mg",
+      "interacaoMedicamento": "Evitar inhibidores potentes de CYP3A4; aumenta toxicidad hematológica",
+      "posologia": "Escalado: 20 → 50 → 100 → 200 → 400 mg/día",
+      "armazenamento": "Temperatura ambiente, protegido de luz y humedad",
+      "preparo": "No partir ni masticar los comprimidos",
+      "solucoesCompatíveis": "No aplica – comprimido oral",
+      "contraindicacoes": "Embarazo, lactancia, hipersensibilidad, neutropenia severa no controlada",
+      "cuidadosMedicos": "Monitorear hemograma, electrolitos, función renal, lisis tumoral",
+      "cuidadosFarmaceuticos": "Asegurar cumplimiento de escalado; revisar interacciones",
+      "cuidadosEnfermagem": "Observar fiebre, infecciones, efectos hematológicos",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, Guías NCCN"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "维奈托克",
+      "suspension": "择期手术前3天停药，并进行血液学评估",
+      "risk": "可能引起中性粒细胞减少、肿瘤溶解综合征、免疫抑制和药物相互作用；影响凝血及感染控制",
+      "reintroduction": "术后骨髓恢复、临床稳定并无活动性感染时再恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "维奈托克",
+      "nomeComercial": "Venclexta（万可来）",
+      "mecanismoAcao": "选择性BCL-2抑制剂，促进恶性细胞凋亡",
+      "farmacocinetica": "口服中度吸收；5–8小时达峰；终末半衰期16–19小时；经CYP3A4代谢",
+      "farmacodinamica": "诱导BCL-2过表达血液肿瘤细胞的程序性死亡",
+      "indicacoes": "慢性淋巴细胞白血病（CLL）、急性髓系白血病（AML）、小淋巴细胞淋巴瘤（SLL）",
+      "reacoesAdversas": "中性粒细胞减少、血小板减少、贫血、恶心、腹泻、发热、感染、肿瘤溶解综合征",
+      "riscoGravidez": "D类 – 存在胎儿风险；妊娠禁用",
+      "riscoLactacao": "是否分泌入乳汁不明；哺乳期禁用",
+      "administracao": "口服，每日一次，随餐服用",
+      "doseMaxima": "单药每日400毫克；AML联合治疗最高600毫克",
+      "doseMinima": "每日20毫克（剂量爬坡期）",
+      "classificacao": "抗肿瘤药 – BCL-2抑制剂",
+      "apresentacao": "薄膜衣片：10mg、50mg、100mg",
+      "interacaoMedicamento": "避免与强CYP3A4抑制剂合用；提高骨髓毒性风险",
+      "posologia": "递增剂量：20 → 50 → 100 → 200 → 400 mg/日",
+      "armazenamento": "室温保存，避光避湿",
+      "preparo": "不可咀嚼或掰开服用",
+      "solucoesCompatíveis": "不适用 – 固体口服剂",
+      "contraindicacoes": "妊娠、哺乳期、严重中性粒细胞减少、药物过敏",
+      "cuidadosMedicos": "监测血象、电解质、肾功能、肿瘤溶解指标",
+      "cuidadosFarmaceuticos": "确保剂量递增依从性；警惕药物相互作用",
+      "cuidadosEnfermagem": "监测感染症状、发热、骨髓抑制反应",
+      "fontesBibliograficas": "FDA、EMA、中国药典、Micromedex、NCCN指南"
+    }
+  }
+}

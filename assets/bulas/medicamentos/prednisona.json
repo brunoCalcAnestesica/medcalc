@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Prednisona",
+      "suspension": "Individualizar. Reduzir dose gradualmente se uso crônico. Avaliar risco-benefício.",
+      "risk": "Supressão adrenal, risco de crise aguda em suspensão abrupta, imunossupressão e hiperglicemia em manutenção",
+      "reintroduction": "Reintroduzir com dose de manutenção ou estresse conforme necessidade cirúrgica e tempo de uso anterior"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prednisona",
+      "nomeComercial": "Meticorten, Predsim, Prelone",
+      "mecanismoAcao": "Agonista dos receptores glicocorticoides, com potente ação anti-inflamatória e imunossupressora",
+      "farmacocinetica": "Absorção oral rápida, metabolizada no fígado em prednisolona (forma ativa), meia-vida de 2–4h",
+      "farmacodinamica": "Reduz produção de citocinas inflamatórias e inibe migração leucocitária",
+      "indicacoes": "Doenças autoimunes, asma, DPOC, artrite reumatoide, rejeição de transplante",
+      "reacoesAdversas": "Hiperglicemia, hipertensão, osteoporose, miopatia, insônia, síndrome de Cushing",
+      "riscoGravidez": "Categoria C (usar com cautela)",
+      "riscoLactacao": "Excretado em pequenas quantidades; uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "80mg/dia (em protocolos inflamatórios agudos)",
+      "doseMinima": "2,5mg/dia",
+      "classificacao": "Glicocorticoide sistêmico",
+      "apresentacao": "Comprimidos 5mg, 20mg; suspensão oral",
+      "interacaoMedicamento": "Interage com AINEs, anticoagulantes, anticonvulsivantes e hipoglicemiantes",
+      "posologia": "Individualizada conforme patologia, resposta e tempo de uso",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Infecções fúngicas sistêmicas, hipersensibilidade ao fármaco",
+      "cuidadosMedicos": "Monitorar glicemia, pressão arterial, sinais de infecção e função adrenal",
+      "cuidadosFarmaceuticos": "Orientar sobre retirada gradual após uso prolongado",
+      "cuidadosEnfermagem": "Observar edema, glicemia capilar e sinais infecciosos",
+      "fontesBibliograficas": "SBRAFH, Micromedex, ANVISA, FDA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Prednisone",
+      "suspension": "Individualized. Taper if chronic use. Evaluate surgical risk.",
+      "risk": "Adrenal suppression, acute crisis if stopped abruptly, immunosuppression and hyperglycemia if maintained",
+      "reintroduction": "Restart with maintenance or stress dose depending on previous use and surgical stress"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prednisone",
+      "nomeComercial": "Deltasone, Rayos",
+      "mecanismoAcao": "Glucocorticoid receptor agonist with anti-inflammatory and immunosuppressive effects",
+      "farmacocinetica": "Rapid oral absorption, converted to prednisolone in liver, half-life 2–4h",
+      "farmacodinamica": "Inhibits cytokine production and leukocyte migration",
+      "indicacoes": "Autoimmune diseases, asthma, COPD, RA, transplant rejection",
+      "reacoesAdversas": "Hyperglycemia, hypertension, osteoporosis, myopathy, insomnia, Cushing's syndrome",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in small amounts; caution advised",
+      "administracao": "Oral",
+      "doseMaxima": "80mg/day (in acute inflammatory protocols)",
+      "doseMinima": "2.5mg/day",
+      "classificacao": "Systemic glucocorticoid",
+      "apresentacao": "Tablets 5mg, 20mg; oral suspension",
+      "interacaoMedicamento": "Interacts with NSAIDs, anticoagulants, anticonvulsants, hypoglycemics",
+      "posologia": "Individualized according to disease, response and duration",
+      "armazenamento": "Store at room temperature, away from light",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Systemic fungal infections, hypersensitivity",
+      "cuidadosMedicos": "Monitor blood glucose, BP, infection signs, adrenal function",
+      "cuidadosFarmaceuticos": "Counsel gradual tapering if used long-term",
+      "cuidadosEnfermagem": "Monitor edema, glucose levels and infections",
+      "fontesBibliograficas": "FDA, Micromedex, ACR guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Prednisona",
+      "suspension": "Individualizar. Disminuir progresivamente si uso crónico. Evaluar riesgos.",
+      "risk": "Supresión adrenal, riesgo de crisis si se suspende bruscamente, inmunosupresión e hiperglucemia si se mantiene",
+      "reintroduction": "Reintroducir con dosis de mantenimiento o de estrés según la cirugía y tratamiento previo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Prednisona",
+      "nomeComercial": "Dacortin, Prednicort",
+      "mecanismoAcao": "Agonista de receptores glucocorticoides, efecto antiinflamatorio e inmunosupresor",
+      "farmacocinetica": "Buena absorción oral, metabolizada en hígado a prednisolona, semivida de 2–4h",
+      "farmacodinamica": "Inhibe citocinas inflamatorias y migración leucocitaria",
+      "indicacoes": "Enfermedades autoinmunes, asma, EPOC, AR, rechazo de trasplante",
+      "reacoesAdversas": "Hiperglucemia, hipertensión, osteoporosis, miopatía, insomnio, síndrome de Cushing",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en pequeñas cantidades; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "80mg/día (procesos inflamatorios agudos)",
+      "doseMinima": "2,5mg/día",
+      "classificacao": "Glucocorticoide sistémico",
+      "apresentacao": "Comprimidos 5mg, 20mg; suspensión oral",
+      "interacaoMedicamento": "Interacciona con AINEs, anticoagulantes, antiepilépticos e hipoglucemiantes",
+      "posologia": "Individualizada según enfermedad, respuesta y duración",
+      "armazenamento": "Temperatura ambiente, protegido de la luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infecciones fúngicas sistémicas, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear glucosa, presión, signos infecciosos y función suprarrenal",
+      "cuidadosFarmaceuticos": "Advertir sobre suspensión gradual tras uso prolongado",
+      "cuidadosEnfermagem": "Observar edema, glucemia y signos infecciosos",
+      "fontesBibliograficas": "Micromedex, FDA, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "泼尼松",
+      "suspension": "个体化处理。长期使用需逐渐减量。术前评估风险。",
+      "risk": "突然停药可致肾上腺危象，维持使用则可导致免疫抑制与高血糖",
+      "reintroduction": "术后根据应激程度及用药历史重新给予维持或应激剂量"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "泼尼松",
+      "nomeComercial": "强的松",
+      "mecanismoAcao": "激活糖皮质激素受体，具抗炎和免疫抑制作用",
+      "farmacocinetica": "口服吸收快，肝脏代谢为泼尼松龙，半衰期2-4小时",
+      "farmacodinamica": "抑制炎性细胞因子及白细胞迁移",
+      "indicacoes": "自身免疫病、哮喘、慢阻肺、类风湿、移植排斥",
+      "reacoesAdversas": "高血糖、高血压、骨质疏松、肌病、失眠、库欣综合征",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌入乳汁，慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日80毫克（急性炎症）",
+      "doseMinima": "每日2.5毫克",
+      "classificacao": "全身性糖皮质激素",
+      "apresentacao": "片剂5mg, 20mg；口服混悬液",
+      "interacaoMedicamento": "与NSAIDs、抗凝剂、抗癫药和降糖药相互作用",
+      "posologia": "按病情、反应与疗程个体化调整",
+      "armazenamento": "常温避光保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "系统性真菌感染、过敏",
+      "cuidadosMedicos": "监测血糖、血压、感染征象与肾上腺功能",
+      "cuidadosFarmaceuticos": "长期用药需逐渐减量",
+      "cuidadosEnfermagem": "监测水肿、血糖与感染",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

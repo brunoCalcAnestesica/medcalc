@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Talimogene laherparepvec",
+      "suspension": "Suspender antes de cirurgias eletivas; risco de disseminação viral intrahospitalar",
+      "risk": "Risco de infecção herpética, febre, dor local, reativação viral em imunossuprimidos",
+      "reintroduction": "Somente após cicatrização local completa e avaliação de risco-benefício oncológico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Talimogene laherparepvec",
+      "nomeComercial": "Imlygic",
+      "mecanismoAcao": "Vírus herpes simplex 1 geneticamente modificado que se replica seletivamente em células tumorais e expressa GM-CSF para estimular resposta imune",
+      "farmacocinetica": "Injeção intratumoral; replicação local com mínima viremia; eliminação por sistema imune",
+      "farmacodinamica": "Oncolítico e imunoterápico; lise celular tumoral e apresentação de antígenos tumorais",
+      "indicacoes": "Melanoma cutâneo, subcutâneo ou nodal não ressecável, estágio IIIB–IVM1a",
+      "reacoesAdversas": "Febre, fadiga, náusea, dor local, lesões herpéticas, infecção secundária",
+      "riscoGravidez": "Categoria D; evitar gravidez durante e até 3 meses após o tratamento",
+      "riscoLactacao": "Evitar; risco de transmissão viral por contato",
+      "administracao": "Injeção intralesional guiada",
+      "doseMaxima": "4 mL por sessão (até 10⁸ PFU/mL)",
+      "doseMinima": "1 mL por sessão",
+      "classificacao": "Terapia oncolítica viral / Imunoterapia local",
+      "apresentacao": "Frasco-ampola de 1 mL (10⁶ ou 10⁸ PFU/mL), solução congelada",
+      "interacaoMedicamento": "Evitar com antivirais ativos contra HSV (aciclovir, valaciclovir)",
+      "posologia": "1x a cada 2 semanas por até 24 semanas ou até regressão completa",
+      "armazenamento": "Congelado a –90°C a –70°C; descongelar antes do uso",
+      "preparo": "Descongelar à temperatura ambiente; uso único; descartar adequadamente",
+      "solucoesCompatíveis": "Não aplicar com diluentes; solução pronta",
+      "contraindicacoes": "Imunossupressão grave, gestação, infecção ativa por HSV",
+      "cuidadosMedicos": "Isolamento da lesão, precaução padrão, vigilância por herpes dissem.",
+      "cuidadosFarmaceuticos": "Gerenciar cadeia de frio e biossegurança; uso exclusivo em oncologia especializada",
+      "cuidadosEnfermagem": "Uso de EPI; cobrir lesões tratadas; educar sobre higiene e risco de transmissão",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, ANVISA, NCCN Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Talimogene laherparepvec",
+      "suspension": "Hold prior to surgery due to risk of viral shedding and contamination",
+      "risk": "Herpetic infection, local inflammation, systemic viral symptoms, reactivation in immunocompromised",
+      "reintroduction": "Restart only after lesion healing and risk reassessment"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Talimogene laherparepvec",
+      "nomeComercial": "Imlygic",
+      "mecanismoAcao": "Modified HSV-1 that selectively replicates in tumors and expresses GM-CSF to promote immune response",
+      "farmacocinetica": "Intralesional; limited systemic exposure; cleared by immune system",
+      "farmacodinamica": "Oncolytic and immunogenic; causes tumor lysis and immune activation",
+      "indicacoes": "Unresectable melanoma in skin, subcutaneous or nodal sites (stage IIIB–IVM1a)",
+      "reacoesAdversas": "Fever, chills, injection site pain, nausea, herpetic lesions",
+      "riscoGravidez": "Category D; avoid pregnancy during and 3 months post-treatment",
+      "riscoLactacao": "Avoid breastfeeding; shedding risk",
+      "administracao": "Direct intratumoral injection",
+      "doseMaxima": "4 mL per session (up to 10⁸ PFU/mL)",
+      "doseMinima": "1 mL per session",
+      "classificacao": "Oncolytic viral immunotherapy",
+      "apresentacao": "1 mL vial, frozen (10⁶ or 10⁸ PFU/mL)",
+      "interacaoMedicamento": "Avoid concurrent HSV antivirals",
+      "posologia": "Every 2 weeks until complete response or 24 weeks",
+      "armazenamento": "Store at –90°C to –70°C; thaw before use",
+      "preparo": "Single-use vial; thaw at room temperature",
+      "solucoesCompatíveis": "Do not dilute; ready-to-use",
+      "contraindicacoes": "Immunosuppression, active HSV infection, pregnancy",
+      "cuidadosMedicos": "Precautions for viral shedding; monitor for disseminated HSV",
+      "cuidadosFarmaceuticos": "Cold chain logistics; biohazard disposal",
+      "cuidadosEnfermagem": "Use PPE; cover treated lesions; educate on hygiene and transmission",
+      "fontesBibliograficas": "FDA, EMA, NCCN, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Talimogene laherparepvec",
+      "suspension": "Suspender antes de cirugía mayor; riesgo de diseminación viral",
+      "risk": "Riesgo de infección por HSV, fiebre, inflamación local",
+      "reintroduction": "Reiniciar tras cicatrización de lesiones y evaluación oncológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Talimogene laherparepvec",
+      "nomeComercial": "Imlygic",
+      "mecanismoAcao": "HSV-1 modificado que se replica en tumores y expresa GM-CSF",
+      "farmacocinetica": "Intralesional, mínima viremia, aclaramiento inmune",
+      "farmacodinamica": "Lisis tumoral y activación inmune local",
+      "indicacoes": "Melanoma irresecable en piel/nódulos (estadio IIIB–IVM1a)",
+      "reacoesAdversas": "Fiebre, dolor, náuseas, lesiones herpéticas",
+      "riscoGravidez": "Categoría D; evitar embarazo",
+      "riscoLactacao": "Evitar; riesgo de transmisión",
+      "administracao": "Inyección directa en lesión tumoral",
+      "doseMaxima": "Hasta 4 mL por sesión",
+      "doseMinima": "1 mL",
+      "classificacao": "Terapia viral oncolítica",
+      "apresentacao": "Vial congelado 1 mL (10⁶/10⁸ PFU/mL)",
+      "interacaoMedicamento": "Evitar antivirales HSV",
+      "posologia": "Cada 2 semanas por hasta 6 meses",
+      "armazenamento": "–90°C a –70°C",
+      "preparo": "Descongelar y aplicar; uso único",
+      "solucoesCompatíveis": "No diluir",
+      "contraindicacoes": "Inmunodeficiencia, embarazo, infección HSV activa",
+      "cuidadosMedicos": "Precaución por diseminación viral",
+      "cuidadosFarmaceuticos": "Manejo de cadena de frío, bioseguridad",
+      "cuidadosEnfermagem": "Cubrir lesión, educar sobre higiene",
+      "fontesBibliograficas": "EMA, FDA, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "塔利莫金拉希帕维克",
+      "suspension": "术前应暂停使用；避免病毒传播和交叉感染",
+      "risk": "可致疱疹病毒感染、发热、局部红肿，免疫低下患者高风险",
+      "reintroduction": "待局部完全愈合后，再评估是否重新开始治疗"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "塔利莫金拉希帕维克",
+      "nomeComercial": "Imlygic",
+      "mecanismoAcao": "改造HSV-1病毒，选择性攻击肿瘤并表达GM-CSF激活免疫",
+      "farmacocinetica": "局部注射，病毒局限复制；免疫系统清除",
+      "farmacodinamica": "诱导肿瘤细胞裂解并激活机体抗肿瘤免疫",
+      "indicacoes": "不可切除黑色素瘤（IIIB–IVM1a阶段）",
+      "reacoesAdversas": "发热、注射部位疼痛、乏力、疱疹感染",
+      "riscoGravidez": "D类；禁用于孕妇",
+      "riscoLactacao": "哺乳期不推荐使用；有传播风险",
+      "administracao": "肿瘤内直接注射",
+      "doseMaxima": "每次最多4 mL（浓度10⁸ PFU/mL）",
+      "doseMinima": "1 mL",
+      "classificacao": "溶瘤病毒免疫疗法",
+      "apresentacao": "1 mL冻存瓶（10⁶或10⁸ PFU/mL）",
+      "interacaoMedicamento": "禁用抗疱疹药物（如阿昔洛韦）",
+      "posologia": "每两周注射一次，最长24周",
+      "armazenamento": "–90°C至–70°C冷冻",
+      "preparo": "用前室温解冻；一次性使用",
+      "solucoesCompatíveis": "不可稀释",
+      "contraindicacoes": "免疫抑制、妊娠、HSV感染",
+      "cuidadosMedicos": "防护措施防止交叉感染",
+      "cuidadosFarmaceuticos": "确保冷链，按规定处理生物危害物",
+      "cuidadosEnfermagem": "佩戴防护装备，遮盖注射部位，避免病毒扩散",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，NCCN指南"
+    }
+  }
+}

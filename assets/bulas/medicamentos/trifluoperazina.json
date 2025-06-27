@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Trifluoperazina",
+      "suspension": "Suspender 48h antes de cirurgia com anestesia geral ou risco de prolongamento de QT",
+      "risk": "Síndrome extrapiramidal, distonia aguda, acatisia, sedação, hipotensão, prolongamento QT, discinesia tardia",
+      "reintroduction": "Reintroduzir 48–72h após cirurgia com estabilidade hemodinâmica e neurológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trifluoperazina",
+      "nomeComercial": "Stelazine",
+      "mecanismoAcao": "Antagonista potente de receptores dopaminérgicos D2 e alfa-adrenérgicos; também bloqueia histaminérgicos e muscarínicos",
+      "farmacocinetica": "VO ou IM; T½ ~19h; metabolização hepática; excreção urinária e fecal",
+      "farmacodinamica": "Redução da dopamina no SNC → efeito antipsicótico e ansiolítico em altas doses",
+      "indicacoes": "Esquizofrenia, ansiedade severa, agitação psicomotora",
+      "reacoesAdversas": "Parkinsonismo, discinesia tardia, boca seca, constipação, sedação, hipotensão, QT longo",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO ou IM (formulação curta); 1–2x/dia",
+      "doseMaxima": "40mg/dia (psicose); 6mg/dia (ansiedade)",
+      "doseMinima": "1mg/dia",
+      "classificacao": "Antipsicótico típico (fenotiazina)",
+      "apresentacao": "Comprimidos de 1mg, 5mg; solução oral 1mg/ml; ampola IM 2mg/ml",
+      "interacaoMedicamento": "Depressores do SNC, anti-hipertensivos, QT-prolongadores, anticolinérgicos",
+      "posologia": "Psicose: 5–20mg/dia VO; Ansiedade: 1–6mg/dia em 2 doses",
+      "armazenamento": "Temperatura ambiente; proteger da luz",
+      "preparo": "Uso oral ou IM direto",
+      "solucoesCompatíveis": "SF 0,9% para IM",
+      "contraindicacoes": "Depressão grave do SNC, coma, doença hepática grave, QT longo",
+      "cuidadosMedicos": "Monitorar ECG, PA, sintomas extrapiramidais",
+      "cuidadosFarmaceuticos": "Avaliar dose/duplicidade; evitar combinação com QT-prolongadores",
+      "cuidadosEnfermagem": "Observar sedação excessiva, rigidez, distúrbios do sono, PA postural",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Trifluoperazine",
+      "suspension": "Hold 48h before general anesthesia or if QT prolongation risk exists",
+      "risk": "EPS, tardive dyskinesia, QT prolongation, hypotension, sedation",
+      "reintroduction": "Restart 48–72h postop if stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trifluoperazine",
+      "nomeComercial": "Stelazine",
+      "mecanismoAcao": "High-potency D2 antagonist; also blocks alpha, H1, and muscarinic receptors",
+      "farmacocinetica": "Oral or IM; T½ ~19h; hepatic metabolism; renal/fecal clearance",
+      "farmacodinamica": "Dopaminergic blockade → antipsychotic, anxiolytic (high dose)",
+      "indicacoes": "Schizophrenia, severe anxiety",
+      "reacoesAdversas": "Dystonia, EPS, hypotension, dry mouth, QTc prolongation, sedation",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid",
+      "administracao": "1–2x/day PO or IM",
+      "doseMaxima": "40mg/day (psychosis); 6mg/day (anxiety)",
+      "doseMinima": "1mg/day",
+      "classificacao": "Typical antipsychotic (phenothiazine)",
+      "apresentacao": "1mg, 5mg tablets; oral soln 1mg/ml; IM 2mg/ml",
+      "interacaoMedicamento": "QT-prolongers, CNS depressants, antihypertensives",
+      "posologia": "Psychosis: 5–20mg/day; Anxiety: 1–6mg/day",
+      "armazenamento": "Room temp; protect from light",
+      "preparo": "Direct oral/IM use",
+      "solucoesCompatíveis": "NS 0.9% for IM",
+      "contraindicacoes": "CNS depression, hepatic failure, QT prolongation",
+      "cuidadosMedicos": "Monitor ECG, BP, EPS symptoms",
+      "cuidadosFarmaceuticos": "CYP interactions, avoid QT duplication",
+      "cuidadosEnfermagem": "Monitor sedation, EPS, rigidity, BP",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Trifluoperazina",
+      "suspension": "Suspender 48h antes de cirugía con anestesia general o riesgo QT",
+      "risk": "Discinesia tardía, hipotensión, sedación, distonías, síntomas extrapiramidales",
+      "reintroduction": "Reiniciar tras cirugía si paciente estable 48–72h"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Trifluoperazina",
+      "nomeComercial": "Stelazine",
+      "mecanismoAcao": "Antagonista D2 potente; bloquea alfa, muscarínico y H1",
+      "farmacocinetica": "VO/IM; T½ 19h; metabolismo hepático",
+      "farmacodinamica": "Bloqueo dopaminérgico central",
+      "indicacoes": "Esquizofrenia, ansiedad grave",
+      "reacoesAdversas": "Temblor, rigidez, sedación, hipotensión, QT prolongado",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "1–2 veces/día VO o IM",
+      "doseMaxima": "40mg/día; 6mg/día (ansiedad)",
+      "doseMinima": "1mg/día",
+      "classificacao": "Antipsicótico típico (fenotiazina)",
+      "apresentacao": "Comprimidos 1mg, 5mg; solución oral; inyectable IM",
+      "interacaoMedicamento": "IMAO, depresores SNC, QT, antiparkinsonianos",
+      "posologia": "VO: 1–15mg/día dividido; IM: 2–10mg",
+      "armazenamento": "Ambiente seco, protegido de luz",
+      "preparo": "Vía oral o IM directa",
+      "solucoesCompatíveis": "ClNa 0,9%",
+      "contraindicacoes": "Coma, QT largo, insuficiencia hepática",
+      "cuidadosMedicos": "PA, ECG, síntomas extrapiramidales",
+      "cuidadosFarmaceuticos": "Dosis individualizada, interacciones QT",
+      "cuidadosEnfermagem": "Vigilar rigidez, PA, sedación, temblores",
+      "fontesBibliograficas": "EMA, ficha técnica, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "三氟拉嗪",
+      "suspension": "术前48小时停药，防止QT延长与麻醉交互",
+      "risk": "锥体外系反应、QT延长、镇静、低血压、昏迷",
+      "reintroduction": "术后稳定48–72小时可恢复"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "三氟拉嗪",
+      "nomeComercial": "Stelazine",
+      "mecanismoAcao": "强效D2受体拮抗剂，阻断多巴胺信号",
+      "farmacocinetica": "口服/肌注；T½约19小时；肝代谢；肾/粪排泄",
+      "farmacodinamica": "强抗精神病镇静作用",
+      "indicacoes": "精神分裂、重度焦虑",
+      "reacoesAdversas": "肌张力异常、锥体外系症状、低血压、QT延长、口干",
+      "riscoGravidez": "C类 – 慎用",
+      "riscoLactacao": "不推荐",
+      "administracao": "每日1–2次，口服或IM",
+      "doseMaxima": "精神病40mg/d；焦虑6mg/d",
+      "doseMinima": "1mg/d",
+      "classificacao": "典型抗精神病药（苯噻嗪类）",
+      "apresentacao": "片剂1mg/5mg；口服液；注射液IM",
+      "interacaoMedicamento": "QT药、镇静药、抗胆碱药",
+      "posologia": "个体化剂量，精神病常用5–20mg/d",
+      "armazenamento": "室温避光储存",
+      "preparo": "直接使用",
+      "solucoesCompatíveis": "0.9%氯化钠注射液",
+      "contraindicacoes": "昏迷、严重肝病、QT延长",
+      "cuidadosMedicos": "监测ECG、锥体外系症状、血压",
+      "cuidadosFarmaceuticos": "警惕老年患者剂量与交互反应",
+      "cuidadosEnfermagem": "观察镇静过度、震颤、步态异常、低血压",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Paracetamol + Tramadol",
+      "suspension": "Suspender 24 horas antes em procedimentos de médio a grande porte",
+      "risk": "Risco de depressão respiratória, interação com anestésicos opioides e serotonérgicos",
+      "reintroduction": "Reintroduzir após avaliação da dor e estabilidade hemodinâmica; iniciar com dose reduzida e monitoramento respiratório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paracetamol + Cloridrato de Tramadol",
+      "nomeComercial": "Zaldiar, Ultracet, Paratramol",
+      "mecanismoAcao": "Tramadol atua como agonista μ-opioide e inibidor da recaptação de serotonina e noradrenalina; Paracetamol atua inibindo a síntese de prostaglandinas no SNC",
+      "farmacocinetica": "Tramadol: absorção oral 75%, metabolização hepática via CYP2D6 e CYP3A4, meia-vida ~6h. Paracetamol: absorção oral rápida, meia-vida 2–3h, metabolizado no fígado",
+      "farmacodinamica": "Efeito analgésico sinérgico central; início em ~1h, pico em 2–3h",
+      "indicacoes": "Dor moderada a intensa de origem musculoesquelética, pós-operatória ou oncológica",
+      "reacoesAdversas": "Náusea, tontura, sonolência, constipação, sudorese, depressão respiratória, risco de convulsões",
+      "riscoGravidez": "Categoria C (não recomendado no terceiro trimestre)",
+      "riscoLactacao": "Excreção no leite materno; evitar uso prolongado",
+      "administracao": "Via oral",
+      "doseMaxima": "Paracetamol 4000mg/dia; Tramadol 400mg/dia",
+      "doseMinima": "Paracetamol 325mg + Tramadol 37,5mg a cada 6–8h",
+      "classificacao": "Analgésico opioide com antipirético",
+      "apresentacao": "Comprimidos revestidos (Paracetamol 325mg + Tramadol 37,5mg)",
+      "interacaoMedicamento": "Potencializa efeito de depressores do SNC, risco de síndrome serotoninérgica com ISRS, IMAO e triptanos",
+      "posologia": "1–2 comprimidos a cada 6–8 horas, conforme necessidade e tolerância",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Depressão respiratória, intoxicação alcoólica aguda, uso de IMAO, hipersensibilidade",
+      "cuidadosMedicos": "Monitorar respiração, nível de consciência e sinais de síndrome serotoninérgica",
+      "cuidadosFarmaceuticos": "Verificar duplicidade terapêutica com opioides ou paracetamol isolado",
+      "cuidadosEnfermagem": "Monitorar dor, nível de sedação, frequência respiratória",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, EMA, SBED, SBAn"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Acetaminophen + Tramadol",
+      "suspension": "Suspend 24 hours prior for moderate or major surgeries",
+      "risk": "Risk of respiratory depression, interaction with opioids and serotonergic anesthetics",
+      "reintroduction": "Reintroduce after clinical evaluation of pain and hemodynamic stability; consider low-dose start and respiratory monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetaminophen + Tramadol Hydrochloride",
+      "nomeComercial": "Ultracet, ConZip, Tramacet",
+      "mecanismoAcao": "Tramadol is a μ-opioid agonist and serotonin/norepinephrine reuptake inhibitor; Acetaminophen inhibits prostaglandin synthesis in CNS",
+      "farmacocinetica": "Tramadol: ~75% oral absorption, hepatic metabolism via CYP2D6/CYP3A4, half-life ~6h. Acetaminophen: rapid oral absorption, 2–3h half-life",
+      "farmacodinamica": "Central synergistic analgesia; onset in ~1h, peak at 2–3h",
+      "indicacoes": "Moderate to severe pain of musculoskeletal, postoperative, or oncologic origin",
+      "reacoesAdversas": "Nausea, dizziness, somnolence, constipation, sweating, respiratory depression, seizures",
+      "riscoGravidez": "Category C (avoid in late pregnancy)",
+      "riscoLactacao": "Present in breast milk; avoid prolonged use",
+      "administracao": "Oral route",
+      "doseMaxima": "Acetaminophen 4000mg/day; Tramadol 400mg/day",
+      "doseMinima": "Acetaminophen 325mg + Tramadol 37.5mg every 6–8h",
+      "classificacao": "Opioid analgesic with antipyretic",
+      "apresentacao": "Tablets (Acetaminophen 325mg + Tramadol 37.5mg)",
+      "interacaoMedicamento": "Enhances CNS depressants; serotonin syndrome with SSRIs, MAOIs, triptans",
+      "posologia": "1–2 tablets every 6–8 hours, based on need and tolerance",
+      "armazenamento": "Store at 15–30°C, keep dry",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Respiratory depression, acute alcohol intoxication, MAOI use, hypersensitivity",
+      "cuidadosMedicos": "Monitor respiration, consciousness, signs of serotonin syndrome",
+      "cuidadosFarmaceuticos": "Check for duplicate opioid or acetaminophen therapy",
+      "cuidadosEnfermagem": "Monitor pain, sedation level, respiratory rate",
+      "fontesBibliograficas": "FDA, Micromedex, WHO, NIH, Lexicomp"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Paracetamol + Tramadol",
+      "suspension": "Suspender 24 horas antes en cirugías de mediano o gran porte",
+      "risk": "Riesgo de depresión respiratoria e interacción con anestésicos opioides y serotoninérgicos",
+      "reintroduction": "Reintroducir tras valorar dolor y estabilidad hemodinámica; comenzar con dosis baja y monitoreo respiratorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paracetamol + Clorhidrato de Tramadol",
+      "nomeComercial": "Zaldiar, Paratramol, Ultracet",
+      "mecanismoAcao": "Tramadol actúa como agonista μ-opioide e inhibidor de la recaptación de serotonina y noradrenalina; paracetamol inhibe síntesis de prostaglandinas en SNC",
+      "farmacocinetica": "Tramadol: absorción oral 75%, metabolismo hepático CYP2D6/CYP3A4, vida media ~6h. Paracetamol: absorción rápida, vida media 2–3h",
+      "farmacodinamica": "Analgesia sinérgica central; inicio ~1h, pico en 2–3h",
+      "indicacoes": "Dolor moderado a intenso de origen musculoesquelético, postoperatorio o oncológico",
+      "reacoesAdversas": "Náuseas, mareos, somnolencia, estreñimiento, sudoración, depresión respiratoria, convulsiones",
+      "riscoGravidez": "Categoría C (evitar en el tercer trimestre)",
+      "riscoLactacao": "Presente en la leche materna; evitar uso prolongado",
+      "administracao": "Vía oral",
+      "doseMaxima": "Paracetamol 4000mg/día; Tramadol 400mg/día",
+      "doseMinima": "Paracetamol 325mg + Tramadol 37.5mg cada 6–8h",
+      "classificacao": "Analgésico opioide y antipirético",
+      "apresentacao": "Tabletas (Paracetamol 325mg + Tramadol 37.5mg)",
+      "interacaoMedicamento": "Potencia depresores del SNC; riesgo de síndrome serotoninérgico con ISRS, IMAO, triptanos",
+      "posologia": "1–2 tabletas cada 6–8 horas, según necesidad",
+      "armazenamento": "Temperatura 15–30°C, ambiente seco",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Depresión respiratoria, intoxicación alcohólica aguda, uso de IMAO, hipersensibilidad",
+      "cuidadosMedicos": "Controlar frecuencia respiratoria, nivel de conciencia y signos serotoninérgicos",
+      "cuidadosFarmaceuticos": "Evitar duplicidad con otros opioides o paracetamol",
+      "cuidadosEnfermagem": "Vigilar dolor, sedación y frecuencia respiratoria",
+      "fontesBibliograficas": "EMA, AEMPS, Micromedex, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "对乙酰氨基酚 + 曲马多",
+      "suspension": "中等至大型手术前24小时停用",
+      "risk": "有呼吸抑制风险，可与麻醉用阿片类及血清素药物发生相互作用",
+      "reintroduction": "术后根据疼痛控制和血流动力学评估重新使用，建议从低剂量开始并监测呼吸"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "对乙酰氨基酚 + 盐酸曲马多",
+      "nomeComercial": "佐尔迪亚 (Zaldiar)，优特赛 (Ultracet)",
+      "mecanismoAcao": "曲马多为μ-阿片受体激动剂并抑制5-HT和去甲肾上腺素再摄取；对乙酰氨基酚抑制中枢前列腺素合成",
+      "farmacocinetica": "曲马多：口服吸收率约75%，CYP2D6/3A4代谢，半衰期约6小时；对乙酰氨基酚吸收快，半衰期2–3小时",
+      "farmacodinamica": "中枢协同镇痛作用；起效约1小时，峰值2–3小时",
+      "indicacoes": "中度至重度肌肉骨骼、术后或癌性疼痛",
+      "reacoesAdversas": "恶心、头晕、嗜睡、便秘、多汗、呼吸抑制、癫痫",
+      "riscoGravidez": "C类（妊娠晚期禁用）",
+      "riscoLactacao": "可分泌至乳汁中，应避免长期使用",
+      "administracao": "口服",
+      "doseMaxima": "对乙酰氨基酚每日4000mg，曲马多每日400mg",
+      "doseMinima": "每6–8小时服用325mg对乙酰氨基酚 + 37.5mg曲马多",
+      "classificacao": "阿片类镇痛药+解热镇痛药",
+      "apresentacao": "片剂（325mg对乙酰氨基酚 + 37.5mg曲马多）",
+      "interacaoMedicamento": "增强中枢抑制药物作用，与SSRI、MAOI、曲坦类联合用药易致血清素综合征",
+      "posologia": "每6–8小时服用1–2片，依需要调整",
+      "armazenamento": "15–30°C，干燥避光",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "呼吸抑制、急性酒精中毒、MAOI使用、过敏",
+      "cuidadosMedicos": "监测呼吸、意识水平、血清素综合征症状",
+      "cuidadosFarmaceuticos": "警惕阿片类和对乙酰氨基酚重复用药",
+      "cuidadosEnfermagem": "观察疼痛、镇静程度和呼吸频率",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、WHO"
+    }
+  }
+}

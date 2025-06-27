@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vacina febre amarela",
+      "suspension": "Suspender 28 dias antes de cirurgias imunossupressoras ou transplantes; postergar se febre ou gestação",
+      "risk": "Reações leves comuns; risco raro de doença viscerotrópica ou neurológica associada à vacina (YEL-AVD e YEL-AND), principalmente em imunossuprimidos e >60 anos",
+      "reintroduction": "Não é necessária reaplicação rotineira – reforço apenas em situações epidemiológicas específicas ou viagens internacionais"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vírus vivo atenuado da febre amarela (cepa 17D)",
+      "nomeComercial": "Stamaril, Vacina Febre Amarela Bio-Manguinhos",
+      "mecanismoAcao": "Induz resposta imune celular e humoral contra o vírus da febre amarela",
+      "farmacocinetica": "Soro conversão em 95–99% dos vacinados em 10 dias; proteção vitalícia após dose única",
+      "farmacodinamica": "Previne febre amarela urbana e silvestre",
+      "indicacoes": "Profilaxia em residentes ou viajantes para áreas endêmicas; obrigatória em alguns países",
+      "reacoesAdversas": "Febre, dor no local, mialgia, cefaleia; YEL-AVD/YEL-AND (raro)",
+      "riscoGravidez": "Contraindicada; só aplicar em caso de risco elevado e com termo de consentimento",
+      "riscoLactacao": "Evitar até 6 meses; avaliar risco-benefício após 6 meses",
+      "administracao": "Subcutânea, 0,5 mL em única dose",
+      "doseMaxima": "1 dose em toda a vida (desde 2017, OMS)",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacina viral viva atenuada",
+      "apresentacao": "Frasco-ampola liofilizado + diluente (monodose ou multidose)",
+      "interacaoMedicamento": "Evitar concomitância com imunossupressores, corticóides e outras vacinas vivas",
+      "posologia": "Dose única a partir dos 9 meses de idade",
+      "armazenamento": "2–8°C; usar até 1h após reconstituição",
+      "preparo": "Reconstituir com diluente específico e usar imediatamente",
+      "solucoesCompatíveis": "Somente diluente da vacina",
+      "contraindicacoes": "Imunodeficiência, <6 meses, alergia grave a ovo, HIV sintomático",
+      "cuidadosMedicos": "Avaliar riscos em idosos, gestantes e imunocomprometidos",
+      "cuidadosFarmaceuticos": "Garantir cadeia de frio; controlar reconstituição e validade",
+      "cuidadosEnfermagem": "Aplicar via SC; orientar sobre efeitos adversos e sinais de alerta",
+      "fontesBibliograficas": "SBIm, PNI/MS, OMS, CDC, ANVISA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Yellow fever vaccine",
+      "suspension": "Postpone at least 28 days before immunosuppressive procedures; delay in pregnancy or acute illness",
+      "risk": "Mild reactions common; rare risk of YEL-AVD or YEL-AND (viscerotropic or neurologic disease)",
+      "reintroduction": "No routine booster needed; 1 dose provides lifelong protection per WHO"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Live attenuated yellow fever virus (17D strain)",
+      "nomeComercial": "YF-VAX, Stamaril",
+      "mecanismoAcao": "Stimulates immune system to produce neutralizing antibodies",
+      "farmacocinetica": "Seroconversion in 95–99% by day 10",
+      "farmacodinamica": "Prevents yellow fever infection and outbreaks",
+      "indicacoes": "Travel to or residence in endemic areas; international requirement",
+      "reacoesAdversas": "Fever, myalgia, soreness, rare anaphylaxis, YEL-AVD/AND",
+      "riscoGravidez": "Avoid; use only if high exposure risk",
+      "riscoLactacao": "Avoid before 6 months postpartum; assess risk-benefit",
+      "administracao": "Subcutaneous, 0.5 mL",
+      "doseMaxima": "Single lifetime dose",
+      "doseMinima": "0.5 mL",
+      "classificacao": "Live attenuated viral vaccine",
+      "apresentacao": "Lyophilized vial + diluent",
+      "interacaoMedicamento": "Avoid coadministration with other live vaccines or immunosuppressives",
+      "posologia": "One dose ≥9 months of age",
+      "armazenamento": "2–8°C; use within 1h of reconstitution",
+      "preparo": "Reconstitute with supplied diluent; use immediately",
+      "solucoesCompatíveis": "Only official diluent",
+      "contraindicacoes": "Immunodeficiency, infants <6 months, severe egg allergy, AIDS",
+      "cuidadosMedicos": "Assess risk in elderly, pregnant, immunocompromised",
+      "cuidadosFarmaceuticos": "Maintain cold chain and timing after reconstitution",
+      "cuidadosEnfermagem": "Administer SC; advise on expected symptoms and red flags",
+      "fontesBibliograficas": "CDC, WHO, FDA, Micromedex, Medscape"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vacuna fiebre amarilla",
+      "suspension": "Suspender 28 días antes de cirugía inmunosupresora; retrasar en embarazo o fiebre",
+      "risk": "Reacciones leves; riesgo raro de enfermedad viscerotrópica o neurológica (YEL-AVD/AND)",
+      "reintroduction": "Una sola dosis es suficiente salvo situaciones epidemiológicas especiales"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Virus vivo atenuado (cepa 17D)",
+      "nomeComercial": "Stamaril, YF-VAX",
+      "mecanismoAcao": "Induce inmunidad humoral y celular contra el virus de la fiebre amarilla",
+      "farmacocinetica": "Seroconversión 10 días; inmunidad prolongada",
+      "farmacodinamica": "Previene fiebre amarilla urbana y selvática",
+      "indicacoes": "Niños ≥9 meses, viajeros, residentes en zonas endémicas",
+      "reacoesAdversas": "Fiebre, dolor local, mialgia, erupción leve, YEL-AVD (raro)",
+      "riscoGravidez": "Evitar; considerar si alto riesgo",
+      "riscoLactacao": "Evitar <6 meses postparto",
+      "administracao": "SC 0,5 mL",
+      "doseMaxima": "1 dosis en la vida",
+      "doseMinima": "0,5 mL",
+      "classificacao": "Vacuna viral viva atenuada",
+      "apresentacao": "Frasco liofilizado con diluyente",
+      "interacaoMedicamento": "Evitar con otras vacunas vivas o inmunosupresores",
+      "posologia": "Dosis única ≥9 meses",
+      "armazenamento": "2–8°C; usar en 1h tras reconstitución",
+      "preparo": "Reconstituir con diluyente específico",
+      "solucoesCompatíveis": "Solo diluyente oficial",
+      "contraindicacoes": "Inmunodeficiencia, <6 meses, alergia grave a huevo",
+      "cuidadosMedicos": "Evaluar inmunocompromiso y estado clínico",
+      "cuidadosFarmaceuticos": "Conservar frío, usar tras reconstituir",
+      "cuidadosEnfermagem": "Vigilancia postvacunación 15–30 min",
+      "fontesBibliograficas": "OMS, AEP, EMA, Medscape"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "黄热病疫苗",
+      "suspension": "术前免疫抑制治疗者建议提前28天停种；如发热、孕期建议延期",
+      "risk": "可能引发发热、局部红肿、极少YEL-AVD或神经症状",
+      "reintroduction": "无需重复接种，终生免疫除非出国需证"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "减毒黄热病毒（17D株）",
+      "nomeComercial": "黄热疫苗（生物所、Stamaril）",
+      "mecanismoAcao": "诱导黄热病毒特异性免疫",
+      "farmacocinetica": "10天产生抗体，保护期终身",
+      "farmacodinamica": "防止黄热传播与流行",
+      "indicacoes": "9月龄以上，前往流行区或国家要求者",
+      "reacoesAdversas": "局部红肿、发热、肌痛，极罕见YEL-AVD",
+      "riscoGravidez": "禁用，除非风险极高",
+      "riscoLactacao": "避免哺乳期前6月内使用",
+      "administracao": "皮下注射，0.5 mL",
+      "doseMaxima": "1次剂量",
+      "doseMinima": "0.5 mL",
+      "classificacao": "减毒活疫苗",
+      "apresentacao": "冻干粉+稀释液（单剂/多剂）",
+      "interacaoMedicamento": "不可与其他活疫苗或免疫抑制剂同用",
+      "posologia": "9月龄起1剂",
+      "armazenamento": "2–8°C，复溶后1小时内用完",
+      "preparo": "专用稀释液溶解后立即使用",
+      "solucoesCompatíveis": "仅限原配稀释液",
+      "contraindicacoes": "免疫缺陷、<6个月、鸡蛋过敏、HIV发病",
+      "cuidadosMedicos": "筛查高危人群",
+      "cuidadosFarmaceuticos": "冷链管理、及时接种",
+      "cuidadosEnfermagem": "15–30分钟接种后观察",
+      "fontesBibliograficas": "中国药典、WHO、Micromedex"
+    }
+  }
+}

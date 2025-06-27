@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Bortezomibe",
+      "suspension": "Suspender 3 a 5 dias antes da cirurgia eletiva",
+      "risk": "Imunossupressão, trombocitopenia, neuropatia periférica e risco aumentado de infecção e sangramento",
+      "reintroduction": "Reintroduzir após recuperação hematológica e cicatrização adequada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bortezomibe",
+      "nomeComercial": "Velcade",
+      "mecanismoAcao": "Inibidor reversível do proteassoma 26S, induz apoptose em células tumorais",
+      "farmacocinetica": "Administração IV ou SC, meia-vida de 5 a 15 h, metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Inibe degradação de proteínas reguladoras, promovendo morte celular em células neoplásicas",
+      "indicacoes": "Mieloma múltiplo, linfoma de células do manto",
+      "reacoesAdversas": "Fadiga, neuropatia, náusea, trombocitopenia, diarreia, neutropenia, febre, infecção",
+      "riscoGravidez": "Categoria D – risco fetal",
+      "riscoLactacao": "Desconhecido; evitar uso",
+      "administracao": "Intravenosa ou subcutânea",
+      "doseMaxima": "1,3 mg/m² por dose, até 2 vezes por semana",
+      "doseMinima": "0,7 mg/m²",
+      "classificacao": "Antineoplásico, inibidor do proteassoma",
+      "apresentacao": "Frascos-ampola liofilizados 1 mg ou 3,5 mg",
+      "interacaoMedicamento": "Interação com fármacos metabolizados por CYP3A4 e imunossupressores",
+      "posologia": "1,3 mg/m² 2x/semana por 2 semanas, com pausa de 10 dias",
+      "armazenamento": "Refrigerado antes da reconstituição, usar em até 8h após preparo",
+      "preparo": "Reconstituir com SF 0,9% e administrar por via SC ou EV em bolus",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Hipersensibilidade, gravidez, neuropatia sensitiva grau 2+",
+      "cuidadosMedicos": "Monitorar hemograma, eletrólitos, função hepática e sinais de neuropatia",
+      "cuidadosFarmaceuticos": "Orientar conservação, tempo de uso e riscos hematológicos",
+      "cuidadosEnfermagem": "Observar local de aplicação, contagem plaquetária, sintomas neurológicos",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Bortezomib",
+      "suspension": "Hold 3–5 days prior to elective surgery",
+      "risk": "Immunosuppression, thrombocytopenia, peripheral neuropathy, infection and bleeding risk",
+      "reintroduction": "Restart after hematologic recovery and wound healing"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bortezomib",
+      "nomeComercial": "Velcade",
+      "mecanismoAcao": "Reversible 26S proteasome inhibitor causing tumor cell apoptosis",
+      "farmacocinetica": "IV or SC, half-life 5–15 h, hepatic metabolism (CYP3A4)",
+      "farmacodinamica": "Disrupts protein degradation, induces apoptosis in neoplastic cells",
+      "indicacoes": "Multiple myeloma, mantle cell lymphoma",
+      "reacoesAdversas": "Fatigue, neuropathy, nausea, thrombocytopenia, diarrhea, neutropenia, fever, infection",
+      "riscoGravidez": "Category D – fetal risk",
+      "riscoLactacao": "Unknown; avoid use",
+      "administracao": "IV or subcutaneous",
+      "doseMaxima": "1.3 mg/m²/dose, up to twice weekly",
+      "doseMinima": "0.7 mg/m²",
+      "classificacao": "Antineoplastic, proteasome inhibitor",
+      "apresentacao": "Vials: 1 mg, 3.5 mg (lyophilized)",
+      "interacaoMedicamento": "Interacts with CYP3A4 substrates, immunosuppressants",
+      "posologia": "1.3 mg/m² SC or IV twice weekly for 2 weeks, 10-day rest",
+      "armazenamento": "Refrigerated; use within 8h after reconstitution",
+      "preparo": "Reconstitute with NS 0.9%, administer SC or IV bolus",
+      "solucoesCompatíveis": "NS 0.9%",
+      "contraindicacoes": "Hypersensitivity, pregnancy, grade ≥2 peripheral neuropathy",
+      "cuidadosMedicos": "Monitor CBC, liver function, electrolytes, neuropathy signs",
+      "cuidadosFarmaceuticos": "Ensure correct storage, preparation and hematologic monitoring",
+      "cuidadosEnfermagem": "Check injection site, platelet count, neurologic symptoms",
+      "fontesBibliograficas": "FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Bortezomib",
+      "suspension": "Suspender 3–5 días antes de cirugía electiva",
+      "risk": "Inmunosupresión, trombocitopenia, neuropatía periférica, riesgo de infección y sangrado",
+      "reintroduction": "Reintroducir tras recuperación hematológica y cicatrización adecuada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bortezomib",
+      "nomeComercial": "Velcade",
+      "mecanismoAcao": "Inhibidor reversible del proteasoma 26S que induce apoptosis tumoral",
+      "farmacocinetica": "IV o SC, vida media 5–15 h, metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Bloquea degradación proteica, activa apoptosis en células tumorales",
+      "indicacoes": "Mieloma múltiple, linfoma de células del manto",
+      "reacoesAdversas": "Fatiga, neuropatía, náuseas, diarrea, trombocitopenia, neutropenia, fiebre, infección",
+      "riscoGravidez": "Categoría D – riesgo fetal",
+      "riscoLactacao": "Desconocido; evitar",
+      "administracao": "IV o subcutánea",
+      "doseMaxima": "1,3 mg/m² por dosis, hasta 2 veces/semana",
+      "doseMinima": "0,7 mg/m²",
+      "classificacao": "Antineoplásico, inhibidor del proteasoma",
+      "apresentacao": "Viales 1 mg, 3,5 mg liofilizados",
+      "interacaoMedicamento": "Interacción con CYP3A4 e inmunosupresores",
+      "posologia": "1,3 mg/m² SC o IV 2 veces/semana por 2 semanas + 10 días de descanso",
+      "armazenamento": "Refrigerar antes de reconstituir; usar en 8 h",
+      "preparo": "Diluir en SF 0,9%, administrar SC o bolo IV",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Hipersensibilidad, embarazo, neuropatía sensitiva grado ≥2",
+      "cuidadosMedicos": "Monitorizar hemograma, función hepática, neuropatía",
+      "cuidadosFarmaceuticos": "Verificar conservación y compatibilidad",
+      "cuidadosEnfermagem": "Revisar sitio de inyección, conteo plaquetario, parestesias",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "硼替佐米",
+      "suspension": "术前3–5天停药",
+      "risk": "免疫抑制、血小板减少、周围神经病变、感染和出血风险",
+      "reintroduction": "术后血象恢复和伤口愈合后可恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "硼替佐米",
+      "nomeComercial": "Velcade",
+      "mecanismoAcao": "可逆性抑制26S蛋白酶体，促使肿瘤细胞凋亡",
+      "farmacocinetica": "静脉或皮下注射，半衰期5–15小时，肝脏代谢（CYP3A4）",
+      "farmacodinamica": "抑制蛋白降解，导致恶性细胞凋亡",
+      "indicacoes": "多发性骨髓瘤，套细胞淋巴瘤",
+      "reacoesAdversas": "疲劳、外周神经病、恶心、腹泻、血小板减少、中性粒细胞减少、发热、感染",
+      "riscoGravidez": "D类 – 胎儿风险",
+      "riscoLactacao": "不明；避免使用",
+      "administracao": "静脉注射或皮下注射",
+      "doseMaxima": "每次1.3 mg/m²，每周最多两次",
+      "doseMinima": "0.7 mg/m²",
+      "classificacao": "抗肿瘤药，蛋白酶体抑制剂",
+      "apresentacao": "冻干粉注射剂1 mg或3.5 mg瓶装",
+      "interacaoMedicamento": "与CYP3A4底物、免疫抑制剂有相互作用",
+      "posologia": "每次1.3 mg/m²，2次/周 × 2周，休息10天为一周期",
+      "armazenamento": "冷藏保存，配液后8小时内使用",
+      "preparo": "用0.9%氯化钠注射液复溶，皮下或静脉注射",
+      "solucoesCompatíveis": "0.9%氯化钠注射液",
+      "contraindicacoes": "孕妇、过敏者、重度神经病变者禁用",
+      "cuidadosMedicos": "监测血象、电解质、肝功能、神经系统副作用",
+      "cuidadosFarmaceuticos": "复溶后限时使用，避免错误给药",
+      "cuidadosEnfermagem": "观察注射部位反应、感染、感觉异常",
+      "fontesBibliograficas": "中国药典、FDA、EMA、UpToDate、Micromedex"
+    }
+  }
+}

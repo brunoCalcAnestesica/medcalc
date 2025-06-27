@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Delstrigo",
+      "suspension": "Manter durante cirurgias eletivas, salvo intercorrências hepáticas ou intolerância gástrica grave",
+      "risk": "Risco de hepatotoxicidade, interação com anestésicos e indutores/inibidores de CYP3A; pode causar náuseas e diarreia no pós-operatório",
+      "reintroduction": "Manter no pós-operatório, salvo contraindicação clínica; ajustar conforme função hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Doravirina + Lamivudina + Tenofovir disoproxila",
+      "nomeComercial": "Delstrigo",
+      "mecanismoAcao": "Combinação de antirretrovirais: inibidor da transcriptase reversa não análogo de nucleosídeo (doravirina) + inibidores nucleosídicos (lamivudina, tenofovir)",
+      "farmacocinetica": "Biodisponibilidade oral elevada; metabolismo hepático (doravirina via CYP3A); eliminação renal (tenofovir, lamivudina)",
+      "farmacodinamica": "Bloqueia replicação do HIV-1 por diferentes vias enzimáticas",
+      "indicacoes": "Tratamento da infecção por HIV-1 em adultos sem resistência prévia aos componentes",
+      "reacoesAdversas": "Náusea, cefaleia, fadiga, diarreia, elevação de transaminases, aumento de creatinina, insônia",
+      "riscoGravidez": "Categoria B – pode ser usado com cautela",
+      "riscoLactacao": "Evitar, devido à possível excreção e risco teórico de resistência viral no bebê",
+      "administracao": "Via oral, 1x/dia",
+      "doseMaxima": "1 comprimido/dia",
+      "doseMinima": "1 comprimido/dia",
+      "classificacao": "Antirretroviral de combinação fixa",
+      "apresentacao": "Comprimido revestido contendo doravirina 100 mg, lamivudina 300 mg, tenofovir DF 300 mg",
+      "interacaoMedicamento": "Redução de eficácia com rifampicina, anticonvulsivantes, hipericão; risco aumentado com nefrotóxicos",
+      "posologia": "1 comprimido VO 1x/dia, com ou sem alimentos",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência renal grave (TFG < 50 mL/min), hipersensibilidade",
+      "cuidadosMedicos": "Monitorar função renal e hepática regularmente; avaliar adesão e interações",
+      "cuidadosFarmaceuticos": "Conferir uso com outros antirretrovirais e ajuste renal",
+      "cuidadosEnfermagem": "Observar sintomas gastrointestinais e fadiga",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, ANVISA, DHHS Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Delstrigo",
+      "suspension": "Continue perioperatively unless hepatic decompensation or GI intolerance occurs",
+      "risk": "Hepatotoxicity risk, GI side effects, CYP3A interactions with anesthesia or anticonvulsants",
+      "reintroduction": "Continue post-op unless clinical contraindication arises"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Doravirine + Lamivudine + Tenofovir disoproxil fumarate",
+      "nomeComercial": "Delstrigo",
+      "mecanismoAcao": "NNRTI + NRTIs targeting HIV reverse transcriptase via multiple mechanisms",
+      "farmacocinetica": "High oral bioavailability; doravirine metabolized by CYP3A; renal elimination (TDF, 3TC)",
+      "farmacodinamica": "Inhibits HIV replication through combined antiretroviral mechanisms",
+      "indicacoes": "HIV-1 infection in treatment-naïve adults without resistance",
+      "reacoesAdversas": "Nausea, headache, fatigue, diarrhea, transaminase elevation, renal toxicity, insomnia",
+      "riscoGravidez": "Category B – use with caution",
+      "riscoLactacao": "Not recommended due to risk of HIV transmission",
+      "administracao": "Oral, once daily",
+      "doseMaxima": "1 tablet/day",
+      "doseMinima": "1 tablet/day",
+      "classificacao": "Fixed-dose antiretroviral combination",
+      "apresentacao": "Tablet: doravirine 100 mg, lamivudine 300 mg, tenofovir DF 300 mg",
+      "interacaoMedicamento": "Avoid with rifampin, carbamazepine, St John's Wort; caution with nephrotoxic drugs",
+      "posologia": "1 tablet PO daily, with or without food",
+      "armazenamento": "Room temperature (15–30°C)",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Severe renal impairment, hypersensitivity",
+      "cuidadosMedicos": "Monitor renal and hepatic function; check adherence",
+      "cuidadosFarmaceuticos": "Verify drug interactions and renal dosing",
+      "cuidadosEnfermagem": "Assess for nausea, fatigue, and adherence",
+      "fontesBibliograficas": "FDA, DHHS Guidelines, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Delstrigo",
+      "suspension": "Continuar perioperatoriamente salvo intolerancia hepática o GI significativa",
+      "risk": "Riesgo de toxicidad hepática, interacciones CYP3A, efectos GI",
+      "reintroduction": "Mantener en el postoperatorio salvo contraindicación clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Doravirina + Lamivudina + Tenofovir disoproxil",
+      "nomeComercial": "Delstrigo",
+      "mecanismoAcao": "Combinación de NNRTI y NRTI que inhibe la transcriptasa reversa del VIH",
+      "farmacocinetica": "Buena biodisponibilidad; doravirina metabolizada por CYP3A; eliminación renal (TDF, 3TC)",
+      "farmacodinamica": "Bloquea replicación viral por múltiples mecanismos",
+      "indicacoes": "Infección por VIH-1 sin resistencia previa",
+      "reacoesAdversas": "Náuseas, cefalea, insomnio, fatiga, toxicidad renal/hepática",
+      "riscoGravidez": "Categoría B – con precaución",
+      "riscoLactacao": "Evitar por riesgo de transmisión del VIH",
+      "administracao": "Oral, 1 vez al día",
+      "doseMaxima": "1 comprimido/día",
+      "doseMinima": "1 comprimido/día",
+      "classificacao": "Antirretroviral en combinación fija",
+      "apresentacao": "Tableta con doravirina 100 mg, lamivudina 300 mg, tenofovir DF 300 mg",
+      "interacaoMedicamento": "Evitar con rifampicina, fenitoína, hierba de San Juan",
+      "posologia": "1 tableta al día, con o sin comida",
+      "armazenamento": "Ambiente seco y estable (15–30 °C)",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "IR grave, alergia a componentes",
+      "cuidadosMedicos": "Control hepático y renal; adherencia terapéutica",
+      "cuidadosFarmaceuticos": "Monitorear interacciones y adherencia",
+      "cuidadosEnfermagem": "Observar tolerancia GI y síntomas de toxicidad",
+      "fontesBibliograficas": "AEMPS, DHHS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "多拉韦林/拉米夫定/富马酸替诺福韦二吡呋酯",
+      "suspension": "除非出现肝功能恶化或胃肠耐受差，一般术前无需停药",
+      "risk": "肝毒性、药物相互作用（CYP3A）、术后胃肠不适可能",
+      "reintroduction": "术后如无禁忌应继续服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多拉韦林 + 拉米夫定 + 替诺福韦DF",
+      "nomeComercial": "Delstrigo 德斯卓",
+      "mecanismoAcao": "多机制抑制HIV-1逆转录酶（NNRTI+NRTI）",
+      "farmacocinetica": "口服吸收好，CYP3A代谢，肾排泄",
+      "farmacodinamica": "协同抑制HIV复制",
+      "indicacoes": "HIV-1初治成人，无耐药突变者",
+      "reacoesAdversas": "恶心、腹泻、失眠、转氨酶升高、肌酐轻度升高",
+      "riscoGravidez": "B类，慎用",
+      "riscoLactacao": "不推荐，因有传播风险",
+      "administracao": "口服，每日1次",
+      "doseMaxima": "每日1片",
+      "doseMinima": "每日1片",
+      "classificacao": "固定剂量抗逆转录病毒复方制剂",
+      "apresentacao": "片剂：多拉韦林100 mg + 拉米夫定300 mg + 替诺福韦DF 300 mg",
+      "interacaoMedicamento": "避免与CYP3A诱导剂、肾毒性药物同用",
+      "posologia": "每日1次，随餐或空腹均可",
+      "armazenamento": "室温保存（15–30°C）",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肾功能障碍、成分过敏",
+      "cuidadosMedicos": "监测肝肾功能与服药依从性",
+      "cuidadosFarmaceuticos": "提示注意药物相互作用与定期随访",
+      "cuidadosEnfermagem": "观察胃肠道反应和疲劳",
+      "fontesBibliograficas": "FDA、DHHS指南、Micromedex、UpToDate"
+    }
+  }
+}

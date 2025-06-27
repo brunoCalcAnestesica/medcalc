@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Sotalol",
+      "suspension": "Suspender 72 horas antes de procedimentos cirúrgicos de médio ou grande porte.",
+      "risk": "Risco de prolongamento do intervalo QT, torsades de pointes, bradicardia e hipotensão no perioperatório.",
+      "reintroduction": "Reintroduzir após recuperação hemodinâmica, eletrolítica e avaliação do intervalo QT no pós-operatório."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Sotalol",
+      "nomeComercial": "Sotalol, Sotalex, Betapace",
+      "mecanismoAcao": "Bloqueador dos canais de potássio (classe III) e beta-bloqueador não seletivo (classe II), prolonga o potencial de ação e o intervalo QT.",
+      "farmacocinetica": "Absorção oral quase completa; biodisponibilidade 90–100%; não metabolizado; excreção renal; meia-vida 12–20 h.",
+      "farmacodinamica": "Prolonga o período refratário, reduz automaticidade e frequência cardíaca; ação antiarrítmica por supressão de reentradas.",
+      "indicacoes": "Taquiarritmias ventriculares, flutter/fibrilação atrial, prevenção de TV em pacientes com CDI.",
+      "reacoesAdversas": "Bradicardia, prolongamento do QT, torsades de pointes, fadiga, dispneia, hipoglicemia em diabéticos, distúrbios do sono.",
+      "riscoGravidez": "Categoria B.",
+      "riscoLactacao": "Excretado no leite; uso com cautela.",
+      "administracao": "Oral ou intravenosa.",
+      "doseMaxima": "480 mg/dia (oral); 1,5 mg/kg (EV lento).",
+      "doseMinima": "80 mg/dia.",
+      "classificacao": "Antiarrítmico classe III com propriedades beta-bloqueadoras (classe II).",
+      "apresentacao": "Comprimidos 80 mg, 160 mg; solução injetável 5 mg/mL.",
+      "interacaoMedicamento": "Risco aumentado com outros QT-prolongadores, hipoglicemiantes, bloqueadores de canais de cálcio.",
+      "posologia": "Iniciar com 80 mg 2x/dia VO, ajuste gradual conforme ECG e função renal.",
+      "armazenamento": "Temperatura ambiente, proteger da luz.",
+      "preparo": "Uso direto VO; diluir EV em SF 0,9% para infusão lenta.",
+      "solucoesCompatíveis": "SF 0,9%.",
+      "contraindicacoes": "Síndrome do QT longo, bradicardia severa, ICC descompensada, distúrbios eletrolíticos.",
+      "cuidadosMedicos": "Monitorar ECG, eletrólitos, função renal, sinais de arritmia.",
+      "cuidadosFarmaceuticos": "Evitar associação com fármacos QT-prolongadores e ajustar por ClCr.",
+      "cuidadosEnfermagem": "Avaliar pulso, PA, monitor cardíaco contínuo durante titulação.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, bula Sotalex."
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Sotalol",
+      "suspension": "Discontinue 72 hours before moderate to major surgical procedures.",
+      "risk": "Risk of QT interval prolongation, torsades de pointes, bradycardia, and hypotension during the perioperative period.",
+      "reintroduction": "Restart after hemodynamic and electrolyte stabilization and QT reassessment postoperatively."
+    },
+    "bulario": {
+      "activeIngredient": "Sotalol",
+      "brandName": "Sotalol, Sotalex, Betapace",
+      "mechanismOfAction": "Potassium channel blocker (class III) and non-selective beta-blocker (class II), prolongs action potential and QT interval.",
+      "pharmacokinetics": "Almost complete oral absorption; bioavailability 90–100%; not metabolized; renal excretion; half-life 12–20 h.",
+      "pharmacodynamics": "Prolongs refractory period, reduces automaticity and heart rate; antiarrhythmic action by suppression of reentry.",
+      "indications": "Ventricular tachyarrhythmias, atrial flutter/fibrillation, prevention of VT in ICD patients.",
+      "adverseReactions": "Bradycardia, QT prolongation, torsades de pointes, fatigue, dyspnea, hypoglycemia in diabetics, sleep disturbances.",
+      "pregnancyRisk": "Category B.",
+      "lactationRisk": "Excreted in breast milk; use with caution.",
+      "administration": "Oral or intravenous.",
+      "maximumDose": "480 mg/day (oral); 1.5 mg/kg (slow IV).",
+      "minimumDose": "80 mg/day.",
+      "classification": "Class III antiarrhythmic with beta-blocker (class II) properties.",
+      "presentation": "Tablets 80 mg, 160 mg; injectable solution 5 mg/mL.",
+      "drugInteractions": "Increased risk with other QT-prolonging agents, hypoglycemics, calcium channel blockers.",
+      "dosage": "Start with 80 mg twice daily PO, gradual adjustment according to ECG and renal function.",
+      "storage": "Room temperature, protect from light.",
+      "preparation": "Direct oral use; dilute IV in 0.9% NaCl for slow infusion.",
+      "compatibleSolutions": "0.9% NaCl.",
+      "contraindications": "Long QT syndrome, severe bradycardia, decompensated heart failure, electrolyte disturbances.",
+      "medicalCare": "Monitor ECG, electrolytes, renal function, arrhythmia signs.",
+      "pharmaceuticalCare": "Avoid combination with QT-prolonging drugs and adjust by creatinine clearance.",
+      "nursingCare": "Assess pulse, BP, continuous cardiac monitoring during titration.",
+      "references": "Micromedex, UpToDate, FDA, Sotalex package insert."
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Sotalol",
+      "suspension": "Suspender 72 horas antes de procedimientos quirúrgicos de mediana o gran complejidad.",
+      "risk": "Riesgo de prolongación del QT, torsades de pointes, bradicardia e hipotensión en el perioperatorio.",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica, corrección electrolítica y reevaluación del QT."
+    },
+    "bulario": {
+      "principioActivo": "Sotalol",
+      "nombreComercial": "Sotalol, Sotalex, Betapace",
+      "mecanismoAccion": "Bloqueador de canales de potasio (clase III) y beta-bloqueante no selectivo (clase II), prolonga el potencial de acción y el intervalo QT.",
+      "farmacocinetica": "Absorción oral casi completa; biodisponibilidad 90–100%; no metabolizado; excreción renal; vida media 12–20 h.",
+      "farmacodinamia": "Prolonga el periodo refractario, reduce la automaticidad y la frecuencia cardíaca; acción antiarrítmica por supresión de reentradas.",
+      "indicaciones": "Taquiarritmias ventriculares, flutter/fibrilación auricular, prevención de TV en pacientes con DAI.",
+      "reaccionesAdversas": "Bradicardia, prolongación del QT, torsades de pointes, fatiga, disnea, hipoglucemia en diabéticos, trastornos del sueño.",
+      "riesgoEmbarazo": "Categoría B.",
+      "riesgoLactancia": "Excretado en la leche materna; usar con precaución.",
+      "administracion": "Oral o intravenosa.",
+      "dosisMaxima": "480 mg/día (oral); 1,5 mg/kg (IV lenta).",
+      "dosisMinima": "80 mg/día.",
+      "clasificacion": "Antiarrítmico clase III con propiedades beta-bloqueantes (clase II).",
+      "presentacion": "Comprimidos 80 mg, 160 mg; solución inyectable 5 mg/mL.",
+      "interaccionesMedicamentosas": "Mayor riesgo con otros prolongadores del QT, hipoglucemiantes, bloqueadores de canales de calcio.",
+      "posologia": "Iniciar con 80 mg 2 veces/día VO, ajuste gradual según ECG y función renal.",
+      "almacenamiento": "Temperatura ambiente, proteger de la luz.",
+      "preparacion": "Uso directo VO; diluir IV en SSF 0,9% para infusión lenta.",
+      "solucionesCompatibles": "SSF 0,9%.",
+      "contraindicaciones": "Síndrome de QT largo, bradicardia severa, ICC descompensada, trastornos electrolíticos.",
+      "cuidadosMedicos": "Monitorizar ECG, electrolitos, función renal, signos de arritmia.",
+      "cuidadosFarmaceuticos": "Evitar asociación con fármacos prolongadores del QT y ajustar por ClCr.",
+      "cuidadosEnfermeria": "Evaluar pulso, TA, monitorización cardíaca continua durante la titulación.",
+      "fuentesBibliograficas": "Micromedex, UpToDate, FDA, prospecto Sotalex."
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "Sotalol",
+      "suspension": "中到大型手术前应提前72小时停药。",
+      "risk": "围手术期可能引起QT延长、尖端扭转型室速、心动过缓及低血压。",
+      "reintroduction": "术后在血流动力学和电解质稳定后，并确认QT间期恢复正常后重新使用。"
+    },
+    "bulario": {
+      "有效成分": "索他洛尔 (Sotalol)",
+      "商品名": "Sotalol, Sotalex, Betapace",
+      "作用机制": "钾通道阻滞剂（III类）和非选择性β受体阻滞剂（II类），延长动作电位和QT间期。",
+      "药代动力学": "口服吸收几乎完全；生物利用度90–100%；不代谢；肾脏排泄；半衰期12–20小时。",
+      "药效学": "延长不应期，降低自律性和心率；通过抑制折返抑制心律失常。",
+      "适应症": "室性心律失常，心房扑动/心房颤动，ICD患者室性心动过速预防。",
+      "不良反应": "心动过缓，QT间期延长，尖端扭转型室速，乏力，呼吸困难，糖尿病患者低血糖，睡眠障碍。",
+      "妊娠风险": "B类。",
+      "哺乳风险": "可分泌入乳汁；慎用。",
+      "给药途径": "口服或静脉注射。",
+      "最大剂量": "480 mg/天（口服）；1.5 mg/kg（缓慢静脉注射）。",
+      "最小剂量": "80 mg/天。",
+      "分类": "III类抗心律失常药，兼具β受体阻滞（II类）特性。",
+      "剂型": "80 mg、160 mg片剂；5 mg/mL注射液。",
+      "药物相互作用": "与其他QT延长药、降血糖药、钙通道阻滞剂合用风险增加。",
+      "用法用量": "初始剂量80 mg口服，每日2次，根据心电图和肾功能逐步调整。",
+      "储存": "室温，避光保存。",
+      "配制": "口服直接使用；静脉注射需用0.9%氯化钠稀释后缓慢滴注。",
+      "兼容溶液": "0.9%氯化钠。",
+      "禁忌症": "长QT综合征，严重心动过缓，失代偿性心力衰竭，电解质紊乱。",
+      "医疗注意事项": "监测心电图、电解质、肾功能及心律失常体征。",
+      "药学注意事项": "避免与QT延长药合用，根据肾小球滤过率调整剂量。",
+      "护理注意事项": "评估脉搏、血压，滴定期间持续心电监护。",
+      "参考文献": "Micromedex, UpToDate, FDA, Sotalex说明书。"
+    }
+  }
+}

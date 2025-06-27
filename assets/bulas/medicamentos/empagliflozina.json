@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Empagliflozina",
+      "suspension": "Suspender 3 dias antes da cirurgia",
+      "risk": "Risco de cetoacidose euglicêmica, desidratação e hipotensão intraoperatória",
+      "reintroduction": "Reintroduzir após reidratação plena e retorno da dieta oral, geralmente 48–72h após cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Empagliflozina",
+      "nomeComercial": "Jardiance, Glyxambi (em combinação)",
+      "mecanismoAcao": "Inibidor do cotransportador de sódio-glicose tipo 2 (SGLT2), reduz reabsorção de glicose nos túbulos renais",
+      "farmacocinetica": "Biodisponibilidade oral ~78%, meia-vida de 12h, excreção renal e fecal",
+      "farmacodinamica": "Reduz glicemia e promove natriurese e glicosúria, com efeitos benéficos hemodinâmicos e renais",
+      "indicacoes": "DM2, IC com fração de ejeção reduzida, nefropatia diabética",
+      "reacoesAdversas": "Infecção urinária, candidíase genital, cetoacidose euglicêmica, hipotensão",
+      "riscoGravidez": "Categoria C (evitar)",
+      "riscoLactacao": "Desconhecido; evitar durante amamentação",
+      "administracao": "Via oral",
+      "doseMaxima": "25mg/dia",
+      "doseMinima": "10mg/dia",
+      "classificacao": "Antidiabético oral, inibidor de SGLT2",
+      "apresentacao": "Comprimidos de 10mg e 25mg",
+      "interacaoMedicamento": "Potencializa diuréticos, risco aumentado com insulina e sulfonilureias",
+      "posologia": "10mg 1x/dia, podendo ser aumentada para 25mg",
+      "armazenamento": "Temperatura ambiente, protegido da umidade",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "DM1, cetoacidose diabética, TFG <30 mL/min",
+      "cuidadosMedicos": "Suspender antes de cirurgias e jejum prolongado; monitorar sinais de cetoacidose",
+      "cuidadosFarmaceuticos": "Orientar sobre sinais de infecção urinária e cetoacidose",
+      "cuidadosEnfermagem": "Observar sinais de desidratação, náusea, dispneia, confusão",
+      "fontesBibliograficas": "FDA, ANVISA, Micromedex, ADA Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Empagliflozin",
+      "suspension": "Hold 3 days before surgery",
+      "risk": "Risk of euglycemic ketoacidosis, dehydration, and intraoperative hypotension",
+      "reintroduction": "Restart after full rehydration and return to oral intake, typically 48–72h post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Empagliflozin",
+      "nomeComercial": "Jardiance",
+      "mecanismoAcao": "SGLT2 inhibitor, reduces renal glucose reabsorption",
+      "farmacocinetica": "Oral bioavailability ~78%, half-life ~12h, renal and fecal elimination",
+      "farmacodinamica": "Lowers blood glucose, induces natriuresis and glucosuria; benefits in HF and renal protection",
+      "indicacoes": "Type 2 diabetes, HFrEF, diabetic kidney disease",
+      "reacoesAdversas": "UTI, genital mycotic infections, euglycemic DKA, hypotension",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; not recommended while breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "25mg/day",
+      "doseMinima": "10mg/day",
+      "classificacao": "Oral antidiabetic, SGLT2 inhibitor",
+      "apresentacao": "Tablets 10mg, 25mg",
+      "interacaoMedicamento": "Enhanced effect with diuretics; hypoglycemia risk with insulin or sulfonylureas",
+      "posologia": "10mg once daily, increase to 25mg if needed",
+      "armazenamento": "Store at room temperature, avoid moisture",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Type 1 diabetes, DKA, eGFR <30 mL/min",
+      "cuidadosMedicos": "Hold before surgery/fasting; monitor for ketoacidosis symptoms",
+      "cuidadosFarmaceuticos": "Advise on signs of UTI and ketoacidosis",
+      "cuidadosEnfermagem": "Monitor for dehydration, nausea, confusion, dyspnea",
+      "fontesBibliograficas": "FDA, Micromedex, ADA 2023"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Empagliflozina",
+      "suspension": "Suspender 3 días antes de cirugía",
+      "risk": "Cetoacidosis euglucémica, deshidratación, hipotensión intraoperatoria",
+      "reintroduction": "Reiniciar 48–72h tras cirugía, con buena hidratación y vía oral restablecida"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Empagliflozina",
+      "nomeComercial": "Jardiance",
+      "mecanismoAcao": "Inhibidor de SGLT2, disminuye reabsorción de glucosa en túbulos renales",
+      "farmacocinetica": "Biodisponibilidad oral ~78%, vida media 12h, excreción renal y fecal",
+      "farmacodinamica": "Reduce glucosa plasmática, promueve natriuresis y glucosuria, beneficios cardiovasculares y renales",
+      "indicacoes": "DM2, insuficiencia cardíaca con FE reducida, nefropatía diabética",
+      "reacoesAdversas": "ITU, micosis genital, cetoacidosis euglucémica, hipotensión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar durante la lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "25mg/día",
+      "doseMinima": "10mg/día",
+      "classificacao": "Antidiabético oral, inhibidor de SGLT2",
+      "apresentacao": "Comprimidos 10mg, 25mg",
+      "interacaoMedicamento": "Potencia efectos de diuréticos; riesgo de hipoglucemia con insulina/sulfonilureas",
+      "posologia": "10mg una vez al día, aumentar a 25mg si es necesario",
+      "armazenamento": "Almacenar a temperatura ambiente, evitar humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "DM tipo 1, cetoacidosis, TFG <30",
+      "cuidadosMedicos": "Suspender antes de ayuno o cirugía; controlar signos de cetoacidosis",
+      "cuidadosFarmaceuticos": "Educar sobre infecciones urinarias y cetoacidosis",
+      "cuidadosEnfermagem": "Observar hidratación, estado mental, náuseas",
+      "fontesBibliograficas": "FDA, Micromedex, guías ADA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "恩格列净",
+      "suspension": "术前3天停药",
+      "risk": "术中低血压、脱水、酮症酸中毒（即使血糖正常）",
+      "reintroduction": "术后48–72小时，在恢复饮食和水化状态后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "恩格列净",
+      "nomeComercial": "Jardiance（嘉德诺）",
+      "mecanismoAcao": "抑制SGLT2，减少肾小管对葡萄糖重吸收",
+      "farmacocinetica": "口服生物利用度约78%，半衰期12小时，肾肠排泄",
+      "farmacodinamica": "降低血糖，促进尿糖排出，有心肾保护作用",
+      "indicacoes": "2型糖尿病，射血分数下降的心衰，糖尿病肾病",
+      "reacoesAdversas": "泌尿感染、阴部真菌感染、酮症酸中毒、低血压",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期不推荐使用",
+      "administracao": "口服",
+      "doseMaxima": "每日25毫克",
+      "doseMinima": "每日10毫克",
+      "classificacao": "SGLT2抑制剂，口服降糖药",
+      "apresentacao": "片剂：10mg、25mg",
+      "interacaoMedicamento": "增强利尿作用，与胰岛素/磺脲类合用时低血糖风险↑",
+      "posologia": "每日10mg，可增加至25mg",
+      "armazenamento": "室温干燥保存",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "1型糖尿病、酮症酸中毒、eGFR <30 mL/min",
+      "cuidadosMedicos": "术前停药，观察酮症风险",
+      "cuidadosFarmaceuticos": "强调患者需充分饮水、辨识DKA症状",
+      "cuidadosEnfermagem": "观察脱水、意识改变、恶心、呼吸异常等症状",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、ADA指南"
+    }
+  }
+}

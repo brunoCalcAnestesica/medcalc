@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Menadiona",
+      "suspension": "Evitar uso pré-operatório de rotina; preferir fitomenadiona (K1) se houver necessidade",
+      "risk": "Pode causar toxicidade hepática e hematológica, especialmente em neonatos; potencial de hemólise e meta-hemoglobinemia",
+      "reintroduction": "Contraindicada no pós-operatório imediato em neonatos; em adultos, uso restrito e apenas sob controle rigoroso"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Menadiona (vitamina K3)",
+      "nomeComercial": "Menaderm, Vitamina K3 (veterinária ou magistral)",
+      "mecanismoAcao": "Análogo sintético da vitamina K; participa da ativação de fatores II, VII, IX e X da coagulação via carboxilação",
+      "farmacocinetica": "Absorção oral e parenteral; metabolização hepática; meia-vida curta; excreção renal",
+      "farmacodinamica": "Corrige hipoprotrombinemia, mas com maior risco de toxicidade comparada à K1",
+      "indicacoes": "Utilização histórica na deficiência de vitamina K; atualmente desaconselhada em humanos devido à toxicidade",
+      "reacoesAdversas": "Hemólise, meta-hemoglobinemia, icterícia nuclear em recém-nascidos, necrose hepática",
+      "riscoGravidez": "Categoria C – evitar uso; dados limitados",
+      "riscoLactacao": "Desaconselhado",
+      "administracao": "Oral ou intramuscular (uso limitado)",
+      "doseMaxima": "5mg/dia (adulto, histórico); não recomendada em neonatos",
+      "doseMinima": "1mg/dia (antiga profilaxia, obsoleta)",
+      "classificacao": "Vitamina K sintética (proibida em uso neonatal)",
+      "apresentacao": "Soluto oral ou IM (raramente disponível como medicamento humano)",
+      "interacaoMedicamento": "Pode interferir com anticoagulantes; maior toxicidade que K1",
+      "posologia": "Descontinuada para humanos em muitos países; uso off-label em situações específicas",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Evitar preparações concentradas não padronizadas",
+      "solucoesCompatíveis": "Soro fisiológico 0,9% se necessário IM",
+      "contraindicacoes": "Recém-nascidos, gestantes, hepatopatias, G6PD deficiência",
+      "cuidadosMedicos": "Substituir por fitomenadiona (K1) sempre que possível",
+      "cuidadosFarmaceuticos": "Evitar manipulações e uso fora de indicação reconhecida",
+      "cuidadosEnfermagem": "Observar toxicidade hematológica e hepática",
+      "fontesBibliograficas": "FDA, EMA, Medscape, Micromedex, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Menadione",
+      "suspension": "Avoid preoperative use; not recommended in clinical settings",
+      "risk": "Risk of liver and hematologic toxicity; hemolytic anemia and methemoglobinemia, especially in neonates",
+      "reintroduction": "Avoid reintroduction post-op; K1 (phytonadione) preferred for safety"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Menadione (Vitamin K3)",
+      "nomeComercial": "Menadione sodium bisulfite (historical use)",
+      "mecanismoAcao": "Synthetic vitamin K analog; cofactor for clotting factor carboxylation",
+      "farmacocinetica": "Absorbed orally and parenterally; metabolized by liver; short half-life",
+      "farmacodinamica": "Supports coagulation but with higher risk of toxicity compared to K1",
+      "indicacoes": "Previously used in vitamin K deficiency; now obsolete due to toxicity",
+      "reacoesAdversas": "Hemolysis, methemoglobinemia, kernicterus in neonates, hepatotoxicity",
+      "riscoGravidez": "Category C – avoid unless absolutely necessary",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral or intramuscular (rare, discouraged)",
+      "doseMaxima": "5mg/day (adults, historical)",
+      "doseMinima": "1mg/day (formerly for prevention)",
+      "classificacao": "Synthetic vitamin K (no longer approved for human use)",
+      "apresentacao": "No longer marketed in human form in many countries",
+      "interacaoMedicamento": "Interferes with anticoagulants; more toxic than K1",
+      "posologia": "Replaced by phytonadione; off-label only",
+      "armazenamento": "Room temperature, protect from light",
+      "preparo": "Avoid compounded forms",
+      "solucoesCompatíveis": "0.9% NaCl for IM (if used)",
+      "contraindicacoes": "Newborns, liver disease, pregnancy, G6PD deficiency",
+      "cuidadosMedicos": "Use K1 instead of K3 for safety",
+      "cuidadosFarmaceuticos": "Discourage use outside clinical protocols",
+      "cuidadosEnfermagem": "Monitor for liver or hematologic toxicity",
+      "fontesBibliograficas": "FDA, NIH, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Menadiona",
+      "suspension": "Evitar uso preoperatorio; reemplazada por vitamina K1",
+      "risk": "Toxicidad hepática y hematológica; riesgo de hemólisis y metahemoglobinemia",
+      "reintroduction": "No reintroducir; usar fitomenadiona si es necesario"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Menadiona (vitamina K3)",
+      "nomeComercial": "Menadiona (uso restringido, veterinario)",
+      "mecanismoAcao": "Análogo sintético de vitamina K; cofactor en activación de factores II, VII, IX, X",
+      "farmacocinetica": "Buena absorción oral; metabolismo hepático; eliminación renal",
+      "farmacodinamica": "Corrige deficiencia de protrombina, pero con alto riesgo de efectos adversos",
+      "indicacoes": "Obsoleto en humanos; reemplazado por K1",
+      "reacoesAdversas": "Anemia hemolítica, ictericia neonatal, hepatotoxicidad",
+      "riscoGravidez": "Categoría C – evitar",
+      "riscoLactacao": "No recomendada",
+      "administracao": "Oral o IM (no recomendado)",
+      "doseMaxima": "5mg/día (adultos)",
+      "doseMinima": "1mg/día (histórico)",
+      "classificacao": "Vitamina K sintética obsoleta",
+      "apresentacao": "No disponible en uso humano regulado",
+      "interacaoMedicamento": "Más tóxica que K1; interactúa con anticoagulantes",
+      "posologia": "K1 es el reemplazo estándar actual",
+      "armazenamento": "Ambiente seco y oscuro",
+      "preparo": "Evitar formulaciones manipuladas",
+      "solucoesCompatíveis": "ClNa 0,9% (IM, si se usa)",
+      "contraindicacoes": "Neonatos, hepatopatía, embarazo",
+      "cuidadosMedicos": "Preferir fitomenadiona",
+      "cuidadosFarmaceuticos": "Desaconsejar uso humano",
+      "cuidadosEnfermagem": "Observar toxicidad hepática",
+      "fontesBibliograficas": "EMA, Medscape, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "甲萘醌（维生素K3）",
+      "suspension": "不推荐术前使用；首选K1替代",
+      "risk": "可能引发肝毒性、溶血、变性血红蛋白症，尤其对新生儿危险",
+      "reintroduction": "术后不建议重新使用；使用K1代替"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "甲萘醌（维生素K3）",
+      "nomeComercial": "K3注射液（限兽用/科研用）",
+      "mecanismoAcao": "为维生素K的人工合成衍生物，参与凝血因子的羧化",
+      "farmacocinetica": "肠吸收良好；肝代谢；短效",
+      "farmacodinamica": "促进凝血因子合成但毒性大",
+      "indicacoes": "临床已基本淘汰，过去用于维生素K缺乏",
+      "reacoesAdversas": "溶血、核黄疸、肝损伤",
+      "riscoGravidez": "C类 – 谨慎",
+      "riscoLactacao": "不推荐",
+      "administracao": "口服或肌注（不建议）",
+      "doseMaxima": "每日5mg（成人，历史值）",
+      "doseMinima": "每日1mg（历史）",
+      "classificacao": "合成型维生素K，已废用",
+      "apresentacao": "目前无正式人用商品",
+      "interacaoMedicamento": "拮抗抗凝剂，毒性高于K1",
+      "posologia": "被K1全面替代",
+      "armazenamento": "室温避光",
+      "preparo": "避免使用浓缩剂型",
+      "solucoesCompatíveis": "0.9%氯化钠（若用IM）",
+      "contraindicacoes": "新生儿、妊娠、肝病、G6PD缺乏",
+      "cuidadosMedicos": "用K1取代K3",
+      "cuidadosFarmaceuticos": "避免擅自使用",
+      "cuidadosEnfermagem": "观察肝毒性与血液异常",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、Medscape"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Anifrolumabe",
+      "suspension": "Suspender antes de cirurgias maiores; risco de infecção e supressão imunológica prolongada",
+      "risk": "Aumenta risco de infecções respiratórias, herpes zoster, reativação viral; possível piora de doenças pulmonares intersticiais",
+      "reintroduction": "Reintroduzir após recuperação pós-operatória e exclusão de infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anifrolumabe",
+      "nomeComercial": "Saphnelo",
+      "mecanismoAcao": "Anticorpo monoclonal humano anti-receptor de tipo I de interferon, que inibe vias pró-inflamatórias mediadas por IFN-alfa",
+      "farmacocinetica": "Administração IV; meia-vida ~14 dias; catabolismo proteico; regime mensal",
+      "farmacodinamica": "Reduz expressão de genes estimulados por interferon; modula hiperatividade imune no lúpus eritematoso sistêmico",
+      "indicacoes": "Lúpus eritematoso sistêmico (LES) moderado a grave, com atividade de IFN-alto, não responsivo a terapia padrão",
+      "reacoesAdversas": "Infecções respiratórias, bronquite, herpes zoster, náuseas, reações infusionais",
+      "riscoGravidez": "Categoria não definida; evitar uso em gestantes sem avaliação de risco-benefício",
+      "riscoLactacao": "Desconhecido; considerar suspensão da amamentação durante tratamento",
+      "administracao": "Infusão intravenosa lenta (30 min)",
+      "doseMaxima": "300 mg IV a cada 4 semanas",
+      "doseMinima": "300 mg IV/mês (não há dados para doses menores)",
+      "classificacao": "Anticorpo monoclonal anti-interferon tipo I",
+      "apresentacao": "Frasco-ampola 300 mg/2 mL (150 mg/mL), solução concentrada",
+      "interacaoMedicamento": "Cautela com vacinas vivas; risco aumentado com imunossupressores",
+      "posologia": "300 mg IV a cada 4 semanas após dose inicial",
+      "armazenamento": "Refrigerado 2–8°C; não congelar; proteger da luz",
+      "preparo": "Diluir em 250 mL de SF 0,9%; infundir em 30 minutos",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Infecção ativa grave, hipersensibilidade a anifrolumabe ou excipientes",
+      "cuidadosMedicos": "Avaliar status infeccioso e vacinação antes do início; monitorar função respiratória",
+      "cuidadosFarmaceuticos": "Gerenciar estabilidade, diluição e compatibilidade",
+      "cuidadosEnfermagem": "Observar sinais de reação infusional e infecção; orientar sobre sintomas precoces de infecção",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, Anvisa, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Anifrolumab",
+      "suspension": "Hold prior to major surgery due to infection risk and immunosuppression",
+      "risk": "Increased risk of respiratory infections, herpes zoster, and pulmonary complications",
+      "reintroduction": "Restart after post-op recovery and exclusion of active infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anifrolumab",
+      "nomeComercial": "Saphnelo",
+      "mecanismoAcao": "Human monoclonal antibody against type I interferon receptor subunit 1",
+      "farmacocinetica": "IV infusion; half-life ~14 days; proteolytic metabolism",
+      "farmacodinamica": "Inhibits type I IFN signaling; reduces expression of IFN-stimulated genes",
+      "indicacoes": "Moderate-to-severe systemic lupus erythematosus (SLE) with high IFN signature",
+      "reacoesAdversas": "URTI, bronchitis, herpes zoster, infusion-related reactions",
+      "riscoGravidez": "Not assigned; avoid unless benefit outweighs risk",
+      "riscoLactacao": "Unknown; breastfeeding not recommended",
+      "administracao": "30-minute intravenous infusion",
+      "doseMaxima": "300 mg IV every 4 weeks",
+      "doseMinima": "300 mg IV q4w (standard)",
+      "classificacao": "Type I interferon receptor antagonist monoclonal antibody",
+      "apresentacao": "300 mg/2 mL single-dose vial",
+      "interacaoMedicamento": "Avoid live vaccines; caution with immunosuppressants",
+      "posologia": "300 mg IV q4 weeks after initial dose",
+      "armazenamento": "Store at 36–46°F; do not freeze; protect from light",
+      "preparo": "Dilute in 250 mL 0.9% NaCl; infuse over 30 minutes",
+      "solucoesCompatíveis": "0.9% sodium chloride",
+      "contraindicacoes": "Active severe infection, hypersensitivity to the drug",
+      "cuidadosMedicos": "Screen for infections, update vaccines; monitor respiratory status",
+      "cuidadosFarmaceuticos": "Ensure correct storage, dilution and infusion protocol",
+      "cuidadosEnfermagem": "Monitor for infusion reactions and infection signs",
+      "fontesBibliograficas": "FDA, Micromedex, EMA, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Anifrolumab",
+      "suspension": "Suspender antes de cirugía mayor; riesgo de infecciones",
+      "risk": "Infecciones respiratorias, herpes zóster, neumonitis intersticial",
+      "reintroduction": "Reiniciar tras recuperación y ausencia de infección activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Anifrolumab",
+      "nomeComercial": "Saphnelo",
+      "mecanismoAcao": "Anticuerpo monoclonal dirigido al receptor del interferón tipo I",
+      "farmacocinetica": "IV; semivida ~14 días; metabolismo proteico",
+      "farmacodinamica": "Bloquea señalización IFN tipo I; reduce genes estimulados por IFN",
+      "indicacoes": "Lupus eritematoso sistémico moderado/grave con firma IFN alta",
+      "reacoesAdversas": "IRVA, bronquitis, zóster, náuseas, reacciones a la infusión",
+      "riscoGravidez": "Evitar salvo necesidad vital; sin categoría asignada",
+      "riscoLactacao": "Evitar lactancia durante el tratamiento",
+      "administracao": "Infusión IV 30 minutos",
+      "doseMaxima": "300 mg cada 4 semanas",
+      "doseMinima": "300 mg cada 4 semanas",
+      "classificacao": "Inmunoterapia anti-IFN tipo I",
+      "apresentacao": "Vial de 2 mL (300 mg)",
+      "interacaoMedicamento": "Evitar vacunas vivas y otros inmunosupresores",
+      "posologia": "300 mg IV cada 4 semanas",
+      "armazenamento": "2–8°C; no congelar; proteger de luz",
+      "preparo": "Diluir en 250 mL de SF 0,9%; infundir en 30 minutos",
+      "solucoesCompatíveis": "SF 0,9%",
+      "contraindicacoes": "Infección grave activa, hipersensibilidad",
+      "cuidadosMedicos": "Evaluar infecciones, vacunas, función pulmonar",
+      "cuidadosFarmaceuticos": "Verificar temperatura, estabilidad, dilución",
+      "cuidadosEnfermagem": "Monitorear reacciones a la infusión, signos de infección",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿尼夫罗鲁单抗",
+      "suspension": "重大手术前暂停使用；避免术后感染",
+      "risk": "上呼吸道感染、带状疱疹、肺部并发症",
+      "reintroduction": "术后恢复后可重新开始，但需排除感染"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "阿尼夫罗鲁单抗",
+      "nomeComercial": "Saphnelo",
+      "mecanismoAcao": "人源化单克隆抗体，抑制I型干扰素受体α亚单位",
+      "farmacocinetica": "静脉注射；半衰期约14天；蛋白酶降解",
+      "farmacodinamica": "减少I型干扰素信号通路激活和下游基因表达",
+      "indicacoes": "中重度系统性红斑狼疮（SLE），IFN通路活跃者",
+      "reacoesAdversas": "上呼吸道感染、支气管炎、带状疱疹、恶心、输注反应",
+      "riscoGravidez": "未分级；应避免妊娠",
+      "riscoLactacao": "建议停乳；安全性未知",
+      "administracao": "静脉输注30分钟",
+      "doseMaxima": "每4周300 mg",
+      "doseMinima": "标准剂量即为最低",
+      "classificacao": "I型干扰素受体拮抗剂",
+      "apresentacao": "2 mL冻干瓶（300 mg）",
+      "interacaoMedicamento": "避免与活疫苗或其他免疫抑制剂联用",
+      "posologia": "每4周300 mg静滴",
+      "armazenamento": "冷藏2–8°C，避免光照，不得冷冻",
+      "preparo": "250 mL生理盐水稀释，30分钟输注",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "严重活动性感染、过敏史",
+      "cuidadosMedicos": "评估感染状态、疫苗接种和肺功能",
+      "cuidadosFarmaceuticos": "核对药品有效性与配制规范",
+      "cuidadosEnfermagem": "监测输注反应、感染表现",
+      "fontesBibliograficas": "FDA，EMA，Micromedex，UpToDate"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Nelarabina",
+      "suspension": "Suspender 5 a 7 dias antes de cirurgia eletiva",
+      "risk": "Risco elevado de mielossupressão, neurotoxicidade e imunossupressão; potencial aumento de infecções perioperatórias e complicações hematológicas",
+      "reintroduction": "Reintroduzir após recuperação hematológica e ausência de infecção ou complicações pós-operatórias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nelarabina",
+      "nomeComercial": "Arranon",
+      "mecanismoAcao": "Análogo da guanosina que é convertido em ara-GTP, inibindo a síntese de DNA e promovendo apoptose em células T malignas",
+      "farmacocinetica": "Administração intravenosa; rápida conversão hepática em arabinosilguanina (ara-G); meia-vida terminal ~3 horas; excreção renal",
+      "farmacodinamica": "Citotóxico seletivo para células T malignas; interfere com proliferação celular por inibição da síntese de DNA",
+      "indicacoes": "Leucemia/linfoma linfoblástico de células T recidivante ou refratário",
+      "reacoesAdversas": "Neurotoxicidade (fraqueza, parestesia, convulsões), mielossupressão, náuseas, vômitos, fadiga, febre, infecções oportunistas",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado; excreção no leite desconhecida",
+      "administracao": "Intravenosa",
+      "doseMaxima": "1500 mg/m² em dias alternados (dias 1, 3, 5)",
+      "doseMinima": "650 mg/m²/dose (doses pediátricas)",
+      "classificacao": "Antimetabólito citotóxico (análogo da purina)",
+      "apresentacao": "Solução injetável 250 mg/50 mL",
+      "interacaoMedicamento": "Potencializa efeitos tóxicos com outros imunossupressores e neurotóxicos",
+      "posologia": "Adultos: 1500 mg/m² IV por 2 horas nos dias 1, 3 e 5 a cada 21 dias; ajustar conforme resposta e toxicidade",
+      "armazenamento": "Conservar sob refrigeração (2°C a 8°C); proteger da luz",
+      "preparo": "Diluir em solução de glicose 5% ou SF 0,9% para infusão",
+      "solucoesCompatíveis": "SF 0,9%, Glicose 5%",
+      "contraindicacoes": "Hipersensibilidade à nelarabina; gravidez; lactação",
+      "cuidadosMedicos": "Monitorar função neurológica, hemograma, sinais de infecção e função renal",
+      "cuidadosFarmaceuticos": "Manuseio com luvas e EPI; orientar sobre neurotoxicidade e sinais de mielossupressão",
+      "cuidadosEnfermagem": "Observar sinais de neuropatia periférica, febre, fadiga e alterações hematológicas",
+      "fontesBibliograficas": "Micromedex, FDA, UpToDate, ANVISA, Arranon bula"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Nelarabine",
+      "suspension": "Discontinue 5–7 days prior to elective surgery",
+      "risk": "High risk of myelosuppression, neurotoxicity, and immunosuppression; increased perioperative infection and hematologic complication risk",
+      "reintroduction": "Restart after hematologic recovery and resolution of postoperative complications"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nelarabine",
+      "nomeComercial": "Arranon",
+      "mecanismoAcao": "Guanosine analog converted into ara-GTP, which inhibits DNA synthesis and induces apoptosis in malignant T-cells",
+      "farmacocinetica": "IV administration; rapid hepatic conversion to arabinosylguanine (ara-G); terminal half-life ~3 hours; renal excretion",
+      "farmacodinamica": "Cytotoxic agent selective for malignant T-cells; inhibits DNA synthesis and cell proliferation",
+      "indicacoes": "Relapsed or refractory T-cell acute lymphoblastic leukemia/lymphoma (T-ALL/T-LBL)",
+      "reacoesAdversas": "Neurotoxicity (weakness, paresthesia, seizures), myelosuppression, nausea, vomiting, fatigue, fever, opportunistic infections",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated; excretion in breast milk unknown",
+      "administracao": "Intravenous",
+      "doseMaxima": "1500 mg/m² on alternate days (Days 1, 3, 5)",
+      "doseMinima": "650 mg/m²/dose (pediatric use)",
+      "classificacao": "Antimetabolite cytotoxic agent (purine analog)",
+      "apresentacao": "Injection solution 250 mg/50 mL",
+      "interacaoMedicamento": "Additive toxicities with other immunosuppressants and neurotoxins",
+      "posologia": "Adults: 1500 mg/m² IV over 2 hours on days 1, 3, and 5 every 21 days; adjust by response and toxicity",
+      "armazenamento": "Refrigerate at 2°C to 8°C; protect from light",
+      "preparo": "Dilute in 5% dextrose or 0.9% NaCl for infusion",
+      "solucoesCompatíveis": "0.9% NaCl, 5% Dextrose",
+      "contraindicacoes": "Hypersensitivity to nelarabine, pregnancy, lactation",
+      "cuidadosMedicos": "Monitor neurologic function, CBC, infection signs, and renal function",
+      "cuidadosFarmaceuticos": "Use protective equipment; counsel on neurotoxicity and hematologic risks",
+      "cuidadosEnfermagem": "Monitor for neuropathy, fever, fatigue, and hematologic abnormalities",
+      "fontesBibliograficas": "Micromedex, FDA, UpToDate, Arranon PI"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Nelarabina",
+      "suspension": "Suspender 5–7 días antes de cirugía electiva",
+      "risk": "Alto riesgo de mielosupresión, neurotoxicidad e inmunosupresión; mayor riesgo de infección y complicaciones hematológicas perioperatorias",
+      "reintroduction": "Reintroducir tras recuperación hematológica y ausencia de complicaciones posoperatorias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Nelarabina",
+      "nomeComercial": "Arranon",
+      "mecanismoAcao": "Análogo de guanosina convertido en ara-GTP, que inhibe la síntesis de ADN e induce apoptosis en células T malignas",
+      "farmacocinetica": "Administración IV; conversión hepática rápida a arabinosilguanina (ara-G); vida media terminal ~3 h; excreción renal",
+      "farmacodinamica": "Agente citotóxico selectivo para células T malignas; inhibe la proliferación celular",
+      "indicacoes": "Leucemia/linfoma linfoblástico de células T refractario o en recaída",
+      "reacoesAdversas": "Neurotoxicidad (debilidad, parestesias, convulsiones), mielosupresión, náuseas, vómitos, fatiga, fiebre, infecciones oportunistas",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado; se desconoce su excreción en la leche",
+      "administracao": "Intravenosa",
+      "doseMaxima": "1500 mg/m² en días alternos (días 1, 3, 5)",
+      "doseMinima": "650 mg/m²/dosis (uso pediátrico)",
+      "classificacao": "Antimetabolito citotóxico (análogo de purina)",
+      "apresentacao": "Solución inyectable 250 mg/50 mL",
+      "interacaoMedicamento": "Toxicidad aumentada con otros inmunosupresores o neurotóxicos",
+      "posologia": "Adultos: 1500 mg/m² IV en 2 h los días 1, 3 y 5 cada 21 días; ajustar por respuesta y toxicidad",
+      "armazenamento": "Refrigerar entre 2°C y 8°C; proteger de la luz",
+      "preparo": "Diluir en dextrosa al 5% o cloruro de sodio al 0.9% para infusión",
+      "solucoesCompatíveis": "ClNa 0.9%, Dextrosa 5%",
+      "contraindicacoes": "Hipersensibilidad, embarazo, lactancia",
+      "cuidadosMedicos": "Monitorizar función neurológica, hemograma, signos de infección y función renal",
+      "cuidadosFarmaceuticos": "Usar EPI; informar sobre neurotoxicidad y riesgos hematológicos",
+      "cuidadosEnfermagem": "Vigilar neuropatía, fiebre, fatiga y alteraciones hematológicas",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, Arranon ficha técnica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "奈拉拉滨",
+      "suspension": "择期手术前5–7天停药",
+      "risk": "高度骨髓抑制、神经毒性和免疫抑制风险；术中感染及血液并发症风险增加",
+      "reintroduction": "术后无感染及血象恢复后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "奈拉拉滨",
+      "nomeComercial": "Arranon",
+      "mecanismoAcao": "鸟苷类似物，转化为ara-GTP后抑制DNA合成并诱导T细胞凋亡",
+      "farmacocinetica": "静脉注射；快速肝转化为ara-G；终末半衰期约3小时；经肾排泄",
+      "farmacodinamica": "对恶性T细胞具选择性细胞毒性，通过抑制DNA合成阻止增殖",
+      "indicacoes": "复发或难治性T细胞急性淋巴白血病或淋巴瘤",
+      "reacoesAdversas": "神经毒性（无力、感觉异常、癫痫）、骨髓抑制、恶心、呕吐、乏力、发热、机会性感染",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "哺乳期禁用；是否排泄入乳汁未知",
+      "administracao": "静脉注射",
+      "doseMaxima": "1500 mg/m²，第1、3、5天用药",
+      "doseMinima": "650 mg/m²（儿科）",
+      "classificacao": "抗代谢类抗癌药（嘌呤类似物）",
+      "apresentacao": "注射液 250 mg/50 mL",
+      "interacaoMedicamento": "与其他免疫抑制剂及神经毒性药物联合使用增加毒性",
+      "posologia": "成人：1500 mg/m²静注2小时，于第1、3、5天，每21天一周期",
+      "armazenamento": "2–8°C冷藏，避光保存",
+      "preparo": "用5%葡萄糖或0.9%氯化钠稀释后静滴",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "对本品过敏、妊娠、哺乳期",
+      "cuidadosMedicos": "监测神经系统、血象、感染及肾功能",
+      "cuidadosFarmaceuticos": "使用防护设备，警示神经毒性和血液毒性",
+      "cuidadosEnfermagem": "监测神经系统症状、体温、疲劳及血液参数",
+      "fontesBibliograficas": "Micromedex、中国药典、UpToDate、Arranon说明书"
+    }
+  }
+}

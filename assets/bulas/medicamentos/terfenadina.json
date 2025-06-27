@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Terfenadina",
+      "suspension": "Suspender pelo menos 5 dias antes da cirurgia",
+      "risk": "Risco de prolongamento do QTc e arritmias graves, especialmente com anestésicos e macrolídeos",
+      "reintroduction": "Contraindicada no pós-operatório; uso descontinuado em vários países por risco cardíaco"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Terfenadina",
+      "nomeComercial": "Teldane (retirado do mercado), Triludan",
+      "mecanismoAcao": "Antagonista seletivo dos receptores H1 da histamina com pouca penetração no SNC",
+      "farmacocinetica": "Biotransformada em fexofenadina; meia-vida de 16–20 h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Reduz sintomas alérgicos sem sedação significativa, porém com risco pró-arrítmico",
+      "indicacoes": "Rinite alérgica, urticária (uso histórico)",
+      "reacoesAdversas": "Tontura, cefaleia, prolongamento do QT, arritmias ventriculares, hepatotoxicidade",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite materno; contraindicado",
+      "administracao": "Via oral (uso histórico)",
+      "doseMaxima": "60 mg 2x/dia (uso histórico)",
+      "doseMinima": "30 mg/dia",
+      "classificacao": "Anti-histamínico de segunda geração retirado por risco cardíaco",
+      "apresentacao": "Comprimidos 60 mg (não mais comercializado)",
+      "interacaoMedicamento": "Interage com cetoconazol, eritromicina, fluconazol, suco de toranja (↑ risco de arritmia)",
+      "posologia": "Descontinuado",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não se aplica",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência hepática, uso com inibidores do CYP3A4, cardiopatia, prolongamento do QT",
+      "cuidadosMedicos": "Não utilizar; substituir por alternativas seguras como fexofenadina",
+      "cuidadosFarmaceuticos": "Evitar dispensação; orientar descontinuação",
+      "cuidadosEnfermagem": "Monitorar sinais de toxicidade se uso prévio",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Terfenadine",
+      "suspension": "Discontinue at least 5 days before surgery",
+      "risk": "QT prolongation and life-threatening arrhythmias, especially with CYP3A4 inhibitors",
+      "reintroduction": "Contraindicated postoperatively; withdrawn due to cardiotoxicity"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Terfenadine",
+      "nomeComercial": "Seldane (withdrawn)",
+      "mecanismoAcao": "Selective peripheral H1-receptor antagonist; prodrug metabolized to fexofenadine",
+      "farmacocinetica": "t½ ~16–20 h; CYP3A4 metabolism; active metabolite: fexofenadine",
+      "farmacodinamica": "Non-sedating antihistamine with high arrhythmic risk",
+      "indicacoes": "Allergic rhinitis, urticaria (historical use)",
+      "reacoesAdversas": "Dizziness, QT prolongation, torsades de pointes, hepatic dysfunction",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; contraindicated",
+      "administracao": "Oral (discontinued)",
+      "doseMaxima": "60 mg BID (historical)",
+      "doseMinima": "30 mg/day",
+      "classificacao": "Withdrawn second-generation antihistamine due to cardiac risk",
+      "apresentacao": "Tablets 60 mg (no longer marketed)",
+      "interacaoMedicamento": "Fatal arrhythmias with ketoconazole, erythromycin, grapefruit juice",
+      "posologia": "Discontinued",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "CYP3A4 inhibitor use, hepatic impairment, QT prolongation",
+      "cuidadosMedicos": "Do not prescribe; replace with safer alternatives (e.g. fexofenadine)",
+      "cuidadosFarmaceuticos": "Do not dispense; educate on discontinuation",
+      "cuidadosEnfermagem": "Monitor ECG if prior exposure",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Terfenadina",
+      "suspension": "Suspender al menos 5 días antes de cirugía",
+      "risk": "Riesgo de arritmias graves por QT prolongado, especialmente con inhibidores CYP3A4",
+      "reintroduction": "Contraindicada; retirada del mercado en múltiples países"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Terfenadina",
+      "nomeComercial": "Teldane (retirado)",
+      "mecanismoAcao": "Antagonista H1 periférico; profármaco de fexofenadina",
+      "farmacocinetica": "Vida media ~16–20h, metabolizada por CYP3A4",
+      "farmacodinamica": "Antihistamínico no sedante con riesgo proarrítmico elevado",
+      "indicacoes": "Rinitis alérgica, urticaria (uso histórico)",
+      "reacoesAdversas": "Cefalea, mareo, prolongación del QT, torsades de pointes",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en leche materna; contraindicado",
+      "administracao": "Oral",
+      "doseMaxima": "60 mg cada 12h (uso histórico)",
+      "doseMinima": "30 mg/día",
+      "classificacao": "Antihistamínico de segunda generación retirado por riesgo cardíaco",
+      "apresentacao": "Comprimidos 60 mg",
+      "interacaoMedicamento": "Interacción grave con ketoconazol, eritromicina, zumo de pomelo",
+      "posologia": "Suspendido",
+      "armazenamento": "15–30°C",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Insuficiencia hepática, uso de inhibidores CYP3A4, QT prolongado",
+      "cuidadosMedicos": "Evitar prescripción; usar fexofenadina",
+      "cuidadosFarmaceuticos": "No dispensar; advertir riesgo cardíaco",
+      "cuidadosEnfermagem": "Monitorear ECG si hubo exposición previa",
+      "fontesBibliograficas": "EMA, Vademécum, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "特非那定",
+      "suspension": "术前至少提前5天停药",
+      "risk": "延长QT间期，可致严重心律失常，术中风险极高",
+      "reintroduction": "术后禁用；已在多个国家停用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "特非那定",
+      "nomeComercial": "Seldane（已退市）",
+      "mecanismoAcao": "选择性外周H1受体拮抗剂，为非镇静性抗组胺药",
+      "farmacocinetica": "半衰期16–20小时，经CYP3A4代谢为活性代谢物非索非那定",
+      "farmacodinamica": "抗组胺作用强，但QT延长风险高",
+      "indicacoes": "过敏性鼻炎、荨麻疹（历史用途）",
+      "reacoesAdversas": "头晕、QT延长、室性心律失常、肝损伤",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌至乳汁中，禁用",
+      "administracao": "口服（历史用药）",
+      "doseMaxima": "每日2次60毫克（历史）",
+      "doseMinima": "每日30毫克",
+      "classificacao": "因心脏毒性被撤市的第二代抗组胺药",
+      "apresentacao": "60毫克片剂（已退市）",
+      "interacaoMedicamento": "与酮康唑、红霉素、葡萄柚汁联用可致致命性心律失常",
+      "posologia": "已停用",
+      "armazenamento": "15–30°C",
+      "preparo": "不适用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "CYP3A4抑制剂、肝病、QT延长者禁用",
+      "cuidadosMedicos": "禁用此药，应改用非索非那定等安全替代品",
+      "cuidadosFarmaceuticos": "禁配发，须告知停用原因",
+      "cuidadosEnfermagem": "曾用者术中应严密监测心电图",
+      "fontesBibliograficas": "中国药典, FDA, UpToDate, Micromedex"
+    }
+  }
+}

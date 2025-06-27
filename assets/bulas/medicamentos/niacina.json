@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Niacina (Vitamina B3)",
+      "suspension": "Não é necessário suspender antes da cirurgia, exceto em altas doses usadas como hipolipemiante",
+      "risk": "Em doses elevadas, pode causar rubor cutâneo, hipotensão, hepatotoxicidade e interferência com glicemia. Risco mínimo em doses nutricionais.",
+      "reintroduction": "Pode ser reintroduzida conforme a via oral for tolerada. Doses terapêuticas devem ser reiniciadas com cautela após avaliação hepática."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Niacina (Ácido nicotínico, nicotinamida)",
+      "nomeComercial": "Endur-acin, Niacor, Niaspan",
+      "mecanismoAcao": "Precursor de NAD e NADP; cofator redox essencial em centenas de reações enzimáticas",
+      "farmacocinetica": "Boa absorção oral; metabolizada no fígado; meia-vida curta; excreção renal",
+      "farmacodinamica": "Participa do metabolismo energético, síntese de DNA, lipídios e reparo celular; em altas doses reduz colesterol LDL e triglicérides",
+      "indicacoes": "Deficiência de niacina (pelagra), dislipidemias, suporte nutricional em pacientes críticos",
+      "reacoesAdversas": "Rubor, prurido, náusea, hepatotoxicidade, hiperglicemia, mialgia",
+      "riscoGravidez": "Categoria C em altas doses; seguro como vitamina em dieta",
+      "riscoLactacao": "Compatível com amamentação em doses fisiológicas",
+      "administracao": "Oral (comprimidos de liberação imediata ou prolongada); EV rara, apenas em nutrição parenteral",
+      "doseMaxima": "2.000 mg/dia (hipolipemiante); 20 mg/dia (suplementação)",
+      "doseMinima": "14–16 mg/dia (necessidade diária)",
+      "classificacao": "Vitamina hidrossolúvel – complexo B; hipolipemiante em altas doses",
+      "apresentacao": "Comprimidos 50 a 1000 mg; cápsulas; multivitamínicos; ampola injetável (TPN)",
+      "interacaoMedicamento": "Potencializa estatinas (miopatia), pode aumentar risco de hipoglicemia com insulina",
+      "posologia": "Para dislipidemia: iniciar com 500 mg à noite, ajustar semanalmente; para deficiência: 50–100 mg/dia",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Não requer preparo especial (oral); EV somente em ambiente hospitalar",
+      "solucoesCompatíveis": "Glicose 5% (parenteral)",
+      "contraindicacoes": "Doença hepática ativa, úlcera péptica, sangramento arterial recente",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas, glicemia e ácido úrico em altas doses",
+      "cuidadosFarmaceuticos": "Orientar sobre ingestão com alimentos para minimizar rubor",
+      "cuidadosEnfermagem": "Observar efeitos adversos como rubor e hipotensão",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, UpToDate, SBEM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Niacin (Vitamin B3)",
+      "suspension": "No need to discontinue before surgery unless using high-dose lipid-lowering therapy",
+      "risk": "High doses can cause flushing, hypotension, hepatotoxicity, and glucose intolerance. Minimal risk with nutritional doses.",
+      "reintroduction": "Can be resumed as soon as oral intake is tolerated. High-dose use requires liver function monitoring."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Niacin",
+      "nomeComercial": "Niaspan, Niacor, Endur-acin",
+      "mecanismoAcao": "Precursor to NAD/NADP; essential in redox reactions and energy metabolism",
+      "farmacocinetica": "Well absorbed orally; hepatic metabolism; short half-life; renal excretion",
+      "farmacodinamica": "Reduces LDL and TG; raises HDL at pharmacologic doses",
+      "indicacoes": "Pellagra, dyslipidemia, critical illness with vitamin needs",
+      "reacoesAdversas": "Flushing, nausea, pruritus, liver toxicity, hyperglycemia",
+      "riscoGravidez": "Category C at high doses; safe at nutritional intake",
+      "riscoLactacao": "Compatible at physiologic doses",
+      "administracao": "Oral; extended or immediate-release; IV in TPN only",
+      "doseMaxima": "2000 mg/day (lipid use); 20 mg/day (vitamin)",
+      "doseMinima": "14–16 mg/day",
+      "classificacao": "Water-soluble B vitamin; lipid-lowering agent (high dose)",
+      "apresentacao": "Tablets 50–1000 mg; multivitamin capsules; IV for TPN",
+      "interacaoMedicamento": "May increase statin myopathy risk; affects insulin/glucose response",
+      "posologia": "500 mg at bedtime initially (lipids); 50–100 mg/day for deficiency",
+      "armazenamento": "Room temperature; protect from light",
+      "preparo": "No prep needed for oral; IV for hospital use only",
+      "solucoesCompatíveis": "D5W for parenteral use",
+      "contraindicacoes": "Active liver disease, peptic ulcer, arterial bleeding",
+      "cuidadosMedicos": "Monitor liver function, glucose, uric acid",
+      "cuidadosFarmaceuticos": "Give with food to reduce flushing",
+      "cuidadosEnfermagem": "Monitor for adverse effects and skin reactions",
+      "fontesBibliograficas": "FDA, UpToDate, NIH, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Niacina (Vitamina B3)",
+      "suspension": "No se suspende salvo dosis altas hipolipemiantes",
+      "risk": "Dosis altas pueden causar rubor, hepatotoxicidad e hiperglucemia. Riesgo mínimo en suplementos vitamínicos",
+      "reintroduction": "Reanudar tras tolerancia oral; evaluar función hepática si dosis elevadas"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Niacina",
+      "nomeComercial": "Niacor, Enduracin, Niaspan",
+      "mecanismoAcao": "Precursora de NAD/NADP; participa en metabolismo energético y redox",
+      "farmacocinetica": "Buena absorción oral; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Reduce LDL y triglicéridos; eleva HDL; previene pelagra",
+      "indicacoes": "Pelagra, dislipidemia, soporte nutricional",
+      "reacoesAdversas": "Rubor, prurito, náuseas, hepatotoxicidad, hiperglucemia",
+      "riscoGravidez": "Categoría C en dosis terapéuticas",
+      "riscoLactacao": "Compatible en dosis fisiológicas",
+      "administracao": "Oral (liberación inmediata o prolongada); IV solo en TPN",
+      "doseMaxima": "2000 mg/día",
+      "doseMinima": "14–16 mg/día",
+      "classificacao": "Vitamina B hidrosoluble – agente hipolipemiante",
+      "apresentacao": "Comprimidos 50–1000 mg; multivitamínicos; viales IV",
+      "interacaoMedicamento": "Potencializa toxicidad de estatinas; interfiere con insulina",
+      "posologia": "500 mg nocturnos y ajuste gradual (hipolipemiante); 50–100 mg/día en deficiencia",
+      "armazenamento": "Temperatura ambiente; proteger de luz",
+      "preparo": "Uso directo; IV solo en entorno hospitalario",
+      "solucoesCompatíveis": "Glucosa 5%",
+      "contraindicacoes": "Hepatopatía activa, úlcera gástrica, sangrado arterial",
+      "cuidadosMedicos": "Vigilar enzimas hepáticas y glucemia",
+      "cuidadosFarmaceuticos": "Tomar con comida para reducir rubor",
+      "cuidadosEnfermagem": "Vigilar efectos adversos cutáneos",
+      "fontesBibliograficas": "EMA, AEMPS, Micromedex, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "烟酸（维生素B3）",
+      "suspension": "除非为降脂高剂量，一般术前无需停药",
+      "risk": "高剂量可致潮红、低血压、肝毒性和高血糖；维生素剂量风险低",
+      "reintroduction": "术后可在恢复口服后重启，治疗剂量应监测肝功能"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "烟酸（尼克酸）",
+      "nomeComercial": "Niacor, Niaspan, 复合维生素B",
+      "mecanismoAcao": "NAD/NADP前体，参与能量代谢和氧化还原反应",
+      "farmacocinetica": "口服吸收好，肝代谢，肾排泄",
+      "farmacodinamica": "降脂作用强，预防糙皮病",
+      "indicacoes": "糙皮病、血脂异常、营养支持",
+      "reacoesAdversas": "潮红、瘙痒、恶心、肝毒性、高血糖",
+      "riscoGravidez": "C类（大剂量慎用）",
+      "riscoLactacao": "生理剂量下可用",
+      "administracao": "口服片剂（缓释或速释）；TPN中静脉使用",
+      "doseMaxima": "每日2000毫克",
+      "doseMinima": "每日14–16毫克",
+      "classificacao": "水溶性维生素B – 降脂药",
+      "apresentacao": "片剂50–1000mg；TPN用注射剂",
+      "interacaoMedicamento": "与他汀类、胰岛素联用需谨慎",
+      "posologia": "降脂起始500mg夜服，营养补充每日50–100mg",
+      "armazenamento": "常温避光",
+      "preparo": "无需特殊准备；TPN中按需稀释",
+      "solucoesCompatíveis": "葡萄糖5%",
+      "contraindicacoes": "活动性肝病、消化性溃疡、动脉出血",
+      "cuidadosMedicos": "监测肝酶、血糖、尿酸",
+      "cuidadosFarmaceuticos": "推荐与食物同服减少潮红",
+      "cuidadosEnfermagem": "观察血压和皮肤反应",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、FDA"
+    }
+  }
+}

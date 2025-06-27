@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Indapamida",
+      "suspension": "Suspender 1 dia antes da cirurgia eletiva, especialmente se risco de hipovolemia",
+      "risk": "Risco de hipotensão, hipocalemia e alterações hidroeletrolíticas perioperatórias",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e correção eletrolítica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Indapamida",
+      "nomeComercial": "Natrilix, Indapen, Fludex",
+      "mecanismoAcao": "Diurético tiazídico-like que inibe a reabsorção de sódio no túbulo distal, promovendo natriurese",
+      "farmacocinetica": "Boa absorção oral, alta ligação a proteínas, meia-vida de 14–24h, metabolização hepática",
+      "farmacodinamica": "Reduz volume plasmático e resistência vascular periférica",
+      "indicacoes": "Hipertensão arterial, insuficiência cardíaca leve a moderada",
+      "reacoesAdversas": "Hipocalemia, tontura, cefaleia, rash, astenia",
+      "riscoGravidez": "Categoria B - usar com cautela",
+      "riscoLactacao": "Excreção desconhecida; evitar ou monitorar",
+      "administracao": "Oral",
+      "doseMaxima": "2,5mg/dia",
+      "doseMinima": "1,25mg/dia",
+      "classificacao": "Diurético tiazídico-like, anti-hipertensivo",
+      "apresentacao": "Comprimidos de 1,5mg (liberação prolongada) ou 2,5mg",
+      "interacaoMedicamento": "Pode potencializar toxicidade de lítio; risco de hipocalemia com corticosteroides ou laxantes",
+      "posologia": "1,5–2,5mg ao dia, preferencialmente pela manhã",
+      "armazenamento": "Temperatura ambiente, longe da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Alergia a sulfonamidas, insuficiência hepática grave, encefalopatia hepática",
+      "cuidadosMedicos": "Monitorar eletrólitos, função renal e pressão arterial",
+      "cuidadosFarmaceuticos": "Orientar sobre sintomas de desequilíbrio eletrolítico",
+      "cuidadosEnfermagem": "Observar sinais de hipotensão, câimbras ou fraqueza",
+      "fontesBibliograficas": "ANVISA, Micromedex, FDA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Indapamide",
+      "suspension": "Discontinue 1 day before elective surgery, especially if hypovolemia risk exists",
+      "risk": "May cause hypotension, hypokalemia, and electrolyte imbalance perioperatively",
+      "reintroduction": "Restart after hemodynamic stabilization and correction of electrolytes"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Indapamide",
+      "nomeComercial": "Lozol",
+      "mecanismoAcao": "Thiazide-like diuretic that inhibits sodium reabsorption in the distal tubule",
+      "farmacocinetica": "Well absorbed orally, high protein binding, half-life 14–24h, hepatic metabolism",
+      "farmacodinamica": "Decreases plasma volume and peripheral vascular resistance",
+      "indicacoes": "Hypertension, mild to moderate heart failure",
+      "reacoesAdversas": "Hypokalemia, dizziness, headache, rash, fatigue",
+      "riscoGravidez": "Category B – use with caution",
+      "riscoLactacao": "Unknown if excreted; avoid or monitor",
+      "administracao": "Oral",
+      "doseMaxima": "2.5mg/day",
+      "doseMinima": "1.25mg/day",
+      "classificacao": "Thiazide-like diuretic, antihypertensive",
+      "apresentacao": "Tablets: 1.5mg (extended-release), 2.5mg",
+      "interacaoMedicamento": "May increase lithium toxicity; hypokalemia risk with corticosteroids/laxatives",
+      "posologia": "1.5–2.5mg daily, preferably in the morning",
+      "armazenamento": "Room temperature, protect from moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Sulfonamide allergy, severe hepatic impairment, hepatic encephalopathy",
+      "cuidadosMedicos": "Monitor electrolytes, renal function, blood pressure",
+      "cuidadosFarmaceuticos": "Counsel on signs of electrolyte imbalance",
+      "cuidadosEnfermagem": "Observe for hypotension, cramps, or weakness",
+      "fontesBibliograficas": "FDA, Micromedex, EMA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Indapamida",
+      "suspension": "Suspender 1 día antes de cirugía electiva, especialmente si hay riesgo de hipovolemia",
+      "risk": "Puede causar hipotensión, hipocalemia y desequilibrio electrolítico",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica y corrección de electrolitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Indapamida",
+      "nomeComercial": "Fludex",
+      "mecanismoAcao": "Diurético tipo tiazida que inhibe la reabsorción de sodio en el túbulo distal",
+      "farmacocinetica": "Buena absorción oral, alta unión a proteínas, vida media 14–24h, metabolismo hepático",
+      "farmacodinamica": "Disminuye el volumen plasmático y la resistencia vascular periférica",
+      "indicacoes": "Hipertensión, insuficiencia cardíaca leve o moderada",
+      "reacoesAdversas": "Hipocalemia, mareo, cefalea, erupción, fatiga",
+      "riscoGravidez": "Categoría B – usar con precaución",
+      "riscoLactacao": "Se desconoce si se excreta; evitar o vigilar",
+      "administracao": "Oral",
+      "doseMaxima": "2.5mg/día",
+      "doseMinima": "1.25mg/día",
+      "classificacao": "Diurético tipo tiazida, antihipertensivo",
+      "apresentacao": "Comprimidos: 1.5mg (liberación prolongada), 2.5mg",
+      "interacaoMedicamento": "Aumenta toxicidad del litio; riesgo de hipocalemia con corticosteroides/laxantes",
+      "posologia": "1.5–2.5mg diarios, preferiblemente por la mañana",
+      "armazenamento": "Temperatura ambiente, proteger de humedad",
+      "preparo": "No requiere preparación especial",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia a sulfonamidas, insuficiencia hepática grave, encefalopatía hepática",
+      "cuidadosMedicos": "Controlar electrolitos, función renal y presión arterial",
+      "cuidadosFarmaceuticos": "Educar sobre signos de desequilibrio electrolítico",
+      "cuidadosEnfermagem": "Observar hipotensión, calambres o debilidad",
+      "fontesBibliograficas": "EMA, Micromedex, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "茵达帕胺",
+      "suspension": "择期手术前1天停药，特别是有低血容量风险者",
+      "risk": "可能导致术中低血压、低钾和电解质紊乱",
+      "reintroduction": "血流动力学稳定并纠正电解质后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "茵达帕胺",
+      "nomeComercial": "来士普（Lozol）",
+      "mecanismoAcao": "类噻嗪利尿剂，抑制远曲小管钠重吸收",
+      "farmacocinetica": "口服吸收良好，高蛋白结合，半衰期14–24小时，肝代谢",
+      "farmacodinamica": "降低血浆容量和外周血管阻力",
+      "indicacoes": "高血压、轻中度心力衰竭",
+      "reacoesAdversas": "低钾、头晕、头痛、皮疹、乏力",
+      "riscoGravidez": "B类 – 谨慎使用",
+      "riscoLactacao": "是否分泌尚不明确，建议避免或监测",
+      "administracao": "口服",
+      "doseMaxima": "2.5毫克/天",
+      "doseMinima": "1.25毫克/天",
+      "classificacao": "类噻嗪利尿剂，降压药",
+      "apresentacao": "片剂：1.5mg（缓释）、2.5mg",
+      "interacaoMedicamento": "可增强锂毒性；与糖皮质激素或泻药合用增加低钾风险",
+      "posologia": "每天早晨服用1.5–2.5mg",
+      "armazenamento": "室温避湿保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "磺胺类过敏、严重肝功能不全、肝性脑病",
+      "cuidadosMedicos": "监测电解质、肾功能和血压",
+      "cuidadosFarmaceuticos": "告知电解质紊乱症状",
+      "cuidadosEnfermagem": "观察低血压、痉挛或虚弱表现",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

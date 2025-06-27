@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Propranolol",
+      "suspension": "Manter até o dia da cirurgia, exceto em pacientes com bradicardia sintomática ou instabilidade hemodinâmica",
+      "risk": "Risco de bradicardia, hipotensão e broncoespasmo; descontinuação abrupta pode causar taquiarritmia ou crise hipertensiva",
+      "reintroduction": "Manter no pós-operatório ou reintroduzir em até 24h, preferencialmente por via oral ou EV conforme status clínico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Propranolol",
+      "nomeComercial": "Inderal, Avlocardyl",
+      "mecanismoAcao": "Antagonista não seletivo dos receptores beta-adrenérgicos (β1 e β2)",
+      "farmacocinetica": "Absorção oral rápida, alta metabolização hepática, meia-vida 3–6h",
+      "farmacodinamica": "Reduz frequência cardíaca, débito cardíaco e pressão arterial; ação antiarrítmica e antianginosa",
+      "indicacoes": "Hipertensão, angina, arritmias, tremores, ansiedade, profilaxia de enxaqueca",
+      "reacoesAdversas": "Bradicardia, fadiga, broncoespasmo, distúrbios do sono, extremidades frias",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excretado no leite; uso com cautela",
+      "administracao": "Oral e intravenosa",
+      "doseMaxima": "320mg/dia (oral)",
+      "doseMinima": "40mg/dia",
+      "classificacao": "Betabloqueador não seletivo",
+      "apresentacao": "Comprimidos 10mg, 40mg, 80mg; solução injetável 1mg/mL",
+      "interacaoMedicamento": "Interage com verapamil, diltiazem, amiodarona, insulina, anestésicos gerais",
+      "posologia": "Ajustada conforme indicação e resposta clínica",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Forma EV deve ser diluída em solução fisiológica",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%",
+      "contraindicacoes": "Asma, bradicardia grave, bloqueio AV de 2º ou 3º grau, insuficiência cardíaca descompensada",
+      "cuidadosMedicos": "Monitorar FC, PA, ECG e sinais de broncoespasmo",
+      "cuidadosFarmaceuticos": "Evitar suspensão abrupta após uso crônico",
+      "cuidadosEnfermagem": "Observar bradicardia, dispneia, PA e efeitos colaterais centrais",
+      "fontesBibliograficas": "SBH, Micromedex, FDA, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Propranolol",
+      "suspension": "Continue until surgery unless symptomatic bradycardia or hemodynamic instability is present",
+      "risk": "Risk of bradycardia, hypotension, bronchospasm; abrupt withdrawal may trigger arrhythmias or hypertensive crisis",
+      "reintroduction": "Continue post-op or reintroduce within 24h, preferably oral or IV depending on status"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Propranolol",
+      "nomeComercial": "Inderal, Hemangeol",
+      "mecanismoAcao": "Non-selective beta-adrenergic receptor blocker (β1 and β2)",
+      "farmacocinetica": "Rapid oral absorption, high first-pass metabolism, half-life 3–6h",
+      "farmacodinamica": "Lowers heart rate, cardiac output and BP; antiarrhythmic and antianginal properties",
+      "indicacoes": "Hypertension, angina, arrhythmias, tremor, anxiety, migraine prophylaxis",
+      "reacoesAdversas": "Bradycardia, fatigue, bronchospasm, sleep disturbances, cold extremities",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Excreted in breast milk; use with caution",
+      "administracao": "Oral and IV",
+      "doseMaxima": "640mg/day (oral, in rare cases)",
+      "doseMinima": "40mg/day",
+      "classificacao": "Non-selective beta-blocker",
+      "apresentacao": "Tablets 10mg, 40mg, 80mg; IV solution 1mg/mL",
+      "interacaoMedicamento": "Interacts with verapamil, diltiazem, amiodarone, insulin, anesthetics",
+      "posologia": "Titrated by indication and clinical response",
+      "armazenamento": "Room temperature",
+      "preparo": "IV form should be diluted in saline",
+      "solucoesCompatíveis": "0.9% Sodium chloride",
+      "contraindicacoes": "Asthma, severe bradycardia, 2nd/3rd degree AV block, decompensated heart failure",
+      "cuidadosMedicos": "Monitor HR, BP, ECG and respiratory symptoms",
+      "cuidadosFarmaceuticos": "Avoid abrupt discontinuation after long-term use",
+      "cuidadosEnfermagem": "Monitor bradycardia, dyspnea, hypotension, CNS effects",
+      "fontesBibliograficas": "FDA, Micromedex, AHA guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Propranolol",
+      "suspension": "Mantener hasta la cirugía salvo bradicardia sintomática o inestabilidad hemodinámica",
+      "risk": "Bradicardia, hipotensión, broncoespasmo; retiro abrupto puede causar arritmias o crisis hipertensiva",
+      "reintroduction": "Reintroducir o mantener en el postoperatorio; reiniciar en menos de 24h si se ha suspendido"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Propranolol",
+      "nomeComercial": "Avlocardyl, Inderal",
+      "mecanismoAcao": "Bloqueador beta-adrenérgico no selectivo (β1 y β2)",
+      "farmacocinetica": "Absorción rápida, metabolismo hepático extenso, semivida 3–6h",
+      "farmacodinamica": "Reduce FC, GC, PA; efecto antiarrítmico y antianginoso",
+      "indicacoes": "Hipertensión, angina, arritmias, temblores, ansiedad, migraña",
+      "reacoesAdversas": "Bradicardia, fatiga, broncoespasmo, insomnio, extremidades frías",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Se excreta en la leche; precaución",
+      "administracao": "Oral e intravenosa",
+      "doseMaxima": "320mg/día",
+      "doseMinima": "40mg/día",
+      "classificacao": "Betabloqueante no selectivo",
+      "apresentacao": "Comprimidos 10mg, 40mg, 80mg; solución inyectable 1mg/mL",
+      "interacaoMedicamento": "Interacción con verapamilo, diltiazem, amiodarona, insulina, anestésicos",
+      "posologia": "Individualizada según indicación",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Diluir solución IV en suero fisiológico",
+      "solucoesCompatíveis": "Cloruro de sodio 0,9%",
+      "contraindicacoes": "Asma, bradicardia severa, bloqueo AV 2º o 3º grado, ICC descompensada",
+      "cuidadosMedicos": "Monitoreo de FC, PA, ECG y función respiratoria",
+      "cuidadosFarmaceuticos": "No suspender bruscamente",
+      "cuidadosEnfermagem": "Observar bradicardia, disnea, PA y efectos neurológicos",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "普萘洛尔",
+      "suspension": "除非有症状性心动过缓或血流动力学不稳，否则术前继续使用",
+      "risk": "风险包括心动过缓、低血压、支气管痉挛；突然停药可导致心律失常或高血压危象",
+      "reintroduction": "术后继续使用，或在24小时内重新开始，视临床情况可选口服或静注"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "普萘洛尔",
+      "nomeComercial": "心得安（Inderal）",
+      "mecanismoAcao": "非选择性β受体阻滞剂（β1和β2）",
+      "farmacocinetica": "口服吸收快，肝代谢，半衰期3–6小时",
+      "farmacodinamica": "降低心率、心排出量和血压，具有抗心律失常和抗心绞痛作用",
+      "indicacoes": "高血压、心绞痛、心律失常、震颤、焦虑、偏头痛预防",
+      "reacoesAdversas": "心动过缓、疲劳、支气管痉挛、睡眠障碍、四肢冰冷",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可分泌至乳汁中，慎用",
+      "administracao": "口服或静脉注射",
+      "doseMaxima": "每日320毫克",
+      "doseMinima": "每日40毫克",
+      "classificacao": "非选择性β阻滞剂",
+      "apresentacao": "片剂10mg、40mg、80mg；注射液1mg/mL",
+      "interacaoMedicamento": "与维拉帕米、地尔硫卓、胺碘酮、胰岛素和麻醉剂相互作用",
+      "posologia": "根据临床指征调整剂量",
+      "armazenamento": "室温保存",
+      "preparo": "IV前需稀释于生理盐水",
+      "solucoesCompatíveis": "0.9%氯化钠",
+      "contraindicacoes": "哮喘、严重心动过缓、Ⅱ或Ⅲ度房室传导阻滞、失代偿性心衰",
+      "cuidadosMedicos": "监测心率、血压、心电图与呼吸状况",
+      "cuidadosFarmaceuticos": "慢性用药后避免突然停药",
+      "cuidadosEnfermagem": "观察心动过缓、呼吸困难、低血压与中枢副作用",
+      "fontesBibliograficas": "中国药典、Micromedex、FDA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fator VIIa Recombinante",
+      "suspension": "Não suspender; administrar conforme protocolo de sangramento em hemofilia ou cirurgia com coagulopatia",
+      "risk": "Alto risco trombótico, principalmente em pacientes com fatores de risco cardiovascular. Uso restrito e monitorado.",
+      "reintroduction": "Reintroduzir conforme necessidade hemostática documentada e resposta clínica. Monitoramento de sangramento e sinais de trombose é essencial."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fator VIIa recombinante",
+      "nomeComercial": "NovoSeven RT",
+      "mecanismoAcao": "Ativa diretamente o fator X na superfície de plaquetas ativadas, promovendo formação de trombina independente da via intrínseca",
+      "farmacocinetica": "Meia-vida de 2–3 horas; administração IV em bolus",
+      "farmacodinamica": "Promove hemostasia rápida em pacientes com inibidores de fatores VIII ou IX ou em sangramentos refratários",
+      "indicacoes": "Hemofilia A ou B com inibidores, deficiência congênita de fator VII, sangramento intratecal, trauma grave, cirurgia cardíaca",
+      "reacoesAdversas": "Trombose arterial ou venosa, eventos isquêmicos, febre, náusea, aumento de enzimas hepáticas",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Uso permitido com vigilância",
+      "administracao": "Bolo intravenoso em dose única ou repetida",
+      "doseMaxima": "90–120 mcg/kg a cada 2–3 h (curto prazo); até 270 mcg/kg em casos emergenciais",
+      "doseMinima": "15–30 mcg/kg (casos leves ou profiláticos)",
+      "classificacao": "Agente pró-coagulante recombinante – fator de coagulação VIIa",
+      "apresentacao": "1 mg, 2 mg, 5 mg frascos liofilizados com diluente",
+      "interacaoMedicamento": "Potencial trombótico com agentes antifibrinolíticos (ácido tranexâmico, aprotinina)",
+      "posologia": "90 mcg/kg IV a cada 2–3 h até controle clínico do sangramento",
+      "armazenamento": "2–8 °C; após reconstituição usar em até 3 h",
+      "preparo": "Reconstituir com diluente estéril; não agitar",
+      "solucoesCompatíveis": "Somente diluente fornecido",
+      "contraindicacoes": "Doença coronariana ativa, AVC isquêmico recente, CIVD não controlada",
+      "cuidadosMedicos": "Monitorar sinais de isquemia, trombose, resposta hemostática",
+      "cuidadosFarmaceuticos": "Garantir cadeia do frio e uso imediato após preparo",
+      "cuidadosEnfermagem": "Observar PA, perfusão, sinais neurológicos e de sangramento",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, UpToDate, SBHH, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Recombinant Factor VIIa",
+      "suspension": "Not discontinued; used perioperatively in hemophilia or uncontrolled bleeding",
+      "risk": "High thrombotic risk; monitor for arterial or venous clots. Use under expert supervision.",
+      "reintroduction": "Restart based on bleeding severity and risk/benefit. Monitor for hemostasis and thrombosis."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Recombinant Factor VIIa",
+      "nomeComercial": "NovoSeven RT",
+      "mecanismoAcao": "Activates Factor X directly on platelet surfaces, bypassing intrinsic pathway",
+      "farmacocinetica": "Half-life ~2–3 h; IV bolus",
+      "farmacodinamica": "Rapidly promotes clotting in patients with inhibitors or severe bleeding",
+      "indicacoes": "Hemophilia A/B with inhibitors, congenital FVII deficiency, surgery, trauma",
+      "reacoesAdversas": "Thrombosis, stroke, MI, fever, nausea",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Allowed with monitoring",
+      "administracao": "IV bolus; repeat if needed",
+      "doseMaxima": "90–120 mcg/kg q2–3h; up to 270 mcg/kg once",
+      "doseMinima": "15–30 mcg/kg",
+      "classificacao": "Recombinant coagulation factor VIIa",
+      "apresentacao": "1 mg, 2 mg, 5 mg vials + diluent",
+      "interacaoMedicamento": "Avoid with antifibrinolytics (tranexamic acid)",
+      "posologia": "90 mcg/kg IV q2–3h until hemostasis",
+      "armazenamento": "2–8 °C; use within 3 h post-reconstitution",
+      "preparo": "Reconstitute with provided diluent; do not shake",
+      "solucoesCompatíveis": "Only provided diluent",
+      "contraindicacoes": "Recent MI, stroke, DIC",
+      "cuidadosMedicos": "Monitor vitals, thrombosis signs, hemostatic effect",
+      "cuidadosFarmaceuticos": "Maintain cold chain; use immediately",
+      "cuidadosEnfermagem": "Observe perfusion, neurostatus, BP, bleeding",
+      "fontesBibliograficas": "FDA, CDC, WFH, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Factor VIIa Recombinante",
+      "suspension": "No se suspende; se usa en hemofilia o sangrado grave",
+      "risk": "Riesgo trombótico alto; observar eventos isquémicos",
+      "reintroduction": "Reanudar si hay hemorragia refractaria; monitoreo continuo"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Factor VIIa Recombinante",
+      "nomeComercial": "NovoSeven RT",
+      "mecanismoAcao": "Activa directamente al factor X, promoviendo formación de trombina",
+      "farmacocinetica": "t½ 2–3 h; IV",
+      "farmacodinamica": "Corrige coagulopatía en hemofilia con inhibidores o sangrado severo",
+      "indicacoes": "Hemofilia A/B con inhibidores, cirugía, trauma",
+      "reacoesAdversas": "Trombosis, fiebre, náusea, eventos vasculares",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Usar con vigilancia",
+      "administracao": "IV en bolo",
+      "doseMaxima": "90–120 mcg/kg c/2–3 h",
+      "doseMinima": "15–30 mcg/kg",
+      "classificacao": "Factor de coagulación recombinante",
+      "apresentacao": "1–5 mg + diluyente",
+      "interacaoMedicamento": "Evitar con antifibrinolíticos",
+      "posologia": "90 mcg/kg c/2–3 h hasta lograr hemostasia",
+      "armazenamento": "2–8 °C; usar en 3 h tras preparación",
+      "preparo": "Reconstituir suavemente; no agitar",
+      "solucoesCompatíveis": "Solo diluyente proporcionado",
+      "contraindicacoes": "IAM, ACV reciente, CID",
+      "cuidadosMedicos": "Monitorear PA, ECG, respuesta hemostática",
+      "cuidadosFarmaceuticos": "Cadena de frío, sin agitar",
+      "cuidadosEnfermagem": "Observar signos de trombosis, PA, perfusión",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, WFH"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "重组VIIa因子",
+      "suspension": "术前不应停用，用于严重出血控制或血友病",
+      "risk": "存在血栓形成风险；需要心电与凝血监测",
+      "reintroduction": "术后根据出血和凝血功能决定再输注"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "重组人凝血因子VIIa",
+      "nomeComercial": "NovoSeven RT",
+      "mecanismoAcao": "激活Xa跳过内源通路，直接启动凝血",
+      "farmacocinetica": "半衰期2–3小时，静注",
+      "farmacodinamica": "快速止血，用于凝血因子缺乏或抑制者",
+      "indicacoes": "A/B型血友病有抑制物，VII因子缺乏，术中急救",
+      "reacoesAdversas": "血栓、发热、过敏、心梗、脑梗",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "可用，需监控",
+      "administracao": "按体重静推，每2–3小时重复",
+      "doseMaxima": "90–120 mcg/kg，紧急270 mcg/kg",
+      "doseMinima": "15–30 mcg/kg",
+      "classificacao": "重组凝血因子VIIa",
+      "apresentacao": "1–5 mg冻干粉+稀释液",
+      "interacaoMedicamento": "避免与氨甲环酸合用",
+      "posologia": "90 mcg/kg每2–3小时直至止血",
+      "armazenamento": "2–8°C冷藏，重构后3小时内使用",
+      "preparo": "稀释后轻轻旋转，勿摇晃",
+      "solucoesCompatíveis": "仅限原装稀释液",
+      "contraindicacoes": "近期心脑血栓、弥散性血管内凝血",
+      "cuidadosMedicos": "监测凝血、心电图、临床止血效果",
+      "cuidadosFarmaceuticos": "冷链、单次使用、现配现用",
+      "cuidadosEnfermagem": "严密观察用药初期反应",
+      "fontesBibliograficas": "WFH、中国血液指南、UpToDate、Micromedex"
+    }
+  }
+}

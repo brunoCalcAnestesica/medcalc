@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Entacapona",
+      "suspension": "Suspender 3 dias antes da cirurgia eletiva se em monoterapia; manter se em uso combinado com levodopa",
+      "risk": "Risco de discinesia, hipotensão ortostática, interações com anestésicos e flutuação motora",
+      "reintroduction": "Reintroduzir conforme necessidade motora no pós-operatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Entacapona",
+      "nomeComercial": "Comtan; Stalevo (com levodopa + carbidopa)",
+      "mecanismoAcao": "Inibidor seletivo e reversível da COMT periférica, prolongando o efeito da levodopa",
+      "farmacocinetica": "Biodisponibilidade oral ~35%; meia-vida ~0,5 a 2 h; metabolização hepática",
+      "farmacodinamica": "Reduz metabolismo periférico da levodopa, melhorando tempo ON e reduzindo flutuações motoras",
+      "indicacoes": "Doença de Parkinson em pacientes com flutuações motoras em uso de levodopa",
+      "reacoesAdversas": "Urina alaranjada, diarreia, discinesias, hipotensão ortostática, insônia, confusão",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Não recomendado",
+      "administracao": "Via oral",
+      "doseMaxima": "2000 mg/dia (200 mg junto a até 10 doses de levodopa)",
+      "doseMinima": "200 mg/dose (até 4x/dia)",
+      "classificacao": "Antiparkinsoniano – inibidor da catecol-O-metiltransferase (COMT)",
+      "apresentacao": "Comprimidos de 200 mg; em associação com levodopa/carbidopa (Stalevo)",
+      "interacaoMedicamento": "Potencializa efeitos da levodopa; cuidado com IMAO não seletivos e antidepressivos tricíclicos",
+      "posologia": "200 mg VO junto com cada dose de levodopa (até 10x/dia)",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade, insuficiência hepática grave, feocromocitoma",
+      "cuidadosMedicos": "Monitorar PA, discinesias, comportamento, resposta motora",
+      "cuidadosFarmaceuticos": "Orientar uso com levodopa, coloração da urina e evitar interrupção abrupta",
+      "cuidadosEnfermagem": "Observar hipotensão, insônia, movimentos involuntários",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex, NCCN"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Entacapone",
+      "suspension": "Discontinue 3 days before surgery if monotherapy; maintain with levodopa",
+      "risk": "Risk of dyskinesia, orthostatic hypotension, anesthetic interaction, motor fluctuations",
+      "reintroduction": "Restart postoperatively based on motor needs"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Entacapone",
+      "nomeComercial": "Comtan; Stalevo",
+      "mecanismoAcao": "Selective, reversible peripheral COMT inhibitor that prolongs levodopa action",
+      "farmacocinetica": "Bioavailability ~35%; half-life ~0.5–2h; hepatic metabolism",
+      "farmacodinamica": "Reduces peripheral levodopa metabolism, enhancing motor control",
+      "indicacoes": "Parkinson’s disease with motor fluctuations on levodopa",
+      "reacoesAdversas": "Orange urine, diarrhea, dyskinesia, orthostatic hypotension, confusion, insomnia",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Not recommended",
+      "administracao": "Oral",
+      "doseMaxima": "2000 mg/day (200 mg with each levodopa dose)",
+      "doseMinima": "200 mg/dose (typically 4x/day)",
+      "classificacao": "Antiparkinsonian – COMT inhibitor",
+      "apresentacao": "Tablets: 200 mg; combo in Stalevo",
+      "interacaoMedicamento": "Increases levodopa effects; caution with non-selective MAOIs, TCAs",
+      "posologia": "200 mg with each levodopa dose, up to 10x/day",
+      "armazenamento": "Store at 15–30°C",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, severe hepatic impairment, pheochromocytoma",
+      "cuidadosMedicos": "Monitor BP, dyskinesia, behavior, motor response",
+      "cuidadosFarmaceuticos": "Educate on urine color, combination use, avoid abrupt discontinuation",
+      "cuidadosEnfermagem": "Observe for hypotension, involuntary movement, insomnia",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Entacapona",
+      "suspension": "Suspender 3 días antes de cirugía si en monoterapia; mantener con levodopa",
+      "risk": "Riesgo de discinesias, hipotensión, interacción con anestesia y fluctuaciones motoras",
+      "reintroduction": "Reintroducir tras recuperación motora postoperatoria"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Entacapona",
+      "nomeComercial": "Comtan; Stalevo",
+      "mecanismoAcao": "Inhibidor reversible periférico de la COMT, prolonga efecto de levodopa",
+      "farmacocinetica": "Biodisponibilidad ~35%; vida media 0,5–2h; metabolismo hepático",
+      "farmacodinamica": "Reduce metabolismo periférico de levodopa y mejora el control motor",
+      "indicacoes": "Enfermedad de Parkinson con fluctuaciones motoras",
+      "reacoesAdversas": "Orina anaranjada, diarrea, discinesias, hipotensión, insomnio, confusión",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Vía oral",
+      "doseMaxima": "2000 mg/día (200 mg con cada dosis de levodopa)",
+      "doseMinima": "200 mg por dosis (habitual 4x/día)",
+      "classificacao": "Antiparkinsoniano – inhibidor de la COMT",
+      "apresentacao": "Comprimidos 200 mg; en combinación (Stalevo)",
+      "interacaoMedicamento": "Aumenta efectos de levodopa; cuidado con IMAO no selectivos, antidepresivos tricíclicos",
+      "posologia": "200 mg con cada dosis de levodopa (hasta 10x/día)",
+      "armazenamento": "15–30°C",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Insuficiencia hepática grave, feocromocitoma, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear PA, respuesta motora, disquinesias",
+      "cuidadosFarmaceuticos": "Explicar color de orina, uso combinado y no suspender bruscamente",
+      "cuidadosEnfermagem": "Observar discinesias, hipotensión, insomnio",
+      "fontesBibliograficas": "EMA, FDA, ANMAT, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "恩他卡朋",
+      "suspension": "术前3天停药（单用）；与左旋多巴联用时继续使用",
+      "risk": "运动波动、低血压、麻醉相互作用和运动异常",
+      "reintroduction": "术后根据运动症状恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "恩他卡朋",
+      "nomeComercial": "Comtan；Stalevo（联合）",
+      "mecanismoAcao": "选择性可逆外周COMT抑制剂，延长左旋多巴作用",
+      "farmacocinetica": "口服生物利用度35%；半衰期0.5–2小时；肝脏代谢",
+      "farmacodinamica": "延缓左旋多巴降解，减少运动波动",
+      "indicacoes": "帕金森病合并运动波动患者",
+      "reacoesAdversas": "橙色尿、腹泻、运动障碍、体位性低血压、失眠、意识混乱",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "不推荐",
+      "administracao": "口服",
+      "doseMaxima": "每日2000毫克（每次200 mg与左旋多巴联用）",
+      "doseMinima": "每次200 mg，每日最多10次",
+      "classificacao": "抗帕金森药 – COMT抑制剂",
+      "apresentacao": "200 mg片剂，或与左旋多巴联合",
+      "interacaoMedicamento": "增强左旋多巴效应；慎用非选择性MAOI、三环类抗抑郁药",
+      "posologia": "每次200 mg，随左旋多巴服用",
+      "armazenamento": "15–30°C保存",
+      "preparo": "无需配制",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "重度肝功能不全、嗜铬细胞瘤、过敏",
+      "cuidadosMedicos": "监测血压、运动功能、异动症",
+      "cuidadosFarmaceuticos": "指导联合使用、尿液变色、避免突然停药",
+      "cuidadosEnfermagem": "观察低血压、异动、失眠表现",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex, NCCN"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Polivitamínicos gestacionais",
+      "suspension": "Não requer suspensão antes de cirurgia; manter conforme prescrição obstétrica",
+      "risk": "Baixo risco; excessos vitamínicos podem causar náuseas, constipação, elevação de enzimas hepáticas ou toxicidade (ex: vitamina A)",
+      "reintroduction": "Uso contínuo durante a gestação e puerpério conforme orientação médica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Associação de vitaminas e minerais (ex: ácido fólico, ferro, cálcio, vitamina D, B12, iodo, zinco)",
+      "nomeComercial": "Materna, Centrum Gestante, Natele, Gestamax, Gravidez +",
+      "mecanismoAcao": "Suplementação de micronutrientes essenciais para o desenvolvimento fetal e manutenção da saúde materna",
+      "farmacocinetica": "Absorção variável conforme nutriente; metabolismo hepático e excreção renal ou fecal",
+      "farmacodinamica": "Previne defeitos do tubo neural, anemia, osteopenia gestacional, distúrbios tireoidianos e outras deficiências materno-fetais",
+      "indicacoes": "Gravidez, lactação, pré-concepção",
+      "reacoesAdversas": "Náuseas, constipação, gosto metálico, escurecimento das fezes, cefaleia leve",
+      "riscoGravidez": "Categoria A (quando respeitadas as doses recomendadas)",
+      "riscoLactacao": "Seguro; recomendado",
+      "administracao": "Oral",
+      "doseMaxima": "Conforme composição: ex. ácido fólico ≤ 1 mg, ferro ≤ 60 mg, vitamina A ≤ 5000 UI/dia",
+      "doseMinima": "1 cápsula/comprimido ao dia",
+      "classificacao": "Suplemento vitamínico-mineral para gestação",
+      "apresentacao": "Cápsulas, comprimidos, tabletes mastigáveis",
+      "interacaoMedicamento": "Ferro pode interferir na absorção de levotiroxina, tetraciclinas, antiácidos",
+      "posologia": "1 comprimido ao dia com alimentos",
+      "armazenamento": "Temperatura ambiente, local seco e protegido da luz",
+      "preparo": "Uso direto; ingerir com líquido",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Hipervitaminoses, doenças hepáticas ativas, hipersensibilidade a componentes",
+      "cuidadosMedicos": "Monitorar níveis de ferro, vitamina D, função hepática se uso prolongado",
+      "cuidadosFarmaceuticos": "Orientar ingestão com alimentos e evitar uso concomitante de antiácidos com ferro",
+      "cuidadosEnfermagem": "Observar queixas gastrointestinais e adesão ao suplemento",
+      "fontesBibliograficas": "Micromedex, UpToDate, ANVISA, Guia de Pré-natal MS"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Prenatal multivitamins",
+      "suspension": "Do not suspend before surgery; continue as prescribed by obstetrics",
+      "risk": "Low; excessive doses may cause nausea, constipation, liver enzyme elevation, or vitamin A toxicity",
+      "reintroduction": "Continue throughout pregnancy and postpartum as indicated"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Combination of vitamins and minerals (e.g. folic acid, iron, calcium, vitamin D, B12, iodine, zinc)",
+      "nomeComercial": "Prenate, Elevit, One A Day Prenatal, Materna",
+      "mecanismoAcao": "Provides essential micronutrients for fetal development and maternal health",
+      "farmacocinetica": "Varies by nutrient; hepatic metabolism; renal/fecal excretion",
+      "farmacodinamica": "Prevents neural tube defects, anemia, bone loss, thyroid dysfunction, and other deficiencies",
+      "indicacoes": "Pregnancy, lactation, preconception",
+      "reacoesAdversas": "Nausea, constipation, metallic taste, dark stools, mild headache",
+      "riscoGravidez": "Category A (at recommended doses)",
+      "riscoLactacao": "Safe; recommended",
+      "administracao": "Oral",
+      "doseMaxima": "Folic acid ≤ 1 mg; iron ≤ 60 mg; vitamin A ≤ 5000 IU/day",
+      "doseMinima": "1 capsule/tablet daily",
+      "classificacao": "Prenatal vitamin-mineral supplement",
+      "apresentacao": "Capsules, tablets, chewables",
+      "interacaoMedicamento": "Iron may interfere with levothyroxine, tetracyclines, antacids",
+      "posologia": "1 tablet daily with food",
+      "armazenamento": "Room temperature, dry, dark place",
+      "preparo": "Direct use; take with fluid",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypervitaminosis, active liver disease, hypersensitivity",
+      "cuidadosMedicos": "Monitor iron, vitamin D, liver enzymes if prolonged use",
+      "cuidadosFarmaceuticos": "Advise on food intake and drug interaction with iron",
+      "cuidadosEnfermagem": "Check GI complaints and adherence",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, ACOG Guidelines"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Polivitamínicos prenatales",
+      "suspension": "No requiere suspensión antes de cirugía; mantener según prescripción obstétrica",
+      "risk": "Bajo; exceso puede causar náuseas, estreñimiento, toxicidad hepática o hipervitaminosis A",
+      "reintroduction": "Uso continuo durante embarazo y puerperio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vitaminas y minerales combinados (ácido fólico, hierro, calcio, vitamina D, B12, yodo, zinc)",
+      "nomeComercial": "Materna, Centrum Materna, Elevit, Gestavit",
+      "mecanismoAcao": "Suple micronutrientes esenciales para el desarrollo fetal y bienestar materno",
+      "farmacocinetica": "Absorción y metabolismo variable; eliminación renal o fecal",
+      "farmacodinamica": "Previene anemia, defectos del tubo neural, osteopenia, disfunción tiroidea",
+      "indicacoes": "Embarazo, lactancia, preparación para concepción",
+      "reacoesAdversas": "Náuseas, estreñimiento, sabor metálico, heces oscuras",
+      "riscoGravidez": "Categoría A (si se respeta la dosis recomendada)",
+      "riscoLactacao": "Seguro; recomendado",
+      "administracao": "Oral",
+      "doseMaxima": "Ácido fólico ≤ 1 mg; hierro ≤ 60 mg; vit A ≤ 5000 UI/día",
+      "doseMinima": "1 comprimido/día",
+      "classificacao": "Suplemento prenatal vitamínico-mineral",
+      "apresentacao": "Comprimidos, cápsulas, masticables",
+      "interacaoMedicamento": "Hierro reduce absorción de levotiroxina, tetraciclinas, antiácidos",
+      "posologia": "1 comprimido con comida/día",
+      "armazenamento": "Lugar seco, temperatura ambiente",
+      "preparo": "Ingesta directa con agua",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipervitaminosis, hepatopatía activa, alergia",
+      "cuidadosMedicos": "Monitorear hierro, vit D, función hepática si uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar antiácidos con hierro; orientar sobre administración con alimentos",
+      "cuidadosEnfermagem": "Observar efectos GI y adherencia",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, guía prenatal OMS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "孕妇复合维生素",
+      "suspension": "无需术前停用，可持续服用",
+      "risk": "过量可致恶心、便秘、肝酶升高、维生素A毒性",
+      "reintroduction": "按产科建议孕期和产后持续使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "多种维生素和矿物质（如叶酸、铁、钙、维D、B12、碘、锌）",
+      "nomeComercial": "Materna、Elevit、Pregnacare、复合孕期营养素",
+      "mecanismoAcao": "补充妊娠所需营养素，预防胎儿发育异常和母体缺乏",
+      "farmacocinetica": "不同成分吸收、代谢、排泄方式不同",
+      "farmacodinamica": "防止神经管缺陷、贫血、骨质流失、甲状腺异常等",
+      "indicacoes": "备孕期、妊娠期、哺乳期",
+      "reacoesAdversas": "恶心、便秘、金属味、大便发黑、轻微头痛",
+      "riscoGravidez": "A类（按推荐剂量）",
+      "riscoLactacao": "安全推荐",
+      "administracao": "口服",
+      "doseMaxima": "叶酸≤1 mg、铁≤60 mg、维A≤5000 IU/日",
+      "doseMinima": "每日1片",
+      "classificacao": "孕妇专用维生素矿物质补充剂",
+      "apresentacao": "胶囊、片剂、咀嚼片",
+      "interacaoMedicamento": "铁影响左甲状腺素、四环素、抗酸药吸收",
+      "posologia": "每日一次，餐后服用",
+      "armazenamento": "干燥阴凉处保存",
+      "preparo": "直接服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "维生素过量、肝病、过敏",
+      "cuidadosMedicos": "长期使用应监测铁、维D和肝功能",
+      "cuidadosFarmaceuticos": "提示与食物同服、注意药物相互作用",
+      "cuidadosEnfermagem": "观察胃肠不适、提升服药依从性",
+      "fontesBibliograficas": "Micromedex、中国药典、UpToDate、WHO孕期营养指南"
+    }
+  }
+}

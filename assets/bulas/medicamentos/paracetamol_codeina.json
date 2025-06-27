@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Paracetamol + Codeína",
+      "suspension": "Suspender 24 horas antes de cirurgias eletivas, principalmente se uso contínuo ou em doses elevadas.",
+      "risk": "Risco de depressão respiratória com opioide, constipação, hepatotoxicidade com paracetamol e interação com anestésicos e depressores do SNC.",
+      "reintroduction": "Reintroduzir 24–72h após cirurgia com função hepática e respiratória preservadas e monitoramento da dor."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paracetamol + Fosfato de codeína",
+      "nomeComercial": "Tylex, Codex, Algix, Paracodina",
+      "mecanismoAcao": "Paracetamol inibe prostaglandinas no SNC; codeína é pró-fármaco metabolizado em morfina (via CYP2D6), ativando receptores opioides μ.",
+      "farmacocinetica": "Paracetamol: pico em 30–60 min, meia-vida 2–3h; Codeína: pico em 1–2h, meia-vida 3–4h, metabolismo hepático.",
+      "farmacodinamica": "Efeito analgésico sinérgico. Paracetamol age centralmente; codeína reduz percepção da dor via vias opioides.",
+      "indicacoes": "Dor aguda moderada, cefaleia, lombalgia, dor musculoesquelética, pós-operatório.",
+      "reacoesAdversas": "Náusea, sonolência, constipação, depressão respiratória, dependência, tontura, hepatotoxicidade.",
+      "riscoGravidez": "Categoria C (1º e 2º trimestres), D (3º trimestre – risco respiratório neonatal).",
+      "riscoLactacao": "Evitar uso crônico; risco de toxicidade em lactentes ultrametabolizadores de CYP2D6.",
+      "administracao": "Via oral.",
+      "doseMaxima": "Paracetamol: 4.000 mg/dia; Codeína: 240 mg/dia.",
+      "doseMinima": "Paracetamol 300–500 mg + Codeína 15–30 mg por dose.",
+      "classificacao": "Analgésico não opioide + Opioide fraco.",
+      "apresentacao": "Comprimidos: 500 mg + 30 mg; 300 mg + 15 mg; cápsulas e gotas.",
+      "interacaoMedicamento": "Depressores do SNC, álcool, inibidores de CYP2D6, anticoagulantes, anticolinérgicos.",
+      "posologia": "1 comprimido a cada 6 horas se necessário; máximo 8 comprimidos por dia.",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz.",
+      "preparo": "Não requer preparo especial.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Depressão respiratória, asma grave, insuficiência hepática, uso recente de IMAO, hipersensibilidade.",
+      "cuidadosMedicos": "Avaliar função hepática e risco de abuso. Monitorar sedação e frequência respiratória.",
+      "cuidadosFarmaceuticos": "Evitar superdosagem de paracetamol; checar interações com CYP2D6.",
+      "cuidadosEnfermagem": "Orientar uso com alimento; observar sinais de sonolência excessiva ou desconforto abdominal.",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate, BNF, Ficha Técnica Tylex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Acetaminophen + Codeine",
+      "suspension": "Discontinue 24 hours before elective surgery, especially with chronic use.",
+      "risk": "Respiratory depression, constipation, hepatotoxicity from acetaminophen, CYP2D6 variability, interactions with anesthetics.",
+      "reintroduction": "Reintroduce 24–72h post-op if liver and respiratory function are stable and pain is present."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetaminophen + Codeine phosphate",
+      "nomeComercial": "Tylenol #3/#4, Codrix, Capital with Codeine",
+      "mecanismoAcao": "Acetaminophen inhibits CNS prostaglandin synthesis; codeine is metabolized into morphine (via CYP2D6), activating μ-opioid receptors.",
+      "farmacocinetica": "Acetaminophen: Tmax 30–60 min, t½ 2–3h; Codeine: Tmax 1–2h, t½ 3–4h; hepatic metabolism.",
+      "farmacodinamica": "Synergistic analgesia: non-opioid + weak opioid; reduces nociceptive transmission and perception of pain.",
+      "indicacoes": "Moderate acute pain, post-op pain, headache, back pain, dental pain.",
+      "reacoesAdversas": "Nausea, sedation, constipation, respiratory depression, dependence, hepatotoxicity, dizziness.",
+      "riscoGravidez": "Category C/D (3rd trimester); neonatal withdrawal or respiratory depression risk.",
+      "riscoLactacao": "Avoid chronic use; CYP2D6 ultrarapid metabolizers risk infant opioid toxicity.",
+      "administracao": "Oral.",
+      "doseMaxima": "Acetaminophen: 4,000 mg/day; Codeine: 240 mg/day.",
+      "doseMinima": "300–500 mg APAP + 15–30 mg Codeine per dose.",
+      "classificacao": "Non-opioid analgesic + weak opioid.",
+      "apresentacao": "Tablets: 300 mg + 15/30/60 mg; syrup.",
+      "interacaoMedicamento": "CNS depressants, alcohol, CYP2D6 inhibitors, MAOIs, anticoagulants.",
+      "posologia": "1 tablet every 6h PRN; max 8 tablets/day.",
+      "armazenamento": "Store at 15–30°C, dry and dark place.",
+      "preparo": "No preparation required.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Respiratory depression, severe asthma, liver failure, MAOI use, hypersensitivity.",
+      "cuidadosMedicos": "Monitor liver enzymes, sedation, respiratory rate, abuse potential.",
+      "cuidadosFarmaceuticos": "Avoid acetaminophen overdose; review CYP2D6 status if concern for toxicity.",
+      "cuidadosEnfermagem": "Administer with food; observe sedation, GI symptoms.",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Tylenol with Codeine label"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Paracetamol + Codeína",
+      "suspension": "Suspender 24 h antes de cirugía electiva si uso crónico o dosis altas.",
+      "risk": "Riesgo de depresión respiratoria, toxicidad hepática por paracetamol, variabilidad CYP2D6, interacción con anestésicos.",
+      "reintroduction": "Reintroducir 24–72h tras cirugía si función hepática y ventilatoria normales."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paracetamol + Fosfato de codeína",
+      "nomeComercial": "Tylex, Codipront, Paracodina, Algidol",
+      "mecanismoAcao": "Paracetamol bloquea prostaglandinas centrales; codeína se transforma en morfina vía CYP2D6, activando receptores opioides.",
+      "farmacocinetica": "Paracetamol: Tmax 30–60 min, t½ 2–3h; Codeína: Tmax 1–2h, t½ 3–4h.",
+      "farmacodinamica": "Analgésico sinérgico: inhibe percepción y modula respuesta nociceptiva.",
+      "indicacoes": "Dolor agudo moderado, cefalea, dolor posoperatorio, dolor dental.",
+      "reacoesAdversas": "Somnolencia, náusea, estreñimiento, depresión respiratoria, hepatotoxicidad, dependencia.",
+      "riscoGravidez": "Categoría C/D (3º trimestre).",
+      "riscoLactacao": "Evitar en metabolizadores ultrarrápidos CYP2D6.",
+      "administracao": "Vía oral.",
+      "doseMaxima": "Paracetamol: 4.000 mg/día; Codeína: 240 mg/día.",
+      "doseMinima": "300–500 mg + 15–30 mg.",
+      "classificacao": "Analgésico no opioide + opioide débil.",
+      "apresentacao": "Comprimidos, gotas, jarabe.",
+      "interacaoMedicamento": "Alcohol, depresores SNC, CYP2D6, anticoagulantes, IMAO.",
+      "posologia": "1 c/6h; máx 8 comprimidos/día.",
+      "armazenamento": "15–30°C, protegido.",
+      "preparo": "No requiere preparación.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Asma grave, depresión respiratoria, hepatopatía, IMAO recientes.",
+      "cuidadosMedicos": "Control hepático, sedación, ventilación.",
+      "cuidadosFarmaceuticos": "Evitar sobredosis paracetamol; CYP2D6.",
+      "cuidadosEnfermagem": "Administrar con alimentos; vigilar somnolencia.",
+      "fontesBibliograficas": "AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "对乙酰氨基酚+可待因（Paracetamol + Codeine）",
+      "suspension": "择期手术前24小时停药，尤其是长期使用者。",
+      "risk": "可能出现呼吸抑制、肝毒性、CYP2D6代谢差异与术中麻醉交互。",
+      "reintroduction": "术后24–72小时在肝功能及呼吸功能稳定后重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "对乙酰氨基酚 + 可待因",
+      "nomeComercial": "Tylex、复方扑热息痛、Algidol",
+      "mecanismoAcao": "对乙酰氨基酚抑制中枢PGE合成；可待因经CYP2D6转化为吗啡，激活阿片μ受体。",
+      "farmacocinetica": "对乙酰氨基酚Tmax 30–60分钟，t½约2–3小时；可待因Tmax 1–2小时，t½约3–4小时。",
+      "farmacodinamica": "镇痛协同作用，非阿片与弱阿片联合增强中枢镇痛。",
+      "indicacoes": "中度急性疼痛、术后疼痛、头痛、牙痛。",
+      "reacoesAdversas": "嗜睡、恶心、便秘、呼吸抑制、肝毒性、成瘾性。",
+      "riscoGravidez": "C/D类（孕晚期禁用）。",
+      "riscoLactacao": "CYP2D6超代谢者乳儿风险↑，慎用。",
+      "administracao": "口服。",
+      "doseMaxima": "对乙酰氨基酚4g/天；可待因240mg/天。",
+      "doseMinima": "每次300–500mg + 15–30mg。",
+      "classificacao": "非阿片+弱阿片镇痛药。",
+      "apresentacao": "片剂、胶囊、口服液。",
+      "interacaoMedicamento": "CYP2D6抑制剂、酒精、麻醉剂、抗凝剂。",
+      "posologia": "每6小时一次，最多8次/天。",
+      "armazenamento": "15–30°C干燥避光。",
+      "preparo": "无需配制。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "严重哮喘、呼吸抑制、肝衰、近期MAOI使用。",
+      "cuidadosMedicos": "监测肝酶、镇静与呼吸；评估滥用风险。",
+      "cuidadosFarmaceuticos": "防止APAP超量，留意CYP2D6代谢。",
+      "cuidadosEnfermagem": "进食后服用；监测嗜睡、胃不适。",
+      "fontesBibliograficas": "中国药典、UpToDate、Micromedex"
+    }
+  }
+}

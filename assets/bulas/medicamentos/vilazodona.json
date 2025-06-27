@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vilazodona",
+      "suspension": "Suspender 5 dias antes da cirurgia eletiva",
+      "risk": "Risco de síndrome serotoninérgica com opioides e anestésicos; pode causar diarreia, tontura e prolongamento do intervalo QT",
+      "reintroduction": "Reintroduzir após 48–72h com paciente estável, vigil e sem uso concomitante de serotonérgicos ou tramadol"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vilazodona",
+      "nomeComercial": "Viibryd",
+      "mecanismoAcao": "Inibidor seletivo da recaptação de serotonina (ISRS) e agonista parcial do receptor 5-HT1A",
+      "farmacocinetica": "Biodisponibilidade ~72% com alimentos, metabolização hepática via CYP3A4, meia-vida ~25h",
+      "farmacodinamica": "Antidepressivo multimodal com potencial ansiolítico, baixo risco de disfunção sexual e efeito mais rápido que ISRS tradicionais",
+      "indicacoes": "Transtorno depressivo maior (TDM); investigado em transtorno de ansiedade generalizada (TAG)",
+      "reacoesAdversas": "Diarreia, náusea, tontura, sonolência, boca seca, cefaleia, disfunção erétil (baixa incidência)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Excreção desconhecida; usar com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "40mg/dia",
+      "doseMinima": "10mg/dia",
+      "classificacao": "Modulador serotoninérgico (ISRS + agonista 5-HT1A)",
+      "apresentacao": "Comprimidos revestidos de 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Interage com IMAOs, triptanos, tramadol, anticoagulantes e outros ISRS/IRSN",
+      "posologia": "Iniciar com 10mg/dia por 7 dias, depois 20mg/dia por 7 dias, e então 40mg/dia conforme tolerância",
+      "armazenamento": "Conservar entre 15–30°C, protegido da umidade",
+      "preparo": "Administrar com alimentos para otimizar absorção e reduzir náuseas",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Uso com IMAO, hipersensibilidade, histórico de convulsões não controladas",
+      "cuidadosMedicos": "Monitorar sintomas de síndrome serotoninérgica, ECG e função hepática",
+      "cuidadosFarmaceuticos": "Orientar sobre escalonamento de dose e evitar uso com serotonérgicos ou álcool",
+      "cuidadosEnfermagem": "Observar PA, humor, sedação e efeitos gastrointestinais",
+      "fontesBibliograficas": "FDA, Micromedex, ANVISA, EMA, NICE"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vilazodone",
+      "suspension": "Discontinue 5 days prior to elective surgery",
+      "risk": "Risk of serotonin syndrome with opioids and anesthetics; may cause dizziness, diarrhea, QT prolongation",
+      "reintroduction": "Restart after 48–72h if patient is stable and off serotonergic agents or tramadol"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vilazodone Hydrochloride",
+      "nomeComercial": "Viibryd",
+      "mecanismoAcao": "Selective serotonin reuptake inhibitor (SSRI) and 5-HT1A partial agonist",
+      "farmacocinetica": "Oral bioavailability ~72% with food, hepatic metabolism via CYP3A4, half-life ~25h",
+      "farmacodinamica": "Multimodal antidepressant with fast onset, anxiolytic potential, and low sexual side effects",
+      "indicacoes": "Major depressive disorder (MDD), being studied for generalized anxiety disorder (GAD)",
+      "reacoesAdversas": "Diarrhea, nausea, dizziness, drowsiness, dry mouth, headache, low risk of sexual dysfunction",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown if excreted in breast milk; use with caution",
+      "administracao": "Oral route",
+      "doseMaxima": "40mg/day",
+      "doseMinima": "10mg/day",
+      "classificacao": "Serotonergic modulator (SSRI + 5-HT1A partial agonist)",
+      "apresentacao": "Tablets: 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Interacts with MAOIs, SSRIs, SNRIs, triptans, tramadol, anticoagulants",
+      "posologia": "Initiate at 10mg/day (7 days), then 20mg/day (7 days), then 40mg/day as tolerated",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "Take with food to improve absorption and reduce nausea",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Concurrent MAOI use, uncontrolled seizure disorder, hypersensitivity",
+      "cuidadosMedicos": "Monitor for serotonin syndrome, ECG changes, hepatic function",
+      "cuidadosFarmaceuticos": "Ensure titration schedule is followed; avoid abrupt discontinuation",
+      "cuidadosEnfermagem": "Observe GI symptoms, mood changes, and sedation",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, APA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vilazodona",
+      "suspension": "Suspender 5 días antes de cirugía electiva",
+      "risk": "Riesgo de síndrome serotoninérgico, mareos, diarrea e interacción con opioides y anestésicos",
+      "reintroduction": "Reintroducir tras 48–72h con paciente clínicamente estable y sin medicamentos serotoninérgicos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vilazodona",
+      "nomeComercial": "Viibryd",
+      "mecanismoAcao": "ISRS y agonista parcial 5-HT1A",
+      "farmacocinetica": "Biodisponibilidad ~72% con alimentos, metabolismo hepático (CYP3A4), vida media ~25h",
+      "farmacodinamica": "Antidepresivo multimodal con inicio rápido y bajo riesgo de efectos sexuales adversos",
+      "indicacoes": "Trastorno depresivo mayor; en investigación para trastorno de ansiedad generalizada",
+      "reacoesAdversas": "Diarrea, náuseas, somnolencia, boca seca, mareos, cefalea",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Excreción desconocida; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "40mg/día",
+      "doseMinima": "10mg/día",
+      "classificacao": "Modulador serotoninérgico (ISRS + 5-HT1A)",
+      "apresentacao": "Tabletas: 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Interacciones con IMAO, ISRS, IRSN, tramadol, triptanos, anticoagulantes",
+      "posologia": "10mg/día por 7 días, luego 20mg/día, aumentar a 40mg/día según tolerancia",
+      "armazenamento": "15–30°C, protegido de la humedad",
+      "preparo": "Administrar con alimentos para mejor absorción",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Uso con IMAO, epilepsia no controlada, hipersensibilidad",
+      "cuidadosMedicos": "Monitorear ECG, signos serotoninérgicos y función hepática",
+      "cuidadosFarmaceuticos": "Evitar interrupción abrupta y uso conjunto con otros serotoninérgicos",
+      "cuidadosEnfermagem": "Observar síntomas GI, sedación, cambios de humor",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, NICE"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "维拉佐酮",
+      "suspension": "术前5天停药",
+      "risk": "可能引发血清素综合征、QT延长、头晕、腹泻，与麻醉药和阿片类联用时需警惕",
+      "reintroduction": "术后48–72小时患者稳定、未用血清素能药物时可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸维拉佐酮",
+      "nomeComercial": "Viibryd",
+      "mecanismoAcao": "选择性5-羟色胺再摄取抑制剂（SSRI）和5-HT1A部分激动剂",
+      "farmacocinetica": "口服生物利用度约72%（需随餐），CYP3A4代谢，半衰期约25小时",
+      "farmacodinamica": "多模式抗抑郁药，起效快，性副作用少，焦虑改善效果佳",
+      "indicacoes": "重度抑郁症（MDD），研究中应用于广泛性焦虑障碍",
+      "reacoesAdversas": "腹泻、恶心、嗜睡、头晕、口干、性功能障碍发生率低",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "是否分泌入乳未知，使用需谨慎",
+      "administracao": "口服",
+      "doseMaxima": "每日40毫克",
+      "doseMinima": "每日10毫克",
+      "classificacao": "5-羟色胺再摄取抑制剂 + 5-HT1A受体激动剂",
+      "apresentacao": "片剂：10mg、20mg、40mg",
+      "interacaoMedicamento": "与MAOI、ISRS、SNRIs、曲马多、曲坦类、抗凝剂有相互作用",
+      "posologia": "起始10mg/日，1周后增至20mg，再逐渐增加至40mg",
+      "armazenamento": "15–30°C，防潮避光保存",
+      "preparo": "需随餐服用以增强吸收和减少恶心",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "与MAOI合用、癫痫病史、过敏史",
+      "cuidadosMedicos": "监测心电图、血清素反应、肝功能与情绪状态",
+      "cuidadosFarmaceuticos": "严格执行剂量递增，避免突然停药",
+      "cuidadosEnfermagem": "观察胃肠道反应、镇静情况和精神变化",
+      "fontesBibliograficas": "NMPA, FDA, WHO, Micromedex"
+    }
+  }
+}

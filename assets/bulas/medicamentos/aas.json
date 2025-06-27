@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "AAS",
+      "reintroduction": "Reintroduzir 24 a 72h após a cirurgia, conforme controle hemostático e risco cardiovascular",
+      "risk": "Risco de sangramento intraoperatório aumentado; manutenção pode ser benéfica em pacientes com stent ou alto risco trombótico",
+      "suspension": "Suspender 7 dias antes da cirurgia eletiva, exceto em casos de risco cardiovascular elevado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido acetilsalicílico",
+      "nomeComercial": "AAS, Aspirina, Melhoral, Bufferin",
+      "mecanismoAcao": "Inibe irreversivelmente a enzima ciclooxigenase-1 (COX-1), bloqueando a síntese de tromboxano A2",
+      "farmacocinetica": "Absorção rápida oral, metabolizado no fígado, meia-vida curta mas efeito antiplaquetário prolongado (7-10 dias)",
+      "farmacodinamica": "Inibe agregação plaquetária e possui efeitos analgésico, antipirético e anti-inflamatório",
+      "indicacoes": "Prevenção de eventos cardiovasculares, síndromes coronarianas agudas, AVC isquêmico, dor leve a moderada",
+      "reacoesAdversas": "Dispepsia, sangramento gastrointestinal, broncoespasmo, púrpura trombocitopênica",
+      "riscoGravidez": "Categoria D (terceiro trimestre)",
+      "riscoLactacao": "Excretado no leite em pequenas quantidades; uso com cautela",
+      "administracao": "Via oral",
+      "doseMaxima": "4g/dia (efeito analgésico); 100–300mg/dia (efeito antiplaquetário)",
+      "doseMinima": "75mg/dia",
+      "classificacao": "Antiagregante plaquetário e AINE",
+      "apresentacao": "Comprimidos de 100mg, 300mg, 500mg",
+      "interacaoMedicamento": "Potencializa efeitos de anticoagulantes, AINEs, metotrexato e hipoglicemiantes",
+      "posologia": "Dose única diária; ajustar conforme indicação clínica",
+      "armazenamento": "Temperatura ambiente, proteger da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Úlcera péptica ativa, diátese hemorrágica, asma induzida por AINEs, insuficiência renal/hepática grave",
+      "cuidadosMedicos": "Avaliar risco trombótico versus hemorrágico no perioperatório",
+      "cuidadosFarmaceuticos": "Orientar sobre sinais de sangramento e interações medicamentosas",
+      "cuidadosEnfermagem": "Observar sangramentos, sinais vitais e eventos adversos",
+      "fontesBibliograficas": "SBHCI, SBRAFH, FDA, Micromedex, ANVISA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Aspirin",
+      "suspension": "Discontinue 7 days before elective surgery unless high cardiovascular risk",
+      "risk": "Increased intraoperative bleeding; continuation may reduce thrombotic risk in stent or stroke patients",
+      "reintroduction": "Restart 24–72h after surgery, depending on bleeding control and cardiovascular risk"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetylsalicylic acid",
+      "nomeComercial": "Aspirin, Ecotrin, Bufferin, Bayer",
+      "mecanismoAcao": "Irreversibly inhibits COX-1, blocking thromboxane A2 synthesis",
+      "farmacocinetica": "Rapid oral absorption, hepatic metabolism, short plasma half-life but long platelet inhibition (7–10 days)",
+      "farmacodinamica": "Antiplatelet effect, analgesic, antipyretic and anti-inflammatory actions",
+      "indicacoes": "Cardiovascular prevention, acute coronary syndromes, ischemic stroke, mild/moderate pain",
+      "reacoesAdversas": "GI bleeding, dyspepsia, bronchospasm, thrombocytopenia",
+      "riscoGravidez": "Category D (3rd trimester)",
+      "riscoLactacao": "Excreted in breast milk in small amounts; use with caution",
+      "administracao": "Oral",
+      "doseMaxima": "4g/day (analgesic); 100–300mg/day (antiplatelet)",
+      "doseMinima": "75mg/day",
+      "classificacao": "Antiplatelet agent and NSAID",
+      "apresentacao": "Tablets: 100mg, 300mg, 500mg",
+      "interacaoMedicamento": "Enhances effects of anticoagulants, NSAIDs, methotrexate, hypoglycemics",
+      "posologia": "Single daily dose; adjust based on indication",
+      "armazenamento": "Store at room temperature, protect from moisture",
+      "preparo": "No special preparation",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active peptic ulcer, bleeding disorders, NSAID-induced asthma, severe hepatic/renal failure",
+      "cuidadosMedicos": "Balance thrombotic and hemorrhagic risk perioperatively",
+      "cuidadosFarmaceuticos": "Educate on bleeding signs and drug interactions",
+      "cuidadosEnfermagem": "Monitor for bleeding and vital signs",
+      "fontesBibliograficas": "FDA, ACC/AHA, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "AAS",
+      "suspension": "Suspender 7 días antes de cirugía electiva salvo alto riesgo cardiovascular",
+      "risk": "Mayor riesgo de sangrado intraoperatorio; mantener en pacientes con stents o alto riesgo trombótico",
+      "reintroduction": "Reintroducir 24–72h después de cirugía según control hemostático"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ácido acetilsalicílico",
+      "nomeComercial": "Aspirina, Tromalyt, CardioAspirina",
+      "mecanismoAcao": "Inhibición irreversible de COX-1, bloquea la síntesis de tromboxano A2",
+      "farmacocinetica": "Absorción rápida oral, metabolismo hepático, efecto plaquetario dura 7–10 días",
+      "farmacodinamica": "Antiplaquetario, analgésico, antipirético y antiinflamatorio",
+      "indicacoes": "Prevención cardiovascular, síndromes coronarios, ictus, dolor leve/moderado",
+      "reacoesAdversas": "Gastrointestinales, hemorragias, broncoespasmo",
+      "riscoGravidez": "Categoría D (tercer trimestre)",
+      "riscoLactacao": "Se excreta en leche materna; usar con precaución",
+      "administracao": "Vía oral",
+      "doseMaxima": "4g/día (analgésico); 100–300mg/día (antiplaquetario)",
+      "doseMinima": "75mg/día",
+      "classificacao": "Antiplaquetario y AINE",
+      "apresentacao": "Comprimidos: 100mg, 300mg, 500mg",
+      "interacaoMedicamento": "Aumenta efecto de anticoagulantes, AINEs, hipoglucemiantes",
+      "posologia": "Una toma diaria; ajustar según indicación",
+      "armazenamento": "Ambiente seco y fresco",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Úlcera activa, hemofilia, asma por AINEs, insuficiencia hepática/renal grave",
+      "cuidadosMedicos": "Evaluar riesgo trombótico vs hemorrágico",
+      "cuidadosFarmaceuticos": "Educar sobre sangrados e interacciones",
+      "cuidadosEnfermagem": "Vigilar sangrado y signos vitales",
+      "fontesBibliograficas": "Micromedex, AHA, FDA"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "阿司匹林",
+      "suspension": "择期手术前7天停药，除非心血管风险高",
+      "risk": "增加术中出血风险；若为心血管高风险患者，建议维持使用",
+      "reintroduction": "术后24–72小时根据止血情况恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乙酰水杨酸",
+      "nomeComercial": "拜阿司匹林（Bayer Aspirin）",
+      "mecanismoAcao": "不可逆抑制COX-1，阻断血栓素A2合成，抑制血小板聚集",
+      "farmacocinetica": "口服吸收快，肝脏代谢，血浆半衰期短但抗血小板作用持续7–10天",
+      "farmacodinamica": "抗血小板、解热镇痛、抗炎",
+      "indicacoes": "心血管预防、冠心病、脑梗塞、轻中度疼痛",
+      "reacoesAdversas": "胃肠道反应、出血、支气管痉挛",
+      "riscoGravidez": "D类（妊娠晚期禁用）",
+      "riscoLactacao": "可分泌至乳汁中，慎用",
+      "administracao": "口服",
+      "doseMaxima": "每日4克（止痛）；每日100–300毫克（抗血小板）",
+      "doseMinima": "每日75毫克",
+      "classificacao": "抗血小板药、NSAIDs",
+      "apresentacao": "片剂：100mg、300mg、500mg",
+      "interacaoMedicamento": "增强抗凝药、NSAIDs、甲氨蝶呤、降糖药作用",
+      "posologia": "每日一次，根据病情调整剂量",
+      "armazenamento": "常温干燥处保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性胃溃疡、出血倾向、NSAIDs过敏、严重肝肾功能不全",
+      "cuidadosMedicos": "术前评估血栓与出血风险",
+      "cuidadosFarmaceuticos": "警惕出血征象及药物相互作用",
+      "cuidadosEnfermagem": "监测出血及生命体征",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

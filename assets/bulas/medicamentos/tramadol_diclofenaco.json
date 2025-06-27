@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Tramadol + Diclofenaco Lisinato",
+      "suspension": "Suspender 48 horas antes de procedimentos cirúrgicos eletivos.",
+      "risk": "Risco combinado de depressão respiratória (tramadol), toxicidade renal e sangramento (diclofenaco). Potencial interação com anestésicos, opioides, anticoagulantes e AINEs.",
+      "reintroduction": "Reintroduzir após 48–72h da cirurgia, com função renal e hemodinâmica estáveis, e ausência de sangramento ativo."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Cloridrato de Tramadol + Diclofenaco Lisinato",
+      "nomeComercial": "Tandrilax, Bioflu, Flotac, Dorless D",
+      "mecanismoAcao": "Tramadol: agonista parcial dos receptores µ-opioides e inibidor da recaptação de serotonina/noradrenalina. Diclofenaco: inibidor não seletivo da COX-1 e COX-2.",
+      "farmacocinetica": "Tramadol: meia-vida de 5–6h; metabolizado por CYP2D6 e CYP3A4. Diclofenaco lisinato: forma solúvel, início rápido; meia-vida ~2h.",
+      "farmacodinamica": "Ação analgésica central (tramadol) e periférica anti-inflamatória (diclofenaco). Efeito sinérgico na dor aguda moderada a intensa.",
+      "indicacoes": "Dor musculoesquelética, lombalgia, dor pós-operatória, artralgias, mialgias, dismenorreia, cefaleia tensional.",
+      "reacoesAdversas": "Náusea, sonolência, tontura, constipação, dispepsia, hepatotoxicidade, reações alérgicas, retenção urinária, risco de convulsões com tramadol.",
+      "riscoGravidez": "Categoria C (1º/2º trimestres), D (3º trimestre).",
+      "riscoLactacao": "Evitar uso prolongado durante amamentação. Tramadol é excretado no leite.",
+      "administracao": "Oral ou intramuscular.",
+      "doseMaxima": "Tramadol: 400 mg/dia. Diclofenaco: 150 mg/dia.",
+      "doseMinima": "Tramadol: 50 mg/dose. Diclofenaco: 50 mg/dose.",
+      "classificacao": "Analgésico opioide fraco + AINE não seletivo.",
+      "apresentacao": "Comprimidos, cápsulas, solução oral, ampola IM (ex: 50 mg tramadol + 75 mg diclofenaco).",
+      "interacaoMedicamento": "Interage com ISRS, IMAO, AINEs, anticoagulantes, sedativos, carbamazepina, lítio.",
+      "posologia": "1 a 2 comprimidos 8/8h, conforme intensidade da dor. IM: 1 ampola até 2x/dia.",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz.",
+      "preparo": "IM: aplicar profundamente no músculo glúteo.",
+      "solucoesCompatíveis": "Não aplicável para formulação IM pronta.",
+      "contraindicacoes": "Hipersensibilidade a opioides ou AINEs, insuficiência hepática ou renal grave, convulsões, gravidez 3º trimestre.",
+      "cuidadosMedicos": "Avaliar risco de sangramento, sedação excessiva, depressão respiratória e toxicidade renal/hepática.",
+      "cuidadosFarmaceuticos": "Monitorar duplicidade terapêutica com outros AINEs ou opioides. Evitar em idosos frágeis.",
+      "cuidadosEnfermagem": "Observar sedação, náuseas, sinais de depressão respiratória e sintomas GI após administração.",
+      "fontesBibliograficas": "ANVISA, Micromedex, UpToDate, BNF, fichas técnicas nacionais"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Tramadol + Diclofenac Lysinate",
+      "suspension": "Discontinue 48 hours before elective surgical procedures.",
+      "risk": "Combined risk of respiratory depression (tramadol), renal toxicity, and GI bleeding (diclofenac). Potential interactions with anesthetics, opioids, anticoagulants, and NSAIDs.",
+      "reintroduction": "Reintroduce 48–72h after surgery once renal and hemodynamic stability is confirmed, and no active bleeding is present."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Tramadol hydrochloride + Diclofenac lysinate",
+      "nomeComercial": "Tandrilax, Dorless D, Flotac, Bioflu (regional brands)",
+      "mecanismoAcao": "Tramadol: µ-opioid receptor agonist and serotonin/norepinephrine reuptake inhibitor. Diclofenac: non-selective COX inhibitor.",
+      "farmacocinetica": "Tramadol: half-life ~5–6h; metabolized by CYP2D6/3A4. Diclofenac lysinate: soluble form with fast onset; half-life ~2h.",
+      "farmacodinamica": "Central analgesia (tramadol) plus peripheral anti-inflammatory action (diclofenac). Synergistic in acute pain control.",
+      "indicacoes": "Musculoskeletal pain, postoperative pain, low back pain, arthralgia, myalgia, dysmenorrhea, tension headache.",
+      "reacoesAdversas": "Nausea, dizziness, somnolence, GI upset, constipation, allergic reactions, hepatotoxicity, urinary retention, seizure risk (tramadol).",
+      "riscoGravidez": "Category C (1st/2nd trimester), D (3rd trimester).",
+      "riscoLactacao": "Avoid prolonged use during breastfeeding. Tramadol is excreted in milk.",
+      "administracao": "Oral or intramuscular.",
+      "doseMaxima": "Tramadol: 400 mg/day; Diclofenac: 150 mg/day.",
+      "doseMinima": "Tramadol: 50 mg/dose; Diclofenac: 50 mg/dose.",
+      "classificacao": "Weak opioid + non-selective NSAID.",
+      "apresentacao": "Tablets, capsules, oral solution, IM injection (e.g., 50 mg tramadol + 75 mg diclofenac).",
+      "interacaoMedicamento": "Interacts with SSRIs, MAOIs, NSAIDs, anticoagulants, sedatives, carbamazepine, lithium.",
+      "posologia": "1–2 tablets every 8h; IM: 1 ampoule up to 2x/day.",
+      "armazenamento": "Store at 15–30°C, away from light.",
+      "preparo": "IM injection must be deep intragluteal.",
+      "solucoesCompatíveis": "Not applicable for pre-mixed IM form.",
+      "contraindicacoes": "Allergy to opioids or NSAIDs, severe renal/hepatic failure, seizure disorders, 3rd trimester pregnancy.",
+      "cuidadosMedicos": "Monitor sedation, bleeding, renal/hepatic toxicity, respiratory depression.",
+      "cuidadosFarmaceuticos": "Avoid duplication with other NSAIDs/opioids. Caution in frail elderly.",
+      "cuidadosEnfermagem": "Observe for sedation, nausea, GI discomfort, and allergic signs post-dose.",
+      "fontesBibliograficas": "Micromedex, UpToDate, DrugBank, product inserts"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Tramadol + Diclofenaco Lisina",
+      "suspension": "Suspender 48 horas antes de cirugía electiva.",
+      "risk": "Riesgo combinado de depresión respiratoria (tramadol), toxicidad renal y sangrado digestivo (diclofenaco). Posible interacción con anestésicos, opioides y anticoagulantes.",
+      "reintroduction": "Reintroducir 48–72 h después de cirugía si hay estabilidad renal y hemodinámica sin sangrado activo."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de tramadol + lisinato de diclofenaco",
+      "nomeComercial": "Tandrilax, Bioflu, Dorless D",
+      "mecanismoAcao": "Tramadol: agonista µ-opioide e inhibidor de recaptación de serotonina/noradrenalina. Diclofenaco: AINE no selectivo.",
+      "farmacocinetica": "Tramadol: vida media ~5–6h; metabolizado por CYP2D6 y 3A4. Diclofenaco lisina: inicio rápido; vida media ~2h.",
+      "farmacodinamica": "Analgesia central + acción antiinflamatoria periférica. Sinergia en dolor agudo.",
+      "indicacoes": "Dolor musculoesquelético, postoperatorio, lumbalgia, artralgias, dismenorrea, cefalea tensional.",
+      "reacoesAdversas": "Náuseas, somnolencia, vértigo, estreñimiento, dispepsia, hepatotoxicidad, urticaria, retención urinaria, convulsiones.",
+      "riscoGravidez": "Categoría C (1º/2º trimestre), D (3º trimestre).",
+      "riscoLactacao": "Evitar uso prolongado. Tramadol se excreta en leche materna.",
+      "administracao": "Oral o intramuscular.",
+      "doseMaxima": "Tramadol: 400 mg/día; Diclofenaco: 150 mg/día.",
+      "doseMinima": "Tramadol: 50 mg; Diclofenaco: 50 mg.",
+      "classificacao": "Opioide débil + AINE no selectivo.",
+      "apresentacao": "Comprimidos, solución oral, ampolla IM combinada.",
+      "interacaoMedicamento": "Interacción con ISRS, IMAO, AINEs, anticoagulantes, carbamazepina, litio.",
+      "posologia": "1–2 comprimidos cada 8h. IM: 1 ampolla hasta 2 veces/día.",
+      "armazenamento": "Temperatura ambiente, protegido de luz.",
+      "preparo": "IM debe administrarse profundamente en glúteo.",
+      "solucoesCompatíveis": "No aplica (forma premezclada).",
+      "contraindicacoes": "Alergia a AINE u opioides, insuficiencia hepática/renal grave, convulsiones, embarazo 3º trimestre.",
+      "cuidadosMedicos": "Monitorizar depresión respiratoria, sangrado, efectos renales/hepáticos.",
+      "cuidadosFarmaceuticos": "Evitar duplicidad AINE/opioides. Precaución en ancianos frágiles.",
+      "cuidadosEnfermagem": "Observar sedación, náuseas y molestias GI.",
+      "fontesBibliograficas": "Micromedex, fichas técnicas, UpToDate, AEMPS"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "曲马多 + 双氯芬酸赖氨酸盐",
+      "suspension": "择期手术前48小时停药。",
+      "risk": "曲马多引起呼吸抑制风险，双氯芬酸可能导致肾毒性与胃肠出血；两者可与麻醉剂及抗凝药相互作用。",
+      "reintroduction": "术后48–72小时在血流动力学稳定、无活动性出血后可重新使用。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸曲马多 + 赖氨酸双氯芬酸盐",
+      "nomeComercial": "Tandrilax、Dorless D（地区品牌）",
+      "mecanismoAcao": "曲马多：µ阿片受体激动剂+5-HT/NE再摄取抑制。双氯芬酸：非选择性COX抑制剂。",
+      "farmacocinetica": "曲马多：半衰期5–6小时；CYP2D6/CYP3A4代谢。双氯芬酸赖氨酸起效快，半衰期约2小时。",
+      "farmacodinamica": "中枢止痛+外周抗炎，联合应用镇痛效果增强。",
+      "indicacoes": "术后疼痛、肌肉骨骼痛、腰痛、关节痛、痛经、头痛。",
+      "reacoesAdversas": "恶心、嗜睡、眩晕、便秘、胃不适、肝毒性、过敏、尿潴留、癫痫风险。",
+      "riscoGravidez": "妊娠1–2期为C类，3期为D类。",
+      "riscoLactacao": "避免长期使用；曲马多可分泌至乳汁。",
+      "administracao": "口服或肌注。",
+      "doseMaxima": "曲马多每日不超过400毫克，双氯芬酸不超过150毫克。",
+      "doseMinima": "每次50毫克曲马多 + 50毫克双氯芬酸。",
+      "classificacao": "弱阿片类 + 非选择性NSAID。",
+      "apresentacao": "片剂、胶囊、口服液、联合肌注剂。",
+      "interacaoMedicamento": "与SSRIs、MAOIs、NSAIDs、抗凝剂、镇静药、卡马西平、锂有交互作用。",
+      "posologia": "每8小时服用1–2片；肌注每日最多2次。",
+      "armazenamento": "15–30°C，避光保存。",
+      "preparo": "IM深部臀部注射。",
+      "solucoesCompatíveis": "不适用（即用型混合制剂）。",
+      "contraindicacoes": "NSAID或阿片过敏、严重肝/肾功能不全、癫痫、妊娠晚期。",
+      "cuidadosMedicos": "监测镇静、出血、肝肾毒性及呼吸抑制。",
+      "cuidadosFarmaceuticos": "避免与其他NSAID/阿片重复使用。老年人慎用。",
+      "cuidadosEnfermagem": "观察嗜睡、恶心、消化不适及过敏表现。",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate、产品说明书"
+    }
+  }
+}

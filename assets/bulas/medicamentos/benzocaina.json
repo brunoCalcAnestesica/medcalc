@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Benzocaína",
+      "suspension": "Evitar uso em áreas extensas antes de cirurgia; risco de meta-hemoglobinemia",
+      "risk": "Meta-hemoglobinemia rara, irritação local, alergia de contato",
+      "reintroduction": "Reintroduzir após cicatrização e em áreas restritas com monitoramento"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Benzocaína",
+      "nomeComercial": "Anestesol, Hurricaine, Orabase",
+      "mecanismoAcao": "Bloqueia reversivelmente os canais de sódio neuronais, impedindo a condução do impulso nervoso",
+      "farmacocinetica": "Absorção tópica variável; metabolização hepática; excreção renal",
+      "farmacodinamica": "Promove anestesia local de curta duração",
+      "indicacoes": "Alívio temporário da dor em mucosas orais, gengivas, hemorroidas, queimaduras leves e picadas",
+      "reacoesAdversas": "Irritação, queimação, reações alérgicas, meta-hemoglobinemia (rara, potencialmente grave)",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Usar com cautela; evitar em mamas",
+      "administracao": "Tópica, oral ou retal",
+      "doseMaxima": "Uso pontual em pequenas áreas; evitar múltiplas aplicações seguidas",
+      "doseMinima": "Aplicação única em pequena área",
+      "classificacao": "Anestésico local tipo éster (uso tópico/mucosas)",
+      "apresentacao": "Gel, pomada, spray ou solução (10–20%)",
+      "interacaoMedicamento": "Potencialização de meta-hemoglobinemia com sulfonamidas e nitritos",
+      "posologia": "Aplicar pequena quantidade na área afetada, até 3–4x/dia",
+      "armazenamento": "15–30°C; evitar calor e luz",
+      "preparo": "Uso direto; evitar grandes áreas ou feridas abertas",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Meta-hemoglobinemia adquirida ou congênita, hipersensibilidade a anestésicos tipo éster",
+      "cuidadosMedicos": "Evitar uso prolongado ou em grandes áreas, especialmente em crianças",
+      "cuidadosFarmaceuticos": "Educar sobre sinais de meta-hemoglobinemia: cianose, fadiga, dispneia",
+      "cuidadosEnfermagem": "Observar reações locais e sistêmicas",
+      "fontesBibliograficas": "FDA, ANVISA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Benzocaine",
+      "suspension": "Avoid large-area use perioperatively; risk of methemoglobinemia",
+      "risk": "Methemoglobinemia, contact allergy, local irritation",
+      "reintroduction": "Resume with caution and limited area"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Benzocaine",
+      "nomeComercial": "Orajel, Hurricaine, Anbesol",
+      "mecanismoAcao": "Blocks nerve conduction by stabilizing neuronal sodium channels",
+      "farmacocinetica": "Topical absorption; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Short-acting local anesthetic effect",
+      "indicacoes": "Oral/mucosal pain, sore throat, hemorrhoids, skin irritation",
+      "reacoesAdversas": "Burning, allergic reactions, methemoglobinemia (rare but serious)",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Avoid nipple area; use cautiously",
+      "administracao": "Topical (skin, mucosa)",
+      "doseMaxima": "Use sparingly; avoid frequent reapplication",
+      "doseMinima": "Single application on small area",
+      "classificacao": "Ester-type local anesthetic",
+      "apresentacao": "5–20% gel, ointment, spray",
+      "interacaoMedicamento": "Avoid concurrent use with drugs that induce methemoglobinemia",
+      "posologia": "Apply thin layer 3–4 times/day",
+      "armazenamento": "Store at room temperature, away from heat",
+      "preparo": "Use directly; avoid broken skin and mucosa",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "History of methemoglobinemia, ester anesthetic allergy",
+      "cuidadosMedicos": "Warn about risk in infants <2 years (FDA warning)",
+      "cuidadosFarmaceuticos": "Counsel on symptoms of toxicity",
+      "cuidadosEnfermagem": "Observe for cyanosis and systemic effects",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Benzocaína",
+      "suspension": "Evitar uso extenso antes de cirugía",
+      "risk": "Metahemoglobinemia, irritación local, reacciones alérgicas",
+      "reintroduction": "Reanudar con precaución tras recuperación"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Benzocaína",
+      "nomeComercial": "Anbesol, Hurricaine, Orasol",
+      "mecanismoAcao": "Bloquea canales de sodio, inhibiendo conducción nerviosa",
+      "farmacocinetica": "Absorción tópica variable; metabolismo hepático",
+      "farmacodinamica": "Anestesia superficial y temporal",
+      "indicacoes": "Dolor oral, irritación dérmica, picaduras, hemorroides",
+      "reacoesAdversas": "Ardor, alergias, metahemoglobinemia",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar mamas; uso puntual",
+      "administracao": "Tópica",
+      "doseMaxima": "3–4 aplicaciones/día",
+      "doseMinima": "1 aplicación puntual",
+      "classificacao": "Anestésico local tipo éster",
+      "apresentacao": "Gel, crema, aerosol (5–20%)",
+      "interacaoMedicamento": "Evitar con nitritos, sulfonamidas",
+      "posologia": "Aplicar capa fina sobre zona afectada",
+      "armazenamento": "15–30°C",
+      "preparo": "Uso externo directo",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Metahemoglobinemia previa, hipersensibilidad",
+      "cuidadosMedicos": "Evitar en <2 años sin prescripción",
+      "cuidadosFarmaceuticos": "Informar sobre signos de toxicidad",
+      "cuidadosEnfermagem": "Vigilar efectos locales y sistémicos",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "苯佐卡因",
+      "suspension": "术前应避免大面积使用",
+      "risk": "局部刺激，过敏反应，罕见高铁血红蛋白血症",
+      "reintroduction": "术后恢复后谨慎局部使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "苯佐卡因",
+      "nomeComercial": "Oralgel, 安贝爽, Hurricaine",
+      "mecanismoAcao": "阻断神经钠通道，暂时性麻醉",
+      "farmacocinetica": "皮肤吸收可变；肝代谢；肾排泄",
+      "farmacodinamica": "局部短效麻醉作用",
+      "indicacoes": "口腔疼痛、痔疮、烧伤、虫咬、皮肤瘙痒",
+      "reacoesAdversas": "红斑、瘙痒、接触性过敏、高铁血红蛋白症（罕见）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期避免乳头使用",
+      "administracao": "外用（皮肤、口腔）",
+      "doseMaxima": "每日3–4次小面积使用",
+      "doseMinima": "单次点涂",
+      "classificacao": "局部酯类麻醉剂",
+      "apresentacao": "5–20%凝胶/喷雾",
+      "interacaoMedicamento": "避免与亚硝酸盐或磺胺类药物合用",
+      "posologia": "直接少量涂抹患处",
+      "armazenamento": "15–30°C保存，避免热源",
+      "preparo": "直接使用，勿用于破损大面积",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对酯类麻醉剂过敏，有高铁血红蛋白症史者",
+      "cuidadosMedicos": "小儿慎用，特别是2岁以下",
+      "cuidadosFarmaceuticos": "说明可能蓝皮肤等毒性信号",
+      "cuidadosEnfermagem": "观察皮肤反应及全身中毒表现",
+      "fontesBibliograficas": "FDA，UpToDate，Micromedex"
+    }
+  }
+}

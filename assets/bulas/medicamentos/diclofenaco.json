@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Diclofenaco",
+      "suspension": "Suspender 1 a 2 dias antes do procedimento",
+      "risk": "Risco de sangramento, disfunção renal e interação com anestésicos",
+      "reintroduction": "Reintroduzir após 24-48h se hemodinamicamente estável e sem sangramentos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diclofenaco sódico ou potássico",
+      "nomeComercial": "Cataflam, Voltaren, Diclosódico, Tandrilax (associação)",
+      "mecanismoAcao": "Inibição não seletiva da COX-1 e COX-2, reduzindo prostaglandinas",
+      "farmacocinetica": "Absorção oral rápida, alta ligação proteica, metabolizado no fígado, excreção renal/biliar",
+      "farmacodinamica": "Efeito analgésico, antipirético e anti-inflamatório",
+      "indicacoes": "Inflamações musculoesqueléticas, dor aguda, dismenorreia, gota, pós-operatório",
+      "reacoesAdversas": "Gastrite, úlcera, sangramento GI, nefrotoxicidade, hepatotoxicidade",
+      "riscoGravidez": "Categoria C no 1º/2º trimestre e D no 3º",
+      "riscoLactacao": "Pode ser excretado no leite, usar com cautela",
+      "administracao": "Oral, intramuscular, retal, tópica",
+      "doseMaxima": "150 mg/dia",
+      "doseMinima": "50 mg/dose",
+      "classificacao": "Anti-inflamatório não esteroidal (AINE)",
+      "apresentacao": "Comprimidos, supositórios, gel, solução injetável",
+      "interacaoMedicamento": "Interage com anticoagulantes, IECA, diuréticos, outros AINEs",
+      "posologia": "50-75 mg 2-3x/dia, conforme necessidade",
+      "armazenamento": "Temperatura ambiente, longe da luz e umidade",
+      "preparo": "Solução pronta para uso IM; não administrar IV",
+      "solucoesCompatíveis": "Não se aplica para IM",
+      "contraindicacoes": "Úlcera ativa, insuficiência hepática/renal grave, asma induzida por AINE",
+      "cuidadosMedicos": "Monitorar função renal, hepática e sangramentos",
+      "cuidadosFarmaceuticos": "Evitar uso prolongado, risco GI elevado",
+      "cuidadosEnfermagem": "Observar dor epigástrica, sangramento, PA e diurese",
+      "fontesBibliograficas": "SBAn, ANVISA, Micromedex, FDA, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Diclofenac",
+      "suspension": "Suspend 1 to 2 days before procedure",
+      "risk": "Risk of bleeding, renal impairment, and anesthetic interaction",
+      "reintroduction": "Restart 24–48h post-op if stable and without bleeding"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diclofenac sodium or potassium",
+      "nomeComercial": "Voltaren, Cataflam, Cambia, Zorvolex",
+      "mecanismoAcao": "Non-selective COX-1 and COX-2 inhibition, reducing prostaglandins",
+      "farmacocinetica": "Rapid oral absorption, high protein binding, hepatic metabolism, renal/biliary excretion",
+      "farmacodinamica": "Analgesic, antipyretic, and anti-inflammatory effects",
+      "indicacoes": "Musculoskeletal inflammation, acute pain, dysmenorrhea, gout, post-op pain",
+      "reacoesAdversas": "Gastritis, ulcers, GI bleeding, nephrotoxicity, hepatotoxicity",
+      "riscoGravidez": "Category C (1st/2nd trimester), D (3rd trimester)",
+      "riscoLactacao": "May be excreted in breast milk; use caution",
+      "administracao": "Oral, intramuscular, rectal, topical",
+      "doseMaxima": "150 mg/day",
+      "doseMinima": "50 mg/dose",
+      "classificacao": "Nonsteroidal anti-inflammatory drug (NSAID)",
+      "apresentacao": "Tablets, suppositories, gel, IM injection",
+      "interacaoMedicamento": "Interacts with anticoagulants, ACE inhibitors, diuretics, other NSAIDs",
+      "posologia": "50–75 mg 2-3 times/day as needed",
+      "armazenamento": "Room temperature, protect from light and moisture",
+      "preparo": "Ready-to-use IM solution; not for IV use",
+      "solucoesCompatíveis": "Not applicable for IM",
+      "contraindicacoes": "Active ulcer, severe hepatic/renal failure, NSAID-induced asthma",
+      "cuidadosMedicos": "Monitor renal, liver function, and bleeding",
+      "cuidadosFarmaceuticos": "Avoid long-term use, high GI risk",
+      "cuidadosEnfermagem": "Watch for GI symptoms, bleeding, BP, and urine output",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, SBAn"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Diclofenaco",
+      "suspension": "Suspender 1 a 2 días antes del procedimiento",
+      "risk": "Riesgo de sangrado, disfunción renal e interacción anestésica",
+      "reintroduction": "Reintroducir 24–48h después si el paciente está estable y sin sangrados"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Diclofenaco sódico o potásico",
+      "nomeComercial": "Voltaren, Cataflam, Diclofenaco Genérico",
+      "mecanismoAcao": "Inhibición no selectiva de COX-1 y COX-2, reduce prostaglandinas",
+      "farmacocinetica": "Absorción oral rápida, alta unión a proteínas, metabolismo hepático, excreción renal/biliar",
+      "farmacodinamica": "Efecto analgésico, antipirético y antiinflamatorio",
+      "indicacoes": "Inflamaciones musculoesqueléticas, dolor agudo, dismenorrea, gota, postoperatorio",
+      "reacoesAdversas": "Gastritis, úlceras, sangrado gastrointestinal, nefrotoxicidad, hepatotoxicidad",
+      "riscoGravidez": "Categoría C (1°/2° trimestre), D (3° trimestre)",
+      "riscoLactacao": "Puede excretarse en la leche materna, usar con precaución",
+      "administracao": "Oral, intramuscular, rectal, tópica",
+      "doseMaxima": "150 mg/día",
+      "doseMinima": "50 mg/dosis",
+      "classificacao": "AINE (antiinflamatorio no esteroideo)",
+      "apresentacao": "Comprimidos, supositorios, gel, solución inyectable",
+      "interacaoMedicamento": "Interacción con anticoagulantes, IECA, diuréticos, otros AINEs",
+      "posologia": "50–75 mg 2-3 veces/día según necesidad",
+      "armazenamento": "Temperatura ambiente, protegido de luz y humedad",
+      "preparo": "Solución lista para uso IM; no administrar IV",
+      "solucoesCompatíveis": "No aplica para vía IM",
+      "contraindicacoes": "Úlcera activa, insuficiencia hepática/renal grave, asma inducida por AINEs",
+      "cuidadosMedicos": "Monitorear función hepática, renal y signos de sangrado",
+      "cuidadosFarmaceuticos": "Evitar uso prolongado, alto riesgo gastrointestinal",
+      "cuidadosEnfermagem": "Observar síntomas GI, sangrado, presión arterial y diuresis",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "双氯芬酸",
+      "suspension": "术前1至2天停药",
+      "risk": "有出血、肾损伤及麻醉药相互作用的风险",
+      "reintroduction": "术后24-48小时可在无出血且病人稳定的情况下重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "双氯芬酸钠或钾",
+      "nomeComercial": "扶他林, 复方双氯芬酸, 双氯芬酸通用名",
+      "mecanismoAcao": "非选择性抑制COX-1和COX-2，减少前列腺素合成",
+      "farmacocinetica": "口服吸收快，蛋白结合率高，肝代谢，经肾/胆汁排泄",
+      "farmacodinamica": "镇痛、退热和抗炎",
+      "indicacoes": "肌肉骨骼炎症、急性疼痛、痛经、痛风、术后疼痛",
+      "reacoesAdversas": "胃炎、溃疡、胃肠道出血、肾毒性、肝毒性",
+      "riscoGravidez": "C类（前两期）、D类（第三期）",
+      "riscoLactacao": "可少量分泌至乳汁，慎用",
+      "administracao": "口服、肌注、直肠、外用",
+      "doseMaxima": "每日150毫克",
+      "doseMinima": "每次50毫克",
+      "classificacao": "非甾体抗炎药（NSAID）",
+      "apresentacao": "片剂、栓剂、凝胶、注射液",
+      "interacaoMedicamento": "与抗凝药、ACEI、利尿剂、其他NSAID有相互作用",
+      "posologia": "每天2-3次，每次50–75毫克",
+      "armazenamento": "常温避光保存",
+      "preparo": "IM注射液无需稀释；禁止IV使用",
+      "solucoesCompatíveis": "不适用于IM配伍",
+      "contraindicacoes": "活动性溃疡、严重肝肾功能不全、NSAID诱导哮喘",
+      "cuidadosMedicos": "监测肝肾功能及出血风险",
+      "cuidadosFarmaceuticos": "避免长期使用，注意胃肠道反应",
+      "cuidadosEnfermagem": "观察胃肠症状、出血、血压及尿量",
+      "fontesBibliograficas": "中国药典, FDA, EMA, Micromedex"
+    }
+  }
+}

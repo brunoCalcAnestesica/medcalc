@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Hidroxocobalamina",
+      "suspension": "Não é necessário suspender antes da cirurgia, exceto em pacientes com hipersensibilidade conhecida",
+      "risk": "Baixo risco no perioperatório. Pode causar coloração avermelhada da pele e urina, interferindo em exames laboratoriais. Útil em intoxicação por cianeto.",
+      "reintroduction": "Pode ser mantida ou reiniciada no pós-operatório imediato, especialmente em casos de deficiência crônica ou intoxicação por cianeto."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidroxocobalamina",
+      "nomeComercial": "Hydroxocobalamin, Cyanokit",
+      "mecanismoAcao": "Forma ativa da vitamina B12; cofator na síntese de DNA, metabolismo de ácidos graxos e aminoácidos. Atua como quelante de cianeto.",
+      "farmacocinetica": "Administração IM ou IV; meia-vida de 6–60 h; ligação a transcobalamina II; armazenada no fígado; excreção renal",
+      "farmacodinamica": "Corrige deficiência de B12, reverte anemia megaloblástica, promove desintoxicação por cianeto",
+      "indicacoes": "Deficiência de vitamina B12, anemia megaloblástica, intoxicação por cianeto (antídoto aprovado)",
+      "reacoesAdversas": "Hiperemia cutânea, coloração da urina, náuseas, cefaleia, prurido, reações alérgicas raras",
+      "riscoGravidez": "Categoria C (mas uso considerado seguro)",
+      "riscoLactacao": "Compatível com amamentação em doses terapêuticas",
+      "administracao": "Intramuscular, intravenosa (em bolus ou infusão lenta)",
+      "doseMaxima": "5 g IV para intoxicação por cianeto; 1000 mcg IM para reposição vitamínica",
+      "doseMinima": "100–500 mcg IM",
+      "classificacao": "Vitamina hidrossolúvel do complexo B – antídoto e repositor vitamínico",
+      "apresentacao": "Frascos de 1 mg/mL até 5 g/200 mL (IV); ampolas IM de 1000 mcg",
+      "interacaoMedicamento": "Interfere com espectrofotometria (exames laboratoriais), pode mascarar policitemia",
+      "posologia": "1000 mcg IM/mês (manutenção); 5 g IV (intoxicação aguda por cianeto)",
+      "armazenamento": "Temperatura ambiente, protegido da luz",
+      "preparo": "Reconstituir com solução apropriada para infusão (para uso IV); uso imediato após preparo",
+      "solucoesCompatíveis": "Soro fisiológico 0,9%; ringer lactato (em intoxicação)",
+      "contraindicacoes": "Hipersensibilidade à cobalamina, doença de Leber (raro)",
+      "cuidadosMedicos": "Monitorar sinais de reação alérgica, função renal e resposta hematológica",
+      "cuidadosFarmaceuticos": "Orientar sobre alteração de cor na urina e pele como efeito transitório",
+      "cuidadosEnfermagem": "Aplicação IM profunda; hidratar bem em casos de antídoto IV",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, Micromedex, UpToDate, SBH"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Hydroxocobalamin",
+      "suspension": "No need to discontinue before surgery unless hypersensitivity is present",
+      "risk": "Low risk; may cause red skin or urine discoloration, interfering with some lab tests. Useful as cyanide antidote.",
+      "reintroduction": "May be continued or restarted immediately post-op for chronic deficiency or cyanide poisoning."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hydroxocobalamin",
+      "nomeComercial": "Cyanokit, Hydroxo-B12",
+      "mecanismoAcao": "Active form of vitamin B12; DNA cofactor and cyanide chelator",
+      "farmacocinetica": "IM or IV; half-life 6–60 h; liver storage; renal excretion",
+      "farmacodinamica": "Corrects B12 deficiency, reverses megaloblastic anemia, binds cyanide forming cyanocobalamin",
+      "indicacoes": "Vitamin B12 deficiency, megaloblastic anemia, cyanide poisoning",
+      "reacoesAdversas": "Red skin, red urine, nausea, rash, headache, rare allergic reactions",
+      "riscoGravidez": "Category C (generally safe)",
+      "riscoLactacao": "Compatible at therapeutic doses",
+      "administracao": "IM or slow IV infusion",
+      "doseMaxima": "5 g IV (cyanide antidote); 1000 mcg IM (vitamin replacement)",
+      "doseMinima": "100–500 mcg IM",
+      "classificacao": "Water-soluble B complex vitamin – antidote and nutrient",
+      "apresentacao": "1 mg/mL to 5 g/200 mL vials",
+      "interacaoMedicamento": "Interferes with spectrophotometric assays; masks true polycythemia",
+      "posologia": "1000 mcg IM/month (maintenance); 5 g IV for cyanide toxicity",
+      "armazenamento": "Room temperature; protect from light",
+      "preparo": "Reconstitute prior to use (IV); IM requires no dilution",
+      "solucoesCompatíveis": "0.9% NaCl or lactated Ringer",
+      "contraindicacoes": "Hypersensitivity to cobalt/vitamin B12; Leber’s disease",
+      "cuidadosMedicos": "Monitor for hypersensitivity, renal function, hematologic response",
+      "cuidadosFarmaceuticos": "Warn about urine/skin discoloration",
+      "cuidadosEnfermagem": "Deep IM injection; IV requires hydration if used as antidote",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Cyanokit Prescribing Info"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Hidroxocobalamina",
+      "suspension": "No requiere suspensión previa a cirugía salvo alergia conocida",
+      "risk": "Riesgo mínimo; puede teñir piel/orina y alterar pruebas; útil como antídoto ante intoxicación por cianuro",
+      "reintroduction": "Puede mantenerse o reiniciar de inmediato tras cirugía"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Hidroxocobalamina",
+      "nomeComercial": "Cyanokit, Hydroxo-B12",
+      "mecanismoAcao": "Forma activa de vitamina B12 y quelante de cianuro",
+      "farmacocinetica": "IM o IV; vida media de 6–60 h; almacenamiento hepático; excreción renal",
+      "farmacodinamica": "Corrige deficiencia de B12, trata anemia megaloblástica, neutraliza cianuro",
+      "indicacoes": "Déficit de vitamina B12, intoxicación por cianuro, anemia megaloblástica",
+      "reacoesAdversas": "Coloración roja de piel/orina, náuseas, prurito, cefalea, alergias raras",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Compatible a dosis terapéuticas",
+      "administracao": "IM o IV lenta",
+      "doseMaxima": "5 g IV (cianuro); 1000 mcg IM",
+      "doseMinima": "100–500 mcg IM",
+      "classificacao": "Vitamina B12 – antídoto y suplemento",
+      "apresentacao": "1–5 g viales; ampollas de 1000 mcg",
+      "interacaoMedicamento": "Interfiere con pruebas de laboratorio",
+      "posologia": "1000 mcg IM mensual; 5 g IV (intoxicación)",
+      "armazenamento": "Temperatura ambiente; protegido de la luz",
+      "preparo": "Reconstituir para IV; IM no requiere dilución",
+      "solucoesCompatíveis": "SF o Ringer Lactato",
+      "contraindicacoes": "Alergia a B12/cobalto; enfermedad de Leber",
+      "cuidadosMedicos": "Monitorizar función renal, respuesta hematológica",
+      "cuidadosFarmaceuticos": "Advertir sobre coloración temporal",
+      "cuidadosEnfermagem": "Administrar IM profundo; asegurar hidratación si IV",
+      "fontesBibliograficas": "EMA, FDA, UpToDate, Cyanokit"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "羟钴胺",
+      "suspension": "除非过敏，不需术前停药",
+      "risk": "术中风险低；可能导致皮肤尿液变红；可干扰检验项目；用于氰化物中毒",
+      "reintroduction": "术后可立即恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "羟钴胺",
+      "nomeComercial": "Cyanokit, Hydroxo-B12",
+      "mecanismoAcao": "维生素B12活性形式，可结合氰离子生成氰钴胺",
+      "farmacocinetica": "肌注或静注，半衰期6–60小时，肝储存，肾排泄",
+      "farmacodinamica": "纠正B12缺乏、治疗巨幼贫、作为氰化物解毒剂",
+      "indicacoes": "B12缺乏、氰化物中毒、巨幼红细胞贫血",
+      "reacoesAdversas": "皮肤或尿液变红、恶心、瘙痒、头痛、过敏",
+      "riscoGravidez": "C类（应权衡利弊）",
+      "riscoLactacao": "治疗剂量下可使用",
+      "administracao": "肌注或缓慢静注",
+      "doseMaxima": "解毒剂5克IV；维补：1000微克肌注",
+      "doseMinima": "100–500微克",
+      "classificacao": "水溶性维生素B12类 – 解毒剂与补充剂",
+      "apresentacao": "1–5 g瓶装；1000微克安瓿",
+      "interacaoMedicamento": "干扰光谱检测实验；可能掩盖红细胞增多症",
+      "posologia": "每月IM注射1000微克；氰化物中毒5g IV单次",
+      "armazenamento": "室温保存，避光",
+      "preparo": "IV需重配；IM无需稀释",
+      "solucoesCompatíveis": "0.9%氯化钠或乳酸林格氏液",
+      "contraindicacoes": "对钴或B12过敏者、Leber病患者禁用",
+      "cuidadosMedicos": "监测过敏、肾功能和血液学反应",
+      "cuidadosFarmaceuticos": "指导患者尿液变红属正常",
+      "cuidadosEnfermagem": "IM需深层注射；IV应加强水化",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、UpToDate、EMA"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Paracetamol + Cafeína",
+      "suspension": "Suspender 24 horas antes de cirurgias de médio ou grande porte",
+      "risk": "Risco de hepatotoxicidade, interação com anestésicos hepatometabolizados e potencial excitatório da cafeína",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e função hepática normalizada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paracetamol + Cafeína Anidra",
+      "nomeComercial": "Tylenol DC, Cefaliv, Doril Enxaqueca, Excedrin",
+      "mecanismoAcao": "Paracetamol inibe a síntese de prostaglandinas no SNC; Cafeína potencializa o efeito analgésico por vasoconstrição e antagonismo da adenosina",
+      "farmacocinetica": "Paracetamol: absorção rápida, metabolismo hepático, meia-vida de 2–3h; Cafeína: meia-vida de ~4h, metabolizada pelo fígado (CYP1A2)",
+      "farmacodinamica": "Analgesia central com ação estimulante leve; início em 30 min, pico entre 1–2h",
+      "indicacoes": "Cefaleias tensionais, enxaquecas, dor leve a moderada",
+      "reacoesAdversas": "Irritabilidade, insônia, náuseas, hepatotoxicidade em doses elevadas",
+      "riscoGravidez": "Categoria C (avaliar risco-benefício)",
+      "riscoLactacao": "Pode ser excretado no leite; evitar uso prolongado",
+      "administracao": "Via oral",
+      "doseMaxima": "Paracetamol 4000mg/dia; Cafeína até 500mg/dia",
+      "doseMinima": "1 comprimido (geralmente 500mg + 65mg) a cada 6 horas",
+      "classificacao": "Analgésico com estimulante do sistema nervoso central",
+      "apresentacao": "Comprimidos com dose fixa combinada",
+      "interacaoMedicamento": "Potencializa efeitos de outros estimulantes; risco de hepatotoxicidade com álcool e outros hepatotóxicos",
+      "posologia": "1 comprimido a cada 6 horas, máximo 4 por dia",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Não requer preparo",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Insuficiência hepática, úlcera péptica ativa, hipersensibilidade",
+      "cuidadosMedicos": "Avaliar função hepática antes do uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar duplicidade com outros produtos que contenham paracetamol ou cafeína",
+      "cuidadosEnfermagem": "Monitorar sinais de toxicidade hepática ou agitação",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, Bula Tylenol DC, Excedrin"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Acetaminophen + Caffeine",
+      "suspension": "Suspend 24 hours before moderate or major surgery",
+      "risk": "Risk of hepatotoxicity, interaction with hepatically metabolized anesthetics, and CNS stimulation",
+      "reintroduction": "Reintroduce once hemodynamics and liver function are stable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Acetaminophen + Caffeine Anhydrous",
+      "nomeComercial": "Excedrin, Goody’s, Midol Extra Strength",
+      "mecanismoAcao": "Acetaminophen inhibits prostaglandin synthesis in CNS; caffeine enhances analgesia via vasoconstriction and adenosine antagonism",
+      "farmacocinetica": "Acetaminophen: rapid oral absorption, hepatic metabolism, half-life 2–3h; Caffeine: half-life ~4h, metabolized via CYP1A2",
+      "farmacodinamica": "Central analgesia with mild stimulation; onset ~30 min, peak at 1–2h",
+      "indicacoes": "Tension-type headaches, migraines, mild to moderate pain",
+      "reacoesAdversas": "Irritability, insomnia, nausea, liver toxicity in high doses",
+      "riscoGravidez": "Category C (assess risk-benefit)",
+      "riscoLactacao": "May be excreted in breast milk; avoid long-term use",
+      "administracao": "Oral",
+      "doseMaxima": "Acetaminophen 4000mg/day; Caffeine up to 500mg/day",
+      "doseMinima": "1 tablet (typically 500mg + 65mg) every 6 hours",
+      "classificacao": "Analgesic with CNS stimulant",
+      "apresentacao": "Fixed-dose combination tablets",
+      "interacaoMedicamento": "May enhance effects of other stimulants; increased hepatotoxicity risk with alcohol and other drugs",
+      "posologia": "1 tablet every 6 hours, maximum 4 per day",
+      "armazenamento": "Store at 15–30°C, protect from light",
+      "preparo": "No preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Liver failure, active peptic ulcer, hypersensitivity",
+      "cuidadosMedicos": "Assess liver function if prolonged use",
+      "cuidadosFarmaceuticos": "Avoid duplication with other acetaminophen or caffeine-containing products",
+      "cuidadosEnfermagem": "Monitor for hepatic toxicity and agitation",
+      "fontesBibliograficas": "FDA, Micromedex, NIH, Excedrin label"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Paracetamol + Cafeína",
+      "suspension": "Suspender 24 horas antes de procedimientos quirúrgicos medianos o mayores",
+      "risk": "Riesgo de hepatotoxicidad, interacción con anestésicos metabolizados en el hígado y estimulación del SNC",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica y función hepática"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Paracetamol + Cafeína Anhidra",
+      "nomeComercial": "Excedrin, Cefaliv, Doril Enxaqueca",
+      "mecanismoAcao": "Paracetamol inhibe la síntesis de prostaglandinas en el SNC; la cafeína potencia el efecto analgésico mediante vasoconstricción y antagonismo de la adenosina",
+      "farmacocinetica": "Paracetamol: absorción rápida, metabolismo hepático, vida media 2–3h; Cafeína: vida media ~4h, metabolizada por CYP1A2",
+      "farmacodinamica": "Analgésia central con leve estimulación; inicio ~30 min, pico entre 1–2h",
+      "indicacoes": "Cefaleas tensionales, migrañas, dolor leve a moderado",
+      "reacoesAdversas": "Irritabilidad, insomnio, náuseas, toxicidad hepática en dosis altas",
+      "riscoGravidez": "Categoría C (evaluar riesgo-beneficio)",
+      "riscoLactacao": "Puede excretarse en la leche materna; evitar uso prolongado",
+      "administracao": "Vía oral",
+      "doseMaxima": "Paracetamol 4000mg/día; Cafeína hasta 500mg/día",
+      "doseMinima": "1 comprimido (500mg + 65mg) cada 6 horas",
+      "classificacao": "Analgésico combinado con estimulante del SNC",
+      "apresentacao": "Comprimidos de dosis fija combinada",
+      "interacaoMedicamento": "Potencia efectos de otros estimulantes; riesgo de hepatotoxicidad con alcohol u otros fármacos",
+      "posologia": "1 comprimido cada 6 horas, máximo 4 por día",
+      "armazenamento": "Temperatura 15–30°C, protegido de la luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Insuficiencia hepática, úlcera péptica activa, hipersensibilidad",
+      "cuidadosMedicos": "Evaluar función hepática en uso prolongado",
+      "cuidadosFarmaceuticos": "Evitar duplicidad con productos que contengan paracetamol o cafeína",
+      "cuidadosEnfermagem": "Monitorear toxicidad hepática y signos de estimulación",
+      "fontesBibliograficas": "AEMPS, Micromedex, Excedrin, Fisterra"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "对乙酰氨基酚 + 咖啡因",
+      "suspension": "中等或大型手术前24小时停药",
+      "risk": "肝毒性风险，与肝代谢麻醉药物相互作用及中枢兴奋效应",
+      "reintroduction": "术后在血流动力学和肝功能稳定后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "对乙酰氨基酚 + 无水咖啡因",
+      "nomeComercial": "爱克塞德林（Excedrin），头痛灵，复方解热片",
+      "mecanismoAcao": "对乙酰氨基酚抑制中枢前列腺素合成；咖啡因通过血管收缩和腺苷受体拮抗增强镇痛作用",
+      "farmacocinetica": "对乙酰氨基酚半衰期2–3小时，肝代谢；咖啡因半衰期约4小时，经CYP1A2代谢",
+      "farmacodinamica": "中枢镇痛合并轻度兴奋；起效约30分钟，峰值1–2小时",
+      "indicacoes": "紧张型头痛、偏头痛、轻中度疼痛",
+      "reacoesAdversas": "易怒、失眠、恶心、大剂量引起肝毒性",
+      "riscoGravidez": "C类（需权衡利弊）",
+      "riscoLactacao": "可分泌入乳汁，应避免长期使用",
+      "administracao": "口服",
+      "doseMaxima": "对乙酰氨基酚每日不超4000mg，咖啡因不超500mg",
+      "doseMinima": "每6小时1片（通常为500mg + 65mg）",
+      "classificacao": "解热镇痛药合并中枢神经兴奋剂",
+      "apresentacao": "固定剂量复方片剂",
+      "interacaoMedicamento": "可能增强其他兴奋剂作用，与酒精合用增加肝毒性风险",
+      "posologia": "每6小时1片，最多每日4片",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "严重肝功能障碍、活动性溃疡、过敏",
+      "cuidadosMedicos": "如长期使用，需监测肝功能",
+      "cuidadosFarmaceuticos": "避免同时服用含对乙酰氨基酚或咖啡因的其他药品",
+      "cuidadosEnfermagem": "监测肝毒性及中枢过度刺激表现",
+      "fontesBibliograficas": "中国药典、Micromedex、Excedrin说明书、FDA"
+    }
+  }
+}

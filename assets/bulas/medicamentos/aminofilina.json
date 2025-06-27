@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Aminofilina",
+      "suspension": "Suspender 24 a 48 horas antes de cirurgias eletivas não urgentes.",
+      "risk": "Risco de arritmias, interações com anestésicos halogenados e potencial toxicidade em doses elevadas. Exige cautela em pacientes com epilepsia, doenças cardíacas ou hepáticas.",
+      "reintroduction": "Reintroduzir com ajuste de dose e monitorização clínica, após estabilização hemodinâmica e respiratória no pós-operatório."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aminofilina",
+      "nomeComercial": "Aminofilin, Euphyllin, Phyllocontin (alguns países)",
+      "mecanismoAcao": "Complexo da teofilina com etilenodiamina. Inibe fosfodiesterase, aumenta AMPc intracelular, promove broncodilatação e efeito cronotrópico positivo.",
+      "farmacocinetica": "Administração IV ou oral; metabolismo hepático via CYP1A2; excreção renal; meia-vida variável (~4–8h adultos, >24h neonatos).",
+      "farmacodinamica": "Broncodilatador de ação central e periférica. Efeito estimulante respiratório e leve diurético. Aumenta contratilidade cardíaca e frequência respiratória.",
+      "indicacoes": "Tratamento de broncoespasmo agudo (asma, DPOC), apneia da prematuridade (off-label), congestão pulmonar (uso histórico).",
+      "reacoesAdversas": "Náusea, taquicardia, tremores, cefaleia, insônia, hipotensão, arritmias, convulsões (toxicidade).",
+      "riscoGravidez": "Categoria C – usar apenas se os benefícios superarem os riscos.",
+      "riscoLactacao": "Excretado no leite materno; usar com cautela.",
+      "administracao": "Via intravenosa (infusão lenta) ou oral.",
+      "doseMaxima": "Infusão: até 0,7 mg/kg/h (ajustada conforme níveis séricos).",
+      "doseMinima": "Carga IV: 5–6 mg/kg em 20–30 min.",
+      "classificacao": "Metilxantina broncodilatadora.",
+      "apresentacao": "Ampolas 24 mg/mL (10 mL), comprimidos de liberação prolongada.",
+      "interacaoMedicamento": "Interage com macrolídeos, quinolonas, anticonvulsivantes, lítio, cafeína, beta-bloqueadores, halotano.",
+      "posologia": "Dose de ataque IV: 5–6 mg/kg; manutenção IV: 0,4–0,7 mg/kg/h. Dose oral conforme formulação.",
+      "armazenamento": "Temperatura ambiente, protegida da luz.",
+      "preparo": "Diluir em soro glicosado ou fisiológico. Infundir lentamente.",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%.",
+      "contraindicacoes": "Alergia a xantinas, arritmias graves, hipertireoidismo não tratado, epilepsia não controlada.",
+      "cuidadosMedicos": "Monitorar ECG, frequência respiratória, níveis plasmáticos (alvo: 10–20 mcg/mL).",
+      "cuidadosFarmaceuticos": "Evitar incompatibilidades com outras drogas IV. Verificar tempo de infusão.",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade: tremores, náusea, agitação, arritmias. Avaliar perfusão e ECG.",
+      "fontesBibliograficas": "Micromedex, UpToDate, ANVISA, BNF, Manual de Terapêutica SBA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Aminophylline",
+      "suspension": "Discontinue 24–48 hours before elective surgery.",
+      "risk": "Risk of arrhythmias, seizures, and interaction with anesthetics. Caution in patients with epilepsy, liver or cardiac disease due to narrow therapeutic index.",
+      "reintroduction": "Restart postoperatively with close monitoring of vitals and serum levels once hemodynamically stable."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aminophylline",
+      "nomeComercial": "Aminophyllin, Phyllocontin, Euphyllin",
+      "mecanismoAcao": "Complex of theophylline and ethylenediamine. Inhibits phosphodiesterase → increases cAMP → bronchodilation, positive chronotropy, and CNS stimulation.",
+      "farmacocinetica": "IV/oral; hepatic metabolism (CYP1A2); renal excretion; half-life ~4–8h adults, longer in neonates.",
+      "farmacodinamica": "Bronchodilator with mild diuretic and stimulant effects. Enhances diaphragmatic contractility and respiratory drive.",
+      "indicacoes": "Acute asthma, COPD exacerbation, apnea of prematurity (off-label), pulmonary edema (historical use).",
+      "reacoesAdversas": "Nausea, tremor, tachycardia, arrhythmias, headache, insomnia, seizures (toxic levels).",
+      "riscoGravidez": "Category C – use only if benefit justifies risk.",
+      "riscoLactacao": "Excreted in breast milk; caution advised.",
+      "administracao": "IV (slow infusion) or oral.",
+      "doseMaxima": "0.7 mg/kg/h IV infusion (adjusted by levels).",
+      "doseMinima": "Loading dose 5–6 mg/kg over 20–30 min.",
+      "classificacao": "Methylxanthine bronchodilator.",
+      "apresentacao": "Ampoules 24 mg/mL (10 mL), extended-release tablets.",
+      "interacaoMedicamento": "Interacts with macrolides, quinolones, anticonvulsants, lithium, caffeine, beta-blockers, halothane.",
+      "posologia": "IV load: 5–6 mg/kg; maintenance: 0.4–0.7 mg/kg/h. Oral: per formulation.",
+      "armazenamento": "Room temperature, protect from light.",
+      "preparo": "Dilute in D5W or NS. Infuse slowly over ≥20 min.",
+      "solucoesCompatíveis": "Dextrose 5%, Saline 0.9%.",
+      "contraindicacoes": "Allergy to xanthines, uncontrolled epilepsy, untreated hyperthyroidism, serious arrhythmias.",
+      "cuidadosMedicos": "Monitor ECG, respiratory rate, serum levels (target: 10–20 mcg/mL).",
+      "cuidadosFarmaceuticos": "Avoid IV incompatibilities, track infusion time.",
+      "cuidadosEnfermagem": "Watch for tremors, nausea, tachycardia, agitation, seizures.",
+      "fontesBibliograficas": "Micromedex, UpToDate, FDA, DrugBank, BNF"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Aminofilina",
+      "suspension": "Suspender 24–48 horas antes de cirugía electiva.",
+      "risk": "Riesgo de arritmias, convulsiones e interacciones anestésicas. Precaución en epilépticos, hepatopatía y cardiopatía.",
+      "reintroduction": "Reintroducir tras estabilización hemodinámica, con control clínico y niveles plasmáticos."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Aminofilina",
+      "nomeComercial": "Aminofilina, Euphyllin, Phyllocontin",
+      "mecanismoAcao": "Derivado de teofilina. Inhibe fosfodiesterasa, aumenta AMPc, produce broncodilatación y estimulación del SNC.",
+      "farmacocinetica": "IV/oral; metabolismo hepático (CYP1A2); excreción renal; vida media: 4–8h adultos, >24h neonatos.",
+      "farmacodinamica": "Broncodilatador, diurético leve y estimulante respiratorio. Aumenta la contractilidad diafragmática.",
+      "indicacoes": "Asma agudo, EPOC, apnea neonatal (off-label), edema pulmonar (uso histórico).",
+      "reacoesAdversas": "Náuseas, temblor, taquicardia, insomnio, arritmias, convulsiones.",
+      "riscoGravidez": "Categoría C – sólo si el beneficio supera el riesgo.",
+      "riscoLactacao": "Se excreta en leche; usar con precaución.",
+      "administracao": "Intravenosa (lenta) u oral.",
+      "doseMaxima": "0,7 mg/kg/h en infusión continua.",
+      "doseMinima": "Dosis inicial: 5–6 mg/kg IV en 20–30 min.",
+      "classificacao": "Metilxantina broncodilatadora.",
+      "apresentacao": "Ampollas 24 mg/mL, comprimidos liberación prolongada.",
+      "interacaoMedicamento": "Macrólidos, quinolonas, anticonvulsivos, litio, cafeína, betabloqueantes.",
+      "posologia": "Carga IV: 5–6 mg/kg; mantenimiento 0,4–0,7 mg/kg/h. Oral según presentación.",
+      "armazenamento": "Ambiente, protegido de luz.",
+      "preparo": "Diluir en SG5% o SF0,9%. Infundir lento.",
+      "solucoesCompatíveis": "Glucosa 5%, NaCl 0,9%.",
+      "contraindicacoes": "Alergia a xantinas, arritmias, hipertiroidismo, epilepsia no controlada.",
+      "cuidadosMedicos": "Monitorizar ECG, FR, niveles (meta: 10–20 mcg/mL).",
+      "cuidadosFarmaceuticos": "Evitar incompatibilidades IV; controlar tiempo de infusión.",
+      "cuidadosEnfermagem": "Observar náuseas, temblores, arritmias, agitación.",
+      "fontesBibliograficas": "Micromedex, AEMPS, UpToDate, BNF"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氨茶碱（Aminophylline）",
+      "suspension": "择期手术前24–48小时停药。",
+      "risk": "可能引发心律失常、癫痫发作，与麻醉剂交互；肝病/心脏病/癫痫患者慎用。",
+      "reintroduction": "术后血流动力学稳定后可在监测下重新给予。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氨茶碱",
+      "nomeComercial": "Aminophyllin、Phyllocontin、Euphyllin",
+      "mecanismoAcao": "为茶碱与乙二胺复合物，抑制磷酸二酯酶，增加cAMP，产生支气管扩张和中枢神经刺激。",
+      "farmacocinetica": "口服或静注；肝脏CYP1A2代谢；肾排泄；半衰期成人4–8h，新生儿>24h。",
+      "farmacodinamica": "支气管扩张剂，轻度利尿及呼吸刺激作用。增强膈肌收缩力。",
+      "indicacoes": "急性哮喘、慢阻肺发作、新生儿呼吸暂停（非注册）、肺水肿（传统用途）。",
+      "reacoesAdversas": "恶心、心悸、震颤、头痛、失眠、低血压、心律失常、癫痫。",
+      "riscoGravidez": "C类，仅在获益大于风险时使用。",
+      "riscoLactacao": "可分泌入乳汁，慎用。",
+      "administracao": "静脉（缓慢）或口服。",
+      "doseMaxima": "维持：0.7 mg/kg/h（需根据血药浓度调整）。",
+      "doseMinima": "负荷剂量：5–6 mg/kg，20–30分钟内注射。",
+      "classificacao": "甲基黄嘌呤支气管扩张剂。",
+      "apresentacao": "安瓿：24mg/mL，缓释片剂。",
+      "interacaoMedicamento": "大环内酯、喹诺酮、抗癫药、锂、咖啡因、β受体阻滞剂、卤代烃麻醉剂。",
+      "posologia": "IV负荷：5–6mg/kg；维持：0.4–0.7mg/kg/h；口服视制剂而定。",
+      "armazenamento": "室温避光保存。",
+      "preparo": "使用5%葡萄糖或0.9%氯化钠稀释，缓慢静注。",
+      "solucoesCompatíveis": "葡萄糖5%、氯化钠0.9%。",
+      "contraindicacoes": "对黄嘌呤类过敏、心律失常、未控制癫痫、甲亢。",
+      "cuidadosMedicos": "监测心电图、呼吸、血药浓度（目标10–20 mcg/mL）。",
+      "cuidadosFarmaceuticos": "避免与其他IV药物混合；注意输注速度。",
+      "cuidadosEnfermagem": "警惕震颤、恶心、心动过速、躁动、癫痫表现。",
+      "fontesBibliograficas": "中国药典、Micromedex、UpToDate"
+    }
+  }
+}

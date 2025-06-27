@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fosphenytoína",
+      "suspension": "Suspender 24 horas antes de cirurgia apenas se houver risco de interação anestésica ou bradicardia severa",
+      "risk": "Risco de hipotensão, bradicardia, depressão respiratória, sedação excessiva, interação com anestésicos e opioides",
+      "reintroduction": "Reintroduzir após estabilização hemodinâmica e neurológica, mantendo controle de crises"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosphenytoína sódica",
+      "nomeComercial": "Cerebyx",
+      "mecanismoAcao": "Pró-fármaco da fenitoína; bloqueia canais de sódio voltagem-dependentes, estabilizando membranas neuronais",
+      "farmacocinetica": "IV ou IM; conversão para fenitoína em 7–15 min; t½ efetiva da fenitoína ~22 h",
+      "farmacodinamica": "Antiepiléptico de ação prolongada; previne crises tônico-clônicas e convulsões de grande mal",
+      "indicacoes": "Crises epilépticas generalizadas, estado de mal epiléptico, profilaxia pós-traumática",
+      "reacoesAdversas": "Ataxia, diplopia, sonolência, rash, hipotensão, prurido, parestesias, toxicidade cardíaca IV rápida",
+      "riscoGravidez": "Categoria D – risco teratogênico (avaliar risco-benefício)",
+      "riscoLactacao": "Cautela – passa para o leite materno",
+      "administracao": "Intravenosa lenta ou intramuscular",
+      "doseMaxima": "1500 mg/dia ou 20 mg PE/kg",
+      "doseMinima": "5 mg/kg/dia (manutenção)",
+      "classificacao": "Antiepiléptico hidantoínico (pró-fármaco)",
+      "apresentacao": "Ampola 50 mg PE/mL (PE = equivalência à fenitoína)",
+      "interacaoMedicamento": "Interage com anticoagulantes, anticoncepcionais, AINEs, anestésicos",
+      "posologia": "Dose de ataque: 15–20 mg PE/kg IV lenta; manutenção: 4–6 mg/kg/dia",
+      "armazenamento": "Refrigerado ou temperatura ambiente controlada",
+      "preparo": "Diluir em SG 5% ou SF 0,9%; infusão lenta (<150 mg PE/min)",
+      "solucoesCompatíveis": "SG 5%, SF 0,9%",
+      "contraindicacoes": "Bloqueio AV de 2º/3º grau, bradicardia severa, hipersensibilidade a hidantoínas",
+      "cuidadosMedicos": "Monitorar ECG, PA, função hepática, níveis séricos de fenitoína",
+      "cuidadosFarmaceuticos": "Ajustar conforme peso, função hepática e renal; evitar infusão rápida",
+      "cuidadosEnfermagem": "Observar sedação, hipotensão, arritmias, resposta neurológica",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, ILAE Guidelines"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fosphenytoin",
+      "suspension": "Hold 24 h before surgery only in case of anesthetic interaction or bradycardia",
+      "risk": "Hypotension, bradycardia, CNS depression, anesthetic interactions",
+      "reintroduction": "Resume post-op after neurologic and hemodynamic stabilization"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosphenytoin sodium",
+      "nomeComercial": "Cerebyx",
+      "mecanismoAcao": "Prodrug of phenytoin; blocks voltage-gated sodium channels in neurons",
+      "farmacocinetica": "IV/IM; converted to phenytoin in ~10 min; t½ ~22 h",
+      "farmacodinamica": "Long-acting antiepileptic; prevents tonic-clonic seizures",
+      "indicacoes": "Generalized seizures, status epilepticus, neurosurgical prophylaxis",
+      "reacoesAdversas": "Ataxia, dizziness, rash, hypotension, paresthesias, IV toxicity if too fast",
+      "riscoGravidez": "Category D – teratogenic risk",
+      "riscoLactacao": "Use with caution",
+      "administracao": "Slow IV or IM",
+      "doseMaxima": "1500 mg/day or 20 mg PE/kg",
+      "doseMinima": "5 mg/kg/day",
+      "classificacao": "Hydantoin AED prodrug",
+      "apresentacao": "50 mg PE/mL ampoule",
+      "interacaoMedicamento": "Interacts with anticoagulants, OCPs, anesthetics, NSAIDs",
+      "posologia": "Loading: 15–20 mg PE/kg IV; maintenance: 4–6 mg/kg/day",
+      "armazenamento": "Room temp or refrigerated",
+      "preparo": "Dilute in NS or D5W; max infusion 150 mg PE/min",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "AV block, severe bradycardia, hydantoin allergy",
+      "cuidadosMedicos": "Monitor ECG, BP, LFTs, phenytoin levels",
+      "cuidadosFarmaceuticos": "Dose adjust for weight, liver/renal status",
+      "cuidadosEnfermagem": "Observe for sedation, hypotension, ECG changes",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, AAN"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fosfenitoína",
+      "suspension": "Suspender 24 h antes de cirugía si bradicardia o interacción anestésica",
+      "risk": "Hipotensión, sedación, interacción con anestésicos",
+      "reintroduction": "Reiniciar tras estabilización clínica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fosfenitoína sódica",
+      "nomeComercial": "Cerebyx",
+      "mecanismoAcao": "Profármaco de fenitoína; bloquea canales de sodio",
+      "farmacocinetica": "IV/IM; conversión en ~10 min; t½ ~22 h",
+      "farmacodinamica": "Previene crisis convulsivas tónico-clónicas",
+      "indicacoes": "Epilepsia, estado epiléptico, neurocirugía",
+      "reacoesAdversas": "Ataxia, rash, parestesias, hipotensión",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Con precaución",
+      "administracao": "IV lenta o IM",
+      "doseMaxima": "20 mg PE/kg/día",
+      "doseMinima": "5 mg/kg/día",
+      "classificacao": "Antiepiléptico hidantoínico",
+      "apresentacao": "Ampolla 50 mg PE/mL",
+      "interacaoMedicamento": "Interacción con OACs, AINEs, BZD",
+      "posologia": "Ataque: 15–20 mg/kg; mantenimiento: 4–6 mg/kg/día",
+      "armazenamento": "Refrigerado o temperatura ambiente",
+      "preparo": "Diluir en SF 0,9% o SG 5%",
+      "solucoesCompatíveis": "SF, SG 5%",
+      "contraindicacoes": "Bloqueo AV, alergia a hidantoínas",
+      "cuidadosMedicos": "ECG, PA, niveles de fenitoína",
+      "cuidadosFarmaceuticos": "Control de infusión y compatibilidad",
+      "cuidadosEnfermagem": "PA, sedación, ritmo cardíaco",
+      "fontesBibliograficas": "FDA, ILAE, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "磷苯妥英钠（Fosphenytoin）",
+      "suspension": "术前24小时停药，仅限严重心律问题或麻醉相互作用",
+      "risk": "低血压、镇静、呼吸抑制、心律异常",
+      "reintroduction": "术后神志清醒和血流稳定后恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "磷苯妥英钠",
+      "nomeComercial": "Cerebyx",
+      "mecanismoAcao": "苯妥英前药，阻断电压门控钠通道",
+      "farmacocinetica": "IV或IM，10分钟内转化；t½约22小时",
+      "farmacodinamica": "防止癫痫发作，维持脑电稳定",
+      "indicacoes": "癫痫持续状态，术后癫痫预防",
+      "reacoesAdversas": "嗜睡、共济失调、皮疹、低血压、感觉异常",
+      "riscoGravidez": "D类，致畸",
+      "riscoLactacao": "慎用",
+      "administracao": "静脉慢推或肌注",
+      "doseMaxima": "每日20 mg PE/kg",
+      "doseMinima": "每日5 mg/kg维持",
+      "classificacao": "抗癫痫药，前药形式",
+      "apresentacao": "50 mg PE/mL安瓿",
+      "interacaoMedicamento": "与抗凝、口服避孕药、麻醉药相互作用",
+      "posologia": "起始15–20 mg/kg，维持4–6 mg/kg/d",
+      "armazenamento": "室温或冷藏",
+      "preparo": "用NS或D5W稀释，缓慢输注",
+      "solucoesCompatíveis": "NS，D5W",
+      "contraindicacoes": "二/三度房室传导阻滞、过敏",
+      "cuidadosMedicos": "心电图、肝酶、血药浓度监测",
+      "cuidadosFarmaceuticos": "按体重配药，严控输注速度",
+      "cuidadosEnfermagem": "观察意识、心率、血压和过敏反应",
+      "fontesBibliograficas": "FDA、Micromedex、UpToDate、ILAE"
+    }
+  }
+}

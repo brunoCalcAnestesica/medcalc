@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Gentamicina (tópica)",
+      "suspension": "Evitar uso em campo cirúrgico aberto 48h antes de procedimentos com incisão",
+      "risk": "Risco de dermatite de contato, resistência bacteriana, ototoxicidade se usada em mucosa ou ouvido com perfuração timpânica",
+      "reintroduction": "Reintroduzir após reepitelização e com controle local de infecção"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gentamicina",
+      "nomeComercial": "Garamicina, Gentax, Nebacetin (com neomicina)",
+      "mecanismoAcao": "Antibiótico aminoglicosídeo que inibe a síntese proteica bacteriana ligando-se à subunidade 30S ribossomal",
+      "farmacocinetica": "Absorção sistêmica mínima em pele íntegra; maior em feridas, queimaduras ou áreas ulceradas",
+      "farmacodinamica": "Bactericida contra gram-negativos e alguns gram-positivos (incluindo Staphylococcus aureus)",
+      "indicacoes": "Infecções cutâneas superficiais, queimaduras infectadas, úlceras infectadas, impetigo",
+      "reacoesAdversas": "Irritação local, prurido, eczema de contato, rara ototoxicidade",
+      "riscoGravidez": "Categoria C (uso localizado com cautela)",
+      "riscoLactacao": "Segura em uso localizado e breve",
+      "administracao": "Tópica (creme ou pomada)",
+      "doseMaxima": "Aplicar 2–3x/dia em área restrita",
+      "doseMinima": "1x/dia em lesões menores",
+      "classificacao": "Antibiótico aminoglicosídeo tópico",
+      "apresentacao": "Pomada 0,1%",
+      "interacaoMedicamento": "Evitar uso simultâneo com outros antibióticos aminoglicosídeos sistêmicos",
+      "posologia": "Aplicar fina camada sobre a lesão limpa 1–3x/dia",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Pronto para uso",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Hipersensibilidade a aminoglicosídeos, tímpano perfurado, grandes áreas ou uso prolongado",
+      "cuidadosMedicos": "Evitar uso prolongado ou em grandes áreas; reavaliar após 7 dias",
+      "cuidadosFarmaceuticos": "Orientar uso em pele íntegra e pequena extensão",
+      "cuidadosEnfermagem": "Aplicar com técnica limpa e observar sinais de reação local ou ineficácia",
+      "fontesBibliograficas": "ANVISA, Medscape, Micromedex, bula Garamicina"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Gentamicin (topical)",
+      "suspension": "Avoid in surgical incision site 48h pre-op",
+      "risk": "Risk of contact dermatitis, resistance, systemic toxicity if absorbed",
+      "reintroduction": "Resume only after healing and if infection control is needed"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gentamicin",
+      "nomeComercial": "Garamycin, Gentak",
+      "mecanismoAcao": "Aminoglycoside antibiotic that binds to 30S ribosomal subunit, inhibiting protein synthesis",
+      "farmacocinetica": "Minimal systemic absorption; increased with damaged skin",
+      "farmacodinamica": "Broad-spectrum bactericidal activity, mainly gram-negative",
+      "indicacoes": "Minor infected wounds, burns, ulcers, superficial skin infections",
+      "reacoesAdversas": "Burning, erythema, rash, rare ototoxicity",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Safe for localized use",
+      "administracao": "Topical",
+      "doseMaxima": "Apply 2–3 times/day on small areas",
+      "doseMinima": "Once daily",
+      "classificacao": "Topical aminoglycoside antibiotic",
+      "apresentacao": "0.1% cream or ointment",
+      "interacaoMedicamento": "Avoid with systemic aminoglycosides",
+      "posologia": "Apply thin layer 1–3x/day on clean skin",
+      "armazenamento": "15–30°C; closed container",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Allergy, open tympanic membrane, large wounds",
+      "cuidadosMedicos": "Limit use to 7 days; avoid prolonged use",
+      "cuidadosFarmaceuticos": "Educate about proper area and hygiene",
+      "cuidadosEnfermagem": "Use aseptic technique; monitor skin reaction",
+      "fontesBibliograficas": "FDA, Medscape, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Gentamicina (tópica)",
+      "suspension": "Evitar en zona quirúrgica 48h antes si hay herida abierta",
+      "risk": "Riesgo de dermatitis, ototoxicidad en áreas húmedas o extensas",
+      "reintroduction": "Reanudar tras cicatrización local"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Gentamicina",
+      "nomeComercial": "Garamicina, Gentax",
+      "mecanismoAcao": "Antibiótico aminoglucósido que inhibe síntesis proteica bacteriana (30S)",
+      "farmacocinetica": "Absorción mínima; aumenta en lesiones abiertas",
+      "farmacodinamica": "Bactericida frente a gram negativos y estafilococos",
+      "indicacoes": "Heridas superficiales infectadas, quemaduras, úlceras",
+      "reacoesAdversas": "Eccema, picor, ardor, toxicidad sistémica rara",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Seguro en pequeñas zonas",
+      "administracao": "Tópica",
+      "doseMaxima": "Aplicar 2–3x/día",
+      "doseMinima": "1x/día",
+      "classificacao": "Antibiótico aminoglucósido tópico",
+      "apresentacao": "Pomada 0,1%",
+      "interacaoMedicamento": "Evitar con otros aminoglucósidos sistémicos",
+      "posologia": "Capa fina 1–3x/día sobre piel limpia",
+      "armazenamento": "15–30°C",
+      "preparo": "Listo para usar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Alergia, heridas grandes, tímpano perforado",
+      "cuidadosMedicos": "Limitar duración; no aplicar en oído abierto",
+      "cuidadosFarmaceuticos": "Evitar abuso; explicar riesgo de reacción alérgica",
+      "cuidadosEnfermagem": "Aplicar con técnica aséptica y observar piel",
+      "fontesBibliograficas": "EMA, Medscape, ficha técnica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "庆大霉素（外用）",
+      "suspension": "术前48小时避免用于手术创面或破损皮肤",
+      "risk": "可致过敏性皮炎、耳毒性（若进入耳道）",
+      "reintroduction": "术后愈合后可继续局部使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "庆大霉素",
+      "nomeComercial": "Garamicina、Gentax",
+      "mecanismoAcao": "通过与30S核糖体结合抑制细菌蛋白合成",
+      "farmacocinetica": "完整皮肤吸收少；破损处吸收增多",
+      "farmacodinamica": "广谱抗菌，主要抗革兰阴性杆菌",
+      "indicacoes": "浅表感染、烧伤、皮肤外伤、脓疱病",
+      "reacoesAdversas": "局部刺激、瘙痒、红斑、耳毒性（罕见）",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "局部小面积使用安全",
+      "administracao": "局部外用",
+      "doseMaxima": "每日1–3次，限小范围",
+      "doseMinima": "每日1次",
+      "classificacao": "氨基糖苷类局部抗生素",
+      "apresentacao": "0.1%软膏",
+      "interacaoMedicamento": "避免与系统性氨基糖苷类联合使用",
+      "posologia": "每日1–3次薄涂患处",
+      "armazenamento": "15–30°C避光",
+      "preparo": "开封即用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "对氨基糖苷类过敏、耳道开放者慎用",
+      "cuidadosMedicos": "限制面积与疗程，监测局部反应",
+      "cuidadosFarmaceuticos": "教育患者正确用法及用量",
+      "cuidadosEnfermagem": "观察过敏或治疗失败迹象",
+      "fontesBibliograficas": "中国药典、Micromedex、Medscape、FDA"
+    }
+  }
+}

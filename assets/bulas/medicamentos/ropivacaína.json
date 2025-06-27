@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ropivacaína",
+      "suspension": "Não disponível",
+      "risk": "Classe C na gravidez; utilizar com cautela",
+      "reintroduction": "Pode ser reintroduzida após avaliação médica cuidadosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ropivacaína",
+      "nomeComercial": "Naropin, Ropivacaína Fresenius",
+      "mecanismoAcao": "Bloqueia os canais de sódio dependentes de voltagem nas membranas neuronais, impedindo a propagação do impulso nervoso e promovendo anestesia local.",
+      "farmacocinetica": "Após administração parenteral, apresenta absorção lenta e distribuição ampla. Metabolizada principalmente no fígado por CYP1A2 e excretada principalmente na urina. Meia-vida plasmática média de 1.8 a 6 horas.",
+      "farmacodinamica": "Age como anestésico local do tipo amida, bloqueando a condução nervosa sensorial e motora, com duração prolongada e menor toxicidade cardíaca comparada à bupivacaína.",
+      "indicacoes": "Anestesia regional, incluindo bloqueios nervosos periféricos, anestesia epidural e raquidiana para cirurgias e analgesia pós-operatória.",
+      "reacoesAdversas": "Reações comuns incluem hipotensão, bradicardia, náuseas, tontura, parestesia, e reações alérgicas raras. Toxicidade sistêmica pode causar convulsões e depressão cardiovascular.",
+      "riscoGravidez": "Categoria C: não existem estudos adequados em gestantes; usar somente se o benefício justificar o risco potencial.",
+      "riscoLactacao": "Excretada em pequenas quantidades no leite materno; precaução recomendada.",
+      "administracao": "Administração parenteral por via epidural, raquidiana ou bloqueio nervoso periférico, conforme prescrição médica.",
+      "doseMaxima": "Dose máxima recomendada: 200 mg para adultos, ajustada conforme peso e condição clínica.",
+      "doseMinima": "Dose mínima eficaz depende do tipo de bloqueio e paciente; geralmente 5-10 mg para bloqueios menores.",
+      "classificacao": "Anestésico local do tipo amida",
+      "apresentacao": "Solução injetável 2 mg/mL (0,2%) e 7,5 mg/mL (0,75%) em frascos ampola de 10 mL e 20 mL.",
+      "interacaoMedicamento": "Potencializa efeito de antiarrítmicos e outros anestésicos locais; cuidado com fármacos que afetam CYP1A2.",
+      "posologia": "A dose deve ser individualizada, considerando o tipo de anestesia e o peso do paciente; administrar lentamente sob monitoramento.",
+      "armazenamento": "Conservar em temperatura entre 15°C e 30°C, protegido da luz e umidade.",
+      "preparo": "Preparar sob condições assépticas; não diluir com soluções contendo bicarbonato sem orientação específica.",
+      "solucoesCompatíveis": "Compatível com soluções de cloreto de sódio 0,9% e glicose 5%.",
+      "contraindicacoes": "Hipersensibilidade à ropivacaína ou anestésicos locais do tipo amida; bloqueio cardíaco grave; choque circulatório.",
+      "cuidadosMedicos": "Monitorar sinais vitais e ECG durante administração; estar preparado para tratamento de reações adversas graves.",
+      "cuidadosFarmaceuticos": "Verificar integridade do frasco e validade; evitar contaminação durante o manuseio.",
+      "cuidadosEnfermagem": "Observar sinais de toxicidade, monitorar função neurológica e cardiovascular; garantir via venosa permeável.",
+      "fontesBibliograficas": "Micromedex, Martindale - The Complete Drug Reference, ANVISA, PubMed"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ropivacaine",
+      "suspension": "Not available",
+      "risk": "Pregnancy Category C; use with caution",
+      "reintroduction": "May be reintroduced after careful medical evaluation"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ropivacaine",
+      "nomeComercial": "Naropin",
+      "mecanismoAcao": "Blocks voltage-gated sodium channels in neuronal membranes, preventing nerve impulse propagation and producing local anesthesia.",
+      "farmacocinetica": "After parenteral administration, shows slow absorption and wide distribution. Primarily metabolized in the liver by CYP1A2 and excreted mainly in urine. Plasma half-life ranges from 1.8 to 6 hours.",
+      "farmacodinamica": "Acts as an amide-type local anesthetic, blocking sensory and motor nerve conduction with prolonged duration and lower cardiac toxicity compared to bupivacaine.",
+      "indicacoes": "Regional anesthesia including peripheral nerve blocks, epidural, and spinal anesthesia for surgical procedures and postoperative analgesia.",
+      "reacoesAdversas": "Common adverse effects include hypotension, bradycardia, nausea, dizziness, paresthesia, and rare allergic reactions. Systemic toxicity may cause seizures and cardiovascular depression.",
+      "riscoGravidez": "Category C: no adequate studies in pregnant women; use only if potential benefit justifies risk.",
+      "riscoLactacao": "Excreted in small amounts in breast milk; exercise caution.",
+      "administracao": "Parenteral administration via epidural, spinal, or peripheral nerve block as prescribed.",
+      "doseMaxima": "Maximum recommended dose: 200 mg for adults, adjusted per weight and clinical condition.",
+      "doseMinima": "Minimum effective dose varies with block type and patient; typically 5-10 mg for minor blocks.",
+      "classificacao": "Amide-type local anesthetic",
+      "apresentacao": "Injectable solution 2 mg/mL (0.2%) and 7.5 mg/mL (0.75%) in 10 mL and 20 mL ampules.",
+      "interacaoMedicamento": "May potentiate effects of antiarrhythmics and other local anesthetics; caution with drugs affecting CYP1A2.",
+      "posologia": "Dose individualized based on anesthesia type and patient weight; administer slowly under monitoring.",
+      "armazenamento": "Store between 15°C and 30°C, protected from light and moisture.",
+      "preparo": "Prepare under aseptic conditions; do not dilute with bicarbonate-containing solutions without specific guidance.",
+      "solucoesCompatíveis": "Compatible with 0.9% sodium chloride and 5% glucose solutions.",
+      "contraindicacoes": "Hypersensitivity to ropivacaine or amide-type local anesthetics; severe cardiac block; circulatory shock.",
+      "cuidadosMedicos": "Monitor vital signs and ECG during administration; be prepared to manage severe adverse reactions.",
+      "cuidadosFarmaceuticos": "Check vial integrity and expiration date; avoid contamination during handling.",
+      "cuidadosEnfermagem": "Observe for toxicity signs, monitor neurological and cardiovascular function; ensure patent intravenous access.",
+      "fontesBibliograficas": "Micromedex, Martindale - The Complete Drug Reference, FDA, PubMed"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ropivacaína",
+      "suspension": "No disponible",
+      "risk": "Categoría C en el embarazo; usar con precaución",
+      "reintroduction": "Puede reintroducirse tras evaluación médica cuidadosa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ropivacaína",
+      "nomeComercial": "Naropin",
+      "mecanismoAcao": "Bloquea los canales de sodio dependientes de voltaje en las membranas neuronales, impidiendo la propagación del impulso nervioso y produciendo anestesia local.",
+      "farmacocinetica": "Tras administración parenteral, presenta absorción lenta y amplia distribución. Metabolizada principalmente en el hígado por CYP1A2 y excretada mayormente en orina. Vida media plasmática de 1.8 a 6 horas.",
+      "farmacodinamica": "Actúa como anestésico local del tipo amida, bloqueando la conducción nerviosa sensorial y motora, con duración prolongada y menor toxicidad cardíaca en comparación con la bupivacaína.",
+      "indicacoes": "Anestesia regional, incluyendo bloqueos nerviosos periféricos, anestesia epidural y raquídea para cirugías y analgesia postoperatoria.",
+      "reacoesAdversas": "Efectos adversos comunes incluyen hipotensión, bradicardia, náuseas, mareo, parestesias y raras reacciones alérgicas. Toxicidad sistémica puede causar convulsiones y depresión cardiovascular.",
+      "riscoGravidez": "Categoría C: no existen estudios adecuados en gestantes; usar solo si el beneficio justifica el riesgo potencial.",
+      "riscoLactacao": "Se excreta en pequeñas cantidades en la leche materna; se recomienda precaución.",
+      "administracao": "Administración parenteral por vía epidural, raquídea o bloqueo nervioso periférico, según prescripción médica.",
+      "doseMaxima": "Dosis máxima recomendada: 200 mg en adultos, ajustada según peso y condición clínica.",
+      "doseMinima": "Dosis mínima eficaz depende del tipo de bloqueo y paciente; generalmente 5-10 mg para bloqueos menores.",
+      "classificacao": "Anestésico local del tipo amida",
+      "apresentacao": "Solución inyectable 2 mg/mL (0,2%) y 7,5 mg/mL (0,75%) en frascos ampolla de 10 mL y 20 mL.",
+      "interacaoMedicamento": "Potencializa el efecto de antiarrítmicos y otros anestésicos locales; precaución con fármacos que afectan CYP1A2.",
+      "posologia": "La dosis debe individualizarse considerando el tipo de anestesia y el peso del paciente; administrar lentamente bajo monitoreo.",
+      "armazenamento": "Conservar entre 15°C y 30°C, protegido de la luz y humedad.",
+      "preparo": "Preparar en condiciones asépticas; no diluir con soluciones que contengan bicarbonato sin orientación específica.",
+      "solucoesCompatíveis": "Compatible con soluciones de cloruro de sodio al 0,9% y glucosa al 5%.",
+      "contraindicacoes": "Hipersensibilidad a ropivacaína o anestésicos locales tipo amida; bloqueo cardíaco grave; shock circulatorio.",
+      "cuidadosMedicos": "Monitorear signos vitales y ECG durante la administración; estar preparado para tratar reacciones adversas graves.",
+      "cuidadosFarmaceuticos": "Verificar integridad del frasco y fecha de vencimiento; evitar contaminación durante el manejo.",
+      "cuidadosEnfermagem": "Observar signos de toxicidad, monitorizar función neurológica y cardiovascular; asegurar vía venosa permeable.",
+      "fontesBibliograficas": "Micromedex, Martindale - The Complete Drug Reference, Agencia Española de Medicamentos, PubMed"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "罗哌卡因",
+      "suspension": "无",
+      "risk": "孕妇类别C；谨慎使用",
+      "reintroduction": "经医生仔细评估后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "罗哌卡因",
+      "nomeComercial": "Naropin",
+      "mecanismoAcao": "阻断神经膜上的电压依赖性钠通道，阻止神经冲动传导，产生局部麻醉效果。",
+      "farmacocinetica": "经注射给药后缓慢吸收，分布广泛。主要在肝脏通过CYP1A2代谢，主要经尿液排泄。血浆半衰期为1.8至6小时。",
+      "farmacodinamica": "作为酰胺类局麻药，阻断感觉和运动神经传导，作用时间长，心脏毒性低于布比卡因。",
+      "indicacoes": "区域麻醉，包括周围神经阻滞、硬膜外和脊髓麻醉，用于手术和术后镇痛。",
+      "reacoesAdversas": "常见不良反应包括低血压、心动过缓、恶心、头晕、感觉异常，罕见过敏反应。系统毒性可导致癫痫和心血管抑制。",
+      "riscoGravidez": "C类药物：孕妇缺乏充分研究，仅在潜在益处大于风险时使用。",
+      "riscoLactacao": "少量分泌入乳汁，建议谨慎使用。",
+      "administracao": "按医嘱经硬膜外、脊髓或周围神经阻滞注射给药。",
+      "doseMaxima": "成人最大推荐剂量：200毫克，依据体重和临床状况调整。",
+      "doseMinima": "最低有效剂量视阻滞类型和患者而定，通常小阻滞为5-10毫克。",
+      "classificacao": "酰胺类局麻药",
+      "apresentacao": "注射液，浓度2 mg/mL（0.2%）和7.5 mg/mL（0.75%），10 mL和20 mL安瓿装。",
+      "interacaoMedicamento": "可能增强抗心律失常药和其他局麻药的作用；与影响CYP1A2的药物慎用。",
+      "posologia": "剂量根据麻醉类型和患者体重个体化调整，缓慢注射并监测。",
+      "armazenamento": "15°C至30°C保存，避光防潮。",
+      "preparo": "无菌条件下配制；未经特殊指导，不得与含碳酸氢盐的溶液混合稀释。",
+      "solucoesCompatíveis": "与0.9%氯化钠和5%葡萄糖溶液兼容。",
+      "contraindicacoes": "对罗哌卡因或酰胺类局麻药过敏者；严重心脏传导阻滞；循环休克。",
+      "cuidadosMedicos": "给药期间监测生命体征和心电图，准备应对严重不良反应。",
+      "cuidadosFarmaceuticos": "检查安瓿完整性和有效期，操作时避免污染。",
+      "cuidadosEnfermagem": "观察中毒症状，监测神经和心血管功能，确保静脉通路畅通。",
+      "fontesBibliograficas": "Micromedex，Martindale - The Complete Drug Reference，中国国家药典，PubMed"
+    }
+  }
+}

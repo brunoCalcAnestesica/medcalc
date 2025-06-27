@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Mometasona (tópico)",
+      "suspension": "Não é necessário suspender antes de cirurgias menores; avaliar em cirurgias extensas ou sobre pele lesionada",
+      "risk": "Atrofia cutânea, infecção local, estrias; absorção sistêmica rara, mas possível em áreas extensas",
+      "reintroduction": "Reintroduzir após cicatrização completa da área operada"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Furoato de mometasona",
+      "nomeComercial": "Elocon, Mometas, Nasonex (forma nasal), Topison",
+      "mecanismoAcao": "Corticosteroide de média a alta potência que inibe fosfolipase A2, reduzindo a síntese de prostaglandinas e leucotrienos",
+      "farmacocinetica": "Absorção dérmica baixa (~1%); metabolizado no fígado; excreção renal/biliar",
+      "farmacodinamica": "Atividade anti-inflamatória, antipruriginosa e vasoconstritora local",
+      "indicacoes": "Psoríase, dermatite atópica, dermatite seborreica, líquen plano, eczemas",
+      "reacoesAdversas": "Queimação, prurido, atrofia, estrias, infecção fúngica ou bacteriana secundária",
+      "riscoGravidez": "Categoria C; evitar uso prolongado ou em áreas extensas",
+      "riscoLactacao": "Evitar aplicação nas mamas durante a amamentação",
+      "administracao": "Uso tópico",
+      "doseMaxima": "Aplicar 1x/dia; máximo 100 g/semana",
+      "doseMinima": "Aplicação local 1x/dia",
+      "classificacao": "Corticosteroide tópico de média/alta potência",
+      "apresentacao": "Creme, pomada, loção 0,1%",
+      "interacaoMedicamento": "Potencialização com outros corticosteroides; evitar oclusão",
+      "posologia": "Aplicar fina camada 1x/dia nas áreas afetadas",
+      "armazenamento": "Temperatura ambiente (15–30°C)",
+      "preparo": "Uso direto, não diluir",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecções virais/fúngicas ativas, rosácea, dermatite perioral",
+      "cuidadosMedicos": "Evitar uso facial prolongado; reavaliar após 14 dias",
+      "cuidadosFarmaceuticos": "Educar sobre uso adequado, tempo de aplicação e oclusão",
+      "cuidadosEnfermagem": "Observar sinais de atrofia, infecção ou hiperpigmentação",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Mometasone (topical)",
+      "suspension": "No suspension required for minor procedures; caution on damaged or post-op skin",
+      "risk": "Local atrophy, striae, infections; systemic absorption rare",
+      "reintroduction": "Resume after skin healing at surgical site"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Mometasone furoate",
+      "nomeComercial": "Elocon",
+      "mecanismoAcao": "Corticosteroid that inhibits phospholipase A2, decreasing inflammatory mediators",
+      "farmacocinetica": "Low dermal absorption; hepatic metabolism; renal/fecal excretion",
+      "farmacodinamica": "Local anti-inflammatory, vasoconstrictive, antipruritic effect",
+      "indicacoes": "Psoriasis, eczema, atopic/seborrheic dermatitis, lichen planus",
+      "reacoesAdversas": "Burning, itching, atrophy, acne, secondary infection",
+      "riscoGravidez": "Category C; avoid large areas and prolonged use",
+      "riscoLactacao": "Avoid nipple application if breastfeeding",
+      "administracao": "Topical",
+      "doseMaxima": "Apply once daily; ≤100 g/week",
+      "doseMinima": "Apply as needed once daily",
+      "classificacao": "Mid/high potency topical corticosteroid",
+      "apresentacao": "Cream, ointment, lotion 0.1%",
+      "interacaoMedicamento": "Increased effect with other steroids; avoid occlusion",
+      "posologia": "Apply a thin layer once daily",
+      "armazenamento": "Room temperature (59–86°F)",
+      "preparo": "Ready to use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Untreated infections, rosacea, perioral dermatitis",
+      "cuidadosMedicos": "Reassess use >14 days; avoid prolonged facial use",
+      "cuidadosFarmaceuticos": "Counsel on appropriate use, site and duration",
+      "cuidadosEnfermagem": "Monitor for skin changes and local reactions",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Mometasona (tópica)",
+      "suspension": "No se requiere suspensión prequirúrgica",
+      "risk": "Atrofia, estrías, infección secundaria; absorción sistémica mínima",
+      "reintroduction": "Reiniciar tras recuperación cutánea completa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Furoato de mometasona",
+      "nomeComercial": "Elocom",
+      "mecanismoAcao": "Corticosteroide tópico que inhibe la síntesis de mediadores inflamatorios",
+      "farmacocinetica": "Absorción baja, metabolismo hepático, excreción renal",
+      "farmacodinamica": "Efecto antiinflamatorio y antipruriginoso potente",
+      "indicacoes": "Psoriasis, dermatitis atópica, eczema, lupus discoide",
+      "reacoesAdversas": "Prurito, ardor, atrofia, acné, infección",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar zonas que contacten al lactante",
+      "administracao": "Tópica",
+      "doseMaxima": "100 g/semana",
+      "doseMinima": "1 aplicación/día",
+      "classificacao": "Corticoide tópico de potencia media-alta",
+      "apresentacao": "Crema/pomada 0,1%",
+      "interacaoMedicamento": "Potencia con otros corticoides; evitar oclusión",
+      "posologia": "1 aplicación/día capa fina",
+      "armazenamento": "15–30°C",
+      "preparo": "Aplicación directa",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Rosácea, infección activa, dermatitis perioral",
+      "cuidadosMedicos": "Evaluar a los 14 días; evitar en cara prolongadamente",
+      "cuidadosFarmaceuticos": "Educar sobre zonas, cantidad y duración",
+      "cuidadosEnfermagem": "Observar efectos adversos locales",
+      "fontesBibliograficas": "EMA, FDA, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "莫米松（外用）",
+      "suspension": "小手术不需停药；大手术或术区皮肤破损可评估",
+      "risk": "皮肤变薄、色素减退、继发感染，长期大面积使用需警惕吸收",
+      "reintroduction": "术后伤口愈合后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "莫米松富马酸酯",
+      "nomeComercial": "Elocon",
+      "mecanismoAcao": "抑制磷脂酶A2，减少前列腺素与炎症因子",
+      "farmacocinetica": "皮肤吸收率低；肝代谢；肾/胆排泄",
+      "farmacodinamica": "强效抗炎、止痒、血管收缩",
+      "indicacoes": "银屑病、湿疹、特应性皮炎、盘状红斑狼疮等",
+      "reacoesAdversas": "局部烧灼、痒、皮肤萎缩、继发真菌或病毒感染",
+      "riscoGravidez": "C类；孕期慎用",
+      "riscoLactacao": "哺乳期避免涂抹乳头",
+      "administracao": "外用",
+      "doseMaxima": "每周不超过100 g",
+      "doseMinima": "每日1次",
+      "classificacao": "中高效局部糖皮质激素",
+      "apresentacao": "0.1%乳膏/软膏/洗剂",
+      "interacaoMedicamento": "避免与其他激素类药长期叠加",
+      "posologia": "每日1次局部薄涂",
+      "armazenamento": "室温保存（15–30°C）",
+      "preparo": "直接使用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "皮肤真菌、病毒感染、玫瑰痤疮",
+      "cuidadosMedicos": "不宜连续使用超过14天；面部慎用",
+      "cuidadosFarmaceuticos": "指导正确使用范围和时间",
+      "cuidadosEnfermagem": "观察局部萎缩、色素沉着等反应",
+      "fontesBibliograficas": "中国药典，FDA，EMA，UpToDate"
+    }
+  }
+}

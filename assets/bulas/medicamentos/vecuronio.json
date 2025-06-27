@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vecurônio",
+      "suspension": "Não suspender – uso intraoperatório sob supervisão anestésica",
+      "risk": "Bloqueio neuromuscular profundo, apneia, bradicardia, interação com anestésicos voláteis e antibióticos",
+      "reintroduction": "Reintroduzir sob monitorização contínua com plano de reversão e suporte ventilatório disponível"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Brometo de Vecurônio",
+      "nomeComercial": "Norcuron",
+      "mecanismoAcao": "Bloqueador neuromuscular não despolarizante; antagonista competitivo dos receptores nicotínicos da acetilcolina",
+      "farmacocinetica": "Início de ação em 2–3 min, duração 25–40 min, metabolização hepática, excreção biliar e renal",
+      "farmacodinamica": "Induz paralisia muscular controlada para intubação e manutenção de relaxamento muscular",
+      "indicacoes": "Intubação traqueal, relaxamento muscular em cirurgias, facilitação da ventilação mecânica",
+      "reacoesAdversas": "Apneia, bradicardia, hipotensão, reações alérgicas, paralisia prolongada",
+      "riscoGravidez": "Categoria C",
+      "riscoLactacao": "Desconhecido; uso único em contexto cirúrgico geralmente seguro",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0,1 mg/kg (dose de indução)",
+      "doseMinima": "0,02 mg/kg (manutenção)",
+      "classificacao": "Bloqueador neuromuscular não despolarizante de ação intermediária",
+      "apresentacao": "Pó liofilizado para injeção 4mg ou 10mg; reconstituir antes do uso",
+      "interacaoMedicamento": "Potencialização com anestésicos inalatórios, aminoglicosídeos, lidocaína, bloqueadores de cálcio",
+      "posologia": "Indução: 0,08–0,1 mg/kg; manutenção: 0,01–0,015 mg/kg conforme resposta clínica",
+      "armazenamento": "Armazenar o pó seco entre 15–30°C; solução reconstituída usar em até 24h se refrigerada",
+      "preparo": "Reconstituir com SF 0,9% ou água estéril para injeção",
+      "solucoesCompatíveis": "SF 0,9%, ringer lactato",
+      "contraindicacoes": "Hipersensibilidade, histórico de miastenia grave ou bloqueio neuromuscular prévio não revertido",
+      "cuidadosMedicos": "Monitorar TOF, ECG, função respiratória, planejar reversão com neostigmina ou sugamadex",
+      "cuidadosFarmaceuticos": "Conferir data de validade e estabilidade da solução reconstituída",
+      "cuidadosEnfermagem": "Garantir ventilação, vigilância de sinais vitais, bloqueio residual e sedação associada",
+      "fontesBibliograficas": "SBAn, FDA, ANVISA, Micromedex, EMA"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vecuronium",
+      "suspension": "Do not suspend – intraoperative use only under anesthetic supervision",
+      "risk": "Deep neuromuscular block, apnea, bradycardia, interaction with anesthetics and aminoglycosides",
+      "reintroduction": "Re-administer only with TOF monitoring and proper reversal strategy (e.g. neostigmine or sugammadex)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vecuronium Bromide",
+      "nomeComercial": "Norcuron",
+      "mecanismoAcao": "Non-depolarizing neuromuscular blocker; competes with acetylcholine at nicotinic receptors of motor endplate",
+      "farmacocinetica": "Onset 2–3 min, duration 25–40 min, hepatic metabolism, biliary and renal elimination",
+      "farmacodinamica": "Produces controlled skeletal muscle relaxation for intubation and surgical procedures",
+      "indicacoes": "Tracheal intubation, muscle relaxation during surgery, facilitation of mechanical ventilation",
+      "reacoesAdversas": "Apnea, hypotension, bradycardia, allergic reactions, prolonged blockade",
+      "riscoGravidez": "Category C",
+      "riscoLactacao": "Unknown; single intraoperative use likely safe",
+      "administracao": "Intravenous",
+      "doseMaxima": "0.1 mg/kg (induction)",
+      "doseMinima": "0.02 mg/kg (maintenance)",
+      "classificacao": "Intermediate-acting non-depolarizing neuromuscular blocker",
+      "apresentacao": "Lyophilized powder 4mg or 10mg vials; reconstitute prior to use",
+      "interacaoMedicamento": "Potentiated by volatile anesthetics, aminoglycosides, calcium channel blockers, lidocaine",
+      "posologia": "Induction: 0.08–0.1 mg/kg; maintenance: 0.01–0.015 mg/kg as needed",
+      "armazenamento": "Store dry powder at 15–30°C; reconstituted solution stable for 24h if refrigerated",
+      "preparo": "Reconstitute with sterile water or 0.9% NaCl",
+      "solucoesCompatíveis": "Normal saline, lactated Ringer's",
+      "contraindicacoes": "Known hypersensitivity, history of myasthenia gravis or unresolved neuromuscular blockade",
+      "cuidadosMedicos": "Monitor TOF, ECG, respiratory function, plan reversal with sugammadex or neostigmine",
+      "cuidadosFarmaceuticos": "Check stability and expiration of reconstituted solution",
+      "cuidadosEnfermagem": "Ensure ventilation, monitor vitals, assess for residual blockade and sedation",
+      "fontesBibliograficas": "FDA, Lexicomp, Micromedex, ASA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vecuronio",
+      "suspension": "No suspender – uso intraoperatorio bajo supervisión anestésica",
+      "risk": "Bloqueo neuromuscular profundo, apnea, bradicardia, interacción con anestésicos y antibióticos",
+      "reintroduction": "Reintroducir solo con monitorización neuromuscular y plan de reversión adecuado"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Bromuro de Vecuronio",
+      "nomeComercial": "Norcuron",
+      "mecanismoAcao": "Bloqueador neuromuscular no despolarizante; antagonista competitivo de los receptores nicotínicos",
+      "farmacocinetica": "Inicio en 2–3 min, duración 25–40 min, metabolismo hepático, excreción biliar y renal",
+      "farmacodinamica": "Relajación muscular controlada para facilitar la intubación y procedimientos quirúrgicos",
+      "indicacoes": "Intubación, relajación quirúrgica, soporte ventilatorio",
+      "reacoesAdversas": "Apnea, hipotensión, bradicardia, reacciones alérgicas, parálisis prolongada",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Desconocido; uso quirúrgico único generalmente seguro",
+      "administracao": "Intravenosa",
+      "doseMaxima": "0,1 mg/kg",
+      "doseMinima": "0,02 mg/kg",
+      "classificacao": "Bloqueador neuromuscular no despolarizante de acción intermedia",
+      "apresentacao": "Polvo liofilizado para inyección: 4mg, 10mg",
+      "interacaoMedicamento": "Potenciado por anestésicos inhalados, aminoglucósidos, bloqueadores de calcio, lidocaína",
+      "posologia": "Inducción: 0,08–0,1 mg/kg; mantenimiento: 0,01–0,015 mg/kg",
+      "armazenamento": "Almacenar el polvo a 15–30°C; solución reconstituida usar en 24h refrigerada",
+      "preparo": "Reconstituir con agua estéril o solución salina al 0,9%",
+      "solucoesCompatíveis": "Salina, Ringer lactato",
+      "contraindicacoes": "Alergia conocida, miastenia grave, bloqueo neuromuscular no resuelto",
+      "cuidadosMedicos": "Monitorizar TOF, ECG, respiración, plan de reversión con neostigmina o sugamadex",
+      "cuidadosFarmaceuticos": "Revisar estabilidad y caducidad de la solución",
+      "cuidadosEnfermagem": "Garantizar ventilación, controlar signos vitales y bloqueo residual",
+      "fontesBibliograficas": "AEMPS, FDA, Micromedex, Guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "维库溴铵",
+      "suspension": "无需停药——术中由麻醉师监护使用",
+      "risk": "肌松过深、呼吸暂停、心动过缓，与麻醉药和抗生素相互作用",
+      "reintroduction": "术后48–72小时，仅在具备TOF监测和逆转药物（如舒更葡糖钠或新斯的明）条件下可再次使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "溴化维库铵",
+      "nomeComercial": "Norcuron",
+      "mecanismoAcao": "非去极化型神经肌肉阻滞剂，通过竞争性抑制乙酰胆碱在神经肌接头处的作用",
+      "farmacocinetica": "起效时间2–3分钟，持续时间25–40分钟，肝代谢，胆汁和肾脏排泄",
+      "farmacodinamica": "用于插管和外科手术中的骨骼肌松弛",
+      "indicacoes": "气管插管、手术期间肌松、ICU机械通气辅助",
+      "reacoesAdversas": "呼吸暂停、心动过缓、低血压、过敏反应、肌松延长",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "尚无数据；术中单次使用通常安全",
+      "administracao": "静脉注射",
+      "doseMaxima": "0.1 mg/kg",
+      "doseMinima": "0.02 mg/kg",
+      "classificacao": "中效非去极化肌松药",
+      "apresentacao": "冻干粉针剂：4mg 或 10mg，使用前需复溶",
+      "interacaoMedicamento": "与吸入麻醉药、氨基糖苷类、钙通道阻滞剂、利多卡因协同作用",
+      "posologia": "诱导：0.08–0.1 mg/kg；维持：0.01–0.015 mg/kg",
+      "armazenamento": "干粉15–30°C储存，复溶液冷藏24小时内使用",
+      "preparo": "用0.9%生理盐水或注射用水复溶",
+      "solucoesCompatíveis": "生理盐水、乳酸林格液",
+      "contraindicacoes": "对维库溴铵过敏、重症肌无力史、尚未逆转的神经肌肉阻滞",
+      "cuidadosMedicos": "监测TOF、心电图、呼吸，提前规划逆转用药",
+      "cuidadosFarmaceuticos": "检查复溶液稳定性和有效期",
+      "cuidadosEnfermagem": "确保通气充分，监测生命体征和肌松残余",
+      "fontesBibliograficas": "NMPA, FDA, WHO, Micromedex"
+    }
+  }
+}

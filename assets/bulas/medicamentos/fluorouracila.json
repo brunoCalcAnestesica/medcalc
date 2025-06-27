@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Fluorouracila",
+      "suspension": "Suspender 7 dias antes de cirurgia eletiva se usada em altas doses; considerar manutenção em baixas doses contínuas com avaliação individual",
+      "risk": "Mielossupressão, mucosite, diarreia, toxicidade cardíaca, síndrome mão-pé, náuseas, risco infeccioso",
+      "reintroduction": "Reintroduzir após estabilização hematológica e resolução de toxicidades, geralmente 10 a 14 dias após cirurgia"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fluorouracila (5-FU)",
+      "nomeComercial": "Efudix, Fluoronil, Fluracil, Adrucil",
+      "mecanismoAcao": "Análogo de pirimidina que inibe a timidilato sintetase, bloqueando síntese de DNA e RNA",
+      "farmacocinetica": "IV ou tópico; metabolismo hepático via DPD (dihidropirimidina desidrogenase); meia-vida curta (~10–20 min)",
+      "farmacodinamica": "Citotóxico em fase S; efeito aumentado com leucovorina (resgate bioquímico)",
+      "indicacoes": "Câncer colorretal, gástrico, pancreático, de mama, cabeça e pescoço, carcinoma basocelular (uso tópico)",
+      "reacoesAdversas": "Leucopenia, mucosite, diarreia, estomatite, alopecia, síndrome mão-pé, dor torácica, miocardiopatia",
+      "riscoGravidez": "Categoria D – contraindicado, exceto risco oncológico vital",
+      "riscoLactacao": "Contraindicado; excreção no leite confirmada",
+      "administracao": "IV em bolus ou infusão contínua; uso tópico dermatológico",
+      "doseMaxima": "800–1000mg/m²/dia (em combinação); 400–600mg/m²/dia como bolus",
+      "doseMinima": "250mg/m²/dia",
+      "classificacao": "Antimetabólito; análogo da pirimidina",
+      "apresentacao": "Ampolas 500mg/10ml, 1000mg/20ml; creme dermatológico 5%",
+      "interacaoMedicamento": "Toxicidade aumentada com leucovorina; interação grave com capecitabina, warfarina, metronidazol",
+      "posologia": "400mg/m² bolus IV seguido de 2400mg/m²/46h (FOLFOX/FOLFIRI); 800mg/m²/dia com leucovorina 5 dias",
+      "armazenamento": "Temperatura ambiente (15–30°C); creme tópico manter protegido da luz",
+      "preparo": "Reconstituir/diluir em SF 0,9% ou glicose 5%; uso exclusivo IV ou tópico",
+      "solucoesCompatíveis": "Cloreto de sódio 0,9%, glicose 5%",
+      "contraindicacoes": "Deficiência de DPD, mielossupressão grave, gravidez/lactação",
+      "cuidadosMedicos": "Avaliar função hepática, risco cardíaco, testar deficiência de DPD (DPYD)",
+      "cuidadosFarmaceuticos": "Conferir dose com base em superfície corporal; garantir fotoproteção do creme",
+      "cuidadosEnfermagem": "Observar mucosite, evacuações, fadiga, toxicidade hematológica e cardíaca",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, NCCN, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Fluorouracil (5-FU)",
+      "suspension": "Hold 7 days prior to surgery if high-dose; low-dose continuous infusion may be continued upon oncologist discretion",
+      "risk": "Myelosuppression, mucositis, cardiotoxicity, diarrhea, nausea, hand-foot syndrome",
+      "reintroduction": "Restart 10–14 days post-op after hematologic and GI recovery"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fluorouracil",
+      "nomeComercial": "Adrucil, Efudex",
+      "mecanismoAcao": "Inhibits thymidylate synthase, impairing DNA/RNA synthesis",
+      "farmacocinetica": "IV or topical; hepatic metabolism (DPD); short T½ (~10–20 min)",
+      "farmacodinamica": "S-phase cytotoxic; enhanced by leucovorin",
+      "indicacoes": "Colorectal, breast, pancreatic, gastric, head/neck, basal cell carcinoma",
+      "reacoesAdversas": "Neutropenia, diarrhea, stomatitis, cardiotoxicity, photosensitivity (topical)",
+      "riscoGravidez": "Category D – avoid unless necessary",
+      "riscoLactacao": "Avoid breastfeeding",
+      "administracao": "IV bolus or continuous infusion; topical",
+      "doseMaxima": "1000mg/m²/day; bolus ~400–600mg/m²",
+      "doseMinima": "250mg/m²/day",
+      "classificacao": "Antimetabolite; pyrimidine analog",
+      "apresentacao": "Injection 500mg/10ml, 1000mg/20ml; cream 5%",
+      "interacaoMedicamento": "Toxicity increased by leucovorin; interacts with warfarin, capecitabine, metronidazole",
+      "posologia": "400mg/m² IV bolus + 2400mg/m²/46h infusion (FOLFOX/FOLFIRI); 800mg/m² x 5d w/ leucovorin",
+      "armazenamento": "Store 15–30°C; protect topical form from light",
+      "preparo": "Dilute in NS or D5W; cytotoxic handling required",
+      "solucoesCompatíveis": "NS, D5W",
+      "contraindicacoes": "DPD deficiency, pregnancy, severe myelosuppression",
+      "cuidadosMedicos": "Screen for DPD deficiency (DPYD); monitor CBC, ECG, mucositis",
+      "cuidadosFarmaceuticos": "Verify BSA dose, protect topical from light, label as cytotoxic",
+      "cuidadosEnfermagem": "Assess mucositis, fatigue, stool pattern, infusion site",
+      "fontesBibliograficas": "FDA label, NCCN, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Fluorouracilo",
+      "suspension": "Suspender 7 días antes de cirugía si dosis altas; considerar mantener en dosis bajas continuas",
+      "risk": "Mielosupresión, diarrea, mucositis, cardiotoxicidad, náusea, síndrome mano-pie",
+      "reintroduction": "Reintroducir 10–14 días después tras recuperación hematológica y digestiva"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Fluorouracilo",
+      "nomeComercial": "Adrucil, Efudix",
+      "mecanismoAcao": "Inhibe timidilato sintetasa, impidiendo síntesis de ADN/ARN",
+      "farmacocinetica": "IV o tópico; metabolismo hepático; T½ ~10–20 min",
+      "farmacodinamica": "Citotóxico en fase S; potencia con leucovorina",
+      "indicacoes": "Cáncer colorrectal, gástrico, mama, cabeza/cuello, carcinoma basocelular",
+      "reacoesAdversas": "Leucopenia, estomatitis, mucositis, diarrea, alopecia, dolor torácico",
+      "riscoGravidez": "Categoría D – contraindicado salvo indicación vital",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Infusión IV lenta o aplicación tópica",
+      "doseMaxima": "1000mg/m²/día; bolus 400–600mg/m²",
+      "doseMinima": "250mg/m²/día",
+      "classificacao": "Antimetabolito; análogo de pirimidina",
+      "apresentacao": "Inyectable 500mg, 1000mg; crema 5%",
+      "interacaoMedicamento": "Interacción con warfarina, metronidazol, leucovorina",
+      "posologia": "400mg/m² bolus + 2400mg/m² 46h; 800mg/m² x 5d",
+      "armazenamento": "15–30°C; crema evitar luz directa",
+      "preparo": "Diluir en NaCl 0,9% o glucosa 5%; condiciones citotóxicas",
+      "solucoesCompatíveis": "NaCl 0,9%, glucosa 5%",
+      "contraindicacoes": "Déficit de DPD, embarazo, supresión medular severa",
+      "cuidadosMedicos": "Pruebas DPD, ECG, hemograma, evaluación GI",
+      "cuidadosFarmaceuticos": "Verificar dosis por SC, controlar fotosensibilidad tópica",
+      "cuidadosEnfermagem": "Vigilar mucositis, fatiga, deposiciones, toxicidad",
+      "fontesBibliograficas": "EMA, ficha técnica, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "氟尿嘧啶",
+      "suspension": "术前7天停药（高剂量时）；连续低剂量需个体评估",
+      "risk": "骨髓抑制、腹泻、口腔炎、心脏毒性、手足综合征",
+      "reintroduction": "术后10–14天，血象和胃肠功能恢复后可重启"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "氟尿嘧啶",
+      "nomeComercial": "艾德注射液（Adrucil）",
+      "mecanismoAcao": "抑制胸苷酸合酶，阻断DNA合成",
+      "farmacocinetica": "IV或局部外用；T½短；肝代谢；主要粪便排泄",
+      "farmacodinamica": "S期细胞毒药物，与亚叶酸协同",
+      "indicacoes": "结直肠癌、胃癌、胰腺癌、乳腺癌、头颈癌、皮肤癌",
+      "reacoesAdversas": "白细胞减少、口腔炎、腹泻、胸痛、皮肤炎、光敏感",
+      "riscoGravidez": "D类 – 禁用于孕期",
+      "riscoLactacao": "禁用；可分泌乳汁",
+      "administracao": "静脉推注或连续输注；皮肤病变外用",
+      "doseMaxima": "每日1000mg/m²；bolus剂量400–600mg/m²",
+      "doseMinima": "每日250mg/m²",
+      "classificacao": "抗代谢药，嘧啶类似物",
+      "apresentacao": "注射液500mg/10ml、1000mg/20ml；5%乳膏",
+      "interacaoMedicamento": "与亚叶酸、甲硝唑、华法林合用需谨慎",
+      "posologia": "FOLFOX/FOLFIRI方案中常用剂量为400mg/m² + 2400mg/m² 46h",
+      "armazenamento": "15–30°C保存；乳膏避光",
+      "preparo": "按细胞毒药规范稀释于0.9%氯化钠或5%葡萄糖",
+      "solucoesCompatíveis": "0.9%氯化钠、5%葡萄糖",
+      "contraindicacoes": "DPD缺陷、妊娠、重度骨髓抑制",
+      "cuidadosMedicos": "检测DPYD、心电图、CBC、口腔检查",
+      "cuidadosFarmaceuticos": "确保剂量、保护乳膏免光照",
+      "cuidadosEnfermagem": "观察口腔炎、腹泻、皮肤变色、疲劳",
+      "fontesBibliograficas": "中国药典、FDA、EMA、Micromedex、NCCN"
+    }
+  }
+}

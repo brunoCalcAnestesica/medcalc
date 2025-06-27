@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Vilanterol",
+      "suspension": "Não é necessário suspender antes de cirurgias eletivas.",
+      "risk": "Pode causar tremores, taquicardia, hipocalemia, arritmias e interação com anestésicos halogenados. Evitar monoterapia em asma.",
+      "reintroduction": "Pode ser mantido ou reintroduzido no pós-operatório com vigilância clínica padrão."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vilanterol trifenatato",
+      "nomeComercial": "Relvar Ellipta (com fluticasona), Anoro Ellipta (com umeclidínio), Trelegy Ellipta (com fluticasona + umeclidínio)",
+      "mecanismoAcao": "Agonista β2-adrenérgico de ultra longa duração (ultra-LABA), estimula receptores β2 levando à broncodilatação prolongada.",
+      "farmacocinetica": "Início: 15 min; pico: 1–2 h; duração: ≥24 h; metabolização hepática (CYP3A4); excreção fecal.",
+      "farmacodinamica": "Melhora função pulmonar, reduz sintomas e exacerbações da DPOC e da asma (em associação com corticoide).",
+      "indicacoes": "Tratamento de manutenção da asma (com ICS) e DPOC (com LAMA, com ou sem ICS).",
+      "reacoesAdversas": "Tremores, taquicardia, cefaleia, faringite, dor torácica, hipocalemia.",
+      "riscoGravidez": "Categoria C – usar com cautela.",
+      "riscoLactacao": "Considerado compatível, sob monitoramento.",
+      "administracao": "Inalatória (Ellipta DPI).",
+      "doseMaxima": "25 mcg/dia (em associação).",
+      "doseMinima": "25 mcg/dia (dose única diária).",
+      "classificacao": "Agonista β2 de ultra longa duração (ultra-LABA).",
+      "apresentacao": "Dispositivo Ellipta com dose fixa (25 mcg vilanterol por inalação).",
+      "interacaoMedicamento": "Beta-bloqueadores, diuréticos, glicocorticoides, fármacos QT-prolongadores.",
+      "posologia": "1 inalação 1x/dia em dispositivo Ellipta (dose fixa combinada).",
+      "armazenamento": "Ambiente seco, temperatura <30°C, descartar 6 semanas após abertura.",
+      "preparo": "Não requer preparo. Inalar profundamente após abertura do dispositivo.",
+      "solucoesCompatíveis": "Não aplicável.",
+      "contraindicacoes": "Asma em monoterapia, hipersensibilidade, arritmias graves.",
+      "cuidadosMedicos": "Monitorar padrão respiratório, potássio, sintomas cardiovasculares.",
+      "cuidadosFarmaceuticos": "Verificar adesão ao tratamento e uso correto do Ellipta.",
+      "cuidadosEnfermagem": "Observar sinais de tremor, agitação, resposta respiratória.",
+      "fontesBibliograficas": "GOLD, GINA, ANVISA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Vilanterol",
+      "suspension": "No need to stop before elective surgery.",
+      "risk": "Risk of tremor, palpitations, hypokalemia, and QT prolongation. Avoid as monotherapy in asthma.",
+      "reintroduction": "Can be maintained or resumed post-op under clinical supervision."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vilanterol trifenatate",
+      "nomeComercial": "Breo Ellipta (with fluticasone), Anoro Ellipta (with umeclidinium), Trelegy Ellipta (triple combo)",
+      "mecanismoAcao": "Ultra-LABA that stimulates β2 receptors causing prolonged bronchial smooth muscle relaxation.",
+      "farmacocinetica": "Onset: 15 min; peak: 1–2 h; duration: ≥24 h; metabolized via CYP3A4; excreted fecally.",
+      "farmacodinamica": "Long-acting bronchodilation with reduced COPD exacerbations and symptom control. Not for acute rescue.",
+      "indicacoes": "Maintenance therapy in asthma (with ICS) and COPD (with LAMA ± ICS).",
+      "reacoesAdversas": "Headache, tremor, palpitations, sore throat, hypokalemia, chest pain.",
+      "riscoGravidez": "Category C – use only if clearly indicated.",
+      "riscoLactacao": "Compatible with monitoring.",
+      "administracao": "Inhalation via Ellipta device.",
+      "doseMaxima": "25 mcg/day (fixed-dose combinations).",
+      "doseMinima": "25 mcg/day.",
+      "classificacao": "Ultra-long-acting β2-agonist (ultra-LABA).",
+      "apresentacao": "Ellipta DPI with fixed-dose inhalation (25 mcg vilanterol/dose).",
+      "interacaoMedicamento": "Beta-blockers, diuretics, corticosteroids, QT-prolonging drugs.",
+      "posologia": "1 inhalation once daily (fixed combo device).",
+      "armazenamento": "Store <30°C; discard 6 weeks after opening.",
+      "preparo": "No preparation. Inhale after device activation.",
+      "solucoesCompatíveis": "Not applicable.",
+      "contraindicacoes": "Asthma monotherapy, hypersensitivity, uncontrolled arrhythmias.",
+      "cuidadosMedicos": "Monitor HR, potassium, ECG if needed.",
+      "cuidadosFarmaceuticos": "Ensure correct use of Ellipta and adherence.",
+      "cuidadosEnfermagem": "Observe for tremor, tachycardia, respiratory response.",
+      "fontesBibliograficas": "FDA, GOLD, GINA, UpToDate, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Vilanterol",
+      "suspension": "No requiere suspensión prequirúrgica.",
+      "risk": "Puede causar temblor, taquicardia, hipopotasemia; evitar monoterapia en asma.",
+      "reintroduction": "Puede mantenerse o reintroducirse tras cirugía con monitoreo."
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Vilanterol trifenatato",
+      "nomeComercial": "Relvar Ellipta, Anoro Ellipta, Trelegy Ellipta",
+      "mecanismoAcao": "Agonista β2 de acción ultra prolongada, provoca relajación sostenida del músculo bronquial.",
+      "farmacocinetica": "Inicio: 15 min; pico: 1–2 h; duración: ≥24 h; metabolización hepática (CYP3A4); excreción fecal.",
+      "farmacodinamica": "Broncodilatación prolongada, mejora síntomas y reduce exacerbaciones.",
+      "indicacoes": "Asma (con corticoide), EPOC (con LAMA ± ICS).",
+      "reacoesAdversas": "Cefalea, temblor, palpitaciones, faringitis, hipopotasemia.",
+      "riscoGravidez": "Categoría C – usar si beneficio supera riesgo.",
+      "riscoLactacao": "Compatible bajo vigilancia.",
+      "administracao": "Inhalación vía dispositivo Ellipta.",
+      "doseMaxima": "25 mcg/día (combinado).",
+      "doseMinima": "25 mcg/día.",
+      "classificacao": "Agonista β2 de ultra larga duración.",
+      "apresentacao": "Ellipta DPI con dosis fija de 25 mcg vilanterol.",
+      "interacaoMedicamento": "Betabloqueantes, diuréticos, glucocorticoides, QT-prolongadores.",
+      "posologia": "1 inhalación 1 vez/día.",
+      "armazenamento": "Ambiente seco, <30°C, desechar 6 semanas tras apertura.",
+      "preparo": "No requiere preparación.",
+      "solucoesCompatíveis": "No aplica.",
+      "contraindicacoes": "Monoterapia en asma, hipersensibilidad, arritmias graves.",
+      "cuidadosMedicos": "Controlar FC, potasio, síntomas cardiovasculares.",
+      "cuidadosFarmaceuticos": "Verificar técnica Ellipta, adherencia.",
+      "cuidadosEnfermagem": "Observar temblores, agitación, eficacia respiratoria.",
+      "fontesBibliograficas": "GOLD, GINA, AEMPS, UpToDate"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "维兰特罗（Vilanterol）",
+      "suspension": "择期手术前无需停药。",
+      "risk": "可能导致震颤、心悸、低钾，与麻醉剂有协同风险；哮喘单药禁用。",
+      "reintroduction": "术后可继续或恢复使用，监测心肺反应。"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "维兰特罗三苯甲酸盐",
+      "nomeComercial": "Relvar Ellipta、Anoro Ellipta、Trelegy Ellipta",
+      "mecanismoAcao": "超长效β2激动剂，支气管平滑肌松弛，维持支气管扩张。",
+      "farmacocinetica": "起效15分钟；达峰1–2小时；持续≥24小时；CYP3A4代谢，经粪便排泄。",
+      "farmacodinamica": "持续性支气管扩张，改善慢阻肺症状并减少急性发作。",
+      "indicacoes": "哮喘（与激素联用）、慢阻肺（与抗胆碱药 ± 激素）。",
+      "reacoesAdversas": "头痛、震颤、心悸、喉咙痛、低钾、胸痛。",
+      "riscoGravidez": "C类，仅在必要时使用。",
+      "riscoLactacao": "哺乳期可用，需监测。",
+      "administracao": "Ellipta设备吸入。",
+      "doseMaxima": "每日25微克（固定剂量）。",
+      "doseMinima": "每日25微克。",
+      "classificacao": "超长效β2激动剂（Ultra-LABA）。",
+      "apresentacao": "Ellipta干粉吸入器，25微克剂量。",
+      "interacaoMedicamento": "β阻滞剂、利尿剂、糖皮质激素、延长QT药物。",
+      "posologia": "每日1次吸入。",
+      "armazenamento": "避光干燥处，<30°C，开封后6周内用完。",
+      "preparo": "无需稀释，打开即吸。",
+      "solucoesCompatíveis": "不适用。",
+      "contraindicacoes": "哮喘单药、对成分过敏、严重心律失常。",
+      "cuidadosMedicos": "监测心率、电解质、心电图。",
+      "cuidadosFarmaceuticos": "指导Ellipta使用方法并确保依从性。",
+      "cuidadosEnfermagem": "观察呼吸缓解效果与心动过速、震颤等反应。",
+      "fontesBibliograficas": "GINA、中国药典、Micromedex、UpToDate"
+    }
+  }
+}

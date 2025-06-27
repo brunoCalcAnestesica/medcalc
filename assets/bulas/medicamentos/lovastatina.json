@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lovastatina",
+      "suspension": "Suspender em caso de rabdomiólise prévia ou hepatopatia ativa",
+      "risk": "Potencial miopatia, rabdomiólise e interação com anestésicos e antifúngicos",
+      "reintroduction": "Reintroduzir após normalização de transaminases e CPK"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lovastatina",
+      "nomeComercial": "Mevacor, Altocor, Lovacor, Lovastin, Lovacet",
+      "mecanismoAcao": "Pró-fármaco inibidor da HMG-CoA redutase que reduz a síntese de colesterol hepático e aumenta captação de LDL.",
+      "farmacocinetica": "Biodisponibilidade <5%; metabolização CYP3A4; meia-vida ~2–5h; excreção fecal.",
+      "farmacodinamica": "Reduz LDL e colesterol total; efeito modesto em HDL e triglicérides; efeitos anti-inflamatórios vasculares.",
+      "indicacoes": "Hipercolesterolemia primária, dislipidemia mista, prevenção de eventos cardiovasculares",
+      "reacoesAdversas": "Mialgia, cefaleia, insônia, aumento de transaminases, dor abdominal, raramente rabdomiólise",
+      "riscoGravidez": "Categoria X (contraindicado)",
+      "riscoLactacao": "Contraindicado; excretado no leite materno",
+      "administracao": "Via oral, 1x/dia à noite com alimentos",
+      "doseMaxima": "80mg/dia",
+      "doseMinima": "10mg/dia",
+      "classificacao": "Estatina / inibidor da HMG-CoA redutase / hipolipemiante",
+      "apresentacao": "Comprimidos de 10, 20 e 40mg",
+      "interacaoMedicamento": "Interage com suco de grapefruit, azóis, macrolídeos, ciclosporina, fibratos, verapamil",
+      "posologia": "20–80mg/dia; iniciar com 20mg à noite",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da luz",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Doença hepática ativa, gravidez, lactação",
+      "cuidadosMedicos": "Monitorar TGO, TGP e CPK; evitar em pacientes com risco aumentado de rabdomiólise",
+      "cuidadosFarmaceuticos": "Evitar uso com suco de toranja; orientar administração com alimentos",
+      "cuidadosEnfermagem": "Observar sinais de miopatia e toxicidade hepática",
+      "fontesBibliograficas": "Micromedex, Bula Mevacor, FDA Drug Label, PubChem CID: 53232"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lovastatin",
+      "suspension": "Discontinue in active liver disease or prior rhabdomyolysis",
+      "risk": "Myopathy, rhabdomyolysis risk; interacts with anesthetics and CYP3A4 substrates",
+      "reintroduction": "Resume after normalization of liver and muscle markers"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lovastatin",
+      "nomeComercial": "Mevacor, Altocor, Altoprev, Lovastin",
+      "mecanismoAcao": "Prodrug HMG-CoA reductase inhibitor; reduces hepatic cholesterol synthesis and increases LDL clearance.",
+      "farmacocinetica": "Bioavailability <5%; CYP3A4 metabolism; half-life 2–5h; fecal elimination.",
+      "farmacodinamica": "Lowers LDL and total cholesterol; mild HDL and TG effects; anti-inflammatory properties",
+      "indicacoes": "Primary hypercholesterolemia, mixed dyslipidemia, CV risk reduction",
+      "reacoesAdversas": "Myalgia, headache, GI upset, transaminase elevation, rare rhabdomyolysis",
+      "riscoGravidez": "Category X (contraindicated)",
+      "riscoLactacao": "Contraindicated; excreted in breast milk",
+      "administracao": "Oral; once daily at bedtime with food",
+      "doseMaxima": "80mg/day",
+      "doseMinima": "10mg/day",
+      "classificacao": "Statin / HMG-CoA reductase inhibitor",
+      "apresentacao": "Tablets: 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Interacts with grapefruit juice, azoles, macrolides, cyclosporine, fibrates, verapamil",
+      "posologia": "20–80mg/day; start at 20mg with dinner",
+      "armazenamento": "Store at 15–30°C, away from light",
+      "preparo": "No preparation needed",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Active liver disease, pregnancy, breastfeeding",
+      "cuidadosMedicos": "Monitor LFTs and CPK; caution in elderly and frail",
+      "cuidadosFarmaceuticos": "Advise against grapefruit; ensure consistent intake with food",
+      "cuidadosEnfermagem": "Monitor for muscle pain or liver dysfunction",
+      "fontesBibliograficas": "FDA, Micromedex, PubChem CID: 53232"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lovastatina",
+      "suspension": "Suspender si hay hepatopatía o rabdomiólisis previa",
+      "risk": "Riesgo de miopatía, hepatotoxicidad; interacciones con anestesia y antifúngicos",
+      "reintroduction": "Reintroducir tras normalización hepática y muscular"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lovastatina",
+      "nomeComercial": "Mevacor, Altocor, Lovacor",
+      "mecanismoAcao": "Inhibidor de la HMG-CoA reductasa; reduce síntesis de colesterol hepático y aumenta captación de LDL",
+      "farmacocinetica": "Biodisponibilidad <5%; metabolismo CYP3A4; semivida 2–5h; excreción fecal.",
+      "farmacodinamica": "Reduce LDL y colesterol total; efecto leve en TG y HDL",
+      "indicacoes": "Hipercolesterolemia primaria, dislipidemia mixta, prevención cardiovascular",
+      "reacoesAdversas": "Mialgia, cefalea, insomnio, rabdomiólisis rara",
+      "riscoGravidez": "Categoría X (prohibido)",
+      "riscoLactacao": "Prohibido; se excreta en leche",
+      "administracao": "Vía oral, por la noche con comida",
+      "doseMaxima": "80mg/día",
+      "doseMinima": "10mg/día",
+      "classificacao": "Estatina / hipolipemiante",
+      "apresentacao": "Comprimidos: 10mg, 20mg, 40mg",
+      "interacaoMedicamento": "Interacción con zumo de toronja, antifúngicos, ciclosporina, fibratos",
+      "posologia": "20–80mg/día; iniciar con 20mg por la noche",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hepatopatía activa, embarazo, lactancia",
+      "cuidadosMedicos": "Controlar TGO, TGP y CPK",
+      "cuidadosFarmaceuticos": "Evitar zumo de toronja; tomar con alimentos",
+      "cuidadosEnfermagem": "Vigilar síntomas musculares y hepáticos",
+      "fontesBibliograficas": "EMA, Micromedex, AEMPS, PubChem CID: 53232"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "洛伐他汀（Lovastatin）",
+      "suspension": "若有肝病或横纹肌溶解史需停药",
+      "risk": "可能导致肌病、肝毒性，与麻醉药交互",
+      "reintroduction": "术后肝功能与CPK正常后可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "洛伐他汀",
+      "nomeComercial": "Mevacor、洛普妥、Lovastin",
+      "mecanismoAcao": "为HMG-CoA还原酶抑制剂前药；抑制胆固醇合成，提高LDL清除。",
+      "farmacocinetica": "口服生物利用度<5%；CYP3A4代谢；半衰期2–5小时；粪便排泄。",
+      "farmacodinamica": "降低LDL、总胆固醇；轻度升高HDL",
+      "indicacoes": "高胆固醇血症、混合型血脂异常、心血管事件预防",
+      "reacoesAdversas": "肌痛、头痛、胃肠不适、肝酶升高、极少见横纹肌溶解",
+      "riscoGravidez": "X类（禁用）",
+      "riscoLactacao": "禁用于哺乳期",
+      "administracao": "每日一次，晚餐时服用",
+      "doseMaxima": "每日80毫克",
+      "doseMinima": "每日10毫克",
+      "classificacao": "他汀类 / HMG-CoA抑制剂",
+      "apresentacao": "片剂：10mg、20mg、40mg",
+      "interacaoMedicamento": "葡萄柚汁、抗真菌药、红霉素、环孢素、贝特类",
+      "posologia": "每日20–80mg，起始20mg晚间服",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "无需特别准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性肝病、妊娠、哺乳期",
+      "cuidadosMedicos": "监测转氨酶、CPK；注意肌肉症状",
+      "cuidadosFarmaceuticos": "指导规律用药，避免葡萄柚摄入",
+      "cuidadosEnfermagem": "注意肌肉酸痛、尿色变化",
+      "fontesBibliograficas": "Micromedex、PubChem CID: 53232、FDA、WHO"
+    }
+  }
+}

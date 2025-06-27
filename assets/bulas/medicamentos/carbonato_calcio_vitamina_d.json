@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Caplacizumabe",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas",
+      "risk": "Risco de sangramento perioperatório por inibição da agregação plaquetária mediada por vWF",
+      "reintroduction": "Reintroduzir após hemostasia completa e avaliação hematológica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Caplacizumabe",
+      "nomeComercial": "Cablivi",
+      "mecanismoAcao": "Fragmento de anticorpo biespecífico que bloqueia a interação entre o fator de von Willebrand (vWF) e as plaquetas",
+      "farmacocinetica": "Início rápido, meia-vida de eliminação ~6 a 7 dias, depuração linfática",
+      "farmacodinamica": "Inibe a formação de agregados plaquetários mediados por vWF, prevenindo microtrombos",
+      "indicacoes": "Púrpura trombocitopênica trombótica adquirida (PTTa)",
+      "reacoesAdversas": "Sangramentos, cefaleia, fadiga, epistaxe, reações no local da injeção",
+      "riscoGravidez": "Categoria não definida; uso apenas se o benefício justificar o risco",
+      "riscoLactacao": "Desconhecido se excretado no leite; evitar ou suspender amamentação",
+      "administracao": "Subcutânea e intravenosa",
+      "doseMaxima": "10 mg/dia",
+      "doseMinima": "10 mg/dia",
+      "classificacao": "Suplemento mineral + vitamina",
+      "apresentacao": "Comprimidos mastigáveis, efervescentes ou cápsulas gelatinosas",
+      "interacaoMedicamento": "Interfere na absorção de tetraciclinas, levotiroxina, bisfosfonatos e ferro",
+      "posologia": "1 a 2 doses diárias conforme concentração, com alimentos",
+      "armazenamento": "Manter em temperatura ambiente, ao abrigo da umidade",
+      "preparo": "Comprimido efervescente deve ser dissolvido completamente em água antes do uso",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Hipercalcemia, hipercalciúria, nefrolitíase cálcica ativa, intoxicação por vitamina D",
+      "cuidadosMedicos": "Monitorar níveis séricos de cálcio e função renal durante o uso prolongado",
+      "cuidadosFarmaceuticos": "Orientar quanto à administração separada de outros fármacos por 2 horas",
+      "cuidadosEnfermagem": "Observar sinais de hipercalcemia (confusão, poliúria, arritmias)",
+      "fontesBibliograficas": "ANVISA, FDA, UpToDate, Micromedex, SBEM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Calcium Carbonate + Vitamin D",
+      "suspension": "Suspend 24 to 48 hours before major abdominal or thoracic surgery",
+      "risk": "Risk of constipation, metabolic alkalosis, hypercalcemia, and drug interaction",
+      "reintroduction": "Reintroduce after gastrointestinal recovery and electrolyte balance"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Calcium carbonate + Cholecalciferol (Vitamin D3)",
+      "nomeComercial": "Caltrate, Citracal + D, Os-Cal, D3 Cal",
+      "mecanismoAcao": "Calcium carbonate provides calcium; vitamin D enhances intestinal absorption",
+      "farmacocinetica": "Calcium absorption is dose-dependent and enhanced by vitamin D; vitamin D is metabolized in liver and kidney",
+      "farmacodinamica": "Supports bone mineralization and prevents hypocalcemia",
+      "indicacoes": "Prevention and treatment of osteoporosis, vitamin D deficiency, hypocalcemia, bone disorders",
+      "reacoesAdversas": "Constipation, gas, nausea, hypercalcemia, hypercalciuria",
+      "riscoGravidez": "Category C (use with caution in high doses)",
+      "riscoLactacao": "Compatible with breastfeeding, monitor neonatal calcium levels",
+      "administracao": "Oral",
+      "doseMaxima": "2000 mg elemental calcium and 4000 IU vitamin D/day",
+      "doseMinima": "500 mg elemental calcium and 400 IU vitamin D/day",
+      "classificacao": "Mineral supplement + vitamin",
+      "apresentacao": "Chewable tablets, effervescent tablets, soft gel capsules",
+      "interacaoMedicamento": "Interferes with absorption of tetracyclines, levothyroxine, bisphosphonates, iron",
+      "posologia": "1–2 daily doses with food",
+      "armazenamento": "Store at room temperature, protect from moisture",
+      "preparo": "Effervescent tablets must be fully dissolved in water before use",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypercalcemia, hypercalciuria, active nephrolithiasis, vitamin D toxicity",
+      "cuidadosMedicos": "Monitor serum calcium and renal function during prolonged use",
+      "cuidadosFarmaceuticos": "Advise separation of administration from other drugs by 2 hours",
+      "cuidadosEnfermagem": "Monitor for hypercalcemia signs (confusion, polyuria, arrhythmias)",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, AACE"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Carbonato de Calcio + Vitamina D",
+      "suspension": "Suspender 24 a 48 horas antes de cirugías mayores",
+      "risk": "Riesgo de estreñimiento, alcalosis, hipercalcemia e interacciones medicamentosas",
+      "reintroduction": "Reintroducir tras recuperación gastrointestinal y equilibrio de electrolitos"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Carbonato de calcio + Colecalciferol (Vitamina D3)",
+      "nomeComercial": "Caltrate, Citracal + D, D3 Cal",
+      "mecanismoAcao": "El calcio es aportado por el carbonato, y la vitamina D mejora su absorción intestinal",
+      "farmacocinetica": "Absorción dependiente de la dosis y facilitada por vitamina D; metabolizada en hígado y riñón",
+      "farmacodinamica": "Favorece la mineralización ósea y previene hipocalcemia",
+      "indicacoes": "Osteoporosis, déficit de vitamina D, hipocalcemia, soporte óseo",
+      "reacoesAdversas": "Estreñimiento, gases, náuseas, hipercalcemia, hipercalciuria",
+      "riscoGravidez": "Categoría C; usar con precaución en altas dosis",
+      "riscoLactacao": "Compatible, controlar niveles de calcio en el lactante",
+      "administracao": "Vía oral",
+      "doseMaxima": "2000 mg de calcio elemental y 4000 UI de vitamina D/día",
+      "doseMinima": "500 mg de calcio y 400 UI de vitamina D/día",
+      "classificacao": "Suplemento mineral + vitamina",
+      "apresentacao": "Tabletas masticables, efervescentes o cápsulas blandas",
+      "interacaoMedicamento": "Interfiere con absorción de tetraciclinas, levotiroxina, bifosfonatos, hierro",
+      "posologia": "1 a 2 tomas diarias con alimentos",
+      "armazenamento": "Temperatura ambiente, protegido de humedad",
+      "preparo": "Disolver completamente la tableta efervescente en agua",
+      "solucoesCompatíveis": "No aplicable",
+      "contraindicacoes": "Hipercalcemia, hipercalciuria, litiasis renal activa, intoxicación por vitamina D",
+      "cuidadosMedicos": "Control de calcemia y función renal en uso prolongado",
+      "cuidadosFarmaceuticos": "Aconsejar separación de otros fármacos (mínimo 2 horas)",
+      "cuidadosEnfermagem": "Observar signos de hipercalcemia",
+      "fontesBibliograficas": "FDA, EMA, AEMPS, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "碳酸钙 + 维生素D",
+      "suspension": "重大手术前24至48小时停药",
+      "risk": "便秘、代谢性碱中毒、高钙血症及药物吸收干扰风险",
+      "reintroduction": "术后胃肠功能恢复、电解质稳定后重新服用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "碳酸钙 + 胆钙化醇（维生素D3）",
+      "nomeComercial": "钙尔奇D, Caltrate, D3 Cal",
+      "mecanismoAcao": "钙通过碳酸钙提供，维生素D增强其肠道吸收",
+      "farmacocinetica": "钙吸收依剂量而定，维生素D在肝肾代谢",
+      "farmacodinamica": "促进骨矿化，预防低钙血症",
+      "indicacoes": "骨质疏松、维生素D缺乏、低钙血症、骨骼支持",
+      "reacoesAdversas": "便秘、腹胀、恶心、高钙血症、高钙尿症",
+      "riscoGravidez": "C类，高剂量使用需谨慎",
+      "riscoLactacao": "哺乳期可用，需监测婴儿血钙",
+      "administracao": "口服",
+      "doseMaxima": "每日2000毫克钙，4000国际单位维生素D",
+      "doseMinima": "每日500毫克钙，400国际单位维生素D",
+      "classificacao": "矿物质补充剂 + 维生素",
+      "apresentacao": "咀嚼片、泡腾片、软胶囊",
+      "interacaoMedicamento": "影响四环素、左甲状腺素、双膦酸盐和铁的吸收",
+      "posologia": "每日1至2次，随餐服用",
+      "armazenamento": "常温保存，防潮",
+      "preparo": "泡腾片需完全溶解后服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "高钙血症、高钙尿症、活动性肾结石、维生素D中毒",
+      "cuidadosMedicos": "长期使用需监测血钙及肾功能",
+      "cuidadosFarmaceuticos": "建议与其他药物间隔2小时服用",
+      "cuidadosEnfermagem": "观察高钙症状（意识混乱、多尿、心律失常）",
+      "fontesBibliograficas": "中国药典, FDA, UpToDate, Micromedex"
+    }
+  }
+}

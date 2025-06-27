@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Linagliptina",
+      "suspension": "Suspender no dia da cirurgia",
+      "risk": "Risco de hipoglicemia quando combinada com outros antidiabéticos; pode ser mantida isoladamente",
+      "reintroduction": "Reintroduzir com alimentação oral restabelecida e monitorização glicêmica"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Linagliptina",
+      "nomeComercial": "Tradjenta, Trayenta, Linaglip",
+      "mecanismoAcao": "Inibe a enzima DPP-4, aumentando os níveis de incretinas ativas",
+      "farmacocinetica": "Boa absorção oral, excreção biliar e fecal predominante",
+      "farmacodinamica": "Aumenta secreção de insulina e reduz glucagon de forma dependente da glicose",
+      "indicacoes": "Diabetes mellitus tipo 2",
+      "reacoesAdversas": "Nasofaringite, tosse, hipoglicemia (com sulfonilureias), pancreatite rara",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Não recomendado, dados limitados",
+      "administracao": "Via oral",
+      "doseMaxima": "5 mg/dia",
+      "doseMinima": "5 mg/dia",
+      "classificacao": "Inibidor da DPP-4",
+      "apresentacao": "Comprimidos 5 mg",
+      "interacaoMedicamento": "Interage com rifampicina, insulina e sulfonilureias",
+      "posologia": "5 mg uma vez ao dia, com ou sem alimentos",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido da umidade",
+      "preparo": "Não requer preparo especial",
+      "solucoesCompatíveis": "Não se aplica",
+      "contraindicacoes": "Hipersensibilidade, diabetes tipo 1, cetoacidose diabética",
+      "cuidadosMedicos": "Monitorar função pancreática em caso de dor abdominal intensa",
+      "cuidadosFarmaceuticos": "Verificar validade e armazenamento adequado",
+      "cuidadosEnfermagem": "Observar sinais de hipoglicemia e pancreatite",
+      "fontesBibliograficas": "ANVISA, FDA, Micromedex, EMA, SBEM"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Linagliptin",
+      "suspension": "Suspend on the day of surgery",
+      "risk": "Risk of hypoglycemia when combined with other agents; safe when used alone",
+      "reintroduction": "Reintroduce with resumed oral intake and glycemic monitoring"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Linagliptin",
+      "nomeComercial": "Tradjenta, Linaglip",
+      "mecanismoAcao": "Inhibits DPP-4 enzyme, increasing active incretin levels",
+      "farmacocinetica": "Well absorbed orally, mainly excreted via bile and feces",
+      "farmacodinamica": "Enhances insulin secretion and suppresses glucagon in glucose-dependent manner",
+      "indicacoes": "Type 2 diabetes mellitus",
+      "reacoesAdversas": "Nasopharyngitis, cough, hypoglycemia (with sulfonylureas), rare pancreatitis",
+      "riscoGravidez": "Category B",
+      "riscoLactacao": "Not recommended; limited data",
+      "administracao": "Oral route",
+      "doseMaxima": "5 mg/day",
+      "doseMinima": "5 mg/day",
+      "classificacao": "DPP-4 inhibitor",
+      "apresentacao": "5 mg tablets",
+      "interacaoMedicamento": "Interacts with rifampin, insulin, sulfonylureas",
+      "posologia": "5 mg once daily with or without food",
+      "armazenamento": "Store at 15–30°C, protect from moisture",
+      "preparo": "No special preparation required",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Hypersensitivity, type 1 diabetes, diabetic ketoacidosis",
+      "cuidadosMedicos": "Monitor for signs of pancreatitis if abdominal pain occurs",
+      "cuidadosFarmaceuticos": "Check expiration and storage conditions",
+      "cuidadosEnfermagem": "Monitor for hypoglycemia and pancreatitis",
+      "fontesBibliograficas": "FDA, EMA, Micromedex, SBEM, ANVISA"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Linagliptina",
+      "suspension": "Suspender el día de la cirugía",
+      "risk": "Riesgo de hipoglucemia si se combina con otros antidiabéticos; segura si se usa sola",
+      "reintroduction": "Reintroducir tras reinicio de alimentación oral y control glucémico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Linagliptina",
+      "nomeComercial": "Tradjenta, Linaglip",
+      "mecanismoAcao": "Inhibe la DPP-4, aumentando las incretinas activas",
+      "farmacocinetica": "Buena absorción oral, excreción biliar y fecal",
+      "farmacodinamica": "Aumenta insulina y reduce glucagón según niveles de glucosa",
+      "indicacoes": "Diabetes tipo 2",
+      "reacoesAdversas": "Nasofaringitis, tos, hipoglucemia (con sulfonilureas), pancreatitis rara",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "No recomendado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "5 mg/día",
+      "doseMinima": "5 mg/día",
+      "classificacao": "Inhibidor de la DPP-4",
+      "apresentacao": "Comprimidos de 5 mg",
+      "interacaoMedicamento": "Interacciones con rifampicina, insulina, sulfonilureas",
+      "posologia": "5 mg una vez al día, con o sin alimentos",
+      "armazenamento": "Temperatura ambiente (15–30°C), protegido de humedad",
+      "preparo": "No requiere preparación",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Hipersensibilidad, diabetes tipo 1, cetoacidosis diabética",
+      "cuidadosMedicos": "Monitorear signos de pancreatitis ante dolor abdominal",
+      "cuidadosFarmaceuticos": "Verificar caducidad y condiciones de almacenamiento",
+      "cuidadosEnfermagem": "Observar hipoglucemia y signos de pancreatitis",
+      "fontesBibliograficas": "EMA, FDA, Micromedex, ANVISA, SBEM"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "利拉列汀",
+      "suspension": "手术当天停药",
+      "risk": "联合其他降糖药可能导致低血糖，单独使用风险低",
+      "reintroduction": "术后恢复进食并监测血糖后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "利拉列汀",
+      "nomeComercial": "Tradjenta, 利纳列汀仿制药",
+      "mecanismoAcao": "抑制DPP-4酶，提高活性胰高血糖素样肽水平",
+      "farmacocinetica": "口服吸收良好，主要通过胆汁和粪便排泄",
+      "farmacodinamica": "促进胰岛素分泌，抑制胰高血糖素，依赖于血糖水平",
+      "indicacoes": "2型糖尿病",
+      "reacoesAdversas": "鼻咽炎、咳嗽、（与磺脲类合用时）低血糖、罕见胰腺炎",
+      "riscoGravidez": "B类",
+      "riscoLactacao": "不推荐用于哺乳期，数据有限",
+      "administracao": "口服",
+      "doseMaxima": "每日5毫克",
+      "doseMinima": "每日5毫克",
+      "classificacao": "DPP-4抑制剂",
+      "apresentacao": "5毫克片剂",
+      "interacaoMedicamento": "与利福平、胰岛素、磺脲类药物相互作用",
+      "posologia": "每日一次，每次5毫克，可随餐或空腹服用",
+      "armazenamento": "15–30°C，避免潮湿",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "过敏、1型糖尿病、糖尿病酮症酸中毒",
+      "cuidadosMedicos": "出现腹痛时监测是否有胰腺炎",
+      "cuidadosFarmaceuticos": "检查有效期与储存条件",
+      "cuidadosEnfermagem": "监测低血糖及胰腺炎症状",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex、EMA、SBEM"
+    }
+  }
+}

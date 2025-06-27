@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Itraconazol",
+      "suspension": "Suspender 48 horas antes da cirurgia de médio ou grande porte",
+      "risk": "Risco de hepatotoxicidade, prolongamento do QT, interação com anestésicos e bloqueadores neuromusculares",
+      "reintroduction": "Reintroduzir após estabilização hepática e eletrolítica, com ECG normal"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Itraconazol",
+      "nomeComercial": "Sporanox, Itraspor",
+      "mecanismoAcao": "Inibe a síntese de ergosterol da membrana fúngica pela inibição da enzima 14α-desmetilase",
+      "farmacocinetica": "Biodisponibilidade oral variável (melhor com alimento); metabolização hepática (CYP3A4); meia-vida 24–42h",
+      "farmacodinamica": "Fungistático ou fungicida dependente da concentração e espécie",
+      "indicacoes": "Histoplasmose, aspergilose, candidíase, onicomicose, paracoccidioidomicose",
+      "reacoesAdversas": "Náusea, dor abdominal, elevação de transaminases, hepatite, edema, cefaleia, QT prolongado",
+      "riscoGravidez": "Categoria C (evitar)",
+      "riscoLactacao": "Evitar",
+      "administracao": "Oral (cápsulas, solução) ou intravenosa",
+      "doseMaxima": "400mg/dia",
+      "doseMinima": "100mg/dia",
+      "classificacao": "Antifúngico triazólico",
+      "apresentacao": "Cápsulas 100mg, solução oral 10mg/mL, frascos EV 200mg",
+      "interacaoMedicamento": "Inibe CYP3A4; interage com benzodiazepínicos, estatinas, antiarrítmicos, ciclosporina",
+      "posologia": "100–400mg/dia dividido; duração variável conforme infecção",
+      "armazenamento": "Cápsulas: temperatura ambiente; solução oral: frasco fechado; EV: refrigerado",
+      "preparo": "IV: diluir em glicose 5% (não usar SF); infundir em 1h",
+      "solucoesCompatíveis": "SG 5%",
+      "contraindicacoes": "IC congestiva, hepatopatia grave, gravidez",
+      "cuidadosMedicos": "Monitorar enzimas hepáticas, ECG, interações medicamentosas",
+      "cuidadosFarmaceuticos": "Orientar ingestão com alimento (cápsula) ou jejum (solução)",
+      "cuidadosEnfermagem": "Observar sinais de hepatotoxicidade, náusea, tontura, edema",
+      "fontesBibliograficas": "Micromedex, FDA, ANVISA, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Itraconazole",
+      "suspension": "Discontinue 48h prior to medium/major surgeries",
+      "risk": "Hepatotoxicity, QT prolongation, interaction with anesthetics and muscle relaxants",
+      "reintroduction": "Restart after liver and electrolyte stabilization with normal ECG"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Itraconazole",
+      "nomeComercial": "Sporanox",
+      "mecanismoAcao": "Inhibits fungal ergosterol synthesis via 14α-demethylase inhibition",
+      "farmacocinetica": "Oral absorption improved with food (capsules); hepatic metabolism (CYP3A4); t½ 24–42h",
+      "farmacodinamica": "Fungistatic/fungicidal depending on dose/species",
+      "indicacoes": "Histoplasmosis, aspergillosis, candidiasis, onychomycosis",
+      "reacoesAdversas": "GI symptoms, elevated LFTs, hepatitis, QT prolongation, headache, edema",
+      "riscoGravidez": "Category C (avoid)",
+      "riscoLactacao": "Avoid",
+      "administracao": "Oral (capsules/solution) or IV",
+      "doseMaxima": "400mg/day",
+      "doseMinima": "100mg/day",
+      "classificacao": "Triazole antifungal",
+      "apresentacao": "Caps 100mg, oral sol 10mg/mL, IV 200mg",
+      "interacaoMedicamento": "CYP3A4 inhibitor; interacts with benzos, statins, antiarrhythmics",
+      "posologia": "100–400mg/day in divided doses",
+      "armazenamento": "Caps/sol: room temp; IV: refrigerate",
+      "preparo": "IV: dilute in D5W, infuse over 1h",
+      "solucoesCompatíveis": "D5W",
+      "contraindicacoes": "CHF, liver failure, pregnancy",
+      "cuidadosMedicos": "Monitor LFTs, ECG, drug interactions",
+      "cuidadosFarmaceuticos": "Take caps with food, sol on empty stomach",
+      "cuidadosEnfermagem": "Watch for liver toxicity, arrhythmias, edema",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Itraconazol",
+      "suspension": "Suspender 48h antes de cirugías mayores",
+      "risk": "Hepatotoxicidad, QT prolongado, interacción con anestésicos",
+      "reintroduction": "Reintroducir tras normalización hepática y ECG estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Itraconazol",
+      "nomeComercial": "Sporanox",
+      "mecanismoAcao": "Inhibe la síntesis de ergosterol fúngico (14α-desmetilasa)",
+      "farmacocinetica": "Absorción variable (mejor con alimento); vida media 24–42h",
+      "farmacodinamica": "Fungistático/fungicida según dosis y patógeno",
+      "indicacoes": "Histoplasmosis, aspergilosis, candidiasis, onicomicosis",
+      "reacoesAdversas": "Náuseas, hepatotoxicidad, edema, QT prolongado",
+      "riscoGravidez": "Categoría C",
+      "riscoLactacao": "Evitar",
+      "administracao": "VO o IV",
+      "doseMaxima": "400mg/día",
+      "doseMinima": "100mg/día",
+      "classificacao": "Antifúngico triazólico",
+      "apresentacao": "Cápsulas 100mg, sol oral 10mg/mL, IV 200mg",
+      "interacaoMedicamento": "Inhibidor de CYP3A4; interacción con estatinas, benzodiacepinas, antiarrítmicos",
+      "posologia": "100–400mg/día según infección",
+      "armazenamento": "VO: temperatura ambiente; IV: refrigerado",
+      "preparo": "Diluir IV en SG5%, infundir en 1h",
+      "solucoesCompatíveis": "SG5%",
+      "contraindicacoes": "IC, hepatopatía severa, embarazo",
+      "cuidadosMedicos": "Control de hepatograma, ECG, interacciones",
+      "cuidadosFarmaceuticos": "Cápsulas con comida; solución en ayunas",
+      "cuidadosEnfermagem": "Observar toxicidad hepática, edema, alteraciones cardíacas",
+      "fontesBibliograficas": "FDA, Micromedex, guías clínicas"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "伊曲康唑",
+      "suspension": "择期手术前48小时停药",
+      "risk": "可能引起肝毒性、QT延长、与麻醉药交互作用",
+      "reintroduction": "术后肝功能和电解质稳定后可重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "伊曲康唑",
+      "nomeComercial": "Sporanox",
+      "mecanismoAcao": "抑制真菌细胞膜中麦角固醇的合成",
+      "farmacocinetica": "生物利用度受食物影响；半衰期24–42小时；肝代谢",
+      "farmacodinamica": "依赖剂量和菌种为抑菌或杀菌",
+      "indicacoes": "组织胞浆菌病、曲霉病、念珠菌病、灰指甲",
+      "reacoesAdversas": "恶心、肝酶升高、QT延长、水肿、头痛",
+      "riscoGravidez": "C类",
+      "riscoLactacao": "哺乳期禁用",
+      "administracao": "口服或静脉",
+      "doseMaxima": "每日400毫克",
+      "doseMinima": "每日100毫克",
+      "classificacao": "三唑类抗真菌药",
+      "apresentacao": "100mg胶囊、口服液10mg/mL、IV注射液200mg",
+      "interacaoMedicamento": "强CYP3A4抑制剂，与地高辛、他汀、苯二氮䓬类合用风险高",
+      "posologia": "每日100–400mg，分次服用",
+      "armazenamento": "胶囊常温，注射液冷藏",
+      "preparo": "IV溶于5%葡萄糖，静滴1小时",
+      "solucoesCompatíveis": "5%葡萄糖",
+      "contraindicacoes": "心衰、肝功能衰竭、妊娠",
+      "cuidadosMedicos": "监测肝功能、ECG、电解质",
+      "cuidadosFarmaceuticos": "告知服药方式：胶囊随餐、口服液空腹",
+      "cuidadosEnfermagem": "观察肝毒性、QT变化、胃肠症状",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}

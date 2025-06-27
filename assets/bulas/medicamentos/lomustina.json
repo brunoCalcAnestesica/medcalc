@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lomustina",
+      "suspension": "Suspender 10 dias antes da cirurgia eletiva",
+      "risk": "Imunossupressão prolongada, risco de infecção, toxicidade pulmonar e hepática, retardo cicatricial",
+      "reintroduction": "Reintroduzir após normalização do hemograma e função hepática, sem infecção ativa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lomustina",
+      "nomeComercial": "CeeNU",
+      "mecanismoAcao": "Agente alquilante lipofílico da classe das nitrosureias, que inibe a replicação do DNA por ligação cruzada",
+      "farmacocinetica": "Absorção oral ~100%; início de ação em 2-4h; meia-vida ~16-48h; atravessa BHE",
+      "farmacodinamica": "Citotóxico para células em divisão; ativo contra tumores do SNC",
+      "indicacoes": "Glioblastoma multiforme, astrocitoma, linfoma cerebral primário, melanoma metastático, carcinoma renal",
+      "reacoesAdversas": "Mielossupressão tardia (4–6 semanas), náuseas, vômitos, pneumonite, fibrose pulmonar, hepatotoxicidade",
+      "riscoGravidez": "Categoria D",
+      "riscoLactacao": "Contraindicado durante a lactação",
+      "administracao": "Via oral",
+      "doseMaxima": "130 mg/m² (dose única a cada 6 semanas)",
+      "doseMinima": "75 mg/m² (em combinação ou ajustes por toxicidade)",
+      "classificacao": "Antineoplásico – agente alquilante (nitrosureia)",
+      "apresentacao": "Cápsulas de 10 mg, 40 mg e 100 mg",
+      "interacaoMedicamento": "Potencializa toxicidade com outros quimioterápicos e radioterapia; evitar uso com álcool",
+      "posologia": "130 mg/m² VO dose única a cada 6 semanas ou 75–100 mg/m² em combinação",
+      "armazenamento": "Temperatura ambiente (15–30°C), proteger da luz",
+      "preparo": "Não requer preparo; cápsulas devem ser ingeridas com água",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, mielodepressão grave, disfunção hepática ou pulmonar severa",
+      "cuidadosMedicos": "Monitorar hemograma, função hepática e respiratória (Rx de tórax)",
+      "cuidadosFarmaceuticos": "Orientar sobre intervalo longo entre doses e toxicidade tardia",
+      "cuidadosEnfermagem": "Observar sinais de aplasia medular, náuseas tardias e dispneia",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, NCCN, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lomustine",
+      "suspension": "Discontinue 10 days before elective surgery",
+      "risk": "Prolonged bone marrow suppression, infection, liver and lung toxicity, delayed healing",
+      "reintroduction": "Restart after hematologic and hepatic recovery with no active infection"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lomustine",
+      "nomeComercial": "CeeNU",
+      "mecanismoAcao": "Lipophilic nitrosourea alkylating agent, cross-links DNA, inhibits replication",
+      "farmacocinetica": "Oral absorption ~100%; onset 2–4h; half-life 16–48h; crosses BBB",
+      "farmacodinamica": "Cytotoxic to dividing cells; effective in CNS malignancies",
+      "indicacoes": "Glioblastoma, astrocytoma, primary CNS lymphoma, metastatic melanoma, renal carcinoma",
+      "reacoesAdversas": "Delayed myelosuppression (4–6 weeks), nausea, vomiting, pneumonitis, pulmonary fibrosis, hepatotoxicity",
+      "riscoGravidez": "Category D",
+      "riscoLactacao": "Contraindicated during breastfeeding",
+      "administracao": "Oral",
+      "doseMaxima": "130 mg/m² (single dose q6 weeks)",
+      "doseMinima": "75 mg/m² (combo therapy)",
+      "classificacao": "Antineoplastic – nitrosourea alkylating agent",
+      "apresentacao": "Capsules: 10 mg, 40 mg, 100 mg",
+      "interacaoMedicamento": "Enhanced toxicity with other chemotherapy and radiation; avoid alcohol",
+      "posologia": "130 mg/m² PO once every 6 weeks or 75–100 mg/m² in combinations",
+      "armazenamento": "Store at 15–30°C, protect from light",
+      "preparo": "No preparation needed; swallow whole",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, severe bone marrow, liver or lung dysfunction",
+      "cuidadosMedicos": "Monitor CBC, liver function, chest X-ray",
+      "cuidadosFarmaceuticos": "Inform long interval use and delayed toxicity risk",
+      "cuidadosEnfermagem": "Observe for late cytopenia, GI symptoms and dyspnea",
+      "fontesBibliograficas": "FDA, NCCN, Micromedex"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lomustina",
+      "suspension": "Suspender 10 días antes de cirugía electiva",
+      "risk": "Supresión medular prolongada, toxicidad pulmonar y hepática, riesgo infeccioso",
+      "reintroduction": "Reintroducir tras recuperación hematológica y sin infección activa"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lomustina",
+      "nomeComercial": "CeeNU",
+      "mecanismoAcao": "Agente alquilante nitrosurea lipofílico que cruza el ADN e inhibe la replicación celular",
+      "farmacocinetica": "Absorción oral completa; inicio 2–4 h; vida media 16–48 h; atraviesa BHE",
+      "farmacodinamica": "Citotóxico para células en división; eficaz en tumores del SNC",
+      "indicacoes": "Glioblastoma, astrocitoma, linfoma cerebral, melanoma metastásico, carcinoma renal",
+      "reacoesAdversas": "Mielosupresión tardía, náuseas, neumonitis, fibrosis pulmonar, hepatotoxicidad",
+      "riscoGravidez": "Categoría D",
+      "riscoLactacao": "Contraindicado durante lactancia",
+      "administracao": "Vía oral",
+      "doseMaxima": "130 mg/m² cada 6 semanas",
+      "doseMinima": "75 mg/m²",
+      "classificacao": "Antineoplásico – agente alquilante nitrosurea",
+      "apresentacao": "Cápsulas: 10 mg, 40 mg, 100 mg",
+      "interacaoMedicamento": "Mayor toxicidad con quimioterapia o radioterapia; evitar alcohol",
+      "posologia": "130 mg/m² cada 6 semanas o 75–100 mg/m² en combinaciones",
+      "armazenamento": "15–30°C, protegido de la luz",
+      "preparo": "No requiere preparación; tomar entero",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, disfunción hepática/pulmonar/mieloide severa",
+      "cuidadosMedicos": "Controlar hemograma, función hepática y Rx tórax",
+      "cuidadosFarmaceuticos": "Indicar toxicidad hematológica retardada",
+      "cuidadosEnfermagem": "Vigilar signos de mielodepresión, toxicidad GI y respiratoria",
+      "fontesBibliograficas": "EMA, FDA, NCCN, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "洛莫司汀",
+      "suspension": "术前10天停药",
+      "risk": "骨髓抑制、肺毒性、肝毒性、感染和术后愈合延迟",
+      "reintroduction": "血象和肝功能恢复、无感染后重新使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "洛莫司汀",
+      "nomeComercial": "CeeNU",
+      "mecanismoAcao": "脂溶性亚硝基脲类烷化剂，可交联DNA抑制其复制",
+      "farmacocinetica": "口服吸收接近100%；起效2–4小时；半衰期16–48小时；可穿透血脑屏障",
+      "farmacodinamica": "对有丝分裂细胞具有强毒性，特别用于中枢神经系统肿瘤",
+      "indicacoes": "胶质母细胞瘤、星形细胞瘤、中枢淋巴瘤、转移性黑色素瘤、肾癌",
+      "reacoesAdversas": "延迟性骨髓抑制、恶心、肺炎、肺纤维化、肝毒性",
+      "riscoGravidez": "D类",
+      "riscoLactacao": "禁用",
+      "administracao": "口服",
+      "doseMaxima": "每6周130 mg/m²",
+      "doseMinima": "75 mg/m²",
+      "classificacao": "抗肿瘤药 – 亚硝基脲类烷化剂",
+      "apresentacao": "胶囊10、40、100 mg",
+      "interacaoMedicamento": "与其他化疗/放疗合用增强毒性，避免饮酒",
+      "posologia": "每6周一次130 mg/m²，或联合治疗75–100 mg/m²",
+      "armazenamento": "15–30°C，避光保存",
+      "preparo": "无需配制，整粒服用",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、严重肝/肺/骨髓功能不全",
+      "cuidadosMedicos": "监测血象、肝功能、肺部（胸片）",
+      "cuidadosFarmaceuticos": "提醒延迟性毒性、剂量间隔长",
+      "cuidadosEnfermagem": "观察贫血、出血、感染、呼吸不适等表现",
+      "fontesBibliograficas": "中国药典, FDA, EMA, NCCN, Micromedex"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Ustequinumabe",
+      "suspension": "Suspender 8 semanas antes de cirurgias eletivas maiores; manter com cautela em procedimentos menores",
+      "risk": "Imunossupressão, maior risco de infecção cirúrgica e retardo na cicatrização; possível reativação de tuberculose ou infecções latentes",
+      "reintroduction": "Reintroduzir após cicatrização adequada da ferida cirúrgica e ausência de infecção ativa, geralmente entre 14 e 30 dias"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ustequinumabe",
+      "nomeComercial": "Stelara",
+      "mecanismoAcao": "Anticorpo monoclonal humano que se liga à subunidade p40 das interleucinas IL-12 e IL-23, bloqueando sua atividade inflamatória",
+      "farmacocinetica": "Biodisponibilidade SC ~57%; meia-vida média de 15 a 45 dias; metabolizado por vias catabólicas proteicas",
+      "farmacodinamica": "Modula a resposta imune Th1 e Th17; reduz inflamação sistêmica crônica",
+      "indicacoes": "Psoríase em placas, artrite psoriásica, Doença de Crohn, retocolite ulcerativa",
+      "reacoesAdversas": "Infecções de vias aéreas superiores, cefaleia, dor nas costas, reações no local da aplicação, reações alérgicas graves (raras)",
+      "riscoGravidez": "Categoria B – usar somente se necessário",
+      "riscoLactacao": "Desconhecido se excretado; uso com cautela",
+      "administracao": "Via subcutânea; dose de indução pode ser IV na Doença de Crohn",
+      "doseMaxima": "90mg SC a cada 8 semanas (Crohn e retocolite)",
+      "doseMinima": "45mg SC a cada 12 semanas (psoríase leve/moderada)",
+      "classificacao": "Imunobiológico – inibidor de IL-12/IL-23",
+      "apresentacao": "Solução injetável em seringa ou caneta de 45mg ou 90mg",
+      "interacaoMedicamento": "Evitar uso concomitante com outros imunobiológicos; monitorar uso com vacinas vivas",
+      "posologia": "Indução: 260–520mg IV; Manutenção: 90mg SC a cada 8 semanas",
+      "armazenamento": "Refrigerado entre 2–8°C; não congelar",
+      "preparo": "Deixar em temperatura ambiente por 30 minutos antes da aplicação; não agitar",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Infecção ativa grave, tuberculose ativa, hipersensibilidade ao fármaco",
+      "cuidadosMedicos": "Testar TB antes do início; monitorar sinais de infecção, exames hepáticos e resposta clínica",
+      "cuidadosFarmaceuticos": "Verificar data de validade, condição de conservação e orientação de administração SC",
+      "cuidadosEnfermagem": "Observar local de aplicação e sintomas infecciosos ou alérgicos",
+      "fontesBibliograficas": "ANVISA, EMA, FDA, Micromedex, UpToDate"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Ustekinumab",
+      "suspension": "Hold 8 weeks before major surgery; may be continued in minor procedures with close monitoring",
+      "risk": "Immunosuppression may delay wound healing and increase infection risk; possible TB reactivation",
+      "reintroduction": "Restart after adequate wound healing and absence of infection, typically 14–30 days post-op"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ustekinumab",
+      "nomeComercial": "Stelara",
+      "mecanismoAcao": "Human monoclonal antibody targeting the p40 subunit of IL-12 and IL-23 cytokines",
+      "farmacocinetica": "SC bioavailability ~57%; half-life 15–45 days; proteolytic catabolism",
+      "farmacodinamica": "Suppresses Th1 and Th17 inflammatory pathways; systemic immunomodulation",
+      "indicacoes": "Plaque psoriasis, psoriatic arthritis, Crohn’s disease, ulcerative colitis",
+      "reacoesAdversas": "URTIs, headache, fatigue, injection site reactions, rare hypersensitivity",
+      "riscoGravidez": "Category B – use if benefits outweigh risks",
+      "riscoLactacao": "Unknown; use with caution",
+      "administracao": "SC; IV induction dose in Crohn’s and UC",
+      "doseMaxima": "90mg SC every 8 weeks",
+      "doseMinima": "45mg SC every 12 weeks",
+      "classificacao": "Biologic – IL-12/23 inhibitor",
+      "apresentacao": "Prefilled syringe or pen 45mg or 90mg",
+      "interacaoMedicamento": "Avoid with live vaccines and other immunosuppressants",
+      "posologia": "Induction: 260–520mg IV; Maintenance: 90mg SC q8w",
+      "armazenamento": "Refrigerate at 2–8°C; do not freeze",
+      "preparo": "Bring to room temperature for 30 minutes before use; do not shake",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Serious active infections, active TB, hypersensitivity",
+      "cuidadosMedicos": "Screen for TB; monitor liver enzymes and infection signs",
+      "cuidadosFarmaceuticos": "Ensure cold chain, expiration date, proper administration technique",
+      "cuidadosEnfermagem": "Observe site for reactions and systemic infection signs",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate, Prescribing Info"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Ustequinumab",
+      "suspension": "Suspender 8 semanas antes de cirugía mayor; considerar mantener en cirugía menor",
+      "risk": "Mayor riesgo de infección, cicatrización lenta, reactivación de tuberculosis",
+      "reintroduction": "Reanudar tras cicatrización adecuada y sin signos infecciosos, entre 14–30 días postoperatorio"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Ustequinumab",
+      "nomeComercial": "Stelara",
+      "mecanismoAcao": "Anticuerpo monoclonal que bloquea IL-12 e IL-23 mediante unión a la subunidad p40",
+      "farmacocinetica": "Biodisponibilidad SC 57%; vida media 15–45 días; metabolizado proteolíticamente",
+      "farmacodinamica": "Modula vías inflamatorias Th1 y Th17",
+      "indicacoes": "Psoriasis en placas, artritis psoriásica, enfermedad de Crohn, colitis ulcerosa",
+      "reacoesAdversas": "Infecciones respiratorias, cefalea, cansancio, reacciones locales",
+      "riscoGravidez": "Categoría B",
+      "riscoLactacao": "Desconocido; usar con precaución",
+      "administracao": "Subcutánea; dosis de inducción IV en EII",
+      "doseMaxima": "90mg SC cada 8 semanas",
+      "doseMinima": "45mg SC cada 12 semanas",
+      "classificacao": "Biológico – inhibidor IL-12/23",
+      "apresentacao": "Jeringas precargadas de 45mg y 90mg",
+      "interacaoMedicamento": "Evitar con vacunas vivas y otros inmunosupresores",
+      "posologia": "Inducción: 260–520mg IV; Mantenimiento: 90mg SC cada 8 semanas",
+      "armazenamento": "Refrigerado entre 2–8°C; no congelar",
+      "preparo": "Temperar 30 minutos antes de aplicar; no agitar",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Infección activa grave, tuberculosis activa",
+      "cuidadosMedicos": "Evaluar TB antes de iniciar; monitorear signos de infección y función hepática",
+      "cuidadosFarmaceuticos": "Revisar cadena de frío, preparación y aplicación correcta",
+      "cuidadosEnfermagem": "Observar efectos locales y sistémicos",
+      "fontesBibliograficas": "EMA, Micromedex, ficha técnica"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "乌司奴单抗",
+      "suspension": "大手术前建议提前8周停药；小型手术可权衡使用",
+      "risk": "免疫抑制可能导致感染风险增加、伤口愈合延迟、潜伏结核激活",
+      "reintroduction": "术后14–30天，切口愈合良好且无感染征象时可恢复用药"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "乌司奴单抗",
+      "nomeComercial": "Stelara（施太乐）",
+      "mecanismoAcao": "靶向IL-12/IL-23的p40亚基，抑制炎症信号通路",
+      "farmacocinetica": "皮下注射生物利用度57%；半衰期15–45天；蛋白酶代谢",
+      "farmacodinamica": "调节Th1和Th17免疫反应；控制慢性炎症",
+      "indicacoes": "银屑病、银屑病关节炎、克罗恩病、溃疡性结肠炎",
+      "reacoesAdversas": "上呼吸道感染、注射部位反应、头痛、疲劳、过敏反应（罕见）",
+      "riscoGravidez": "B类 – 孕期使用需权衡利弊",
+      "riscoLactacao": "尚不明确；谨慎使用",
+      "administracao": "皮下注射；克罗恩病起始剂量为静脉输注",
+      "doseMaxima": "每8周一次90mg",
+      "doseMinima": "每12周一次45mg",
+      "classificacao": "抗IL-12/23单克隆抗体",
+      "apresentacao": "预充注射器，含量45mg或90mg",
+      "interacaoMedicamento": "避免与活疫苗和其他免疫抑制剂联合使用",
+      "posologia": "诱导期：260–520mg IV；维持期：90mg SC每8周",
+      "armazenamento": "冷藏2–8°C，避免冷冻",
+      "preparo": "注射前常温放置30分钟，不可摇晃",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "活动性感染、活动性肺结核",
+      "cuidadosMedicos": "用药前需进行结核筛查，术后监测感染和肝功能",
+      "cuidadosFarmaceuticos": "确保冷链储存及正确注射方法",
+      "cuidadosEnfermagem": "观察注射部位及全身反应",
+      "fontesBibliograficas": "中国药典、Micromedex、EMA、FDA"
+    }
+  }
+}

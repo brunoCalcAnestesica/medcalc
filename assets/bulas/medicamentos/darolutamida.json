@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Darolutamida",
+      "suspension": "Suspender 7 dias antes de cirurgias eletivas de grande porte ou em casos de risco elevado de sangramento",
+      "risk": "Risco de toxicidade hepática, interação com anticoagulantes e inibidores do CYP3A4; pode afetar recuperação pós-operatória",
+      "reintroduction": "Reintroduzir com cautela após recuperação clínica, função hepática e hematológica estáveis"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Darolutamida",
+      "nomeComercial": "Nubeqa",
+      "mecanismoAcao": "Antagonista do receptor androgênico, impede ligação de andrógenos e translocação nuclear",
+      "farmacocinetica": "Biodisponibilidade oral aumentada com alimentos; meia-vida ~20 h; metabolização hepática (CYP3A4, UGT1A9)",
+      "farmacodinamica": "Inibe crescimento celular induzido por andrógenos em tumores prostáticos",
+      "indicacoes": "Câncer de próstata não metastático resistente à castração (nmCRPC)",
+      "reacoesAdversas": "Fadiga, náusea, dor musculoesquelética, elevação de transaminases, anemia",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Contraindicado",
+      "administracao": "Via oral, com alimentos",
+      "doseMaxima": "1200 mg/dia",
+      "doseMinima": "600 mg/dia",
+      "classificacao": "Antagonista do receptor androgênico não esteroidal",
+      "apresentacao": "Comprimidos de 300 mg",
+      "interacaoMedicamento": "Interage com anticoagulantes, digoxina, rosuvastatina; indutores do CYP3A4 reduzem eficácia",
+      "posologia": "600 mg VO 2x/dia com alimentos",
+      "armazenamento": "Temperatura ambiente, frasco bem fechado",
+      "preparo": "Não aplicável",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, hipersensibilidade, uso concomitante com indutores potentes de CYP3A4",
+      "cuidadosMedicos": "Monitorar função hepática e hemograma regularmente",
+      "cuidadosFarmaceuticos": "Orientar ingestão com alimentos e evitar interações medicamentosas",
+      "cuidadosEnfermagem": "Observar fadiga intensa, icterícia ou dor muscular incomum",
+      "fontesBibliograficas": "ANVISA, FDA, EMA, UpToDate, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Darolutamide",
+      "suspension": "Discontinue 7 days before major elective surgery or if bleeding risk is elevated",
+      "risk": "May cause hepatic toxicity, interact with anticoagulants and CYP3A4 substrates; delays recovery",
+      "reintroduction": "Restart after stabilization of hepatic and hematologic function"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Darolutamide",
+      "nomeComercial": "Nubeqa",
+      "mecanismoAcao": "Androgen receptor antagonist preventing ligand binding and nuclear translocation",
+      "farmacocinetica": "Bioavailability enhanced with food; t½ ~20 h; hepatic metabolism via CYP3A4/UGT1A9",
+      "farmacodinamica": "Inhibits androgen-induced growth of prostate cancer cells",
+      "indicacoes": "Non-metastatic castration-resistant prostate cancer (nmCRPC)",
+      "reacoesAdversas": "Fatigue, nausea, musculoskeletal pain, LFT elevation, anemia",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Contraindicated",
+      "administracao": "Oral, with food",
+      "doseMaxima": "1200 mg/day",
+      "doseMinima": "600 mg/day",
+      "classificacao": "Nonsteroidal androgen receptor inhibitor",
+      "apresentacao": "Tablets 300 mg",
+      "interacaoMedicamento": "Interacts with CYP3A4 inducers, anticoagulants, digoxin, statins",
+      "posologia": "600 mg PO BID with food",
+      "armazenamento": "Room temperature, tightly closed",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, hypersensitivity, potent CYP3A4 inducers",
+      "cuidadosMedicos": "Monitor liver function, CBC",
+      "cuidadosFarmaceuticos": "Counsel on food intake and drug interactions",
+      "cuidadosEnfermagem": "Observe for fatigue, jaundice, muscle pain",
+      "fontesBibliograficas": "FDA, UpToDate, Micromedex, Nubeqa Prescribing Info"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Darolutamida",
+      "suspension": "Suspender 7 días antes de cirugía mayor o con riesgo hemorrágico",
+      "risk": "Riesgo hepático, interacciones con anticoagulantes y CYP3A4; posible retardo en recuperación",
+      "reintroduction": "Reiniciar tras función hepática y hematológica estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Darolutamida",
+      "nomeComercial": "Nubeqa",
+      "mecanismoAcao": "Antagonista del receptor androgénico; impide unión y translocación nuclear",
+      "farmacocinetica": "Mejor absorción con alimentos; t½ ~20 h; metabolismo hepático (CYP3A4)",
+      "farmacodinamica": "Inhibe crecimiento prostático inducido por andrógenos",
+      "indicacoes": "Cáncer de próstata resistente a castración no metastásico",
+      "reacoesAdversas": "Fatiga, náuseas, dolor muscular, elevación de transaminasas, anemia",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "No recomendado",
+      "administracao": "Oral, con alimentos",
+      "doseMaxima": "1200 mg/día",
+      "doseMinima": "600 mg/día",
+      "classificacao": "Inhibidor no esteroideo del receptor androgénico",
+      "apresentacao": "Comprimidos 300 mg",
+      "interacaoMedicamento": "Interacciones con estatinas, anticoagulantes, digoxina, CYP3A4",
+      "posologia": "600 mg VO 2x/día con comida",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, hipersensibilidad, inductores potentes del CYP3A4",
+      "cuidadosMedicos": "Control hepático y hemograma",
+      "cuidadosFarmaceuticos": "Aconsejar sobre interacciones y alimentación",
+      "cuidadosEnfermagem": "Observar fatiga, ictericia, mialgia",
+      "fontesBibliograficas": "EMA, AEMPS, UpToDate, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "达罗鲁胺",
+      "suspension": "择期大型手术或出血风险高者术前7天停药",
+      "risk": "可致肝毒性，与抗凝剂和CYP3A4底物有交互作用，影响术后恢复",
+      "reintroduction": "术后肝功能与血象稳定后再使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "达罗鲁胺",
+      "nomeComercial": "Nubeqa 诺倍康",
+      "mecanismoAcao": "雄激素受体抑制剂，阻断激素结合与转位",
+      "farmacocinetica": "饭后口服吸收佳，半衰期20小时，经肝脏代谢CYP3A4",
+      "farmacodinamica": "抑制前列腺癌细胞增殖",
+      "indicacoes": "非转移性去势抵抗前列腺癌（nmCRPC）",
+      "reacoesAdversas": "乏力、恶心、肌肉痛、肝酶升高、贫血",
+      "riscoGravidez": "X类，禁用",
+      "riscoLactacao": "禁用",
+      "administracao": "口服（随餐）",
+      "doseMaxima": "每日1200毫克",
+      "doseMinima": "每日600毫克",
+      "classificacao": "非类固醇雄激素受体抑制剂",
+      "apresentacao": "300 mg片剂",
+      "interacaoMedicamento": "与抗凝药、他汀、地高辛、CYP3A4诱导剂存在交互作用",
+      "posologia": "每日2次，每次600 mg，随餐服用",
+      "armazenamento": "室温密闭保存",
+      "preparo": "无需特殊准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、过敏、强CYP3A4诱导剂联用",
+      "cuidadosMedicos": "监测肝功能、血象",
+      "cuidadosFarmaceuticos": "强调进食与药物时间、避免相互作用",
+      "cuidadosEnfermagem": "监测疲劳、黄疸、肌肉疼痛等症状",
+      "fontesBibliograficas": "FDA、EMA、中国药典、Micromedex、UpToDate"
+    }
+  }
+}

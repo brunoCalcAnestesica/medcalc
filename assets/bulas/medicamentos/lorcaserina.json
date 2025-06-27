@@ -1,0 +1,138 @@
+{
+  "PT": {
+    "external": {
+      "name": "Lorcaserina",
+      "suspension": "Suspender pelo menos 24h antes da cirurgia eletiva; pode interferir com anestésicos e serotonina",
+      "risk": "Risco de síndrome serotoninérgica, depressão, dor de cabeça, náuseas, hipoglicemia",
+      "reintroduction": "Reintroduzir com liberação médica após estabilização do quadro clínico"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lorcaserina cloridrato",
+      "nomeComercial": "Belviq (retirado do mercado em alguns países)",
+      "mecanismoAcao": "Agonista seletivo do receptor 5-HT2C no hipotálamo, promovendo saciedade",
+      "farmacocinetica": "Meia-vida ~11h; metabolização hepática; excreção renal",
+      "farmacodinamica": "Reduz ingestão calórica por aumento da saciedade",
+      "indicacoes": "Tratamento da obesidade em adultos com IMC ≥30 ou ≥27 com comorbidades (descontinuado nos EUA)",
+      "reacoesAdversas": "Cefaleia, tontura, fadiga, náusea, boca seca, hipoglicemia (em diabéticos), valvulopatia (raro)",
+      "riscoGravidez": "Categoria X – contraindicado",
+      "riscoLactacao": "Desconhecido; não recomendado",
+      "administracao": "Oral",
+      "doseMaxima": "20mg/dia",
+      "doseMinima": "10mg/dia",
+      "classificacao": "Agonista serotoninérgico 5-HT2C",
+      "apresentacao": "Comprimidos de 10mg",
+      "interacaoMedicamento": "Risco aumentado com ISRS, IMAO, triptanos; cuidado com outros serotoninérgicos",
+      "posologia": "10mg 2x/dia com ou sem alimentos",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "Não se aplica",
+      "solucoesCompatíveis": "Não aplicável",
+      "contraindicacoes": "Gravidez, uso concomitante com serotoninérgicos potentes",
+      "cuidadosMedicos": "Monitorar humor, sinais de serotonina excessiva, glicemia em diabéticos",
+      "cuidadosFarmaceuticos": "Orientar sobre riscos de interação e suspensão abrupta",
+      "cuidadosEnfermagem": "Observar sinais neurológicos e gastrointestinais",
+      "fontesBibliograficas": "FDA, EMA, ANVISA, Micromedex"
+    }
+  },
+  "US": {
+    "external": {
+      "name": "Lorcaserin",
+      "suspension": "Discontinue at least 24h before surgery due to potential serotonergic and anesthetic interactions",
+      "risk": "Risk of serotonin syndrome, depression, headache, nausea, hypoglycemia",
+      "reintroduction": "Restart only after medical clearance and clinical stability"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Lorcaserin hydrochloride",
+      "nomeComercial": "Belviq (withdrawn from market in US)",
+      "mecanismoAcao": "Selective 5-HT2C receptor agonist in hypothalamus to promote satiety",
+      "farmacocinetica": "Half-life ~11h; hepatic metabolism; renal excretion",
+      "farmacodinamica": "Reduces caloric intake via increased satiety",
+      "indicacoes": "Obesity (BMI ≥30 or ≥27 with comorbidities) – withdrawn from US market due to cancer risk",
+      "reacoesAdversas": "Headache, dizziness, fatigue, nausea, dry mouth, hypoglycemia (in diabetics), valvulopathy (rare)",
+      "riscoGravidez": "Category X – contraindicated",
+      "riscoLactacao": "Unknown; not recommended",
+      "administracao": "Oral",
+      "doseMaxima": "20mg/day",
+      "doseMinima": "10mg/day",
+      "classificacao": "5-HT2C serotonin receptor agonist",
+      "apresentacao": "10mg tablets",
+      "interacaoMedicamento": "Increased risk with SSRIs, MAOIs, triptans, and other serotonergic agents",
+      "posologia": "10mg twice daily with or without food",
+      "armazenamento": "Room temperature",
+      "preparo": "Not applicable",
+      "solucoesCompatíveis": "Not applicable",
+      "contraindicacoes": "Pregnancy, concurrent use of serotonergic drugs",
+      "cuidadosMedicos": "Monitor for mood changes, serotonin syndrome, and blood glucose in diabetics",
+      "cuidadosFarmaceuticos": "Educate on interaction risks and abrupt discontinuation",
+      "cuidadosEnfermagem": "Observe for neurologic and GI symptoms",
+      "fontesBibliograficas": "FDA, Micromedex, UpToDate"
+    }
+  },
+  "ES": {
+    "external": {
+      "name": "Lorcaserina",
+      "suspension": "Suspender al menos 24h antes de cirugía por riesgo de interacción serotoninérgica y con anestesia",
+      "risk": "Riesgo de síndrome serotoninérgico, depresión, náuseas, hipoglucemia",
+      "reintroduction": "Reiniciar con autorización médica y paciente estable"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Clorhidrato de lorcaserina",
+      "nomeComercial": "Belviq (retirado del mercado en EE.UU.)",
+      "mecanismoAcao": "Agonista selectivo del receptor 5-HT2C en hipotálamo, promueve saciedad",
+      "farmacocinetica": "Vida media ~11h; metabolismo hepático; excreción renal",
+      "farmacodinamica": "Reduce ingesta calórica aumentando sensación de saciedad",
+      "indicacoes": "Obesidad (IMC ≥30 o ≥27 con comorbilidades); suspendido por posible riesgo oncológico",
+      "reacoesAdversas": "Cefalea, mareos, fatiga, náuseas, boca seca, hipoglucemia, valvulopatía (raro)",
+      "riscoGravidez": "Categoría X – contraindicado",
+      "riscoLactacao": "Desconocido; evitar uso",
+      "administracao": "Oral",
+      "doseMaxima": "20mg/día",
+      "doseMinima": "10mg/día",
+      "classificacao": "Agonista serotoninérgico 5-HT2C",
+      "apresentacao": "Comprimidos de 10mg",
+      "interacaoMedicamento": "Riesgo aumentado con ISRS, IMAO, triptanos y otros serotoninérgicos",
+      "posologia": "10mg 2 veces al día con o sin alimentos",
+      "armazenamento": "Temperatura ambiente",
+      "preparo": "No aplica",
+      "solucoesCompatíveis": "No aplica",
+      "contraindicacoes": "Embarazo, uso concomitante de serotoninérgicos",
+      "cuidadosMedicos": "Monitorear estado de ánimo, serotonina y glucemia (diabéticos)",
+      "cuidadosFarmaceuticos": "Educar sobre interacciones y suspensión abrupta",
+      "cuidadosEnfermagem": "Vigilar síntomas neurológicos y gastrointestinales",
+      "fontesBibliograficas": "EMA, FDA, Micromedex"
+    }
+  },
+  "CH": {
+    "external": {
+      "name": "洛卡色林",
+      "suspension": "术前24小时停药，防止与麻醉剂及其他药物发生5-HT协同作用",
+      "risk": "风险包括5-羟色胺综合征、低血糖、恶心、抑郁",
+      "reintroduction": "术后恢复进食并在医生指导下可恢复使用"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "盐酸洛卡色林",
+      "nomeComercial": "Belviq（部分国家已下架）",
+      "mecanismoAcao": "选择性激活下丘脑5-HT2C受体，提高饱腹感",
+      "farmacocinetica": "半衰期约11小时；肝代谢，肾排泄",
+      "farmacodinamica": "通过中枢抑制食欲，降低摄入热量",
+      "indicacoes": "成人肥胖（BMI≥30）或超重（BMI≥27）合并并发症（已退出部分市场）",
+      "reacoesAdversas": "头痛、恶心、头晕、疲劳、低血糖、心瓣膜病（少见）",
+      "riscoGravidez": "X类 – 妊娠期禁用",
+      "riscoLactacao": "不推荐，资料不足",
+      "administracao": "口服",
+      "doseMaxima": "每日20毫克",
+      "doseMinima": "每日10毫克",
+      "classificacao": "5-HT2C型受体激动剂",
+      "apresentacao": "10mg片剂",
+      "interacaoMedicamento": "避免与SSRI、MAOI、曲普坦类或其他5-羟色胺药物同用",
+      "posologia": "每日2次，每次10mg，可随餐或空腹",
+      "armazenamento": "室温干燥保存",
+      "preparo": "无需准备",
+      "solucoesCompatíveis": "不适用",
+      "contraindicacoes": "妊娠、合用5-羟色胺增强剂",
+      "cuidadosMedicos": "监测情绪变化、低血糖、血清素综合征",
+      "cuidadosFarmaceuticos": "教育避免突然停药及药物相互作用",
+      "cuidadosEnfermagem": "关注中枢症状与胃肠副反应",
+      "fontesBibliograficas": "中国药典、FDA、Micromedex"
+    }
+  }
+}
